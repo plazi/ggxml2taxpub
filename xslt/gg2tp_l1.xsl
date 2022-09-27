@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"
-    xmlns:tp="http://www.plazi.org/taxpub">
+    xmlns:tp="http://www.plazi.org/taxpub"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+     exclude-result-prefixes="mods">
     <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
     <xsl:template match="/">
         <xsl:apply-templates select="//treatment"/>
@@ -58,6 +59,8 @@
                 <uri content-type="treatment-bank-uri"><xsl:value-of select="concat('http://treatment.plazi.org/id/', /document/@docId)"/></uri>
                 <article-title><xsl:value-of select="//document/@masterDocTitle"/></article-title>
                 <uri content-type="publication-doi"><xsl:value-of select="//document/@docSource"/></uri>
+                <xsl:apply-templates select="//document/@ID-ISSN"/>
+                <xsl:apply-templates select="/document/mods:mods/mods:relatedItem[@type = 'host']"/>
             </mixed-citation>
         </tp:treatment-meta>
     </xsl:template>
@@ -72,6 +75,16 @@
         <tp:taxon-name>
             <xsl:apply-templates/>
         </tp:taxon-name>
+    </xsl:template>
+    
+    <!-- journal metadata -->
+    
+    <xsl:template match="@ID-ISSN">
+        <issn><xsl:apply-templates select="string(.)"/></issn>
+    </xsl:template>
+    
+    <xsl:template match="mods:relatedItem[@type = 'host']">
+        <source><xsl:apply-templates select="mods:titleInfo/mods:title"/></source>
     </xsl:template>
     
     
