@@ -121,7 +121,7 @@
 
     <xsl:template match="@ID-ISSN">
         <issn>
-            <xsl:value-of select="."/>
+            <xsl:value-of select="string(.)"/>
         </issn>
     </xsl:template>
 
