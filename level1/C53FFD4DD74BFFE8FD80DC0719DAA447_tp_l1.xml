@@ -1,25 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
    <tp:treatment-meta>
+      <kwd-group>
+         <kwd content-type="nominate-taxon">
+            <tp:taxon-name>Diaceratherium aurelianense (Nouel, 1866)</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Diaceratherium asphaltense (Depéret &amp; Douxami, 1902)</tp:taxon-name>
+         </kwd>
+      </kwd-group>
       <mixed-citation>
          <named-content content-type="treatment-title">Diaceratherium aurelianense</named-content>
          <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.4945885</uri>
-         <uri content-type="treatment-bank-uri"
-            >http://treatment.plazi.org/id/C53FFD4DD74BFFE8FD80DC0719DAA447</uri>
-         <article-title>New species, revision, and phylogeny of Ronzotherium Aymard, 1854
-            (Perissodactyla, Rhinocerotidae)</article-title>
-         <uri content-type="publication-doi">http://dx.doi.org/10.5852/ejt.2021.753.1389</uri>
+         <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/C53FFD4DD74BFFE8FD80DC0719DAA447</uri>
+         <article-title>New species, revision, and phylogeny of Ronzotherium Aymard, 1854 (Perissodactyla, Rhinocerotidae)</article-title>
+         <pub-id pub-id-type="doi">https://doi.org/10.5852/ejt.2021.753.1389</pub-id>
+         <issn>2118-9773</issn>
+         <source>European Journal of Taxonomy</source>
       </mixed-citation>
    </tp:treatment-meta>
    <tp:nomenclature>
-      <tp:taxon-name> Diaceratherium aurelianense (Nouel, 1866) </tp:taxon-name>
+      <tp:taxon-name>
+Diaceratherium aurelianense
+(Nouel, 1866)
+</tp:taxon-name>
    </tp:nomenclature>
    <tp:treatment-sec sec-type="materials_examined">
-      <p> FRANCE – Neuville-aux-Bois • 3 scaphoids; MHNB 41.2018.0.282, -.384 and -.866. </p>
       <p>
-         <tp:taxon-name> Diaceratherium asphaltense (Depéret &amp; Douxami, 1902) </tp:taxon-name> (
-         4 specimens ) </p>
-      <p> FRANCE – Pyrimont-Challonges • 1 scaphoid, 1 lunate, 1 magnum; FSL- 2130008 • McIV; FSL-
-         213012 • 1 cuboid; FSL- 213014 • 1 MtIII; FSL- 213016. </p>
+FRANCE
+– 
+Neuville-aux-Bois
+• 3 scaphoids; 
+MHNB
+41.2018.0.282, -.384 and -.866.
+</p>
+      <p>
+         <tp:taxon-name>
+Diaceratherium asphaltense
+(Depéret &amp; Douxami, 1902)
+</tp:taxon-name>
+(
+4 specimens
+)
+</p>
+      <p>
+FRANCE
+– 
+Pyrimont-Challonges
+• 1 scaphoid, 1 lunate, 1 magnum; 
+FSL-
+2130008 • McIV; 
+FSL-
+213012 • 1 cuboid; 
+FSL-
+213014 • 1 MtIII; 
+FSL-
+213016.
+</p>
    </tp:treatment-sec>
 </tp:taxon-treatment>

@@ -1,42 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
    <tp:treatment-meta>
+      <kwd-group>
+         <kwd content-type="nominate-taxon">
+            <tp:taxon-name>Modeeria rotunda ( Quoy &amp; Gaimard, 1827 )</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Dianeae rotunda Quoy &amp; Gaimard, 1827: 181–182</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Modeeria rotunda</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Eudendrium ramosum</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Modeeria rotunda</tp:taxon-name>
+         </kwd>
+      </kwd-group>
       <mixed-citation>
          <named-content content-type="treatment-title">Modeeria rotunda</named-content>
          <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.5088920</uri>
-         <uri content-type="treatment-bank-uri"
-            >http://treatment.plazi.org/id/EB6F5251FFB8FF91ED37F9E7365CF811</uri>
-         <article-title>Hydroids (Cnidaria, Hydrozoa) from the Vema and Valdivia seamounts (SE
-            Atlantic)</article-title>
-         <uri content-type="publication-doi">http://dx.doi.org/10.5852/ejt.2021.758.1425</uri>
+         <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/EB6F5251FFB8FF91ED37F9E7365CF811</uri>
+         <article-title>Hydroids (Cnidaria, Hydrozoa) from the Vema and Valdivia seamounts (SE Atlantic)</article-title>
+         <pub-id pub-id-type="doi">https://doi.org/10.5852/ejt.2021.758.1425</pub-id>
+         <issn>2118-9773</issn>
+         <source>European Journal of Taxonomy</source>
       </mixed-citation>
    </tp:treatment-meta>
    <tp:nomenclature>
-      <tp:taxon-name> Modeeria rotunda ( Quoy &amp; Gaimard, 1827 ) </tp:taxon-name>
+      <tp:taxon-name>
+Modeeria rotunda
+(
+Quoy &amp; Gaimard, 1827
+)
+</tp:taxon-name>
    </tp:nomenclature>
    <tp:treatment-sec sec-type="reference_group">
       <p>
-         <tp:taxon-name> Dianeae rotunda Quoy &amp; Gaimard, 1827: 181–182 </tp:taxon-name> , pl. 6a
-         figs 1–2. </p>
+         <tp:taxon-name>
+Dianeae rotunda
+Quoy &amp; Gaimard, 1827: 181–182
+</tp:taxon-name>
+
+, pl. 6a figs 1–2.
+
+</p>
       <p>
-         <tp:taxon-name> Modeeria rotunda </tp:taxon-name> – Millard 1975: 137–138, fig. 45a. —
-         Ramil &amp; Vervoort 1992: 29–32 , fig. 4a–b. </p>
+         <tp:taxon-name>
+Modeeria rotunda
+</tp:taxon-name>
+– Millard 1975: 137–138, fig. 45a. — 
+
+Ramil &amp; Vervoort 1992: 29–32
+
+, fig. 4a–b.
+
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="materials_examined">
-      <p> Material examined </p>
       <p>
-         <tp:material-citation> SOUTH ATLANTIC OCEAN • 1 colony , growing on <tp:taxon-name>
-               Eudendrium ramosum </tp:taxon-name> , without gonothecae; Vema Seamount , stn Dive 3;
-            71–935 m depth; 31 Jan. 2015 ; SEAFO-2015 leg.; SEAFO-2015-40708 .
-         </tp:material-citation>
+Material examined
+</p>
+      <p>
+         <tp:material-citation>
+SOUTH ATLANTIC OCEAN
+• 
+1 colony
+, growing on 
+<tp:taxon-name>
+Eudendrium ramosum
+</tp:taxon-name>
+, without gonothecae; 
+Vema Seamount
+, stn Dive 3; 
+
+71–935 m
+
+depth; 
+
+31 Jan. 2015
+
+; SEAFO-2015 leg.; 
+SEAFO-2015-40708
+.
+</tp:material-citation>
       </p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="distribution">
-      <p> Distribution </p>
       <p>
-         <tp:taxon-name> Modeeria rotunda </tp:taxon-name> is a cosmopolitan species ( Ramil &amp;
-         Vervoort 1992 ; Vervoort 2006 ). In the Southeast Atlantic, it was reported from Namibia (
-         Gili et al. 1989 ) and also from the east coast of South Africa to Mozambique (Millard
-         1975). Its bathymetric distribution extends from 0.5 to 1575 m (Gil 2017). </p>
+Distribution
+</p>
+      <p>
+         <tp:taxon-name>
+Modeeria rotunda
+</tp:taxon-name>
+is a cosmopolitan species (
+Ramil &amp; Vervoort 1992
+; 
+Vervoort 2006
+). In the Southeast Atlantic, it was reported from 
+Namibia
+(
+
+Gili 
+et al.
+1989
+
+) and also from the east coast of 
+South Africa
+to 
+Mozambique
+(Millard 1975). Its bathymetric distribution extends from 
+0.5 to 1575 m
+(Gil 2017).
+</p>
    </tp:treatment-sec>
 </tp:taxon-treatment>

@@ -1,80 +1,277 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-      <tp:treatment-meta>
-            <mixed-citation>
-                  <named-content content-type="treatment-title">Chilella rugella DeLong &amp;
-                        Freytag 1967</named-content>
-                  <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.4770566</uri>
-                  <uri content-type="treatment-bank-uri"
-                        >http://treatment.plazi.org/id/03DF879C0B42EC47FD82591E925CFC31</uri>
-                  <article-title>Three new genera from South America and some taxonomic changes in
-                        Gyponini (Insecta: Hemiptera: Cicadellidae)</article-title>
-                  <uri content-type="publication-doi"
-                        >http://dx.doi.org/10.5852/ejt.2021.750.1363</uri>
-            </mixed-citation>
-      </tp:treatment-meta>
-      <tp:nomenclature>
-            <tp:taxon-name> Chilella rugella DeLong &amp; Freytag, 1967 </tp:taxon-name>
-      </tp:nomenclature>
-      <tp:treatment-sec sec-type="description">
-            <p> Fig. 8 </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="materials_examined">
-            <p> Material examined </p>
-            <p> Holotype </p>
-            <p>
-                  <tp:material-citation> CHILE • ♀ ; Chile, Sin. Hem. ; 1956; E.C. Reed and C.J.
-                        Drake leg.; USNM . </tp:material-citation>
-            </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="discussion">
-            <p> Remarks </p>
-            <p> The monotypic genus <tp:taxon-name> Chilella </tp:taxon-name> was erected by DeLong
-                  &amp; Freytag (1967) based on a single female specimen of <tp:taxon-name> Chilella
-                        rugella DeLong &amp; Freytag, 1967 </tp:taxon-name> from Chile . According
-                  to the authors, <tp:taxon-name> Chilella </tp:taxon-name> differs from other
-                  genera of <tp:taxon-name>Gyponini</tp:taxon-name> by the following set of
-                  characteristics: (1) crown short and broad; (2) transition crown-face rounded,
-                  without defined margin; (3) ocelli distant from eyes, located on anterior portion
-                  of crown; (4) forewing rugose, corrugated and without an appendix; and (5) foreleg
-                  with metatibia intercalary setae between macrosetae. </p>
-            <p> Our study of the holotype of <tp:taxon-name> Chilella rugella </tp:taxon-name> (
-                  Fig. 8A–E ) indicated that the position of the ocelli, which are located in the
-                  crown-face transition, is incongruent with the diagnoses proposed for
-                        <tp:taxon-name>Gyponini</tp:taxon-name> by DeLong (1942) , Oman (1949) ,
-                  Linnavuori (1959) , Dietrich (2005) , and Krishnankutty et al . (2016) . According
-                  to those authors, the ocelli in <tp:taxon-name>Gyponini</tp:taxon-name> are
-                  located on the crown, away from the anterior margin. Moreover, according to the
-                  key to the tribes of <tp:taxon-name>Iassinae</tp:taxon-name> proposed by
-                  Krishnankutty et al . (2016) , <tp:taxon-name> Chilella rugella </tp:taxon-name>
-                  is classified as <tp:taxon-name>Selenomorphini Evans, 1974</tp:taxon-name> , based
-                  on the following characteristics: (1) head with crown poorly delimited, rounded to
-                  face; (2) hind wing veins R4+5 and M1+2 separated distally, not confluent at apex;
-                  and (3) body pigmentation primarily pale green or stramineous. </p>
-            <p> However, morphological characteristics of <tp:taxon-name> C. rugella
-                  </tp:taxon-name> are not congruent with any genera currently included in
-                        <tp:taxon-name>Selenomorphini</tp:taxon-name> . <tp:taxon-name> Chilella
-                  </tp:taxon-name> differs from <tp:taxon-name> Selenomorphus Evans, 1974
-                  </tp:taxon-name> and <tp:taxon-name> Linnavuoria Dai &amp; Dietrich, 2015
-                  </tp:taxon-name> in having the crown-face transition indistinct, whereas in the
-                  last two genera the crownface transition is distinctly angulated in profile. Also,
-                        <tp:taxon-name> Chilella </tp:taxon-name> differs from <tp:taxon-name>
-                        Pachyopsis Uhler, 1877 </tp:taxon-name> and <tp:taxon-name> Uhleriana
-                        Domahovski, 2019 </tp:taxon-name> in having the metatibiae with intercalary
-                  setae. In addition, it differs from <tp:taxon-name> Parapachyopsis Domahovski,
-                        2019 </tp:taxon-name> in having the head narrower than the pronotum and from
-                        <tp:taxon-name> Scaroidana Osborn, 1938 </tp:taxon-name> by its smaller size
-                  (9.0 mm) and position of the ocelli mesad to the antennal pits ( Fig. 8C ),
-                  whereas in <tp:taxon-name> Scaroidana </tp:taxon-name> they are closer to the eyes
-                  and located above the antennal pits, in ventral view. </p>
-            <p> Unfortunately, the holotype of <tp:taxon-name> C. rugella </tp:taxon-name> lost its
-                  forewings, which could have provided useful information about its relationships
-                  with other genera of <tp:taxon-name>Selenomorphini</tp:taxon-name> . However,
-                  according to DeLong &amp; Freytag (1967) , the forewings are rugose and
-                  corrugated, two features not found in any other genus of the tribe. We propose the
-                  transfer of <tp:taxon-name> Chilella </tp:taxon-name> to
-                        <tp:taxon-name>Selenomorphini</tp:taxon-name> , maintaining it as a valid
-                  genus. However, the discovery of male specimens as well as phylogenetic studies on
-                  the tribe are necessary to confirm our proposal. </p>
-      </tp:treatment-sec>
+   <tp:treatment-meta>
+      <kwd-group>
+         <kwd content-type="nominate-taxon">
+            <tp:taxon-name>Chilella rugella DeLong &amp; Freytag, 1967</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Chilella</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Chilella rugella DeLong &amp; Freytag, 1967</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Chilella</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Gyponini</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Chilella rugella</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Gyponini</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Gyponini</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Iassinae</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Chilella rugella</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Selenomorphini Evans, 1974</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>C. rugella</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Selenomorphini</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Chilella</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Selenomorphus Evans, 1974</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Linnavuoria Dai &amp; Dietrich, 2015</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Chilella</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Pachyopsis Uhler, 1877</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Uhleriana Domahovski, 2019</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Parapachyopsis Domahovski, 2019</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Scaroidana Osborn, 1938</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Scaroidana</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>C. rugella</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Selenomorphini</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Chilella</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Selenomorphini</tp:taxon-name>
+         </kwd>
+      </kwd-group>
+      <mixed-citation>
+         <named-content content-type="treatment-title">Chilella rugella DeLong &amp; Freytag 1967</named-content>
+         <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.4770566</uri>
+         <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/03DF879C0B42EC47FD82591E925CFC31</uri>
+         <article-title>Three new genera from South America and some taxonomic changes in Gyponini (Insecta: Hemiptera: Cicadellidae)</article-title>
+         <pub-id pub-id-type="doi">https://doi.org/10.5852/ejt.2021.750.1363</pub-id>
+         <issn>2118-9773</issn>
+         <source>European Journal of Taxonomy</source>
+      </mixed-citation>
+   </tp:treatment-meta>
+   <tp:nomenclature>
+      <tp:taxon-name>
+Chilella rugella
+DeLong &amp; Freytag, 1967
+</tp:taxon-name>
+   </tp:nomenclature>
+   <tp:treatment-sec sec-type="description">
+      <p>
+Fig. 8
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="materials_examined">
+      <p>
+Material examined
+</p>
+      <p>
+Holotype
+</p>
+      <p>
+         <tp:material-citation>
+CHILE
+• 
+♀
+; Chile, 
+Sin. Hem.
+; 1956; 
+E.C. Reed
+and 
+C.J. Drake
+leg.; 
+USNM
+.
+</tp:material-citation>
+      </p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="discussion">
+      <p>
+Remarks
+</p>
+      <p>
+The monotypic genus 
+<tp:taxon-name>
+Chilella
+</tp:taxon-name>
+was erected by 
+DeLong &amp; Freytag (1967)
+based on a single female specimen of 
+<tp:taxon-name>
+Chilella rugella
+DeLong &amp; Freytag, 1967
+</tp:taxon-name>
+from 
+Chile
+. According to the authors, 
+<tp:taxon-name>
+Chilella
+</tp:taxon-name>
+differs from other genera of 
+<tp:taxon-name>Gyponini</tp:taxon-name>
+by the following set of characteristics: (1) crown short and broad; (2) transition crown-face rounded, without defined margin; (3) ocelli distant from eyes, located on anterior portion of crown; (4) forewing rugose, corrugated and without an appendix; and (5) foreleg with metatibia intercalary setae between macrosetae.
+</p>
+      <p>
+Our study of the 
+holotype
+of 
+<tp:taxon-name>
+Chilella rugella
+</tp:taxon-name>
+(
+Fig. 8A–E
+) indicated that the position of the ocelli, which are located in the crown-face transition, is incongruent with the diagnoses proposed for 
+<tp:taxon-name>Gyponini</tp:taxon-name>
+by 
+DeLong (1942)
+, 
+
+Oman
+(1949)
+
+, 
+Linnavuori (1959)
+, 
+Dietrich (2005)
+, and 
+
+Krishnankutty 
+et al
+. (2016)
+
+. According to those authors, the ocelli in 
+<tp:taxon-name>Gyponini</tp:taxon-name>
+are located on the crown, away from the anterior margin. Moreover, according to the key to the tribes of 
+<tp:taxon-name>Iassinae</tp:taxon-name>
+proposed by 
+
+Krishnankutty 
+et al
+. (2016)
+
+, 
+<tp:taxon-name>
+Chilella rugella
+</tp:taxon-name>
+is classified as 
+<tp:taxon-name>Selenomorphini Evans, 1974</tp:taxon-name>
+, based on the following characteristics: (1) head with crown poorly delimited, rounded to face; (2) hind wing veins R4+5 and M1+2 separated distally, not confluent at apex; and (3) body pigmentation primarily pale green or stramineous.
+</p>
+      <p>
+However, morphological characteristics of 
+<tp:taxon-name>
+C. rugella
+</tp:taxon-name>
+are not congruent with any genera currently included in 
+<tp:taxon-name>Selenomorphini</tp:taxon-name>
+. 
+<tp:taxon-name>
+Chilella
+</tp:taxon-name>
+differs from 
+<tp:taxon-name>
+Selenomorphus
+Evans, 1974
+</tp:taxon-name>
+and 
+<tp:taxon-name>
+Linnavuoria
+Dai &amp; Dietrich, 
+2015
+</tp:taxon-name>
+in having the crown-face transition indistinct, whereas in the last two genera the crownface transition is distinctly angulated in profile. Also, 
+<tp:taxon-name>
+Chilella
+</tp:taxon-name>
+differs from 
+<tp:taxon-name>
+Pachyopsis
+Uhler, 1877
+</tp:taxon-name>
+and 
+<tp:taxon-name>
+Uhleriana
+Domahovski, 
+2019
+</tp:taxon-name>
+in having the metatibiae with intercalary setae. In addition, it differs from 
+<tp:taxon-name>
+Parapachyopsis
+Domahovski, 
+2019
+</tp:taxon-name>
+in having the head narrower than the pronotum and from 
+<tp:taxon-name>
+Scaroidana
+Osborn, 1938
+</tp:taxon-name>
+by its smaller size (9.0 mm) and position of the ocelli mesad to the antennal pits (
+Fig. 8C
+), whereas in 
+<tp:taxon-name>
+Scaroidana
+</tp:taxon-name>
+they are closer to the eyes and located above the antennal pits, in ventral view.
+</p>
+      <p>
+Unfortunately, the 
+holotype
+of 
+<tp:taxon-name>
+C. rugella
+</tp:taxon-name>
+lost its forewings, which could have provided useful information about its relationships with other genera of 
+<tp:taxon-name>Selenomorphini</tp:taxon-name>
+. However, according to 
+DeLong &amp; Freytag (1967)
+, the forewings are rugose and corrugated, two features not found in any other genus of the tribe. We propose the transfer of 
+<tp:taxon-name>
+Chilella
+</tp:taxon-name>
+to 
+<tp:taxon-name>Selenomorphini</tp:taxon-name>
+, maintaining it as a valid genus. However, the discovery of male specimens as well as phylogenetic studies on the tribe are necessary to confirm our proposal.
+</p>
+   </tp:treatment-sec>
 </tp:taxon-treatment>

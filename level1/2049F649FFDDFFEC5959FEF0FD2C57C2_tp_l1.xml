@@ -1,77 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-      <tp:treatment-meta>
-            <mixed-citation>
-                  <named-content content-type="treatment-title">Smicronyx zonatus Haran
-                        2018</named-content>
-                  <uri content-type="zenodo-doi">https://doi.org/10.5852/ejt.2021.735.1239</uri>
-                  <uri content-type="treatment-bank-uri"
-                        >http://treatment.plazi.org/id/2049F649FFDDFFEC5959FEF0FD2C57C2</uri>
-                  <article-title>The Smicronychini of southern Africa (Coleoptera, Curculionidae):
-                        Review of the tribe and description of 12 new species</article-title>
-                  <uri content-type="publication-doi"/>
-            </mixed-citation>
-      </tp:treatment-meta>
-      <tp:nomenclature>
-            <tp:taxon-name> Smicronyx zonatus Haran, 2018 </tp:taxon-name>
-      </tp:nomenclature>
-      <tp:treatment-sec sec-type="description">
-            <p> Figs 2E , 5N; Table 1 </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="reference_group">
-            <p>
-                  <tp:taxon-name> Smicronyx zonatus Haran, 2018: 280 </tp:taxon-name> . </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="diagnosis">
-            <p> Differential diagnosis </p>
-            <p> Of the African <tp:taxon-name>Smicronychini</tp:taxon-name> , <tp:taxon-name> S.
-                        zonatus </tp:taxon-name> can be easily distinguished from other species by
-                  its reddish integument and its white transverse band on the elytra ( Haran, 2018
-                  ). </p>
-            <p> Material examined </p>
-            <p>
-                  <tp:material-citation> REPUBLIC OF SOUTH AFRICA • 1 ♀ ; Mpumalanga Province ,
-                        Kruger National Park , Skukuza Reserve Camp ; 24.59 S , 31.35 E ; 1 Mar.
-                        1995 ; Endrödy-Younga leg.; UV light trap ; SANC </tp:material-citation> •
-                        <tp:material-citation> 1 Ƌ, 1 ♀ ; KwaZulu-Natal , Eshowe ; Jul. 1926 ; R.E.
-                        Turner leg.; BMNH </tp:material-citation> • <tp:material-citation> 1 Ƌ;
-                        Drakensberg , Van Reenen ; 1–22 Jan. 1927 ; R.E. Turner leg.; BMNH
-                  </tp:material-citation> . </p>
-            <p> Other material </p>
-            <p> See Haran (2018) . </p>
-            <p>
-                  <tp:material-citation> ZAMBIA • 1 Ƌ; Liua Plains ; 29 Nov. 2003 ; Deschodt and
-                        Groenewald leg.; at light; SANC </tp:material-citation> . </p>
-            <p> Diagnosis </p>
-            <p> BODY LENGTH. 2.0– 2.5 mm . </p>
-            <p>COLOUR. Body integument reddish, except rostrum, antennae, prothorax, suture of
-                  elytra and tarsi, which are usually black; vestiture of elytra generally
-                  consisting of elliptical, rounded scales or slightly longer than wide, recumbent,
-                  overlapping and almost concealing integument; scales brown with patches of white
-                  and a few black spots along the basal half of interstriae 1–3, and a large
-                  transverse white band between middle of elytra length and apical ¼.</p>
-            <p>HEAD. Rostrum as long as head capsule + prothorax in lateral view, greatly
-                  downcurved</p>
-            <p>PROTHORAX. Wider than long (w/l ratio: 1.08), sides rounded, widest slightly before
-                  middle of length.</p>
-            <p>ELYTRA. Subparallel in basal ½, rounded in apical ½ (w/l ratio: 0.73).</p>
-            <p>LEGS. Femora and tibiae covered with whitish and pale brown semi-erect, elongate
-                  scales; femora greatly clavate, armed with a small but distinct ventral tooth.</p>
-            <p>GENITALIA. Body of penis elongate (w/l ratio: 0.37), 1.5× longer than apodemes,
-                  subparallel, rounded at apex, in lateral view regularly narrowing from base to
-                  apex (Fig. 5N).</p>
-            <p> Life history </p>
-            <p> Recently collected specimens from the Republic of South Africa (Stellenbosch,
-                  Western Cape Province ) were found on a small unidentified
-                        <tp:taxon-name>Orobanchaceae</tp:taxon-name> (near the genus <tp:taxon-name>
-                        Euphrasia Linnaeus, 1753 </tp:taxon-name> ), a hemiparasite of
-                        <tp:taxon-name>Cyperaceae</tp:taxon-name> found at low elevation in wet
-                  areas near ponds ( Fig. 6 I–J). Adults were collected in January–March, May, July
-                  and November. </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="distribution">
-            <p> Distribution </p>
-            <p> Democratic Republic of Congo , Liberia , Republic of South Africa ( KwaZulu-Natal ,
-                  Mpumalanga and Western Cape provinces), Zambia ( Haran 2018 ). </p>
-      </tp:treatment-sec>
+   <tp:treatment-meta>
+      <kwd-group>
+         <kwd content-type="nominate-taxon">
+            <tp:taxon-name>Smicronyx zonatus Haran, 2018</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Smicronyx zonatus Haran, 2018: 280</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Smicronychini</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>S. zonatus</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Orobanchaceae</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Euphrasia Linnaeus, 1753</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Cyperaceae</tp:taxon-name>
+         </kwd>
+      </kwd-group>
+      <mixed-citation>
+         <named-content content-type="treatment-title">Smicronyx zonatus Haran 2018</named-content>
+         <uri content-type="zenodo-doi">https://doi.org/10.5852/ejt.2021.735.1239</uri>
+         <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/2049F649FFDDFFEC5959FEF0FD2C57C2</uri>
+         <article-title>The Smicronychini of southern Africa (Coleoptera, Curculionidae): Review of the tribe and description of 12 new species</article-title>
+         <pub-id pub-id-type="doi">https://doi.org/10.5852/ejt.2021.735.1239</pub-id>
+         <issn>2118-9773</issn>
+         <source>European Journal of Taxonomy</source>
+      </mixed-citation>
+   </tp:treatment-meta>
+   <tp:nomenclature>
+      <tp:taxon-name>
+Smicronyx zonatus
+Haran, 2018
+</tp:taxon-name>
+   </tp:nomenclature>
+   <tp:treatment-sec sec-type="description">
+      <p>
+Figs 2E
+, 5N; 
+Table 1
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="reference_group">
+      <p>
+         <tp:taxon-name>
+Smicronyx zonatus
+Haran, 2018: 280
+</tp:taxon-name>
+
+.
+
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="diagnosis">
+      <p>
+Differential diagnosis
+</p>
+      <p>
+Of the African 
+<tp:taxon-name>Smicronychini</tp:taxon-name>
+, 
+<tp:taxon-name>
+S. zonatus
+</tp:taxon-name>
+can be easily distinguished from other species by its reddish integument and its white transverse band on the elytra (
+Haran, 2018
+).
+</p>
+      <p>
+Material examined
+</p>
+      <p>
+         <tp:material-citation>
+REPUBLIC OF SOUTH AFRICA
+• 
+1 ♀
+; 
+Mpumalanga Province
+, 
+Kruger National Park
+, 
+
+Skukuza Reserve
+Camp
+
+; 
+24.59 S
+, 
+31.35 E
+; 
+
+1 Mar. 1995
+
+; 
+Endrödy-Younga
+leg.; 
+UV light trap
+; 
+SANC
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 Ƌ, 
+1 ♀
+; 
+KwaZulu-Natal
+, 
+Eshowe
+; 
+
+Jul. 1926
+
+; 
+R.E. Turner
+leg.; 
+BMNH
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 Ƌ; 
+Drakensberg
+, 
+
+Van Reenen
+
+; 
+
+1–22 Jan. 1927
+
+; 
+R.E. Turner
+leg.; 
+BMNH
+</tp:material-citation>
+.
+</p>
+      <p>
+Other material
+</p>
+      <p>
+See 
+Haran (2018)
+.
+</p>
+      <p>
+         <tp:material-citation>
+ZAMBIA
+• 1 Ƌ; 
+Liua Plains
+; 
+
+29 Nov. 2003
+
+; 
+Deschodt
+and 
+Groenewald
+leg.; at light; 
+SANC
+</tp:material-citation>
+.
+</p>
+      <p>
+Diagnosis
+</p>
+      <p>
+BODY LENGTH. 2.0– 
+2.5 mm
+.
+</p>
+      <p>COLOUR. Body integument reddish, except rostrum, antennae, prothorax, suture of elytra and tarsi, which are usually black; vestiture of elytra generally consisting of elliptical, rounded scales or slightly longer than wide, recumbent, overlapping and almost concealing integument; scales brown with patches of white and a few black spots along the basal half of interstriae 1–3, and a large transverse white band between middle of elytra length and apical ¼.</p>
+      <p>HEAD. Rostrum as long as head capsule + prothorax in lateral view, greatly downcurved</p>
+      <p>PROTHORAX. Wider than long (w/l ratio: 1.08), sides rounded, widest slightly before middle of length.</p>
+      <p>ELYTRA. Subparallel in basal ½, rounded in apical ½ (w/l ratio: 0.73).</p>
+      <p>LEGS. Femora and tibiae covered with whitish and pale brown semi-erect, elongate scales; femora greatly clavate, armed with a small but distinct ventral tooth.</p>
+      <p>GENITALIA. Body of penis elongate (w/l ratio: 0.37), 1.5× longer than apodemes, subparallel, rounded at apex, in lateral view regularly narrowing from base to apex (Fig. 5N).</p>
+      <p>
+Life history
+</p>
+      <p>
+Recently collected specimens from the 
+Republic of South Africa
+(Stellenbosch, 
+Western Cape Province
+) were found on a small unidentified 
+<tp:taxon-name>Orobanchaceae</tp:taxon-name>
+(near the genus 
+<tp:taxon-name>
+Euphrasia
+Linnaeus, 1753
+</tp:taxon-name>
+), a hemiparasite of 
+<tp:taxon-name>Cyperaceae</tp:taxon-name>
+found at low elevation in wet areas near ponds (
+Fig. 6
+I–J). Adults were collected in January–March, May, July and November.
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="distribution">
+      <p>
+Distribution
+</p>
+      <p>
+Democratic Republic of Congo
+, 
+Liberia
+, 
+Republic of South Africa
+(
+KwaZulu-Natal
+, 
+Mpumalanga
+and 
+Western Cape
+provinces), 
+Zambia
+(
+Haran 2018
+).
+</p>
+   </tp:treatment-sec>
 </tp:taxon-treatment>

@@ -1,79 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-      <tp:treatment-meta>
-            <mixed-citation>
-                  <named-content content-type="treatment-title">Echinoderes lanceolatus Chang &amp;
-                        Song 2002</named-content>
-                  <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.4420021</uri>
-                  <uri content-type="treatment-bank-uri"
-                        >http://treatment.plazi.org/id/03C79270FF9A572BB14DFBC61941FE26</uri>
-                  <article-title>Description, redescription and revision of sixteen putatively
-                        closely related species of Echinoderes (Kinorhyncha: Cyclorhagida), with the
-                        proposition of a new species group - the Echinoderes dujardinii
-                        group</article-title>
-                  <uri content-type="publication-doi"/>
-            </mixed-citation>
-      </tp:treatment-meta>
-      <tp:nomenclature>
-            <tp:taxon-name> Echinoderes lanceolatus Chang &amp; Song, 2002 </tp:taxon-name>
-      </tp:nomenclature>
-      <tp:treatment-sec sec-type="description">
-            <p> Fig. 18 </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="materials_examined">
-            <p> Material examined </p>
-            <p> Holotype </p>
-            <p>
-                  <tp:material-citation> REPUBLIC OF KOREA • ♀ ; Jeju Island , Boemseom Islet ;
-                        33°11′53″ N , 126°30′58″ E ; 25 m b.s.l. ; 3 Mar. 2000 ; J. Lee and Y.H.
-                        Song leg.; muddy sand; EWNHM60268 . Specimen mounted for LM.
-                  </tp:material-citation>
-            </p>
-            <p> Additional material </p>
-            <p> Additional examined material included all specimens listed as “additional material
-                  examined” in Chang &amp; Song (2002: 206) . This material was collected from other
-                  islands in the Korean East Sea, along the south coast of the Korean Peninsula, and
-                  around Jeju Island (see further details in Table 1 and below under description of
-                        <tp:taxon-name> Echinoderes songae Sørensen &amp; Chang </tp:taxon-name> sp.
-                  nov. ). </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="description">
-            <p> Morphological notes on female holotype </p>
-            <p> Specimen with slender middorsal spines on segments 4 to 8, and lateroventral spines
-                  on segments 6 to 9; middorsal spine on segment 6 reaches posterior segment margin,
-                  whereas middorsal spines on segments 7 and 8 reach well beyond their respective
-                  posterior margins ( Fig. 18B ). Tubes present in ventrolateral positions on
-                  segment 2 ( Fig. 18D ) and lateroventral positions on 5, and in midlateral
-                  positions on 10. An incomplete midventral, intracuticular fissure is present on
-                  anterior half of segment 2 ( Fig. 18D ). Complete overview of glandular cell
-                  outlets type 1 distribution could not be obtained, but we see indications of
-                  paradorsal outlets on segment 6. Glandular cell outlets type 2 are not present on
-                  any segment ( Fig. 18E ). Female lateral terminal accessory spines are short, with
-                  stout bases. Female papillae were difficult to examine, but indications of
-                  ventrolateral papillae with a tubular substructure were observed on segment 7 (
-                  Fig. 18C ). All characters that could be observed fit the emended diagnosis of
-                        <tp:taxon-name> E. aureus </tp:taxon-name> , which suggest that
-                        <tp:taxon-name> E. lanceolatus </tp:taxon-name> is a junior synonym of this
-                  species. </p>
-            <p> Morphological notes on additional material </p>
-            <p> All examined paratypes and non-types supposed to represent the morphology of
-                        <tp:taxon-name> E. lanceolatus </tp:taxon-name> were similar, but differed
-                  from the holotype of <tp:taxon-name> E. lanceolatus </tp:taxon-name> . The
-                  specimens have short middorsal spines on segments 4 to 8, and lateroventral spines
-                  on segments 6 to 9; middorsal spines never reach the pectinate fringes of the
-                  posterior margins of their segments – not even middorsal spines on more posterior
-                  segments. Tubes are present in lateroventral positions on segments 2 and 5, and in
-                  laterodorsal positions on 10. Minute glandular cell outlets type 2 are present in
-                  laterodorsal positions on segments 8, but lacking on segment 9. Tergal extensions
-                  of segment 11 are short, pointed and well-spaced, whereas sternal extensions are
-                  short and triangular, but not as pointed as the tergal ones. Seta-like,
-                  ventrolateral tufts of extended fringe tips project from the sternal extensions.
-                  Females have slender lateral terminal accessory spines, and female papillae with
-                  tubular intracuticular substructure in ventrolateral positions on segments 7 and
-                  in ventromedial positions on segment 8. These traits suggest that the specimens
-                  are not conspecific with the holotype of <tp:taxon-name> E. lanceolatus
-                  </tp:taxon-name> , but represent a new species (see following description of
-                        <tp:taxon-name> E. songae Sørensen &amp; Chang </tp:taxon-name> sp. nov. ).
-            </p>
-      </tp:treatment-sec>
+   <tp:treatment-meta>
+      <kwd-group>
+         <kwd content-type="nominate-taxon">
+            <tp:taxon-name>Echinoderes lanceolatus Chang &amp; Song, 2002</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Echinoderes songae Sørensen &amp; Chang</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>E. aureus</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>E. lanceolatus</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>E. lanceolatus</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>E. lanceolatus</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>E. lanceolatus</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>E. songae Sørensen &amp; Chang</tp:taxon-name>
+         </kwd>
+      </kwd-group>
+      <mixed-citation>
+         <named-content content-type="treatment-title">Echinoderes lanceolatus Chang &amp; Song 2002</named-content>
+         <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.4420021</uri>
+         <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/03C79270FF9A572BB14DFBC61941FE26</uri>
+         <article-title>Description, redescription and revision of sixteen putatively closely related species of Echinoderes (Kinorhyncha: Cyclorhagida), with the proposition of a new species group - the Echinoderes dujardinii group</article-title>
+         <pub-id pub-id-type="doi">https://doi.org/10.5852/ejt.2020.730.1197</pub-id>
+         <source>European Journal of Taxonomy</source>
+      </mixed-citation>
+   </tp:treatment-meta>
+   <tp:nomenclature>
+      <tp:taxon-name>
+Echinoderes lanceolatus
+Chang &amp; Song, 2002
+</tp:taxon-name>
+   </tp:nomenclature>
+   <tp:treatment-sec sec-type="description">
+      <p>
+Fig. 18
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="materials_examined">
+      <p>
+Material examined
+</p>
+      <p>
+Holotype
+</p>
+      <p>
+         <tp:material-citation>
+REPUBLIC OF KOREA
+• 
+♀
+; 
+Jeju Island
+, 
+Boemseom Islet
+; 
+33°11′53″ N
+, 
+126°30′58″ E
+; 
+
+25 m
+b.s.l.
+
+; 
+
+3 Mar. 2000
+
+; 
+J. Lee
+and 
+Y.H. Song
+leg.; muddy sand; 
+EWNHM60268
+. Specimen mounted for LM.
+</tp:material-citation>
+      </p>
+      <p>
+Additional material
+</p>
+      <p>
+Additional examined material included all specimens listed as “additional material examined” in 
+Chang &amp; Song (2002: 206)
+. This material was collected from other islands in the Korean East Sea, along the south coast of the Korean Peninsula, and around 
+Jeju
+Island (see further details in 
+Table 1
+and below under description of 
+<tp:taxon-name>
+Echinoderes songae
+Sørensen &amp; Chang
+</tp:taxon-name>
+sp. nov.
+).
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="description">
+      <p>
+
+Morphological notes on female 
+holotype
+</p>
+      <p>
+Specimen with slender middorsal spines on segments 4 to 8, and lateroventral spines on segments 6 to 9; middorsal spine on segment 6 reaches posterior segment margin, whereas middorsal spines on segments 7 and 8 reach well beyond their respective posterior margins (
+Fig. 18B
+). Tubes present in ventrolateral positions on segment 2 (
+Fig. 18D
+) and lateroventral positions on 5, and in midlateral positions on 10. An incomplete midventral, intracuticular fissure is present on anterior half of segment 2 (
+Fig. 18D
+). Complete overview of glandular cell outlets 
+type
+1 distribution could not be obtained, but we see indications of paradorsal outlets on segment 6. Glandular cell outlets 
+type
+2 are not present on any segment (
+Fig. 18E
+). Female lateral terminal accessory spines are short, with stout bases. Female papillae were difficult to examine, but indications of ventrolateral papillae with a tubular substructure were observed on segment 7 (
+Fig. 18C
+). All characters that could be observed fit the emended diagnosis of 
+<tp:taxon-name>
+E. aureus
+</tp:taxon-name>
+, which suggest that 
+<tp:taxon-name>
+E. lanceolatus
+</tp:taxon-name>
+is a junior synonym of this species.
+</p>
+      <p>
+Morphological notes on additional material
+</p>
+      <p>
+All examined 
+paratypes
+and non-types supposed to represent the morphology of 
+<tp:taxon-name>
+E. lanceolatus
+</tp:taxon-name>
+were similar, but differed from the 
+holotype
+of 
+<tp:taxon-name>
+E. lanceolatus
+</tp:taxon-name>
+. The specimens have short middorsal spines on segments 4 to 8, and lateroventral spines on segments 6 to 9; middorsal spines never reach the pectinate fringes of the posterior margins of their segments – not even middorsal spines on more posterior segments. Tubes are present in lateroventral positions on segments 2 and 5, and in laterodorsal positions on 10. Minute glandular cell outlets type 2 are present in laterodorsal positions on segments 8, but lacking on segment 9. Tergal extensions of segment 11 are short, pointed and well-spaced, whereas sternal extensions are short and triangular, but not as pointed as the tergal ones. Seta-like, ventrolateral tufts of extended fringe tips project from the sternal extensions. Females have slender lateral terminal accessory spines, and female papillae with tubular intracuticular substructure in ventrolateral positions on segments 7 and in ventromedial positions on segment 8. These traits suggest that the specimens are not conspecific with the 
+holotype
+of 
+<tp:taxon-name>
+E. lanceolatus
+</tp:taxon-name>
+, but represent a new species (see following description of 
+<tp:taxon-name>
+E. songae
+Sørensen &amp; Chang
+</tp:taxon-name>
+sp. nov.
+).
+</p>
+   </tp:treatment-sec>
 </tp:taxon-treatment>

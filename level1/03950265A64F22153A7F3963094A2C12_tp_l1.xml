@@ -1,30 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
    <tp:treatment-meta>
+      <kwd-group>
+         <kwd content-type="nominate-taxon">
+            <tp:taxon-name>Microplitis deprimator ( Fabricius, 1798 )</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Ichneomon deprimator Fabricius, 1798: 227</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Microgaster ingratus Haliday, 1834: 236</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Microgaster deprimatrix Schulz, 1906: 343</tp:taxon-name>
+         </kwd>
+      </kwd-group>
       <mixed-citation>
-         <named-content content-type="treatment-title">Microplitis deprimator Nixon
-            1968</named-content>
+         <named-content content-type="treatment-title">Microplitis deprimator Nixon 1968</named-content>
          <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.4690230</uri>
-         <uri content-type="treatment-bank-uri"
-            >http://treatment.plazi.org/id/03950265A64F22153A7F3963094A2C12</uri>
-         <article-title>Taxonomic study of the genus Microplitis Förster, 1862 (Hymenoptera,
-            Braconidae, Microgastrinae) from Iran</article-title>
-         <uri content-type="publication-doi">http://dx.doi.org/10.5852/ejt.2021.744.1305</uri>
+         <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/03950265A64F22153A7F3963094A2C12</uri>
+         <article-title>Taxonomic study of the genus Microplitis Förster, 1862 (Hymenoptera, Braconidae, Microgastrinae) from Iran</article-title>
+         <pub-id pub-id-type="doi">https://doi.org/10.5852/ejt.2021.744.1305</pub-id>
+         <issn>2118-9773</issn>
+         <source>European Journal of Taxonomy</source>
       </mixed-citation>
    </tp:treatment-meta>
    <tp:nomenclature>
-      <tp:taxon-name> Microplitis deprimator ( Fabricius, 1798 ) </tp:taxon-name>
+      <tp:taxon-name>
+Microplitis deprimator
+(
+Fabricius, 1798
+)
+</tp:taxon-name>
    </tp:nomenclature>
    <tp:treatment-sec sec-type="reference_group">
       <p>
-         <tp:taxon-name> Ichneomon deprimator Fabricius, 1798: 227 </tp:taxon-name> , pl. 10. </p>
+         <tp:taxon-name>
+Ichneomon deprimator
+Fabricius, 1798: 227
+</tp:taxon-name>
+
+, pl. 10.
+
+</p>
       <p>
-         <tp:taxon-name> Microgaster ingratus Haliday, 1834: 236 </tp:taxon-name> , pl. 20. </p>
+         <tp:taxon-name>
+Microgaster ingratus
+Haliday, 1834: 236
+</tp:taxon-name>
+
+, pl. 20.
+
+</p>
       <p>
-         <tp:taxon-name> Microgaster deprimatrix Schulz, 1906: 343 </tp:taxon-name> . </p>
+         <tp:taxon-name>
+Microgaster deprimatrix
+Schulz, 1906: 343
+</tp:taxon-name>
+
+.
+
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="distribution">
-      <p> Distribution in Iran </p>
-      <p> Iran (no locality cited) ( Nixon 1968 ). </p>
+      <p>
+
+Distribution in 
+Iran
+</p>
+      <p>
+Iran
+(no locality cited) (
+Nixon 1968
+).
+</p>
    </tp:treatment-sec>
 </tp:taxon-treatment>

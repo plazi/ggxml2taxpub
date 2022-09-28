@@ -1,82 +1,408 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
    <tp:treatment-meta>
+      <kwd-group>
+         <kwd content-type="nominate-taxon">
+            <tp:taxon-name>Stenothemus dundai Švihla, 2004</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Stenothemus dundai Švihla, 2004: 199</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Stenothemus</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>dundai</tp:taxon-name>
+         </kwd>
+      </kwd-group>
       <mixed-citation>
-         <named-content content-type="treatment-title">Stenothemus dundai Svihla
-            2004</named-content>
+         <named-content content-type="treatment-title">Stenothemus dundai Svihla 2004</named-content>
          <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.5038601</uri>
-         <uri content-type="treatment-bank-uri"
-            >http://treatment.plazi.org/id/03C7082F3C418F1BFD8AFEC7FBC9F91A</uri>
-         <article-title>Taxonomic revision of the species of Stenothemus from Southwest China
-            (Coleoptera, Cantharidae), with the descriptions of five new species</article-title>
-         <uri content-type="publication-doi">http://dx.doi.org/10.5852/ejt.2021.757.1409</uri>
+         <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/03C7082F3C418F1BFD8AFEC7FBC9F91A</uri>
+         <article-title>Taxonomic revision of the species of Stenothemus from Southwest China (Coleoptera, Cantharidae), with the descriptions of five new species</article-title>
+         <pub-id pub-id-type="doi">https://doi.org/10.5852/ejt.2021.757.1409</pub-id>
+         <issn>2118-9773</issn>
+         <source>European Journal of Taxonomy</source>
       </mixed-citation>
    </tp:treatment-meta>
    <tp:nomenclature>
-      <tp:taxon-name> Stenothemus dundai Švihla, 2004 </tp:taxon-name>
+      <tp:taxon-name>
+Stenothemus dundai
+Švihla, 2004
+</tp:taxon-name>
    </tp:nomenclature>
    <tp:treatment-sec sec-type="description">
-      <p> Figs 1E , 3D , 4D </p>
+      <p>
+Figs 1E
+, 
+3D
+, 
+4D
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="reference_group">
       <p>
-         <tp:taxon-name> Stenothemus dundai Švihla, 2004: 199 </tp:taxon-name> , figs 153‒154, 212.
-      </p>
+         <tp:taxon-name>
+Stenothemus dundai
+Švihla, 2004: 199
+</tp:taxon-name>
+
+, figs 153‒154, 212.
+
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="materials_examined">
-      <p> Material examined </p>
-      <p> Holotype </p>
       <p>
-         <tp:material-citation> CHINA • ♂ ; [p] “CHINA-SICHUAN pr. // KANGDING distr. 16‒19.7. //
-            MUGEZO lake 4500 m // R. DUNDA lgt. 1992”, “HOLOTYPUS // <tp:taxon-name> Stenothemus
-            </tp:taxon-name> // <tp:taxon-name> dundai </tp:taxon-name> sp. n. // V. Švihla det.
-            2003”; NMPC . </tp:material-citation>
+Material examined
+</p>
+      <p>
+Holotype
+</p>
+      <p>
+         <tp:material-citation>
+CHINA
+• 
+♂
+; [p] “CHINA-SICHUAN pr. // KANGDING distr. 16‒19.7. // MUGEZO lake 
+4500 m
+// R. DUNDA lgt. 1992”, “HOLOTYPUS // 
+<tp:taxon-name>
+Stenothemus
+</tp:taxon-name>
+// 
+<tp:taxon-name>
+dundai
+</tp:taxon-name>
+sp. n.
+// 
+V. Švihla
+det. 2003”; 
+NMPC
+.
+</tp:material-citation>
       </p>
-      <p> Additional material </p>
       <p>
-         <tp:material-citation> CHINA ‒ Gansu • 1 ♂ , 2 ♀♀ ; Wenxian , Qiujiaba , Shiyaziliang ;
-            3200‒3400 m a.s.l. ; 30 Jun. 1998 ; J. Yao leg.; IZAS </tp:material-citation> •
-            <tp:material-citation> 1 ♂ ; same collection data as for preceding; J. Chen leg.; IZAS
-         </tp:material-citation> . ‒ <tp:material-citation> Qinghai • 1 ♂ ; Yushu , Gelong ; 3700 m
-            a.s.l. ; 10 Jul. 1964 ; S.Y. Wang leg.; IZAS </tp:material-citation> •
-            <tp:material-citation> 2 ♂♂ ; Yushu , Gelong ; 4200 m a.s.l. ; 13 Jul. 1964 ; S.Y. Wang
-            leg.; IZAS </tp:material-citation> . ‒ <tp:material-citation> Shaanxi • 2 ♀♀ ; Liuba ,
-            Dahongqu ; 2500 m a.s.l. ; 20 Jul. 1998 ; J. Chen leg.; IZAS </tp:material-citation> . ‒
-            <tp:material-citation> Sichuan • 1 ♀ ; N Jiulong ; 3735 m a.s.l. ; 8‒14 Jul. 2001 ; X.D.
-            Yu and H.Z. Zhou leg.; IZAS </tp:material-citation> • <tp:material-citation> 2 ♂♂ , 1 ♀
-            ; N Jiulong , Lengshan Forest ; 3825 m a.s.l. ; 11‒14 Jul. 2001 ; X.D. Yu and H.Z. Zhou
-            leg.; IZAS </tp:material-citation> • <tp:material-citation> 1 ♂ ; same collection data
-            as for preceding; IZAS </tp:material-citation> • <tp:material-citation> 7 ♂♂ ; Luhuo ;
-            11‒20 Aug. 2006 ; F.M. Shi leg.; MHBU </tp:material-citation> • <tp:material-citation> 1
-            ♂ , 1 ♀ ; Jiangyuan , Shuajingsi ; 27‒28 Jul. 2009 ; Z.H. Gao and Y.P. Niu leg.; MHBU
-         </tp:material-citation> • <tp:material-citation> 1 ♂ ; Maerkang-Daoping ; 3230 m a.s.l. ;
-            12 Jul. 1961 ; G.F. Li leg.; IZAS </tp:material-citation> . ‒ <tp:material-citation>
-            Xizang • 1 ♂ ; Zhikang , Qoidȇn ; 4100 m a.s.l. ; 15‒16 Jul. 2008 ; G.D. Ren leg.; MHBU
-         </tp:material-citation> . ‒ <tp:material-citation> Yunnan • 2 ♂♂ ; Xiaozhongdian ; 3800 m
-            a.s.l. ; 1 Aug. 1984 ; S.Y. Wang leg.; IZAS </tp:material-citation> . </p>
+Additional material
+</p>
+      <p>
+         <tp:material-citation>
+CHINA
+‒ 
+
+Gansu
+
+• 
+1 ♂
+, 
+2 ♀♀
+; 
+Wenxian
+, 
+Qiujiaba
+, 
+Shiyaziliang
+; 
+
+3200‒3400 m
+a.s.l.
+
+; 
+
+30 Jun. 1998
+
+; 
+J. Yao
+leg.; 
+IZAS
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♂
+; same collection data as for preceding; 
+J. Chen
+leg.; 
+IZAS
+</tp:material-citation>
+. ‒ 
+<tp:material-citation>
+Qinghai
+
+• 
+1 ♂
+; 
+Yushu
+, 
+Gelong
+; 
+
+3700 m
+a.s.l.
+
+; 
+
+10 Jul. 1964
+
+; 
+S.Y. Wang
+leg.; 
+IZAS
+</tp:material-citation>
+• 
+<tp:material-citation>
+2 ♂♂
+; 
+Yushu
+, 
+Gelong
+; 
+
+4200 m
+a.s.l.
+
+; 
+
+13 Jul. 1964
+
+; 
+S.Y. Wang
+leg.; 
+IZAS
+</tp:material-citation>
+. ‒ 
+<tp:material-citation>
+Shaanxi
+
+• 
+2 ♀♀
+; 
+Liuba
+, 
+Dahongqu
+; 
+
+2500 m
+a.s.l.
+
+; 
+
+20 Jul. 1998
+
+; 
+J. Chen
+leg.; 
+IZAS
+</tp:material-citation>
+. ‒ 
+<tp:material-citation>
+Sichuan
+
+• 
+1 ♀
+; 
+N Jiulong
+; 
+
+3735 m
+a.s.l.
+
+; 
+
+8‒14 Jul. 2001
+
+; 
+X.D. Yu
+and 
+H.Z. Zhou
+leg.; 
+IZAS
+</tp:material-citation>
+• 
+<tp:material-citation>
+2 ♂♂
+, 
+1 ♀
+; 
+N Jiulong
+, 
+Lengshan Forest
+; 
+
+3825 m
+a.s.l.
+
+; 
+
+11‒14 Jul. 2001
+
+; 
+X.D. Yu
+and 
+H.Z. Zhou
+leg.; 
+IZAS
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♂
+; same collection data as for preceding; 
+IZAS
+</tp:material-citation>
+• 
+<tp:material-citation>
+7 ♂♂
+; 
+Luhuo
+; 
+
+11‒20 Aug. 2006
+
+; 
+F.M. Shi
+leg.; 
+MHBU
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♂
+, 
+1 ♀
+; 
+Jiangyuan
+, 
+Shuajingsi
+; 
+
+27‒28 Jul. 2009
+
+; 
+Z.H. Gao
+and 
+Y.P. Niu
+leg.; 
+MHBU
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♂
+; 
+Maerkang-Daoping
+; 
+
+3230 m
+a.s.l.
+
+; 
+
+12 Jul. 1961
+
+; 
+G.F. Li
+leg.; 
+IZAS
+</tp:material-citation>
+. ‒ 
+<tp:material-citation>
+Xizang
+
+• 
+1 ♂
+; 
+Zhikang
+, 
+Qoidȇn
+; 
+
+4100 m
+a.s.l.
+
+; 
+
+15‒16 Jul. 2008
+
+; 
+G.D. Ren
+leg.; 
+MHBU
+</tp:material-citation>
+. ‒ 
+<tp:material-citation>
+Yunnan
+
+• 
+2 ♂♂
+; 
+Xiaozhongdian
+; 
+
+3800 m
+a.s.l.
+
+; 
+
+1 Aug. 1984
+
+; 
+S.Y. Wang
+leg.; 
+IZAS
+</tp:material-citation>
+.
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="description">
-      <p> Descriptive notes </p>
-      <p> Body length (both sexes): 5.5‒7.0 mm; width: 1.1‒1.5 mm . </p>
-      <p> Female </p>
-      <p> ABDOMINAL STERNITE VIII ( Fig. 3D ). Obliquely narrowed posteriorly, lateroapical angles
-         widely triangular, posterior margin nearly straight and feebly emarginate in middle. </p>
-      <p> INTERNAL ORGAN OF REPRODUCTIVE SYSTEM ( Fig. 4D ). Vagina elongate, with median oviduct
-         situated at ventroapical part, vagina abruptly narrowed in apical part and extended into a
-         short duct which diverticulum and spermathecal duct are arising from; diverticulum
-         relatively short, about 0.36 times adult body length, evenly thinned apically, slender
-         tube-shaped and spiral; spermathecal duct slightly long but much shorter than diverticulum;
-         spermatheca slender tube-shaped and spiral, obviously thinner than spermathecal duct and
-         much longer than diverticulum, with basal part extended into a short tube, where accessory
-         gland opens. Accessory gland thin and slightly shorter than spermatheca. </p>
+      <p>
+Descriptive notes
+</p>
+      <p>
+Body length (both sexes): 5.5‒7.0 mm; width: 
+1.1‒1.5 mm
+.
+</p>
+      <p>
+Female
+</p>
+      <p>
+ABDOMINAL STERNITE VIII (
+Fig. 3D
+). Obliquely narrowed posteriorly, lateroapical angles widely triangular, posterior margin nearly straight and feebly emarginate in middle.
+</p>
+      <p>
+INTERNAL ORGAN OF REPRODUCTIVE SYSTEM (
+Fig. 4D
+). Vagina elongate, with median oviduct situated at ventroapical part, vagina abruptly narrowed in apical part and extended into a short duct which diverticulum and spermathecal duct are arising from; diverticulum relatively short, about 0.36 times adult body length, evenly thinned apically, slender tube-shaped and spiral; spermathecal duct slightly long but much shorter than diverticulum; spermatheca slender tube-shaped and spiral, obviously thinner than spermathecal duct and much longer than diverticulum, with basal part extended into a short tube, where accessory gland opens. Accessory gland thin and slightly shorter than spermatheca.
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="distribution">
-      <p> Distribution </p>
-      <p> China ( Gansu , Qinghai , Shaanxi , Sichuan , Yunnan , Xizang ). New records for Qinghai ,
-         Shaanxi , Yunnan . </p>
+      <p>
+Distribution
+</p>
+      <p>
+China
+(
+Gansu
+, 
+Qinghai
+, 
+Shaanxi
+, 
+Sichuan
+, 
+Yunnan
+, 
+Xizang
+). New records for 
+Qinghai
+, 
+Shaanxi
+, 
+Yunnan
+.
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="discussion">
-      <p> Remarks </p>
+      <p>
+Remarks
+</p>
       <p>The female reproductive system is illustrated and described for the first time.</p>
    </tp:treatment-sec>
 </tp:taxon-treatment>

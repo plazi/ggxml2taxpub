@@ -1,87 +1,392 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
    <tp:treatment-meta>
+      <kwd-group>
+         <kwd content-type="nominate-taxon">
+            <tp:taxon-name>Zoosphaerium neptunus (Butler, 1872)</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Sphaerotherium digitale de Saussure &amp; Zehntner, 1897</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Sphaerotherium pygidiale de Saussure &amp; Zehntner, 1902: 42</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Zoosphaerium</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Z. neptunus</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Sphaerotheriida</tp:taxon-name>
+         </kwd>
+      </kwd-group>
       <mixed-citation>
          <named-content content-type="treatment-title">Zoosphaerium neptunus</named-content>
          <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.5076216</uri>
-         <uri content-type="treatment-bank-uri"
-            >http://treatment.plazi.org/id/03BF4B62FF9AE0111C36FA798627FBCB</uri>
-         <article-title>Seven new giant pill-millipede species and numerous new records of the genus
-            Zoosphaerium from Madagascar (Diplopoda, Sphaerotheriida,
-            Arthrosphaeridae)</article-title>
-         <uri content-type="publication-doi">http://dx.doi.org/10.5852/ejt.2021.758.1423</uri>
+         <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/03BF4B62FF9AE0111C36FA798627FBCB</uri>
+         <article-title>Seven new giant pill-millipede species and numerous new records of the genus Zoosphaerium from Madagascar (Diplopoda, Sphaerotheriida, Arthrosphaeridae)</article-title>
+         <pub-id pub-id-type="doi">https://doi.org/10.5852/ejt.2021.758.1423</pub-id>
+         <issn>2118-9773</issn>
+         <source>European Journal of Taxonomy</source>
       </mixed-citation>
    </tp:treatment-meta>
    <tp:nomenclature>
-      <tp:taxon-name> Zoosphaerium neptunus (Butler, 1872) </tp:taxon-name>
+      <tp:taxon-name>
+Zoosphaerium neptunus
+(Butler, 1872)
+</tp:taxon-name>
    </tp:nomenclature>
    <tp:treatment-sec sec-type="reference_group">
       <p>
-         <tp:taxon-name> Sphaerotherium digitale de Saussure &amp; Zehntner, 1897 </tp:taxon-name> :
-         pl. 5 fig. 16. </p>
+         <tp:taxon-name>
+Sphaerotherium digitale
+de 
+Saussure &amp; Zehntner, 1897
+</tp:taxon-name>
+: pl. 5 fig. 16.
+</p>
       <p>
-         <tp:taxon-name> Sphaerotherium pygidiale de Saussure &amp; Zehntner, 1902: 42
-         </tp:taxon-name> . </p>
+         <tp:taxon-name>
+Sphaerotherium pygidiale
+de 
+Saussure &amp; Zehntner, 1902: 42
+</tp:taxon-name>
+
+.
+
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="description">
-      <p> See Wesener &amp; Wägele (2008) for a revision and Wesener (2016) for a complete
-         bibliography. </p>
+      <p>
+See 
+Wesener &amp; Wägele (2008)
+for a revision and 
+Wesener (2016)
+for a complete bibliography.
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="materials_examined">
-      <p> Material examined </p>
       <p>
-         <tp:material-citation> MADAGASCAR – Antsiranana • 3 ♂♂ ; SAVA, Parc National de Marojejy ,
-            6.5 km NW of Manantenina village ; 14°27′21.2″ S , 49°46′29.8″ E ; alt. 780 m ;
-            disturbed lowland humid forest , pitfalls ; 31 May 2016 ; V. Soarimalala leg.; FMNH-INS
-            2858681 </tp:material-citation> •&gt; <tp:material-citation> 30 juvs ; Marojejy ; 14°26′
-            S , 49°45′ E ; alt. 700 m ; 10–17 Nov. 1993 ; NHMD </tp:material-citation> . –
-            <tp:material-citation> Toamasina • 1 ♀ ; Reserve Betampona , Camp Rendrirendry , 34.1 km
-            332° from Toamasina ; 17°55.26″ S , 049°11.59″ E ; alt. 390 m ; general collecting in
-            camp, rainforest ; 28 Nov. 2005 ; Brian L. Fisher et al. leg.; coll. no. BLF 13126;
-            CASENT 9032818 </tp:material-citation> • <tp:material-citation> 1 ♀ ; Reserve Nationale
-            Integrale Betampona , Betampona , 35.1 km NW of Toamasina ; 17°55.05″ S , 49°12.03″ E ;
-            alt. 500 m ; rainforest, general collecting ; 15–17 Dec. 2007 ; Brian L. Fisher et al.
-            leg.; coll. no. BLF 19514; CASENT 9068298 </tp:material-citation> •
-            <tp:material-citation> 1 ♀ ; Region Atsinanana , Reserve Naturelle Integrale , along
-            Piste Principale (PP); 17°54.8′ S , 49°11.6′ E ; alt. 400–500 m ; in relatively intact
-            lowland humid forest , pitfall 2, bucket 6; 10 Nov. 2015 ; Steven M. Goodman leg.;
-            FMNH-INS SMG-19237 </tp:material-citation> • <tp:material-citation> 1 ♀ ; same
-            collection data as for preceding; by hand; coll. no. SMG-19235; FMNH-INS 2858602
-         </tp:material-citation> • <tp:material-citation> 1 ♀ ; same collection data as for
-            preceding; pitfall 3, bucket 5; 11 Nov. 2015 ; coll. no. SMG-19246; FMNH-INS 2858597
-         </tp:material-citation> • <tp:material-citation> 1 ♀ ; same collection data as for
-            preceding; coll. no. SMG-19247; FMNH-INS 2858600 </tp:material-citation> •
-            <tp:material-citation> 1 ♀ ; same collection data as for preceding; pitfall 1; 12 Nov.
-            2015 ; coll. no. SMG-19255; FMNH-INS 2858599 </tp:material-citation> •
-            <tp:material-citation> 1 ♀ ; same collection data as for preceding; pitfall 3; coll. no.
-            SMG-19256; FMNH-INS 2858604 </tp:material-citation> • <tp:material-citation> 1 ♂ ; same
-            collection data as for preceding; pitfall 2; coll. no. SMG-19254; FMNH-INS 2858593
-         </tp:material-citation> • <tp:material-citation> 1 ♂ ; same collection data as for
-            preceding; pitfall 1; 13 Nov. 2015 ; coll. no. SMG-19263; FMNH-INS 2858594
-         </tp:material-citation> • <tp:material-citation> 1 ♂ ; same collection data as for
-            preceding; coll. no. SMG-19264; FMNH-INS 2858591 </tp:material-citation> •
-            <tp:material-citation> 1 ♀ ; same collection data as for preceding; pitfall 3; 15 Nov.
-            2015 ; coll. no. SMG-19271; FMNH-INS 2858603 </tp:material-citation> •
-            <tp:material-citation> 1 ♀ ; Region Atsinanana , Reserve Naturelle Integrale , along
-            Piste Principale (PP) between 1650 and 2550 m ; 17°54.62′ S , 49°11.70′ E ; alt. 460–520
-            m ; in undisturbed lowland humid forest, pitfall 4, bucket 8; 17 Nov. 2015 ; Steven M.
-            Goodman leg.; coll. no. SMG-19289; FMNH-INS 2858598 </tp:material-citation> •
-            <tp:material-citation> 1 ♂ ; same collection data as for preceding; bucket 11; coll. no.
-            SMG-19291; FMNH-INS 2858590 </tp:material-citation> • <tp:material-citation> 1 ♀ ; same
-            collection data as for preceding; pitfall 5, bucket 3; coll. no. SMG-19290; FMNH-INS
-            2858596 </tp:material-citation> • <tp:material-citation> 1 ♂ ; same collection data as
-            for preceding; pitfall 4, bucket 1; 21 Nov. 2015 ; coll. no. SMG-19313; FMNH- INS
-            2858592 </tp:material-citation> . </p>
+Material examined
+</p>
+      <p>
+         <tp:material-citation>
+MADAGASCAR
+– 
+
+Antsiranana
+
+• 
+3 ♂♂
+; SAVA, 
+Parc National de Marojejy
+, 
+
+6.5 km
+NW of Manantenina village
+
+; 
+14°27′21.2″ S
+, 
+49°46′29.8″ E
+; alt. 
+
+780 m
+
+; 
+disturbed lowland humid forest
+, 
+pitfalls
+; 
+
+31 May 2016
+
+; 
+V. Soarimalala
+leg.; 
+FMNH-INS 2858681
+</tp:material-citation>
+•&gt; 
+<tp:material-citation>
+30 juvs
+; 
+Marojejy
+; 
+14°26′ S
+, 
+49°45′ E
+; alt. 
+
+700 m
+
+; 
+
+10–17 Nov. 1993
+
+; 
+NHMD
+</tp:material-citation>
+. – 
+<tp:material-citation>
+Toamasina
+
+• 
+1 ♀
+; 
+Reserve Betampona
+, 
+Camp Rendrirendry
+, 
+
+34.1 km
+332° from Toamasina
+
+; 
+17°55.26″ S
+, 
+049°11.59″ E
+; alt. 
+
+390 m
+
+; 
+general collecting in camp, rainforest
+; 
+
+28 Nov. 2005
+
+; 
+Brian L. Fisher
+et al.
+leg.; coll. no. BLF 13126; 
+CASENT 9032818
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♀
+; 
+Reserve Nationale Integrale Betampona
+, 
+Betampona
+, 
+
+35.1 km
+NW of Toamasina
+
+; 
+17°55.05″ S
+, 
+49°12.03″ E
+; alt. 
+
+500 m
+
+; 
+rainforest, general collecting
+; 
+
+15–17 Dec. 2007
+
+; 
+Brian L. Fisher
+et al.
+leg.; coll. no. BLF 19514; 
+CASENT 9068298
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♀
+; 
+Region Atsinanana
+, 
+Reserve Naturelle Integrale
+, along 
+Piste Principale
+(PP); 
+17°54.8′ S
+, 
+49°11.6′ E
+; alt. 
+
+400–500 m
+
+; 
+in relatively intact lowland humid forest
+, 
+pitfall
+2, bucket 6; 
+
+10 Nov. 2015
+
+; 
+Steven M. Goodman
+leg.; 
+FMNH-INS SMG-19237
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♀
+; same collection data as for preceding; by hand; coll. no. SMG-19235; 
+FMNH-INS 2858602
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♀
+; same collection data as for preceding; 
+pitfall
+3, bucket 5; 
+
+11 Nov. 2015
+
+; coll. no. SMG-19246; 
+FMNH-INS 2858597
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♀
+; same collection data as for preceding; coll. no. SMG-19247; 
+FMNH-INS 2858600
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♀
+; same collection data as for preceding; 
+pitfall
+1; 
+
+12 Nov. 2015
+
+; coll. no. SMG-19255; 
+FMNH-INS 2858599
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♀
+; same collection data as for preceding; 
+pitfall
+3; coll. no. SMG-19256; 
+FMNH-INS 2858604
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♂
+; same collection data as for preceding; 
+pitfall
+2; coll. no. SMG-19254; 
+FMNH-INS 2858593
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♂
+; same collection data as for preceding; 
+pitfall
+1; 
+
+13 Nov. 2015
+
+; coll. no. SMG-19263; 
+FMNH-INS 2858594
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♂
+; same collection data as for preceding; coll. no. SMG-19264; 
+FMNH-INS 2858591
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♀
+; same collection data as for preceding; 
+pitfall
+3; 
+
+15 Nov. 2015
+
+; coll. no. SMG-19271; 
+FMNH-INS 2858603
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♀
+; 
+Region Atsinanana
+, 
+Reserve Naturelle Integrale
+, along 
+Piste Principale
+(PP) between 1650 and 
+
+2550 m
+
+; 
+17°54.62′ S
+, 
+49°11.70′ E
+; alt. 
+
+460–520 m
+
+; in undisturbed lowland humid forest, 
+pitfall
+4, bucket 8; 
+
+17 Nov. 2015
+
+; 
+Steven M. Goodman
+leg.; coll. no. SMG-19289; 
+FMNH-INS 2858598
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♂
+; same collection data as for preceding; bucket 11; coll. no. SMG-19291; 
+FMNH-INS 2858590
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♀
+; same collection data as for preceding; 
+pitfall
+5, bucket 3; coll. no. SMG-19290; 
+FMNH-INS 2858596
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♂
+; same collection data as for preceding; 
+pitfall
+4, bucket 1; 
+
+21 Nov. 2015
+
+; coll. no. SMG-19313; 
+FMNH- INS 2858592
+</tp:material-citation>
+.
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="discussion">
-      <p> Remarks </p>
-      <p> We provide further locality information including the lowland forest of Betampona and
-         lowland forests in Marojejy for this relatively widespread species of <tp:taxon-name>
-            Zoosphaerium </tp:taxon-name> ( Fig. 13A ). The gigantic females of <tp:taxon-name> Z.
-            neptunus </tp:taxon-name> are currently the largest
-            <tp:taxon-name>Sphaerotheriida</tp:taxon-name> known, reaching the size of a tennis ball
-         or small orange when rolled up. The juveniles of this species show swarming behavior around
-         Andasibe ( Wesener &amp; Schütte 2010 ), a so far unique behavior for giant
-         pill-millipedes. </p>
+      <p>
+Remarks
+</p>
+      <p>
+We provide further locality information including the lowland forest of Betampona and lowland forests in Marojejy for this relatively widespread species of 
+<tp:taxon-name>
+Zoosphaerium
+</tp:taxon-name>
+(
+Fig. 13A
+). The gigantic females of 
+<tp:taxon-name>
+Z. neptunus
+</tp:taxon-name>
+are currently the largest 
+<tp:taxon-name>Sphaerotheriida</tp:taxon-name>
+known, reaching the size of a tennis ball or small orange when rolled up. The juveniles of this species show swarming behavior around Andasibe (
+Wesener &amp; Schütte 2010
+), a so far unique behavior for giant pill-millipedes.
+</p>
    </tp:treatment-sec>
 </tp:taxon-treatment>

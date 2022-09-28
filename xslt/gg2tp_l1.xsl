@@ -54,7 +54,7 @@
     <xsl:template name="treatment-metadata">
         <tp:treatment-meta>
             <kwd-group>
-                <xsl:apply-templates select="//treatment/subSubSection[@type = 'nomenclature']//taxonomicName[1]" mode="kwd"/>
+                <xsl:apply-templates select="//treatment//taxonomicName" mode="kwd"/>
             </kwd-group>
             <mixed-citation>
                 <named-content content-type="treatment-title">
@@ -91,10 +91,21 @@
     </xsl:template>
 
     <xsl:template match="taxonomicName" mode="kwd">
-        <kwd content-type="nominate-taxon">
+        <kwd>
+            <xsl:attribute name="content-type">
+                <xsl:choose>
+                    <xsl:when test="ancestor::subSubSection[@type = 'nomenclature']">
+                        <xsl:text>nominate-taxon</xsl:text>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:text>mentioned-taxon</xsl:text>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:attribute>
             <tp:taxon-name>
                 <xsl:apply-templates select="normalize-space(.)"/>
             </tp:taxon-name>
+
         </kwd>
     </xsl:template>
 
