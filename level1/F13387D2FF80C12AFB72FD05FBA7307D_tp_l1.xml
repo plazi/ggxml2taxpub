@@ -1,140 +1,467 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-      <tp:treatment-meta>
-            <mixed-citation>
-                  <named-content content-type="treatment-title">Gnesioceros
-                        sargassicola</named-content>
-                  <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.4562014</uri>
-                  <uri content-type="treatment-bank-uri"
-                        >http://treatment.plazi.org/id/F13387D2FF80C12AFB72FD05FBA7307D</uri>
-                  <article-title>Polycladida (Platyhelminthes, Rhabditophora) from Cape Verde and
-                        related regions of Macaronesia</article-title>
-                  <uri content-type="publication-doi"/>
-            </mixed-citation>
-      </tp:treatment-meta>
-      <tp:nomenclature>
-            <tp:taxon-name> Gnesioceros sargassicola ( Mertens, 1833 ) </tp:taxon-name>
-      </tp:nomenclature>
-      <tp:treatment-sec sec-type="description">
-            <p> Figs 1B , 7L </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="reference_group">
-            <p>
-                  <tp:taxon-name> Planaria sargassicola Mertens, 1833: 13–14 </tp:taxon-name> , pl.
-                  I, figs 4–6. </p>
-            <p>
-                  <tp:taxon-name> Stylochus Mertensi Diesing, 1850: 216 </tp:taxon-name> . </p>
-            <p>
-                  <tp:taxon-name> Stylochus sargassicola </tp:taxon-name> – Ehrenberg 1836: 67 . —
-                  Claparède 1861: 143 . </p>
-            <p>
-                  <tp:taxon-name> Planocera sargassicola </tp:taxon-name> – Örsted 1844: 48 . </p>
-            <p>
-                  <tp:taxon-name> Gnesioceros sargassicola </tp:taxon-name> – Diesing 1862: 571 . </p>
-            <p>
-                  <tp:taxon-name> Gnesioceros Mertensi </tp:taxon-name> – Diesing 1862: 572 . </p>
-            <p>
-                  <tp:taxon-name> Stylochus Mertensi </tp:taxon-name> – Moseley 1877: 23 . </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="materials_examined">
-            <p> Material examined </p>
-            <p>
-                  <tp:material-citation> CANARY ISLANDS – Gran Canaria Island • 1 spec. ; Pasito
-                        Blanco ; 27°44′50.46″ N , 15°37′31.85″ W ( Fig. 1B C1 ); 4 Jan. 2017 ;
-                        Leopoldo Moro leg.; RCCN . – Tenerife Island </tp:material-citation> •
-                        <tp:material-citation> 1 spec. ; 28°24′35.71″ N , 16°18′25.31″ W ( Fig. 1B C
-                        2 ); 7 Jun. 2011 ; Leopoldo Moro leg. RCCN </tp:material-citation> . </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="distribution">
-            <p> Distribution </p>
-            <p> Bermuda Islands ( Hyman 1939 ); Sargasso Sea, Caribbean Sea, Atlantic Ocean ( Faubel
-                  1983 ); Gulf of Mexico ( Hyman 1954 ); Atlantic Ocean ( Moseley 1877 ); Boa Vista
-                  Island, Cape Verde ( Laidlaw 1903 ); Santa Marta, Colombia ( Quiroga 2008 );
-                  Netherlands , Puerto Rico , Florida , USA , Sargasso Sea, Atlantic Ocean ( Marcus
-                  &amp; Marcus 1968 ). </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="description">
-            <p> New records </p>
-            <p> Pasito Blanco, Gran Canaria, and Tenerife, Canary Islands . </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="discussion">
-            <p> Remarks </p>
-            <p>
-                  <tp:taxon-name> Gnesioceros sargassicola </tp:taxon-name> was limited to the
-                  Antilles and the Caribbean Sea until the record of Laidlaw (1903) for the Cape
-                  Verde Islands. The new record of <tp:taxon-name> G. sargassicola </tp:taxon-name>
-                  for the Canary Islands shows a progressive ‘colonisation’ of the Atlantic east
-                  coast. </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="description">
-            <p> Molecular analysis </p>
-            <p>The main purpose of the 28S analysis was to confirm the determinations made from the
-                  morphological study and verify the relationships among similar species.</p>
-            <p> The recovered topology by both trees, Bayesian Inference (BI) as well as Maximum
-                  Likelihood (ML) strongly supports the monophyly of the suborders
-                        <tp:taxon-name>Acotylea</tp:taxon-name> and
-                        <tp:taxon-name>Cotylea</tp:taxon-name> (Fig. 8;
-                        <tp:taxon-name>Acotylea</tp:taxon-name> : BPP (Bayesian </p>
-            <p> posterior probabilities) = 1 and BS (Bootstrap values of ML analysis) = 73,
-                        <tp:taxon-name>Cotylea</tp:taxon-name> : BPP = 0.98, BS = 100). </p>
-            <p> Within <tp:taxon-name>Acotylea</tp:taxon-name> , the monophyly of
-                        <tp:taxon-name>Leptoplanoidea</tp:taxon-name> (BPP = 1, BS = 97) and
-                        <tp:taxon-name>Stylochoidea</tp:taxon-name> (BPP = 1, BS = 73) is well
-                  supported. <tp:taxon-name> Callioplana marginata Stimpson, 1857 </tp:taxon-name>
-                  considered within the superfamily <tp:taxon-name>Stylochoidea</tp:taxon-name>
-                  appears isolated with the highest support (BS = 100). </p>
-            <p> As a sister group of <tp:taxon-name>Leptoplanoidea</tp:taxon-name> , there is a
-                  clade of species: <tp:taxon-name> Ilyella gigas ( Schmarda 1859 ) </tp:taxon-name>
-                  , <tp:taxon-name> Discocelis tigrina ( Blanchard, 1847 ) </tp:taxon-name> ,
-                        <tp:taxon-name> Adenoplana evelinae Marcus, 1950 </tp:taxon-name> ,
-                        <tp:taxon-name> Amemiyaia pacifica Kato, 1944 </tp:taxon-name> and
-                        <tp:taxon-name> Phaenocelis medvedica Marcus, 1952 </tp:taxon-name> showing
-                  low support and not clearly grouped (Fig. 8). </p>
-            <p> The main group of <tp:taxon-name>Leptoplanoidea</tp:taxon-name> encloses the family
-                        <tp:taxon-name>Leptoplanidae</tp:taxon-name> , with the genera
-                        <tp:taxon-name> Leptoplana Ehrenberg, 1831 </tp:taxon-name> and
-                        <tp:taxon-name> Armatoplana Faubel, 1983 </tp:taxon-name> , and the family
-                        <tp:taxon-name>Notoplanidae Marcus &amp; Marcus, 1966</tp:taxon-name> with
-                  the genera <tp:taxon-name> Notoplana Laidlaw, 1903 </tp:taxon-name> and
-                        <tp:taxon-name> Notocomplana Faubel, 1983 </tp:taxon-name> . <tp:taxon-name>
-                        Pseudostylochus Yeri &amp; Kaburaki, 1918 </tp:taxon-name> and
-                        <tp:taxon-name> Koinostylochus Faubel, 1983 </tp:taxon-name> appear together
-                  and belong to the family <tp:taxon-name> Pseudostylochidae Faubel, 1983
-                  </tp:taxon-name> . </p>
-            <p> Within <tp:taxon-name>Stylochoidea</tp:taxon-name> , four main clades are recovered:
-                  family <tp:taxon-name>Stylochidae</tp:taxon-name> with the genera <tp:taxon-name>
-                        Stylochus </tp:taxon-name> , <tp:taxon-name> Imogine Girard, 1853
-                  </tp:taxon-name> and <tp:taxon-name> Paraplanocera Laidlaw, 1903 </tp:taxon-name>
-                  (see the Discussion); family <tp:taxon-name> Latocestidae Laidlaw, 1903
-                  </tp:taxon-name> with <tp:taxon-name> Leptostylochus Bock, 1925 </tp:taxon-name>
-                  and <tp:taxon-name> Latocestus </tp:taxon-name> ; family
-                        <tp:taxon-name>Hoploplanidae</tp:taxon-name> StummerTraunfels, 1933 with
-                        <tp:taxon-name> Hoploplana Laidlaw, 1902 </tp:taxon-name> and finally family
-                        <tp:taxon-name>Planoceridae</tp:taxon-name> with <tp:taxon-name>
-                        Paraplanocera Laidlaw, 1903 </tp:taxon-name> and <tp:taxon-name> Planocera
-                  </tp:taxon-name> . <tp:taxon-name> Callioplana marginata </tp:taxon-name> can be
-                  considered a sister group of <tp:taxon-name>Stylochoidea</tp:taxon-name> . </p>
-            <p> Within the suborder <tp:taxon-name>Cotylea</tp:taxon-name> , the families
-                        <tp:taxon-name> Cestoplanidae Lang, 1884 </tp:taxon-name> ,
-                        <tp:taxon-name>Pericelidae Laidlaw, 1902</tp:taxon-name> and
-                        <tp:taxon-name>Anonymidae</tp:taxon-name> represented by the genera
-                        <tp:taxon-name> Cestoplana Lang, 1884 </tp:taxon-name> (BPP = 1, BS 100),
-                        <tp:taxon-name> Pericelis </tp:taxon-name> (BPP = 1, BS 100) and
-                        <tp:taxon-name> Anonymus </tp:taxon-name> (BPP = 1, BS 100), respectively
-                  are presented as isolated groups. While <tp:taxon-name> Boninia Bock, 1923
-                  </tp:taxon-name> , <tp:taxon-name> Chromyella Correa, 1958 </tp:taxon-name> and
-                        <tp:taxon-name> Theama Marcus, 1949 </tp:taxon-name> form a well-supported
-                  group (BPP = 1, BS = 100), although currently belonging to separate families and
-                  not specifically related to each other. </p>
-            <p> After <tp:taxon-name>Anonymidae</tp:taxon-name> , we find a well-supported branch
-                  (BPP = 0.9, BS = 95) that encompasses the families <tp:taxon-name>
-                        Prosthiostomidae Lang, 1884 </tp:taxon-name> ,
-                        <tp:taxon-name>Euryleptidae</tp:taxon-name> and
-                        <tp:taxon-name>Pseudocerotidae</tp:taxon-name> . This branch is, in turn,
-                  divided into two main branches (both supported by maximum values: BPP = 1, BS =
-                  100) where <tp:taxon-name>Prosthiostomidae</tp:taxon-name> is separated from
-                        <tp:taxon-name>Euryleptidae</tp:taxon-name> and
-                        <tp:taxon-name>Pseudocerotidae</tp:taxon-name> , families with a clear
-                  relation. </p>
-      </tp:treatment-sec>
+   <tp:treatment-meta>
+      <kwd-group>
+         <kwd content-type="nominate-taxon">
+            <tp:taxon-name>Gnesioceros sargassicola ( Mertens, 1833 )</tp:taxon-name>
+         </kwd>
+      </kwd-group>
+      <mixed-citation>
+         <named-content content-type="treatment-title">Gnesioceros sargassicola</named-content>
+         <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.4562014</uri>
+         <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/F13387D2FF80C12AFB72FD05FBA7307D</uri>
+         <article-title>Polycladida (Platyhelminthes, Rhabditophora) from Cape Verde and related regions of Macaronesia</article-title>
+         <pub-id pub-id-type="doi">https://doi.org/10.5852/ejt.2021.736.1249</pub-id>
+         <issn>2118-9773</issn>
+         <source>European Journal of Taxonomy</source>
+      </mixed-citation>
+   </tp:treatment-meta>
+   <tp:nomenclature>
+      <tp:taxon-name>
+Gnesioceros sargassicola
+(
+Mertens, 1833
+)
+</tp:taxon-name>
+   </tp:nomenclature>
+   <tp:treatment-sec sec-type="description">
+      <p>
+Figs 1B
+, 
+7L
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="reference_group">
+      <p>
+         <tp:taxon-name>
+Planaria sargassicola
+Mertens, 1833: 13–14
+</tp:taxon-name>
+
+, pl. I, figs 4–6.
+
+</p>
+      <p>
+         <tp:taxon-name>
+Stylochus Mertensi
+Diesing, 1850: 216
+</tp:taxon-name>
+
+.
+
+</p>
+      <p>
+         <tp:taxon-name>
+Stylochus sargassicola
+</tp:taxon-name>
+– 
+
+Ehrenberg 1836: 67
+
+. — 
+
+Claparède 1861: 143
+
+.
+
+</p>
+      <p>
+         <tp:taxon-name>
+Planocera sargassicola
+</tp:taxon-name>
+– 
+Örsted 1844: 48
+.
+
+</p>
+      <p>
+         <tp:taxon-name>
+Gnesioceros sargassicola
+</tp:taxon-name>
+– 
+
+Diesing 1862: 571
+
+.
+
+</p>
+      <p>
+         <tp:taxon-name>
+Gnesioceros Mertensi
+</tp:taxon-name>
+– 
+
+Diesing 1862: 572
+
+.
+
+</p>
+      <p>
+         <tp:taxon-name>
+Stylochus Mertensi
+</tp:taxon-name>
+– 
+
+Moseley 1877: 23
+
+.
+
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="materials_examined">
+      <p>
+Material examined
+</p>
+      <p>
+         <tp:material-citation>
+CANARY ISLANDS
+– 
+
+Gran Canaria Island
+
+• 
+1 spec.
+; 
+Pasito Blanco
+; 
+27°44′50.46″ N
+, 
+15°37′31.85″ W
+(
+Fig. 1B C1
+); 
+
+4 Jan. 2017
+
+; 
+Leopoldo Moro
+leg.; 
+RCCN
+. – 
+
+Tenerife Island
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 spec.
+; 
+28°24′35.71″ N
+, 
+16°18′25.31″ W
+(
+Fig. 1B C
+2
+); 
+
+7 Jun. 2011
+
+; 
+Leopoldo Moro
+leg. 
+RCCN
+</tp:material-citation>
+.
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="distribution">
+      <p>
+Distribution
+</p>
+      <p>
+Bermuda
+Islands (
+Hyman 1939
+); Sargasso Sea, Caribbean Sea, Atlantic Ocean (
+Faubel 1983
+); Gulf of Mexico (
+Hyman 1954
+); Atlantic Ocean (
+Moseley 1877
+); 
+Boa Vista
+Island, 
+Cape Verde
+(
+Laidlaw 1903
+); Santa Marta, 
+Colombia
+(
+Quiroga 2008
+); 
+Netherlands
+, 
+Puerto Rico
+, 
+Florida
+, 
+USA
+, Sargasso Sea, Atlantic Ocean (
+Marcus &amp; Marcus 1968
+).
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="description">
+      <p>
+New records
+</p>
+      <p>
+Pasito Blanco, Gran Canaria, and Tenerife, 
+Canary Islands
+.
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="discussion">
+      <p>
+Remarks
+</p>
+      <p>
+         <tp:taxon-name>
+Gnesioceros sargassicola
+</tp:taxon-name>
+was limited to the Antilles and the Caribbean Sea until the record of 
+Laidlaw (1903)
+for the 
+Cape Verde
+Islands. The new record of 
+<tp:taxon-name>
+G. sargassicola
+</tp:taxon-name>
+for the Canary Islands shows a progressive ‘colonisation’ of the Atlantic east coast.
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="description">
+      <p>
+Molecular analysis
+</p>
+      <p>The main purpose of the 28S analysis was to confirm the determinations made from the morphological study and verify the relationships among similar species.</p>
+      <p>
+The recovered topology by both trees, Bayesian Inference (BI) as well as Maximum Likelihood (ML) strongly supports the monophyly of the suborders 
+<tp:taxon-name>Acotylea</tp:taxon-name>
+and 
+<tp:taxon-name>Cotylea</tp:taxon-name>
+(Fig. 8; 
+<tp:taxon-name>Acotylea</tp:taxon-name>
+: BPP (Bayesian
+</p>
+      <p>
+posterior probabilities) = 1 and BS (Bootstrap values of ML analysis) = 73, 
+<tp:taxon-name>Cotylea</tp:taxon-name>
+: BPP = 0.98, BS = 100).
+</p>
+      <p>
+Within 
+<tp:taxon-name>Acotylea</tp:taxon-name>
+, the monophyly of 
+<tp:taxon-name>Leptoplanoidea</tp:taxon-name>
+(BPP = 1, BS = 97) and 
+<tp:taxon-name>Stylochoidea</tp:taxon-name>
+(BPP = 1, BS = 73) is well supported. 
+<tp:taxon-name>
+Callioplana marginata
+Stimpson, 1857
+</tp:taxon-name>
+considered within the superfamily 
+<tp:taxon-name>Stylochoidea</tp:taxon-name>
+appears isolated with the highest support (BS = 100).
+</p>
+      <p>
+As a sister group of 
+<tp:taxon-name>Leptoplanoidea</tp:taxon-name>
+, there is a clade of species: 
+<tp:taxon-name>
+Ilyella gigas
+(
+Schmarda 1859
+)
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+Discocelis tigrina
+(
+Blanchard, 1847
+)
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+Adenoplana evelinae
+Marcus, 1950
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+Amemiyaia pacifica
+Kato, 1944
+</tp:taxon-name>
+and 
+<tp:taxon-name>
+Phaenocelis medvedica
+Marcus, 1952
+</tp:taxon-name>
+showing low support and not clearly grouped (Fig. 8).
+</p>
+      <p>
+The main group of 
+<tp:taxon-name>Leptoplanoidea</tp:taxon-name>
+encloses the family 
+<tp:taxon-name>Leptoplanidae</tp:taxon-name>
+, with the genera 
+<tp:taxon-name>
+Leptoplana
+Ehrenberg, 1831
+</tp:taxon-name>
+and 
+<tp:taxon-name>
+Armatoplana
+Faubel, 1983
+</tp:taxon-name>
+, and the family 
+<tp:taxon-name>Notoplanidae Marcus &amp; Marcus, 1966</tp:taxon-name>
+with the genera 
+<tp:taxon-name>
+Notoplana
+Laidlaw, 1903
+</tp:taxon-name>
+and 
+<tp:taxon-name>
+Notocomplana
+Faubel, 1983
+</tp:taxon-name>
+. 
+<tp:taxon-name>
+Pseudostylochus
+Yeri &amp; Kaburaki, 1918
+</tp:taxon-name>
+and 
+<tp:taxon-name>
+Koinostylochus
+Faubel, 1983
+</tp:taxon-name>
+appear together and belong to the family 
+<tp:taxon-name>
+Pseudostylochidae 
+Faubel, 1983
+</tp:taxon-name>
+.
+</p>
+      <p>
+Within 
+<tp:taxon-name>Stylochoidea</tp:taxon-name>
+, four main clades are recovered: family 
+<tp:taxon-name>Stylochidae</tp:taxon-name>
+with the genera 
+<tp:taxon-name>
+Stylochus
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+Imogine
+Girard, 1853
+</tp:taxon-name>
+and 
+<tp:taxon-name>
+Paraplanocera
+Laidlaw, 1903
+</tp:taxon-name>
+(see the Discussion); family 
+<tp:taxon-name>
+Latocestidae 
+Laidlaw, 1903
+</tp:taxon-name>
+with 
+<tp:taxon-name>
+Leptostylochus
+Bock, 1925
+</tp:taxon-name>
+and 
+<tp:taxon-name>
+Latocestus
+</tp:taxon-name>
+; family 
+<tp:taxon-name>Hoploplanidae</tp:taxon-name>
+StummerTraunfels, 1933 with 
+<tp:taxon-name>
+Hoploplana
+Laidlaw, 1902
+</tp:taxon-name>
+and finally family 
+<tp:taxon-name>Planoceridae</tp:taxon-name>
+with 
+<tp:taxon-name>
+Paraplanocera
+Laidlaw, 1903
+</tp:taxon-name>
+and 
+<tp:taxon-name>
+Planocera
+</tp:taxon-name>
+. 
+<tp:taxon-name>
+Callioplana marginata
+</tp:taxon-name>
+can be considered a sister group of 
+<tp:taxon-name>Stylochoidea</tp:taxon-name>
+.
+</p>
+      <p>
+Within the suborder 
+<tp:taxon-name>Cotylea</tp:taxon-name>
+, the families 
+<tp:taxon-name>
+Cestoplanidae 
+Lang, 1884
+</tp:taxon-name>
+, 
+<tp:taxon-name>Pericelidae Laidlaw, 1902</tp:taxon-name>
+and 
+<tp:taxon-name>Anonymidae</tp:taxon-name>
+represented by the genera 
+<tp:taxon-name>
+Cestoplana
+Lang, 1884
+</tp:taxon-name>
+(BPP = 1, BS 100), 
+<tp:taxon-name>
+Pericelis
+</tp:taxon-name>
+(BPP = 1, BS 100) and 
+<tp:taxon-name>
+Anonymus
+</tp:taxon-name>
+(BPP = 1, BS 100), respectively are presented as isolated groups. While 
+<tp:taxon-name>
+Boninia
+Bock, 1923
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+Chromyella
+Correa, 1958
+</tp:taxon-name>
+and 
+<tp:taxon-name>
+Theama
+Marcus, 1949
+</tp:taxon-name>
+form a well-supported group (BPP = 1, BS = 100), although currently belonging to separate families and not specifically related to each other.
+</p>
+      <p>
+After 
+<tp:taxon-name>Anonymidae</tp:taxon-name>
+, we find a well-supported branch (BPP = 0.9, BS = 95) that encompasses the families 
+<tp:taxon-name>
+Prosthiostomidae 
+Lang, 1884
+</tp:taxon-name>
+, 
+<tp:taxon-name>Euryleptidae</tp:taxon-name>
+and 
+<tp:taxon-name>Pseudocerotidae</tp:taxon-name>
+. This branch is, in turn, divided into two main branches (both supported by maximum values: BPP = 1, BS = 100) where 
+<tp:taxon-name>Prosthiostomidae</tp:taxon-name>
+is separated from 
+<tp:taxon-name>Euryleptidae</tp:taxon-name>
+and 
+<tp:taxon-name>Pseudocerotidae</tp:taxon-name>
+, families with a clear relation.
+</p>
+   </tp:treatment-sec>
 </tp:taxon-treatment>

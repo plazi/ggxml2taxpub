@@ -1,86 +1,247 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-      <tp:treatment-meta>
-            <mixed-citation>
-                  <named-content content-type="treatment-title">Stenothemus diffusus Wittmer
-                        1974</named-content>
-                  <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.5038599</uri>
-                  <uri content-type="treatment-bank-uri"
-                        >http://treatment.plazi.org/id/03C7082F3C428F18FDE5FEC7FE0CF850</uri>
-                  <article-title>Taxonomic revision of the species of Stenothemus from Southwest
-                        China (Coleoptera, Cantharidae), with the descriptions of five new
-                        species</article-title>
-                  <uri content-type="publication-doi"
-                        >http://dx.doi.org/10.5852/ejt.2021.757.1409</uri>
-            </mixed-citation>
-      </tp:treatment-meta>
-      <tp:nomenclature>
-            <tp:taxon-name> Stenothemus diffusus Wittmer, 1974 </tp:taxon-name>
-      </tp:nomenclature>
-      <tp:treatment-sec sec-type="description">
-            <p> Figs 1D , 2G‒I , 3C , 4C </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="reference_group">
-            <p>
-                  <tp:taxon-name> Stenothemus diffusus Wittmer, 1974: 58 </tp:taxon-name> , fig. 17.
-            </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="materials_examined">
-            <p> Material examined </p>
-            <p> Paratype </p>
-            <p> CHINA • <tp:material-citation> 1 ♂ ; [h-p] “Yao Gi nr Mu- // pin 15 Jul // ‘29
-                        7400‒8000 ft ”, [p] “Szechuen // CHINA // D.C. Graham ”, [h] “119”, [p]
-                        “PARATYPUS”, [h-p] “ <tp:taxon-name> Stenothemus </tp:taxon-name> //
-                              <tp:taxon-name> diffusus </tp:taxon-name> // Wittm. // det. W. Wittmer
-                        ”, [p] “Naturhistorisches // Museum Basel // Coll. W. Wittmer ”, “
-                              <tp:taxon-name>CANTHARIDAE</tp:taxon-name> // CANTH00003518”; NHMB
-                  </tp:material-citation> . </p>
-            <p> Additional material </p>
-            <p>
-                  <tp:material-citation> CHINA ‒ Sichuan • 1 ♀ ; Wolong , Wolonggou ; 2150 m a.s.l.
-                        ; 21 Jul. 2004 ; X. Wan leg.; IZAS </tp:material-citation> •
-                        <tp:material-citation> 3 ♂♂ , 7 ♀♀ ; Anzihe ; 9 Aug. 2016 ; W.Y. Zhou leg.;
-                        MHBU </tp:material-citation> • <tp:material-citation> 1 ♂ , 6 ♀♀ ; Anzihe ,
-                        Shaoyaogou ; 1450 m a.s.l. ; 9‒11 Aug. 2016 ; W.Y. Zhou leg.; MHBU
-                  </tp:material-citation> • <tp:material-citation> 1 ♀ ; Liziping ; 25 Jul. 2016 ;
-                        L.M. Li leg.; MHBU </tp:material-citation> • <tp:material-citation> 1 ♂ , 3
-                        ♀♀ ; Baoxing , Kyaʼgyu Shan ; 30 Jul. 2016 ; L.M. Li leg.; MHBU
-                  </tp:material-citation> . </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="description">
-            <p> Descriptive notes </p>
-            <p> Body length (both sexes): 10.0‒ 12.8 mm ; width: 2.1‒3.0 mm. </p>
-            <p> Male ( Fig. 1D ) </p>
-            <p> AEDEAGUS ( Fig. 2G‒I ). Strongly swollen dorsally in basal part, diameter decreased
-                  apically; basal piece slightly shorter than dorsal plate of each paramere, with a
-                  large, bifurcate conjoined middle nodule at base of ventral side; ventral
-                  processes of parameres nearly parallel to each other, long and slightly thickened
-                  apically; dorsal plate slightly shorter than ventral process, evenly narrowed
-                  apically, layering in middle, external layer roundly emarginate in middle,
-                  internal layer deeply and triangularly emarginate, rounded at apex; apical parts
-                  of laterophyses compressed and next to each other, apex rounded and bent dorsally,
-                  slightly exceeding middle emargination between dorsal plates. </p>
-            <p> Female </p>
-            <p> ABDOMINAL STERNITE VIII ( Fig. 3C ). Obliquely narrowed posteriorly, lateroapical
-                  angles widely triangular, posterior margin shallowly and triangularly emarginate
-                  in the middle, and weakly sinuate on both sides. </p>
-            <p> INTERNAL ORGAN OF REPRODUCTIVE SYSTEM ( Fig. 4C ). Vagina elongate, with median
-                  oviduct situated at ventroapical part, vagina abruptly narrowed in apical part and
-                  extended into a short duct which diverticulum and spermathecal duct are arising
-                  from; diverticulum moderately long, about 0.35 times adult body length, evenly
-                  thinned apically, slender tube-shaped and spiral; spermathecal duct slightly
-                  longer than diverticulum; spermatheca slender tube-shaped and spiral, thinner than
-                  spermathecal duct and nearly as long as diverticulum, with basal part extended
-                  into a short tube, at opening of accessory gland. Accessory gland thin and nearly
-                  as long as spermatheca. </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="distribution">
-            <p> Distribution </p>
-            <p> China ( Sichuan ); Myanmar . </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="discussion">
-            <p> Remarks </p>
-            <p>The dorsal and lateral views of aedeagus and the female reproductive system are
-                  described and illustrated for the first time.</p>
-      </tp:treatment-sec>
+   <tp:treatment-meta>
+      <kwd-group>
+         <kwd content-type="nominate-taxon">
+            <tp:taxon-name>Stenothemus diffusus Wittmer, 1974</tp:taxon-name>
+         </kwd>
+      </kwd-group>
+      <mixed-citation>
+         <named-content content-type="treatment-title">Stenothemus diffusus Wittmer 1974</named-content>
+         <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.5038599</uri>
+         <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/03C7082F3C428F18FDE5FEC7FE0CF850</uri>
+         <article-title>Taxonomic revision of the species of Stenothemus from Southwest China (Coleoptera, Cantharidae), with the descriptions of five new species</article-title>
+         <pub-id pub-id-type="doi">https://doi.org/10.5852/ejt.2021.757.1409</pub-id>
+         <issn>2118-9773</issn>
+         <source>European Journal of Taxonomy</source>
+      </mixed-citation>
+   </tp:treatment-meta>
+   <tp:nomenclature>
+      <tp:taxon-name>
+Stenothemus diffusus
+Wittmer, 1974
+</tp:taxon-name>
+   </tp:nomenclature>
+   <tp:treatment-sec sec-type="description">
+      <p>
+Figs 1D
+, 
+2G‒I
+, 
+3C
+, 
+4C
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="reference_group">
+      <p>
+         <tp:taxon-name>
+Stenothemus diffusus
+Wittmer, 1974: 58
+</tp:taxon-name>
+
+, fig. 17.
+
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="materials_examined">
+      <p>
+Material examined
+</p>
+      <p>
+Paratype
+</p>
+      <p>
+CHINA
+• 
+<tp:material-citation>
+1 ♂
+; [h-p] “Yao Gi nr Mu- // pin 
+
+15 Jul
+
+// ‘29 
+
+7400‒8000 ft
+
+”, [p] “Szechuen // 
+CHINA
+// 
+D.C. Graham
+”, [h] “119”, [p] “PARATYPUS”, [h-p] “ 
+<tp:taxon-name>
+Stenothemus
+</tp:taxon-name>
+// 
+<tp:taxon-name>
+diffusus
+</tp:taxon-name>
+// Wittm. // det. 
+W. Wittmer
+”, [p] “Naturhistorisches // Museum Basel // 
+Coll. W. Wittmer
+”, “ 
+<tp:taxon-name>CANTHARIDAE</tp:taxon-name>
+// CANTH00003518”; 
+NHMB
+</tp:material-citation>
+.
+</p>
+      <p>
+Additional material
+</p>
+      <p>
+         <tp:material-citation>
+CHINA
+‒ 
+
+Sichuan
+
+• 
+1 ♀
+; 
+Wolong
+, 
+Wolonggou
+; 
+
+2150 m
+a.s.l.
+
+; 
+
+21 Jul. 2004
+
+; 
+X. Wan
+leg.; 
+IZAS
+</tp:material-citation>
+• 
+<tp:material-citation>
+3 ♂♂
+, 
+7 ♀♀
+; 
+Anzihe
+; 
+
+9 Aug. 2016
+
+; 
+W.Y. Zhou
+leg.; 
+MHBU
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♂
+, 
+6 ♀♀
+; 
+Anzihe
+, 
+Shaoyaogou
+; 
+
+1450 m
+a.s.l.
+
+; 
+
+9‒11 Aug. 2016
+
+; 
+W.Y. Zhou
+leg.; 
+MHBU
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♀
+; 
+Liziping
+; 
+
+25 Jul. 2016
+
+; 
+L.M. Li
+leg.; 
+MHBU
+</tp:material-citation>
+• 
+<tp:material-citation>
+1 ♂
+, 
+3 ♀♀
+; 
+Baoxing
+, 
+Kyaʼgyu Shan
+; 
+
+30 Jul. 2016
+
+; 
+L.M. Li
+leg.; 
+MHBU
+</tp:material-citation>
+.
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="description">
+      <p>
+Descriptive notes
+</p>
+      <p>
+Body length (both sexes): 10.0‒ 
+12.8 mm
+; width: 2.1‒3.0 mm.
+</p>
+      <p>
+Male
+(
+Fig. 1D
+)
+</p>
+      <p>
+AEDEAGUS (
+Fig. 2G‒I
+). Strongly swollen dorsally in basal part, diameter decreased apically; basal piece slightly shorter than dorsal plate of each paramere, with a large, bifurcate conjoined middle nodule at base of ventral side; ventral processes of parameres nearly parallel to each other, long and slightly thickened apically; dorsal plate slightly shorter than ventral process, evenly narrowed apically, layering in middle, external layer roundly emarginate in middle, internal layer deeply and triangularly emarginate, rounded at apex; apical parts of laterophyses compressed and next to each other, apex rounded and bent dorsally, slightly exceeding middle emargination between dorsal plates.
+</p>
+      <p>
+Female
+</p>
+      <p>
+ABDOMINAL STERNITE VIII (
+Fig. 3C
+). Obliquely narrowed posteriorly, lateroapical angles widely triangular, posterior margin shallowly and triangularly emarginate in the middle, and weakly sinuate on both sides.
+</p>
+      <p>
+INTERNAL ORGAN OF REPRODUCTIVE SYSTEM (
+Fig. 4C
+). Vagina elongate, with median oviduct situated at ventroapical part, vagina abruptly narrowed in apical part and extended into a short duct which diverticulum and spermathecal duct are arising from; diverticulum moderately long, about 0.35 times adult body length, evenly thinned apically, slender tube-shaped and spiral; spermathecal duct slightly longer than diverticulum; spermatheca slender tube-shaped and spiral, thinner than spermathecal duct and nearly as long as diverticulum, with basal part extended into a short tube, at opening of accessory gland. Accessory gland thin and nearly as long as spermatheca.
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="distribution">
+      <p>
+Distribution
+</p>
+      <p>
+China
+(
+Sichuan
+); 
+Myanmar
+.
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="discussion">
+      <p>
+Remarks
+</p>
+      <p>The dorsal and lateral views of aedeagus and the female reproductive system are described and illustrated for the first time.</p>
+   </tp:treatment-sec>
 </tp:taxon-treatment>

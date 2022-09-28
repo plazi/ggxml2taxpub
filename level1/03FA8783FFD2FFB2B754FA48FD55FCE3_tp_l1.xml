@@ -1,86 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-      <tp:treatment-meta>
-            <mixed-citation>
-                  <named-content content-type="treatment-title">Sphecodes setiger Bluthgen
-                        1924</named-content>
-                  <uri content-type="zenodo-doi">https://doi.org/10.5852/ejt.2020.729.1195</uri>
-                  <uri content-type="treatment-bank-uri"
-                        >http://treatment.plazi.org/id/03FA8783FFD2FFB2B754FA48FD55FCE3</uri>
-                  <article-title>New and little-known bees of the genus Sphecodes Latreille, 1804
-                        (Hymenoptera: Apoidea: Halictidae) from the Himalayas</article-title>
-                  <uri content-type="publication-doi"/>
-            </mixed-citation>
-      </tp:treatment-meta>
-      <tp:nomenclature>
-            <tp:taxon-name> Sphecodes setiger Blüthgen, 1924 </tp:taxon-name>
-      </tp:nomenclature>
-      <tp:treatment-sec sec-type="description">
-            <p> Fig. 16 A–D </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="reference_group">
-            <p>
-                  <tp:taxon-name> Sphecodes setiger Blüthgen, 1924: 511–512 </tp:taxon-name> , ♀ . </p>
-            <p>
-                  <tp:taxon-name> Sphecodes setiger </tp:taxon-name> – Ascher &amp; Pickering 2020 :
-                  map. </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="diagnosis">
-            <p> Diagnosis </p>
-            <p> This species is similar to small Palaearctic species with simple mandibles which
-                  lack the inner tooth (i.e., <tp:taxon-name> Sphecodes decorus ( Cameron, 1897 )
-                  </tp:taxon-name> , <tp:taxon-name> S. longuloides Blüthgen, 1923 </tp:taxon-name>
-                  , <tp:taxon-name> S . hirtellus Blüthgen, 1923 </tp:taxon-name> , <tp:taxon-name>
-                        S. longulus Hagens, 1882 </tp:taxon-name> , <tp:taxon-name> S. puncticeps
-                        Thomson, 1870 </tp:taxon-name> , <tp:taxon-name> S. turanicus Astafurova
-                        &amp; Proshchalykin, 2017 </tp:taxon-name> and <tp:taxon-name> S.
-                        trjapitzini Astafurova &amp; Proshchalykin, 2018 </tp:taxon-name> ). Among
-                  these species <tp:taxon-name> S. setiger </tp:taxon-name> is closest to
-                        <tp:taxon-name> S. puncticeps </tp:taxon-name> , but differs from this
-                  species by having square (as long as wide) F1 and F2 (vs 0.6– 0.7 times as long as
-                  wide). </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="materials_examined">
-            <p> Material examined </p>
-            <p> Holotype </p>
-            <p>
-                  <tp:material-citation> INDIA • ♀ ; “ Type // Simla [India], Nurse 9. 98 // Col.
-                        C.G. Nurse Collection. 1920-72 // <tp:taxon-name> Sph. setiger
-                        </tp:taxon-name> , ♀ , Type P. Blüthgen det. // B.M. Type HYM.17a562”; NHMUK
-                        013380328 . </tp:material-citation>
-            </p>
-            <p> Descriptive notes </p>
-            <p> Wings hyaline, without darkening; hind wing with basal vein strongly curved with the
-                  angle between basal ( M ) and cubital ( Cu ) veins almost 90°, costal margin with
-                  five hamuli. </p>
-            <p> Female </p>
-            <p> Total body length 5.5 mm . Head strongly transverse, 1.25 times as wide as long (
-                  Fig. 16A ); vertex not elevated; F1–F3 square, as long as wide ( Fig. 16B );
-                  clypeus with punctures separated by at most a puncture diameter; ocello-ocular
-                  area with dense punctures separated by at most a half puncture diameter;
-                  paraocular and supraclypeal areas with relatively dense plumose pubescence, but
-                  not obscuring integument. Mesoscutum with punctures (15–30 μm) separated by at
-                  most a puncture diameter; hypoepimeral area coarsely reticulate; legs
-                  red-brownish. Metasomal T1 impunctate, except a few punctures (5 μm) along
-                  marginal zone; anterior half of T2–T4 discs distinctly punctate (10– 15 μm / 2–5),
-                  sparser on posterior half; T1–T3 red ( Fig. 16C ); pygidial plate as wide as
-                  metabasitarsus. </p>
-            <p> Fig. 16. <tp:taxon-name> Sphecodes setiger Blüthgen, 1924 </tp:taxon-name> .
-                  Holotype, ♀ (NHMUK 013380328). A . Head in frontal view. B . Antenna in lateral
-                  view. C . Metasoma in dorsal view. D . Labels. Scale bars = 1 mm. </p>
-            <p> Male </p>
-            <p>Unknown.</p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="distribution">
-            <p> Distribution </p>
-            <p> Himalayas: India ( Himachal Pradesh ). </p>
-      </tp:treatment-sec>
-      <tp:treatment-sec sec-type="discussion">
-            <p> Remarks </p>
-            <p> Since we could not clearly differentiate between females of <tp:taxon-name> S.
-                        setiger </tp:taxon-name> and <tp:taxon-name> S. puncticeps </tp:taxon-name>
-                  , except by relative flagellar length, more specimens from the type locality
-                  including the male are needed to be studied to make a decision on their synonymy.
-            </p>
-      </tp:treatment-sec>
+   <tp:treatment-meta>
+      <kwd-group>
+         <kwd content-type="nominate-taxon">
+            <tp:taxon-name>Sphecodes setiger Blüthgen, 1924</tp:taxon-name>
+         </kwd>
+      </kwd-group>
+      <mixed-citation>
+         <named-content content-type="treatment-title">Sphecodes setiger Bluthgen 1924</named-content>
+         <uri content-type="zenodo-doi">https://doi.org/10.5852/ejt.2020.729.1195</uri>
+         <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/03FA8783FFD2FFB2B754FA48FD55FCE3</uri>
+         <article-title>New and little-known bees of the genus Sphecodes Latreille, 1804 (Hymenoptera: Apoidea: Halictidae) from the Himalayas</article-title>
+         <pub-id pub-id-type="doi">https://doi.org/10.5852/ejt.2020.729.1195</pub-id>
+         <issn>2118-9773</issn>
+         <source>European Journal of Taxonomy</source>
+      </mixed-citation>
+   </tp:treatment-meta>
+   <tp:nomenclature>
+      <tp:taxon-name>
+Sphecodes setiger
+Blüthgen, 1924
+</tp:taxon-name>
+   </tp:nomenclature>
+   <tp:treatment-sec sec-type="description">
+      <p>
+Fig. 16
+A–D
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="reference_group">
+      <p>
+         <tp:taxon-name>
+Sphecodes setiger
+Blüthgen, 1924: 511–512
+</tp:taxon-name>
+
+, 
+♀
+.
+
+</p>
+      <p>
+         <tp:taxon-name>
+Sphecodes setiger
+</tp:taxon-name>
+– 
+Ascher &amp; Pickering 2020
+: map.
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="diagnosis">
+      <p>
+Diagnosis
+</p>
+      <p>
+This species is similar to small Palaearctic species with simple mandibles which lack the inner tooth (i.e., 
+<tp:taxon-name>
+Sphecodes decorus
+(
+Cameron, 1897
+)
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+S. longuloides
+Blüthgen, 1923
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+S
+. 
+hirtellus
+Blüthgen, 1923
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+S. longulus
+Hagens, 1882
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+S. puncticeps
+Thomson, 1870
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+S. turanicus
+Astafurova &amp; Proshchalykin, 2017
+</tp:taxon-name>
+and 
+<tp:taxon-name>
+S. trjapitzini
+Astafurova &amp; Proshchalykin, 2018
+</tp:taxon-name>
+). Among these species 
+<tp:taxon-name>
+S. setiger
+</tp:taxon-name>
+is closest to 
+<tp:taxon-name>
+S. puncticeps
+</tp:taxon-name>
+, but differs from this species by having square (as long as wide) F1 and F2 (vs 0.6– 0.7 times as long as wide).
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="materials_examined">
+      <p>
+Material examined
+</p>
+      <p>
+Holotype
+</p>
+      <p>
+         <tp:material-citation>
+INDIA
+• 
+♀
+; “ 
+Type
+// Simla [India], Nurse 9. 98 // 
+Col. C.G. Nurse Collection.
+1920-72 // 
+<tp:taxon-name>
+Sph. setiger
+</tp:taxon-name>
+, 
+♀
+, 
+
+Type
+P. Blüthgen
+
+det. // 
+
+B.M. 
+Type
+
+HYM.17a562”; 
+NHMUK 013380328
+.
+</tp:material-citation>
+      </p>
+      <p>
+Descriptive notes
+</p>
+      <p>
+Wings hyaline, without darkening; hind wing with basal vein strongly curved with the angle between basal (
+M
+) and cubital (
+Cu
+) veins almost 90°, costal margin with five hamuli.
+</p>
+      <p>
+Female
+</p>
+      <p>
+Total body length 
+5.5 mm
+. Head strongly transverse, 1.25 times as wide as long (
+Fig. 16A
+); vertex not elevated; F1–F3 square, as long as wide (
+Fig. 16B
+); clypeus with punctures separated by at most a puncture diameter; ocello-ocular area with dense punctures separated by at most a half puncture diameter; paraocular and supraclypeal areas with relatively dense plumose pubescence, but not obscuring integument. Mesoscutum with punctures (15–30 μm) separated by at most a puncture diameter; hypoepimeral area coarsely reticulate; legs red-brownish. Metasomal T1 impunctate, except a few punctures (5 μm) along marginal zone; anterior half of T2–T4 discs distinctly punctate (10– 15 μm / 2–5), sparser on posterior half; T1–T3 red (
+Fig. 16C
+); pygidial plate as wide as metabasitarsus.
+</p>
+      <p>
+Male
+</p>
+      <p>Unknown.</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="distribution">
+      <p>
+Distribution
+</p>
+      <p>
+Himalayas: 
+India
+(
+Himachal Pradesh
+).
+</p>
+   </tp:treatment-sec>
+   <tp:treatment-sec sec-type="discussion">
+      <p>
+Remarks
+</p>
+      <p>
+Since we could not clearly differentiate between females of 
+<tp:taxon-name>
+S. setiger
+</tp:taxon-name>
+and 
+<tp:taxon-name>
+S. puncticeps
+</tp:taxon-name>
+, except by relative flagellar length, more specimens from the 
+type
+locality including the male are needed to be studied to make a decision on their synonymy.
+</p>
+   </tp:treatment-sec>
 </tp:taxon-treatment>

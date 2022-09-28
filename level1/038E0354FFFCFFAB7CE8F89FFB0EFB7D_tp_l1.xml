@@ -1,88 +1,294 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
    <tp:treatment-meta>
+      <kwd-group>
+         <kwd content-type="nominate-taxon">
+            <tp:taxon-name>Drepanoistodus aff. basiovalis ( Sergeeva, 1963 )</tp:taxon-name>
+         </kwd>
+      </kwd-group>
       <mixed-citation>
          <named-content content-type="treatment-title">Drepanoistodus basiovalis</named-content>
          <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.5558718</uri>
-         <uri content-type="treatment-bank-uri"
-            >http://treatment.plazi.org/id/038E0354FFFCFFAB7CE8F89FFB0EFB7D</uri>
-         <article-title>Middle Ordovician Drepanoistodus (Vertebrata, Conodonta) from Baltica, with
-            description of three new species</article-title>
-         <uri content-type="publication-doi">http://dx.doi.org/10.5852/ejt.2021.774.1533</uri>
+         <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/038E0354FFFCFFAB7CE8F89FFB0EFB7D</uri>
+         <article-title>Middle Ordovician Drepanoistodus (Vertebrata, Conodonta) from Baltica, with description of three new species</article-title>
+         <pub-id pub-id-type="doi">https://doi.org/10.5852/ejt.2021.774.1533</pub-id>
+         <issn>2118-9773</issn>
+         <source>European Journal of Taxonomy</source>
       </mixed-citation>
    </tp:treatment-meta>
    <tp:nomenclature>
-      <tp:taxon-name> Drepanoistodus aff. basiovalis ( Sergeeva, 1963 ) </tp:taxon-name>
+      <tp:taxon-name>
+Drepanoistodus
+aff. 
+basiovalis
+(
+Sergeeva, 1963
+)
+</tp:taxon-name>
    </tp:nomenclature>
    <tp:treatment-sec sec-type="description">
-      <p> Fig. 6P–Q </p>
+      <p>
+Fig. 6P–Q
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="reference_group">
-      <p> aff. <tp:taxon-name> Oistodus basiovalis Sergeeva, 1963: 96 </tp:taxon-name> , pl. 7 figs.
-         6–7, text-fig. 3. <tp:taxon-name> Drepanoistodus cf. basiovalis ( Sergeeva, 1963 )
-         </tp:taxon-name> – Löfgren 2000a : fig. 4v. </p>
-      <p> Table 3. Geniculate elements of <tp:taxon-name> Drepanoistodus Lindström, 1971
-         </tp:taxon-name> collected from each sample in the Lynna River section shown in
-         stratigraphical order. </p>
-      <p> Species <tp:taxon-name>D. basiovalis</tp:taxon-name>
+      <p>
+aff. 
+<tp:taxon-name>
+Oistodus basiovalis
+Sergeeva, 1963: 96
+</tp:taxon-name>
+, pl. 7 figs. 6–7, text-fig. 3. 
+<tp:taxon-name>
+Drepanoistodus
+cf. 
+basiovalis
+(
+Sergeeva, 1963
+)
+</tp:taxon-name>
+– 
+Löfgren 2000a
+: fig. 4v.
+</p>
+      <p>
+Species
+<tp:taxon-name>D. basiovalis</tp:taxon-name>
          <tp:taxon-name>D. stougei</tp:taxon-name>
-         <tp:taxon-name> D. iommi </tp:taxon-name>
-         <tp:taxon-name> D. svendi </tp:taxon-name>
-         <tp:taxon-name> D.viirae </tp:taxon-name>
-         <tp:taxon-name> D. aff. basiovalis </tp:taxon-name>
-         <tp:taxon-name> D. cf. suberectus </tp:taxon-name> Other <tp:taxon-name> Drepanoistodus
-         </tp:taxon-name> Sample <tp:taxon-name> Lenodus pseudoplanus Zone </tp:taxon-name> Ly12-42
-         0 0 0 0 0 0 0 3 <tp:taxon-name> Yangtzeplacognathus crassus Zone </tp:taxon-name> Ly14-5
-         Ly12-37 Ly14-2 Ly14-1 Ly12-34 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-         0 1 0 1 1 4 1 4 0 Uncertain interval Ly12-33 Ly12-31 Ly12-30 Ly12-29 0 0 0 0 0 0 0 1 0 0 0
-         0 0 0 0 0 0 3 1 0 0 0 0 0 0 0 0 0 0 4 6 4 <tp:taxon-name> Lenodus variabilis Zone
-         </tp:taxon-name> Ly12-26 Ly12-23 Ly12-21b Ly12-21 Ly12-19 Ly12-16 Ly12-14 Ly12-13 0 0 1 3 0
-         2 4 0 0 1 2 2 0 0 5 4 0 0 2 0 0 1 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0
-         0 0 0 0 0 5 4 2 0 2 2 0 0 <tp:taxon-name> Lenodus antivariabilis Zone </tp:taxon-name>
-         Ly12-1 Ly12-2 Ly12-3 Ly12-5 Ly12-9 3 1 2 3 5 0 0 0 2 0 0 3 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
-         1 2 0 0 0 0 0 1 3 2 0 0 </p>
+         <tp:taxon-name>
+D. iommi
+</tp:taxon-name>
+         <tp:taxon-name>
+D. svendi
+</tp:taxon-name>
+         <tp:taxon-name>
+D.viirae
+</tp:taxon-name>
+         <tp:taxon-name>
+D. aff. basiovalis
+</tp:taxon-name>
+         <tp:taxon-name>
+D.
+cf. 
+suberectus
+</tp:taxon-name>
+
+Other 
+<tp:taxon-name>
+Drepanoistodus
+</tp:taxon-name>
+Sample
+<tp:taxon-name>
+Lenodus pseudoplanus
+Zone
+</tp:taxon-name>
+Ly12-42
+0
+0
+0
+0
+0
+0
+0
+3
+<tp:taxon-name>
+Yangtzeplacognathus crassus
+Zone
+</tp:taxon-name>
+Ly14-5 Ly12-37 Ly14-2 Ly14-1 Ly12-34
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+1 0 1 0 1
+1 4 1 4 0
+Uncertain interval
+Ly12-33 Ly12-31 Ly12-30 Ly12-29
+0 0 0 0
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 3 1 0
+0 0 0 0
+0 0 0 0
+0 4 6 4
+<tp:taxon-name>
+Lenodus variabilis
+Zone
+</tp:taxon-name>
+Ly12-26 Ly12-23 Ly12-21b Ly12-21 Ly12-19 Ly12-16 Ly12-14 Ly12-13
+0 0 1 3 0 2 4 0
+0 1 2 2 0 0 5 4
+0 0 2 0 0 1 0 0
+0 0 0 0 0 0 2 1
+0 0 0 0 0 0 0 1
+0 0 0 0 0 0 1 1
+0 0 0 0 0 0 0 0
+5 4 2 0 2 2 0 0
+<tp:taxon-name>
+Lenodus antivariabilis
+Zone
+</tp:taxon-name>
+Ly12-1 Ly12-2 Ly12-3 Ly12-5 Ly12-9
+3 1 2 3 5
+0 0 0 2 0
+0 3 1 0 1
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 1 2
+0 0 0 0 0
+1 3 2 0 0
+</p>
       <p>
-         <tp:taxon-name> Drepanoistodus aff. basiovalis </tp:taxon-name> – Mellgren &amp; Eriksson
-         2010: fig. 7g –h. </p>
+         <tp:taxon-name>
+Drepanoistodus
+aff. 
+basiovalis
+</tp:taxon-name>
+– Mellgren &amp; Eriksson 2010: fig. 
+7g
+–h.
+</p>
       <p>
-         <tp:taxon-name> Drepanoistodus basiovalis </tp:taxon-name> – Serra et al . 2019 : fig. 7k.
-         — Wu et al . 2020 : fig. 3ah–ai. </p>
+         <tp:taxon-name>
+Drepanoistodus basiovalis
+</tp:taxon-name>
+– 
+
+Serra 
+et al
+. 2019
+
+: fig. 7k. — 
+
+Wu 
+et al
+. 2020
+
+: fig. 3ah–ai.
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="materials_examined">
-      <p> Material examined </p>
       <p>
-         <tp:material-citation> Seven geniculate elements including five from the Lynna section
-         </tp:material-citation> . </p>
+Material examined
+</p>
+      <p>
+         <tp:material-citation>
+Seven geniculate
+elements including five from the Lynna section
+</tp:material-citation>
+.
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="discussion">
-      <p> Remarks </p>
-      <p> The specimens assigned to <tp:taxon-name> Drepanoistodus aff. basiovalis </tp:taxon-name>
-         herein share some characters with <tp:taxon-name> D. basiovalis </tp:taxon-name> ,
-            <tp:taxon-name> D. iommii </tp:taxon-name> sp. nov. and <tp:taxon-name> D. stougei
-         </tp:taxon-name> , but do not meet the full criteria of any of these species. The most
-         significant character is an extended upper keel anteriorly, which may be angular (see Fig.
-         6P–Q ) or rounded. Cusp is reclined and straight with distinct carinas on both sides of the
-         cusp. Anterior margin varies from almost straight to rounded (convex). The upper anterior
-         corner is angular or weakly rounded. The basal margin is usually slightly convex. The cusp
-         is often nearly twice as long as the upper margin of the base, but it varies considerably
-         (b/c ratio mean = 0.46, standard deviation 0.14). Similarly, angle A is very variable with
-         a mean near 28° and standard deviation at 6.55 ( Fig. 5B ). Specimens with a rounded
-         anterior edge share similarity with <tp:taxon-name> Drepanoistodus stougei Rasmussen, 1991
-         </tp:taxon-name> but are distinguished by the extended upper keel anteriorly, and a more
-         narrow and distinct carina. More material and analyses are needed to assess if this taxon
-         represents a separate species. Thus, for the time being, these specimens are left under
-         open nomenclature. </p>
+      <p>
+Remarks
+</p>
+      <p>
+The specimens assigned to 
+<tp:taxon-name>
+Drepanoistodus
+aff. 
+basiovalis
+</tp:taxon-name>
+herein share some characters with 
+<tp:taxon-name>
+D. basiovalis
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+D. iommii
+</tp:taxon-name>
+sp. nov.
+and 
+<tp:taxon-name>
+D. stougei
+</tp:taxon-name>
+, but do not meet the full criteria of any of these species. The most significant character is an extended upper keel anteriorly, which may be angular (see 
+Fig. 6P–Q
+) or rounded. Cusp is reclined and straight with distinct carinas on both sides of the cusp. Anterior margin varies from almost straight to rounded (convex). The upper anterior corner is angular or weakly rounded. The basal margin is usually slightly convex. The cusp is often nearly twice as long as the upper margin of the base, but it varies considerably (b/c ratio mean = 0.46, standard deviation 0.14). Similarly, angle A is very variable with a mean near 28° and standard deviation at 6.55 (
+Fig. 5B
+). Specimens with a rounded anterior edge share similarity with 
+<tp:taxon-name>
+Drepanoistodus stougei
+Rasmussen, 1991
+</tp:taxon-name>
+but are distinguished by the extended upper keel anteriorly, and a more narrow and distinct carina. More material and analyses are needed to assess if this taxon represents a separate species. Thus, for the time being, these specimens are left under open nomenclature.
+</p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="distribution">
-      <p> Occurrence </p>
-      <p> The <tp:taxon-name> L. antivariabilis Zone </tp:taxon-name> (sample LY12-9) to the basal
-         part of the <tp:taxon-name> L. variabilis Zone </tp:taxon-name> (sample LY12- 14).
-         Moreover, it has been recorded from the B. norrlandicus Zone at Gillberga, Sweden ( Löfgren
-         2000a , as <tp:taxon-name> D. cf. basiovalis </tp:taxon-name> ); the <tp:taxon-name> L.
-            variabilis Zone </tp:taxon-name> at Hällekis, Sweden (Mellgren &amp; Eriksson 2010); and
-         also from the <tp:taxon-name> L. pseudoplanus Zone </tp:taxon-name> of the Argentine
-         Precordillera ( Serra et al . 2019 , as <tp:taxon-name> D. basiovalis </tp:taxon-name> )
-         and <tp:taxon-name> Histiodella kristinae Zone </tp:taxon-name> of Zhejiang , China ( Wu et
-         al . 2020 , as <tp:taxon-name> D. basiovalis </tp:taxon-name> ). </p>
+      <p>
+Occurrence
+</p>
+      <p>
+The 
+<tp:taxon-name>
+L. antivariabilis
+Zone
+</tp:taxon-name>
+(sample LY12-9) to the basal part of the 
+<tp:taxon-name>
+L. variabilis
+Zone
+</tp:taxon-name>
+(sample LY12- 14). Moreover, it has been recorded from the 
+B. norrlandicus
+Zone at Gillberga, 
+Sweden
+(
+Löfgren 2000a
+, as 
+<tp:taxon-name>
+D.
+cf. 
+basiovalis
+</tp:taxon-name>
+); the 
+<tp:taxon-name>
+L. variabilis
+Zone
+</tp:taxon-name>
+at Hällekis, 
+Sweden
+(Mellgren &amp; Eriksson 2010); and also from the 
+<tp:taxon-name>
+L. pseudoplanus
+Zone
+</tp:taxon-name>
+of 
+the Argentine
+Precordillera (
+
+Serra 
+et al
+. 2019
+
+, as 
+<tp:taxon-name>
+D. basiovalis
+</tp:taxon-name>
+) and 
+<tp:taxon-name>
+Histiodella kristinae
+Zone
+</tp:taxon-name>
+of 
+Zhejiang
+, 
+China
+(
+
+Wu 
+et al
+. 2020
+
+, as 
+<tp:taxon-name>
+D. basiovalis
+</tp:taxon-name>
+).
+</p>
    </tp:treatment-sec>
 </tp:taxon-treatment>
