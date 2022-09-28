@@ -8,7 +8,8 @@
     <xsl:template match="//treatment">
         <tp:taxon-treatment>
             <xsl:call-template name="treatment-metadata"/>
-            <xsl:apply-templates/>
+            <xsl:apply-templates select="//subSubSection[@type = 'nomenclature']"/>
+            <xsl:apply-templates select="//subSubSection[not(@type = 'nomenclature')]"/>
         </tp:taxon-treatment>
     </xsl:template>
 
