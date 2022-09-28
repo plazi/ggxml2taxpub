@@ -86,7 +86,7 @@
 
     <xsl:template match="taxonomicName">
         <tp:taxon-name>
-            <xsl:apply-templates/>
+            <xsl:apply-templates select="./text()"/>
         </tp:taxon-name>
     </xsl:template>
 
@@ -103,7 +103,7 @@
                 </xsl:choose>
             </xsl:attribute>
             <tp:taxon-name>
-                <xsl:value-of select="normalize-space(.)"/>
+                <xsl:value-of select="./text()"/>
             </tp:taxon-name>
 
         </xsl:element>
@@ -121,13 +121,13 @@
 
     <xsl:template match="@ID-ISSN">
         <issn>
-            <xsl:apply-templates select="string(.)"/>
+            <xsl:apply-templates select="."/>
         </issn>
     </xsl:template>
 
     <xsl:template match="mods:relatedItem[@type = 'host']">
         <source>
-            <xsl:apply-templates select="normalize-space(mods:titleInfo/mods:title)"/>
+            <xsl:apply-templates select="mods:titleInfo/mods:title"/>
         </source>
     </xsl:template>
 
