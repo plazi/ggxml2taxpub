@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
    <tp:treatment-meta>
-      <kwd-group/>
+      <kwd-group>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Groenlandaspididae Obruchev 1964b: 143</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Groenlandaspis</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Tiaraspis Gross 1962</tp:taxon-name>
+         </kwd>
+      </kwd-group>
       <mixed-citation>
          <named-content content-type="treatment-title">Family-group names of fossil fishes</named-content>
          <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.5600615</uri>

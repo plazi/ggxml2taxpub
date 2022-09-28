@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
    <tp:treatment-meta>
-      <kwd-group/>
+      <kwd-group>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Diplopterus Agassiz 1835</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Diplopterus Boie 1826</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Aves</tp:taxon-name>
+         </kwd>
+      </kwd-group>
       <mixed-citation>
          <named-content content-type="treatment-title">Family-group names of fossil fishes</named-content>
          <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.5604390</uri>

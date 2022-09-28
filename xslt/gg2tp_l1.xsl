@@ -93,7 +93,7 @@
         <kwd>
             <xsl:attribute name="content-type">
                 <xsl:choose>
-                    <xsl:when test="ancestor::nomenclature[@type = 'nomenclature']">
+                    <xsl:when test="ancestor::subSubSection[@type = 'nomenclature']">
                         <xsl:text>nominate-taxon</xsl:text>
                     </xsl:when>
                     <xsl:otherwise>

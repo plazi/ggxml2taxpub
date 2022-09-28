@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
    <tp:treatment-meta>
-      <kwd-group/>
+      <kwd-group>
+         <kwd content-type="nominate-taxon">
+            <tp:taxon-name>Weejasperaspidae White 1978: 155</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Weejasperaspis White 1978</tp:taxon-name>
+         </kwd>
+         <kwd content-type="mentioned-taxon">
+            <tp:taxon-name>Weejasperaspididae</tp:taxon-name>
+         </kwd>
+      </kwd-group>
       <mixed-citation>
          <named-content content-type="treatment-title">Weejasperaspidae White 1978</named-content>
          <uri content-type="zenodo-doi">http://doi.org/10.5281/zenodo.5558957</uri>
