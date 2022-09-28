@@ -91,7 +91,7 @@
     </xsl:template>
 
     <xsl:template match="taxonomicName" mode="kwd">
-        <kwd>
+        <xsl:element name="kwd">
             <xsl:attribute name="content-type">
                 <xsl:choose>
                     <xsl:when test="ancestor::subSubSection[@type = 'nomenclature']">
@@ -103,10 +103,10 @@
                 </xsl:choose>
             </xsl:attribute>
             <tp:taxon-name>
-                <xsl:apply-templates select="normalize-space(.)"/>
+                <xsl:value-of select="normalize-space(.)"/>
             </tp:taxon-name>
 
-        </kwd>
+        </xsl:element>
     </xsl:template>
 
     <!-- article metadata -->
