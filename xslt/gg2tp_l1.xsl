@@ -71,7 +71,7 @@
                     <xsl:value-of select="//document/@masterDocTitle"/>
                 </article-title>
                 <xsl:apply-templates select="//document/mods:mods/mods:identifier[@type = 'DOI']"/>
-                <xsl:apply-templates select="//document/@ID-ISSN"/>
+                <xsl:apply-templates select="//document/mods:mods/mods:identifier[@type = 'ISSN']"/>
                 <xsl:apply-templates select="//document/mods:mods/mods:relatedItem[@type = 'host']"
                 />
             </mixed-citation>
@@ -103,7 +103,7 @@
                 </xsl:choose>
             </xsl:attribute>
             <tp:taxon-name>
-                <xsl:value-of select="./text()"/>
+                <xsl:value-of select="."/>
             </tp:taxon-name>
 
         </xsl:element>
@@ -119,9 +119,9 @@
 
     <!-- journal metadata -->
 
-    <xsl:template match="@ID-ISSN">
+    <xsl:template match="mods:identifier[@type = 'ISSN']">
         <issn>
-            <xsl:value-of select="string(.)"/>
+            <xsl:value-of select="./text()"/>
         </issn>
     </xsl:template>
 
