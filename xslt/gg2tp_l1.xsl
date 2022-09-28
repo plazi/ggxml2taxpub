@@ -113,7 +113,7 @@
 
     <xsl:template match="mods:identifier[@type = 'DOI']">
         <pub-id pub-id-type="doi">
-            <xsl:apply-templates select="normalize-space(./text())"/>
+            <xsl:value-of select="./text()"/>
         </pub-id>
     </xsl:template>
 
