@@ -86,7 +86,7 @@
 
     <xsl:template match="taxonomicName">
         <tp:taxon-name>
-            <xsl:apply-templates select="./text()"/>
+            <xsl:apply-templates select="descendant-or-self::*/text()"/>
         </tp:taxon-name>
     </xsl:template>
 
