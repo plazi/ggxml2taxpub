@@ -22,7 +22,7 @@
                     <xsl:apply-templates select=".//taxonomicNameLabel"/>
                 </tp:taxon-status>
             </xsl:if>
-        </tp:nomenclature>
+        </tp:mixed-nomenclature>
     </xsl:template>
 
     <xsl:template match="taxonomicName">
