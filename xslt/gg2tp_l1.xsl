@@ -50,6 +50,12 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+    
+    <xsl:template match="paragraph[ancestor::subSubSection[@type = 'nomenclature']">
+        <p>
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
 
     <xsl:template name="treatment-metadata">
         <tp:treatment-meta>
