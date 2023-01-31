@@ -14,7 +14,7 @@
     </xsl:template>
 
     <xsl:template match="subSubSection[@type = 'nomenclature']">
-        <tp:nomenclature>
+        <tp:mixed-nomenclature>
             <xsl:apply-templates select=".//taxonomicName"/>
             <!-- need to restrict this to nomenclature, as taxon-status is allowed only there -->
             <xsl:if test=".//taxonomicNameLabel">
