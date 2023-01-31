@@ -25,7 +25,7 @@
         </tp:taxon-name>
     </xsl:template>
     
-    <xsl:template="taxonomicNameLabel">
+    <xsl:template match="taxonomicNameLabel">
         <tp:taxon-status>
                     <xsl:apply-templates select="descendant-or-self::*/text()"/>
         </tp:taxon-status>
