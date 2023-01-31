@@ -51,10 +51,10 @@
         </p>
     </xsl:template>
     
-<!--    <xsl:template match="paragraph[ancestor::subSubSection[@type = 'nomenclature']">
+<xsl:template match="paragraph[ancestor::subSubSection[@type = 'nomenclature']]">
             <xsl:apply-templates/>
-    </xsl:template>
--->
+</xsl:template>
+    
     <xsl:template name="treatment-metadata">
         <tp:treatment-meta>
             <kwd-group>
