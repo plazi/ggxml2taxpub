@@ -40,10 +40,32 @@
         </p>
     </xsl:template>
     
-    <xsl:template match="paragraph[descendant::heading]" mode="main">
+    <xsl:template match="paragraph[descendant::heading][not(preceding-sibling::paragraph)]" mode="main">
         <title>
             <xsl:apply-templates/>
         </title>
+    </xsl:template>
+    
+    <xsl:template match="figureWrap" mode="main">
+    <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
+    </xsl:template>
+    
+    <xsl:template match="figureCitation">
+        <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
+    </xsl:template>
+    
+    <xsl:template match="figureLink">
+        <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
+    </xsl:template>
+    
+    <xsl:template match="bibRefCitation" mode="main">
+        <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
+    </xsl:template>
+    
+    <xsl:template match="taxonomicNameLabel[not(ancestor::subSubSection[@type = 'nomenclature'])]">
+        <named-content content-type="taxonStatus">
+            <xsl:apply-templates/>
+        </named-content>
     </xsl:template>
 
     <xsl:template match="treatment">
