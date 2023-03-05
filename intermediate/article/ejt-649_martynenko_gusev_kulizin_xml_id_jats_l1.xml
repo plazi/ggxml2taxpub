@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article SYSTEM "../../../TaxPub/tax-treatment-NS0-v1.dtd">
 <article xmlns:tp="http://www.plazi.org/taxpub">
    <body>
       <sec sec-type="multiple">
-         <p>DUMMY HEADING</p>
+         <title>DUMMY HEADING</title>
          <p>A new species of <tp:taxon-name>Cryptomonas</tp:taxon-name> (
                <tp:taxon-name>Cryptophyceae</tp:taxon-name> ) from the Western Urals ( Russia ) </p>
          <p> Nikita A . MARTYNENKO 1,* , Evgeniy S. GUSEV2 , Pavel V. KULIZIN3 , Elena E . GUSEVA 4
@@ -19,7 +18,7 @@
             Email: max-kulikovsky@yandex.ru</p>
       </sec>
       <sec sec-type="abstract">
-         <p>Abstract</p>
+         <title>Abstract</title>
          <p>Abstract.A new species, <tp:taxon-name>Cryptomonas uralensis Martynenko, Gusev, Kulizin
                &amp; Guseva </tp:taxon-name>
             <tp:taxon-status>sp. nov.</tp:taxon-status> , is described from western slopes of the
@@ -39,7 +38,7 @@
             be reliably identified using molecular data. </p>
       </sec>
       <sec sec-type="key_words">
-         <p>Key Words</p>
+         <title>Key Words</title>
          <p>Keywords.<tp:taxon-name>Cryptomonas</tp:taxon-name> , new species, SSU rDNA, LSU and ITS
             2 rDNA markers, nuclear ITS 2 secondary structure, Compensatory Base Changes approach,
             Urals. </p>
@@ -49,7 +48,7 @@
             European Journal of Taxonomy 649: 1–12. https://doi.org/10.5852/ejt.2020.649 </p>
       </sec>
       <sec sec-type="introduction">
-         <p>Introduction</p>
+         <title>Introduction</title>
          <p>Cryptophytes (also known as cryptomonads) are mostly photoautotrophic, unicellular,
             biflagellate, softbodied protists distributed in diverse freshwater, brackish, and
             marine habitats. They are characterized by a number of morphological and ultrastructural
@@ -90,13 +89,15 @@
                marssonii Skuja </tp:taxon-name> , <tp:taxon-name>C. ovata Ehrenb. </tp:taxon-name>
             and <tp:taxon-name>C. erosa Ehrenb. </tp:taxon-name> have been reported from the Urals
             based on morphological data ( Tretyakova et al. 1988 ; Tretyakova </p>
-         <p>Fig. 1.</p>https://zenodo.org/record/3836111/files/figure.png<p> 1989; Belyaeva 2013 ,
-            2015 ). A new species of <tp:taxon-name>Cryptomonas</tp:taxon-name> from Russia is here
-            described based on combination of morphological and molecular data. </p>
+         <p>Fig. 1.</p>
+         <p>Map of the study area; created using SASPlanet
+            (http://www.sasgis.org).</p>https://zenodo.org/record/3836111/files/figure.png<p> 1989;
+            Belyaeva 2013 , 2015 ). A new species of <tp:taxon-name>Cryptomonas</tp:taxon-name> from
+            Russia is here described based on combination of morphological and molecular data. </p>
       </sec>
       <sec sec-type="materials_methods">
-         <p>Material and methods</p>
-         <p>Study area</p>
+         <title>Material and methods</title>
+         <title>Study area</title>
          <p> Samples were collected from an unnamed small lake in the Usolka River flood plain,
             located in Solikamsk town, Permskiy Krai, Russia ( 59°38′59″ N , 56°44′57″ E , Fig. 1 ).
             Permskiy Krai is located on the western slope of the Ural Mountains, in upper and middle
@@ -105,19 +106,19 @@
             during July. The annual precipitation also varies, from 450–600 mm in the western plain
             to 700–1000 mm in eastern mountainous territories of the Northern Urals, with snow cover
             usually 160–170 days/year ( Nazarov 2006 ). </p>
-         <p>Samples and collections</p>
+         <title>Samples and collections</title>
          <p> Planktonic samples were collected by the first author using a plankton net with 20 μm
             mesh size. Water mineralization and temperature measurements were performed using the
             Hanna device (HI 9828, Hanna Instruments, Inc., Woonsocket, RI, USA ). Strains were
             isolated and cultures perpetually transferred to IPPAS (Culture Collection of Microalgae
             at the K. A . Timiryazev Institute of Plant Physiology of the Russian Academy of
             Sciences). </p>
-         <p>Culturing</p>
+         <title>Culturing</title>
          <p> Monoclonal strains were established by examination of micropipetted single cells under
             an inverted microscope. Non-axenic unialgal cultures were maintained in WC and Waris-H
             liquid medium ( Andersen 2005 ; McFadden &amp; Melkonian 1986 ) at 10° C in a growth
             chamber with a 12:12 h light:dark photoperiod. </p>
-         <p>Light microscopy</p>
+         <title>Light microscopy</title>
          <p> For light microscopy, living cells were immobilized by embedment in ultra-low gelling
             agarose (Sigma- Aldrich, A 4018, USA ) and examined by Nomarski differential
             interference contrast (DIC) with an oil immersion lens (Plan-Apochromat 100x/1.40 Oil
@@ -127,7 +128,7 @@
             follows the nomenclature of Hoef-Emden &amp; Melkonian (2003) (ventral side corresponds
             to the opening side of the furrow–gullet system). Calibration of magnification was done
             with a grated micrometer. Light micrographs were taken with an AxioCam ERc 5s Rev.2. </p>
-         <p>DNA extraction and amplification</p>
+         <title>DNA extraction and amplification</title>
          <p> Total DNA was extracted from monoclonal cultures using InstaGeneTM Matrix according to
             manufacturer’s protocol. Fragments of SSU (length 1533 bp) and LSU rDNA (length 946 bp)
             and ITS 2 rDNA (402 bp) were amplified using primers from Choi et al. (2013) :
@@ -145,7 +146,7 @@
             fragments were decoded from two sides using forward and reverse PCR primers and the Big
             Dye system (Applied Biosystems, Foster City, CA, USA ), followed by electrophoresis
             using a Genetic Analyzer 3500 sequencer (Applied Biosystems, Foster City, CA, USA ). </p>
-         <p>Phylogenetic analysis</p>
+         <title>Phylogenetic analysis</title>
          <p> Electropherograms were verified by eye and sequences were assembled using BioEdit ver.
             7.1.3 and MegaX ( Kumar et al. 2018 ). Newly determined sequences and GenBank sequences
             of 45 other cryptomonads from different morphological groups were included in the
@@ -168,14 +169,14 @@
             ( Kumar et al. 2018 ). Branch support was estimated using bootstrap analysis with 1000
             replicas. Viewing and editing of trees were performed in FigTree ver. 1.4.2 (FigTree
             2014) and Adobe Photoshop CC (ver. 19.0). </p>
-         <p>RNA secondary structure prediction</p>
+         <title>RNA secondary structure prediction</title>
          <p> Nuclear ITS 2 sequences were folded using the mfold server
             (http://mfold.rna.albany.edu/?q=mfold/RNA-Folding-Form) ( Zuker 2003 ) with default
             values. Hoef- Emden (2007) provided a complete RNA secondary structure graph of the
             nuclear ITS 2 rDNA of <tp:taxon-name>Cryptomonas</tp:taxon-name> sp. M1634, which was
             used as a template and assisted in inference of common stems, loops, and bulges. </p>
          <p>Results</p>
-         <p>Molecular phylogeny</p>
+         <title>Molecular phylogeny</title>
          <p> The new species, <tp:taxon-name>Cryptomonas uralensis</tp:taxon-name>
             <tp:taxon-status>sp. nov.</tp:taxon-status> , represents a separate clade with high
             statistical support, sister to <tp:taxon-name>Cryptomonas tetrapyrenoidosa Skuja emend.
@@ -284,7 +285,7 @@
          </tp:treatment-sec>
       </tp:taxon-treatment>
       <p>Figs 2–12.</p>https://zenodo.org/record/3836113/files/figure.png<sec sec-type="discussion">
-         <p>Discussion</p>
+         <title>Discussion</title>
          <p>
             <tp:taxon-name>Cryptomonas uralensis</tp:taxon-name>
             <tp:taxon-status>sp. nov.</tp:taxon-status> represents a distinct clade with high
@@ -304,7 +305,12 @@
             and formed two subclades ( Choi et al. 2013 ). However, no formal taxonomic descriptions
             have been made. In our opinion, these are very likely a new species. Thus, the
                <tp:taxon-name>C. tetrapyrenoidosa</tp:taxon-name> clade requires further study. </p>
-         <p>Fig. 13.</p>https://zenodo.org/record/3836115/files/figure.png<p> Previous studies have
+         <p>Fig. 13.</p>
+         <p>Bayesian phylogenetic tree of the partial small subunit rDNA (SSU rDNA) and large
+            subunit ribosomal DNA (LSU rDNA) combined data set. The Bayesian posterior probability
+            (left) and maximum likelihood bootstrap value (right) are shown. Scale bar represents
+            estimated number of substitution per
+            site.</p>https://zenodo.org/record/3836115/files/figure.png<p> Previous studies have
             suggested that the nuclear internal transcribed spacer 2 ( ITS 2) is a good marker to
             identify biological species using degree of conservation. Coleman (2000) and Müller et
             al. (2007) have proposed that CBCs in the ITS 2 correlate with speciation and thus can
@@ -326,7 +332,17 @@
             ITS 2 confirms separation between <tp:taxon-name>C. uralensis</tp:taxon-name>
             <tp:taxon-status>sp. nov.</tp:taxon-status> and <tp:taxon-name>C.
                tetrapyrenoidosa</tp:taxon-name> . </p>
-         <p>Fig. 14.</p>https://zenodo.org/record/3836117/files/figure.png<p>Fig. 15.</p>https://zenodo.org/record/3836119/files/figure.png<p>
+         <p>Fig. 14.</p>
+         <p>Predicted secondary structure of the nuclear internal transcribed spacer 2 of the strain
+            UR168 (from 5’ to 3’ terminus in clockwise
+            direction).</p>https://zenodo.org/record/3836117/files/figure.png<p>Fig. 15.</p>
+         <p> Predicted secondary structures of the nuclear internal transcribed spacer 2 helix II
+            and helix III (clockwise from 5’ to 3’ termini) of <tp:taxon-name>Cryptomonas uralensis
+               Martynenko, Gusev, Kulizin &amp; Guseva </tp:taxon-name>
+            <tp:taxon-status>sp. nov.</tp:taxon-status> ( a , strain UR168) and <tp:taxon-name>C.
+               tetrapyrenoidosa Skuja emend. Hoef-Emden &amp; Melkonian </tp:taxon-name> ( b ,
+            strain M1092, GenBank accession number AJ566146). CBCs are marked by rectangular boxes.
+            In both helices II, the conserved unpaired U-U motif was found. </p>https://zenodo.org/record/3836119/files/figure.png<p>
             <tp:taxon-name>Cryptomonas pyrenoidifera Geitler emend. Hoef-Emden &amp; Melkonian
             </tp:taxon-name> was found to be sister to the clade containing <tp:taxon-name>C.
                uralensis</tp:taxon-name>
@@ -356,7 +372,7 @@
             characters. </p>
       </sec>
       <sec sec-type="acknowledgments">
-         <p>Acknowledgements</p>
+         <title>Acknowledgements</title>
          <p> Authors are grateful to D. Kapustin for help in preparation of two images ( Figs 7 and
             12 ) and I. Pozdeev for collection assistance. Authors are grateful for reviewers for
             constructive comments which help to improve the manuscript. This study was supported by
@@ -364,7 +380,7 @@
             АААА-А19-119041190086-6). </p>
       </sec>
       <sec sec-type="reference_group">
-         <p>References</p>
+         <title>References</title>
          <p>Andersen R.A. (ed.) 2005 . Algal Culturing Techniques . Elsevier Academic Press, Oxford
             . </p>
          <p>Belyaeva P.G.2013 . Species composition and phytoplankton structure of the Kama
@@ -444,7 +460,7 @@
             Nucleic Acids Research31 : 3406–3415 . https://doi.org/10.1093/nar/gkg595</p>
       </sec>
       <sec sec-type="multiple">
-         <p>DUMMY HEADING</p>
+         <title>DUMMY HEADING</title>
          <p> Manuscript received: 26 September 2019</p>
          <p> Manuscript accepted: 26 February 2020</p>
          <p> Published on: 20 May 2020</p>

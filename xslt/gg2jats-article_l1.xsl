@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs mods"
     xmlns:mods="http://www.loc.gov/mods/v3" xmlns:tp="http://www.plazi.org/taxpub" version="1.1">
 
-    <xsl:include href="gg2tp_l1.xsl"/>
+    <xsl:include href="gg2tp_l1.xsl" />
 
     <xsl:strip-space elements="*"/>
 
@@ -30,18 +30,24 @@
                 <xsl:attribute name="sec-type">
                     <xsl:value-of select="@type"/>
                 </xsl:attribute>
-                <xsl:apply-templates/>
+                <xsl:apply-templates mode="main"/>
             </sec>
     </xsl:template>
 
-    <xsl:template match="paragraph">
+    <xsl:template match="paragraph" mode="main">
         <p>
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+    
+    <xsl:template match="paragraph[descendant::heading]" mode="main">
+        <title>
+            <xsl:apply-templates/>
+        </title>
+    </xsl:template>
 
     <xsl:template match="treatment">
-        <xsl:apply-templates/>
+        <xsl:apply-templates />
     </xsl:template>
 
     <xsl:template match="*">
