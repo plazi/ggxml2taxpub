@@ -15,14 +15,27 @@
 
     <xsl:template match="document">
         <article>
-            <xsl:apply-templates select="mods:mods"/>
+            <front><xsl:apply-templates select="mods:mods"/></front>
             <body>
-            <xsl:apply-templates/>
+            <xsl:apply-templates select="* except mods:mods"/>
             </body>
         </article>
     </xsl:template>
 
-    <xsl:template match="mods:mods"/>
+    <xsl:template match="mods:mods">
+        <journal-meta>
+            <journal-id><xsl:value-of select="mods:identifier[@type = 'DOI']"/></journal-id>
+            <issn><xsl:value-of select="mods:identifier[@type = 'ISSN']"/></issn>
+        </journal-meta>
+        <article-meta>
+            <title-group>
+                <article-title><xsl:value-of select="mods:titleInfo/mods:title"/></article-title>
+            </title-group>
+            <pub-date>
+                <year><xsl:value-of select="mods:relatedItem[@type = 'host']/mods:part/mods:date"/></year>
+            </pub-date>
+        </article-meta>
+    </xsl:template>
 
     <xsl:template match="subSection">
 
@@ -44,6 +57,13 @@
         <title>
             <xsl:apply-templates/>
         </title>
+    </xsl:template>
+    
+    <!-- SKIPPED ELEMENTS --> 
+    
+    <!-- SKIPPING figureWrap everywhere -->
+    <xsl:template match="figureWrap">
+        <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
     </xsl:template>
     
     <xsl:template match="figureWrap" mode="main">
