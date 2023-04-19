@@ -1,0 +1,6464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:tp="http://www.plazi.org/taxpub">
+   <front>
+      <journal-meta>
+         <journal-id>http://dx.doi.org/10.11646/zootaxa.4020.1.3</journal-id>
+         <issn>1175-5326</issn>
+      </journal-meta>
+      <article-meta>
+         <title-group>
+            <article-title>Two new species of erect Bryozoa (Gymnolaemata: Cheilostomata) and the application of non-destructive imaging methods for quantitative taxonomy</article-title>
+         </title-group>
+         <pub-date>
+            <year>2015</year>
+         </pub-date>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="multiple">
+         <p>
+Two new species of erect 
+<tp:taxon-name>Bryozoa</tp:taxon-name>
+(Gymnolaemata: 
+<tp:taxon-name>Cheilostomata</tp:taxon-name>
+) and
+</p>
+         <p>the application of non-destructive imaging methods for quantitative taxonomy</p>
+         <p>
+KEI MATSUYAMA 
+1
+, JÜRGEN TITSCHACK1,2, DANIEL BAUM 
+3
+&amp; ANDRÉ FREIWALD 
+11
+Senckenberg am Meer, Abteilung Meeresforschung, Südstrand 40, 26382 Wilhelmshaven, 
+Germany
+. E-mail: kei.matsuyama@senckenberg.de
+</p>
+         <p>2
+MARUM—Center of Marine Environmental Sciences, University of Bremen, Leobener Straße, 
+28359
+Bremen, 
+Germany3
+ZIB—Zuse Institute Berlin, Takustraße 7, 14195 Berlin-Dahlem, 
+Germany</p>
+      </sec>
+      <sec sec-type="abstract">
+         <title>Abstract</title>
+         <p>
+Two new species of cheilostome 
+<tp:taxon-name>Bryozoa</tp:taxon-name>
+are described from continental-slope habitats off 
+Mauritania
+, including canyon and cold-water coral (mound) habitats. Internal structures of both species were visualised and quantified using microcomputed tomographic (micro-CT) methods. 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+is characterised by the arrangement of zooids in alternating longitudinal rows, a smooth cryptocyst, and the presence of an ooecial plate with denticles. 
+<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+exhibits many similarities with 
+<tp:taxon-name>Smittina cervicornis
+(
+
+Pallas, 
+1766
+)
+</tp:taxon-name>
+, but differs especially in the shape and orientation of the suboral avicularium. Observations on 
+<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+and material labelled as 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+suggest that the latter represents a species group, members of which have not yet been discriminated, possibly because of high intracolony variation and marked astogenetic changes in surface morphology. Both new species are known only from the habitats where they were collected, probably reflecting the paucity of bryozoan sampling from this geographic area and depth range. Both species are able to tolerate low oxygen concentration, which is assumed to be compensated by the high nutrient supply off 
+Mauritania
+. The application of micro-CT for the semiautomatic quantification of zooidal skeletal characters was successfully tested. We were able to automatically distinguish individual zooidal cavities and acquire corresponding morphological datasets. Comparing the obtained results with conventional SEM measurements allowed ascertaining the reliability of this new method. The employment of micro-CT allows the observation and quantification of previously unseen characters that can be used in describing and differentiating species that were previously indistinguishable. Furthermore, this method might help elucidate processes of colony growth and the function of individual zooids during this process.
+</p>
+         <p>Key words:Mauritania
+, Northeast Atlantic, continental margin, micro-CT, 
+<tp:taxon-name>Cellaria</tp:taxon-name>
+, 
+<tp:taxon-name>Smittina</tp:taxon-name>
+         </p>
+      </sec>
+      <sec sec-type="introduction">
+         <title>Introduction</title>
+         <p>
+Records of 
+<tp:taxon-name>Bryozoa</tp:taxon-name>
+from waters off 
+Mauritania
+are scarce. The first comprehensive studies that also included this area were published by 
+Canu &amp; Bassler (1925
+, 
+1928
+), describing bryozoans collected mainly on the 
+Vanneau
+cruise, together with some minor collections by several researchers and amateur naturalists. Later, d’Hondt (
+1978
+) concluded this short series by describing some remaining 
+<tp:taxon-name>Bryozoa</tp:taxon-name>
+collected by the 
+Vanneau
+. The majority of species described in these publications, however, are from Moroccan waters. 
+Cook (1968
+, 
+1985
+) intensively studied the West African bryozoan fauna, but only occasionally mentioned bryozoans off 
+Mauritania
+. Records of 
+<tp:taxon-name>Bryozoa</tp:taxon-name>
+growing on cold-water corals appear only sporadically in all these publications. This is also the case on a global scale, as bryozoans appear either in faunal lists of the cold-water coral-associated fauna (e.g. 
+
+Le Danois 
+1948
+; 
+
+Rogers 
+1999
+; 
+
+Rosso 
+et al
+. 
+2010
+), or cold-water corals appear coincidentally as substrata for bryozoans in general taxonomic works (e.g. 
+
+Ryland 
+1963
+; Harmelin &amp; d’Hondt 
+1992
+a,b). Notable exceptions are 
+
+Zabala 
+et al
+. (
+1993
+)
+
+and 
+
+López-Fé (
+2006
+)
+
+, who focused entirely on cold-water coral-associated bryozoans.
+</p>
+         <p>
+The continental margin off 
+Mauritania
+is marked by the presence of the most southern deep-water coral mounds known in the eastern North Atlantic, comprising 
+<tp:taxon-name>Lophelia pertusa
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+and 
+<tp:taxon-name>Madrepora oculata
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+. These represent one of the largest coral-mound provinces, with a latitudinal extent exceeding 
+200 km
+(
+
+Colman 
+et al
+. 
+2005
+; 
+
+Westphal 
+et al
+. 
+2007
+). The mound province extends from north of the Cap Timiris Canyon System (
+
+Krastel 
+et al
+. 
+2004
+) to the Mauritanian Slide Complex in the south (
+
+Wien 
+et al
+. 
+2007
+). Coral mounds occur at depths between 
+450
+and 
+550 m
+, in the lower and less-depleted part of a pronounced oxygenminimum zone, caused by one of the largest upwelling systems worldwide (
+
+Hagen 
+2001
+), making the waters off 
+Mauritania
+highly productive (
+
+Gabric 
+et al
+. 
+1993
+; 
+
+Marañón &amp; Holligan 
+1999
+). The living corals form small, isolated colonies, only infrequently forming larger aggregations, and most often colonising canyon walls or isolated rock outcrops. Bryozoans seem to appear in great diversity and abundance in these coral habitats (
+
+Westphal 
+et al
+. 
+2012
+).
+</p>
+         <p>
+The present study contributes to a first comprehensive assessment of the upper-bathyal bryozoan fauna from cold-water coral habitats and closely adjacent areas off 
+Mauritania
+by describing two new cheilostome species from these environments. We also discuss the required environmental conditions and habitat preferences of both species. The identifications and descriptions are based on conventional micrographs from scanning electron microscopy (SEM) that were further substantiated by microcomputed tomography (micro-CT). So far, micro-CT has been used primarily to visualise internal structures of Recent and fossil cheilostomes (
+
+Schmidt 
+2012
+; Koromyslova &amp; Pakhnevich 
+2014
+), Recent and fossil cyclostomes (Taylor 
+et al
+. 
+2008
+; Koromyslova 
+et al
+. 
+2014
+), fossil boring ctenostomes (
+
+Viskova &amp; Pakhnevich 
+2010
+), fossil fenestrates (
+
+Wyse Jackson &amp; McKinney 
+2013
+) and fossil trepostomes (
+
+Buttler 
+et al
+. 
+2012
+), although 
+
+Klicpera 
+et al
+. (
+2013
+)
+
+used micro-CT analysis to measure and estimate the ratio of calcitic skeleton to the total volume of a single zooid. The results of our study highlight the capabilities and possibilities offered by micro-CT to visualise and quantify internal skeletal structures. We also tested the reliability of semiautomatic quantification of zooecial characters by comparing them with conventional SEM analyses.
+</p>
+      </sec>
+      <sec sec-type="materials_methods">
+         <title>Material and methods</title>
+         <p>
+Bryozoan specimens were retrieved from surface-sediment samples collected during RV 
+Maria S. Merian
+cruise MSM 
+16
+/ 
+3
+“PHAETON – Paleoceanographic and paleoclimatic record on the Mauritanian shelf” (
+13
+October – 
+20
+November 
+2010
+) off 
+Mauritania
+(
+
+Westphal 
+et al
+. 
+2012
+). Sampling was performed by using a box corer with an opening of 
+50
+× 
+50 cm
+and a height of 
+55 cm
+, a grab sampler, and a remotely operated vehicle (ROV) (Sperre SubFighter 
+7500
+DC of The Tjärnö Centre for Underwater Documentation, Sven Lovén Centre for Marine Sciences Tjärnö, University of Gothenburg, Strömstad, 
+Sweden
+). A total of 
+25
+coral-rubble samples, partly with living coral specimens still present, were screened for bryozoans using a Zeiss Stemi 
+2000
+stereomicroscope, revealing about 
+60
+species. The two new cheilostome species, present in 
+13
+out of the 
+25
+coral rubble samples, were selected for the micro-CT analysis. These 
+13
+samples were representative of the highly variable seafloor topography in the area investigated, comprising coral mounds, canyons and positions in between, which allowed an assessment of habitat preferences (
+
+, 
+
+Table 
+1
+).
+</p>
+         <p>
+For further examination, taxonomic identification and description, specimens were treated with household bleach comprising 
+2.8 g
+/l sodium hypochlorite for 
+2
+hours to remove non-skeletal material, which might increase the complexity of the reconstruction and volumetric rendering of the skeleton. The specimen of 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+chosen for micro-CT analysis was additionally cleaned in an ultrasonic bath to remove small sand grains clogging some of the opesiae.
+</p>
+         <p>
+Images of uncoated material were taken using a Tescan 
+VEGA3
+XMU SEM using a BSE-detector in lowvacuum mode (
+20
+Pa) at Senckenberg am Meer, Wilhelmshaven, 
+Germany
+. Conventional measurements, i.e. dimensions of orifices and zooecia, were made on SEM micrographs using ImageJ ver. 
+1.49
+software.
+</p>
+         <p>
+One selected specimen of each species (
+SMF40003
+and 
+SMF40010
+) was scanned with a Skyscan (now Bruker MicroCT) micro-CT for SEM attached to the SEM mentioned above. This instrument uses an X-ray source formed by focusing an electron beam onto a copper target. The X-rays pass through the rotating sample and are detected by a high-resolution X-ray camera. The scanning parameters for both specimens were: source voltage 
+30
+kV, source current 
+2
+mA, rotation step 
+0.45
+° and 
+360
+° rotation. These conditions resulted in a resolution of approximately 
+4
+µm. The rotational dataset obtained was reconstructed using NRecon ver. 
+1.6
+. 
+3.3
+(Skyscan) software into 
+504
+horizontally orientated slices, each slice forming a 
+512
+× 
+512
+pixel image.
+</p>
+         <p>FIGURE 1.
+Charts showing the positions of all stations investigated based on MSM 16-3 multibeam surveys. Stations in bold font are those where either 
+<tp:taxon-name>C
+. 
+bafouri</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+or 
+<tp:taxon-name>S
+. 
+imragueni</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+occurred. Black areas in the insets A–H denote data gaps. The bathymetry of the overview map is from CleanTOPO2, http://www.shadedrelief.com/cleantopo2/.
+</p>
+         <p>TABLE 1.
+Station data and occurrence of 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+and 
+<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+         </p>
+         <p>Station list 14802-1Latitude (°N) 20°14.791′Longitude (°W) 17°40.188′Depth (m) 595Location Tanoudert CanyonPosition Canyon shoulderGear Grab sampler<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+×
+<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>14802-220°14.791′17°40.188′595Tanoudert CanyonCanyon shoulderGrab sampler×14799-120°14.674′17°40.099′490Tanoudert CanyonCanyon shoulderBox corer×14760-219°44.292′17°08.754′478Arguin CanyonCanyonBox corer××14858-119°44.283′17°08.790′483Arguin CanyonCanyonGrab sampler××14877-418°57.805′16°52.126′493Timiris Mound complexMound topGravity corer×14877-118°57.802′16°52.126′498Timiris Mound complexMound topBox corer×14888-118°38.997′16°43.607′600Inchiri CanyonCanyon shoulderBox corer×14903-117°32.853′16°39.700′414Tamxat Mound ComplexMound topBox corer××14904-117°32.559′16°39.805′510Tamxat Mound ComplexMound topBox corer××14911-117°28.910′16°41.509′450Tamxat Mound ComplexMound topBox corer××14914-617°08.126′16°49.294′429Tiguent Mound ComplexMound topROV×</p>
+         <p>
+The data were processed with the ZIB (Zuse Institute Berlin) edition of Amira software (version 
+2014.51
+) (
+
+Stalling 
+et al
+. 
+2005
+; http://amira.zib.de). Zooid cavities were segmented by the ambient occlusion algorithm (Baum &amp; Titschack in prep.), which allowed separation of bryozoan pore space from the surrounding sample space (both consisting of air). Single-zooid and avicularian chamber segmentation, as well as the segmentation of opesiae and rhizoidal pores, were subsequently performed with the 
+SegmentationEditor
+module. Size determinations were obtained with the 
+ShapeAnalysis
+module. For each segmental entity, we present the maximum extent in the three primary directions, as well as the volume. These values correspond to the proximal-distal length, ventral-dorsal depth and lateral width of an autozooidal chamber, in decreasing order. For the avicularian chamber of 
+<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+and the opesiae of 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+, the largest value is the lateral width. Finally, the segmentation results were exported as 
+Surfaces
+and the 
+ShapeAnalysis
+results were exported as spreadsheets and further processed in Microsoft Excel.
+</p>
+         <p>
+Measurements obtained from SEM images and micro-CT datasets were statistically evaluated using 
+PAST3.06
+(
+
+Hammer 
+et al
+. 
+2001
+). Normal distribution was tested using the Shapiro-Wilk test. Welchs’s t-test, which returns robust results even if the variances of the samples are unequal, was used to test the equality of means. Significance level was set at 
+0.05
+.
+</p>
+         <p>
+The classification herein follows the working scheme of 
+<tp:taxon-name>Cheilostomata</tp:taxon-name>
+by D.P. Gordon (pers. comm. 
+2014
+) for eventual publication in the revised 
+Treatise on Invertebrate Paleontology
+. The specimens of the new species described herein are lodged in the bryozoan collections of the Forschungsinstitut und Naturmuseen Senckenberg, Sektion Marine Evertebraten III, Frankfurt am Main, 
+Germany
+, registered under 
+SMF40001
+to 
+SMF40011
+. Some comparative material was examined at the Natural History Museum, Department of Life Sciences, London, 
+UK
+(
+NHMUK
+).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>Systematics</title>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+Order 
+<tp:taxon-name>
+Cheilostomata 
+
+Busk 
+1852</tp:taxon-name>
+         </title>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+Suborder 
+<tp:taxon-name>Neocheilostomina</tp:taxon-name>
+d’Hondt, 
+1985</title>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+Superfamily Cellarioidea 
+
+Fleming, 
+1828</title>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+Family 
+<tp:taxon-name>
+Cellariidae 
+
+Fleming, 
+1828</tp:taxon-name>
+         </title>
+      </sec>
+      <tp:taxon-treatment>
+         <tp:treatment-meta>
+            <kwd-group>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Cellaria
+Ellis &amp; Solander, 
+1786</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Farcimia sinuosa
+Hassall, 
+1840</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria harmelini
+d’Hondt, 
+1973</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria harmelini tenuis
+d’Hondt, 
+1974</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria cookae
+López
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+cookae</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. cookae</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria cookae</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Smittina
+Norman, 
+1903</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Lepralia landsborovii
+Johnston, 
+1847</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina
+imragueni
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina
+imragueni
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis
+(
+
+Pallas, 
+1766
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Porus cervinus</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Porella tubulifera
+Heller
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Porella laevis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>
+var. 
+subcompressa
+Busk, 
+1884</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina colletti
+(
+
+Jullien &amp; Calvet, 
+1903
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. colletti</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. colletti</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina colletti</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Lophelia pertusa
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Madrepora oculata
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+            </kwd-group>
+            <mixed-citation>
+               <named-content content-type="treatment-title">Two new species of erect Bryozoa (Gymnolaemata: Cheilostomata) and the application of non-destructive imaging methods for quantitative taxonomy</named-content>
+               <uri content-type="zenodo-doi">http://dx.doi.org/10.11646/zootaxa.4020.1.3</uri>
+               <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/FFDD550694518571FFCAFFFF7F20454A</uri>
+               <article-title/>
+               <pub-id pub-id-type="doi">http://dx.doi.org/10.11646/zootaxa.4020.1.3</pub-id>
+               <issn>1175-5326</issn>
+               <source>Zootaxa</source>
+            </mixed-citation>
+         </tp:treatment-meta>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Cellaria
+Ellis &amp; Solander, 
+1786</tp:taxon-name>
+         </tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+            <tp:taxon-status>n. sp.</tp:taxon-status>
+(
+
+, 
+
+)
+</tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Smittina
+Norman, 
+1903</tp:taxon-name>
+         </tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+            <tp:taxon-status>n. sp.</tp:taxon-status>
+(
+
+, 
+
+)
+</tp:mixed-nomenclature>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Type
+species.
+<tp:taxon-name>Farcimia sinuosa
+Hassall, 
+1840</tp:taxon-name>
+            </p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Material examined.Holotype
+: 
+SMF40001
+, station GeoB 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex. 
+Paratypes
+: 
+SMF40002
+, station GeoB 
+14911
+-1, 17° 
+28.910
+ʹ N, 
+16
+° 
+41.509
+ʹ W, 
+450 m
+, Tamxat Mound Complex; 
+SMF40003
+, station GeoB 
+14760
+-2, 19° 
+44.292
+ʹ N, 
+17
+°08.754ʹ W, 
+478 m
+, 
+Arguin
+Canyon; 
+SMF40004
+, station GeoB 
+14802
+-1, 20° 
+14.791
+ʹ N, 
+17
+° 
+40.188
+ʹ W, 
+595 m
+, Tanoudert Canyon.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="etymology">
+            <p>Etymology.
+The species name is derived from the Bafour, pre-Islamic inhabitants of what is now 
+Mauritania
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.<tp:taxon-name>Cellaria</tp:taxon-name>
+with subhexagonal zooids in alternating longitudinal rows, a smooth cryptocyst, two stout, frontally directed oral denticles in proximal corners and a denticulate ooecial plate.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>Description.
+Colony erect, flexible, slender, dichotomously branching. Internodes 
+4–5 mm
+long, composed of 
+10–12
+rows of zooids. Joints brownish. Fertile segments slightly thickened. Zooids arranged longitudinally in four alternating series (
+
+A, B). Each new branch starts with a row of three autozooids (
+
+C). Autozooids regularly subhexagonal; longitudinally successive zooids do not touch each other, but are separated by neighbouring zooids of next row, which are offset by 
+45
+° (
+
+A, B). Distal border rounded, proximal border Vshaped. Borders consist of small ridges with shallow grooves on each side. Fertile zooids in contact with those of offset row and mostly with laterally successive zooid (
+
+B). Cryptocyst mostly smooth, centrally depressed, flanked by two ridges extending from distolateral zooidal borders to proximolateral borders; proximal and distal parts may be very finely granular, but only in some fertile zooids; ridges slightly converging proximally. Opesia transversely D-shaped, wider than long, proximal margin convex; denticle with acute tip in each proximolateral corner, bent 
+90
+°, directed frontally; distal margin beaded (
+
+A, C). Operculum chitinous, yellowish. Ooecial opening situated at distal end of zooid, distal margin formed by succeeding zooid, semicircular, proximal margin formed by broadly semicircular plate with denticulate edge (
+
+B). No avicularia observed. Circular perforations for kenozooidal rhizoids on swollen area immediately proximal to orifice, in groups of 
+3–5
+(
+
+D, E).
+</p>
+            <p>MeanSDMinMaxNZooid length (non ovicellate)6005851071316Zooid width (non ovicellate)3916525547016Opesia length101246113916Opesia width1351910116516Rhizoidal pore diameter557456911</p>
+            <p>Micro-CT imaging and quantification.
+Interior autozooidal chambers have shape of elongate cone, proximal end often vermiform (
+
+). Autozooids in transverse row not directly connected to each other, but with proximal tip of succeeding zooid in between. Interzooidal connections via longitudinally elongate tubes of variable length, originating distobasally on each side of zooid (
+
+A–C). Rhizoidal chamber tubular, often trumpet-shaped, each rhizoidal chamber originating directly from its associated autozooid, immediately proximal to orifice; in most cases, basal part directed proximally, with gentle bend at about mid-length directing it to final frontal orientation (
+
+D, E).
+</p>
+            <p>
+There was no significant difference between the superficial length of a zooid and the length of the zooidal chamber (
+p
+= 
+0.77
+) (
+Tables 2
+, 
+3
+). The arrangement of the individual zooids, not touching the zooids of the preceding row, might allow the zooidal chamber to extend a little further. However, this is only sometimes the case; most zooidal chambers have their proximal end just a little below the level of the orifices of the preceding row, leaving a small area without a cavity, i.e. fully calcified, which corresponds to the lateral contact of the preceding row’s zooids (
+
+). The automatic detection and measurement of the opesiae and rhizoidal pores did not show very clear results (
+
+A, B) because of high variability in orifice dimensions, especially those of the proximal row (
+
+A).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="discussion">
+            <p>Remarks.<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+exhibits some similarities with 
+<tp:taxon-name>Cellaria harmelini
+d’Hondt, 
+1973</tp:taxon-name>
+, which was recently redescribed by 
+
+Berning (
+2013
+)
+
+, and its subspecies 
+<tp:taxon-name>Cellaria harmelini tenuis
+d’Hondt, 
+1974</tp:taxon-name>
+, as well as with 
+<tp:taxon-name>Cellaria cookae
+López
+</tp:taxon-name>
+de la Cuadra &amp; García-Gómez, 
+1996
+. 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+differs distinctly from 
+<tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+and 
+<tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+in having the plate covering the ooecial opening distally larger and rounded, concealing more than half of the opening, and in having much stouter oral denticles. (Note that 
+<tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+differs from 
+<tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+in the relative length of its internodes and in lacking thickened fertile segments.) 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+has a smooth cryptocyst, whereas that in 
+<tp:taxon-name>C
+. 
+cookae</tp:taxon-name>
+is granular; 
+<tp:taxon-name>C. cookae</tp:taxon-name>
+also has denticles only laterally on the ooecial plate. The absence of avicularia in 
+<tp:taxon-name>C. bafouri</tp:taxon-name>
+might not be diagnostic, as there is the possibility that they occur only very rarely and thus are missed in the present sampling.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution.<tp:taxon-name>Cellaria harmelini</tp:taxon-name>
+and 
+<tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+have been reported from the Bay of Biscay, and the latter also from off Vigo (d’Hondt 1973, 1974; Hayward 
+1978
+; 
+
+Hayward &amp; Ryland 
+1978
+). The former occurs between 
+180
+and 
+700 m
+depth (
+
+Berning 
+2013
+) and the latter between 
+400
+and 
+690 m
+(d’Hondt 
+1974
+). 
+<tp:taxon-name>Cellaria cookae</tp:taxon-name>
+is known from shallow water (
+44–47 m
+) off 
+Liberia
+(López de la Cuadra &amp; García-Gómez 
+1996
+). 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+is so far known only from cold-water coral habitats off 
+Mauritania
+, where living colonies can be found in the dead coral framework at the base of small patches of living corals. Intact colonies were not present on more-open substrata, e.g. coral rubble, but they were frequently present as small, isolated fragments in box-cored coral-rubble samples. 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+was found between 
+414
+and 
+595 m
+depth, similar to 
+<tp:taxon-name>C. harmelini</tp:taxon-name>
+and 
+<tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+. The smaller range is surely due to the focus of this particular cruise, and future research might reveal its true bathymetric as well as spatial distribution. It occurred at about half of the stations examined, distributed evenly along the whole latitudinal extent of the area investigated (
+
+Table 
+1
+, 
+
+).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Type
+species.
+<tp:taxon-name>Lepralia landsborovii
+Johnston, 
+1847</tp:taxon-name>
+            </p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Material examined.Holotype
+: 
+SMF40005
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex. 
+Paratypes
+: 
+SMF40006
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40007
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40008
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40009
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40010
+, station GeoB 
+14911
+-1, 17° 
+28.910
+ʹ N, 
+16
+° 
+41.509
+ʹ W, 
+450 m
+, Tamxat Mound Complex. 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+: 
+NHMUK1911.10
+. 
+1.1428
+, Adriatic, 
+34 m
+; 
+NHMUK1887.12
+. 
+9.585
+, 
+Cape Verde
+Islands, 
+183–274 m
+; 
+NHMUK1944.1
+. 
+8.281
+, 
+Cape Verde
+Islands, 
+183–219 m
+; 
+SMF9811
+, Riou Island, 
+34 m
+; 
+SMF40011
+, Adriatic, 
+15 m
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="etymology">
+            <p>Etymology.
+The species name is derived from the Imraguen, a tribe of Mauritanian fishermen inhabiting the area around Banc d’Arguin.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.
+Erect, bilaminar 
+<tp:taxon-name>Smittina</tp:taxon-name>
+with an oval suboral avicularium on the lyrula within the peristome, orientated longitudinally, almost normal to the direction of growth. Spines absent.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>Description.
+Colony erect, bilaminar, multiserial. Dichotomously branching, internodes flattened (
+
+A). The laminae of each branch are symmetrical to each other with respect to autozooidal arrangement. Autozooids arranged in diagonal series consisting of four autozooids (
+
+A). Neighbouring zooids on narrow side of branch are on same level (
+
+B). Zooids more or less rectangular, distal end rounded, surface convex, boundaries distinct. Sutures in primary calcification straight in cross-sections; serrated in area of secondary calcification (
+
+B). Septular pores simple. Frontal shield cryptocystidean, evenly porous. Primary orifice elongate-semicircular, deeply immersed, lyrula about half as wide as orifice, truncate. Condyles rounded, directed proximomedially. Oral spines absent (
+
+C–E). Proximally, but still on lyrula, distinct oval avicularium, nearly normal to direction of growth. Rostrum oval, rounded, proximal border finely serrate, crossbar complete, with bifid ligula (
+
+C–F). Thick cylindrical peristome develops through secondary calcification, projecting from colony surface, almost concealing primary orifice and in later ontogeny incorporating and almost concealing avicularium. Secondary calcification leads eventually to flattened colony surface, owing to immersion of peristomes and avicularia; peristomial rim forms circular or oval secondary orifice that eventually becomes constricted in middle by ‘pseudocondyles’, separating avicularium from orifice and resulting in keyhole shape (
+
+F). Zooids early in astogeny form encrusting base (
+
+G, H); these zooids have lyrula with median ridge, and peristomes sometimes closed by secondary calcification during ontogeny, leading to bulbous appearance (
+
+H). Ancestrula same shape as autozooids, but smaller and with fewer pores (
+
+G). Ovicells not observed.
+</p>
+            <p>MeanSDMinMaxNZooid length99955865110915Zooid width3973432446015Orifice length2482420128515Orifice width1591813119515Oral avicularium length89781985Oral avicularium width841069965</p>
+            <p>Micro-CT imaging and quantification.
+Interior zooidal chamber larger transversely than basal-frontally (
+
+A, B). Avicularium connected mediofrontally to zooidal chamber, immediately proximal to orifice (
+
+C, D); avicularian chamber shaped like rugby ball, orientated transversely and perpendicular to rostrum, and tapering laterally around zooidal chamber. Two or three frontal pores arise from avicularian chamber, indistinguishable from other frontal pores originating from autozooidal chamber (
+
+E). Frontal pores cylindrical (
+
+C, D).
+</p>
+            <p>
+Values for the volume and the maximum extent of all three spatial axes of the zooidal and avicularian chambers clearly show two distinct groups (n = 
+16
+) (
+
+). The variance for both groups differs depending on the character measured. Zooids show the smallest variation in the width of the zooidal chamber (
+
+Table 
+6
+), whereas avicularia show the smallest variance in depth (
+
+Table 
+7
+).
+</p>
+            <p>
+Orificial and frontal-pore measurements form three clusters (
+
+F, 
+9
+): a large cluster of 
+441
+data points plots between 
+20
+and 
+50
+µm; a second group of 
+18
+data points between 
+180
+and 
+240
+µm, with a mean of 
+209
+µm; and a third group of 
+56
+data points ranging in size from 
+50 to 140
+µm. This last group is most evident in the length plot (
+
+A), while in the width plot separation from the second group is less distinct (
+
+B).
+</p>
+            <p>Difficulties in species identification arise from intracolony variation owing to increasing calcification during ontogeny. While peristomes and avicularia are easily discernible in younger parts of the colony, they become scarcely discernible in older parts. The zooidal boundaries also become more irregular and partly occluded. These limitations can be overcome by using micro-CT imaging techniques or by viewing distal branch segments in the early ontogenic stage. As the internal basal and lateral walls were not completely resolved during the scan, owing to comparatively low acceleration voltage resulting in only a fragmentary reconstruction, we cannot describe the distribution and shape of communication pores. It is evident from the reconstructed transverse stack that new zooids originate from the median lamina, simultaneously on each side.</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="discussion">
+            <p>Remarks.<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+closely resembles 
+<tp:taxon-name>S. cervicornis
+(
+
+Pallas, 
+1766
+)
+</tp:taxon-name>
+. 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+is one of the bryozoans mentioned earliest in the literature, as references to this species can be traced back to 
+
+Imperato (
+1599
+)
+
+, who described and figured an erect, laminar, branching species from the Mediterranean as “ 
+<tp:taxon-name>Porus cervinus</tp:taxon-name>
+”. However, confusion exists concerning the actual 
+type
+, as Pallas’s collection appears to be lost (
+
+Kuklinski &amp; Taylor 
+2008
+) and no 
+lectotype
+has been designated. Pallas also did not provide any figures.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="reference_group">
+            <p>
+               <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+differs from an Adriatic specimen of 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+(NHM 1911.10.1.1428) in the position of the avicularium. In the Adriatic colony, it is positioned in the same plane as the frontal surface, whereas in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+it extends from the lyrula along the proximal peristomial margin, resulting in a more oblique orientation relative to the direction of colony growth. The distal end of the rostrum is also more acute in the Adriatic specimen. It is noteworthy that this Adriatic specimen, which is part of the Canon Alfred Merle Norman collection, has a 
+type
+label that is amended by “?part of 
+type
+material”. A small included note states that it was originally described as “ 
+<tp:taxon-name>Porella tubulifera
+Heller
+</tp:taxon-name>
+” and was apparently sent by Camil Heller. Another species from the Adriatic (
+SMF40011
+) has the avicularium oriented 
+35
+° to 
+45
+° from the direction of zooidal growth, which still appears less oblique than in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+. The avicularium itself also has an acute rostrum. Material from the Adriatic figured by 
+
+Hayward &amp; McKinney (
+2002
+)
+
+as 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+seems to be this species. A western Mediterranean specimen from Riou Island (
+SMF9811
+) has the same more-frontal orientation of the avicularium as the Adriatic specimens, but the shape of the rostrum appears similar to that in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+, though it is even more acute. At present, it is uncertain whether the Riou Island specimen is conspecific with Adriatic 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+. Two other specimens at the NHM, from the 
+Cape Verde
+Islands, also recorded as 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+, which were originally described as 
+<tp:taxon-name>Porella laevis</tp:taxon-name>
+               <tp:taxon-name>
+var. 
+subcompressa
+Busk, 
+1884</tp:taxon-name>
+(NHM 
+1887.12
+. 
+9.585
+and NHM 1944.1.8.281), show the same orientation of the avicularium as the Mediterranean species, but differ from 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+and 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+in other aspects of zooid morphology and in having differently shaped and also dimorphic suboral avicularia.
+</p>
+            <p>
+Another similar species is the less well-known 
+<tp:taxon-name>Smittina colletti
+(
+
+Jullien &amp; Calvet, 
+1903
+)
+</tp:taxon-name>
+, which differs from 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+in the orientation and the relative size of the suboral avicularium and 
+<tp:taxon-name>S. colletti</tp:taxon-name>
+also has a characteristic median denticle on top of the lyrula. The zooidal sizes given by 
+
+Harmelin (
+1969
+)
+
+for 
+<tp:taxon-name>S. colletti</tp:taxon-name>
+are significantly smaller than those for 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+.
+</p>
+            <p>
+Strong secondary calcification and intracolony variation complicate identification for these three species, and close attention should be given to the shape and orientation of the suboral avicularium. Further studies might reveal the true identity of 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               <named-content content-type="taxonStatus">s.s.</named-content>
+            </p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution.<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+occurs mainly in the Mediterranean (
+
+Zabala &amp; Maluquer 
+1988
+; 
+
+Rosso 
+2003
+), but it has also been reported along the West African coast, from 
+Morocco
+(
+Canu &amp; Bassler 1925
+, 
+1928
+; d’Hondt, 
+1978
+) to 
+Equatorial Guinea
+(
+Cook 1968
+, 
+1985
+) and the Canaries (
+
+Aristegui &amp; Cruz 
+1986
+). Its northern extent is the coast of Brittany (
+
+Harmelin 
+et al
+. 
+1994
+). The bathymetric range seems to be from shallow coastal water down to 
+120 m
+(
+
+Cook 
+1968
+; 
+
+Harmelin 
+et al
+. 
+1994
+; 
+
+Hayward &amp; McKinney 
+2002
+), but 
+
+Canu &amp; Bassler (
+1928
+)
+
+reported a depth of 
+400 m
+in the Bay of Biscay. 
+<tp:taxon-name>Smittina colletti</tp:taxon-name>
+has also been reported from the Bay of Biscay (
+
+Jullien &amp; Calvet 
+1903
+; 
+
+Harmelin 
+1969
+) and the Western Mediterranean (
+
+Gautier 
+1962
+; 
+
+Harmelin 
+1969
+), in waters deeper than 
+100 m
+.
+
+The short account of the different forms of “ 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+” given above suggests that this is in fact a species complex, containing at least three species. 
+<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+is so far known only from cold-water coral and adjacent habitats off 
+Mauritania
+, at depths of 
+414 to 600 m
+, where it forms small, branched colonies attached to the dead coral framework in the basal part of small patches of living and dead colonies of the corals 
+<tp:taxon-name>Lophelia pertusa
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+and 
+<tp:taxon-name>Madrepora oculata
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+. In the area investigated, 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+occurred south of 
+18.5
+° N
+
+and in the 
+Arguin
+Canyon (
+
+Table 
+1
+; 
+
+).
+</p>
+         </tp:treatment-sec>
+      </tp:taxon-treatment>
+      <tp:taxon-treatment>
+         <tp:treatment-meta>
+            <kwd-group>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Cellaria
+Ellis &amp; Solander, 
+1786</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Farcimia sinuosa
+Hassall, 
+1840</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria harmelini
+d’Hondt, 
+1973</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria harmelini tenuis
+d’Hondt, 
+1974</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria cookae
+López
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+cookae</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. cookae</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria cookae</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Smittina
+Norman, 
+1903</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Lepralia landsborovii
+Johnston, 
+1847</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina
+imragueni
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina
+imragueni
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis
+(
+
+Pallas, 
+1766
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Porus cervinus</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Porella tubulifera
+Heller
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Porella laevis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>
+var. 
+subcompressa
+Busk, 
+1884</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina colletti
+(
+
+Jullien &amp; Calvet, 
+1903
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. colletti</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. colletti</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina colletti</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Lophelia pertusa
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Madrepora oculata
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+            </kwd-group>
+            <mixed-citation>
+               <named-content content-type="treatment-title">Two new species of erect Bryozoa (Gymnolaemata: Cheilostomata) and the application of non-destructive imaging methods for quantitative taxonomy</named-content>
+               <uri content-type="zenodo-doi">http://dx.doi.org/10.11646/zootaxa.4020.1.3</uri>
+               <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/FFDD550694518571FFCAFFFF7F20454A</uri>
+               <article-title/>
+               <pub-id pub-id-type="doi">http://dx.doi.org/10.11646/zootaxa.4020.1.3</pub-id>
+               <issn>1175-5326</issn>
+               <source>Zootaxa</source>
+            </mixed-citation>
+         </tp:treatment-meta>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Cellaria
+Ellis &amp; Solander, 
+1786</tp:taxon-name>
+         </tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+            <tp:taxon-status>n. sp.</tp:taxon-status>
+(
+
+, 
+
+)
+</tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Smittina
+Norman, 
+1903</tp:taxon-name>
+         </tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+            <tp:taxon-status>n. sp.</tp:taxon-status>
+(
+
+, 
+
+)
+</tp:mixed-nomenclature>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Type
+species.
+<tp:taxon-name>Farcimia sinuosa
+Hassall, 
+1840</tp:taxon-name>
+            </p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Material examined.Holotype
+: 
+SMF40001
+, station GeoB 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex. 
+Paratypes
+: 
+SMF40002
+, station GeoB 
+14911
+-1, 17° 
+28.910
+ʹ N, 
+16
+° 
+41.509
+ʹ W, 
+450 m
+, Tamxat Mound Complex; 
+SMF40003
+, station GeoB 
+14760
+-2, 19° 
+44.292
+ʹ N, 
+17
+°08.754ʹ W, 
+478 m
+, 
+Arguin
+Canyon; 
+SMF40004
+, station GeoB 
+14802
+-1, 20° 
+14.791
+ʹ N, 
+17
+° 
+40.188
+ʹ W, 
+595 m
+, Tanoudert Canyon.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="etymology">
+            <p>Etymology.
+The species name is derived from the Bafour, pre-Islamic inhabitants of what is now 
+Mauritania
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.<tp:taxon-name>Cellaria</tp:taxon-name>
+with subhexagonal zooids in alternating longitudinal rows, a smooth cryptocyst, two stout, frontally directed oral denticles in proximal corners and a denticulate ooecial plate.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>Description.
+Colony erect, flexible, slender, dichotomously branching. Internodes 
+4–5 mm
+long, composed of 
+10–12
+rows of zooids. Joints brownish. Fertile segments slightly thickened. Zooids arranged longitudinally in four alternating series (
+
+A, B). Each new branch starts with a row of three autozooids (
+
+C). Autozooids regularly subhexagonal; longitudinally successive zooids do not touch each other, but are separated by neighbouring zooids of next row, which are offset by 
+45
+° (
+
+A, B). Distal border rounded, proximal border Vshaped. Borders consist of small ridges with shallow grooves on each side. Fertile zooids in contact with those of offset row and mostly with laterally successive zooid (
+
+B). Cryptocyst mostly smooth, centrally depressed, flanked by two ridges extending from distolateral zooidal borders to proximolateral borders; proximal and distal parts may be very finely granular, but only in some fertile zooids; ridges slightly converging proximally. Opesia transversely D-shaped, wider than long, proximal margin convex; denticle with acute tip in each proximolateral corner, bent 
+90
+°, directed frontally; distal margin beaded (
+
+A, C). Operculum chitinous, yellowish. Ooecial opening situated at distal end of zooid, distal margin formed by succeeding zooid, semicircular, proximal margin formed by broadly semicircular plate with denticulate edge (
+
+B). No avicularia observed. Circular perforations for kenozooidal rhizoids on swollen area immediately proximal to orifice, in groups of 
+3–5
+(
+
+D, E).
+</p>
+            <p>MeanSDMinMaxNZooid length (non ovicellate)6005851071316Zooid width (non ovicellate)3916525547016Opesia length101246113916Opesia width1351910116516Rhizoidal pore diameter557456911</p>
+            <p>Micro-CT imaging and quantification.
+Interior autozooidal chambers have shape of elongate cone, proximal end often vermiform (
+
+). Autozooids in transverse row not directly connected to each other, but with proximal tip of succeeding zooid in between. Interzooidal connections via longitudinally elongate tubes of variable length, originating distobasally on each side of zooid (
+
+A–C). Rhizoidal chamber tubular, often trumpet-shaped, each rhizoidal chamber originating directly from its associated autozooid, immediately proximal to orifice; in most cases, basal part directed proximally, with gentle bend at about mid-length directing it to final frontal orientation (
+
+D, E).
+</p>
+            <p>
+There was no significant difference between the superficial length of a zooid and the length of the zooidal chamber (
+p
+= 
+0.77
+) (
+Tables 2
+, 
+3
+). The arrangement of the individual zooids, not touching the zooids of the preceding row, might allow the zooidal chamber to extend a little further. However, this is only sometimes the case; most zooidal chambers have their proximal end just a little below the level of the orifices of the preceding row, leaving a small area without a cavity, i.e. fully calcified, which corresponds to the lateral contact of the preceding row’s zooids (
+
+). The automatic detection and measurement of the opesiae and rhizoidal pores did not show very clear results (
+
+A, B) because of high variability in orifice dimensions, especially those of the proximal row (
+
+A).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="discussion">
+            <p>Remarks.<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+exhibits some similarities with 
+<tp:taxon-name>Cellaria harmelini
+d’Hondt, 
+1973</tp:taxon-name>
+, which was recently redescribed by 
+
+Berning (
+2013
+)
+
+, and its subspecies 
+<tp:taxon-name>Cellaria harmelini tenuis
+d’Hondt, 
+1974</tp:taxon-name>
+, as well as with 
+<tp:taxon-name>Cellaria cookae
+López
+</tp:taxon-name>
+de la Cuadra &amp; García-Gómez, 
+1996
+. 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+differs distinctly from 
+<tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+and 
+<tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+in having the plate covering the ooecial opening distally larger and rounded, concealing more than half of the opening, and in having much stouter oral denticles. (Note that 
+<tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+differs from 
+<tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+in the relative length of its internodes and in lacking thickened fertile segments.) 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+has a smooth cryptocyst, whereas that in 
+<tp:taxon-name>C
+. 
+cookae</tp:taxon-name>
+is granular; 
+<tp:taxon-name>C. cookae</tp:taxon-name>
+also has denticles only laterally on the ooecial plate. The absence of avicularia in 
+<tp:taxon-name>C. bafouri</tp:taxon-name>
+might not be diagnostic, as there is the possibility that they occur only very rarely and thus are missed in the present sampling.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution.<tp:taxon-name>Cellaria harmelini</tp:taxon-name>
+and 
+<tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+have been reported from the Bay of Biscay, and the latter also from off Vigo (d’Hondt 1973, 1974; Hayward 
+1978
+; 
+
+Hayward &amp; Ryland 
+1978
+). The former occurs between 
+180
+and 
+700 m
+depth (
+
+Berning 
+2013
+) and the latter between 
+400
+and 
+690 m
+(d’Hondt 
+1974
+). 
+<tp:taxon-name>Cellaria cookae</tp:taxon-name>
+is known from shallow water (
+44–47 m
+) off 
+Liberia
+(López de la Cuadra &amp; García-Gómez 
+1996
+). 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+is so far known only from cold-water coral habitats off 
+Mauritania
+, where living colonies can be found in the dead coral framework at the base of small patches of living corals. Intact colonies were not present on more-open substrata, e.g. coral rubble, but they were frequently present as small, isolated fragments in box-cored coral-rubble samples. 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+was found between 
+414
+and 
+595 m
+depth, similar to 
+<tp:taxon-name>C. harmelini</tp:taxon-name>
+and 
+<tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+. The smaller range is surely due to the focus of this particular cruise, and future research might reveal its true bathymetric as well as spatial distribution. It occurred at about half of the stations examined, distributed evenly along the whole latitudinal extent of the area investigated (
+
+Table 
+1
+, 
+
+).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Type
+species.
+<tp:taxon-name>Lepralia landsborovii
+Johnston, 
+1847</tp:taxon-name>
+            </p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Material examined.Holotype
+: 
+SMF40005
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex. 
+Paratypes
+: 
+SMF40006
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40007
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40008
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40009
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40010
+, station GeoB 
+14911
+-1, 17° 
+28.910
+ʹ N, 
+16
+° 
+41.509
+ʹ W, 
+450 m
+, Tamxat Mound Complex. 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+: 
+NHMUK1911.10
+. 
+1.1428
+, Adriatic, 
+34 m
+; 
+NHMUK1887.12
+. 
+9.585
+, 
+Cape Verde
+Islands, 
+183–274 m
+; 
+NHMUK1944.1
+. 
+8.281
+, 
+Cape Verde
+Islands, 
+183–219 m
+; 
+SMF9811
+, Riou Island, 
+34 m
+; 
+SMF40011
+, Adriatic, 
+15 m
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="etymology">
+            <p>Etymology.
+The species name is derived from the Imraguen, a tribe of Mauritanian fishermen inhabiting the area around Banc d’Arguin.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.
+Erect, bilaminar 
+<tp:taxon-name>Smittina</tp:taxon-name>
+with an oval suboral avicularium on the lyrula within the peristome, orientated longitudinally, almost normal to the direction of growth. Spines absent.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>Description.
+Colony erect, bilaminar, multiserial. Dichotomously branching, internodes flattened (
+
+A). The laminae of each branch are symmetrical to each other with respect to autozooidal arrangement. Autozooids arranged in diagonal series consisting of four autozooids (
+
+A). Neighbouring zooids on narrow side of branch are on same level (
+
+B). Zooids more or less rectangular, distal end rounded, surface convex, boundaries distinct. Sutures in primary calcification straight in cross-sections; serrated in area of secondary calcification (
+
+B). Septular pores simple. Frontal shield cryptocystidean, evenly porous. Primary orifice elongate-semicircular, deeply immersed, lyrula about half as wide as orifice, truncate. Condyles rounded, directed proximomedially. Oral spines absent (
+
+C–E). Proximally, but still on lyrula, distinct oval avicularium, nearly normal to direction of growth. Rostrum oval, rounded, proximal border finely serrate, crossbar complete, with bifid ligula (
+
+C–F). Thick cylindrical peristome develops through secondary calcification, projecting from colony surface, almost concealing primary orifice and in later ontogeny incorporating and almost concealing avicularium. Secondary calcification leads eventually to flattened colony surface, owing to immersion of peristomes and avicularia; peristomial rim forms circular or oval secondary orifice that eventually becomes constricted in middle by ‘pseudocondyles’, separating avicularium from orifice and resulting in keyhole shape (
+
+F). Zooids early in astogeny form encrusting base (
+
+G, H); these zooids have lyrula with median ridge, and peristomes sometimes closed by secondary calcification during ontogeny, leading to bulbous appearance (
+
+H). Ancestrula same shape as autozooids, but smaller and with fewer pores (
+
+G). Ovicells not observed.
+</p>
+            <p>MeanSDMinMaxNZooid length99955865110915Zooid width3973432446015Orifice length2482420128515Orifice width1591813119515Oral avicularium length89781985Oral avicularium width841069965</p>
+            <p>Micro-CT imaging and quantification.
+Interior zooidal chamber larger transversely than basal-frontally (
+
+A, B). Avicularium connected mediofrontally to zooidal chamber, immediately proximal to orifice (
+
+C, D); avicularian chamber shaped like rugby ball, orientated transversely and perpendicular to rostrum, and tapering laterally around zooidal chamber. Two or three frontal pores arise from avicularian chamber, indistinguishable from other frontal pores originating from autozooidal chamber (
+
+E). Frontal pores cylindrical (
+
+C, D).
+</p>
+            <p>
+Values for the volume and the maximum extent of all three spatial axes of the zooidal and avicularian chambers clearly show two distinct groups (n = 
+16
+) (
+
+). The variance for both groups differs depending on the character measured. Zooids show the smallest variation in the width of the zooidal chamber (
+
+Table 
+6
+), whereas avicularia show the smallest variance in depth (
+
+Table 
+7
+).
+</p>
+            <p>
+Orificial and frontal-pore measurements form three clusters (
+
+F, 
+9
+): a large cluster of 
+441
+data points plots between 
+20
+and 
+50
+µm; a second group of 
+18
+data points between 
+180
+and 
+240
+µm, with a mean of 
+209
+µm; and a third group of 
+56
+data points ranging in size from 
+50 to 140
+µm. This last group is most evident in the length plot (
+
+A), while in the width plot separation from the second group is less distinct (
+
+B).
+</p>
+            <p>Difficulties in species identification arise from intracolony variation owing to increasing calcification during ontogeny. While peristomes and avicularia are easily discernible in younger parts of the colony, they become scarcely discernible in older parts. The zooidal boundaries also become more irregular and partly occluded. These limitations can be overcome by using micro-CT imaging techniques or by viewing distal branch segments in the early ontogenic stage. As the internal basal and lateral walls were not completely resolved during the scan, owing to comparatively low acceleration voltage resulting in only a fragmentary reconstruction, we cannot describe the distribution and shape of communication pores. It is evident from the reconstructed transverse stack that new zooids originate from the median lamina, simultaneously on each side.</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="discussion">
+            <p>Remarks.<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+closely resembles 
+<tp:taxon-name>S. cervicornis
+(
+
+Pallas, 
+1766
+)
+</tp:taxon-name>
+. 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+is one of the bryozoans mentioned earliest in the literature, as references to this species can be traced back to 
+
+Imperato (
+1599
+)
+
+, who described and figured an erect, laminar, branching species from the Mediterranean as “ 
+<tp:taxon-name>Porus cervinus</tp:taxon-name>
+”. However, confusion exists concerning the actual 
+type
+, as Pallas’s collection appears to be lost (
+
+Kuklinski &amp; Taylor 
+2008
+) and no 
+lectotype
+has been designated. Pallas also did not provide any figures.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="reference_group">
+            <p>
+               <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+differs from an Adriatic specimen of 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+(NHM 1911.10.1.1428) in the position of the avicularium. In the Adriatic colony, it is positioned in the same plane as the frontal surface, whereas in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+it extends from the lyrula along the proximal peristomial margin, resulting in a more oblique orientation relative to the direction of colony growth. The distal end of the rostrum is also more acute in the Adriatic specimen. It is noteworthy that this Adriatic specimen, which is part of the Canon Alfred Merle Norman collection, has a 
+type
+label that is amended by “?part of 
+type
+material”. A small included note states that it was originally described as “ 
+<tp:taxon-name>Porella tubulifera
+Heller
+</tp:taxon-name>
+” and was apparently sent by Camil Heller. Another species from the Adriatic (
+SMF40011
+) has the avicularium oriented 
+35
+° to 
+45
+° from the direction of zooidal growth, which still appears less oblique than in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+. The avicularium itself also has an acute rostrum. Material from the Adriatic figured by 
+
+Hayward &amp; McKinney (
+2002
+)
+
+as 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+seems to be this species. A western Mediterranean specimen from Riou Island (
+SMF9811
+) has the same more-frontal orientation of the avicularium as the Adriatic specimens, but the shape of the rostrum appears similar to that in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+, though it is even more acute. At present, it is uncertain whether the Riou Island specimen is conspecific with Adriatic 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+. Two other specimens at the NHM, from the 
+Cape Verde
+Islands, also recorded as 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+, which were originally described as 
+<tp:taxon-name>Porella laevis</tp:taxon-name>
+               <tp:taxon-name>
+var. 
+subcompressa
+Busk, 
+1884</tp:taxon-name>
+(NHM 
+1887.12
+. 
+9.585
+and NHM 1944.1.8.281), show the same orientation of the avicularium as the Mediterranean species, but differ from 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+and 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+in other aspects of zooid morphology and in having differently shaped and also dimorphic suboral avicularia.
+</p>
+            <p>
+Another similar species is the less well-known 
+<tp:taxon-name>Smittina colletti
+(
+
+Jullien &amp; Calvet, 
+1903
+)
+</tp:taxon-name>
+, which differs from 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+in the orientation and the relative size of the suboral avicularium and 
+<tp:taxon-name>S. colletti</tp:taxon-name>
+also has a characteristic median denticle on top of the lyrula. The zooidal sizes given by 
+
+Harmelin (
+1969
+)
+
+for 
+<tp:taxon-name>S. colletti</tp:taxon-name>
+are significantly smaller than those for 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+.
+</p>
+            <p>
+Strong secondary calcification and intracolony variation complicate identification for these three species, and close attention should be given to the shape and orientation of the suboral avicularium. Further studies might reveal the true identity of 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               <named-content content-type="taxonStatus">s.s.</named-content>
+            </p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution.<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+occurs mainly in the Mediterranean (
+
+Zabala &amp; Maluquer 
+1988
+; 
+
+Rosso 
+2003
+), but it has also been reported along the West African coast, from 
+Morocco
+(
+Canu &amp; Bassler 1925
+, 
+1928
+; d’Hondt, 
+1978
+) to 
+Equatorial Guinea
+(
+Cook 1968
+, 
+1985
+) and the Canaries (
+
+Aristegui &amp; Cruz 
+1986
+). Its northern extent is the coast of Brittany (
+
+Harmelin 
+et al
+. 
+1994
+). The bathymetric range seems to be from shallow coastal water down to 
+120 m
+(
+
+Cook 
+1968
+; 
+
+Harmelin 
+et al
+. 
+1994
+; 
+
+Hayward &amp; McKinney 
+2002
+), but 
+
+Canu &amp; Bassler (
+1928
+)
+
+reported a depth of 
+400 m
+in the Bay of Biscay. 
+<tp:taxon-name>Smittina colletti</tp:taxon-name>
+has also been reported from the Bay of Biscay (
+
+Jullien &amp; Calvet 
+1903
+; 
+
+Harmelin 
+1969
+) and the Western Mediterranean (
+
+Gautier 
+1962
+; 
+
+Harmelin 
+1969
+), in waters deeper than 
+100 m
+.
+
+The short account of the different forms of “ 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+” given above suggests that this is in fact a species complex, containing at least three species. 
+<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+is so far known only from cold-water coral and adjacent habitats off 
+Mauritania
+, at depths of 
+414 to 600 m
+, where it forms small, branched colonies attached to the dead coral framework in the basal part of small patches of living and dead colonies of the corals 
+<tp:taxon-name>Lophelia pertusa
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+and 
+<tp:taxon-name>Madrepora oculata
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+. In the area investigated, 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+occurred south of 
+18.5
+° N
+
+and in the 
+Arguin
+Canyon (
+
+Table 
+1
+; 
+
+).
+</p>
+         </tp:treatment-sec>
+      </tp:taxon-treatment>
+      <p>Zooidal chamber 1 2 3Volume (10 9 µm³) 0.008 0.009 0.006Length (µm) 632 406 496Width (µm) 320 357 242Depth (µm) 288 265 1814 50.008 0.009615 619316 291273 2476 7 8 90.010 0.006 0.009 0.006654 416 601 638415 298 293 239251 237 279 27610 110.008 0.009707 587274 337212 22512 13 14 150.006 0.009 0.006 0.007646 626 624 772288 248 293 234216 204 214 18516 Mean0.006 0.008701 609278 295258 238SD0.001944633</p>
+      <p>Opesia mean ± SD Opesia rangeWidth 133 ± 38 44–208Length 107 ± 35 29–189Rhizoidal pore mean ± SD Rhizoidal pore range65 ± 17 33–9746 ± 15 23–79Superfamily Smittinoidea Levinsen, 1909</p>
+      <sec sec-type="multiple">
+         <title>
+Family 
+<tp:taxon-name>
+Smittinidae 
+
+Levinsen, 
+1909</tp:taxon-name>
+         </title>
+      </sec>
+      <tp:taxon-treatment>
+         <tp:treatment-meta>
+            <kwd-group>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Cellaria
+Ellis &amp; Solander, 
+1786</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Farcimia sinuosa
+Hassall, 
+1840</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria harmelini
+d’Hondt, 
+1973</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria harmelini tenuis
+d’Hondt, 
+1974</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria cookae
+López
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+cookae</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. cookae</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria cookae</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Smittina
+Norman, 
+1903</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Lepralia landsborovii
+Johnston, 
+1847</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina
+imragueni
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina
+imragueni
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis
+(
+
+Pallas, 
+1766
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Porus cervinus</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Porella tubulifera
+Heller
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Porella laevis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>
+var. 
+subcompressa
+Busk, 
+1884</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina colletti
+(
+
+Jullien &amp; Calvet, 
+1903
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. colletti</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. colletti</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina colletti</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Lophelia pertusa
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Madrepora oculata
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+            </kwd-group>
+            <mixed-citation>
+               <named-content content-type="treatment-title">Two new species of erect Bryozoa (Gymnolaemata: Cheilostomata) and the application of non-destructive imaging methods for quantitative taxonomy</named-content>
+               <uri content-type="zenodo-doi">http://dx.doi.org/10.11646/zootaxa.4020.1.3</uri>
+               <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/FFDD550694518571FFCAFFFF7F20454A</uri>
+               <article-title/>
+               <pub-id pub-id-type="doi">http://dx.doi.org/10.11646/zootaxa.4020.1.3</pub-id>
+               <issn>1175-5326</issn>
+               <source>Zootaxa</source>
+            </mixed-citation>
+         </tp:treatment-meta>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Cellaria
+Ellis &amp; Solander, 
+1786</tp:taxon-name>
+         </tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+            <tp:taxon-status>n. sp.</tp:taxon-status>
+(
+
+, 
+
+)
+</tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Smittina
+Norman, 
+1903</tp:taxon-name>
+         </tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+            <tp:taxon-status>n. sp.</tp:taxon-status>
+(
+
+, 
+
+)
+</tp:mixed-nomenclature>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Type
+species.
+<tp:taxon-name>Farcimia sinuosa
+Hassall, 
+1840</tp:taxon-name>
+            </p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Material examined.Holotype
+: 
+SMF40001
+, station GeoB 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex. 
+Paratypes
+: 
+SMF40002
+, station GeoB 
+14911
+-1, 17° 
+28.910
+ʹ N, 
+16
+° 
+41.509
+ʹ W, 
+450 m
+, Tamxat Mound Complex; 
+SMF40003
+, station GeoB 
+14760
+-2, 19° 
+44.292
+ʹ N, 
+17
+°08.754ʹ W, 
+478 m
+, 
+Arguin
+Canyon; 
+SMF40004
+, station GeoB 
+14802
+-1, 20° 
+14.791
+ʹ N, 
+17
+° 
+40.188
+ʹ W, 
+595 m
+, Tanoudert Canyon.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="etymology">
+            <p>Etymology.
+The species name is derived from the Bafour, pre-Islamic inhabitants of what is now 
+Mauritania
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.<tp:taxon-name>Cellaria</tp:taxon-name>
+with subhexagonal zooids in alternating longitudinal rows, a smooth cryptocyst, two stout, frontally directed oral denticles in proximal corners and a denticulate ooecial plate.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>Description.
+Colony erect, flexible, slender, dichotomously branching. Internodes 
+4–5 mm
+long, composed of 
+10–12
+rows of zooids. Joints brownish. Fertile segments slightly thickened. Zooids arranged longitudinally in four alternating series (
+
+A, B). Each new branch starts with a row of three autozooids (
+
+C). Autozooids regularly subhexagonal; longitudinally successive zooids do not touch each other, but are separated by neighbouring zooids of next row, which are offset by 
+45
+° (
+
+A, B). Distal border rounded, proximal border Vshaped. Borders consist of small ridges with shallow grooves on each side. Fertile zooids in contact with those of offset row and mostly with laterally successive zooid (
+
+B). Cryptocyst mostly smooth, centrally depressed, flanked by two ridges extending from distolateral zooidal borders to proximolateral borders; proximal and distal parts may be very finely granular, but only in some fertile zooids; ridges slightly converging proximally. Opesia transversely D-shaped, wider than long, proximal margin convex; denticle with acute tip in each proximolateral corner, bent 
+90
+°, directed frontally; distal margin beaded (
+
+A, C). Operculum chitinous, yellowish. Ooecial opening situated at distal end of zooid, distal margin formed by succeeding zooid, semicircular, proximal margin formed by broadly semicircular plate with denticulate edge (
+
+B). No avicularia observed. Circular perforations for kenozooidal rhizoids on swollen area immediately proximal to orifice, in groups of 
+3–5
+(
+
+D, E).
+</p>
+            <p>MeanSDMinMaxNZooid length (non ovicellate)6005851071316Zooid width (non ovicellate)3916525547016Opesia length101246113916Opesia width1351910116516Rhizoidal pore diameter557456911</p>
+            <p>Micro-CT imaging and quantification.
+Interior autozooidal chambers have shape of elongate cone, proximal end often vermiform (
+
+). Autozooids in transverse row not directly connected to each other, but with proximal tip of succeeding zooid in between. Interzooidal connections via longitudinally elongate tubes of variable length, originating distobasally on each side of zooid (
+
+A–C). Rhizoidal chamber tubular, often trumpet-shaped, each rhizoidal chamber originating directly from its associated autozooid, immediately proximal to orifice; in most cases, basal part directed proximally, with gentle bend at about mid-length directing it to final frontal orientation (
+
+D, E).
+</p>
+            <p>
+There was no significant difference between the superficial length of a zooid and the length of the zooidal chamber (
+p
+= 
+0.77
+) (
+Tables 2
+, 
+3
+). The arrangement of the individual zooids, not touching the zooids of the preceding row, might allow the zooidal chamber to extend a little further. However, this is only sometimes the case; most zooidal chambers have their proximal end just a little below the level of the orifices of the preceding row, leaving a small area without a cavity, i.e. fully calcified, which corresponds to the lateral contact of the preceding row’s zooids (
+
+). The automatic detection and measurement of the opesiae and rhizoidal pores did not show very clear results (
+
+A, B) because of high variability in orifice dimensions, especially those of the proximal row (
+
+A).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="discussion">
+            <p>Remarks.<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+exhibits some similarities with 
+<tp:taxon-name>Cellaria harmelini
+d’Hondt, 
+1973</tp:taxon-name>
+, which was recently redescribed by 
+
+Berning (
+2013
+)
+
+, and its subspecies 
+<tp:taxon-name>Cellaria harmelini tenuis
+d’Hondt, 
+1974</tp:taxon-name>
+, as well as with 
+<tp:taxon-name>Cellaria cookae
+López
+</tp:taxon-name>
+de la Cuadra &amp; García-Gómez, 
+1996
+. 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+differs distinctly from 
+<tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+and 
+<tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+in having the plate covering the ooecial opening distally larger and rounded, concealing more than half of the opening, and in having much stouter oral denticles. (Note that 
+<tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+differs from 
+<tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+in the relative length of its internodes and in lacking thickened fertile segments.) 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+has a smooth cryptocyst, whereas that in 
+<tp:taxon-name>C
+. 
+cookae</tp:taxon-name>
+is granular; 
+<tp:taxon-name>C. cookae</tp:taxon-name>
+also has denticles only laterally on the ooecial plate. The absence of avicularia in 
+<tp:taxon-name>C. bafouri</tp:taxon-name>
+might not be diagnostic, as there is the possibility that they occur only very rarely and thus are missed in the present sampling.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution.<tp:taxon-name>Cellaria harmelini</tp:taxon-name>
+and 
+<tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+have been reported from the Bay of Biscay, and the latter also from off Vigo (d’Hondt 1973, 1974; Hayward 
+1978
+; 
+
+Hayward &amp; Ryland 
+1978
+). The former occurs between 
+180
+and 
+700 m
+depth (
+
+Berning 
+2013
+) and the latter between 
+400
+and 
+690 m
+(d’Hondt 
+1974
+). 
+<tp:taxon-name>Cellaria cookae</tp:taxon-name>
+is known from shallow water (
+44–47 m
+) off 
+Liberia
+(López de la Cuadra &amp; García-Gómez 
+1996
+). 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+is so far known only from cold-water coral habitats off 
+Mauritania
+, where living colonies can be found in the dead coral framework at the base of small patches of living corals. Intact colonies were not present on more-open substrata, e.g. coral rubble, but they were frequently present as small, isolated fragments in box-cored coral-rubble samples. 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+was found between 
+414
+and 
+595 m
+depth, similar to 
+<tp:taxon-name>C. harmelini</tp:taxon-name>
+and 
+<tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+. The smaller range is surely due to the focus of this particular cruise, and future research might reveal its true bathymetric as well as spatial distribution. It occurred at about half of the stations examined, distributed evenly along the whole latitudinal extent of the area investigated (
+
+Table 
+1
+, 
+
+).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Type
+species.
+<tp:taxon-name>Lepralia landsborovii
+Johnston, 
+1847</tp:taxon-name>
+            </p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Material examined.Holotype
+: 
+SMF40005
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex. 
+Paratypes
+: 
+SMF40006
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40007
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40008
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40009
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40010
+, station GeoB 
+14911
+-1, 17° 
+28.910
+ʹ N, 
+16
+° 
+41.509
+ʹ W, 
+450 m
+, Tamxat Mound Complex. 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+: 
+NHMUK1911.10
+. 
+1.1428
+, Adriatic, 
+34 m
+; 
+NHMUK1887.12
+. 
+9.585
+, 
+Cape Verde
+Islands, 
+183–274 m
+; 
+NHMUK1944.1
+. 
+8.281
+, 
+Cape Verde
+Islands, 
+183–219 m
+; 
+SMF9811
+, Riou Island, 
+34 m
+; 
+SMF40011
+, Adriatic, 
+15 m
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="etymology">
+            <p>Etymology.
+The species name is derived from the Imraguen, a tribe of Mauritanian fishermen inhabiting the area around Banc d’Arguin.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.
+Erect, bilaminar 
+<tp:taxon-name>Smittina</tp:taxon-name>
+with an oval suboral avicularium on the lyrula within the peristome, orientated longitudinally, almost normal to the direction of growth. Spines absent.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>Description.
+Colony erect, bilaminar, multiserial. Dichotomously branching, internodes flattened (
+
+A). The laminae of each branch are symmetrical to each other with respect to autozooidal arrangement. Autozooids arranged in diagonal series consisting of four autozooids (
+
+A). Neighbouring zooids on narrow side of branch are on same level (
+
+B). Zooids more or less rectangular, distal end rounded, surface convex, boundaries distinct. Sutures in primary calcification straight in cross-sections; serrated in area of secondary calcification (
+
+B). Septular pores simple. Frontal shield cryptocystidean, evenly porous. Primary orifice elongate-semicircular, deeply immersed, lyrula about half as wide as orifice, truncate. Condyles rounded, directed proximomedially. Oral spines absent (
+
+C–E). Proximally, but still on lyrula, distinct oval avicularium, nearly normal to direction of growth. Rostrum oval, rounded, proximal border finely serrate, crossbar complete, with bifid ligula (
+
+C–F). Thick cylindrical peristome develops through secondary calcification, projecting from colony surface, almost concealing primary orifice and in later ontogeny incorporating and almost concealing avicularium. Secondary calcification leads eventually to flattened colony surface, owing to immersion of peristomes and avicularia; peristomial rim forms circular or oval secondary orifice that eventually becomes constricted in middle by ‘pseudocondyles’, separating avicularium from orifice and resulting in keyhole shape (
+
+F). Zooids early in astogeny form encrusting base (
+
+G, H); these zooids have lyrula with median ridge, and peristomes sometimes closed by secondary calcification during ontogeny, leading to bulbous appearance (
+
+H). Ancestrula same shape as autozooids, but smaller and with fewer pores (
+
+G). Ovicells not observed.
+</p>
+            <p>MeanSDMinMaxNZooid length99955865110915Zooid width3973432446015Orifice length2482420128515Orifice width1591813119515Oral avicularium length89781985Oral avicularium width841069965</p>
+            <p>Micro-CT imaging and quantification.
+Interior zooidal chamber larger transversely than basal-frontally (
+
+A, B). Avicularium connected mediofrontally to zooidal chamber, immediately proximal to orifice (
+
+C, D); avicularian chamber shaped like rugby ball, orientated transversely and perpendicular to rostrum, and tapering laterally around zooidal chamber. Two or three frontal pores arise from avicularian chamber, indistinguishable from other frontal pores originating from autozooidal chamber (
+
+E). Frontal pores cylindrical (
+
+C, D).
+</p>
+            <p>
+Values for the volume and the maximum extent of all three spatial axes of the zooidal and avicularian chambers clearly show two distinct groups (n = 
+16
+) (
+
+). The variance for both groups differs depending on the character measured. Zooids show the smallest variation in the width of the zooidal chamber (
+
+Table 
+6
+), whereas avicularia show the smallest variance in depth (
+
+Table 
+7
+).
+</p>
+            <p>
+Orificial and frontal-pore measurements form three clusters (
+
+F, 
+9
+): a large cluster of 
+441
+data points plots between 
+20
+and 
+50
+µm; a second group of 
+18
+data points between 
+180
+and 
+240
+µm, with a mean of 
+209
+µm; and a third group of 
+56
+data points ranging in size from 
+50 to 140
+µm. This last group is most evident in the length plot (
+
+A), while in the width plot separation from the second group is less distinct (
+
+B).
+</p>
+            <p>Difficulties in species identification arise from intracolony variation owing to increasing calcification during ontogeny. While peristomes and avicularia are easily discernible in younger parts of the colony, they become scarcely discernible in older parts. The zooidal boundaries also become more irregular and partly occluded. These limitations can be overcome by using micro-CT imaging techniques or by viewing distal branch segments in the early ontogenic stage. As the internal basal and lateral walls were not completely resolved during the scan, owing to comparatively low acceleration voltage resulting in only a fragmentary reconstruction, we cannot describe the distribution and shape of communication pores. It is evident from the reconstructed transverse stack that new zooids originate from the median lamina, simultaneously on each side.</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="discussion">
+            <p>Remarks.<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+closely resembles 
+<tp:taxon-name>S. cervicornis
+(
+
+Pallas, 
+1766
+)
+</tp:taxon-name>
+. 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+is one of the bryozoans mentioned earliest in the literature, as references to this species can be traced back to 
+
+Imperato (
+1599
+)
+
+, who described and figured an erect, laminar, branching species from the Mediterranean as “ 
+<tp:taxon-name>Porus cervinus</tp:taxon-name>
+”. However, confusion exists concerning the actual 
+type
+, as Pallas’s collection appears to be lost (
+
+Kuklinski &amp; Taylor 
+2008
+) and no 
+lectotype
+has been designated. Pallas also did not provide any figures.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="reference_group">
+            <p>
+               <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+differs from an Adriatic specimen of 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+(NHM 1911.10.1.1428) in the position of the avicularium. In the Adriatic colony, it is positioned in the same plane as the frontal surface, whereas in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+it extends from the lyrula along the proximal peristomial margin, resulting in a more oblique orientation relative to the direction of colony growth. The distal end of the rostrum is also more acute in the Adriatic specimen. It is noteworthy that this Adriatic specimen, which is part of the Canon Alfred Merle Norman collection, has a 
+type
+label that is amended by “?part of 
+type
+material”. A small included note states that it was originally described as “ 
+<tp:taxon-name>Porella tubulifera
+Heller
+</tp:taxon-name>
+” and was apparently sent by Camil Heller. Another species from the Adriatic (
+SMF40011
+) has the avicularium oriented 
+35
+° to 
+45
+° from the direction of zooidal growth, which still appears less oblique than in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+. The avicularium itself also has an acute rostrum. Material from the Adriatic figured by 
+
+Hayward &amp; McKinney (
+2002
+)
+
+as 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+seems to be this species. A western Mediterranean specimen from Riou Island (
+SMF9811
+) has the same more-frontal orientation of the avicularium as the Adriatic specimens, but the shape of the rostrum appears similar to that in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+, though it is even more acute. At present, it is uncertain whether the Riou Island specimen is conspecific with Adriatic 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+. Two other specimens at the NHM, from the 
+Cape Verde
+Islands, also recorded as 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+, which were originally described as 
+<tp:taxon-name>Porella laevis</tp:taxon-name>
+               <tp:taxon-name>
+var. 
+subcompressa
+Busk, 
+1884</tp:taxon-name>
+(NHM 
+1887.12
+. 
+9.585
+and NHM 1944.1.8.281), show the same orientation of the avicularium as the Mediterranean species, but differ from 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+and 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+in other aspects of zooid morphology and in having differently shaped and also dimorphic suboral avicularia.
+</p>
+            <p>
+Another similar species is the less well-known 
+<tp:taxon-name>Smittina colletti
+(
+
+Jullien &amp; Calvet, 
+1903
+)
+</tp:taxon-name>
+, which differs from 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+in the orientation and the relative size of the suboral avicularium and 
+<tp:taxon-name>S. colletti</tp:taxon-name>
+also has a characteristic median denticle on top of the lyrula. The zooidal sizes given by 
+
+Harmelin (
+1969
+)
+
+for 
+<tp:taxon-name>S. colletti</tp:taxon-name>
+are significantly smaller than those for 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+.
+</p>
+            <p>
+Strong secondary calcification and intracolony variation complicate identification for these three species, and close attention should be given to the shape and orientation of the suboral avicularium. Further studies might reveal the true identity of 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               <named-content content-type="taxonStatus">s.s.</named-content>
+            </p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution.<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+occurs mainly in the Mediterranean (
+
+Zabala &amp; Maluquer 
+1988
+; 
+
+Rosso 
+2003
+), but it has also been reported along the West African coast, from 
+Morocco
+(
+Canu &amp; Bassler 1925
+, 
+1928
+; d’Hondt, 
+1978
+) to 
+Equatorial Guinea
+(
+Cook 1968
+, 
+1985
+) and the Canaries (
+
+Aristegui &amp; Cruz 
+1986
+). Its northern extent is the coast of Brittany (
+
+Harmelin 
+et al
+. 
+1994
+). The bathymetric range seems to be from shallow coastal water down to 
+120 m
+(
+
+Cook 
+1968
+; 
+
+Harmelin 
+et al
+. 
+1994
+; 
+
+Hayward &amp; McKinney 
+2002
+), but 
+
+Canu &amp; Bassler (
+1928
+)
+
+reported a depth of 
+400 m
+in the Bay of Biscay. 
+<tp:taxon-name>Smittina colletti</tp:taxon-name>
+has also been reported from the Bay of Biscay (
+
+Jullien &amp; Calvet 
+1903
+; 
+
+Harmelin 
+1969
+) and the Western Mediterranean (
+
+Gautier 
+1962
+; 
+
+Harmelin 
+1969
+), in waters deeper than 
+100 m
+.
+
+The short account of the different forms of “ 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+” given above suggests that this is in fact a species complex, containing at least three species. 
+<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+is so far known only from cold-water coral and adjacent habitats off 
+Mauritania
+, at depths of 
+414 to 600 m
+, where it forms small, branched colonies attached to the dead coral framework in the basal part of small patches of living and dead colonies of the corals 
+<tp:taxon-name>Lophelia pertusa
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+and 
+<tp:taxon-name>Madrepora oculata
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+. In the area investigated, 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+occurred south of 
+18.5
+° N
+
+and in the 
+Arguin
+Canyon (
+
+Table 
+1
+; 
+
+).
+</p>
+         </tp:treatment-sec>
+      </tp:taxon-treatment>
+      <tp:taxon-treatment>
+         <tp:treatment-meta>
+            <kwd-group>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Cellaria
+Ellis &amp; Solander, 
+1786</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Farcimia sinuosa
+Hassall, 
+1840</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria harmelini
+d’Hondt, 
+1973</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria harmelini tenuis
+d’Hondt, 
+1974</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria cookae
+López
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C
+. 
+cookae</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. cookae</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria cookae</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. harmelini</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Smittina
+Norman, 
+1903</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Lepralia landsborovii
+Johnston, 
+1847</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina
+imragueni
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina
+imragueni
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis
+(
+
+Pallas, 
+1766
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Porus cervinus</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Porella tubulifera
+Heller
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Porella laevis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>
+var. 
+subcompressa
+Busk, 
+1884</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina colletti
+(
+
+Jullien &amp; Calvet, 
+1903
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. colletti</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. colletti</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina colletti</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Lophelia pertusa
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Madrepora oculata
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>S. imragueni</tp:taxon-name>
+               </kwd>
+            </kwd-group>
+            <mixed-citation>
+               <named-content content-type="treatment-title">Two new species of erect Bryozoa (Gymnolaemata: Cheilostomata) and the application of non-destructive imaging methods for quantitative taxonomy</named-content>
+               <uri content-type="zenodo-doi">http://dx.doi.org/10.11646/zootaxa.4020.1.3</uri>
+               <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/FFDD550694518571FFCAFFFF7F20454A</uri>
+               <article-title/>
+               <pub-id pub-id-type="doi">http://dx.doi.org/10.11646/zootaxa.4020.1.3</pub-id>
+               <issn>1175-5326</issn>
+               <source>Zootaxa</source>
+            </mixed-citation>
+         </tp:treatment-meta>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Cellaria
+Ellis &amp; Solander, 
+1786</tp:taxon-name>
+         </tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+            <tp:taxon-status>n. sp.</tp:taxon-status>
+(
+
+, 
+
+)
+</tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Smittina
+Norman, 
+1903</tp:taxon-name>
+         </tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+            <tp:taxon-status>n. sp.</tp:taxon-status>
+(
+
+, 
+
+)
+</tp:mixed-nomenclature>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Type
+species.
+<tp:taxon-name>Farcimia sinuosa
+Hassall, 
+1840</tp:taxon-name>
+            </p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Material examined.Holotype
+: 
+SMF40001
+, station GeoB 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex. 
+Paratypes
+: 
+SMF40002
+, station GeoB 
+14911
+-1, 17° 
+28.910
+ʹ N, 
+16
+° 
+41.509
+ʹ W, 
+450 m
+, Tamxat Mound Complex; 
+SMF40003
+, station GeoB 
+14760
+-2, 19° 
+44.292
+ʹ N, 
+17
+°08.754ʹ W, 
+478 m
+, 
+Arguin
+Canyon; 
+SMF40004
+, station GeoB 
+14802
+-1, 20° 
+14.791
+ʹ N, 
+17
+° 
+40.188
+ʹ W, 
+595 m
+, Tanoudert Canyon.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="etymology">
+            <p>Etymology.
+The species name is derived from the Bafour, pre-Islamic inhabitants of what is now 
+Mauritania
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.<tp:taxon-name>Cellaria</tp:taxon-name>
+with subhexagonal zooids in alternating longitudinal rows, a smooth cryptocyst, two stout, frontally directed oral denticles in proximal corners and a denticulate ooecial plate.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>Description.
+Colony erect, flexible, slender, dichotomously branching. Internodes 
+4–5 mm
+long, composed of 
+10–12
+rows of zooids. Joints brownish. Fertile segments slightly thickened. Zooids arranged longitudinally in four alternating series (
+
+A, B). Each new branch starts with a row of three autozooids (
+
+C). Autozooids regularly subhexagonal; longitudinally successive zooids do not touch each other, but are separated by neighbouring zooids of next row, which are offset by 
+45
+° (
+
+A, B). Distal border rounded, proximal border Vshaped. Borders consist of small ridges with shallow grooves on each side. Fertile zooids in contact with those of offset row and mostly with laterally successive zooid (
+
+B). Cryptocyst mostly smooth, centrally depressed, flanked by two ridges extending from distolateral zooidal borders to proximolateral borders; proximal and distal parts may be very finely granular, but only in some fertile zooids; ridges slightly converging proximally. Opesia transversely D-shaped, wider than long, proximal margin convex; denticle with acute tip in each proximolateral corner, bent 
+90
+°, directed frontally; distal margin beaded (
+
+A, C). Operculum chitinous, yellowish. Ooecial opening situated at distal end of zooid, distal margin formed by succeeding zooid, semicircular, proximal margin formed by broadly semicircular plate with denticulate edge (
+
+B). No avicularia observed. Circular perforations for kenozooidal rhizoids on swollen area immediately proximal to orifice, in groups of 
+3–5
+(
+
+D, E).
+</p>
+            <p>MeanSDMinMaxNZooid length (non ovicellate)6005851071316Zooid width (non ovicellate)3916525547016Opesia length101246113916Opesia width1351910116516Rhizoidal pore diameter557456911</p>
+            <p>Micro-CT imaging and quantification.
+Interior autozooidal chambers have shape of elongate cone, proximal end often vermiform (
+
+). Autozooids in transverse row not directly connected to each other, but with proximal tip of succeeding zooid in between. Interzooidal connections via longitudinally elongate tubes of variable length, originating distobasally on each side of zooid (
+
+A–C). Rhizoidal chamber tubular, often trumpet-shaped, each rhizoidal chamber originating directly from its associated autozooid, immediately proximal to orifice; in most cases, basal part directed proximally, with gentle bend at about mid-length directing it to final frontal orientation (
+
+D, E).
+</p>
+            <p>
+There was no significant difference between the superficial length of a zooid and the length of the zooidal chamber (
+p
+= 
+0.77
+) (
+Tables 2
+, 
+3
+). The arrangement of the individual zooids, not touching the zooids of the preceding row, might allow the zooidal chamber to extend a little further. However, this is only sometimes the case; most zooidal chambers have their proximal end just a little below the level of the orifices of the preceding row, leaving a small area without a cavity, i.e. fully calcified, which corresponds to the lateral contact of the preceding row’s zooids (
+
+). The automatic detection and measurement of the opesiae and rhizoidal pores did not show very clear results (
+
+A, B) because of high variability in orifice dimensions, especially those of the proximal row (
+
+A).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="discussion">
+            <p>Remarks.<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+exhibits some similarities with 
+<tp:taxon-name>Cellaria harmelini
+d’Hondt, 
+1973</tp:taxon-name>
+, which was recently redescribed by 
+
+Berning (
+2013
+)
+
+, and its subspecies 
+<tp:taxon-name>Cellaria harmelini tenuis
+d’Hondt, 
+1974</tp:taxon-name>
+, as well as with 
+<tp:taxon-name>Cellaria cookae
+López
+</tp:taxon-name>
+de la Cuadra &amp; García-Gómez, 
+1996
+. 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+differs distinctly from 
+<tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+and 
+<tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+in having the plate covering the ooecial opening distally larger and rounded, concealing more than half of the opening, and in having much stouter oral denticles. (Note that 
+<tp:taxon-name>C
+. 
+harmelini tenuis</tp:taxon-name>
+differs from 
+<tp:taxon-name>C
+. 
+harmelini</tp:taxon-name>
+in the relative length of its internodes and in lacking thickened fertile segments.) 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+has a smooth cryptocyst, whereas that in 
+<tp:taxon-name>C
+. 
+cookae</tp:taxon-name>
+is granular; 
+<tp:taxon-name>C. cookae</tp:taxon-name>
+also has denticles only laterally on the ooecial plate. The absence of avicularia in 
+<tp:taxon-name>C. bafouri</tp:taxon-name>
+might not be diagnostic, as there is the possibility that they occur only very rarely and thus are missed in the present sampling.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution.<tp:taxon-name>Cellaria harmelini</tp:taxon-name>
+and 
+<tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+have been reported from the Bay of Biscay, and the latter also from off Vigo (d’Hondt 1973, 1974; Hayward 
+1978
+; 
+
+Hayward &amp; Ryland 
+1978
+). The former occurs between 
+180
+and 
+700 m
+depth (
+
+Berning 
+2013
+) and the latter between 
+400
+and 
+690 m
+(d’Hondt 
+1974
+). 
+<tp:taxon-name>Cellaria cookae</tp:taxon-name>
+is known from shallow water (
+44–47 m
+) off 
+Liberia
+(López de la Cuadra &amp; García-Gómez 
+1996
+). 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+is so far known only from cold-water coral habitats off 
+Mauritania
+, where living colonies can be found in the dead coral framework at the base of small patches of living corals. Intact colonies were not present on more-open substrata, e.g. coral rubble, but they were frequently present as small, isolated fragments in box-cored coral-rubble samples. 
+<tp:taxon-name>Cellaria bafouri</tp:taxon-name>
+was found between 
+414
+and 
+595 m
+depth, similar to 
+<tp:taxon-name>C. harmelini</tp:taxon-name>
+and 
+<tp:taxon-name>C. harmelini tenuis</tp:taxon-name>
+. The smaller range is surely due to the focus of this particular cruise, and future research might reveal its true bathymetric as well as spatial distribution. It occurred at about half of the stations examined, distributed evenly along the whole latitudinal extent of the area investigated (
+
+Table 
+1
+, 
+
+).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Type
+species.
+<tp:taxon-name>Lepralia landsborovii
+Johnston, 
+1847</tp:taxon-name>
+            </p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Material examined.Holotype
+: 
+SMF40005
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex. 
+Paratypes
+: 
+SMF40006
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40007
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40008
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40009
+, station 
+14904
+-1, 17° 
+32.559
+ʹ N, 
+16
+° 
+39.805
+ʹ W, 
+510 m
+, Tamxat Mound Complex; 
+SMF40010
+, station GeoB 
+14911
+-1, 17° 
+28.910
+ʹ N, 
+16
+° 
+41.509
+ʹ W, 
+450 m
+, Tamxat Mound Complex. 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+: 
+NHMUK1911.10
+. 
+1.1428
+, Adriatic, 
+34 m
+; 
+NHMUK1887.12
+. 
+9.585
+, 
+Cape Verde
+Islands, 
+183–274 m
+; 
+NHMUK1944.1
+. 
+8.281
+, 
+Cape Verde
+Islands, 
+183–219 m
+; 
+SMF9811
+, Riou Island, 
+34 m
+; 
+SMF40011
+, Adriatic, 
+15 m
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="etymology">
+            <p>Etymology.
+The species name is derived from the Imraguen, a tribe of Mauritanian fishermen inhabiting the area around Banc d’Arguin.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.
+Erect, bilaminar 
+<tp:taxon-name>Smittina</tp:taxon-name>
+with an oval suboral avicularium on the lyrula within the peristome, orientated longitudinally, almost normal to the direction of growth. Spines absent.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>Description.
+Colony erect, bilaminar, multiserial. Dichotomously branching, internodes flattened (
+
+A). The laminae of each branch are symmetrical to each other with respect to autozooidal arrangement. Autozooids arranged in diagonal series consisting of four autozooids (
+
+A). Neighbouring zooids on narrow side of branch are on same level (
+
+B). Zooids more or less rectangular, distal end rounded, surface convex, boundaries distinct. Sutures in primary calcification straight in cross-sections; serrated in area of secondary calcification (
+
+B). Septular pores simple. Frontal shield cryptocystidean, evenly porous. Primary orifice elongate-semicircular, deeply immersed, lyrula about half as wide as orifice, truncate. Condyles rounded, directed proximomedially. Oral spines absent (
+
+C–E). Proximally, but still on lyrula, distinct oval avicularium, nearly normal to direction of growth. Rostrum oval, rounded, proximal border finely serrate, crossbar complete, with bifid ligula (
+
+C–F). Thick cylindrical peristome develops through secondary calcification, projecting from colony surface, almost concealing primary orifice and in later ontogeny incorporating and almost concealing avicularium. Secondary calcification leads eventually to flattened colony surface, owing to immersion of peristomes and avicularia; peristomial rim forms circular or oval secondary orifice that eventually becomes constricted in middle by ‘pseudocondyles’, separating avicularium from orifice and resulting in keyhole shape (
+
+F). Zooids early in astogeny form encrusting base (
+
+G, H); these zooids have lyrula with median ridge, and peristomes sometimes closed by secondary calcification during ontogeny, leading to bulbous appearance (
+
+H). Ancestrula same shape as autozooids, but smaller and with fewer pores (
+
+G). Ovicells not observed.
+</p>
+            <p>MeanSDMinMaxNZooid length99955865110915Zooid width3973432446015Orifice length2482420128515Orifice width1591813119515Oral avicularium length89781985Oral avicularium width841069965</p>
+            <p>Micro-CT imaging and quantification.
+Interior zooidal chamber larger transversely than basal-frontally (
+
+A, B). Avicularium connected mediofrontally to zooidal chamber, immediately proximal to orifice (
+
+C, D); avicularian chamber shaped like rugby ball, orientated transversely and perpendicular to rostrum, and tapering laterally around zooidal chamber. Two or three frontal pores arise from avicularian chamber, indistinguishable from other frontal pores originating from autozooidal chamber (
+
+E). Frontal pores cylindrical (
+
+C, D).
+</p>
+            <p>
+Values for the volume and the maximum extent of all three spatial axes of the zooidal and avicularian chambers clearly show two distinct groups (n = 
+16
+) (
+
+). The variance for both groups differs depending on the character measured. Zooids show the smallest variation in the width of the zooidal chamber (
+
+Table 
+6
+), whereas avicularia show the smallest variance in depth (
+
+Table 
+7
+).
+</p>
+            <p>
+Orificial and frontal-pore measurements form three clusters (
+
+F, 
+9
+): a large cluster of 
+441
+data points plots between 
+20
+and 
+50
+µm; a second group of 
+18
+data points between 
+180
+and 
+240
+µm, with a mean of 
+209
+µm; and a third group of 
+56
+data points ranging in size from 
+50 to 140
+µm. This last group is most evident in the length plot (
+
+A), while in the width plot separation from the second group is less distinct (
+
+B).
+</p>
+            <p>Difficulties in species identification arise from intracolony variation owing to increasing calcification during ontogeny. While peristomes and avicularia are easily discernible in younger parts of the colony, they become scarcely discernible in older parts. The zooidal boundaries also become more irregular and partly occluded. These limitations can be overcome by using micro-CT imaging techniques or by viewing distal branch segments in the early ontogenic stage. As the internal basal and lateral walls were not completely resolved during the scan, owing to comparatively low acceleration voltage resulting in only a fragmentary reconstruction, we cannot describe the distribution and shape of communication pores. It is evident from the reconstructed transverse stack that new zooids originate from the median lamina, simultaneously on each side.</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="discussion">
+            <p>Remarks.<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+closely resembles 
+<tp:taxon-name>S. cervicornis
+(
+
+Pallas, 
+1766
+)
+</tp:taxon-name>
+. 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+is one of the bryozoans mentioned earliest in the literature, as references to this species can be traced back to 
+
+Imperato (
+1599
+)
+
+, who described and figured an erect, laminar, branching species from the Mediterranean as “ 
+<tp:taxon-name>Porus cervinus</tp:taxon-name>
+”. However, confusion exists concerning the actual 
+type
+, as Pallas’s collection appears to be lost (
+
+Kuklinski &amp; Taylor 
+2008
+) and no 
+lectotype
+has been designated. Pallas also did not provide any figures.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="reference_group">
+            <p>
+               <tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+differs from an Adriatic specimen of 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+(NHM 1911.10.1.1428) in the position of the avicularium. In the Adriatic colony, it is positioned in the same plane as the frontal surface, whereas in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+it extends from the lyrula along the proximal peristomial margin, resulting in a more oblique orientation relative to the direction of colony growth. The distal end of the rostrum is also more acute in the Adriatic specimen. It is noteworthy that this Adriatic specimen, which is part of the Canon Alfred Merle Norman collection, has a 
+type
+label that is amended by “?part of 
+type
+material”. A small included note states that it was originally described as “ 
+<tp:taxon-name>Porella tubulifera
+Heller
+</tp:taxon-name>
+” and was apparently sent by Camil Heller. Another species from the Adriatic (
+SMF40011
+) has the avicularium oriented 
+35
+° to 
+45
+° from the direction of zooidal growth, which still appears less oblique than in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+. The avicularium itself also has an acute rostrum. Material from the Adriatic figured by 
+
+Hayward &amp; McKinney (
+2002
+)
+
+as 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+seems to be this species. A western Mediterranean specimen from Riou Island (
+SMF9811
+) has the same more-frontal orientation of the avicularium as the Adriatic specimens, but the shape of the rostrum appears similar to that in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+, though it is even more acute. At present, it is uncertain whether the Riou Island specimen is conspecific with Adriatic 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+. Two other specimens at the NHM, from the 
+Cape Verde
+Islands, also recorded as 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+, which were originally described as 
+<tp:taxon-name>Porella laevis</tp:taxon-name>
+               <tp:taxon-name>
+var. 
+subcompressa
+Busk, 
+1884</tp:taxon-name>
+(NHM 
+1887.12
+. 
+9.585
+and NHM 1944.1.8.281), show the same orientation of the avicularium as the Mediterranean species, but differ from 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+and 
+<tp:taxon-name>S. cervicornis</tp:taxon-name>
+in other aspects of zooid morphology and in having differently shaped and also dimorphic suboral avicularia.
+</p>
+            <p>
+Another similar species is the less well-known 
+<tp:taxon-name>Smittina colletti
+(
+
+Jullien &amp; Calvet, 
+1903
+)
+</tp:taxon-name>
+, which differs from 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+in the orientation and the relative size of the suboral avicularium and 
+<tp:taxon-name>S. colletti</tp:taxon-name>
+also has a characteristic median denticle on top of the lyrula. The zooidal sizes given by 
+
+Harmelin (
+1969
+)
+
+for 
+<tp:taxon-name>S. colletti</tp:taxon-name>
+are significantly smaller than those for 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+.
+</p>
+            <p>
+Strong secondary calcification and intracolony variation complicate identification for these three species, and close attention should be given to the shape and orientation of the suboral avicularium. Further studies might reveal the true identity of 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+               <named-content content-type="taxonStatus">s.s.</named-content>
+            </p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution.<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+occurs mainly in the Mediterranean (
+
+Zabala &amp; Maluquer 
+1988
+; 
+
+Rosso 
+2003
+), but it has also been reported along the West African coast, from 
+Morocco
+(
+Canu &amp; Bassler 1925
+, 
+1928
+; d’Hondt, 
+1978
+) to 
+Equatorial Guinea
+(
+Cook 1968
+, 
+1985
+) and the Canaries (
+
+Aristegui &amp; Cruz 
+1986
+). Its northern extent is the coast of Brittany (
+
+Harmelin 
+et al
+. 
+1994
+). The bathymetric range seems to be from shallow coastal water down to 
+120 m
+(
+
+Cook 
+1968
+; 
+
+Harmelin 
+et al
+. 
+1994
+; 
+
+Hayward &amp; McKinney 
+2002
+), but 
+
+Canu &amp; Bassler (
+1928
+)
+
+reported a depth of 
+400 m
+in the Bay of Biscay. 
+<tp:taxon-name>Smittina colletti</tp:taxon-name>
+has also been reported from the Bay of Biscay (
+
+Jullien &amp; Calvet 
+1903
+; 
+
+Harmelin 
+1969
+) and the Western Mediterranean (
+
+Gautier 
+1962
+; 
+
+Harmelin 
+1969
+), in waters deeper than 
+100 m
+.
+
+The short account of the different forms of “ 
+<tp:taxon-name>Smittina cervicornis</tp:taxon-name>
+” given above suggests that this is in fact a species complex, containing at least three species. 
+<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+               <named-content content-type="taxonStatus">n. sp.</named-content>
+is so far known only from cold-water coral and adjacent habitats off 
+Mauritania
+, at depths of 
+414 to 600 m
+, where it forms small, branched colonies attached to the dead coral framework in the basal part of small patches of living and dead colonies of the corals 
+<tp:taxon-name>Lophelia pertusa
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+and 
+<tp:taxon-name>Madrepora oculata
+(
+
+Linnaeus, 
+1758
+)
+</tp:taxon-name>
+. In the area investigated, 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+occurred south of 
+18.5
+° N
+
+and in the 
+Arguin
+Canyon (
+
+Table 
+1
+; 
+
+).
+</p>
+         </tp:treatment-sec>
+      </tp:taxon-treatment>
+      <sec sec-type="multiple">
+         <title>Discussion</title>
+         <p>Acquisition of morphological data in bryozoans—SEM vs microcomputed tomography analyses.
+The current methodological standard in describing bryozoan species with a calcified skeleton is the employment of SEM. This method results in high-resolution images of even the tiniest structures, and modern devices do not require a conductive specimen surface, i.e. coating of specimens. Because the SEM is based upon the emission of nearsurface electrons, visualising internal skeletal structures requires complete or partial destruction. To address this problem, serial thin sections have been commonly utilized, fragmenting a specimen into single slices, which has proven to be especially useful for Paleozoic 
+<tp:taxon-name>
+Bryozoa (
+
+Wyse Jackson &amp; McKinney 
+2013
+)
+</tp:taxon-name>
+. However, resolution is limited by the thickness of the sections. For the complete spatial visualisation of internal cavities, resin casts have proven to be very useful, but require dissolution of the entire specimen (e.g. 
+
+Wiesemann 
+1960
+; 
+
+Voigt 
+1968
+; 
+
+Voigt &amp; Williams 
+1973
+). Partial or complete loss of specimens has likely hampered using the structure and shape of internal cavities for the taxonomic description of species, although 
+
+Voigt &amp; Williams (
+1973
+)
+
+highlighted the value of these characters.
+</p>
+         <p>
+Micro-CT techniques allow the non-destructive visualisation of internal structures not only in 
+2
+-dimensional slices but also in 
+3
+-dimensional virtual models, under the premise that the material contrast is reasonably high, which is usually met in Recent, non-fossilised specimens. Using virtual models, it is further possible to show or hide different parts, thus enabling visualisation of the deepest internal structures and their relation to each other.
+</p>
+         <p>
+Some researchers have already used micro-CT to investigate the internal structures of bryozoans. While Koromyslova &amp; Pakhnevich (
+2014
+), Koromyslova 
+et al
+. (
+2014
+) and 
+
+Wyse Jackson &amp; McKinney (
+2013
+)
+
+used virtual slices similar to traditional thin-sectioning, without making a 
+3
+-dimensional reconstruction, 
+
+Schmidt (
+2012
+)
+
+used micro-CT to investigate qualitatively the internal structure by 
+3
+-dimensional visualisation. 
+
+Viskova &amp; Pakhnevich (
+2010
+)
+
+and 
+
+Wyse Jackson &amp; McKinney (
+2013
+)
+
+additionally made some measurements on virtual sections, and 
+
+Klicpera 
+et al
+. (
+2013
+)
+
+employed this technique to assess the weight and volume of a bryozoan skeleton, hence obtaining quantified data from the virtual dataset. Our study took the analysis of quantified micro- CT data a step further by automatically measuring the volume and extent not only of all zooidal chambers, but also of smaller individual structures like suboral avicularia, rhizoidal kenozooids, and even frontal pores.
+</p>
+         <p>
+Using advanced algorithms and a scan with resolution high enough to fully separate the structures of interest, it is possible to automatically and non-destructively acquire and quantify various kinds of morphometric data for every single structure, e.g. a zooidal or avicularian chamber, which would be extremely difficult using conventional methods. We demonstrate the possibility of automatically calculating the size and volume of the zooidal and avicularian chambers, as well as the diameter of rhizoidal tubules. Using any of the measurements in the micro-CT dataset, it was possible to distinguish between zooidal and avicularian chambers in 
+<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+(
+
+). Furthermore, we could separate two classes of openings in the frontal shield, viz. orifices and frontal pores (
+
+), which concurred well with the dimensions observed on SEM micrographs. Differences between the mean values for external zooidal length and the length of the zooidal chamber in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+resulted from the overlapping of the proximal parts of succeeding zooids with the distal part of preceding ones.
+</p>
+         <p>
+A limitation results from a small ratio between the resolution of the CT-scan and the size of the feature under examination, which might lead to incomplete recording or failure of thin and/or fragile skeletal structures, as we encountered in 
+<tp:taxon-name>C. bafouri</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+In that case, the distinct but not very pronounced size differences between the opesiae and rhizoidal pores, observed with SEM, were not reproduced by the CT appraisal (
+
+). Another example was the orifice and frontal-pore measurements in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+(
+
+), for which some data points plotted in an intermediate position between the orifice and frontal pores. These outlying measurements were certainly caused by incompletely resolved orifices and frontal pores. In addition, this species highlights the influence of the quality of the original CT-scan data on subsequent analyses. Owing to the comparatively low acceleration voltage of the SEM, the recording of the inner calcification was too poor for automatic detection of the zooidal chambers, and time-consuming manual correction was necessary. However, 
+
+Klicpera 
+et al
+. (
+2013
+)
+
+used the same micro-CT system to describe another Recent cheilostome with satisfying results, highlighting that even smaller CT-systems can achieve results with very high resolution. In that case, however, the membraniporid species investigated was significantly more weakly calcified and smaller in zooid size than the specimens we investigated.
+</p>
+         <p>
+Another aspect to consider is the exact location of measurements. This is exemplified by orifice length in 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+, which was significantly smaller in the micro-CT data than in measurements made on SEM micrographs. This was because the micro-CT measurements of the diameter of the orifice were conducted at a shallower position in the skeleton, approximately between the secondary orifice and the most basal part of the lyrula, while the proximal boundary of the true primary orifice is hidden by the lyrula. The micro-CT measurements of the orifices had to be positioned in this way in order to automatically detect all distances at once. Also, the micro-CT measurements of external zooid width were significantly larger than the SEM measurements. This difference was likely caused by some laterally growing tubules of frontal pores, which were included in the automatically measured autozooid width in the CT analysis (
+
+C, D), as they were regarded by the algorithm as belonging to the main autozooidal chamber. Care thus has to be taken in comparing optical/SEM measurements with those taken by micro-CT.
+</p>
+         <p>
+The micro-CT measurements suggest that for 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+the size of the avicularian chamber is positively correlated with the size of the zooidal chamber (
+Tables 6
+, 
+7
+), and for 
+<tp:taxon-name>C. bafouri</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+that the opesiae on the inner side of the bend are slightly smaller than those on the outside (
+
+B). No correlation was observed between autozooidal and avicularian volumes, which might have resulted from the small sample size (
+8
+pairs); apart from this, measurements of different astogenic stages of a colony would be necessary to give a biologically robust answer on how strongly zooid size influences avicularium size. The same holds true for size variation of the opesia in relation to the presence of rhizoids or their position in the bent colony.
+</p>
+         <p>When micro-CT becomes more accessible and easier to use, it will be possible to implement such internal morphological characters and their dimensions, which were previously difficult to observe, into species descriptions on a regular basis, and to amend species descriptions based on conventional methods.</p>
+         <p>
+Faulwetter 
+et al
+. (
+2013
+)
+
+discussed the application of micro-CT as a component of the growing field of cybertaxonomy, which is based on virtual taxonomic material, using polychaetes as an example. The most crucial requirements for establishing volumetric datasets, and for providing more than just additional data in taxonomic research, are the standardisation of file 
+types
+and the introduction of adequate repositories and handling policies (
+
+Rowe &amp; Frank 
+2011
+). The International Code of Zoological Nomenclature might eventually have to implement rules regarding the handling and systematic value of such virtual type-relevant material, possibly leading to the introduction of the so-called ‘cybertype’, which is considered by some authors as a new kind of 
+type
+specimen (
+
+Faulwetter 
+et al
+. 
+2013
+; 
+
+Godfray 
+2007
+). These 
+types
+are simultaneously accessible to multiple researchers in different places, without the necessity of handling the original physical specimen, leading to increased speed in taxonomic research. However, such virtual 
+type
+material cannot replace physical specimens, as only the original specimen carries all information and any virtualisation is a mere copy with reduced information content. It is also not desirable to base species descriptions solely on characters requiring complex and time-consuming equipment or destruction of specimens. ‘Cybertypes’ should be considered only as a standardised way to represent 
+type
+specimens and distribute taxonomic data, but not as replacements for physical specimens.
+</p>
+         <p>Environmental preferences of the new bryozoan species.
+Both new species belong to relatively speciose genera with global distributions, ranging from tropical to polar waters, and representatives of both genera are known from adjacent regions south and north of the area we investigated (
+Canu &amp; Bassler 1925
+, 
+1928
+; 
+Cook 1968
+, 
+1985
+; 
+
+Aristegui &amp; Cruz 
+1986
+). Despite the lower frequency of occurrence of 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+, both species appear to have generally similar habitat preferences, living specimens occurring on mound tops, mound flanks, in canyons and on canyon shoulders (
+
+Table 
+1
+; 
+
+). Temperatures ranged from 
+9 to 12
+° C, salinity from 
+35.2 to 35.5
+psu, and oxygen concentration from 
+0.92
+ml l - 
+1 to 1.54
+ml l - 
+1
+. The first two parameters are in the normal range for bryozoans, especially in light of the global distribution of both genera. Oxygen saturation, however, was remarkably low, and close to dysoxic levels (
+
+Rhoads &amp; Morse 
+1971
+; 
+
+Levin 
+2003
+). As bryozoans lack any dedicated respiratory organs, oxygen uptake is relatively ineffective and takes place via simple diffusion (
+
+Ryland 
+1967
+). Bryozoans are active filter feeders with low metabolic costs in general, although there are considerable interspecific differences in oxygen consumption, representing fundamentally different metabolic strategies in different species (
+
+Peck &amp; Barnes 
+2004
+). Lophophore activity, i.e. feeding, consumes only a minor amount of energy, while most energy appears to be used for growth, reproduction and polypide regeneration (
+
+Peck &amp; Barnes 
+2004
+). Colonies of 
+<tp:taxon-name>C. bafouri</tp:taxon-name>
+            <named-content content-type="taxonStatus">n. sp.</named-content>
+frequently bore fertile zooids, and 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+exhibited strong secondary calcification, both of which can be considered to be highly energy-demanding. Thus, adaptation to low oxygen concentrations is evident. A possible way in which these species reduce their energy consumption might be slow growth. Intracellular digestion by the bryozoan gut is also quite ineffective (
+
+Dewel 
+et al
+. 
+2002
+), necessitating a high supply of food particles (
+
+Taylor 
+2000
+). This high nutritional demand is met in waters off 
+Mauritania
+by increased primary productivity resulting from the strong upwelling regime. Food particles are exported from surface waters to greater depths, thus reducing the energy required to satisfy the bryozoans’ nutritional demands, because less oxygen is required to capture the same quantity of food.
+</p>
+         <p>
+Except for station GeoB 
+14888
+- 
+1
+, live 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+was absent at the stations with the lowest oxygen concentrations, and at GeoB 
+14888
+- 
+1
+only a few colonies were observed, indicating a higher oxygen sensitivity than for 
+<tp:taxon-name>C. bafouri</tp:taxon-name>
+. This is certainly the consequence of larger zooid size of 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+, but primarily to the closed frontal area, with only some pores allowing gas exchange, compared to the large frontal membrane of 
+<tp:taxon-name>C. bafouri</tp:taxon-name>
+. Additionally, the secretion of calcium carbonate is impeded in low-oxygen environments (
+
+Rhoads &amp; Morse 
+1971
+), and a possible adaptation might be a more weakly calcified skeleton. 
+<tp:taxon-name>Smittina imragueni</tp:taxon-name>
+, however, shows strong secondary calcification, indicating that this species is capable of maintaining its level of calcification under low oxygen conditions. However, the absence of 
+<tp:taxon-name>S. imragueni</tp:taxon-name>
+from habitats with an extremely low oxygen concentration might indicate a higher oxygen demand of this species compared to 
+<tp:taxon-name>C. bafouri</tp:taxon-name>
+. In conclusion, it appears that both species can tolerate low oxygen conditions to a certain degree if the nutrient supply is reasonably high.
+</p>
+      </sec>
+      <sec sec-type="acknowledgments">
+         <title>Acknowledgements</title>
+         <p>
+Thanks are due to: the crew and scientists on board the RV 
+Maria S. Merian
+during cruise MSM 
+16
+/ 
+3
+; Björn Berning for valuable comments and for specimen 
+SMF40011
+; Joachim Scholz, Mary Spencer Jones and Paul D Taylor for advice and fruitful discussions; Patrick Wyse Jackson for help in bibliographic research; Max Wisshak for assistance during micro-CT scanning, Iris Sampaio for specimen 
+SMF40002
+; and Rolf Schmidt and an anonymous reviewer for greatly improving the manuscript. KM received funding from the Hessian initiative for the development of scientific and economic excellence (
+LOEWE
+) at the Biodiversity and Climate Research Centre (BiK-F), Frankfurt, 
+Germany
+, and was supported by the GLOMAR–Bremen International Graduate School for Marine Sciences.
+</p>
+      </sec>
+      <sec sec-type="reference_group">
+         <title>References</title>
+         <p>Aristegui, J.
+&amp; 
+Cruz, T.
+(
+1986
+) 
+Consideraciones biogeográficas sobre el orden Cheilostomata (Ectoprocta) en Canarias
+. 
+Vieraea
+, 
+16
+, 
+161
+– 
+171
+.
+</p>
+         <p>Berning, B.
+(
+2013
+) 
+New and little-known Cheilostomata (Bryozoa, Gymnolaemata) from the NE Atlantic
+. 
+European Journal of Taxonomy
+, 
+44
+, 
+
+1– 
+25
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.5852
+/ejt. 
+2013.44</p>
+         <p>Busk, G.
+(
+1852
+) 
+
+An account of the Polyzoa and sertularian zoophytes collected in the voyage of the Rattlesnake on the coasts of 
+Australia
+and Louisiade Archipelago
+
+. 
+In:MacGillivray, J.
+(Ed), 
+
+Narrative of the voyage of H.M.S. Rattlesnake commanded by the late Captain Owen Stanley, during the years 
+1846–1850
+. 
+T&amp;W Boone, London
+, pp. 
+343–402
+.
+</p>
+         <p>Busk, G.
+(
+1884
+) 
+
+Report on the Polyzoa collected by H.M.S. Challenger during the years 
+1873–1876
+. Part 
+1
+. 
+
+The Cheilostomata. 
+Report on the Scientific Results of the Voyage of the H.M.S. “Challenger”, Zoology
+, 
+10
+, 
+
+1– 
+216
+.
+</p>
+         <p>Buttler, C.J.
+, 
+Rahman, I.A.
+&amp; 
+Slater, B.
+(
+2012
+) 
+Three-dimensional computer reconstruction of a Lower Palaeozoic trepostome bryozoan
+. 
+
+In: 
+Palaeontological Association Newsletter
+, 
+Abstracts Annual Meeting
+, 
+2012
+, pp. 
+62
+.
+</p>
+         <p>Canu, F.
+&amp; 
+Bassler, R.S.
+(
+1925
+) 
+
+Les Bryozoaires du 
+Maroc
+et de 
+Mauritanie
+. 
+
+Mémoires de la Société des Sciences Naturelles du 
+Maroc
+, 
+10
+, 
+
+1– 
+79
+.
+</p>
+         <p>Canu, F.
+&amp; 
+Bassler, R.S.
+(
+1928
+) 
+
+Les Bryozoaires du 
+Maroc
+et de 
+Mauritanie
+, 
+2
+me mémoire
+
+. 
+
+Mémoires de la Société des Sciences Naturelles du 
+Maroc
+, 
+18
+, 
+
+1– 
+85
+.
+</p>
+         <p>Colman, J.G.
+, 
+Gordon, D.M.
+, 
+Lane, A.P.
+, 
+Forde, M.J.
+&amp; 
+Fitzpatrick, J.J.
+(
+2005
+) 
+
+Carbonate mounds off 
+Mauritania
+, Northwest Africa: status of deep-water corals and implications for management of fishing and oil exploration activities
+
+. 
+In:Freiwald, A.
+&amp; 
+Roberts, J.M.
+(Eds.), 
+Cold-Water Corals and Ecosystems
+. 
+Springer, Heidelberg
+, pp. 
+417–441
+.
+</p>
+         <p>Cook, P.L.
+(
+1968
+) 
+Bryozoa (Polyzoa) from the coasts of tropical West Africa
+. 
+Atlantide Report
+, 
+10
+, 
+115
+– 
+262
+.
+</p>
+         <p>Cook, P.L.
+(
+1985
+) 
+
+Bryozoa from 
+Ghana
+— a preliminary survey
+
+. 
+Annales Musee Royal de l'Afrique Centrale, Sciences zoologiques, Tervuren
+, 
+238
+, 
+
+1– 
+315
+.
+</p>
+         <p>Dewel, R.A.
+, 
+Winston, J.E.
+&amp; 
+McKinney, F.K.
+(
+2002
+) 
+Deconstructing bryozoans: origin and consequences of a unique body plan
+. 
+In:Wyse Jackson, P.N.
+, 
+Buttler, C.J.
+&amp; 
+Spencer Jones, M.E.
+(Eds., 
+Bryozoan Studies2001
+. 
+A.A. Balkema Publishers, Lisse
+, pp. 
+93–99
+.
+</p>
+         <p>Ellis, J.
+&amp; 
+Solander, D.C.
+(
+1786
+) 
+The Natural History of Many Curious and Uncommon Zoophytes, collected from various parts of the globe
+. 
+White &amp; Elmsly, London
+, 
+206
+pp.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.5962
+/bhl.title. 
+64985</p>
+         <p>Faulwetter, S.
+, 
+Vasileiadou, A.
+, 
+Kouratoras, M.
+, 
+Dailianis, T.
+&amp; 
+Arvanitidis, C.
+(
+2013
+) 
+Micro-computed tomography: Introducing new dimensions to taxonomy
+. 
+ZooKeys
+, 
+263
+, 
+
+1– 
+45
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.3897
+/zookeys. 
+263.4261</p>
+         <p>Fleming, J.
+(
+1828
+) 
+
+A History of British Animals, exhibiting their descriptive characters and systematic arrangement of the genera and species of quadrupeds, birds, reptiles, fishes, Mollusca, and Radiata of the 
+United Kingdom
+. 
+Bell &amp; Bradfute, Edinburg
+, 
+565
+pp.
+</p>
+         <p>Gabric, A.J.
+, 
+Garcia, L.
+, 
+Van Camp, L.
+, 
+Nykjaer, L.
+, 
+Eifler, W.
+&amp; 
+Schrimpf, W.
+(
+1993
+) 
+
+Offshore export of shelf production in the Cape Blanc (
+Mauritania
+) giant filament as derived from coastal zone color scanner imagery
+
+. 
+Journal of Geophysical Research: Oceans
+, 
+98
+, 
+
+4697– 
+4712
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1029
+/ 
+92
+JC01714
+</p>
+         <p>Gautier, Y.V.
+(
+1962
+) 
+Recherches écologiques sur les Bryozoaires Chilostomes en Mediterranée occidentale
+. 
+Recueil des travaux de la Station marine d'Endoume
+, 
+38
+, 
+
+1– 
+434
+.
+</p>
+         <p>Godfray, H.C.J.
+(
+2007
+) 
+Linnaeus in the information age
+. 
+Nature
+, 
+446
+, 
+259
+– 
+260
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1038
+/ 
+446259
+a
+</p>
+         <p>Hagen, E.
+(
+2001
+) 
+Northwest African upwelling scenario
+. 
+Oceanologica Acta
+, 
+24
+, 
+113
+– 
+128
+. 
+
+http://dx.doi.org/ 
+10.1016
+/s0399- 
+1784
+(00)01110- 
+5</p>
+         <p>Hammer, Ø.
+, 
+Harper, D.A.T.
+&amp; 
+Ryan, P.D.
+(
+2001
+) 
+PAST
+: Paleontological Statistics Software Package for Education and Data Analysis
+
+. 
+Palaeontologia Electronica
+, 
+4
+, 
+
+1– 
+9
+.
+</p>
+         <p>Harmelin, J.-G.
+(
+1969
+) 
+
+Bryozoaires récoltés au cours de la campagne du Jean Charcot en Méditerranée Orientale (
+
+août– septembre 
+1967
+). Dragages
+
+. 
+Bulletin du Muséum National d'Histoire Naturelle
+, 
+41
+, 
+295
+– 
+311
+.
+</p>
+         <p>Harmelin, J.-G.
+, 
+Boury-Esnault, N.
+&amp; 
+Vacelet, J.
+(
+1994
+) 
+
+A bryozoan-sponge symbiosis: the association between 
+Smittina cervicornis
+and 
+Halisarca
+cf. 
+dujardini
+in the Mediterranean
+
+. 
+In:Hayward, P.J.
+, 
+Ryland, J.S.
+&amp; 
+Taylor, P.D.
+(Eds.), 
+Biology and Palaeobiology of Bryozoans
+. 
+Olsen &amp; Olsen, Fredensborg
+, pp. 
+69–74
+.
+</p>
+         <p>Harmelin, J.-G.
+&amp; 
+Hondt, J.-L.
+d’ (
+1992
+a) 
+
+Bryozoaires des parages de 
+Gibraltar
+(campagne océanographique BALGIM, 
+1984
+) 
+1
+— Chéilostomes
+
+. 
+Bulletin du Muséum National d'Histoire Naturelle
+, Série
+
+4, 
+14
+A, 
+23–67
+.
+</p>
+         <p>Harmelin, J.-G.
+&amp; 
+Hondt, J.-L.
+d’ (
+1992
+b) 
+
+Bryozoaires des parages de 
+Gibraltar
+(campagne océanographique BALGIM, 
+1984
+) 
+2
+— Cténostomes et cyclostomes
+
+. 
+Bulletin du Muséum National d'Histoire Naturelle
+, Série
+
+4, 
+14
+A, 
+605–621
+.
+</p>
+         <p>Hassall, A.H.
+(
+1840
+) 
+Catalogue of Irish Zoophytes
+. 
+Annals and Magazine of Natural History
+, Series 1
+
+, 
+6
+, 
+166
+– 
+175
+.
+</p>
+         <p>Hayward, P.J.
+(
+1978
+) 
+Bryozoa from the west European continental slope
+. 
+Journal of Zoology
+, 
+184
+, 
+207
+– 
+224
+. 
+
+http://dx.doi.org/ 
+10.1111
+/j. 
+1469-7998.1978
+.tb03276.x
+</p>
+         <p>Hayward, P.J.
+&amp; 
+McKinney, F.K.
+(
+2002
+) 
+
+Northern Adriatic Bryozoa from the vicinity of Rovinj, 
+Croatia
+. 
+Bulletin of the American Museum of Natural History
+, 
+270
+, 
+
+1– 
+139
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1206
+/0003-0090(
+2002
+) 
+270
+% 
+3
+C0001:NABFTV% 
+3E2.0
+.CO; 
+2</p>
+         <p>Hayward, P.J.
+&amp; 
+Ryland, J.S.
+(
+1978
+) 
+Bryozoa from the Bay of Biscay and Western Approaches
+. 
+
+Journal of the Marine Biological Association of the 
+United Kingdom
+, 
+58
+, 
+143
+– 
+159
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1017
+/S0025315400024462
+</p>
+         <p>Hondt, J.-L.
+d’ (
+1973
+) 
+
+Bryozoaires de la campagne de la 'Thalassa' (
+3–12
+août 
+1967
+)
+
+. 
+Bulletin du Muséum National d'Histoire Naturelle
+, 
+3
+, 
+365
+– 
+386
+.
+</p>
+         <p>Hondt, J.-L.
+d’ (
+1974
+) 
+
+Bryozoaires récoltés par la 'Thalassa' dans le Golfe de Gascogne (Campagnes de 
+1968 à 1972
+)
+
+. 
+Cahiers de Biologie Marine
+, 
+15
+, 
+
+27– 
+50
+.
+</p>
+         <p>Hondt, J.-L.
+d’ (
+1978
+) 
+
+Les bryozoaires du 
+Maroc
+et de 
+Mauritanie
+(Troisième Mémoire, pour faire suite aux publications de F. Canu et R.S. Bassler)
+
+. 
+Cahiers de Biologie Marine
+, 
+19
+, 
+447
+– 
+458
+.
+</p>
+         <p>Hondt, J.-L.
+d’ (
+1985
+) 
+Contribution à la systématique des Bryozoaires Eurystomes. Apports récents et nouvelles propositions
+. 
+Annales des Sciences Naturelles, Zoologie &amp; Biologie animale
+, 
+7
+, 
+
+1– 
+12
+.
+</p>
+         <p>Imperato, F.
+(
+1599
+) 
+Dell’ Historia Naturale
+. 
+Constantino Vitale, Porta Reale, Naples
+, 
+791
+pp.
+</p>
+         <p>Johnston, G.
+(
+1847
+) 
+A History of British Zoophytes
+. 
+Van Voorst, London
+, 
+499
+pp.
+</p>
+         <p>Jullien, J.
+&amp; 
+Calvet, L.
+(
+1903
+) 
+
+Bryozoaires provenant des campagnes de l'Hirondelle (
+1886–1888
+)
+
+. 
+
+Resultats des Campagnes Scientifiques accomplies sur son yacht par Albert Ier, Prince Souverain de 
+Monaco
+, 
+23
+, 
+
+1– 
+188
+.
+</p>
+         <p>Klicpera, A.
+, 
+Taylor, P.D.
+&amp; 
+Westphal, H.
+(
+2013
+) 
+
+Bryoliths constructed by bryozoans in symbiotic interaction with hermit crabs in a tropical heterozoan carbonate system, Banc d’Arguin, 
+Mauritania
+. 
+Marine Biodiversity
+, 
+43
+, 
+429
+– 
+444
+. 
+
+http://dx.doi.org/ 
+10.1007
+/s 
+12526
+-013-0173- 
+4</p>
+         <p>Koromyslova, A.V.
+&amp; 
+Pakhnevich, A.V.
+(
+2014
+) 
+
+X-ray micro-CT of the fossil ascophoran bryozoans 
+Beisselinopsis quincunx
+from the museum collections
+
+. 
+In:Bruker-micro-CT (Ed.)
+, 
+Micro-CT User Meeting2014
+. Ostend, pp. 
+233–238
+.
+</p>
+         <p>Koromyslova, A.V.
+, 
+Pakhnevich, A.V.
+&amp; 
+Baraboshkin, E.J.
+(
+2014
+) 
+
+Micro-CT investigation of problematic spherical colonies from the Maastrichtian of Western 
+Kazakhstan
+. 
+
+In: 
+
+Cretaceous System of 
+Russia
+and the Near Abroad: Problems of stratigraphy and paleogeography
+
+. 
+Vladivostok
+, pp. 
+161–163
+.
+</p>
+         <p>Krastel, S.
+, 
+Hanebuth, T.J.J.
+, 
+Antobreh, A.A.
+, 
+Henrich, R.
+, 
+Holz, C.
+, 
+Kölling, M.
+, 
+Schulz, H.D.
+, 
+Wien, K.
+&amp; 
+Wynn, R.B.
+(
+2004
+) 
+
+Cap Timiris Canyon: A newly discovered channel system offshore of 
+Mauritania
+. 
+EOS, Transactions of the American Geophysical Union
+, 
+85
+, 
+417
+– 
+423
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1029
+/ 
+2004
+EO 
+420001</p>
+         <p>Kuklinski, P.
+&amp; 
+Taylor, P.D.
+(
+2008
+) 
+
+Arctic species of the cheilostome bryozoan 
+Microporella
+, with a redescription of the 
+type
+species
+
+. 
+Journal of Natural History
+, 
+42
+, 
+
+1893– 
+1906
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1080
+/00222930802126904
+</p>
+         <p>Le Danois, E.
+(
+1948
+) 
+Les Profondeurs de la Mer
+. 
+Payot, Paris
+, 
+303
+pp.
+</p>
+         <p>Levin, L.A.
+(
+2003
+) 
+Oxygen minimum zone benthos: Adaptation and community response to hypoxia
+. 
+Oceanography and Marine Biology
+, 
+41
+, 
+
+1– 
+45
+.
+</p>
+         <p>Levinsen, G.M.R.
+(
+1909
+) 
+Morphological and Systematic Studies on the Cheilostomatous Bryozoa
+.
+Nationale Forfatterers Forlag, Copenhagen
+, 
+431
+pp.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.5962
+/bhl.title. 
+5690</p>
+         <p>Linnaeus, C.
+(
+1758
+) 
+Systema Naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Vol. Editio Decima
+.
+Laurentius Salvius, Stockholm
+, 
+824
+pp.
+</p>
+         <p>López-Fé, C.M.
+(
+2006
+) 
+
+Some bathyal cheilostome Bryozoa (Bryozoa, Cheilostomata) from the Canary Islands (
+Spain
+, Eastern Atlantic), with descriptions of three new species, a new genus, and a new family
+
+. 
+Journal of Natural History
+, 
+40
+, 
+
+1801– 
+1812
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1080
+/00222930601043763
+</p>
+         <p>
+López de la Cuadra, C. &amp; García-Gómez, J.C. (
+1996
+) The species of 
+<tp:taxon-name>Cellaria</tp:taxon-name>
+(
+<tp:taxon-name>Bryozoa</tp:taxon-name>
+, 
+<tp:taxon-name>Cheilostomatida</tp:taxon-name>
+) with large avicularia from West Africa. 
+Journal of Natural History
+, 
+30, 153
+– 
+161
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1080
+/00222939600770101
+</p>
+         <p>Marañón, E.
+&amp; 
+Holligan, P.M.
+(
+1999
+) 
+
+Photosynthetic parameters of phytoplankton from 
+50
+°N to 
+50
+°S in the Atlantic Ocean
+
+. 
+Marine Ecology Progress Series
+, 
+176
+, 
+191
+– 
+203
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.3354
+/meps 
+176191</p>
+         <p>Norman, A.M.
+(
+1903
+) 
+Notes on the natural history of East Finmark, Polyzoa
+. 
+Annals and Magazine of Natural History
+, 
+7
+, 
+
+81– 
+128
+.
+</p>
+         <p>Pallas, P.S.
+(
+1766
+) 
+Elenchus Zoophytorum sistens generum adumbrationes generaliores et speciarum cognitarum succintas descriptiones cum selectis auctorus synonymis
+. 
+Petrum van Cleef, The Hague
+, 
+451
+pp.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.5962
+/bhl.title. 
+6595</p>
+         <p>Peck, L.S.
+&amp; 
+Barnes, D.K.A.
+(
+2004
+) 
+Metabolic flexibility: the key to long-term evolutionary success in Bryozoa
+? 
+Proceedings of the Royal Society of London B
+, 
+271
+, 
+
+18– 
+21
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1098
+/rsbl. 
+2003.0053</p>
+         <p>Rhoads, D.C.
+&amp; 
+Morse, J.W.
+(
+1971
+) 
+Evolutionary and ecologic significance of oxygen-deficient marine basins
+. 
+Lethaia
+, 
+4
+, 
+413
+– 
+428
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1111
+/j. 
+1502-3931.1971
+.tb01864.x
+</p>
+         <p>Rogers, A.D.
+(
+1999
+) 
+
+The biology of 
+Lophelia pertusa
+(Linnaeus 
+1758
+) and other deep-water reef-forming corals and impacts from human activities
+
+. 
+International Review of Hydrobiology
+, 
+84
+, 
+315
+– 
+406
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1002
+/iroh. 
+199900032</p>
+         <p>Rosso, A.
+(
+2003
+) 
+Bryozoan diversity in the Mediterranean Sea
+. 
+Biogeographia
+, 
+24
+, 
+227
+– 
+250
+.
+</p>
+         <p>Rosso, A.
+, 
+Vertino, A.
+, 
+Di Geronimo, I.
+, 
+Sanfilippo, R.
+, 
+Sciuto, F.
+, 
+Di Geronimo, R.
+, 
+Violanti, D.
+, 
+Corselli, C.
+, 
+Taviani, M.
+, 
+Mastrototaro, F.
+&amp; 
+Tursi, A.
+(
+2010
+) 
+Hard- and soft-bottom thanatofacies from the Santa Maria di Leuca deep-water coral province, Mediterranean
+. 
+Deep-Sea Research II
+, 
+57
+, 
+360
+– 
+379
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1016
+/j.dsr2.2009.08.024
+</p>
+         <p>Rowe, T.
+&amp; 
+Frank, L.R.
+(
+2011
+) 
+The disappearing third dimension
+. 
+Science
+, 
+331
+, 
+712
+– 
+714
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1126
+/science. 
+1202828</p>
+         <p>Ryland, J.S.
+(
+1963
+) 
+
+Systematic and biological studies on the Polyzoa (Bryzoa) from western 
+Norway
+. 
+Sarsia
+, 
+14
+, 
+
+1– 
+59
+.
+</p>
+         <p>Ryland, J.S.
+(
+1967
+) 
+Respiration in Polyzoa (Ectoprocta)
+. 
+Nature
+, 
+216
+, 
+
+1040– 
+1041
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1038
+/ 
+2161040
+b0
+</p>
+         <p>Schmidt, R.
+(
+2012
+) 
+High resolution non-destructive imaging techniques for internal fine structure of bryozoan skeletons — Non destructive imaging of bryozoans
+. 
+In:Ernst, A
+., 
+Schäfer, P.
+&amp; 
+Scholz, J.
+(Eds.), 
+
+Bryozoan Studies 
+2010
+, 
+Lecture Notes in Earth System Sciences
+. Springer, pp. 
+321–326
+.
+</p>
+         <p>Stalling, D.
+, 
+Westerhoff, M.
+&amp; 
+Hege, H.-C.
+(
+2005
+) 
+Amira: a highly interactive system for visual data analysis
+. 
+In:Hansen, C.D.
+&amp; 
+Johnson, C.R.
+(Eds.), 
+Visualization Handbook
+.
+Butterworth-Heinemann, Burlington
+, pp. 
+749–767
+. 
+
+http://dx.doi.org/ 
+10.1016
+/b 
+978
+-012387582- 
+2
+/ 
+50040
+-x
+</p>
+         <p>Taylor, P.D.
+(
+2000
+) 
+Origin of the modern bryozoan fauna
+. 
+In:Culver, S.J.
+&amp; 
+Rawson, P.F.
+(Eds.), 
+Biotic Response to Global Change. The last145
+million years
+
+. 
+Natural History Museum/Cambridge University Press, Cambridge
+, pp. 
+195–209
+. 
+
+http://dx.doi.org/ 
+10.1017
+/CBO 
+9780511535505.015</p>
+         <p>Taylor, P.D.
+, 
+Howard, L.
+&amp; 
+Gundrum, B.
+(
+2008
+) 
+
+Microcomputed tomography X-ray microscopy of cyclostome bryozoan skeletons. 
+Abstracts of the VIII Larwood Meeting2008
+, 
+University of Vienna. [unkown pagination]</p>
+         <p>Viskova, L.A.
+&amp; 
+Pakhnevich, A.V.
+(
+2010
+) 
+A new boring bryozoan from the Middle Jurassic of the Moscow region and its micro-CT research
+. 
+Paleontological Journal
+, 
+44
+, 
+157
+– 
+167
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1134
+/S0031030110020073
+</p>
+         <p>Voigt, E.
+(
+1968
+) 
+
+Zwei homeomorphe Arten der Bryozoengattung 
+Columnotheca
+Marsson
+
+. 
+Lethaia
+, 
+1
+, 
+382
+– 
+401
+. 
+
+http://dx.doi.org/ 
+10.1111
+/j. 
+1502-3931.1968
+.tb01628.x
+</p>
+         <p>Voigt, E.
+&amp; 
+Williams, A.
+(
+1973
+) 
+
+Revision des Genus 
+Inversaria
+v. Hagenow 
+1851
+(Bryozoa Cheilostomata) und seine Beziehungen zu 
+Solenychocella
+n
+
+.g. 
+Nachrichten der Akademie der Wissenschaften in Göttingen, II Mathematischphysikalische Klasse
+, 
+8
+, 
+141
+– 
+178
+.
+</p>
+         <p>Westphal, H.
+, 
+Beuck, L.
+, 
+Braun, D.
+, 
+Freiwald, A.
+, 
+Hanebuth, T.
+, 
+Hetzinger, S.
+, 
+Klicpera, A.
+, 
+Kudrass, H.
+, 
+Lantzsch, H.
+, 
+Lundälv, T.
+, 
+Vicens, G.M.
+, 
+Preto, N.
+, 
+Von Reumont, J.
+, 
+Schilling, S.
+, 
+Taviani, M.
+&amp; 
+Wienberg, C.
+(
+2012
+) 
+
+Phaeton — Paleoceanographic and paleo-climatic record on the Mauritanian Shelf. Cruise No. MSM 
+16
+/ 
+3
+. 
+
+In: 
+Maria S.Merian- Berichte
+. 
+Leitstelle Deutsche Forschungsschiffe Institut für Meereskunde der Universität Hamburg, Hamburg
+, pp. 
+1–53
+.
+</p>
+         <p>Westphal, H.
+, 
+Freiwald, A.
+, 
+Hanebuth, T.
+, 
+Eisele, M.
+, 
+Gürs, K.
+, 
+Heindel, K.
+, 
+Michel, J.
+&amp; 
+Von Reumont, J.
+(
+2007
+) 
+
+Report and preliminary results of Poseidon cruise 
+346
+— MACUMA: integrating carbonates, siliciclastics and deep-water reefs for understanding a complex environment, Las Palmas (
+Spain
+)–Las Palmas (
+Spain
+), 
+28.12.2006
+– 
+15.1.2007
+. 
+
+In: 
+Reports of the Department of Geosciences
+. 
+MARUM
+, Bremen University, Bremen
+
+, pp. 
+1–48
+.
+</p>
+         <p>Wien, K.
+, 
+Kölling, M.
+&amp; 
+Schulz, H.D.
+(
+2007
+) 
+
+Age models for the Cape Blanc Debris Flow and the 
+Mauritania
+Slide Complex in the Atlantic Ocean off NW Africa
+
+. 
+Quaternary Science Reviews
+, 
+26
+, 
+
+2558– 
+2573
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.1016
+/j.quascirev.2007.06.018
+</p>
+         <p>Wiesemann, G.
+(
+1960
+) 
+
+Polyester-Steinkerne der Gattung 
+Beisselina
+Canu 
+1913
+(Bryoz. foss.)
+
+. 
+Mitteilungen aus dem Geologischen Staatsinstitut in Hamburg
+, 
+29
+, 
+101
+– 
+103
+.
+</p>
+         <p>Wyse Jackson, P.N.
+&amp; 
+McKinney, F.K.
+(
+2013
+) 
+
+A micro-computed tomography and scanning electron microscopy investigation of the structure of 
+Polyfenestella
+Bancroft, 
+1986
+(Bryozoa: Fenestrata), from the Mississippian of 
+Scotland
+: Revealing the nature of its heteromorphs
+
+. 
+Irish Journal of Earth Sciences
+, 
+31
+, 
+
+19– 
+24
+.
+</p>
+         <p>
+http://dx.doi.org/ 
+10.3318
+/ 
+IJES
+.2013.31.3
+</p>
+         <p>Zabala, M.
+&amp; 
+Maluquer, P.
+(
+1988
+) 
+Illustrated keys for the classification of Mediterranean Bryozoa
+. 
+Treballs del Museu de Zoologia
+, 
+4
+, 
+
+1– 
+294
+.
+</p>
+         <p>Zabala, M.
+, 
+Maluquer, P.
+&amp; 
+Harmelin, J.-G.
+(
+1993
+) 
+
+Epibiotic bryozoans on deep-water scleractinian corals from the Catalonia slope (western Mediterranean, 
+Spain
+, 
+France
+)
+
+. 
+Scientia Marina
+, 
+57
+, 
+
+65– 
+78
+.
+</p>
+      </sec>
+   </body>
+</article>

@@ -1,0 +1,4025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:tp="http://www.plazi.org/taxpub">
+   <front>
+      <journal-meta>
+         <journal-id>https://doi.org/10.11646/zootaxa.4674.3.3</journal-id>
+         <issn>1175-5326</issn>
+      </journal-meta>
+      <article-meta>
+         <title-group>
+            <article-title>Open-holed trapdoor spiders of the genus Teyl (Mygalomorphae: Nemesiidae Anamini) from Western Australia’s Pilbara bioregion: a new species and expanded phylogenetic assessment</article-title>
+         </title-group>
+         <pub-date>
+            <year>2019</year>
+         </pub-date>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="multiple">
+         <p>
+Open-holed trapdoor spiders of the genus 
+<tp:taxon-name>Teyl</tp:taxon-name>
+(Mygalomorphae: 
+<tp:taxon-name>Nemesiidae</tp:taxon-name>
+: Anamini) from Western Australia’s Pilbara bioregion: a new species and expanded phylogenetic assessment
+</p>
+         <p>JOEL A. HUEY1,2,3,5
+, 
+MICHAEL G. RIX4,1
+, 
+JEREMY D. WILSON4
+, 
+MIA J. HILLYER1
+&amp; 
+MARK S. HARVEY1,21
+Department of Terrestrial Zoology, Western Australian Museum, Welshpool, WA 6106, 
+Australia
+.
+</p>
+         <p>2
+School of Animal Biology, The University of 
+Western Australia
+, Crawley, WA 6009, 
+Australia
+.
+</p>
+         <p>3
+School of Natural Sciences, Edith Cowan University, Joondalup, WA 6027, 
+Australia
+.
+</p>
+         <p>4
+Biodiversity and Geosciences Program, 
+Queensland
+Museum, South Brisbane, QLD 4101, 
+Australia
+.
+</p>
+         <p>5Corresponding author. E-mail: joel.huey@museum.wa.gov.au</p>
+      </sec>
+      <sec sec-type="abstract">
+         <title>Abstract</title>
+         <p>
+The open-holed trapdoor spiders of the genus 
+<tp:taxon-name>TeylMain, 1975</tp:taxon-name>
+from the Pilbara bioregion of 
+Western Australia
+are investigated. A single endemic species from the southern Pilbara, 
+<tp:taxon-name>T. heuretes</tp:taxon-name>
+            <named-content content-type="taxonStatus">sp. nov.</named-content>
+, is newly described, representing the northern-most occurrence of the genus in 
+Australia
+. Legacy molecular data for Australian 
+<tp:taxon-name>Nemesiidae</tp:taxon-name>
+, along with newly generated sequences for all described species of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+known from 
+Western Australia
+, are analysed using Maximum Likelihood methods, providing molecular data for 
+<tp:taxon-name>T. heuretes</tp:taxon-name>
+and an expanded phylogenetic assessment of the genus.
+</p>
+      </sec>
+      <sec sec-type="key_words">
+         <p>Key words:
+biogeography, Crassitarsae, new species, taxonomy
+</p>
+      </sec>
+      <sec sec-type="introduction">
+         <title>Introduction</title>
+         <p>
+The open-holed trapdoor spiders of the genus 
+<tp:taxon-name>TeylMain, 1975</tp:taxon-name>
+are a poorly documented yet widely distributed group of Anamini 
+Simon, 1889
+endemic to 
+Australia
+, with a range that extends from the Indian Ocean coastline of 
+Western Australia
+east to at least western 
+Victoria
+(
+
+Harvey 
+et al.
+2018
+
+). Like the co-occurring taxa 
+<tp:taxon-name>Idiosoma
+Ausserer, 1871
+</tp:taxon-name>
+(family 
+<tp:taxon-name>
+Idiopidae 
+Simon, 1889</tp:taxon-name>
+) and 
+<tp:taxon-name>Proshermacha
+Simon, 1908
+</tp:taxon-name>
+(
+<tp:taxon-name>
+Nemesiidae 
+Simon, 1889</tp:taxon-name>
+), the genus 
+<tp:taxon-name>Teyl</tp:taxon-name>
+reaches its highest diversity in the south-western land division of 
+Western Australia
+, where they are a major component of the mygalomorph spider fauna. While a number of species are clearly dependent on southern-temperate mesic habitats in the far south of 
+Western Australia
+(e.g. see 
+Main 1985: 753–758
+), most occur in semi-arid or arid inland regions (
+
+). Only six species have so far been described, including three from south-western 
+Australia
+(see 
+Main 1975
+, 
+1983
+, 
+1985
+) and three from western 
+Victoria
+(
+Main 2004
+). However, numerous undescribed species are present in Australian collections (MSH, MGR, unpubl. data), some of which were identified by 
+
+Castalanelli 
+et al.
+(2014)
+
+using barcoding molecular data, and including one (
+<tp:taxon-name>Teyl</tp:taxon-name>
+sp. ‘BYM1953/2683’) formally listed as Critically Endangered under the 
+Western Australian Wildlife Conservation Act 1950
+(see 
+Western Australian Government Gazette 2018
+).
+</p>
+         <p>
+The Pilbara bioregion of north-western 
+Australia
+(
+
+) is a geologically heterogeneous and biologically diverse landscape in Western Australia’s northern arid zone, which has been the subject of numerous dedicated studies over the last decade exploring the biogeographic and biological significance of the region (e.g. 
+Humphreys 2008
+; 
+
+Durrant 
+et al.
+2010
+
+; 
+
+Harvey 
+et al.
+2011
+
+; 
+
+Pepper 
+et al.
+2013
+
+; 
+
+Castalanelli 
+et al.
+2014
+
+; 
+
+Huey 
+et al.
+2019
+
+). The Pilbara is now well recognised for its role in maintaining arid zone biodiversity during climatic instability since the late Miocene, and for providing a suite of terrestrial and subterranean refugia (
+Humphreys 2008
+; 
+
+Pepper 
+et al.
+2013
+
+; 
+
+Huey 
+et al.
+2019
+
+). It is also an important overlap zone between tropical arid elements of the biota, and more temperate southern lineages (
+
+Huey 
+et al.
+2019
+
+). Indeed, the Pilbara bioregion represents the northern extent of several otherwise more southern or temperate lineages of mygalomorph spiders. For 
+<tp:taxon-name>Idiopidae</tp:taxon-name>
+, the Pilbara is the northernmost extent of 
+<tp:taxon-name>Gaius
+Rainbow, 1914
+</tp:taxon-name>
+(see 
+
+Rix 
+et al
+. 2018b
+
+, fig. 11), 
+<tp:taxon-name>Bungulla
+Rix, Main, Raven &amp; Harvey, 2017
+</tp:taxon-name>
+(see 
+
+Rix 
+et al.
+2018a
+
+, fig. 11), 
+<tp:taxon-name>Euoplos
+Rainbow, 1914
+</tp:taxon-name>
+(see 
+
+Rix 
+et al.
+2019
+
+, fig. 3) and to a large extent 
+<tp:taxon-name>Idiosoma</tp:taxon-name>
+. Among 
+<tp:taxon-name>Nemesiidae</tp:taxon-name>
+, the Pilbara is the northernmost extent of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+(
+
+), 
+<tp:taxon-name>HesperonataliusCastalanelli, Huey, Hillyer &amp; Harvey, 2017</tp:taxon-name>
+(see 
+
+Castalanelli 
+et al.
+2017
+
+, fig. 2) and to a large extent, 
+<tp:taxon-name>KwonkanMain, 1983</tp:taxon-name>
+. The northern distribution of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+is especially interesting in that it mirrors that of the co-occurring idiopid genus 
+<tp:taxon-name>Gaius</tp:taxon-name>
+, extending sparsely through the Murchison bioregion and in a band through the eastern Gascoyne and southern Pilbara (
+
+, 
+
+; cf. 
+
+Rix 
+et al.
+2018b
+
+, fig. 11).
+</p>
+         <p>
+This paper is the first in a planned series of systematic and revisionary treatments of the genera 
+<tp:taxon-name>Teyl</tp:taxon-name>
+and 
+<tp:taxon-name>Namea
+Raven, 
+1984</tp:taxon-name>
+in 
+Australia
+(i.e., the ‘ 
+<tp:taxon-name>Teyl</tp:taxon-name>
+Group’ 
+sensu
+Harvey 
+et al
+. 2018
+
+). We here document the 
+<tp:taxon-name>Teyl</tp:taxon-name>
+specimens currently collected from Western Australia’s Pilbara bioregion, and describe the single known species at the northern extent of the genus’ distributional range. We further provide newly generated nucleotide sequence data for all described species of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+from 
+Western Australia
+, and present an expanded phylogenetic assessment of the genus.
+</p>
+      </sec>
+      <sec sec-type="materials_methods">
+         <title>Material and methods</title>
+         <p>Taxonomic methods.
+All WA Museum specimens of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+currently known from the Pilbara bioregion of 
+Western Australia
+were examined for this study, and are listed below and mapped (
+
+) either as a named species or as unidentified juveniles. Specimens were examined and described in 70% ethanol under a Leica MZ16A dissecting microscope, following preservation in 70% or 95% ethanol. Digital images were taken using a Leica DFC500 camera attached to a Leica MZ16A microscope, and processed using Leica Application Suite (LAS) version 2.5.OR1 software. All measurements are in millimetres (to one decimal point), and total length measurements include the chelicerae, in dorsal view, but exclude the spinnerets. Leg I measurements were made along the dorsal edge of each segment, in prolateral view. Specimens are lodged at the Western Australian Museum, Perth (WAM) or the South Australian Museum, Adelaide (SAM). The following abbreviations are used throughout the text: 
+ALE
+, anterior lateral eye/s
+
+; 
+AME
+, anterior median eye/s
+
+; 
+IBRA
+, Interim Biogeographic Regionalisation of 
+Australia
+Version 7 (online at https://www.environment.gov.au/land/nrs/science/ibra
+
+); 
+PIL
+, Pilbara bioregion
+
+; 
+PLE
+, posterior lateral eye/s
+
+; 
+PME
+, posterior median eye/s
+
+.
+</p>
+         <p>Molecular and laboratory methods.
+Nucleotide sequences were newly generated for three specimens of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+from the Pilbara bioregion, along with seven specimens of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+representing previously described species or species morphologically similar to named species (
+Tables 1
+, 
+2
+). Sequence data for all three species of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+currently described from 
+Western Australia
+(i.e. 
+<tp:taxon-name>T. damsonoides
+(
+Main, 1983
+)
+</tp:taxon-name>
+, 
+<tp:taxon-name>T. luculentusMain, 1975</tp:taxon-name>
+and 
+<tp:taxon-name>T. vancouveri
+(
+Main, 1985
+))
+</tp:taxon-name>
+were included (
+<tp:taxon-name>T. damsonoides</tp:taxon-name>
+) or newly sequenced (
+<tp:taxon-name>T. luculentus</tp:taxon-name>
+, 
+<tp:taxon-name>T. vancouveri</tp:taxon-name>
+) for this study (with specimens sourced from at or near 
+type
+localities in each instance), along with sequence data from four specimens from eastern 
+South Australia
+, morphologically similar to the Victorian species 
+<tp:taxon-name>T. harveyiMain 2004</tp:taxon-name>
+or 
+<tp:taxon-name>T. yeniMain 2004</tp:taxon-name>
+. This combination of new Pilbara material and described species from 
+type
+localities provided the molecular taxonomic framework required to apply an integrative species concept (
+sensude Queiroz 2007
+), and to complement the morphological taxonomy. Laboratory methods for DNA extraction, polymerase chain reaction (PCR), nucleotide Sanger sequencing and downstream sequence editing were otherwise as per 
+
+Harvey 
+et al.
+(2018)
+
+, with the same seven loci targeted: cytochrome 
+c
+oxidase subunit I (
+COI
+; mitochondrial); 12S ribosomal RNA (12S; mitochondrial); 16S ribosomal RNA (16S; mitochondrial); 18S ribosomal RNA (18S; nuclear); 28S ribosomal RNA (28S; nuclear); histone H3 (
+H3
+; nuclear); and elongation factor-1γ (
+EF-1γ
+).
+</p>
+         <p>Phylogenetic analyses.
+A concatenated matrix consisting of 38 representative specimens from 
+
+Harvey 
+et al.
+(2018)
+
+was combined with the 
+10 specimens
+of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+newly sequenced for this study (
+Tables 1
+, 
+2
+), for a final molecular dataset of 
+48 specimens
+and seven loci. To avoid an unnecessarily dense sampling of non- 
+<tp:taxon-name>Teyl
+Anamini
+</tp:taxon-name>
+genera, a representative subset of at most five specimens from each genus were included in the final dataset, with 
+<tp:taxon-name>Stanwellia nebulosa
+(Rainbow &amp; Pulleine, 1918)
+</tp:taxon-name>
+set as the ultimate outgroup. Alignments were carried out using the MAFFT plug-in in Geneious (
+Katoh and Standley 2013
+). Due to the phylogenetic breadth of the dataset, ribosomal gene alignments had many regions that were difficult to align. Therefore, the program G Blocks (
+Castresana 2000
+; 
+Talavera and Castresana 2007
+) was used to remove phylogenetically uninformative sites. The web tool was chosen for this task (http://molevol.cmima.csic.es/castresana/Gblocks_server.html), and the settings allowed for gaps and larger blocks. The resulting alignments were: 12S (318 bp); 16S (405 bp); 18S (1,761 bp), 28S (753 bp); 
+COI
+(658 bp); 
+H3
+(328 bp) and 
+EF-1ɣ
+(882 bp). Trees were built for each alignment separately using the RAxML plug-in (version 7.2.8) (
+Stamatakis 2006
+) in Geneious using default settings, with 1,000 bootstrap replicates. A concatenated 
+TABLE 1
+.
+
+GenBank accession numbers for 
+48 specimens
+included in the molecular analyses. Highlighted (*) specimens of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+were newly sequenced for this study.
+</p>
+         <p>
+SAM = South Australian Museum; WAM = Western Australian Museum. alignment (5,105 bp) was also analysed. This concatenated dataset was partitioned using Partition Finder v1.1 (
+Lanfear et al. 2012
+, 
+2014
+), which identified three partitions: 12S, 16S, 
+COI
+codon 1, and 
+H3
+codon 3 (partition1); 18S, 28S, 
+COI
+codon 2, 
+EF-1ɣ
+, 
+H3
+codons 1 and 2 (partition 2); and 
+COI
+codon 3 (partition 3). These partitions were analysed with the GTR+G substitution model, using the RAxML plug-in in Geneious using default settings. The robustness of nodes was estimated using 1,000 bootstrap replicates, and the final tree was visualised and edited in FigTree (http://tree.bio.ed.ac.uk/software/figtree/).
+</p>
+      </sec>
+      <p>Specimen &amp; depositoryCOI12S16SH318S28SEF-1γ<tp:taxon-name>NEMESIIDAE</tp:taxon-name>
+(outgroup)
+<tp:taxon-name>Stanwellia Rainbow &amp; Pulleine, 1918</tp:taxon-name>
+         <tp:taxon-name>S. nebulosa</tp:taxon-name>
+(SAM NN28449)
+MG800186–MG799983MG800316MG800060MG800138MG800258ANAMINI<tp:taxon-name>Aname</tp:taxon-name>
+Group
+<tp:taxon-name>
+Aname L. 
+Koch, 1873</tp:taxon-name>
+         <tp:taxon-name>A. aragog</tp:taxon-name>
+(WAM T95409)
+KJ745403KY214181KY241234KY241287KY241250KY241265MG800219<tp:taxon-name>A. ellenae</tp:taxon-name>
+(WAM T98890)
+KJ745484KY214186KY241238KY241291KY241255KY241270–<tp:taxon-name>A. marae</tp:taxon-name>
+(WAM T98424)
+KJ745450KY214185–KY241290KY241254KY241269–<tp:taxon-name>A. mellosa</tp:taxon-name>
+(WAM T107182)
+KJ745440KY214184KY241237–KY241253KY241268–<tp:taxon-name>HesperonataliusCastalanelli, Huey, Hillyer &amp; Harvey, 2017</tp:taxon-name>
+         <tp:taxon-name>H. langlandsi</tp:taxon-name>
+(WAM T108988)
+KJ744689KY214189KY241243–KY241258KY241274MG800232<tp:taxon-name>H. maxwelli</tp:taxon-name>
+(WAM T108989)
+KJ744690KY214190KY241244KY241293KY241259KY241275MG800233<tp:taxon-name>Chenistonia</tp:taxon-name>
+group
+<tp:taxon-name>Chenistonia Hogg, 1901</tp:taxon-name>C.
+sp. ‘MYG348’ (WAM T72687)
+KJ745221KY214180KY241231KY241284KY241247KY241262MG800196C.
+sp. ‘MYG348’ (WAM T81017)
+MG800151MG799878MG799940MG800276MG800011MG800088MG800210C.
+sp. ‘MYG348’ (WAM T81018)
+MG800152MG799879MG799941MG800277MG800012MG800089MG800211<tp:taxon-name>Proshermacha
+Simon, 1908
+</tp:taxon-name>P
+. sp. ‘MYG344’ (WAM T132981)
+MG800181–MG799978MG800311MG800054MG800132MG800251P
+. sp. ‘MYG346’ (WAM T80952)
+MG800150–MG799939MG800275MG800010MG800087MG800209P
+. sp. ‘MYG468’ (WAM T96060)
+MG800158–MG799948MG800285MG800020MG800097MG800220P
+. sp. ‘MYG469’ (WAM T94765)
+MG800156–MG799945MG800281MG800016MG800093MG800214P
+. sp. ‘MYG471’ (WAM T132903)
+–MG799907MG799974MG800309MG800050MG800128–</p>
+      <p>...Continued on the next page</p>
+      <p>Specimen &amp; depositoryCOI12S16SH318S28SEF-1γ<tp:taxon-name>TeyloidesMain, 1985</tp:taxon-name>
+         <tp:taxon-name>T. bakeri</tp:taxon-name>
+(SAM NN29525)
+MG800144MG799861–MG800265MG799991MG800068MG800190<tp:taxon-name>Kwonkan</tp:taxon-name>
+Group
+<tp:taxon-name>
+Kwonkan 
+Main, 1983</tp:taxon-name>
+         <tp:taxon-name>K. turrigera</tp:taxon-name>
+(WAM T134203)
+MG800182MG799911–MG800313MG800056MG800134MG800254K
+. sp. ‘MYG197’ (WAM T130375)
+MG800166–MG799963MG800301MG800038MG800116MG800239K
+. sp. ‘MYG392’ (WAM T132363)
+MG800175MG799904MG799972MG800306MG800047MG800125–<tp:taxon-name>Swolnpes
+Main &amp; Framenau, 2009
+</tp:taxon-name>
+         <tp:taxon-name>S. darwini</tp:taxon-name>
+(WAM T97003)
+KY241280KY214183KY241236KY241289KY241252KY241267MG800223S
+. sp. ‘MYG415’ (WAM T53579)
+MG800145MG799863–MG800266MG799993MG800070–<tp:taxon-name>Teyl</tp:taxon-name>
+Group
+<tp:taxon-name>
+Namea 
+Raven, 1984</tp:taxon-name>
+         <tp:taxon-name>N. flavomaculata</tp:taxon-name>
+(WAM T133310)
+KY241282KY214192KY241246KY241294KY241261KY241277MG800253<tp:taxon-name>TeylMain, 1975</tp:taxon-name>
+         <tp:taxon-name>T. damsonoides</tp:taxon-name>
+(WAM T137482)
+MG800187MG799915MG799984–MG800061–MG800259
+* 
+<tp:taxon-name>T. heuretes</tp:taxon-name>
+         <named-content content-type="taxonStatus">sp. nov.</named-content>
+(WAM T91918)
+MN101151MN104643MN104652–MN104658MN104650MN101153
+* 
+<tp:taxon-name>T. heuretes</tp:taxon-name>
+         <named-content content-type="taxonStatus">sp. nov.</named-content>
+(WAM T112357)
+MN101150––MN101154–
+* 
+<tp:taxon-name>T. heuretes</tp:taxon-name>
+         <named-content content-type="taxonStatus">sp. nov.</named-content>
+(WAM T113601)
+MN101149–MN104651––MN104657MN104649
+* 
+<tp:taxon-name>T. luculentus</tp:taxon-name>
+(WAM T141133)
+MN101147–––––
+* 
+<tp:taxon-name>T. vancouveri</tp:taxon-name>
+(WAM T16804)
+–MN104644MN104653–––
+* 
+T.
+nr. 
+<tp:taxon-name>harveyi</tp:taxon-name>
+(SAM NN29080)
+–MN104646MN104655––––
+* 
+T.
+nr. 
+<tp:taxon-name>harveyi</tp:taxon-name>
+(SAM NN29081)
+–MN104645MN104654––MN104659–</p>
+      <p>...Continued on the next page</p>
+      <p>Specimen &amp; depositoryCOI12S16SH318S28SEF-1γ*T.
+nr. 
+<tp:taxon-name>luculentus</tp:taxon-name>
+(WAM T117267)
+MN101148–––––
+* 
+T.
+nr. 
+<tp:taxon-name>yeni</tp:taxon-name>
+(SAM NN29072)
+MN101152MN104648MN104656––––
+* 
+T.
+nr. 
+<tp:taxon-name>yeni</tp:taxon-name>
+(SAM NN29074)
+––MN104647––––T
+. sp. ‘MYG012’ (WAM T96062)
+KJ745412KY214182KY241235KY241288KY241251KY241266MG800221T
+. sp. ‘MYG021’ (WAM T94766)
+KJ745380MG799881––MG800017MG800094MG800215T
+. sp. ‘MYG053’ (WAM T96326)
+MG800159MG799883MG799949MG800286MG800021MG800098MG800222T
+. sp. ‘MYG345’ (WAM T62261)
+KJ745216MG799867MG799926MG800269MG799997MG800074MG800194T
+. sp. ‘MYG354’ (WAM T78514)
+KJ745273MG799873MG799934–MG800005MG800082MG800203T
+. sp. ‘MYG356’ (WAM T78519)
+KJ745275MG799874MG799935MG800273MG800006MG800083MG800204T
+. sp. ‘MYG358’ (WAM T78529)
+KJ745277MG799875MG799936MG800274MG800007MG800084MG800205T
+. sp. ‘MYG412’ (WAM T116018)
+MG800164MG799895MG799961MG800297MG800034MG800111MG800189T
+. sp. ‘MYG450’ (WAM T136876)
+MG800183MG799912–––––T
+. sp. ‘MYG454’ (WAM T80899)
+MG800149MG799877MG799938–MG800009MG800086MG800208T
+. sp. ‘MYG455’ (WAM T72719)
+MG800147MG799868MG799929–MG800000MG800077MG800198T
+. sp. ‘MYG456’ (WAM T72722)
+–MG799869MG799930MG800271MG800001MG800078MG800199T
+. sp. ‘MYG457’ (WAM T132932)
+MG800178MG799908MG799975–MG800051MG800129–T
+. sp. ‘MYG459’ (WAM T78556)
+MG800148MG799876MG799937–MG800008MG800085MG800207T
+. sp. ‘MYG480’ (WAM T132934)
+MG800179MG799909MG799976MG800310MG800052MG800130–</p>
+      <sec sec-type="results">
+         <title>Results and discussion</title>
+         <p>
+Maximum Likelihood analysis of the concatenated dataset recovered an overall topology (
+
+) congruent with that of 
+
+Harvey 
+et al.
+(2018
+
+, fig. 3). The 
+<tp:taxon-name>Chenistonia</tp:taxon-name>
+Group, 
+<tp:taxon-name>Teyl</tp:taxon-name>
+Group, 
+<tp:taxon-name>Kwonkan</tp:taxon-name>
+Group and 
+<tp:taxon-name>Aname</tp:taxon-name>
+Group of 
+
+Harvey 
+et al.
+(2018)
+
+were all monophyletic, and nested genera within each clade were recovered in the same relative phylogenetic positions, with high support (
+
+). The 
+<tp:taxon-name>Chenistonia</tp:taxon-name>
+Group was found to be sister to the 
+<tp:taxon-name>Teyl</tp:taxon-name>
+Group, both of which were sister to the 
+<tp:taxon-name>Aname</tp:taxon-name>
+Group plus 
+<tp:taxon-name>Kwonkan</tp:taxon-name>
+Group.
+</p>
+         <p>TABLE 2.
+Collection data for 
+10 specimens
+newly sequenced for the molecular analyses. SAM = South Australian
+</p>
+         <p>Museum; WAM = Western Australian Museum.</p>
+         <p>Specimen &amp; depositoryCountryCollection Locality [State: Site]LatitudeLongitudeANAMINI<tp:taxon-name>Teyl</tp:taxon-name>
+Group
+<tp:taxon-name>
+Teyl 
+Main, 1975</tp:taxon-name>
+            <tp:taxon-name>T. heuretes</tp:taxon-name>
+            <named-content content-type="taxonStatus">sp. nov.</named-content>
+(WAM T91918)
+AustraliaWestern Australia: Hamersley Range, Weeli Wolli Creek22°55’31”S119°02’16”E<tp:taxon-name>T. heuretes</tp:taxon-name>
+            <named-content content-type="taxonStatus">sp. nov.</named-content>
+(WAM T112357)
+AustraliaWestern Australia: Wonmunna, ca. 73 km NW. of Newman23°07’16”S119°03’48”E<tp:taxon-name>T. heuretes</tp:taxon-name>
+            <named-content content-type="taxonStatus">sp. nov.</named-content>
+(WAM T113601)
+AustraliaWestern Australia: Southern Flank, 72 km NW. of Newman23°00’10”S119°08’20”E<tp:taxon-name>T. luculentus</tp:taxon-name>
+(WAM T141133)
+AustraliaWestern Australia: Maughan Nature Reserve, nr. SW. corner31°36’43”S118°20’59”E<tp:taxon-name>T. vancouveri</tp:taxon-name>
+(WAM T16804)
+AustraliaWestern Australia: nr. Lake William, West Cape Howe N.P.35°05’S117°36’ET.
+nr. 
+<tp:taxon-name>harveyi</tp:taxon-name>
+(SAM NN29080)
+AustraliaSouth Australia: Ngarkat Conservation Park35°37’S140°46’ET.
+nr. 
+<tp:taxon-name>harveyi</tp:taxon-name>
+(SAM NN29081)
+AustraliaSouth Australia: Ngarkat Conservation Park35°37’S140°46’ET.
+nr. 
+<tp:taxon-name>luculentus</tp:taxon-name>
+(WAM T117267)
+AustraliaWestern Australia: Wellstead34°31’05”S118°30’28”ET.
+nr. 
+<tp:taxon-name>yeni</tp:taxon-name>
+(SAM NN29072)
+AustraliaSouth Australia: Ngarkat Conservation Park35°37’S140°46’ET.
+nr. 
+<tp:taxon-name>yeni</tp:taxon-name>
+(SAM NN29074)
+AustraliaSouth Australia: Ngarkat Conservation Park35°37’S140°46’E</p>
+         <p>
+Within the genus 
+<tp:taxon-name>Teyl</tp:taxon-name>
+, specimens that were collected from the Pilbara bioregion formed a genetically homogeneous lineage distinct (and phylogenetically distant) from all other described and undescribed species of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+included in the analysis (
+
+), with a minimum pairwise genetic 
+COI
+divergence of 16.7% between Pilbara specimens and ‘MYG053’ (represented in this analysis by WAM 
+T96326
+). This Pilbara lineage is here newly described as 
+<tp:taxon-name>T. heuretes</tp:taxon-name>
+            <named-content content-type="taxonStatus">sp. nov.</named-content>
+(
+
+). Currently described species were similarly recovered in disparate positions throughout the phylogeny, with eastern taxa (
+T.
+nr 
+<tp:taxon-name>yeni</tp:taxon-name>
+and 
+T.
+nr. 
+<tp:taxon-name>harveyi</tp:taxon-name>
+) not each other’s closest relatives. As noted by 
+
+Harvey 
+et al.
+(2018)
+
+, the genus 
+<tp:taxon-name>Teyl</tp:taxon-name>
+is clearly a phylogenetically diverse assemblage of taxa with a complex biogeographic history, and a much larger molecular taxon sample is required to better understand the taxonomy and evolutionary history of the group.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>Taxonomy</title>
+      </sec>
+      <tp:taxon-treatment>
+         <tp:treatment-meta>
+            <kwd-group>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>
+Nemesiidae 
+Simon, 1889</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Aname
+L. 
+Koch, 1873</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>TeylMain, 1975</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>TeylMain, 1975: 74</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl luculentusMain, 1975</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>MerrediniaMain, 1983: 931</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Merredinia damsonoidesMain, 1983</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>PseudoteylMain, 1985: 753</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Pseudoteyl vancouveriMain, 1985</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. damsonoides</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. callemondaRaven, 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. dahmsiRaven, 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. calcariaRaven, 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. dicalcariaRaven 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>TeyloidesMain, 1985</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyloides</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. damsonoides</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. harveyi</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. vancouveri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. walkeri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. luculentus</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. yeni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+            </kwd-group>
+            <mixed-citation>
+               <named-content content-type="treatment-title">Open-holed trapdoor spiders of the genus Teyl (Mygalomorphae: Nemesiidae Anamini) from Western Australia’s Pilbara bioregion: a new species and expanded phylogenetic assessment</named-content>
+               <uri content-type="zenodo-doi">https://doi.org/10.11646/zootaxa.4674.3.3</uri>
+               <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/FFBADA42267BFFA9FFE9B000615C1E4B</uri>
+               <article-title/>
+               <pub-id pub-id-type="doi">https://doi.org/10.11646/zootaxa.4674.3.3</pub-id>
+               <issn>1175-5326</issn>
+               <source>Zootaxa</source>
+            </mixed-citation>
+         </tp:treatment-meta>
+         <tp:mixed-nomenclature>
+Family 
+<tp:taxon-name>
+Nemesiidae 
+Simon, 1889</tp:taxon-name>
+Tribe Anamini 
+Simon, 1889</tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+Genus 
+<tp:taxon-name>TeylMain, 1975</tp:taxon-name>
+         </tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+            <tp:taxon-status>sp. nov.</tp:taxon-status>
+         </tp:mixed-nomenclature>
+         <tp:treatment-sec sec-type="description">
+            <p>
+Anamae 
+Simon, 1889: 178
+. 
+Type
+genus 
+<tp:taxon-name>Aname
+L. 
+Koch, 1873</tp:taxon-name>
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="discussion">
+            <p>Remarks.
+The tribe Anamini is an unambiguously monophyletic assemblage of nine genera, characterized by a strongly developed posterior maxillary heel bearing a field of cuspules (
+
+), in combination with an absence of tarsal claw tufts, and two rows of teeth on the paired claws (both family-level characters; see 
+Raven 1985
+; 
+
+Harvey 
+et al.
+2018
+
+). The burrows of these spiders are almost exclusively open, and often include a secondary escape shaft which branches off from the burrow proper (hence the other commonly applied name of ‘wishbone’ spiders; see 
+Main 1993
+). The tribe is distributed Australia-wide, and the Australian fauna is remarkably diverse, with 100–200 new species (and likely many more) still to be described (
+
+Castalanelli 
+et al.
+2014
+
+; 
+
+Harvey 
+et al
+. 2018
+
+; MSH, MGR, JAH, unpublished data).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="reference_group">
+            <p>
+               <tp:taxon-name>TeylMain, 1975: 74</tp:taxon-name>
+. 
+Type
+species by original designation 
+<tp:taxon-name>Teyl luculentusMain, 1975</tp:taxon-name>
+.
+</p>
+            <p>
+               <tp:taxon-name>MerrediniaMain, 1983: 931</tp:taxon-name>
+. 
+Type
+species by original designation 
+<tp:taxon-name>Merredinia damsonoidesMain, 1983</tp:taxon-name>
+(synonymised by 
+
+Harvey 
+et al
+., 2018: 436
+
+).
+</p>
+            <p>
+               <tp:taxon-name>PseudoteylMain, 1985: 753</tp:taxon-name>
+. 
+Type
+species by original designation 
+<tp:taxon-name>Pseudoteyl vancouveriMain, 1985</tp:taxon-name>
+(synonymised by 
+
+Harvey 
+et al.
+, 2018: 437
+
+).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.
+Most species of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+and 
+<tp:taxon-name>Namea</tp:taxon-name>
+can be distinguished from all other Anamini by the presence of a reflexed embolus arising on the lateral or proximal side of the pedipalpal bulb (
+
+), combined with the absence of a megaspur on the male leg I tibia (
+
+). However, a number of species of both 
+<tp:taxon-name>Teyl</tp:taxon-name>
+(e.g., 
+<tp:taxon-name>T. damsonoides</tp:taxon-name>
+) and 
+<tp:taxon-name>Namea</tp:taxon-name>
+(e.g., 
+<tp:taxon-name>N. callemondaRaven, 1984</tp:taxon-name>
+, 
+<tp:taxon-name>N. dahmsiRaven, 1984</tp:taxon-name>
+) have a presumably autapomorphic morphology whereby the embolus is not reflexed, but rather positioned distally on the bulb; these species can be distinguished from similar Anamini by the absence of a leg I megaspur on males, or by the absence of incrassate tarsi on the leg I of males. Similarly, a number of species of 
+<tp:taxon-name>Namea</tp:taxon-name>
+(e.g. 
+<tp:taxon-name>N. calcariaRaven, 1984</tp:taxon-name>
+, 
+<tp:taxon-name>N. dicalcariaRaven 1984</tp:taxon-name>
+) have macrosetae on the male leg I tibia which are produced into a megaspur-like structure; these species can be distinguished from all other Anamini, except species of 
+<tp:taxon-name>TeyloidesMain, 1985</tp:taxon-name>
+, by the presence of a reflexed embolus; and from 
+<tp:taxon-name>Teyloides</tp:taxon-name>
+by the absence of coiled spermathecae in females.
+</p>
+            <p>
+The diagnostic separation of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+and 
+<tp:taxon-name>Namea</tp:taxon-name>
+is currently problematic, due largely to the absence of a phylogenetic hypothesis for 
+<tp:taxon-name>Namea</tp:taxon-name>
+, and the presence of a number of confounding diagnostic characters at the generic level (an issue discussed in detail by 
+Raven 1984
+). At present, 
+<tp:taxon-name>Teyl</tp:taxon-name>
+includes all of those species which occur in western and southern 
+Australia
+, outside of the subtropical and tropical mesic zone of eastern 
+Queensland
+and north-eastern 
+New South Wales
+. Whether 
+<tp:taxon-name>Namea</tp:taxon-name>
+, as currently circumscribed (
+sensuRaven 1984
+), represents one or more genera, and how it differs morphologically from 
+<tp:taxon-name>Teyl</tp:taxon-name>
+               <named-content content-type="taxonStatus">s.s.</named-content>
+, is currently the subject of ongoing research.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution.
+Species of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+occur throughout the semi-arid and arid zones of southern 
+Australia
+, from 
+Western Australia
+(
+
+) east to southern 
+South Australia
+and western 
+Victoria
+. The genus reaches its highest diversity in south-western 
+Western Australia
+, although a relatively few species can be found as far north as the Murchison, Gascoyne and Pilbara bioregions in the western-central arid zone (
+
+, 
+
+).
+</p>
+            <p>Included species.
+The genus 
+<tp:taxon-name>Teyl</tp:taxon-name>
+includes seven described species, one of which is newly described in this study. Numerous undescribed species are also known from throughout western and southern 
+Australia
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>
+(
+
+, 
+
+)
+</p>
+            <p>
+http://zoobank.org/ 
+
+urn:lsid:zoobank.org:act: 
+38CC7541-19AD-444F-A99D-0DC200A3E73C</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="reference_group">
+            <p>
+               <tp:taxon-name>Teyl</tp:taxon-name>
+‘MYG027’ 
+
+Castalanelli 
+et al.
+, 2014: 380
+
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Type material.<tp:material-citation>AUSTRALIA
+: 
+Western Australia
+:
+
+male 
+holotype
+, 
+Hamersley Range
+, 
+Weeli Wolli Creek region
+, 
+Area C
+, site 09-9E (
+IBRA
+_ 
+PIL
+), 
+22°55’31”S
+, 
+119°02’16”E
+, 
+pitfall trap
+, 
+15 June 2008
+, 
+P. Bolton
+, 
+J. Puglisi
+(WAM 
+T91918
+)
+</tp:material-citation>
+.
+</p>
+            <p>Other material examined.<tp:material-citation>Australia
+: 
+Western Australia
+:
+1 male
+, 
+Angelo River
+(
+IBRA
+_ 
+PIL
+), 
+23°19’36”S
+, 
+118°43’51”E
+, 
+pitfall trap
+, 
+20 June–1 July 2011</tp:material-citation>
+, C. Trainor (WAM T115978); 
+<tp:material-citation>1 male
+, 
+Wonmunna
+, 
+ca
+. 
+73 km
+heading 291° NW. from 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°07’16”S
+, 
+119°03’48”E
+, wide creek, 
+wet pitfall trap
+, 
+20 May–22 June 2011</tp:material-citation>
+, 
+<tp:material-citation>
+P.R. 
+Langlands
+(WAM T 
+112357
+)
+</tp:material-citation>
+; 
+<tp:material-citation>1 juvenile
+, 
+Southern Flank
+, 
+72 km
+NW. of 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°00’10”S
+, 
+119°08’20”E
+, dug from burrow, 
+14 April 2011</tp:material-citation>
+, R. Teale, M. Greenham (WAM T113601).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.
+Males of 
+<tp:taxon-name>Teyl heuretes</tp:taxon-name>
+can be distinguished from 
+<tp:taxon-name>T. damsonoides</tp:taxon-name>
+by the presence of a reflexed embolus (
+
+; cf. 
+Main 1983
+, fig. 51); from 
+<tp:taxon-name>T. harveyi</tp:taxon-name>
+, 
+<tp:taxon-name>T. vancouveri</tp:taxon-name>
+, and 
+<tp:taxon-name>T. walkeri</tp:taxon-name>
+by the length of the embolus, which is much longer relative to the width of the bulb (
+
+; cf. 
+Main 1985
+, fig. 24; 
+Main 2004
+, figs 8, 19); and from 
+<tp:taxon-name>T. luculentus</tp:taxon-name>
+and 
+<tp:taxon-name>T. yeni</tp:taxon-name>
+by the absence of conspicuous macrosetae on metatarsus I (
+
+; cf. 
+Main 1975
+, fig. 2C; 
+Main 2004
+, fig. 35). Females are unknown.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>Description.Holotype
+male
+
+(
+
+): Total length 13.9. Carapace 5.2 long, 4.4 wide. Abdomen 6.9 long, 3.7 wide. Carapace (
+
+) oval, tan-brown with darker brown markings along furrows, sparse downy setation and rows of darker scattered black setae on pars cephalica and pars thoracica; lateral margins with evenly-spaced fringe of anteriorly curved, porrect black setae, longest posteriorly; fovea straight. Eye group (
+
+) rectangular, 0.5 × as long as wide, PLE–PLE/ALE–ALE ratio 1.0; AME separated by less than their own diameter; PME separated by 4.7 × their own diameter; PME and PLE almost contiguous. Maxillae each with field of 
+ca
+. 50 cuspules confined to inner ‘heel’ and proximal corner (
+
+); labium without cuspules. Abdomen (
+
+) elongate-oval, dark grey-brown in dorsal view and paler beige-brown laterally and ventrally, with irregular beigebrown mottling on posterior dorsal half. Legs (
+
+) tan-brown, with light scopulae on tarsi I–II and distal half of metatarsi I–II; tibia I marginally excavate distally, with row of 3 large and 1 smaller ventral macrosetae (most obvious in retrolateral view; 
+
+), plus 2 retrolateral and 6 prolateral macrosetae (
+
+); metatarsus I ventrally excavate and slightly concave proximally, with pair of short distal macrosetae (
+
+); tarsus I without macrosetae. Leg I: femur 4.8; patella 2.8; tibia 3.6; metatarsus 3.7; tarsus 2.3; total 17.1. Leg I femur–tarsus/carapace length ratio 3.3. Pedipalpal tibia (
+
+) 2.6 × longer than wide, with numerous porrect black macrosetae. Cymbium (
+
+) setose, with distal scopula. Bulb (
+
+) sub-spherical and unmodified, with reflexed embolus protruding pro-proximally. Embolus (
+
+) elongate, ca. 2.0 × length of bulb, strongly curved at base but otherwise relatively straight and posteriorly directed, with thinly tapering tip.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="etymology">
+            <p>Etymology.
+The specific epithet is derived from the Greek 
+<tp:taxon-name>heuretes</tp:taxon-name>
+(finder, inventor, discoverer; see 
+Brown 1956
+), in reference to the species with the most northern distribution of the genus (
+
+), and for Keiran John (Jack) Devery, the maternal grandfather of the first author, who spent his life improving himself and learning new skills to discover the world around him.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution and remarks.<tp:taxon-name>Teyl heuretes</tp:taxon-name>
+(formerly known informally by WAM identification code ‘MYG027’; see 
+
+Castalanelli 
+et al.
+2014
+
+) is an apparently rare species known only from the southern Pilbara bioregion, from the eastern end of the Hamersley Range, north-west of Newman (
+
+, 
+
+). A number of additional juvenile specimens have also been recorded from this general area (see below; 
+
+); however, without sequence data it cannot be confirmed if they are conspecific (albeit likely, especially within the vicinity of Wonmunna and Mudlark). Little is known of the biology of this species, other than that adult males have been collected from pitfall traps in June and July.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>
+Unidentified juvenile 
+<tp:taxon-name>Teyl</tp:taxon-name>
+specimens from the Pilbara bioregion
+</p>
+            <p>
+(
+
+)
+</p>
+            <p>Material examined.Australia
+: 
+Western Australia
+:
+1 juvenile
+, 
+Newman area
+(
+IBRA
+_ 
+PIL
+), 
+23°21’S
+, 
+119°44’E
+, 
+20–27 June 1984
+, via D. Kaljuste (WAM 
+T 44346
+); 
+1 juvenile
+, 
+Mudlark
+, 
+100 km
+W. of 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°04’09”S
+, 
+118°47’28”E
+, dug from burrow, 
+2 July 2011
+, M. Greenham, N. Watson (WAM T116806); 
+1 juvenile
+, same data except 
+111 km
+WNW. of 
+Newman
+, 
+23°05’13”S
+, 
+118°41’11”E
+, 
+30 June 2011
+, M. Greenham, J. Cairnes (WAM T116756); 
+2 juveniles
+, 
+Wonmunna
+, 
+ca
+. 
+72 km
+heading 290° from 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°07’42”S
+, 
+119°04’25”E
+, 
+wet pitfall trap
+, 
+19 May–23 June 2011
+, P.R. 
+Langlands
+(WAM T 
+112356
+); 
+1 juvenile
+, same data except 
+ca
+. 
+75 km
+heading 289° from 
+Newman
+, 
+23°08’08”S
+, 
+119°02’18”E
+(WAM T 
+112355
+); 
+1 juvenile
+, same data except 
+ca
+. 
+79 km
+heading 286° from 
+Newman
+, 
+23°09’17”S
+, 
+118°59’36”E
+, dug from burrow, 
+18 May–22 June 2011
+(WAM T 
+112358
+).
+</p>
+         </tp:treatment-sec>
+      </tp:taxon-treatment>
+      <tp:taxon-treatment>
+         <tp:treatment-meta>
+            <kwd-group>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>
+Nemesiidae 
+Simon, 1889</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Aname
+L. 
+Koch, 1873</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>TeylMain, 1975</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>TeylMain, 1975: 74</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl luculentusMain, 1975</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>MerrediniaMain, 1983: 931</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Merredinia damsonoidesMain, 1983</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>PseudoteylMain, 1985: 753</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Pseudoteyl vancouveriMain, 1985</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. damsonoides</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. callemondaRaven, 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. dahmsiRaven, 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. calcariaRaven, 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. dicalcariaRaven 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>TeyloidesMain, 1985</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyloides</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. damsonoides</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. harveyi</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. vancouveri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. walkeri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. luculentus</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. yeni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+            </kwd-group>
+            <mixed-citation>
+               <named-content content-type="treatment-title">Open-holed trapdoor spiders of the genus Teyl (Mygalomorphae: Nemesiidae Anamini) from Western Australia’s Pilbara bioregion: a new species and expanded phylogenetic assessment</named-content>
+               <uri content-type="zenodo-doi">https://doi.org/10.11646/zootaxa.4674.3.3</uri>
+               <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/FFBADA42267BFFA9FFE9B000615C1E4B</uri>
+               <article-title/>
+               <pub-id pub-id-type="doi">https://doi.org/10.11646/zootaxa.4674.3.3</pub-id>
+               <issn>1175-5326</issn>
+               <source>Zootaxa</source>
+            </mixed-citation>
+         </tp:treatment-meta>
+         <tp:mixed-nomenclature>
+Family 
+<tp:taxon-name>
+Nemesiidae 
+Simon, 1889</tp:taxon-name>
+Tribe Anamini 
+Simon, 1889</tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+Genus 
+<tp:taxon-name>TeylMain, 1975</tp:taxon-name>
+         </tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+            <tp:taxon-status>sp. nov.</tp:taxon-status>
+         </tp:mixed-nomenclature>
+         <tp:treatment-sec sec-type="description">
+            <p>
+Anamae 
+Simon, 1889: 178
+. 
+Type
+genus 
+<tp:taxon-name>Aname
+L. 
+Koch, 1873</tp:taxon-name>
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="discussion">
+            <p>Remarks.
+The tribe Anamini is an unambiguously monophyletic assemblage of nine genera, characterized by a strongly developed posterior maxillary heel bearing a field of cuspules (
+
+), in combination with an absence of tarsal claw tufts, and two rows of teeth on the paired claws (both family-level characters; see 
+Raven 1985
+; 
+
+Harvey 
+et al.
+2018
+
+). The burrows of these spiders are almost exclusively open, and often include a secondary escape shaft which branches off from the burrow proper (hence the other commonly applied name of ‘wishbone’ spiders; see 
+Main 1993
+). The tribe is distributed Australia-wide, and the Australian fauna is remarkably diverse, with 100–200 new species (and likely many more) still to be described (
+
+Castalanelli 
+et al.
+2014
+
+; 
+
+Harvey 
+et al
+. 2018
+
+; MSH, MGR, JAH, unpublished data).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="reference_group">
+            <p>
+               <tp:taxon-name>TeylMain, 1975: 74</tp:taxon-name>
+. 
+Type
+species by original designation 
+<tp:taxon-name>Teyl luculentusMain, 1975</tp:taxon-name>
+.
+</p>
+            <p>
+               <tp:taxon-name>MerrediniaMain, 1983: 931</tp:taxon-name>
+. 
+Type
+species by original designation 
+<tp:taxon-name>Merredinia damsonoidesMain, 1983</tp:taxon-name>
+(synonymised by 
+
+Harvey 
+et al
+., 2018: 436
+
+).
+</p>
+            <p>
+               <tp:taxon-name>PseudoteylMain, 1985: 753</tp:taxon-name>
+. 
+Type
+species by original designation 
+<tp:taxon-name>Pseudoteyl vancouveriMain, 1985</tp:taxon-name>
+(synonymised by 
+
+Harvey 
+et al.
+, 2018: 437
+
+).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.
+Most species of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+and 
+<tp:taxon-name>Namea</tp:taxon-name>
+can be distinguished from all other Anamini by the presence of a reflexed embolus arising on the lateral or proximal side of the pedipalpal bulb (
+
+), combined with the absence of a megaspur on the male leg I tibia (
+
+). However, a number of species of both 
+<tp:taxon-name>Teyl</tp:taxon-name>
+(e.g., 
+<tp:taxon-name>T. damsonoides</tp:taxon-name>
+) and 
+<tp:taxon-name>Namea</tp:taxon-name>
+(e.g., 
+<tp:taxon-name>N. callemondaRaven, 1984</tp:taxon-name>
+, 
+<tp:taxon-name>N. dahmsiRaven, 1984</tp:taxon-name>
+) have a presumably autapomorphic morphology whereby the embolus is not reflexed, but rather positioned distally on the bulb; these species can be distinguished from similar Anamini by the absence of a leg I megaspur on males, or by the absence of incrassate tarsi on the leg I of males. Similarly, a number of species of 
+<tp:taxon-name>Namea</tp:taxon-name>
+(e.g. 
+<tp:taxon-name>N. calcariaRaven, 1984</tp:taxon-name>
+, 
+<tp:taxon-name>N. dicalcariaRaven 1984</tp:taxon-name>
+) have macrosetae on the male leg I tibia which are produced into a megaspur-like structure; these species can be distinguished from all other Anamini, except species of 
+<tp:taxon-name>TeyloidesMain, 1985</tp:taxon-name>
+, by the presence of a reflexed embolus; and from 
+<tp:taxon-name>Teyloides</tp:taxon-name>
+by the absence of coiled spermathecae in females.
+</p>
+            <p>
+The diagnostic separation of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+and 
+<tp:taxon-name>Namea</tp:taxon-name>
+is currently problematic, due largely to the absence of a phylogenetic hypothesis for 
+<tp:taxon-name>Namea</tp:taxon-name>
+, and the presence of a number of confounding diagnostic characters at the generic level (an issue discussed in detail by 
+Raven 1984
+). At present, 
+<tp:taxon-name>Teyl</tp:taxon-name>
+includes all of those species which occur in western and southern 
+Australia
+, outside of the subtropical and tropical mesic zone of eastern 
+Queensland
+and north-eastern 
+New South Wales
+. Whether 
+<tp:taxon-name>Namea</tp:taxon-name>
+, as currently circumscribed (
+sensuRaven 1984
+), represents one or more genera, and how it differs morphologically from 
+<tp:taxon-name>Teyl</tp:taxon-name>
+               <named-content content-type="taxonStatus">s.s.</named-content>
+, is currently the subject of ongoing research.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution.
+Species of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+occur throughout the semi-arid and arid zones of southern 
+Australia
+, from 
+Western Australia
+(
+
+) east to southern 
+South Australia
+and western 
+Victoria
+. The genus reaches its highest diversity in south-western 
+Western Australia
+, although a relatively few species can be found as far north as the Murchison, Gascoyne and Pilbara bioregions in the western-central arid zone (
+
+, 
+
+).
+</p>
+            <p>Included species.
+The genus 
+<tp:taxon-name>Teyl</tp:taxon-name>
+includes seven described species, one of which is newly described in this study. Numerous undescribed species are also known from throughout western and southern 
+Australia
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>
+(
+
+, 
+
+)
+</p>
+            <p>
+http://zoobank.org/ 
+
+urn:lsid:zoobank.org:act: 
+38CC7541-19AD-444F-A99D-0DC200A3E73C</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="reference_group">
+            <p>
+               <tp:taxon-name>Teyl</tp:taxon-name>
+‘MYG027’ 
+
+Castalanelli 
+et al.
+, 2014: 380
+
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Type material.<tp:material-citation>AUSTRALIA
+: 
+Western Australia
+:
+
+male 
+holotype
+, 
+Hamersley Range
+, 
+Weeli Wolli Creek region
+, 
+Area C
+, site 09-9E (
+IBRA
+_ 
+PIL
+), 
+22°55’31”S
+, 
+119°02’16”E
+, 
+pitfall trap
+, 
+15 June 2008
+, 
+P. Bolton
+, 
+J. Puglisi
+(WAM 
+T91918
+)
+</tp:material-citation>
+.
+</p>
+            <p>Other material examined.<tp:material-citation>Australia
+: 
+Western Australia
+:
+1 male
+, 
+Angelo River
+(
+IBRA
+_ 
+PIL
+), 
+23°19’36”S
+, 
+118°43’51”E
+, 
+pitfall trap
+, 
+20 June–1 July 2011</tp:material-citation>
+, C. Trainor (WAM T115978); 
+<tp:material-citation>1 male
+, 
+Wonmunna
+, 
+ca
+. 
+73 km
+heading 291° NW. from 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°07’16”S
+, 
+119°03’48”E
+, wide creek, 
+wet pitfall trap
+, 
+20 May–22 June 2011</tp:material-citation>
+, 
+<tp:material-citation>
+P.R. 
+Langlands
+(WAM T 
+112357
+)
+</tp:material-citation>
+; 
+<tp:material-citation>1 juvenile
+, 
+Southern Flank
+, 
+72 km
+NW. of 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°00’10”S
+, 
+119°08’20”E
+, dug from burrow, 
+14 April 2011</tp:material-citation>
+, R. Teale, M. Greenham (WAM T113601).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.
+Males of 
+<tp:taxon-name>Teyl heuretes</tp:taxon-name>
+can be distinguished from 
+<tp:taxon-name>T. damsonoides</tp:taxon-name>
+by the presence of a reflexed embolus (
+
+; cf. 
+Main 1983
+, fig. 51); from 
+<tp:taxon-name>T. harveyi</tp:taxon-name>
+, 
+<tp:taxon-name>T. vancouveri</tp:taxon-name>
+, and 
+<tp:taxon-name>T. walkeri</tp:taxon-name>
+by the length of the embolus, which is much longer relative to the width of the bulb (
+
+; cf. 
+Main 1985
+, fig. 24; 
+Main 2004
+, figs 8, 19); and from 
+<tp:taxon-name>T. luculentus</tp:taxon-name>
+and 
+<tp:taxon-name>T. yeni</tp:taxon-name>
+by the absence of conspicuous macrosetae on metatarsus I (
+
+; cf. 
+Main 1975
+, fig. 2C; 
+Main 2004
+, fig. 35). Females are unknown.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>Description.Holotype
+male
+
+(
+
+): Total length 13.9. Carapace 5.2 long, 4.4 wide. Abdomen 6.9 long, 3.7 wide. Carapace (
+
+) oval, tan-brown with darker brown markings along furrows, sparse downy setation and rows of darker scattered black setae on pars cephalica and pars thoracica; lateral margins with evenly-spaced fringe of anteriorly curved, porrect black setae, longest posteriorly; fovea straight. Eye group (
+
+) rectangular, 0.5 × as long as wide, PLE–PLE/ALE–ALE ratio 1.0; AME separated by less than their own diameter; PME separated by 4.7 × their own diameter; PME and PLE almost contiguous. Maxillae each with field of 
+ca
+. 50 cuspules confined to inner ‘heel’ and proximal corner (
+
+); labium without cuspules. Abdomen (
+
+) elongate-oval, dark grey-brown in dorsal view and paler beige-brown laterally and ventrally, with irregular beigebrown mottling on posterior dorsal half. Legs (
+
+) tan-brown, with light scopulae on tarsi I–II and distal half of metatarsi I–II; tibia I marginally excavate distally, with row of 3 large and 1 smaller ventral macrosetae (most obvious in retrolateral view; 
+
+), plus 2 retrolateral and 6 prolateral macrosetae (
+
+); metatarsus I ventrally excavate and slightly concave proximally, with pair of short distal macrosetae (
+
+); tarsus I without macrosetae. Leg I: femur 4.8; patella 2.8; tibia 3.6; metatarsus 3.7; tarsus 2.3; total 17.1. Leg I femur–tarsus/carapace length ratio 3.3. Pedipalpal tibia (
+
+) 2.6 × longer than wide, with numerous porrect black macrosetae. Cymbium (
+
+) setose, with distal scopula. Bulb (
+
+) sub-spherical and unmodified, with reflexed embolus protruding pro-proximally. Embolus (
+
+) elongate, ca. 2.0 × length of bulb, strongly curved at base but otherwise relatively straight and posteriorly directed, with thinly tapering tip.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="etymology">
+            <p>Etymology.
+The specific epithet is derived from the Greek 
+<tp:taxon-name>heuretes</tp:taxon-name>
+(finder, inventor, discoverer; see 
+Brown 1956
+), in reference to the species with the most northern distribution of the genus (
+
+), and for Keiran John (Jack) Devery, the maternal grandfather of the first author, who spent his life improving himself and learning new skills to discover the world around him.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution and remarks.<tp:taxon-name>Teyl heuretes</tp:taxon-name>
+(formerly known informally by WAM identification code ‘MYG027’; see 
+
+Castalanelli 
+et al.
+2014
+
+) is an apparently rare species known only from the southern Pilbara bioregion, from the eastern end of the Hamersley Range, north-west of Newman (
+
+, 
+
+). A number of additional juvenile specimens have also been recorded from this general area (see below; 
+
+); however, without sequence data it cannot be confirmed if they are conspecific (albeit likely, especially within the vicinity of Wonmunna and Mudlark). Little is known of the biology of this species, other than that adult males have been collected from pitfall traps in June and July.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>
+Unidentified juvenile 
+<tp:taxon-name>Teyl</tp:taxon-name>
+specimens from the Pilbara bioregion
+</p>
+            <p>
+(
+
+)
+</p>
+            <p>Material examined.Australia
+: 
+Western Australia
+:
+1 juvenile
+, 
+Newman area
+(
+IBRA
+_ 
+PIL
+), 
+23°21’S
+, 
+119°44’E
+, 
+20–27 June 1984
+, via D. Kaljuste (WAM 
+T 44346
+); 
+1 juvenile
+, 
+Mudlark
+, 
+100 km
+W. of 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°04’09”S
+, 
+118°47’28”E
+, dug from burrow, 
+2 July 2011
+, M. Greenham, N. Watson (WAM T116806); 
+1 juvenile
+, same data except 
+111 km
+WNW. of 
+Newman
+, 
+23°05’13”S
+, 
+118°41’11”E
+, 
+30 June 2011
+, M. Greenham, J. Cairnes (WAM T116756); 
+2 juveniles
+, 
+Wonmunna
+, 
+ca
+. 
+72 km
+heading 290° from 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°07’42”S
+, 
+119°04’25”E
+, 
+wet pitfall trap
+, 
+19 May–23 June 2011
+, P.R. 
+Langlands
+(WAM T 
+112356
+); 
+1 juvenile
+, same data except 
+ca
+. 
+75 km
+heading 289° from 
+Newman
+, 
+23°08’08”S
+, 
+119°02’18”E
+(WAM T 
+112355
+); 
+1 juvenile
+, same data except 
+ca
+. 
+79 km
+heading 286° from 
+Newman
+, 
+23°09’17”S
+, 
+118°59’36”E
+, dug from burrow, 
+18 May–22 June 2011
+(WAM T 
+112358
+).
+</p>
+         </tp:treatment-sec>
+      </tp:taxon-treatment>
+      <tp:taxon-treatment>
+         <tp:treatment-meta>
+            <kwd-group>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>
+Nemesiidae 
+Simon, 1889</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Aname
+L. 
+Koch, 1873</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>TeylMain, 1975</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>TeylMain, 1975: 74</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl luculentusMain, 1975</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>MerrediniaMain, 1983: 931</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Merredinia damsonoidesMain, 1983</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>PseudoteylMain, 1985: 753</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Pseudoteyl vancouveriMain, 1985</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. damsonoides</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. callemondaRaven, 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. dahmsiRaven, 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. calcariaRaven, 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. dicalcariaRaven 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>TeyloidesMain, 1985</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyloides</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. damsonoides</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. harveyi</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. vancouveri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. walkeri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. luculentus</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. yeni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+            </kwd-group>
+            <mixed-citation>
+               <named-content content-type="treatment-title">Open-holed trapdoor spiders of the genus Teyl (Mygalomorphae: Nemesiidae Anamini) from Western Australia’s Pilbara bioregion: a new species and expanded phylogenetic assessment</named-content>
+               <uri content-type="zenodo-doi">https://doi.org/10.11646/zootaxa.4674.3.3</uri>
+               <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/FFBADA42267BFFA9FFE9B000615C1E4B</uri>
+               <article-title/>
+               <pub-id pub-id-type="doi">https://doi.org/10.11646/zootaxa.4674.3.3</pub-id>
+               <issn>1175-5326</issn>
+               <source>Zootaxa</source>
+            </mixed-citation>
+         </tp:treatment-meta>
+         <tp:mixed-nomenclature>
+Family 
+<tp:taxon-name>
+Nemesiidae 
+Simon, 1889</tp:taxon-name>
+Tribe Anamini 
+Simon, 1889</tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+Genus 
+<tp:taxon-name>TeylMain, 1975</tp:taxon-name>
+         </tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+            <tp:taxon-status>sp. nov.</tp:taxon-status>
+         </tp:mixed-nomenclature>
+         <tp:treatment-sec sec-type="description">
+            <p>
+Anamae 
+Simon, 1889: 178
+. 
+Type
+genus 
+<tp:taxon-name>Aname
+L. 
+Koch, 1873</tp:taxon-name>
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="discussion">
+            <p>Remarks.
+The tribe Anamini is an unambiguously monophyletic assemblage of nine genera, characterized by a strongly developed posterior maxillary heel bearing a field of cuspules (
+
+), in combination with an absence of tarsal claw tufts, and two rows of teeth on the paired claws (both family-level characters; see 
+Raven 1985
+; 
+
+Harvey 
+et al.
+2018
+
+). The burrows of these spiders are almost exclusively open, and often include a secondary escape shaft which branches off from the burrow proper (hence the other commonly applied name of ‘wishbone’ spiders; see 
+Main 1993
+). The tribe is distributed Australia-wide, and the Australian fauna is remarkably diverse, with 100–200 new species (and likely many more) still to be described (
+
+Castalanelli 
+et al.
+2014
+
+; 
+
+Harvey 
+et al
+. 2018
+
+; MSH, MGR, JAH, unpublished data).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="reference_group">
+            <p>
+               <tp:taxon-name>TeylMain, 1975: 74</tp:taxon-name>
+. 
+Type
+species by original designation 
+<tp:taxon-name>Teyl luculentusMain, 1975</tp:taxon-name>
+.
+</p>
+            <p>
+               <tp:taxon-name>MerrediniaMain, 1983: 931</tp:taxon-name>
+. 
+Type
+species by original designation 
+<tp:taxon-name>Merredinia damsonoidesMain, 1983</tp:taxon-name>
+(synonymised by 
+
+Harvey 
+et al
+., 2018: 436
+
+).
+</p>
+            <p>
+               <tp:taxon-name>PseudoteylMain, 1985: 753</tp:taxon-name>
+. 
+Type
+species by original designation 
+<tp:taxon-name>Pseudoteyl vancouveriMain, 1985</tp:taxon-name>
+(synonymised by 
+
+Harvey 
+et al.
+, 2018: 437
+
+).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.
+Most species of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+and 
+<tp:taxon-name>Namea</tp:taxon-name>
+can be distinguished from all other Anamini by the presence of a reflexed embolus arising on the lateral or proximal side of the pedipalpal bulb (
+
+), combined with the absence of a megaspur on the male leg I tibia (
+
+). However, a number of species of both 
+<tp:taxon-name>Teyl</tp:taxon-name>
+(e.g., 
+<tp:taxon-name>T. damsonoides</tp:taxon-name>
+) and 
+<tp:taxon-name>Namea</tp:taxon-name>
+(e.g., 
+<tp:taxon-name>N. callemondaRaven, 1984</tp:taxon-name>
+, 
+<tp:taxon-name>N. dahmsiRaven, 1984</tp:taxon-name>
+) have a presumably autapomorphic morphology whereby the embolus is not reflexed, but rather positioned distally on the bulb; these species can be distinguished from similar Anamini by the absence of a leg I megaspur on males, or by the absence of incrassate tarsi on the leg I of males. Similarly, a number of species of 
+<tp:taxon-name>Namea</tp:taxon-name>
+(e.g. 
+<tp:taxon-name>N. calcariaRaven, 1984</tp:taxon-name>
+, 
+<tp:taxon-name>N. dicalcariaRaven 1984</tp:taxon-name>
+) have macrosetae on the male leg I tibia which are produced into a megaspur-like structure; these species can be distinguished from all other Anamini, except species of 
+<tp:taxon-name>TeyloidesMain, 1985</tp:taxon-name>
+, by the presence of a reflexed embolus; and from 
+<tp:taxon-name>Teyloides</tp:taxon-name>
+by the absence of coiled spermathecae in females.
+</p>
+            <p>
+The diagnostic separation of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+and 
+<tp:taxon-name>Namea</tp:taxon-name>
+is currently problematic, due largely to the absence of a phylogenetic hypothesis for 
+<tp:taxon-name>Namea</tp:taxon-name>
+, and the presence of a number of confounding diagnostic characters at the generic level (an issue discussed in detail by 
+Raven 1984
+). At present, 
+<tp:taxon-name>Teyl</tp:taxon-name>
+includes all of those species which occur in western and southern 
+Australia
+, outside of the subtropical and tropical mesic zone of eastern 
+Queensland
+and north-eastern 
+New South Wales
+. Whether 
+<tp:taxon-name>Namea</tp:taxon-name>
+, as currently circumscribed (
+sensuRaven 1984
+), represents one or more genera, and how it differs morphologically from 
+<tp:taxon-name>Teyl</tp:taxon-name>
+               <named-content content-type="taxonStatus">s.s.</named-content>
+, is currently the subject of ongoing research.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution.
+Species of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+occur throughout the semi-arid and arid zones of southern 
+Australia
+, from 
+Western Australia
+(
+
+) east to southern 
+South Australia
+and western 
+Victoria
+. The genus reaches its highest diversity in south-western 
+Western Australia
+, although a relatively few species can be found as far north as the Murchison, Gascoyne and Pilbara bioregions in the western-central arid zone (
+
+, 
+
+).
+</p>
+            <p>Included species.
+The genus 
+<tp:taxon-name>Teyl</tp:taxon-name>
+includes seven described species, one of which is newly described in this study. Numerous undescribed species are also known from throughout western and southern 
+Australia
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>
+(
+
+, 
+
+)
+</p>
+            <p>
+http://zoobank.org/ 
+
+urn:lsid:zoobank.org:act: 
+38CC7541-19AD-444F-A99D-0DC200A3E73C</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="reference_group">
+            <p>
+               <tp:taxon-name>Teyl</tp:taxon-name>
+‘MYG027’ 
+
+Castalanelli 
+et al.
+, 2014: 380
+
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Type material.<tp:material-citation>AUSTRALIA
+: 
+Western Australia
+:
+
+male 
+holotype
+, 
+Hamersley Range
+, 
+Weeli Wolli Creek region
+, 
+Area C
+, site 09-9E (
+IBRA
+_ 
+PIL
+), 
+22°55’31”S
+, 
+119°02’16”E
+, 
+pitfall trap
+, 
+15 June 2008
+, 
+P. Bolton
+, 
+J. Puglisi
+(WAM 
+T91918
+)
+</tp:material-citation>
+.
+</p>
+            <p>Other material examined.<tp:material-citation>Australia
+: 
+Western Australia
+:
+1 male
+, 
+Angelo River
+(
+IBRA
+_ 
+PIL
+), 
+23°19’36”S
+, 
+118°43’51”E
+, 
+pitfall trap
+, 
+20 June–1 July 2011</tp:material-citation>
+, C. Trainor (WAM T115978); 
+<tp:material-citation>1 male
+, 
+Wonmunna
+, 
+ca
+. 
+73 km
+heading 291° NW. from 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°07’16”S
+, 
+119°03’48”E
+, wide creek, 
+wet pitfall trap
+, 
+20 May–22 June 2011</tp:material-citation>
+, 
+<tp:material-citation>
+P.R. 
+Langlands
+(WAM T 
+112357
+)
+</tp:material-citation>
+; 
+<tp:material-citation>1 juvenile
+, 
+Southern Flank
+, 
+72 km
+NW. of 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°00’10”S
+, 
+119°08’20”E
+, dug from burrow, 
+14 April 2011</tp:material-citation>
+, R. Teale, M. Greenham (WAM T113601).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.
+Males of 
+<tp:taxon-name>Teyl heuretes</tp:taxon-name>
+can be distinguished from 
+<tp:taxon-name>T. damsonoides</tp:taxon-name>
+by the presence of a reflexed embolus (
+
+; cf. 
+Main 1983
+, fig. 51); from 
+<tp:taxon-name>T. harveyi</tp:taxon-name>
+, 
+<tp:taxon-name>T. vancouveri</tp:taxon-name>
+, and 
+<tp:taxon-name>T. walkeri</tp:taxon-name>
+by the length of the embolus, which is much longer relative to the width of the bulb (
+
+; cf. 
+Main 1985
+, fig. 24; 
+Main 2004
+, figs 8, 19); and from 
+<tp:taxon-name>T. luculentus</tp:taxon-name>
+and 
+<tp:taxon-name>T. yeni</tp:taxon-name>
+by the absence of conspicuous macrosetae on metatarsus I (
+
+; cf. 
+Main 1975
+, fig. 2C; 
+Main 2004
+, fig. 35). Females are unknown.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>Description.Holotype
+male
+
+(
+
+): Total length 13.9. Carapace 5.2 long, 4.4 wide. Abdomen 6.9 long, 3.7 wide. Carapace (
+
+) oval, tan-brown with darker brown markings along furrows, sparse downy setation and rows of darker scattered black setae on pars cephalica and pars thoracica; lateral margins with evenly-spaced fringe of anteriorly curved, porrect black setae, longest posteriorly; fovea straight. Eye group (
+
+) rectangular, 0.5 × as long as wide, PLE–PLE/ALE–ALE ratio 1.0; AME separated by less than their own diameter; PME separated by 4.7 × their own diameter; PME and PLE almost contiguous. Maxillae each with field of 
+ca
+. 50 cuspules confined to inner ‘heel’ and proximal corner (
+
+); labium without cuspules. Abdomen (
+
+) elongate-oval, dark grey-brown in dorsal view and paler beige-brown laterally and ventrally, with irregular beigebrown mottling on posterior dorsal half. Legs (
+
+) tan-brown, with light scopulae on tarsi I–II and distal half of metatarsi I–II; tibia I marginally excavate distally, with row of 3 large and 1 smaller ventral macrosetae (most obvious in retrolateral view; 
+
+), plus 2 retrolateral and 6 prolateral macrosetae (
+
+); metatarsus I ventrally excavate and slightly concave proximally, with pair of short distal macrosetae (
+
+); tarsus I without macrosetae. Leg I: femur 4.8; patella 2.8; tibia 3.6; metatarsus 3.7; tarsus 2.3; total 17.1. Leg I femur–tarsus/carapace length ratio 3.3. Pedipalpal tibia (
+
+) 2.6 × longer than wide, with numerous porrect black macrosetae. Cymbium (
+
+) setose, with distal scopula. Bulb (
+
+) sub-spherical and unmodified, with reflexed embolus protruding pro-proximally. Embolus (
+
+) elongate, ca. 2.0 × length of bulb, strongly curved at base but otherwise relatively straight and posteriorly directed, with thinly tapering tip.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="etymology">
+            <p>Etymology.
+The specific epithet is derived from the Greek 
+<tp:taxon-name>heuretes</tp:taxon-name>
+(finder, inventor, discoverer; see 
+Brown 1956
+), in reference to the species with the most northern distribution of the genus (
+
+), and for Keiran John (Jack) Devery, the maternal grandfather of the first author, who spent his life improving himself and learning new skills to discover the world around him.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution and remarks.<tp:taxon-name>Teyl heuretes</tp:taxon-name>
+(formerly known informally by WAM identification code ‘MYG027’; see 
+
+Castalanelli 
+et al.
+2014
+
+) is an apparently rare species known only from the southern Pilbara bioregion, from the eastern end of the Hamersley Range, north-west of Newman (
+
+, 
+
+). A number of additional juvenile specimens have also been recorded from this general area (see below; 
+
+); however, without sequence data it cannot be confirmed if they are conspecific (albeit likely, especially within the vicinity of Wonmunna and Mudlark). Little is known of the biology of this species, other than that adult males have been collected from pitfall traps in June and July.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>
+Unidentified juvenile 
+<tp:taxon-name>Teyl</tp:taxon-name>
+specimens from the Pilbara bioregion
+</p>
+            <p>
+(
+
+)
+</p>
+            <p>Material examined.Australia
+: 
+Western Australia
+:
+1 juvenile
+, 
+Newman area
+(
+IBRA
+_ 
+PIL
+), 
+23°21’S
+, 
+119°44’E
+, 
+20–27 June 1984
+, via D. Kaljuste (WAM 
+T 44346
+); 
+1 juvenile
+, 
+Mudlark
+, 
+100 km
+W. of 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°04’09”S
+, 
+118°47’28”E
+, dug from burrow, 
+2 July 2011
+, M. Greenham, N. Watson (WAM T116806); 
+1 juvenile
+, same data except 
+111 km
+WNW. of 
+Newman
+, 
+23°05’13”S
+, 
+118°41’11”E
+, 
+30 June 2011
+, M. Greenham, J. Cairnes (WAM T116756); 
+2 juveniles
+, 
+Wonmunna
+, 
+ca
+. 
+72 km
+heading 290° from 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°07’42”S
+, 
+119°04’25”E
+, 
+wet pitfall trap
+, 
+19 May–23 June 2011
+, P.R. 
+Langlands
+(WAM T 
+112356
+); 
+1 juvenile
+, same data except 
+ca
+. 
+75 km
+heading 289° from 
+Newman
+, 
+23°08’08”S
+, 
+119°02’18”E
+(WAM T 
+112355
+); 
+1 juvenile
+, same data except 
+ca
+. 
+79 km
+heading 286° from 
+Newman
+, 
+23°09’17”S
+, 
+118°59’36”E
+, dug from burrow, 
+18 May–22 June 2011
+(WAM T 
+112358
+).
+</p>
+         </tp:treatment-sec>
+      </tp:taxon-treatment>
+      <tp:taxon-treatment>
+         <tp:treatment-meta>
+            <kwd-group>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>
+Nemesiidae 
+Simon, 1889</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Aname
+L. 
+Koch, 1873</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>TeylMain, 1975</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>TeylMain, 1975: 74</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl luculentusMain, 1975</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>MerrediniaMain, 1983: 931</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Merredinia damsonoidesMain, 1983</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>PseudoteylMain, 1985: 753</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Pseudoteyl vancouveriMain, 1985</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. damsonoides</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. callemondaRaven, 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. dahmsiRaven, 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. calcariaRaven, 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>N. dicalcariaRaven 1984</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>TeyloidesMain, 1985</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyloides</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Namea</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="nominate-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. damsonoides</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. harveyi</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. vancouveri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. walkeri</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. luculentus</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>T. yeni</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+               </kwd>
+               <kwd content-type="mentioned-taxon">
+                  <tp:taxon-name>Teyl</tp:taxon-name>
+               </kwd>
+            </kwd-group>
+            <mixed-citation>
+               <named-content content-type="treatment-title">Open-holed trapdoor spiders of the genus Teyl (Mygalomorphae: Nemesiidae Anamini) from Western Australia’s Pilbara bioregion: a new species and expanded phylogenetic assessment</named-content>
+               <uri content-type="zenodo-doi">https://doi.org/10.11646/zootaxa.4674.3.3</uri>
+               <uri content-type="treatment-bank-uri">http://treatment.plazi.org/id/FFBADA42267BFFA9FFE9B000615C1E4B</uri>
+               <article-title/>
+               <pub-id pub-id-type="doi">https://doi.org/10.11646/zootaxa.4674.3.3</pub-id>
+               <issn>1175-5326</issn>
+               <source>Zootaxa</source>
+            </mixed-citation>
+         </tp:treatment-meta>
+         <tp:mixed-nomenclature>
+Family 
+<tp:taxon-name>
+Nemesiidae 
+Simon, 1889</tp:taxon-name>
+Tribe Anamini 
+Simon, 1889</tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+Genus 
+<tp:taxon-name>TeylMain, 1975</tp:taxon-name>
+         </tp:mixed-nomenclature>
+         <tp:mixed-nomenclature>
+            <tp:taxon-name>Teyl heuretes</tp:taxon-name>
+            <tp:taxon-status>sp. nov.</tp:taxon-status>
+         </tp:mixed-nomenclature>
+         <tp:treatment-sec sec-type="description">
+            <p>
+Anamae 
+Simon, 1889: 178
+. 
+Type
+genus 
+<tp:taxon-name>Aname
+L. 
+Koch, 1873</tp:taxon-name>
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="discussion">
+            <p>Remarks.
+The tribe Anamini is an unambiguously monophyletic assemblage of nine genera, characterized by a strongly developed posterior maxillary heel bearing a field of cuspules (
+
+), in combination with an absence of tarsal claw tufts, and two rows of teeth on the paired claws (both family-level characters; see 
+Raven 1985
+; 
+
+Harvey 
+et al.
+2018
+
+). The burrows of these spiders are almost exclusively open, and often include a secondary escape shaft which branches off from the burrow proper (hence the other commonly applied name of ‘wishbone’ spiders; see 
+Main 1993
+). The tribe is distributed Australia-wide, and the Australian fauna is remarkably diverse, with 100–200 new species (and likely many more) still to be described (
+
+Castalanelli 
+et al.
+2014
+
+; 
+
+Harvey 
+et al
+. 2018
+
+; MSH, MGR, JAH, unpublished data).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="reference_group">
+            <p>
+               <tp:taxon-name>TeylMain, 1975: 74</tp:taxon-name>
+. 
+Type
+species by original designation 
+<tp:taxon-name>Teyl luculentusMain, 1975</tp:taxon-name>
+.
+</p>
+            <p>
+               <tp:taxon-name>MerrediniaMain, 1983: 931</tp:taxon-name>
+. 
+Type
+species by original designation 
+<tp:taxon-name>Merredinia damsonoidesMain, 1983</tp:taxon-name>
+(synonymised by 
+
+Harvey 
+et al
+., 2018: 436
+
+).
+</p>
+            <p>
+               <tp:taxon-name>PseudoteylMain, 1985: 753</tp:taxon-name>
+. 
+Type
+species by original designation 
+<tp:taxon-name>Pseudoteyl vancouveriMain, 1985</tp:taxon-name>
+(synonymised by 
+
+Harvey 
+et al.
+, 2018: 437
+
+).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.
+Most species of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+and 
+<tp:taxon-name>Namea</tp:taxon-name>
+can be distinguished from all other Anamini by the presence of a reflexed embolus arising on the lateral or proximal side of the pedipalpal bulb (
+
+), combined with the absence of a megaspur on the male leg I tibia (
+
+). However, a number of species of both 
+<tp:taxon-name>Teyl</tp:taxon-name>
+(e.g., 
+<tp:taxon-name>T. damsonoides</tp:taxon-name>
+) and 
+<tp:taxon-name>Namea</tp:taxon-name>
+(e.g., 
+<tp:taxon-name>N. callemondaRaven, 1984</tp:taxon-name>
+, 
+<tp:taxon-name>N. dahmsiRaven, 1984</tp:taxon-name>
+) have a presumably autapomorphic morphology whereby the embolus is not reflexed, but rather positioned distally on the bulb; these species can be distinguished from similar Anamini by the absence of a leg I megaspur on males, or by the absence of incrassate tarsi on the leg I of males. Similarly, a number of species of 
+<tp:taxon-name>Namea</tp:taxon-name>
+(e.g. 
+<tp:taxon-name>N. calcariaRaven, 1984</tp:taxon-name>
+, 
+<tp:taxon-name>N. dicalcariaRaven 1984</tp:taxon-name>
+) have macrosetae on the male leg I tibia which are produced into a megaspur-like structure; these species can be distinguished from all other Anamini, except species of 
+<tp:taxon-name>TeyloidesMain, 1985</tp:taxon-name>
+, by the presence of a reflexed embolus; and from 
+<tp:taxon-name>Teyloides</tp:taxon-name>
+by the absence of coiled spermathecae in females.
+</p>
+            <p>
+The diagnostic separation of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+and 
+<tp:taxon-name>Namea</tp:taxon-name>
+is currently problematic, due largely to the absence of a phylogenetic hypothesis for 
+<tp:taxon-name>Namea</tp:taxon-name>
+, and the presence of a number of confounding diagnostic characters at the generic level (an issue discussed in detail by 
+Raven 1984
+). At present, 
+<tp:taxon-name>Teyl</tp:taxon-name>
+includes all of those species which occur in western and southern 
+Australia
+, outside of the subtropical and tropical mesic zone of eastern 
+Queensland
+and north-eastern 
+New South Wales
+. Whether 
+<tp:taxon-name>Namea</tp:taxon-name>
+, as currently circumscribed (
+sensuRaven 1984
+), represents one or more genera, and how it differs morphologically from 
+<tp:taxon-name>Teyl</tp:taxon-name>
+               <named-content content-type="taxonStatus">s.s.</named-content>
+, is currently the subject of ongoing research.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution.
+Species of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+occur throughout the semi-arid and arid zones of southern 
+Australia
+, from 
+Western Australia
+(
+
+) east to southern 
+South Australia
+and western 
+Victoria
+. The genus reaches its highest diversity in south-western 
+Western Australia
+, although a relatively few species can be found as far north as the Murchison, Gascoyne and Pilbara bioregions in the western-central arid zone (
+
+, 
+
+).
+</p>
+            <p>Included species.
+The genus 
+<tp:taxon-name>Teyl</tp:taxon-name>
+includes seven described species, one of which is newly described in this study. Numerous undescribed species are also known from throughout western and southern 
+Australia
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>
+(
+
+, 
+
+)
+</p>
+            <p>
+http://zoobank.org/ 
+
+urn:lsid:zoobank.org:act: 
+38CC7541-19AD-444F-A99D-0DC200A3E73C</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="reference_group">
+            <p>
+               <tp:taxon-name>Teyl</tp:taxon-name>
+‘MYG027’ 
+
+Castalanelli 
+et al.
+, 2014: 380
+
+.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>Type material.<tp:material-citation>AUSTRALIA
+: 
+Western Australia
+:
+
+male 
+holotype
+, 
+Hamersley Range
+, 
+Weeli Wolli Creek region
+, 
+Area C
+, site 09-9E (
+IBRA
+_ 
+PIL
+), 
+22°55’31”S
+, 
+119°02’16”E
+, 
+pitfall trap
+, 
+15 June 2008
+, 
+P. Bolton
+, 
+J. Puglisi
+(WAM 
+T91918
+)
+</tp:material-citation>
+.
+</p>
+            <p>Other material examined.<tp:material-citation>Australia
+: 
+Western Australia
+:
+1 male
+, 
+Angelo River
+(
+IBRA
+_ 
+PIL
+), 
+23°19’36”S
+, 
+118°43’51”E
+, 
+pitfall trap
+, 
+20 June–1 July 2011</tp:material-citation>
+, C. Trainor (WAM T115978); 
+<tp:material-citation>1 male
+, 
+Wonmunna
+, 
+ca
+. 
+73 km
+heading 291° NW. from 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°07’16”S
+, 
+119°03’48”E
+, wide creek, 
+wet pitfall trap
+, 
+20 May–22 June 2011</tp:material-citation>
+, 
+<tp:material-citation>
+P.R. 
+Langlands
+(WAM T 
+112357
+)
+</tp:material-citation>
+; 
+<tp:material-citation>1 juvenile
+, 
+Southern Flank
+, 
+72 km
+NW. of 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°00’10”S
+, 
+119°08’20”E
+, dug from burrow, 
+14 April 2011</tp:material-citation>
+, R. Teale, M. Greenham (WAM T113601).
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="diagnosis">
+            <p>Diagnosis.
+Males of 
+<tp:taxon-name>Teyl heuretes</tp:taxon-name>
+can be distinguished from 
+<tp:taxon-name>T. damsonoides</tp:taxon-name>
+by the presence of a reflexed embolus (
+
+; cf. 
+Main 1983
+, fig. 51); from 
+<tp:taxon-name>T. harveyi</tp:taxon-name>
+, 
+<tp:taxon-name>T. vancouveri</tp:taxon-name>
+, and 
+<tp:taxon-name>T. walkeri</tp:taxon-name>
+by the length of the embolus, which is much longer relative to the width of the bulb (
+
+; cf. 
+Main 1985
+, fig. 24; 
+Main 2004
+, figs 8, 19); and from 
+<tp:taxon-name>T. luculentus</tp:taxon-name>
+and 
+<tp:taxon-name>T. yeni</tp:taxon-name>
+by the absence of conspicuous macrosetae on metatarsus I (
+
+; cf. 
+Main 1975
+, fig. 2C; 
+Main 2004
+, fig. 35). Females are unknown.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="description">
+            <p>Description.Holotype
+male
+
+(
+
+): Total length 13.9. Carapace 5.2 long, 4.4 wide. Abdomen 6.9 long, 3.7 wide. Carapace (
+
+) oval, tan-brown with darker brown markings along furrows, sparse downy setation and rows of darker scattered black setae on pars cephalica and pars thoracica; lateral margins with evenly-spaced fringe of anteriorly curved, porrect black setae, longest posteriorly; fovea straight. Eye group (
+
+) rectangular, 0.5 × as long as wide, PLE–PLE/ALE–ALE ratio 1.0; AME separated by less than their own diameter; PME separated by 4.7 × their own diameter; PME and PLE almost contiguous. Maxillae each with field of 
+ca
+. 50 cuspules confined to inner ‘heel’ and proximal corner (
+
+); labium without cuspules. Abdomen (
+
+) elongate-oval, dark grey-brown in dorsal view and paler beige-brown laterally and ventrally, with irregular beigebrown mottling on posterior dorsal half. Legs (
+
+) tan-brown, with light scopulae on tarsi I–II and distal half of metatarsi I–II; tibia I marginally excavate distally, with row of 3 large and 1 smaller ventral macrosetae (most obvious in retrolateral view; 
+
+), plus 2 retrolateral and 6 prolateral macrosetae (
+
+); metatarsus I ventrally excavate and slightly concave proximally, with pair of short distal macrosetae (
+
+); tarsus I without macrosetae. Leg I: femur 4.8; patella 2.8; tibia 3.6; metatarsus 3.7; tarsus 2.3; total 17.1. Leg I femur–tarsus/carapace length ratio 3.3. Pedipalpal tibia (
+
+) 2.6 × longer than wide, with numerous porrect black macrosetae. Cymbium (
+
+) setose, with distal scopula. Bulb (
+
+) sub-spherical and unmodified, with reflexed embolus protruding pro-proximally. Embolus (
+
+) elongate, ca. 2.0 × length of bulb, strongly curved at base but otherwise relatively straight and posteriorly directed, with thinly tapering tip.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="etymology">
+            <p>Etymology.
+The specific epithet is derived from the Greek 
+<tp:taxon-name>heuretes</tp:taxon-name>
+(finder, inventor, discoverer; see 
+Brown 1956
+), in reference to the species with the most northern distribution of the genus (
+
+), and for Keiran John (Jack) Devery, the maternal grandfather of the first author, who spent his life improving himself and learning new skills to discover the world around him.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="distribution">
+            <p>Distribution and remarks.<tp:taxon-name>Teyl heuretes</tp:taxon-name>
+(formerly known informally by WAM identification code ‘MYG027’; see 
+
+Castalanelli 
+et al.
+2014
+
+) is an apparently rare species known only from the southern Pilbara bioregion, from the eastern end of the Hamersley Range, north-west of Newman (
+
+, 
+
+). A number of additional juvenile specimens have also been recorded from this general area (see below; 
+
+); however, without sequence data it cannot be confirmed if they are conspecific (albeit likely, especially within the vicinity of Wonmunna and Mudlark). Little is known of the biology of this species, other than that adult males have been collected from pitfall traps in June and July.
+</p>
+         </tp:treatment-sec>
+         <tp:treatment-sec sec-type="materials_examined">
+            <p>
+Unidentified juvenile 
+<tp:taxon-name>Teyl</tp:taxon-name>
+specimens from the Pilbara bioregion
+</p>
+            <p>
+(
+
+)
+</p>
+            <p>Material examined.Australia
+: 
+Western Australia
+:
+1 juvenile
+, 
+Newman area
+(
+IBRA
+_ 
+PIL
+), 
+23°21’S
+, 
+119°44’E
+, 
+20–27 June 1984
+, via D. Kaljuste (WAM 
+T 44346
+); 
+1 juvenile
+, 
+Mudlark
+, 
+100 km
+W. of 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°04’09”S
+, 
+118°47’28”E
+, dug from burrow, 
+2 July 2011
+, M. Greenham, N. Watson (WAM T116806); 
+1 juvenile
+, same data except 
+111 km
+WNW. of 
+Newman
+, 
+23°05’13”S
+, 
+118°41’11”E
+, 
+30 June 2011
+, M. Greenham, J. Cairnes (WAM T116756); 
+2 juveniles
+, 
+Wonmunna
+, 
+ca
+. 
+72 km
+heading 290° from 
+Newman
+(
+IBRA
+_ 
+PIL
+), 
+23°07’42”S
+, 
+119°04’25”E
+, 
+wet pitfall trap
+, 
+19 May–23 June 2011
+, P.R. 
+Langlands
+(WAM T 
+112356
+); 
+1 juvenile
+, same data except 
+ca
+. 
+75 km
+heading 289° from 
+Newman
+, 
+23°08’08”S
+, 
+119°02’18”E
+(WAM T 
+112355
+); 
+1 juvenile
+, same data except 
+ca
+. 
+79 km
+heading 286° from 
+Newman
+, 
+23°09’17”S
+, 
+118°59’36”E
+, dug from burrow, 
+18 May–22 June 2011
+(WAM T 
+112358
+).
+</p>
+         </tp:treatment-sec>
+      </tp:taxon-treatment>
+      <sec sec-type="acknowledgments">
+         <title>Acknowledgements</title>
+         <p>
+We would like to thank the various collectors of 
+<tp:taxon-name>Teyl</tp:taxon-name>
+specimens from the Pilbara bioregion, without which this work would not have been possible. This study was funded by the Gorgon Barrow Island Net Conservation Benefits Fund. This fund is administered by the Department of Biodiversity, Conservation and Attractions (Western Australia) and approved by the Minister for Environment after considering advice from the Gorgon Barrow Island Net Conservation Benefits Advisory Board. Additional funding was also provided to MGR and JDW by the Australian Biological Resources Study Taxonomy Research Grants Scheme (ABRS Grant No. RG18-03).
+</p>
+      </sec>
+      <sec sec-type="reference_group">
+         <title>References</title>
+         <p>Brown, R.W.
+(
+1956
+) 
+Composition of Scientific Words. Revised Edition
+.
+Smithsonian Institution Press, Washington, D.C
+., 
+812 pp.</p>
+         <p>Castalanelli, M.A.
+, 
+Huey, J.A.
+, 
+Hillyer, M.J.
+&amp; 
+Harvey, M.S.
+(
+2017
+) 
+Molecular and morphological evidence for a new genus of small trapdoor spiders from arid Western Australia (Araneae: Mygalomorphae: Nemesiidae: Anaminae)
+. 
+Invertebrate Systematics
+, 
+31
+, 
+492–505
+.
+</p>
+         <p>https://doi.org/10.1071/IS16061</p>
+         <p>Castalanelli, M.A.
+, 
+Teale, R.
+, 
+Rix, M.G.
+, 
+Kennington, W.J.
+&amp; 
+Harvey, M.S.
+(
+2014
+) 
+Barcoding of mygalomorph spiders (Araneae: Mygalomorphae) in the Pilbara bioregion of Western Australia reveals a highly diverse biota
+. 
+Invertebrate Systematics
+, 
+28
+, 
+375–385
+.
+</p>
+         <p>https://doi.org/10.1071/IS13058</p>
+         <p>Castresana, J.
+(
+2000
+) 
+Selection of conserved blocks from multiple alignments for their use in phylogenetic analysis
+. 
+Molecular Biology and Evolution
+, 
+17
+, 
+540–552
+.
+</p>
+         <p>https://doi.org/10.1093/oxfordjournals.molbev.a026334</p>
+         <p>de Queiroz, K.
+(
+2007
+) 
+Species concepts and species delimitation
+. 
+Systematic Biology
+, 
+56
+, 
+879–886
+.
+</p>
+         <p>https://doi.org/10.1080/10635150701701083</p>
+         <p>Durrant, B.J.
+, 
+Harvey, M.S.
+, 
+Framenau, V.W.
+, 
+Ott, R.
+&amp; 
+Waldock, J.M.
+(
+2010
+) 
+Patterns in the composition of ground-dwelling spider communities in the Pilbara bioregion, Western Australia
+. 
+Records of the Western Australian Museum
+, 
+78
+(Supplement), 
+185–204
+.
+</p>
+         <p>https://doi.org/10.18195/issn.0313-122x.78(1).2010.185-204</p>
+         <p>Harvey, M.S.
+, 
+Hillyer, M.J.
+, 
+Main, B.Y.
+, 
+Moulds, T.A.
+, 
+Raven, R.J.
+, 
+Rix, M.G.
+, 
+Vink, C.J.
+&amp; 
+Huey, J.A.
+(
+2018
+) 
+Phylogenetic relationships of the Australasian open-holed trapdoor spiders (Araneae: Mygalomorphae: Nemesiidae: Anaminae): multilocus molecular analyses resolve the generic classification of a highly diverse fauna
+. 
+Zoological Journal of the Linnean Society
+, 
+184
+, 
+407–452
+.
+</p>
+         <p>https://doi.org/10.1093/zoolinnean/zlx111</p>
+         <p>Harvey, M.S.
+, 
+Rix, M.G.
+, 
+Framenau, V.W.
+, 
+Hamilton, Z.R.
+, 
+Johnson, M.S.
+, 
+Teale, R.J.
+, 
+Humphreys, G.
+&amp; 
+Humphreys, W.F.
+(
+2011
+) 
+Protecting the innocent: studying short-range endemic taxa enhances conservation outcomes
+. 
+Invertebrate Systematics
+, 
+25
+, 
+1–10
+.
+</p>
+         <p>https://doi.org/10.1071/IS11011</p>
+         <p>Huey, J.A.
+, 
+Hillyer, M.J.
+&amp; 
+Harvey, M.S.
+(
+2019
+) 
+
+Phylogenetic relationships and biogeographic history of the Australian trapdoor spider genus 
+Conothele
+(Araneae: Mygalomorphae: Halonoproctidae): diversification into arid habitats in an otherwise tropical radiation
+
+. 
+Invertebrate Systematics
+, 
+33
+, 
+628–643
+.
+</p>
+         <p>https://doi.org/10.1071/IS18078</p>
+         <p>Humphreys, W.F.
+(
+2008
+) 
+Rising from Down Under: developments in subterranean biodiversity in Australia from a groundwater fauna perspective
+. 
+Invertebrate Systematics
+, 
+22
+, 
+85–101
+.
+</p>
+         <p>https://doi.org/10.1071/IS07016</p>
+         <p>Katoh, K.
+&amp; 
+Standley, D.M.
+(
+2013
+) 
+MAFFT multiple sequence alignment software version 7: improvements in performance and usability
+. 
+Molecular Biology and Evolution
+, 
+30
+, 
+772–780
+.
+</p>
+         <p>https://doi.org/10.1093/molbev/mst010</p>
+         <p>Koch, L.
+(
+1873
+) 
+Die Arachniden Australiens, Nach der Natur Beschrieben und Abgebildet
+. 
+Bauer &amp; Raspe, Nürnberg
+, 
+718 pp.</p>
+         <p>Lanfear, R.
+, 
+Calcott, B.
+, 
+Ho, S.Y.
+&amp; 
+Guindon, S.
+(
+2012
+) 
+PartitionFinder: combined selection of partitioning schemes and substitution models for phylogenetic analyses
+. 
+Molecular Biology and Evolution
+, 
+29
+, 
+1695–1701
+.
+</p>
+         <p>https://doi.org/10.1093/molbev/mss020</p>
+         <p>Lanfear, R.
+, 
+Calcott, B.
+, 
+Kainer, D.
+, 
+Mayer, C.
+&amp; 
+Stamatakis, A.
+(
+2014
+) 
+Selecting optimal partitioning schemes for phylogenomic datasets
+. 
+BMC Evolutionary Biology
+, 
+14
+, 
+82
+.
+</p>
+         <p>https://doi.org/10.1186/1471-2148-14-82</p>
+         <p>Main, B.Y.
+(
+1975
+) 
+The citrine spider: a new genus of trapdoor spider (Mygalomorphae: Dipluridae)
+. 
+The Western Australian Naturalist
+, 
+13
+, 
+73–78
+.
+</p>
+         <p>Main, B.Y.
+(
+1982
+) 
+Adaptations to arid habitats by mygalomorph spiders
+. 
+In
+: 
+Barker, W.R.
+&amp; 
+Greenslade, P.J.M.
+(Eds.), 
+Evolution of the Flora and Fauna of Arid Australia
+. 
+Peacock Publications, Frewville, Adelaide
+, pp. 
+273–283
+.
+</p>
+         <p>Main, B.Y.
+(
+1983
+) 
+Further studies on the systematics of Australian Diplurinae (Chelicerata: Mygalomorphae: Dipluridae): two new genera from south western Australia
+. 
+Journal of Natural History
+, 
+15
+, 
+923–949
+.
+</p>
+         <p>https://doi.org/10.1080/00222938300770731</p>
+         <p>Main, B.Y.
+(
+1985
+) 
+Further studies on Australian Diplurinae: a review of the genera of the Teylini (Araneae: Mygalomorphae: Dipluridae)
+. 
+Australian Journal of Zoology
+, 
+33
+, 
+743–759
+.
+</p>
+         <p>https://doi.org/10.1071/ZO9850743</p>
+         <p>Main, B.Y.
+(
+1993
+) 
+From flood avoidance to foraging: adaptive shifts in trapdoor spider behaviour
+. 
+Memoirs of the Queensland Museum
+, 
+33
+, 
+599–606
+.
+</p>
+         <p>Main, B.Y.
+(
+2004
+) 
+
+Biosystematics of Australian mygalomorph spiders: descriptions of three new species of 
+Teyl
+from Victoria (Araneae: Nemesiidae)
+
+. 
+Memoirs of Museum Victoria
+, 
+61
+, 
+47–55
+.
+</p>
+         <p>https://doi.org/10.24199/j.mmv.2004.61.3</p>
+         <p>Pepper, M.
+, 
+Doughty, P.
+&amp; 
+Keogh, J.S.
+(
+2013
+) 
+Geodiversity and endemism in the iconic Australian Pilbara region: a review of landscape evolution and biotic response in an ancient refugium
+. 
+Journal of Biogeography
+, 
+40
+, 
+1225–1239
+.
+</p>
+         <p>https://doi.org/10.1111/jbi.12080</p>
+         <p>Raven, R.J.
+(
+1984
+) 
+
+A new diplurid genus from eastern Australia and a related 
+Aname
+species (Diplurinae: Dipluridae: Araneae)
+
+. 
+Australian Journal of Zoology
+Supplementary Series
+
+, 
+96
+, 
+1–51
+.
+</p>
+         <p>https://doi.org/10.1071/AJZS096</p>
+         <p>Raven, R.J.
+(
+1985
+) 
+The spider infraorder Mygalomorphae (Araneae): cladistics and systematics
+. 
+Bulletin of the American Museum of Natural History
+, 
+182
+, 
+1–180
+.
+</p>
+         <p>Rix, M.G.
+, 
+Raven, R.J.
+, 
+Austin, A.D.
+, 
+Cooper, S.J.B.
+&amp; 
+Harvey, M.S.
+(
+2018
+a) 
+
+Systematics of the spiny trapdoor spider genus 
+Bungulla
+(Mygalomorphae: Idiopidae): revealing a remarkable radiation of mygalomorph spiders from the Western Australian arid zone
+
+. 
+Journal of Arachnology
+, 
+46
+, 
+249–344
+.
+</p>
+         <p>https://doi.org/10.1636/JoA-S-17-057.1</p>
+         <p>Rix, M.G.
+, 
+Raven, R.J.
+&amp; 
+Harvey, M.S.
+(
+2018
+b) 
+
+Systematics of the giant spiny trapdoor spiders of the genus 
+Gaius
+Rainbow (Mygalomorphae: Idiopidae:Aganippini): documenting an iconic lineage of the Western Australian inland arid zone
+
+. 
+Journal of Arachnology
+, 
+46
+, 
+438–472
+.
+</p>
+         <p>https://doi.org/10.1636/JoA-S-17-079.1</p>
+         <p>Rix, M.G.
+, 
+Wilson, J.D.
+&amp; 
+Harvey, M.S.
+(
+2019
+) 
+
+A revision of the white-headed spiny trapdoor spiders of the genus 
+Euoplos
+(Mygalomorphae: Idiopidae:Arbanitinae): a remarkable lineage of rare mygalomorph spiders from the south-western Australian biodiversity hotspot
+
+. 
+Journal of Arachnology
+, 
+47
+, 
+63–76
+.
+</p>
+         <p>https://doi.org/10.1636/0161-8202-47.1.63</p>
+         <p>Simon, E.
+(
+1889
+) 
+Arachnides
+. 
+In
+: 
+Voyage de M. E. Simon au Venezuela (décembre 1887–avril 1888). 4e Mémoire
+. 
+Annales de la Soci
+é 
+t
+é 
+Entomologique de France
+, Series 6, 
+9
+, 
+169–220
+.
+</p>
+         <p>Stamatakis, A.
+(
+2006
+) 
+RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models
+. 
+Bioinformatics
+, 
+22
+, 
+2688–2690
+.
+</p>
+         <p>https://doi.org/10.1093/bioinformatics/btl446</p>
+         <p>Talavera, G.
+&amp; 
+Castresana, J.
+(
+2007
+) 
+Improvement of phylogenies after removing divergent and ambiguously aligned blocks from protein sequence alignments
+. 
+Systematic Biology
+, 
+56
+, 
+564–577
+.
+</p>
+         <p>https://doi.org/10.1080/10635150701472164</p>
+         <p>Western Australian Government Gazette
+(
+2018
+) 
+Wildlife Conservation (Specially Protected Fauna) Notice 2018
+. 11 September 2018. Available from: 
+https://www.dpaw.wa.gov.au/images/documents/plants-animals/threatened-species/Listings/fauna_ notice.pdf
+(accessed 
+1 April 2019
+)
+</p>
+      </sec>
+   </body>
+</article>
