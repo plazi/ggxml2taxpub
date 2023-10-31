@@ -85,6 +85,10 @@
             <xsl:apply-templates/>
         </named-content>
     </xsl:template>
+    
+    <xsl:template match="table" mode="main">
+        <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
+    </xsl:template>
 
     <xsl:template match="treatment">
         <xsl:apply-templates />
