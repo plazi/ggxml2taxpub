@@ -48,9 +48,7 @@
     </xsl:template>
 
     <xsl:template match="paragraph" mode="main">
-        <p>
-            <xsl:apply-templates/>
-        </p>
+        <p><xsl:apply-templates/></p>
     </xsl:template>
     
     <xsl:template match="paragraph[descendant::heading][not(preceding-sibling::paragraph)]" mode="main">

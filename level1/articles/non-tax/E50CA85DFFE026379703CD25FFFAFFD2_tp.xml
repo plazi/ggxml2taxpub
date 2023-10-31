@@ -27,6 +27,7 @@ Jian Yang
 * and 
 Qi Jin
 *
+
 </p>
       <p>MOH Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen Biology, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Beijing, China</p>
       <p>*Corresponding author:
@@ -34,6 +35,7 @@ Tel: +8610 6787 7735; Fax: +8610 6787 7736; Email:
 yangj@ipbcams.ac.cn</p>
       <p>*Correspondence may also be addressed to Qi Jin. Tel: +8610 6787 7732; Fax: +8610 6787 7736; Email: zdsys@vip.sina.com</p>
       <p>y
+
 These authors contributed equally to this work.
 </p>
       <p>Submitted 6 December 2013; Revised 11 February 2014; Accepted 17 February 2014</p>
@@ -54,7 +56,8 @@ Emerging infectious diseases remain a significant threat to public health. Most 
       <p>Database URL:
 http://www.mgc.ac.cn/DBatVir/
 </p>
-      <p>Introduction</p>
+      <p>Introduction
+</p>
       <p>
 Emerging infectious diseases have remained a major threat to public health during the past decades (
 1
@@ -90,7 +93,9 @@ The Author(s) 2014. Published by Oxford University Press.
 </p>
       <p>
 This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/ licenses/by/3.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited. 
-Page 1 of 7(page number not for citation purposes)</p>
+Page 1 of 7
+(page number not for citation purposes)
+</p>
       <p>
 In recent years, next-generation sequencing methodologies have been used in a number of metagenomics studies dedicated to assessing the virome of bats, and these studies have revealed many known and novel viruses in bat samples (
 12
@@ -98,7 +103,8 @@ In recent years, next-generation sequencing methodologies have been used in a nu
 23
 ). However, the most valuable information, such as the sampling time, location, bats species and specimen type, is available only sporadically in related literature or individual sequence records. Obtaining comprehensive information on bat-associated viruses becomes a formidable task. Therefore, we developed the database of bat-associated viruses (DBatVir), a comprehensive, up-to-date and well-curated repository of bat-associated animal viruses.
 </p>
-      <p>Database construction</p>
+      <p>Database construction
+</p>
       <p>
 Molecular methods are now commonly used in the diagnosis and functional analyses of viruses; thus, DBatVir is built as a sequence-centric database. To retrieve all known sequences of bat-associated animal viruses from the public domain, we performed exhaustive searches in both the PubMed and Nucleotide databases of the National Center for Biotechnology Information (NCBI) using the keyword ‘(bat OR bats) AND (virus OR viruses)’. The related GenBank records were then downloaded and parsed using in-house BioPerl scripts to generate readable profiles for further expert review (
 24
@@ -119,8 +125,10 @@ All aforementioned information was stored in a wellstructured MySQL relational d
 30
 ).
 </p>
-      <p>Database description and utility</p>
-      <p>Web interface</p>
+      <p>Database description and utility
+</p>
+      <p>Web interface
+</p>
       <p>
 The major utilities of the database, including database browsing/searching and live data statistics, as well as a detailed help document, are highlighted on the homepage by clickable icons with direct links to the respective main page. To offer a user-friendly interface, all information from the database is presented in a single desktop-like main page. A multifunctional menu panel is provided on the left side of the main page for easy navigation (
 
@@ -135,7 +143,8 @@ The quality of web interface is considered one of the most important aspects of 
 
 ). These features that were previously available only in stand-alone applications will undoubtedly provide high performance and an improved user experience.
 </p>
-      <p>Browse the database</p>
+      <p>Browse the database
+</p>
       <p>
 Users can browse the database content by the categories of viruses or bats using the submenus with the respective taxonomic tree in the menu panel. The hierarchical taxonomic trees show virus/bat families by default for brevity (
 
@@ -146,11 +155,13 @@ Users can browse the database content by the categories of viruses or bats using
 ). Handy buttons are provided on the bottom toolbar to export the grid as local Excel tables or to download the related sequences in FASTA format for further offline analyses. Browsing the data by virus and bat taxonomic categories is valuable to understand the host range of viruses and virome diversity of bats. For instance, from current data, the most widely distributed virus among bats is coronavirus, which has been detected from all the 10 bat families studied to date (
 Table 1
 ). The bat family 
-<tp:taxon-name>Vespertilionidae</tp:taxon-name>
+<tp:taxon-name>Vespertilionidae
+</tp:taxon-name>
 has been involved in 20 of the 23 virus families detected in bats so far (
 Table 1
 ). It is reasonable given the fact that 
-<tp:taxon-name>Vespertilionidae</tp:taxon-name>
+<tp:taxon-name>Vespertilionidae
+</tp:taxon-name>
 is the biggest family of bats containing
 &gt;
 40 genera.
@@ -159,14 +170,17 @@ is the biggest family of bats containing
 To provide an intuitive overview of the geographic distribution of current data, a global map with markers colorcoded by number of bat-associated viruses detected in each country is also available (
 
 ). Moreover, a submenu with a geographic category organized by continents and countries is provided in the menu panel for convenient regional bat-associated virus analyses. Each country/continent name offers a direct link to the respective tab in the content panel showing detailed information of the batassociated viruses detected in corresponding region. It is particularly helpful to investigate the potential distribution bias of bat-associated viruses in different regions. For example, to date, 570 and 553 bat-associated viruses were detected from 19 counties of Africa and 17 countries of Europe, respectively. Though the general data are similar between the two continents, 18 virus families are found in bats from Africa, with 
-<tp:taxon-name>Paramyxoviridae</tp:taxon-name>
+<tp:taxon-name>Paramyxoviridae
+</tp:taxon-name>
 as the most predominant family (36%), whereas only 10 virus families are reported in bats from Europe and the principal family is 
-<tp:taxon-name>Rhabdoviridae</tp:taxon-name>
+<tp:taxon-name>Rhabdoviridae
+</tp:taxon-name>
 (56%) (
 
 ).
 </p>
-      <p>Search the database</p>
+      <p>Search the database
+</p>
       <p>Usually, searching the database would be a more efficient way to find the required information than browsing the database. DBatVir provides a powerful search engine for users to extract information from the database quickly through three different ways: (i) text search (for viruses), (ii) BLAST sequence similarity search and (iii) bat-related information search.</p>
       <p>
 The text search enables extracting virus information using any querying keywords. For a quick start, a single entry that is instantly familiar to users of common Internet search engines is offered. In addition, a configurable query form is available for advanced users to perform customized complex searches of all information in the database (
@@ -188,9 +202,11 @@ Knowledge of viral hosts enables the identification of maintenance populations f
 ). Users can use the search entry on the bottom toolbar to quickly extract the information of interested bats by name, diet type or distributed country. Moreover, an intuitive global map with markers indicating the known distributed countries of each bat species is available for users to easily understand the distribution range of the bat. Good knowledge of bats is essential for better interpretation of the data on bat-associated viruses. For example, the incongruent associations between the phylogenies of bats and their SARS-related coronaviruses revealed recent host shifts, which may assist in understanding the emergence of SARS (
 33
 ). Majority of bats are insectivores, and most of the rest are frugivores. The current data show that the predominant virus families detected in insectivorous and frugivorous bats are 
-<tp:taxon-name>Rhabdoviridae</tp:taxon-name>
+<tp:taxon-name>Rhabdoviridae
+</tp:taxon-name>
 and 
-<tp:taxon-name>Paramyxoviridae</tp:taxon-name>
+<tp:taxon-name>Paramyxoviridae
+</tp:taxon-name>
 , respectively. This implies the potential association between bat’s diet and the associated virome.
 </p>
       <p>Virus familyBat family aSum<tp:taxon-name>Emballonuridae</tp:taxon-name>
@@ -203,11 +219,34 @@ and
          <tp:taxon-name>Rhinolophidae</tp:taxon-name>
          <tp:taxon-name>Rhinopomatidae</tp:taxon-name>
          <tp:taxon-name>Vespertilionidae</tp:taxon-name>
-         <tp:taxon-name>Adenoviridae</tp:taxon-name>1585165<tp:taxon-name>Astroviridae</tp:taxon-name>32127141201<tp:taxon-name>Bunyaviridae</tp:taxon-name>1213315236<tp:taxon-name>Caliciviridae</tp:taxon-name>55<tp:taxon-name>Circoviridae</tp:taxon-name>111202052<tp:taxon-name>Coronaviridae</tp:taxon-name>12199346791373240539<tp:taxon-name>Filoviridae</tp:taxon-name>361138<tp:taxon-name>Flaviviridae</tp:taxon-name>61611151126103<tp:taxon-name>Hepadnaviridae</tp:taxon-name>551020<tp:taxon-name>Hepeviridae</tp:taxon-name>1247<tp:taxon-name>Herpesviridae</tp:taxon-name>11942347<tp:taxon-name>Orthomyxoviridae</tp:taxon-name>44<tp:taxon-name>Papillomaviridae</tp:taxon-name>9312<tp:taxon-name>Paramyxoviridae</tp:taxon-name>117232621323330<tp:taxon-name>Parvoviridae</tp:taxon-name>84244379<tp:taxon-name>Picornaviridae</tp:taxon-name>131216<tp:taxon-name>Polyomaviridae</tp:taxon-name>115267233<tp:taxon-name>Poxviridae</tp:taxon-name>112<tp:taxon-name>Reoviridae</tp:taxon-name>2723243<tp:taxon-name>Retroviridae</tp:taxon-name>146112<tp:taxon-name>Rhabdoviridae</tp:taxon-name>636019677815902237<tp:taxon-name>Totiviridae</tp:taxon-name>11Total46442619430557729232206</p>
+         <tp:taxon-name>Adenoviridae
+</tp:taxon-name>1585165<tp:taxon-name>Astroviridae
+</tp:taxon-name>32127141201<tp:taxon-name>Bunyaviridae
+</tp:taxon-name>1213315236<tp:taxon-name>Caliciviridae
+</tp:taxon-name>55<tp:taxon-name>Circoviridae
+</tp:taxon-name>111202052<tp:taxon-name>Coronaviridae
+</tp:taxon-name>12199346791373240539<tp:taxon-name>Filoviridae
+</tp:taxon-name>361138<tp:taxon-name>Flaviviridae
+</tp:taxon-name>61611151126103<tp:taxon-name>Hepadnaviridae
+</tp:taxon-name>551020<tp:taxon-name>Hepeviridae
+</tp:taxon-name>1247<tp:taxon-name>Herpesviridae
+</tp:taxon-name>11942347<tp:taxon-name>Orthomyxoviridae
+</tp:taxon-name>44<tp:taxon-name>Papillomaviridae
+</tp:taxon-name>9312<tp:taxon-name>Paramyxoviridae
+</tp:taxon-name>117232621323330<tp:taxon-name>Parvoviridae
+</tp:taxon-name>84244379<tp:taxon-name>Picornaviridae
+</tp:taxon-name>131216<tp:taxon-name>Polyomaviridae
+</tp:taxon-name>115267233<tp:taxon-name>Poxviridae
+</tp:taxon-name>112<tp:taxon-name>Reoviridae
+</tp:taxon-name>2723243<tp:taxon-name>Retroviridae
+</tp:taxon-name>146112<tp:taxon-name>Rhabdoviridae
+</tp:taxon-name>636019677815902237<tp:taxon-name>Totiviridae
+</tp:taxon-name>11Total46442619430557729232206</p>
       <p>a
 Viruses lacking related bat taxonomic information are excluded.
 </p>
-      <p>Discussion</p>
+      <p>Discussion
+</p>
       <p>
 The ability to predict and prevent viral epidemics has become a major objective in the public health disciplines. Effective prediction of future viral zoonoses requires an indepth understanding of the heterologous viral population in key animal species that will likely serve as reservoir hosts or intermediates during the next viral epidemic (
 13
@@ -220,14 +259,17 @@ The ability to predict and prevent viral epidemics has become a major objective 
 ). Moreover, the past decade has experienced a surge in the discovery of emerging viruses of bat origin, several of which have had a significant impact on public health, tourism and trade. Therefore, it is important to catalog as comprehensively as possible the animal viruses present in bats.
 </p>
       <p>As of January 2014, DBatVir collects information on 4176 bat-associated animal viruses of 23 virus families detected from 196 bat species in 69 countries worldwide. These data will give us an overview of the depth of viral richness observed in bats and provide substantial grist for future attempts to assess and predict epidemic risks. More extensive surveillance in other species of bats and at other geographic locations may be needed to identify more viruses with the potential to cause human diseases or novel viruses related to known human pathogens. To our knowledge, DBatVir is the only publicly available web resource dedicated to bat-associated animal viruses thus far. It devotes to provide comprehensive, up-to-date and well-curated information to the scientific community worldwide. DBatVir will not only be helpful to virologists who want to better understand the virome diversity of bats but will also be useful to zoologists concerned with the health of domestic and wild animals. Furthermore, this database is particularly valuable to epidemiologists and public health researchers, as it is beneficial in the monitoring and tracking of current and future emerging zoonotic diseases.</p>
-      <p>Acknowledgements</p>
+      <p>Acknowledgements
+</p>
       <p>The authors are grateful to Zhiqiang Wu, Li Yang and Xianwen Ren for their helpful comments.</p>
-      <p>Funding</p>
+      <p>Funding
+</p>
       <p>National Major Science and Technology Project of China (2013ZX10004101 and 2014ZX10004001). Program for Changjiang Scholars and Innovative Research Team in University (IRT13007). Funding for open access charge: National Major Science and Technology Project of China.</p>
       <p>Conflict of Interest
 . None declared.
 </p>
-      <p>References</p>
+      <p>References
+</p>
       <p>
 1. 
 Jones,K.E.
@@ -241,8 +283,10 @@ Levy,M.A.et al
 Global trends in emerging infectious diseases
 . 
 Nature
+
 , 
 451
+
 , 
 990–993
 .
@@ -258,8 +302,10 @@ Gowtage-Sequeria,S.
 Host range and emerging and reemerging pathogens
 . 
 Emerg. Infect. Dis.
+
 , 
 11
+
 , 
 1842–1847
 .
@@ -275,6 +321,7 @@ de Jong,C.E.et al
 2011
 ) 
 Investigating the Role of Bats in Emerging Zoonoses: Balancing Ecology, Conservation and Public Health Interests
+
 . 
 Food and Agriculture Organisation of the United Nations, Rome
 .
@@ -305,8 +352,10 @@ Chiozza,F.et al
 The status of the world’s land and marine mammals: diversity, threat, and knowledge
 . 
 Science
+
 , 
 322
+
 , 
 225–230
 .
@@ -324,8 +373,10 @@ Yu,M.et al
 Bats are natural reservoirs of SARSlike coronaviruses
 . 
 Science
+
 , 
 310
+
 , 
 676–679
 .
@@ -343,8 +394,10 @@ Bestebroer,T.M.et al
 Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia
 . 
 N. Engl. J. Med.
+
 , 
 367
+
 , 
 1814–1820
 .
@@ -358,8 +411,10 @@ Kupferschmidt,K.
 Emerging infectious diseases. Link to MERS virus underscores bats’ puzzling threat
 . 
 Science
+
 , 
 341
+
 , 
 948–949
 .
@@ -377,8 +432,10 @@ Field,H.E.et al
 Bats: important reservoir hosts of emerging viruses
 . 
 Clin. Microbiol. Rev.
+
 , 
 19
+
 , 
 531–545
 .
@@ -396,8 +453,10 @@ Woo,P.et al
 Bats as a continuing source of emerging infections in humans
 . 
 Rev. Med. Virol.
+
 , 
 17
+
 , 
 67–91
 .
@@ -413,8 +472,10 @@ Wang,L.F.
 Bats and their virome: an important source of emerging viruses capable of infecting humans
 . 
 Curr. Opin. Virol.
+
 , 
 3
+
 , 
 84–91
 .
@@ -432,8 +493,10 @@ Wang,C.et al
 Bat guano virome: predominance of dietary viruses from insects and plants plus novel mammalian viruses
 . 
 J. Virol.
+
 , 
 84
+
 , 
 6955–6965
 .
@@ -451,8 +514,10 @@ Gates,J.E.et al
 Metagenomic analysis of the viromes of three North American bat species: viral diversity among different bat species that share a common habitat
 . 
 J. Virol.
+
 , 
 84
+
 , 
 13004–13018
 .
@@ -470,8 +535,10 @@ Deijs,M.et al
 Two novel parvoviruses in frugivorous New and Old World bats
 . 
 PLoS One
+
 , 
 6
+
 , e 
 29140
 .
@@ -489,8 +556,10 @@ Yang,X.et al
 Metagenomic analysis of viruses from bat fecal samples reveals many novel viruses in insectivorous bats in China
 . 
 J. Virol.
+
 , 
 86
+
 , 
 4620–4630
 .
@@ -508,8 +577,10 @@ Yang,L.et al
 Virome analysis for identification of novel mammalian viruses in bat species from Chinese provinces
 . 
 J. Virol.
+
 , 
 86
+
 , 
 10999–11012
 .
@@ -527,8 +598,10 @@ Tsoi,H.W.et al
 Identification of a novel bat papillomavirus by metagenomics
 . 
 PLoS One
+
 , 
 7
+
 , e 
 43986
 .
@@ -546,8 +619,10 @@ Bexfield,N.H.et al
 Metagenomic study of the viruses of African straw-coloured fruit bats: detection of a chiropteran poxvirus and isolation of a novel adenovirus
 . 
 Virology
+
 , 
 441
+
 , 
 95–106
 .
@@ -565,8 +640,10 @@ Conte,J.M.et al
 Bats are a major natural reservoir for hepaciviruses and pegiviruses
 . 
 Proc. Natl. Acad. Sci. USA
+
 , 
 110
+
 , 
 8194–8199
 .
@@ -584,8 +661,10 @@ Yang,F.et al
 Virome profiling of bats from Myanmar by metagenomic analysis of tissue samples reveals more novel Mammalian viruses
 . 
 PLoS One
+
 , 
 8
+
 , e 
 61950
 .
@@ -603,8 +682,10 @@ Ren,X.et al
 Novel SARS-like betacoronaviruses in bats, China
 , 2011. 
 Emerg. Infect. Dis.
+
 , 
 19
+
 , 
 989–991
 .
@@ -622,8 +703,10 @@ Mossel,E.C.et al
 Isolation and molecular characterization of Fikirini rhabdovirus, a novel virus from a Kenyan bat
 . 
 J. Gen. Virol.
+
 , 
 94
+
 , 
 2393–2398
 .
@@ -641,8 +724,10 @@ Yang,W.et al
 Characterization of a novel G3P
 [3] rotavirus isolated from a lesser horseshoe bat: a distant relative of feline/canine rotaviruses. 
 J. Virol.
+
 , 
 87
+
 , 
 12357–12366
 .
@@ -660,8 +745,10 @@ Clark,K.et al
 GenBank
 . 
 Nucleic Acids Res.
+
 , 
 41
+
 , D36–D 
 42
 .
@@ -679,8 +766,10 @@ De Castro,E.et al
 ViralZone: recent updates to the virus knowledge resource
 . 
 Nucleic Acids Res.
+
 , 
 41
+
 , D579–D 
 583
 .
@@ -698,8 +787,10 @@ Flores-Saldana,N.P.et al
 A time-calibrated species-level phylogeny of bats (Chiroptera, Mammalia)
 . 
 PLoS Curr.
+
 , 
 3
+
 , RRN 
 1212
 .
@@ -717,8 +808,10 @@ Schaffer,A.A.et al
 Gapped BLAST and PSI-BLAST: a new generation of protein database search programs
 . 
 Nucleic Acids Res.
+
 , 
 25
+
 , 
 3389–3402
 .
@@ -732,8 +825,10 @@ Edgar,R.C.
 MUSCLE: multiple sequence alignment with high accuracy and high throughput
 . 
 Nucleic Acids Res.
+
 , 
 32
+
 , 
 1792–1797
 .
@@ -751,8 +846,10 @@ Arkin,A.P.
 FastTree 2—approximately maximum-likelihood trees for large alignments
 . 
 PLoS One
+
 , 
 5
+
 , e 
 9490
 .
@@ -768,8 +865,10 @@ Ouverney,C.C.
 jsPhyloSVG: a javascript library for visualizing interactive and vector-based phylogenetic trees on the web
 . 
 PLoS One
+
 , 
 5
+
 , e 
 12267
 .
@@ -787,8 +886,10 @@ Hyatt,A.et al
 A previously unknown reovirus of bat origin is associated with an acute respiratory disease in humans
 . 
 Proc. Natl. Acad. Sci. USA
+
 , 
 104
+
 , 
 11424–11429
 .
@@ -806,8 +907,10 @@ Muller,M.A.et al
 Bats host major mammalian paramyxoviruses
 . 
 Nat. Commun.
+
 , 
 3
+
 , 
 796
 .
@@ -825,8 +928,10 @@ Streicker,D.et al
 Evolutionary relationships between bat coronaviruses and their hosts
 . 
 Emerg. Infect. Dis.
+
 , 
 13
+
 , 
 1526–1532
 .
@@ -844,8 +949,10 @@ Yang,X.L.et al
 Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor
 . 
 Nature
+
 , 
 503
+
 , 
 535–538
 .

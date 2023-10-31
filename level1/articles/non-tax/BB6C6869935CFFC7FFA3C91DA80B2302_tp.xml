@@ -29,7 +29,8 @@ Alexandra H. Wortleyd
 , 
 David J. Harrisd
 , 
-Ghillean T. Prancee,</p>
+Ghillean T. Prancee,
+</p>
          <p>Gerrit Davidsef
 , 
 Jay Paigef
@@ -95,7 +96,8 @@ ve years of being collected for the
 fi 
 rst time. The description of the remaining 84% involved much older specimens, with nearly one-quarter of new species descriptions involving specimens&gt;50 y old. Extrapolation of these results suggest that, of the estimated 70,000 species still to be described, more than half already have been collected and are stored in herbaria. Effort, funding, and research focus should, therefore, be directed as much to examining extant herbarium material as collecting new material in the
 fi 
-eld.</p>
+eld.
+</p>
       </sec>
       <sec sec-type="multiple">
          <title>herbarium specimen | monograph | taxonomy</title>
@@ -131,7 +133,8 @@ D
       </sec>
       <p>Author contributions:D.P.B., M.A.C., and R.W.S.designed research;M.A.C., J.R.I.W., A.H.W., D.J.H., G.T.P., T.D.P., N.K.B.R., and R.W.S. performed research; D.P.B., G.D., J.P., and R.W.S. analyzed data; and D.P.B., M.A.C., J.R.I.W., A.H.W., D.J.H., G.T.P.,G.D., and R.W.S.wrote the paper.</p>
       <sec sec-type="results">
-         <title>Results</title>
+         <title>Results
+</title>
          <p>The authors declare no conflict of interest.</p>
          <p>
 Discovery 
@@ -198,7 +201,8 @@ description rate, and 53–66% for a monographic approach.
 </p>
       </sec>
       <sec sec-type="discussion">
-         <title>Discussion</title>
+         <title>Discussion
+</title>
          <p>
 There are many reasons why older specimens representing new species remain undetected and undescribed in herbaria. In many cases, herbaria are overloaded and specimens are unprocessed and unavailable for study; expertise in particular taxa is often lacking, so new species are unnoticed, misplaced, or assigned to unidentified material at the end of each family. Some specimens are incomplete or lack flowers or fruits (
 7
@@ -210,7 +214,8 @@ To whom correspondence should be addressed. E-mail: robert.scotland@plants.ox.ac
 </p>
          <p>Fig. 1.
 Herbarium specimen of 
-<tp:taxon-name>Strobilanthes frondosa</tp:taxon-name>
+<tp:taxon-name>Strobilanthes frondosa
+</tp:taxon-name>
 first collected (
 C
 ) in 1924 from Burma (Cooper 5943A), published 70 y later (
@@ -287,7 +292,8 @@ for widened access to global collections through the exchange and largescale dig
 </p>
       </sec>
       <sec sec-type="acknowledgments">
-         <title>Materials and Methods</title>
+         <title>Materials and Methods
+</title>
          <p>Data.
 Data were assembled for 3,219 species described during the period 1970–2010 and associated with specimens collected between 
 1770–2007
@@ -302,19 +308,24 @@ n
 = 2,770 species). We selected monographic treatments of taxa with a range of geographical distribution patterns to best capture global differences in species occurrence and the history of taxonomic activity, i.e., the pan-tropical 
 <tp:taxon-name>Chrysobalanaceae</tp:taxon-name>
 , 
-<tp:taxon-name>Aframomum</tp:taxon-name>
+<tp:taxon-name>Aframomum
+</tp:taxon-name>
 from Africa, 
-<tp:taxon-name>Inga</tp:taxon-name>
+<tp:taxon-name>Inga
+</tp:taxon-name>
 from tropical America, 
-<tp:taxon-name>Strobilanthes</tp:taxon-name>
+<tp:taxon-name>Strobilanthes
+</tp:taxon-name>
 from South and South 
 East Asia
 , 
-<tp:taxon-name>Agalmyla</tp:taxon-name>
+<tp:taxon-name>Agalmyla
+</tp:taxon-name>
 from 
 Malesia
 , and 
-<tp:taxon-name>Hypericum</tp:taxon-name>
+<tp:taxon-name>Hypericum
+</tp:taxon-name>
 distributed in temperate and subtropical regions, also extending into tropical montane habitats (Dataset S1). Five of the monographs included fieldwork and examination of large quantities of recently collected specimens. For example, after the first part of the 
 <tp:taxon-name>Chrysobalanaceae</tp:taxon-name>
 monograph was published in 1972, 11,500 additional herbarium collections were made and then examined by the author. For 
@@ -322,7 +333,8 @@ monograph was published in 1972, 11,500 additional herbarium collections were ma
 ,
 
 547 of 3,184 specimens examined were collected after 1990. For 
-<tp:taxon-name>Strobilanthes</tp:taxon-name>
+<tp:taxon-name>Strobilanthes
+</tp:taxon-name>
 , targeted field work was carried out in 
 Sri Lanka
 , 
@@ -353,6 +365,7 @@ The process of discovery was investigated by using survival analysis,which exami
          <p>
 example, failure time of mechanical components). Because the data represent a change of state over time (from being a collected specimen in a herbarium to being a named species), the interval 
 I
+
 can be analyzed by using these techniques. Survival curves (the fraction of specimens remaining to be named over time) and their variances were calculated by using the Kaplan– Meier estimator. Survival data can be modeled by using hazard functions, where the hazard 
 h
 at time 
@@ -361,21 +374,39 @@ is the instantaneous risk of state-change (in this case, description of a collec
 </p>
          <p>
 Pr 
-½ðt
+½ð
+t
 ≤ 
-I &lt;tþ
+I &lt;t
+þ
 Δ 
-tÞjI&gt; t hðtÞ ¼
+t
+Þj
+I&gt; t h
+ð
+t
+Þ ¼
 lim: Δ 
-t→
+t
+→
 0 Δ 
-t</p>
+t
+</p>
          <p>Survival data can be modeled by using the log of the hazard function as the response variable and a linear function of log time as the predictor, which leads to the Weibull distribution of survival times:</p>
          <p>
 log 
-hðtÞ ¼vþρ
+h
+ð
+t
+Þ ¼
+v
+þ
+ρ
 log 
-ðtÞ:</p>
+ð
+t
+Þ:
+</p>
          <p>
 Quantile plots indicate that 
 I
@@ -385,32 +416,51 @@ for the entire dataset and the collections separately match Weibull distribution
 </p>
          <p>A
 common method to analyze the effect of covariates on the hazard function is through Cox proportional hazards models, where the baseline hazard function, log 
-h0
+h
+0
+
 (
 t
 ), is modified by covariates:
 </p>
          <p>
 log 
-hiðtÞ
+hi
+
+ð
+t
+Þ
 ¼
 
 log 
 h
 0 
-ðtÞ
+ð
+t
+Þ
 þ
+
 β
 1 
 xi
+
+
 1 
-þβ
+þ
+β
 2 
 xi
+
+
 2 
 þ
+
 ⋯ 
-þβkxik
+þ
+βkxik
+
+
+
 :
 </p>
          <p>
@@ -420,13 +470,15 @@ is a subscript for observation, and
 x
 is a covariate. Cox models are therefore a form of General Linear Model. The effect of 
 C
+
 and 
 D
 on the hazard function and predictions of future (I) were estimated by using Cox models.
 </p>
          <p>ACKNOWLEDGMENTS.
 Fred Barry, Kevin Gaston, Nicholas Harberd, Stephen Harris, Jane Langdale, and two anonymous reviewers provided useful comments for earlier versions of this paper. We thank Anne Sing and Denis Filer for help with data entry and manipulation. R.W.S. acknowledges the Royal Society for funding during the early period of the 
-<tp:taxon-name>Strobilanthes</tp:taxon-name>
+<tp:taxon-name>Strobilanthes
+</tp:taxon-name>
 monograph in the form of a University Research Fellowship.
 </p>
       </sec>
@@ -454,7 +506,8 @@ JØrgensen PM
 ) 
 Estimating the size of the world’ s threatened flora
 . 
-Science298
+Science
+298
 : 
 989
 .
@@ -475,7 +528,8 @@ Rodríguez JP
 ) 
 Ecology. The barometer of life
 . 
-Science328
+Science
+328
 : 
 177
 .
@@ -499,7 +553,8 @@ Ertter B
 ) 
 Floristic surprises in North America north of Mexico
 . 
-Ann Mo Bot Gard87
+Ann Mo Bot Gard
+87
 : 
 81–109
 .
@@ -514,7 +569,8 @@ Nelson BE
 ) 
 Taxonomic novelties from North America north of Mexico: A 20-year vascular plant diversity baseline
 . 
-Monographs in Systematic Botany from the Missouri Botanic Garden67
+Monographs in Systematic Botany from the Missouri Botanic Garden
+67
 : 
 1–59
 .
@@ -547,6 +603,7 @@ Pimm SL
 July 7, 2010
 ) How many species of flowering plants are there?
 Proc Biol Sci
+
 , 
 10.1098/rspb.2010.1004
 .
@@ -561,7 +618,8 @@ Barthlott W
 ) 
 Patterns of vascular plant diversity at continental to global scales
 . 
-Biologiske Skrifter55
+Biologiske Skrifter
+55
 : 
 521–531
 .
@@ -587,7 +645,8 @@ Paton AJ
 ) 
 Towards target 1 of the global strategy for plant conservation: A working list of all known plant species - progress and prospects
 . 
-Taxon57
+Taxon
+57
 : 
 602–611
 .
@@ -600,7 +659,8 @@ Prance GT
 ) 
 Discovering the plant world
 . 
-Taxon50
+Taxon
+50
 : 
 345–359
 .
@@ -619,7 +679,8 @@ Agalmyla
 (Gesneriaceae-Cyrtandroideae)
 
 . 
-Edinb J Bot59
+Edinb J Bot
+59
 : 
 1–210
 .
@@ -643,7 +704,8 @@ Prance GT
 ) 
 Chrysobalanaceae
 . 
-Flora Neotropica9
+Flora Neotropica
+9
 : 
 1–410
 .
@@ -660,7 +722,8 @@ Hypericum
 L. (Guttiferae) 8. Sections 29. Brathys (part 2) and 30. Trigynobrathys
 
 . 
-Bull Nat Hist Mus Bot20
+Bull Nat Hist Mus Bot
+20
 : 
 1–151
 .
@@ -679,7 +742,8 @@ Strobilanthes
 (Acanthaceae) from India and South East Asia
 
 . 
-Kew Bull64
+Kew Bull
+64
 : 
 3–47
 .
@@ -690,7 +754,8 @@ Prance GT
 (
 1977
 ) 
-Floristic inventory of the tropics: Where do we stand?Ann Mo Bot Gard64
+Floristic inventory of the tropics: Where do we stand?Ann Mo Bot Gard
+64
 : 
 659–684
 .
@@ -718,7 +783,8 @@ Cambell DG
 ) 
 The present state of tropical floristics
 . 
-Taxon37
+Taxon
+37
 : 
 519–548
 .
@@ -770,7 +836,8 @@ Wood I, Jr
 ) 
 Notes relating to the flora of Bhutan: XXIX. Acanthaceae, with special reference to Strobilanthes
 . 
-Edinb J Bot51
+Edinb J Bot
+51
 : 
 175–274
 .

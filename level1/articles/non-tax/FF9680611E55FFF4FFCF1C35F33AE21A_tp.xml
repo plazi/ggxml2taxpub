@@ -16,60 +16,86 @@
    </front>
    <body>
       <sec sec-type="multiple">
-         <title>Semantics in Support of Biodiversity Knowledge Discovery: An Introduction to the Biological Collections Ontology and Related Ontologies</title>
-         <p>Ramona L. Walls1
+         <title>Semantics in Support of Biodiversity Knowledge Discovery: An Introduction to the Biological Collections Ontology and Related Ontologies
+</title>
+         <p>Ramona L. Walls
+1
+
 *
 .
 ı 
 John Deck2.
+
 ı 
 Robert Guralnick3.
+
 ı 
 Steve Baskauf4
+
 ı 
 Reed Beaman5.
+
 ı 
 Stanley Blum6
+
 ı 
 Shawn Bowers7
 ı 
 Pier Luigi Buttigieg8.
+
 ı 
 Neil Davies9
+
 ı 
 Dag Endresen10
+
 ı 
 Maria Alejandra Gandolfo11
+
 ı 
 Robert Hanner12
+
 ı 
 Alyssa Janning13
+
 ı 
 Leonard Krishtalka14
+
 ı 
 Andréa Matsunaga15
+
 ı 
 Peter Midford16
+
 ı 
 Norman Morrison17.
+
 ı 
 Éamonn Ó Tuama18
+
 ı 
 Mark Schildhauer19
+
 ı 
 Barry Smith20
+
 ı 
 Brian J. Stucky21
+
 ı 
 <p>Andrea Thomer22
+
 ı 
 John Wieczorek23
+
 ı 
 
 Jamie Whitacre 
 24
+
 ı 
-John Wooley25</p>
+John Wooley25
+</p>
          </p>
          <p>1
 The iPlant Collaborativeı University of Arizonaı Tucsonı Arizonaı 
@@ -170,7 +196,8 @@ San Diegoı La Jollaı Californiaı
 United States of America</p>
       </sec>
       <sec sec-type="abstract">
-         <title>Abstract</title>
+         <title>Abstract
+</title>
          <p>The study of biodiversity spans many disciplines and includes data pertaining to species distributions and abundancesı genetic sequencesı trait measurementsı and ecological nichesı complemented by information on collection and measurement protocols. A review of the current landscape of metadata standards and ontologies in biodiversity science suggests that existing standards such as the Darwin Core terminology are inadequate for describing biodiversity data in a semantically meaningful and computationally useful way. Existing ontologiesı such as the Gene Ontology and others in the Open Biological and Biomedical Ontologies (OBO) Foundry libraryı provide a semantic structure but lack many of the necessary terms to describe biodiversity data in all its dimensions. In this paperı we describe the motivation for and ongoing development of a new Biological Collections Ontologyı the Environment Ontologyı and the Population and Community Ontology. These ontologies share the aim of improving data aggregation and integration across the biodiversity domain and can be used to describe physical samples and sampling processes (for exampleı collectionı extractionı and preservation techniques)ı as well as biodiversity observations that involve no physical sampling. Together they encompass studies of: 1) individual organismsı including voucher specimens from ecological studies and museum specimensı 2) bulk or environmental samples (e.g.ı gut contentsı soilı water) that include DNAı other moleculesı and potentially many organismsı especially microbesı and 3) survey-based ecological observations. We discuss how these ontologies can be applied to biodiversity use cases that span geneticı organismalı and ecosystem levels of organization. We argue that if adopted as a standard and rigorously applied and enriched by the biodiversity communityı these ontologies would significantly reduce barriers to data discoveryı integrationı and exchange among biodiversity resources and researchers.</p>
          <p>Citation:
 Walls RLı Deck Jı Guralnick Rı Baskauf Sı Beaman Rı et al. (
@@ -184,11 +211,14 @@ PLoS ONE9
          <p>Editor:
 Vladimir B. Bajicı King Abdullah University of Science and Technologyı 
 Saudi Arabia</p>
-         <p>ReceivedJune 8
+         <p>Received
+June 8
 ı 2013; 
-AcceptedJanuary 24
+Accepted
+January 24
 ı 2014; 
-PublishedMarch 3
+Published
+March 3
 ı 2014
 </p>
          <p>Copyright:
@@ -209,7 +239,8 @@ The authors have declared that no competing interests exist.
          <p>. These authors contributed equally to this work.</p>
       </sec>
       <sec sec-type="introduction">
-         <title>Introduction</title>
+         <title>Introduction
+</title>
          <p>
 The loss of biodiversity is a major societal issue of our time, ultimately impacting the need for food, fuel, fiber, and animal feed [
 1
@@ -402,7 +433,8 @@ BR support will help create task groups to establish the infrastructure for mana
 </p>
       </sec>
       <sec sec-type="materials_methods">
-         <title>Methods and Results: Ontology Development</title>
+         <title>Methods and Results: Ontology Development
+</title>
          <p>The Biological Collections Ontology (BCO)</p>
          <p>
 This manuscript describes the 
@@ -478,12 +510,17 @@ material sampling process
 Metrics on current versions of the BCOı ENVOı and PCO.
 </p>
          <p>Ontology
+
 # 
 of terms: total/in namespace/ imported
+
 # 
-of relations: total/subclassOf1
+of relations: total/subclassOf
+1
+
 # 
-of deprecated termsBiological Collections Ontology (BCO)102/42/60 239/2415Environment Ontology (ENVO)1556/1335/221 32077/186819Population and Community Ontology (PCO)1345/24/1321 420/180</p>
+of deprecated terms
+Biological Collections Ontology (BCO)102/42/60 239/2415Environment Ontology (ENVO)1556/1335/221 32077/186819Population and Community Ontology (PCO)1345/24/1321 420/180</p>
          <p>1. For BCO and PCOı the number of relations includes only relations that point to a BCO or PCO termı to adjust for the large proportion of imported terms.</p>
          <p>2. 39 imported from Basic Formal Ontologyı 13 imported from Information Artifact Ontologyı 10 imported from Ontology for Biomedical Investigationsı 1 imported from Common Anatomy Reference Ontology.</p>
          <p>3. 172 imported from Chemical Entities of Biological Interestı 49 from Phenotypic Quality Ontology.</p>
@@ -746,7 +783,8 @@ above).
 </p>
       </sec>
       <sec sec-type="discussion">
-         <title>Discussion</title>
+         <title>Discussion
+</title>
          <p>
 Many applications of biodiversity science require the collection, integration, and analysis of data from a variety of sources as well as a way to link information about biological entities and their derivatives as materials and data move through various processes and institutions (
 
@@ -1030,8 +1068,10 @@ data sets. This does not prohibit the construction of application-specific datab
 </p>
       </sec>
       <sec sec-type="multiple">
-         <title>Supporting Information</title>
+         <title>Supporting Information
+</title>
          <p>Table S1
+
 Example use cases in biodiversity science that could be annotated using the BCO, ENVO, and/or PCO. Each of these use cases requires linking information (i.e. data or metadata) about material entities of interest to biologists as materials and data move through various processes and institutions. Examples are provided of the 
 types
 of queries that can be facilitated through the use of ontologies, as well as links to example datasets.
@@ -1039,7 +1079,8 @@ of queries that can be facilitated through the use of ontologies, as well as lin
          <p>(DOCX)</p>
       </sec>
       <sec sec-type="acknowledgments">
-         <title>Acknowledgments</title>
+         <title>Acknowledgments
+</title>
          <p>
 We thank Chris Mungall, Cynthia Parr, Robert Hoehndorf, and two anonymous reviewers for comments on earlier versions of this manuscript, Melissa Haendel, Jim Balhoff, and Matt Yoder for comments on the BCO, Bjoern Peters and the OBI Consortium (?http://obi-ontology.org/page/ Consortium) for contributing text on the Ontology for Biomedical Ontologies, and the participants of the Semantics of Biodiversity Workshop in Lawrence, Kansas (May, 
 2012
@@ -1051,12 +1092,14 @@ England
 </p>
       </sec>
       <sec sec-type="multiple">
-         <title>Author Contributions</title>
+         <title>Author Contributions
+</title>
          <p>Wrote the paper: RW RB PLB JD RG NM. Edited, revised, critiqued, and wrote small sections of the manuscript: S. Baskauf S. Blum S. Bowers ND DE MAG RH AJ LK AM PM ÉÓT MS B. Smith B. Stucky AT J. Wieczorek J. Whitacre J. Wooley. Developed Biological Collections Ontology: RW RB S. Blum S. Bowers PLB JD DE MAG RH AJ LK AM NM ÉÓT MS B. Smith B. Stucky AT J. Wieczorek J. Whitacre. Developed Environment Ontology: PLB NM. Developed Population and</p>
          <p>Community Ontology: RW B. Smith PM. Designed ontology framework: B. Smith. Developed Darwin-SW: S. Baskauf.</p>
       </sec>
       <sec sec-type="reference_group">
-         <title>References</title>
+         <title>References
+</title>
          <p>
 1. 
 Pereira HM
