@@ -5,7 +5,7 @@
 
     <xsl:include href="gg2tp_l1.xsl" />
 
-    <xsl:strip-space elements="*"/>
+    <!--<xsl:strip-space elements="*"/>-->
 
     <xsl:output encoding="UTF-8" method="xml"/>
 
@@ -55,6 +55,10 @@
         <title>
             <xsl:apply-templates/>
         </title>
+    </xsl:template>
+    
+    <xsl:template match="subSection[ancestor::paragraph]">
+        <xsl:apply-templates select="child::*"/>
     </xsl:template>
     
     <!-- SKIPPED ELEMENTS --> 
