@@ -16,58 +16,96 @@
    </front>
    <body>
       <sec sec-type="document_head">
-         <title>Host and viral traits predict zoonotic spillover from mammals</title>
-         <p>Kevin J. Olival1
+         <title>
+Host and viral traits predict zoonotic spillover from mammals
+</title>
+         <p>
+Kevin J. Olival
+1
+
 , 
-Parviez R. Hosseini1
+Parviez R. Hosseini
+1
+
 , 
-Carlos Zambrana-Torrelio1
+Carlos Zambrana-Torrelio
+1
+
 , 
-Noam Ross1
+Noam Ross
+1
+
 , 
-Tiffany L. Bogich1
+Tiffany L. Bogich
+1
+
 &amp; 
-Peter Daszak1</p>
+Peter Daszak
+1
+</p>
       </sec>
       <sec sec-type="synopsis">
-         <p>The majority of human emerging infectious diseases are zoonotic, with viruses that originate in wild mammals of particular concern (for example, HIV, Ebola and SARS)
+         <p>
+The majority of human emerging infectious diseases are zoonotic, with viruses that originate in wild mammals of particular concern (for example, HIV, Ebola and SARS)
+
 1
 – 
-3. Understanding patterns of viral diversity in wildlife and determinants of successful cross-species transmission, or spillover, are therefore key goals for pandemic surveillance programs
-4. However, few analytical tools exist to identify which host species are likely to harbour the next human virus, or which viruses can cross species boundaries
+3
+
+. Understanding patterns of viral diversity in wildlife and determinants of successful cross-species transmission, or spillover, are therefore key goals for pandemic surveillance programs
+
+4
+. However, few analytical tools exist to identify which host species are likely to harbour the next human virus, or which viruses can cross species boundaries
+
 5
 – 
-7. Here we conduct a comprehensive analysis of mammalian host–virus relationships and show that both the total number of viruses that infect a given species and the proportion likely to be zoonotic are predictable. After controlling for research effort, the proportion of zoonotic viruses per species is predicted by phylogenetic relatedness to humans, host taxonomy and human population within a species range—which may reflect human–wildlife contact. We demonstrate that bats harbour a significantly higher proportion of zoonotic viruses than all other mammalian orders. We also identify the taxa and geographic regions with the largest estimated number of ‘missing viruses’ and ‘missing zoonoses’ and therefore of highest value for future surveillance. We then show that phylogenetic host breadth and other viral traits are significant predictors of zoonotic potential, providing a novel framework to assess if a newly discovered mammalian virus could infect people.
+7
+
+. Here we conduct a comprehensive analysis of mammalian host–virus relationships and show that both the total number of viruses that infect a given species and the proportion likely to be zoonotic are predictable. After controlling for research effort, the proportion of zoonotic viruses per species is predicted by phylogenetic relatedness to humans, host taxonomy and human population within a species range—which may reflect human–wildlife contact. We demonstrate that bats harbour a significantly higher proportion of zoonotic viruses than all other mammalian orders. We also identify the taxa and geographic regions with the largest estimated number of ‘missing viruses’ and ‘missing zoonoses’ and therefore of highest value for future surveillance. We then show that phylogenetic host breadth and other viral traits are significant predictors of zoonotic potential, providing a novel framework to assess if a newly discovered mammalian virus could infect people.
 </p>
       </sec>
       <sec sec-type="introduction">
          <p>
 Viral zoonoses are a serious threat to public health and global security, and have caused the majority of recent pandemics in people 
+
 4
+
 , yet our understanding of the factors driving viral diversity in mammals, viral host range, and cross-species transmission to humans remains poor. Recent studies have described broad patterns of pathogen host range 
+
 1
 , 
 3
+
 and various host or microbial factors that facilitate crossspeciestransmission 
+
 5
 , 
 7
 , 
 8
+
 , or have focused on factors promoting pathogen and parasite sharing within specific mammalian taxonomic groups including primates 
+
 9
 – 
 11
+
 , bats 
+
 12
 – 
 14
+
 , and rodents 
+
 12
 , 
 15
+
 —but to date there has been no comprehensive, species-level analysis of viral sharing between humans and all mammals. Here we create, and then analyse, a database of 2,805 mammal–virus associations, including 754 mammal species (14% of global mammal diversity) from 15 orders and 586 unique viral species (every recognized virus found in mammals 
+
 16
+
 ) from 28 viral families (Methods). We use these data to test hypotheses on the determinants of viral richness and viral sharing with humans. We fit three inter-related models to elucidate specific components of the process of zoonotic spillover (Extended Data 
 
 ). First, we identify factors that influence total viral richness (that is, the number of unique viral species found in a given host, including those which may have the potential to infect humans). Second, we identify and rank the ecological, phylogenetic and life-history traits that make some species more likely hosts of zoonoses than others. Third, recognizing that not all mammalian viruses will have the biological capacity to infect humans, we identify and rank viral traits that increase the likelihood of a virus being zoonotic.
@@ -91,30 +129,40 @@ and
 </p>
          <p>
 Previous analyses show that zoonotic disease emergence events and human pathogen species richness are spatially correlated with mammal and bird diversity 
+
 2
 , 
 17
+
 . However, these studies weight all species equally. In reality, the risk of zoonotic viral transmission, or spillover, probably varies among host species owing to differences in underlying viral richness, opportunity for contact with humans, propensity to exhibit clinical signs that exacerbate viral shedding 
+
 18
+
 , other ecological, behavioural and life-history differences 
+
 5
 , 
 12
 , 
 15
+
 , and phylogenetic proximity to humans 
+
 10
+
 . We hypothesize that the number of viruses a given mammal species shares with humans increases with phylogenetic proximity to humans and with opportunity for human contact. We used generalized additive models (GAMs) to identify and rank host-specific predictors (ecological, life history, taxonomic, and phylogenetic traits, and a control for research effort) of the number of total and zoonotic viruses in mammals (Methods; Supplementary Table 1).
 </p>
          <p>
 The best-fit model for total viral richness per wild mammal species explained 49.2% of the total deviance, and included a per-species measure of disease-related research effort, phylogenetically corrected body mass, geographic range, mammal sympatry, and taxonomy (order) (
 
 ). Not surprisingly, research effort had the strongest effect on the total number of viruses per host, explaining 31.9% of the total deviance for this model (Extended Data Table 1). The remaining 17.3% can be explained by biological factors, a value greater than or comparable to studies examining much narrower groups of mammal hosts 
+
 10
 , 
 12
 , 
 15
+
 (Supplementary Discussion). Mammal sympatry was the second most important predictor of total viral richness (
 
 ). Our model selection consistently identified mammal sympatry calculated at a ≥20% area overlap over other thresholds explored (Methods), providing insight into the minimum geographic overlap needed to facilitate viral sharing between hosts. Host geographic range was also significantly associated with increasing total viral richness, although the strength of this effect was low (
@@ -132,13 +180,17 @@ The best-fit model for total viral richness per wild mammal species explained 49
 (odd-toed ungulates) listed here in order of relative deviance explained, had a significantly greater mean viral richness than predicted by the other variables (
 
 ). This finding highlights these taxa as important targets for global viral discovery in wildlife 
+
 4
+
 , and suggests that traits not captured in our analysis (for example, immunological function, social structure, and other life-history variables) may underlie their capacity to harbour a greater number of viral species. Our models to predict total viral richness were comparable when excluding virus– host associations detected by serology, that is, using the ‘stringent data’, and were robust when validated with random cross-validation tests (Extended Data Table 1; Supplementary Table 2). However, we identified several regions that showed significant bias when cross-validated by excluding mammals from zoogeographic areas, suggesting that there are location-specific factors that remain unexplained in our models (Methods; Supplementary Table 3).
 </p>
-         <p>1
+         <p>
+1
 EcoHealth Alliance, 460 West 34th Street, New York, New York 10001, USA.
 </p>
-         <p>Figure 1
+         <p>
+Figure 1
 | 
 Observed viral richness in mammals. a
 , 
@@ -154,8 +206,10 @@ n
 = 32) mammal species; lines represent median boxes, interquartile range. Animal silhouettes from PhyloPic. Data based on 2,805 host–virus associations. See Methods for image credits and licensing.
 </p>
          <p>,</p>
-         <p>Figure 2
+         <p>
+Figure 2
 | 
+
 Host traits that predict total viral richness (top row) and
 proportion of zoonotic viruses (bottom row) per wild mammal species.
 
@@ -168,7 +222,9 @@ b
 , phylogenetic eigenvector regression (PVR) of body mass (log); 
 c
 , geographic range area of each species (log km 
+
 2
+
 ); 
 d
 , number of sympatric mammal species overlapping with at least 20% area of target species range; and 
@@ -182,14 +238,17 @@ g
 , phylogenetic distance from humans (cytochrome 
 b
 tree constrained to the topology of the mammal supertree 
+
 28
+
 ); 
 h
 , ratio of urban to rural human population within species range; and 
 i
 , three mammalian orders. Bats are the only order with a significantly larger proportion of zoonotic viruses than would be predicted by the other variables in the all-data model. Three additional mammalian orders, and whether or not a species is hunted, improved the overall predictive power of the best zoonotic virus model but were non-significant and are not shown (see Extended Data Table 1).
 </p>
-         <p>Figure 3
+         <p>
+Figure 3
 | 
 Global distribution of the predicted number of ‘missing zoonoses’ by order.
 Warmer colours highlight areas predicted to be of greatest value for discovering novel zoonotic viruses. 
@@ -232,30 +291,40 @@ n
 </p>
          <p>
 Our best model to predict the number of zoonotic viruses per wild mammal species explained 82% of the deviance, and included phylogenetic distance from humans, the ratio of urban to rural human population across a species range, host order, whether or not a species is hunted, disease-related research effort, and total viral richness (Extended Data Table 1). A large fraction of the deviance explained is driven by the observed total viral richness per host, supporting the biological assumption that the number of viruses that infect humans scales positively with the size of the potential ‘zoonotic pool’ 
+
 19
+
 in each reservoir host. Removing this contribution by including observed total viral richness per host as an offset, the model explains 33% of the total deviance in the proportion of viruses that are zoonotic (Methods), with 30% of total deviance explained by biological factors (
 
 ). Some mammalian orders had a significant positive (bats) or negative (two ungulate orders) effect on the proportion of zoonotic viruses (
 
 ). A number of previous studies have proposed that bats are special among mammals as reservoir hosts of a large number of recently emerging high-profile zoonoses (for example, SARS, Ebola virus, MERS) 
+
 12
 , 
 13
 , 
 20
+
 . Our study tests this hypothesis in the context of all known mammalian viruses and hosts. While other mammalian orders have relatively high proportions of observed zoonoses and others have been poorly studied (
 
 ), our model results show that bats are host to a significantly higher proportion of zoonoses than all other mammalian orders after controlling for reporting effort and other predictor variables.
 </p>
          <p>
 We found that the proportion of zoonotic viruses per species increases with host phylogenetic proximity to humans, and that this relationship is significant even when we removed ‘reverse zoonoses’ primarily associated with transmission from humans to primates (Methods). This is the first time this relationship has been demonstrated using data for all mammals and specifically as a determinant of zoonotic spillover, and is supported by previous taxon-specific studies that have examined host relatedness and parasite/pathogen sharing in primates 
+
 9
 , 
 10
+
 , bats 
+
 14
+
 and plants 
+
 21
+
 . The proportion of zoonotic viruses shows some upward drift for mammals that are very phylogenetically distant from humans (
 
 ) that may represent an artefact of preferentially screening marsupials for human viruses. While primate species largely drive the phylogenetic effect, our best-fit model excluded the effect of the order 
@@ -263,11 +332,15 @@ and plants
 as a discrete variable (
 
 ), suggesting that continuous variation in phylogenetic distance across primate species is more important, and is significant even when all mammals are included. This finding highlights the need to uncover the mechanism by which phylogeny affects spillover risk, for example, evolutionarily related species sharing host cell receptors and viral binding affinities 
+
 22
 , 
 23
+
 and specific viral mutations that may expand host range in related mammal species 
+
 24
+
 .
 </p>
          <p>
@@ -277,6 +350,7 @@ We tested several measures to estimate human–wildlife contact at a global scal
 </p>
          <p>
 The predominance of zoonoses of wildlife origin in emerging diseases has led to a series of programs to sample wildlife, discover novel viruses, and assess their zoonotic potential 
+
 4
 , 
 23
@@ -284,6 +358,7 @@ The predominance of zoonoses of wildlife origin in emerging diseases has led to 
 25
 , 
 26
+
 . To inform their scale and scope we calculate the expected number of as-yet undiscovered viruses and zoonoses per host species using our best-fit GAMs and a scenario of increased research effort (Methods, Supplementary Table 4). We then project these ‘missing viruses’ and ‘missing zoonoses’ geographically (
 
 , Extended Data 
@@ -296,7 +371,8 @@ and Extended Data
 
 ).
 </p>
-         <p>Figure 4
+         <p>
+Figure 4
 | 
 Traits that predict zoonotic potential of a virus. a
 , Box plot of maximum phylogenetic host breadth per virus (PHB, see methods) for each of 586 mammalian viruses, aggregated by 28 viral families. Individual points represent viral species, colour-coded by zoonotic status. Box plots coloured and sorted by the proportion of zoonoses in each viral family. 
@@ -326,32 +402,44 @@ et al.
 </p>
          <p>
 Finally, a significant challenge to preventing future disease emergence is estimating the zoonotic potential of a newly discovered viral species or strain based on viral traits 
+
 4
 – 
 6
 , 
 27
+
 . The best model for determining whether or not a known virus (
 n
 = 586 mammalian viruses) has been observed as zoonotic explained 27.2% of total deviance and included maximum phylogenetic host breadth (PHB—a virus-specific trait that measures the phylogenetic range of known hosts, excluding humans), research effort, whether or not a virus replicates in the cytoplasm, is vector-borne, or is enveloped, and average genome length (
 
 ). Using the ‘stringent’ dataset to define whether a virus is zoonotic resulted in a reduced model that excluded enveloped status and genome length (Extended Data Table 1). Our findings confirm a positive relationship between zoonotic potential and ability to replicate in the cytoplasm 
+
 7
+
 , and that viruses with arthropod vectors may be able to infect a wider range of mammalian hosts 
+
 5
+
 . Our phylogenetically explicit measure of host breadth, PHB, can be used at various hierarchical taxonomic levels to quantify and rank viruses from specialist to generalist, and was the strongest predictor of zoonotic potential (12.4% of total deviance explained). This highlights the value of field programs to identify the natural host range of newly discovered pathogens in order to develop early proxies for their zoonotic potential 
+
 4
+
 . Significant variation in PHB across viral families is suggestive of intrinsic differences in the ability of a virus to infect diverse hosts, and this relates to the proportion of observed zoonoses in each family (
 
 ).
 </p>
          <p>
 We acknowledge several important caveats in this study. First, our estimates of missing viruses and missing zoonoses per species are based on the current maximum observed research effort from the literature, and these estimates should be viewed as relative, not absolute. The true size of the undiscovered mammalian virome will probably increase with new genetic tools for unbiased viral discovery and in-depth studies that repeatedly sample wildlife populations over time 
+
 25
+
 . Second, our ecological and biological predictor variables only explain a portion of the total variation in viral richness per host and zoonotic potential based on viral traits, although this is greater than that reported in comparable order-specific studies 
+
 10
 , 
 12
+
 . Third, while we control for research effort we cannot account for viruses or host associations that have completely evaded human detection to date, nor those identified but not published. Additional resources to support better data sharing and on-the-ground viral surveillance in the species and regions we identify would help validate predictive models to identify zoonotic viral hotspots, and streamline costly efforts to develop measures to prevent their future emergence.
 </p>
          <p>
@@ -360,29 +448,40 @@ in vitro
 and 
 in vivo
 infection experiments 
+
 23
+
 ) to assess their potential to threaten human health.
 </p>
       </sec>
       <sec sec-type="multiple">
-         <p>Online Content
+         <p>
+Online Content
 Methods,along with any additional Extended Data display items and Source Data, are available in the online version of the paper; references unique to these sections appear only in the online paper.
 </p>
       </sec>
       <sec sec-type="multiple">
-         <title>Received 5 January 2016; accepted 24 May 2017.
+         <title>
+Received 5 January 2016; accepted 24 May 2017.
+
 </title>
-         <p>Published online 21 June 2017.
+         <p>
+Published online 21 June 2017.
+
 </p>
       </sec>
       <sec sec-type="reference_group">
          <p>
+
 1. 
 Woolhouse, M. E. J.
 &amp; 
-Gowtage-Sequeria, S.Host range and emerging and reemerging pathogens
+Gowtage-Sequeria, S.
+Host range and emerging and reemerging pathogens
 . 
+
 Emerg. Infect. Dis.
+
 11
 ,
 
@@ -390,14 +489,21 @@ Emerg. Infect. Dis.
 (
 2005
 ).
+
 </p>
          <p>
+
 2. 
 Jones, K. E.
+
 et 
-al.Global trends in emerging infectious diseases
+al.
+
+Global trends in emerging infectious diseases
 . 
+
 Nature
+
 451
 ,
 
@@ -405,16 +511,21 @@ Nature
 (
 2008
 ).
+
 </p>
          <p>
+
 3. 
 Taylor,L. H.
 , 
 Latham, S. M.
 &amp; 
-Woolhouse,M. E. J.Risk factors for human disease emergence
+Woolhouse,M. E. J.
+Risk factors for human disease emergence
 . 
+
 Phil. Trans. R. Soc. Lond. B
+
 356
 ,
 
@@ -422,14 +533,21 @@ Phil. Trans. R. Soc. Lond. B
 (
 2001
 ).
+
 </p>
          <p>
+
 4. 
 Morse, S. S.
+
 et 
-al.Prediction and prevention of the next pandemic zoonosis
+al.
+
+Prediction and prevention of the next pandemic zoonosis
 . 
+
 Lancet
+
 380
 ,
 
@@ -437,14 +555,21 @@ Lancet
 (
 2012
 ).
+
 </p>
          <p>
+
 5. 
 Parrish, C. R.
+
 et 
-al.Cross-species virus transmission and the emergence of new epidemic diseases
+al.
+
+Cross-species virus transmission and the emergence of new epidemic diseases
 . 
+
 Microbiol. Mol. Biol. Rev.
+
 72
 ,
 
@@ -452,14 +577,21 @@ Microbiol. Mol. Biol. Rev.
 (
 2008
 ).
+
 </p>
          <p>
+
 6. 
 Lipsitch, M.
+
 et 
-al.Viral factors in influenza pandemic risk assessment
+al.
+
+Viral factors in influenza pandemic risk assessment
 . 
+
 eLife
+
 5
 ,
 
@@ -468,14 +600,19 @@ e
 (
 2016
 ).
+
 </p>
          <p>
+
 7. 
 Pulliam, J. R. C.
 &amp; 
-Dushoff, J.Ability to replicate in the cytoplasm predicts zoonotic transmission of livestock viruses
+Dushoff, J.
+Ability to replicate in the cytoplasm predicts zoonotic transmission of livestock viruses
 . 
+
 J. Infect. Dis.
+
 199
 ,
 
@@ -483,16 +620,21 @@ J. Infect. Dis.
 (
 2009
 ).
+
 </p>
          <p>
+
 8. 
 Woolhouse, M. E.
 , 
 Haydon, D. T.
 &amp; 
-Antia, R.Emerging pathogens: the epidemiology and evolution of species jumps
+Antia, R.
+Emerging pathogens: the epidemiology and evolution of species jumps
 . 
+
 Trends Ecol. Evol.
+
 20
 ,
 
@@ -500,14 +642,21 @@ Trends Ecol. Evol.
 (
 2005
 ).
+
 </p>
          <p>
+
 9. 
 Cooper, N.
+
 et 
-al.Phylogenetic host specificity and understanding parasite sharing in primates
+al.
+
+Phylogenetic host specificity and understanding parasite sharing in primates
 . 
+
 Ecol. Lett.
+
 15
 ,
 
@@ -515,14 +664,19 @@ Ecol. Lett.
 (
 2012
 ).
+
 </p>
          <p>
+
 10. 
 Davies,T.J.
 &amp; 
-Pedersen, A. B.Phylogeny and geography predict pathogen community similarity in wild primates and humans
+Pedersen, A. B.
+Phylogeny and geography predict pathogen community similarity in wild primates and humans
 . 
+
 Proc. R. Soc. Lond. B
+
 275
 ,
 
@@ -530,16 +684,21 @@ Proc. R. Soc. Lond. B
 (
 2008
 ).
+
 </p>
          <p>
+
 11. 
 Gómez, J. M.
 , 
 Nunn, C. L.
 &amp; 
-Verdú, M.Centrality in primate-parasite networks reveals the potential for the transmission of emerging infectious diseases to humans
+Verdú, M.
+Centrality in primate-parasite networks reveals the potential for the transmission of emerging infectious diseases to humans
 . 
+
 Proc. Natl Acad. Sci. USA
+
 110
 ,
 
@@ -547,13 +706,20 @@ Proc. Natl Acad. Sci. USA
 (
 2013
 ).
+
 </p>
          <p>
+
 12. 
 Luis, A.D.
+
 et 
-al.A comparison of bats and rodents as reservoirs of zoonotic viruses: are bats special?Proc. R. Soc. Lond. B
+al.
+
+A comparison of bats and rodents as reservoirs of zoonotic viruses: are bats special?
+Proc. R. Soc. Lond. B
 .
+
 280
 ,
 
@@ -561,8 +727,10 @@ al.A comparison of bats and rodents as reservoirs of zoonotic viruses: are bats 
 (
 2013
 ).
+
 </p>
          <p>
+
 13. 
 Brierley,L.
 , 
@@ -572,9 +740,12 @@ Olival, K. J.
 , 
 Daszak, P.
 &amp; 
-Jones, K. E.Quantifying global drivers of zoonotic bat viruses: a process-based perspective
+Jones, K. E.
+Quantifying global drivers of zoonotic bat viruses: a process-based perspective
 . 
+
 Am. Nat.
+
 187
 ,
 
@@ -583,14 +754,21 @@ E
 (
 2016
 ).
+
 </p>
          <p>
+
 14. 
 Streicker, D. G.
+
 et 
-al.Host phylogeny constrains cross-species emergence and establishment of rabies virus in bats
+al.
+
+Host phylogeny constrains cross-species emergence and establishment of rabies virus in bats
 . 
+
 Science
+
 329
 ,
 
@@ -598,8 +776,10 @@ Science
 (
 2010
 ).
+
 </p>
          <p>
+
 15. 
 Han, B. A.
 , 
@@ -607,9 +787,12 @@ Schmidt, J. P.
 , 
 Bowden, S.E.
 &amp; 
-Drake,J. M.Rodent reservoirs of future zoonotic diseases
+Drake,J. M.
+Rodent reservoirs of future zoonotic diseases
 . 
+
 Proc. Natl Acad.Sci. USA
+
 112
 ,
 
@@ -617,8 +800,10 @@ Proc. Natl Acad.Sci. USA
 (
 2015
 ).
+
 </p>
          <p>
+
 16. 
 Fauquet, C.
 , 
@@ -628,7 +813,8 @@ Maniloff, J.
 , 
 Desselberger,U.
 &amp; 
-Ball, L. A.Virus taxonomy: Eighth Report of the International Committee on Taxonomy of Viruses
+Ball, L. A.
+Virus taxonomy: Eighth Report of the International Committee on Taxonomy of Viruses
 .
 
 (
@@ -636,8 +822,10 @@ Elsevier Academic Press
 , 
 2005
 ).
+
 </p>
          <p>
+
 17. 
 Dunn, R. R.
 , 
@@ -645,9 +833,12 @@ Davies,T.J.
 , 
 Harris,N. C.
 &amp; 
-Gavin,M. C.Global drivers of human pathogen richness and prevalence
+Gavin,M. C.
+Global drivers of human pathogen richness and prevalence
 . 
+
 Proc.R. Soc. Lond. B
+
 277
 ,
 
@@ -655,14 +846,21 @@ Proc.R. Soc. Lond. B
 (
 2010
 ).
+
 </p>
          <p>
+
 18. 
 Levinson, J.
+
 et 
-al.Targeting surveillance for zoonotic virus discovery
+al.
+
+Targeting surveillance for zoonotic virus discovery
 . 
+
 Emerg. Infect. Dis.
+
 19
 ,
 
@@ -670,11 +868,14 @@ Emerg. Infect. Dis.
 (
 2013
 ).
+
 </p>
          <p>
+
 19. 
 Morse, S. S.
 in 
+
 Emerging Viruses
 
 (ed. 
@@ -686,30 +887,43 @@ Oxford University Press
 , 
 1993
 ).
+
 </p>
          <p>
 20. 
 Zhou, P.
+
 et 
-al.Contraction of the type I IFN locus and unusual constitutive expression of IFN-α in bats
+al.
+
+Contraction of the type I IFN locus and unusual constitutive expression of IFN-α in bats
 . 
+
 Proc. Natl Acad.Sci. USA
+
 113
 ,
 
-2696–2701</p>
+2696–2701
+</p>
          <p>
 (
 2016
 ).
 </p>
          <p>
+
 21. 
 Parker, I. M.
+
 et 
-al.Phylogenetic structure and host abundance drive disease pressure in communities
+al.
+
+Phylogenetic structure and host abundance drive disease pressure in communities
 . 
+
 Nature
+
 520
 ,
 
@@ -717,8 +931,10 @@ Nature
 (
 2015
 ).
+
 </p>
          <p>
+
 22. 
 Longdon, B.
 , 
@@ -728,9 +944,12 @@ Russell,C. A.
 , 
 Welch, J. J.
 &amp; 
-Jiggins, F. M.The evolution and genetics of virus host shifts
+Jiggins, F. M.
+The evolution and genetics of virus host shifts
 . 
+
 PLoS Pathog.
+
 10
 ,
 
@@ -739,14 +958,21 @@ e
 (
 2014
 ).
+
 </p>
          <p>
+
 23. 
 Ge,X.-Y.
+
 et 
-al.Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor
+al.
+
+Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor
 . 
+
 Nature
+
 503
 ,
 
@@ -754,8 +980,10 @@ Nature
 (
 2013
 ).
+
 </p>
          <p>
+
 24. 
 Organtini,L. J.
 , 
@@ -765,9 +993,12 @@ Lukk, T.
 , 
 Parrish, C. R.
 &amp; 
-Hafenstein, S.Global displacement of canine parvovirus by a host-adapted variant: A structural comparison between pandemic viruses with distinct host ranges
+Hafenstein, S.
+Global displacement of canine parvovirus by a host-adapted variant: A structural comparison between pandemic viruses with distinct host ranges
 . 
+
 J. Virol.
+
 89
 ,
 
@@ -775,14 +1006,21 @@ J. Virol.
 (
 2015
 ).
+
 </p>
          <p>
+
 25. 
 Anthony,S. J.
+
 et 
-al.A strategy to estimate unknown viral diversity in mammals
+al.
+
+A strategy to estimate unknown viral diversity in mammals
 . 
+
 MBio
+
 4
 ,
 
@@ -791,14 +1029,21 @@ e
 (
 2013
 ).
+
 </p>
          <p>
+
 26. 
 Drexler, J. F.
+
 et 
-al.Bats host major mammalian paramyxoviruses
+al.
+
+Bats host major mammalian paramyxoviruses
 . 
+
 Nat. Commun.
+
 3
 ,
 
@@ -806,8 +1051,10 @@ Nat. Commun.
 (
 2012
 ).
+
 </p>
          <p>
+
 27. 
 Geoghegan,J. L.
 , 
@@ -815,9 +1062,12 @@ Senior,A. M.
 , 
 Di Giallonardo, F.
 &amp; 
-Holmes, E. C.Virological factors that increase the transmissibility of emerging human viruses
+Holmes, E. C.
+Virological factors that increase the transmissibility of emerging human viruses
 . 
+
 Proc. Natl Acad. Sci. USA
+
 113
 ,
 
@@ -825,17 +1075,22 @@ Proc. Natl Acad. Sci. USA
 (
 2016
 ).
+
 </p>
          <p>
+
 28. 
 Fritz, S. A.
 , 
 Bininda-Emonds, O. R. P.
 &amp; 
-Purvis, A.Geographical variation in predictors of mammalian extinction risk: big is bad, but only in the tropics
+Purvis, A.
+Geographical variation in predictors of mammalian extinction risk: big is bad, but only in the tropics
 . 
+
 Ecol. Lett
 .
+
 12
 ,
 
@@ -843,60 +1098,79 @@ Ecol. Lett
 (
 2009
 ).
+
 </p>
       </sec>
       <sec sec-type="multiple">
-         <p>Supplementary Information
+         <p>
+Supplementary Information
 is available in the online version of the paper.
 </p>
       </sec>
       <sec sec-type="acknowledgments">
-         <p>Acknowledgements
+         <p>
+Acknowledgements
 This research was supported by the United States Agency for International Development (USAID) Emerging Pandemic Threats PREDICT program; and NIH NIAID awards R01AI079231 and R01AI110964. The authors thank C. N. Basaraba, J. Baxter, L. Brierley, E. A.Hagan, J. Levinson,E. H. Loh, L. Mendiola, N. Wale and A.R.Willoughby for assistance with data collection, and B. M. Bolker,A.R. Ives, K. E. Jones,C. K.Johnson, A. M. Kilpatrick, J. A.K. Mazet and M. E. J. Woolhouse for comments.
 </p>
       </sec>
       <sec sec-type="multiple">
-         <p>Author Contributions
+         <p>
+Author Contributions
 K.J.O., T.L.B.and P.D. designed the study and supervised the collection of data.N.R., P.R.H. and K.J.O.designed the statistical approach, wrote the code, and generated figures. K.J.O. performed phylogenetic analyses. C.Z.-T. performed spatial analyses. All authors were involved in writing the manuscript.
 </p>
-         <p>Author Information
+         <p>
+Author Information
 Reprints and permissions information is available at www.nature.com/reprints. The authors declare no competing financial interests.Readers are welcome to comment on the online version of the paper. Publisher’s note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Correspondence and requests for materials should be addressed to K.J.O.(olival@ecohealthalliance. org) or P.D. (daszak@ecohealthalliance.org).
 </p>
-         <p>Reviewer Information
+         <p>
+Reviewer Information
 Nature
 thanks J. Dushoff and the other anonymous reviewer(s) for their contribution to the peer review of this work.
 </p>
       </sec>
       <sec sec-type="materials_methods">
          <p>No statistical methods were used to predetermine sample size. The experiments were not randomized and the investigators were not blinded to allocation during experiments and outcome assessment.</p>
-         <p>Database.
+         <p>
+Database.
 To construct the mammal–virus association database we initially extracted all viruses listed as occurring in any mammal from the International Committee on Taxonomy of Viruses database (ICTVdb), and further individually went through each virus listed in the ICTV 8th edition master list and searched the literature for mammalian hosts. All viral species names were synonymized to ICTV 8th edition, which was the global authority on viral taxonomy at the start of our data collection in 2010 (ref.16). From 2010–15 the authors and a team of research assistants and interns at EcoHealth Alliance compiled mammal species associations for each of 586 unique viruses published in the literature between 1940–2015 initially by using the virus name and synonyms as the search keywords in the major online reference databases (Web of Science, PubMed, and Google Scholar) in addition to searching in books, reviews, and literature cited in sources we had already obtained. To narrow the search for hosts for well-researched viruses, we additionally included the terms ‘host(s)’, ‘reservoir’,‘wildlife’,‘animals’, ‘surveillance’, and other relevant terms to find publications related to host range. Associations were cross-checked for completeness with the Global Mammal Parasite Database for primate, carnivore and ungulate viruses, version as of Nov 2006 (GMPD, http://www.mammalparasites.org) 
+
 29
+
 and other published reviews specific to bats and rodents 
+
 12
 , 
 30
 , 
 31
+
 . We excluded all records without species-level host information, and those where we could not track down the primary references. Records of mammal–virus associations from experimental infection studies, zoological parks or captive breeding facilities, or cell culture discoveries were excluded.Host species were defined as domestic or wild following the list of domestic animal species from the Food and Agriculture Organization (FAO) 
+
 32
+
 , and we removed the black rat (
-<tp:taxon-name>Rattus rattus
+<tp:taxon-name>
+Rattus rattus
 </tp:taxon-name>
 ) and domestic mouse (
-<tp:taxon-name>Mus musculus
+<tp:taxon-name>
+Mus musculus
 </tp:taxon-name>
 ) from the domesticated list as these two species make up their own ‘peri-domestic’ category. Host species were categorized as either occurring in human modified habitats or being hunted by humans—both estimates for human contact—according to the IUCN Red List species descriptions 
+
 33
+
 .
 </p>
          <p>To control for the fact that some detection methods are more reliable than others in identifying the pathogen of interest,we recorded the detection method used for each host–virus association and scored these as 0, 1, or 2 according to the reliability of detection method used. Viral isolation and PCR detection with sequence confirmation were scored as a 2 (=stringent data); and serological methods were scored as a 0 or 1, with viral or serum neutralization tests (=1), and enzymelinked immunoassays (ELISA), antigen detection assays, and other serological assays scored as (=0). ‘Stringent data’ were analysed separately to remove potential uncertainty owing to cross-reactivity with related viruses.We exhaustively searched the literature to identify a stringent detection for each mammal–virus pair, and only included the serological finding for that pair if no molecular or viral isolation studies were available.We partitioned data and conducted separate analyses for the entire data set (0 +1 +2 detection quality) and the stringent data (score of 2) to reduce the noise from potential serological cross-reactivity.Full list of host–virus associations, detection methods, and associated references are provided in our data and code repository at http://doi.org/10.5281/zenodo.596810.</p>
          <p>Our operational definition of a zoonotic virus includes any virus that was detected in humans and at least one other mammalian host in at least one primary publication, and does not imply directionality.Our complete dataset of mammalian viral associations demonstrates evidence of past or current viral infection which we believe is a reasonable proxy for measuring spillover, and our stringent dataset specifically is more robust to exclude species that may have been exposed to a given virus versus those that show some evidence for replication within the host species.Our bi-directional definition of spillover follows a proposal by the WHO that defines a zoonosis as “any disease or infection that is naturally transmissible from vertebrate animals to humans and vice-versa” (http://www.who.int/zoonoses/ en/) and excludes any human pathogens that recently evolved from nonhuman pathogens (for example, HIV in primates), as per Woolhouse and Gowtage-Sequeria (2005) (ref. 1).</p>
          <p>
 In order to address influence of transmission from humans to wildlife in our models, we also ran our GAM model fitting and selection procedure (see below) on a subset of data that excluded any probable ‘reverse zoonotic’ viruses. We first searched our entire dataset and removed any clear instances of transmission from humans to primates, for example, including records from zoological parks and wildlife rehabilitation centres (as previously noted). We then additionally removed several human viruses most commonly transmitted from humans back to non-human primates to create a subset of data without the most common reverse zoonotic viruses (adeno-associated virus-2; human adenovirus D; human herpesvirus 4; human metapneumovirus; human respiratory syncytial virus; measles virus; mumps virus) 
+
 34
 , 
 35
+
 . We present these additional analyses excluding reverse zoonoses and associated code at http://doi.org/10.5281/zenodo.596810.
 </p>
          <p>Total viral richness was calculated as the number of unique ICTV-recognized viruses found in a given host species, and zoonotic viral richness was defined as the number of unique ICTV-recognized viruses in a given host species that were also detected in humans in our database.</p>
@@ -917,46 +1191,69 @@ operator was used in our search criteria to capture all words that begin with ea
 </p>
          <p>
 We used a phylogenetically corrected measure of body mass (see details below under ‘Phylogenetic signal’) as our main life history predictor variable, because it was the only one for which a nearly complete dataset existed for the species in our dataset. We used the body mass recorded in the PanTHERIA database 
+
 36
+
 for 709 species. For 3 species, we used the second choice option, body mass recorded in the AnAge database 
+
 37
+
 . For 11 species, we used the third choice option of the extrapolated body mass recorded in PanTHERIA, which is based on body length or forearm length, depending on species. For 36 species, we used the average body mass for members of the genus that had a recorded body mass. We explored other life-history variables related to longevity 
+
 38
+
 , reproductive success, and basal metabolic rate but these were ultimately excluded owing to the high number of missing records.
 </p>
-         <p>Phylogenetic signal.
+         <p>
+Phylogenetic signal.
 We address the issue of non-independence of host species traits owing to shared ancestry 
+
 39
+
 in our analyses by first quantifying the phylogenetic signal for each variable in our model using Blomberg’s K 
 40
 . Blomberg’s K measures phylogenetic signal in a given trait by quantifying trait variance relative to an expectation under a Brownian motion null model of evolution using a phylogenetic tree with varying branch lengths. Blomberg’s K-values are scaled from 0 to infinity, with a value of 0 equal to no phylogenetic signal and values greater than 1 equal to strong phylogenetic signal for closely related species that share more similar trait values. While there is no clearly defined K value cutoff in which to apply phylogenetic comparative methods, non-significant value of &lt;1, or more conservatively &lt;0.5, are typical for traits that are phylogenetically independent.The only host variables we examined with significant K values&gt;0.5 were host body mass, and our direct measure of phylogenetic distance to humans. While there are several tools available to control for phylogeny in multivariate analyses, for example, using phylogenetic generalized least square models (for example, PGLS) 
+
 41
+
 , there is currently no modelling approach to control for phylogeny using GAMs. More importantly, a wholesale effort to control for phylogeny across all variables in our analysis was not appropriate here, as we are explicitly testing the relative importance of phylogenetic distance to humans versus other host traits including measures of human–wildlife contact to predict the proportion of zoonotic viruses for a given host species.This left body mass as the only variable in our models, excluding our direct measures of phylogenetic distance, with a significant Blomberg K value that was greater than 1. We controlled for the significant effect of shared evolutionary history using a phylogenetic eigenvector regression (PVR) 
+
 42
 , 
 43
+
 on body mass.The PVR approach allowed us to remove phylogenetic signal for any phylogenetically non-independent variables and then include the corrected values back in our GAMs, while retaining predictor variables like phylogenetic distance to humans as unmodified. We calculated PVR for body mass using the R package PVR and our custom-build maximum likelihood host phylogeny using cytochrome 
 b
 sequences constrained to the order-level topology of the mammalian supertree 
+
 28
 , 
 44
+
 . Our new variable for body mass that controls for phylogenetic signal (PVRcytb_resid) removed most of the phylogenetic signal, with K=3.5 unadjusted, and K&lt;0.5 after PVR correction. Our new metric of body mass scales in the same way, with larger values equal to species with larger body mass. PVR body mass was included in our GAM model selection for the total viral richness and zoonotic virus models.
 </p>
-         <p>Host phylogenetic analysis and phylogenetic host breadth.
+         <p>
+Host phylogenetic analysis and phylogenetic host breadth.
 We used two different mammal phylogenetic trees in our analyses and used a model selection framework to determine which best explained our observed association with zoonotic viral richness.First the mammal supertree was pruned in R (package ape, function drop. tips) to include only synonymous species for the 753 species in our database 
+
 28
 , 
 45
+
 . We synonymized all host species names between the mammal supertree and the host associations in our database using the IUCN Red List 
+
 33
+
 . If the species was listed as ‘cattle’ it was assumed to be 
-<tp:taxon-name>Bos taurus
+<tp:taxon-name>
+Bos taurus
 </tp:taxon-name>
 , all other records were excluded if there was ambiguity as to the scientific name for the host species. Second, a maximum likelihood cytochrome 
 b
 tree was generated using the constraint of a multifurcating tree with taxa constrained to their respective orders and the orderlevel topology matching that of the mammal supertree 
+
 6
+
 , as per this Newick tree file:(MONOTREMATA,((DIDELPHIMORPHIA,(
 <tp:taxon-name>DIPROTODONTIA</tp:taxon-name>
 ,PERAME LEMORPHIA)),(PROBOSCIDEA,((PILOSA, 
@@ -989,15 +1286,20 @@ tree constrained to the topology of the mammal supertree was selected as the bes
 </p>
          <p>
 Sequences were aligned using MUSCLE with default setting in Geneious R6, and checked visually for errors 
+
 46
+
 . The best maximum likelihood tree with and without the constraint tree were generated using RAxML-HPC2 on XSEDE via the CIPRES Science Gateway server v.3.1 (ref. 47) using a GTR model with parsimony seed, 1.000 bootstrap replicates, and the following, specific parameters (raxmlHPC-HYBRID -s infile -n result -x 12345 -g constraint.tre -N 1000 -c 25 -p 12345 -f a -m GTRCAT).
 </p>
          <p>
 Matrices of pairwise patristic distances between all species, including 
-<tp:taxon-name>Homo sapiens
+<tp:taxon-name>
+Homo sapiens
 </tp:taxon-name>
 , were calculated from the two phylogenies using the ‘cophenetic’ function in the R package ape 
+
 45
+
 . Phylogenetic trees (Newick format for pruned supertree and cytochrome 
 b
 tree) and matrices of phylogenetic distance from humans are provided in the data and code repository.
@@ -1007,6 +1309,7 @@ We calculated mean, median, max., min., IQR, and standard deviation (represented
 F
 in equation (1) of phylogenetic host breadth (PHB) from all known mammalian hosts for each virus using the pairwise patristic distances (
 d
+
 i
 , 
 j
@@ -1018,12 +1321,15 @@ j
 , and 
 J
 represents the total mammals in the database. We aggregated these PHB values using mean, median, or maximum values at a viral species, genus and viral family level to generate higher-level taxonomic variables of host breadth per viral group. Our measure is similar to those developed by previous studies to understand parasite host specificity 
+
 48
 – 
 50
+
 , but here we create a generalizable variable to measure viral host breadth that can be aggregated at different viral taxonomic levels.
 </p>
-         <p>PHB
+         <p>
+PHB
 i
 = 
 F
@@ -1041,7 +1347,9 @@ To make Extended Data
 , taxon names and terminal branches of cytochrome 
 b
 tree constrained to supertree were colour-coded using residual from the bestfit zoonotic virus GAM (predicted minus observed zoonotic viral richness) for wildlife species, and plotted using the plot.phylo function in the R package ape 
+
 45
+
 . Symbols (circles) at terminal taxa additionally added to better visualize residual value colours were added using willeerd.nodelabels function (http://dx.doi. org/10.5281/zenodo.10855). All marine mammals, domestic animals, and other taxa with missing data were coded as grey for missing data.
 </p>
          <p>
@@ -1049,7 +1357,8 @@ Viral richness heat map (Extended Data
 
 ) was generated using the R package pheatmap, and the ‘complete’ hierarchical clustering algorithm to sort cells across rows and columns by similar values of viral richness. All box plots, histograms and all other figures generated in R v.3.3.0 (ref. 51). R code for primary figure generation is provided in the code repository.
 </p>
-         <p>GAM fitting and selection.
+         <p>
+GAM fitting and selection.
 We fit a set of generalized additive models (GAMs) that included all of our selected potential variables explaining the number of total viruses or number of zoonoses in hosts, as well as whether viruses were zoonotic (for conceptual framework and summary of each GAM see Extended Data 
 
 ; for full variable list and data sources see Supplementary Table 1). Our use of GAMs, an incorporation of smooth spline predictor functions into the generalized linear model (GLM) framework, allowed us to examine the functional form of our predictor variables (for example, 
@@ -1057,11 +1366,15 @@ We fit a set of generalized additive models (GAMs) that included all of our sele
 and 
 
 ). Categorical and binary variables (for example, host order, IUCN status of hunted or not, and certain viral traits) were fit as random effects of each variable level.We used automated term selection by double penalty smoothing 
+
 52
+
 to eliminate variables from the models. This method removes variables with little to no predictive power and has been shown to be comparable or superior to comparing alternate models with and without variables. We did use the model comparison method for domestic animals, where the sample size was not sufficient for fitting all variables. In this case dropping variables by double penalty smoothing still allowed pruning the model list to eliminate redundant models. Where there were competing variables measuring the same mechanistic effect, we fit alternate GAMs using only one of each of these variables (as specified in below and in the Extended Data 
 
 ). These included phylogenetic variables, citation counts from alternate databases, and different measures of human population/host overlap. For example, to capture host phylogeny we used phylogenetic distance based on either the mammal supertree 
+
 20
+
 or a purpose-built cytochrome 
 b
 constrained by the topology of the mammal supertree, but never both in the same model.For human population variables, we looked at either variables measuring overlap of species range with human-occupied areas, or human population in those areas, as area- and population-based measures were highly co-linear.For citation variables, we looked at either all citations or the number of disease-related citations for each host species, not both, and similarly citations in either PubMed or Web of Knowledge. We used a binomial GAM to analyse the 586 mammalian viruses in our database and identify viral traits that may serve as predictors of zoonotic potential. Co-linearity was not a major issue among variables included in the same model.
@@ -1087,7 +1400,8 @@ Analyses were limited to terrestrial mammal species as defined by the IUCN Red L
 n
 = 32 species) with a unique set of explanatory variables that differed from the wild species analyses, these models were fit separately.Domestic species results are also discussed separately (see Supplementary Discussion) as they are tangential to the primary findings.
 </p>
-         <p>Model cross-validation.
+         <p>
+Model cross-validation.
 We used 
 k
 -fold cross-validation to evaluate goodness of fit for all models.The data was divided into ten folds, selected randomly.For each fold, the model was re-fit based on the other nine folds,and goodness of fit was assessed by conducting a nonparametric permutation test comparing the predicted values versus the real values for the 
@@ -1106,16 +1420,22 @@ In addition to randomly selected
 k
 -fold cross-validation, we evaluated the robustness of our models via a non-random geographic cross-validation, code and summary document provided in our code and data repository. In order to meaningfully organize species in our dataset by geographic areas, we used the 34 zoogeographic regions for terrestrial mammals recently redefined by Holt 
 et al.
+
 54
+
 . Using QGIS 
+
 55
+
 , a mammal-specific zoogeographical shapefile provided by Holt’s group at the University of Copenhagen (http://macroecology.ku.dk/resources/wallace) was intersected (using QGIS Vector&gt; Geoprocessing Tools&gt; Intersect) with a shapefile of IUCN’s host ranges for all mammals in our database. Areas of these intersections were then calculated using an equal-area projection (Mollweide), and each host was assigned to only the region that contained the greatest proportion of its range.We systematically removed all observations (species) from each given zoogeographical region, re-fit the model using all observations from outside the region, then performed a non-parametric permutation test comparing the predicted values to the observed values for that region. Non-significant results indicate that model predictions are unbiased. Significant results for a given zoogeographic region suggest that there are location-specific biases that remain unexplained. This systematic zoogeographic cross-validation supported the overall robustness of our model predictions for several models, that is, all-data zoonoses, all-data total viral richness, and stringent-data total viral richness models. For these models, even though a majority of zoogeographic regions were unbiased, we still identified several zoogeographic regions that showed significant bias.Our zoogeographic cross-validation was equivocal for the stringent-data zoonoses model, with eight regions that showed evidence of bias and seven regions which showed no evidence of bias (Supplementary Table 3).
 </p>
          <p>
 The presence of biased regions in our zoogeographic cross-validation suggested the possibility that there is a systematic bias associated with geography not captured by the predictor variables in our models. To further investigate this, we added zoogeographical region as a categorical random effect to each of our bestfit models. For three of our best-fit GAMs (all-data total viruses, stringent-data total viruses, and stringent-data zoonoses) the addition of zoogeographical region as a categorical random effect decreased the model AIC and increased the total deviance explained by 3–5%. The all-data zoonoses model, which was used to create the series of maps in the main manuscript, does not improve with the inclusion of zoogeographical region.However, the improved predictive power of models using region-specific terms is offset by the increase in degrees of freedom (that is, if we included 31 zoogeographic regions as separate terms) and, more importantly, a decreased interpretability of our models—especially when compared to the geographical variables we used, such as host area or species range overlap with human modified habitat.We opted not to include these random effects in our final GAMs in favour of keeping only variables interpretable in the context of our host trait-specific framework.Instead, we indicate areas of geographic bias directly on our spatially mapped outputs. (See ‘Calculating and visualizing missing viruses and missing zoonoses’, below.) Summaries of these models, along with changes in relative deviance explained for the other explanatory variables when zoogeographic region is added as a random effect, are provided in our code and data repository. 
 Spatial variables.
 For all the wildlife hosts we used the geographic range information obtained from the IUCN spatial database version 2015.2. Wildlife host species shapefiles needed to replicate analysis are hosted on our Amazon S3 storage (https://s3.amazonaws.com/hp3-shapefiles/Mammals_Terrestrial.zip) 
+
 33
+
 . IUCN depict species’ range distributions as polygons based on the extent of occurrence (EOO), which is defined as the area contained within a minimum convex hull around species’ observations or records. This convex hull or polygon is further improved by including areas known to be suitable or by removing unsuitable or unoccupied areas based on expert knowledge. To accurately calculate the area in km 
 2
 of each host species we projected the polygons to an equal area projection (Mollweide).
@@ -1123,24 +1443,40 @@ of each host species we projected the polygons to an equal area projection (Moll
          <p>We calculated various thresholds of mammal sympatry based on percentage of range overlap for each wild species in our database using IUCN shape files for all mammals globally. We define mammal sympatry as the number of mammalian species that overlap with the target species’ geographic range. We calculated mammal sympatry for each wild species in our database at six different thresholds based on the percentage area overlap with the target species geographic range, that is, the number of other wild mammal species with any (&gt;0%),≥20%,≥40%, ≥ 50%,≥ 80%, or 100% range overlap. The six different thresholds for mammal sympatry were included as competing terms in our model selection for the total viral richness models.</p>
          <p>
 We derived and tested several global measures to estimate the level of human contact with each wild species in our database. To estimate the area of host geographic range covered by crops, pastures, rural and urban areas—as measures of global human contact with a given wildlife species—each species polygon was intersected (overlapped) with spatial data representing those land cover types. Additionally,we calculated the total number of people within each host geographic range using data from HYDE database 
+
 56
+
 , and also separately totalled the number of people in rural and urban populations.We obtained data on the distribution of cropland, pastures, rural and urban areas also from the HYDE database 
+
 56
+
 for the years 1970,1980, 1990, 2000 and 2005 with a spatial resolution of 5 × 5 arc minutes, equivalent to 10 km by 10 km at the equator. These datasets were created by combining information from satellite imagery and sub-national crop and pasture statistics 
+
 56
+
 . In our GAMs, we used several transformations of these variables as competing proxies for human–wildlife contact: the log-transformed area of host range that overlapped each type of human-modified land cover, log-transformed human population in the host range, log-transformed human population density in the host range, and the log-ratio of urban and rural human populations in the host range. For each of these, we also included as a variable the change in value from 1970 to 2005. Human–wildlife contact variables that significantly covaried were excluded (set as competing terms) during the model selection process.The ratio of urban to rural human population was used to disentangle variables of human–wildlife contact that significantly covaried. For example, the total area of a species range that overlapped with urban and rural areas was highly correlated with the total geographic area variables we examined (for example, total area, and area in crop, pasture, rural, and urban). The ratio of urban to rural population allowed us to separate these signals and best represent this proxy of per-species human–wildlife contact. All spatial analyses were performed in R (3.3.2) 
+
 51
+
 , using the following R libraries: raster 
+
 57
+
 , rgdal 
+
 58
+
 , and sp 
+
 58
+
 .
 </p>
-         <p>Calculating and visualizing missing viruses and missing zoonoses.
+         <p>
+Calculating and visualizing missing viruses and missing zoonoses.
 Weused each respective best-fit, all-data GAM from the total viral richness and proportion zoonoses models to calculate the estimated number of viruses that would be observed if the research effort variable for each species was equal to that of the most-studied wild species in our database (
-<tp:taxon-name>Vulpes vulpes
+<tp:taxon-name>
+Vulpes vulpes
 </tp:taxon-name>
 with 4,433 total publications and 1,477 disease-related publications).We used the prediction of the total virus richness GAM as the offset for the zoonoses GAM. We then calculated the missing viruses and missing zoonoses by subtracting the observed number of viruses and zoonoses from the predictions based on maximum research for each wild mammalian species.
 </p>
@@ -1192,21 +1528,27 @@ and
 <tp:taxon-name>Scandentia</tp:taxon-name>
 .
 </p>
-         <p>Data availability.
+         <p>
+Data availability.
 All datasets (host traits, viral traits, full list of host–virus associations and associated references, phylogenetic trees, and phylogenetic distance matrices) needed to fully replicate and evaluate these analyses are provided at http://doi.org/10.5281/zenodo.596810. The top-level README.txt file in the directory details the file structure and metadata provided.
 </p>
-         <p>Code availability.
+         <p>
+Code availability.
 All R code and R package dependencies needed to fully replicate and evaluate these analyses are provided at http://doi.org/10.5281/zenodo.596810.
 </p>
       </sec>
       <sec sec-type="reference_group">
          <p>
+
 29. 
 Nunn, C. L.
 &amp; 
-Altizer, S. M.The global mammal parasite database: An online resource for infectious disease records in wild primates
+Altizer, S. M.
+The global mammal parasite database: An online resource for infectious disease records in wild primates
 . 
+
 Evol. Anthropol.
+
 14
 ,
 
@@ -1214,8 +1556,10 @@ Evol. Anthropol.
 (
 2005
 ).
+
 </p>
          <p>
+
 30. 
 Olival,K. J.
 , 
@@ -1227,6 +1571,7 @@ Field, H. E.
 &amp; 
 Daszak, P.
 in 
+
 New Directions in Conservation Medicine: Applied Cases of Ecological Health
 
 (eds 
@@ -1244,8 +1589,10 @@ Oxford University Press
 , 
 2012
 ).
+
 </p>
          <p>
+
 31. 
 Calisher, C. H.
 , 
@@ -1255,9 +1602,12 @@ Field, H. E.
 , 
 Holmes,K. V.
 &amp; 
-Schountz,T.Bats: important reservoir hosts of emerging viruses
+Schountz,T.
+Bats: important reservoir hosts of emerging viruses
 . 
+
 Clin. Microbiol. Rev.
+
 19
 ,
 
@@ -1265,10 +1615,13 @@ Clin. Microbiol. Rev.
 (
 2006
 ).
+
 </p>
          <p>
+
 32. 
-Scherf, B. D.World Watch List for Domestic Animal Diversity.
+Scherf, B. D.
+World Watch List for Domestic Animal Diversity.
 3rd edn
 
 , (
@@ -1276,11 +1629,14 @@ Food and Agriculture Organization of the United Nations
 , 
 2000
 ).
+
 </p>
          <p>
+
 33. 
 IUCN
 . 
+
 The IUCN Red List of Threatened Species.Version 2014.1
 
 , 
@@ -1288,14 +1644,19 @@ http://www. iucnredlist.org
 (
 2014
 ).
+
 </p>
          <p>
+
 34. 
 Epstein,J. H.
 &amp; 
-Price,J. T.The significant but understudied impact of pathogen transmission from humans to animals
+Price,J. T.
+The significant but understudied impact of pathogen transmission from humans to animals
 . 
+
 Mt. Sinai J. Med.
+
 76
 ,
 
@@ -1303,16 +1664,21 @@ Mt. Sinai J. Med.
 (
 2009
 ).
+
 </p>
          <p>
+
 35. 
 Messenger, A. M.
 , 
 Barnes, A. N.
 &amp; 
-Gray,G. C.Reverse zoonotic disease transmission (zooanthroponosis): a systematic review of seldom-documented human biological threats to animals
+Gray,G. C.
+Reverse zoonotic disease transmission (zooanthroponosis): a systematic review of seldom-documented human biological threats to animals
 . 
+
 PLoS One
+
 9
 ,
 
@@ -1321,14 +1687,21 @@ e
 (
 2014
 ).
+
 </p>
          <p>
+
 36. 
 Jones, K. E.
+
 et 
-al.PanTHERIA:a species-level database of life history,ecology, and geography of extant and recently extinct mammals
+al.
+
+PanTHERIA:a species-level database of life history,ecology, and geography of extant and recently extinct mammals
 . 
+
 Ecology
+
 90
 ,
 
@@ -1336,15 +1709,20 @@ Ecology
 (
 2009
 ).
+
 </p>
          <p>
+
 37. 
 de Magalhães,J. P.
 &amp; 
-Costa, J.A database of vertebrate longevity records and their relation to other life-history traits
+Costa, J.
+A database of vertebrate longevity records and their relation to other life-history traits
 . 
+
 J. Evol. Biol
 .
+
 22
 ,
 
@@ -1352,16 +1730,21 @@ J. Evol. Biol
 (
 2009
 ).
+
 </p>
          <p>
+
 38. 
 Cooper, N.
 , 
 Kamilar, J. M.
 &amp; 
-Nunn, C. L.Host longevity and parasite species richness in mammals
+Nunn, C. L.
+Host longevity and parasite species richness in mammals
 . 
+
 PLoS One
+
 7
 ,
 
@@ -1370,12 +1753,17 @@ e
 (
 2012
 ).
+
 </p>
          <p>
+
 39. 
-Felsenstein, J.Phylogenies and the comparative method
+Felsenstein, J.
+Phylogenies and the comparative method
 . 
+
 Am. Nat.
+
 125
 ,
 
@@ -1383,16 +1771,21 @@ Am. Nat.
 (
 1985
 ).
+
 </p>
          <p>
+
 40. 
 Blomberg, S. P.
 , 
 Garland,T., Jr
 &amp; 
-Ives, A.R.Testing for phylogenetic signal in comparative data: behavioral traits are more labile
+Ives, A.R.
+Testing for phylogenetic signal in comparative data: behavioral traits are more labile
 . 
+
 Evolution
+
 57
 ,
 
@@ -1400,12 +1793,17 @@ Evolution
 (
 2003
 ).
+
 </p>
          <p>
+
 41. 
-Grafen,A.The phylogenetic regression
+Grafen,A.
+The phylogenetic regression
 . 
+
 Phil. Trans. R. Soc. Lond. B
+
 326
 ,
 
@@ -1413,14 +1811,21 @@ Phil. Trans. R. Soc. Lond. B
 (
 1989
 ).
+
 </p>
          <p>
+
 42. 
 Diniz-Filho,J. A. F.
+
 et 
-al.On the selection of phylogenetic eigenvectors for ecological analyses
+al.
+
+On the selection of phylogenetic eigenvectors for ecological analyses
 . 
+
 Ecography
+
 35
 ,
 
@@ -1428,16 +1833,21 @@ Ecography
 (
 2012
 ).
+
 </p>
          <p>
+
 43. 
 Diniz-Filho,J. A. F.
 , 
 de Sant’Ana,C. E. R.
 &amp; 
-Bini, L. M.An eigenvector method for estimating phylogenetic inertia
+Bini, L. M.
+An eigenvector method for estimating phylogenetic inertia
 . 
+
 Evolution
+
 52
 ,
 
@@ -1445,14 +1855,21 @@ Evolution
 (
 1998
 ).
+
 </p>
          <p>
+
 44. 
 Bininda-Emonds, O. R. P.
+
 et 
-al.The delayed rise of present-day mammals
+al.
+
+The delayed rise of present-day mammals
 . 
+
 Nature
+
 446
 ,
 
@@ -1460,16 +1877,21 @@ Nature
 (
 2007
 ).
+
 </p>
          <p>
+
 45. 
 Paradis, E.
 , 
 Claude,J.
 &amp; 
-Strimmer,K.APE:analyses of phylogenetics and evolution in R language
+Strimmer,K.
+APE:analyses of phylogenetics and evolution in R language
 . 
+
 Bioinformatics
+
 20
 ,
 
@@ -1477,13 +1899,18 @@ Bioinformatics
 (
 2004
 ).
+
 </p>
          <p>
+
 46. 
-Edgar, R. C.MUSCLE:multiple sequence alignment with high accuracy and high throughput
+Edgar, R. C.
+MUSCLE:multiple sequence alignment with high accuracy and high throughput
 . 
+
 Nucleic Acids Res
 .
+
 32
 ,
 
@@ -1491,16 +1918,21 @@ Nucleic Acids Res
 (
 2004
 ).
+
 </p>
          <p>
+
 47. 
 Stamatakis,A.
 , 
 Hoover, P.
 &amp; 
-Rougemont, J.A rapid bootstrap algorithm for the RAxML Web servers
+Rougemont, J.
+A rapid bootstrap algorithm for the RAxML Web servers
 . 
+
 Syst.Biol.
+
 57
 ,
 
@@ -1508,14 +1940,19 @@ Syst.Biol.
 (
 2008
 ).
+
 </p>
          <p>
+
 48. 
 Cuthill,J. H.
 &amp; 
-Charleston, M. A.A simple model explains the dynamics of preferential host switching among mammal RNA viruses
+Charleston, M. A.
+A simple model explains the dynamics of preferential host switching among mammal RNA viruses
 . 
+
 Evolution
+
 67
 ,
 
@@ -1523,16 +1960,21 @@ Evolution
 (
 2013
 ).
+
 </p>
          <p>
+
 49. 
 Poulin, R.
 , 
 Krasnov, B. R.
 &amp; 
-Mouillot, D.Host specificity in phylogenetic and geographic space
+Mouillot, D.
+Host specificity in phylogenetic and geographic space
 . 
+
 Trends Parasitol.
+
 27
 ,
 
@@ -1540,14 +1982,19 @@ Trends Parasitol.
 (
 2011
 ).
+
 </p>
          <p>
+
 50. 
 Poulin, R.
 &amp; 
-Mouillot,D.Parasite specialization from a phylogenetic perspective: a new index of host specificity
+Mouillot,D.
+Parasite specialization from a phylogenetic perspective: a new index of host specificity
 . 
+
 Parasitology
+
 126
 ,
 
@@ -1555,10 +2002,13 @@ Parasitology
 (
 2003
 ).
+
 </p>
          <p>
+
 51. 
-R Core TeamR: A language and environment for statistical computing
+R Core Team
+R: A language and environment for statistical computing
 . 
 R Foundation for Statistical Computing, Vienna,Austria
 . 
@@ -1566,14 +2016,19 @@ http://www.R-project. org/
 (
 2014
 ).
+
 </p>
          <p>
+
 52. 
 Marra,G.
 &amp; 
-Wood,S. N.Practical variable selection for generalized additive models
+Wood,S. N.
+Practical variable selection for generalized additive models
 . 
+
 Comput. Stat.Data Anal.
+
 55
 ,
 
@@ -1581,10 +2036,13 @@ Comput. Stat.Data Anal.
 (
 2011
 ).
+
 </p>
          <p>
+
 53. 
 Pawitan,Y.
+
 In 
 All Likelihood: Statistical Modelling and Inference Using Likelihood.
 
@@ -1593,14 +2051,21 @@ Oxford University Press
 , 
 2001
 ).
+
 </p>
          <p>
+
 54. 
 Holt, B. G.
+
 et 
-al.An update of Wallace’s zoogeographic regions of the world
+al.
+
+An update of Wallace’s zoogeographic regions of the world
 . 
+
 Science
+
 339
 ,
 
@@ -1608,17 +2073,22 @@ Science
 (
 2013
 ).
+
 </p>
          <p>
+
 55. 
 QGIS Geographic Information System
 . 
-Open Source Geospatial Foundation Projecthttp://www.qgis.org/
+Open Source Geospatial Foundation Project
+http://www.qgis.org/
 (
 2016
 ).
+
 </p>
          <p>
+
 56. 
 Goldewijk, K. K.
 , 
@@ -1626,10 +2096,13 @@ Beusen, A.
 , 
 van Drecht, G.
 &amp; 
-de Vos, M.The HYDE 3.1 spatially explicit database of human-induced global land-use change over the past 12,000 years
+de Vos, M.
+The HYDE 3.1 spatially explicit database of human-induced global land-use change over the past 12,000 years
 . 
+
 Glob. Ecol. Biogeogr
 .
+
 20
 ,
 
@@ -1637,86 +2110,221 @@ Glob. Ecol. Biogeogr
 (
 2011
 ).
+
 </p>
          <p>
+
 57. 
-raster: Geographic Data Analysis and Modeling version 2.3-40https:// cran.r-project.org/package=raster
+raster: Geographic Data Analysis and Modeling version 2.3-40
+https:// cran.r-project.org/package=raster
 (
 2015
 ).
+
 </p>
          <p>
+
 58. 
-sp: Classes and Methods for Spatial Data version 1.2-1https://cran.r-project. org/package=sp
+sp: Classes and Methods for Spatial Data version 1.2-1
+https://cran.r-project. org/package=sp
 (
 2015
 ).
+
 </p>
       </sec>
       <p>
+
 Extended Data 
 
 |
 
 See next page for caption.
 </p>
-      <p>Term
+      <p>
+Term
+
 Value
+
 Z statistic
+
 Chi-sq statistic
+
 P-value
+
 Effective Degrees of Freedom
+
 Total Dev. Explained
+
 Relative Dev. Explained
+
 Total Viral Richness Model (all data, n=576 species)
+
 49.2%
-Intercept0.527.43&lt;0.001
-Disease-related publications (log)1846.57&lt;0.001
-5.5564.8%Mammal sympatry (&gt;20% range overlap)301.38&lt;0.001
-5.1610.1%
+
+Intercept
+0.52
+7.43
+&lt;0.001
+
+Disease-related publications (log)
+1846.57
+&lt;0.001
+
+5.55
+64.8%
+Mammal sympatry (&gt;20% range overlap)
+301.38
+&lt;0.001
+
+5.16
+10.1%
+
 Order 
-<tp:taxon-name>CHIROPTERA</tp:taxon-name>155.12&lt;0.001
-19.9%
+<tp:taxon-name>CHIROPTERA</tp:taxon-name>
+155.12
+&lt;0.001
+
+1
+9.9%
+
 Order 
-<tp:taxon-name>RODENTIA</tp:taxon-name>95.49&lt;0.001
-14.8%
+<tp:taxon-name>RODENTIA</tp:taxon-name>
+95.49
+&lt;0.001
+
+1
+4.8%
+
 Order 
-<tp:taxon-name>PRIMATES</tp:taxon-name>34.4&lt;0.001
-0.942.5%Phylogenetically-corrected body mass216.420.009
-3.821.9%
+<tp:taxon-name>PRIMATES</tp:taxon-name>
+34.4
+&lt;0.001
+
+0.94
+2.5%
+Phylogenetically-corrected body mass
+216.42
+0.009
+
+3.82
+1.9%
+
 Order 
-<tp:taxon-name>CETARTIODACTYLA</tp:taxon-name>24.37&lt;0.001
-0.941.8%Geographic range (log)18.930.025
-3.581.6%
+<tp:taxon-name>CETARTIODACTYLA</tp:taxon-name>
+24.37
+&lt;0.001
+
+0.94
+1.8%
+Geographic range (log)
+18.93
+0.025
+
+3.58
+1.6%
+
 Order 
-<tp:taxon-name>PERISSODACTYLA</tp:taxon-name>9.950.001
-11.4%
+<tp:taxon-name>PERISSODACTYLA</tp:taxon-name>
+9.95
+0.001
+
+1
+1.4%
+
 Order 
-<tp:taxon-name>EULIPOTYPHLA</tp:taxon-name>5.870.009
-0.851.1%Total Viral Richness Model (stringent data, n=575 species)
+<tp:taxon-name>EULIPOTYPHLA</tp:taxon-name>
+5.87
+0.009
+
+0.85
+1.1%
+Total Viral Richness Model (stringent data, n=575 species)
+
 35.8%
-Intercept-0.47-5.31&lt;0.001
-Disease-related publications (log)923.02&lt;0.001
-4.9853.6%
+
+Intercept
+-0.47
+-5.31
+&lt;0.001
+
+Disease-related publications (log)
+923.02
+&lt;0.001
+
+4.98
+53.6%
+
 Order 
-<tp:taxon-name>RODENTIA</tp:taxon-name>129.28&lt;0.001
-0.9812.6%
+<tp:taxon-name>RODENTIA</tp:taxon-name>
+129.28
+&lt;0.001
+
+0.98
+12.6%
+
 Order 
-<tp:taxon-name>CHIROPTERA</tp:taxon-name>109.23&lt;0.001
-112.2%
+<tp:taxon-name>CHIROPTERA</tp:taxon-name>
+109.23
+&lt;0.001
+
+1
+12.2%
+
 Order 
-<tp:taxon-name>PRIMATES</tp:taxon-name>85.12&lt;0.001
-111.8%Mammal sympatry (&gt;20% range overlap)44.96&lt;0.001
-4.693.9%Phylogenetically-corrected body mass9.650.036
-3.512.8%Geographic range (log)11.140.0792.661.5%
+<tp:taxon-name>PRIMATES</tp:taxon-name>
+85.12
+&lt;0.001
+
+1
+11.8%
+Mammal sympatry (&gt;20% range overlap)
+44.96
+&lt;0.001
+
+4.69
+3.9%
+Phylogenetically-corrected body mass
+9.65
+0.036
+
+3.51
+2.8%
+Geographic range (log)
+11.14
+0.079
+2.66
+1.5%
+
 Order 
-<tp:taxon-name>CINGULATA</tp:taxon-name>0.870.2860.760.6%
+<tp:taxon-name>CINGULATA</tp:taxon-name>
+0.87
+0.286
+0.76
+0.6%
+
 Order 
-<tp:taxon-name>EULIPOTYPHLA</tp:taxon-name>1.210.1510.590.4%
+<tp:taxon-name>EULIPOTYPHLA</tp:taxon-name>
+1.21
+0.151
+0.59
+0.4%
+
 Order 
-<tp:taxon-name>PERAMELEMORPHIA</tp:taxon-name>0.740.3070.70.4%
+<tp:taxon-name>PERAMELEMORPHIA</tp:taxon-name>
+0.74
+0.307
+0.7
+0.4%
+
 Order 
-<tp:taxon-name>SCANDENTIA</tp:taxon-name>0.940.130.410.3%Proportion Zoonoses Model (all data, n=584 species)
+<tp:taxon-name>SCANDENTIA</tp:taxon-name>
+0.94
+0.13
+0.41
+0.3%
+Proportion Zoonoses Model (all data, n=584 species)
+
 82.0%
 (
 number
@@ -1725,65 +2333,244 @@ of zoonoses)
 (
 proportion
 , w/offset)
-Intercept-0.34-8.57&lt;0.001
+
+Intercept
+-0.34
+-8.57
+&lt;0.001
+
 
 Order 
-<tp:taxon-name>CETARTIODACTYLA</tp:taxon-name>27&lt;0.001
-0.8836.3%Phylog. dist. from humans (log, cytb tree)12.70.002
-1.8817.0%Urban to rural human population ratio in species range (log)10.010.002
-1.2513.0%Disease-related publications (log)5.810.017
-1.27.7%
+<tp:taxon-name>CETARTIODACTYLA</tp:taxon-name>
+27
+&lt;0.001
+
+0.88
+36.3%
+Phylog. dist. from humans (log, cytb tree)
+12.7
+0.002
+
+1.88
+17.0%
+Urban to rural human population ratio in species range (log)
+10.01
+0.002
+
+1.25
+13.0%
+Disease-related publications (log)
+5.81
+0.017
+
+1.2
+7.7%
+
 Order 
-<tp:taxon-name>CHIROPTERA</tp:taxon-name>4.430.015
-0.716.5%
+<tp:taxon-name>CHIROPTERA</tp:taxon-name>
+4.43
+0.015
+
+0.71
+6.5%
+
 Order 
-<tp:taxon-name>PERISSODACTYLA</tp:taxon-name>3.280.039
-0.766.4%
+<tp:taxon-name>PERISSODACTYLA</tp:taxon-name>
+3.28
+0.039
+
+0.76
+6.4%
+
 Order 
-<tp:taxon-name>SCANDENTIA</tp:taxon-name>0.810.3110.795.3%
+<tp:taxon-name>SCANDENTIA</tp:taxon-name>
+0.81
+0.311
+0.79
+5.3%
+
 Order 
-<tp:taxon-name>PERAMELEMORPHIA</tp:taxon-name>0.760.3230.784.8%
+<tp:taxon-name>PERAMELEMORPHIA</tp:taxon-name>
+0.76
+0.323
+0.78
+4.8%
+
 Order 
-<tp:taxon-name>DIPROTODONTIA</tp:taxon-name>0.720.1940.431.7%Hunted species, IUCN0.750.1670.361.3%Proportion Zoonoses Model (stringent data, n=576 species)
+<tp:taxon-name>DIPROTODONTIA</tp:taxon-name>
+0.72
+0.194
+0.43
+1.7%
+Hunted species, IUCN
+0.75
+0.167
+0.36
+1.3%
+Proportion Zoonoses Model (stringent data, n=576 species)
+
 23.6%
-Intercept-1.35-22.66&lt;0.001
-Phylog. dist. from humans (log, cytb tree)56.13&lt;0.001
-2.3634.5%
+
+Intercept
+-1.35
+-22.66
+&lt;0.001
+
+Phylog. dist. from humans (log, cytb tree)
+56.13
+&lt;0.001
+
+2.36
+34.5%
+
 Order 
-<tp:taxon-name>CETARTIODACTYLA</tp:taxon-name>22.93&lt;0.001
-0.9428.0%Urban to rural human population ratio change, 1970-200516.880.002
-4.0519.6%
+<tp:taxon-name>CETARTIODACTYLA</tp:taxon-name>
+22.93
+&lt;0.001
+
+0.94
+28.0%
+Urban to rural human population ratio change, 1970-2005
+16.88
+0.002
+
+4.05
+19.6%
+
 Order 
-<tp:taxon-name>PERISSODACTYLA</tp:taxon-name>0.860.3080.835.0%Change in human population density in range, 1970-20053.160.1321.474.3%Disease-related publications (log)5.030.014
-1.213.8%
+<tp:taxon-name>PERISSODACTYLA</tp:taxon-name>
+0.86
+0.308
+0.83
+5.0%
+Change in human population density in range, 1970-2005
+3.16
+0.132
+1.47
+4.3%
+Disease-related publications (log)
+5.03
+0.014
+
+1.21
+3.8%
+
 Order 
-<tp:taxon-name>DIPROTODONTIA</tp:taxon-name>2.390.0660.712.8%Phylogenetically-corrected body mass0.120.2940.121.1%
+<tp:taxon-name>DIPROTODONTIA</tp:taxon-name>
+2.39
+0.066
+0.71
+2.8%
+Phylogenetically-corrected body mass
+0.12
+0.294
+0.12
+1.1%
+
 Order 
-<tp:taxon-name>LAGOMORPHA</tp:taxon-name>0.70.1960.420.9%
+<tp:taxon-name>LAGOMORPHA</tp:taxon-name>
+0.7
+0.196
+0.42
+0.9%
+
 Order 
-<tp:taxon-name>PRIMATES</tp:taxon-name>0.620.0970.280.1%Viral Traits Model (all data, n=464 viruses)
+<tp:taxon-name>PRIMATES</tp:taxon-name>
+0.62
+0.097
+0.28
+0.1%
+Viral Traits Model (all data, n=464 viruses)
+
 27.2%
-Intercept-1.59-5.69&lt;0.001
-Max phylogenetic host breadth w/out humans, (log, cytb tree)44.91&lt;0.001
-2.9445.6%Number of publications (log)35.83&lt;0.001
-3.2837.4%Cytoplasmic replication10.96&lt;0.001
-0.869.2%Vector-borne4.90.014
-0.754.6%Envelope0.880.1660.462.3%Average genome length (log)0.120.2660.090.9%Viral Traits Model (stringent data, n=408 viruses)
+
+Intercept
+-1.59
+-5.69
+&lt;0.001
+
+Max phylogenetic host breadth w/out humans, (log, cytb tree)
+44.91
+&lt;0.001
+
+2.94
+45.6%
+Number of publications (log)
+35.83
+&lt;0.001
+
+3.28
+37.4%
+Cytoplasmic replication
+10.96
+&lt;0.001
+
+0.86
+9.2%
+Vector-borne
+4.9
+0.014
+
+0.75
+4.6%
+Envelope
+0.88
+0.166
+0.46
+2.3%
+Average genome length (log)
+0.12
+0.266
+0.09
+0.9%
+Viral Traits Model (stringent data, n=408 viruses)
+
 21.1%
-Intercept-2.23-7.51&lt;0.001
-Number of publications (log)29.51&lt;0.001
-2.6453.1%Max phylogenetic host breadth w/out humans, (log, cytb tree)15.75&lt;0.001
-2.5325.5%Cytoplasmic replication10.330.001
-0.8817.5%Vector-borne1.870.0850.63.9%</p>
-      <p>Models were selected separately using the entire dataset and a stringent dataset that excluded host–virus associations detected by serology. Variables are sorted by relative per cent deviance explained with in each model.</p>
-      <p>ERRATUM
+
+Intercept
+-2.23
+-7.51
+&lt;0.001
+
+Number of publications (log)
+29.51
+&lt;0.001
+
+2.64
+53.1%
+Max phylogenetic host breadth w/out humans, (log, cytb tree)
+15.75
+&lt;0.001
+
+2.53
+25.5%
+Cytoplasmic replication
+10.33
+0.001
+
+0.88
+17.5%
+Vector-borne
+1.87
+0.085
+0.6
+3.9%
+</p>
+      <p>
+Models were selected separately using the entire dataset and a stringent dataset that excluded host–virus associations detected by serology. Variables are sorted by relative per cent deviance explained with in each model.
+</p>
+      <p>
+ERRATUM
+
 </p>
       <p>doi:10.1038/nature23660</p>
-      <p>Erratum: Host and viral traits predict zoonotic spillover from mammals
+      <p>
+Erratum: Host and viral traits predict zoonotic spillover from mammals
 </p>
       <p>Kevin J. Olival, Parviez R. Hosseini, Carlos Zambrana-Torrelio,</p>
       <p>Noam Ross, Tiffany L. Bogich &amp; Peter Daszak</p>
-      <p>Nature
+      <p>
+Nature
 546,
 646–650 (2017); doi:10.1038/nature22975
 </p>

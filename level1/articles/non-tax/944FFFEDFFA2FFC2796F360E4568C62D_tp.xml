@@ -16,16 +16,25 @@
    </front>
    <body>
       <sec sec-type="document_head">
-         <title>Analysis of biodiversity data suggests that mammal species are hidden in predictable places</title>
-         <p>Danielle J. Parsonsa,b
+         <title>
+Analysis of biodiversity data suggests that mammal species are hidden in predictable places
+</title>
+         <p>
+Danielle J. Parsons
+a,b
 , 
-Tara A. Pelletierc
+Tara A. Pelletier
+c
 , 
-Jamin G. Wieringab,d
+Jamin G. Wieringa
+b,d
 , 
-Drew J. Ducketta,b
+Drew J. Duckett
+a,b
 , and 
-Bryan C. Carstensa,b,1</p>
+Bryan C. Carstens
+a,b,1
+</p>
          <p>
 Edited by Robert Pringle, Princeton University, Princeton, NJ; received February 19, 2021; accepted February 
 14
@@ -35,10 +44,20 @@ by Editorial Board Member Simon A. Levin
 </p>
       </sec>
       <sec sec-type="abstract">
-         <p>Research in the biological sciences is hampered by the Linnean shortfall, which describes the number of hidden species that are suspected of existing without formal species description. Using machine learning and species delimitation methods, we built a predictive model that incorporates some 5.0 × 10
-5data points for 117 species traits, 3.3 × 10
-6occurrence records, and 9.1 × 10
+         <p>
+Research in the biological sciences is hampered by the Linnean shortfall, which describes the number of hidden species that are suspected of existing without formal species description. Using machine learning and species delimitation methods, we built a predictive model that incorporates some 5.0 × 10
+
 5
+
+data points for 117 species traits, 3.3 × 10
+
+6
+
+occurrence records, and 9.1 × 10
+
+5
+
+
 gene sequences from 4,310 recognized species of mammals. Delimitation results suggest that there are hundreds of undescribed species in class 
 <tp:taxon-name>Mammalia</tp:taxon-name>
 . Predictive modeling indicates that most of these hidden species will be found in small-bodied taxa with large ranges characterized by high variability in temperature and precipitation. As demonstrated by a quantitative analysis of the literature, such taxa have long been the focus of taxonomic research. This analysis supports taxonomic hypotheses regarding where undescribed diversity is likely to be found and highlights the need for investment in taxonomic research to overcome the Linnean shortfall.
@@ -60,9 +79,11 @@ class
          </p>
       </sec>
       <sec sec-type="multiple">
-         <title>Signi
+         <title>
+Signi
 fi 
 cance
+
 </title>
          <p>
 Only an estimated 1 to 10% of Earth 
@@ -133,9 +154,12 @@ The results of our predictive analysis potentially have broad implications. For 
 </p>
       </sec>
       <sec sec-type="results">
-         <title>Results
+         <title>
+Results
+
 </title>
-         <p>Dataset.
+         <p>
+Dataset.
 We compiled a global dataset of mammalian barcoding gene sequences, occurrence records, and species traits (
 
 ). A total of 90,759 DNA sequences from the cytochrome oxidase subunit I (COI) and cytochrome 
@@ -144,7 +168,8 @@ b
 17
 ). For all recognized mammal species, we compiled a database of 117 variables, each potentially predictive of hidden species, generated from geographic, environmental, life history, and taxonomic information available on public databases (Dataset S3). We also collected ∼3.3 million global positioning system coordinates from recorded geographic occurrences in order to obtain environmental, climatic, and geographic data for all recognized mammalian species.
 </p>
-         <p>Species Delimitation.
+         <p>
+Species Delimitation.
 To identify recognized species that potentially contain hidden diversity, we generated DNA sequence alignments for each family in class 
 <tp:taxon-name>Mammalia</tp:taxon-name>
 , determined the optimal model of sequence evolution for each alignment, and performed two methods of automated species delimitation, one based on genetic distance (automated barcode gap discovery [ABGD]) (
@@ -173,10 +198,12 @@ SI Appendix
 
 ) as well as earlier predictions as to which clades were most expected to contain large numbers of undescribed species (e.g., refs. 9–11) (see Dataset S5 for sequence divergence results). While the number of hidden species predicted by our delimitation analyses are congruent with the magnitude of earlier estimates of the number of undescribed mammal species (e.g., refs. 9–11), our delimitation analysis represents the most comprehensive exploration of this question to date.
 </p>
-         <p>Fig. 1.
+         <p>
+Fig. 1.
 Predictive modeling workflow. The framework proposed for identifying named mammal species that are likely to contain hidden diversity utilizes barcoding gene sequences and machine learning models built from environmental, geographic, climatic, taxonomic, and life history variables.
 </p>
-         <p>Fig. 2.
+         <p>
+Fig. 2.
 Scope of the dataset. Genetic sequences for ∼70% of currently recognized mammalian species were obtained. All mammalian orders are represented, with 23 orders containing sequences from both COI and cytb and 4 having only sequences from cytb. (
 A
 ) Circle plots reflect species representation for the COI and cytb genes in each order. Dark bars represent the species present in the dataset and light bars represent species for which no genetic data are available. (
@@ -185,7 +212,8 @@ B
 C
 ) A total of 3,205,630 geographic occurrence records were obtained for species present in the genetic database.
 </p>
-         <p>Predictors of Hidden Diversity in Mammals.
+         <p>
+Predictors of Hidden Diversity in Mammals.
 The uneven distribution of hidden diversity indicated by our delimitation results implies that it may be possible to predict which clades harbor hidden species. To accomplish this goal, random forest classification was utilized to develop a predictive model using the geographic, environmental, morphological, taxonomic, and life history traits as predictive variables. For each random forest analysis, we used 80% of our data to train the model and reserved the remaining 20% as a test set to evaluate prediction accuracy of the resulting model. The random forest analysis based on this consensus estimate was able to predict hidden species of mammals with
 &gt;
 80% accuracy (
@@ -207,12 +235,16 @@ to 378,072 km
 </p>
       </sec>
       <sec sec-type="discussion">
-         <title>Discussion
+         <title>
+Discussion
+
 </title>
-         <p>Predictors of Hidden Species in Mammals.
+         <p>
+Predictors of Hidden Species in Mammals.
 As products of natural selection acting over thousands of generations, organismal traits are vitally important to taxonomic classification. However, we found that such traits are generally not predictive of hidden diversity in mammals. The notable exception is body mass, as hidden species are significantly more likely to be found in smaller-bodied taxa than larger-bodied taxa (Kruskal–Wallis test; 
 Χ
-2=
+2
+=
 49.18; 
 P =
 2.3 
@@ -225,7 +257,8 @@ P =
 
 ). Hidden species are more likely to be found in recognized taxa with large ranges than those with small ranges (Kruskal–Wallis test; 
 Χ
-2=
+2
+=
 98.35; 
 P &lt;
 2.2 
@@ -238,7 +271,8 @@ SI Appendix
 SI Appendix
 , Fig. S5).
 </p>
-         <p>Fig. 3.
+         <p>
+Fig. 3.
 Consensus results of species delimitation analyses. Phylogenetic distribution of hidden diversity estimated from strict consensus of delimitation results (
 SI Appendix
 , Table S1). Each silhouette represents a mammalian order with its shadow reflecting the ratio of predicted species to recognized species. Striped silhouettes represent orders with conflicting delimitation results that were not included in the predictive analysis. Phylogeny was adapted from ref. 31.
@@ -248,14 +282,16 @@ In addition to the organismal trait and climatic variables, two variables associ
 9
 ). Although our results are consistent with earlier efforts (e.g., refs. 11, 17), they provide quantitative evidence that taxonomists are actively researching the clades where undescribed species are likely to be found.
 </p>
-         <p>Broader Implications.
+         <p>
+Broader Implications.
 The identification of sampling effort variables as predictive has broad implications beyond class 
 <tp:taxon-name>Mammalia</tp:taxon-name>
 . An accurate implementation of the random forest algorithm for machine learning requires that observations are balanced across the response variables (i.e., here that there is a substantial proportion of recognized taxa that contain and do not contain hidden species). Since mammals are a well-studied clade, there exist sufficient data in public databases to conduct this analysis and to build a predictive model with high accuracy. However, we know of no reason to think that the taxonomists working in class 
 <tp:taxon-name>Mammalia</tp:taxon-name>
 are outliers in terms of their abilities to identify and describe species. Rather, we suspect that there have been more taxonomists working in mammals in proportion to the actual species diversity in the clade than in hyperdiverse clades such as beetles or mites.
 </p>
-         <p>Fig. 4.
+         <p>
+Fig. 4.
 Important predictors of hidden species in mammals. (
 A
 ) From 
@@ -330,7 +366,8 @@ The delimitation methods used here rely on genetic species concepts that are bas
 5
 ). The predictive modeling approach developed here is not intended to replace traditional species description, which requires considerable expertise, but to aid in such efforts by identifying clades where such work is most needed.
 </p>
-         <p>Conclusions.
+         <p>
+Conclusions.
 Our work supports published syntheses, which suggest that many mammal species are undescribed (
 9
 – 
@@ -363,9 +400,12 @@ has historically received a disproportionate amount of taxonomic effort relative
 </p>
       </sec>
       <sec sec-type="materials_methods">
-         <title>Materials and Methods
+         <title>
+Materials and Methods
+
 </title>
-         <p>Genetic Data Acquisition and Record Processing.
+         <p>
+Genetic Data Acquisition and Record Processing.
 We downloaded all available mammalian DNA sequences for the mitochondrial genes cytochrome-c oxidase I (COI) and cytochrome-b (cytb) from the NIH genetic sequence database, GenBank, after which we followed the basic genetic preprocessing pipeline outlined by Upham et al. (
 32
 ). For each gene, we grouped sequences by species and then manually checked all species records for errors (e.g., subspecies, duplicates, extinct species, etc.; see 
@@ -376,7 +416,8 @@ for initial data processing pipeline). To ensure standardization across groups, 
 17
 ) (Dataset S1 for MDD taxonomy and Datasets S2 and S3 for list of taxonomic updates).
 </p>
-         <p>Multiple Sequence Alignment and Sequence Evolution Models.
+         <p>
+Multiple Sequence Alignment and Sequence Evolution Models.
 Following taxonomic standardization, we grouped sequence records for each gene by family and generated multiple sequence alignments for COI and cytb independently using MUSCLE v3.5 (
 33
 ). We then visually inspected each family-level alignment for gaps and removed problematic sequences causing severe gaps or misalignment that could not be resolved through reverse complement or manual correction. In order to maximize downstream computational efficiency, we trimmed sequence ends that contained no variation and split alignments containing over 2,000 sequences into subgroups of related taxa using high-level taxonomy (i.e., subfamily, tribe, genus; see 
@@ -385,7 +426,8 @@ SI Appendix
 34
 ).
 </p>
-         <p>Species Delimitation and Hidden Species Estimation.
+         <p>
+Species Delimitation and Hidden Species Estimation.
 We used two different methods of species delimitation to estimate levels of hidden diversity within groups of phylogenetically related mammals. Species delimitation was first done using a likelihood-based method under the GMYC (
 15
 ). We generated maximum clade credibility trees for each alignment using BEASTv2.5.0 (
@@ -408,7 +450,8 @@ R package (
 SI Appendix
 .
 </p>
-         <p>Predictor variables
+         <p>
+Predictor variables
 . For each recognized species, we explored a large number of geographic, environmental, morphological, sampling effort, and life history variables to determine whether any of these traits could be used to predict the presence of hidden diversity in mammals. We first downloaded all geographic coordinates for class 
 <tp:taxon-name>Mammalia</tp:taxon-name>
 from the Global Biodiversity Information Facility (GBIF) (see Dataset S6 for a list of GBIF DOIs) and used these to extract data from several geographic information system (GIS) layers, including elevation (
@@ -463,8 +506,10 @@ wosr
 SI Appendix
 .
 </p>
-         <p>Predictive Modeling and Variable Importance.
+         <p>
+Predictive Modeling and Variable Importance.
 Machine learning was used to identify traits that predict the presence of hidden lineages within currently recognized species. We used random forest analysis, an approach that utilizes multiple decision trees to predict the response (presence or absence of hidden diversity) based on many potential predictor variables (
+
 16
 , 
 18
@@ -474,16 +519,19 @@ Machine learning was used to identify traits that predict the presence of hidden
 caret 
 ”
 (
+
 53
 
 ) to build a random forest classification model for each of our four delimitation results (ABGD COI, ABGD cytb, GMYC COI, and GMYC cytb) as well as our strict consensus model. We explored each random forest model using a series of the independent variables mentioned above (see Dataset S3 for a list of variables used in final machine learning models). For each analysis we generated 1,000 decision trees, using 80% of our data as a training set and reserving the remaining 20% as a test set to evaluate prediction accuracy of the resulting model. Within each model, we used 10-fold cross-validation with five repeats to tune the parameter mtry, the number of variables randomly sampled as candidates at each split, by optimizing model specificity, sensitivity, and area under the receiver operating characteristic curve. The optimal mtry value was then used to generate the final model, from which variable importance measurements (MDA and Gini) were extracted (Dataset S6). We then applied this model to the remaining test set data to evaluate model accuracy, positive predictive value, negative predictive value, and model error.
 </p>
-         <p>Data Availability.
+         <p>
+Data Availability.
 Genetic and geographic data have been deposited in Dryad (https://doi.org/10.5061/dryad.b2rbnzshp). Code related to this manuscript, including DNA sequence alignments, analysis files, trait data, and machine learning input files have been deposited in GitHub (https://github.com/ parsons463/HiddenDiversity). All other data are available in the manuscript and/ or supporting information.
 </p>
       </sec>
       <sec sec-type="acknowledgments">
-         <p>ACKNOWLEDGMENTS.
+         <p>
+ACKNOWLEDGMENTS.
 We thank Carl von Linnéand all taxonomists who have worked to describe biological diversity. We thank L. N. Barrow, E. M. Fonseca, F. M. Lanna, M. L. Smith, M. C. T. Thoḿe, T. Yuri, R. Norris, H. Klompen, M. Daly, and J. Freudenstein for their discussion of this work. We thank editors and reviewers for their comments, which improved this manuscript. Support for this work was provided by the NSF (DBI-1661029 and DBI-1910623 to B.C.C. and DBI-1911293 to T.A.P.) and the Ohio Supercomputing Center (PAA1174).
 </p>
          <p>
@@ -500,9 +548,11 @@ Department of Evolution, Ecology, and Organismal Biology, School of Environment 
       </sec>
       <sec sec-type="reference_group">
          <p>
+
 1. 
 F.E.Zachos
 , 
+
 Species Concepts in Biology: Historical Development,Theoretical Foundations and Practical Relevance
 
 (
@@ -510,8 +560,10 @@ Springer US
 , 
 2016
 ).
+
 </p>
          <p>
+
 2. 
 V.H.Heywood
 , 
@@ -526,8 +578,10 @@ Cambridge University Press,Cambridge;New York
 , 
 1995
 ).
+
 </p>
          <p>
+
 3. 
 M.J.Costello
 , 
@@ -539,7 +593,9 @@ N.E.Stork
 Can we name Earth 
 ’
 s species before they go extinct?
+
 Science
+
 339
 
 , 
@@ -551,17 +607,22 @@ Science
 (
 2013
 ).
+
 </p>
          <p>
+
 4. 
 D.Bickford
+
 et 
 al.
 
 , 
 Cryptic species as a window on diversity and conservation
 . 
+
 Trends Ecol.Evol.
+
 22
 
 , 
@@ -573,8 +634,10 @@ Trends Ecol.Evol.
 (
 2007
 ).
+
 </p>
          <p>
+
 5. 
 B.C.Carstens
 , 
@@ -586,7 +649,9 @@ J.D.Satler
 , 
 How to fail at species delimitation
 . 
+
 Mol.Ecol.
+
 22
 
 , 
@@ -598,8 +663,10 @@ Mol.Ecol.
 (
 2013
 ).
+
 </p>
          <p>
+
 6. 
 M.Pfenninger
 , 
@@ -607,7 +674,9 @@ K.Schwenk
 , 
 Cryptic animal species are homogeneously distributed among taxa and biogeographical regions
 . 
+
 BMC Evol.Biol.
+
 7
 
 , 
@@ -615,8 +684,10 @@ BMC Evol.Biol.
 (
 2007
 ).
+
 </p>
          <p>
+
 7. 
 G.Ceballos
 , 
@@ -624,7 +695,9 @@ P.R.Ehrlich
 , 
 Discoveries of new mammal species and their implications for conservation and ecosystem services
 . 
+
 Proc.Natl.Acad.Sci.U.S.A.
+
 106
 
 , 
@@ -636,8 +709,10 @@ Proc.Natl.Acad.Sci.U.S.A.
 (
 2009
 ).
+
 </p>
          <p>
+
 8. 
 M.A.Titley
 , 
@@ -647,7 +722,9 @@ E.C.Turner
 , 
 Scientific research on animal biodiversity is systematically biased towards vertebrates and temperate regions
 . 
+
 PLoS One
+
 12
 
 , e 
@@ -655,8 +732,10 @@ PLoS One
 (
 2017
 ).
+
 </p>
          <p>
+
 9. 
 D.M.Reeder
 , 
@@ -666,7 +745,9 @@ D.E.Wilson
 , 
 Global trends and biases in new mammal species discoveries
 . 
+
 Occas.Pap.Mus.Texas Tech Univ.
+
 269
 
 , 
@@ -678,8 +759,10 @@ Occas.Pap.Mus.Texas Tech Univ.
 (
 2007
 ).
+
 </p>
          <p>
+
 10. 
 C.J.Burgin
 , 
@@ -689,7 +772,9 @@ P.L.Kahn
 , 
 N.S.Upham
 , 
-How many species of mammals are there?J. Mammal.
+How many species of mammals are there?
+J. Mammal.
+
 99
 
 , 
@@ -701,8 +786,10 @@ How many species of mammals are there?J. Mammal.
 (
 2018
 ).
+
 </p>
          <p>
+
 11. 
 R.J.Baker
 , 
@@ -710,7 +797,9 @@ R.D.Bradley
 , 
 Speciation in mammals and the genetic species concept
 . 
+
 J.Mammal.
+
 87
 
 , 
@@ -722,8 +811,10 @@ J.Mammal.
 (
 2006
 ).
+
 </p>
          <p>
+
 12. 
 R.Poulin
 , 
@@ -731,7 +822,9 @@ G.Ṕerez-Ponce de Léon
 , 
 Global analysis reveals that cryptic diversity is linked with habitat but not mode of life
 . 
+
 J.Evol.Biol.
+
 30
 
 , 
@@ -743,17 +836,22 @@ J.Evol.Biol.
 (
 2017
 ).
+
 </p>
          <p>
+
 13. 
 B.Sidlauskas
+
 et 
 al.
 
 , 
 Linking big:The continuing promise of evolutionary synthesis
 . 
+
 Evolution
+
 64
 
 , 
@@ -765,8 +863,10 @@ Evolution
 (
 2010
 ).
+
 </p>
          <p>
+
 14. 
 N.Puillandre
 , 
@@ -778,7 +878,9 @@ G.Achaz
 , 
 ABGD,Automatic Barcode Gap Discovery for primary species delimitation
 . 
+
 Mol.Ecol.
+
 21
 
 , 
@@ -790,17 +892,22 @@ Mol.Ecol.
 (
 2012
 ).
+
 </p>
          <p>
+
 15. 
 J.Pons
+
 et 
 al.
 
 , 
 Sequence-based species delimitation for the DNA taxonomy of undescribed insects
 . 
+
 Syst.Biol.
+
 55
 
 , 
@@ -812,14 +919,18 @@ Syst.Biol.
 (
 2006
 ).
+
 </p>
          <p>
+
 16. 
 L.Breiman
 , 
 Random forests
 . 
+
 Mach.Learn.
+
 45
 
 , 
@@ -831,8 +942,10 @@ Mach.Learn.
 (
 2001
 ).
+
 </p>
          <p>
+
 17. 
 American Society of Mammalogists
 , 
@@ -844,14 +957,18 @@ https://www. mammaldiversity.org
 .Accessed 
 5 February 2021
 .
+
 </p>
          <p>
+
 18. 
 G.Biau
 , 
 Analysis of a random forests model
 . 
+
 J.Mach.Learn.Res.
+
 13
 
 , 
@@ -863,17 +980,22 @@ J.Mach.Learn.Res.
 (
 2012
 ).
+
 </p>
          <p>
+
 19. 
 K.E.Jones
+
 et 
 al.
 
 , 
 PanTHERIA:A species-level database of life history,ecology,and geography of extant and recently extinct mammals
 . 
+
 Ecology
+
 90
 
 , 
@@ -881,17 +1003,22 @@ Ecology
 (
 2009
 ).
+
 </p>
          <p>
+
 20. 
 D.P.Bebber
+
 et 
 al.
 
 , 
 Herbaria are a major frontier for species discovery
 . 
+
 Proc.Natl.Acad.Sci.U.S.A.
+
 107
 
 , 
@@ -903,14 +1030,18 @@ Proc.Natl.Acad.Sci.U.S.A.
 (
 2010
 ).
+
 </p>
          <p>
+
 21. 
 H.C.J.Godfray
 , 
 Challenges for taxonomy
 . 
+
 Nature
+
 417
 
 , 
@@ -922,8 +1053,10 @@ Nature
 (
 2002
 ).
+
 </p>
          <p>
+
 22. 
 J.D.S.Witt
 , 
@@ -933,7 +1066,9 @@ P.D.N.Hebert
 , 
 DNA barcoding reveals extraordinary cryptic diversity in an amphipod genus:Implications for desert spring conservation
 . 
+
 Mol.Ecol.
+
 15
 
 , 
@@ -945,8 +1080,10 @@ Mol.Ecol.
 (
 2006
 ).
+
 </p>
          <p>
+
 23. 
 L.L.Knowles
 , 
@@ -954,7 +1091,9 @@ B.C.Carstens
 , 
 Delimiting species without monophyletic gene trees
 . 
+
 Syst.Biol.
+
 56
 
 , 
@@ -966,8 +1105,10 @@ Syst.Biol.
 (
 2007
 ).
+
 </p>
          <p>
+
 24. 
 J.A.Esselstyn
 , 
@@ -975,9 +1116,13 @@ B.J.Evans
 , 
 J.L.Sedlock
 , 
-F.A.AnwaraliKhan,L.R.Heaney,Single-locus species delimitation:A test of the mixed Yule-coalescent model,with an empirical application to Philippine round-leaf bats
+F.A.Anwarali
+Khan,L.R.
+Heaney,Single-locus species delimitation:A test of the mixed Yule-coalescent model,with an empirical application to Philippine round-leaf bats
 . 
+
 Proc.Biol.Sci.
+
 279
 
 , 
@@ -989,14 +1134,18 @@ Proc.Biol.Sci.
 (
 2012
 ).
+
 </p>
          <p>
+
 25. 
 F.M.Cohan
 , 
 Systematics:The cohesive nature of bacterial species taxa
 . 
+
 Curr.Biol.
+
 29
 
 , 
@@ -1008,8 +1157,10 @@ R172
 (
 2019
 ).
+
 </p>
          <p>
+
 26. 
 M.J.Hickerson
 , 
@@ -1019,7 +1170,9 @@ C.Moritz
 , 
 DNA barcoding will often fail to discover new animal species over broad parameter space
 . 
+
 Syst.Biol.
+
 55
 
 , 
@@ -1031,8 +1184,10 @@ Syst.Biol.
 (
 2006
 ).
+
 </p>
          <p>
+
 27. 
 T.Fujisawa
 , 
@@ -1040,7 +1195,9 @@ T.G.Barraclough
 , 
 Delimiting species using single-locus data and the Generalized Mixed Yule Coalescent approach:A revised method and evaluation on simulated data sets
 . 
+
 Syst. Biol.
+
 62
 
 , 
@@ -1052,8 +1209,10 @@ Syst. Biol.
 (
 2013
 ).
+
 </p>
          <p>
+
 28. 
 J.Gurevitch
 , 
@@ -1065,7 +1224,9 @@ G.Stewart
 , 
 Meta-analysis and the science of research synthesis
 . 
+
 Nature
+
 555
 
 , 
@@ -1077,8 +1238,10 @@ Nature
 (
 2018
 ).
+
 </p>
          <p>
+
 29. 
 T.A.Pelletier
 , 
@@ -1090,7 +1253,9 @@ J.Sullivan
 , 
 A.Esṕındola,Predicting plant conservation priorities on a global scale
 . 
+
 Proc.Natl.Acad.Sci.U.S.A.
+
 115
 
 , 
@@ -1102,8 +1267,10 @@ Proc.Natl.Acad.Sci.U.S.A.
 (
 2018
 ).
+
 </p>
          <p>
+
 30. 
 A.V.Suarez
 , 
@@ -1111,7 +1278,9 @@ N.D.Tsutsui
 , 
 The value of museum collections for research and society
 . 
+
 Bioscience
+
 54
 
 , 
@@ -1123,8 +1292,10 @@ Bioscience
 (
 2004
 ).
+
 </p>
          <p>
+
 31. 
 N.Eisenhauer
 , 
@@ -1134,7 +1305,9 @@ C.A Guerra
 , 
 Recognizing the quiet extinction of invertebrates
 . 
+
 Nat. Commun.
+
 10
 
 , 
@@ -1142,8 +1315,10 @@ Nat. Commun.
 (
 2019
 ).
+
 </p>
          <p>
+
 32. 
 N.S.Upham
 , 
@@ -1153,7 +1328,9 @@ W.Jetz
 , 
 Inferring the mammal tree:Species-level sets of phylogenies for questions in ecology,evolution,and conservation
 . 
+
 PLoS Biol.
+
 17
 
 , e 
@@ -1161,14 +1338,18 @@ PLoS Biol.
 (
 2019
 ).
+
 </p>
          <p>
+
 33. 
 R.C.Edgar
 , 
 MUSCLE:Multiple sequence alignment with high accuracy and high throughput
 . 
+
 Nucleic Acids Res.
+
 32
 
 , 
@@ -1180,8 +1361,10 @@ Nucleic Acids Res.
 (
 2004
 ).
+
 </p>
          <p>
+
 34. 
 D.Darriba
 , 
@@ -1193,7 +1376,9 @@ D.Posada
 , 
 jModelTest 2:More models,new heuristics and parallel computing
 . 
+
 Nat.Methods
+
 9
 
 , 
@@ -1201,17 +1386,22 @@ Nat.Methods
 (
 2012
 ).
+
 </p>
          <p>
+
 35. 
 R.Bouckaert
+
 et 
 al.
 
 , 
 BEAST 2.5:An advanced software platform for Bayesian evolutionary analysis
 . 
+
 PLOS Comput.Biol.
+
 15
 
 , e 
@@ -1219,8 +1409,10 @@ PLOS Comput.Biol.
 (
 2019
 ).
+
 </p>
          <p>
+
 36. 
 T.Ezard
 , 
@@ -1240,8 +1432,10 @@ https://r-forge.r-project.org/projects/splits/
 .Accessed 
 1 December 2020
 .
+
 </p>
          <p>
+
 37. 
 R.C.Team
 , 
@@ -1253,8 +1447,10 @@ https://www.r-project.org/
 . Accessed 
 1 December 2020
 .
+
 </p>
          <p>
+
 38. 
 A.J.Barley
 , 
@@ -1262,7 +1458,9 @@ R.C.Thomson
 , 
 Assessing the performance of DNA barcoding using posterior predictive simulations
 . 
+
 Mol.Ecol.
+
 25
 
 , 
@@ -1274,8 +1472,10 @@ Mol.Ecol.
 (
 2016
 ).
+
 </p>
          <p>
+
 39. 
 D.L.Swofford
 , 
@@ -1284,6 +1484,7 @@ PAUP (phylogenetic analysis using parsimony)
 , 
 ”
 in 
+
 Encyclopedia of Genetics, Genomics,Proteomics,and Informatics
 
 , 
@@ -1299,8 +1500,10 @@ Springer Press
 1455
 
 .
+
 </p>
          <p>
+
 40. 
 ASTER GDEM Validation Team
 , 
@@ -1312,8 +1515,10 @@ https://asterweb.jpl.nasa.gov/gdem.asp
 .Accessed 
 1 December 2019
 .
+
 </p>
          <p>
+
 41. 
 R.J.Hijmans
 , 
@@ -1327,7 +1532,9 @@ A.Jarvis
 , 
 Very high resolution interpolated climate surfaces for global land areas
 . 
+
 Int.J.Climatol.
+
 25
 
 , 
@@ -1339,10 +1546,13 @@ Int.J.Climatol.
 (
 2005
 ).
+
 </p>
          <p>
+
 42. 
-CIESIN,Socioeconomic Data And Applications Center (SEDAC)Gridded Populations of the World (GPW)
+CIESIN,Socioeconomic Data And Applications Center (SEDAC)
+Gridded Populations of the World (GPW)
 (
 2016
 ). 
@@ -1350,10 +1560,13 @@ https://sedac.ciesin.columbia.edu/data/collection/gpw-v4
 .Accessed 
 1 December 2019
 .
+
 </p>
          <p>
+
 43. 
-DECRG,World Bank Development Economics Research Group (DECRG)Gross Domestic Product
+DECRG,World Bank Development Economics Research Group (DECRG)
+Gross Domestic Product
 (
 2010
 ). 
@@ -1361,8 +1574,10 @@ https://datacatalog.worldbank.org/dataset/gross-domestic-product-2010/resource/ 
 .Accessed 
 1 December 2019
 .
+
 </p>
          <p>
+
 44. 
 NOAA
 ,NOAA 
@@ -1374,8 +1589,10 @@ https://www.ngdc.noaa.gov/eog/ dmsp/download_nldi.html
 .Accessed 
 1 December 2019
 .
+
 </p>
          <p>
+
 45. 
 European Environment Agency
 , 
@@ -1387,8 +1604,10 @@ https://www.eea. europa.eu/data-and-maps/figures/overview-of-protected-areas-as
 .Accessed 
 1 December 2019
 .
+
 </p>
          <p>
+
 46. 
 E.C.Ellis
 , 
@@ -1402,7 +1621,9 @@ N.Ramankutty
 , 
 Anthropogenic transformation of the biomes,1700 to 2000
 . 
+
 Glob.Ecol.Biogeogr.
+
 19
 
 , 
@@ -1414,8 +1635,10 @@ Glob.Ecol.Biogeogr.
 (
 2010
 ).
+
 </p>
          <p>
+
 47. 
 European Space Agency
 , 
@@ -1427,8 +1650,10 @@ due.esrin.esa.int/page_globcover.php
 . Accessed 
 1 December 2019
 .
+
 </p>
          <p>
+
 48. 
 R.J.Hijmans
 , 
@@ -1440,8 +1665,10 @@ https://cran.r-project.org/ package=geosphere
 .Accessed 
 1 December 2020
 .
+
 </p>
          <p>
+
 49. 
 R.J.Hijmans
 , 
@@ -1453,8 +1680,10 @@ https://cran.r-project.org/ package=raster
 .Accessed 
 1 December 2020
 .
+
 </p>
          <p>
+
 50. 
 R.Bivand
 , 
@@ -1470,14 +1699,18 @@ https://cran.r-project.org/package=rgdal
 .Accessed 
 1 December 2020
 .
+
 </p>
          <p>
+
 51. 
 H.Wickham
 , 
 The split-apply-combine strategy for data analysis
 . 
+
 J.Stat.Softw.
+
 40
 
 , 
@@ -1489,8 +1722,10 @@ J.Stat.Softw.
 (
 2011
 ).
+
 </p>
          <p>
+
 52. 
 C.Baker
 , 
@@ -1512,14 +1747,18 @@ https://cran.r-project. org/package=wosr
 .Accessed 
 1 December 2020
 .
+
 </p>
          <p>
+
 53. 
 M.Kuhn
 , 
 Caret package
 . 
+
 J.Stat.Softw.
+
 28
 
 , 
@@ -1531,6 +1770,7 @@ J.Stat.Softw.
 (
 2008
 ).
+
 </p>
       </sec>
    </body>

@@ -16,9 +16,12 @@
    </front>
    <body>
       <p>Supplementary Material for</p>
-      <p>The global tree restoration potential
+      <p>
+The global tree restoration potential
+
 </p>
-      <p>Jean-Francois Bastin
+      <p>
+Jean-Francois Bastin
 *, 
 Yelena Finegold
 , 
@@ -30,39 +33,50 @@ Devin Routh
 , 
 Constantin M. Zohner
 , 
-Thomas W. Crowther</p>
+Thomas W. Crowther
+</p>
       <p>*Corresponding author. Email: bastin.jf@gmail.com</p>
       <p>
 Published 5 July 
 20 1 9
 , 
+
 Science
+
 365
 
 , 76 (20 1 9) DOI: 10.1126/science.aax0848
 </p>
-      <p>This PDF file includes:
+      <p>
+This PDF file includes:
+
 </p>
       <p>Materials and Methods</p>
       <p>
+
 to S12
 </p>
       <p>Tables S1 to S3</p>
       <p>References</p>
-      <p>Other Supplementary Material for this manuscript includes the following:
+      <p>
+Other Supplementary Material for this manuscript includes the following:
 </p>
       <p>(available at science.sciencemag.org/content/365/6448/76/suppl/DC1)</p>
       <p>Data Files S1 and S2 as separate Excel files</p>
-      <p>Materials and Methods
+      <p>
+Materials and Methods
+
 </p>
       <p>Tree cover</p>
       <p>
 To assess the global potential tree cover, we first measured the tree cover of 78,774 0.5-hectare plots distributed throughout the global protected regions of the world (i.e. in regions with limited human activity) following a systematic sampling grid design (20-by-20km), using the augmented visual interpretation approach(
+
 8
 
 ) followed by Bastin and colleagues (2017)(
 1 3
 ). For analysis, we used all dryland plots in protected areas assessed in ref (9) (N=23,042), and collected new plots for all other biomes (N=34,564) following the same procedure. In addition, we added plots from the global dryland assessment(
+
 8
 
 ) falling in desert regions to cover the full range of environmental conditions.
@@ -70,12 +84,15 @@ To assess the global potential tree cover, we first measured the tree cover of 7
       <p>Augmented visual interpretation of tree cover with Collect Earth</p>
       <p>
 The assessment of tree cover in each plot was performed through the Augmented Visual Interpretation approach(
+
 8
 
 ), using Collect Earth. Collect Earth is an open access software built on Google Earth and Google Earth Engine and developed by the Open Foris initiative of the Food and Agriculture Organization of the United Nations (FAO). Collect Earth allows the operator to photo-interpret the tree cover of a plot (here a square of 70-by-70m) combining land cover information gathered from satellite images with very high spatial (pixel size ≤ 1metre) and temporal resolution (daily data acquisition)(
+
 8
 
 ). The operator photo-interprets very high spatial resolution satellite images(
+
 8
 
 ), made freely accessible for visualization on Google Earth, and in parallel controls his measurements with spectral information, automatically compiled for the last 20 years from medium-to-high resolution satellite images, in particular from MODIS and Landsat7/8. Each plot presents a systematic grid of 7-by-7 points (49 points) allowing easy and direct measurements of tree canopy cover, with each point representing 2% of the plot. The fundamental variable measured in this study was the percentage of tree cover, ranging from 0 to 100%.
@@ -93,9 +110,11 @@ To identify the regions of the world with limited human activity, we used the Wo
       <p>Environmental drivers</p>
       <p>
 To predict the global potential tree cover, we first selected the most relevant environmental covariates from a set of 58 environmental variables, comprising soil, topographic and climate layers (Data S2). All covariate layers were resampled and reapplied to a unified Eckert 4 equal area projection, at 30 arc-seconds resolution (≈1km at the equator). Layers with a higher original pixel resolution were downsampled using a mean aggregation method; layers with a lower original resolution were resampled using simple upsampling (i.e., without interpolation) to align with the higher resolution grid. In total, this corresponds to 34 quantitative soil descriptors extracted from gridsoils(
+
 22
 
 ), 5 topographic properties extracted from GMTED2010 and 19 bioclimatic variables extracted from Worldclim 2.0(
+
 23
 
 ). We then used the ClustOfVar R package to cluster the covariates in groups of collinear variables representative of environmental variations among the 78,774 plots. This resulted in the selection of 5 climate, 3 soil and 2 topographic variables: annual mean temperature; annual precipitation; precipitation seasonality; mean temperature of the wettest quarter; precipitation of the driest quarter; organic carbon stock from 0-to-1 5 cm, depth to bedrock; sand content from 0-to-15 cm; elevation; and hillshade.
@@ -107,6 +126,7 @@ We implemented the 10 selected variables in a random forest machine learning reg
 ) to predict the tree cover among the 78,7 74 plots (number of trees: 20) (see Notes). The model is built by finding of the set of combinations of covariates that predict best the training samples (
 1 2
 ). This machine learning approach allows us to generate robust predictions without requiring explicit instruction or hypothesis when building the model. The quality of the model was tested and validated using a k-fold cross-validation method; where k (k=5) models were trained from k subsets of the original data (total number of plots minus the total number of plots divided by k) and tested on k subsets of remaining independent data (total number of plots divided by k). Combining the k iterations, we compared the original full dataset with the complete set of remaining independent data. The modelling approach was then validated by regressing predicted (x-axis) vs observed values (y-axis), following Pineiro and colleagues (2008)(
+
 24
 
 ). The model had high predictive power (R2=0.86, intercept=-2.05% tree cover; slope=1.06; 
@@ -119,6 +139,7 @@ We implemented the 10 selected variables in a random forest machine learning reg
       <p>Forest cover</p>
       <p>
 The fundamental variable predicted in this study was the percentage of tree cover per pixel. To estimate the potential area of forest, we converted the global potential tree cover in forest/nonforest classes using the latest definition of forest from the Forest Resources Assessment report of the Food and Agriculture Organization of the United Nations(
+
 14
 
 ). Each pixel presenting at least 10% of tree cover was assigned as a forest. Each pixel presenting less than 10% of tree cover was assigned as a non-forest (
@@ -141,6 +162,7 @@ tree cover map-
 ), Globcover (i.e. removing the following classes: 11,14,20,30,190). It should be noted that these classes contain from 20 to 100% of crops per pixel, meaning the smallest area covered by crops is equal to 1.8 hectare (
 
 ). We kept grazing areas, as several studies suggest alternatives to improve the efficiency of livestock production (
+
 7
 , 
 25
@@ -176,23 +198,29 @@ To provide an additional assessment of the potential forest restoration, we re-d
       <p>Risks of future changes</p>
       <p>
 For the future projections, we re-ran our original model, keeping the 3 soil and 2 topographic variables unchanged and updating the 5 bioclimatic variables from three general circulation models (GCMs) commonly used in ecology(
+
 26
 
 , 
+
 27
 
 ). Two Community Earth System Models (CESMs) were chosen as they investigate a diverse set of earth-system interactions: the CESM1 BGC (a coupled carbon– climate model accounting for carbon feedback from the land) and the CESM1 CAM5 (a community atmosphere model)(
+
 26
 
 ). Additionally, the Earth System component of the Met Office Hadley Centre HadGEM2 model family was used as the third and final model(
+
 27
 
 ). To generate the data, we chose Representative Common Pathways 4.5 and 8.5 (RCP 4.5, RCP 8.5) scenarios from the Coupled Model Intercomparison Project Phase 5 (CMIP5) as the input. The RCP 4.5. is a stabilization scenario, meaning that it accounts for a stabilization of radiative forcing before 2100, anticipating the development of new technologies and strategies for reducing greenhouse gas emissions. Generating climate data from the RCP 4.5 anticipates potential change in which the increase of global temperature is limited to 1.5 
 oC
 by 2050(
+
 1
 
 ). The RCP 8.5 corresponds to the ‘business as usual' scenario, combining assumptions of high demography increase and slow technological change or energy use efficiency. For each output, a delta downscaling method developed by the CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS) was applied to reach a 30 arc-seconds resolution(
+
 28
 
 ), using current conditions Worldclim 1.4 as a reference.
@@ -204,6 +232,7 @@ by 2050(
 We extrapolated the quantity of carbon stocks that could be restored from a combination of our calculations of the potential continuous tree cover available for restoration with numbers from the literature (Table S2). In practice, we used available (biome- or ecoregion-level) reference data and multiplied it with the corresponding continuous tree cover available for restoration. For the carbon stocks we combined the average values of all the information gathered by Pan and colleagues(
 1 8
 ) for Boreal, Temperate and Tropical biomes, and by Grace and colleagues(
+
 19
 
 ) for Drylands. Each value of tree density or carbon density reported in these studies were associated to a pixel-value of potential tree cover of 100%. For example, in the tropics, the carbon density of 282.5 tC.ha-1 reported by Pan and colleagues (2011), is attributed to a pixel when its value of potential tree cover equals 100%. If the potential tree cover of the pixel is equal to 10%, its corresponding potential carbon density equals 23.2 tC.ha-1. The same calculation being done for the tree density. It should be noted that all carbon pools related to forest (aboveground, belowground, dead wood, litter and soil) were accounted for in the numbers of carbon densities.
@@ -227,6 +256,7 @@ By stacking the k predictions of the global potential tree canopy cover and calc
 ), we observe that these patterns are systematic across the tropical dense forests. Model simulations for tropical forests in South America and Asia are highly consistent, predicting 100% of tree cover across most of the regions. However, the uncertainty in Africa highlights the possibility for African tropical ecosystems to either exist in a state of dense forest or open land (
 
 ). This observation lends some support to previous work highlighting the presence of two alternative stable states for forest ecosystems in Africa(
+
 29
 
 ).
@@ -234,53 +264,331 @@ By stacking the k predictions of the global potential tree canopy cover and calc
       <p>GCMs uncertainties</p>
       <p>Uncertainties related to the choice of the GCM were assessed by calculating the standard deviation of the prediction from the set of three maps produced for each year and each RCP (Fig. S10). Importantly, the choice of the GCM influences less than 5% of the estimated future potential continuous tree cover, showing that all GCMs consistently predict tree cover losses by 2050.</p>
       <p>All analysis were performed using Rcran (v.3) and Google Earth Engine Code Editor.</p>
-      <p>Figures</p>
-      <p/>
-      <p/>
-      <p/>
-      <p/>
-      <p/>
-      <p/>
-      <p/>
-      <p>Fig. S8. Principles and calculation of continuous tree cover.
+      <p>
+Figures
+
+</p>
+      <p>
+</p>
+      <p>
+</p>
+      <p>
+</p>
+      <p>
+</p>
+      <p>
+</p>
+      <p>
+</p>
+      <p>
+</p>
+      <p>
+Fig. S8. Principles and calculation of continuous tree cover.
 Original plots are segmented in 7-by-7 subplots and each cell intercepting a tree crown is scored (green dot). These scores (ranging from 0 to 49 out of 49 subplots) are then used to quantify the tree cover of the plot. The subfigures illustrate that the quantification of the forest cover and of the continuous canopy cover can differ significantly, leading to an overestimation in forest cover area when using a binary forest cover definition. In this example, 36% less forest area was estimated when using continuous canopy cover to calculate forest area.
 </p>
-      <p>Fig S9. Average expected changes in potential tree cover by 2050.
+      <p>
+Fig S9. Average expected changes in potential tree cover by 2050.
 Maps illustrate the average expected changes between current and future conditions of tree cover for three Earth System Models (CESM1-bgc, CESM1-cam5 and mohc-Hadgem2es) and two Representative Circulation Pathways (RCP 4.5 and RCP 8.5). (A) Average expected change according to scenario RCP 4.5. (B) Average expected change according to RCP 8.5. (C) Difference between the two scenarios.
 </p>
-      <p>Fig. S10. Potential tree cover in 2050.
+      <p>
+Fig. S10. Potential tree cover in 2050.
 The extrapolation of the potential tree cover for 2050 is based on the current relationship between tree cover and environmental conditions within the protected areas of the world. Maps are illustrated for three Earth System Models (CESM1-bgc, CESM1-cam5 and mohc- Hadgem2es) and two Representative Circulation Pathways (RCP 4.5 and RCP 8.5).
 </p>
-      <p>Fig. S11. Expected changes in potential tree cover by 2050.
+      <p>
+Fig. S11. Expected changes in potential tree cover by 2050.
 Percentage increase (green) or decrease (red) in potential tree cover by the year 2050 compared to the present. Calculations of changes in the potential tree cover are based on the current relationship between tree cover and environmental conditions within the protected areas of the world. Maps are illustrated for three Earth System Models (CESM1-bgc, CESM1- cam5 and mohc-Hadgem2es) and two Representative Circulation Pathways (RCP 4.5 and RCP 8.5).
 </p>
-      <p>Fig. S12. Interpolation vs. extrapolation of the model.
+      <p>
+Fig. S12. Interpolation vs. extrapolation of the model.
 The mean percentage of extrapolation at the pixel level is equal to ~8%, showing that most of the potential tree cover map is interpolated, not extrapolated.
 </p>
-      <p>Table S1.
+      <p>
+Table S1.
 </p>
-      <p>Data NameLayer GroupOriginal Spatial ResolutionLatitude / Longitude (Abs_LatAbs_Long)ProcessWC01 / BIO01 = Annual Mean TemperatureClimatic30 arcsecWC08 / BIO08 = Mean Temperature of Wettest QuarterClimatic30 arcsecWC12 / BIO12 = Annual PrecipitationClimatic30 arcsecWC15 / BIO15 = Precipitation Seasonality (Coefficient of Variation)Climatic30 arcsecWC17 / BIO17 = Precipitation of Driest QuarterClimatic30 arcsecElevationTopographic30 arcsecHillshadeTopographic30 arcsecOCSTHA_M_sd1_250m_ll = Soil Organic Carbon Stock from 0.00m-0.05mSoil250mSNDPPT_M_sl2_250m_ll = Sand content (50â€“2000 micro meter) at 0.05mSoil250mBDRICM_M_1km_ll = Depth to BedrockSoil1km</p>
-      <p>Potential canopy cover (Mha)Potential forest cover (Mha)Potential carbon stocktotalrestoration (Globcover 2009)restoration (Fritz et al. 2015)totalRestoration (Globcover 2009)restoration (Fritz et al. 2015)density (t.ha-1)restoration (Globcover 2009; GtC)restoration (Fritz et al. 2015; GtC)BIOMETundra79.150.650.94254.9166.2508.9202.410.210.3Boreal Forests/Taiga768.5178.0181.81493.7216.0258.0239.242.643.5Deserts and Xeric Shrublands129.577.679.6413.4232.7226.6202.415.716.1Flooded Grasslands and Savannas25.59.09.669.122.918.3202.41.82.0Mangroves14.42.62.727.84.40.5282.50.70.8Mediterranean Forests73.218.815.5222.458.23.1202.43.83.1Montane Grasslands and Shrublands52.919.322.1145.953.541.5202.43.94.5Temperate Broadleaf615.2109.082.01167.4153.039.9154.716.912.7Temperate Conifer Forests199.835.934.2373.256.5134.6154.75.65.3Temperate Grasslands195.972.562.7645.4243.5130.7154.711.29.7Tropical Coniferous Forests32.77.16.263.910.66.9282.52.01.7Tropical Dry Broadleaf Forests165.632.836.2358.850.019.5282.59.310.2Tropical Grasslands569.5189.5210.21496.8388.0164.0282.553.559.4Tropical Moist Broadleaf Forests1443.897.1117.11948.9115.9105.1282.527.433.1Total
+      <p>
+Data Name
+Layer Group
+Original Spatial Resolution
+Latitude / Longitude (Abs_Lat
+Abs_Long)
+Process
+WC01 / BIO01 = Annual Mean Temperature
+Climatic
+30 arcsec
+WC08 / BIO08 = Mean Temperature of Wettest Quarter
+Climatic
+30 arcsec
+WC12 / BIO12 = Annual Precipitation
+Climatic
+30 arcsec
+WC15 / BIO15 = Precipitation Seasonality (Coefficient of Variation)
+Climatic
+30 arcsec
+WC17 / BIO17 = Precipitation of Driest Quarter
+Climatic
+30 arcsec
+Elevation
+Topographic
+30 arcsec
+Hillshade
+Topographic
+30 arcsec
+OCSTHA_M_sd1_250m_ll = Soil Organic Carbon Stock from 0.00m-0.05m
+Soil
+250m
+SNDPPT_M_sl2_250m_ll = Sand content (50â€“2000 micro meter) at 0.05m
+Soil
+250m
+BDRICM_M_1km_ll = Depth to Bedrock
+Soil
+1km
+</p>
+      <p>
+Potential canopy cover (Mha)
+Potential forest cover (Mha)
+Potential carbon stock
+total
+restoration (Globcover 2009)
+restoration (Fritz et al. 2015)
+total
+Restoration (Globcover 2009)
+restoration (Fritz et al. 2015)
+density (t.ha-1)
+restoration (Globcover 2009; GtC)
+restoration (Fritz et al. 2015; GtC)
+BIOME
+Tundra
+79.1
+50.6
+50.94
+254.9
+166.2
+508.9
+202.4
+10.2
+10.3
+Boreal Forests/Taiga
+768.5
+178.0
+181.8
+1493.7
+216.0
+258.0
+239.2
+42.6
+43.5
+Deserts and Xeric Shrublands
+129.5
+77.6
+79.6
+413.4
+232.7
+226.6
+202.4
+15.7
+16.1
+Flooded Grasslands and Savannas
+25.5
+9.0
+9.6
+69.1
+22.9
+18.3
+202.4
+1.8
+2.0
+Mangroves
+14.4
+2.6
+2.7
+27.8
+4.4
+0.5
+282.5
+0.7
+0.8
+Mediterranean Forests
+73.2
+18.8
+15.5
+222.4
+58.2
+3.1
+202.4
+3.8
+3.1
+Montane Grasslands and Shrublands
+52.9
+19.3
+22.1
+145.9
+53.5
+41.5
+202.4
+3.9
+4.5
+Temperate Broadleaf
+615.2
+109.0
+82.0
+1167.4
+153.0
+39.9
+154.7
+16.9
+12.7
+Temperate Conifer Forests
+199.8
+35.9
+34.2
+373.2
+56.5
+134.6
+154.7
+5.6
+5.3
+Temperate Grasslands
+195.9
+72.5
+62.7
+645.4
+243.5
+130.7
+154.7
+11.2
+9.7
+Tropical Coniferous Forests
+32.7
+7.1
+6.2
+63.9
+10.6
+6.9
+282.5
+2.0
+1.7
+Tropical Dry Broadleaf Forests
+165.6
+32.8
+36.2
+358.8
+50.0
+19.5
+282.5
+9.3
+10.2
+Tropical Grasslands
+569.5
+189.5
+210.2
+1496.8
+388.0
+164.0
+282.5
+53.5
+59.4
+Tropical Moist Broadleaf Forests
+1443.8
+97.1
+117.1
+1948.9
+115.9
+105.1
+282.5
+27.4
+33.1
+Total
+
 4365.5
+
 899.9
+
 910.7
+
 8681.5
+
 1771.5
+
 1657.4
+
 204.7
+
 212.3
-Standard deviation (from k-fold crossvalidation)131.027.027.3260.453.149.76.16.4</p>
+
+Standard deviation (from k-fold crossvalidation)
+131.0
+27.0
+27.3
+260.4
+53.1
+49.7
+6.1
+6.4
+</p>
       <p>1 1</p>
-      <p>EcoregionRCP4.5 (Mha)RCP 8.5 (Mha)Tundra (Boreal)76.19101.21Boreal Forests/Taiga18.6926.95Deserts and Xeric Shrublands13.4927.97Flooded Grasslands and Savannas-2.77-3.02Mangroves-3.33-3.47Mediterranean Forests, Woodlands and Scrub-1.87-2.29Montane Grasslands and Shrublands20.0030.90Temperate Broadleaf and Mixed Forests-1.11-4.21Temperate Conifer Forests7.298.11Temperate Grasslands Savannas19.7932.25Tropical and Subtropical Coniferous Forests0.100.12Tropical and Subtropical Dry Broadleaf Forests-27.98-46.45Tropical and Subtropical Grasslands-18.94-45.51Tropical and Subtropical Moist Broadleaf Forests-278.93-345.78SUM-174.37-223.19</p>
-      <p>Data S1.
+      <p>
+Ecoregion
+RCP4.5 (Mha)
+RCP 8.5 (Mha)
+Tundra (Boreal)
+76.19
+101.21
+Boreal Forests/Taiga
+18.69
+26.95
+Deserts and Xeric Shrublands
+13.49
+27.97
+Flooded Grasslands and Savannas
+-2.77
+-3.02
+Mangroves
+-3.33
+-3.47
+Mediterranean Forests, Woodlands and Scrub
+-1.87
+-2.29
+Montane Grasslands and Shrublands
+20.00
+30.90
+Temperate Broadleaf and Mixed Forests
+-1.11
+-4.21
+Temperate Conifer Forests
+7.29
+8.11
+Temperate Grasslands Savannas
+19.79
+32.25
+Tropical and Subtropical Coniferous Forests
+0.10
+0.12
+Tropical and Subtropical Dry Broadleaf Forests
+-27.98
+-46.45
+Tropical and Subtropical Grasslands
+-18.94
+-45.51
+Tropical and Subtropical Moist Broadleaf Forests
+-278.93
+-345.78
+SUM
+-174.37
+-223.19
+</p>
+      <p>
+Data S1.
 Photo-interpreted tree cover database 
 Data S2.
 Potential restoration by country
 </p>
       <p>2</p>
-      <p>References and Notes
+      <p>
+References and Notes
+
 </p>
       <p>
+
 1. 
 
 Intergovernmental Panel on Climate Change (IPCC), 
@@ -291,8 +599,10 @@ IPCC
 , 
 2018
 ).
+
 </p>
       <p>
+
 2. 
 B. W. Griscom
 , 
@@ -360,7 +670,9 @@ J. Fargione
 , 
 Natural climate solutions
 . 
+
 Proc. Natl. Acad. Sci. U.S.A.
+
 114
 
 , 
@@ -370,8 +682,10 @@ Proc. Natl. Acad. Sci. U.S.A.
 ). 
 doi:10.1073/pnas.1710465114
 Medline
+
 </p>
       <p>
+
 3. 
 S. L. Lewis
 , 
@@ -383,7 +697,9 @@ A. Koch
 , 
 Restoring natural forests is the best way to remove atmospheric carbon
 . 
+
 Nature
+
 568
 
 , 
@@ -393,8 +709,10 @@ Nature
 ). 
 doi:10.1038/d41586-019-
 01026-8 Medline
+
 </p>
       <p>
+
 4. 
 United Nations Environment Programme
 (
@@ -404,8 +722,10 @@ The Bonn Challenge
 (
 2011
 ).
+
 </p>
       <p>
+
 5. 
 UN Climate Summit
 , 
@@ -413,8 +733,10 @@ New York Declaration on Forests
 (
 2014
 ).
+
 </p>
       <p>
+
 6. 
 P. Potapov
 , 
@@ -422,6 +744,7 @@ L. Laestadius
 , 
 S. Minnemeyer
 , 
+
 Global Map of Potential Forest Cover
 
 (
@@ -429,8 +752,10 @@ World Resources Institute
 , 
 2011
 ).
+
 </p>
       <p>
+
 7. 
 K.-H. Erb
 , 
@@ -460,7 +785,9 @@ S. Luyssaert
 , 
 Unexpectedly large impact of forest management and grazing on global vegetation biomass
 . 
+
 Nature
+
 553
 
 , 
@@ -470,8 +797,10 @@ Nature
 ). 
 doi:10.1038/nature25138
 Medline
+
 </p>
       <p>
+
 8. 
 A. Bey
 , 
@@ -507,7 +836,9 @@ G. Miceli
 , 
 Collect earth: Land use and land cover assessment through augmented visual interpretation
 . 
+
 Remote Sens.
+
 8
 
 , 
@@ -515,7 +846,8 @@ Remote Sens.
 (
 2016
 ). 
-doi:10.3390/rs8100807</p>
+doi:10.3390/rs8100807
+</p>
       <p>
 9. United Nations Educational, Scientific and Cultural Organization (UNESCO), 
 The World Database on Protected Areas
@@ -523,6 +855,7 @@ The World Database on Protected Areas
 </p>
       <p>10. Materials and methods are available as supplementary materials.</p>
       <p>
+
 11. 
 K. R. Jones
 , 
@@ -540,7 +873,9 @@ J. E. M. Watson
 , 
 One-third of global protected land is under intense human pressure
 . 
+
 Science
+
 360
 
 , 
@@ -550,14 +885,18 @@ Science
 ). 
 doi:10.1126/science.aap9565
 Medline
+
 </p>
       <p>
+
 12. 
 L. Breiman
 , 
 Random forests
 . 
+
 Mach. Learn.
+
 45
 
 , 
@@ -565,8 +904,10 @@ Mach. Learn.
 (
 2001
 ). 
-doi:10.1023/A:1010933404324</p>
+doi:10.1023/A:1010933404324
+</p>
       <p>
+
 13. 
 J.-F. Bastin
 , 
@@ -636,7 +977,9 @@ R. Castro
 , 
 The extent of forest in dryland biomes
 . 
+
 Science
+
 356
 
 , 
@@ -650,20 +993,25 @@ Medline
          </p>
       </p>
       <p>
+
 14. 
 Food and Agriculture Organization
 (
 FAO
 ), 
-Global Forest Resources Assessment2020: Terms and Definitions
+
+Global Forest Resources Assessment
+2020: Terms and Definitions
 
 (
 FAO
 , 
 2018
 ).
+
 </p>
       <p>
+
 15. 
 M. C. Hansen
 , 
@@ -697,7 +1045,9 @@ J. R. G. Townshend
 , 
 High-resolution global maps of 21st-century forest cover change
 . 
+
 Science
+
 342
 
 , 
@@ -707,19 +1057,26 @@ Science
 ). 
 doi:10.1126/science.1244693
 Medline
+
 </p>
       <p>
+
 16. 
-O. Arinoet al
+O. Arino
+et al
 ., 
-Global Land Cover Map for 2009 (GlobCover2009
+
+Global Land Cover Map for 2009 (GlobCover
+2009
 )
 
 (
 European Space Agency, Université catholique de Louvain, PANGAEA, 2012
 ).
+
 </p>
       <p>
+
 17. 
 S. Fritz
 , 
@@ -817,7 +1174,9 @@ M. Obersteiner
 , 
 Mapping global cropland and field size
 . 
+
 Glob. Chang. Biol.
+
 21
 
 , 
@@ -827,8 +1186,10 @@ Glob. Chang. Biol.
 ). 
 doi:10.1111/gcb.12838
 Medline
+
 </p>
       <p>
+
 18. 
 Y. Pan
 , 
@@ -868,7 +1229,9 @@ D. Hayes
 , 
 A large and persistent carbon sink in the world’s forests
 . 
+
 Science
+
 333
 
 , 
@@ -878,8 +1241,10 @@ Science
 ). 
 doi:10.1126/science.1201609
 Medline
+
 </p>
       <p>
+
 19. 
 J. Grace
 , 
@@ -893,7 +1258,9 @@ R. A. Montes
 , 
 Productivity and carbon fluxes of tropical savannas
 . 
+
 J. Biogeogr.
+
 33
 
 , 
@@ -903,8 +1270,10 @@ J. Biogeogr.
 ). 
 doi:10.1111/j.1365-
 2699.2005.01448.x
+
 </p>
       <p>
+
 20. 
 X.-P. Song
 , 
@@ -922,7 +1291,9 @@ J. R. Townshend
 , 
 Global land change from 1982 to 2016
 . 
+
 Nature
+
 560
 
 , 
@@ -932,8 +1303,10 @@ Nature
 ). 
 doi:10.1038/s41586-018-0411-9
 Medline
+
 </p>
       <p>
+
 21. 
 U. Büntgen
 , 
@@ -957,7 +1330,9 @@ C. Körner
 , 
 Limited capacity of tree growth to mitigate the global greenhouse effect under predicted warming
 . 
+
 Nat. Commun.
+
 10
 
 , 
@@ -967,8 +1342,10 @@ Nat. Commun.
 ). 
 doi:10.1038/s41467-019-10174-4
 Medline
+
 </p>
       <p>
+
 22. 
 T. Hengl
 , 
@@ -1010,7 +1387,9 @@ B. Kempen
 , 
 SoilGrids250m: Global gridded soil information based on machine learning
 . 
+
 PLOS ONE
+
 12
 
 , e 
@@ -1020,8 +1399,10 @@ PLOS ONE
 ). 
 doi:10.1371/journal.pone.0169748
 Medline
+
 </p>
       <p>
+
 23. 
 S. E. Fick
 , 
@@ -1029,7 +1410,9 @@ R. J. Hijmans
 , 
 WorldClim 2: New 1-km spatial resolution climate surfaces for global land areas
 . 
+
 Int. J. Climatol.
+
 37
 
 , 
@@ -1037,8 +1420,10 @@ Int. J. Climatol.
 (
 2017
 ). 
-doi:10.1002/joc.5086</p>
+doi:10.1002/joc.5086
+</p>
       <p>
+
 24. 
 G. Piñeiro
 , 
@@ -1048,7 +1433,9 @@ J. P. Guerschman
 , 
 J. M. Paruelo
 , 
-How to evaluate models: Observed vs. predicted or predicted vs. observed?Ecol. Modell.
+How to evaluate models: Observed vs. predicted or predicted vs. observed?
+Ecol. Modell.
+
 216
 
 , 
@@ -1056,8 +1443,10 @@ How to evaluate models: Observed vs. predicted or predicted vs. observed?Ecol. M
 (
 2008
 ). 
-doi:10.1016/j.ecolmodel.2008.05.006</p>
+doi:10.1016/j.ecolmodel.2008.05.006
+</p>
       <p>
+
 25. 
 K.-H. Erb
 , 
@@ -1073,7 +1462,9 @@ H. Haberl
 , 
 Exploring the biophysical option space for feeding the world without deforestation
 . 
+
 Nat. Commun.
+
 7
 
 , 
@@ -1083,8 +1474,10 @@ Nat. Commun.
 ). 
 doi:10.1038/ncomms11382
 Medline
+
 </p>
       <p>
+
 26. 
 J. W. Hurrell
 , 
@@ -1134,7 +1527,9 @@ S. Marshall
 , 
 The Community Earth System Model: A framework for collaborative research
 . 
+
 Bull. Am. Meteorol. Soc.
+
 94
 
 , 
@@ -1142,12 +1537,15 @@ Bull. Am. Meteorol. Soc.
 (
 2013
 ). 
-doi:10.1175/BAMS-D-12-00121.1</p>
+doi:10.1175/BAMS-D-12-00121.1
+</p>
       <p>
+
 27. 
 N. Bellouin
 , 
-W. J. Collins, I.D. Culverwell
+W. J. Collins, I.
+D. Culverwell
 , 
 P. R. Halloran
 , 
@@ -1247,7 +1645,9 @@ A. Wiltshire
 , 
 The HadGEM2 family of Met Office Unified Model climate configurations
 . 
+
 Geosci. Model Dev.
+
 4
 
 , 
@@ -1255,8 +1655,10 @@ Geosci. Model Dev.
 (
 2011
 ). 
-doi:10.5194/gmd-4-723-2011</p>
+doi:10.5194/gmd-4-723-2011
+</p>
       <p>
+
 28. 
 J. Ramirez Villegas
 , 
@@ -1268,8 +1670,10 @@ Working Paper
 No. 1 (
 2010
 ).
+
 </p>
       <p>
+
 29. 
 A. C. Staver
 , 
@@ -1279,7 +1683,9 @@ S. A. Levin
 , 
 The global extent and determinants of savanna and forest as alternative biome states
 . 
+
 Science
+
 334
 
 , 
@@ -1289,6 +1695,7 @@ Science
 ). 
 doi:10.1126/science.1210465
 Medline
+
 </p>
    </body>
 </article>
