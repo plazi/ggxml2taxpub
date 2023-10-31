@@ -15,4 +15,11 @@
             <sch:report test="descendant::subSection">Error: A subSection must not have a descendant subSection.</sch:report>
         </sch:rule>
     </sch:pattern>
+    <sch:pattern>
+        <!-- Change the attribute to point the element being the context of the assert expression. -->
+        <sch:rule context="paragraph">
+            <!-- nested treatments -->
+            <sch:report test="descendant::subSection">Error: A paragraph must not have a descendant subSection.</sch:report>
+        </sch:rule>
+    </sch:pattern>
 </sch:schema>
