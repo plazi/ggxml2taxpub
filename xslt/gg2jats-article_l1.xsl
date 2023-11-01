@@ -15,7 +15,7 @@
 
     <xsl:template match="document">
         <article>
-            <front><xsl:apply-templates select="mods:mods"/></front>
+            <front><xsl:call-template name="article-metadata"/></front>
             <body>
             <xsl:apply-templates select="* except mods:mods"/>
             </body>
@@ -96,6 +96,52 @@
 
     <xsl:template match="treatment">
         <xsl:apply-templates />
+    </xsl:template>
+    
+    
+    <xsl:template name="article-metadata">
+        <journal-meta>
+            <journal-id journal-id-type="other">N/A</journal-id>
+            <journal-title-group>
+                <journal-title><xsl:value-of select="mods:mods/mods:relatedItem[@type = 'host']/mods:titleInfo/mods:title"/></journal-title>
+            </journal-title-group>
+            <issn> 
+                <xsl:choose>
+                    <xsl:when test="mods:identifier[@type = 'ISSN']"><xsl:value-of select="."/></xsl:when>
+                    <xsl:otherwise>N/A</xsl:otherwise>
+                </xsl:choose>
+            </issn>
+        </journal-meta>
+        <article-meta>
+<!--            <mixed-citation>
+                <named-content content-type="treatment-title"><xsl:value-of select="//document/@docTitle"/></named-content>
+                <uri content-type="zenodo-doi"><xsl:value-of select="//document/@ID-DOI"/></uri>
+                <uri content-type="treatment-bank-uri"><xsl:value-of select="concat('http://treatment.plazi.org/id/', /document/@docId)"/></uri>
+                <article-title><xsl:value-of select="//document/@masterDocTitle"/></article-title>
+                <uri content-type="publication-doi"><xsl:value-of select="//document/@docSource"/></uri>
+            </mixed-citation> -->          
+            <title-group>
+                <article-title><xsl:value-of select="/document/@docTitle"/></article-title>
+            </title-group>
+            <pub-date date-type="pub">
+                <xsl:choose>
+                    <xsl:when test="mods:mods/mods:relatedItem[@type = 'host']/mods:part/mods:detail[@type = 'pubDate']">
+                        <xsl:apply-templates select="mods:mods/mods:relatedItem[@type = 'host']/mods:part/mods:detail[@type = 'pubDate'][1]/mods:number"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <year><xsl:value-of select="mods:mods/mods:relatedItem[@type = 'host']/mods:part/mods:date"/></year>
+                    </xsl:otherwise>
+                </xsl:choose>
+                
+            </pub-date>
+
+        </article-meta>
+    </xsl:template>
+    
+    <xsl:template match="mods:number[parent::mods:detail[@type = 'pubDate']]">
+        <day><xsl:value-of select="substring(.,9,2)"/></day>
+        <month><xsl:value-of select="substring(.,6,2)"/></month>
+        <year><xsl:value-of select="substring(.,1,4)"/></year>
     </xsl:template>
 
     <xsl:template match="*">
