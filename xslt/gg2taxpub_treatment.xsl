@@ -379,18 +379,10 @@ Include GG normalized attributes for 2nd pass
         </tp:treatment-meta>
     </xsl:template>
     
-    <xsl:template name="references_sec">
-        <ref-list>
-            <xsl:for-each select="//bibRefCitation[not(@refId = preceding::bibRefCitation/@refId)]">
-                <xsl:sort select="@author"/>
-                <xsl:message><xsl:value-of select="@refId"/></xsl:message>
+    <xsl:template match="bibRef">
                 <ref>
-                    <xsl:attribute name="id"><xsl:value-of select="@refId"/></xsl:attribute>
-                    <mixed-citation><xsl:value-of select="@refString"/></mixed-citation>
+                    <mixed-citation><xsl:apply-templates/></mixed-citation>
                 </ref>
-            </xsl:for-each>
-        </ref-list>
-
     </xsl:template>
    
 </xsl:stylesheet>

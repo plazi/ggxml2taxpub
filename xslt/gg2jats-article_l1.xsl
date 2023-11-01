@@ -43,9 +43,33 @@
                 <xsl:attribute name="sec-type">
                     <xsl:value-of select="@type"/>
                 </xsl:attribute>
-                <xsl:apply-templates mode="main"/>
+                <xsl:choose>
+                    <xsl:when test="descendant::paragraph[descendant::heading]">
+                        <xsl:apply-templates select="descendant::paragraph[descendant::heading][1]" mode="main"/>
+                    </xsl:when>
+                    <xsl:otherwise><title>N/A</title></xsl:otherwise>
+                </xsl:choose>
+                <xsl:apply-templates select="* except descendant::paragraph[descendant::heading][1]" mode="main"/>
             </sec>
     </xsl:template>
+   
+
+<!-- Reference Group sections -->
+
+    <xsl:template match="subSection[@type = 'reference_group'][descendant::bibRef]">
+        <sec sec-type="reference_group">
+            <xsl:choose>
+                <xsl:when test="descendant::paragraph[descendant::heading]">
+                    <xsl:apply-templates select="descendant::paragraph[descendant::heading][1]" mode="main"/>
+                </xsl:when>
+                <xsl:otherwise><title>N/A</title></xsl:otherwise>
+            </xsl:choose>
+            <ref-list>
+                <xsl:apply-templates select="paragraph[descendant::bibRef]" mode="main"/>
+            </ref-list>
+        </sec>
+    </xsl:template>
+
 
     <xsl:template match="paragraph" mode="main">
         <p><xsl:apply-templates/></p>
@@ -63,7 +87,17 @@
     
     <!-- SKIPPED ELEMENTS --> 
     
-    <!-- SKIPPING figureWrap everywhere -->
+    <!-- SKIPPING caption in both stylesheets -->
+    <xsl:template match="caption">
+        <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
+    </xsl:template>
+    
+    <xsl:template match="caption" mode="main">
+        <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
+    </xsl:template>
+    
+    <!-- SKIPPING figureWrap in both stylesheets -->
+    
     <xsl:template match="figureWrap">
         <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
     </xsl:template>
@@ -84,11 +118,10 @@
         <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
     </xsl:template>
     
-    <xsl:template match="taxonomicNameLabel[not(ancestor::subSubSection[@type = 'nomenclature'])]">
-        <named-content content-type="taxonStatus">
-            <xsl:apply-templates/>
-        </named-content>
+    <xsl:template match="footnote" mode="main">
+        <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
     </xsl:template>
+
     
     <xsl:template match="table" mode="main">
         <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
@@ -96,6 +129,21 @@
 
     <xsl:template match="treatment">
         <xsl:apply-templates />
+    </xsl:template>
+    
+    <xsl:template match="docTitle" mode="main">
+        <xsl:choose>
+            <xsl:when test="parent::subSection"/>
+            <xsl:otherwise><xsl:apply-templates mode="main"/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+    
+    
+    <xsl:template match="taxonomicNameLabel[not(ancestor::subSubSection[@type = 'nomenclature'])]">
+        <named-content content-type="taxonStatus">
+            <xsl:apply-templates/>
+        </named-content>
     </xsl:template>
     
     
@@ -113,6 +161,7 @@
             </issn>
         </journal-meta>
         <article-meta>
+            <xsl:apply-templates select="mods:mods/mods:identifier[@type ='DOI']" mode="article"/>
 <!--            <mixed-citation>
                 <named-content content-type="treatment-title"><xsl:value-of select="//document/@docTitle"/></named-content>
                 <uri content-type="zenodo-doi"><xsl:value-of select="//document/@ID-DOI"/></uri>
@@ -142,6 +191,20 @@
         <day><xsl:value-of select="substring(.,9,2)"/></day>
         <month><xsl:value-of select="substring(.,6,2)"/></month>
         <year><xsl:value-of select="substring(.,1,4)"/></year>
+    </xsl:template>
+    
+    <xsl:template match="mods:identifier[@type ='DOI']" mode="article">
+        <article-id pub-id-type="doi"><xsl:value-of select="."/></article-id>
+    </xsl:template>
+    
+    <!-- bibRefs -->
+
+    
+    <xsl:template match="paragraph[ancestor::subSection[@type = 'reference_group']][descendant::bibRef]" mode="main">
+                <ref>
+                    <mixed-citation><xsl:value-of select="descendant::bibRef"/></mixed-citation>
+                </ref>
+        
     </xsl:template>
 
     <xsl:template match="*">

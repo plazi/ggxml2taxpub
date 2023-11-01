@@ -2,14 +2,20 @@
 <article xmlns:tp="http://www.plazi.org/taxpub">
    <front>
       <journal-meta>
-         <journal-id>10.1038/s41586-020-03082-x</journal-id>
-         <issn/>
+         <journal-id journal-id-type="other">N/A</journal-id>
+         <journal-title-group>
+            <journal-title>Nature</journal-title>
+         </journal-title-group>
+         <issn>N/A</issn>
       </journal-meta>
       <article-meta>
+         <article-id pub-id-type="doi">10.1038/s41586-020-03082-x</article-id>
          <title-group>
             <article-title>Dire wolves were the last of an ancient New World canid lineage</article-title>
          </title-group>
-         <pub-date>
+         <pub-date date-type="pub">
+            <day>13</day>
+            <month>01</month>
             <year>2021</year>
          </pub-date>
       </article-meta>
@@ -275,6 +281,7 @@ Received:
 </p>
       </p>
       <sec sec-type="abstract">
+         <title>N/A</title>
          <p>
 Dire wolves are considered to be one of the most common and widespread large carnivores in Pleistocene America 
 1
@@ -469,54 +476,6 @@ for dire wolves. To assess the timing of divergence among the major wolf-like ca
 </p>
          <p>A list of affiliations appears at the end of the paper.</p>
          <p>
-Fig.1 |Map of dire wolf remains and morphological differentiation with 
-wolf-like canids.a
-, Right,map representing the geographical range of the canid species investigated in this study.The data (shape file) for this plot were obtained from the IUCN Red List database 
-
-36
-
-and plotted using R 
-37
-. Left,map representing the distribution of sites in the Americas where dire wolf remains (
-<tp:taxon-name>
-Canis dirus
-</tp:taxon-name>
-) have been identified (Supplementary Data 1, 2).Coloured circles represent the locations and approximate ages of the remains,with crossed circles representing the five samples from Idaho (2),Ohio(1),Tennessee (1)and Wyoming (1) that yielded sufficient endogenous DNA to reconstruct both mitochondrial genomes and low-coverage nuclear genome sequences. 
-b
-,
-</p>
-         <p>
-Procrustes distances between the combined mandible and M 
-1
-shape of dire wolf and other extant canid species.Pairwise Procrustes distances were calculated by superimposing landmarks from molar and mandibular shapes between pairs of specimens and by computing the square root of the squared differences between the coordinates of corresponding landmarks,with and without correction for allometry (Supplementary Information).The centre of the box represents the median,the box bounds represent the quartiles,the whiskers represent maximum and minimum values (±1.5× the interquartile range) and dots represent outliers.
-</p>
-         <p>
-Fig.2 |Relationships among living and extinct wolf-like canids.
-a
-,Time-scaled nuclear phylogeny generated in MCMCtree based on the best-scoring maximum likelihood species tree topology obtained from BPP and SNAPP.Values associated with nodes are mean age estimates (millions of years before present) and bars represent95% highest posterior densities.The inset table shows the levels of support for the three possible arrangements of the dire wolf (red),the African jackals (orange) and the remaining wolf-like canids (blue) that we obtained using different analytical frameworks when including either one or both of our two highest coverage dire wolf samples (DireSP and DireGB).Although only one dire wolf branch is depicted in the tree, multiple dire wolf individuals were included in some analyses as they form a monophyletic clade(for example,Supplementary Figs.12,13,15). 
-b
-, Results of 
-D
--statistics used to assess the possibility of gene flow between the dire wolf and extant North American canids.Each dot represents the mean 
-D
-calculated
-</p>
-         <p>
-along the genome and the error bar represents 3 standard deviations computed using a weighted block jackknife procedure over 5-Mb blocks across the genome. 
-Z
-values of | 
-Z
-|&gt;3 were considered significant.These plots show that the dire wolf genomes do not share significantly more derived alleles with extant North American canids compared to Eurasian wolves (values of 
-D
-were not significantly different from zero),suggesting that no hybridization occurred between the dire wolf and the ancestor of extant North American canids.Non-significant D-statistics were also obtained using an alternative reference genome and using the African wolf as P2 (Supplementary Fig.18 and Supplementary Data 14). 
-c
-, Results of 
-D
--statistics showing the existence of an ancient gene flow event between the ancestor of the dhole,Ethiopian wolf, African wolf,grey wolf and coyotes and the lineage of the dire wolf(consistently non-zero values of 
-D
-regardless of P1).P1,P2 and P3 in the tree schematic represent genomes that are used in the admixture test.
-</p>
-         <p>
 Given the tendency for sympatric canid species to interbreed 
 2
 , 
@@ -616,6 +575,7 @@ Online content
 </p>
       </sec>
       <sec sec-type="materials_methods">
+         <title>N/A</title>
          <p>Any methods,additional references,Nature Research reporting sum- maries, source data, extended data, supplementary information, acknowledgements,peer review information;details of author contri- butions and competing interests;and statements of data and code avail- ability are available at https://doi.org/10.1038/s41586-020-03082-x.</p>
          <p>
 
@@ -966,100 +926,6 @@ Curr.Biol
 2015
 ).
 
-</p>
-         <p>
-1
-Department of Archaeology,Durham University,Durham,UK. 
-2
-Australian Centre for Ancient DNA,School of Biological Sciences,University of Adelaide,Adelaide,South Australia, Australia. 
-3
-Department of Ecology and Evolutionary Biology,University of California,Los Angeles,CA, USA. 
-4
-School of Biological and Chemical Sciences,Queen Mary University of London,London, UK. 
-5
-Department of Archaeology,Classics and Egyptology,University of Liverpool, Liverpool,UK. 
-6
-School of Natural Sciences and Psychology,Liverpool John Moores University,Liverpool, UK. 
-7
-The Palaeogenomics &amp; Bio-Archaeology Research Network, Research Laboratory for Archaeology and History of Art,The University of Oxford, Oxford,UK. 
-8
-Department of Anatomy,Des Moines University, Des Moines,IA,USA. 
-9
-Department of Zoology,University of Oxford,Oxford, UK. 
-10
-Department of Anthropology,National Museum of Natural History,Smithsonian Institution,Washington,DC, USA. 
-11
-Center of Excellence in Paleontology &amp; Department of Geosciences,East Tennessee State University,Johnson City, TN,USA. 
-12
-Department of Archaeology,University of Exeter,Exeter,UK. 
-13
-Institute of Archaeology, Russian Academy of Sciences,Moscow,Russia. 
-14
-ARAID Foundation, Instituto Universitario de Investigación en Ciencias Ambientales (IUCA) - Aragosaurus Group, Universidad de Zaragoza,Zaragoza,Spain. 
-15
-Department of Earth Sciences,Natural History Museum,London, UK. 
-16
-Section for Evolutionary Genomics,The GLOBE Institute, University of Copenhagen,Copenhagen,Denmark. 
-17
-Applied Paleoscience,Bothell,WA,USA. 
-18
-Department of Archaeology,University of Sydney,Sydney,New South Wales, Australia. 
-19
-Department of Archaeology,University of Aberdeen,Aberdeen,UK. 
-20
-Department of Archaeology, Simon Fraser University,Burnaby,Canada. 
-21
-Institut des Sciences de l’Evolution - Montpellier,CNRS,Université de Montpellier,IRD,EPHE, Montpellier,France. 
-22
-Laboratoire Evolution &amp; Diversité Biologique,UPS/CNRS/IRD, Université Paul Sabatier, Toulouse, France. 
-23
-Australian Museum Research Institute,Australian Museum,Sydney,New South Wales, Australia. 
-24
-Department of Ecology and Evolutionary Biology,University of California Santa Cruz,Santa Cruz, CA,USA. 
-25
-Institute of Plant and Animal Ecology, Urals Branch of the Russian Academy of Sciences,Yekaterinburg, Russia. 
-26
-Ural Federal University,Yekaterinburg, Russia. 
-27
-Department of Anthropology, Texas A&amp;M University,College Station,TX,USA. 
-28
-Center for Evolution and Medicine,Arizona State University,Tempe,AZ, USA. 
-29
-School of Human Evolution and Social Change,Arizona State University, Tempe,AZ,USA. 
-30
-Halmos College of Arts and Sciences,Nova Southeastern University,Fort Lauderdale,FL,USA. 
-31
-Department of Archaeology, University of York,York,UK. 
-32
-Institute of Systematics and Ecology of Animals,Siberian Branch of the Russian Academy of Sciences,Novosibirsk,Russia. 
-33
-Idaho Museum of Natural History,Idaho State University,Pocatello,ID,USA. 
-34
-Zoological Institute of the Russian Academy of Sciences,St Petersburg, Russia. 
-35
-Sobolev Institute of Geology and Mineralogy,Siberian Branch of the Russian Academy of Sciences, Novosibirsk, Russia. 
-36
-Tomsk State University,Tomsk,Russia. 
-37
-McDonald Institute for Archaeological Research, University of Cambridge,Cambridge,UK. 
-38
-Greenland Institute of Natural Resources,Nuuk,Greenland. 
-39
-NTNU University Museum,Trondheim,Norway. 
-40
-Institute of Human Origins,Arizona State University,Tempe,AZ, USA. 
-41
-Howard Hughes Medical Institute, University of California Santa Cruz,Santa Cruz,CA,USA. 
-42
-South Australian Museum, Adelaide,South Australia,Australia. 
-43
-Palaeogenomics Group,Department of Veterinary Sciences, Ludwig Maximilian University,Munich,Germany. 
-44
-These authors contributed equally:Angela R. Perri,Kieren J. Mitchell, 
-<tp:taxon-name>Alice Mouton, Sandra Álvarez-Carretero.</tp:taxon-name>
-✉e-mail: angela. 
-<tp:taxon-name>r.perri</tp:taxon-name>
-@durham.ac.uk; kieren.mitchell@adelaide.edu.au; laurent.frantz@gmail.com
 </p>
          <p>
 

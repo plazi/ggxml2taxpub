@@ -2,14 +2,20 @@
 <article xmlns:tp="http://www.plazi.org/taxpub">
    <front>
       <journal-meta>
-         <journal-id>10.1371/journal.pone.0089606</journal-id>
-         <issn/>
+         <journal-id journal-id-type="other">N/A</journal-id>
+         <journal-title-group>
+            <journal-title>PLoS ONE</journal-title>
+         </journal-title-group>
+         <issn>N/A</issn>
       </journal-meta>
       <article-meta>
+         <article-id pub-id-type="doi">10.1371/journal.pone.0089606</article-id>
          <title-group>
             <article-title>Semantics in Support of Biodiversity Knowledge Discovery: An Introduction to the Biological Collections Ontology and Related Ontologies</article-title>
          </title-group>
-         <pub-date>
+         <pub-date date-type="pub">
+            <day>31</day>
+            <month>12</month>
             <year>2014</year>
          </pub-date>
       </article-meta>
@@ -464,14 +470,6 @@ in May of 2012 [
 ] and OBO Foundry principles as a guide.
 </p>
          <p>
-Figure 1. Structured sampling schemes.
-(
-A
-) Biological sampling can be structured in both space and time. Environmental sampling of ocean water often includes sampling along a transectı with samples collected at multiple depths at each location. Additionallyı each sample of water collected may be subsampled for metagenomic analysis or measuring chemical content. (
-B
-) Sampling schemes in ecological studies are often nested and may include plot; subplot or transect within plot; individual within plotı subplotı or transect; organ (e.g.ı leaf) within individual; tissue within organ; and DNA or mineral (e.g.ı C or N) within tissue. DNA extracted from a leaf of a tree that is present in a sub-plot may therefore be characterized by environmental features of the plot. doi:10.1371/journal.pone.0089606.g001
-</p>
-         <p>
 Building on the SoB event, the Biocode Commons Ontology Hackathon, supported by the RCN4GSC and the BiSciCol project, was held at GSC 
 14 in
 Oxford [
@@ -582,10 +580,6 @@ material sampling process
 ), we use an instance-level representation of the targets and products of a
 </p>
          <p>
-Table 1.
-Metrics on current versions of the BCOı ENVOı and PCO.
-</p>
-         <p>
 Ontology
 
 
@@ -619,24 +613,6 @@ Population and Community Ontology (PCO)
          <p>3. 172 imported from Chemical Entities of Biological Interestı 49 from Phenotypic Quality Ontology.</p>
          <p>4. 39 imported from Basic Formal Ontologyı 1269 imported from Gene Ontologyı 11 imported from Information Artifact Ontologyı 2 imported from Common Anatomy Reference Ontology.</p>
          <p>doi:10.1371/journal.pone.0089606.t001</p>
-         <p>
-Figure 2. Core terms of the Biological Collections Ontology (BCO) and their relations to upper ontologies.
-Core BCO terms (in orange) are subclasses of terms from the Basic Formal Ontology (BFO – in yellow) or the Ontology for Biomedical Investigations (OBI – in blue). For exampleı BCO: 
-material sample
-is a subclass of BFO: 
-material entity
-and has role BFO: 
-material sample role
-(which is a BFO: 
-role
-)ı while BFO: 
-material sampling process
-is a subclass of OBI: 
-planned process
-ı and has as specified output BCO: 
-material sample
-. doi:10.1371/journal.pone.0089606.g002
-</p>
          <p>
 BCO: 
 material sampling process
@@ -712,16 +688,6 @@ material entity
 
 </p>
          <p>
-Figure 3. Linking samples and derivatives from the Moorea Biocode project.
-(
-A
-) Biodiversity data from the Moorea Biocode project were collected at many different levels that are connected to one another in biologically meaningful waysı such as an Essig Museum specimen collected as part of a Biocode bioinventory eventı a tissue sample submitted to the Smithsonian Institutionı a metagenomic gut sample collected from the specimen and registered with the CAMERA portalı or DNA extracted from either the tissue or metagenomic sample. (
-B
-) A graphical representation of how part of the workflow shown in 
-A
-(from field collection to tissue sampling to DNA extraction) can be annotated with terms from multipleı coordinated ontologies and queried via an ontology-based data store. Ontology classes are shown as ovals and instances are shown as rectanglesı with instances color-coded to match their parent classes. This figure shows howı for exampleı TaxonID B resulting from the BLAST identification process on Genbank sequence B can be linked back to the original Moorea Biocode sampling processı or how a chain of inputs and outputs can be used to infer that an instance of DNA molecules is derived from an instance of an insect specimen. doi:10.1371/journal.pone.0089606.g003
-</p>
-         <p>
 
 instances of 
 PCO
@@ -759,16 +725,6 @@ locations or to generic geospatial properties, they are naturally
 </p>
          <p>
 linked to geospatial information. Such information may be
-</p>
-         <p>
-Figure 4. Linking data across sites in the Genomic Observatories network’s Ocean Sampling Day.
-(
-A
-) Ocean Sampling Day involves the simultaneous sampling of the world’s oceans on a single dayı as represented by the red stars on the map of the earth. Multiple ocean water sampling processes take place at each location. Those water samples are filtered to produce samples of organismal communities that are submitted to the bioarchive at the Smithsonian Institution. A subsample of the filtered material is analyzed to produce a metagenomic sequenceı which may be stored in the Genomes Online Database (GOLD). To be useful in comparative studiesı data from each process at each location must be accessible and interpretable. (
-B
-) A graphical representation of how part of the workflow shown in 
-A
-(from ocean water sampling to filtering to metagenomic sequencing) can be annotated with terms from multipleı coordinated ontologies and queried via an ontology-based data store. Ontology classes are shown as ovals and instances are shown as rectanglesı with instances color-coded to match their parent classes. This figure shows how a metagenomic sequence and the taxa associated with it can be linked back to the original Ocean Sampling Day collecting event through a chain of inputs and outputs. doi:10.1371/journal.pone.0089606.g004
 </p>
          <p>expressed via resources such as ENVO’s sister-project, Gaz, a first step towards an open source gazetteer constructed on ontological principles.</p>
          <p>
@@ -1257,8 +1213,9 @@ Author Contributions
 References
 
 </title>
-         <p>
-
+         <ref-list>
+            <ref>
+               <mixed-citation>
 1. 
 Pereira HM
 , 
@@ -1280,15 +1237,18 @@ Science
 330
 : 
 
+
 1496
 – 
 1501
 
+
 . 
 doi:10.1126/science.1196624
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 2. 
 Pereira HM
 , 
@@ -1310,9 +1270,10 @@ Science
 277–278
 . 
 doi:10.1126/science.1229931
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 3. 
 Cardinale BJ
 , 
@@ -1333,10 +1294,10 @@ Nature
 : 
 59–67
 . doi:10.1038/ nature11148
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 4. 
 United Nations
 (
@@ -1364,11 +1325,12 @@ http://treaties.un.org/doc/ Treaties/1992/06/19920605%
 26 May 
 2013
 
+
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 5. 
 Hardisty A
 , 
@@ -1390,9 +1352,10 @@ A decadal view of biodiversity informatics: challenges and priorities. BMC ecolo
 16
 . 
 doi:10.1186/1472-6785-13-16
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 6. 
 Scholes RJ
 , 
@@ -1414,9 +1377,10 @@ Current Opinion in Environmental Sustainability
 139–146
 . 
 doi:10.1016/j.cosust.2011.12.005
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 7. 
 Jetz W
 , 
@@ -1434,9 +1398,10 @@ Trends in Ecology &amp; Evolution
 151–159
 . 
 doi:10.1016/j.tree.2011.09.007
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 8. 
 Davies ZG
 , 
@@ -1458,9 +1423,10 @@ Biological Conservation
 761–771
 . 
 doi:10.1016/j.biocon.2008.12.016
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 9. 
 Davies N
 , 
@@ -1482,9 +1448,10 @@ GigaScience
 5
 . 
 doi:10.1186/2047-217X-1-5
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 10. 
 Parr CS
 , 
@@ -1504,9 +1471,10 @@ Trends in Ecology &amp; Evolution
 94–103
 . 
 doi:10.1016/j.tree.2011.11.001
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 11. 
 Pyle RL
 , 
@@ -1533,10 +1501,10 @@ http://www.mapress. com/zootaxa/2008/f/zt01671p031.pdf
 26 May 2013
 
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 12. 
 Fisher BL
 , 
@@ -1560,9 +1528,10 @@ PLoS ONE
 1787
 . 
 doi:10.1371/journal.pone.0001787
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 13. 
 Penev L
 , 
@@ -1584,9 +1553,10 @@ ZooKeys
 1–16
 . 
 doi:10.3897/zookeys.50.538
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 14. 
 Imam FT
 , 
@@ -1605,10 +1575,10 @@ Development and use of ontologies inside the neuroscience information framework:
 Frontiers in Genetics
 3
 . doi:10.3389/ fgene.2012.00111
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 15. 
 Vasilevsky N
 , 
@@ -1628,9 +1598,10 @@ Database
 2012
 . 
 doi:10.1093/database/bar067
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 16. 
 Tiffin N
 , 
@@ -1654,9 +1625,10 @@ Nucleic Acids Research
 
 . 
 doi:10.1093/nar/gki296
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 17. 
 Kelling S
 , 
@@ -1678,9 +1650,10 @@ BioScience
 613–620
 . 
 doi:10.1525/bio.2009.59.7.12
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 18. 
 Morrison N
 , 
@@ -1704,9 +1677,11 @@ http://www.e-envi2009.org/?presentations
 Accessed 
 
 10 September 2013
-</p>
-         <p>
 
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 19. 
 Buttigieg PL
 , 
@@ -1721,9 +1696,10 @@ Lewis SE
 The environment ontology: contextualising biological and biomedical entities. Journal of Biomedical Semantics. Available
 : 
 http://www.jbiomedsem.com/ content/pdf/2041-1480-4-43.pdf
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 20. 
 Beach J
 , 
@@ -1747,10 +1723,10 @@ http://digbiocol.wordpress.com/brochure/
 26 May 2013
 
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 21. 
 Patterson DJ
 , 
@@ -1771,10 +1747,10 @@ Trends in Ecology &amp; Evolution
 : 
 686–691
 . doi:10.1016/ j.tree.2010.09.004
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 22. 
 Beach JH
 , 
@@ -1794,10 +1770,10 @@ Baltimore (ML US): The Johns Hopkins university press
 . pp. 
 241–256
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 23. 
 Berendsohn WG
 (
@@ -1811,9 +1787,10 @@ Taxon
 207–212
 . 
 doi:10.2307/1222443
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 24. 
 Geoffroy M
 , 
@@ -1828,10 +1805,10 @@ Schriftenreihe Vegetationsk
 : 
 5–14
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 25. 
 Kennedy J
 , 
@@ -1849,10 +1826,10 @@ http://www.tdwg.org/standards/117/
 26 May 2013
 
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 26. 
 Franz NM
 , 
@@ -1867,10 +1844,10 @@ Biodiversity Informatics
 : 
 45–66
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 27. 
 Franz NM
 , 
@@ -1885,10 +1862,10 @@ Systematics and Biodiversity
 : 
 5–20
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 28. 
 Deans AR
 , 
@@ -1905,10 +1882,10 @@ Trends in Ecology &amp; Evolution
 : 
 78–84
 . doi:10.1016/ j.tree.2011.11.007
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 29. 
 Handelsman J
 , 
@@ -1931,9 +1908,10 @@ Chemistry &amp; Biology 5: R245–R249. doi:10.1016/ S1074
 98
 ) 
 90108-9
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 30. 
 Davies N
 , 
@@ -1949,9 +1927,10 @@ Nature
 145
 . 
 doi:10.1038/481145a
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 31. 
 Kattge J
 , 
@@ -1974,10 +1953,10 @@ Global Change Biology
 2905–2935
 
 . doi:10.1111/ j.1365-2486.2011.02451.x
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 32. 
 BIEN
 project team
@@ -1992,10 +1971,10 @@ http://www.iplantcollaborative.org/ sites/default/files/BIEN_White_Paper.pdf
 26 May 2013
 
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 33. 
 Wieczorek J
 , 
@@ -2019,9 +1998,10 @@ PLoS ONE
 29715
 . 
 doi:10.1371/journal.pone.0029715
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 34. 
 Holetschek J
 , 
@@ -2040,10 +2020,10 @@ Plant Biosystems - An International Journal Dealing with all Aspects of Plant Bi
 : 
 771–779
 . doi:10.1080/ 11263504.2012.740085
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 35. 
 Kennedy J
 , 
@@ -2075,10 +2055,10 @@ http://www.tdwg.org/ proceedings/article/view/13
 26 May 2013
 
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 36. 
 Webb C
 , 
@@ -2094,10 +2074,10 @@ https://mbgserv18.mobot.org/ocs/index. php/tdwg/2011/paper/view/152
 26 May 2013
 
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 37. 
 Baskauf SJ
 (
@@ -2110,10 +2090,10 @@ Biodiversity Informatics
 : 
 17–44
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 38. 
 Field D
 , 
@@ -2134,10 +2114,10 @@ PLoS Biol
 : e 
 1001088
 . doi:10.1371/ journal.pbio.1001088
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 39. 
 Yilmaz P
 , 
@@ -2159,9 +2139,10 @@ Nat Biotech
 415–420
 . 
 doi:10.1038/nbt.1823
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 40. 
 Kottmann R
 , 
@@ -2189,9 +2170,10 @@ OMICS: A Journal of Integrative Biology
 115–121
 . 
 doi:10.1089/omi.2008.0A10
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 41. 
 Lapp H
 , 
@@ -2213,9 +2195,10 @@ Bulletin of the American Society for Information Science and Technology
 38–42
 . 
 doi:10.1002/bult.2011.1720370411
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 42. 
 Catapano T
 , 
@@ -2233,10 +2216,10 @@ Recommendations for the use of knowledge organization systems by GBIF version 1.
 . 
 Global Biodiversity Information Facility (GBIF), Copenhagen, Denmark
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 43. 
 Smith B
 , 
@@ -2260,9 +2243,10 @@ Nat Biotech
 
 . 
 doi:10.1038/nbt1346
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 44. 
 Wooley J
 , 
@@ -2280,9 +2264,10 @@ Standards in Genomic Sciences
 159
 . 
 doi:10.4056/sigs.26218
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 45. 
 Robbins RJ
 , 
@@ -2307,9 +2292,10 @@ Standards in Genomic Sciences
 7
 . 
 doi:10.4056/sigs.3156511
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 46. Ó 
 Tuama É
 , 
@@ -2334,9 +2320,10 @@ Standards in Genomic Sciences
 7
 . 
 doi:10.4056/sigs.3166513
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 47. 
 Deck J
 , 
@@ -2360,9 +2347,10 @@ Standards in Genomic Sciences
 2
 . 
 doi:10.4056/sigs.3907833
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 48. 
 Grenon P
 , 
@@ -2378,9 +2366,10 @@ Spatial Cognition and Computation
 6 9–1 0 3
 . doi: 
 1 0.1 2 0 7/ s15427633scc0401_5
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 49. 
 Arp R
 , 
@@ -2395,9 +2384,10 @@ Toronto, Canada
 1–4
 . doi: 
 10101/npre.2008.1941.1
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 50. 
 The Gene Ontology Consortium
 (
@@ -2416,9 +2406,11 @@ D559–D564
 
 doi:10.1093/nar/gkr 
 1028
-</p>
-         <p>
 
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 51. 
 The Gene Ontology Consortium
 (
@@ -2438,9 +2430,11 @@ Genome Research
 
 10.1101/ gr. 
 180801
-</p>
-         <p>
 
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 52. 
 Eilbeck K
 , 
@@ -2458,9 +2452,10 @@ Comparative and Functional Genomics
 642–647
 . 
 doi:10.1002/cfg.446
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 53. 
 Bada M
 , 
@@ -2477,6 +2472,7 @@ Cornet R
 Stevens R
 , editors. 
 Proceedings of the 3rd International Conference on Biomedical Ontology (ICBO
+
 2012
 
 ), 
@@ -2492,10 +2488,10 @@ http://ceur-ws.org/Vol-897/session3-paper13. pdf
 26 May 2013
 
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 54. 
 
 Brinkman 
@@ -2545,9 +2541,10 @@ S
 S
 7
 
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 55. 
 
 Horridge 
@@ -2589,6 +2586,8 @@ Proc of the
 2006
 OWL Experiences and Directions Workshop (
 OWL-ED
+
+
 2006
 
 ). 
@@ -2600,15 +2599,16 @@ http://ceur-ws.org/Vol-216/ submission_9.pdf
 26 May 2013
 
 .
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 56. 
 
 Cowell 
 
 LG
+
 
 , 
 
@@ -2633,6 +2633,7 @@ Infectious Disease Informatics: Springer-Verlag
 New 
 York
 
+
 . pp. 
 373–395
 . 
@@ -2641,9 +2642,10 @@ doi:10.1007/978-1-4419-
 1327
 -2_19
 
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 57. 
 
 Gkoutos 
@@ -2671,11 +2673,15 @@ Chesler
 
 EJ
 
+
 , 
 
 Haendel 
 
+
 MA
+
+
 
 , editors. 
 International Review of Neurobiology: Elsevier
@@ -2689,14 +2695,16 @@ B
 
 978- 0-12-388408-4.00004-6
 
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 58. 
 
 Hebert 
 
 P
+
 
 , 
 
@@ -2704,17 +2712,20 @@ Cywinska
 
 A
 
+
 , 
 
 Ball 
 
 S
 
+
 , 
 
 deWaard 
 
 J
+
 
 (
 
@@ -2724,7 +2735,9 @@ J
 
 Biological identifications through 
 
+
 DNA
+
 
 barcodes
 
@@ -2741,14 +2754,16 @@ B
 313–321
 . 
 doi:10.1098/rspb.2002.2218
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 59. 
 
 Check 
 
 E
+
 
 (
 
@@ -2762,9 +2777,10 @@ Nature
 : 
 378–379
 doi:10.1038/439378a
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 60. 
 
 Bizer 
@@ -2797,9 +2813,10 @@ IJSWIS
 1– 22
 . 
 doi:10.4018/jswis.2009081901
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 61. 
 
 MicroB
@@ -2825,9 +2842,11 @@ PU
 Accessed 
 
 31 July 2013
-</p>
-         <p>
 
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 62. 
 
 Stoltzfus 
@@ -2873,9 +2892,10 @@ doi:10.1186/
 1756
 -0500-5-574
 
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 63. 
 
 Lobo 
@@ -2904,9 +2924,10 @@ Ecography
 103–114
 . 
 doi:10.1111/j.1600-0587.2009.06039.x
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 64. 
 
 Ceusters 
@@ -2937,9 +2958,10 @@ International Journal of Medical Informatics
 333
 . 
 doi: 10.1016/j.ijmedinf.2007.02.003
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 65. 
 
 Haendel 
@@ -2977,9 +2999,10 @@ Anatomy Ontologies for Bioinformatics: Springer London
 327–349
 . 
 doi:10.1007/978-1-84628-885-2_16
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 66. 
 Madin JS
 , 
@@ -2999,7 +3022,9 @@ Trends in Ecology &amp; Evolution
 159–168
 . 
 doi:10.1016/j.tree.2007.11.007
-</p>
+</mixed-citation>
+            </ref>
+         </ref-list>
       </sec>
    </body>
 </article>

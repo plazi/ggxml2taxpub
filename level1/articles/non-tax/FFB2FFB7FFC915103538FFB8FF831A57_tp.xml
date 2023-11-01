@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article xmlns:tp="http://www.plazi.org/taxpub">
    <front>
+      <journal-meta>
+         <journal-id journal-id-type="other">N/A</journal-id>
+         <journal-title-group>
+            <journal-title/>
+         </journal-title-group>
+         <issn>N/A</issn>
+      </journal-meta>
       <article-meta>
-         <journal-meta>
-            <journal-title-group>
-               <journal-title/>
-            </journal-title-group>
-         </journal-meta>
---         <title-group>
+         <title-group>
             <article-title>Are publications on zoological taxonomy under attack?</article-title>
          </title-group>
+         <pub-date date-type="pub">
+            <year/>
+         </pub-date>
       </article-meta>
    </front>
    <body>
@@ -321,13 +326,6 @@ Entomological Society
 and 
 Malacologia
 ).
-</p>
-         <p>
-Figure 1. Scheme of selection of the 123 journals used in this study from the Web of Science Core Collection, Journal Citation Reports (JCR) Science Edition database of Clarivate. The selection was carried out from a total of 269 journals in Zoology (
-n
-= 69) and Entomology (
-n
-= 46) categories, plus top 10 zoological journals (TTJ, just eight are on JCR). Some journals are in more than one category, resulting in overlapping, two TTJ are not indexed in JCR.
 </p>
          <p>
 The average levels of self-citations in the period of 2010–2018 range from 0.0 to 24.2% in Zoology, 0.0–34.9% in Entomology and 4.6–34.9% in TTJ. For the last 5 years (2014–2018), these levels are 0.0– 27.3% in Zoology, 0.0–36.4% in Entomology and 4.5–36.4% in TTJ. The upper bounds of self-citation in the Entomology and TTJ categories are due to 
@@ -1322,15 +1320,6 @@ As non-bibliometric researchers, we assume that measures in bibliometric science
 ]).
 </p>
          <p>
-Figure 3. Percentage of citations received from all journals (green), from most-citing journal (yellow), and self-citations (red) in the category Entomology from Journal Citation Reports (JCR) Science Edition database of Clarivate. The data of most-citing journal are from 
-Zootaxa
-; except for 
-Zootaxa
-where it is 
-ZooKeys
-.
-</p>
-         <p>
 Apart from the controversies of whether JIF actually assesses a journal ‘quality’, it aims, together with other bibliometric indexes, to highlight citation patterns and trends in publications. Since its creation in the beginning of the 1970s ([
 10
 ], however, mentioned that it was designed in 1955; see also [
@@ -1349,16 +1338,6 @@ The adoption of scientific bibliometric indexes such as JIF has grown, especiall
 ].
 </p>
          <p>
-Figure 4. Percentage of citations received from all journals (greyish blue), from most-citing journal (yellow), and self-citations (red) for the top 10 zoological journals (TTJ, eight are on JCR) when the number of new available names is considered. Journal Citation Reports (JCR) Science Edition database of Clarivate. The data of most-citing journal are from 
-Zootaxa
-; except for 
-Zootaxa
-where it is 
-ZooKeys
-.
-</p>
-         <p>Figure 5. Mean percentage (dot) and standard deviation (line) of self-citations from 2010 to 2018 based on JCR/Clarivate 2019.</p>
-         <p>
 Although the use of JIF is not recommended for ranking human beings [
 13
 ], its impact in the real-life academic career is crystal clear. It is widely perceived that an academic researcher can only evolve in her/ his career by means of publishing in journals with high JIF values. The metric has well-known limitations when used to evaluate both journals or individual papers, because the index is strongly sensitive to what is considered a citable item [
@@ -1375,7 +1354,6 @@ of distortion, excluding or punishing ‘deviant’ journals. Indexing platforms
 Watchmen
 , written by Alan Moore, fits well here.
 </p>
-         <p>Figure 6. Mean of the ratio between JIF without self-citations and JIF (dot) and standard deviation (line) of journal impact factor (JIF) without self-citations from 2010 to 2018 based on JCR/Clarivate 2019.</p>
          <p>
 4.2. Metrics and taxonomy
 
@@ -1670,7 +1648,9 @@ André Adrian Padial (DBot—UFPR) helped a great deal with the statistical anal
 References
 
 </title>
-         <p>
+         <ref-list>
+            <ref>
+               <mixed-citation>
 1.
 
 Ioannidis JPA
@@ -1696,8 +1676,11 @@ Eur. J. Clin. Invest
 ]. (doi:10. 1111/eci.13151)
 
 
-</p>
-         <p>
+
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 2.
 
 Cortegiani A
@@ -1714,9 +1697,10 @@ F1000Research
 415
 . (doi:10.12688/ f1000research.23847.1)
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 3.
 
 Van Norden R.
@@ -1730,6 +1714,7 @@ citation stacking
 ’
 . 
 
+
 Nature
 
 500
@@ -1741,8 +1726,11 @@ Nature
 
 . (
 doi:10.1038/500510a)
-</p>
-         <p>
+
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 4.
 
 Larivière V
@@ -1761,9 +1749,10 @@ PLoS ONE
 0127502
 . (doi:10.1371/ journal.pone.0127502)
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 5.
 
 Glänzel W.
@@ -1784,9 +1773,10 @@ COLLNET J. Scientometrics Inf. Manage.
 doi:10.1080/09737766.2008
 .10700836)
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 6.
 
 
@@ -1802,9 +1792,10 @@ http://www.organismnames.com/metrics.htm?page=tsj
 
 ).
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 7.
 
 Wheeler B
@@ -1815,15 +1806,17 @@ lmPerm: Permutation Tests for Linear Models. See
 https://github.com/mtorchiano/lmPerm
 .
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 8.
 
 R 
 Core Team
 . 
 2018
+
 [Version 3.50] R: A language and environment for statistical computing
 
 . 
@@ -1831,7 +1824,8 @@ Vienna, Austria: R Foundation for Statistical Computing
 . 
 https://www.R-project.org
 .
-<p>
+
+
 9.
 Haustein S
 , 
@@ -1839,6 +1833,8 @@ Larivière
 
 V. 
 2015
+
+
 The use of bibliometrics for assessing research: possibilities, limitations and adverse effects
 . In 
 
@@ -1850,9 +1846,12 @@ Cham, Switzerland
 Springer
 .
 
-</p>
-         </p>
-         <p>
+
+
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 10.
 
 Garfield E.
@@ -1871,9 +1870,10 @@ Science
 
 .
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 11.
 
 Garfield E.
@@ -1888,9 +1888,10 @@ JAMA
 90
 . (doi:10.1001/jama.295.1.90)
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 12.
 
 Hecht F
@@ -1900,6 +1901,8 @@ Hecht BK
 Sandberg AA
 . 
 1998
+
+
 The journal
 ‘
 impact factor
@@ -1923,8 +1926,10 @@ Cancer Genet. Cytogenet
 )
 
 
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 13.
 
 Alberts B.
@@ -1939,7 +1944,8 @@ Science
 787
 . (
 doi:10.1126/science.1240319)
-<p>
+
+
 14.
 Chapman CA
 et al.
@@ -1960,9 +1966,13 @@ Proc. R. Soc. B
 )
 
 
-</p>
-         </p>
-         <p>
+
+
+
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 15.
 
 
@@ -1981,15 +1991,17 @@ PLoS Med.
 291
 . (doi:10.1371/ journal.pmed.0030291)
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 16.
 
 Vanclay JK
 . 
 2012
 Impact factor: outdated artefact or stepping-stone to journal certification?
+
 Scientometrics
 
 92
@@ -2001,8 +2013,11 @@ Scientometrics
 
 .(
 doi:10.1007/s11192-011-0561-0)
-</p>
-         <p>
+
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 17.
 
 Dimitrov J
@@ -2026,8 +2041,11 @@ Nature
 . (doi:10.1038/ 466179b)
 
 
-</p>
-         <p>
+
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 18.
 
 Clarivate Analytics
@@ -2041,9 +2059,10 @@ http:// help.incites.clarivate.com/incitesLiveJCR/ JCRGroup/titleSuppressions.ht
 
 ).
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 19.
 
 Wheeler QD
@@ -2063,22 +2082,25 @@ Syst. Biodivers.
 
 . (doi:10.1080/ 14772000.2012.665095)
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 20.
 
 Mayr E.
 1969
+
 Principles of systematic zoology
 
 . 
 New York, NY: McGraw-Hill
 .
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 21.
 
 Wheeler QD
@@ -2094,8 +2116,13 @@ series
 QD Wheeler). Boca Raton, FL: 
 CRC Press.
 
-</p>
-         <p>
+
+
+
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 22.
 
 Krell FT
@@ -2119,8 +2146,11 @@ Nature
 . (doi:10.1038/ 35014664)
 
 
-</p>
-         <p>
+
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 23.
 
 Rafael JA
@@ -2146,9 +2176,10 @@ Neotrop. Entomol.
 doi:10.1590/s1519-
 566x2009000500001)
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 24.
 
 Ebach MC
@@ -2174,9 +2205,10 @@ Cladistics
 doi:10.1111/j.1096-
 0031.2011.00348.x)
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 25.
 
 Crisci JV
@@ -2193,6 +2225,8 @@ The end of botany
 
 Trends Plant Sci.
 
+
+
 25
 , 
 
@@ -2204,9 +2238,10 @@ Trends Plant Sci.
 doi:10.1016/j.tplants.2020
 .09.012)
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 26.
 
 Meier R.
@@ -2225,9 +2260,10 @@ Syst. Entomol.
 
 . (doi:10.1111/ syen.12215)
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 27.
 
 Zhang Z-Q.
@@ -2250,9 +2286,10 @@ doi:10.11646/zootaxa
 2896.1.1
 )
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 28.
 
 Zhang Z-Q.
@@ -2277,7 +2314,7 @@ Zootaxa
 . (
 doi:10.11646/zootaxa.3753.6.6)
 
-<p>
+
 
 29. 
 
@@ -2301,9 +2338,16 @@ doi:10.1038/d41586-018-
 01642-w)
 
 
-</p>
-         </p>
-         <p>
+
+
+
+
+
+
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 30.
 
 Krüger AK
@@ -2323,7 +2367,8 @@ Polit.Gov.
 
 . (
 doi:10.17645/pag.v8i2.2575)
-<p>
+
+
 31.
 Reategui E
 ,
@@ -2348,9 +2393,12 @@ Scientometrics
 
 . (doi:10. 1007/s11192-020-03617-z)
 
-</p>
-         </p>
-         <p>
+
+
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 32.
 
 Monbiot G.
@@ -2366,8 +2414,11 @@ https://www.monbiot.com/
 2011/08/29
 /the-lairds-of-learning/]
 
-</p>
-         <p>
+
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 33.
 
 Szomszor M
@@ -2390,9 +2441,10 @@ Scientometrics
 
 . (doi:10.1007/ s11192-020-03417-5)
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 34.
 
 Chorus C
@@ -2409,9 +2461,10 @@ PLoS ONE
 0161021
 . (doi:10.1371/ journal.pone.0161021)
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 35.
 
 Brazilian Society of Herpetology
@@ -2420,9 +2473,10 @@ Brazilian Society of Herpetology
 http://sbherpetologia.org.br/ assets//Documentos/C%C3%B3pia%20de% 20SBH%20Zootaxa.docx
 .
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 36.
 
 Sociedad de Odonatologia Latinoamericana
@@ -2442,9 +2496,10 @@ http://www. odonatasol.org/wp-content/uploads/2020/07/ SOL-support-for-ZOOTAXA-1
 
 ).
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 37.
 
 Van Damme K.
@@ -2461,9 +2516,10 @@ https://www.gopetition.com/petitions/zootaxasuppressed-from-2019-jcr-data-2020-r
 
 ).
 
-
-</p>
-         <p>
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 38.
 
 Zootaxa
@@ -2474,7 +2530,8 @@ Statistics
 See
 https://www. mapress.com/zootaxa/support/Statistics.htm
 .
-<p>
+
+
 39.
 Peterson AT
 et al
@@ -2482,6 +2539,8 @@ et al
 2019
 Open access 
 solutions for biodiversity journals: do not replace one problem with another.
+
+
 
 Divers. Distrib.
 
@@ -2494,7 +2553,7 @@ Divers. Distrib.
 
 . (
 doi:10.1111/ddi.12888)
-<p>
+
 
 40. 
 Clarivate Analytics
@@ -2508,10 +2567,15 @@ See
 https://twitter.com/webofscience/ status/1288103038121648128?s=08
 .
 
-</p>
-            </p>
-         </p>
-         <p>
+
+
+
+
+
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 41.
 
 Curry S.
@@ -2536,10 +2600,10 @@ http:// occamstypewriter.org/scurry/
 
 ).
 
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 42. 
 
 
@@ -2560,9 +2624,12 @@ https://www.prnewswire.com/ news-releases/acquisition-of-the-thomson-reuters-int
 ).
 
 
-</p>
-         <p>
 
+
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 43. 
 
 
@@ -2586,8 +2653,9 @@ https://www.bpeasia.com/ news/191204-joint-press-release-on-clarivateanalytics/
 26 August 2020
 
 ).
-
-</p>
+</mixed-citation>
+            </ref>
+         </ref-list>
       </sec>
    </body>
 </article>

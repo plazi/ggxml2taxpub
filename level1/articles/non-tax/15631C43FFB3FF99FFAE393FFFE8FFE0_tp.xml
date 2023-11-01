@@ -2,14 +2,20 @@
 <article xmlns:tp="http://www.plazi.org/taxpub">
    <front>
       <journal-meta>
-         <journal-id>10.1038/nature22975</journal-id>
-         <issn/>
+         <journal-id journal-id-type="other">N/A</journal-id>
+         <journal-title-group>
+            <journal-title>Nature</journal-title>
+         </journal-title-group>
+         <issn>N/A</issn>
       </journal-meta>
       <article-meta>
+         <article-id pub-id-type="doi">10.1038/nature22975</article-id>
          <title-group>
             <article-title>Host and viral traits predict zoonotic spillover from mammals</article-title>
          </title-group>
-         <pub-date>
+         <pub-date date-type="pub">
+            <day>21</day>
+            <month>06</month>
             <year>2017</year>
          </pub-date>
       </article-meta>
@@ -45,6 +51,7 @@ Peter Daszak
 </p>
       </sec>
       <sec sec-type="synopsis">
+         <title>N/A</title>
          <p>
 The majority of human emerging infectious diseases are zoonotic, with viruses that originate in wild mammals of particular concern (for example, HIV, Ebola and SARS)
 
@@ -65,6 +72,7 @@ The majority of human emerging infectious diseases are zoonotic, with viruses th
 </p>
       </sec>
       <sec sec-type="introduction">
+         <title>N/A</title>
          <p>
 Viral zoonoses are a serious threat to public health and global security, and have caused the majority of recent pandemics in people 
 
@@ -186,10 +194,6 @@ The best-fit model for total viral richness per wild mammal species explained 49
 , and suggests that traits not captured in our analysis (for example, immunological function, social structure, and other life-history variables) may underlie their capacity to harbour a greater number of viral species. Our models to predict total viral richness were comparable when excluding virus– host associations detected by serology, that is, using the ‘stringent data’, and were robust when validated with random cross-validation tests (Extended Data Table 1; Supplementary Table 2). However, we identified several regions that showed significant bias when cross-validated by excluding mammals from zoogeographic areas, suggesting that there are location-specific factors that remain unexplained in our models (Methods; Supplementary Table 3).
 </p>
          <p>
-1
-EcoHealth Alliance, 460 West 34th Street, New York, New York 10001, USA.
-</p>
-         <p>
 Figure 1
 | 
 Observed viral richness in mammals. a
@@ -206,89 +210,6 @@ n
 = 32) mammal species; lines represent median boxes, interquartile range. Animal silhouettes from PhyloPic. Data based on 2,805 host–virus associations. See Methods for image credits and licensing.
 </p>
          <p>,</p>
-         <p>
-Figure 2
-| 
-
-Host traits that predict total viral richness (top row) and
-proportion of zoonotic viruses (bottom row) per wild mammal species.
-
-Partial effect plots show the relative effect of each variable included in the best-fit GAM, given the effect of the other variables. Shaded circles represent partial residuals; shaded areas, 95% confidence intervals around mean partial effect. 
-a–e
-, Best model for total viral richness includes: 
-a
-, number of disease-related citations per host species (research effort, log); 
-b
-, phylogenetic eigenvector regression (PVR) of body mass (log); 
-c
-, geographic range area of each species (log km 
-
-2
-
-); 
-d
-, number of sympatric mammal species overlapping with at least 20% area of target species range; and 
-e
-, mammalian orders. 
-f–i
-, Best model for proportion of zoonoses includes: 
-f
-, research effort (log); 
-g
-, phylogenetic distance from humans (cytochrome 
-b
-tree constrained to the topology of the mammal supertree 
-
-28
-
-); 
-h
-, ratio of urban to rural human population within species range; and 
-i
-, three mammalian orders. Bats are the only order with a significantly larger proportion of zoonotic viruses than would be predicted by the other variables in the all-data model. Three additional mammalian orders, and whether or not a species is hunted, improved the overall predictive power of the best zoonotic virus model but were non-significant and are not shown (see Extended Data Table 1).
-</p>
-         <p>
-Figure 3
-| 
-Global distribution of the predicted number of ‘missing zoonoses’ by order.
-Warmer colours highlight areas predicted to be of greatest value for discovering novel zoonotic viruses. 
-a
-, All wild mammals (
-n
-= 584 spp. included in the best-fit model). 
-b
-, Carnivores (order 
-<tp:taxon-name>Carnivora</tp:taxon-name>
-, 
-n
-= 55). 
-c
-, Even-toed ungulates (order 
-<tp:taxon-name>Cetartiodactyla</tp:taxon-name>
-, 
-n
-= 70). 
-d
-, Bats (order 
-<tp:taxon-name>Chiroptera</tp:taxon-name>
-, 
-n
-= 157). 
-e
-, 
-<tp:taxon-name>Primates</tp:taxon-name>
-(order 
-<tp:taxon-name>Primates</tp:taxon-name>
-, 
-n
-= 73). 
-f
-, Rodents (order 
-<tp:taxon-name>Rodentia</tp:taxon-name>
-, 
-n
-= 183). Hatched regions represent areas where model predictions deviate systematically for the assemblage of species in that grid cell (approximately 18 km × 18 km, see Methods). Animal silhouettes from PhyloPic.
-</p>
          <p>
 Our best model to predict the number of zoonotic viruses per wild mammal species explained 82% of the deviance, and included phylogenetic distance from humans, the ratio of urban to rural human population across a species range, host order, whether or not a species is hunted, disease-related research effort, and total viral richness (Extended Data Table 1). A large fraction of the deviance explained is driven by the observed total viral richness per host, supporting the biological assumption that the number of viruses that infect humans scales positively with the size of the potential ‘zoonotic pool’ 
 
@@ -372,20 +293,6 @@ and Extended Data
 ).
 </p>
          <p>
-Figure 4
-| 
-Traits that predict zoonotic potential of a virus. a
-, Box plot of maximum phylogenetic host breadth per virus (PHB, see methods) for each of 586 mammalian viruses, aggregated by 28 viral families. Individual points represent viral species, colour-coded by zoonotic status. Box plots coloured and sorted by the proportion of zoonoses in each viral family. 
-b–d
-, Partial effect plots for the best-fit GAM to predict the zoonotic potential of a virus. 
-b
-, Maximum PHB. Viruses that infect a phylogenetically broader range of hosts are more likely to be zoonotic. 
-c
-, Research effort (log, number of PubMed citations per viral species). 
-d
-, Whether or not a virus replicates in the cytoplasm or is vector-borne. Viral genome length and whether or not a virus is enveloped improved the overall predictive power but were non-significant and are not shown (see Extended Data Table 1).
-</p>
-         <p>
 Geographic hotspots of ‘missing zoonoses’ vary by host taxonomic order, with foci for carnivores and even-toed ungulates in eastern and southern Africa, bats in South and Central America and parts of Asia, primates in specific tropical regions in Central America, Africa, and southeast Asia; and rodents in pockets of North and South America and Central Africa. Areas where ‘missing zoonoses’ predictions were systematically biased varied by taxonomic order, but included large parts of Africa for the all-mammal dataset (
 
 , Extended Data 
@@ -455,6 +362,7 @@ infection experiments
 </p>
       </sec>
       <sec sec-type="multiple">
+         <title>N/A</title>
          <p>
 Online Content
 Methods,along with any additional Extended Data display items and Source Data, are available in the online version of the paper; references unique to these sections appear only in the online paper.
@@ -471,8 +379,10 @@ Published online 21 June 2017.
 </p>
       </sec>
       <sec sec-type="reference_group">
-         <p>
-
+         <title>N/A</title>
+         <ref-list>
+            <ref>
+               <mixed-citation>
 1. 
 Woolhouse, M. E. J.
 &amp; 
@@ -482,6 +392,7 @@ Host range and emerging and reemerging pathogens
 
 Emerg. Infect. Dis.
 
+
 11
 ,
 
@@ -489,10 +400,10 @@ Emerg. Infect. Dis.
 (
 2005
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 2. 
 Jones, K. E.
 
@@ -504,6 +415,7 @@ Global trends in emerging infectious diseases
 
 Nature
 
+
 451
 ,
 
@@ -511,10 +423,10 @@ Nature
 (
 2008
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 3. 
 Taylor,L. H.
 , 
@@ -526,6 +438,7 @@ Risk factors for human disease emergence
 
 Phil. Trans. R. Soc. Lond. B
 
+
 356
 ,
 
@@ -533,10 +446,10 @@ Phil. Trans. R. Soc. Lond. B
 (
 2001
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 4. 
 Morse, S. S.
 
@@ -548,6 +461,7 @@ Prediction and prevention of the next pandemic zoonosis
 
 Lancet
 
+
 380
 ,
 
@@ -555,10 +469,10 @@ Lancet
 (
 2012
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 5. 
 Parrish, C. R.
 
@@ -570,6 +484,7 @@ Cross-species virus transmission and the emergence of new epidemic diseases
 
 Microbiol. Mol. Biol. Rev.
 
+
 72
 ,
 
@@ -577,10 +492,10 @@ Microbiol. Mol. Biol. Rev.
 (
 2008
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 6. 
 Lipsitch, M.
 
@@ -592,6 +507,7 @@ Viral factors in influenza pandemic risk assessment
 
 eLife
 
+
 5
 ,
 
@@ -600,10 +516,10 @@ e
 (
 2016
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 7. 
 Pulliam, J. R. C.
 &amp; 
@@ -613,6 +529,7 @@ Ability to replicate in the cytoplasm predicts zoonotic transmission of livestoc
 
 J. Infect. Dis.
 
+
 199
 ,
 
@@ -620,10 +537,10 @@ J. Infect. Dis.
 (
 2009
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 8. 
 Woolhouse, M. E.
 , 
@@ -635,6 +552,7 @@ Emerging pathogens: the epidemiology and evolution of species jumps
 
 Trends Ecol. Evol.
 
+
 20
 ,
 
@@ -642,10 +560,10 @@ Trends Ecol. Evol.
 (
 2005
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 9. 
 Cooper, N.
 
@@ -657,6 +575,7 @@ Phylogenetic host specificity and understanding parasite sharing in primates
 
 Ecol. Lett.
 
+
 15
 ,
 
@@ -664,10 +583,10 @@ Ecol. Lett.
 (
 2012
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 10. 
 Davies,T.J.
 &amp; 
@@ -677,6 +596,7 @@ Phylogeny and geography predict pathogen community similarity in wild primates a
 
 Proc. R. Soc. Lond. B
 
+
 275
 ,
 
@@ -684,10 +604,10 @@ Proc. R. Soc. Lond. B
 (
 2008
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 11. 
 Gómez, J. M.
 , 
@@ -699,6 +619,7 @@ Centrality in primate-parasite networks reveals the potential for the transmissi
 
 Proc. Natl Acad. Sci. USA
 
+
 110
 ,
 
@@ -706,10 +627,10 @@ Proc. Natl Acad. Sci. USA
 (
 2013
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 12. 
 Luis, A.D.
 
@@ -717,8 +638,10 @@ et
 al.
 
 A comparison of bats and rodents as reservoirs of zoonotic viruses: are bats special?
+
 Proc. R. Soc. Lond. B
 .
+
 
 280
 ,
@@ -727,10 +650,10 @@ Proc. R. Soc. Lond. B
 (
 2013
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 13. 
 Brierley,L.
 , 
@@ -746,6 +669,7 @@ Quantifying global drivers of zoonotic bat viruses: a process-based perspective
 
 Am. Nat.
 
+
 187
 ,
 
@@ -754,10 +678,10 @@ E
 (
 2016
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 14. 
 Streicker, D. G.
 
@@ -769,6 +693,7 @@ Host phylogeny constrains cross-species emergence and establishment of rabies vi
 
 Science
 
+
 329
 ,
 
@@ -776,10 +701,10 @@ Science
 (
 2010
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 15. 
 Han, B. A.
 , 
@@ -793,6 +718,7 @@ Rodent reservoirs of future zoonotic diseases
 
 Proc. Natl Acad.Sci. USA
 
+
 112
 ,
 
@@ -800,10 +726,10 @@ Proc. Natl Acad.Sci. USA
 (
 2015
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 16. 
 Fauquet, C.
 , 
@@ -814,6 +740,7 @@ Maniloff, J.
 Desselberger,U.
 &amp; 
 Ball, L. A.
+
 Virus taxonomy: Eighth Report of the International Committee on Taxonomy of Viruses
 .
 
@@ -822,10 +749,10 @@ Elsevier Academic Press
 , 
 2005
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 17. 
 Dunn, R. R.
 , 
@@ -839,6 +766,7 @@ Global drivers of human pathogen richness and prevalence
 
 Proc.R. Soc. Lond. B
 
+
 277
 ,
 
@@ -846,10 +774,10 @@ Proc.R. Soc. Lond. B
 (
 2010
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 18. 
 Levinson, J.
 
@@ -861,6 +789,7 @@ Targeting surveillance for zoonotic virus discovery
 
 Emerg. Infect. Dis.
 
+
 19
 ,
 
@@ -868,10 +797,10 @@ Emerg. Infect. Dis.
 (
 2013
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 19. 
 Morse, S. S.
 in 
@@ -887,32 +816,10 @@ Oxford University Press
 , 
 1993
 ).
-
-</p>
-         <p>
-20. 
-Zhou, P.
-
-et 
-al.
-
-Contraction of the type I IFN locus and unusual constitutive expression of IFN-α in bats
-. 
-
-Proc. Natl Acad.Sci. USA
-
-113
-,
-
-2696–2701
-</p>
-         <p>
-(
-2016
-).
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 21. 
 Parker, I. M.
 
@@ -924,6 +831,7 @@ Phylogenetic structure and host abundance drive disease pressure in communities
 
 Nature
 
+
 520
 ,
 
@@ -931,10 +839,10 @@ Nature
 (
 2015
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 22. 
 Longdon, B.
 , 
@@ -950,6 +858,7 @@ The evolution and genetics of virus host shifts
 
 PLoS Pathog.
 
+
 10
 ,
 
@@ -958,10 +867,10 @@ e
 (
 2014
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 23. 
 Ge,X.-Y.
 
@@ -973,6 +882,7 @@ Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2
 
 Nature
 
+
 503
 ,
 
@@ -980,10 +890,10 @@ Nature
 (
 2013
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 24. 
 Organtini,L. J.
 , 
@@ -999,6 +909,7 @@ Global displacement of canine parvovirus by a host-adapted variant: A structural
 
 J. Virol.
 
+
 89
 ,
 
@@ -1006,10 +917,10 @@ J. Virol.
 (
 2015
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 25. 
 Anthony,S. J.
 
@@ -1021,6 +932,7 @@ A strategy to estimate unknown viral diversity in mammals
 
 MBio
 
+
 4
 ,
 
@@ -1029,10 +941,10 @@ e
 (
 2013
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 26. 
 Drexler, J. F.
 
@@ -1044,6 +956,7 @@ Bats host major mammalian paramyxoviruses
 
 Nat. Commun.
 
+
 3
 ,
 
@@ -1051,10 +964,10 @@ Nat. Commun.
 (
 2012
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 27. 
 Geoghegan,J. L.
 , 
@@ -1068,6 +981,7 @@ Virological factors that increase the transmissibility of emerging human viruses
 
 Proc. Natl Acad. Sci. USA
 
+
 113
 ,
 
@@ -1075,10 +989,10 @@ Proc. Natl Acad. Sci. USA
 (
 2016
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 28. 
 Fritz, S. A.
 , 
@@ -1091,6 +1005,7 @@ Geographical variation in predictors of mammalian extinction risk: big is bad, b
 Ecol. Lett
 .
 
+
 12
 ,
 
@@ -1098,22 +1013,26 @@ Ecol. Lett
 (
 2009
 ).
-
-</p>
+</mixed-citation>
+            </ref>
+         </ref-list>
       </sec>
       <sec sec-type="multiple">
+         <title>N/A</title>
          <p>
 Supplementary Information
 is available in the online version of the paper.
 </p>
       </sec>
       <sec sec-type="acknowledgments">
+         <title>N/A</title>
          <p>
 Acknowledgements
 This research was supported by the United States Agency for International Development (USAID) Emerging Pandemic Threats PREDICT program; and NIH NIAID awards R01AI079231 and R01AI110964. The authors thank C. N. Basaraba, J. Baxter, L. Brierley, E. A.Hagan, J. Levinson,E. H. Loh, L. Mendiola, N. Wale and A.R.Willoughby for assistance with data collection, and B. M. Bolker,A.R. Ives, K. E. Jones,C. K.Johnson, A. M. Kilpatrick, J. A.K. Mazet and M. E. J. Woolhouse for comments.
 </p>
       </sec>
       <sec sec-type="multiple">
+         <title>N/A</title>
          <p>
 Author Contributions
 K.J.O., T.L.B.and P.D. designed the study and supervised the collection of data.N.R., P.R.H. and K.J.O.designed the statistical approach, wrote the code, and generated figures. K.J.O. performed phylogenetic analyses. C.Z.-T. performed spatial analyses. All authors were involved in writing the manuscript.
@@ -1129,6 +1048,7 @@ thanks J. Dushoff and the other anonymous reviewer(s) for their contribution to 
 </p>
       </sec>
       <sec sec-type="materials_methods">
+         <title>N/A</title>
          <p>No statistical methods were used to predetermine sample size. The experiments were not randomized and the investigators were not blinded to allocation during experiments and outcome assessment.</p>
          <p>
 Database.
@@ -1538,8 +1458,10 @@ All R code and R package dependencies needed to fully replicate and evaluate the
 </p>
       </sec>
       <sec sec-type="reference_group">
-         <p>
-
+         <title>N/A</title>
+         <ref-list>
+            <ref>
+               <mixed-citation>
 29. 
 Nunn, C. L.
 &amp; 
@@ -1549,6 +1471,7 @@ The global mammal parasite database: An online resource for infectious disease r
 
 Evol. Anthropol.
 
+
 14
 ,
 
@@ -1556,10 +1479,10 @@ Evol. Anthropol.
 (
 2005
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 30. 
 Olival,K. J.
 , 
@@ -1589,10 +1512,10 @@ Oxford University Press
 , 
 2012
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 31. 
 Calisher, C. H.
 , 
@@ -1608,6 +1531,7 @@ Bats: important reservoir hosts of emerging viruses
 
 Clin. Microbiol. Rev.
 
+
 19
 ,
 
@@ -1615,12 +1539,13 @@ Clin. Microbiol. Rev.
 (
 2006
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 32. 
 Scherf, B. D.
+
 World Watch List for Domestic Animal Diversity.
 3rd edn
 
@@ -1629,10 +1554,10 @@ Food and Agriculture Organization of the United Nations
 , 
 2000
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 33. 
 IUCN
 . 
@@ -1644,10 +1569,10 @@ http://www. iucnredlist.org
 (
 2014
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 34. 
 Epstein,J. H.
 &amp; 
@@ -1657,6 +1582,7 @@ The significant but understudied impact of pathogen transmission from humans to 
 
 Mt. Sinai J. Med.
 
+
 76
 ,
 
@@ -1664,10 +1590,10 @@ Mt. Sinai J. Med.
 (
 2009
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 35. 
 Messenger, A. M.
 , 
@@ -1679,6 +1605,7 @@ Reverse zoonotic disease transmission (zooanthroponosis): a systematic review of
 
 PLoS One
 
+
 9
 ,
 
@@ -1687,10 +1614,10 @@ e
 (
 2014
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 36. 
 Jones, K. E.
 
@@ -1702,6 +1629,7 @@ PanTHERIA:a species-level database of life history,ecology, and geography of ext
 
 Ecology
 
+
 90
 ,
 
@@ -1709,10 +1637,10 @@ Ecology
 (
 2009
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 37. 
 de Magalhães,J. P.
 &amp; 
@@ -1723,6 +1651,7 @@ A database of vertebrate longevity records and their relation to other life-hist
 J. Evol. Biol
 .
 
+
 22
 ,
 
@@ -1730,10 +1659,10 @@ J. Evol. Biol
 (
 2009
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 38. 
 Cooper, N.
 , 
@@ -1745,6 +1674,7 @@ Host longevity and parasite species richness in mammals
 
 PLoS One
 
+
 7
 ,
 
@@ -1753,16 +1683,17 @@ e
 (
 2012
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 39. 
 Felsenstein, J.
 Phylogenies and the comparative method
 . 
 
 Am. Nat.
+
 
 125
 ,
@@ -1771,10 +1702,10 @@ Am. Nat.
 (
 1985
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 40. 
 Blomberg, S. P.
 , 
@@ -1786,6 +1717,7 @@ Testing for phylogenetic signal in comparative data: behavioral traits are more 
 
 Evolution
 
+
 57
 ,
 
@@ -1793,16 +1725,17 @@ Evolution
 (
 2003
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 41. 
 Grafen,A.
 The phylogenetic regression
 . 
 
 Phil. Trans. R. Soc. Lond. B
+
 
 326
 ,
@@ -1811,10 +1744,10 @@ Phil. Trans. R. Soc. Lond. B
 (
 1989
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 42. 
 Diniz-Filho,J. A. F.
 
@@ -1826,6 +1759,7 @@ On the selection of phylogenetic eigenvectors for ecological analyses
 
 Ecography
 
+
 35
 ,
 
@@ -1833,10 +1767,10 @@ Ecography
 (
 2012
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 43. 
 Diniz-Filho,J. A. F.
 , 
@@ -1848,6 +1782,7 @@ An eigenvector method for estimating phylogenetic inertia
 
 Evolution
 
+
 52
 ,
 
@@ -1855,10 +1790,10 @@ Evolution
 (
 1998
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 44. 
 Bininda-Emonds, O. R. P.
 
@@ -1870,6 +1805,7 @@ The delayed rise of present-day mammals
 
 Nature
 
+
 446
 ,
 
@@ -1877,10 +1813,10 @@ Nature
 (
 2007
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 45. 
 Paradis, E.
 , 
@@ -1892,6 +1828,7 @@ APE:analyses of phylogenetics and evolution in R language
 
 Bioinformatics
 
+
 20
 ,
 
@@ -1899,10 +1836,10 @@ Bioinformatics
 (
 2004
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 46. 
 Edgar, R. C.
 MUSCLE:multiple sequence alignment with high accuracy and high throughput
@@ -1911,6 +1848,7 @@ MUSCLE:multiple sequence alignment with high accuracy and high throughput
 Nucleic Acids Res
 .
 
+
 32
 ,
 
@@ -1918,10 +1856,10 @@ Nucleic Acids Res
 (
 2004
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 47. 
 Stamatakis,A.
 , 
@@ -1933,6 +1871,7 @@ A rapid bootstrap algorithm for the RAxML Web servers
 
 Syst.Biol.
 
+
 57
 ,
 
@@ -1940,10 +1879,10 @@ Syst.Biol.
 (
 2008
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 48. 
 Cuthill,J. H.
 &amp; 
@@ -1953,6 +1892,7 @@ A simple model explains the dynamics of preferential host switching among mammal
 
 Evolution
 
+
 67
 ,
 
@@ -1960,10 +1900,10 @@ Evolution
 (
 2013
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 49. 
 Poulin, R.
 , 
@@ -1975,6 +1915,7 @@ Host specificity in phylogenetic and geographic space
 
 Trends Parasitol.
 
+
 27
 ,
 
@@ -1982,10 +1923,10 @@ Trends Parasitol.
 (
 2011
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 50. 
 Poulin, R.
 &amp; 
@@ -1995,6 +1936,7 @@ Parasite specialization from a phylogenetic perspective: a new index of host spe
 
 Parasitology
 
+
 126
 ,
 
@@ -2002,10 +1944,10 @@ Parasitology
 (
 2003
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 51. 
 R Core Team
 R: A language and environment for statistical computing
@@ -2016,10 +1958,10 @@ http://www.R-project. org/
 (
 2014
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 52. 
 Marra,G.
 &amp; 
@@ -2029,6 +1971,7 @@ Practical variable selection for generalized additive models
 
 Comput. Stat.Data Anal.
 
+
 55
 ,
 
@@ -2036,10 +1979,10 @@ Comput. Stat.Data Anal.
 (
 2011
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 53. 
 Pawitan,Y.
 
@@ -2051,10 +1994,10 @@ Oxford University Press
 , 
 2001
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 54. 
 Holt, B. G.
 
@@ -2066,6 +2009,7 @@ An update of Wallace’s zoogeographic regions of the world
 
 Science
 
+
 339
 ,
 
@@ -2073,10 +2017,10 @@ Science
 (
 2013
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 55. 
 QGIS Geographic Information System
 . 
@@ -2085,10 +2029,10 @@ http://www.qgis.org/
 (
 2016
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 56. 
 Goldewijk, K. K.
 , 
@@ -2103,6 +2047,7 @@ The HYDE 3.1 spatially explicit database of human-induced global land-use change
 Glob. Ecol. Biogeogr
 .
 
+
 20
 ,
 
@@ -2110,28 +2055,29 @@ Glob. Ecol. Biogeogr
 (
 2011
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 57. 
 raster: Geographic Data Analysis and Modeling version 2.3-40
 https:// cran.r-project.org/package=raster
 (
 2015
 ).
-
-</p>
-         <p>
-
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
 58. 
 sp: Classes and Methods for Spatial Data version 1.2-1
 https://cran.r-project. org/package=sp
 (
 2015
 ).
-
-</p>
+</mixed-citation>
+            </ref>
+         </ref-list>
       </sec>
       <p>
 
