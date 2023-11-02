@@ -35,9 +35,7 @@
                 <year><xsl:value-of select="mods:relatedItem[@type = 'host']/mods:part/mods:date"/></year>
             </pub-date>
         </article-meta>
-        <kwd-group>
-            <xsl:apply-templates select="//taxonomicName" mode="art-kwd"/>
-        </kwd-group>
+        
     </xsl:template>
 
     <xsl:template match="subSection">
@@ -219,8 +217,10 @@
                 </xsl:choose>
                 
             </pub-date>
-
-        </article-meta>
+            <kwd-group>
+                <xsl:apply-templates select="//taxonomicName" mode="article-kwd"/>
+            </kwd-group>
+        </article-meta>  
     </xsl:template>
     
     <xsl:template match="mods:number[parent::mods:detail[@type = 'pubDate']]">
@@ -259,7 +259,7 @@
         <xsl:apply-templates mode="main"/>
     </xsl:template>
     
-    <xsl:template name="art-kwd">
+    <xsl:template match="taxonomicName" mode="article-kwd">
         <xsl:element name="kwd">
             <xsl:attribute name="content-type">
                 <xsl:choose>
