@@ -35,6 +35,9 @@
                 <year><xsl:value-of select="mods:relatedItem[@type = 'host']/mods:part/mods:date"/></year>
             </pub-date>
         </article-meta>
+        <kwd-group>
+            <xsl:apply-templates select="//taxonomicName" mode="art-kwd"/>
+        </kwd-group>
     </xsl:template>
 
     <xsl:template match="subSection">
@@ -254,6 +257,24 @@
             <xsl:text>NO TEMPLATE (MAIN MODE)</xsl:text>
         </xsl:message>
         <xsl:apply-templates mode="main"/>
+    </xsl:template>
+    
+    <xsl:template name="art-kwd">
+        <xsl:element name="kwd">
+            <xsl:attribute name="content-type">
+                <xsl:choose>
+                    <xsl:when test="ancestor::subSubSection[@type = 'nomenclature']">
+                        <xsl:text>nominate-taxon</xsl:text>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:text>mentioned-taxon</xsl:text>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:attribute>
+            <tp:taxon-name>
+                <xsl:value-of select="."/>
+            </tp:taxon-name>
+        </xsl:element>
     </xsl:template>
 
 </xsl:stylesheet>
