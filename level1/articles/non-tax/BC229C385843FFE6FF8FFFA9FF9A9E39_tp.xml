@@ -21,14 +21,22 @@
       </article-meta>
    </front>
    <body>
-      <p>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 RESTORATION ECOLOGY
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 The global tree restoration potential
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Jean-Francois Bastin
 
 1
@@ -71,7 +79,10 @@ Thomas W. Crowther
 1
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 The restoration of trees remains among the most effective strategies for climate change
 mitigation. We mapped the global potential tree coverage to show that 4.4 billion hectares
 of canopy cover could exist under the current climate. Excluding existing trees and
@@ -84,83 +95,84 @@ potential canopy cover may shrink by ~223 million hectares by 2050, with the vas
 of losses occurring in the tropics. Our results highlight the opportunity of climate change
 mitigation through global tree restoration but also the urgent need for action.
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 P
 hotosynthetic carbon capture by trees is likely to be among our most effective strat- egies to limit the rise of CO 
 2
 concentra- tions across the globe (
 
-1
+
 
 – 
 
-3
-
 ). Consequently, a number of international initiatives [such as the Bonn Challenge, the related AFR100, and the New York Declaration on Forests (
 
-4
+
 
 , 
 
-5
+
 
 )] have established ambitious targets to promote forest conservation, afforestation, and restoration at a global scale. The latest special report (
 
-1
+
 
 ) by the Intergovernmental Panel on Climate Change (IPCC) suggests that an increase of 1 billion ha of forest will be necessary to limit global warm- ing to 1.5°C by 2050.However, it remains unclear whether these restoration goals are achievable because we do not know how much tree cover might be possible under current or future cli- mate conditions or where these trees could exist.
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Previous efforts to estimate global tree cover potential have scaled existing vegetation esti- mates to the biome or ecoregion levels to provide coarse approximations of global forest degra- dation (
 
-6
+
 
 , 
 
-7
+
 
 ). However, quantitatively evaluating which environments could support trees requires that we build models using direct measurements of tree cover (independent of satellite-derived models) from protected areas, where vegetation cover has been relatively unaffected by human activity. With enough observations that span the entire range of environmental conditions, from the lowest to the highest possible tree cover, we can interpolate these “natural tree cover” estimates across the globe to generate a predictive understanding of the potential tree cover in the absence of human activity.
 </p>
-      <p>To explore the determinants of potential tree cover, we used 78,774 direct photo-interpretation</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>To explore the determinants of potential tree cover, we used 78,774 direct photo-interpretation</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 measurements (data file S1) (
 
-8
-
 ) of tree cover across all protected regions of the world (fig. S1) (
-
-9
 
 , 
 10
 ). Using global environmental layers (table S1) (
 
-11
-
 ), we examined how climate, edaphic, and topographic variables drive the variation in nat- ural tree cover across the globe. The focus on protected areas is intended to approximate nat- ural tree cover. Of course, these regions are not entirely free of human activity (
 
-11
+
 
 ), presenting slightly lower tree cover than expected in some regions or higher tree cover than expected in other regions because of low fire frequency, but these ecosystems represent areas with minimal human influence on the overall tree cover. We then used a random forest machine-learning ap- proach (
 
-12
-
 ) to examine the dominant environ- mental drivers of tree cover and generated a predictive model (
-
+Fig. 1
 ) that enables us to inter- polate potential tree cover across terrestrial eco- systems. The resulting map— Earth’ s tree carrying capacity— defines the tree cover per pixel that could potentially exist under any set of environ- mental conditions, with minimal human activity (
-
+Fig. 2A
 ). This work is directly underpinned by our systematic dataset of direct tree cover mea- surements (entirely independent of climate and modeled remote sensing estimates) (
-
-13
 
 ) across the globe (fig. S1) (
 10
 ).
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Across the world’ s protected areas (fig. S2), tree cover ranged between peaks of 0% in dry desert and 100% in dense equatorial forest, with fewer values falling between these two extremes (figs. S2 and S3). We paired these tree cover measurements with 10 global layers of soil and climate data (table S1) (
-
-11
 
 ). Our resulting random forest model had high predictive power [coefficient of determination (
 R
@@ -168,12 +180,10 @@ R
 2
 
 ) = 0.86; intercept = –2.05% tree cover; slope = 1.06] (
-
+Fig. 1
 ); rigorous 
 k
 -fold cross-validation (fig. S4A) (
-
-11
 
 ) revealed that our model could explain ~71% of the variation in tree cover without bias (
 R
@@ -181,151 +191,163 @@ R
 k
 -fold cross-validation approach also allows us
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 to generate a spatially explicit understanding of model uncertainty (figs. S5 and S6) (
-
-11
 
 ). Across all pixels, the mean standard deviation around the modeled estimate is ~9% in tree cover (28% of the mean tree cover) (figs. S5 and S6) (
 
-11
-
 ). As such, these models accurately reflected the dis- tribution of tree cover across the full range of protected areas. We then interpolated this random forest model across all terrestrial ecosystems using all 10 soil and climate variables to project potential tree cover across the globe under exist- ing environmental conditions.
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 The resulting map reveals Earth’ s tree carrying capacity at a spatial resolution of 30 arc sec (
-
+Fig. 2A
 ). The model accurately predicts the presence of forest in all existing forested land on the planet (fig.S7A) but also reveals the extent of tree cover that could naturally exist in regions beyond existing forested lands. The most recent Food and Agriculture Organization of the United Nations (FAO) definition of “forest” corresponds to a land of at least 0.5 ha covered by at least 10% tree
 </p>
-      <p>
-
-1Crowther Lab, Department of Environmental Systems Science, Institute of Integrative Biology, ETH-Zürich, Zürich, Switzerland. 2Food and Agriculture Organization of the United Nations, Rome, Italy. 3Department of Environmental Systems Science, Institute of Integrative Biology, ETH-Zürich, Zürich, Switzerland. 4Centre de Coopération Internationale en la Recherche Agronomique pour le Développement (CIRAD), UR Forest and Societies, Montpellier, France. 
-*Corresponding author. Email: bastin.jf@gmail.com
-
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 cover and without agricultural activity or human settlements (
 
-14
+
 
 ). Using this definition, our map reveals that about two-thirds of terrestrial land, 8.7 billion ha, could support forest (table S2). That value is 3.2 billion ha more than the current forested area (fig. S7A) (
 
-11
+
 
 , 
 
-15
+
 
 ). We estimate that 1.4 billion ha of this potential forest land is located in croplands (&gt;99%) and urban areas (&lt;1%), as delineated by the European Space Agency’ s global land cover model (fig. S7B and table S2) (
-
-16
 
 ), and 1.5 billion ha with croplands as delineated by Fritz 
 et al
 . (fig. S7C and table S2) (
 
-17
-
 ). Therefore, ~1.7 billion to 1.8 billion ha of potential forest land (defined as&gt;10% tree cover) exists in areas that were previously degraded, dominated by sparse vegetation, grasslands, and degraded bare soils.
 </p>
-      <p>To avoid the pitfalls of categorical forest definitions, we also evaluated the tree canopy cover in a truly continuous scale (fig. S8). We refer to “canopy cover” as the area of the land that is covered by tree crown vertically projected to the ground (for example, 50% of tree cover over 1 ha corresponds to 0.5 ha of canopy cover) (fig. S8). By accounting for all levels of tree cover (from 0 to 100%), this approach balances the relative contribution of different forest types (such as woodlands, open forest, and dense forest) and of wooded lands outside forests (such as savannas) across the globe.</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>To avoid the pitfalls of categorical forest definitions, we also evaluated the tree canopy cover in a truly continuous scale (fig. S8). We refer to “canopy cover” as the area of the land that is covered by tree crown vertically projected to the ground (for example, 50% of tree cover over 1 ha corresponds to 0.5 ha of canopy cover) (fig. S8). By accounting for all levels of tree cover (from 0 to 100%), this approach balances the relative contribution of different forest types (such as woodlands, open forest, and dense forest) and of wooded lands outside forests (such as savannas) across the globe.</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 In total, 4.4 billion ha of canopy cover can be supported on land under existing climate conditions (pixel uncertainty = 28%; global uncertainty &lt;1%) (table S2) (
 
-11
+
 
 ). This value is 1.6 billion ha more than the 2.8 billion ha existing on land today (
 10
 , 
 
-15
-
 ). Of course, much of the land that could potentially support trees across the globe is currently used for human development and agriculture, which are necessary for supporting an ever-growing human population. On the basis of both the European Space Agency’ s global land cover model (
-
-16
 
 ) and on Fritz and colleagues cropland layer (
 
-17
-
 ), we estimate that 0.9 billion hectares are found outside cropland and urban regions (
-
+Fig. 2
 , B and C, and table S2) (
 
-11
+
 
 ) and may represent regions for potential restoration. More than 50% of the tree restoration potential can be found in only six countries (in million hectares:Russia,+151;United States, +103; Canada, +78.4; Australia, +58; Brazil, +49.7; and China, +40.2) (data file S2), stressing the important responsibility of some of the world’ s leading economies. By comparing our country-level results to the commitments of 48 countries in the Bonn Challenge (
 
-4
-
 ), we can provide a scientific evaluation of the country-level restoration targets. Approximately 10% of countries have committed to restoring an area of land that considerably exceeds the total area that is available for restoration (data file S2). By contrast, over 43% of the countries have committed to restore an area that is less than 50% of the area available for restoration. These results reinforce the need for better country-level forest accounting, which is critical for developing effective management and restoration strategies. Of course, it remains unclear what proportion of this land is public or privately owned, and so we cannot identify how much land is truly available for restoration. However, at a global scale, our model suggests that the global forest restoration target proposed by the IPCC (
 
-1
+
 
 ) of 1 billion ha (defined as&gt;10% tree cover) is undoubtedly achievable under the current climate. By scaling these forest area calculations by biome-level mean estimates of carbon storage (
 
-18
-
 , 
 
-19
+
 
 ), we estimate that vegetation in the potential restoration areas could store an additional 205 gigatonnes of carbon (GtC) if they were restored to the status of existing forests (table S2).
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Our model accurately depicts the regions where tree growth is possible under existing environmental conditions. However, changing climate conditions may alter the area of land that could support forest growth over the rest of the century, a point that needs to be considered when developing long-term restoration projects. We tested this possibility by rerunning our potential tree cover model under future climate conditions, projected under three Earth System Models (
 10
 ) and two Representative Concentration Pathways (RCP) scenarios (RCP 4.5 and 8.5) (
 
-1
+
 
 ). Under both scenarios, the global tree carrying capacity is lower than the present day potential because of reductions in the potential area of tropics. This is in stark contrast to most current model predictions, which expect global tree cover to increase under climate change (
 
-20
-
 ). Although warming is likely to increase tree cover in cold regions with low tree cover (for example, in northern boreal regions such as Siberia) or with existing open forests (such as in tropical drylands) (
-
+Fig. 3
 ), our model highlights the high probability of consistent declines of tropical rainforests with high tree cover. Because the average tree cover in the expanding boreal region (30 to 40%) is lower than that in declining tropical regions (90 to 100%), our global evaluation suggests that the potential global canopy cover will decrease under future climate scenarios, even if there is a larger total forest area with&gt;10% tree cover. Therefore, despite potential increases in canopy cover in boreal (~130 Mha), desertic (~30 Mha), montane (~30 Mha), and temperate (~30 Mha) regions, the potential loss of forest habitat in tropical regions (~450 Mha) leads to a global loss of 223 Mha of potential canopy cover by 2050, correspond- ing to 46 GtC (
-
+Fig. 3B
 and table S3). Such risks of loss do not account for future changes in land use, such as pasture and cattle raising (
-
-7
 
 ), which might also contribute to the urgency of the situation.
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 These models of future changes in tree cover potential reveal insights into how the structure of vegetation might change over time. Of course, these models are characterized by high uncertainty because, unlike the present-day interpolations, we rely on extrapolation of our machine-learning models outside of the existing range of global climate conditions. These extrapolations cannot be considered to be future projections of potential forest extent because they do not incorporate any of the ecological, hydrological, and biogeochemical feedbacks that would be associated with changes in forest cover. For example, it is possible that elevated CO 
 2
 concentrations under future climate scenarios might enhance the growth of those existing trees, although recent evidence suggests that increased growth rate does not necessarily translate to increase of carbon storage (
 
-21
-
 ). However, our approach has a strong predictive power to describe the potential tree cover in the absence of humans under any given set of future climate scenarios.
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 The global photointerpretation dataset offers the capacity to characterize the potential tree cover under any given set of environmental conditions. The resulting openly accessible map can serve as a benchmark map to assess restoration opportunities (such as tree planting and natural assisted regeneration) around the globe, with a tree cover of reference that respects the natural ecosystem type (for example, from wooded savannah to dense forest). However, restoration initiatives must not lead to the loss of existing natural ecosystems, such as native grasslands, that can support huge amounts of natural biodiversity and carbon. Using existing global land- cover layers (
 
-15
+
 – 
-17
+
 
 ), our maps reveal that there is likely to be space for at least an additional 0.9 billion ha of canopy cover. If these restored woodlands and forests were allowed to mature to a similar state of existing ecosystems in protected areas, they could store 205 GtC. Of course, the carbon capture associated with global restoration could not be instantaneous because it would take several decades for forests to reach maturity. Nevertheless, under the assumption that most of this additional carbon was sourced from the atmosphere, reaching this maximum restoration potential would reduce a considerable proportion of the global anthropogenic carbon burden (~300 GtC) to date (
 
-1
-
 ). This places ecosystem restoration as the most effective solution at our disposal to mitigate climate change.
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 REFERENCES AND NOTES
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 1. 
 
@@ -339,7 +361,10 @@ IPCC
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 2. 
 B. W. Griscom
@@ -363,7 +388,10 @@ Proc. Natl. Acad. Sci. U.S.A
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 3. 
 S. L. Lewis
@@ -390,7 +418,10 @@ Nature
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 4. 
 United Nations Environment Programme
@@ -403,7 +434,10 @@ The Bonn Challenge
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 5. 
 UN Climate Summit
@@ -414,7 +448,10 @@ New York Declaration on Forests
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 6. 
 P. Potapov
@@ -433,7 +470,10 @@ World Resources Institute
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 7. 
 K.-H. Erb
@@ -455,7 +495,10 @@ Nature
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 8. 
 A. Bey
@@ -475,7 +518,10 @@ Remote Sens
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 9. 
 United Nations Educational
@@ -491,8 +537,14 @@ UNESCO
 ).
 
 </p>
-      <p>10. Materials and methods are available as supplementary materials.</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>10. Materials and methods are available as supplementary materials.</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 11. 
 K. R. Jones
@@ -514,7 +566,10 @@ Science
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 12. 
 L. Breiman
@@ -537,7 +592,10 @@ Mach. Learn
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 13. 
 J.-F. Bastin
@@ -559,7 +617,10 @@ Science
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 14. Food and Agriculture Organization (FAO), 
 
@@ -573,7 +634,10 @@ FAO
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 15. 
 M. C. Hansen
@@ -595,7 +659,10 @@ Science
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 16. 
 O. Arino
@@ -611,7 +678,10 @@ European Space Agency, Université catholique de Louvain, PANGAEA, 2012
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 17. 
 S. Fritz
@@ -635,7 +705,10 @@ Glob. Chang. Biol
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 18. 
 Y. Pan
@@ -657,7 +730,10 @@ Science
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 19. 
 J. Grace
@@ -688,7 +764,10 @@ J. Biogeogr
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 20. 
 X.-P. Song
@@ -710,7 +789,10 @@ Nature
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 21. 
 U. Büntgen
@@ -730,12 +812,21 @@ Nat. Commun
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 ACKNOWLEDGMENTS
 
 </p>
-      <p>We warmly thank all the members of the Crowther lab team, not listed as coauthors of the study, for their incredible support. We also are very grateful to the Google Earth Outreach team for</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>We warmly thank all the members of the Crowther lab team, not listed as coauthors of the study, for their incredible support. We also are very grateful to the Google Earth Outreach team for</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 allowing us the storage expansion for our laboratory. 
 Funding:
 map is accessible online at https://code.earthengine.google.com/ This work was supported by grants to T.W.C. from DOB Ecology, ee5cf5186b5ad0f659cc7a43054f072c, and all related layers are Plant-for-the-Planet, and the German Federal Ministry for Economic accessible online at www.crowtherlab.com or upon request to the Cooperation and Development. The data collection was partially corresponding author. supported by the International Climate Initiative of the Federal Ministry for the Environment, Nature Conservation, Building and 
@@ -744,92 +835,174 @@ Nuclear Safety of Germany.
 Author contributions:
 J.-F.B. conceived
 </p>
-      <p>science.sciencemag.org/content/365/6448/76/suppl/DC1 the study. J.-F.B. and D.R. performed the analyses. J.-F.B., Y.F.,</p>
-      <p>Materials and Methods C.G., D.M., M.R., D.R., C.M.Z., and T.W.C. wrote the manuscript.</p>
-      <p>
-
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>science.sciencemag.org/content/365/6448/76/suppl/DC1 the study. J.-F.B. and D.R. performed the analyses. J.-F.B., Y.F.,</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Materials and Methods C.G., D.M., M.R., D.R., C.M.Z., and T.W.C. wrote the manuscript.</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+Figs. S1
 to S12 
 Competing interests:
 The authors declare that there are no
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Tables S1 to S3 competing interests. 
 Data and materials availability:
 All data are
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 References (
 22–29
 ) available in the manuscript or the supplementary materials. The
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Data Files S1 and S2 global tree cover potential map, corresponding to 
-
+Fig. 2A
 , is accessible online for visualization at https://bastinjf_climate.users.earthengine. 21 February 2019; accepted 21 May 2019 app/view/potential-tree-cover, the Earth engine script to produce the 10.1126/science.aax0848
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 The global tree restoration potential
 
 </p>
-      <p>Jean-Francois Bastin, Yelena Finegold, Claude Garcia, Danilo Mollicone, Marcelo Rezende, Devin Routh, Constantin M. Zohner and Thomas W. Crowther</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Jean-Francois Bastin, Yelena Finegold, Claude Garcia, Danilo Mollicone, Marcelo Rezende, Devin Routh, Constantin M. Zohner and Thomas W. Crowther</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Science
 365
 (6448), 76-79. DOI: 10.1126/science.aax0848
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 The potential for global forest cover
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 The restoration of forested land at a global scale could help capture atmospheric carbon and mitigate climate change. Bastin 
 et al.
 used direct measurements of forest cover to generate a model of forest restoration potential across the globe (see the Perspective by Chazdon and Brancalion). Their spatially explicit maps show how much additional tree cover could exist outside of existing forests and agricultural and urban land. Ecosystems could support an additional 0.9 billion hectares of continuous forest. This would represent a greater than 25% increase in forested area, including more than 500 billion trees and more than 200 gigatonnes of additional carbon at maturity. Such a change has the potential to cut the atmospheric carbon pool by about 25%.
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Science
 , this issue p. 76; see also p. 24
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 ARTICLE TOOLS
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 http://science.sciencemag.org/content/365/6448/76
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 SUPPLEMENTARY
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 MATERIALS
 </p>
-      <p>http://science.sciencemag.org/content/suppl/2019/07/02/365.6448.76.DC1</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>http://science.sciencemag.org/content/suppl/2019/07/02/365.6448.76.DC1</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 RELATED
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 CONTENT
 </p>
-      <p>http://science.sciencemag.org/content/sci/365/6448/24.full</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>http://science.sciencemag.org/content/sci/365/6448/24.full</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 REFERENCES
 
 </p>
-      <p>This article cites 26 articles, 9 of which you can access for free http://science.sciencemag.org/content/365/6448/76#BIBL</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>This article cites 26 articles, 9 of which you can access for free http://science.sciencemag.org/content/365/6448/76#BIBL</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 PERMISSIONS
 
 </p>
-      <p>http://www.sciencemag.org/help/reprints-and-permissions</p>
-      <p>Use of this article is subject to the Terms of Service</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>http://www.sciencemag.org/help/reprints-and-permissions</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Use of this article is subject to the Terms of Service</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Science
 (print ISSN 0036-8075; online ISSN 1095-9203) is published by the American Association for the Advancement of Science, 1200 New York Avenue NW, Washington, DC 20005. 2017 © The Authors, some rights reserved; exclusive
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 licensee American Association for the Advancement of Science. No claim to original U.S. Government Works. The title 
 Science
 is a registered trademark of AAAS.
 </p>
+      </sec>
    </body>
 </article>

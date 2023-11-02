@@ -72,17 +72,35 @@
 
 
     <xsl:template match="paragraph" mode="main">
-        <p><xsl:apply-templates/></p>
+        <p><xsl:apply-templates mode="main"/></p>
     </xsl:template>
     
-    <xsl:template match="paragraph[descendant::heading][not(preceding-sibling::paragraph)]" mode="main">
+    <xsl:template match="paragraph[descendant::heading][not(preceding-sibling::paragraph[descendant::heading])]" mode="main">
         <title>
-            <xsl:apply-templates/>
+            <xsl:apply-templates mode="main"/>
         </title>
+    </xsl:template>
+    
+    <xsl:template match="paragraph[ancestor::paragraph]" mode="main">
+        <xsl:apply-templates mode="main"/>
     </xsl:template>
     
     <xsl:template match="subSection[ancestor::paragraph]">
         <xsl:apply-templates select="child::*"/>
+    </xsl:template>
+    
+    <xsl:template match="paragraph[not(ancestor::subSection) and not(ancestor::paragraph)]" mode="main">
+        <sec sec-type="inferred">
+            <title>Orphanage</title>
+            <p><xsl:apply-templates mode="main"></xsl:apply-templates></p>
+        </sec>
+    </xsl:template>
+    
+    <xsl:template match="paragraph[not(ancestor::subSection) and not(ancestor::treatment) and not(ancestor::paragraph)]">
+        <sec sec-type="inferred">
+            <title>Orphanage</title>
+            <p><xsl:apply-templates mode="main"/></p>
+        </sec>
     </xsl:template>
     
     <!-- SKIPPED ELEMENTS --> 
@@ -106,6 +124,17 @@
     <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
     </xsl:template>
     
+    <!-- SKIPPING footnote in both stylesheets -->
+    
+    <xsl:template match="footnote" mode="main">
+        <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
+    </xsl:template>
+    
+    <xsl:template match="footnote">
+        <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
+    </xsl:template>
+    
+    
     <xsl:template match="figureCitation">
         <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
     </xsl:template>
@@ -118,10 +147,7 @@
         <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
     </xsl:template>
     
-    <xsl:template match="footnote" mode="main">
-        <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
-    </xsl:template>
-
+    
     
     <xsl:template match="table" mode="main">
         <xsl:message><xsl:text>SKIPPING</xsl:text><xsl:value-of select="local-name()"/></xsl:message>
@@ -137,6 +163,13 @@
             <xsl:otherwise><xsl:apply-templates mode="main"/>
             </xsl:otherwise>
         </xsl:choose>
+    </xsl:template>
+    
+    
+    <xsl:template match="taxonomicName[not(ancestor::treatment)]" mode="main">
+        <tp:taxon-name>
+            <xsl:apply-templates select="descendant-or-self::*/text()"/>
+        </tp:taxon-name>
     </xsl:template>
     
     
@@ -213,6 +246,14 @@
             <xsl:text>NO TEMPLATE</xsl:text>
         </xsl:message>
         <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="*" mode="main">
+        <xsl:message>
+            <xsl:value-of select="local-name()"/>
+            <xsl:text>NO TEMPLATE (MAIN MODE)</xsl:text>
+        </xsl:message>
+        <xsl:apply-templates mode="main"/>
     </xsl:template>
 
 </xsl:stylesheet>

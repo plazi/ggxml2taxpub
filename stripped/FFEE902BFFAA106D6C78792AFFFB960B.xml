@@ -1,1034 +1,996 @@
-<?xml version="1.0" encoding="UTF-8"?><document id="D31D36F17832223EC41E94AD7CC6B248" ID-DOI="10.1093/database/bax003" ID-PMC="PMC5467547" ID-PubMed="28365724" ID-Zenodo-Dep="1002024" checkinTime="1507108852485" checkinUser="plazi" docAuthor="Guentsch, A &amp; Hyam, R &amp; Hagedorn, G &amp; Chagnoux, S &amp; Roepert, D &amp; Casino, A &amp; Droege, G &amp; Gloeckler, F &amp; Goedderz, K &amp; Groom, Q &amp; Hoffmann, J &amp; Holleman, A &amp; Kempa, M &amp; Koivula, H &amp; Marhold, K &amp; Nicolson, N &amp; Smith, VS &amp; Triebel, D" docDate="2017" docId="FFEE902BFFAA106D6C78792AFFFB960B" docName="database.2017.1-9.pdf" docOrigin="Database 2017" docStyle="DocumentStyle{}" docTitle="Actionable, long-term stable and semantic web compatible identifiers for access to biological collection objects" docVersion="6" lastPageNumber="9" pageNumber="1" updateTime="1668128180077" updateUser="ExternalLinkService">
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" id="F12CD9578D24C83FFCF3FB02D3899BD1">
-<mods:titleInfo id="E00AAA33FA7B8B9B2F2015778A4F53C5">
-<mods:title id="E0179FF9332B41B812AFD55D4999602B">Actionable, long-term stable and semantic web compatible identifiers for access to biological collection objects</mods:title>
+<?xml version="1.0" encoding="UTF-8"?><document ID-DOI="10.1093/database/bax003" ID-PMC="PMC5467547" ID-PubMed="28365724" ID-Zenodo-Dep="1002024" IM.bibliography_requiresApprovalFor="plazi" IM.metadata_requiresApprovalFor="plazi" checkinTime="1507108852485" checkinUser="plazi" docAuthor="Guentsch, A &amp; Hyam, R &amp; Hagedorn, G &amp; Chagnoux, S &amp; Roepert, D &amp; Casino, A &amp; Droege, G &amp; Gloeckler, F &amp; Goedderz, K &amp; Groom, Q &amp; Hoffmann, J &amp; Holleman, A &amp; Kempa, M &amp; Koivula, H &amp; Marhold, K &amp; Nicolson, N &amp; Smith, VS &amp; Triebel, D" docDate="2017" docId="FFEE902BFFAA106D6C78792AFFFB960B" docName="database.2017.1-9.pdf" docOrigin="Database 2017" docStyle="DocumentStyle{}" docTitle="Actionable, long-term stable and semantic web compatible identifiers for access to biological collection objects" docVersion="7" lastPageNumber="9" pageNumber="1" updateTime="1698454925992" updateUser="plazi">
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo>
+<mods:title>Actionable, long-term stable and semantic web compatible identifiers for access to biological collection objects</mods:title>
 </mods:titleInfo>
-<mods:name id="520E1F7B16275341EC041D785EE1EB79" type="personal">
-<mods:role id="10F51C1ECBDBDA540DAF977B0A239FDE">
-<mods:roleTerm id="16C2DE1FDABCBCA8CAFAE68C8D866FBF">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="C91F27A0C23DCCB07321CD17ABDEC1BF">Guentsch, A</mods:namePart>
+<mods:namePart>Guentsch, A</mods:namePart>
 </mods:name>
-<mods:name id="3F4DF1737D2BBAC0C62C9ED7171AE94A" type="personal">
-<mods:role id="123538B08C66DF39946C98328F9014A2">
-<mods:roleTerm id="8796960A6B0526BC799FF3CBB535196C">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="295997EA8CDAA959E4B5D763CBAFC8CD">Hyam, R</mods:namePart>
+<mods:namePart>Hyam, R</mods:namePart>
 </mods:name>
-<mods:name id="1A0C184C485BB5C9DD3870F7F253B3FE" type="personal">
-<mods:role id="B77707644CEF59A8375FDD2791028A6C">
-<mods:roleTerm id="5C656404869FAFB927BCAFDDFAEF7A59">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="52825AC3902D7D226791383888433D00">Hagedorn, G</mods:namePart>
+<mods:namePart>Hagedorn, G</mods:namePart>
 </mods:name>
-<mods:name id="4563C4F31489E6BB5AD1D8C1A7AAB742" type="personal">
-<mods:role id="C7B7804BC0B34755E8B50CDAA8C357D2">
-<mods:roleTerm id="BB915864A6F7700BF803F47B406E9BE3">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="AEE17AF03495DB96BFF77F2F080A6365">Chagnoux, S</mods:namePart>
+<mods:namePart>Chagnoux, S</mods:namePart>
 </mods:name>
-<mods:name id="7D0AAFBB1ACC9DA25EC58F4D788BFDB8" type="personal">
-<mods:role id="C69BCD6BCC42173066CFAE89227A17EB">
-<mods:roleTerm id="1037240A6FD9B8EC53712CB023DBF580">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="998FD64B69E25C9A167BC1BD1CF09CB0">Roepert, D</mods:namePart>
+<mods:namePart>Roepert, D</mods:namePart>
 </mods:name>
-<mods:name id="3D945AA0DCB9FE762F4B0C2724E7DF34" type="personal">
-<mods:role id="ECBB9D06C1BDDFA6FC8784747F686894">
-<mods:roleTerm id="92727A9E7BB65AA33984BF1414063AF7">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="76B1900A0397F2B2D84A157CE89B4378">Casino, A</mods:namePart>
+<mods:namePart>Casino, A</mods:namePart>
 </mods:name>
-<mods:name id="6CB6938710A9675BA93D0F871F7EEF03" type="personal">
-<mods:role id="5FDBB3D3DD18D4E0816C261C3AA6E8AF">
-<mods:roleTerm id="0F9DB4D267E02AC1D084B812A4AA6AA3">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="0BBBC2F95528813ED7654A63C0A9CA77">Droege, G</mods:namePart>
+<mods:namePart>Droege, G</mods:namePart>
 </mods:name>
-<mods:name id="4180367CCDF916E0F05C6C9902172A21" type="personal">
-<mods:role id="AB2EBF430058FF039A02DA80CD697662">
-<mods:roleTerm id="F291B29D20CBCA6435BDB42422AB1BB6">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="17AF73BC0E3DB2B8AAE5E50B52F51ACE">Gloeckler, F</mods:namePart>
+<mods:namePart>Gloeckler, F</mods:namePart>
 </mods:name>
-<mods:name id="6CA22FF5F94512435F9213B541C56581" type="personal">
-<mods:role id="779667C0AFD730713806B261F342AD55">
-<mods:roleTerm id="8BE4FD816E4FAC788DC20A15685B0C75">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="2B5DC31156EF0EF94F3858ED09D2323F">Goedderz, K</mods:namePart>
+<mods:namePart>Goedderz, K</mods:namePart>
 </mods:name>
-<mods:name id="80ABBF0DF0AE4BACB92C5CA82324FC4B" type="personal">
-<mods:role id="83E1A2EA4E7D3C085AA9E27F2E57A4F6">
-<mods:roleTerm id="9A2C2AC7BFE55BF254AC353FF1B2F077">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="C1A4600D2C095174066482A0B0500174">Groom, Q</mods:namePart>
+<mods:namePart>Groom, Q</mods:namePart>
 </mods:name>
-<mods:name id="9A45F7CC78160871971E90EBEE9BBE18" type="personal">
-<mods:role id="DD0E45DA9A096B620ED35DDD8BAEEEB8">
-<mods:roleTerm id="123B7DC038E70217EE5C7FCD30957EEB">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="97B03A5EFB4AFF797843621E56778A37">Hoffmann, J</mods:namePart>
+<mods:namePart>Hoffmann, J</mods:namePart>
 </mods:name>
-<mods:name id="487C855DE56187511B44B5EA649C1D39" type="personal">
-<mods:role id="5688D763674A3515AF63AFFAA764D450">
-<mods:roleTerm id="2763CA06FCD32CB676B7ECFB2112C0D1">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="453D74897FA13E7612C7150175893DBA">Holleman, A</mods:namePart>
+<mods:namePart>Holleman, A</mods:namePart>
 </mods:name>
-<mods:name id="B4F9AC588CB5E6BCDF9D974171E29CF1" type="personal">
-<mods:role id="4269A24F9E5F32F4656C1718F0F1D5FA">
-<mods:roleTerm id="93B495BCBB89D46AD1E863541DA29F3F">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="14D5962CDD70EA32AA3810C254449AD2">Kempa, M</mods:namePart>
+<mods:namePart>Kempa, M</mods:namePart>
 </mods:name>
-<mods:name id="0C418CFA6CBD4B0A269210FB23B37FB8" type="personal">
-<mods:role id="69BB079F76FD584DE87ADE792F6768B5">
-<mods:roleTerm id="203D7BCB7D8BA2DBFCA316F5F367B1A0">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="1C0DFE3EFECEEB1259729CFBAB1F0C37">Koivula, H</mods:namePart>
+<mods:namePart>Koivula, H</mods:namePart>
 </mods:name>
-<mods:name id="25FBA5691AE244C34B3099D3DC1FB579" type="personal">
-<mods:role id="44B310CEF4AA682C7ECEF89F45B3F483">
-<mods:roleTerm id="6D48CE25B03E78FE9C5F33C8366E4BF1">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="93CE954E2FBFCC59A22B8DA6888C06C7">Marhold, K</mods:namePart>
+<mods:namePart>Marhold, K</mods:namePart>
 </mods:name>
-<mods:name id="6D2993F5EF9276D7716A0D77C63F09D6" type="personal">
-<mods:role id="72F8420EA2FDAB983D9ED98D36DB12AB">
-<mods:roleTerm id="FAA1780772273552CF9CC7CAD5EFCD05">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="7089BFC1FA7E9262CD2D3D5E753767C3">Nicolson, N</mods:namePart>
+<mods:namePart>Nicolson, N</mods:namePart>
 </mods:name>
-<mods:name id="086E1954727E7CE5765AB6C28A789262" type="personal">
-<mods:role id="73DBAC8C91E1E7D5895891046A410BFB">
-<mods:roleTerm id="6FD020321F30BA253E1FED48F08C2CC2">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="3A83901843B5D0E98A98C79CD8461310">Smith, VS</mods:namePart>
+<mods:namePart>Smith, VS</mods:namePart>
 </mods:name>
-<mods:name id="42495AE506D6117920819A0142BA5CE6" type="personal">
-<mods:role id="9E9E40A991D394A2D5E124C72FDF9700">
-<mods:roleTerm id="245D8B321CE433CF6932351FE88FCA64">Author</mods:roleTerm>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
 </mods:role>
-<mods:namePart id="260B3929A6C30142D22482FC9B98D179">Triebel, D</mods:namePart>
+<mods:namePart>Triebel, D</mods:namePart>
 </mods:name>
-<mods:typeOfResource id="315864F0D78F74499004FF32AEBC5DA0">text</mods:typeOfResource>
-<mods:relatedItem id="5AB26041B020527BA6D12ADA848CD650" type="host">
-<mods:titleInfo id="3099EE88BC4B41A0D047385EBCD6D49B">
-<mods:title id="B026D602354FA541FB5B86A0CE605D98">Database</mods:title>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Database</mods:title>
 </mods:titleInfo>
-<mods:part id="A097ECE403A01079EEF13C40A8429D80">
-<mods:date id="97F3B0E8F32AA0D9CFBAA3BF163796C2">2017</mods:date>
-<mods:detail id="0B225E475A238EC9DB58FD9A85CED666" type="pubDate">
-<mods:number id="E0D1F012A2D25E5245E5ACAE11AF18BC">2017-10-31</mods:number>
+<mods:part>
+<mods:date>2017</mods:date>
+<mods:detail type="pubDate">
+<mods:number>2017-10-31</mods:number>
 </mods:detail>
-<mods:detail id="37A353990A4162D7617BBF4AD75AA86D" type="volume">
-<mods:number id="86EF2E2A56A4D470F46114BA8829CDB4">2017</mods:number>
+<mods:detail type="volume">
+<mods:number>2017</mods:number>
 </mods:detail>
-<mods:extent id="A6A0D89B432F3348B6E12D0A7835C821" unit="page">
-<mods:start id="CF368991C24B820229B9BC176C17FBDF">1</mods:start>
-<mods:end id="E2F2E78F772D2021363A58DEA69B3B80">9</mods:end>
+<mods:extent unit="page">
+<mods:start>1</mods:start>
+<mods:end>9</mods:end>
 </mods:extent>
 </mods:part>
 </mods:relatedItem>
-<mods:classification id="91207BCC07D34D724904E20FF7485746">journal article</mods:classification>
-<mods:identifier id="2486BEC428689F7CD86670E8CAD85AF6" type="DOI">10.1093/database/bax003</mods:identifier>
-<mods:identifier id="378DD98699A993E12BB90E4674801506" type="PMC">PMC5467547</mods:identifier>
-<mods:identifier id="18C40F6E671735B0285880375178248F" type="PubMed">28365724</mods:identifier>
-<mods:identifier id="0DFBB79A8106F1F78767F3507E8B2330" type="Zenodo-Dep">1002024</mods:identifier>
+<mods:classification>journal article</mods:classification>
+<mods:identifier type="DOI">10.1093/database/bax003</mods:identifier>
+<mods:identifier type="PMC">PMC5467547</mods:identifier>
+<mods:identifier type="PubMed">28365724</mods:identifier>
+<mods:identifier type="Zenodo-Dep">1002024</mods:identifier>
 </mods:mods>
-<paragraph id="8BC15945FFAA106D6CD07849FE73978D" blockId="0.[168,392,355,390]" box="[168,392,355,390]" pageId="0" pageNumber="1">
-<heading id="D089EE29FFAA106D6CD07849FE73978D" box="[168,392,355,390]" fontSize="14" level="0" pageId="0" pageNumber="1" reason="1">Original article</heading>
+<paragraph blockId="0.[168,392,355,390]" box="[168,392,355,390]" pageId="0" pageNumber="1">
+<heading box="[168,392,355,390]" fontSize="14" level="0" pageId="0" pageNumber="1" reason="1">Original article</heading>
 </paragraph>
-<paragraph id="8BC15945FFAA106D6CD07884FDC3945D" blockId="0.[168,1245,430,598]" pageId="0" pageNumber="1">
-<heading id="D089EE29FFAA106D6CD07884FDC3945D" bold="true" fontSize="18" level="0" pageId="0" pageNumber="1" reason="0">
+<paragraph blockId="0.[168,1245,430,598]" pageId="0" pageNumber="1">
+<heading bold="true" fontSize="18" level="0" pageId="0" pageNumber="1" reason="0">
 <!--emphasis removed-->
-<docTitle id="CE64A02BFFAA106D6CD07884FDC3945D" pageId="0" pageNumber="1">Actionable, long-term stable and semantic web compatible identifiers for access to biological collection objects</docTitle>
+<docTitle pageId="0" pageNumber="1">Actionable, long-term stable and semantic web compatible identifiers for access to biological collection objects</docTitle>
 
 </heading>
 </paragraph>
-<paragraph id="8BC15945FFAA106D6CD07B5FFB4A9500" blockId="0.[168,1250,622,819]" pageId="0" pageNumber="1">
-<heading id="D089EE29FFAA106D6CD07B5FFB4A9500" bold="true" fontSize="11" level="1" pageId="0" pageNumber="1" reason="0">
-<!--emphasis removed-->Anton Güntsch*
-<!--emphasis removed-->,1
-<!--emphasis removed-->, Roger Hyam
-<!--emphasis removed-->2
-<!--emphasis removed-->, Gregor Hagedorn
-<!--emphasis removed-->3
-<!--emphasis removed-->, Simon Chagnoux
-<!--emphasis removed-->4
-<!--emphasis removed-->, Dominik Röpert
-<!--emphasis removed-->1
-<!--emphasis removed-->, Ana Casino
-<!--emphasis removed-->5
-<!--emphasis removed-->, Gabi Droege
-<!--emphasis removed-->1
-<!--emphasis removed-->, Falko Glöckler
-<!--emphasis removed-->3
-<!--emphasis removed-->,
-<!--emphasis removed-->Karsten Gödderz
-<!--emphasis removed-->5
-<!--emphasis removed-->, Quentin Groom
-<!--emphasis removed-->6
-<!--emphasis removed-->, Jana Hoffmann
-<!--emphasis removed-->3
-<!--emphasis removed-->, Ayco Holleman
-<!--emphasis removed-->7
-<!--emphasis removed-->, Matus Kempa
-<!--emphasis removed-->8
-<!--emphasis removed-->, Hanna Koivula
-<!--emphasis removed-->9
-<!--emphasis removed-->, Karol Marhold
-<!--emphasis removed-->8,10
-<!--emphasis removed-->, Nicky Nicolson
-<!--emphasis removed-->11
-<!--emphasis removed-->
-, 
-<paragraph id="8BC15945FFAA106D6CD07A3FFCF79529" blockId="0.[168,1250,622,819]" box="[168,780,782,819]" pageId="0" pageNumber="1">
-Vincent S. Smith 
-<!--emphasis removed-->12
-<!--emphasis removed-->and Dagmar Triebel
-<!--emphasis removed-->13
-</paragraph>
-
+<paragraph blockId="0.[168,1250,622,819]" pageId="0" pageNumber="1">
+<heading bold="true" fontSize="11" level="1" pageId="0" pageNumber="1" reason="0">
+<!--emphasis removed-->Anton Güntsch*,1, Roger Hyam2, Gregor Hagedorn3, Simon Chagnoux4, Dominik Röpert1, Ana Casino5, Gabi Droege1, Falko Glöckler3, Karsten Gödderz5, Quentin Groom6, Jana Hoffmann3, Ayco Holleman7, Matus Kempa8, Hanna Koivula9, Karol Marhold8,10, Nicky Nicolson11,
 </heading>
 </paragraph>
-<paragraph id="8BC15945FFAA106D6CD07A61FEF392CF" blockId="0.[168,1273,843,1220]" pageId="0" pageNumber="1">1Botanic Garden and Botanical Museum Berlin, Freie Universit at€Berlin, Berlin, Germany, 2Royal Botanic Garden Edinburgh, Edinburgh, UK, 3Museum für Naturkunde Berlin, Leibniz-Institute for Evolution and Biodiversity, Berlin, Germany, 4Museum National d’Histoire Naturelle Paris, Paris, France, 5CETAF-Consortium of European Taxonomic Facilities, Brussels, Belgium, 6Botanic Garden Meise, Meise, Belgium, 7Naturalis Biodiversity Center, Leiden, The Netherlands, 8Institute of Botany, Plant Science and Biodiversity Center, Slovak Academy of Sciences, Bratislava, Slovakia, 9Finnish Museum of Natural History, University of Helsinki, Helsinki, Finland, 10Department of Botany, Faculty of Science, Charles University, Praha, Czech Republic, 11Biodiversity Informatics &amp; Spatial Analysis, Royal Botanic Gardens, Kew, London, UK, 12Department of Life Sciences, The Natural History Museum, UK and 13SNSB IT Center, Staatliche Naturwissenschaftliche Sammlungen Bayerns, München, Germany</paragraph>
-<paragraph id="8BC15945FFAA106D6CD07DF4FBDC92F8" blockId="0.[168,1063,1246,1267]" box="[168,1063,1246,1267]" pageId="0" pageNumber="1">
+<paragraph blockId="0.[168,1250,622,819]" box="[168,780,782,819]" pageId="0" pageNumber="1">
+<!--emphasis removed-->Vincent S. Smith12 and Dagmar Triebel13
+</paragraph>
+<paragraph blockId="0.[168,1273,843,1220]" pageId="0" pageNumber="1">1Botanic Garden and Botanical Museum Berlin, Freie Universit at €Berlin, Berlin, Germany, 2Royal Botanic Garden Edinburgh, Edinburgh, UK, 3Museum für Naturkunde Berlin, Leibniz-Institute for Evolution and Biodiversity, Berlin, Germany, 4Museum National d’Histoire Naturelle Paris, Paris, France, 5CETAF-Consortium of European Taxonomic Facilities, Brussels, Belgium, 6Botanic Garden Meise, Meise, Belgium, 7Naturalis Biodiversity Center, Leiden, The Netherlands, 8Institute of Botany, Plant Science and Biodiversity Center, Slovak Academy of Sciences, Bratislava, Slovakia, 9Finnish Museum of Natural History, University of Helsinki, Helsinki, Finland, 10Department of Botany, Faculty of Science, Charles University, Praha, Czech Republic, 11Biodiversity Informatics &amp; Spatial Analysis, Royal Botanic Gardens, Kew, London, UK, 12Department of Life Sciences, The Natural History Museum, UK and 13SNSB IT Center, Staatliche Naturwissenschaftliche Sammlungen Bayerns, München, Germany</paragraph>
+<paragraph blockId="0.[168,1063,1246,1267]" box="[168,1063,1246,1267]" pageId="0" pageNumber="1">
 * 
 <!--emphasis removed-->Corresponding author:
 Tel: +49 30 838 50166, Fax: +49 30 838 458574, Email: a.guentsch@bgbm.org
 </paragraph>
-<paragraph id="8BC15945FFAA106D6CD07C23FF1C9355" blockId="0.[168,1272,1289,1374]" pageId="0" pageNumber="1">
+<paragraph blockId="0.[168,1272,1289,1374]" pageId="0" pageNumber="1">
 Citation details: Güntsch,A., 
-<docAuthor id="201658C8FFAA106D6DD17C23FE089315" box="[425,499,1289,1310]" pageId="0" pageNumber="1">Hyam,R</docAuthor>
+<docAuthor box="[425,499,1289,1310]" pageId="0" pageNumber="1">Hyam,R</docAuthor>
 ., 
-<docAuthor id="201658C8FFAA106D6D877C23FD959315" box="[511,622,1289,1310]" pageId="0" pageNumber="1">Hagedorn,G</docAuthor>
+<docAuthor box="[511,622,1289,1310]" pageId="0" pageNumber="1">Hagedorn,G</docAuthor>
 . 
 <!--emphasis removed-->et al.
 Actionable, long-term stable and semantic web compatible identifiers for access to biological collection objects. 
 <!--emphasis removed-->Database
 (
-<docVolume id="FC981E59FFAA106D6E917C03FCEE9335" box="[745,789,1321,1342]" pageId="0" pageNumber="1">
-<docYear id="9318B5BEFFAA106D6E917C03FCEE9335" box="[745,789,1321,1342]" pageId="0" pageNumber="1">2017</docYear>
+<docVolume box="[745,789,1321,1342]" pageId="0" pageNumber="1">
+<docYear box="[745,789,1321,1342]" pageId="0" pageNumber="1">2017</docYear>
 </docVolume>
 ) Vol. 2017: article ID bax003; doi: 
-<docID-DOI id="1522AC8FFFAA106D68287C03FF1C9355" pageId="0" pageNumber="1">10.1093/database/ bax003</docID-DOI>
+<docID-DOI pageId="0" pageNumber="1">10.1093/database/ bax003</docID-DOI>
 </paragraph>
-<paragraph id="8BC15945FFAA106D6CD07C5CFD079383" blockId="0.[168,764,1398,1416]" box="[168,764,1398,1416]" pageId="0" pageNumber="1">Received 9 August 2016; Revised 21 November 2016; Accepted 11 January 2017</paragraph>
-<paragraph id="8BC15945FFAA106D6CD07C9DFEDF93D8" blockId="0.[168,292,1463,1491]" box="[168,292,1463,1491]" pageId="0" pageNumber="1">
-<heading id="D089EE29FFAA106D6CD07C9DFEDF93D8" bold="true" box="[168,292,1463,1491]" fontSize="11" level="1" pageId="0" pageNumber="1" reason="0">
+<paragraph blockId="0.[168,764,1398,1416]" box="[168,764,1398,1416]" pageId="0" pageNumber="1">Received 9 August 2016; Revised 21 November 2016; Accepted 11 January 2017</paragraph>
+<paragraph blockId="0.[168,292,1463,1491]" box="[168,292,1463,1491]" pageId="0" pageNumber="1">
+<heading bold="true" box="[168,292,1463,1491]" fontSize="11" level="1" pageId="0" pageNumber="1" reason="0">
 <!--emphasis removed-->Abstract
 </heading>
 </paragraph>
-<paragraph id="8BC15945FFAA106D6CD07CCDFB809135" blockId="0.[168,1273,1511,1854]" pageId="0" pageNumber="1">With biodiversity research activities being increasingly shifted to the web, the need for a system of persistent and stable identifiers for physical collection objects becomes increasingly pressing. The Consortium of European Taxonomic Facilities agreed on a common system of HTTP-URI-based stable identifiers which is now rolled out to its member organizations. The system follows Linked Open Data principles and implements redirection mechanisms to human-readable and machine-readable representations of specimens facilitating seamless integration into the growing semantic web. The implementation of stable identifiers across collection organizations is supported with open source provider software scripts, best practices documentations and recommendations for RDF metadata elements facilitating harmonized access to collection information in web portals.</paragraph>
-<footnote id="E865454BFFAA106D6CDF7E8FFC2691E0" pageId="0" pageNumber="1">
-<paragraph id="8BC15945FFAA106D6CDF7E8FFC2691E0" blockId="0.[8,1465,1955,2096]" pageId="0" pageNumber="1">
+<paragraph blockId="0.[168,1273,1511,1854]" pageId="0" pageNumber="1">With biodiversity research activities being increasingly shifted to the web, the need for a system of persistent and stable identifiers for physical collection objects becomes increasingly pressing. The Consortium of European Taxonomic Facilities agreed on a common system of HTTP-URI-based stable identifiers which is now rolled out to its member organizations. The system follows Linked Open Data principles and implements redirection mechanisms to human-readable and machine-readable representations of specimens facilitating seamless integration into the growing semantic web. The implementation of stable identifiers across collection organizations is supported with open source provider software scripts, best practices documentations and recommendations for RDF metadata elements facilitating harmonized access to collection information in web portals.</paragraph>
+<footnote pageId="0" pageNumber="1">
+<paragraph blockId="0.[8,1465,1955,2096]" pageId="0" pageNumber="1">
 V C The Author(s) 2017. Published by Oxford University Press. 
 <!--emphasis removed-->Page 1 of 9
 This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
 </paragraph>
 </footnote>
-<paragraph id="8BC15945FFAB106C6CD079E1FCC196EF" blockId="1.[168,826,203,228]" box="[168,826,203,228]" pageId="1" pageNumber="2">
+<paragraph blockId="1.[168,826,203,228]" box="[168,826,203,228]" pageId="1" pageNumber="2">
 <!--emphasis removed-->Database URL
 : http://cetaf.org/cetaf-stable-identifiers
 </paragraph>
-<paragraph id="8BC15945FFAB106C6CD0781BFEAE9746" blockId="1.[168,341,305,333]" box="[168,341,305,333]" pageId="1" pageNumber="2">
-<heading id="D089EE29FFAB106C6CD0781BFEAE9746" bold="true" box="[168,341,305,333]" fontSize="11" level="1" pageId="1" pageNumber="2" reason="0">
+<paragraph blockId="1.[168,341,305,333]" box="[168,341,305,333]" pageId="1" pageNumber="2">
+<heading bold="true" box="[168,341,305,333]" fontSize="11" level="1" pageId="1" pageNumber="2" reason="0">
 <!--emphasis removed-->Introduction
 </heading>
 </paragraph>
-<paragraph id="8BC15945FFAB106C6CD07849FE1B9517" blockId="1.[168,793,355,1950]" pageId="1" pageNumber="2">
+<paragraph blockId="1.[168,793,355,1950]" pageId="1" pageNumber="2">
 Natural history institutions worldwide are estimated to hold
 <!--emphasis removed-->&gt;
 2.5 billion physical collection objects (
-<bibRefCitation id="EFEF24B4FFAB106C6EF678ACFD679790" author="Duckworth, W. D. &amp; Genoways, H. H. &amp; Rose, C. L." box="[654,668,390,411]" journalOrPublisher="Washington, DC" pageId="1" pageNumber="2" refString="1. Duckworth, W. D., Genoways, H. H. and Rose, C. L. (1993) Preserving Natural Science Collections: Chronicle of Our Environmental Heritage. National Institute for the Conservation of Cultural Property, Washington, DC." title="Preserving Natural Science Collections: Chronicle of Our Environmental Heritage. National Institute for the Conservation of Cultural Property" type="book" year="1993">1</bibRefCitation>
+<bibRefCitation author="Duckworth, W. D. &amp; Genoways, H. H. &amp; Rose, C. L." box="[654,668,390,411]" journalOrPublisher="Washington, DC" pageId="1" pageNumber="2" refString="1. Duckworth, W. D., Genoways, H. H. and Rose, C. L. (1993) Preserving Natural Science Collections: Chronicle of Our Environmental Heritage. National Institute for the Conservation of Cultural Property, Washington, DC." title="Preserving Natural Science Collections: Chronicle of Our Environmental Heritage. National Institute for the Conservation of Cultural Property" type="book" year="1993">1</bibRefCitation>
 ). Together, they form an indispensable and essential resource for documenting and understanding of the occurrence of organisms in space and time (
-<bibRefCitation id="EFEF24B4FFAB106C6D0A78C5FE7B940F" author="Chapman, A. D." box="[370,384,495,516]" journalOrPublisher="Copenhagen" pageId="1" pageNumber="2" refString="2. Chapman, A. D. (2005) Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen." title="Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility" type="book" year="2005">2</bibRefCitation>
+<bibRefCitation author="Chapman, A. D." box="[370,384,495,516]" journalOrPublisher="Copenhagen" pageId="1" pageNumber="2" refString="2. Chapman, A. D. (2005) Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen." title="Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility" type="book" year="2005">2</bibRefCitation>
 ). Besides the core data on taxon identification, geographic location, collector and time of the collection event, biological specimens often include important ecological and morphological details as well as annotations, which further increase their value for numerous biodiversity research questions. Finally, the act of naming taxa includes the assignment of one or several ‘type specimens’, which, from that point on, serve as an unambiguous reference for the taxon name.
 </paragraph>
-<paragraph id="8BC15945FFAB106C6CB07A00FE0F93BE" blockId="1.[168,793,355,1950]" pageId="1" pageNumber="2">
+<paragraph blockId="1.[168,793,355,1950]" pageId="1" pageNumber="2">
 Over the last decades, a global biodiversity data infrastructure has been erected providing open and instant access to digitized primary information provided by hundreds of natural history collections. By August 2016, biodiversity information networks such as GBIF (http:// www.gbif.org), BioCASe [(
-<bibRefCitation id="EFEF24B4FFAB106C6DB77AF3FE2695E5" author="Guntsch, A" box="[463,477,985,1006]" journalOrPublisher="The BioCASE Project - a Biological Access Service for Europe. Ferrantia" pageId="1" pageNumber="2" pagination="103 - 108" part="51" refString="3. Guntsch, A., Mergen, P. and Berendsohn, W. G. (2007) The BioCASE Project - a Biological Access Service for Europe. Ferrantia, 51, 103 - 108." title="Mergen, P. and Berendsohn, W. G." type="journal article" year="2007">3</bibRefCitation>
+<bibRefCitation author="Guntsch, A" box="[463,477,985,1006]" journalOrPublisher="The BioCASE Project - a Biological Access Service for Europe. Ferrantia" pageId="1" pageNumber="2" pagination="103 - 108" part="51" refString="3. Guntsch, A., Mergen, P. and Berendsohn, W. G. (2007) The BioCASE Project - a Biological Access Service for Europe. Ferrantia, 51, 103 - 108." title="Mergen, P. and Berendsohn, W. G." type="journal article" year="2007">3</bibRefCitation>
 ), http://www.biocase.org] or SpeciesLink [(
-<bibRefCitation id="EFEF24B4FFAB106C6D477AD6FEB6921A" author="Canhos, V. P" box="[319,333,1020,1041]" journalOrPublisher="Global Biodiversity Informatics: setting the scene for a &#34; new world &#34; of ecological forecasting. Biodiversity Informatics" pageId="1" pageNumber="2" pagination="1 - 13" part="1" refString="4. Canhos, V. P., Souza, S. D., Giovanni, R. D. et al. (2004) Global Biodiversity Informatics: setting the scene for a &#34; new world &#34; of ecological forecasting. Biodiversity Informatics, 1, 1 - 13." title="Souza, S. D., Giovanni, R. D. et al" type="journal article" year="2004">4</bibRefCitation>
+<bibRefCitation author="Canhos, V. P" box="[319,333,1020,1041]" journalOrPublisher="Global Biodiversity Informatics: setting the scene for a &#34; new world &#34; of ecological forecasting. Biodiversity Informatics" pageId="1" pageNumber="2" pagination="1 - 13" part="1" refString="4. Canhos, V. P., Souza, S. D., Giovanni, R. D. et al. (2004) Global Biodiversity Informatics: setting the scene for a &#34; new world &#34; of ecological forecasting. Biodiversity Informatics, 1, 1 - 13." title="Souza, S. D., Giovanni, R. D. et al" type="journal article" year="2004">4</bibRefCitation>
 ), http://splink.cria.org.br/], provide access to approximately 650 million occurrence records, 125 million of which belong to individual physical specimens held by museum or university collections. Searching this information space is mediated by a wide range of portals serving specific thematic or geographic user requirements based on a set of globally accepted data access protocols such as the BioCASE-Protocol (
-<bibRefCitation id="EFEF24B4FFAB106C6E6C7DDAFDD9930D" author="Holetschek, J. &amp; Kelbert, P. &amp; Muller, A." box="[532,546,1264,1286]" editor="Fischer S" journalOrPublisher="Lecture Notes in Informatics (LNI)" pageId="1" pageNumber="2" pagination="552 - 564" part="154" refString="5. Holetschek, J., Kelbert, P., Muller, A. et al. (2009) International Networking of Large Amounts of Primary Biodiversity Data. In: Fischer S, Maehle E, Reischuk R, editors. INFORMATIK 2009, Im Focus das Leben, Beitrage der 39. Jahrestagung der Gesellschaft fur Informatik e. V. (GI), 28.9. - 2.10. in Lubeck. Lecture Notes in Informatics (LNI), 154, 552 - 564." title="et al" type="book chapter" volumeTitle="INFORMATIK 2009, Im Focus das Leben, Beitrage der 39. Jahrestagung der Gesellschaft fur Informatik e. V. (GI), 28.9. - 2.10. in Lubeck" year="2009">5</bibRefCitation>
+<bibRefCitation author="Holetschek, J. &amp; Kelbert, P. &amp; Muller, A." box="[532,546,1264,1286]" editor="Fischer S" journalOrPublisher="Lecture Notes in Informatics (LNI)" pageId="1" pageNumber="2" pagination="552 - 564" part="154" refString="5. Holetschek, J., Kelbert, P., Muller, A. et al. (2009) International Networking of Large Amounts of Primary Biodiversity Data. In: Fischer S, Maehle E, Reischuk R, editors. INFORMATIK 2009, Im Focus das Leben, Beitrage der 39. Jahrestagung der Gesellschaft fur Informatik e. V. (GI), 28.9. - 2.10. in Lubeck. Lecture Notes in Informatics (LNI), 154, 552 - 564." title="et al" type="book chapter" volumeTitle="INFORMATIK 2009, Im Focus das Leben, Beitrage der 39. Jahrestagung der Gesellschaft fur Informatik e. V. (GI), 28.9. - 2.10. in Lubeck" year="2009">5</bibRefCitation>
 ), Distributed Generic Information Retrieval (DiGIR, http://digir.sourceforge. net), and the TDWG Access Protocol for Information Retrieval [TAPIR (
-<bibRefCitation id="EFEF24B4FFAB106C6D0F7C73FE7E9364" author="De Giovanni, R. &amp; Döring, M. &amp; Güntsch, A. &amp; et al" box="[375,389,1369,1391]" journalOrPublisher="TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards (TDWG)" pageId="1" pageNumber="2" publicationUrl="http://www.tdwg.org/standards/449" refString="6. De Giovanni, R., Doring, M., Guntsch, A. et al. (2010). TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards (TDWG), http: // www. tdwg .org / standards / 449." title="TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards" type="url" year="2010">6</bibRefCitation>
+<bibRefCitation author="De Giovanni, R. &amp; Döring, M. &amp; Güntsch, A. &amp; et al" box="[375,389,1369,1391]" journalOrPublisher="TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards (TDWG)" pageId="1" pageNumber="2" publicationUrl="http://www.tdwg.org/standards/449" refString="6. De Giovanni, R., Doring, M., Guntsch, A. et al. (2010). TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards (TDWG), http: // www. tdwg .org / standards / 449." title="TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards" type="url" year="2010">6</bibRefCitation>
 )] together with the community data standards Darwin Core (
-<bibRefCitation id="EFEF24B4FFAB106C6DA47C57FE119399" author="Wieczorek, J. &amp; Bloom, D. &amp; Guralnick, R." box="[476,490,1405,1426]" journalOrPublisher="PLoS One" pageId="1" pageNumber="2" pagination="29715" part="7" refString="7. Wieczorek, J., Bloom, D., Guralnick, R. et al. (2012) Darwin core: an evolving community-developed biodiversity data standard. PLoS One, 7, e 29715." title="et al" type="journal article" year="2012">7</bibRefCitation>
+<bibRefCitation author="Wieczorek, J. &amp; Bloom, D. &amp; Guralnick, R." box="[476,490,1405,1426]" journalOrPublisher="PLoS One" pageId="1" pageNumber="2" pagination="29715" part="7" refString="7. Wieczorek, J., Bloom, D., Guralnick, R. et al. (2012) Darwin core: an evolving community-developed biodiversity data standard. PLoS One, 7, e 29715." title="et al" type="journal article" year="2012">7</bibRefCitation>
 ) and ABCD [Access to Biological Collection Data (
-<bibRefCitation id="EFEF24B4FFAB106C6DB67CB5FE2793BF" author="Holetschek, J. &amp; Droge, G. &amp; Guntsch, A. &amp; et al." box="[462,476,1439,1460]" journalOrPublisher="Plant Biosyst" pageId="1" pageNumber="2" pagination="771 - 779" part="146" refString="8. Holetschek, J., Droge, G., Guntsch, A. et al. (2012) The ABCD of primary biodiversity data access. Plant Biosyst., 146, 771 - 779." title="The ABCD of primary biodiversity data access" type="journal article" year="2012">8</bibRefCitation>
+<bibRefCitation author="Holetschek, J. &amp; Droge, G. &amp; Guntsch, A. &amp; et al." box="[462,476,1439,1460]" journalOrPublisher="Plant Biosyst" pageId="1" pageNumber="2" pagination="771 - 779" part="146" refString="8. Holetschek, J., Droge, G., Guntsch, A. et al. (2012) The ABCD of primary biodiversity data access. Plant Biosyst., 146, 771 - 779." title="The ABCD of primary biodiversity data access" type="journal article" year="2012">8</bibRefCitation>
 )].
 </paragraph>
-<paragraph id="8BC15945FFAB106C6CB07CE8FD7890C7" blockId="1.[168,793,355,1950]" pageId="1" pageNumber="2">
+<paragraph blockId="1.[168,793,355,1950]" pageId="1" pageNumber="2">
 The stable and precise referencing of specimens used in scientific studies require the use of an agreed consistent system of globally unique identifiers (GUIDs). Particularly, the increased use of collection information in data-driven studies using advanced workflow systems such as Taverna (
-<bibRefCitation id="EFEF24B4FFAB106C6CC97F5BFF44908D" author="Hull, D. &amp; Wolstencroft, K. &amp; Stevens, R. &amp; et al." box="[177,191,1649,1670]" journalOrPublisher="Nucleic Acids Res" pageId="1" pageNumber="2" pagination="729 - 732" part="34" refString="9. Hull, D., Wolstencroft, K., Stevens, R. et al. (2006) Taverna: a tool for building and running workflows of services. Nucleic Acids Res., 34, 729 - 732." title="Taverna: a tool for building and running workflows of services" type="journal article" year="2006">9</bibRefCitation>
+<bibRefCitation author="Hull, D. &amp; Wolstencroft, K. &amp; Stevens, R. &amp; et al." box="[177,191,1649,1670]" journalOrPublisher="Nucleic Acids Res" pageId="1" pageNumber="2" pagination="729 - 732" part="34" refString="9. Hull, D., Wolstencroft, K., Stevens, R. et al. (2006) Taverna: a tool for building and running workflows of services. Nucleic Acids Res., 34, 729 - 732." title="Taverna: a tool for building and running workflows of services" type="journal article" year="2006">9</bibRefCitation>
 ) or Kepler (
-<bibRefCitation id="EFEF24B4FFAB106C6D307F5BFE98908D" author="Altintas, I &amp; Berkley, C. &amp; Jaeger, E." box="[328,355,1649,1670]" journalOrPublisher="San Diego" pageId="1" pageNumber="2" pagination="423 - 424" refString="10. Altintas, I., Berkley, C., Jaeger, E. et al. (2004) Kepler: an extensible system for design and execution of scientific workflows. In: Scientific and Statistical Database Management, Proceedings. 16 th International Conference on Scientific and Statistical Database Management, SSDBM ' 04, San Diego, pp. 423 - 424." title="et al" type="book chapter" volumeTitle="Scientific and Statistical Database Management, Proceedings. 16 th International Conference on Scientific and Statistical Database Management, SSDBM ' 04" year="2004">10</bibRefCitation>
+<bibRefCitation author="Altintas, I &amp; Berkley, C. &amp; Jaeger, E." box="[328,355,1649,1670]" journalOrPublisher="San Diego" pageId="1" pageNumber="2" pagination="423 - 424" refString="10. Altintas, I., Berkley, C., Jaeger, E. et al. (2004) Kepler: an extensible system for design and execution of scientific workflows. In: Scientific and Statistical Database Management, Proceedings. 16 th International Conference on Scientific and Statistical Database Management, SSDBM ' 04, San Diego, pp. 423 - 424." title="et al" type="book chapter" volumeTitle="Scientific and Statistical Database Management, Proceedings. 16 th International Conference on Scientific and Statistical Database Management, SSDBM ' 04" year="2004">10</bibRefCitation>
 ) demand robust identifier specifications and implementations as a basis for data retrieval, integration and reproducibility of data experiments.
 </paragraph>
-<paragraph id="8BC15945FFAB106C6CB07FF3FC3D97BF" blockId="1.[168,793,355,1950]" lastBlockId="1.[840,1465,310,1273]" pageId="1" pageNumber="2">
+<paragraph blockId="1.[168,793,355,1950]" lastBlockId="1.[840,1465,310,1273]" pageId="1" pageNumber="2">
 The natural history community acknowledges the need for an identifier system that meets the needs of handling specimen information in biodiversity research environments and has debated the use of different technologies such as LSIDs, DOIs, GBIF ‘Triple IDs’ and HTTP URIs (
-<bibRefCitation id="EFEF24B4FFAB106C6CC97EA2FF379196" author="Richards, K." box="[177,204,1928,1949]" journalOrPublisher="Biodiversity Information Standards (TDWG)" pageId="1" pageNumber="2" publicationUrl="http://www.tdwg.org/standards/150" refString="11. Richards, K. (2009) TDWG GUID Applicability Statement, Version 2010 - 09. Biodiversity Information Standards (TDWG). http: // www. tdwg. org / standards / 150." title="TDWG GUID Applicability Statement, Version 2010 - 09" type="url" year="2009">11</bibRefCitation>
+<bibRefCitation author="Richards, K." box="[177,204,1928,1949]" journalOrPublisher="Biodiversity Information Standards (TDWG)" pageId="1" pageNumber="2" publicationUrl="http://www.tdwg.org/standards/150" refString="11. Richards, K. (2009) TDWG GUID Applicability Statement, Version 2010 - 09. Biodiversity Information Standards (TDWG). http: // www. tdwg. org / standards / 150." title="TDWG GUID Applicability Statement, Version 2010 - 09" type="url" year="2009">11</bibRefCitation>
 ). Unfortunately, the discussion has never been concluded so that only few collections have established a - stable identifier system and existing systems differ considerably as to the choice of technology and implementation details (
-<bibRefCitation id="EFEF24B4FFAB106C6FE378B5FC4D97BF" author="Guralnick, R. P &amp; Cellinese, N. &amp; Deck, J. &amp; et al." box="[923,950,415,436]" journalOrPublisher="ZooKeys" pageId="1" pageNumber="2" pagination="133 - 154" part="494" refString="12. Guralnick, R. P., Cellinese, N., Deck, J. et al. (2015) Community next steps for making globally unique identifiers work for biocollections data. ZooKeys, 494, 133 - 154." title="Community next steps for making globally unique identifiers work for biocollections data" type="journal article" year="2015">12</bibRefCitation>
+<bibRefCitation author="Guralnick, R. P &amp; Cellinese, N. &amp; Deck, J. &amp; et al." box="[923,950,415,436]" journalOrPublisher="ZooKeys" pageId="1" pageNumber="2" pagination="133 - 154" part="494" refString="12. Guralnick, R. P., Cellinese, N., Deck, J. et al. (2015) Community next steps for making globally unique identifiers work for biocollections data. ZooKeys, 494, 133 - 154." title="Community next steps for making globally unique identifiers work for biocollections data" type="journal article" year="2015">12</bibRefCitation>
 ).
 </paragraph>
-<paragraph id="8BC15945FFAB106C6F1078E8FA6E95B5" blockId="1.[840,1465,310,1273]" pageId="1" pageNumber="2">
+<paragraph blockId="1.[840,1465,310,1273]" pageId="1" pageNumber="2">
 In 2012, the Royal Botanic Garden Edinburgh implemented an effective working system of stable identifiers for herbarium specimens based on HTTP URIs and Linked Open Data principles (
-<bibRefCitation id="EFEF24B4FFAB106C68457B00FBA39434" author="Hyam, R. D. &amp; Drinkwater, R. E" box="[1085,1112,554,575]" journalOrPublisher="Stable citations for herbarium specimens on the internet: an illustration from a taxonomic revision of Duboscia (Malvaceae). Phytotaxa" pageId="1" pageNumber="2" pagination="17 - 30" part="73" refString="13. Hyam, R. D., Drinkwater, R. E., and Harris, D. J. (2012) Stable citations for herbarium specimens on the internet: an illustration from a taxonomic revision of Duboscia (Malvaceae). Phytotaxa, 73, 17 - 30." title="and Harris, D. J." type="journal article" year="2012">13</bibRefCitation>
+<bibRefCitation author="Hyam, R. D. &amp; Drinkwater, R. E" box="[1085,1112,554,575]" journalOrPublisher="Stable citations for herbarium specimens on the internet: an illustration from a taxonomic revision of Duboscia (Malvaceae). Phytotaxa" pageId="1" pageNumber="2" pagination="17 - 30" part="73" refString="13. Hyam, R. D., Drinkwater, R. E., and Harris, D. J. (2012) Stable citations for herbarium specimens on the internet: an illustration from a taxonomic revision of Duboscia (Malvaceae). Phytotaxa, 73, 17 - 30." title="and Harris, D. J." type="journal article" year="2012">13</bibRefCitation>
 ). In addition to their function as stable anchors for referencing specimens, requests are redirected to different human readable and machine processable representations of the physical objects and their corresponding metadata. In 2013, the Consortium of European Taxonomic Facilities (CETAF) agreed to use this approach for the implementation of a joint HTTP URI based identifier system and to start pilot implementations and specification activities. The implementation received support from the pro-iBiosphere (http://www.pro-ibio sphere.eu) initiative aiming to prepare the ground for a global Open Biodiversity Knowledge Management System.
 </paragraph>
-<paragraph id="8BC15945FFAB106C6F107AE6FA9A92F2" blockId="1.[840,1465,310,1273]" pageId="1" pageNumber="2">
+<paragraph blockId="1.[840,1465,310,1273]" pageId="1" pageNumber="2">
 At present, 13 CETAF member institutions have implemented stable URIs. Establishing the system at 80% of CETAF institutions is part of the CETAF Strategy and Strategic Development Plan for this decade 2015–2025 (
-<bibRefCitation id="EFEF24B4FFAB106C6F297D72FC979266" author="Consortium of European Taxonomic Facilities" box="[849,876,1112,1133]" journalOrPublisher="CETAF Strategy and Strategic Development Plan" pageId="1" pageNumber="2" pagination="2015 - 2025" publicationUrl="http://cetaf.org/sites/default/files/final_strategy_and_strategic_development_plan.pdf" refString="14. Consortium of European Taxonomic Facilities (2015) CETAF Strategy and Strategic Development Plan 2015 - 2025. http: //cetaf. org / sites / default / files / final _ strategy _ and _ strategic _ development _ plan. pdf." title="CETAF Strategy and Strategic Development Plan 2015 – 2025" type="book chapter" year="2015">14</bibRefCitation>
+<bibRefCitation author="Consortium of European Taxonomic Facilities" box="[849,876,1112,1133]" journalOrPublisher="CETAF Strategy and Strategic Development Plan" pageId="1" pageNumber="2" pagination="2015 - 2025" publicationUrl="http://cetaf.org/sites/default/files/final_strategy_and_strategic_development_plan.pdf" refString="14. Consortium of European Taxonomic Facilities (2015) CETAF Strategy and Strategic Development Plan 2015 - 2025. http: //cetaf. org / sites / default / files / final _ strategy _ and _ strategic _ development _ plan. pdf." title="CETAF Strategy and Strategic Development Plan 2015 – 2025" type="book chapter" year="2015">14</bibRefCitation>
 ). The new CETAF stable identifiers are increasingly used for referencing specimens in taxonomic publications, data portals, and web service interfaces. In addition, several pilot projects are underway to demonstrate the integration into Linked Open Data based applications.
 </paragraph>
-<paragraph id="8BC15945FFAB106C6F307C11FC3F935C" blockId="1.[840,964,1339,1367]" box="[840,964,1339,1367]" pageId="1" pageNumber="2">
-<heading id="D089EE29FFAB106C6F307C11FC3F935C" bold="true" box="[840,964,1339,1367]" fontSize="11" level="1" pageId="1" pageNumber="2" reason="0">
+<paragraph blockId="1.[840,964,1339,1367]" box="[840,964,1339,1367]" pageId="1" pageNumber="2">
+<heading bold="true" box="[840,964,1339,1367]" fontSize="11" level="1" pageId="1" pageNumber="2" reason="0">
 <!--emphasis removed-->Methods
 </heading>
 </paragraph>
-<paragraph id="8BC15945FFAB106C6F307C5AFAA89382" blockId="1.[840,1363,1392,1417]" box="[840,1363,1392,1417]" pageId="1" pageNumber="2">Syntax of HTTP URIs for collection objects</paragraph>
-<paragraph id="8BC15945FFAB106C6F307C8AFBAC90C7" blockId="1.[840,1465,1440,1950]" pageId="1" pageNumber="2">
+<paragraph blockId="1.[840,1363,1392,1417]" box="[840,1363,1392,1417]" pageId="1" pageNumber="2">Syntax of HTTP URIs for collection objects</paragraph>
+<paragraph blockId="1.[840,1465,1440,1950]" pageId="1" pageNumber="2">
 The basic generic syntax of Uniform Resource Identifiers (URIs) for identifying resources is formally described in the current Standard RFC 3986 (
-<bibRefCitation id="EFEF24B4FFAB106C68FA7CCCFB6693F7" author="Berners-Lee, T. &amp; Fielding, R. &amp; Masinter, L." box="[1154,1181,1510,1532]" journalOrPublisher="Uniform Resource Identifier (URI): Generic Syntax" pageId="1" pageNumber="2" publicationUrl="https://tools.ietf.org/html/rfc3986" refString="15. Berners-Lee, T., Fielding, R., and Masinter, L. (2005) Uniform Resource Identifier (URI): Generic Syntax. https: // tools. ietf. org /html / rfc 3986." title="Uniform Resource Identifier (URI): Generic Syntax" type="book chapter" year="2005">15</bibRefCitation>
+<bibRefCitation author="Berners-Lee, T. &amp; Fielding, R. &amp; Masinter, L." box="[1154,1181,1510,1532]" journalOrPublisher="Uniform Resource Identifier (URI): Generic Syntax" pageId="1" pageNumber="2" publicationUrl="https://tools.ietf.org/html/rfc3986" refString="15. Berners-Lee, T., Fielding, R., and Masinter, L. (2005) Uniform Resource Identifier (URI): Generic Syntax. https: // tools. ietf. org /html / rfc 3986." title="Uniform Resource Identifier (URI): Generic Syntax" type="book chapter" year="2005">15</bibRefCitation>
 ). This syntax is very open in the sense that basically only the fundamental building blocks (scheme, authority, path, query and fragment) and their arrangement are specified. For particular applications of URIs the generic identifier can be further restricted to more specific formal grammars for example to support access protocol agreements.
 </paragraph>
-<paragraph id="8BC15945FFAB106F6F107FF0FEEC952C" blockId="1.[840,1465,1440,1950]" lastBlockId="2.[168,793,160,1119]" lastPageId="2" lastPageNumber="3" pageId="1" pageNumber="2">
+<paragraph blockId="1.[840,1465,1440,1950]" lastBlockId="2.[168,793,160,1119]" lastPageId="2" lastPageNumber="3" pageId="1" pageNumber="2">
 CETAF organizations agreed on using HTTP URIs for the identification of physical collection objects as well as associated information resources (e.g. multimedia, RDF, web pages), because they are the dominant mechanism to reference information in the World Wide Web. It was further agreed that more restrictive syntax specifications prescribing precisely the structure of identifiers for natural history collection objects across institutions would hinder the implementation process and should be avoided. Instead, participating institutions collaboratively developed a best practices document, including basic recommendations and background information on HTTP URIs, non-binding recommendations on URI patterns applied to the Semantic Web and Linked Open Data, examples which can be used as a blueprint for own implementations, as well as a list of concrete patterns used by early implementers in the natural history domain (
-<bibRefCitation id="EFEF24B4FFA8106F6E2878D1FD90941A" author="Hagedorn, G. &amp; Catapano, T. &amp; Guntsch, A. &amp; et al" box="[592,619,507,529]" journalOrPublisher="Uniform Resource Identifier (URI): Generic Syntax" pageId="2" pageNumber="3" publicationUrl="http://wiki.pro-ibiosphere.eu/wiki/Best_ practices_for_stable_URIs." refString="16. Hagedorn, G., Catapano, T., Guntsch, A. et al. (2013) Best practices for stable URIs. http: // wiki. pro-ibiosphere. eu / wiki / Best _ practices _ for _ stable _ URIs." title="Best practices for stable URIs." type="book" year="2013">16</bibRefCitation>
+<bibRefCitation author="Hagedorn, G. &amp; Catapano, T. &amp; Guntsch, A. &amp; et al" box="[592,619,507,529]" journalOrPublisher="Uniform Resource Identifier (URI): Generic Syntax" pageId="2" pageNumber="3" publicationUrl="http://wiki.pro-ibiosphere.eu/wiki/Best_ practices_for_stable_URIs." refString="16. Hagedorn, G., Catapano, T., Guntsch, A. et al. (2013) Best practices for stable URIs. http: // wiki. pro-ibiosphere. eu / wiki / Best _ practices _ for _ stable _ URIs." title="Best practices for stable URIs." type="book" year="2013">16</bibRefCitation>
 ). The flexibility to choose their own syntax together with the documentation of recommended patterns was the main reason for the rapidly growing number of working implementations in CETAF institutions. The typical URI pattern is composed of the institutions’ web domain, a meaningful subdomain, a class (within which similar objects may be found), and an existing local object identifier (such as an object barcode) (
-<figureCitation id="134545C0FFA8106F6CC97A3BFEF3952D" box="[177,264,785,807]" captionStart="Figure 1" captionStartId="2.[840,896,1074,1092]" captionTargetBox="[846,1451,166,1029]" captionTargetId="figure@2.[843,1462,159,1043]" captionTargetPageId="2" captionText="Figure 1. Example specimen. Example physical herbarium object and its stable HTTP URI identifier." httpUri="https://zenodo.org/record/1002026/files/figure.png" pageId="2" pageNumber="3">
+<figureCitation box="[177,264,785,807]" captionStart="Figure 1" captionStartId="2.[840,896,1074,1092]" captionTargetBox="[846,1451,166,1029]" captionTargetId="figure@2.[843,1462,159,1043]" captionTargetPageId="2" captionText="Figure 1. Example specimen. Example physical herbarium object and its stable HTTP URI identifier." httpUri="https://zenodo.org/record/1002026/files/figure.png" pageId="2" pageNumber="3">
 Figure 
-<bibRefCitation id="EFEF24B4FFA8106F6C827A3BFEF3952D" author="Duckworth, W. D. &amp; Genoways, H. H. &amp; Rose, C. L." box="[250,264,785,806]" journalOrPublisher="Washington, DC" pageId="2" pageNumber="3" refString="1. Duckworth, W. D., Genoways, H. H. and Rose, C. L. (1993) Preserving Natural Science Collections: Chronicle of Our Environmental Heritage. National Institute for the Conservation of Cultural Property, Washington, DC." title="Preserving Natural Science Collections: Chronicle of Our Environmental Heritage. National Institute for the Conservation of Cultural Property" type="book" year="1993">1</bibRefCitation>
+<bibRefCitation author="Duckworth, W. D. &amp; Genoways, H. H. &amp; Rose, C. L." box="[250,264,785,806]" journalOrPublisher="Washington, DC" pageId="2" pageNumber="3" refString="1. Duckworth, W. D., Genoways, H. H. and Rose, C. L. (1993) Preserving Natural Science Collections: Chronicle of Our Environmental Heritage. National Institute for the Conservation of Cultural Property, Washington, DC." title="Preserving Natural Science Collections: Chronicle of Our Environmental Heritage. National Institute for the Conservation of Cultural Property" type="book" year="1993">1</bibRefCitation>
 </figureCitation>
 ).
 </paragraph>
-<paragraph id="8BC15945FFA8106F6CB07A1EFD2D9254" blockId="2.[168,793,160,1119]" pageId="2" pageNumber="3">The web domains owned and controlled by the respective institutions ensure the global uniqueness of the identifiers and thus, the local object identifiers only need to be unique within each institution’s scope which all Institutions are capable to achieve. As the full string is treated as the identifier rather than just the local ID, HTTP URIs can be considered as highly persistent as long as global domain name registrars guarantee the uniqueness of the domain names throughout the World Wide Web.</paragraph>
-<caption id="DF0109CDFFA8106F6F307D18FBB39254" httpUri="https://zenodo.org/record/1002026/files/figure.png" pageId="2" pageNumber="3" targetBox="[846,1451,166,1029]" targetPageId="2">
-<paragraph id="8BC15945FFA8106F6F307D18FBB39254" blockId="2.[840,1464,1074,1119]" pageId="2" pageNumber="3">
+<paragraph blockId="2.[168,793,160,1119]" pageId="2" pageNumber="3">The web domains owned and controlled by the respective institutions ensure the global uniqueness of the identifiers and thus, the local object identifiers only need to be unique within each institution’s scope which all Institutions are capable to achieve. As the full string is treated as the identifier rather than just the local ID, HTTP URIs can be considered as highly persistent as long as global domain name registrars guarantee the uniqueness of the domain names throughout the World Wide Web.</paragraph>
+<caption httpUri="https://zenodo.org/record/1002026/files/figure.png" pageId="2" pageNumber="3" targetBox="[846,1451,166,1029]" targetPageId="2">
+<paragraph blockId="2.[840,1464,1074,1119]" pageId="2" pageNumber="3">
 <!--emphasis removed-->Figure 1.
 Example specimen. Example physical herbarium object and its stable HTTP URI identifier.
 </paragraph>
 </caption>
-<paragraph id="8BC15945FFA8106F6CD07D8BFD0692B1" blockId="2.[168,765,1185,1210]" box="[168,765,1185,1210]" pageId="2" pageNumber="3">Basic identification and redirection mechanisms</paragraph>
-<paragraph id="8BC15945FFA8106F6CD07DF8FDE49195" blockId="2.[168,793,1234,1950]" pageId="2" pageNumber="3">
+<paragraph blockId="2.[168,765,1185,1210]" box="[168,765,1185,1210]" pageId="2" pageNumber="3">Basic identification and redirection mechanisms</paragraph>
+<paragraph blockId="2.[168,793,1234,1950]" pageId="2" pageNumber="3">
 With the availability of CETAF stable identifiers, both physical and digital specimens and their associated information resources can be uniquely and persistently referenced. The distinction between the specimen itself and the information resources containing metadata describing this object (e.g. taxon name, collector and provenance) is occasionally omitted in oversimplified information models and data portals. However, this is a prerequisite for a consistent system, which enables different users to talk about the same specimen or discuss (and perhaps reject) claims made in different information resources about this specimen. Assertions that refer to objects by means of identifiers can be integrated and provide a basis for the inference capabilities of the Semantic Web. The identifiers’ full potential unfolds with the implementation of redirection mechanisms. Users trying to access a specimen using a web-browser and the specimen identifier will be redirected to a human-readable representation of the objects, typically an HTML-webpage. On the other hand software-systems requiring machine-readable representations of the object will be redirected to a (preferably) RDFencoded metadata record (
-<figureCitation id="134545C0FFA8106F6DC47EA2FDEB9196" box="[444,528,1928,1950]" captionStart="Figure 2" captionStartId="3.[168,224,628,646]" captionTargetBox="[210,1423,173,590]" captionTargetId="figure@3.[207,1426,159,597]" captionTargetPageId="3" captionText="Figure 2. Basic redirection mechanisms. Human users are redirected to a human-readable web-representation of the specimens. Software systems are re-directed to a machine-readable metadata record." httpUri="https://zenodo.org/record/1002028/files/figure.png" pageId="2" pageNumber="3">
+<figureCitation box="[444,528,1928,1950]" captionStart="Figure 2" captionStartId="3.[168,224,628,646]" captionTargetBox="[210,1423,173,590]" captionTargetId="figure@3.[207,1426,159,597]" captionTargetPageId="3" captionText="Figure 2. Basic redirection mechanisms. Human users are redirected to a human-readable web-representation of the specimens. Software systems are re-directed to a machine-readable metadata record." httpUri="https://zenodo.org/record/1002028/files/figure.png" pageId="2" pageNumber="3">
 Figure 
-<bibRefCitation id="EFEF24B4FFA8106F6E7B7EA2FDEB9196" author="Chapman, A. D." box="[515,528,1928,1949]" journalOrPublisher="Copenhagen" pageId="2" pageNumber="3" refString="2. Chapman, A. D. (2005) Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen." title="Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility" type="book" year="2005">2</bibRefCitation>
+<bibRefCitation author="Chapman, A. D." box="[515,528,1928,1949]" journalOrPublisher="Copenhagen" pageId="2" pageNumber="3" refString="2. Chapman, A. D. (2005) Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen." title="Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility" type="book" year="2005">2</bibRefCitation>
 </figureCitation>
 ).
 </paragraph>
-<paragraph id="8BC15945FFA8106F6F107DBDFC579032" blockId="2.[840,1465,1175,1593]" pageId="2" pageNumber="3">The redirection mechanisms have to be setup locally by participating organizations. For ease of implementation working example PHP scripts are provided on a SourceForge site (https://sourceforge.net/projects/stablecol lectionidentifiers), which can easily be modified to meet the local technical requirements. The software includes a function for transforming specimen metadata into a simple set of RDF elements mainly consisting of concepts defined by the Darwin Core and Dublin Core (17) standards. However, participating institutions are free to use their internally developed software and different sets of RDF elements.</paragraph>
-<paragraph id="8BC15945FFA8106F6F307FAAFBDB9092" blockId="2.[840,1056,1664,1689]" box="[840,1056,1664,1689]" pageId="2" pageNumber="3">
-<heading id="D089EE29FFA8106F6F307FAAFBDB9092" box="[840,1056,1664,1689]" fontSize="10" level="2" pageId="2" pageNumber="3" reason="1">Quality of service</heading>
+<paragraph blockId="2.[840,1465,1175,1593]" pageId="2" pageNumber="3">The redirection mechanisms have to be setup locally by participating organizations. For ease of implementation working example PHP scripts are provided on a SourceForge site (https://sourceforge.net/projects/stablecol lectionidentifiers), which can easily be modified to meet the local technical requirements. The software includes a function for transforming specimen metadata into a simple set of RDF elements mainly consisting of concepts defined by the Darwin Core and Dublin Core (17) standards. However, participating institutions are free to use their internally developed software and different sets of RDF elements.</paragraph>
+<paragraph blockId="2.[840,1056,1664,1689]" box="[840,1056,1664,1689]" pageId="2" pageNumber="3">
+<heading box="[840,1056,1664,1689]" fontSize="10" level="2" pageId="2" pageNumber="3" reason="1">Quality of service</heading>
 </paragraph>
-<paragraph id="8BC15945FFA8106E6F307F9AFED99562" blockId="2.[840,1465,1712,1950]" lastBlockId="3.[168,793,745,873]" lastPageId="3" lastPageNumber="4" pageId="2" pageNumber="3">An essential aspect of the new identifier system is that participating organizations keep their identifiers stable and ensure that redirection mechanisms are working reliably. The fact that stable, web-enabled identifiers are just as important as the identifiers locally used on physical objects (e.g. museum numbers or barcodes) has to be recognized in the development of curation strategies for natural history collections. The awareness of the need for appropriate management procedures is already growing with the increasing use of CETAF stable identifiers in taxonomic workflows.</paragraph>
-<caption id="DF0109CDFFA9106E6CD07B5EFD7294A9" httpUri="https://zenodo.org/record/1002028/files/figure.png" pageId="3" pageNumber="4" targetBox="[210,1423,173,590]" targetPageId="3">
-<paragraph id="8BC15945FFA9106E6CD07B5EFD7294A9" blockId="3.[168,1464,628,674]" pageId="3" pageNumber="4">
+<paragraph blockId="2.[840,1465,1712,1950]" lastBlockId="3.[168,793,745,873]" lastPageId="3" lastPageNumber="4" pageId="2" pageNumber="3">An essential aspect of the new identifier system is that participating organizations keep their identifiers stable and ensure that redirection mechanisms are working reliably. The fact that stable, web-enabled identifiers are just as important as the identifiers locally used on physical objects (e.g. museum numbers or barcodes) has to be recognized in the development of curation strategies for natural history collections. The awareness of the need for appropriate management procedures is already growing with the increasing use of CETAF stable identifiers in taxonomic workflows.</paragraph>
+<caption httpUri="https://zenodo.org/record/1002028/files/figure.png" pageId="3" pageNumber="4" targetBox="[210,1423,173,590]" targetPageId="3">
+<paragraph blockId="3.[168,1464,628,674]" pageId="3" pageNumber="4">
 <!--emphasis removed-->Figure 2.
 Basic redirection mechanisms. Human users are redirected to a human-readable web-representation of the specimens. Software systems are re-directed to a machine-readable metadata record.
 </paragraph>
 </caption>
-<paragraph id="8BC15945FFA9106E6CD07A81FEF495CC" blockId="3.[168,271,939,967]" box="[168,271,939,967]" pageId="3" pageNumber="4">
-<heading id="D089EE29FFA9106E6CD07A81FEF495CC" bold="true" box="[168,271,939,967]" fontSize="11" level="1" pageId="3" pageNumber="4" reason="0">
+<paragraph blockId="3.[168,271,939,967]" box="[168,271,939,967]" pageId="3" pageNumber="4">
+<heading bold="true" box="[168,271,939,967]" fontSize="11" level="1" pageId="3" pageNumber="4" reason="0">
 <!--emphasis removed-->Results
 </heading>
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CD07AF4FD07921C" blockId="3.[168,793,989,1047]" pageId="3" pageNumber="4">As of June 2016, the following 13 organizations have implemented CETAF stable identifiers for their collections:</paragraph>
-<paragraph id="8BC15945FFA9106E6CD07D19FD5F9242" blockId="3.[168,793,1075,1548]" box="[168,676,1075,1097]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,989,1047]" pageId="3" pageNumber="4">As of June 2016, the following 13 organizations have implemented CETAF stable identifiers for their collections:</paragraph>
+<paragraph blockId="3.[168,793,1075,1548]" box="[168,676,1075,1097]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Botanic Garden and Botanical Museum Berlin
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CD07D7CFD5A9267" blockId="3.[168,793,1075,1548]" box="[168,673,1110,1132]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1075,1548]" box="[168,673,1110,1132]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Finnish Museum of Natural History, Helsinki
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CD07D53FED392B9" blockId="3.[168,793,1075,1548]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1075,1548]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Institute of Botany, Slovak Academy of Sciences, Bratislava
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CD07D95FDF692DF" blockId="3.[168,793,1075,1548]" box="[168,525,1214,1236]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1075,1548]" box="[168,525,1214,1236]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Museum für Naturkunde Berlin
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CD07DCBFD7C92FC" blockId="3.[168,793,1075,1548]" box="[168,647,1249,1271]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1075,1548]" box="[168,647,1249,1271]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Muséum national d’histoire naturelle, Paris
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CD07C2EFDBC9311" blockId="3.[168,793,1075,1548]" box="[168,583,1284,1306]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1075,1548]" box="[168,583,1284,1306]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Naturalis Biodiversity Center, Leiden
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CD07C0DFDA19337" blockId="3.[168,793,1075,1548]" box="[168,602,1318,1340]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1075,1548]" box="[168,602,1318,1340]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 The Natural History Museum, London
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CD07C63FD629354" blockId="3.[168,793,1075,1548]" box="[168,665,1353,1375]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1075,1548]" box="[168,665,1353,1375]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Natural History Museum, University of Oslo
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CD07C46FDE49389" blockId="3.[168,793,1075,1548]" box="[168,543,1388,1410]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1075,1548]" box="[168,543,1388,1410]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Royal Botanic Garden Edinburgh
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CD07CA5FDB293AF" blockId="3.[168,793,1075,1548]" box="[168,585,1422,1444]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1075,1548]" box="[168,585,1422,1444]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Royal Botanic Gardens Kew, London
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CD07C9BFCF293CC" blockId="3.[168,793,1075,1548]" box="[168,777,1457,1479]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1075,1548]" box="[168,777,1457,1479]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Staatliche Naturwissenschaftliche Sammlungen Bayerns
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CD07CFEFD5993E2" blockId="3.[168,793,1075,1548]" box="[168,674,1492,1514]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1075,1548]" box="[168,674,1492,1514]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Staatliches Museum für Naturkunde Stuttgart
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CD07CDDFCEB9007" blockId="3.[168,793,1075,1548]" box="[168,784,1526,1548]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1075,1548]" box="[168,784,1526,1548]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Zoologisches Forschungsmuseum Alexander Koenig, Bonn
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CB07F03FD209119" blockId="3.[168,793,1577,1950]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1577,1950]" pageId="3" pageNumber="4">
 The new identifiers are increasingly accepted by the scientific community and used in scientific publications referencing specimens as well as in institutional web-based query systems and large scale information systems such as the data portal of the Global Biodiversity Information Facility GBIF (
-<figureCitation id="134545C0FFA9106E6D217FF3FE4190E5" box="[345,442,1753,1775]" captionStart="Figure 3" captionStartId="4.[168,224,1175,1193]" captionTargetBox="[213,1421,161,1134]" captionTargetId="figure@4.[211,1423,159,1144]" captionTargetPageId="4" captionText="Figure 3. CETAF stable HTTP URIs in the GBIF data portal. The Global Biodiversity Information Facility (GBIF) publishes CETAF stable HTTP URIs via their data portal." httpUri="https://zenodo.org/record/1002030/files/figure.png" pageId="3" pageNumber="4">
+<figureCitation box="[345,442,1753,1775]" captionStart="Figure 3" captionStartId="4.[168,224,1175,1193]" captionTargetBox="[213,1421,161,1134]" captionTargetId="figure@4.[211,1423,159,1144]" captionTargetPageId="4" captionText="Figure 3. CETAF stable HTTP URIs in the GBIF data portal. The Global Biodiversity Information Facility (GBIF) publishes CETAF stable HTTP URIs via their data portal." httpUri="https://zenodo.org/record/1002030/files/figure.png" pageId="3" pageNumber="4">
 Figure 
-<bibRefCitation id="EFEF24B4FFA9106E6DD47FF3FE4190E5" author="Guntsch, A" box="[428,442,1753,1774]" journalOrPublisher="The BioCASE Project - a Biological Access Service for Europe. Ferrantia" pageId="3" pageNumber="4" pagination="103 - 108" part="51" refString="3. Guntsch, A., Mergen, P. and Berendsohn, W. G. (2007) The BioCASE Project - a Biological Access Service for Europe. Ferrantia, 51, 103 - 108." title="Mergen, P. and Berendsohn, W. G." type="journal article" year="2007">3</bibRefCitation>
+<bibRefCitation author="Guntsch, A" box="[428,442,1753,1774]" journalOrPublisher="The BioCASE Project - a Biological Access Service for Europe. Ferrantia" pageId="3" pageNumber="4" pagination="103 - 108" part="51" refString="3. Guntsch, A., Mergen, P. and Berendsohn, W. G. (2007) The BioCASE Project - a Biological Access Service for Europe. Ferrantia, 51, 103 - 108." title="Mergen, P. and Berendsohn, W. G." type="journal article" year="2007">3</bibRefCitation>
 </figureCitation>
 , http://www.gbif.org) and the Global Genome Biodiversity Network [GGBN, (
-<bibRefCitation id="EFEF24B4FFA9106E6ED07FD6FD38911A" author="Droege, G. &amp; Barker, K. &amp; Astrin, J. &amp; et al." box="[680,707,1788,1809]" journalOrPublisher="Nucleic Acids Res" pageId="3" pageNumber="4" pagination="612" part="42" refString="18. Droege, G., Barker, K., Astrin, J. et al. (2014) The global genome biodiversity network (GGBN) data portal. Nucleic Acids Res., 42, D 607 - D 612." title="The global genome biodiversity network (GGBN) data portal" type="journal article" year="2014">18</bibRefCitation>
+<bibRefCitation author="Droege, G. &amp; Barker, K. &amp; Astrin, J. &amp; et al." box="[680,707,1788,1809]" journalOrPublisher="Nucleic Acids Res" pageId="3" pageNumber="4" pagination="612" part="42" refString="18. Droege, G., Barker, K., Astrin, J. et al. (2014) The global genome biodiversity network (GGBN) data portal. Nucleic Acids Res., 42, D 607 - D 612." title="The global genome biodiversity network (GGBN) data portal" type="journal article" year="2014">18</bibRefCitation>
 )].
 </paragraph>
-<paragraph id="8BC15945FFA9106E6CB07E35FD479195" blockId="3.[168,793,1577,1950]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[168,793,1577,1950]" pageId="3" pageNumber="4">
 To support quality control measures, a capable and easy to use ‘CETAF Specimen URI Tester’ (http://herbal.rbge. info) has been implemented (
-<figureCitation id="134545C0FFA9106E6DA47E4FFDC89171" box="[476,563,1893,1915]" captionStart="Figure 4" captionStartId="5.[168,224,1393,1411]" captionTargetBox="[339,1295,159,1358]" captionTargetId="figure@5.[336,1298,159,1362]" captionTargetPageId="5" captionText="Figure 4. The CETAF Specimen URI Tester provides for any given Specimen URI an overview of the redirection process as well as a preview of machine-readable and human-readable data associated with the URI." httpUri="https://zenodo.org/record/1002032/files/figure.png" pageId="3" pageNumber="4">
+<figureCitation box="[476,563,1893,1915]" captionStart="Figure 4" captionStartId="5.[168,224,1393,1411]" captionTargetBox="[339,1295,159,1358]" captionTargetId="figure@5.[336,1298,159,1362]" captionTargetPageId="5" captionText="Figure 4. The CETAF Specimen URI Tester provides for any given Specimen URI an overview of the redirection process as well as a preview of machine-readable and human-readable data associated with the URI." httpUri="https://zenodo.org/record/1002032/files/figure.png" pageId="3" pageNumber="4">
 Figure 
-<bibRefCitation id="EFEF24B4FFA9106E6E5E7E4FFDC89171" author="Canhos, V. P" box="[550,563,1893,1914]" journalOrPublisher="Global Biodiversity Informatics: setting the scene for a &#34; new world &#34; of ecological forecasting. Biodiversity Informatics" pageId="3" pageNumber="4" pagination="1 - 13" part="1" refString="4. Canhos, V. P., Souza, S. D., Giovanni, R. D. et al. (2004) Global Biodiversity Informatics: setting the scene for a &#34; new world &#34; of ecological forecasting. Biodiversity Informatics, 1, 1 - 13." title="Souza, S. D., Giovanni, R. D. et al" type="journal article" year="2004">4</bibRefCitation>
+<bibRefCitation author="Canhos, V. P" box="[550,563,1893,1914]" journalOrPublisher="Global Biodiversity Informatics: setting the scene for a &#34; new world &#34; of ecological forecasting. Biodiversity Informatics" pageId="3" pageNumber="4" pagination="1 - 13" part="1" refString="4. Canhos, V. P., Souza, S. D., Giovanni, R. D. et al. (2004) Global Biodiversity Informatics: setting the scene for a &#34; new world &#34; of ecological forecasting. Biodiversity Informatics, 1, 1 - 13." title="Souza, S. D., Giovanni, R. D. et al" type="journal article" year="2004">4</bibRefCitation>
 </figureCitation>
 ). The web-based system provides for any given URI the following tests:
 </paragraph>
-<paragraph id="8BC15945FFA9106E6F307BC3FB4F94F4" blockId="3.[840,1465,745,1950]" box="[840,1204,745,767]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[840,1465,745,1950]" box="[840,1204,745,767]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Syntax check of the URI format.
 </paragraph>
-<paragraph id="8BC15945FFA9106E6F307A21FA97952A" blockId="3.[840,1465,745,1950]" box="[840,1388,779,801]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[840,1465,745,1950]" box="[840,1388,779,801]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Testing of redirection to human-readable content.
 </paragraph>
-<paragraph id="8BC15945FFA9106E6F307A04FB26954F" blockId="3.[840,1465,745,1950]" box="[840,1245,814,836]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[840,1465,745,1950]" box="[840,1245,814,836]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Preview of human-readable content.
 </paragraph>
-<paragraph id="8BC15945FFA9106E6F307A7BFA429582" blockId="3.[840,1465,745,1950]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[840,1465,745,1950]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Testing of redirection to machine-readable content. 
 <!--emphasis removed-->•
 Testing of availability of specific data elements and
 </paragraph>
-<paragraph id="8BC15945FFA9106E6F267ABCFC4295A7" blockId="3.[840,1465,745,1950]" box="[862,953,918,940]" pageId="3" pageNumber="4">preview.</paragraph>
-<paragraph id="8BC15945FFA9106E6F307A93FB3A95C4" blockId="3.[840,1465,745,1950]" box="[840,1217,953,975]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[840,1465,745,1950]" box="[862,953,918,940]" pageId="3" pageNumber="4">preview.</paragraph>
+<paragraph blockId="3.[840,1465,745,1950]" box="[840,1217,953,975]" pageId="3" pageNumber="4">
 <!--emphasis removed-->•
 Preview of complete RDF-Graph.
 </paragraph>
-<paragraph id="8BC15945FFA9106E6F107AF6FB179251" blockId="3.[840,1465,745,1950]" pageId="3" pageNumber="4">The system is highly useful for testing both the technical implementation and semantic aspects of mapping local collection data to RDF standards used by the international biodiversity informatics infrastructures.</paragraph>
-<paragraph id="8BC15945FFA9106E6F107D4DFA9F9303" blockId="3.[840,1465,745,1950]" pageId="3" pageNumber="4">Working implementations of the stable identifier systems are registered in the URI tester as well as on the CETAF website (http://cetaf.org/cetaf-stable-identifiers). Each registration contains an example identifier as well as a link to a local dynamic catalogue if implemented.</paragraph>
-<paragraph id="8BC15945FFA9106E6F107C3FFB4F90E4" blockId="3.[840,1465,745,1950]" pageId="3" pageNumber="4">
+<paragraph blockId="3.[840,1465,745,1950]" pageId="3" pageNumber="4">The system is highly useful for testing both the technical implementation and semantic aspects of mapping local collection data to RDF standards used by the international biodiversity informatics infrastructures.</paragraph>
+<paragraph blockId="3.[840,1465,745,1950]" pageId="3" pageNumber="4">Working implementations of the stable identifier systems are registered in the URI tester as well as on the CETAF website (http://cetaf.org/cetaf-stable-identifiers). Each registration contains an example identifier as well as a link to a local dynamic catalogue if implemented.</paragraph>
+<paragraph blockId="3.[840,1465,745,1950]" pageId="3" pageNumber="4">
 Although there is no binding set of mandatory RDF metadata elements to be provided by implementing organisations, it was agreed that client applications can benefit from a defined set of recommended metadata elements which can be used to generate meaningful previews of specimens and their metadata. The ‘CETAF Specimen Preview Profile’ (CSPP) constitutes such an element set composed of 13 agreed and easy-to-provide Darwin Core and Dublin Core concepts considered useful for preview functions, such as decorated links and search results, in data portals. The CSPP-elements are title, kindOfMaterial, scientificNameCurrent, family, scientificNameOriginal, collectorNumber, collectorName, webscaledImageLink, latitude, longitude, isoCountry, collectionDate and sourceLink (
-<bibRefCitation id="EFEF24B4FFA9106E68F47FF0FB5D90E4" author="Anonymous" box="[1164,1190,1754,1775]" journalOrPublisher="CETAF Specimen Preview Profile." pageId="3" pageNumber="4" publicationUrl="http://ceta fidentifiers.biowikifarm.net/wiki/CSPP" refString="19. Anonymous (2015) CETAF Specimen Preview Profile. http: // ceta fidentifiers. biowikifarm. net / wiki / CSPP." title="19" type="book" year="2015">19</bibRefCitation>
+<bibRefCitation author="Anonymous" box="[1164,1190,1754,1775]" journalOrPublisher="CETAF Specimen Preview Profile." pageId="3" pageNumber="4" publicationUrl="http://ceta fidentifiers.biowikifarm.net/wiki/CSPP" refString="19. Anonymous (2015) CETAF Specimen Preview Profile. http: // ceta fidentifiers. biowikifarm. net / wiki / CSPP." title="19" type="book" year="2015">19</bibRefCitation>
 ).
 </paragraph>
-<paragraph id="8BC15945FFA910696F107FD7FA699379" blockId="3.[840,1465,745,1950]" lastBlockId="4.[840,1465,1337,1395]" lastPageId="4" lastPageNumber="5" pageId="3" pageNumber="4">
+<paragraph blockId="3.[840,1465,745,1950]" lastBlockId="4.[840,1465,1337,1395]" lastPageId="4" lastPageNumber="5" pageId="3" pageNumber="4">
 In addition, the capabilities of Linked Open Data to facilitate cross-institutional thematic information systems are demonstrated on the example of the ‘Wallich Catalogue Online’ system developed by the Royal Botanic Garden Edinburgh. The Catalogue provides an interactive tool helping researchers understand the Wallich Catalogue and interpret the herbarium specimens Nathaniel Wallich distributed on behalf of the British East India Company between 1829 and 1847 (
-<figureCitation id="134545C0FFAE10696DD27C8BFDFE93BC" box="[426,517,1441,1463]" captionStart="Figure 5" captionStartId="6.[168,224,938,956]" captionTargetBox="[208,1425,162,903]" captionTargetId="figure@6.[205,1428,159,907]" captionTargetPageId="6" captionText="Figure 5. The Wallich Catalogue. Screenshot of Wallich Catalogue hosted by Royal Botanic Garden Edinburgh showing popup for stable URI containing information hosted at Botanic Garden and Botanical Museum Berlin-Dahlem." httpUri="https://zenodo.org/record/1002034/files/figure.png" pageId="4" pageNumber="5">
+<figureCitation box="[426,517,1441,1463]" captionStart="Figure 5" captionStartId="6.[168,224,938,956]" captionTargetBox="[208,1425,162,903]" captionTargetId="figure@6.[205,1428,159,907]" captionTargetPageId="6" captionText="Figure 5. The Wallich Catalogue. Screenshot of Wallich Catalogue hosted by Royal Botanic Garden Edinburgh showing popup for stable URI containing information hosted at Botanic Garden and Botanical Museum Berlin-Dahlem." httpUri="https://zenodo.org/record/1002034/files/figure.png" pageId="4" pageNumber="5">
 Figure 
-<bibRefCitation id="EFEF24B4FFAE10696D8F7C8BFDFE93BC" author="Holetschek, J. &amp; Kelbert, P. &amp; Muller, A." box="[503,517,1441,1463]" editor="Fischer S" journalOrPublisher="Lecture Notes in Informatics (LNI)" pageId="4" pageNumber="5" pagination="552 - 564" part="154" refString="5. Holetschek, J., Kelbert, P., Muller, A. et al. (2009) International Networking of Large Amounts of Primary Biodiversity Data. In: Fischer S, Maehle E, Reischuk R, editors. INFORMATIK 2009, Im Focus das Leben, Beitrage der 39. Jahrestagung der Gesellschaft fur Informatik e. V. (GI), 28.9. - 2.10. in Lubeck. Lecture Notes in Informatics (LNI), 154, 552 - 564." title="et al" type="book chapter" volumeTitle="INFORMATIK 2009, Im Focus das Leben, Beitrage der 39. Jahrestagung der Gesellschaft fur Informatik e. V. (GI), 28.9. - 2.10. in Lubeck" year="2009">5</bibRefCitation>
+<bibRefCitation author="Holetschek, J. &amp; Kelbert, P. &amp; Muller, A." box="[503,517,1441,1463]" editor="Fischer S" journalOrPublisher="Lecture Notes in Informatics (LNI)" pageId="4" pageNumber="5" pagination="552 - 564" part="154" refString="5. Holetschek, J., Kelbert, P., Muller, A. et al. (2009) International Networking of Large Amounts of Primary Biodiversity Data. In: Fischer S, Maehle E, Reischuk R, editors. INFORMATIK 2009, Im Focus das Leben, Beitrage der 39. Jahrestagung der Gesellschaft fur Informatik e. V. (GI), 28.9. - 2.10. in Lubeck. Lecture Notes in Informatics (LNI), 154, 552 - 564." title="et al" type="book chapter" volumeTitle="INFORMATIK 2009, Im Focus das Leben, Beitrage der 39. Jahrestagung der Gesellschaft fur Informatik e. V. (GI), 28.9. - 2.10. in Lubeck" year="2009">5</bibRefCitation>
 </figureCitation>
 , http://wallich.rbge.info). The informatics challenge this project faced was to allow users to browse specimen information from multiple herbaria without building a new database that duplicated specimen information. The system’s focus is on curating information about the catalogue whilst leaving individual herbaria to curate authorative information on the specimens they hold. The solution adopted was to store only the HTTP URIs for the remote specimens in the database and pull specimen data in when the user required it. For efficiency, the specimen data is cached briefly but not stored in the database. Data supplied in a CSPP response are used to display core specimen information, a thumbnail image and a link to the original source. An example of the use of this functionality is quickly spotting specimens that don’t look like they are true duplicate specimens simply by hovering the mouse over the Wallich Catalogue page entry.
 </paragraph>
-<caption id="DF0109CDFFAE10696CD07DBDFEC292CF" httpUri="https://zenodo.org/record/1002030/files/figure.png" pageId="4" pageNumber="5" targetBox="[213,1421,161,1134]" targetPageId="4">
-<paragraph id="8BC15945FFAE10696CD07DBDFEC292CF" blockId="4.[168,1465,1175,1220]" pageId="4" pageNumber="5">
+<caption httpUri="https://zenodo.org/record/1002030/files/figure.png" pageId="4" pageNumber="5" targetBox="[213,1421,161,1134]" targetPageId="4">
+<paragraph blockId="4.[168,1465,1175,1220]" pageId="4" pageNumber="5">
 <!--emphasis removed-->Figure 3.
 CETAF stable HTTP URIs in the GBIF data portal. The Global Biodiversity Information Facility (GBIF) publishes CETAF stable HTTP URIs via their data portal.
 </paragraph>
 </caption>
-<paragraph id="8BC15945FFAE10696F307CE0FB7593ED" blockId="4.[840,1166,1482,1510]" box="[840,1166,1482,1510]" pageId="4" pageNumber="5">
-<heading id="D089EE29FFAE10696F307CE0FB7593ED" bold="true" box="[840,1166,1482,1510]" fontSize="11" level="1" pageId="4" pageNumber="5" reason="0">
+<paragraph blockId="4.[840,1166,1482,1510]" box="[840,1166,1482,1510]" pageId="4" pageNumber="5">
+<heading bold="true" box="[840,1166,1482,1510]" fontSize="11" level="1" pageId="4" pageNumber="5" reason="0">
 <!--emphasis removed-->Discussion and outlook
 </heading>
 </paragraph>
-<paragraph id="8BC15945FFAE10696F307CD7FBCC9195" blockId="4.[840,1465,1532,1950]" pageId="4" pageNumber="5">In this paper, we have provided an overview of the status of the initiative of the Consortium of European Taxonomic Facilities CETAF to implement an agreed system of stable HTTP-URI-based identifiers for specimens. The system has been successfully implemented in 13 member institutions. Best practices documentations and reusable open source software components support institutions which now want to join. The new identifiers are already used in publications and data portals. A pilot system has been put up demonstrating the integration of distributed collection information using the Linked Open Data capabilities of HTTP URIs.</paragraph>
-<caption id="DF0109CDFFAF10686CD07C5BFCF99394" httpUri="https://zenodo.org/record/1002032/files/figure.png" pageId="5" pageNumber="6" targetBox="[339,1295,159,1358]" targetPageId="5">
-<paragraph id="8BC15945FFAF10686CD07C5BFCF99394" blockId="5.[168,1464,1393,1439]" pageId="5" pageNumber="6">
+<paragraph blockId="4.[840,1465,1532,1950]" pageId="4" pageNumber="5">In this paper, we have provided an overview of the status of the initiative of the Consortium of European Taxonomic Facilities CETAF to implement an agreed system of stable HTTP-URI-based identifiers for specimens. The system has been successfully implemented in 13 member institutions. Best practices documentations and reusable open source software components support institutions which now want to join. The new identifiers are already used in publications and data portals. A pilot system has been put up demonstrating the integration of distributed collection information using the Linked Open Data capabilities of HTTP URIs.</paragraph>
+<caption httpUri="https://zenodo.org/record/1002032/files/figure.png" pageId="5" pageNumber="6" targetBox="[339,1295,159,1358]" targetPageId="5">
+<paragraph blockId="5.[168,1464,1393,1439]" pageId="5" pageNumber="6">
 <!--emphasis removed-->Figure 4.
 The CETAF Specimen URI Tester provides for any given Specimen URI an overview of the redirection process as well as a preview of machine-readable and human-readable data associated with the URI.
 </paragraph>
 </caption>
-<paragraph id="8BC15945FFAF10686CB07F31FADD907D" blockId="5.[168,793,1563,1932]" lastBlockId="5.[840,1465,1563,1932]" pageId="5" pageNumber="6">Apart from implementing CETAF stable identifiers in further organizations, the next steps will focus on improving the interoperability of linked open collection data. This involves (i) the development of machine-readable catalogues of specimens, which can be used as an access point for harvesting metadata, (ii) the development of aggregators facilitating fast indexing and searching across collections and (iii) linking out from collection data to external information resources describing, for example, scientific names, geographic entities and persons. The implementation of a central index will provide the ground for effective quality control measures which are difficult to realise in a purely distributed system. A first prototype of such an index has been integrated into the URI tester.</paragraph>
-<paragraph id="8BC15945FFAF10686F107FA9FBA0912F" blockId="5.[840,1465,1563,1932]" pageId="5" pageNumber="6">The extension to other physical and virtual object types should be considered. With this, the Natural History Collection domain will bridge the gap to other disciplines and open the door to new ways of accessibility, semantic enrichment and inference.</paragraph>
-<paragraph id="8BC15945FFAF106B6F107E1BFD9E9365" blockId="5.[840,1465,1563,1932]" lastBlockId="6.[168,793,1054,1950]" lastPageId="6" lastPageNumber="7" pageId="5" pageNumber="6">
+<paragraph blockId="5.[168,793,1563,1932]" lastBlockId="5.[840,1465,1563,1932]" pageId="5" pageNumber="6">Apart from implementing CETAF stable identifiers in further organizations, the next steps will focus on improving the interoperability of linked open collection data. This involves (i) the development of machine-readable catalogues of specimens, which can be used as an access point for harvesting metadata, (ii) the development of aggregators facilitating fast indexing and searching across collections and (iii) linking out from collection data to external information resources describing, for example, scientific names, geographic entities and persons. The implementation of a central index will provide the ground for effective quality control measures which are difficult to realise in a purely distributed system. A first prototype of such an index has been integrated into the URI tester.</paragraph>
+<paragraph blockId="5.[840,1465,1563,1932]" pageId="5" pageNumber="6">The extension to other physical and virtual object types should be considered. With this, the Natural History Collection domain will bridge the gap to other disciplines and open the door to new ways of accessibility, semantic enrichment and inference.</paragraph>
+<paragraph blockId="5.[840,1465,1563,1932]" lastBlockId="6.[168,793,1054,1950]" lastPageId="6" lastPageNumber="7" pageId="5" pageNumber="6">
 CETAF stable identifiers are likely to play an important role also in referencing to particular specimens in formal nomenclature acts (both in publications publishing these acts and in respective databases) that are performed in accordance with the International Code of Zoological Nomenclature (
-<bibRefCitation id="EFEF24B4FFAC106B6D187D4EFE809272" author="Ride, W. D. L. &amp; Cogger, H. G. &amp; Dupuis, C. &amp; et al" box="[352,379,1124,1145]" journalOrPublisher="International Commission on Zoological Nomenclature, London" pageId="6" pageNumber="7" refString="20. Ride, W. D. L., Cogger, H. G., Dupuis, C. et al. (1999) International Code of Zoological Nomenclature. International Commission on Zoological Nomenclature, London." title="International Code of Zoological Nomenclature" type="book" year="1999">20</bibRefCitation>
+<bibRefCitation author="Ride, W. D. L. &amp; Cogger, H. G. &amp; Dupuis, C. &amp; et al" box="[352,379,1124,1145]" journalOrPublisher="International Commission on Zoological Nomenclature, London" pageId="6" pageNumber="7" refString="20. Ride, W. D. L., Cogger, H. G., Dupuis, C. et al. (1999) International Code of Zoological Nomenclature. International Commission on Zoological Nomenclature, London." title="International Code of Zoological Nomenclature" type="book" year="1999">20</bibRefCitation>
 ) and the International Code of Nomenclature for algae, fungi and plants (
-<bibRefCitation id="EFEF24B4FFAC106B6E167DADFD729297" author="McNeill, J. &amp; Barrie, F. R. &amp; Buck, W. R. &amp; et al." box="[622,649,1159,1180]" journalOrPublisher="Koeltz Scientific Books, Konigstein" pageId="6" pageNumber="7" refString="21. McNeill, J., Barrie, F. R., Buck, W. R. et al. (2012). International Code of Nomenclature for algae, fungi, and plants (Melbourne Code): adopted by the Eighteenth International Botanical Congress Melbourne, Australia, July. Koeltz Scientific Books, Konigstein." title="International Code of Nomenclature for algae, fungi, and plants (Melbourne Code): adopted by the Eighteenth International Botanical Congress Melbourne, Australia, July" type="book" year="2012">21</bibRefCitation>
+<bibRefCitation author="McNeill, J. &amp; Barrie, F. R. &amp; Buck, W. R. &amp; et al." box="[622,649,1159,1180]" journalOrPublisher="Koeltz Scientific Books, Konigstein" pageId="6" pageNumber="7" refString="21. McNeill, J., Barrie, F. R., Buck, W. R. et al. (2012). International Code of Nomenclature for algae, fungi, and plants (Melbourne Code): adopted by the Eighteenth International Botanical Congress Melbourne, Australia, July. Koeltz Scientific Books, Konigstein." title="International Code of Nomenclature for algae, fungi, and plants (Melbourne Code): adopted by the Eighteenth International Botanical Congress Melbourne, Australia, July" type="book" year="2012">21</bibRefCitation>
 ). Currently a web portal for registration of new and past lectotypifications is being developed and stable identifier link to the newly (or past) designated lectotypes of names are likely to be very useful permanent references to specimens. There are already examples of papers using CETAF stable identifiers in formal nomenclature acts (
-<bibRefCitation id="EFEF24B4FFAC106B6E6A7C73FDD69365" author="German, D. A. &amp; Tekin, M. &amp; Spaniel, S. &amp; et al." box="[530,557,1369,1390]" journalOrPublisher="Phytotaxa" pageId="6" pageNumber="7" pagination="75 - 82" part="258" refString="22. German, D. A., Tekin, M., Spaniel, S. et al. (2016) A brief taxonomic revision of Physoptychis (Alysseae, Brassicaceae). Phytotaxa, 258, 75 - 82." title="A brief taxonomic revision of Physoptychis (Alysseae, Brassicaceae" type="journal article" year="2016">22</bibRefCitation>
+<bibRefCitation author="German, D. A. &amp; Tekin, M. &amp; Spaniel, S. &amp; et al." box="[530,557,1369,1390]" journalOrPublisher="Phytotaxa" pageId="6" pageNumber="7" pagination="75 - 82" part="258" refString="22. German, D. A., Tekin, M., Spaniel, S. et al. (2016) A brief taxonomic revision of Physoptychis (Alysseae, Brassicaceae). Phytotaxa, 258, 75 - 82." title="A brief taxonomic revision of Physoptychis (Alysseae, Brassicaceae" type="journal article" year="2016">22</bibRefCitation>
 , 
-<bibRefCitation id="EFEF24B4FFAC106B6E437C73FDAD9365" author="Marhold, K. &amp; Kempa, M &amp; Al-Shehbaz, I. A." box="[571,598,1369,1390]" journalOrPublisher="PhytoKeys" pageId="6" pageNumber="7" pagination="9 - 23" part="50" refString="23. Marhold, K., Kempa, M., and Al-Shehbaz, I. A. (2015) Lectotypification of names of Himalayan Brassicaceae taxa currently placed in the genus Cardamine. PhytoKeys, 50, 9 - 23." title="Lectotypification of names of Himalayan Brassicaceae taxa currently placed in the genus Cardamine" type="journal article" year="2015">23</bibRefCitation>
+<bibRefCitation author="Marhold, K. &amp; Kempa, M &amp; Al-Shehbaz, I. A." box="[571,598,1369,1390]" journalOrPublisher="PhytoKeys" pageId="6" pageNumber="7" pagination="9 - 23" part="50" refString="23. Marhold, K., Kempa, M., and Al-Shehbaz, I. A. (2015) Lectotypification of names of Himalayan Brassicaceae taxa currently placed in the genus Cardamine. PhytoKeys, 50, 9 - 23." title="Lectotypification of names of Himalayan Brassicaceae taxa currently placed in the genus Cardamine" type="journal article" year="2015">23</bibRefCitation>
 ).
 </paragraph>
-<caption id="DF0109CDFFAC106B6CD07A80FC9C95D3" httpUri="https://zenodo.org/record/1002034/files/figure.png" pageId="6" pageNumber="7" targetBox="[208,1425,162,903]" targetPageId="6">
-<paragraph id="8BC15945FFAC106B6CD07A80FC9C95D3" blockId="6.[168,1465,938,984]" pageId="6" pageNumber="7">
+<caption httpUri="https://zenodo.org/record/1002034/files/figure.png" pageId="6" pageNumber="7" targetBox="[208,1425,162,903]" targetPageId="6">
+<paragraph blockId="6.[168,1465,938,984]" pageId="6" pageNumber="7">
 <!--emphasis removed-->Figure 5.
 The Wallich Catalogue. Screenshot of Wallich Catalogue hosted by Royal Botanic Garden Edinburgh showing popup for stable URI containing information hosted at Botanic Garden and Botanical Museum Berlin-Dahlem.
 </paragraph>
 </caption>
-<paragraph id="8BC15945FFAC106B6CB07C51FD1890C7" blockId="6.[168,793,1054,1950]" pageId="6" pageNumber="7">Stable identifiers will have numerous advantages for researchers, data managers, collection managers, policymakers and institutions. For example, the delay between information gathering and creating actionable evidence for conservation is slow. Stable identifiers can underpin reproducible workflows for research, because they facilitate the automation of processes without losing the providence of data. Such automated workflows can be repeated as soon as new data become available, shrinking the time between observation and action, but also reducing uncertainty.</paragraph>
-<paragraph id="8BC15945FFAC106B6CB07FF3FB789271" blockId="6.[168,793,1054,1950]" lastBlockId="6.[840,1465,1054,1950]" pageId="6" pageNumber="7">Another potential of stable web URIs dynamically generated from 2D, QR- or matrix-code accession numbers pinned or glued on the physical objects lies in their integration into collection workflows. A web query for identifiers, done by researchers and collection managers working in the collection magazines, e.g. using mobile apps, will return the direct link to web pages with accredited, objectrelated information—after this information is published by the object-owning institution.</paragraph>
-<paragraph id="8BC15945FFAC106B6F107DACFB7793DC" blockId="6.[840,1465,1054,1950]" pageId="6" pageNumber="7">
+<paragraph blockId="6.[168,793,1054,1950]" pageId="6" pageNumber="7">Stable identifiers will have numerous advantages for researchers, data managers, collection managers, policymakers and institutions. For example, the delay between information gathering and creating actionable evidence for conservation is slow. Stable identifiers can underpin reproducible workflows for research, because they facilitate the automation of processes without losing the providence of data. Such automated workflows can be repeated as soon as new data become available, shrinking the time between observation and action, but also reducing uncertainty.</paragraph>
+<paragraph blockId="6.[168,793,1054,1950]" lastBlockId="6.[840,1465,1054,1950]" pageId="6" pageNumber="7">Another potential of stable web URIs dynamically generated from 2D, QR- or matrix-code accession numbers pinned or glued on the physical objects lies in their integration into collection workflows. A web query for identifiers, done by researchers and collection managers working in the collection magazines, e.g. using mobile apps, will return the direct link to web pages with accredited, objectrelated information—after this information is published by the object-owning institution.</paragraph>
+<paragraph blockId="6.[840,1465,1054,1950]" pageId="6" pageNumber="7">
 Stable identifiers interlink objects and their metadata, but also help link different data together. They therefore facilitate data discovery and can be used to monitor the usage and impact of objects and collections. Furthermore, by linking specimens held at different institutions, stable identifiers will expedite the sharing of data, thus reducing curation costs and improving data quality. This will promote taxonomic precision by allowing specimens to be cited with greater ease leading to more specimen based monographic approaches (
-<bibRefCitation id="EFEF24B4FFAC106B681A7CE8FB8693DC" author="Pullan, M. R &amp; Watson, M. F &amp; Kennedy, J. B. &amp; et al" box="[1122,1149,1474,1495]" journalOrPublisher="Taxon" pageId="6" pageNumber="7" pagination="55 - 75" part="49" refString="24. Pullan, M. R., Watson, M. F., Kennedy, J. B. et al. (2000) The Prometheus Taxonomic Model: a practical approach to representing multiple taxonomies. Taxon, 49, 55 - 75." title="The Prometheus Taxonomic Model: a practical approach to representing multiple taxonomies" type="journal article" year="2000">24</bibRefCitation>
+<bibRefCitation author="Pullan, M. R &amp; Watson, M. F &amp; Kennedy, J. B. &amp; et al" box="[1122,1149,1474,1495]" journalOrPublisher="Taxon" pageId="6" pageNumber="7" pagination="55 - 75" part="49" refString="24. Pullan, M. R., Watson, M. F., Kennedy, J. B. et al. (2000) The Prometheus Taxonomic Model: a practical approach to representing multiple taxonomies. Taxon, 49, 55 - 75." title="The Prometheus Taxonomic Model: a practical approach to representing multiple taxonomies" type="journal article" year="2000">24</bibRefCitation>
 ).
 </paragraph>
-<paragraph id="8BC15945FFAC106A6F107CCEFD839714" blockId="6.[840,1465,1054,1950]" lastBlockId="7.[168,793,160,1508]" lastPageId="7" lastPageNumber="8" pageId="6" pageNumber="7">Stable identifiers for specimens are an important step in improving the interoperability of biodiversity data. However, it imposes long-term responsibilities on the providing institutions, their researchers, curators, publishers and informaticians. They all need to understand the importance of these identifiers and that their stability has to be considered together with general curatorial practice. Specimens cannot simply be remounted, split, re-barcoded or deaccessioned without considering what impact this may have on the stable identifier. Institutional data policies and data management plans may be a useful tool to ensure that these issues are communicated and can be used to detail procedures that ensure stability. For example, given the sensitivity of institutional branding and the occasional merging of collections and exchanging of specimens, for some institutions using weakly branded identifiers might be preferable for the sake of future stability.</paragraph>
-<paragraph id="8BC15945FFAD106A6CB07806FED494CA" blockId="7.[168,793,160,1508]" pageId="7" pageNumber="8">If collections are split or merged, then the responsibility to maintain the persistence of URI may falls to another organisation. To maintain continuity in the long term there are costs, the persistence of URIs cannot be seen as an adjunct to current practise, but a core responsibility of curators and institutions. To this end it is important that software for collections management, data analysis, aggregation and publication should support the maintenance and uniqueness of these identifiers. This is particularly important for smaller collections who, without access to IT support staff, need off-the-shelf solutions to support persistent URIs.</paragraph>
-<paragraph id="8BC15945FFAD106A6CB07BE4FEDE9215" blockId="7.[168,793,160,1508]" pageId="7" pageNumber="8">The responsibility imposed to the institutions includes maintaining their domain names for long-term. Moving an object from one collection to another may imply a valid change of the object’s identifier. The former owner then needs to redirect to the other collection’s new URI with HTTP code 301 (‘permanently moved’) or at least needs to refer to the changes in the metadata for the case where the new owner does not use HTTP URIs. In any case, the ‘old’ identifier needs to be preserved to meet the requirement of persistency.</paragraph>
-<paragraph id="8BC15945FFAD106A6CB07D01FDC993EF" blockId="7.[168,793,160,1508]" pageId="7" pageNumber="8">Political changes (e.g. renaming of the institution or changes of country’s top-level domains) might still influence the persistence of the URIs and there is no easy solution. Awareness of the problem will encourage institutions to select their identifier syntax thoroughly to avoid instabilities as far as possible. Using centralized systems like the services of PURL.org or DOI.org are fully compatible with the concept presented in this article, and institutions might choose one of those services in order to avoid changing components in the URIs. However, both PURLs and DOIs just move the URI persistence problem to a third party and break the notion of institutional responsibility that is vital to the social success of our approach.</paragraph>
-<paragraph id="8BC15945FFAD106A6CD07F26FE459023" blockId="7.[168,793,1548,1727]" box="[168,446,1548,1576]" pageId="7" pageNumber="8">
-<heading id="D089EE29FFAD106A6CD07F26FE459023" bold="true" box="[168,446,1548,1576]" fontSize="11" level="1" pageId="7" pageNumber="8" reason="0">
+<paragraph blockId="6.[840,1465,1054,1950]" lastBlockId="7.[168,793,160,1508]" lastPageId="7" lastPageNumber="8" pageId="6" pageNumber="7">Stable identifiers for specimens are an important step in improving the interoperability of biodiversity data. However, it imposes long-term responsibilities on the providing institutions, their researchers, curators, publishers and informaticians. They all need to understand the importance of these identifiers and that their stability has to be considered together with general curatorial practice. Specimens cannot simply be remounted, split, re-barcoded or deaccessioned without considering what impact this may have on the stable identifier. Institutional data policies and data management plans may be a useful tool to ensure that these issues are communicated and can be used to detail procedures that ensure stability. For example, given the sensitivity of institutional branding and the occasional merging of collections and exchanging of specimens, for some institutions using weakly branded identifiers might be preferable for the sake of future stability.</paragraph>
+<paragraph blockId="7.[168,793,160,1508]" pageId="7" pageNumber="8">If collections are split or merged, then the responsibility to maintain the persistence of URI may falls to another organisation. To maintain continuity in the long term there are costs, the persistence of URIs cannot be seen as an adjunct to current practise, but a core responsibility of curators and institutions. To this end it is important that software for collections management, data analysis, aggregation and publication should support the maintenance and uniqueness of these identifiers. This is particularly important for smaller collections who, without access to IT support staff, need off-the-shelf solutions to support persistent URIs.</paragraph>
+<paragraph blockId="7.[168,793,160,1508]" pageId="7" pageNumber="8">The responsibility imposed to the institutions includes maintaining their domain names for long-term. Moving an object from one collection to another may imply a valid change of the object’s identifier. The former owner then needs to redirect to the other collection’s new URI with HTTP code 301 (‘permanently moved’) or at least needs to refer to the changes in the metadata for the case where the new owner does not use HTTP URIs. In any case, the ‘old’ identifier needs to be preserved to meet the requirement of persistency.</paragraph>
+<paragraph blockId="7.[168,793,160,1508]" pageId="7" pageNumber="8">Political changes (e.g. renaming of the institution or changes of country’s top-level domains) might still influence the persistence of the URIs and there is no easy solution. Awareness of the problem will encourage institutions to select their identifier syntax thoroughly to avoid instabilities as far as possible. Using centralized systems like the services of PURL.org or DOI.org are fully compatible with the concept presented in this article, and institutions might choose one of those services in order to avoid changing components in the URIs. However, both PURLs and DOIs just move the URI persistence problem to a third party and break the notion of institutional responsibility that is vital to the social success of our approach.</paragraph>
+<paragraph blockId="7.[168,793,1548,1727]" box="[168,446,1548,1576]" pageId="7" pageNumber="8">
+<heading bold="true" box="[168,446,1548,1576]" fontSize="11" level="1" pageId="7" pageNumber="8" reason="0">
 <!--emphasis removed-->Acknowledgements
 </heading>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6CD07F1FFF1790B4" blockId="7.[168,793,1548,1727]" pageId="7" pageNumber="8">The authors thank the European Union’s 7th Framework Project pro-iBiosphere (grant agreement no 312848) for supporting two workshops on stable identifiers and Linked Open Data. Our special thanks go to Felix Hilgerdenaar for software development and testing.</paragraph>
-<paragraph id="8BC15945FFAD106A6CD07E2BFEE19116" blockId="7.[168,793,1793,1949]" box="[168,282,1793,1821]" pageId="7" pageNumber="8">
-<heading id="D089EE29FFAD106A6CD07E2BFEE19116" bold="true" box="[168,282,1793,1821]" fontSize="11" level="1" pageId="7" pageNumber="8" reason="0">
+<paragraph blockId="7.[168,793,1548,1727]" pageId="7" pageNumber="8">The authors thank the European Union’s 7th Framework Project pro-iBiosphere (grant agreement no 312848) for supporting two workshops on stable identifiers and Linked Open Data. Our special thanks go to Felix Hilgerdenaar for software development and testing.</paragraph>
+<paragraph blockId="7.[168,793,1793,1949]" box="[168,282,1793,1821]" pageId="7" pageNumber="8">
+<heading bold="true" box="[168,282,1793,1821]" fontSize="11" level="1" pageId="7" pageNumber="8" reason="0">
 <!--emphasis removed-->Funding
 </heading>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6CD07E1BFDFD9196" blockId="7.[168,793,1793,1949]" pageId="7" pageNumber="8">Funding for open access charge: DFG (German Research Foundation) funded Open Access Publication Funds of the Freie Universitðt Berlin. Project Funding for two workshops: European Commission: pro-iBiosphere (312848)</paragraph>
-<paragraph id="8BC15945FFAD106A6F3079B5FB7196B9" blockId="7.[840,1162,159,178]" box="[840,1162,159,178]" pageId="7" pageNumber="8">
+<paragraph blockId="7.[168,793,1793,1949]" pageId="7" pageNumber="8">Funding for open access charge: DFG (German Research Foundation) funded Open Access Publication Funds of the Freie Universitðt Berlin. Project Funding for two workshops: European Commission: pro-iBiosphere (312848)</paragraph>
+<paragraph blockId="7.[840,1162,159,178]" box="[840,1162,159,178]" pageId="7" pageNumber="8">
 <!--emphasis removed-->Conflict of interest
 . None declared.
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F3079F3FC1A96FE" blockId="7.[840,993,217,245]" box="[840,993,217,245]" pageId="7" pageNumber="8">
-<heading id="D089EE29FFAD106A6F3079F3FC1A96FE" bold="true" box="[840,993,217,245]" fontSize="11" level="1" pageId="7" pageNumber="8" reason="0">
+<paragraph blockId="7.[840,993,217,245]" box="[840,993,217,245]" pageId="7" pageNumber="8">
+<heading bold="true" box="[840,993,217,245]" fontSize="11" level="1" pageId="7" pageNumber="8" reason="0">
 <!--emphasis removed-->References
 </heading>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307825FB2A9775" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307825FB2A9775" _evidence="authorListStart.regEx.txt" author="Duckworth, W. D. &amp; Genoways, H. H. &amp; Rose, C. L." journalOrPublisher="Washington, DC" pageId="7" pageNumber="8" title="Preserving Natural Science Collections: Chronicle of Our Environmental Heritage. National Institute for the Conservation of Cultural Property" type="book" year="1993">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListStart.regEx.txt" author="Duckworth, W. D. &amp; Genoways, H. H. &amp; Rose, C. L." journalOrPublisher="Washington, DC" pageId="7" pageNumber="8" title="Preserving Natural Science Collections: Chronicle of Our Environmental Heritage. National Institute for the Conservation of Cultural Property" type="book" year="1993">
 1. 
-<author id="53C3B1A0FFAD106A6F167824FBE9972A" box="[878,1042,270,289]" fns="I" kam="kam" npo="LF" pageId="7" pageNumber="8">Duckworth,W.D.</author>
+<author box="[878,1042,270,289]" fns="I" kam="kam" npo="LF" pageId="7" pageNumber="8">Duckworth,W.D.</author>
 , 
-<author id="53C3B1A0FFAD106A68527825FB3B9729" box="[1066,1216,271,290]" fns="I" npo="LF" pageId="7" pageNumber="8">Genoways,H.H.</author>
+<author box="[1066,1216,271,290]" fns="I" npo="LF" pageId="7" pageNumber="8">Genoways,H.H.</author>
 and 
-<author id="53C3B1A0FFAD106A69737825FA9C9729" box="[1291,1383,271,290]" fns="I" npo="LF" pageId="7" pageNumber="8">Rose,C.L.</author>
+<author box="[1291,1383,271,290]" fns="I" npo="LF" pageId="7" pageNumber="8">Rose,C.L.</author>
 (
-<year id="FFD61816FFAD106A69FA7825FA499729" box="[1410,1458,271,290]" pageId="7" pageNumber="8">1993</year>
+<year box="[1410,1458,271,290]" pageId="7" pageNumber="8">1993</year>
 ) 
-<title id="F97AB273FFAD106A6F167804FBD29775" jopScore="1.0620493" pageId="7" pageNumber="8" type="_" typeScore="22">
+<title jopScore="1.0620493" pageId="7" pageNumber="8" type="_" typeScore="22">
 <!--emphasis removed-->Preserving Natural Science Collections: Chronicle of Our Environmental Heritage
 . National Institute for the Conservation of Cultural Property
 </title>
 , 
-<journalOrPublisher id="51BF5389FFAD106A68487841FB369775" box="[1072,1229,363,382]" jopScore="3.2370389" pageId="7" pageNumber="8">Washington, DC</journalOrPublisher>
+<journalOrPublisher box="[1072,1229,363,382]" jopScore="3.2370389" pageId="7" pageNumber="8">Washington, DC</journalOrPublisher>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F3078A0FA4C97B0" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F3078A0FA4C97B0" _evidence="authorListYearBracketsStart.regEx.txt" author="Chapman, A. D." journalOrPublisher="Copenhagen" pageId="7" pageNumber="8" title="Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility" type="book" year="2005">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListYearBracketsStart.regEx.txt" author="Chapman, A. D." journalOrPublisher="Copenhagen" pageId="7" pageNumber="8" title="Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility" type="book" year="2005">
 2. 
-<author id="53C3B1A0FFAD106A6F1678A3FC099797" box="[878,1010,393,412]" fns="I" kam="kam" npo="LF" pageId="7" pageNumber="8">Chapman,A.D.</author>
+<author box="[878,1010,393,412]" fns="I" kam="kam" npo="LF" pageId="7" pageNumber="8">Chapman,A.D.</author>
 (
-<year id="FFD61816FFAD106A687C78A3FBCA9797" box="[1028,1073,393,412]" pageId="7" pageNumber="8">2005</year>
+<year box="[1028,1073,393,412]" pageId="7" pageNumber="8">2005</year>
 ) 
-<title id="F97AB273FFAD106A683C78A3FAC597B0" jopScore="0.511104" pageId="7" pageNumber="8" type="_" typeScore="22">Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility</title>
+<title jopScore="0.511104" pageId="7" pageNumber="8" type="_" typeScore="22">Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility</title>
 , 
-<journalOrPublisher id="51BF5389FFAD106A693D7882FA4897B0" box="[1349,1459,424,443]" jopScore="1.761104" pageId="7" pageNumber="8">Copenhagen</journalOrPublisher>
+<journalOrPublisher box="[1349,1459,424,443]" jopScore="1.761104" pageId="7" pageNumber="8">Copenhagen</journalOrPublisher>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F3078EDFBBC941C" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F3078EDFBBC941C" _evidence="authorListStart.regEx.txt" author="Guntsch, A" journalOrPublisher="The BioCASE Project - a Biological Access Service for Europe. Ferrantia" pageId="7" pageNumber="8" pagination="103 - 108" part="51" title="Mergen, P. and Berendsohn, W. G." type="journal article" year="2007">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListStart.regEx.txt" author="Guntsch, A" journalOrPublisher="The BioCASE Project - a Biological Access Service for Europe. Ferrantia" pageId="7" pageNumber="8" pagination="103 - 108" part="51" title="Mergen, P. and Berendsohn, W. G." type="journal article" year="2007">
 3. 
-<author id="53C3B1A0FFAD106A6F1678EDFC2D97D1" box="[878,982,455,474]" fns="I" npo="LF" pageId="7" pageNumber="8">Güntsch,A</author>
+<author box="[878,982,455,474]" fns="I" npo="LF" pageId="7" pageNumber="8">Güntsch,A</author>
 ., 
-<title id="F97AB273FFAD106A6F9578EDFACD97D1" box="[1005,1334,455,474]" jopScore="0.18306556" pageId="7" pageNumber="8" type="_" typeScore="33">Mergen,P. and Berendsohn,W.G.</title>
+<title box="[1005,1334,455,474]" jopScore="0.18306556" pageId="7" pageNumber="8" type="_" typeScore="33">Mergen,P. and Berendsohn,W.G.</title>
 (
-<year id="FFD61816FFAD106A693478EDFA8797D1" box="[1356,1404,455,474]" pageId="7" pageNumber="8">2007</year>
+<year box="[1356,1404,455,474]" pageId="7" pageNumber="8">2007</year>
 ) 
-<journalOrPublisher id="51BF5389FFAD106A69ED78EDFC39941C" jopScore="0.59194034" pageId="7" pageNumber="8">
+<journalOrPublisher jopScore="0.59194034" pageId="7" pageNumber="8">
 The BioCASE Project - a Biological Access Service for Europe. 
 <!--emphasis removed-->Ferrantia
 </journalOrPublisher>
 , 
-<part id="FFDAF3D8FFAD106A6FB47B2EFC1E941C" box="[972,997,516,535]" pageId="7" pageNumber="8" type="volume">51</part>
+<part box="[972,997,516,535]" pageId="7" pageNumber="8" type="volume">51</part>
 , 
-<pagination id="B2B7A7B1FFAD106A6F967B2EFBB8941C" box="[1006,1091,516,535]" pageId="7" pageNumber="8" type="pagination">103–108</pagination>
+<pagination box="[1006,1091,516,535]" pageId="7" pageNumber="8" type="pagination">103–108</pagination>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307B09FA94947F" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307B09FA94947F" _evidence="authorListStart.regEx.txt" author="Canhos, V. P" journalOrPublisher="Global Biodiversity Informatics: setting the scene for a &#34; new world &#34; of ecological forecasting. Biodiversity Informatics" pageId="7" pageNumber="8" pagination="1 - 13" part="1" title="Souza, S. D., Giovanni, R. D. et al" type="journal article" year="2004">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListStart.regEx.txt" author="Canhos, V. P" journalOrPublisher="Global Biodiversity Informatics: setting the scene for a &#34; new world &#34; of ecological forecasting. Biodiversity Informatics" pageId="7" pageNumber="8" pagination="1 - 13" part="1" title="Souza, S. D., Giovanni, R. D. et al" type="journal article" year="2004">
 4. 
-<author id="53C3B1A0FFAD106A6F167B09FC1B943D" box="[878,992,547,566]" fns="I" npo="LF" pageId="7" pageNumber="8">Canhos,V.P</author>
+<author box="[878,992,547,566]" fns="I" npo="LF" pageId="7" pageNumber="8">Canhos,V.P</author>
 ., 
-<title id="F97AB273FFAD106A6F897B09FAD9943D" box="[1009,1314,547,566]" jopScore="0.37569126" pageId="7" pageNumber="8" type="_" typeScore="33">
+<title box="[1009,1314,547,566]" jopScore="0.37569126" pageId="7" pageNumber="8" type="_" typeScore="33">
 Souza,S.D., Giovanni,R.D. 
 <!--emphasis removed-->et al
 </title>
 . (
-<year id="FFD61816FFAD106A69407B09FA92943D" box="[1336,1385,547,566]" pageId="7" pageNumber="8">2004</year>
+<year box="[1336,1385,547,566]" pageId="7" pageNumber="8">2004</year>
 ) 
-<journalOrPublisher id="51BF5389FFAD106A69027B09FAE2947F" jopScore="1.7724223" pageId="7" pageNumber="8">
+<journalOrPublisher jopScore="1.7724223" pageId="7" pageNumber="8">
 Global Biodiversity Informatics: setting the scene for a "new world" of ecological forecasting. 
 <!--emphasis removed-->Biodiversity Informatics
 </journalOrPublisher>
 , 
-<part id="FFDAF3D8FFAD106A695C7B4BFACB947F" box="[1316,1328,609,628]" pageId="7" pageNumber="8" type="volume">1</part>
+<part box="[1316,1328,609,628]" pageId="7" pageNumber="8" type="volume">1</part>
 , 
-<pagination id="B2B7A7B1FFAD106A69437B4BFA90947F" box="[1339,1387,609,628]" pageId="7" pageNumber="8" type="pagination">1–13</pagination>
+<pagination box="[1339,1387,609,628]" pageId="7" pageNumber="8" type="pagination">1–13</pagination>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307B55FAC09527" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307B55FAC09527" _evidence="authorListStart.regEx.txt" author="Holetschek, J. &amp; Kelbert, P. &amp; Muller, A." editor="Fischer S" journalOrPublisher="Lecture Notes in Informatics (LNI)" pageId="7" pageNumber="8" pagination="552 - 564" part="154" title="et al" type="book chapter" volumeTitle="INFORMATIK 2009, Im Focus das Leben, Beitrage der 39. Jahrestagung der Gesellschaft fur Informatik e. V. (GI), 28.9. - 2.10. in Lubeck" year="2009">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListStart.regEx.txt" author="Holetschek, J. &amp; Kelbert, P. &amp; Muller, A." editor="Fischer S" journalOrPublisher="Lecture Notes in Informatics (LNI)" pageId="7" pageNumber="8" pagination="552 - 564" part="154" title="et al" type="book chapter" volumeTitle="INFORMATIK 2009, Im Focus das Leben, Beitrage der 39. Jahrestagung der Gesellschaft fur Informatik e. V. (GI), 28.9. - 2.10. in Lubeck" year="2009">
 5. 
-<author id="53C3B1A0FFAD106A6F167B55FC169499" box="[878,1005,639,658]" fns="I" npo="LF" pageId="7" pageNumber="8">Holetschek,J.</author>
+<author box="[878,1005,639,658]" fns="I" npo="LF" pageId="7" pageNumber="8">Holetschek,J.</author>
 , 
-<author id="53C3B1A0FFAD106A6F8F7B55FBAD9499" box="[1015,1110,639,658]" fns="I" npo="LF" pageId="7" pageNumber="8">Kelbert,P.</author>
+<author box="[1015,1110,639,658]" fns="I" npo="LF" pageId="7" pageNumber="8">Kelbert,P.</author>
 , 
-<author id="53C3B1A0FFAD106A68197B55FB479499" box="[1121,1212,639,658]" fns="I" npo="LF" pageId="7" pageNumber="8">Müller,A.</author>
-<title id="F97AB273FFAD106A68BB7BAAFB169499" box="[1219,1261,639,658]" jopScore="0.16274224" pageId="7" pageNumber="8" type="_" typeScore="33">
+<author box="[1121,1212,639,658]" fns="I" npo="LF" pageId="7" pageNumber="8">Müller,A.</author>
+<title box="[1219,1261,639,658]" jopScore="0.16274224" pageId="7" pageNumber="8" type="_" typeScore="33">
 <!--emphasis removed-->et al
 </title>
 . (
-<year id="FFD61816FFAD106A697A7B55FAC99499" box="[1282,1330,639,658]" pageId="7" pageNumber="8">2009</year>
+<year box="[1282,1330,639,658]" pageId="7" pageNumber="8">2009</year>
 ) 
-<title id="F97AB273FFAD106A69397B55FA6C94BA" pageId="7" pageNumber="8">International Networking of Large Amounts of Primary Biodiversity Data</title>
+<title pageId="7" pageNumber="8">International Networking of Large Amounts of Primary Biodiversity Data</title>
 . In: 
-<editor id="4DE2B146FFAD106A6F167B97FC3994DB" box="[878,962,701,720]" pageId="7" pageNumber="8">Fischer S</editor>
+<editor box="[878,962,701,720]" pageId="7" pageNumber="8">Fischer S</editor>
 , 
-<editor id="4DE2B146FFAD106A6FB37B97FBDE94DB" box="[971,1061,701,720]" pageId="7" pageNumber="8">Maehle E</editor>
+<editor box="[971,1061,701,720]" pageId="7" pageNumber="8">Maehle E</editor>
 , 
-<editor id="4DE2B146FFAD106A68577B97FB6094DB" box="[1071,1179,701,720]" pageId="7" pageNumber="8">Reischuk R</editor>
+<editor box="[1071,1179,701,720]" pageId="7" pageNumber="8">Reischuk R</editor>
 , editors. 
-<volumeTitle id="34D23B75FFAD106A68977B97FA4D9506" jopScore="1.6258985" pageId="7" pageNumber="8">INFORMATIK 2009, Im Focus das Leben, Beitrage der 39. Jahrestagung der Gesellschaft für Informatik e.V. (GI), 28.9. - 2.10. in Lübeck</volumeTitle>
+<volumeTitle jopScore="1.6258985" pageId="7" pageNumber="8">INFORMATIK 2009, Im Focus das Leben, Beitrage der 39. Jahrestagung der Gesellschaft für Informatik e.V. (GI), 28.9. - 2.10. in Lübeck</volumeTitle>
 . 
-<journalOrPublisher id="51BF5389FFAD106A6F167A33FB569527" box="[878,1197,793,812]" jopScore="1.7880625" pageId="7" pageNumber="8">Lecture Notes in Informatics (LNI)</journalOrPublisher>
+<journalOrPublisher box="[878,1197,793,812]" jopScore="1.7880625" pageId="7" pageNumber="8">Lecture Notes in Informatics (LNI)</journalOrPublisher>
 , 
 <!--emphasis removed-->
-<part id="FFDAF3D8FFAD106A68CD7A33FB239527" box="[1205,1240,793,812]" pageId="7" pageNumber="8" type="volume">154</part>
+<part box="[1205,1240,793,812]" pageId="7" pageNumber="8" type="volume">154</part>
 
 , 
-<pagination id="B2B7A7B1FFAD106A689B7A33FACC9527" box="[1251,1335,793,812]" pageId="7" pageNumber="8" type="pagination">552–564</pagination>
+<pagination box="[1251,1335,793,812]" pageId="7" pageNumber="8" type="pagination">552–564</pagination>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307A12FBE095AC" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307A12FBE095AC" _evidence="authorListStart.regEx.txt" author="De Giovanni, R. &amp; Döring, M. &amp; Güntsch, A. &amp; et al" journalOrPublisher="TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards (TDWG)" pageId="7" pageNumber="8" publicationUrl="http://www.tdwg.org/standards/449" title="TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards" type="url" year="2010">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListStart.regEx.txt" author="De Giovanni, R. &amp; Döring, M. &amp; Güntsch, A. &amp; et al" journalOrPublisher="TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards (TDWG)" pageId="7" pageNumber="8" publicationUrl="http://www.tdwg.org/standards/449" title="TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards" type="url" year="2010">
 6. 
-<author id="53C3B1A0FFAD106A6F167A12FBFF9540" box="[878,1028,824,843]" fns="I" npo="LF" pageId="7" pageNumber="8">De Giovanni,R.</author>
+<author box="[878,1028,824,843]" fns="I" npo="LF" pageId="7" pageNumber="8">De Giovanni,R.</author>
 , 
-<author id="53C3B1A0FFAD106A68777A12FB8E9540" box="[1039,1141,824,843]" fns="I" npo="LF" pageId="7" pageNumber="8">Döring,M.</author>
+<author box="[1039,1141,824,843]" fns="I" npo="LF" pageId="7" pageNumber="8">Döring,M.</author>
 , 
-<author id="53C3B1A0FFAD106A68F87A12FB129540" box="[1152,1257,824,843]" fns="I" npo="LF" pageId="7" pageNumber="8">Güntsch,A.</author>
+<author box="[1152,1257,824,843]" fns="I" npo="LF" pageId="7" pageNumber="8">Güntsch,A.</author>
 <!--emphasis removed-->
-<author id="53C3B1A0FFAD106A68887A12FAE19540" box="[1264,1306,824,843]" pageId="7" pageNumber="8">et al</author>
+<author box="[1264,1306,824,843]" pageId="7" pageNumber="8">et al</author>
 
 . (
-<year id="FFD61816FFAD106A69577A12FA999540" box="[1327,1378,824,843]" pageId="7" pageNumber="8">2010</year>
+<year box="[1327,1378,824,843]" pageId="7" pageNumber="8">2010</year>
 ). 
-<title id="F97AB273FFAD106A690C7A12FB4B9583" pageId="7" pageNumber="8">TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards</title>
+<title pageId="7" pageNumber="8">TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards</title>
 (TDWG), 
-<publicationUrl id="D3F0FB88FFAD106A696D7A5FFBEC95AC" pageId="7" pageNumber="8">http://www.tdwg.org/standards/449</publicationUrl>
+<publicationUrl pageId="7" pageNumber="8">http://www.tdwg.org/standards/449</publicationUrl>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307A99FBC29208" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307A99FBC29208" _evidence="authorListStart.regEx.txt" author="Wieczorek, J. &amp; Bloom, D. &amp; Guralnick, R." journalOrPublisher="PLoS One" pageId="7" pageNumber="8" pagination="29715" part="7" title="et al" type="journal article" year="2012">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListStart.regEx.txt" author="Wieczorek, J. &amp; Bloom, D. &amp; Guralnick, R." journalOrPublisher="PLoS One" pageId="7" pageNumber="8" pagination="29715" part="7" title="et al" type="journal article" year="2012">
 7. 
-<author id="53C3B1A0FFAD106A6F167A99FC1C95CD" box="[878,999,947,966]" fns="I" npo="LF" pageId="7" pageNumber="8">Wieczorek,J.</author>
+<author box="[878,999,947,966]" fns="I" npo="LF" pageId="7" pageNumber="8">Wieczorek,J.</author>
 , 
-<author id="53C3B1A0FFAD106A6F967A99FBB195CD" box="[1006,1098,947,966]" fns="I" npo="LF" pageId="7" pageNumber="8">Bloom,D.</author>
+<author box="[1006,1098,947,966]" fns="I" npo="LF" pageId="7" pageNumber="8">Bloom,D.</author>
 , 
-<author id="53C3B1A0FFAD106A682A7A99FB3195CD" box="[1106,1226,947,966]" fns="I" npo="LF" pageId="7" pageNumber="8">Guralnick,R.</author>
-<title id="F97AB273FFAD106A68B67A99FB0F95CD" box="[1230,1268,947,966]" jopScore="0.2728318" pageId="7" pageNumber="8" type="_" typeScore="33">
+<author box="[1106,1226,947,966]" fns="I" npo="LF" pageId="7" pageNumber="8">Guralnick,R.</author>
+<title box="[1230,1268,947,966]" jopScore="0.2728318" pageId="7" pageNumber="8" type="_" typeScore="33">
 <!--emphasis removed-->et al
 </title>
 . (
-<year id="FFD61816FFAD106A697D7A99FACD95CD" box="[1285,1334,947,966]" pageId="7" pageNumber="8">2012</year>
+<year box="[1285,1334,947,966]" pageId="7" pageNumber="8">2012</year>
 ) 
-<title id="F97AB273FFAD106A69397A99FA4E95EF" pageId="7" pageNumber="8">Darwin core: an evolving community-developed biodiversity data standard</title>
+<title pageId="7" pageNumber="8">Darwin core: an evolving community-developed biodiversity data standard</title>
 . 
-<journalOrPublisher id="51BF5389FFAD106A6F167ADAFC379208" box="[878,972,1008,1027]" pageId="7" pageNumber="8">
+<journalOrPublisher box="[878,972,1008,1027]" pageId="7" pageNumber="8">
 <!--emphasis removed-->PLoS One
 </journalOrPublisher>
 , 
-<part id="FFDAF3D8FFAD106A6FAF7ADBFC1F920F" box="[983,996,1009,1028]" pageId="7" pageNumber="8" type="volume">7</part>
+<part box="[983,996,1009,1028]" pageId="7" pageNumber="8" type="volume">7</part>
 , e 
-<pagination id="B2B7A7B1FFAD106A6F807ADAFBCE9208" box="[1016,1077,1008,1027]" pageId="7" pageNumber="8" type="pagination">29715</pagination>
+<pagination box="[1016,1077,1008,1027]" pageId="7" pageNumber="8" type="pagination">29715</pagination>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307D25FA52924A" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307D25FA52924A" _evidence="authorListStart.regEx.txt" author="Holetschek, J. &amp; Droge, G. &amp; Guntsch, A. &amp; et al." journalOrPublisher="Plant Biosyst" pageId="7" pageNumber="8" pagination="771 - 779" part="146" title="The ABCD of primary biodiversity data access" type="journal article" year="2012">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListStart.regEx.txt" author="Holetschek, J. &amp; Droge, G. &amp; Guntsch, A. &amp; et al." journalOrPublisher="Plant Biosyst" pageId="7" pageNumber="8" pagination="771 - 779" part="146" title="The ABCD of primary biodiversity data access" type="journal article" year="2012">
 8. 
-<author id="53C3B1A0FFAD106A6F167D25FC169229" box="[878,1005,1039,1058]" fns="I" npo="LF" pageId="7" pageNumber="8">Holetschek,J.</author>
+<author box="[878,1005,1039,1058]" fns="I" npo="LF" pageId="7" pageNumber="8">Holetschek,J.</author>
 , 
-<author id="53C3B1A0FFAD106A6F8D7D25FBB59229" box="[1013,1102,1039,1058]" fns="I" npo="LF" pageId="7" pageNumber="8">Dröge,G.</author>
+<author box="[1013,1102,1039,1058]" fns="I" npo="LF" pageId="7" pageNumber="8">Dröge,G.</author>
 , 
-<author id="53C3B1A0FFAD106A682E7D25FB449229" box="[1110,1215,1039,1058]" fns="I" npo="LF" pageId="7" pageNumber="8">Güntsch,A.</author>
-<author id="53C3B1A0FFAD106A68BC7D25FB0A9229" box="[1220,1265,1039,1058]" pageId="7" pageNumber="8">
+<author box="[1110,1215,1039,1058]" fns="I" npo="LF" pageId="7" pageNumber="8">Güntsch,A.</author>
+<author box="[1220,1265,1039,1058]" pageId="7" pageNumber="8">
 <!--emphasis removed-->et al
 .
 </author>
 (
-<year id="FFD61816FFAD106A68857D25FAD59229" box="[1277,1326,1039,1058]" pageId="7" pageNumber="8">2012</year>
+<year box="[1277,1326,1039,1058]" pageId="7" pageNumber="8">2012</year>
 ) 
-<title id="F97AB273FFAD106A69427D25FB6F924A" pageId="7" pageNumber="8">The ABCD of primary biodiversity data access</title>
+<title pageId="7" pageNumber="8">The ABCD of primary biodiversity data access</title>
 . 
-<journalOrPublisher id="51BF5389FFAD106A68E37D07FAE9924B" box="[1179,1298,1069,1088]" pageId="7" pageNumber="8">
+<journalOrPublisher box="[1179,1298,1069,1088]" pageId="7" pageNumber="8">
 <!--emphasis removed-->Plant Biosyst
 </journalOrPublisher>
 ., 
-<part id="FFDAF3D8FFAD106A695B7D07FAB3924B" box="[1315,1352,1069,1088]" pageId="7" pageNumber="8" type="volume">146</part>
+<part box="[1315,1352,1069,1088]" pageId="7" pageNumber="8" type="volume">146</part>
 , 
-<pagination id="B2B7A7B1FFAD106A69297D04FA5E924A" box="[1361,1445,1070,1089]" pageId="7" pageNumber="8" type="pagination">771–779</pagination>
+<pagination box="[1361,1445,1070,1089]" pageId="7" pageNumber="8" type="pagination">771–779</pagination>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307D66FBAA9296" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307D66FBAA9296" _evidence="authorListStart.regEx.txt" author="Hull, D. &amp; Wolstencroft, K. &amp; Stevens, R. &amp; et al." journalOrPublisher="Nucleic Acids Res" pageId="7" pageNumber="8" pagination="729 - 732" part="34" title="Taverna: a tool for building and running workflows of services" type="journal article" year="2006">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListStart.regEx.txt" author="Hull, D. &amp; Wolstencroft, K. &amp; Stevens, R. &amp; et al." journalOrPublisher="Nucleic Acids Res" pageId="7" pageNumber="8" pagination="729 - 732" part="34" title="Taverna: a tool for building and running workflows of services" type="journal article" year="2006">
 9. 
-<author id="53C3B1A0FFAD106A6F167D66FC4C9254" box="[878,951,1100,1119]" fns="I" npo="LF" pageId="7" pageNumber="8">Hull,D.</author>
+<author box="[878,951,1100,1119]" fns="I" npo="LF" pageId="7" pageNumber="8">Hull,D.</author>
 , 
-<author id="53C3B1A0FFAD106A6FBC7D66FBA19254" box="[964,1114,1100,1119]" fns="I" npo="LF" pageId="7" pageNumber="8">Wolstencroft,K.</author>
+<author box="[964,1114,1100,1119]" fns="I" npo="LF" pageId="7" pageNumber="8">Wolstencroft,K.</author>
 , 
-<author id="53C3B1A0FFAD106A681E7D66FB3C9254" box="[1126,1223,1100,1119]" fns="I" npo="LF" pageId="7" pageNumber="8">Stevens,R.</author>
-<author id="53C3B1A0FFAD106A68B77D67FAFA926B" box="[1231,1281,1100,1120]" pageId="7" pageNumber="8">
+<author box="[1126,1223,1100,1119]" fns="I" npo="LF" pageId="7" pageNumber="8">Stevens,R.</author>
+<author box="[1231,1281,1100,1120]" pageId="7" pageNumber="8">
 <!--emphasis removed-->et al
 .
 </author>
 (
-<year id="FFD61816FFAD106A69697D66FAB99254" box="[1297,1346,1100,1119]" pageId="7" pageNumber="8">2006</year>
+<year box="[1297,1346,1100,1119]" pageId="7" pageNumber="8">2006</year>
 ) 
-<title id="F97AB273FFAD106A692A7D67FA9E9275" pageId="7" pageNumber="8">Taverna: a tool for building and running workflows of services</title>
+<title pageId="7" pageNumber="8">Taverna: a tool for building and running workflows of services</title>
 . 
-<journalOrPublisher id="51BF5389FFAD106A690A7D41FC3D9297" pageId="7" pageNumber="8">
+<journalOrPublisher pageId="7" pageNumber="8">
 <!--emphasis removed-->Nucleic Acids Res
 </journalOrPublisher>
 ., 
-<part id="FFDAF3D8FFAD106A6FAF7DA0FC0A9296" box="[983,1009,1162,1181]" pageId="7" pageNumber="8" type="volume">34</part>
+<part box="[983,1009,1162,1181]" pageId="7" pageNumber="8" type="volume">34</part>
 , 
-<pagination id="B2B7A7B1FFAD106A6F817DA0FBB69296" box="[1017,1101,1162,1181]" pageId="7" pageNumber="8" type="pagination">729–732</pagination>
+<pagination box="[1017,1101,1162,1181]" pageId="7" pageNumber="8" type="pagination">729–732</pagination>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307D82FA5A933D" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307D82FA5A933D" _evidence="authorListStart.regEx.txt" author="Altintas, I &amp; Berkley, C. &amp; Jaeger, E." journalOrPublisher="San Diego" pageId="7" pageNumber="8" pagination="423 - 424" title="et al" type="book chapter" volumeTitle="Scientific and Statistical Database Management, Proceedings. 16 th International Conference on Scientific and Statistical Database Management, SSDBM ' 04" year="2004">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListStart.regEx.txt" author="Altintas, I &amp; Berkley, C. &amp; Jaeger, E." journalOrPublisher="San Diego" pageId="7" pageNumber="8" pagination="423 - 424" title="et al" type="book chapter" volumeTitle="Scientific and Statistical Database Management, Proceedings. 16 th International Conference on Scientific and Statistical Database Management, SSDBM ' 04" year="2004">
 10. 
-<author id="53C3B1A0FFAD106A6F167D82FC3292B0" box="[878,969,1192,1211]" fns="I" npo="LF" pageId="7" pageNumber="8">Altintas,I</author>
+<author box="[878,969,1192,1211]" fns="I" npo="LF" pageId="7" pageNumber="8">Altintas,I</author>
 ., 
-<author id="53C3B1A0FFAD106A6FAE7D82FBC192B0" box="[982,1082,1192,1211]" fns="I" npo="LF" pageId="7" pageNumber="8">Berkley,C.</author>
+<author box="[982,1082,1192,1211]" fns="I" npo="LF" pageId="7" pageNumber="8">Berkley,C.</author>
 , 
-<author id="53C3B1A0FFAD106A683C7D83FB6C92B7" box="[1092,1175,1193,1212]" fns="I" npo="LF" pageId="7" pageNumber="8">Jaeger,E.</author>
-<title id="F97AB273FFAD106A68E57D83FB3D92B0" box="[1181,1222,1192,1211]" jopScore="0.27629304" pageId="7" pageNumber="8" type="_" typeScore="33">
+<author box="[1092,1175,1193,1212]" fns="I" npo="LF" pageId="7" pageNumber="8">Jaeger,E.</author>
+<title box="[1181,1222,1192,1211]" jopScore="0.27629304" pageId="7" pageNumber="8" type="_" typeScore="33">
 <!--emphasis removed-->et al
 </title>
 . (
-<year id="FFD61816FFAD106A68A27D82FAF092B0" box="[1242,1291,1192,1211]" pageId="7" pageNumber="8">2004</year>
+<year box="[1242,1291,1192,1211]" pageId="7" pageNumber="8">2004</year>
 ) 
-<title id="F97AB273FFAD106A69607D82FA6C92D1" pageId="7" pageNumber="8">Kepler: an extensible system for design and execution of scientific workflows</title>
+<title pageId="7" pageNumber="8">Kepler: an extensible system for design and execution of scientific workflows</title>
 . In: 
-<volumeTitle id="34D23B75FFAD106A6F167DCCFB4C933D" jopScore="3.0665295" pageId="7" pageNumber="8">Scientific and Statistical Database Management, Proceedings. 16th International Conference on Scientific and Statistical Database Management, SSDBM ’04</volumeTitle>
+<volumeTitle jopScore="3.0665295" pageId="7" pageNumber="8">Scientific and Statistical Database Management, Proceedings. 16th International Conference on Scientific and Statistical Database Management, SSDBM ’04</volumeTitle>
 , 
-<journalOrPublisher id="51BF5389FFAD106A68B87C09FAE4933D" box="[1216,1311,1315,1334]" jopScore="3.5579824" pageId="7" pageNumber="8">San Diego</journalOrPublisher>
+<journalOrPublisher box="[1216,1311,1315,1334]" jopScore="3.5579824" pageId="7" pageNumber="8">San Diego</journalOrPublisher>
 , pp. 
-<pagination id="B2B7A7B1FFAD106A69317C09FA66933D" box="[1353,1437,1315,1334]" pageId="7" pageNumber="8" type="pagination">423–424</pagination>
+<pagination box="[1353,1437,1315,1334]" pageId="7" pageNumber="8" type="pagination">423–424</pagination>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307C68FB459399" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307C68FB459399" _evidence="authorListYearBracketsStart.regEx.txt" author="Richards, K." journalOrPublisher="Biodiversity Information Standards (TDWG)" pageId="7" pageNumber="8" publicationUrl="http://www.tdwg.org/standards/150" title="TDWG GUID Applicability Statement, Version 2010 - 09" type="url" year="2009">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListYearBracketsStart.regEx.txt" author="Richards, K." journalOrPublisher="Biodiversity Information Standards (TDWG)" pageId="7" pageNumber="8" publicationUrl="http://www.tdwg.org/standards/150" title="TDWG GUID Applicability Statement, Version 2010 - 09" type="url" year="2009">
 11. 
-<author id="53C3B1A0FFAD106A6F167C68FC27935E" box="[878,988,1346,1365]" fns="I" npo="LF" pageId="7" pageNumber="8">Richards,K.</author>
+<author box="[878,988,1346,1365]" fns="I" npo="LF" pageId="7" pageNumber="8">Richards,K.</author>
 (
-<year id="FFD61816FFAD106A6F887C68FBDB935E" box="[1008,1056,1346,1365]" pageId="7" pageNumber="8">2009</year>
+<year box="[1008,1056,1346,1365]" pageId="7" pageNumber="8">2009</year>
 ) 
-<title id="F97AB273FFAD106A684E7C68FBF7937F" jopScore="0.09683965" pageId="7" pageNumber="8" type="_" typeScore="22">TDWG GUID Applicability Statement, Version 2010-09</title>
+<title jopScore="0.09683965" pageId="7" pageNumber="8" type="_" typeScore="22">TDWG GUID Applicability Statement, Version 2010-09</title>
 . 
-<journalOrPublisher id="51BF5389FFAD106A686D7C4BFA4E937F" box="[1045,1461,1377,1396]" jopScore="0.30252135" pageId="7" pageNumber="8">Biodiversity Information Standards (TDWG)</journalOrPublisher>
+<journalOrPublisher box="[1045,1461,1377,1396]" jopScore="0.30252135" pageId="7" pageNumber="8">Biodiversity Information Standards (TDWG)</journalOrPublisher>
 . 
-<publicationUrl id="D3F0FB88FFAD106A6F167C55FB419399" box="[878,1210,1407,1426]" pageId="7" pageNumber="8">http://www.tdwg.org/standards/150</publicationUrl>
+<publicationUrl box="[878,1210,1407,1426]" pageId="7" pageNumber="8">http://www.tdwg.org/standards/150</publicationUrl>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307CB4FB3593E5" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307CB4FB3593E5" _evidence="authorListStart.regEx.txt" author="Guralnick, R. P &amp; Cellinese, N. &amp; Deck, J. &amp; et al." journalOrPublisher="ZooKeys" pageId="7" pageNumber="8" pagination="133 - 154" part="494" title="Community next steps for making globally unique identifiers work for biocollections data" type="journal article" year="2015">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListStart.regEx.txt" author="Guralnick, R. P &amp; Cellinese, N. &amp; Deck, J. &amp; et al." journalOrPublisher="ZooKeys" pageId="7" pageNumber="8" pagination="133 - 154" part="494" title="Community next steps for making globally unique identifiers work for biocollections data" type="journal article" year="2015">
 12. 
-<author id="53C3B1A0FFAD106A6F167CB4FC0D93BA" box="[878,1014,1438,1457]" fns="I" npo="LF" pageId="7" pageNumber="8">Guralnick,R.P</author>
+<author box="[878,1014,1438,1457]" fns="I" npo="LF" pageId="7" pageNumber="8">Guralnick,R.P</author>
 ., 
-<author id="53C3B1A0FFAD106A687D7CB4FB8393BA" box="[1029,1144,1438,1457]" pageId="7" pageNumber="8">Cellinese,N.</author>
+<author box="[1029,1144,1438,1457]" pageId="7" pageNumber="8">Cellinese,N.</author>
 , 
-<author id="53C3B1A0FFAD106A68FA7CB4FB3C93BA" box="[1154,1223,1438,1457]" pageId="7" pageNumber="8">Deck,J.</author>
-<author id="53C3B1A0FFAD106A68B67CB5FB0693BA" box="[1230,1277,1438,1457]" pageId="7" pageNumber="8">
+<author box="[1154,1277,1438,1457]" pageId="7" pageNumber="8">
+Deck,J. 
 <!--emphasis removed-->et al
 .
 </author>
 (
-<year id="FFD61816FFAD106A69747CB4FAC793BA" box="[1292,1340,1438,1457]" pageId="7" pageNumber="8">2015</year>
+<year box="[1292,1340,1438,1457]" pageId="7" pageNumber="8">2015</year>
 ) 
-<title id="F97AB273FFAD106A69337CB4FC1893E4" pageId="7" pageNumber="8">Community next steps for making globally unique identifiers work for biocollections data</title>
+<title pageId="7" pageNumber="8">Community next steps for making globally unique identifiers work for biocollections data</title>
 . 
-<journalOrPublisher id="51BF5389FFAD106A6F937CF6FBC693E5" box="[1003,1085,1500,1518]" pageId="7" pageNumber="8">
+<journalOrPublisher box="[1003,1085,1500,1518]" pageId="7" pageNumber="8">
 <!--emphasis removed-->ZooKeys
 </journalOrPublisher>
 , 
-<part id="FFDAF3D8FFAD106A68307CF6FB9593E4" box="[1096,1134,1500,1519]" pageId="7" pageNumber="8" type="volume">494</part>
+<part box="[1096,1134,1500,1519]" pageId="7" pageNumber="8" type="volume">494</part>
 , 
-<pagination id="B2B7A7B1FFAD106A680E7CF1FB3193E5" box="[1142,1226,1499,1518]" pageId="7" pageNumber="8" type="pagination">133–154</pagination>
+<pagination box="[1142,1226,1499,1518]" pageId="7" pageNumber="8" type="pagination">133–154</pagination>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307CD0FC2A9061" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307CD0FC2A9061" _evidence="authorListStart.regEx.txt" author="Hyam, R. D. &amp; Drinkwater, R. E &amp; Harris, D. J." journalOrPublisher="Phytotaxa" pageId="7" pageNumber="8" pagination="17 – 30" part="73" title="Stable citations for herbarium specimens on the internet: an illustration from a taxonomic revision of Duboscia (Malvaceae)." type="journal article" year="2012">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListStart.regEx.txt" author="Hyam, R. D. &amp; Drinkwater, R. E &amp; Harris, D. J." journalOrPublisher="Phytotaxa" pageId="7" pageNumber="8" pagination="17 – 30" part="73" title="Stable citations for herbarium specimens on the internet: an illustration from a taxonomic revision of Duboscia (Malvaceae)." type="journal article" year="2012">
 13. 
-<author id="53C3B1A0FFAD106A6F167CD1FC279005" box="[878,988,1531,1550]" fns="I" npo="LF" pageId="7" pageNumber="8">Hyam,R.D.</author>
+<author box="[878,988,1531,1550]" fns="I" npo="LF" pageId="7" pageNumber="8">Hyam,R.D.</author>
 , 
-<author id="53C3B1A0FFAD106A6F9C7CD0FB879006" box="[996,1148,1530,1549]" fns="I" npo="LF" pageId="7" pageNumber="8">Drinkwater,R.E</author>
+<author box="[996,1148,1530,1549]" fns="I" npo="LF" pageId="7" pageNumber="8">Drinkwater,R.E</author>
 ., and 
-<author id="53C3B1A0FFAD106A68C87CD0FAEC9006" box="[1200,1303,1530,1549]" pageId="7" pageNumber="8">Harris,D.J.</author>
+<author box="[1200,1303,1530,1549]" pageId="7" pageNumber="8">Harris,D.J.</author>
 (
-<year id="FFD61816FFAD106A69597CD0FAA99006" box="[1313,1362,1530,1549]" pageId="7" pageNumber="8">2012</year>
+<year box="[1313,1362,1530,1549]" pageId="7" pageNumber="8">2012</year>
 ) 
-<title id="F97AB273FFAD106A69257CD0FAAB9040" pageId="7" pageNumber="8">Stable citations for herbarium specimens on the internet: an illustration from a taxonomic revision of Duboscia (Malvaceae).</title>
-<journalOrPublisher id="51BF5389FFAD106A692C7F12FA499040" box="[1364,1458,1592,1611]" pageId="7" pageNumber="8">
+<title pageId="7" pageNumber="8">Stable citations for herbarium specimens on the internet: an illustration from a taxonomic revision of Duboscia (Malvaceae).</title>
+<journalOrPublisher box="[1364,1458,1592,1611]" pageId="7" pageNumber="8">
 <!--emphasis removed-->Phytotaxa
 </journalOrPublisher>
 , 
-<part id="FFDAF3D8FFAD106A6F167F7DFC739061" box="[878,904,1623,1642]" pageId="7" pageNumber="8" type="volume">73</part>
+<part box="[878,904,1623,1642]" pageId="7" pageNumber="8" type="volume">73</part>
 , 
-<pagination id="B2B7A7B1FFAD106A6FE87F7DFC369061" box="[912,973,1623,1642]" pageId="7" pageNumber="8" type="pageRange">17–30</pagination>
+<pagination box="[912,973,1623,1642]" pageId="7" pageNumber="8" type="pageRange">17–30</pagination>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307F5FFC0090EF" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307F5FFC0090EF" _evidence="bridged" author="Consortium of European Taxonomic Facilities" journalOrPublisher="CETAF Strategy and Strategic Development Plan" pageId="7" pageNumber="8" pagination="2015 - 2025" publicationUrl="http://cetaf.org/sites/default/files/final_strategy_and_strategic_development_plan.pdf" title="CETAF Strategy and Strategic Development Plan 2015 – 2025" type="book chapter" year="2015">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="bridged" author="Consortium of European Taxonomic Facilities" journalOrPublisher="CETAF Strategy and Strategic Development Plan" pageId="7" pageNumber="8" pagination="2015 - 2025" publicationUrl="http://cetaf.org/sites/default/files/final_strategy_and_strategic_development_plan.pdf" title="CETAF Strategy and Strategic Development Plan 2015 – 2025" type="book chapter" year="2015">
 14. 
-<author id="53C3B1A0FFAD106A6F167F5FFADF9083" box="[878,1316,1653,1673]" fns="N" npo="FL" pageId="7" pageNumber="8">Consortium of European Taxonomic Facilities</author>
+<author box="[878,1316,1653,1673]" fns="N" npo="FL" pageId="7" pageNumber="8">Consortium of European Taxonomic Facilities</author>
 (
-<year id="FFD61816FFAD106A694B7F5FFA989083" box="[1331,1379,1653,1672]" pageId="7" pageNumber="8">2015</year>
+<year box="[1331,1379,1653,1672]" pageId="7" pageNumber="8">2015</year>
 ) 
-<title id="F97AB273FFAD106A690B7F5FFA8890AC" pageId="7" pageNumber="8">CETAF Strategy and Strategic Development Plan 2015–2025</title>
+<title pageId="7" pageNumber="8">CETAF Strategy and Strategic Development Plan 2015–2025</title>
 . 
-<publicationUrl id="D3F0FB88FFAD106A69F97FBEFC0D90EF" pageId="7" pageNumber="8">http://cetaf.org/sites/default/files/final_strategy_and_strategic_development_plan.pdf</publicationUrl>
+<publicationUrl pageId="7" pageNumber="8">http://cetaf.org/sites/default/files/final_strategy_and_strategic_development_plan.pdf</publicationUrl>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307FDAFC16914A" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307FDAFC16914A" _evidence="authorListStart.regEx.txt" author="Berners-Lee, T. &amp; Fielding, R. &amp; Masinter, L." journalOrPublisher="Uniform Resource Identifier (URI): Generic Syntax" pageId="7" pageNumber="8" publicationUrl="https://tools.ietf.org/html/rfc3986" title="Uniform Resource Identifier (URI): Generic Syntax" type="book chapter" year="2005">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListStart.regEx.txt" author="Berners-Lee, T. &amp; Fielding, R. &amp; Masinter, L." journalOrPublisher="Uniform Resource Identifier (URI): Generic Syntax" pageId="7" pageNumber="8" publicationUrl="https://tools.ietf.org/html/rfc3986" title="Uniform Resource Identifier (URI): Generic Syntax" type="book chapter" year="2005">
 15. 
-<author id="53C3B1A0FFAD106A6F167FDBFC03910F" box="[878,1016,1777,1796]" fns="I" npo="LF" pageId="7" pageNumber="8">Berners-Lee,T.</author>
+<author box="[878,1016,1777,1796]" fns="I" npo="LF" pageId="7" pageNumber="8">Berners-Lee,T.</author>
 , 
-<author id="53C3B1A0FFAD106A687E7FDAFB959108" box="[1030,1134,1776,1795]" fns="I" npo="LF" pageId="7" pageNumber="8">Fielding,R.</author>
+<author box="[1030,1134,1776,1795]" fns="I" npo="LF" pageId="7" pageNumber="8">Fielding,R.</author>
 , and 
-<author id="53C3B1A0FFAD106A68D27FDAFAEC9108" box="[1194,1303,1776,1795]" fns="I" npo="LF" pageId="7" pageNumber="8">Masinter,L.</author>
+<author box="[1194,1303,1776,1795]" fns="I" npo="LF" pageId="7" pageNumber="8">Masinter,L.</author>
 (
-<year id="FFD61816FFAD106A69507FDAFAA39108" box="[1320,1368,1776,1795]" pageId="7" pageNumber="8">2005</year>
+<year box="[1320,1368,1776,1795]" pageId="7" pageNumber="8">2005</year>
 ) 
-<title id="F97AB273FFAD106A69137FDAFB0F9129" pageId="7" pageNumber="8">Uniform Resource Identifier (URI): Generic Syntax</title>
+<title pageId="7" pageNumber="8">Uniform Resource Identifier (URI): Generic Syntax</title>
 . 
-<publicationUrl id="D3F0FB88FFAD106A68867E25FC12914A" pageId="7" pageNumber="8">https://tools.ietf.org/html/rfc3986</publicationUrl>
+<publicationUrl pageId="7" pageNumber="8">https://tools.ietf.org/html/rfc3986</publicationUrl>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFAD106A6F307E66FB9F9196" blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
-<bibRef id="52DECDB3FFAD106A6F307E66FB9F9196" _evidence="authorListStart.regEx.txt" author="Hagedorn, G. &amp; Catapano, T. &amp; Guntsch, A. &amp; et al" journalOrPublisher="Uniform Resource Identifier (URI): Generic Syntax" pageId="7" pageNumber="8" publicationUrl="http://wiki.pro-ibiosphere.eu/wiki/Best_ practices_for_stable_URIs." title="Best practices for stable URIs." type="book" year="2013">
+<paragraph blockId="7.[840,1466,270,1949]" pageId="7" pageNumber="8">
+<bibRef _evidence="authorListStart.regEx.txt" author="Hagedorn, G. &amp; Catapano, T. &amp; Guntsch, A. &amp; et al" journalOrPublisher="Uniform Resource Identifier (URI): Generic Syntax" pageId="7" pageNumber="8" publicationUrl="http://wiki.pro-ibiosphere.eu/wiki/Best_ practices_for_stable_URIs." title="Best practices for stable URIs." type="book" year="2013">
 16. 
-<author id="53C3B1A0FFAD106A6F167E66FC119154" box="[878,1002,1868,1887]" fns="I" npo="LF" pageId="7" pageNumber="8">Hagedorn,G.</author>
+<author box="[878,1002,1868,1887]" fns="I" npo="LF" pageId="7" pageNumber="8">Hagedorn,G.</author>
 , 
-<author id="53C3B1A0FFAD106A6F8B7E66FB909154" box="[1011,1131,1868,1887]" fns="I" npo="LF" pageId="7" pageNumber="8">Catapano,T.</author>
+<author box="[1011,1131,1868,1887]" fns="I" npo="LF" pageId="7" pageNumber="8">Catapano,T.</author>
 , 
-<author id="53C3B1A0FFAD106A680C7E66FB269154" box="[1140,1245,1868,1887]" fns="I" npo="LF" pageId="7" pageNumber="8">Güntsch,A.</author>
+<author box="[1140,1245,1868,1887]" fns="I" npo="LF" pageId="7" pageNumber="8">Güntsch,A.</author>
 <!--emphasis removed-->
-<author id="53C3B1A0FFAD106A689B7E67FAF09154" box="[1251,1291,1868,1887]" pageId="7" pageNumber="8">et al</author>
+<author box="[1251,1291,1868,1887]" pageId="7" pageNumber="8">et al</author>
 
 . (
-<year id="FFD61816FFAD106A69677E66FAB49154" box="[1311,1359,1868,1887]" pageId="7" pageNumber="8">2013</year>
+<year box="[1311,1359,1868,1887]" pageId="7" pageNumber="8">2013</year>
 ) 
-<title id="F97AB273FFAD106A69247E67FBB99175" pageId="7" pageNumber="8">Best practices for stable URIs.</title>
-<publicationUrl id="D3F0FB88FFAD106A68357E41FB9F9196" pageId="7" pageNumber="8">http://wiki.pro-ibiosphere.eu/wiki/Best_ practices_for_stable_URIs.</publicationUrl>
+<title pageId="7" pageNumber="8">Best practices for stable URIs.</title>
+<publicationUrl pageId="7" pageNumber="8">http://wiki.pro-ibiosphere.eu/wiki/Best_ practices_for_stable_URIs.</publicationUrl>
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFA210656CD079B5FCE396DB" blockId="8.[168,793,159,515]" pageId="8" pageNumber="9">
+<paragraph blockId="8.[168,793,159,515]" pageId="8" pageNumber="9">
+<bibRef author="Dublin Core Metadata Initiative" journalOrPublisher="Version 1.1" pageId="8" pageNumber="9" publicationUrl="http://dublincore.org/documents/dces" title="Dublin Core Metadata Element Set" type="book">
 17. 
-<bibRef id="52DECDB3FFA210656CB679B5FCE396DB" author="Dublin Core Metadata Initiative" journalOrPublisher="Version 1.1" pageId="8" pageNumber="9" publicationUrl="http://dublincore.org/documents/dces" title="Dublin Core Metadata Element Set" type="book">
-<author id="53C3B1A0FFA210656CB679B5FDE796B9" box="[206,540,159,178]" fns="N" npo="FL" pageId="8" pageNumber="9">Dublin Core Metadata Initiative</author>
+<author box="[206,540,159,178]" fns="N" npo="FL" pageId="8" pageNumber="9">Dublin Core Metadata Initiative</author>
 : 
-<title id="F97AB273FFA210656E4879B5FEC096DA" pageId="8" pageNumber="9">Dublin Core Metadata Element Set</title>
+<title pageId="8" pageNumber="9">Dublin Core Metadata Element Set</title>
 , 
-<journalOrPublisher id="51BF5389FFA210656D3B7997FE5496DA" box="[323,431,189,209]" pageId="8" pageNumber="9">Version 1.1</journalOrPublisher>
+<journalOrPublisher box="[323,431,189,209]" pageId="8" pageNumber="9">Version 1.1</journalOrPublisher>
 . 
-<publicationUrl id="D3F0FB88FFA210656DCF7997FCF796DB" box="[439,780,189,208]" pageId="8" pageNumber="9">http://dublincore.org/documents/dces</publicationUrl>
+<publicationUrl box="[439,780,189,208]" pageId="8" pageNumber="9">http://dublincore.org/documents/dces</publicationUrl>
 /.
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFA210656CD079F6FE919727" blockId="8.[168,793,159,515]" pageId="8" pageNumber="9">
-<bibRef id="52DECDB3FFA210656CD079F6FE919727" _evidence="authorListStart.regEx.txt" author="Droege, G. &amp; Barker, K. &amp; Astrin, J. &amp; et al." journalOrPublisher="Nucleic Acids Res" pageId="8" pageNumber="9" pagination="612" part="42" title="The global genome biodiversity network (GGBN) data portal" type="journal article" year="2014">
+<paragraph blockId="8.[168,793,159,515]" pageId="8" pageNumber="9">
+<bibRef _evidence="authorListStart.regEx.txt" author="Droege, G. &amp; Barker, K. &amp; Astrin, J. &amp; et al." journalOrPublisher="Nucleic Acids Res" pageId="8" pageNumber="9" pagination="612" part="42" title="The global genome biodiversity network (GGBN) data portal" type="journal article" year="2014">
 18. 
-<author id="53C3B1A0FFA210656CB679F6FECB96E4" box="[206,304,220,239]" fns="I" npo="LF" pageId="8" pageNumber="9">Droege,G.</author>
+<author box="[206,304,220,239]" fns="I" npo="LF" pageId="8" pageNumber="9">Droege,G.</author>
 , 
-<author id="53C3B1A0FFA210656D4179F6FE6E96E4" box="[313,405,220,239]" fns="I" npo="LF" pageId="8" pageNumber="9">Barker,K.</author>
+<author box="[313,405,220,239]" fns="I" npo="LF" pageId="8" pageNumber="9">Barker,K.</author>
 , 
-<author id="53C3B1A0FFA210656DE679F6FE1796E4" box="[414,492,220,239]" fns="I" npo="LF" pageId="8" pageNumber="9">Astrin,J.</author>
-<author id="53C3B1A0FFA210656D8979F7FDE496FB" box="[497,543,220,240]" pageId="8" pageNumber="9">
+<author box="[414,492,220,239]" fns="I" npo="LF" pageId="8" pageNumber="9">Astrin,J.</author>
+<author box="[497,543,220,240]" pageId="8" pageNumber="9">
 <!--emphasis removed-->et al
 .
 </author>
 (
-<year id="FFD61816FFA210656E5379F6FDA796E4" box="[555,604,220,239]" pageId="8" pageNumber="9">2014</year>
+<year box="[555,604,220,239]" pageId="8" pageNumber="9">2014</year>
 ) 
-<title id="F97AB273FFA210656E1179F6FDA39705" pageId="8" pageNumber="9">The global genome biodiversity network (GGBN) data portal</title>
+<title pageId="8" pageNumber="9">The global genome biodiversity network (GGBN) data portal</title>
 . 
-<journalOrPublisher id="51BF5389FFA210656E1A79D1FCF79705" box="[610,780,251,270]" pageId="8" pageNumber="9">
+<journalOrPublisher box="[610,780,251,270]" pageId="8" pageNumber="9">
 <!--emphasis removed-->Nucleic Acids Res
 </journalOrPublisher>
 ., 
-<part id="FFDAF3D8FFA210656CB67830FF139726" box="[206,232,282,301]" pageId="8" pageNumber="9" type="volume">42</part>
+<part box="[206,232,282,301]" pageId="8" pageNumber="9" type="volume">42</part>
 , D607–D 
-<pagination id="B2B7A7B1FFA210656D3A7833FE9D9727" box="[322,358,281,300]" pageId="8" pageNumber="9" type="pagination">612</pagination>
+<pagination box="[322,358,281,300]" pageId="8" pageNumber="9" type="pagination">612</pagination>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFA210656CD07812FDCF9761" blockId="8.[168,793,159,515]" pageId="8" pageNumber="9">
-<bibRef id="52DECDB3FFA210656CD07812FDCF9761" _evidence="bridged" author="Anonymous" journalOrPublisher="CETAF Specimen Preview Profile." pageId="8" pageNumber="9" publicationUrl="http://ceta fidentifiers.biowikifarm.net/wiki/CSPP" title="19" type="book" year="2015">
-<title id="F97AB273FFA210656CD07812FF399740" box="[168,194,312,331]" jopScore="8.1900085E-5" pageId="8" pageNumber="9">19</title>
+<paragraph blockId="8.[168,793,159,515]" pageId="8" pageNumber="9">
+<bibRef _evidence="bridged" author="Anonymous" journalOrPublisher="CETAF Specimen Preview Profile." pageId="8" pageNumber="9" publicationUrl="http://ceta fidentifiers.biowikifarm.net/wiki/CSPP" title="19" type="book" year="2015">
+<title box="[168,194,312,331]" jopScore="8.1900085E-5" pageId="8" pageNumber="9">19</title>
 . 
-<author id="53C3B1A0FFA210656CB67812FEC69740" box="[206,317,312,331]" fns="N" kam="kam" matchedWholeString="true" npo="FL" pageId="8" pageNumber="9">Anonymous</author>
+<author box="[206,317,312,331]" fns="N" kam="kam" matchedWholeString="true" npo="FL" pageId="8" pageNumber="9">Anonymous</author>
 (
-<year id="FFD61816FFA210656D307812FE839740" box="[328,376,312,331]" pageId="8" pageNumber="9">2015</year>
+<year box="[328,376,312,331]" pageId="8" pageNumber="9">2015</year>
 ) 
-<journalOrPublisher id="51BF5389FFA210656DFB7812FD429740" box="[387,697,312,331]" pageId="8" pageNumber="9">CETAF Specimen Preview Profile.</journalOrPublisher>
-<publicationUrl id="D3F0FB88FFA210656EC47812FDCA9761" pageId="8" pageNumber="9">http://ceta fidentifiers.biowikifarm.net/wiki/CSPP</publicationUrl>
+<journalOrPublisher box="[387,697,312,331]" pageId="8" pageNumber="9">CETAF Specimen Preview Profile.</journalOrPublisher>
+<publicationUrl pageId="8" pageNumber="9">http://ceta fidentifiers.biowikifarm.net/wiki/CSPP</publicationUrl>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFA210656CD0785CFD5D97CD" blockId="8.[168,793,159,515]" pageId="8" pageNumber="9">
-<bibRef id="52DECDB3FFA210656CD0785CFD5D97CD" _evidence="authorListStart.regEx.txt" author="Ride, W. D. L. &amp; Cogger, H. G. &amp; Dupuis, C. &amp; et al" journalOrPublisher="International Commission on Zoological Nomenclature, London" pageId="8" pageNumber="9" title="International Code of Zoological Nomenclature" type="book" year="1999">
+<paragraph blockId="8.[168,793,159,515]" pageId="8" pageNumber="9">
+<bibRef _evidence="authorListStart.regEx.txt" author="Ride, W. D. L. &amp; Cogger, H. G. &amp; Dupuis, C. &amp; et al" journalOrPublisher="International Commission on Zoological Nomenclature, London" pageId="8" pageNumber="9" title="International Code of Zoological Nomenclature" type="book" year="1999">
 20. 
-<author id="53C3B1A0FFA210656CB6785FFEBC9783" box="[206,327,373,392]" fns="I" npo="LF" pageId="8" pageNumber="9">Ride,W.D.L.</author>
+<author box="[206,327,373,392]" fns="I" npo="LF" pageId="8" pageNumber="9">Ride,W.D.L.</author>
 , 
-<author id="53C3B1A0FFA210656D1E785CFE1B9782" box="[358,480,374,393]" fns="I" npo="LF" pageId="8" pageNumber="9">Cogger,H.G.</author>
+<author box="[358,480,374,393]" fns="I" npo="LF" pageId="8" pageNumber="9">Cogger,H.G.</author>
 , 
-<author id="53C3B1A0FFA210656E78785FFDA59783" box="[512,606,373,392]" fns="I" npo="LF" pageId="8" pageNumber="9">Dupuis,C.</author>
+<author box="[512,606,373,392]" fns="I" npo="LF" pageId="8" pageNumber="9">Dupuis,C.</author>
 <!--emphasis removed-->
-<author id="53C3B1A0FFA210656E02785CFD429783" box="[634,697,373,392]" pageId="8" pageNumber="9">et al</author>
+<author box="[634,697,373,392]" pageId="8" pageNumber="9">et al</author>
 
 . (
-<year id="FFD61816FFA210656E9A785CFCE99782" box="[738,786,374,393]" pageId="8" pageNumber="9">1999</year>
+<year box="[738,786,374,393]" pageId="8" pageNumber="9">1999</year>
 ) 
-<title id="F97AB273FFA210656CB678BEFD6D97AC" box="[206,662,404,423]" pageId="8" pageNumber="9">International Code of Zoological Nomenclature</title>
+<title box="[206,662,404,423]" pageId="8" pageNumber="9">International Code of Zoological Nomenclature</title>
 . 
-<journalOrPublisher id="51BF5389FFA210656ED978BEFD5997CD" pageId="8" pageNumber="9">International Commission on Zoological Nomenclature, London</journalOrPublisher>
+<journalOrPublisher pageId="8" pageNumber="9">International Commission on Zoological Nomenclature, London</journalOrPublisher>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFA210656CD078F8FC2C96E4" blockId="8.[168,793,159,515]" lastBlockId="8.[840,1466,159,516]" pageId="8" pageNumber="9">
-<bibRef id="52DECDB3FFA210656CD078F8FC2C96E4" _evidence="authorListStart.regEx.txt" author="McNeill, J. &amp; Barrie, F. R. &amp; Buck, W. R. &amp; et al." journalOrPublisher="Koeltz Scientific Books, Konigstein" pageId="8" pageNumber="9" title="International Code of Nomenclature for algae, fungi, and plants (Melbourne Code): adopted by the Eighteenth International Botanical Congress Melbourne, Australia, July" type="book" year="2012">
+<paragraph blockId="8.[168,793,159,515]" lastBlockId="8.[840,1466,159,516]" pageId="8" pageNumber="9">
+<bibRef _evidence="authorListStart.regEx.txt" author="McNeill, J. &amp; Barrie, F. R. &amp; Buck, W. R. &amp; et al." journalOrPublisher="Koeltz Scientific Books, Konigstein" pageId="8" pageNumber="9" title="International Code of Nomenclature for algae, fungi, and plants (Melbourne Code): adopted by the Eighteenth International Botanical Congress Melbourne, Australia, July" type="book" year="2012">
 21. 
-<author id="53C3B1A0FFA210656CB678FBFEC997EF" box="[206,306,465,484]" fns="I" npo="LF" pageId="8" pageNumber="9">McNeill,J.</author>
+<author box="[206,306,465,484]" fns="I" npo="LF" pageId="8" pageNumber="9">McNeill,J.</author>
 , 
-<author id="53C3B1A0FFA210656D4578FBFE5E97EF" box="[317,421,465,484]" fns="I" npo="LF" pageId="8" pageNumber="9">Barrie,F.R.</author>
+<author box="[317,421,465,484]" fns="I" npo="LF" pageId="8" pageNumber="9">Barrie,F.R.</author>
 , 
-<author id="53C3B1A0FFA210656DC878FBFDED97EF" box="[432,534,465,484]" fns="I" npo="LF" pageId="8" pageNumber="9">Buck,W.R.</author>
-<author id="53C3B1A0FFA210656E6578F8FDB697EE" box="[541,589,466,485]" pageId="8" pageNumber="9">
+<author box="[432,534,465,484]" fns="I" npo="LF" pageId="8" pageNumber="9">Buck,W.R.</author>
+<author box="[541,589,466,485]" pageId="8" pageNumber="9">
 <!--emphasis removed-->et al
 .
 </author>
 (
-<year id="FFD61816FFA210656E2478F8FD7497EE" box="[604,655,466,485]" pageId="8" pageNumber="9">2012</year>
+<year box="[604,655,466,485]" pageId="8" pageNumber="9">2012</year>
 ). 
-<title id="F97AB273FFA210656ED978FBFB3796DB" pageId="8" pageNumber="9">International Code of Nomenclature for algae, fungi, and plants (Melbourne Code): adopted by the Eighteenth International Botanical Congress Melbourne, Australia, July</title>
+<title pageId="8" pageNumber="9">International Code of Nomenclature for algae, fungi, and plants (Melbourne Code): adopted by the Eighteenth International Botanical Congress Melbourne, Australia, July</title>
 . 
-<journalOrPublisher id="51BF5389FFA2106568A17997FC2896E4" pageId="8" pageNumber="9">Koeltz Scientific Books, Königstein</journalOrPublisher>
+<journalOrPublisher pageId="8" pageNumber="9">Koeltz Scientific Books, Königstein</journalOrPublisher>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFA210656F3079D1FBBD9740" blockId="8.[840,1466,159,516]" pageId="8" pageNumber="9">
-<bibRef id="52DECDB3FFA210656F3079D1FBBD9740" _evidence="authorListStart.regEx.txt" author="German, D. A. &amp; Tekin, M. &amp; Spaniel, S. &amp; et al." journalOrPublisher="Phytotaxa" pageId="8" pageNumber="9" pagination="75 - 82" part="258" title="A brief taxonomic revision of Physoptychis (Alysseae, Brassicaceae" type="journal article" year="2016">
+<paragraph blockId="8.[840,1466,159,516]" pageId="8" pageNumber="9">
+<bibRef _evidence="authorListStart.regEx.txt" author="German, D. A. &amp; Tekin, M. &amp; Spaniel, S. &amp; et al." journalOrPublisher="Phytotaxa" pageId="8" pageNumber="9" pagination="75 - 82" part="258" title="A brief taxonomic revision of Physoptychis (Alysseae, Brassicaceae" type="journal article" year="2016">
 22. 
-<author id="53C3B1A0FFA210656F1679D1FC159705" box="[878,1006,251,270]" fns="I" npo="LF" pageId="8" pageNumber="9">German,D.A.</author>
+<author box="[878,1006,251,270]" fns="I" npo="LF" pageId="8" pageNumber="9">German,D.A.</author>
 , 
-<author id="53C3B1A0FFA210656F8179D1FBA99705" box="[1017,1106,251,270]" fns="I" npo="LF" pageId="8" pageNumber="9">Tekın,M.</author>
+<author box="[1017,1106,251,270]" fns="I" npo="LF" pageId="8" pageNumber="9">Tekın,M.</author>
 , 
-<author id="53C3B1A0FFA21065682679D1FB439705" box="[1118,1208,251,270]" fns="I" npo="LF" pageId="8" pageNumber="9">Spaniel,S.</author>
-<author id="53C3B1A0FFA2106568C779D6FB149705" box="[1215,1263,251,270]" pageId="8" pageNumber="9">
+<author box="[1118,1208,251,270]" fns="I" npo="LF" pageId="8" pageNumber="9">Spaniel,S.</author>
+<author box="[1215,1263,251,270]" pageId="8" pageNumber="9">
 <!--emphasis removed-->et al
 .
 </author>
 (
-<year id="FFD61816FFA21065688679D1FAD49705" box="[1278,1327,251,270]" pageId="8" pageNumber="9">2016</year>
+<year box="[1278,1327,251,270]" pageId="8" pageNumber="9">2016</year>
 ) 
-<title id="F97AB273FFA21065694579D1FA4B9727" pageId="8" pageNumber="9">A brief taxonomic revision of Physoptychis (Alysseae, Brassicaceae</title>
+<title pageId="8" pageNumber="9">A brief taxonomic revision of Physoptychis (Alysseae, Brassicaceae</title>
 ). 
-<journalOrPublisher id="51BF5389FFA210656F167812FC379740" box="[878,972,312,331]" pageId="8" pageNumber="9">
+<journalOrPublisher box="[878,972,312,331]" pageId="8" pageNumber="9">
 <!--emphasis removed-->Phytotaxa
 </journalOrPublisher>
 , 
-<part id="FFDAF3D8FFA210656FAF7812FC069740" box="[983,1021,312,331]" pageId="8" pageNumber="9" type="volume">258</part>
+<part box="[983,1021,312,331]" pageId="8" pageNumber="9" type="volume">258</part>
 , 
-<pagination id="B2B7A7B1FFA21065687D7812FBB99740" box="[1029,1090,312,331]" pageId="8" pageNumber="9" type="pagination">75–82</pagination>
+<pagination box="[1029,1090,312,331]" pageId="8" pageNumber="9" type="pagination">75–82</pagination>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFA210656F30787DFA7097AC" blockId="8.[840,1466,159,516]" pageId="8" pageNumber="9">
-<bibRef id="52DECDB3FFA210656F30787DFA7097AC" _evidence="authorListStart.regEx.txt" author="Marhold, K. &amp; Kempa, M &amp; Al-Shehbaz, I. A." journalOrPublisher="PhytoKeys" pageId="8" pageNumber="9" pagination="9 - 23" part="50" title="Lectotypification of names of Himalayan Brassicaceae taxa currently placed in the genus Cardamine" type="journal article" year="2015">
+<paragraph blockId="8.[840,1466,159,516]" pageId="8" pageNumber="9">
+<bibRef _evidence="authorListStart.regEx.txt" author="Marhold, K. &amp; Kempa, M &amp; Al-Shehbaz, I. A." journalOrPublisher="PhytoKeys" pageId="8" pageNumber="9" pagination="9 - 23" part="50" title="Lectotypification of names of Himalayan Brassicaceae taxa currently placed in the genus Cardamine" type="journal article" year="2015">
 23. 
-<author id="53C3B1A0FFA210656F16787DFC259761" box="[878,990,343,362]" fns="I" npo="LF" pageId="8" pageNumber="9">Marhold,K.</author>
+<author box="[878,990,343,362]" fns="I" npo="LF" pageId="8" pageNumber="9">Marhold,K.</author>
 , 
-<author id="53C3B1A0FFA210656878787DFB989761" box="[1024,1123,343,362]" fns="I" npo="LF" pageId="8" pageNumber="9">Kempa,M</author>
+<author box="[1024,1123,343,362]" fns="I" npo="LF" pageId="8" pageNumber="9">Kempa,M</author>
 ., and 
-<author id="53C3B1A0FFA2106568B3787DFAA79761" box="[1227,1372,343,362]" pageId="8" pageNumber="9">Al-Shehbaz,I.A.</author>
+<author box="[1227,1372,343,362]" pageId="8" pageNumber="9">Al-Shehbaz,I.A.</author>
 (
-<year id="FFD61816FFA2106569FA787DFA499761" box="[1410,1458,343,362]" pageId="8" pageNumber="9">2015</year>
+<year box="[1410,1458,343,362]" pageId="8" pageNumber="9">2015</year>
 ) 
-<title id="F97AB273FFA210656F16785FFB3B97AC" pageId="8" pageNumber="9">Lectotypification of names of Himalayan Brassicaceae taxa currently placed in the genus Cardamine</title>
+<title pageId="8" pageNumber="9">Lectotypification of names of Himalayan Brassicaceae taxa currently placed in the genus Cardamine</title>
 . 
-<journalOrPublisher id="51BF5389FFA2106568B078BEFAD197AC" box="[1224,1322,404,423]" pageId="8" pageNumber="9">
+<journalOrPublisher box="[1224,1322,404,423]" pageId="8" pageNumber="9">
 <!--emphasis removed-->PhytoKeys
 </journalOrPublisher>
 , 
-<part id="FFDAF3D8FFA21065694C78BEFAB597AC" box="[1332,1358,404,423]" pageId="8" pageNumber="9" type="volume">50</part>
+<part box="[1332,1358,404,423]" pageId="8" pageNumber="9" type="volume">50</part>
 , 
-<pagination id="B2B7A7B1FFA21065692E78BEFA7C97AC" box="[1366,1415,404,423]" pageId="8" pageNumber="9" type="pagination">9–23</pagination>
+<pagination box="[1366,1415,404,423]" pageId="8" pageNumber="9" type="pagination">9–23</pagination>
 .
 </bibRef>
 </paragraph>
-<paragraph id="8BC15945FFA210656F307899FADA9408" blockId="8.[840,1466,159,516]" pageId="8" pageNumber="9">
-<bibRef id="52DECDB3FFA210656F307899FADA9408" _evidence="authorListStart.regEx.txt" author="Pullan, M. R &amp; Watson, M. F &amp; Kennedy, J. B. &amp; et al" journalOrPublisher="Taxon" pageId="8" pageNumber="9" pagination="55 - 75" part="49" title="The Prometheus Taxonomic Model: a practical approach to representing multiple taxonomies" type="journal article" year="2000">
+<paragraph blockId="8.[840,1466,159,516]" pageId="8" pageNumber="9">
+<bibRef _evidence="authorListStart.regEx.txt" author="Pullan, M. R &amp; Watson, M. F &amp; Kennedy, J. B. &amp; et al" journalOrPublisher="Taxon" pageId="8" pageNumber="9" pagination="55 - 75" part="49" title="The Prometheus Taxonomic Model: a practical approach to representing multiple taxonomies" type="journal article" year="2000">
 24. 
-<author id="53C3B1A0FFA210656F167899FC2597CD" box="[878,990,435,454]" fns="I" npo="LF" pageId="8" pageNumber="9">Pullan,M.R</author>
+<author box="[878,990,435,454]" fns="I" npo="LF" pageId="8" pageNumber="9">Pullan,M.R</author>
 ., 
-<author id="53C3B1A0FFA210656F8A7899FB9097CD" box="[1010,1131,435,454]" pageId="8" pageNumber="9">Watson,M.F</author>
+<author box="[1010,1131,435,454]" pageId="8" pageNumber="9">Watson,M.F</author>
 ., 
-<author id="53C3B1A0FFA2106568F87899FB0297CD" box="[1152,1273,435,454]" pageId="8" pageNumber="9">Kennedy,J.B.</author>
+<author box="[1152,1273,435,454]" pageId="8" pageNumber="9">Kennedy,J.B.</author>
 <!--emphasis removed-->
-<author id="53C3B1A0FFA21065697E7899FACD97CD" box="[1286,1334,435,454]" pageId="8" pageNumber="9">et al</author>
+<author box="[1286,1334,435,454]" pageId="8" pageNumber="9">et al</author>
 
 . (
-<year id="FFD61816FFA2106569287899FA7A97CD" box="[1360,1409,435,454]" pageId="8" pageNumber="9">2000</year>
+<year box="[1360,1409,435,454]" pageId="8" pageNumber="9">2000</year>
 ) 
-<title id="F97AB273FFA2106569ED7899FB8A9408" pageId="8" pageNumber="9">The Prometheus Taxonomic Model: a practical approach to representing multiple taxonomies</title>
+<title pageId="8" pageNumber="9">The Prometheus Taxonomic Model: a practical approach to representing multiple taxonomies</title>
 . 
-<journalOrPublisher id="51BF5389FFA21065680178DBFB489408" box="[1145,1203,497,515]" pageId="8" pageNumber="9">
+<journalOrPublisher box="[1145,1203,497,515]" pageId="8" pageNumber="9">
 <!--emphasis removed-->Taxon
 </journalOrPublisher>
 , 
-<part id="FFDAF3D8FFA2106568C678DAFB239408" box="[1214,1240,496,515]" pageId="8" pageNumber="9" type="volume">49</part>
+<part box="[1214,1240,496,515]" pageId="8" pageNumber="9" type="volume">49</part>
 , 
-<pagination id="B2B7A7B1FFA21065689878DAFAE69408" box="[1248,1309,496,515]" pageId="8" pageNumber="9" type="pagination">55–75</pagination>
+<pagination box="[1248,1309,496,515]" pageId="8" pageNumber="9" type="pagination">55–75</pagination>
 .
 </bibRef>
 </paragraph>

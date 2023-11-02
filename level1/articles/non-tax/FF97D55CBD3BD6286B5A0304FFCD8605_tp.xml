@@ -21,12 +21,20 @@
       </article-meta>
    </front>
    <body>
-      <p>Supplementary Material for</p>
-      <p>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Supplementary Material for</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 The global tree restoration potential
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Jean-Francois Bastin
 *, 
 Yelena Finegold
@@ -41,8 +49,14 @@ Constantin M. Zohner
 , 
 Thomas W. Crowther
 </p>
-      <p>*Corresponding author. Email: bastin.jf@gmail.com</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>*Corresponding author. Email: bastin.jf@gmail.com</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Published 5 July 
 20 1 9
 , 
@@ -53,547 +67,455 @@ Science
 
 , 76 (20 1 9) DOI: 10.1126/science.aax0848
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 This PDF file includes:
 
 </p>
-      <p>Materials and Methods</p>
-      <p>
-
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Materials and Methods</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+Figs. S1
 to S12
 </p>
-      <p>Tables S1 to S3</p>
-      <p>References</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Tables S1 to S3</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>References</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Other Supplementary Material for this manuscript includes the following:
 </p>
-      <p>(available at science.sciencemag.org/content/365/6448/76/suppl/DC1)</p>
-      <p>Data Files S1 and S2 as separate Excel files</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>(available at science.sciencemag.org/content/365/6448/76/suppl/DC1)</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Data Files S1 and S2 as separate Excel files</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Materials and Methods
 
 </p>
-      <p>Tree cover</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Tree cover</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 To assess the global potential tree cover, we first measured the tree cover of 78,774 0.5-hectare plots distributed throughout the global protected regions of the world (i.e. in regions with limited human activity) following a systematic sampling grid design (20-by-20km), using the augmented visual interpretation approach(
-
-8
 
 ) followed by Bastin and colleagues (2017)(
 1 3
 ). For analysis, we used all dryland plots in protected areas assessed in ref (9) (N=23,042), and collected new plots for all other biomes (N=34,564) following the same procedure. In addition, we added plots from the global dryland assessment(
 
-8
-
 ) falling in desert regions to cover the full range of environmental conditions.
 </p>
-      <p>Augmented visual interpretation of tree cover with Collect Earth</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Augmented visual interpretation of tree cover with Collect Earth</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 The assessment of tree cover in each plot was performed through the Augmented Visual Interpretation approach(
-
-8
 
 ), using Collect Earth. Collect Earth is an open access software built on Google Earth and Google Earth Engine and developed by the Open Foris initiative of the Food and Agriculture Organization of the United Nations (FAO). Collect Earth allows the operator to photo-interpret the tree cover of a plot (here a square of 70-by-70m) combining land cover information gathered from satellite images with very high spatial (pixel size ≤ 1metre) and temporal resolution (daily data acquisition)(
 
-8
-
 ). The operator photo-interprets very high spatial resolution satellite images(
-
-8
 
 ), made freely accessible for visualization on Google Earth, and in parallel controls his measurements with spectral information, automatically compiled for the last 20 years from medium-to-high resolution satellite images, in particular from MODIS and Landsat7/8. Each plot presents a systematic grid of 7-by-7 points (49 points) allowing easy and direct measurements of tree canopy cover, with each point representing 2% of the plot. The fundamental variable measured in this study was the percentage of tree cover, ranging from 0 to 100%.
 </p>
-      <p>Regions with limited human activity</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Regions with limited human activity</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 To identify the regions of the world with limited human activity, we used the World Database on Protected Areas(
 9
 ) (WDPA; 
-
+Fig. S2
 ), developed by the United Nations Environmental Program (UNEP) and the International Union for Conservation of Nature (IUCN). The WDPA is the most comprehensive global database of marine and terrestrial protected areas, and includes a whole suite of descriptors (e.g. status of protection, year of establishment, etc) that were not incorporated into the present study. Here, we accounted for all protected areas available with the intention to maximize the number of training points used for the model. These regions are not entirely exempt from human activity(
 1 1
 ), but these ecosystems represent areas where humans have had minimal impacts on the overall ecosystem type or forest cover. Assuming that any human effects will be likely to reduce tree cover, our modeled estimates are likely to be conservative estimates of potential tree cover.
 </p>
-      <p>Environmental drivers</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Environmental drivers</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 To predict the global potential tree cover, we first selected the most relevant environmental covariates from a set of 58 environmental variables, comprising soil, topographic and climate layers (Data S2). All covariate layers were resampled and reapplied to a unified Eckert 4 equal area projection, at 30 arc-seconds resolution (≈1km at the equator). Layers with a higher original pixel resolution were downsampled using a mean aggregation method; layers with a lower original resolution were resampled using simple upsampling (i.e., without interpolation) to align with the higher resolution grid. In total, this corresponds to 34 quantitative soil descriptors extracted from gridsoils(
-
-22
 
 ), 5 topographic properties extracted from GMTED2010 and 19 bioclimatic variables extracted from Worldclim 2.0(
 
-23
+
 
 ). We then used the ClustOfVar R package to cluster the covariates in groups of collinear variables representative of environmental variations among the 78,774 plots. This resulted in the selection of 5 climate, 3 soil and 2 topographic variables: annual mean temperature; annual precipitation; precipitation seasonality; mean temperature of the wettest quarter; precipitation of the driest quarter; organic carbon stock from 0-to-1 5 cm, depth to bedrock; sand content from 0-to-15 cm; elevation; and hillshade.
 </p>
-      <p>Predicting the potential tree cover</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Predicting the potential tree cover</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 We implemented the 10 selected variables in a random forest machine learning regression model(
 1 2
 ) to predict the tree cover among the 78,7 74 plots (number of trees: 20) (see Notes). The model is built by finding of the set of combinations of covariates that predict best the training samples (
 1 2
 ). This machine learning approach allows us to generate robust predictions without requiring explicit instruction or hypothesis when building the model. The quality of the model was tested and validated using a k-fold cross-validation method; where k (k=5) models were trained from k subsets of the original data (total number of plots minus the total number of plots divided by k) and tested on k subsets of remaining independent data (total number of plots divided by k). Combining the k iterations, we compared the original full dataset with the complete set of remaining independent data. The modelling approach was then validated by regressing predicted (x-axis) vs observed values (y-axis), following Pineiro and colleagues (2008)(
 
-24
-
 ). The model had high predictive power (R2=0.86, intercept=-2.05% tree cover; slope=1.06; 
-
+Fig. S3
 ) and the k-fold cross validation revealed that our model could explain over 71% of the variation in tree cover without bias (intercept=0.34% tree cover; slope=0.99; 
-
+Fig. S4
 ). The potential tree cover was then spatially extrapolated outside protected areas for each pixel using model coefficients combining the 10 selected variables information.
 </p>
-      <p>Potential tree cover, forest extent and corresponding areas for restoration</p>
-      <p>Forest cover</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Potential tree cover, forest extent and corresponding areas for restoration</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Forest cover</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 The fundamental variable predicted in this study was the percentage of tree cover per pixel. To estimate the potential area of forest, we converted the global potential tree cover in forest/nonforest classes using the latest definition of forest from the Forest Resources Assessment report of the Food and Agriculture Organization of the United Nations(
 
-14
-
 ). Each pixel presenting at least 10% of tree cover was assigned as a forest. Each pixel presenting less than 10% of tree cover was assigned as a non-forest (
-
+Fig. S7
 ). We then used the function area from the raster R package to calculate the area of each pixel and we summed the total area covered by pixels assigned as a forest. We then calculated the potential area of forest around the globe, by country and by ecoregion, as defined by the World Wide Fund for Nature (WWF) in the shapefiles provided by The Nature Conservancy (
-
+Fig. S7
 ).
 </p>
-      <p>Forest area available for restoration</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Forest area available for restoration</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 To provide an estimate of the total area available for forest restoration we subtracted the current estimation of forest extent (calculated from the tree cover map published by Hansen and colleagues in 2013(
 1 5
 )) to the global potential forest extent (compiled from our global potential
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 tree cover map- 
-
+Fig. 2A
 ). To provide realistic numbers, we also removed all areas presenting urban settlements or agricultural activities, as identified in the global land cover map of the European Space Agency(
 1 6
 ), Globcover (i.e. removing the following classes: 11,14,20,30,190). It should be noted that these classes contain from 20 to 100% of crops per pixel, meaning the smallest area covered by crops is equal to 1.8 hectare (
-
+Fig. S7B
 ). We kept grazing areas, as several studies suggest alternatives to improve the efficiency of livestock production (
 
-7
+
 , 
-25
+
 
 ).
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 To provide an additional assessment of the potential forest restoration, we re-did the same round of calculation, replacing, for the assessment of agricultural activites, the Globcover layer by the percentage of cropland per pixel published by Fritz and colleagues in 2015 (
 1 8
 ) (
-
+Fig. S7C
 ). The percentage of cropland ranges from 0 to 100% per pixel of 1 km2, meaning the smallest area covered by crops is equal to 1 hectare.
 </p>
-      <p>Canopy cover</p>
-      <p>To provide a better assessment of the global restoration potential, we evaluated the potential “canopy cover”. We refer to the “canopy cover” as the sum of tree crown area vertically projected to the ground (i.e. 1% of tree cover over 1ha corresponding to a canopy cover of 0.01ha, and 100% to 1ha; Fig. S8). This simple metric is independent of any tree cover threshold or forest definition, and includes all levels of tree cover of a given region while more appropriately balancing the importance of tree density.</p>
-      <p>Canopy cover available for restoration</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Canopy cover</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>To provide a better assessment of the global restoration potential, we evaluated the potential “canopy cover”. We refer to the “canopy cover” as the sum of tree crown area vertically projected to the ground (i.e. 1% of tree cover over 1ha corresponding to a canopy cover of 0.01ha, and 100% to 1ha; Fig. S8). This simple metric is independent of any tree cover threshold or forest definition, and includes all levels of tree cover of a given region while more appropriately balancing the importance of tree density.</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Canopy cover available for restoration</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 The potential area of continuous tree canopy available for restoration has been calculated with a similar approach as used for the potential restoration area of forest. We subtracted the current tree cover from Hansen and colleagues(
 1 5
 ) to our estimate of the potential tree cover (
-
+Fig. 2B
 ), kept pixels with remaining potential increase in tree cover (whether they present an initial tree cover or not). We then assessed the potential restoration by removing pixels presenting urban settlements or agricultural activities identified in the global land cover map (
 1 6
 ) (i.e. removing the following classes: 11,14,20,30,190).
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 To provide an additional assessment of the potential forest restoration, we re-did the same round of calculation, replacing, for the assessment of agricultural activites, the Globcover layer by the percentage of cropland per pixel published by Fritz and colleagues in 2015 (
 1 7
 ) (
-
+Fig. 2C
 ).
 </p>
-      <p>Risks of future changes</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Risks of future changes</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 For the future projections, we re-ran our original model, keeping the 3 soil and 2 topographic variables unchanged and updating the 5 bioclimatic variables from three general circulation models (GCMs) commonly used in ecology(
-
-26
 
 , 
 
-27
-
 ). Two Community Earth System Models (CESMs) were chosen as they investigate a diverse set of earth-system interactions: the CESM1 BGC (a coupled carbon– climate model accounting for carbon feedback from the land) and the CESM1 CAM5 (a community atmosphere model)(
 
-26
-
 ). Additionally, the Earth System component of the Met Office Hadley Centre HadGEM2 model family was used as the third and final model(
-
-27
 
 ). To generate the data, we chose Representative Common Pathways 4.5 and 8.5 (RCP 4.5, RCP 8.5) scenarios from the Coupled Model Intercomparison Project Phase 5 (CMIP5) as the input. The RCP 4.5. is a stabilization scenario, meaning that it accounts for a stabilization of radiative forcing before 2100, anticipating the development of new technologies and strategies for reducing greenhouse gas emissions. Generating climate data from the RCP 4.5 anticipates potential change in which the increase of global temperature is limited to 1.5 
 oC
 by 2050(
 
-1
-
 ). The RCP 8.5 corresponds to the ‘business as usual' scenario, combining assumptions of high demography increase and slow technological change or energy use efficiency. For each output, a delta downscaling method developed by the CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS) was applied to reach a 30 arc-seconds resolution(
-
-28
 
 ), using current conditions Worldclim 1.4 as a reference.
 </p>
-      <p>From this approach, we produced 6 potential layers, voluntary restricted to the near future, i.e. 2050, one for each RCP (RCP 4.5 and 8.5) and one for each GCM (CESM1 BGC, CESM1 CAM5 and the HadGEM2ES). Future potential tree cover and expected changes in potential tree cover are illustrated for the 6 layers in Fig. S10 and S11.</p>
-      <p>The risk assessment for changes between current and future tree cover potential was deduced by subtracting the “current potential” from the “future potential” so that potential increases are positive and potential decreases negative. In the main text, we report the change according to the average difference between present and future tree cover potential maps. We show that under RCP 4.5, we risk to lose an equivalent of 177, 175 and 172 Mha of potential canopy cover respectively for CESM1 BGC, CESM1 CAM5 and the HadGEM2ES; and under RCP 8.5 an equivalent of 228, 223 and 220 Mha (Figs. S9,S11). The small variation of these estimates within each scenario shows agreement between the chosen GCMs. The difference between the two scenarios, i.e. between the implementation of mitigation policies and business as usual, represents on average an area of 49 Mha of canopy cover.</p>
-      <p>Estimation of the potential to restore trees and carbon stocks</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>From this approach, we produced 6 potential layers, voluntary restricted to the near future, i.e. 2050, one for each RCP (RCP 4.5 and 8.5) and one for each GCM (CESM1 BGC, CESM1 CAM5 and the HadGEM2ES). Future potential tree cover and expected changes in potential tree cover are illustrated for the 6 layers in Fig. S10 and S11.</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>The risk assessment for changes between current and future tree cover potential was deduced by subtracting the “current potential” from the “future potential” so that potential increases are positive and potential decreases negative. In the main text, we report the change according to the average difference between present and future tree cover potential maps. We show that under RCP 4.5, we risk to lose an equivalent of 177, 175 and 172 Mha of potential canopy cover respectively for CESM1 BGC, CESM1 CAM5 and the HadGEM2ES; and under RCP 8.5 an equivalent of 228, 223 and 220 Mha (Figs. S9,S11). The small variation of these estimates within each scenario shows agreement between the chosen GCMs. The difference between the two scenarios, i.e. between the implementation of mitigation policies and business as usual, represents on average an area of 49 Mha of canopy cover.</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Estimation of the potential to restore trees and carbon stocks</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 We extrapolated the quantity of carbon stocks that could be restored from a combination of our calculations of the potential continuous tree cover available for restoration with numbers from the literature (Table S2). In practice, we used available (biome- or ecoregion-level) reference data and multiplied it with the corresponding continuous tree cover available for restoration. For the carbon stocks we combined the average values of all the information gathered by Pan and colleagues(
 1 8
 ) for Boreal, Temperate and Tropical biomes, and by Grace and colleagues(
 
-19
-
 ) for Drylands. Each value of tree density or carbon density reported in these studies were associated to a pixel-value of potential tree cover of 100%. For example, in the tropics, the carbon density of 282.5 tC.ha-1 reported by Pan and colleagues (2011), is attributed to a pixel when its value of potential tree cover equals 100%. If the potential tree cover of the pixel is equal to 10%, its corresponding potential carbon density equals 23.2 tC.ha-1. The same calculation being done for the tree density. It should be noted that all carbon pools related to forest (aboveground, belowground, dead wood, litter and soil) were accounted for in the numbers of carbon densities.
 </p>
-      <p>Error and uncertainties</p>
-      <p>Interpolation limits</p>
-      <p>We studied the limits of our predictive model by comparing the range of the 10 environmental values covered by our sampling design (i.e. the 78,774 plots) with their full range across the globe. Using these minima and maxima, we assessed the percentage of interpolation of each pixel. This allows us to differentiate interpolation from extrapolation in our current global potential tree cover map. In total, we observe that our map is extrapolated on average at 8% (Fig. S12).</p>
-      <p>Uncertainty in the global potential tree cover estimation</p>
-      <p>We calculated uncertainties of the pixel-based prediction of tree cover and of the global estimate of continuous tree cover from the k tree cover maps produced in the k-fold cross-validation scheme (Figs. S5,6).</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Error and uncertainties</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Interpolation limits</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>We studied the limits of our predictive model by comparing the range of the 10 environmental values covered by our sampling design (i.e. the 78,774 plots) with their full range across the globe. Using these minima and maxima, we assessed the percentage of interpolation of each pixel. This allows us to differentiate interpolation from extrapolation in our current global potential tree cover map. In total, we observe that our map is extrapolated on average at 8% (Fig. S12).</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Uncertainty in the global potential tree cover estimation</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>We calculated uncertainties of the pixel-based prediction of tree cover and of the global estimate of continuous tree cover from the k tree cover maps produced in the k-fold cross-validation scheme (Figs. S5,6).</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 By stacking the k predictions of the global potential tree canopy cover and calculating the standard deviation of the k predicted tree canopy cover values for each pixel, we can visualize how the confidence in our model varies across space (
-
+Fig. S6
 ). Across all pixels, the mean standard deviation around the modeled estimate is about 9% in tree cover (i.e. 28% of the mean tree cover; 
-
+Fig. S6
 ). Uncertainties are highest in regions with intermediate levels of tree cover potential (tree cover uncertainty of ~15%; 
-
+Fig. S5
 ). In contrast, we had high model confidence in non-forested deserts or densely forested regions (tree cover uncertainty &lt;1%; 
-
+Fig. S6
 ). While such pattern was expected, as “0%” and “100%” of tree cover are two big attractors in our dataset (
-
+Fig. S2
 ), we observe that these patterns are systematic across the tropical dense forests. Model simulations for tropical forests in South America and Asia are highly consistent, predicting 100% of tree cover across most of the regions. However, the uncertainty in Africa highlights the possibility for African tropical ecosystems to either exist in a state of dense forest or open land (
-
+Figs. S6B,C
 ). This observation lends some support to previous work highlighting the presence of two alternative stable states for forest ecosystems in Africa(
-
-29
 
 ).
 </p>
-      <p>GCMs uncertainties</p>
-      <p>Uncertainties related to the choice of the GCM were assessed by calculating the standard deviation of the prediction from the set of three maps produced for each year and each RCP (Fig. S10). Importantly, the choice of the GCM influences less than 5% of the estimated future potential continuous tree cover, showing that all GCMs consistently predict tree cover losses by 2050.</p>
-      <p>All analysis were performed using Rcran (v.3) and Google Earth Engine Code Editor.</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>GCMs uncertainties</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Uncertainties related to the choice of the GCM were assessed by calculating the standard deviation of the prediction from the set of three maps produced for each year and each RCP (Fig. S10). Importantly, the choice of the GCM influences less than 5% of the estimated future potential continuous tree cover, showing that all GCMs consistently predict tree cover losses by 2050.</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>All analysis were performed using Rcran (v.3) and Google Earth Engine Code Editor.</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Figures
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Fig. S8. Principles and calculation of continuous tree cover.
 Original plots are segmented in 7-by-7 subplots and each cell intercepting a tree crown is scored (green dot). These scores (ranging from 0 to 49 out of 49 subplots) are then used to quantify the tree cover of the plot. The subfigures illustrate that the quantification of the forest cover and of the continuous canopy cover can differ significantly, leading to an overestimation in forest cover area when using a binary forest cover definition. In this example, 36% less forest area was estimated when using continuous canopy cover to calculate forest area.
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Fig S9. Average expected changes in potential tree cover by 2050.
 Maps illustrate the average expected changes between current and future conditions of tree cover for three Earth System Models (CESM1-bgc, CESM1-cam5 and mohc-Hadgem2es) and two Representative Circulation Pathways (RCP 4.5 and RCP 8.5). (A) Average expected change according to scenario RCP 4.5. (B) Average expected change according to RCP 8.5. (C) Difference between the two scenarios.
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Fig. S10. Potential tree cover in 2050.
 The extrapolation of the potential tree cover for 2050 is based on the current relationship between tree cover and environmental conditions within the protected areas of the world. Maps are illustrated for three Earth System Models (CESM1-bgc, CESM1-cam5 and mohc- Hadgem2es) and two Representative Circulation Pathways (RCP 4.5 and RCP 8.5).
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Fig. S11. Expected changes in potential tree cover by 2050.
 Percentage increase (green) or decrease (red) in potential tree cover by the year 2050 compared to the present. Calculations of changes in the potential tree cover are based on the current relationship between tree cover and environmental conditions within the protected areas of the world. Maps are illustrated for three Earth System Models (CESM1-bgc, CESM1- cam5 and mohc-Hadgem2es) and two Representative Circulation Pathways (RCP 4.5 and RCP 8.5).
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Fig. S12. Interpolation vs. extrapolation of the model.
 The mean percentage of extrapolation at the pixel level is equal to ~8%, showing that most of the potential tree cover map is interpolated, not extrapolated.
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Table S1.
 </p>
-      <p>
-Data Name
-Layer Group
-Original Spatial Resolution
-Latitude / Longitude (Abs_Lat
-Abs_Long)
-Process
-WC01 / BIO01 = Annual Mean Temperature
-Climatic
-30 arcsec
-WC08 / BIO08 = Mean Temperature of Wettest Quarter
-Climatic
-30 arcsec
-WC12 / BIO12 = Annual Precipitation
-Climatic
-30 arcsec
-WC15 / BIO15 = Precipitation Seasonality (Coefficient of Variation)
-Climatic
-30 arcsec
-WC17 / BIO17 = Precipitation of Driest Quarter
-Climatic
-30 arcsec
-Elevation
-Topographic
-30 arcsec
-Hillshade
-Topographic
-30 arcsec
-OCSTHA_M_sd1_250m_ll = Soil Organic Carbon Stock from 0.00m-0.05m
-Soil
-250m
-SNDPPT_M_sl2_250m_ll = Sand content (50â€“2000 micro meter) at 0.05m
-Soil
-250m
-BDRICM_M_1km_ll = Depth to Bedrock
-Soil
-1km
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>
-Potential canopy cover (Mha)
-Potential forest cover (Mha)
-Potential carbon stock
-total
-restoration (Globcover 2009)
-restoration (Fritz et al. 2015)
-total
-Restoration (Globcover 2009)
-restoration (Fritz et al. 2015)
-density (t.ha-1)
-restoration (Globcover 2009; GtC)
-restoration (Fritz et al. 2015; GtC)
-BIOME
-Tundra
-79.1
-50.6
-50.94
-254.9
-166.2
-508.9
-202.4
-10.2
-10.3
-Boreal Forests/Taiga
-768.5
-178.0
-181.8
-1493.7
-216.0
-258.0
-239.2
-42.6
-43.5
-Deserts and Xeric Shrublands
-129.5
-77.6
-79.6
-413.4
-232.7
-226.6
-202.4
-15.7
-16.1
-Flooded Grasslands and Savannas
-25.5
-9.0
-9.6
-69.1
-22.9
-18.3
-202.4
-1.8
-2.0
-Mangroves
-14.4
-2.6
-2.7
-27.8
-4.4
-0.5
-282.5
-0.7
-0.8
-Mediterranean Forests
-73.2
-18.8
-15.5
-222.4
-58.2
-3.1
-202.4
-3.8
-3.1
-Montane Grasslands and Shrublands
-52.9
-19.3
-22.1
-145.9
-53.5
-41.5
-202.4
-3.9
-4.5
-Temperate Broadleaf
-615.2
-109.0
-82.0
-1167.4
-153.0
-39.9
-154.7
-16.9
-12.7
-Temperate Conifer Forests
-199.8
-35.9
-34.2
-373.2
-56.5
-134.6
-154.7
-5.6
-5.3
-Temperate Grasslands
-195.9
-72.5
-62.7
-645.4
-243.5
-130.7
-154.7
-11.2
-9.7
-Tropical Coniferous Forests
-32.7
-7.1
-6.2
-63.9
-10.6
-6.9
-282.5
-2.0
-1.7
-Tropical Dry Broadleaf Forests
-165.6
-32.8
-36.2
-358.8
-50.0
-19.5
-282.5
-9.3
-10.2
-Tropical Grasslands
-569.5
-189.5
-210.2
-1496.8
-388.0
-164.0
-282.5
-53.5
-59.4
-Tropical Moist Broadleaf Forests
-1443.8
-97.1
-117.1
-1948.9
-115.9
-105.1
-282.5
-27.4
-33.1
-Total
-
-4365.5
-
-899.9
-
-910.7
-
-8681.5
-
-1771.5
-
-1657.4
-
-204.7
-
-212.3
-
-Standard deviation (from k-fold crossvalidation)
-131.0
-27.0
-27.3
-260.4
-53.1
-49.7
-6.1
-6.4
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>1 1</p>
-      <p>
-Ecoregion
-RCP4.5 (Mha)
-RCP 8.5 (Mha)
-Tundra (Boreal)
-76.19
-101.21
-Boreal Forests/Taiga
-18.69
-26.95
-Deserts and Xeric Shrublands
-13.49
-27.97
-Flooded Grasslands and Savannas
--2.77
--3.02
-Mangroves
--3.33
--3.47
-Mediterranean Forests, Woodlands and Scrub
--1.87
--2.29
-Montane Grasslands and Shrublands
-20.00
-30.90
-Temperate Broadleaf and Mixed Forests
--1.11
--4.21
-Temperate Conifer Forests
-7.29
-8.11
-Temperate Grasslands Savannas
-19.79
-32.25
-Tropical and Subtropical Coniferous Forests
-0.10
-0.12
-Tropical and Subtropical Dry Broadleaf Forests
--27.98
--46.45
-Tropical and Subtropical Grasslands
--18.94
--45.51
-Tropical and Subtropical Moist Broadleaf Forests
--278.93
--345.78
-SUM
--174.37
--223.19
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>1 1</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 Data S1.
 Photo-interpreted tree cover database 
 Data S2.
 Potential restoration by country
 </p>
-      <p>2</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>2</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 References and Notes
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 1. 
 
@@ -607,7 +529,10 @@ IPCC
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 2. 
 B. W. Griscom
@@ -690,7 +615,10 @@ doi:10.1073/pnas.1710465114
 Medline
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 3. 
 S. L. Lewis
@@ -717,7 +645,10 @@ doi:10.1038/d41586-019-
 01026-8 Medline
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 4. 
 United Nations Environment Programme
@@ -730,7 +661,10 @@ The Bonn Challenge
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 5. 
 UN Climate Summit
@@ -741,7 +675,10 @@ New York Declaration on Forests
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 6. 
 P. Potapov
@@ -760,7 +697,10 @@ World Resources Institute
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 7. 
 K.-H. Erb
@@ -805,7 +745,10 @@ doi:10.1038/nature25138
 Medline
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 8. 
 A. Bey
@@ -854,13 +797,22 @@ Remote Sens.
 ). 
 doi:10.3390/rs8100807
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 9. United Nations Educational, Scientific and Cultural Organization (UNESCO), 
 The World Database on Protected Areas
 (UNESCO, 20 11).
 </p>
-      <p>10. Materials and methods are available as supplementary materials.</p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>10. Materials and methods are available as supplementary materials.</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 11. 
 K. R. Jones
@@ -893,7 +845,10 @@ doi:10.1126/science.aap9565
 Medline
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 12. 
 L. Breiman
@@ -912,7 +867,10 @@ Mach. Learn.
 ). 
 doi:10.1023/A:1010933404324
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 13. 
 J.-F. Bastin
@@ -929,7 +887,7 @@ R. Moore
 , 
 
 C. 
-<p>
+
 Patriarca, 
 N. Picard
 , 
@@ -957,7 +915,7 @@ G. Guerin
 , 
 
 L. 
-<p>
+
 Laestadius, 
 A. J. Lowe
 , 
@@ -995,10 +953,12 @@ Science
 ). 
 doi:10.1126/science.aam6527
 Medline
+
 </p>
-         </p>
-      </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 14. 
 Food and Agriculture Organization
@@ -1016,7 +976,10 @@ FAO
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 15. 
 M. C. Hansen
@@ -1065,7 +1028,10 @@ doi:10.1126/science.1244693
 Medline
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 16. 
 O. Arino
@@ -1081,7 +1047,10 @@ European Space Agency, Université catholique de Louvain, PANGAEA, 2012
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 17. 
 S. Fritz
@@ -1194,7 +1163,10 @@ doi:10.1111/gcb.12838
 Medline
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 18. 
 Y. Pan
@@ -1249,7 +1221,10 @@ doi:10.1126/science.1201609
 Medline
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 19. 
 J. Grace
@@ -1278,7 +1253,10 @@ doi:10.1111/j.1365-
 2699.2005.01448.x
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 20. 
 X.-P. Song
@@ -1311,7 +1289,10 @@ doi:10.1038/s41586-018-0411-9
 Medline
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 21. 
 U. Büntgen
@@ -1350,7 +1331,10 @@ doi:10.1038/s41467-019-10174-4
 Medline
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 22. 
 T. Hengl
@@ -1407,7 +1391,10 @@ doi:10.1371/journal.pone.0169748
 Medline
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 23. 
 S. E. Fick
@@ -1428,7 +1415,10 @@ Int. J. Climatol.
 ). 
 doi:10.1002/joc.5086
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 24. 
 G. Piñeiro
@@ -1451,7 +1441,10 @@ Ecol. Modell.
 ). 
 doi:10.1016/j.ecolmodel.2008.05.006
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 25. 
 K.-H. Erb
@@ -1482,7 +1475,10 @@ doi:10.1038/ncomms11382
 Medline
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 26. 
 J. W. Hurrell
@@ -1545,7 +1541,10 @@ Bull. Am. Meteorol. Soc.
 ). 
 doi:10.1175/BAMS-D-12-00121.1
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 27. 
 N. Bellouin
@@ -1663,7 +1662,10 @@ Geosci. Model Dev.
 ). 
 doi:10.5194/gmd-4-723-2011
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 28. 
 J. Ramirez Villegas
@@ -1678,7 +1680,10 @@ No. 1 (
 ).
 
 </p>
-      <p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 
 29. 
 A. C. Staver
@@ -1703,5 +1708,6 @@ doi:10.1126/science.1210465
 Medline
 
 </p>
+      </sec>
    </body>
 </article>

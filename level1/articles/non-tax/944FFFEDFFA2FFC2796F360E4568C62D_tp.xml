@@ -103,62 +103,62 @@ s species have been formally described. This discrepancy between the number of s
          <title>N/A</title>
          <p>
 Species-level taxonomic designations are utilized by conservationists, legislators, ecologists, and evolutionary biologists to manage, conserve, and understand Earth’ s biodiversity (
-1
+
 ). While over 1 million species have been described by taxonomists, this number likely represents 1 to 10% of the actual number of extant species (e.g., refs. 2, 3). Undescribed biodiversity has considerable implications for conservation management and basic research questions in ecology and evolutionary theory (
-4
+
 ). Advances in DNA sequencing technology have inspired biologists to develop novel methods of species delimitation that utilize genetic data (
-5
+
 ). These methods have led to the discovery of many morphologically cryptic species, defined as two or more distinct species that have been misclassified as a single species due to a lack of diagnosable morphological traits (
-6
+
 ). These hidden species may be caused by evolutionary constraints within a clade that inhibit obvious morphological divergence or due to differences in visual, audible, or olfactory cues that humans are unable to detect (
-4
+
 ). Whether morphologically cryptic or characterized by unquantified divergent traits, hidden species appear to be present in most metazoan families and biogeographic regions (
-6
+
 ). These hidden species represent a “biodiversity wildcard” because so much of what is believed to be known in biology is derived from studies that rely on recognized (i.e., formally described) species as primary units of analysis (
-4
+
 ).
 </p>
          <p>
 Understanding the prevalence of hidden biodiversity over large spatial and taxonomic scales is difficult even in well-studied groups like mammals. In contrast to groups such as arthropods, where taxonomists suspect that the majority of species are currently undescribed (
-3
+
 ), most actual species of mammals are thought to be described (
-7
+
 , 
-8
+
 ). Even so, and while rates of species description vary across mammalian orders (
 SI Appendix
 , 
-
+Fig. S1
 ), new species continue to be discovered (
-9
+
 , 
-10
+
 ). It remains unclear whether the observed variation in the magnitude of which species are described across mammalian orders reflects biological reality, because species are more difficult to discover in certain clades, or results from systematic bias in taxonomic practice. Regardless, there are potentially hundreds of actual mammal species that lack formal description, particularly in small-bodied clades such as bats, rodents, and eulipotyphans (
-9
+
 , 
-11
+
 ). Previous work (e.g., refs. 9, 10) suggest that hidden species are likely to be discovered in areas of high endemism, with disproportionate numbers expected in insular systems. That such regions are also likely to be a greater conservation risk highlights the need for renewed taxonomic effort (
-3
+
 , 
-8
+
 ).
 </p>
          <p>
 Previous attempts to elucidate large-scale patterns of hidden diversity in mammals have relied on qualitative arguments (e.g., ref. 10) or metaanalysis of the species literature (e.g., ref. 4) and produced conflicting accounts regarding both the extent of hidden diversity and the representation of this diversity across bioregions and mammalian orders (e.g., refs. 6, 7, 12). Since metaanalyses rely on the published literature and as such are potentially subject to systematic bias, we adopt data repurposing here (i.e., the reuse of data that were originally collected for a different purpose) (
-13
-) to address a dilemma central to modern taxonomy: Undescribed species are suspected to be common, but understanding this phenomenon is inhibited by a lack of information regarding the attributes that make a clade likely to contain hidden species. We develop a predictive framework to identify the clades that are likely to contain hidden species and identify specific trait complexes that identify where this hidden diversity is likely to be found (
 
+) to address a dilemma central to modern taxonomy: Undescribed species are suspected to be common, but understanding this phenomenon is inhibited by a lack of information regarding the attributes that make a clade likely to contain hidden species. We develop a predictive framework to identify the clades that are likely to contain hidden species and identify specific trait complexes that identify where this hidden diversity is likely to be found (
+Fig. 1
 ).
 </p>
          <p>
 The results of our predictive analysis potentially have broad implications. For example, a finding that hidden species are not predictable across taxonomic groups would imply that taxonomists lack the requisite information to recognize and describe hidden species. Alternatively, if hidden species can be predicted, the information needed to recognize hidden species is either available or potentially obtainable, which would aid taxonomic efforts. Furthermore, the results of the predictive analysis may help to identify characteristics of taxa that contain hidden diversity, which would greatly improve the efficiency of taxonomic description. To address this question, we analyze genetic data using species-delimitation methods (
-14
-, 
-15
-) before applying random forest classification (
-16
-) to develop a predictive model. This framework (
 
+, 
+
+) before applying random forest classification (
+
+) to develop a predictive model. This framework (
+Fig. 1
 ) uses data from geographic, environmental, morphological, sampling effort, and life history traits as predictor variables to classify taxa as either containing hidden species or not containing hidden species. The use of this categorical response variable allows us to identify predictor variables that indicate where hidden species can be found.
 </p>
       </sec>
@@ -170,11 +170,11 @@ Results
          <p>
 Dataset.
 We compiled a global dataset of mammalian barcoding gene sequences, occurrence records, and species traits (
-
+Fig. 2
 ). A total of 90,759 DNA sequences from the cytochrome oxidase subunit I (COI) and cytochrome 
 b
 (cytb) genes were obtained from 4,310 recognized mammal species available in the National Center for Biotechnology Information genetic sequence database, GenBank. To ensure consistency, we updated the taxonomy associated with all data to reflect that of the Mammal Diversity Database published by the American Society of Mammalogists (Datasets S1 and S2) (
-17
+
 ). For all recognized mammal species, we compiled a database of 117 variables, each potentially predictive of hidden species, generated from geographic, environmental, life history, and taxonomic information available on public databases (Dataset S3). We also collected ∼3.3 million global positioning system coordinates from recorded geographic occurrences in order to obtain environmental, climatic, and geographic data for all recognized mammalian species.
 </p>
          <p>
@@ -182,29 +182,29 @@ Species Delimitation.
 To identify recognized species that potentially contain hidden diversity, we generated DNA sequence alignments for each family in class 
 <tp:taxon-name>Mammalia</tp:taxon-name>
 , determined the optimal model of sequence evolution for each alignment, and performed two methods of automated species delimitation, one based on genetic distance (automated barcode gap discovery [ABGD]) (
-14
+
 ) and the other based on an evolutionary model (generalized mixed Yule coalescent [GMYC]) (
-15
+
 ). Using a conservative consensus across genes and delimitation methods, our analysis suggests that as many as one-third of the species included in the consensus analysis contain undescribed species (
 SI Appendix
 , 
-
+Fig. S2
 ). While preliminary species assignments support previous claims (
-7
-) that global mammal diversity remains substantially underdescribed despite a lengthy history of taxonomic effort, a global view of where these hidden species can be found revealed no obvious geographic patterns apart from the observation that regions with high species richness contain a greater number of potentially hidden species (
 
+) that global mammal diversity remains substantially underdescribed despite a lengthy history of taxonomic effort, a global view of where these hidden species can be found revealed no obvious geographic patterns apart from the observation that regions with high species richness contain a greater number of potentially hidden species (
+Fig. 3
 and 
 SI Appendix
 , 
-
+Fig. S3
 and Table S1). However, our finding that the majority of hidden species are likely to be found in three orders (Chiroptera, Rodentia, and Eulipotyphla) is consistent with recent species descriptions in class 
 <tp:taxon-name>Mammalia</tp:taxon-name>
 (
-17
+
 ) (
 SI Appendix
 , 
-
+Fig. S1
 ) as well as earlier predictions as to which clades were most expected to contain large numbers of undescribed species (e.g., refs. 9–11) (see Dataset S5 for sequence divergence results). While the number of hidden species predicted by our delimitation analyses are congruent with the magnitude of earlier estimates of the number of undescribed mammal species (e.g., refs. 9–11), our delimitation analysis represents the most comprehensive exploration of this question to date.
 </p>
          <p>
@@ -214,18 +214,18 @@ The uneven distribution of hidden diversity indicated by our delimitation result
 80% accuracy (
 SI Appendix
 , Table S2B), a relatively high value for an analysis of this type (
-18
+
 ).
 </p>
          <p>
 The accuracy of the random forest prediction implies that there may be specific trait complexes that identify recognized taxa that potentially contain hidden species. Important predictors include adult body mass, range size, and climatic variables representing the temporal and spatial range of precipitation across the species range (
-
+Fig. 4
 and Dataset S6). Species identified as potentially containing hidden diversity have, on average, smaller adult body mass (45 g to 135 g). Taxa identified as potentially containing hidden species also tended to have larger geographic ranges (trait “range area”; 1,270,799 km 
 2
 to 378,072 km 
 2
 ). Two climatic variables were important: Precipitation range of the warmest quarter and isothermality. On average, species identified as containing hidden diversity inhabit regions that have more precipitation in the warmest quarter of the year than do species that do not contain hidden diversity. The other variable, the range of isothermality, which quantifies the extent of day-to-night temperature oscillation relative to the annual summer-to-winter oscillations, is also larger for species identified as potentially containing hidden diversity. Intriguingly, two variables that partially quantify sampling effort, the geographic dispersion of species occurrence records and the number of recent publications that reference the species epithet, both for the named species that is predicted to contain hidden species, were also identified as important (
-
+Fig. 4
 ).
 </p>
       </sec>
@@ -247,9 +247,9 @@ P =
 10 
 12
 ). It seems possible that this trait is predictive because subtle morphological differences among congeners are more difficult to quantify in smaller mammals than they would be in larger species. The variable “range area,” which is taken from the PanTHERIA database (
-19
-) and measures the estimated size of the geographic range of each species on the basis of species descriptions in the taxonomic literature, is nearly as predictive as body size (
 
+) and measures the estimated size of the geographic range of each species on the basis of species descriptions in the taxonomic literature, is nearly as predictive as body size (
+Fig. 4
 ). Hidden species are more likely to be found in recognized taxa with large ranges than those with small ranges (Kruskal–Wallis test; 
 Χ
 2
@@ -268,7 +268,7 @@ SI Appendix
 </p>
          <p>
 In addition to the organismal trait and climatic variables, two variables associated with sampling effort have high predictive value. Hidden species are predicted to exist in taxa with a high number of occurrence records in genera who have been more represented in recent publications in the taxonomic literature. To a large extent, both variables reflect sampling effort. Our finding that these sampling effort variables (i.e., “recent publications” and “occurrence area”) have predictive value implies that the very taxa that have been the focus of previous research are more likely to contain hidden species. We interpret this as evidence that taxonomists working in mammal systems are generally aware of our finding that small-bodied mammals with large geographic ranges are likely to contain hidden species. Most species descriptions in mammals since 1992 have occurred in systems matching the general characteristics (i.e., small body size, large ranges, high isothermality) identified by our predictive model (
-9
+
 ). Although our results are consistent with earlier efforts (e.g., refs. 11, 17), they provide quantitative evidence that taxonomists are actively researching the clades where undescribed species are likely to be found.
 </p>
          <p>
@@ -281,19 +281,19 @@ are outliers in terms of their abilities to identify and describe species. Rathe
 </p>
          <p>
 While the popular conception of species discovery consists of scientific expeditions to remote regions, specimens from many undescribed species are already present in natural history collections (
-20
+
 ). Our results support earlier conclusions (
-4
+
 , 
-7
+
 , 
-9
+
 ) that taxonomic work is far from complete even in well-studied clades such as class 
 <tp:taxon-name>Mammalia</tp:taxon-name>
 . By extrapolation, our predictive model supports calls for a substantial investment in taxonomy across the tree of life (e.g., ref. 21). A broad-scale analysis of available sequence data from barcoding genes can provide researchers predictions about the clades that are likely to contain undescribed species, and these results broadly justify the allocation of resources to conduct additional taxonomic work (
-22
+
 , 
-23
+
 ). For example, the
 &gt;
 6.0 
@@ -312,55 +312,55 @@ recognized insect species suggest that a study similar to ours could be conducte
 </p>
          <p>
 The delimitation methods used here rely on genetic species concepts that are based either on genetic distance among putative species (
-14
+
 ) or on a coalescent model (
-15
+
 ). Such methods are similar in spirit to earlier proposals that identified hidden species by calculating sequence divergence in mitochondrial genes, for example our results are broadly congruent with the range of ∼3 to 7% suggested by one previous study (
-11
+
 ). However, mitochondrial data are most appropriate for initial surveys (e.g., ref. 24) and should not form the sole basis for species description in mammals, despite the routine use of similar concepts in other clades (
-25
+
 ). Single-locus methods for species delimitation are practical in analyses with hundreds of species and thousands of sequences (
-24
+
 ) and thus represent an important part of the species discovery pipeline (
-5
+
 ) even if analyses based on single-locus genetic markers can fail to recognize cryptic species under certain conditions (
-26
+
 , 
-27
+
 ). The widespread availability of barcoding gene data makes them particularly cost effective for a large-scale assessment of hidden biodiversity that can supplement taxonomic description (
-5
+
 ). The predictive modeling approach developed here is not intended to replace traditional species description, which requires considerable expertise, but to aid in such efforts by identifying clades where such work is most needed.
 </p>
          <p>
 Conclusions.
 Our work supports published syntheses, which suggest that many mammal species are undescribed (
-9
+
 – 
-11
+
 ) and demonstrates that an accurate prediction can be made regarding where hidden species are likely to be found. This finding is attributable to the analytical framework developed here. While our results contradict previous research, which argued that hidden species were idiosyncratic in their characteristics (
-6
+
 ), it is broadly congruent with suggestions that species-rich regions at low latitudes contain the bulk of the hidden diversity in class 
 <tp:taxon-name>Mammalia</tp:taxon-name>
 (e.g., ref. 7) (
 SI Appendix
 , 
-
+Figs. S4
 and S5). Previous syntheses on this topic relied on metaanalysis, which is appropriate for literature synthesis (
-28
-) but of limited utility for prediction. Automated data repurposing, where existing data are reanalyzed with the goal of fostering new insight (
-12
-), can leverage the massive amount of information present across hundreds of databases in the biological sciences. Predictive analyses complement investigations that are conducted on a localized scale (
-29
-). Our results indicate that traditional taxonomic research is effective, as taxonomists have long suspected that hidden species in mammals are likely to be found in small-bodied species with large geographic ranges (e.g., refs. 9, 17). Our finding that two variables, which quantify sampling effort are among the most predictive in our analysis (
 
+) but of limited utility for prediction. Automated data repurposing, where existing data are reanalyzed with the goal of fostering new insight (
+
+), can leverage the massive amount of information present across hundreds of databases in the biological sciences. Predictive analyses complement investigations that are conducted on a localized scale (
+
+). Our results indicate that traditional taxonomic research is effective, as taxonomists have long suspected that hidden species in mammals are likely to be found in small-bodied species with large geographic ranges (e.g., refs. 9, 17). Our finding that two variables, which quantify sampling effort are among the most predictive in our analysis (
+Fig. 4
 ), suggest that the Linnean shortfall in mammals can be overcome with a greater investment in taxonomic research. If one is willing to accept that class 
 <tp:taxon-name>Mammalia</tp:taxon-name>
 has historically received a disproportionate amount of taxonomic effort relative to the actual number of species as compared to groups such as arthropods, then more broadly our results indicate that the Linnean shortfall can be addressed across the tree of life with concerted effort and increased funding. Our study reinforces existing calls for a greater investment in taxonomic research (
-21
+
 , 
-30
+
 ), particularly in understudied and undescribed taxa facing quiet extinction (
-31
+
 ). It suggests that hidden species exist in predictable places, waiting for formal description.
 </p>
       </sec>
@@ -372,45 +372,45 @@ Materials and Methods
          <p>
 Genetic Data Acquisition and Record Processing.
 We downloaded all available mammalian DNA sequences for the mitochondrial genes cytochrome-c oxidase I (COI) and cytochrome-b (cytb) from the NIH genetic sequence database, GenBank, after which we followed the basic genetic preprocessing pipeline outlined by Upham et al. (
-32
+
 ). For each gene, we grouped sequences by species and then manually checked all species records for errors (e.g., subspecies, duplicates, extinct species, etc.; see 
 SI Appendix
 , 
-
+Fig. S4
 for initial data processing pipeline). To ensure standardization across groups, we updated all sequence taxonomy to reflect that of the Mammal Diversity Database (MDD) published by the American Society of Mammologists (
-17
+
 ) (Dataset S1 for MDD taxonomy and Datasets S2 and S3 for list of taxonomic updates).
 </p>
          <p>
 Multiple Sequence Alignment and Sequence Evolution Models.
 Following taxonomic standardization, we grouped sequence records for each gene by family and generated multiple sequence alignments for COI and cytb independently using MUSCLE v3.5 (
-33
+
 ). We then visually inspected each family-level alignment for gaps and removed problematic sequences causing severe gaps or misalignment that could not be resolved through reverse complement or manual correction. In order to maximize downstream computational efficiency, we trimmed sequence ends that contained no variation and split alignments containing over 2,000 sequences into subgroups of related taxa using high-level taxonomy (i.e., subfamily, tribe, genus; see 
 SI Appendix
 , Table S3 for final groupings). Finally, we determined best-fit models of nucleotide substitution for each alignment using jModelTest2 (
-34
+
 ).
 </p>
          <p>
 Species Delimitation and Hidden Species Estimation.
 We used two different methods of species delimitation to estimate levels of hidden diversity within groups of phylogenetically related mammals. Species delimitation was first done using a likelihood-based method under the GMYC (
-15
+
 ). We generated maximum clade credibility trees for each alignment using BEASTv2.5.0 (
-35
+
 ). We then used the resulting trees as input for the GMYC model from the 
 “
 splits 
 ”
 R package (
-36
+
 ) implemented in R v3.6.3 (
-37
+
 ). Species delimitation was then repeated using the distance-based delimitation method, ABGD (
-14
+
 ). Pairwise genetic distance matrices used as input for ABGD were calculated for each alignment under the previously determined best-fit model of sequence evolution (
-38
+
 ) using PAUP* (
-39
+
 ). We used the delimitation results generated from both GMYC and ABGD analysis of the genes COI and cytb to estimate the number of hidden species suggested by the genetic data. To measure general agreement between delimitation methods and genes while accounting for variation in the underlying analyses and sequence availability, we generated a conservative estimate of mammalian hidden diversity using a consensus of delimitation results for species in which results from all analyses agreed. Additional information regarding consensus model and species delimitation methods can be found in 
 SI Appendix
 .
@@ -420,53 +420,53 @@ Predictor variables
 . For each recognized species, we explored a large number of geographic, environmental, morphological, sampling effort, and life history variables to determine whether any of these traits could be used to predict the presence of hidden diversity in mammals. We first downloaded all geographic coordinates for class 
 <tp:taxon-name>Mammalia</tp:taxon-name>
 from the Global Biodiversity Information Facility (GBIF) (see Dataset S6 for a list of GBIF DOIs) and used these to extract data from several geographic information system (GIS) layers, including elevation (
-40
+
 ), the 19 BIOCLIM layers at 1-km resolution pertaining to temperature and precipitation available from the WorldClim database (
-41
+
 ), population density (
-42
+
 ), gross domestic product (
-43
+
 ), light pollution (
-44
+
 ), protected areas (
-45
+
 ), anthropogenic biomes (
-46
+
 ), and GlobCover by the European Space Agency (
-47
+
 ). We used the following R packages to extract information from these layers on a species-by-species basis: 
 “
 geosphere 
 ”
 (
-48
+
 ), 
 “
 raster 
 ”
 (
-49
+
 ), 
 “
 rgdal 
 ”
 (
-50
+
 ), and 
 “
 plyr 
 ”
 (
-51
+
 ). In addition to data generated from occurrence records and GIS layers, we included several morphological, geographic, and life history traits gathered from the PanTHERIA database (
-51
+
 ), including adult body mass (in grams), diet breadth, habitat breadth, terrestriality, trophic level, litter size, actual evapotranspiration, potential evapotranspiration, geographic range area (in square kilometers), maximum latitude of range, minimum latitude of range, midrange latitude of range, maximum longitude of range, minimum longitude of range, midrange longitude of range, mean population density (number per square kilometer), population density minimum (number per square kilometer), and population density (change). Finally, we generated a set of variables from the taxonomic species description literature to act as a proxy for sampling effort by performing a literature search using the R package 
 “
 wosr 
 ”
 (
-52
+
 ) to query Web of Science and estimate various publication-related metrics on a species-by-species basis.The dataset building process is described in full detail in 
 SI Appendix
 .
@@ -475,17 +475,15 @@ SI Appendix
 Predictive Modeling and Variable Importance.
 Machine learning was used to identify traits that predict the presence of hidden lineages within currently recognized species. We used random forest analysis, an approach that utilizes multiple decision trees to predict the response (presence or absence of hidden diversity) based on many potential predictor variables (
 
-16
+
 , 
-18
+
 
 ). In order to avoid bias induced by correlation among predictor variables, each individual decision tree consists of a subset of the data and a random ordering of variables at the nodes. The importance of each variable is determined by either measuring the quality of the prediction after the removal of each variable in the predictive function (measured by mean decrease in accuracy [MDA]) or by summing over the number of splits that include each variable across all trees, weighted by the number of samples being split (measured by Gini importance [Gini]). We used the R package 
 “
 caret 
 ”
 (
-
-53
 
 ) to build a random forest classification model for each of our four delimitation results (ABGD COI, ABGD cytb, GMYC COI, and GMYC cytb) as well as our strict consensus model. We explored each random forest model using a series of the independent variables mentioned above (see Dataset S3 for a list of variables used in final machine learning models). For each analysis we generated 1,000 decision trees, using 80% of our data as a training set and reserving the remaining 20% as a test set to evaluate prediction accuracy of the resulting model. Within each model, we used 10-fold cross-validation with five repeats to tune the parameter mtry, the number of variables randomly sampled as candidates at each split, by optimizing model specificity, sensitivity, and area under the receiver operating characteristic curve. The optimal mtry value was then used to generate the final model, from which variable importance measurements (MDA and Gini) were extracted (Dataset S6). We then applied this model to the remaining test set data to evaluate model accuracy, positive predictive value, negative predictive value, and model error.
 </p>

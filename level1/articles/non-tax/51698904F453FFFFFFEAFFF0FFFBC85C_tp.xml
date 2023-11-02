@@ -52,85 +52,73 @@ Malayan pangolin
          <p>
 Aini MohamedYusoff
 
-1
+
 , 
-2
+
 
 , 
 Tze KingTan
-1
+
 , 
-2
+
 
 , 
 Ranjeev Hari
-1
+
 , 
-2
+
 
 , 
 Klaus-Peter Koepfli
-3
-
 
 , 
 WeiYee Wee
-1
+
 , 
-2
+
 
 , 
 Agostinho Antunes
-4
+
 , 
-5
+
 
 , 
 Frankie Thomas Sitam
-6
-
 
 , 
 Jeffrine Japning Rovie-Ryan
-6
-
 ,
 </p>
          <p>
 Kayal Vizi Karuppannan
 
-6
-
 
 , 
 Guat Jah Wong
-1
-
 
 , 
 Leonard Lipovich
-7
+
 , 
-8
+
 
 , 
 Wesley C. Warren
-9
-
 ,
 </p>
          <p>
 Stephen J. O’Brien
 
-10
+
 , 
-11
+
 
 &amp; 
 Siew Woh Choo
-1
+
 , 
-2
+
 ,†
 
 
@@ -168,13 +156,11 @@ within the superclade Laurasiatheria.
 <tp:taxon-name>Pholidota</tp:taxon-name>
 pangolins are not closely related to other anteaters in South America (Xenarthra) although there are several morphological and adaptive similarities, some due to convergence but others likely inherited from the insectivore precursors of placental mammals that coexisted among the dinosaurs some 100MY ago 
 
-1
+
 – 
-4
+
 
 . Also being referred to as ‘scaly or spiny anteaters’, pangolins have a peculiar anatomy with keratinized scales made up of agglutinated hairs that overlap with one another and covering most of their body. Pangolins also lack teeth in adults (edentulism), an adaptation for the specialized diet made up of ants and termites (insect-eating - myrmecophagy) 
-
-1
 
 and possess ‘incomplete zygomatic arches’ and a ‘extremely reduced, bladelike mandible’ with each denture having a single bony protrusion 
 5,6
@@ -193,15 +179,11 @@ Kuala Lumpur
 Malaysia
 . 
 
-2
-
 Department of Oral and Craniofacial Sciences, Faculty of Dentistry,University of Malaya, 50603 
 Kuala Lumpur
 , 
 Malaysia
 . 
-
-3
 
 National Zoological Park, Smithsonian Conservation Biology Institute, 
 Washington
@@ -217,8 +199,6 @@ Porto
 Portugal
 . 
 
-5
-
 Department of Biology, Faculty of Sciences,University of 
 Porto
 , Rua do Campo Alegre, 4169-007 
@@ -226,8 +206,6 @@ Porto
 , 
 Portugal
 . 
-
-6
 
 Ex-Situ Conservation Division, Department of Wildlife and National Parks (DWNP) Peninsular 
 Malaysia
@@ -237,27 +215,19 @@ Kuala Lumpur
 Malaysia
 . 
 
-7
-
 Center for Molecular Medicine and Genetics,Wayne State University,Detroit,MI 48201, 
 USA
 . 
 
-8
-
 Department of Neurology,School of Medicine,Wayne State University,Detroit, MI 48201, 
 USA
 . 
-
-9
 
 McDonnell Genome Institute, 
 Washington
 University,St Louis, MO 63108, 
 USA
 . 
-
-10
 
 Theodosius Dobzhansky Center for Genome Bioinformatics 
 St. Petersburg State
@@ -266,8 +236,6 @@ St. Petersburg
 , 199004, 
 Russia
 . 
-
-11
 
 Oceanographic Center,8000 N.Ocean Drive, Nova Southeastern University,Ft Lauderdale, 
 Florida
@@ -286,28 +254,24 @@ is the rapid loss and deterioration of their natural habitat due to deforestatio
 8,9
 . Malayan pangolins (and pangolins in general) are also heavily hunted for their meat, skin, and scales, as illegal trade in live animals has become a severe threat to pangolins 
 
-10
+
 – 
-12
+
 
 . In 
 China
 , pangolin meat is consumed as an exotic delicacy while the scales are used for traditional medicinal purposes such as skin diseases and cancer remedies, among other illnesses 
 
-8
-
 . There has also been an attempt to relocate and breed the species in captivity while imitating its natural habitat, but with little success as pangolins do not survive and breed well in captivity 
-
-13
 
 .
 </p>
          <p>
 Genetic studies of endangered species have become widespread during the last several decades but more recently, the genomes and transcriptomes of endangered species have been sequenced 
 
-14
+
 – 
-16
+
 
 . With the emergence of high-throughput Next-Generation Sequencing (NGS) technologies, more molecular information about endangered species can be acquired and studied in-depth. Here, we present the sequencing of the first 
 M. javanica
@@ -328,12 +292,10 @@ M. javanica
 representing the following different organs provided by the Department of Wildlife and National Parks: cerebrum, cerebellum, thymus, liver, kidney, lung, spleen and heart. The quality of all extracted RNAs was evaluated using the Agilent Bioanalyzer 2100 (Agilent Technologies, Palo Alto, CA) before library preparation and sequencing. All samples had sufficient yields of RNAs with very good RNA integrity number (RIN) values (
 &gt;
 9.00), indicating the high integrity of RNA samples for sequencing (Supplementary 
-
+Figure 1
 ). We generated approximately 373 million reads of 100 bp pairedend RNA-Seq data for the eight samples with the number of paired-end reads per sample ranging from 41,532,741 to 52,722,994 (Supplementary 
 Table 1
 ). The quality of sequencing reads was assessed based on the Phred scoring system 
-
-17
 
 . More than 96% of reads for each organ had a read quality higher than the standard threshold (Q30), indicating good quality of the sequencing reads.
 </p>
@@ -345,26 +307,18 @@ M. javanica
 in silico
 reads using a Perl script housed in the Trinity software package 
 
-18
-
 , the reduced reads were assembled following the steps described in 
-
+Fig. 1
 , using three different assemblers: Trinity 
-
-19
 
 , SOAPdenovo-Trans 
 
-20
-
 , and Velvet 
-
-21
 
 . The consensus set of unigenes of the three different methods was used as the final representative transcriptome assembly, which resulted in 89,754 unigenes with a N50 of 3,741 bps (Supplementary Table 2). The length distribution of 
 M. javanica
 assembled unigenes is displayed in Supplementary 
-
+Figure 2
 with comparison to the orthologous dog genes from ENSEMBL and the human genes from both ENSEMBL and RefSeq databases.
 </p>
          <p>
@@ -375,21 +329,17 @@ Although several pipelines to assess the quality of transcriptome assemblies hav
 de novo
 non-model transcriptome assembly 
 
-24
-
 . Therefore, we assessed the reconstructed 
 M. javanica
 transcriptome using the following three 
 in silico
 methods: (1) transcript sequence quality quantified by RNA-Seq by Expectation-Maximization (RSEM) 
 
-25
-
 ; (2) percentage of reads used to recover the unigene set as well as their coverage; and (3) sequence completeness and its contiguity.
 </p>
          <p>
 All sequencing reads were filtered based on a Phred score of 30 and each assembled transcript was supported by a minimum Fragments per kilo base of transcript per million reads (FPKM) value of 1.00 (Supplementary 
-
+Figure 3
 ). When working with transcriptomes, read count is a way of quantifying the transcripts by abundance, and also determines whether or not the genes or transcripts produced are highly dependent on length and library size. Taking the FPKM values into consideration in generating the assemblies promotes normalization of the data, as well as minimizing the dependence of transcript selection based on the two variables, thereby producing high quality transcriptomes. RSEM outputs were used for transcript abundance estimation. Secondly, the normalized reads were mapped against the representative sequences. We observed that approximately 70% of the normalized paired reads were mapped back to the 
 M. javanica
 unigenes with the mean mapping coverage per base of 27. The relatively high percentage indicates that a high amount of transcripts were recovered and retained for analyses after undergoing several stringent filtering steps.
@@ -413,8 +363,6 @@ To examine the completeness of the
 M. javanica
 unigenes, we used the TransDecoder program 
 
-18
-
 . Our results showed that 57,214 sequences (63.7%) were protein-coding unigenes, with 38,168 unigenes predicted to have complete coding sequences (CDSs). Furthermore, 4,859 sequences were 3 
 ′
 partial CDS while 12,486 were 5 
@@ -423,13 +371,11 @@ partial CDS. Only 1,701 sequences were internal sequences, which were defined as
 M. javanica
 unigenes based on the observations that most mammals have 20,000~30,000 gene loci in their genome 
 
-26
+
 – 
-29
+
 
 and assuming that this pangolin species did not experience any lineage-specific whole-genome duplication 
-
-30
 
 .
 </p>
@@ -476,7 +422,7 @@ M. javanica
 assembled unigenes, we performed Polymerase Chain Reaction (PCR) and Sanger sequencing in addition to 
 in silico
 quality screening. A total of 10 unigenes were randomly selected for PCR and sequencing. The details of these sequences and the primer sequences used are described in Supplementary Table 3. Pooled RNA samples from the eight tissues were subjected to cDNA (complementary DNA) synthesis and PCR analysis. PCR products of the 10 genes matched the expected sizes (
-
+Fig. 2
 ). To confirm the accuracy of each unigene, each PCR product was sequenced and its sequence was compared with the assembled unigenes. Our alignment results showed that the sequences from Sanger sequencing are almost perfectly aligned to our assembled unigenes with an average sequence identity of 99.6% and an average sequence completeness of 99.2% (Supplementary Table 3). These results further support the high quality of our 
 M. javanica
 assembly.
@@ -488,7 +434,7 @@ M. javanica
 transcriptome, unigene sequences were annotated using Blast2GO 
 31
 . As a result, a total of 46,720 (52.1%) unigenes were assigned with GO terms (Supplementary 
-
+Figure 5
 ). As anticipated, functional annotation of 
 M. javanica
 unigenes revealed high homology with known genes responsible for various biological roles. 50.4% of the unigenes were assigned to biological processes, 23.3% to molecular functions, and 26.3% to cellular components. For biological process, the most highly represented terms were cellular process (16.1%), metabolic process (14.2%) and single-organism process (13.1%). The fourth top represented term was biological regulation (12.0%), followed by response to stimulus (8.8%), cellular component organization (7.1%), developmental process (6.6%), signaling (6.4%), multicellular organismal process (5.9%), localization (5.4%), reproduction (2.1%), multi-organism process (1.1%), and growth (1.1%). The terms associated with reproduction, developmental processes, cellular component organization, and growth may be indicative of the involvement of the 
@@ -506,14 +452,12 @@ M. javanica
 unigenes included purine (2,784 unigenes) and thiamine (1,963 unigenes) metabolism, followed by aminobenzoate degradation (683), T cell receptor signaling pathway (582), and pyrimidine metabolism (489). For instance, we found that 
 M. javanica
 unigenes were involved in the phosphatidylinositol signaling pathway (
-
+Fig. 3
 ). Phosphatidylinositol 3-Kinase/Protein Kinase B signaling pathway (PI3K/Akt) involved in the phosphatidylinositol signaling pathway, is crucial for host survival (glycolysis/gluconeogenesis) and plays important roles in cell growth, proliferation (cell cycle) and survival signals (e.g. apoptosis) 
 32,33
 . Interestingly, we also observed the involvement of 
 M. javanica
 unigenes in the insect hormone biosynthesis pathway (KEGG map 00981). The genes that are associated with this pathway are MJU195075_c0_seq20, MJU195075_c0_seq3, MJU195075_c0_seq30, and MJU195075_c0_seq5. The biosynthesis of insect hormone belongs to the higher class of terpenoids and polyketides, and in vertebrates, is similar to cholesterol-driven pathway as shown in KEGG map 00981, which could be related to ant-eating traits. The future characterization of the pangolin digestive system transcriptome would be important to test the hypothesis that these genes are related to a specialized myrmecophagy phenotype 
-
-34
 
 .
 </p>
@@ -521,11 +465,7 @@ unigenes in the insect hormone biosynthesis pathway (KEGG map 00981). The genes 
 Lipid metabolism.
 Termites and insect larvae, a staple diet of pangolins, are rich in nutrition, especially fatty acids in the form of palmitic acid, oleic acid and linolenic acid 
 
-35
-
 . In order to use them as an energy source, several important metabolic pathways are involved, namely the linoleic and alpha-linolenic acid metabolism pathways (KEGG:00591 &amp; KEGG:00592), glycerolipid metabolism (KEGG:00561) and fatty acid degradation (KEGG:00071). A total of 747 unigenes were identified in the transcriptome that may participate in these pathways. These unigenes are involved in different pathways and some of them may overlap in different pathways (Supplementary Figure 6). These results provide an important resource in further understanding the potentially evolved lipid metabolism system of pangolins and improving their feeding management in captivity 
-
-36
 
 . Likewise, the future characterization of the pangolin digestive transcriptome would be needed directly investigate the link between these lipid metabolism-related genes and the pangolin diet.
 </p>
@@ -553,18 +493,16 @@ catus
 <tp:taxon-name>Felis</tp:taxon-name>
 _catus-6.2, Ensembl Release 67) using OrthoMCL (Supplementary Table 5) 
 
-37
-
 . We identified a large number of genes (5,506) specific to 
 M. javanica,
 suggesting pangolins are divergent compared to their closest relatives (
-
+Fig. 4a
 ). We used the Gene Ontology (GO) annotations to find the GO terms for which the 
 M. javanica
 specific unigenes are enriched by running Fisher’s exact test (0.05 FDR) on a total of 
 M. javanica
 specific unigenes. We identified nine significantly enriched GO terms in biological processes that include response to external stimulus, signal transduction, response to stress, cell proliferation, and response to biotic stimulus (
-
+Fig. 4b
 ). Interestingly, most of these terms are well associated with cell interactions and response to stimulus, indicating that the 
 M. javanica
 unigenes may be actively involved in response to stimulus or stress. At the molecular function level, the pangolin-specific genes are significantly enriched in functions such as cytoskeletal protein binding, receptor binding, receptor activity, RNA binding and protein kinase activity. Interestingly, the proteins involving in the cytoskeletal protein binding are known to interact selectively with any protein components of any cytoskeleton which includes actin, microtubule and intermediate filament cytoskeleton 
@@ -572,8 +510,6 @@ unigenes may be actively involved in response to stimulus or stress. At the mole
 . Pangolins have strong and sophisticated musculoskeletal system for digging and tree climbing 
 7,40
 . Besides that, pangolins have a unique protecting mechanism allowing them to quickly roll themselves into visually impenetrable balls defending them against enemies, which may likely required the evolution of a sophisticated musculoskeletal system. Moreover, pangolin scales are structurally similar to human nails and hairs that are made of keratin 
-
-41
 
 . The intermediate filaments could be transformed into keratin-like stretchable muscular-structure filaments, forming durable and strong scale structures. We hypothesize that the enriched pangolin-specific unigenes in cytoskeletal protein binding may be required for these unique features of pangolins (the development of pangolin keratinised scales and highly sophisticated musculoskeletal system for fossoriality or arboreality). However, further studies on these pangolin-specific genes may be required to insightfully understand the unique traits or adaptation of pangolins compared to other mammals.
 </p>
@@ -589,142 +525,31 @@ B
 ) Functional enrichment analysis of pangolin-specific genes. Significant functional categories were shown. GO terms highlighted in light red are biological processes, whereas GO terms highlighted in yellow are molecular functions.
 </p>
          <p>
-Repeats Category
-
-Repeats Family
-
-Number of Elements
-
-Length Occupied
-
-Percentage of Sequence
-
-ALUs
-0
-0bp
-0%
-SINEs
-MIRs
-33,009
-4,412,161bp
-1.93%
-Total
-33,304
-4,448,145bp
-1.94%
-LINE1
-28,578
-10,701,435bp
-4.67%
-LINEs
-LINE2
-19,964
-4,376,160bp
-1.91%
-L3/CR1
-2,163
-387,385bp
-0.17%
-Total
-51,456
-15,616,512bp
-6.82%
-ERVL
-4,377
-1,476,108bp
-0.64%
-ERVL-MaLRs
-8,281
-2,377,187bp
-1.04%
-LTR elements
-ERV_classI
-2,228
-767,122bp
-0.33%
-ERV_classII
-57
-33,451bp
-0.01%
-Total
-15,903
-4,860,807bp
-2.12%
-hAT-Charlie
-15,550
-2,780,742bp
-1.21%
-DNA elements
-TcMar-Tigger
-5,032
-1,124,014bp
-0.49%
-Total
-25,893
-4,806,604bp
-2.10%
-Unclassified:
-237
-37,076bp
-0.02%
-Total interspersed repeats:
-126,556
-29,769,144bp
-12.99%
-Small RNA:
-328
-40,193bp
-0.02%
-Satellites:
-63
-8,316 bp
-0%
-Simple repeats:
-38,549
-1,676,576bp
-0.73%
-Low complexity:
-7,128
-349,384bp
-0.15%
 </p>
          <p>
 further classified according to the pattern of repeating nucleotide base, mode of repeat expansion, and sequence homology with the consensus repeats family. These consensus repeat families are the core sequence from the repeat database RepBase, which is used by RepeatMasker 
-
-42
 
 to detect homologous repeats present in the transcripts. To identify the repeats in the 
 M. javanica
 transcriptome, we screened the repetitive elements in the 89,754 unigenes using the RepeatMasker software 
 
-42
-
 . For instance, we found many predicted repeats, covering a considerable portion (13.90% or 31,832,508 bp) of the total genomic length (229,081,942 bp) of all unigenes. The most represented repetitive elements were Long Interspersed Nuclear Elements (LINEs), where LINE1 family consists of 28,578 elements (4.67%), whereas Short Interspersed Elements (SINEs) have 33,009 elements (1.93%) in its Mammalian-wide interspersed repeats (MIRs) family (
 Table 1
 ). The relatively high number of expressed repeats may be due to frequent exonization of transposable elements 
 
-43
 
 in
 
 pangolins. They may play an important role in pangolin transcriptome diversity as the repeats could introduce novel splice sites resulting in alternative splicing 
-
-44
 
 .
 </p>
          <p>
 Simple Sequence Repeats (SSR), also known as Short Tandem Repeats (STR) or microsatellites, are another major class of repetitive elements. Most of the SSRs found in the transcriptome or the protein-coding regions of the genome are trinucleotide repeats, since they do not cause frameshift mutations and retain protein integrity 
 
-45
-
 . Trinucleotide repeats are known to affect the chemical and physical properties of certain proteins 
 
-46
-
 and length changes of triplet repeats are related to more than 40 neurological diseases found in humans 
-
-47
 
 . The microsatellite searching tool MISA 
 48
@@ -741,7 +566,7 @@ Pairwise comparisons of different transcriptomic profiles.
 To examine the similarity of each organ transcriptome, we performed statistical correlation analysis for each pair of organs using log10 (FPKM 
 +
 1) to normalize the plots (
-
+Fig. 5
 ). Our data showed that the thymus and lung transcriptomes have the most similar expression profiles (the coefficient of determination, R 
 2
 =
@@ -755,8 +580,6 @@ To examine the similarity of each organ transcriptome, we performed statistical 
 49
 As anticipated, the lung and thymus or the cerebellum and cerebrum showed the highest inter-tissue correlations, which is consistent with a previous study based on human tissues using gene expression profiles 
 
-50
-
 . These results also fit into the biological origin of the tissues since they represent the immune system and brain, respectively.
 </p>
          <p>
@@ -769,11 +592,7 @@ Pangolins are considered as one of the world’s most bizarre mammal. Belonging 
 M. javanica
 being one of the critically endangered species 
 
-7
-
 . Many efforts have been made to maintain the population, but without success, in large part because pangolins do not survive and breed well in captivity 
-
-13
 
 . Here we have successfully generated transcriptomic data from eight different organs of 
 M. javanica.
@@ -794,7 +613,7 @@ M. javanica
 and its closest relatives, the 
 <tp:taxon-name>Carnivora</tp:taxon-name>
 , revealed a large number of genes unique to pangolins (
-
+Fig. 4
 ). These genes were significantly over-represented in biological processes such as response to external stimulus, response to stress and signal transduction. The enriched genes in these processes might be associated with the fact that the pangolin used here was pregnant. Another possible explanation is that the pangolin might be under stress after being caught or kept in captivity. Furthermore, we also cannot rule out the possibility that pangolins might have evolved to have different mechanisms to deal with stress and external stimulus compared to the closely related dogs and cats or even more distant humans. Studying and comparing the transcriptomes of more pangolins at different conditions may provide clearer insights into each possibility in the future.
 </p>
          <p>
@@ -848,25 +667,17 @@ a read). A quality check was performed on the reads using the FastQC (version 0.
 De novo
 assembly of each individual tissue sample was performed using Trinity with default parameters previously described. To generate the whole transcriptome of Malayan pangolin, we assembled the pooled reads from eight samples using three different assemblers: Trinity 
 
-18
-
 , SOAPdenovo-Trans 
 
-20
-
 , and Velvet 
-
-21
 
 . Total reads were first normalized by k-mer coverage using Trinity software. The assembled transcripts from three different assemblers were then individually filtered to remove poorly supported transcripts using the filtering criteria fragments per kilo base per million transcripts, FPKM, equals to 1.00.
 </p>
          <p>
 Filtered transcripts from the three assemblers were then selected for overlaps and merged together; before being further clustered using CD-Hit-EST program 
 
-51
-
 using clustering threshold of 98% identity, to reduce redundancy. The singletons (unclustered transcripts), and the longest sequence representatives in each clustered transcripts were selected and retained, and classified as the unigenes; the sequences that cannot be extended on either ends. 
-
+Figure 1
 summarizes the workflow of 
 de novo
 assembly to generate the Malayan pangolin unigenes. The unigenes then underwent foreign contamination screening (FCS) using BLAST with 98% identity cut-off to screen for any foreign organisms’ chromosome, mitochondria DNA, vectors, and sequencing adaptors.
@@ -881,11 +692,7 @@ To further validate and annotate the Malayan pangolin transcriptome, the assembl
 Correlation between any two pangolin tissue transcriptomes.
 To examine the close-relatedness of pangolin tissue transcriptomes, the expression values of the unigenes (FPKM) in the transcriptomes of each tissue are manipulated. By utilizing the tool ‘RSEM-calculate-expression’ in the RSEM pipeline, the reads of each tissue were mapped to the unigenes 
 
-25
-
 . Gene expression values, expressed as log 
-
-10
 
 (FPKM 
 +

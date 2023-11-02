@@ -240,9 +240,9 @@ of the
 Coronaviridae
 </tp:taxon-name>
 ) in a phylogenetic analysis (Figure 1b). The genome sequence of the virus isolate (GX/P2V) has very high similarity (99.83-99.92%) to the five sequences obtained through the metagenomic sequencing of the raw samples,and all have similar genomic organizations to SARS-CoV-2,with eleven predicted open reading frames (
-
+Figure 1a
 ; Extended Data Table 2;two are overlapping ORFs). We were also able to successfully isolate the virus using the Vero E6 cell line (Extended Data 
-
+Figure 1
 ). Based on these new genome sequences,we designed primers for qPCR detection to confirm that the raw samples were positive for the coronavirus.We conducted further qPCR testing on another batch of archived pangolin samples collected between May-July2018.Among the 19 samples(nine intestine tissues,
 </p>
          <p>ten lung tissues) tested from12 animals,three lung tissue samples from three individual pangolins were coronavirus positive.</p>
@@ -256,29 +256,29 @@ Guangdong
 performed in 2019 also identified viral contigs from lung samples that were similarly related to SARS-CoV-2 
 7
 . Different assembly methods and manual curation were performed to generate a partial genome sequence that comprised 86.3% of the full-length virus genome (denoted as GD/P1L in the phylogeny shown in 
-
+Figure 1b
 ).
 </p>
          <p>
 These novel pangolin coronavirus genomes have 85.5% to 92.4% sequence similarity to SARS-CoV-2,and represent two sub-lineages of SARS-CoV-2 related viruses in the phylogenetic tree, one of which (comprising GD/P1L and GDP2S) is very closely related to SARS-CoV-2 (
-
+Figure 1b
 ; red circles).It has previously been noted that members of the subgenus 
 Sarbecovirus
 have experienced widespread recombination 
 8
 .In support of this,a recombination analysis (
-
+Figure 2
 )performed here revealed that bat coronaviruses ZC45 and ZXC21are likely recombinants, containing genome fragments derived from multiple SARS- CoV related lineages (genome regions 2, 5, 7) as well as SARS-CoV-2 related lineages including that from pangolins (regions 1, 3, 4, 6, 8).
 </p>
          <p>
 More notable,however,was the observation of putative recombination signals between the pangolins coronaviruses,bat coronaviruses RaTG13,and human SARS-CoV-2 (
-
+Figure 2
 ). In particular,SARS-CoV-2 exhibits very high sequence similarity to the 
 Guangdong
 pangolin coronaviruses in the receptor-binding domain (RBD;97.4% amino acid similarity;indicated by red arrow in 
-
+Figure 2a
 and 
-
+3a
 ), even though it is most closely related to bat coronavirus RaTG 
 13 in
 the remainder of the viral genome.Indeed,the 
@@ -288,7 +288,7 @@ pangolin coronaviruses and SARS-CoV-2 possess identical amino acids at the five 
 ) and these latter two viruses have only89.2% amino acid similarity in the RBD.Interestingly,a phylogenetic analysis of synonymous sites only from the RBD revealed that the topological position of the 
 Guangdong
 pangolin is consistent with that in the remainder of the viral genome, rather than being the closest relative of SARS-CoV-2 (
-
+Figure 3b
 ). Hence,it is possible that the amino acid similarity between the RBD of the 
 Guangdong
 pangolin coronaviruses and SARS-CoV-2 is due to selectively-mediated convergent evolution rather than recombination,although it is difficult to choose between these scenarios on current data.This observation is consistent with the fact that ACE2 sequence similarity is higher between humans and pangolins (84.8%) than those between humans and bats (80.8% - 81.4%; 
@@ -570,7 +570,7 @@ Customs during their routine anti-smuggling operations. All animal individuals c
 Betacoronavirus
 </tp:taxon-name>
 using the Vero-E6 cell line (from ATCC;Extended Data 
-
+Figure 1
 ). The cell line was subjected to species identification and authentication by microscopic morphologic evaluation and growth curve analysis, and was tested free of mycoplasma contamination. The cell line was not on the list of common misidentified cell lines by ICLAC.A High Pure Viral RNA Kit (Roche, 
 Switzerland
 ) was used for RNA extraction on all 43samples.For RNA sequencing (GX/P2V and GX/P3B), a sequencing library was constructed using an Ion Total RNA-Seq Kit v2 (Thermo Fisher Scientific,MA, 
@@ -589,7 +589,7 @@ Betacoronavirus
 (Extended Data Table 1). We obtained near complete viral genomes from these samples (98%,compared to SARS-CoV-2),which were designated GX/P1E, GX/ P2V, GX/P3B,GX/P4L,GX/P5E and GX/P 
 5L.
 Their average sequencing coverage ranged from approximately 8.4X to 8,478X (Extended Data 
-
+Figure 2
 a-f). Based on these genome sequences, we designed primers for qPCR to confirm the positivity of the original tissue samples (Extended Data Table 4). This revealed an original lung tissue sample that was also qPCR positive,in addition to the six original samples with coronavirus reads. We further tested an additional 19 samples (nine intestine tissues,ten lung tissues),from 12 smuggled pangolins sampled between May-July 2018 by the group from 
 Guangxi
 Medical University.The genome sequences of GX/P1E,GX/P2V,GX/P3B,GX/ P4L,GX/P5E and GX/P5L have been submitted to GISAID database and assigned accession numbers EPI_ISL_410538 - EPI_ISL_410543.
@@ -616,6 +616,9 @@ de novo
 ) and using reference (BWA v0.7.13 
 14
 ) assembly methods,using BetaCoV/Wuhan/WIV04/2019 as a reference. The contigs were combined, and approximately 72% of the coronavirus genome (21,505bp) was obtained. This sequence has about 6.6X sequencing coverage(Extended Data 
+
+Figure 
+2g
 
 ) and denoted pangolin CoV GD/P2S.This sequence has been deposited on GISAID with accession number EPI_ISL_410544.
 </p>
@@ -655,7 +658,7 @@ Sarbecovirus
 from 100 inferences, utilizing the GTRGAMMA model of nucleotide substitution with 1,000 bootstrap replicates.To investigate potential recombination events,we used SimPlot v3.5.1 
 17
 to conduct a window sliding analysis to determine the changing patterns of sequence similarity and phylogenetic clustering between the query and the reference sequences.A full plot for the recombination analysis is provided in Extended Data 
-
+Figure 3
 .We also examined phylogenetic clusters performed directly from the multiple sequence alignment.Maximum likelihood trees were estimated from each window extraction (i.e. genome regions 1 to 8) using RAxML as described above 
 18–39
 .
@@ -1432,282 +1435,22 @@ pangolin CoV.
 
 </p>
          <p>
-Source location
-
-Sample type
-
-Sample number
-
-Accession IDs of consensus sequence / read data
-
-Guangxi
-Intestine
-GX/P1E
-EPI_ISL_410539 / SAMN14115945
-Guangxi
-Virus isolate from intestine-lung mixed samples
-GX/P2V
-EPI_ISL_410542 / SAMN14115940
-Guangxi
-Blood
-GX/P3B
-EPI_ISL_410543 / SAMN14115941
-Guangxi
-Lung
-GX/P4L
-EPI_ISL_410538 / SAMN14115942
-Guangxi
-Intestine
-GX/P5E
-EPI_ISL_410541 / SAMN14115943
-Guangxi
-Lung
-GX/P5L
-EPI_ISL_410540 / SAMN14115944
-Guangdong
-Scale
-GD/P2S
-EPI_ISL_410544 / SAMN14116618
 </p>
          <p>
 Sequencing reads have been deposited in the SRA database (https://www.ncbi.nlm.nih.gov/sra) under BioProject PRJNA606875.
 </p>
          <p>
-Bat-Cov RaTG13#
-Guangdong pangolin CoV #
-Guangxi pangolin CoV #
-Length bat/ SARS-CoV- 2 (bp)
-nt aa Identity % Identity %
-Length GD/ SARS-CoV-2 (bp)
-nt Identity %
-aa Identity %
-Length GX/ SARS-CoV-2 (bp)
-nt Identity %
-aa Identity %
-ORF1ab
-21287/21290
-96.5
-98.6
-20076*/21290
-90.7
-97.1
-21266/21290
-84.9
-92.5
-S
-3810/3822
-93.1
-97.7
-3548*/3822
-84.9
-90.7
-3804/3822
-83.6
-92.6
-ORF3a
-828/828
-96.3
-97.8
-828/828
-93.6
-97.4
-828/828
-87.0
-89.3
-E
-228/228
-99.6
-100
-228/228
-99.1
-100
-228/228
-97.4
-100
-M
-666/669
-95.9
-100
-669/669
-93.4
-98.6
-669/669
-91.3
-98.2
-ORF6
-186/186
-98.4
-100
-186/186
-95.7
-96.6
-186/186
-90.9
-95.0
-ORF7a
-366/366
-95.6
-97.5
-366/366
-93.4
-97.5
-366/366
-86.6
-87.7
-ORF8
-366/366
-97.0
-94.9
-366/366
-92.3
-94.9
-366/366
-80.6
-86.8
-N
-1260/1260
-96.9
-99.0
-1260/1260
-96.2
-97.8
-1254/1260
-91.4
-94.3
 </p>
          <p># Wuhan-Hu-1 SARS-CoV-2 (NC_045512.2) was used for comparison with Bat-CoV RaTG13 (EPI_ISL_402131),Guangdong pangolin CoV (merged of GD/P1L and GD/P2S),and Guangxi pangolin CoV (GX/P5L)</p>
          <p>
-            <tp:taxon-name>
-Homo
-sapiens
-
-</tp:taxon-name>
-            <tp:taxon-name>
-Manis
-javanica
-
-</tp:taxon-name>
-            <tp:taxon-name>
-Rhinolophus sinicus
-</tp:taxon-name>
-            <tp:taxon-name>
-Rhinolophus
-pearsonii
-
-</tp:taxon-name>
-            <tp:taxon-name>
-Rhinolophus ferrumequinum
-</tp:taxon-name>
-            <tp:taxon-name>
-Homo sapiens
-</tp:taxon-name>
-100%
-<tp:taxon-name>
-Manis javanica
-</tp:taxon-name>
-84.85%
-100%
-<tp:taxon-name>
-Rhinolophus
-sinicus
-
-</tp:taxon-name>
-80.75%
-82.86%
-100%
-<tp:taxon-name>
-Rhinolophus pearsonii
-</tp:taxon-name>
-81.37%
-82.98%
-94.41%
-100%
-<tp:taxon-name>
-Rhinolophus ferrumequinum
-</tp:taxon-name>
-81.24%
-82.98%
-93.04%
-92.42%
-100%
-<tp:taxon-name>
-Rhinolophus macrotis
-</tp:taxon-name>
-80.87%
-83.73%
-95.78%
-94.91%
-92.55%
 </p>
          <p>
 Extended Data Table 4 | Primers used for qPCR detection of pangolin associated coronavirus
 
 </p>
          <p>
-pCov-Forward
-AGGTGACGAGGTTAGACAAATAG
-pCov-Reverse
-CCAAGCAATAACACAACCAGTAA
-pCov-Probe
-ACCCGGACAAACTGGTGTTATTGCT
 </p>
          <p>
-Accession ID
-Virologal.org sequence (NC_045512.2)
-
-Virus name
-BetaCoV/Wuhan- Hu-1/2019
-
-Location
-China / Wuhan
-
-Collection date
-2019-12
-
-Originating lab
-National Institute for Communicable Disease Control and Prevention (ICDC) Chinese Center for Disease Control and Prevention (China CDC)
-
-Submitting lab
-National Institute for Communicable Disease Control and Prevention (ICDC) Chinese Center for Disease Control and Prevention (China CDC)
-
-Authors
-Zhang,Y.-Z., Wu,F., Chen,Y.-M., Pei,Y.-Y., Xu,L., Wang,W., Zhao,S., Yu,B., Hu,Y., Tao,Z.-W., Song,Z.-G., Tian,J.-H., Zhang,Y.- L., Liu,Y., Zheng,J.-J., Dai,F.-H., Wang,Q.- M., She,J.-L. and Zhu,T.-Y.
-
-EPI_ISL_ 402131
-BetaCoV/bat/ Yunnan/ RaTG13/2013
-China / Yunnan Province / Pu'er City
-2013-07- 24
-Wuhan Institute of Virology, Chinese Academy of Sciences
-Wuhan Institute of Virology, Chinese Academy of Sciences
-Yan Zhu, Ping Yu, Bei Li, Ben Hu, Hao-Rui Si, Xing-Lou Yang, Peng Zhou, Zheng-Li Shi
-EPI_ISL_ 402121
-BetaCoV/Wuhan/ IVDC-HB- 05/2019
-China / Hubei Province / Wuhan City
-2019-12- 30
-National Institute for Viral Disease Control and Prevention, China CDC
-National Institute for Viral Disease Control and Prevention, China CDC
-Wenjie Tan Xuejun Ma Xiang Zhao Wenling Wang Yongzhong Jiang Roujian Lu Ji Wang Peihua Niu, Weimin Zhou, Faxian Zhan Weifeng Shi Baoying Huang Jun Liu Li Zhao Yao Meng Fei Ye Na Zhu, Xiaozhou He Peipei Liu, Yang Li Jing Chen Wenbo Xu George F. Gao Guizhen Wu
-EPI_ISL_ 402120
-BetaCoV/Wuhan/ IVDC-HB- 04/2020
-China / Hubei Province / Wuhan City
-2020-01- 01
-National Institute for Viral Disease Control and Prevention, China CDC
-National Institute for Viral Disease Control and Prevention, China CDC
-Wenjie Tan Xiang Zhao Wenling Wang Xuejun Ma Yongzhong Jiang Roujian Lu Ji Wang Weimin Zhou Peihua Niu Peipei Liu Faxian Zhan Weifeng Shi Baoying Huang Jun Liu Li Zhao Yao Meng Xiaozhou He Fei Ye Na Zhu Yang Li Jing Chen Wenbo Xu George F. Gao Guizhen Wu
-EPI_ISL_ 402124
-BetaCoV/Wuhan/ WIV04/2019
-China / Hubei Province / Wuhan City
-2019-12- 30
-Wuhan Jinyintan Hospital
-Wuhan Institute of Virology, Chinese Academy of Sciences
-Peng Zhou, Xing-Lou Yang, Ding-Yu Zhang, Lei Zhang, Yan Zhu, Hao-Rui Si, Zhengli Shi
-EPI_ISL_ 402123
-BetaCoV/Wuhan /IPBCAMS-WH- 01/2019
-China / Hubei Province / Wuhan City
-2019-12- 24
-Institute of Pathogen Biology, Chinese Academy of Medical Sciences &amp; Peking Union Medical College
-Institute of Pathogen Biology, Chinese Academy of Medical Sciences &amp; Peking Union Medical College
-Lili Ren, Jianwei Wang, Qi Jin, Zichun Xiang, Zhiqiang Wu, Chao Wu, Yiwei Liu
 </p>
          <p>
 We gratefully thank the authors listed below for sharing their genomic sequences of coronaviruses analyzed in this study.
@@ -1717,389 +1460,10 @@ Extended Data Table 6 | GenBank accession numbers of coronavirus sequences used 
 
 </p>
       </sec>
-      <p>
-Accession ID
-
-Strain name
-
-Host
-
-Publication
-
-NC_004718.3
-Tor2
-Human
-
-He 
-etal.
-Biochem Biophys Res Commun. 316(2):476-83 (2004) 18 Snijder 
-etal.
-J. Mol. Biol. 331 (5), 991-1004 (2003) 19 Marra 
-etal.
-Science 300 (5624), 1399-1404 (2003) 20 Song 
-etal.
-Proc. Natl. Acad. Sci. U. S. A. 102(7):2430-5 (2005) 21
-
-AY313906.1
-GD69
-Human
-MK211377.1
-BtRs-BetaCoV/ YN2018C BtRs-BetaCoV/ YN2018B BtRl-BetaCoV/ SC2018 BtKY72
-Rhinolophusafinis
-
-
-Han 
-etal.
-Front Microbiol. 10:1900 (2019)22
-
-MK211376.1
-Rhinolophusafinis
-
-
-Han 
-etal.
-Front Microbiol. 10:1900 (2019) 22
-
-MK211374.1
-Rhinolophusp.
-
-
-Han 
-etal.
-Front Microbiol. 10:1900 (2019) 22
-
-KY352407.1
-Rhinolophusp.
-
-
-Tao 
-etal.
-Microbiol Resour Announc 8 (28), e00548-19 (2019) 23
-
-MG772934.1
-bat-SL-CoVZXC21
-Rhinolophusinicus
-
-Huetal. EmergMicrobesInfect. 12;7(1):154(2018) 24
-MG772933.1
-bat-SL-CoVZC45
-Rhinolophusinicus
-
-Huetal. EmergMicrobes Infect. 12;7(1):154 (2018) 24
-KY417151.1
-Rs7327
-Rhinolophusinicus
-
-
-Hu 
-etal.
-PLoSPathog. 13 (11), e1006698 (2017) 25
-
-KY417147.1
-Rs4237
-Rhinolophusinicus
-
-
-Hu 
-etal.
-PLoSPathog. 13 (11), e1006698 (2017) 25
-
-KY417146.1
-Rs4231
-Rhinolophussinicus
-
-
-Hu 
-etal.
-PLoSPathog. 13 (11), e1006698 (2017) 25
-
-KY417143.1
-Rs4081
-Rhinolophussinicus
-
-
-Hu 
-etal.
-PLoSPathog. 13 (11), e1006698 (2017) 25
-
-KJ473816.1
-BtRs-YN2013
-Rhinolophussinicus
-
-
-Wu 
-etal.
-J. Infect. Dis. 213 (4), 579-583 (2016) 26 Wu 
-etal.
-ISMEJ10 (3), 609-620 (2016) 27 Wu 
-et al.
-J. Infect. Dis. 213 (4), 579-583 (2016) 26 Wu 
-et al.
-ISMEJ10 (3), 609-620 (2016) 27 Wu 
-et al.
-J. Infect. Dis. 213 (4), 579-583 (2016) 26 Wu 
-et al.
-ISMEJ10 (3), 609-620 (2016) 27 Wu 
-et al.
-J. Infect. Dis. 213 (4), 579-583 (2016) 26 Wu 
-et al.
-ISMEJ10 (3), 609-620 (2016) 27 Yang 
-et al.
-Emerging Infect. Dis. 19 (6) (2013) 28 Wu 
-et al.
-J. Infect. Dis. 213 (4), 579-583 (2016) 26 Wu 
-et al.
-ISME J 10 (3), 609-620 (2016) 27 Yang 
-et al.
-Emerging Infect. Dis. 19 (6) (2013) 28 Wu 
-et al.
-J. Infect. Dis. 213 (4), 579-583 (2016) 26 Wu 
-et al.
-ISME J 10 (3), 609-620 (2016) 27 Xu 
-et al.
-Virol Sin 31 (1), 69-77 (2016) 29
-
-KJ473815.1
-BtRs-GX2013
-<tp:taxon-name>
-Rhinolophus
-sinicus
-
-</tp:taxon-name>
-KJ473814.1
-BtRs-HuB2013
-<tp:taxon-name>
-Rhinolophus sinicus
-</tp:taxon-name>
-KJ473812.1
-BtRf-HeB2013
-<tp:taxon-name>
-Rhinolophus ferrumequinum
-</tp:taxon-name>
-JX993988.1
-Cp/Yunnan2011
-<tp:taxon-name>
-Chaerephon plicata
-</tp:taxon-name>
-JX993987.1
-Rp/Shaanxi2011
-<tp:taxon-name>
-Rhinolophus
-pusillus
-
-</tp:taxon-name>
-KU182964.1
-JTMC15
-<tp:taxon-name>
-Rhinolophus ferrumequinum
-</tp:taxon-name>
-KP886808.1
-YNLF_31C
-<tp:taxon-name>
-Rhinolophus ferrumequinum
-</tp:taxon-name>
-Journal information is not available in the GenBank record
-
-KF569996.1
-LYRa11
-<tp:taxon-name>
-Rhinolophus affinis
-</tp:taxon-name>
-
-He 
-et al.
-J. Virol. 88 (12), 7070-7082 (2014) 30
-
-KC881006.1
-Rs3367
-<tp:taxon-name>
-Rhinolophus
-sinicus
-
-</tp:taxon-name>
-
-Ge 
-et al.
-Nature 503, 535-538 (2013) 31
-
-DQ412043.1
-Rm1
-<tp:taxon-name>
-Rhinolophus macrotis
-</tp:taxon-name>
-
-Li 
-et al.
-Science 310 (5748), 676-679 (2005) 32
-
-DQ412042.1
-Rf1
-<tp:taxon-name>
-Rhinolophus ferrumequinum
-</tp:taxon-name>
-
-Li 
-et al.
-Science 310 (5748), 676-679 (2005) 32
-
-GU190215.1
-BtCoV/BM48- 31/BGR/2008 HKU3-12
-<tp:taxon-name>
-
-Rhinolophus 
-blasii
-
-</tp:taxon-name>
-
-Drexler 
-et al.
-J. Virol. 84 (21), 11336-11349 (2010) 33
-
-GQ153547.1
-<tp:taxon-name>
-Rhinolophus
-sinicus
-
-</tp:taxon-name>
-
-Lau 
-et al.
-J. Virol. 84 (6), 2808-2819 (2010) 34
-
-GQ153543.1
-HKU3-8
-<tp:taxon-name>
-Rhinolophus sinicus
-</tp:taxon-name>
-
-Lau 
-et al.
-J. Virol. 84 (6), 2808-2819 (2010) 34
-
-GQ153541.1
-HKU3-6
-<tp:taxon-name>
-
-Rhinolophus 
-sinicus
-
-</tp:taxon-name>
-
-Lau 
-et al.
-J. Virol. 84 (6), 2808-2819 (2010) 34
-
-FJ588686.1
-Rs672
-<tp:taxon-name>
-
-Rhinolophus 
-sinicus
-
-</tp:taxon-name>
-
-Yuan 
-et al.
-J. Gen. Virol. 91 (PT 4), 1058-1062 (2010) 35
-
-DQ071615.1
-Rp3
-<tp:taxon-name>
-Rhinolophus
-pearsoni
-
-</tp:taxon-name>
-
-Li 
-et al.
-Science 310 (5748), 676-679 (2005) 32
-
-AY304488.1
-SZ16
-Civet
-
-Guan 
-et al.
-Science 302 (5643), 276-278 (2003) 36
-
-DQ648856.1
-BtCoV/273/2005
-<tp:taxon-name>
-
-Rhinolophus 
-ferrumequinum
-
-</tp:taxon-name>
-
-Tang 
-et al.
-J. Virol. 80 (15), 7 
-481-7490
-(2006) 37
-
-AY572034.1
-civet007
-Civet
-
-Wang 
-et al.
-Emerging Infect. Dis. 11 (12), 1860-1865 (2005) 5
-
-AY502924.1
-TW11
-Human
-
-Yeh 
-et al.
-Proc. Natl. Acad. Sci. U.S.A. 101 (8), 2542-2547 (2004) 38
-
-AY613948.1
-PC4_13
-Civet
-
-Song 
-et al.
-Proc. Natl. Acad. Sci. U.S.A. 102 (7), 2430-2435 (2005) 21
-
-AY613947.1
-GZ0402
-Human
-
-Song 
-et al.
-Proc. Natl. Acad. Sci. U.S.A. 102 (7), 2430-2435 (2005) 21
-
-AY559095.1
-Sin847
-Human
-
-Vega 
-et al.
-BMC Infect. Dis. 4, 32 (2004) 39
-
-KF294457.1
-Longquan-140
-<tp:taxon-name>
-
-Rhinolophus 
-monoceros
-
-</tp:taxon-name>
-Journal information is not available in the GenBank record
-
-DQ648857.1
-BtCoV/279/2005
-<tp:taxon-name>
-
-Rhinolophus 
-macrotis
-
-</tp:taxon-name>
-
-Tang 
-et al.
-J. Virol. 80 (15), 7481-7490 (2006) 37
-
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
 </p>
+      </sec>
    </body>
 </article>
