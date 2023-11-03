@@ -1,0 +1,517 @@
+<document ID-DOI="http://dx.doi.org/10.3897/BDJ.1.e962" ID-PMC="PMC3964717" ID-Pensoft-Pub="1314-2828-1" ID-PubMed="24723762" ModsDocAuthor="Blagoderov, Vladimir &amp; Papp, Laszlo &amp; Hippa, Heikki" ModsDocDate="2013" ModsDocID="1314-2828-1" ModsDocOrigin="Biodiversity Data Journal 1" ModsDocTitle="A new species of Lygistorrhina Skuse (Diptera: Sciaroidea: Lygistorrhinidae) from South Africa" checkinTime="1382025127422" checkinUser="pensoft" docAuthor="Blagoderov, Vladimir &amp; Papp, Laszlo &amp; Hippa, Heikki" docDate="2013" docId="0144B638FFC4FFCEAC77FF80112DFF8F" docName="BiodivDatJour 1:e962" docOrigin="Biodiversity Data Journal 1" docSource="http://dx.doi.org/10.3897/BDJ.1.e962" docTitle="A new species of Lygistorrhina Skuse (Diptera: Sciaroidea: Lygistorrhinidae) from South Africa" docVersion="5" pageNumber="962" updateTime="1668122277960" updateUser="ExternalLinkService" xmlns:dwc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:tp="http://www.plazi.org/taxpub" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mods:mods>
+<mods:titleInfo>
+<mods:title>A new species of Lygistorrhina Skuse (Diptera: Sciaroidea: Lygistorrhinidae) from South Africa</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Blagoderov, Vladimir</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Papp, Laszlo</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Hippa, Heikki</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Biodiversity Data Journal</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>1</mods:number>
+</mods:detail>
+<mods:date>2013</mods:date>
+<mods:extent unit="page">
+<mods:start>962</mods:start>
+<mods:end>962</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://dx.doi.org/10.3897/BDJ.1.e962</mods:url>
+</mods:location>
+<mods:identifier type="DOI">http://dx.doi.org/10.3897/BDJ.1.e962</mods:identifier>
+<mods:identifier type="Pensoft-Pub">1314-2828-1</mods:identifier>
+<mods:classification>journal article</mods:classification>
+</mods:mods>
+<subSection pageId="0" pageNumber="962" type="introduction">
+<paragraph pageId="0" pageNumber="962">
+<pageBreakToken origin="extrapolated" pageId="0" pageNumber="962" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph pageId="0" pageNumber="962">
+<taxonomicName familia="Lygistorrhinidae" family="Lygistorrhinidae" lsidName="" pageId="0" pageNumber="962" rank="familia">Lygistorrhinidae</taxonomicName>
+is a small family of fungus gnats (
+<taxonomicName genus="Diptera" lsidName="Diptera" ordo="Diptera" pageId="0" pageNumber="962" rank="ordo">Diptera</taxonomicName>
+, 
+<taxonomicName genus="Sciaroidea" lsidName="Sciaroidea" pageId="0" pageNumber="962" rank="superfamilia" superfamilia="Sciaroidea">Sciaroidea</taxonomicName>
+) represented by 15 genera and 41 species (http://sciaroidea.info/taxonomy/41555). The genus 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina" pageId="0" pageNumber="962" rank="genus">Lygistorrhina</taxonomicName>
+includes 21 species which are distributed worldwide in tropical and warm temperate regions. Twelve species of the subgenus 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina (Lygistorrhina)" pageId="0" pageNumber="962" rank="subgenus" subgenus="Lygistorrhina">Lygistorrhina (Lygistorrhina</taxonomicName>
+) are known from the Old World (Africa, Eastern Palaearctic, South East Asia, Australasia and Oceania). In addition, an undescribed species of the subgenus was reported from Mexico (
+<bibRefCitation author="Huerta, H." journalOrPublisher="Zootaxa" pageId="0" pageNumber="962" pagination="44 - 52" title="The family Lygistorrhinidae (Diptera: Sciaroidea) in Mexico and the description of two new species" volume="1808" year="2008">Huerta and Ibanez-Bernal 2008</bibRefCitation>
+). Five Afrotropical species of 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina (Lygistorrhina)" pageId="0" pageNumber="962" rank="subgenus" subgenus="Lygistorrhina">Lygistorrhina (Lygistorrhina</taxonomicName>
+) were described from Kenya, Uganda, 
+<normalizedToken originalValue="Côte">Cote</normalizedToken>
+d\'Ivoire, Central African Republic, Gabon, Democratic Republic of Congo and Comoros (
+<bibRefCitation author="Matile, L" journalOrPublisher="Memoires du Museum National d'Histoire Naturelle Serie A Zoologie" pageId="0" pageNumber="962" pagination="247 - 370" title="Dipteres Mycetophilidae de l'archipel des Comores" volume="109" year="1978">Matile 1978</bibRefCitation>
+, 
+<bibRefCitation author="Matile, L" journalOrPublisher="Annales de la Societe Entomologique de France" pageId="0" pageNumber="962" pagination="359 - 370" title="Les Lygistorrhinidae de la region afrotropicale (Diptera: Mycetophiloidea)" volume="26" year="1990">Matile 1990</bibRefCitation>
+, 
+<bibRefCitation author="Matile, L" journalOrPublisher="Revue Francaise d'Entomologie" pageId="0" pageNumber="962" pagination=": 30" title="Une nouvelle espece afrotropicale du genre Lygistorrhina Skuse (Diptera, Mycetophiloidea, Lygistorrhinidae)" volume="18" year="1996">Matile 1996</bibRefCitation>
+). In addition, an unnamed species is known from Madagascar (
+<bibRefCitation author="Matile, L" journalOrPublisher="Revue Francaise d'Entomologie" pageId="0" pageNumber="962" pagination=": 30" title="Une nouvelle espece afrotropicale du genre Lygistorrhina Skuse (Diptera, Mycetophiloidea, Lygistorrhinidae)" volume="18" year="1996">Matile 1996</bibRefCitation>
+). In this paper we describe a new species of 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina" pageId="0" pageNumber="962" rank="genus">Lygistorrhina</taxonomicName>
+from South Africa in course of preparation of the chapter on 
+<taxonomicName familia="Lygistorrhinidae" family="Lygistorrhinidae" lsidName="" pageId="0" pageNumber="962" rank="familia">Lygistorrhinidae</taxonomicName>
+for the Manual of Afrotropical 
+<taxonomicName genus="Diptera" lsidName="Diptera" ordo="Diptera" pageId="0" pageNumber="962" rank="ordo">Diptera</taxonomicName>
+.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="962" type="materials|methods">
+<paragraph pageId="0" pageNumber="962">Materials and methods</paragraph>
+<paragraph pageId="0" pageNumber="962">
+Descriptive terminology follows 
+<bibRefCitation author="Soeli, Geir E. E." journalOrPublisher="Entomologica Scandinavica Supplement" pageId="0" pageNumber="962" pagination="5 - 55" title="The adult morphology of Mycetophilidae (s. str.), with a tentative phylogeny of the family (Diptera, Sciaroidea)" volume="50" year="1997">
+<normalizedToken originalValue="Söli">Soeli</normalizedToken>
+1997
+</bibRefCitation>
+and vein nomenclature 
+<bibRefCitation author="Shcherbakov, D. E." journalOrPublisher="Dipterolodical Research" pageId="0" pageNumber="962" pagination="75 - 115" title="Triassic Diptera and initial radiation of the order" volume="6" year="1995">Shcherbakov et al. 1995</bibRefCitation>
+. Images of the pinned holotype were taken with an Olympus CP350 compact camera and eyepiece adapter on a stereomicroscope at the Hungarian Museum of Narural History, Budapest (HMNH). Paratypes were originally pinned; one of them was dissected, its wings mounted without media on a microscope slide, and the body was cleared in KOH and stored in glycerol. Details of the paratype were imaged in the Sackler Biodiversity Imaging Lab at the Natural History Museum, London by us of a Canon 450D camera attached to Zeiss Axioskop compound microscope. Additional images and materials are available at the Fungus Gnats Online web-site. All types are held in the HMNH.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="962" type="taxon treatments">
+<paragraph pageId="0" pageNumber="962">Taxon treatments</paragraph>
+</subSection>
+<treatmentDuplicate pageId="0" pageNumber="962">
+<subSubSection pageId="0" pageNumber="962" type="multiple">
+<paragraph pageId="0" pageNumber="962">Rank: Species Type of treatment: New taxon extant Habitat: terrestrial Root classification: 8</paragraph>
+</subSubSection>
+<subSubSection pageId="0" pageNumber="962" type="nomenclature">
+<paragraph pageId="0" pageNumber="962">
+<taxonomicName LSID="urn:lsid:zoobank.org:act:FA4CBFA7-1879-43C4-B277-74490A772FDD" genus="Lygistorrhina" lsidName="Lygistorrhina austroafricana" pageId="0" pageNumber="962" rank="species" species="austroafricana">Lygistorrhina austroafricana Blagoderov, Papp &amp; Hippa, 2013</taxonomicName>
+<taxonomicNameLabel pageId="0" pageNumber="962">sp. n.</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection pageId="0" pageNumber="962" type="materials_examined">
+<paragraph pageId="0" pageNumber="962">Materials</paragraph>
+<paragraph pageId="0" pageNumber="962">
+<materialsCitation collectingDate="2007-01-14/16" collectionCode="HMNH" collectorName="L. Papp &amp; M. Foeldvari" country="South Africa" location="South Africa" pageId="0" pageNumber="962" specimenCode="FGO 50909" specimenCount="1" specimenCount-male="1" typeStatus="Holotype">
+Type status: 
+<typeStatus pageId="0" pageNumber="962">Holotype</typeStatus>
+Occurrence: catalogNumber: 
+<specimenCode pageId="0" pageNumber="962">FGO50909</specimenCode>
+; recordedBy: 
+<collectorName pageId="0" pageNumber="962">
+L. Papp &amp; M. 
+<normalizedToken originalValue="Földvári">Foeldvari</normalizedToken>
+</collectorName>
+; individualCount: 
+<specimenCount pageId="0" pageNumber="962">1</specimenCount>
+; 
+<specimenType>sex: male</specimenType>
+; Location: country: 
+<collectingCountry pageId="0" pageNumber="962">South Africa</collectingCountry>
+; stateProvince: Eastern Cape Province; verbatimLocality: Bloukrans Pass, in a side valley; verbatimElevation: 70 m; verbatimLatitude: 33° 57\'09.6&quot; S; verbatimLongitude: 23° 37\' 59.4&quot; E; Event: eventDate: 
+<collectingDate pageId="0" pageNumber="962" value="2007-01-14/16">2007-01-14/16</collectingDate>
+; Record Level: institutionCode: 
+<collectionCode pageId="0" pageNumber="962">HMNH</collectionCode>
+; collectionCode: Diptera
+</materialsCitation>
+</paragraph>
+<paragraph pageId="0" pageNumber="962">
+<materialsCitation collectingDate="2007-01-14/16" collectionCode="HMNH" collectorName="L. Papp &amp; M. Foeldvari" country="South Africa" location="South Africa" pageId="0" pageNumber="962" specimenCode="FGO 50910" specimenCount="2" specimenCount-male="2" typeStatus="Paratype">
+Type status: 
+<typeStatus pageId="0" pageNumber="962">Paratype</typeStatus>
+Occurrence: catalogNumber: 
+<specimenCode pageId="0" pageNumber="962">FGO50910</specimenCode>
+; recordedBy: 
+<collectorName pageId="0" pageNumber="962">
+L. Papp &amp; M. 
+<normalizedToken originalValue="Földvári">Foeldvari</normalizedToken>
+</collectorName>
+; individualCount: 
+<specimenCount pageId="0" pageNumber="962">2</specimenCount>
+; 
+<specimenType>sex: male</specimenType>
+; Location: country: 
+<collectingCountry pageId="0" pageNumber="962">South Africa</collectingCountry>
+; stateProvince: Eastern Cape Province; verbatimLocality: Bloukrans Pass, in a side valley; verbatimElevation: 70 m; verbatimLatitude: 33° 57\'09.6&quot; S; verbatimLongitude: 23° 37\' 59.4&quot; E; Event: eventDate: 
+<collectingDate pageId="0" pageNumber="962" value="2007-01-14/16">2007-01-14/16</collectingDate>
+; Record Level: institutionCode: 
+<collectionCode pageId="0" pageNumber="962">HMNH</collectionCode>
+; collectionCode: Diptera
+</materialsCitation>
+</paragraph>
+<paragraph pageId="0" pageNumber="962">
+<materialsCitation collectingDate="2007-01-14/16" collectionCode="HMNH" collectorName="L. Papp &amp; M. Foeldvari" country="South Africa" location="South Africa" pageId="0" pageNumber="962" specimenCode="FGO 50911" specimenCount="2" specimenCount-male="2" typeStatus="Paratype">
+Type status: 
+<typeStatus pageId="0" pageNumber="962">Paratype</typeStatus>
+Occurrence: catalogNumber: 
+<specimenCode pageId="0" pageNumber="962">FGO50911</specimenCode>
+; recordedBy: 
+<collectorName pageId="0" pageNumber="962">
+L. Papp &amp; M. 
+<normalizedToken originalValue="Földvári">Foeldvari</normalizedToken>
+</collectorName>
+; individualCount: 
+<specimenCount pageId="0" pageNumber="962">2</specimenCount>
+; 
+<specimenType>sex: male</specimenType>
+; Location: country: 
+<collectingCountry pageId="0" pageNumber="962">South Africa</collectingCountry>
+; stateProvince: Eastern Cape Province; verbatimLocality: Bloukrans Pass, in a side valley; verbatimElevation: 70 m; verbatimLatitude: 33° 57\'09.6&quot; S; verbatimLongitude: 23° 37\' 59.4&quot; E; Event: eventDate: 
+<collectingDate pageId="0" pageNumber="962" value="2007-01-14/16">2007-01-14/16</collectingDate>
+; Record Level: institutionCode: 
+<collectionCode pageId="0" pageNumber="962">HMNH</collectionCode>
+; collectionCode: Diptera
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection pageId="0" pageNumber="962" type="description">
+<paragraph pageId="0" pageNumber="962">Description</paragraph>
+<paragraph pageId="0" pageNumber="962">Male. Measurements (mm). Head height 0.38, palpi 0.65, proboscis 1.05, antenna 0.9, thorax length 0.63, thorax height 0.71, metepisternum anterior margin 0.15, posterior margin 0.25; coxa 1 0.53; coxa 2 0.47; coxa 3 0.4; wing 1.9.</paragraph>
+<paragraph pageId="0" pageNumber="962">Colouration. Body, head and antennae entirely dark brownish-grey, almost black, halters yellowish, legs yellowish-brown.</paragraph>
+<paragraph pageId="0" pageNumber="962">Head (Fig. 7) rounded, vertex slightly convex. Head dichoptic, oval. Ommatidia round, very densely set, equal in size. Interocular setae as long as the diameter of ommatidia. Three ocelli, almost in a straight line, equal in size, set each on its own mound, lateral facing to the sides, medial facing forward. Antenna (Fig. 4) with scape 1.3x shorter than wide, with ventral setae, pedicel spherical, with whorl of setae apically, flagellum 14-segmented, moniliform, flagellomeres with length 1.5x the width, covered with setae 0.5x the width of flagellomeres, flagellomeres 1-11 with a few slightly longer dorsal setae. Bases of setae on flagellomeres form round depressions. Circular bases of flagellomere setae connected with folds forming polygonal pattern. Face as long as wide, with ventral and lateral setae. Clypeus rounded at apex, its length 1.5x the width. Palpi long, 0.6x the length of proboscis, tapering, with a single row of setae in apical 2/3. Proboscis evenly curved caudally, its length 2x the length of fore coxa. Lingua of hypopharynx very thin, transparent, tapering, with very thin hair at each side, longest at tip.</paragraph>
+<paragraph pageId="0" pageNumber="962">Thorax, legs, and abdomen uniformly dark brown (Fig. 1). Scutum (Fig. 2) evenly covered with setae of medium length, with longer supraalar setae. Scutellum short, without long setae. Postpronotum apparent, wide. Antepronotum and proepisternum both with 8 setae. Anterior margin of notum well anterior to fore coxa. Ventral margin of preepisternum 2 widely rounded. Metepisternal cleft deep, posterior margin of metepisternum longer than anterior, not extending the level of laterotergite. Laterotergite with a posterior row of 6 long setae. Mediotergite very convex.</paragraph>
+<paragraph pageId="0" pageNumber="962">Wing (Fig. 3) hyaline, moderately wide, costal margin slightly convex. Microtrichia on membrane long (0.02 mm), overlapping. Costa with long setae, ending at 3/4 distance between R5 and M1. Sc ending at C. R1 and R5 slightly sinusoid, setose dorsally and ventrally. Crossveins r-m and tb weak but distinct. M1 and M2 straight, the base of their fork is reduced, M2 begins more proximally than M1. M3+4 and CuA evenly curved caudally, slightly diverging.</paragraph>
+<paragraph pageId="0" pageNumber="962">Legs (Fig. 5). Fore coxa is the longest, mid coxa a little shorter. Tibial and tarsal setae not in rows. Number of tibial spurs on fore, mid and hind tibia 1:2:2, fore tibia tibial spur short, ca. 1.5x the tibia diameter, mid and hind tibial spurs with inner spur longer, 1.7x and 1.4x the outer, respectively. Hind tibia expanded apically. Fore and mid tarsal claws blunt, curved, with a very small incision at apex and setiform curved basal process as long as the claw. Hind tibia claw pointed, almost straight, with shorter basal process.</paragraph>
+<paragraph pageId="0" pageNumber="962">
+Terminalia (Figs 6, 8). Tergite 9 (Figs 6c, d, 8) roughly arrow-shaped with rounded apex, length 0.17 mm, width 0.15 mm, with long scattered setae and a dense patch of short setae at apex. Apodeme of tergite 9 with short, narrow stalk, a little wider that 
+<normalizedToken originalValue="½">1/2</normalizedToken>
+width of the tergite, with two strong semicircular anterior arms. Gonocoxites fused ventrally, with a deep incision, almost reaching the base of synsclerite (Fig. 6b). Synsclerite length 0.2 mm, width 0.26 mm. Gonostyli simple, length 0.13 mm, with a dorsoapical scoop-shaped tooth. Long flagellate setae on mediodorsal edge of gonostylus slightly shorter than gonostylus.
+</paragraph>
+<paragraph pageId="0" pageNumber="962">Female. Unknown.</paragraph>
+</subSubSection>
+<subSubSection pageId="0" pageNumber="962" type="diagnosis">
+<paragraph pageId="0" pageNumber="962">Diagnosis</paragraph>
+<paragraph pageId="0" pageNumber="962">
+The species differs from all Afrotropical species of 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina" pageId="0" pageNumber="962" rank="genus">Lygistorrhina</taxonomicName>
+in being smaller (wing length &lt;2 mm), uniformly coloured very dark brownish-grey to black, and having shorter proboscis, which is at most 2x the length of coxa 1. 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina austroafricana" pageId="0" pageNumber="962" rank="species" species="austroafricana">Lygistorrhina austroafricana</taxonomicName>
+is most similar to 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina edwardsina" pageId="0" pageNumber="962" rank="species" species="edwardsina">Lygistorrhina edwardsina</taxonomicName>
+Grimaldi &amp; Blagoderov, 2001 (
+<bibRefCitation author="Grimaldi, David" journalOrPublisher="Studia dipterologica" pageId="0" pageNumber="962" pagination="43 - 57" title="A new genus of Lygistorrhinidae from Viet Nam (Diptera: Sciaroidea), and phylogenetic relationships in the family" volume="8" year="2001">Grimaldi and Blagoderov 2001</bibRefCitation>
+), but differs in having a wider wing (length/width ratio 2.4 vs 2.7 in 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina edwardsina" pageId="0" pageNumber="962" rank="species" species="edwardsina">Lygistorrhina edwardsina</taxonomicName>
+) with shorter Sc (0.24x the wing length vs 0.33x) and shorter and wider tergite 9, with stronger anterior arms of apodeme. 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina magna" pageId="0" pageNumber="962" rank="species" species="magna">Lygistorrhina magna</taxonomicName>
+Matile, 1996 (
+<bibRefCitation author="Matile, L" journalOrPublisher="Revue Francaise d'Entomologie" pageId="0" pageNumber="962" pagination=": 30" title="Une nouvelle espece afrotropicale du genre Lygistorrhina Skuse (Diptera, Mycetophiloidea, Lygistorrhinidae)" volume="18" year="1996">Matile 1996</bibRefCitation>
+) also has a uniformly dark coloured body and wide apodeme of tergite 9, but it is a much larger fly (wing length 4.8 mm), and tergite 9 apodeme with stem wide and anterior arms not developed.
+</paragraph>
+</subSubSection>
+<subSubSection pageId="0" pageNumber="962" type="etymology">
+<paragraph pageId="0" pageNumber="962">Etymology</paragraph>
+<paragraph pageId="0" pageNumber="962">The specific epithet is an adjective in reference to the place of origin of the specimens.</paragraph>
+</subSubSection>
+<subSubSection pageId="0" pageNumber="962" type="distribution">
+<paragraph pageId="0" pageNumber="962">Distribution</paragraph>
+<paragraph pageId="0" pageNumber="962">South Africa: Eastern Cape.</paragraph>
+</subSubSection>
+</treatmentDuplicate>
+<subSection pageId="0" pageNumber="962" type="identification keys">
+<paragraph pageId="0" pageNumber="962">Identification Keys</paragraph>
+<paragraph pageId="0" pageNumber="962">
+Key to Afrotropical 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina" pageId="0" pageNumber="962" rank="genus">Lygistorrhina</taxonomicName>
+</paragraph>
+<paragraph pageId="0" pageNumber="962">
+<table pageId="0" pageNumber="962" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tr pageId="0" pageNumber="962">
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">1</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">Wings with distinct brown spots</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">2</td>
+</tr>
+<tr pageId="0" pageNumber="962">
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">-</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">Wings hyaline or smoky, without distinct spots; antennae monochromatic, brown or yellow, at least the first four flagellomeres significantly longer than wide</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">3</td>
+</tr>
+<tr pageId="0" pageNumber="962">
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">2</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">
+Antennae flagellomeres 1-4 brown, 5 orange, 6 bright yellow, 7-11 brown, 12 bright yellow, 5-13-14 light brown; flagellomeres 1-4 twice as long as wide, 5-12 - approximately as long as wide. Gonostili slender, with apical tooth length twice its width. 
+<normalizedToken originalValue="Côte">Cote</normalizedToken>
+d\'Ivoire
+</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina hamoni" pageId="0" pageNumber="962" rank="species" species="hamoni">Lygistorrhina hamoni</taxonomicName>
+Matile, 1996
+</td>
+</tr>
+<tr pageId="0" pageNumber="962">
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">-</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">Antennae yellow, with flagellomeres 1-3, 7-11 and 14 brown; flagellomeres with length equal to width, except the last two, which are significantly longer than wide. Gonostyli wide, with apical tooth as long as wide. Gabon, Central African Republic</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina legrandi" pageId="0" pageNumber="962" rank="species" species="legrandi">Lygistorrhina legrandi</taxonomicName>
+Matile, 1990
+</td>
+</tr>
+<tr pageId="0" pageNumber="962">
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">3</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">Wings uniformly brownish</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">4</td>
+</tr>
+<tr pageId="0" pageNumber="962">
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">-</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">Wings hyaline or very faintly smoky at the apex</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">5</td>
+</tr>
+<tr pageId="0" pageNumber="962">
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">4</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">Antennae up to twice the length of the thorax and head together; proboscis yellow; subcosta short obliterated at apex, femora and tibiae brownish yellow, abdominal segments brown with yellowish white edges. Grande Comore</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina nassreddinei" pageId="0" pageNumber="962" rank="species" species="nassreddinei">Lygistorrhina nassreddinei</taxonomicName>
+Matile, 1979
+</td>
+</tr>
+<tr pageId="0" pageNumber="962">
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">-</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">Antennae not longer than head and thorax together; proboscis brown; subcosta longer; ending on costa, femur and tibia dark brown; abdomen uniformly brown. Zaire</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina magna" pageId="0" pageNumber="962" rank="species" species="magna">Lygistorrhina magna</taxonomicName>
+Matile, 1990
+</td>
+</tr>
+<tr pageId="0" pageNumber="962">
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">5</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">Antennae entirely dark</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">6</td>
+</tr>
+<tr pageId="0" pageNumber="962">
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">-</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">Antennae entirely yellow; wings hyaline; tibial spurs II equal and shorter than apical width of tibia; internal tibial spur III twice the width of tibia apex. Madagascar</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina" pageId="0" pageNumber="962" rank="genus">Lygistorrhina</taxonomicName>
+sp. (Matile, 1990: 369)
+</td>
+</tr>
+<tr pageId="0" pageNumber="962">
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">6</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">Wings very weakly smoky at apex; thorax and abdomen brown to dark brown; proboscis 4x the length of coxa I; tergite 9 elongated, its apodeme thin, with narrow stem; internal tibial spur III 3x the width of tibia apex. Uganda, Kenya, Tanzania, Zaire</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina edwardsina" pageId="0" pageNumber="962" rank="species" species="edwardsina">Lygistorrhina edwardsina</taxonomicName>
+Matile, 1990
+</td>
+</tr>
+<tr pageId="0" pageNumber="962">
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">-</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">Wings hyaline; body very dark brown, almost black, proboscis ~2x the length of coxa I; tergite 9 of male roughly rounded, its apodeme very wide and thick; internal tibial spur III 2.4x the width of tibia apex. South Africa</td>
+<td colspan="1" pageId="0" pageNumber="962" rowspan="1">
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina austroafricana" pageId="0" pageNumber="962" rank="species" species="austroafricana">Lygistorrhina austroafricana</taxonomicName>
+sp. n.
+</td>
+</tr>
+</table>
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="962" type="acknowledgements">
+<paragraph pageId="0" pageNumber="962">Acknowledgements</paragraph>
+<paragraph pageId="0" pageNumber="962">Authors are very grateful to all reviewers whose comments helped to improve the paper greatly.</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="962" type="reference_group">
+<paragraph pageId="0" pageNumber="962">References</paragraph>
+<paragraph pageId="0" pageNumber="962">
+<bibRef author="Grimaldi, David" journalOrPublisher="Studia dipterologica" pageId="0" pageNumber="962" pagination="43 - 57" title="A new genus of Lygistorrhinidae from Viet Nam (Diptera: Sciaroidea), and phylogenetic relationships in the family" volume="8" year="2001">
+<author pageId="0" pageNumber="962">Grimaldi, David</author>
+, 
+<author pageId="0" pageNumber="962">Blagoderov, Vladimir</author>
+, 
+<year pageId="0" pageNumber="962">2001</year>
+. 
+<title pageId="0" pageNumber="962">A new genus of Lygistorrhinidae from Viet Nam (Diptera: Sciaroidea), and phylogenetic relationships in the family</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="962">Studia dipterologica</journalOrPublisher>
+<volume pageId="0" pageNumber="962">8</volume>
+: 
+<pagination pageId="0" pageNumber="962">43 - 57</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="962">
+<bibRef author="Huerta, H." journalOrPublisher="Zootaxa" pageId="0" pageNumber="962" pagination="44 - 52" title="The family Lygistorrhinidae (Diptera: Sciaroidea) in Mexico and the description of two new species" volume="1808" year="2008">
+<author pageId="0" pageNumber="962">Huerta, H.</author>
+, 
+<author pageId="0" pageNumber="962">Ibanez-Bernal, S.</author>
+, 
+<year pageId="0" pageNumber="962">2008</year>
+. 
+<title pageId="0" pageNumber="962">The family Lygistorrhinidae (Diptera: Sciaroidea) in Mexico and the description of two new species</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="962">Zootaxa</journalOrPublisher>
+<volume pageId="0" pageNumber="962">1808</volume>
+: 
+<pagination pageId="0" pageNumber="962">44 - 52</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="962">
+<bibRef author="Matile, L" journalOrPublisher="Memoires du Museum National d'Histoire Naturelle Serie A Zoologie" pageId="0" pageNumber="962" pagination="247 - 370" title="Dipteres Mycetophilidae de l'archipel des Comores" volume="109" year="1978">
+<author pageId="0" pageNumber="962">Matile, L</author>
+, 
+<year pageId="0" pageNumber="962">1978</year>
+. 
+<title pageId="0" pageNumber="962">
+<normalizedToken originalValue="Diptères">Dipteres</normalizedToken>
+Mycetophilidae de 
+<normalizedToken originalValue="l’archipel">l'archipel</normalizedToken>
+des Comores
+</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="962">
+<normalizedToken originalValue="Mémoires">Memoires</normalizedToken>
+du Museum National 
+<normalizedToken originalValue="d’Histoire">d'Histoire</normalizedToken>
+Naturelle 
+<normalizedToken originalValue="Série">Serie</normalizedToken>
+A Zoologie
+</journalOrPublisher>
+<volume pageId="0" pageNumber="962">109</volume>
+: 
+<pagination pageId="0" pageNumber="962">247 - 370</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="962">
+<bibRef author="Matile, L" journalOrPublisher="Annales de la Societe Entomologique de France" pageId="0" pageNumber="962" pagination="359 - 370" title="Les Lygistorrhinidae de la region afrotropicale (Diptera: Mycetophiloidea)" volume="26" year="1990">
+<author pageId="0" pageNumber="962">Matile, L</author>
+, 
+<year pageId="0" pageNumber="962">1990</year>
+. 
+<title pageId="0" pageNumber="962">Les Lygistorrhinidae de la region afrotropicale (Diptera: Mycetophiloidea)</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="962">
+Annales de la 
+<normalizedToken originalValue="Sociète">Societe</normalizedToken>
+Entomologique de France
+</journalOrPublisher>
+<volume pageId="0" pageNumber="962">26</volume>
+: 
+<pagination pageId="0" pageNumber="962">359 - 370</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="962">
+<bibRef author="Matile, L" journalOrPublisher="Revue Francaise d'Entomologie" pageId="0" pageNumber="962" pagination=": 30" title="Une nouvelle espece afrotropicale du genre Lygistorrhina Skuse (Diptera, Mycetophiloidea, Lygistorrhinidae)" volume="18" year="1996">
+<author pageId="0" pageNumber="962">Matile, L</author>
+, 
+<year pageId="0" pageNumber="962">1996</year>
+. 
+<title pageId="0" pageNumber="962">
+Une nouvelle 
+<normalizedToken originalValue="espèce">espece</normalizedToken>
+afrotropicale du genre Lygistorrhina Skuse (Diptera, Mycetophiloidea, Lygistorrhinidae)
+</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="962">
+Revue Francaise 
+<normalizedToken originalValue="d’Entomologie">d'Entomologie</normalizedToken>
+</journalOrPublisher>
+<volume pageId="0" pageNumber="962">18</volume>
+<pagination pageId="0" pageNumber="962">: 30</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="962">
+<bibRef author="Shcherbakov, D. E." journalOrPublisher="Dipterolodical Research" pageId="0" pageNumber="962" pagination="75 - 115" title="Triassic Diptera and initial radiation of the order" volume="6" year="1995">
+<author pageId="0" pageNumber="962">Shcherbakov, D. E.</author>
+, 
+<author pageId="0" pageNumber="962">Lukashevich, E. D.</author>
+, 
+<author pageId="0" pageNumber="962">Blagoderov, V. A.</author>
+, 
+<year pageId="0" pageNumber="962">1995</year>
+. 
+<title pageId="0" pageNumber="962">Triassic Diptera and initial radiation of the order</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="962">Dipterolodical Research</journalOrPublisher>
+<volume pageId="0" pageNumber="962">6</volume>
+: 
+<pagination pageId="0" pageNumber="962">75 - 115</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="962">
+<bibRef author="Soeli, Geir E. E." journalOrPublisher="Entomologica Scandinavica Supplement" pageId="0" pageNumber="962" pagination="5 - 55" title="The adult morphology of Mycetophilidae (s. str.), with a tentative phylogeny of the family (Diptera, Sciaroidea)" volume="50" year="1997">
+<author pageId="0" pageNumber="962">
+<normalizedToken originalValue="Söli">Soeli</normalizedToken>
+, Geir E. E.
+</author>
+, 
+<year pageId="0" pageNumber="962">1997</year>
+. 
+<title pageId="0" pageNumber="962">The adult morphology of Mycetophilidae (s. str.), with a tentative phylogeny of the family (Diptera, Sciaroidea)</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="962">Entomologica Scandinavica Supplement</journalOrPublisher>
+<volume pageId="0" pageNumber="962">50</volume>
+: 
+<pagination pageId="0" pageNumber="962">5 - 55</pagination>
+</bibRef>
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="962" type="multiple">
+<caption pageId="0" pageNumber="962">
+<paragraph pageId="0" pageNumber="962">
+Figure 1. 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina austroafricana" pageId="0" pageNumber="962" rank="species" species="austroafricana">Lygistorrhina austroafricana</taxonomicName>
+, photograph of holotype (HMNH - Diptera - FGO50909).
+</paragraph>
+</caption>
+<caption pageId="0" pageNumber="962">
+<paragraph pageId="0" pageNumber="962">
+Figure 2. 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina austroafricana" pageId="0" pageNumber="962" rank="species" species="austroafricana">Lygistorrhina austroafricana</taxonomicName>
+, thorax and abdomen of a paratype (HMNH - Diptera - FGO50910), lateral, photograph. Scale: 0.5 mm.
+</paragraph>
+</caption>
+<caption pageId="0" pageNumber="962">
+<paragraph pageId="0" pageNumber="962">
+Figure 3. 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina austroafricana" pageId="0" pageNumber="962" rank="species" species="austroafricana">Lygistorrhina austroafricana</taxonomicName>
+, wing of a paratype (HMNH - Diptera - FGO50910), photograph. Scale: 0.5 mm.
+</paragraph>
+</caption>
+<caption pageId="0" pageNumber="962">
+<paragraph pageId="0" pageNumber="962">
+Figure 4. 
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina austroafricana" pageId="0" pageNumber="962" rank="species" species="austroafricana">Lygistorrhina austroafricana</taxonomicName>
+, scape and basal flagellomeres of a paratype (HMNH - Diptera - FGO50910), photograph. Scale: 0.1 mm.
+</paragraph>
+</caption>
+<caption pageId="0" pageNumber="962">
+<paragraph pageId="0" pageNumber="962">
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina austroafricana" pageId="0" pageNumber="962" rank="species" species="austroafricana">Lygistorrhina austroafricana</taxonomicName>
+, legs of a paratype (HMNH - Diptera - FGO50910), photograph. Scale: 0.1 mm. Figure 5a. Figure 5b. Figure 5c. Figure 5d.
+</paragraph>
+</caption>
+<caption pageId="0" pageNumber="962">
+<paragraph pageId="0" pageNumber="962">
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina austroafricana" pageId="0" pageNumber="962" rank="species" species="austroafricana">Lygistorrhina austroafricana</taxonomicName>
+, male terminalia of a paratype (HMNH - Diptera - FGO50910), photograph. Figure 6a. Figure 6b. Figure 6c. Figure 6d.
+</paragraph>
+</caption>
+<caption pageId="0" pageNumber="962">
+<paragraph pageId="0" pageNumber="962">
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina austroafricana" pageId="0" pageNumber="962" rank="species" species="austroafricana">Lygistorrhina austroafricana</taxonomicName>
+, head, line drawing. Scale: 0.5 mm. Figure 7a. Figure 7b.
+</paragraph>
+</caption>
+<caption pageId="0" pageNumber="962">
+<paragraph pageId="0" pageNumber="962">
+<taxonomicName genus="Lygistorrhina" lsidName="Lygistorrhina austroafricana" pageId="0" pageNumber="962" rank="species" species="austroafricana">Lygistorrhina austroafricana</taxonomicName>
+, male terminalia, line drawing. Scale: 0.1 mm (a, c-f), 0.05 mm (b). Figure 8a. Figure 8b. Figure 8c. Figure 8d. Figure 8e. Figure 8f.
+</paragraph>
+</caption>
+</subSection>
+</document>

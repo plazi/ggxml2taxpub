@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?><document xmlns:dwc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:tp="http://www.plazi.org/taxpub" xmlns:xlink="http://www.w3.org/1999/xlink" ID-DOI="http://dx.doi.org/10.3897/zookeys.56.527" ID-PMC="PMC3088333" ID-PubMed="21594181" ModsDocAuthor="R. LaBonte, James" ModsDocDate="2010" ModsDocID="1313-2970-56" ModsDocOrigin="ZooKeys 56 (2010)" ModsDocTitle="The Banded Elm Bark Beetle, Scolytus schevyrewi Semenov (Coleoptera, Curculionidae, Scolytinae) in North America: a taxonomic review and modifications to the Wood (1982) key to the species of Scolytus Geoffroy in North and Central America" checkinTime="1286294434037" checkinUser="pensoft" docAuthor="R. LaBonte, James" docDate="2010" docId="00773087F06C1A199112FED946113342" docName="ZooKeys 56 (2010): 207-218" docOrigin="ZooKeys 56 (2010)" docSource="http://dx.doi.org/10.3897/zookeys.56.527" docTitle="The Banded Elm Bark Beetle, Scolytus schevyrewi Semenov (Coleoptera, Curculionidae, Scolytinae) in North America: a taxonomic review and modifications to the Wood (1982) key to the species of Scolytus Geoffroy in North and Central America" docVersion="4" lastPageNumber="218" pageNumber="207" updateTime="1668162621993" updateUser="ExternalLinkService">
+<mods:mods>
+<mods:titleInfo>
+<mods:title>The Banded Elm Bark Beetle, Scolytus schevyrewi Semenov (Coleoptera, Curculionidae, Scolytinae) in North America: a taxonomic review and modifications to the Wood (1982) key to the species of Scolytus Geoffroy in North and Central America</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>R. LaBonte, James</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>ZooKeys</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>56</mods:number>
+</mods:detail>
+<mods:detail type="issue">
+<mods:number>2010</mods:number>
+</mods:detail>
+<mods:date>2010</mods:date>
+<mods:extent unit="page">
+<mods:start>207</mods:start>
+<mods:end>218</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://dx.doi.org/10.3897/zookeys.56.527</mods:url>
+</mods:location>
+<mods:identifier type="DOI">http://dx.doi.org/10.3897/zookeys.56.527</mods:identifier>
+<mods:identifier type="ZooKeys-Pub">1313-2970-56</mods:identifier>
+</mods:mods>
+<subSection lastPageId="1" lastPageNumber="208" pageId="0" pageNumber="207" type="introduction">
+<paragraph pageId="0" pageNumber="207">
+<pageBreakToken origin="extrapolated" pageId="0" pageNumber="207" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph pageId="0" pageNumber="207">
+A growing number of exotic wood boring or wood associated beetles have recently been found to be established in North America (e.g., 
+<citationReference author="Hoebeke, ER" journalOrPublisher="Entomological News" pageData="267 - 275" pageId="5" pageNumber="212" title="New records of immigrant bark beetles (Coleoptera: Scolytinae) in New York: Attraction of conifer-feeding species to ehtanol-baited trap logs." volume="105" year="1994">Hoebeke 1994</citationReference>
+; 
+<citationReference author="Hoebeke, ER" hostTitle="Animal and Plant Health Inspection Service (APHIS) Pest Alert 81 - 35 - 004." journalOrPublisher="United States Department of Agriculture" pageId="6" pageNumber="213" title="Japanese cedar longhorned beetle in the eastern United States." year="1999">Hoebeke 1999</citationReference>
+; 
+<citationReference author="Maier, CT" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageData="747 - 754" pageId="6" pageNumber="213" title="Discovery of the Small Japanese Cedar Longhorned Beetle, Callidiellum rufipenne (Motschulsky) (Coleoptera: Cerambycidae) in live arbovitae in Connecticut." volume="102" year="2000">Maier and Lemmon 2000</citationReference>
+; 
+<citationReference author="Vandenberg, NJ" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageData="62 - 68" pageId="6" pageNumber="213" title="New records of two Xyleborus (Coleoptera: Scolytinae) in North America." volume="102" year="2000">Vandenberg et al. 2000</citationReference>
+; 
+<citationReference author="Mudge, A" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageData="1011 - 1019" pageId="6" pageNumber="213" title="Exotic woodboring Coleoptera (Micromalthidae, Scolytinae) and Hymenoptera (Xiphydriidae) new to Oregon and Washington." volume="103" year="2001">Mudge et al. 2001</citationReference>
+; 
+<citationReference author="Canadian Food Inspection Agency (CFIA)," journalOrPublisher="National Research Council Research Press, Ottawa, Ontario" pageId="5" pageNumber="212" title="Plant Pest Information, Tetropium fuscum, Brown Spruce Longhorn Beetle." url="http://www.inspection.gc.ca/english/ppc/science/pps/datasheets/tetfuse.shtml" year="2003">CFIA 2002</citationReference>
+; 
+<citationReference pageId="0" pageNumber="207">McCullough and Roberts 2002</citationReference>
+; 
+<citationReference author="LaBonte, JR" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageData="554 - 564" pageId="6" pageNumber="213" title="Nonindigenous woodboring Coleoptera (Cerambycidae, Curculionidae: Scolytinae) new to Oregon and Washington, 1999 - 2002: consequences of tdhe intracontinental movement of raw wood products and solid wood packing materials." volume="107" year="2005">LaBonte et al. 2005</citationReference>
+; 
+<citationReference author="Haack, RA" journalOrPublisher="Canadian Journal of Forest Research" pageData="269 - 288" pageId="5" pageNumber="212" title="Exotic bark- and wood-boring Coleoptera in the United States: recent establishments and interceptions." volume="36" year="2006">Haack 2006</citationReference>
+; 
+<citationReference author="Lee, JC" journalOrPublisher="Journal of Economic Entomology" pageData="829 - 837" pageId="6" pageNumber="213" title="Suitability of pines and other conifers as hosts for the invasive Mediterranean pine engraver, Orthotomicus erosus (Coleoptera: Scolytinae) in North America." volume="101" year="2008">Lee et al. 2008</citationReference>
+). In response to this trend, a multiagency pilot project to detect exotic 
+<taxonomicName lsidName="" pageId="0" pageNumber="207" rank="subFamily" subFamily="Scolytinae">Scolytinae</taxonomicName>
+throughout the United States was initiated in 2001. This program was initially designated the Exotic Forest Pest Early Detection and Rapid Response Program, but is now known as the Early Detection and Rapid Response program, or EDRR (
+<citationReference author="Rabaglia, R" journalOrPublisher="USDA-USFS, Forest Health Protection" pageId="6" pageNumber="213" title="USDA Forest Service Early Detection and Rapid Response Project for non-native bark and ambrosia beetles: summary of the 2001 - 2005 pilot project." year="2008">Rabaglia et al. 2008</citationReference>
+). Since 2007, the EDRR program has been implemented on a national level under the auspices of the USDA Forest Service and, as of 2009, most states in the U.S. have been particpants.
+</paragraph>
+<paragraph pageId="1" pageNumber="208">
+<pageBreakToken pageId="1" pageNumber="208" start="start">As</pageBreakToken>
+the cooperating taxonomist for the western states participating in the 2003 EDRR program, specimens from Lindgren funnel traps used in this survey were sent to me for identification. Early samples from the Denver, Colorado, metropolitan area contained several specimens of a species of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus" pageId="1" pageNumber="208" rank="genus">Scolytus</taxonomicName>
+Geoffroy unfamiliar to me and that I was unable to key to any species in 
+<citationReference author="Wood, SL" journalOrPublisher="Great Basin Naturalist" pageData="1 - 1356" pageId="6" pageNumber="213" title="The bark and ambrosia beetles of North and Central America (Coleoptera: Scolytinae), a taxonomic monograph." volume="6" year="1982">Wood (1982)</citationReference>
+. I consequently sent specimens to Dr. Stephen L. Wood (deceased), Dr. Donald E. Bright (emeritus, Colorado State University, Fort Collins, Colorado) and Dr. Natalia J. Vandenberg (U.S.D.A., Agricultural Research Service, Systematic Entomology Lab, Washington, DC). These taxonomic authorities determined the specimens to be 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="1" pageNumber="208" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+Semenov, an Asian species previously unknown from North America. Shortly thereafter, I found specimens of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="1" pageNumber="208" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+in samples from Ogden, Utah.
+</paragraph>
+<paragraph pageId="1" pageNumber="208">
+Subsequent trapping found this species to be abundant and clearly established in Denver and Ogden. These data stimulated extensive trapping surveysthroughout Colorado and Utah, where it was found at most sites. The realization that 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="1" pageNumber="208" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+was widely distributed in Colorado and Utah prompted several neighboring states to initiate surveys as well. At the end of 2003, 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="1" pageNumber="208" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+had been detected in twelve additional states (
+<citationReference author="Negron, JF" journalOrPublisher="American Entomologist" pageData="84 - 94" pageId="6" pageNumber="213" title="The banded elm bark beetle: a new threat to elms in North America." volume="51" year="2005">Negron et al. 2005</citationReference>
+). By 2008, this supposedly new exotic species had been found from coast to coast in twenty-eight states (with the earliest records from 1994), as well as in southern Canada (
+<citationReference author="Lee, JC" journalOrPublisher="Annals of the Entomological Society of America" pageData="426 - 436" pageId="6" pageNumber="213" title="Co-occurrence of the invasive banded and European elm bark beetles (Coleoptera: Scolytinae) in North America." volume="102" year="2009">Lee et al. 2009</citationReference>
+). As yet, there are no records of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="1" pageNumber="208" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+from Mexico.
+</paragraph>
+</subSection>
+<subSection lastPageId="2" lastPageNumber="209" pageId="1" pageNumber="208" type="materials_methods">
+<paragraph pageId="1" pageNumber="208">Methods</paragraph>
+<paragraph pageId="1" pageNumber="208">
+Existing taxonomic treatments for North American 
+<taxonomicName genus="Scolyus" lsidName="Scolyus" pageId="1" pageNumber="208" rank="genus">Scolyus</taxonomicName>
+(
+<citationReference author="Bright, DE" hostTitle="The insects and arachnids of Canada, part 2, publication 1576." journalOrPublisher="Canada Department of Agriculture, Ottawa, Ontario" pageId="5" pageNumber="212" title="The bark beetles of Canada and Alaska (Coleoptera: Scolytinae)." year="1975">Bright 1975</citationReference>
+; 
+<citationReference author="Wood, SL" journalOrPublisher="Great Basin Naturalist" pageData="1 - 1356" pageId="6" pageNumber="213" title="The bark and ambrosia beetles of North and Central America (Coleoptera: Scolytinae), a taxonomic monograph." volume="6" year="1982">Wood 1982</citationReference>
+; 
+<citationReference author="Furniss, MM" journalOrPublisher="University of Idaho, Moscow, Idaho" pageId="5" pageNumber="212" title="Field guide to the bark beetles of Idaho and adjacent regions." year="2002">Furniss and Johnson 2002</citationReference>
+) do not include 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="1" pageNumber="208" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+as it was unknown from this continent when those were published. Shortly after the detection of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="1" pageNumber="208" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+in Colorado and Utah, an image-based aid to the identification of this species was placed on the Purdue University 
+<citationReference author="National Agricultural Pest Information System (NAPIS).," journalOrPublisher="Proceedings of the Entomological Society of Washington" pageId="6" pageNumber="213" url="http://ceris.purdue.edu/napis/" year="2001">NAPIS (National Agricultural Pest Information Site)</citationReference>
+website (
+<citationReference author="LaBonte, JR" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageId="6" pageNumber="213" url="http://ceris.purdue.edu/napis/pests/barkb/index.htmlschevy" year="2003">LaBonte et al. 2003</citationReference>
+). This aid is more streamlined than the following modifications to the 
+<citationReference author="Wood, SL" journalOrPublisher="Great Basin Naturalist" pageData="1 - 1356" pageId="6" pageNumber="213" title="The bark and ambrosia beetles of North and Central America (Coleoptera: Scolytinae), a taxonomic monograph." volume="6" year="1982">Wood (1982)</citationReference>
+key and emphasizes the differences between 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="1" pageNumber="208" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+and 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="1" pageNumber="208" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+(Marsham)because the latter is much more apt to be encountered in surveys than is 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="1" pageNumber="208" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+(Swaine). However, this early treatment is incomplete as it does not include some diagnostic characters subsequently found nor was the range of variation of some characters recognized.
+</paragraph>
+<paragraph pageId="1" pageNumber="208">
+The diagnostic characters used to differentiate 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="1" pageNumber="208" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+from other species of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus" pageId="1" pageNumber="208" rank="genus">Scolytus</taxonomicName>
+are mainly based on specimens acquired via the EDRR project and a variety of wood boring insect surveillance programs, most funded via the USDA Cooperative Agricultural Pest Survey (CAPS) program. I have examined over 7,600 specimens of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="1" pageNumber="208" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+from these surveys.
+</paragraph>
+<paragraph pageId="2" pageNumber="209">
+<pageBreakToken pageId="2" pageNumber="209" start="start">Distinguishing</pageBreakToken>
+Scolytus schevyrewi from other species of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus" pageId="2" pageNumber="209" rank="genus">Scolytus</taxonomicName>
+in North and Central America
+</paragraph>
+<paragraph pageId="2" pageNumber="209">
+The following modifications to 
+<normalizedToken originalValue="Wood’s">Wood's</normalizedToken>
+(1982) key to the species of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus" pageId="2" pageNumber="209" rank="genus">Scolytus</taxonomicName>
+in North and Central America will serve to identify typical specimens of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+. Very little of the text in his key remains in the couplets below, other than the distributions, hosts, and size ranges for species dealt with therein. Several characters used in his key to discriminate among these species are not used because they are unnecessary or lead to an unduly cumbersome key, are too variable, or cannot be accurately assessed without reliably identified reference specimens, a resource many users of this key will lack. These characters can include the relative sizes of interstrial and strial punctures, whether the elytral interstriae are impressed, and subtle differences in size among abdominal sternal punctures.
+</paragraph>
+<paragraph pageId="2" pageNumber="209">
+<table xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pageId="2" pageNumber="209">
+<tr pageId="2" pageNumber="209">
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">8(7).</td>
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">
+Sternum 2 with base of spine touching its anterior margin (Fig. 1); posterolateral margins of sterna 2-4 each bearing small, distinct, sharply pointed tubercles (those on sternum 4 often obscured by elytra) (Fig. 2); median posterior margin of sternum 1 convex (Fig. 3); elytra unicolorous brown (Fig. 4); British Columbia and Nova Scotia to California and Florida to California and Florida; 
+<taxonomicName genus="Ulmus" lsidName="Ulmus" pageId="2" pageNumber="209" rank="genus">Ulmus</taxonomicName>
+; 1.9-3.1 mm (dorsal habitus Fig. 4, lateral habitus Fig. 5)
+</td>
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="2" pageNumber="209" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+(Marsham)
+</td>
+</tr>
+<tr pageId="2" pageNumber="209">
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">-</td>
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">Sternum 2 with base of spine remote from its anterior margin (Figs 6, 7); posterolateral margins of sterna 2-4 lacking tubercles (Figs 6, 8); median posterior margin of sternum 1 convex (Fig. 9) or concavely truncate (Fig. 10); in coniferous or deciduous hosts</td>
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">9</td>
+</tr>
+<tr pageId="2" pageNumber="209">
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">9(8).</td>
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">Spine on sternum 2 with base remote from posterior margin of segment (Figs 6, 7)</td>
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">9a</td>
+</tr>
+<tr pageId="2" pageNumber="209">
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">-</td>
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">Spine on sternum 2 in contact with posterior margin of segment (Figs 11, 12)</td>
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">10</td>
+</tr>
+<tr pageId="2" pageNumber="209">
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">9a.</td>
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">
+Spine on sternum 2 narrowly conical and sometimes pointed at apex in lateral (Fig. 6), ventral (Fig. 9), and apical (Fig. 13) views; median posterior margin of sternum 1 convex (Fig. 9); last abdominal sternum with transverse carinae distant from apex (Fig. 13); elytra unicolorous brown (Figs 14, 15); interstriae not impressed and diameter of interstrial punctures less than those of striae (Fig. 14); pronotum dark with at most very narrow pale banding along anterior and posterior margins (Fig. 15); Alaska and Nova Scotia to California and New York; 
+<taxonomicName genus="Picea" lsidName="Picea" pageId="2" pageNumber="209" rank="genus">Picea</taxonomicName>
+and, rarely, 
+<taxonomicName genus="Larix" lsidName="Larix" pageId="2" pageNumber="209" rank="genus">Larix</taxonomicName>
+; 2.2-2.8 mm (dorsal habitus Fig. 15, lateral habitus Fig. 16)
+</td>
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">
+7. 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="2" pageNumber="209" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+(Swaine)
+</td>
+</tr>
+<tr pageId="2" pageNumber="209">
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">-</td>
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">Spine on sternum 2 variable, from almost absent to strongly developed, but most often broadly conical and blunt at apex in lateral view (Figs 17-20), apex often broader than base in ventral view (Fig. 10) and flattened in apical view (Fig. 21); occasional aberrant specimens with a spine on sternum 2 and a second spine on sternum 3 (Figs 22, 23); median posterior margin of sternum 1 emarginate or truncate (Fig. 10); last abdominal sternum with transverse carina very near apex (Fig. 21); elytra almost always with dark median band, with bases and apices pale (Figs 24, 25) although this band may be indistinct (Fig. 26); interstriae often impressed and diameter of interstrial punctures subequal to those of striae (Fig. 27); pronotum generally with relatively extensive pale coloration (Figs 24-26); currently known from most of the coterminous states in the U.S.A. (except for the southeastern states) and from southern Canada; deciduous hosts (known only from Ulmus in North America); 2.7-4.3 mm (dorsal habitus Figs 24-26, lateral habitus Fig. 28) (not in Wood 1982)</td>
+<td colspan="1" pageId="2" pageNumber="209" rowspan="1">
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+Semenov
+</td>
+</tr>
+</table>
+</paragraph>
+<caption pageId="2" pageNumber="209">
+<paragraph pageId="2" pageNumber="209">
+Fugires 1-5. 1 Lateral view of spine on abdominal sternum 2 of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="2" pageNumber="209" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+2 Lateral view of abdominal sterna of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="2" pageNumber="209" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+, showing lateral tubercles 3 Ventral view of abdominal sterna of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="2" pageNumber="209" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+4 Dorsal habitus of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="2" pageNumber="209" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+5 Lateral habitus of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="2" pageNumber="209" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+.
+</paragraph>
+</caption>
+<caption pageId="2" pageNumber="209">
+<paragraph pageId="2" pageNumber="209">
+Fugires 6-10. 1 Lateral view of abdominal sterna of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="2" pageNumber="209" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+7 Lateral view of abdominal sterna of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+8 Oblique lateral view of abdominal sterna of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+9 Ventral view of abdominal sterna of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="2" pageNumber="209" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+10 Ventral view of abdominal sterna of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+.
+</paragraph>
+</caption>
+<caption pageId="2" pageNumber="209">
+<paragraph pageId="2" pageNumber="209">
+Fugires 11-12. 11 Oblique lateral view of abdominal sterna of female 
+<taxonomicName genus="Scolytus" lsidName="Scolytus unispinosus" pageId="2" pageNumber="209" rank="species" species="unispinosus">Scolytus unispinosus</taxonomicName>
+LeConte 12 Oblique lateral view of abdominal sterna of male 
+<taxonomicName genus="Scolytus" lsidName="Scolytus unispinosus" pageId="2" pageNumber="209" rank="species" species="unispinosus">Scolytus unispinosus</taxonomicName>
+LeConte.
+</paragraph>
+</caption>
+<caption pageId="2" pageNumber="209">
+<paragraph pageId="2" pageNumber="209">
+Fugires 13-16. 13 Posterior view of abdominal sterna of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="2" pageNumber="209" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+14 Dorsal view of left elytron of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="2" pageNumber="209" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+15 Dorsal habitus of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="2" pageNumber="209" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+16 Lateral habitus of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="2" pageNumber="209" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+.
+</paragraph>
+</caption>
+<caption pageId="2" pageNumber="209">
+<paragraph pageId="2" pageNumber="209">
+Figures 17-27. 17-20 Variation in spine on abdominal sternum 2 of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+21 Posterior view of abdominal sterna of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+22 Lateral view of abdominal sterna of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+with two abdominal spines 23 Posterior view of abdominal sterna of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+with two abdominal spines 24-26 Dorsal habitus and variation in elytral and pronotal coloration of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+27 Dorsal view of left elytron of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+.
+</paragraph>
+</caption>
+<caption pageId="2" pageNumber="209">
+<paragraph pageId="2" pageNumber="209">
+Fugire 28. Lateral habitus of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+.
+</paragraph>
+</caption>
+</subSection>
+<subSection lastPageId="4" lastPageNumber="211" pageId="2" pageNumber="209" type="Diagnostic summary and character variation">
+<paragraph pageId="2" pageNumber="209">Diagnostic summary and character variation</paragraph>
+<paragraph pageId="2" pageNumber="209">
+Typical specimens of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+cannot be easily confused with any other species of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus" pageId="2" pageNumber="209" rank="genus">Scolytus</taxonomicName>
+known from North America. The shape and position of the spine on sternum 2 (Figs 7-8, 10, 17-21), especially in males, and typical coloration (Figs 24-26) are unique relative to all other North American species. However, this is a highly variable species and it is advisable to use a suite of characters for its identification. The following elaboration on variation in 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+is based upon the examination of thousands of specimens of that species and of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="2" pageNumber="209" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+, the species most apt to be confused with 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+.
+</paragraph>
+<paragraph pageId="2" pageNumber="209">
+There can be great variation in the shape and position of the spine on sternum 2. Males most often have the spine well developed, with a blunt apex that is broader than the base, appearing triangular in ventral view (Fig. 10). Especially with females, this feature can be variously reduced, becoming almost absent in the most extreme cases (Fig. 20). Reduction of the spine can lead to possible confusion with specimens of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="2" pageNumber="209" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+that have malformed or broken spines, which are not uncommon in large series thereof. However, as indicated previously, in 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schervyrewi" pageId="2" pageNumber="209" rank="species" species="schervyrewi">Scolytus schervyrewi</taxonomicName>
+, the base of the spine on sternum 2 is remote from the anterior margin, almost at the center, whereas in 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="2" pageNumber="209" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+the base of the spine is in contact with the anterior margin. Some 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+, especially those with larger spines, can have the base of the spine positioned anterior of the center of sternum 2, compounding the possibility of confusion with aberrant 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="2" pageNumber="209" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+. Inadequately cleaned 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="2" pageNumber="209" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+may have debris under the base of the spine, which can make its lateral appearance broader than is the case. An extreme example of abdominal spine variation in 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+is exhibited in a male from California (courtesy of R.L. Penrose, California Department of Food and Agriculture) (Figs 22, 23). In this instance, a second, accessory, sharply conical spine is present on the third abdominal sternum. This spine is asymmetrically positioned (Fig. 23), leading to my conclusion that this specimen represents a developmental aberration rather than a different species. In all other respects, this specimen appears to be a typical 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="2" pageNumber="209" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+.
+</paragraph>
+<paragraph pageId="3" pageNumber="210">
+<pageBreakToken pageId="3" pageNumber="210" start="start">The</pageBreakToken>
+elytron of a normal 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="3" pageNumber="210" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+is distinctively colored, with a variably developed median dark band and the base and apex distinctly pale (Figs 24, 25). This character enables rapid identification of this species as no other North American species has this color pattern. The dark median band is best observed in well dried specimens; it can be obscured in specimens still damp from collecting in liquid or storage in alcohol. However, there are occasional specimens with apparently unicolorous dark or pale elytra (Fig. 26). Some samples exhibited higher proportions of these unicolorous specimens, but probably less than 10%. The existence of individuals with concolorous elytra dictates caution in complete reliance upon color for identification of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="3" pageNumber="210" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+, as both 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="3" pageNumber="210" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+and 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="3" pageNumber="210" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+normally have concolorous elytra. Some 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="3" pageNumber="210" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+also have elytra with dark apices and bases, with pale median areas.
+</paragraph>
+<paragraph pageId="3" pageNumber="210">
+The pronotum of a typically colored 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="3" pageNumber="210" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+is also distinctively colored, with relatively extensive areas of pale coloration (Figs 24-26). The extent of the pale areas is highly variable. The most common pattern is a fairly broad pale band along the posterior margin with a somewhat narrower pale band along the anterior margin (Figs 24, 25). Many specimens have the pale coloration extending from the posterior margin into the median area (Fig. 26). This pale coloration can sometimes cover almost the entire dorsum of the pronotum. On the other hand, in some specimens the pronotum is essentially completely dark, with only hints of anterior and posterior pale marginal banding. The extent of pale pronotal coloration appears independent of the size and extent of the median dark elytral band and the darkness of the ground color of the elytra. Several of the specimens of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="3" pageNumber="210" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+<normalizedToken originalValue="I’ve">I've</normalizedToken>
+examined have large, nebulously paler areas in the median area of the pronotum. As with elytral coloration, pronotal coloration should be used with some caution to distinguish 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="3" pageNumber="210" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+from 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="3" pageNumber="210" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+and 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="3" pageNumber="210" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+.
+</paragraph>
+<paragraph pageId="3" pageNumber="210">
+As indicated in the key, specimens of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="3" pageNumber="210" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+average larger than either 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="3" pageNumber="210" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+or 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="3" pageNumber="210" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+. However, small 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="3" pageNumber="210" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+fall within the size range of both of the other species. Furthermore, large 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="3" pageNumber="210" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+approach the size of average or even large 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="3" pageNumber="210" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+.
+</paragraph>
+<paragraph pageId="3" pageNumber="210">
+Specimens of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="3" pageNumber="210" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+have distinct, pointed tubercles or 
+<normalizedToken originalValue="“teeth”">"teeth"</normalizedToken>
+on the posterior lateral margins of sterna 2-4 (Fig. 2). Specimens of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="3" pageNumber="210" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+and 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="3" pageNumber="210" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+lack this feature (Figs 6, 8). This character is occasionally obscured in specimens of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="3" pageNumber="210" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+swollen with liquid preservatives, but it can normally be observed by examining the lateral margins of the sterna from an oblique perspective.
+</paragraph>
+<paragraph pageId="3" pageNumber="210">
+The posterior margin of sternum 2 is distinctly truncate or slightly emarginate in almost all 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="3" pageNumber="210" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+examined (Fig. 10). On the other hand, in 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="3" pageNumber="210" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+(Fig. 3) and 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="3" pageNumber="210" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+(Fig. 9) the posterior margin of sternum 2 is normally slightly to pronouncedly convex and in 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="3" pageNumber="210" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+is often slightly produced at the base of the spine (Fig. 3).
+</paragraph>
+<paragraph pageId="3" pageNumber="210">
+The elytron of a 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="3" pageNumber="210" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+specimen in good condition typically displays three rows of relatively stout, long, discal setae that are about twice as long as the width of the elytral intervals (Figs 24-26). The elytra of most 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="3" pageNumber="210" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+lack distinct rows of discal setae, although there are generally setae at the elytral apices and there may be discal setae (Fig. 4). If discal setae are present, they are generally scattered, are less stout than those of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="3" pageNumber="210" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+and are shorter, about as long as the width of the elytral intervals. Of the small series of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="3" pageNumber="210" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+examined, most lacked discal setae (Fig. 14). A few specimens had a row of 3 or 4 discal setae on interval 7, but these setae were short and fine, similar to those of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="3" pageNumber="210" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+.
+</paragraph>
+<paragraph pageId="4" pageNumber="211">
+<pageBreakToken pageId="4" pageNumber="211" start="start">On</pageBreakToken>
+visble abdominal sterna 3-5, the setae of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="4" pageNumber="211" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+are short and recumbant (Figs 8, 10). Those of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus piceae" pageId="4" pageNumber="211" rank="species" species="piceae">Scolytus piceae</taxonomicName>
+are even shorter, often difficult to discern, and are also recumbant (Figs 6, 9). In contrast, specimens of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="4" pageNumber="211" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+often have long, semi-erect setae on these sterna, especially on sternum 5 (Figs 2, 3).
+</paragraph>
+<paragraph pageId="4" pageNumber="211">
+In summary, a suite of characters is best used to reliably identify 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="4" pageNumber="211" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+. Especiallly with regard to 
+<taxonomicName genus="Scolytus" lsidName="Scolytus multistriatus" pageId="4" pageNumber="211" rank="species" species="multistriatus">Scolytus multistriatus</taxonomicName>
+, these include (more or less in order of reliability and ease of assessment) the shape and position of the spine on sternum 2, normal elytral and pronotal coloration, the absence of lateral teeth on sterna 2-4, average size, the truncate or slightly emarginate posterior margin of sternum 2, relatively abundant and large discal elytral setae, and short, recumbant setae on sterna 3-5.
+</paragraph>
+</subSection>
+<subSection pageId="4" pageNumber="211" type="Discussion">
+<paragraph pageId="4" pageNumber="211">Discussion</paragraph>
+<paragraph pageId="4" pageNumber="211">
+The U.S. specimens collected prior to 2003, along with the extensive U.S. distribution of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="4" pageNumber="211" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+and its great abundance in many areas, provide ample evidence that this exotic species is not new to the U.S. but is instead a legacy species that has been present for decades. Such legacy species, e.g., 
+<taxonomicName genus="Xyleborinus" lsidName="Xyleborinus alni" pageId="4" pageNumber="211" rank="species" species="alni">Xyleborinus alni</taxonomicName>
+(Niisima) (
+<citationReference author="Mudge, A" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageData="1011 - 1019" pageId="6" pageNumber="213" title="Exotic woodboring Coleoptera (Micromalthidae, Scolytinae) and Hymenoptera (Xiphydriidae) new to Oregon and Washington." volume="103" year="2001">Mudge et al. 2001</citationReference>
+; 
+<citationReference author="LaBonte, JR" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageData="554 - 564" pageId="6" pageNumber="213" title="Nonindigenous woodboring Coleoptera (Cerambycidae, Curculionidae: Scolytinae) new to Oregon and Washington, 1999 - 2002: consequences of tdhe intracontinental movement of raw wood products and solid wood packing materials." volume="107" year="2005">LaBonte et al. 2005</citationReference>
+; 
+<citationReference author="Hoebeke, ER" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageData="240 - 248" pageId="6" pageNumber="213" title="First reported occurrence of Xyleborinus alni (Coleoptera: Curculionidae: Scolytinae) in the eastern United States, with notes on its recognition and tree hosts." volume="109" year="2007">Hoebeke and Rabaglia 2007</citationReference>
+), are probably more often the norm for newly detected exotic wood boring insects than otherwise. This is a consequence of the current surveillance technology, the limited survey efforts of the past, and the limited taxonomic expertise available to deal with the many thousands of specimens generated by current surveys.
+</paragraph>
+<paragraph pageId="4" pageNumber="211">
+There are profound taxonomic challenges presented by the remaining pool of undetected legacy species, truly newly introduced exotics, and the onslaught of continued new introductions as a consequence of global trade. Almost all existing taxonomic works for scolytines in North America, let alone other taxa of wood boring or wood associated insects, quite reasonably treat only those species previously known from this continent. The taxonomic infrastructure available to support surveillance for a wide spectrum of exotic wood borers has been eroding for decades and may have declined below critical and self sustaining levels. New technologies, such as extended depth of field macroscopy and LUCID (TM) go far to bridge this taxonomic impediment, e.g., a recent guide to the North American 
+<taxonomicName family="Siricidae" lsidName="" pageId="4" pageNumber="211" rank="family">Siricidae</taxonomicName>
+(
+<citationReference author="Schiff, NM" journalOrPublisher="USDA Forest Service, Forest Health Technology Enterprise Team, Morgantown, West Virginia" pageId="6" pageNumber="213" title="Guide to the siricid woodwasps of North America." year="2006">Schiff et al. 2006</citationReference>
+). Nonetheless, exotic wood boring insects, such as 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi subsp. schevyrewi" pageId="4" pageNumber="211" rank="subSpecies" species="schevyrewi" subSpecies="schevyrewi">Scolytus schevyrewi schevyrewi</taxonomicName>
+, will continue to evade recognition and detection unless substantial funds and resources are devoted to expanding our taxonomic base.
+</paragraph>
+</subSection>
+<subSection pageId="5" pageNumber="212" type="acknowledgements">
+<paragraph pageId="5" pageNumber="212">
+<pageBreakToken pageId="5" pageNumber="212" start="start">Acknowledgements</pageBreakToken>
+</paragraph>
+<paragraph pageId="5" pageNumber="212">
+Stephen L. Wood identified the first EDRR specimens of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi subsp. schevyrewi" pageId="5" pageNumber="212" rank="subSpecies" species="schevyrewi" subSpecies="schevyrewi">Scolytus schevyrewi schevyrewi</taxonomicName>
+. He was also very generous with his time with regard to identifications of other challenging scolytines. North American 
+<taxonomicName lsidName="" pageId="5" pageNumber="212" rank="subFamily" subFamily="Scolytinae">Scolytinae</taxonomicName>
+taxonomy would be unrecognizable without his contributions. I will sorely miss him.
+</paragraph>
+<paragraph pageId="5" pageNumber="212">
+Donald E. Bright, who has also contributed mightily to North American scolytine taxonomy, confirmed Dr. 
+<normalizedToken originalValue="Wood’s">Wood's</normalizedToken>
+identification of the initial EDRR specimens of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="5" pageNumber="212" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+. I am very grateful to him for his generosity and taxonomic support. Natalia J. Vandenberg also confirmed Dr. 
+<normalizedToken originalValue="Wood’s">Wood's</normalizedToken>
+initial identification.
+</paragraph>
+<paragraph pageId="5" pageNumber="212">My long-suffering friends and colleaagues, E. Richard Hoebeke and Robert J. Rabaglia, reviewed many versions of this manuscript and offered much valuable advice to improve it, as well as relentless prodding me to complete it. Several of my ODA colleagues, especially Joshua A. Vlach, provided valuable insights as well.</paragraph>
+<paragraph pageId="5" pageNumber="212">I am grateful to those USFS colleagues who invited me into the EDRR fold early on, especially Donald A. Duerr and Iral R. Ragenovich.</paragraph>
+<paragraph pageId="5" pageNumber="212">
+I could not have recognized the significant characters and intraspecific variability of 
+<taxonomicName genus="Scolytus" lsidName="Scolytus schevyrewi" pageId="5" pageNumber="212" rank="species" species="schevyrewi">Scolytus schevyrewi</taxonomicName>
+without the extensive set of specimens provided to me through surveys supported through, and in many cases conducted by, USDA APHIS-PPQ and Forest Service. These surveys were also often conducted by colleagues in state agencies of agriculture and forestry, including many of my local colleagues of the Oregon Department of Agriculture.
+</paragraph>
+<paragraph pageId="5" pageNumber="212">Last, but certainly not least, my profound thanks to the Oregon Department of Agriculture for use of our wonderful extended depth of field imaging system and the exemplary talents of Steven A. Valley, who acquired the marvelous images used in this paper.</paragraph>
+</subSection>
+<subSection lastPageId="6" lastPageNumber="213" pageId="5" pageNumber="212" type="reference_group">
+<paragraph pageId="5" pageNumber="212">References</paragraph>
+<paragraph pageId="5" pageNumber="212">
+<citation author="Bright, DE" hostTitle="The insects and arachnids of Canada, part 2, publication 1576." journalOrPublisher="Canada Department of Agriculture, Ottawa, Ontario" pageId="5" pageNumber="212" title="The bark beetles of Canada and Alaska (Coleoptera: Scolytinae)." year="1975">
+<author pageId="5" pageNumber="212">Bright, DE</author>
+,, 
+<year pageId="5" pageNumber="212">1975</year>
+. 
+<title pageId="5" pageNumber="212">The bark beetles of Canada and Alaska (Coleoptera: Scolytinae).</title>
+. In: 
+<hostTitle pageId="5" pageNumber="212">The insects and arachnids of Canada, part 2, publication 1576.</hostTitle>
+. 
+<journalOrPublisher pageId="5" pageNumber="212">Canada Department of Agriculture, Ottawa, Ontario</journalOrPublisher>
+, 241 pp.
+</citation>
+</paragraph>
+<paragraph pageId="5" pageNumber="212">
+<citation author="Bright, DE" journalOrPublisher="National Research Council Research Press, Ottawa, Ontario" pageId="5" pageNumber="212" title="A catalog of Scolytinae and Platypodidae (Coleoptera), Supplement 1 (1990 - 1994)." year="1997">
+<author pageId="5" pageNumber="212">Bright, DE</author>
+, 
+<author pageId="5" pageNumber="212">Skidmore, RE</author>
+, 
+<year pageId="5" pageNumber="212">1997</year>
+. 
+<title pageId="5" pageNumber="212">A catalog of Scolytinae and Platypodidae (Coleoptera), Supplement 1 (1990-1994).</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="212">National Research Council Research Press, Ottawa, Ontario</journalOrPublisher>
+, 368 pp.
+</citation>
+</paragraph>
+<paragraph pageId="5" pageNumber="212">
+<citation author="Bright, DE" journalOrPublisher="National Research Council Research Press, Ottawa, Ontario" pageId="5" pageNumber="212" title="A catalog of Scolytinae and Platypodidae (Coleoptera), Supplement 2 (1995 - 1999)." year="2003">
+<author pageId="5" pageNumber="212">Bright, DE</author>
+, 
+<author pageId="5" pageNumber="212">Skidmore, RE</author>
+, 
+<year pageId="5" pageNumber="212">2003</year>
+. 
+<title pageId="5" pageNumber="212">A catalog of Scolytinae and Platypodidae (Coleoptera), Supplement 2 (1995-1999).</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="212">National Research Council Research Press, Ottawa, Ontario</journalOrPublisher>
+, 523 pp.
+</citation>
+</paragraph>
+<paragraph pageId="5" pageNumber="212">
+<citation author="Canadian Food Inspection Agency (CFIA)," journalOrPublisher="National Research Council Research Press, Ottawa, Ontario" pageId="5" pageNumber="212" title="Plant Pest Information, Tetropium fuscum, Brown Spruce Longhorn Beetle." url="http://www.inspection.gc.ca/english/ppc/science/pps/datasheets/tetfuse.shtml" year="2003">
+<author pageId="5" pageNumber="212">Canadian Food Inspection Agency (CFIA),</author>
+,. 
+<title pageId="5" pageNumber="212">Plant Pest Information, Tetropium fuscum, Brown Spruce Longhorn Beetle.</title>
+. http://www.inspection.gc.ca/english/ppc/science/pps/datasheets/tetfuse.shtml
+</citation>
+</paragraph>
+<paragraph pageId="5" pageNumber="212">
+<citation author="Furniss, MM" journalOrPublisher="University of Idaho, Moscow, Idaho" pageId="5" pageNumber="212" title="Field guide to the bark beetles of Idaho and adjacent regions." year="2002">
+<author pageId="5" pageNumber="212">Furniss, MM</author>
+, 
+<author pageId="5" pageNumber="212">Johnson, JB</author>
+, 
+<year pageId="5" pageNumber="212">2002</year>
+. 
+<title pageId="5" pageNumber="212">Field guide to the bark beetles of Idaho and adjacent regions.</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="212">University of Idaho, Moscow, Idaho</journalOrPublisher>
+, 125 pp.
+</citation>
+</paragraph>
+<paragraph pageId="5" pageNumber="212">
+<citation author="Haack, RA" journalOrPublisher="Canadian Journal of Forest Research" pageData="269 - 288" pageId="5" pageNumber="212" title="Exotic bark- and wood-boring Coleoptera in the United States: recent establishments and interceptions." volume="36" year="2006">
+<author pageId="5" pageNumber="212">Haack, RA</author>
+, 
+<year pageId="5" pageNumber="212">2006</year>
+. 
+<title pageId="5" pageNumber="212">Exotic bark- and wood-boring Coleoptera in the United States: recent establishments and interceptions.</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="212">Canadian Journal of Forest Research</journalOrPublisher>
+<volume pageId="5" pageNumber="212">36</volume>
+: 
+<pageData pageId="5" pageNumber="212">269 - 288</pageData>
+</citation>
+</paragraph>
+<paragraph pageId="5" pageNumber="212">
+<citation author="Hoebeke, ER" journalOrPublisher="Entomological News" pageData="267 - 275" pageId="5" pageNumber="212" title="New records of immigrant bark beetles (Coleoptera: Scolytinae) in New York: Attraction of conifer-feeding species to ehtanol-baited trap logs." volume="105" year="1994">
+<author pageId="5" pageNumber="212">Hoebeke, ER</author>
+, 
+<year pageId="5" pageNumber="212">1994</year>
+. 
+<title pageId="5" pageNumber="212">New records of immigrant bark beetles (Coleoptera: Scolytinae) in New York: Attraction of conifer-feeding species to ehtanol-baited trap logs.</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="212">Entomological News</journalOrPublisher>
+<volume pageId="5" pageNumber="212">105</volume>
+: 
+<pageData pageId="5" pageNumber="212">267 - 275</pageData>
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Hoebeke, ER" hostTitle="Animal and Plant Health Inspection Service (APHIS) Pest Alert 81 - 35 - 004." journalOrPublisher="United States Department of Agriculture" pageId="6" pageNumber="213" title="Japanese cedar longhorned beetle in the eastern United States." year="1999">
+<author pageId="6" pageNumber="213">
+<pageBreakToken pageId="6" pageNumber="213" start="start">Hoebeke</pageBreakToken>
+, ER
+</author>
+,, 
+<year pageId="6" pageNumber="213">1999</year>
+. 
+<title pageId="6" pageNumber="213">Japanese cedar longhorned beetle in the eastern United States.</title>
+. In: 
+<hostTitle pageId="6" pageNumber="213">
+Animal and Plant Health Inspection Service (APHIS) Pest Alert 81
+<normalizedToken originalValue="–35–">-35-</normalizedToken>
+004.
+</hostTitle>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">United States Department of Agriculture</journalOrPublisher>
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Hoebeke, ER" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageData="240 - 248" pageId="6" pageNumber="213" title="First reported occurrence of Xyleborinus alni (Coleoptera: Curculionidae: Scolytinae) in the eastern United States, with notes on its recognition and tree hosts." volume="109" year="2007">
+<author pageId="6" pageNumber="213">Hoebeke, ER</author>
+, 
+<author pageId="6" pageNumber="213">Rabaglia, RJ</author>
+, 
+<year pageId="6" pageNumber="213">2007</year>
+. 
+<title pageId="6" pageNumber="213">First reported occurrence of Xyleborinus alni (Coleoptera: Curculionidae: Scolytinae) in the eastern United States, with notes on its recognition and tree hosts.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">Proceedings of the Entomological Society of Washington</journalOrPublisher>
+<volume pageId="6" pageNumber="213">109</volume>
+: 
+<pageData pageId="6" pageNumber="213">240 - 248</pageData>
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="LaBonte, JR" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageData="554 - 564" pageId="6" pageNumber="213" title="Nonindigenous woodboring Coleoptera (Cerambycidae, Curculionidae: Scolytinae) new to Oregon and Washington, 1999 - 2002: consequences of tdhe intracontinental movement of raw wood products and solid wood packing materials." volume="107" year="2005">
+<author pageId="6" pageNumber="213">LaBonte, JR</author>
+, 
+<author pageId="6" pageNumber="213">Mudge, AD</author>
+, 
+<author pageId="6" pageNumber="213">Johnson, KJR</author>
+, 
+<year pageId="6" pageNumber="213">2005</year>
+. 
+<title pageId="6" pageNumber="213">Nonindigenous woodboring Coleoptera (Cerambycidae, Curculionidae: Scolytinae) new to Oregon and Washington, 1999-2002: consequences of tdhe intracontinental movement of raw wood products and solid wood packing materials.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">Proceedings of the Entomological Society of Washington</journalOrPublisher>
+<volume pageId="6" pageNumber="213">107</volume>
+: 
+<pageData pageId="6" pageNumber="213">554 - 564</pageData>
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="LaBonte, JR" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageId="6" pageNumber="213" url="http://ceris.purdue.edu/napis/pests/barkb/index.htmlschevy" year="2003">
+<author pageId="6" pageNumber="213">LaBonte, JR</author>
+, 
+<author pageId="6" pageNumber="213">Rabaglia,, RJ</author>
+, 
+<author pageId="6" pageNumber="213">Hoebeke,, ER</author>
+, 
+<year pageId="6" pageNumber="213">2003</year>
+.. http://ceris.purdue.edu/napis/pests/barkb/index.html#schevy
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Lee, JC" journalOrPublisher="Annals of the Entomological Society of America" pageData="426 - 436" pageId="6" pageNumber="213" title="Co-occurrence of the invasive banded and European elm bark beetles (Coleoptera: Scolytinae) in North America." volume="102" year="2009">
+<author pageId="6" pageNumber="213">Lee, JC</author>
+, 
+<author pageId="6" pageNumber="213">Aguayo, I</author>
+, 
+<author pageId="6" pageNumber="213">Aslin, R</author>
+, 
+<author pageId="6" pageNumber="213">Durham, G</author>
+, 
+<author pageId="6" pageNumber="213">Hamud, SM</author>
+, 
+<author pageId="6" pageNumber="213">Moltzan, BD</author>
+, 
+<author pageId="6" pageNumber="213">Munson, AS</author>
+, 
+<author pageId="6" pageNumber="213">Negron, JF</author>
+, 
+<author pageId="6" pageNumber="213">Peterson, T</author>
+, 
+<author pageId="6" pageNumber="213">Ragenovich, IR</author>
+, 
+<author pageId="6" pageNumber="213">Witcosky, JJ</author>
+, 
+<author pageId="6" pageNumber="213">Seybold, SJ</author>
+, 
+<year pageId="6" pageNumber="213">2009</year>
+. 
+<title pageId="6" pageNumber="213">Co-occurrence of the invasive banded and European elm bark beetles (Coleoptera: Scolytinae) in North America.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">Annals of the Entomological Society of America</journalOrPublisher>
+<volume pageId="6" pageNumber="213">102</volume>
+: 
+<pageData pageId="6" pageNumber="213">426 - 436</pageData>
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Lee, JC" journalOrPublisher="Journal of Economic Entomology" pageData="829 - 837" pageId="6" pageNumber="213" title="Suitability of pines and other conifers as hosts for the invasive Mediterranean pine engraver, Orthotomicus erosus (Coleoptera: Scolytinae) in North America." volume="101" year="2008">
+<author pageId="6" pageNumber="213">Lee, JC</author>
+, 
+<author pageId="6" pageNumber="213">Flint, ML</author>
+, 
+<author pageId="6" pageNumber="213">and Seybold, SJ</author>
+, 
+<year pageId="6" pageNumber="213">2008</year>
+. 
+<title pageId="6" pageNumber="213">Suitability of pines and other conifers as hosts for the invasive Mediterranean pine engraver, Orthotomicus erosus (Coleoptera: Scolytinae) in North America.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">Journal of Economic Entomology</journalOrPublisher>
+<volume pageId="6" pageNumber="213">101</volume>
+: 
+<pageData pageId="6" pageNumber="213">829 - 837</pageData>
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Maier, CT" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageData="747 - 754" pageId="6" pageNumber="213" title="Discovery of the Small Japanese Cedar Longhorned Beetle, Callidiellum rufipenne (Motschulsky) (Coleoptera: Cerambycidae) in live arbovitae in Connecticut." volume="102" year="2000">
+<author pageId="6" pageNumber="213">Maier, CT</author>
+, 
+<author pageId="6" pageNumber="213">Lemmon, CR</author>
+, 
+<year pageId="6" pageNumber="213">2000</year>
+. 
+<title pageId="6" pageNumber="213">Discovery of the Small Japanese Cedar Longhorned Beetle, Callidiellum rufipenne (Motschulsky) (Coleoptera: Cerambycidae) in live arbovitae in Connecticut.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">Proceedings of the Entomological Society of Washington</journalOrPublisher>
+<volume pageId="6" pageNumber="213">102</volume>
+: 
+<pageData pageId="6" pageNumber="213">747 - 754</pageData>
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Michalski, J" hostTitle="Polska Akademia Nauk Zaklad Zoologii Systematyczneji." journalOrPublisher="Doswiadczalnej, Panstwowe Wydawnictwo Naukowe., Warsaw, Poland" pageId="6" pageNumber="213" title="Revision of the Palearctic species of the genus Scolytus Geoffroy (Coleoptera, Scolytinae)." year="1973">
+<author pageId="6" pageNumber="213">Michalski, J</author>
+,, 
+<year pageId="6" pageNumber="213">1973</year>
+. 
+<title pageId="6" pageNumber="213">Revision of the Palearctic species of the genus Scolytus Geoffroy (Coleoptera, Scolytinae).</title>
+. In: 
+<hostTitle pageId="6" pageNumber="213">Polska Akademia Nauk Zaklad Zoologii Systematyczneji.</hostTitle>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">Doswiadczalnej, Panstwowe Wydawnictwo Naukowe., Warsaw, Poland</journalOrPublisher>
+, 214 pp.
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Mudge, A" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageData="1011 - 1019" pageId="6" pageNumber="213" title="Exotic woodboring Coleoptera (Micromalthidae, Scolytinae) and Hymenoptera (Xiphydriidae) new to Oregon and Washington." volume="103" year="2001">
+<author pageId="6" pageNumber="213">Mudge, A</author>
+, 
+<author pageId="6" pageNumber="213">LaBonte, JR</author>
+, 
+<author pageId="6" pageNumber="213">Johnson, KJ</author>
+, 
+<author pageId="6" pageNumber="213">LaGasa, EC</author>
+, 
+<year pageId="6" pageNumber="213">2001</year>
+. 
+<title pageId="6" pageNumber="213">Exotic woodboring Coleoptera (Micromalthidae, Scolytinae) and Hymenoptera (Xiphydriidae) new to Oregon and Washington.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">Proceedings of the Entomological Society of Washington</journalOrPublisher>
+<volume pageId="6" pageNumber="213">103</volume>
+: 
+<pageData pageId="6" pageNumber="213">1011 - 1019</pageData>
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="National Agricultural Pest Information System (NAPIS).," journalOrPublisher="Proceedings of the Entomological Society of Washington" pageId="6" pageNumber="213" url="http://ceris.purdue.edu/napis/" year="2001">
+<author pageId="6" pageNumber="213">National Agricultural Pest Information System (NAPIS).,</author>
+,.. http://ceris.purdue.edu/napis/
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Negron, JF" journalOrPublisher="American Entomologist" pageData="84 - 94" pageId="6" pageNumber="213" title="The banded elm bark beetle: a new threat to elms in North America." volume="51" year="2005">
+<author pageId="6" pageNumber="213">Negron, JF</author>
+, 
+<author pageId="6" pageNumber="213">Witcosky, JJ</author>
+, 
+<author pageId="6" pageNumber="213">Cain, RJ</author>
+, 
+<author pageId="6" pageNumber="213">LaBonte, JR</author>
+, 
+<author pageId="6" pageNumber="213">Duerr II, DA</author>
+, 
+<author pageId="6" pageNumber="213">McElwey, SJ</author>
+, 
+<author pageId="6" pageNumber="213">Lee, JC</author>
+, 
+<author pageId="6" pageNumber="213">Seybold, SJ</author>
+, 
+<year pageId="6" pageNumber="213">2005</year>
+. 
+<title pageId="6" pageNumber="213">The banded elm bark beetle: a new threat to elms in North America.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">American Entomologist</journalOrPublisher>
+<volume pageId="6" pageNumber="213">51</volume>
+: 
+<pageData pageId="6" pageNumber="213">84 - 94</pageData>
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Rabaglia, R" journalOrPublisher="USDA-USFS, Forest Health Protection" pageId="6" pageNumber="213" title="USDA Forest Service Early Detection and Rapid Response Project for non-native bark and ambrosia beetles: summary of the 2001 - 2005 pilot project." year="2008">
+<author pageId="6" pageNumber="213">Rabaglia, R</author>
+, 
+<author pageId="6" pageNumber="213">Duerr, D</author>
+, 
+<author pageId="6" pageNumber="213">Acciavatti, R</author>
+, 
+<author pageId="6" pageNumber="213">Ragenovich, I</author>
+, 
+<year pageId="6" pageNumber="213">2008</year>
+. 
+<title pageId="6" pageNumber="213">USDA Forest Service Early Detection and Rapid Response Project for non-native bark and ambrosia beetles: summary of the 2001-2005 pilot project.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">USDA-USFS, Forest Health Protection</journalOrPublisher>
+, 12 pp.
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Schiff, NM" journalOrPublisher="USDA Forest Service, Forest Health Technology Enterprise Team, Morgantown, West Virginia" pageId="6" pageNumber="213" title="Guide to the siricid woodwasps of North America." year="2006">
+<author pageId="6" pageNumber="213">Schiff, NM</author>
+, 
+<author pageId="6" pageNumber="213">Valley, SA</author>
+, 
+<author pageId="6" pageNumber="213">LaBonte, JR</author>
+, 
+<author pageId="6" pageNumber="213">Smith, DR</author>
+, 
+<year pageId="6" pageNumber="213">2006</year>
+. 
+<title pageId="6" pageNumber="213">Guide to the siricid woodwasps of North America.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">USDA Forest Service, Forest Health Technology Enterprise Team, Morgantown, West Virginia</journalOrPublisher>
+, 102 pp.
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Solomon, JD" hostTitle="Agriculture Handbook" journalOrPublisher="United States Deparment of Agriculture, Forest Service., Washington, D. C." pageId="6" pageNumber="213" title="Guide to insect borers in North American broadleaf trees and shrubs." year="1995">
+<author pageId="6" pageNumber="213">Solomon, JD</author>
+,, 
+<year pageId="6" pageNumber="213">1995</year>
+. 
+<title pageId="6" pageNumber="213">Guide to insect borers in North American broadleaf trees and shrubs.</title>
+. In: 
+<hostTitle pageId="6" pageNumber="213">Agriculture Handbook</hostTitle>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">United States Deparment of Agriculture, Forest Service., Washington, D.C.</journalOrPublisher>
+, 706 pp.
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Vandenberg, NJ" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageData="62 - 68" pageId="6" pageNumber="213" title="New records of two Xyleborus (Coleoptera: Scolytinae) in North America." volume="102" year="2000">
+<author pageId="6" pageNumber="213">Vandenberg, NJ</author>
+, 
+<author pageId="6" pageNumber="213">Rabaglia, RJ</author>
+, 
+<author pageId="6" pageNumber="213">Bright, DE</author>
+, 
+<year pageId="6" pageNumber="213">2000</year>
+. 
+<title pageId="6" pageNumber="213">New records of two Xyleborus (Coleoptera: Scolytinae) in North America.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">Proceedings of the Entomological Society of Washington</journalOrPublisher>
+<volume pageId="6" pageNumber="213">102</volume>
+: 
+<pageData pageId="6" pageNumber="213">62 - 68</pageData>
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Wood, SL" journalOrPublisher="Great Basin Naturalist" pageData="1 - 1356" pageId="6" pageNumber="213" title="The bark and ambrosia beetles of North and Central America (Coleoptera: Scolytinae), a taxonomic monograph." volume="6" year="1982">
+<author pageId="6" pageNumber="213">Wood, SL</author>
+, 
+<year pageId="6" pageNumber="213">1982</year>
+. 
+<title pageId="6" pageNumber="213">The bark and ambrosia beetles of North and Central America (Coleoptera: Scolytinae), a taxonomic monograph.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">Great Basin Naturalist</journalOrPublisher>
+<volume pageId="6" pageNumber="213">6</volume>
+: 
+<pageData pageId="6" pageNumber="213">1 - 1356</pageData>
+</citation>
+</paragraph>
+<paragraph pageId="6" pageNumber="213">
+<citation author="Wood, SL" journalOrPublisher="Great Basin Naturalist Memoirs" pageData="1 - 833" pageId="6" pageNumber="213" title="A catalog of Scolytinae and Platypodidae (Coleoptera). Part 2: Taxonomic Index. Vol. A." volume="13" year="1992">
+<author pageId="6" pageNumber="213">Wood, SL</author>
+, 
+<author pageId="6" pageNumber="213">Bright Jr, DE</author>
+, 
+<year pageId="6" pageNumber="213">1992</year>
+. 
+<title pageId="6" pageNumber="213">A catalog of Scolytinae and Platypodidae (Coleoptera). Part 2: Taxonomic Index. Vol. A.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="213">Great Basin Naturalist Memoirs</journalOrPublisher>
+<volume pageId="6" pageNumber="213">13</volume>
+: 
+<pageData pageId="6" pageNumber="213">1 - 833</pageData>
+</citation>
+</paragraph>
+</subSection>
+</document>

@@ -1,0 +1,727 @@
+<document ID-DOI="http://dx.doi.org/10.3897/BDJ.10.e81282" ID-Pensoft-Pub="1314-2828-10-e81282" ID-Pensoft-UUID="01476A9316B05274AA0CEF6224BD04B9" ModsDocID="1314-2828-10-e81282" checkinTime="1651220645644" checkinUser="pensoft" docAuthor="Marcer, Arnald &amp; Escobar, Agustí &amp; Garcia-Font, Víctor &amp; Uribe, Francesc" docDate="2022" docId="01476A9316B05274AA0CEF6224BD04B9" docName="BiodivDatJour 10: e81282" docOrigin="Biodiversity Data Journal 10" docPubDate="2022-04-28" docSource="https://bdj.pensoft.net/article/81282/download/xml/" docTitle="Ali-Bey - an open collaborative georeferencing web application" docVersion="1" id="01476A9316B05274AA0CEF6224BD04B9" pageNumber="81282" updateTime="1651220645644" updateUser="pensoft">
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo>
+<mods:title>Ali-Bey - an open collaborative georeferencing web application</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Marcer, Arnald</mods:namePart>
+<mods:nameIdentifier type="email">arnald.marcer@uab.cat</mods:nameIdentifier>
+<mods:nameIdentifier type="ORCID">https://orcid.org/0000-0002-6532-7712</mods:nameIdentifier>
+<mods:affiliation>
+CREAF, E08193 Bellaterra (Cerdanyola del 
+<normalizedToken originalValue="Vallès">Valles</normalizedToken>
+), Catalonia, Spain
+</mods:affiliation>
+<mods:affiliation>
+Universitat 
+<normalizedToken originalValue="Autònoma">Autonoma</normalizedToken>
+de Barcelona, E 08193, Bellaterra (Cerdanyola del 
+<normalizedToken originalValue="Vallès">Valles</normalizedToken>
+), Catalonia, Spain
+</mods:affiliation>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>
+Escobar, 
+<normalizedToken originalValue="Agustí">Agusti</normalizedToken>
+</mods:namePart>
+<mods:nameIdentifier type="email">a.escobar@creaf.uab.cat</mods:nameIdentifier>
+<mods:affiliation>
+CREAF, E08193 Bellaterra (Cerdanyola del 
+<normalizedToken originalValue="Vallès">Valles</normalizedToken>
+), Catalonia, Spain
+</mods:affiliation>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>
+Garcia-Font, 
+<normalizedToken originalValue="Víctor">Victor</normalizedToken>
+</mods:namePart>
+<mods:affiliation>Universitat Oberta de Catalunya (UOC), Rambla del Poblenou 156. 08018 Barcelona, Spain</mods:affiliation>
+<mods:affiliation>CYBERCAT-Center for Cybersecurity Research of Catalonia, Rambla del Poblenou 156. 08018 Barcelona, Spain</mods:affiliation>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Uribe, Francesc</mods:namePart>
+<mods:nameIdentifier type="ORCID">https://orcid.org/0000-0002-0832-6561</mods:nameIdentifier>
+<mods:affiliation>
+Museu de 
+<normalizedToken originalValue="Ciències">Ciencies</normalizedToken>
+Naturals de Barcelona, Barcelona, Spain
+</mods:affiliation>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Biodiversity Data Journal</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>10</mods:number>
+</mods:detail>
+<mods:detail type="pubDate">
+<mods:number>2022-04-28</mods:number>
+</mods:detail>
+<mods:date>2022</mods:date>
+<mods:extent unit="page">
+<mods:start>81282</mods:start>
+<mods:end>81282</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://dx.doi.org/10.3897/BDJ.10.e81282</mods:url>
+</mods:location>
+<mods:identifier type="DOI">http://dx.doi.org/10.3897/BDJ.10.e81282</mods:identifier>
+<mods:identifier type="Pensoft-Pub">1314-2828-10-e81282</mods:identifier>
+<mods:identifier type="Pensoft-UUID">01476A9316B05274AA0CEF6224BD04B9</mods:identifier>
+<mods:classification>journal article</mods:classification>
+</mods:mods>
+<subSection pageId="0" pageNumber="81282" type="introduction">
+<paragraph pageId="0" pageNumber="81282">
+<pageBreakToken origin="extrapolated" pageId="0" pageNumber="81282" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+Institutions holding Natural History Collections (NHC) have recently embarked on new and demanding digitisation projects that can provide important societal benefits in research, conservation, education and outreach (
+<bibRefCitation author="Nelson, Gil" journalOrPublisher="Philosophical Transactions of the Royal Society B: Biological Sciences" pageId="0" pageNumber="81282" refId="B7660647" refString="Nelson, Gil, Ellis, Shari, 2018. The history and impact of digitization and digital data mobilization on biodiversity research. Philosophical Transactions of the Royal Society B: Biological Sciences 374 (1763)" title="The history and impact of digitization and digital data mobilization on biodiversity research" volume="374" year="2018">Nelson and Ellis 2018</bibRefCitation>
+). Usually, these projects represent additional work on top of the everyday curation, research and dissemination tasks carried out at these institutions, without receiving sufficient additional funding. Moreover, this is greatly aggravated by the sheer number of specimens held at these institutions worldwide, with estimates in the order of a few billion specimens (
+<bibRefCitation author="Arino, A. H." journalOrPublisher="Biodiversity Informatics" pageId="0" pageNumber="81282" pagination="81 - 92" refId="B7660517" refString="Arino, A. H., 2010. Approaches to estimating the universe of natural history collections data. Biodiversity Informatics 7 (2): 81 - 92" title="Approaches to estimating the universe of natural history collections data" volume="7" year="2010">
+<normalizedToken originalValue="Ariño">Arino</normalizedToken>
+2010
+</bibRefCitation>
+, 
+<bibRefCitation author="Marcer, Arnald" journalOrPublisher="Diversity and Distributions" pageId="0" pageNumber="81282" pagination="564 - 567" refId="B7660562" refString="Marcer, Arnald, Haston, Elspeth, Groom, Quentin, Arino, Arturo H., Chapman, Arthur D., Bakken, Torkild, Braun, Paul, Dillen, Mathias, Ernst, Marcus, Escobar, Agusti, Fichtmueller, David, Livermore, Laurence, Nicolson, Nicky, Paragamian, Kaloust, Paul, Deborah, Pettersson, Lars B., Phillips, Sarah, Plummer, Jack, Rainer, Heimo, Rey, Isabel, Robertson, Tim, Roepert, Dominik, Santos, Joaquim, Uribe, Francesc, Waller, John, Wieczorek, John R., 2021. Quality issues in georeferencing: From physical collections to digital data repositories for ecological research. Diversity and Distributions 27 (3): 564 - 567" title="Quality issues in georeferencing: From physical collections to digital data repositories for ecological research" volume="27" year="2021">Marcer et al. 2021b</bibRefCitation>
+). Large or small, each of these institutions is in charge of a number of specimens that usually far exceeds the maintenance capacity of their respective staff. Small institutions with limited staff may be in custody of tens of thousands of specimens, while large institutions with a greater number of staff may also be overwhelmed by their collection sizes going up to millions, tens of millions or even hundreds of millions of specimens. For instance, only 6% of the millions of specimens at the Natural History Museum London are available online (
+<bibRefCitation author="Weston, P." journalOrPublisher="The Guardian" pageId="0" pageNumber="81282" refId="B7660656" refString="Weston, P., 2021. The Guardian. The age of extinction. No visitors but teeming with life: what's going on inside the Natural History Museum? The Guardian" title="The Guardian. The age of extinction. No visitors but teeming with life: what's going on inside the Natural History Museum?" year="2021">Weston 2021</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+Assigning coordinates to preserved specimens of NHC is an important task that allows us to relate these specimens to the environmental conditions in which they were collected, presumably their living habitat or ecological niche. Once set in their ecological context, these specimens can help address fundamental questions in ecology, evolution and societal pressing issues, such as global change (
+<bibRefCitation author="Hedrick, Brandon P" journalOrPublisher="BioScience" pageId="0" pageNumber="81282" pagination="243 - 251" refId="B7660545" refString="Hedrick, Brandon P, Heberling, J Mason, Meineke, Emily K, Turner, Kathryn G, Grassa, Christopher J, Park, Daniel S, Kennedy, Jonathan, Clarke, Julia A, Cook, Joseph A, Blackburn, David C, Edwards, Scott V, Davis, Charles C, 2020. Digitization and the Future of Natural History Collections. BioScience 70 (3): 243 - 251" title="Digitization and the Future of Natural History Collections" volume="70" year="2020">Hedrick et al. 2020</bibRefCitation>
+). This is accomplished with a process called retrospective georeferencing (
+<bibRefCitation author="Murphey, Paul C." journalOrPublisher="Phyloinformatics" pageId="0" pageNumber="81282" pagination="1 - 29" refId="B7660629" refString="Murphey, Paul C., Guralnick, Robert P., Glaubitz, Robert, Neufeld, David, Ryan, J. Allen, 2004. Georeferencing Of Museum Collections: A Review Of Problems And Automated Tools, And The Methodology Developed By The Mountain And Plains Spatio-Temporal Database-Informatics Initiative (Mapstedi). Phyloinformatics 3: 1 - 29" title="Georeferencing Of Museum Collections: A Review Of Problems And Automated Tools, And The Methodology Developed By The Mountain And Plains Spatio-Temporal Database-Informatics Initiative (Mapstedi)" volume="3" year="2004">Murphey et al. 2004</bibRefCitation>
+, 
+<bibRefCitation author="Chapman, A. D." journalOrPublisher="GBIF Secretariat" pageId="0" pageNumber="81282" refId="B7660526" refString="Chapman, A. D., Wieczorek, J. R., 2020. Georeferencing Best Practices. GBIF Secretariat" title="Georeferencing Best Practices" year="2020">Chapman and Wieczorek 2020</bibRefCitation>
+), which is an important part of the digitisation process. It involves the interpretation of text-locality descriptions into pairs of coordinates plus metadata information.
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+Retrospective georeferencing is a skill-demanding, labour-intensive and hard-to-automate task (
+<bibRefCitation author="Guralnick, Robert P" journalOrPublisher="PLOS Biology" pageId="0" pageNumber="81282" refId="B7660535" refString="Guralnick, Robert P, Wieczorek, John, Beaman, Reed, Hijmans, Robert J, Group, BioGeomancer Working, 2006. BioGeomancer: Automated georeferencing to map the world's biodiversity data. PLOS Biology 4 (11)" title="BioGeomancer: Automated georeferencing to map the world's biodiversity data" volume="4" year="2006">Guralnick et al. 2006</bibRefCitation>
+, 
+<bibRefCitation author="Chapman, A. D." journalOrPublisher="GBIF Secretariat" pageId="0" pageNumber="81282" refId="B7660526" refString="Chapman, A. D., Wieczorek, J. R., 2020. Georeferencing Best Practices. GBIF Secretariat" title="Georeferencing Best Practices" year="2020">Chapman and Wieczorek 2020</bibRefCitation>
+) and it requires the dedication of considerable resources, especially in terms of staff time. Moreover, multiplication of efforts occur when different institutions georeference the same site name unbeknown to each other, since they may have specimens collected at the same locality. According to a recent survey (
+<bibRefCitation author="Marcer, A." journalOrPublisher="MOBILISE EU Cost Action CA 17106 Report." pageId="0" pageNumber="81282" refId="B7660617" refString="Marcer, A., Groom, Q., Haston, E., Uribe, F., 2021. Natural history collections georeferencing survey report. current georeferencing practices across institutions worldwide. (Tech. Rep.). MOBILISE EU Cost Action CA17106 Report." title="Natural history collections georeferencing survey report. current georeferencing practices across institutions worldwide. (Tech. Rep.)" year="2021">Marcer et al. 2021a</bibRefCitation>
+), georeferencing can represent a significant fraction of the effort dedicated to the digitisation of collections. The only exceptions are specimens collected with the help of GPS technology, for which the GPS device can directly provide their georeferencing data. However, these represent only a tiny fraction of the 
+<normalizedToken originalValue="world’s">world's</normalizedToken>
+preserved specimens, coming from recent collection projects (
+<bibRefCitation author="Marcer, A." journalOrPublisher="MOBILISE EU Cost Action CA 17106 Report." pageId="0" pageNumber="81282" refId="B7660617" refString="Marcer, A., Groom, Q., Haston, E., Uribe, F., 2021. Natural history collections georeferencing survey report. current georeferencing practices across institutions worldwide. (Tech. Rep.). MOBILISE EU Cost Action CA17106 Report." title="Natural history collections georeferencing survey report. current georeferencing practices across institutions worldwide. (Tech. Rep.)" year="2021">Marcer et al. 2021a</bibRefCitation>
+). For example, 
+<bibRefCitation author="Blagoderov, Vladimir" journalOrPublisher="Biodiversity Data Journal" pageId="0" pageNumber="81282" refId="B7725139" refString="Blagoderov, Vladimir, Penn, Malcolm, Sadka, Mike, Hine, Adrian, Brooks, Stephen, Siebert, Darrell, Sleep, Chris, Cafferty, Steve, Cane, Elisa, Martin, Geoff, Toloni, Flavia, Wing, Peter, Chainey, John, Duffell, Liz, Huxley, Rob, Ledger, Sophie, McLaughlin, Caitlin, Mazzetta, Gerardo, Perera, Jasmin, Crowther, Robyn, Douglas, Lyndsey, Durant, Joanna, Scialabba, Elisabetta, Honey, Martin, Huertas, Blanca, Howard, Theresa, Carter, Victoria, Albuquerque, Sara, Paterson, Gordon, Kitching, Ian, 2017. iCollections methodology: workflow, results and lessons learned. Biodiversity Data Journal 5" title="iCollections methodology: workflow, results and lessons learned" volume="5" year="2017">Blagoderov et al. 2017</bibRefCitation>
+estimated an average cost of about 0.105 British pounds (0.17 Euros in 2017) to georeference a single specimen; i.e. about 170 000 Euros to georeference 1 million specimens.
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">The job of georeferencing entails the need to enter, store, view and query alphanumeric and spatial data, navigate and query reference digital cartography, perform spatial operations, manage user access and permissions, work collaboratively and make results public and easily accessible. Software applications can provide tools that can greatly help georeferencers and their institutions in this undertaking.</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+The 
+<emphasis italics="true" pageId="0" pageNumber="81282">
+Museu de 
+<normalizedToken originalValue="Ciències">Ciencies</normalizedToken>
+Naturals de Barcelona (MCNB)
+</emphasis>
+holds a collection of about three million preserved samples of specimens (
+<bibRefCitation author="MCNB, Museu de Ciencies Naturals de Barcelona" journalOrPublisher="Museu de Ciencies Naturals de Barcelona" pageId="0" pageNumber="81282" refId="B7660639" refString="MCNB, Museu de Ciencies Naturals de Barcelona, 2020. Memoria dels departaments de col·leccions del Museu de Ciencies Naturals i de l'Institut Botanic de Barcelona. Museu de Ciencies Naturals de Barcelona" title="Memoria dels departaments de col · leccions del Museu de Ciencies Naturals i de l'Institut Botanic de Barcelona." year="2020">
+MCNB, Museu de 
+<normalizedToken originalValue="Ciències">Ciencies</normalizedToken>
+Naturals de Barcelona 2020
+</bibRefCitation>
+). Georeferencing constitutes a major effort for the institution, given the limited staff and time that can be allocated to the task. The Museum's collection management software did not have the above-listed required functionality to effectively georeference the collection. Other existing collection management software (e.g. Arctos, Specify, Symbiota etc.) also did not meet all the requirements that were listed as essential. This led to the decision to develop custom software that could fill the needs. To this date, the MCNB has managed to georeference just over 5% of their records, with just under 2,000,000 records still in the queue.
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+Usually, georeferencing procedures are supported by external and specific tools, like GEOLocate (
+<bibRefCitation author="Rios, N. E." journalOrPublisher="Belle Chasse, LA: Tulane University Museum of Natural History." pageId="0" pageNumber="81282" refId="B7725256" refString="Rios, N. E., Bart, H. L., 2010. GEOLocate. Belle Chasse, LA: Tulane University Museum of Natural History." title="GEOLocate" year="2010">Rios and Bart 2010</bibRefCitation>
+). Nevertheless, MCNB looked for more functionalities: easy reuse of previously-obtained data, traceability of estimations and the option of managing versions for the same locality. This paper describes 
+<emphasis italics="true" pageId="0" pageNumber="81282">Ali-Bey</emphasis>
+, the georeferencing open-source software platform of MCNB, named after the Arab name of 
+<normalizedToken originalValue="Domènec">Domenec</normalizedToken>
+Badia, a Catalan explorer of northern Africa in the late 18th and early 19th centuries (https://en.wikipedia.org/wiki/Ali_Bey_el_Abbassi). 
+<emphasis italics="true" pageId="0" pageNumber="81282">Ali-Bey</emphasis>
+is the tool currently used at MCNB for all matters regarding the georeferencing of NHC.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="81282" type="project description">
+<paragraph pageId="0" pageNumber="81282">Project description</paragraph>
+<paragraph pageId="0" pageNumber="81282">Title</paragraph>
+<paragraph pageId="0" pageNumber="81282">Ali Bey - an open collaborative georeferencing web application.</paragraph>
+<paragraph pageId="0" pageNumber="81282">Design description</paragraph>
+<paragraph pageId="0" pageNumber="81282">Ali-Bey is a web application aimed at providing support in the management of the georeferencing process, i.e. the assignment of coordinates to textual descriptions of site names, where preserved specimens from natural history collections were collected. It provides tools to help in determining georeferences, assigning metadata and querying, visualising, storing and publishing them. Site names can be hierarchically organised in a tree-like structure and they can be versioned, i.e. newer improved versions of georeferenced site names are kept on top of all their older versions. The application also provides user administration capabilities and the possibility of collaborating between institutions in order to sum up resources towards a common better list of georeferenced site names. Georeferenced sites can be made publicly available through a public API. The following list describes its main features.</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<emphasis bold="true" pageId="0" pageNumber="81282">Latest version</emphasis>
+1.0.0
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<emphasis bold="true" pageId="0" pageNumber="81282">Features</emphasis>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">Hierarchical structure</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+All site names descend from a top node called 
+<emphasis italics="true" pageId="0" pageNumber="81282">World.</emphasis>
+Each site name can be assigned to a parent node and each node can be georeferenced, i.e. each node can be in itself a site name. For instance, the municipality 
+<emphasis italics="true" pageId="0" pageNumber="81282">Vic</emphasis>
+is a site name nested under the county node 
+<emphasis italics="true" pageId="0" pageNumber="81282">Osona</emphasis>
+, the region node 
+<emphasis italics="true" pageId="0" pageNumber="81282">Catalonia</emphasis>
+, the country node 
+<emphasis italics="true" pageId="0" pageNumber="81282">Spain</emphasis>
+, the continent node 
+<emphasis italics="true" pageId="0" pageNumber="81282">Europe</emphasis>
+and the top node 
+<emphasis italics="true" pageId="0" pageNumber="81282">World</emphasis>
+. All of these nodes can also have their corresponding set of coordinates and metadata. The hierarchy can be based on political-administrative entities as the above-mentioned example or on other user-defined hierarchies, such as physical or ecological features. This hierarchical structure not only allows the easy retrieval of all georeferenced site names for a specific world region, but also the assignment of editing permissions for different parts of the world to different users. The site names hierarchy is shown within the application in a tree-like control with which users can interact (Fig. 
+<figureCitation captionStart="Figure 1" captionStartId="F7660368" captionText="Figure 1. Example of two site names hierarchies administrative: a) hierarchy based on administrative units and, b) based on administrative units and protected areas." figureDoi="10.3897/BDJ.10.e81282.figure1" httpUri="https://binary.pensoft.net/fig/637518" pageId="0" pageNumber="81282">1</figureCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">Site names with a terrestrial/aquatic border may deserve two distinguishable georeferencing estimations: one for the terrestrial surface and another for georeferencing collecting places for aquatic organisms. For instance, fishes caught off the coast of Barcelona.</paragraph>
+<paragraph pageId="0" pageNumber="81282">Versioned locations</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+Georeferenced site names are versioned, i.e. historical extents or newer improved versions of a given georeferenced site name are kept on top of the older ones (Fig. 
+<figureCitation captionStart="Figure 2" captionStartId="F7660444" captionText="Figure 2. The Montseny protected area georeferenced with a polygon with its uncertainty circle: a) an example of a first coarse polygon version of the protected area; b) a second improved version of the polygon representing the georeference, also with its uncertainty circle." figureDoi="10.3897/BDJ.10.e81282.figure2" httpUri="https://binary.pensoft.net/fig/637522" pageId="0" pageNumber="81282">2</figureCitation>
+). Improvements may come because better interpretations of the same textual description of a locality or because better cartography, which allows for better georeferencing, have become available. Thus, versioned georeferenced site names refer to sets of different interpretations of a given location, chronologically ordered and, eventually, improved towards the more recent record. Since all georeferenced versions of a given site name are kept in the database, no past derivative work using old versions of a georeference will lose its links to the set of coordinates and uncertainty used at the time it was done. The history of each georeference is kept within the system and a simple look-up table with a customised vocabulary allows the management of the version deployment.
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">Coordinates and uncertainty</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+Uncertainty is a measure of how close an estimated measure is to its real value (
+<bibRefCitation author="Chapman, A. D." journalOrPublisher="GBIF Secretariat" pageId="0" pageNumber="81282" refId="B7660526" refString="Chapman, A. D., Wieczorek, J. R., 2020. Georeferencing Best Practices. GBIF Secretariat" title="Georeferencing Best Practices" year="2020">Chapman and Wieczorek 2020</bibRefCitation>
+). In the case of georeferencing, the uncertainty represents a boundary of error around an estimated coordinate for a given location or site name; i.e. the true coordinate of the site name lies somewhere within the boundary error. In the case of site names represented by graphical objects other than points, i.e. lines or polygons, the uncertainty is defined following the point-radius method (
+<bibRefCitation author="Wieczorek, John" journalOrPublisher="International Journal of Geographic Information Science" pageId="0" pageNumber="81282" pagination="745 - 767" refId="B7725066" refString="Wieczorek, John, Guo, Qinghua, Hijmans, Robert J., 2004. The point-radius method for georeferencing locality descriptions and calculating associated uncertainty. International Journal of Geographic Information Science 18 (8): 745 - 767" title="The point-radius method for georeferencing locality descriptions and calculating associated uncertainty" volume="18" year="2004">Wieczorek et al. 2004</bibRefCitation>
+; 
+<bibRefCitation author="Chapman, A. D." journalOrPublisher="GBIF Secretariat" pageId="0" pageNumber="81282" refId="B7660526" refString="Chapman, A. D., Wieczorek, J. R., 2020. Georeferencing Best Practices. GBIF Secretariat" title="Georeferencing Best Practices" year="2020">Chapman and Wieczorek 2020</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+The coordinates and uncertainty representing a given location can be entered in three alternative ways: a) they can be determined externally and manually entered into the system through a set of textbox controls, b) a spatial object representing the location can be directly entered using the built-in map viewer which allows for digitising points, lines and polygons and c) by importing a shapefile. Both in b) and c) cases, 
+<emphasis italics="true" pageId="0" pageNumber="81282">Ali-Bey</emphasis>
+will automatically calculate the centroid and the spatial uncertainty derived from the spatial object representing the site name.
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">Georeferencing resources</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+Resources used in the georeferencing process (e.g. maps, gazetteers, web map servers etc.) can be entered and stored in the 
+<normalizedToken originalValue="system’s">system's</normalizedToken>
+database. They can be assigned a spatial object representing the geographical extent covered by the resource. Hence, georeferencers can find which resources are available for the part of the world where a given specimen was collected. Additionally, each georeferenced site name version that is entered can be tagged with the resource used in the georeferencing process. Thus, any site name georeference history can be traced back to the georeferencing resources used in the process. In the case of web map servers, they can be registered with their corresponding URL or they can be created by importing a spatial file, such as a TIFF or shapefile. In the latter case, the spatial file is automatically entered into the 
+<normalizedToken originalValue="system’s">system's</normalizedToken>
+map server and made available as an additional layer in the map viewer.
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">Map viewer</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+The application provides navigation map windows for visualising, querying and editing both geographical resources and site names (Fig. 
+<figureCitation captionStart="Figure 3" captionStartId="F7660448" captionText="Figure 3. Detail of the map viewer for: a) georeferencing resources and b) site names. The polygon encompassing the georeferencing resource &quot; Nomenclator of Site Names of the Balearic Islands &quot; is shown in a) and a detailed view of the georeferenced site names of the eastern part of the Island of Minorca is shown in b). Tools for zooming and editing can be seen on the left side of the viewer and for layer selection on the top-right corner." figureDoi="10.3897/BDJ.10.e81282.figure3" httpUri="https://binary.pensoft.net/fig/637523" pageId="0" pageNumber="81282">3</figureCitation>
+). They can be displayed on top of free online reference cartography, such as Microsoft Bing Maps and OpenStreetMaps. In the case of georeferencing resources, the limits of their geographical extent are shown as a multipolygon object. For georeferenced site names, their spatial representation objects (e.g. a municipality boundary or a river segment), their centroids and their corresponding uncertainty boundaries are shown.
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">Querying and filtering</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+Site names and georeferencing resources can be queried by clicking on them in their corresponding map viewer windows and their associated information can be accessed by clicking on the corresponding icon in the row of the tables listing them. Both site names and resources can be filtered with the use of a multicriteria filter. An arbitrary number of conditions can be added to the filter with &quot;and/or&quot; and negation operators. Filters can be saved and retrieved for later use (Fig. 
+<figureCitation captionStart="Figure 4" captionStartId="F7660452" captionText="Figure 4. Tool for filtering and exporting site names." figureDoi="10.3897/BDJ.10.e81282.figure4" httpUri="https://binary.pensoft.net/fig/637524" pageId="0" pageNumber="81282">4</figureCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">Import / Export</paragraph>
+<paragraph pageId="0" pageNumber="81282">Georeferenced site names can be automatically imported from comma-delimited files (CSV) and exported to comma-delimited (CSV), spreadsheet (XLS), GIS (shapefile and KML) and document (PDF) formats. Georeferencing resources can also be exported to CSV, XLS and PDF.</paragraph>
+<paragraph pageId="0" pageNumber="81282">Usage statistics</paragraph>
+<paragraph pageId="0" pageNumber="81282">The application provides different charts that illustrate different statistics of the georeferencing activity, such as number of georeferenced site names by georeferencer, country, type and terrestrial/aquatic nature. With respect to the georeferencing resources, their number by type is given.</paragraph>
+<paragraph pageId="0" pageNumber="81282">Look-up tables</paragraph>
+<paragraph pageId="0" pageNumber="81282">Shared lists of terms in the form of look-up tables (key-value tables), such as authors, organisations, keywords, version qualifiers, content types, support types, site name types and unit types, can be edited and curated with specific forms.</paragraph>
+<paragraph pageId="0" pageNumber="81282">User management and permissions</paragraph>
+<paragraph pageId="0" pageNumber="81282">The application provides user management functionality. A user given the administrative role can add and remove users and assign editing privileges. Users can also be given geographically-bounded permissions for editing locations, facilitated by the hierarchical structure of the site names. This allows the spatial compartmentalisation of the world into different regions which can be assigned to different georeferencers and organisations.</paragraph>
+<paragraph pageId="0" pageNumber="81282">Institutions collaboration through federated lists</paragraph>
+<paragraph pageId="0" pageNumber="81282">Different institutions can collaborate towards a shared georeferenced gazetteer and, thus, sum up resources and divide and distribute the overall effort. Moreover, this can be combined with the corresponding permissions to assign different geographical zones to different institutions and georeferencers, taking advantage of the better direct knowledge of parts of the territory by different actors and, potentially resulting in better georeferencing. Georeferenced site names are tagged with the name of the institution of their corresponding georeferencers. Users can choose to see only the site names georeferenced by their institution or the whole set of site names from all federated institutions.</paragraph>
+<paragraph pageId="0" pageNumber="81282">Multi-language support</paragraph>
+<paragraph pageId="0" pageNumber="81282">The application supports multiple languages. They can be added to the list of available languages by translating a language configuration file.</paragraph>
+<paragraph pageId="0" pageNumber="81282">Public API</paragraph>
+<paragraph pageId="0" pageNumber="81282">Ali-Bey also provides a public application programming interface that gives access to different functionalities. Other applications can use it and perform different queries to the system, such as returning all locations within a given geometry, returning all data concerning a given locality etc.</paragraph>
+<paragraph pageId="0" pageNumber="81282">A working example that uses Ali-Bey's API can be found at https://www.bioexplora.cat/en/geocoding. This is a gateway to the Ali-Bey's database of georeferenced site names of the MCNB. This web page also provides the possibility for users to give comments to improve the georeferencing.</paragraph>
+<paragraph pageId="0" pageNumber="81282">Containerised deployment</paragraph>
+<paragraph pageId="0" pageNumber="81282">Ali-Bey can be deployed as a multi-container docker application. This allows for the easy set-up in any operating system which supports Docker, avoiding conflicts with existing libraries and language interpreter versions in the hosting operating system.</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="81282" type="web location (uris)">
+<paragraph pageId="0" pageNumber="81282">Web location (URIs)</paragraph>
+<paragraph pageId="0" pageNumber="81282">Homepage: https://www.bioexplora.cat/en/geocoding (API)</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="81282" type="technical specification">
+<paragraph pageId="0" pageNumber="81282">Technical specification</paragraph>
+<paragraph pageId="0" pageNumber="81282">Platform: Django 1.11.6, Bootstrap 3.3.7, jQuery 3.3.1</paragraph>
+<paragraph pageId="0" pageNumber="81282">Programming language: Python 3.6, HTML5, JavaScript</paragraph>
+<paragraph pageId="0" pageNumber="81282">Operational system: Linux (with Nginx 1.19.0, Gunicorn 19.9.0, Tomcat 8.5.41, GeoServer 2.19.2, PostgreSQL 10.7, PostGIS 2.5), Docker 20.10.2</paragraph>
+<paragraph pageId="0" pageNumber="81282">Interface language: English, multilanguage support</paragraph>
+<paragraph pageId="0" pageNumber="81282">Service endpoint: https://www.bioexplora.cat/en/geocoding (API)</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="81282" type="repository">
+<paragraph pageId="0" pageNumber="81282">Repository</paragraph>
+<paragraph pageId="0" pageNumber="81282">Type: GitHub. Ali-Bey is distributed as follows in three separate repositories, one for the Django application, one for the dockerised deployment of the application and one for the Ali-Bey API. 1) Ali-Bey application: Public repository of the Ali-Bey georeferencing platform, 2) Ali-Bey deployment: Public repository for the definition and deployment of the docker container for the application and 3) Ali-Bey API: Public repository for the Application Programming Interface of Ali-Bey.</paragraph>
+<paragraph pageId="0" pageNumber="81282">Browse URI: 1) URL: https://github.com/aescobarr/mcnb-alibey, 2) https://github.com/aescobarr/mcnb-alibey-docker, 3) https://github.com/aescobarr/mcnb-alibey-api</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="81282" type="usage licence">
+<paragraph pageId="0" pageNumber="81282">Usage licence</paragraph>
+<paragraph pageId="0" pageNumber="81282">Usage licence</paragraph>
+<paragraph pageId="0" pageNumber="81282">Other</paragraph>
+<paragraph pageId="0" pageNumber="81282">IP rights notes</paragraph>
+<paragraph pageId="0" pageNumber="81282">GNU General Public License v3.0</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="81282" type="implementation">
+<paragraph pageId="0" pageNumber="81282">Implementation</paragraph>
+<paragraph pageId="0" pageNumber="81282">Implements specification</paragraph>
+<paragraph pageId="0" pageNumber="81282">The application is developed around the Model-View-Controller pattern on a three-tier architecture.</paragraph>
+<paragraph pageId="0" pageNumber="81282">Presentation tier</paragraph>
+<paragraph pageId="0" pageNumber="81282">Ali-Bey can be accessed with any web browser, although the most common ones are recommended (Chrome, Firefox, Safari, Edge). The user interface is implemented in HTML5 and JavaScript using the Bootstrap CSS framework (https://getbootstrap.com) and the jQuery JavaScript library (https://jquery.com). Map navigation is provided via the Leaflet JavaScript library (https://leafletjs.com). The user interface is responsive, it adapts itself to different device screen sizes. Ali-Bey uses the Nginx (https://www.nginx.com) web server as a proxy for the Django application and renders HTML pages to the user.</paragraph>
+<paragraph pageId="0" pageNumber="81282">Application tier</paragraph>
+<paragraph pageId="0" pageNumber="81282">The application layer is implemented in Python using the Django web framework (https://www.djangoproject.com). Django provides data access, processing and presentation functionality. Spatial operations, such as centroid calculation, are done using PostGIS (https://postgis.net) and the Geospatial Data Abstraction Library (GDAL, https://gdal.org). Cartography is served through the Web Mapping Service Interface Standard (WMS), from either locally-stored geospatial files or externally accessible WMS sites. Internal WMS functionality is provided by GeoServer (http://geoserver.org), an open source server for sharing geospatial data. Apache Tomcat (https://tomcat.apache.org) acts as an internal application server for GeoServer, the WMS map server.</paragraph>
+<paragraph pageId="0" pageNumber="81282">Data tier</paragraph>
+<paragraph pageId="0" pageNumber="81282">The data layer is composed of two main parts, the geodatabase and the digital cartography. The geodatabase is a PostgreSQL (https://www.postgresql.org) with the PostGIS (https://postgis.net) spatial relational database extension. Digital cartographic data, corresponding to internal georeferencing resources, are stored as geospatial data files.</paragraph>
+<paragraph pageId="0" pageNumber="81282">API</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+Although Ali-Bey is meant to be an internal tool for georeferencing within an institution holding natural history collections, other applications can be built using the public API to give access to the georeferenced site names database. The 
+<emphasis italics="true" pageId="0" pageNumber="81282">
+Museu de 
+<normalizedToken originalValue="Ciències">Ciencies</normalizedToken>
+Naturals de Barcelona
+</emphasis>
+provides public access to its Ali-Bey database of georeferenced site names through a web page which implements the Ali-Bey API.
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">The application programming interface is based on the REST (REpresentational State Transfer) architectural style which allows the use of HTTP methods to perform create, retrieve, update and delete operations. Currently, in the Ali-Bey API only retrieve operations have been implemented.</paragraph>
+<paragraph pageId="0" pageNumber="81282">Dockerised multi-container platform</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+Ali-Bey uses the Docker containerisation platform (https://www.docker.com) to bundle its components and provide for an easy deployment (Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F7660456" captionText="Figure 5. Application architecture of Ali-Bey deployed as a Docker multi-container application. A user connects with a web browser through the Internet to an Nginx web server that gives access to the application. The application is implemented with the Django web framework that interacts with the map server Geoserver and with the PostgreSQL / PostGIS database with the help of the Python HTTP server Gunicorn. The PostgreSQL alphanumeric and spatial database files and the layer metadata are all persistently stored in the host filesystem, configured as a Docker volume." figureDoi="10.3897/BDJ.10.e81282.figure5" httpUri="https://binary.pensoft.net/fig/637525" pageId="0" pageNumber="81282">5</figureCitation>
+). The docker container is composed of four services bundled together through a docker-compose.yml file: database, web server, map server and web application. In order to make alphanumeric and spatial data persistent, the datafiles of the PostgreSQL database are stored in a directory of the host filesystem which is configured as a Docker volume (Figure 5). Two open ports are needed to run the application. The default ones are 8080 for the map server and 1337 for the web application. However, these can be changed to suit each deployment requirement.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="81282" type="acknowledgements">
+<paragraph pageId="0" pageNumber="81282">Acknowledgements</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+Miguel Prieto, Anna 
+<normalizedToken originalValue="Díaz">Diaz</normalizedToken>
+, Cristina 
+<normalizedToken originalValue="González">Gonzalez</normalizedToken>
+and Olga Boet form part of the team of the Museum of Natural Sciences of Barcelona devoted to georeferencing collections. They have been crucial in maturing the first ideas of designing a georeferencing tool to the end. Miguel 
+<normalizedToken originalValue="Martínez">Martinez</normalizedToken>
+has been a key player in the integration of Ali-Bey in the MCNB infrastructure. The authors also want to express their gratitude to the reviewers who helped improve the manuscript. Finally, the participation in the EU Cost Action CA17106: &quot;MOBILISE - Mobilizing Data, Experts and Policies in Scientific Collections&quot; has provided useful insights into the georeferencing needs of the NHC community.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="81282" type="author contributions">
+<paragraph pageId="0" pageNumber="81282">Author contributions</paragraph>
+<paragraph pageId="0" pageNumber="81282">FU conceived the need and idea for the tool. AM led and coordinated the project. AE, VG and AM designed the software application. AE and VG led and developed the implementation of a previous Java version of the tool. AE led and developed the current Python version. AM drafted the manuscript with contributions from all authors.</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="81282" type="reference_group">
+<paragraph pageId="0" pageNumber="81282">References</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<bibRef author="Arino, A. H." journalOrPublisher="Biodiversity Informatics" pageId="0" pageNumber="81282" pagination="81 - 92" refId="B7660517" title="Approaches to estimating the universe of natural history collections data" volume="7" year="2010">
+<author pageId="0" pageNumber="81282">
+<normalizedToken originalValue="Ariño">Arino</normalizedToken>
+, A. H.
+</author>
+, 
+<year pageId="0" pageNumber="81282">2010</year>
+. 
+<title pageId="0" pageNumber="81282">Approaches to estimating the universe of natural history collections data</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="81282">Biodiversity Informatics</journalOrPublisher>
+<volume pageId="0" pageNumber="81282">7</volume>
+(
+<issue pageId="0" pageNumber="81282">2</issue>
+): 
+<pagination pageId="0" pageNumber="81282">81 - 92</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<bibRef author="Blagoderov, Vladimir" journalOrPublisher="Biodiversity Data Journal" pageId="0" pageNumber="81282" refId="B7725139" title="iCollections methodology: workflow, results and lessons learned" volume="5" year="2017">
+<author pageId="0" pageNumber="81282">Blagoderov, Vladimir</author>
+, 
+<author pageId="0" pageNumber="81282">Penn, Malcolm</author>
+, 
+<author pageId="0" pageNumber="81282">Sadka, Mike</author>
+, 
+<author pageId="0" pageNumber="81282">Hine, Adrian</author>
+, 
+<author pageId="0" pageNumber="81282">Brooks, Stephen</author>
+, 
+<author pageId="0" pageNumber="81282">Siebert, Darrell</author>
+, 
+<author pageId="0" pageNumber="81282">Sleep, Chris</author>
+, 
+<author pageId="0" pageNumber="81282">Cafferty, Steve</author>
+, 
+<author pageId="0" pageNumber="81282">Cane, Elisa</author>
+, 
+<author pageId="0" pageNumber="81282">Martin, Geoff</author>
+, 
+<author pageId="0" pageNumber="81282">Toloni, Flavia</author>
+, 
+<author pageId="0" pageNumber="81282">Wing, Peter</author>
+, 
+<author pageId="0" pageNumber="81282">Chainey, John</author>
+, 
+<author pageId="0" pageNumber="81282">Duffell, Liz</author>
+, 
+<author pageId="0" pageNumber="81282">Huxley, Rob</author>
+, 
+<author pageId="0" pageNumber="81282">Ledger, Sophie</author>
+, 
+<author pageId="0" pageNumber="81282">McLaughlin, Caitlin</author>
+, 
+<author pageId="0" pageNumber="81282">Mazzetta, Gerardo</author>
+, 
+<author pageId="0" pageNumber="81282">Perera, Jasmin</author>
+, 
+<author pageId="0" pageNumber="81282">Crowther, Robyn</author>
+, 
+<author pageId="0" pageNumber="81282">Douglas, Lyndsey</author>
+, 
+<author pageId="0" pageNumber="81282">Durant, Joanna</author>
+, 
+<author pageId="0" pageNumber="81282">Scialabba, Elisabetta</author>
+, 
+<author pageId="0" pageNumber="81282">Honey, Martin</author>
+, 
+<author pageId="0" pageNumber="81282">Huertas, Blanca</author>
+, 
+<author pageId="0" pageNumber="81282">Howard, Theresa</author>
+, 
+<author pageId="0" pageNumber="81282">Carter, Victoria</author>
+, 
+<author pageId="0" pageNumber="81282">Albuquerque, Sara</author>
+, 
+<author pageId="0" pageNumber="81282">Paterson, Gordon</author>
+, 
+<author pageId="0" pageNumber="81282">Kitching, Ian</author>
+, 
+<year pageId="0" pageNumber="81282">2017</year>
+. 
+<title pageId="0" pageNumber="81282">iCollections methodology: workflow, results and lessons learned</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="81282">Biodiversity Data Journal</journalOrPublisher>
+<volume pageId="0" pageNumber="81282">5</volume>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<bibRef author="Chapman, A. D." journalOrPublisher="GBIF Secretariat" pageId="0" pageNumber="81282" refId="B7660526" title="Georeferencing Best Practices" year="2020">
+<author pageId="0" pageNumber="81282">Chapman, A. D.</author>
+, 
+<author pageId="0" pageNumber="81282">Wieczorek, J. R.</author>
+, 
+<year pageId="0" pageNumber="81282">2020</year>
+. 
+<title pageId="0" pageNumber="81282">Georeferencing Best Practices</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="81282">GBIF Secretariat</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<bibRef author="Guralnick, Robert P" journalOrPublisher="PLOS Biology" pageId="0" pageNumber="81282" refId="B7660535" title="BioGeomancer: Automated georeferencing to map the world's biodiversity data" volume="4" year="2006">
+<author pageId="0" pageNumber="81282">Guralnick, Robert P</author>
+, 
+<author pageId="0" pageNumber="81282">Wieczorek, John</author>
+, 
+<author pageId="0" pageNumber="81282">Beaman, Reed</author>
+, 
+<author pageId="0" pageNumber="81282">Hijmans, Robert J</author>
+, 
+<author pageId="0" pageNumber="81282">Group, BioGeomancer Working</author>
+, 
+<year pageId="0" pageNumber="81282">2006</year>
+. 
+<title pageId="0" pageNumber="81282">BioGeomancer: Automated georeferencing to map the world's biodiversity data</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="81282">PLOS Biology</journalOrPublisher>
+<volume pageId="0" pageNumber="81282">4</volume>
+(
+<issue pageId="0" pageNumber="81282">11</issue>
+)
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<bibRef author="Hedrick, Brandon P" journalOrPublisher="BioScience" pageId="0" pageNumber="81282" pagination="243 - 251" refId="B7660545" title="Digitization and the Future of Natural History Collections" volume="70" year="2020">
+<author pageId="0" pageNumber="81282">Hedrick, Brandon P</author>
+, 
+<author pageId="0" pageNumber="81282">Heberling, J Mason</author>
+, 
+<author pageId="0" pageNumber="81282">Meineke, Emily K</author>
+, 
+<author pageId="0" pageNumber="81282">Turner, Kathryn G</author>
+, 
+<author pageId="0" pageNumber="81282">Grassa, Christopher J</author>
+, 
+<author pageId="0" pageNumber="81282">Park, Daniel S</author>
+, 
+<author pageId="0" pageNumber="81282">Kennedy, Jonathan</author>
+, 
+<author pageId="0" pageNumber="81282">Clarke, Julia A</author>
+, 
+<author pageId="0" pageNumber="81282">Cook, Joseph A</author>
+, 
+<author pageId="0" pageNumber="81282">Blackburn, David C</author>
+, 
+<author pageId="0" pageNumber="81282">Edwards, Scott V</author>
+, 
+<author pageId="0" pageNumber="81282">Davis, Charles C</author>
+, 
+<year pageId="0" pageNumber="81282">2020</year>
+. 
+<title pageId="0" pageNumber="81282">Digitization and the Future of Natural History Collections</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="81282">BioScience</journalOrPublisher>
+<volume pageId="0" pageNumber="81282">70</volume>
+(
+<issue pageId="0" pageNumber="81282">3</issue>
+): 
+<pagination pageId="0" pageNumber="81282">243 - 251</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<bibRef author="Marcer, A." journalOrPublisher="MOBILISE EU Cost Action CA 17106 Report." pageId="0" pageNumber="81282" refId="B7660617" title="Natural history collections georeferencing survey report. current georeferencing practices across institutions worldwide. (Tech. Rep.)" year="2021">
+<author pageId="0" pageNumber="81282">Marcer, A.</author>
+, 
+<author pageId="0" pageNumber="81282">Groom, Q.</author>
+, 
+<author pageId="0" pageNumber="81282">Haston, E.</author>
+, 
+<author pageId="0" pageNumber="81282">Uribe, F.</author>
+, 
+<year pageId="0" pageNumber="81282">2021</year>
+. 
+<title pageId="0" pageNumber="81282">Natural history collections georeferencing survey report. current georeferencing practices across institutions worldwide. (Tech. Rep.)</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="81282">MOBILISE EU Cost Action CA17106 Report.</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<bibRef author="Marcer, Arnald" journalOrPublisher="Diversity and Distributions" pageId="0" pageNumber="81282" pagination="564 - 567" refId="B7660562" title="Quality issues in georeferencing: From physical collections to digital data repositories for ecological research" volume="27" year="2021">
+<author pageId="0" pageNumber="81282">Marcer, Arnald</author>
+, 
+<author pageId="0" pageNumber="81282">Haston, Elspeth</author>
+, 
+<author pageId="0" pageNumber="81282">Groom, Quentin</author>
+, 
+<author pageId="0" pageNumber="81282">
+<normalizedToken originalValue="Ariño">Arino</normalizedToken>
+, Arturo H.
+</author>
+, 
+<author pageId="0" pageNumber="81282">Chapman, Arthur D.</author>
+, 
+<author pageId="0" pageNumber="81282">Bakken, Torkild</author>
+, 
+<author pageId="0" pageNumber="81282">Braun, Paul</author>
+, 
+<author pageId="0" pageNumber="81282">Dillen, Mathias</author>
+, 
+<author pageId="0" pageNumber="81282">Ernst, Marcus</author>
+, 
+<author pageId="0" pageNumber="81282">
+Escobar, 
+<normalizedToken originalValue="Agustí">Agusti</normalizedToken>
+</author>
+, 
+<author pageId="0" pageNumber="81282">
+<normalizedToken originalValue="Fichtmüller">Fichtmueller</normalizedToken>
+, David
+</author>
+, 
+<author pageId="0" pageNumber="81282">Livermore, Laurence</author>
+, 
+<author pageId="0" pageNumber="81282">Nicolson, Nicky</author>
+, 
+<author pageId="0" pageNumber="81282">Paragamian, Kaloust</author>
+, 
+<author pageId="0" pageNumber="81282">Paul, Deborah</author>
+, 
+<author pageId="0" pageNumber="81282">Pettersson, Lars B.</author>
+, 
+<author pageId="0" pageNumber="81282">Phillips, Sarah</author>
+, 
+<author pageId="0" pageNumber="81282">Plummer, Jack</author>
+, 
+<author pageId="0" pageNumber="81282">Rainer, Heimo</author>
+, 
+<author pageId="0" pageNumber="81282">Rey, Isabel</author>
+, 
+<author pageId="0" pageNumber="81282">Robertson, Tim</author>
+, 
+<author pageId="0" pageNumber="81282">
+<normalizedToken originalValue="Röpert">Roepert</normalizedToken>
+, Dominik
+</author>
+, 
+<author pageId="0" pageNumber="81282">Santos, Joaquim</author>
+, 
+<author pageId="0" pageNumber="81282">Uribe, Francesc</author>
+, 
+<author pageId="0" pageNumber="81282">Waller, John</author>
+, 
+<author pageId="0" pageNumber="81282">Wieczorek, John R.</author>
+, 
+<year pageId="0" pageNumber="81282">2021</year>
+. 
+<title pageId="0" pageNumber="81282">Quality issues in georeferencing: From physical collections to digital data repositories for ecological research</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="81282">Diversity and Distributions</journalOrPublisher>
+<volume pageId="0" pageNumber="81282">27</volume>
+(
+<issue pageId="0" pageNumber="81282">3</issue>
+): 
+<pagination pageId="0" pageNumber="81282">564 - 567</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<bibRef author="MCNB, Museu de Ciencies Naturals de Barcelona" journalOrPublisher="Museu de Ciencies Naturals de Barcelona" pageId="0" pageNumber="81282" refId="B7660639" title="Memoria dels departaments de col · leccions del Museu de Ciencies Naturals i de l'Institut Botanic de Barcelona." year="2020">
+<author pageId="0" pageNumber="81282">
+MCNB, Museu de 
+<normalizedToken originalValue="Ciències">Ciencies</normalizedToken>
+Naturals de Barcelona
+</author>
+, 
+<year pageId="0" pageNumber="81282">2020</year>
+. 
+<title pageId="0" pageNumber="81282">
+<normalizedToken originalValue="Memòria">Memoria</normalizedToken>
+dels departaments de col·leccions del Museu de 
+<normalizedToken originalValue="Ciències">Ciencies</normalizedToken>
+Naturals i de 
+<normalizedToken originalValue="l’Institut">l'Institut</normalizedToken>
+<normalizedToken originalValue="Botànic">Botanic</normalizedToken>
+de Barcelona.
+</title>
+<journalOrPublisher pageId="0" pageNumber="81282">
+Museu de 
+<normalizedToken originalValue="Ciències">Ciencies</normalizedToken>
+Naturals de Barcelona
+</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<bibRef author="Murphey, Paul C." journalOrPublisher="Phyloinformatics" pageId="0" pageNumber="81282" pagination="1 - 29" refId="B7660629" title="Georeferencing Of Museum Collections: A Review Of Problems And Automated Tools, And The Methodology Developed By The Mountain And Plains Spatio-Temporal Database-Informatics Initiative (Mapstedi)" volume="3" year="2004">
+<author pageId="0" pageNumber="81282">Murphey, Paul C.</author>
+, 
+<author pageId="0" pageNumber="81282">Guralnick, Robert P.</author>
+, 
+<author pageId="0" pageNumber="81282">Glaubitz, Robert</author>
+, 
+<author pageId="0" pageNumber="81282">Neufeld, David</author>
+, 
+<author pageId="0" pageNumber="81282">Ryan, J. Allen</author>
+, 
+<year pageId="0" pageNumber="81282">2004</year>
+. 
+<title pageId="0" pageNumber="81282">Georeferencing Of Museum Collections: A Review Of Problems And Automated Tools, And The Methodology Developed By The Mountain And Plains Spatio-Temporal Database-Informatics Initiative (Mapstedi)</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="81282">Phyloinformatics</journalOrPublisher>
+<volume pageId="0" pageNumber="81282">3</volume>
+: 
+<pagination pageId="0" pageNumber="81282">1 - 29</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<bibRef author="Nelson, Gil" journalOrPublisher="Philosophical Transactions of the Royal Society B: Biological Sciences" pageId="0" pageNumber="81282" refId="B7660647" title="The history and impact of digitization and digital data mobilization on biodiversity research" volume="374" year="2018">
+<author pageId="0" pageNumber="81282">Nelson, Gil</author>
+, 
+<author pageId="0" pageNumber="81282">Ellis, Shari</author>
+, 
+<year pageId="0" pageNumber="81282">2018</year>
+. 
+<title pageId="0" pageNumber="81282">The history and impact of digitization and digital data mobilization on biodiversity research</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="81282">Philosophical Transactions of the Royal Society B: Biological Sciences</journalOrPublisher>
+<volume pageId="0" pageNumber="81282">374</volume>
+(
+<issue pageId="0" pageNumber="81282">1763</issue>
+)
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<bibRef author="Rios, N. E." journalOrPublisher="Belle Chasse, LA: Tulane University Museum of Natural History." pageId="0" pageNumber="81282" refId="B7725256" title="GEOLocate" year="2010">
+<author pageId="0" pageNumber="81282">Rios, N. E.</author>
+, 
+<author pageId="0" pageNumber="81282">Bart, H. L.</author>
+, 
+<year pageId="0" pageNumber="81282">2010</year>
+. 
+<title pageId="0" pageNumber="81282">GEOLocate</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="81282">Belle Chasse, LA: Tulane University Museum of Natural History.</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<bibRef author="Weston, P." journalOrPublisher="The Guardian" pageId="0" pageNumber="81282" refId="B7660656" title="The Guardian. The age of extinction. No visitors but teeming with life: what's going on inside the Natural History Museum?" year="2021">
+<author pageId="0" pageNumber="81282">Weston, P.</author>
+, 
+<year pageId="0" pageNumber="81282">2021</year>
+. 
+<title pageId="0" pageNumber="81282">
+The Guardian. The age of extinction. No visitors but teeming with life: 
+<normalizedToken originalValue="what’s">what's</normalizedToken>
+going on inside the Natural History Museum?
+</title>
+<journalOrPublisher pageId="0" pageNumber="81282">The Guardian</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="81282">
+<bibRef author="Wieczorek, John" journalOrPublisher="International Journal of Geographic Information Science" pageId="0" pageNumber="81282" pagination="745 - 767" refId="B7725066" title="The point-radius method for georeferencing locality descriptions and calculating associated uncertainty" volume="18" year="2004">
+<author pageId="0" pageNumber="81282">Wieczorek, John</author>
+, 
+<author pageId="0" pageNumber="81282">Guo, Qinghua</author>
+, 
+<author pageId="0" pageNumber="81282">Hijmans, Robert J.</author>
+, 
+<year pageId="0" pageNumber="81282">2004</year>
+. 
+<title pageId="0" pageNumber="81282">The point-radius method for georeferencing locality descriptions and calculating associated uncertainty</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="81282">International Journal of Geographic Information Science</journalOrPublisher>
+<volume pageId="0" pageNumber="81282">18</volume>
+(
+<issue pageId="0" pageNumber="81282">8</issue>
+): 
+<pagination pageId="0" pageNumber="81282">745 - 767</pagination>
+</bibRef>
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="81282" type="multiple">
+<caption doi="10.3897/BDJ.10.e81282.figure1" httpUri="https://binary.pensoft.net/fig/637518" pageId="0" pageNumber="81282" start="Figure 1" startId="F7660368">
+<paragraph pageId="0" pageNumber="81282">
+<emphasis bold="true" pageId="0" pageNumber="81282">Figure 1.</emphasis>
+Example of two site names hierarchies administrative: a) hierarchy based on administrative units and, b) based on administrative units and protected areas.
+</paragraph>
+</caption>
+<caption doi="10.3897/BDJ.10.e81282.figure2" httpUri="https://binary.pensoft.net/fig/637522" pageId="0" pageNumber="81282" start="Figure 2" startId="F7660444">
+<paragraph pageId="0" pageNumber="81282">
+<emphasis bold="true" pageId="0" pageNumber="81282">Figure 2.</emphasis>
+The Montseny protected area georeferenced with a polygon with its uncertainty circle: a) an example of a first coarse polygon version of the protected area; b) a second improved version of the polygon representing the georeference, also with its uncertainty circle.
+</paragraph>
+</caption>
+<caption doi="10.3897/BDJ.10.e81282.figure3" httpUri="https://binary.pensoft.net/fig/637523" pageId="0" pageNumber="81282" start="Figure 3" startId="F7660448">
+<paragraph pageId="0" pageNumber="81282">
+<emphasis bold="true" pageId="0" pageNumber="81282">Figure 3.</emphasis>
+Detail of the map viewer for: a) georeferencing resources and b) site names. The polygon encompassing the georeferencing resource &quot;Nomenclator of Site Names of the Balearic Islands&quot; is shown in a) and a detailed view of the georeferenced site names of the eastern part of the Island of Minorca is shown in b). Tools for zooming and editing can be seen on the left side of the viewer and for layer selection on the top-right corner.
+</paragraph>
+</caption>
+<caption doi="10.3897/BDJ.10.e81282.figure4" httpUri="https://binary.pensoft.net/fig/637524" pageId="0" pageNumber="81282" start="Figure 4" startId="F7660452">
+<paragraph pageId="0" pageNumber="81282">
+<emphasis bold="true" pageId="0" pageNumber="81282">Figure 4.</emphasis>
+Tool for filtering and exporting site names.
+</paragraph>
+</caption>
+<caption doi="10.3897/BDJ.10.e81282.figure5" httpUri="https://binary.pensoft.net/fig/637525" pageId="0" pageNumber="81282" start="Figure 5" startId="F7660456">
+<paragraph pageId="0" pageNumber="81282">
+<emphasis bold="true" pageId="0" pageNumber="81282">Figure 5.</emphasis>
+Application architecture of Ali-Bey deployed as a Docker multi-container application. A user connects with a web browser through the Internet to an Nginx web server that gives access to the application. The application is implemented with the Django web framework that interacts with the map server Geoserver and with the PostgreSQL/PostGIS database with the help of the Python HTTP server Gunicorn. The PostgreSQL alphanumeric and spatial database files and the layer metadata are all persistently stored in the host filesystem, configured as a Docker volume.
+</paragraph>
+</caption>
+</subSection>
+</document>

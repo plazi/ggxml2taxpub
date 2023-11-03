@@ -1,0 +1,2422 @@
+<?xml version="1.0" encoding="UTF-8"?><document xmlns:dwc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:tp="http://www.plazi.org/taxpub" xmlns:xlink="http://www.w3.org/1999/xlink" ID-DOI="http://dx.doi.org/10.3897/zookeys.720.13963" ID-PMC="PMC5784215" ID-Pensoft-Pub="1313-2970-720-5" ID-PubMed="29391849" ID-ZBK="F7F02CEC26644584A765745A6E0CF72B" ModsDocAuthor="" ModsDocDate="2017" ModsDocID="1313-2970-720-5" ModsDocOrigin="ZooKeys 720" ModsDocTitle="Chrysomelinae species (Coleoptera, Chrysomelidae) and new biological data from Rio de Janeiro, Brazil1" checkinTime="1513034213259" checkinUser="pensoft" docAuthor="Flinte, Vivian &amp; Abejanella, André &amp; Daccordi, Mauro &amp; Monteiro, Ricardo F. &amp; Macedo, Margarete Valverde" docDate="2017" docId="0051FFE0FFCB881EFFADFFA9FFF1FFB9" docName="ZooKeys 720: 5-22" docOrigin="ZooKeys 720" docSource="http://dx.doi.org/10.3897/zookeys.720.13963" docTitle="Chrysomelinae species (Coleoptera, Chrysomelidae) and new biological data from Rio de Janeiro, Brazil 1" docVersion="3" lastPageNumber="22" pageNumber="5" updateTime="1668173272630" updateUser="ExternalLinkService">
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Chrysomelinae species (Coleoptera, Chrysomelidae) and new biological data from Rio de Janeiro, Brazil1</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Flinte, Vivian</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>
+Abejanella, 
+<normalizedToken originalValue="André">Andre</normalizedToken>
+</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Daccordi, Mauro</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Monteiro, Ricardo F.</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Macedo, Margarete Valverde</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>ZooKeys</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>720</mods:number>
+</mods:detail>
+<mods:date>2017</mods:date>
+<mods:extent unit="page">
+<mods:start>5</mods:start>
+<mods:end>22</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://dx.doi.org/10.3897/zookeys.720.13963</mods:url>
+</mods:location>
+<mods:identifier type="DOI">http://dx.doi.org/10.3897/zookeys.720.13963</mods:identifier>
+<mods:identifier type="Pensoft-Pub">1313-2970-720-5</mods:identifier>
+<mods:identifier type="ZBK">F7F02CEC26644584A765745A6E0CF72B</mods:identifier>
+<mods:classification>journal article</mods:classification>
+</mods:mods>
+<subSection pageId="0" pageNumber="5" type="introduction">
+<paragraph pageId="0" pageNumber="5">
+<pageBreakToken origin="extrapolated" pageId="0" pageNumber="5" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph pageId="0" pageNumber="5">
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+is the fifth largest subfamily of 
+<taxonomicName family="Chrysomelidae" lsidName="" pageId="0" pageNumber="5" rank="family">Chrysomelidae</taxonomicName>
+, after 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Galerucinae">Galerucinae</taxonomicName>
+, 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Eumolpinae">Eumolpinae</taxonomicName>
+, 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Cassidinae">Cassidinae</taxonomicName>
+and 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Cryptocephalinae">Cryptocephalinae</taxonomicName>
+(
+<bibRefCitation author="Reid, CAM" journalOrPublisher="Zootaxa" pageId="7" pageNumber="12" pagination="1 - 119" title="A taxonomic revision of the Australian Chrysomelinae, with a key to the genera (Coleoptera: Chrysomelidae)." volume="1292" year="2006">Reid 2006</bibRefCitation>
+), with 3,000 species and 132 genera (
+<bibRefCitation pageId="0" pageNumber="5">Daccordi 1994</bibRefCitation>
+, 
+<bibRefCitation pageId="0" pageNumber="5">1996</bibRefCitation>
+, 
+<bibRefCitation pageId="0" pageNumber="5">Riley et al. 2002</bibRefCitation>
+), but these numbers vary among authors (see 
+<bibRefCitation author="Seeno, TN" journalOrPublisher="Entomography" pageId="7" pageNumber="12" pagination="1 - 221" title="Leaf Beetle Genera (Coleoptera: Chrysomelidae)." volume="1" year="1982">Seeno and Wilcox 1982</bibRefCitation>
+, 
+<bibRefCitation pageId="0" pageNumber="5">Reid 1995</bibRefCitation>
+). Two tribes are generally recognized: 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="tribe" tribe="Timarchini">Timarchini</taxonomicName>
+, which is monogeneric with 
+<taxonomicName genus="Timarcha" lsidName="Timarcha" pageId="0" pageNumber="5" rank="genus">Timarcha</taxonomicName>
+Latreille (ca. 100 species); and 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="tribe" tribe="Chrysomelini">Chrysomelini</taxonomicName>
+containing the remainder (
+<bibRefCitation author="Seeno, TN" journalOrPublisher="Entomography" pageId="7" pageNumber="12" pagination="1 - 221" title="Leaf Beetle Genera (Coleoptera: Chrysomelidae)." volume="1" year="1982">Seeno and Wilcox 1982</bibRefCitation>
+, 
+<bibRefCitation pageId="0" pageNumber="5">Daccordi 1994</bibRefCitation>
+). However, there are still many problems concerning 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+taxonomy. 
+<bibRefCitation pageId="0" pageNumber="5">Daccordi (1996)</bibRefCitation>
+listed 38 genera for the Neotropical region, out of which 31 are exclusive to the area. Some of the main contributions for Neotropical 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+taxonomy and cataloguing are those by Jan 
+<normalizedToken originalValue="Bechyně">Bechyne</normalizedToken>
+(e.g. 
+<bibRefCitation pageId="0" pageNumber="5">1954</bibRefCitation>
+, 
+<bibRefCitation pageId="0" pageNumber="5">1958</bibRefCitation>
+, 
+<bibRefCitation author="Bechyn ӗ, J" journalOrPublisher="Grafindustrial, Maracay" pageId="5" pageNumber="10" title="El Jannelismo y la evolucion." year="1980">1980</bibRefCitation>
+), which include many species descriptions and some regional lists, and, more recently, a key to the genera in Costa Rica by Wills 
+<bibRefCitation author="Flowers, RW" journalOrPublisher="Revista de Biologia Tropical" pageId="6" pageNumber="11" pagination="77 - 83" title="The genera of Chrysomelinae (Coleoptera: Chrysomelidae) in Costa Rica." url="https://doi.org/10.15517/rbt.v52i1.14754" volume="52" year="2004">Flowers (2004)</bibRefCitation>
+, modified from 
+<bibRefCitation author="Bechyne, J" journalOrPublisher="Revista de la Facultad de Agronomia (Maracay)" pageId="5" pageNumber="10" pagination="44 - 110" title="Notes sur les Chrysomelidae s. str. de Venezuela et des pays limitrophes." volume="3" year="1965">
+<normalizedToken originalValue="Bechyně">Bechyne</normalizedToken>
+and Springlova de 
+<normalizedToken originalValue="Bechyně">Bechyne</normalizedToken>
+(1965)
+</bibRefCitation>
+. Both larvae and adults normally feed on leaves of the same host plant species and species tend to be monophagous or to feed on a narrow group of related plant species (
+<bibRefCitation author="Jolivet, P" editor="Jolivet, P" journalOrPublisher="Pergamon Press, Elmsford" pageId="6" pageNumber="11" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-009-3105-3_1" year="1988">Jolivet 1988</bibRefCitation>
+). The same author pointed out that host plants are known for nearly 40% of 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+genera, and data are largely lacking for tropical species. In the Neotropical area, 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+are frequently associated with 
+<taxonomicName family="Solanaceae" lsidName="" pageId="0" pageNumber="5" rank="family">Solanaceae</taxonomicName>
+, 
+<taxonomicName family="Asteraceae" lsidName="" pageId="0" pageNumber="5" rank="family">Asteraceae</taxonomicName>
+, 
+<taxonomicName family="Apocynaceae" lsidName="" pageId="0" pageNumber="5" rank="family">Apocynaceae</taxonomicName>
+, and 
+<taxonomicName family="Zygophyllaceae" lsidName="" pageId="0" pageNumber="5" rank="family">Zygophyllaceae</taxonomicName>
+(
+<bibRefCitation author="Jolivet, P" journalOrPublisher="Backhuys Publishers, Leiden" pageId="6" pageNumber="11" title="Host-plants of Chrysomelidae beetles of the world: an essay about the relationships between leaf beetles and their food-plants." year="1995">Jolivet and Hawkeswood 1995</bibRefCitation>
+). However, knowledge of 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+biology is rare in this region, remaining so two decades after being underlined by 
+<bibRefCitation author="Jolivet, P" journalOrPublisher="Societe nouvelle des editions Boubee, Paris" pageId="6" pageNumber="11" title="Biologie des Coleopteres Chrysomelides." year="1997">Jolivet (1997)</bibRefCitation>
+.
+</paragraph>
+<paragraph pageId="0" pageNumber="5">
+Except for some ecological studies and species records confined to entomological collections, no list of species exists for the subfamily in the State of Rio de Janeiro or even in Brazil. Since we have conducted extensive research in a protected area in the state and have accumulated considerable biological information on 
+<taxonomicName family="Chrysomelidae" lsidName="" pageId="0" pageNumber="5" rank="family">Chrysomelidae</taxonomicName>
+species, our aim here is to compile the first regional list of 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+in Brazil, and to assemble natural history traits for the species found in Serra dos 
+<normalizedToken originalValue="Órgãos">Orgaos</normalizedToken>
+National Park, State of Rio de Janeiro.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="5" type="materials|methods">
+<paragraph pageId="0" pageNumber="5">Materials and methods</paragraph>
+<paragraph pageId="0" pageNumber="5">
+For 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+species list compilation for Brazil, four national collections were examined: 
+<normalizedToken originalValue="Coleção">Colecao</normalizedToken>
+<normalizedToken originalValue="entomológica">entomologica</normalizedToken>
+do 
+<normalizedToken originalValue="Laboratório">Laboratorio</normalizedToken>
+de Ecologia de Insetos / Universidade Federal do Rio de Janeiro, Rio de Janeiro (CLEI); Museu Nacional / Universidade Federal do Rio de Janeiro, Rio de Janeiro (MNRJ), except species from Itatiaia; 
+<normalizedToken originalValue="Coleção">Colecao</normalizedToken>
+<normalizedToken originalValue="entomológica">entomologica</normalizedToken>
+da 
+<normalizedToken originalValue="Fundação">Fundacao</normalizedToken>
+Instituto Oswaldo Cruz, Rio de Janeiro (CEIOC); and Museu Paraense 
+<normalizedToken originalValue="Emílio">Emilio</normalizedToken>
+Goeldi, 
+<normalizedToken originalValue="Belém">Belem</normalizedToken>
+(MPEG). The digital collection of the Museo del Instituto de Zoologia Agricola, Universidad Central de Venezuela (MIZA) was also consulted. Finally, the literature was searched for additional records. These records are indicated in Table 1. Location is given by the municipality within the State of Rio de Janeiro, which comprises 43,696 km² and represents less than 1% of the 
+<normalizedToken originalValue="country’s">country's</normalizedToken>
+area. Taxonomy follows 
+<bibRefCitation pageId="0" pageNumber="5">Daccordi (1994)</bibRefCitation>
+and 
+<bibRefCitation author="Seeno, TN" journalOrPublisher="Entomography" pageId="7" pageNumber="12" pagination="1 - 221" title="Leaf Beetle Genera (Coleoptera: Chrysomelidae)." volume="1" year="1982">Seeno and Wilcox (1982)</bibRefCitation>
+.
+</paragraph>
+<caption ID-Table-UUID="2E39118B9514C6BFFD96490807451334" httpUri="http://table.plazi.org/id/2E39118B9514C6BFFD96490807451334" pageId="0" pageNumber="5">
+<paragraph pageId="0" pageNumber="5">
+Table 1. List of 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+species. 
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+species from the State of Rio de Janeiro, indicating the municipality of the record and specific location, when available. Numbers indicate the source of information (see footnote below table). SONP = Serra dos 
+<normalizedToken originalValue="Órgãos">Orgaos</normalizedToken>
+National Park; INP = Itatiaia National Park.
+</paragraph>
+</caption>
+<paragraph pageId="0" pageNumber="5">
+<table pageId="0" pageNumber="5">
+<tr pageId="0" pageNumber="5">
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="1" pageId="0" pageNumber="5" rowspan="1">Species</th>
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="1" pageId="0" pageNumber="5" rowspan="1">Location</th>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="2" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="tribe" tribe="Chrysomelini">Chrysomelini</taxonomicName>
+: 
+<taxonomicName genus="Chrysolinina" lsidName="Chrysolinina" pageId="0" pageNumber="5" rank="subtribe" subtribe="Chrysolinina">Chrysolinina</taxonomicName>
+15 genera and 91 species
+</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Calligrapha" lsidName="Calligrapha polyspila" pageId="0" pageNumber="5" rank="species" species="polyspila">Calligrapha polyspila</taxonomicName>
+1A
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">33133SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Cosmogramma" lsidName="Cosmogramma decora" pageId="0" pageNumber="5" rank="species" species="decora">Cosmogramma decora</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">INP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Cosmogramma" lsidName="Cosmogramma fulvocincta" pageId="0" pageNumber="5" rank="species" species="fulvocincta">Cosmogramma fulvocincta</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Cosmogramma" lsidName="Cosmogramma wygodzinskyi" pageId="0" pageNumber="5" rank="species" species="wygodzinskyi">Cosmogramma wygodzinskyi</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">4</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Cryptostetha" lsidName="Cryptostetha hieroglyphica" pageId="0" pageNumber="5" rank="species" species="hieroglyphica">Cryptostetha hieroglyphica</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3INP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Cryptostetha" lsidName="Cryptostetha notatifrons" pageId="0" pageNumber="5" rank="species" species="notatifrons">Cryptostetha notatifrons</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta achardi" pageId="0" pageNumber="5" rank="species" species="achardi">Deuterocampta achardi</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">4</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta cruxnigra" pageId="0" pageNumber="5" rank="species" species="cruxnigra">Deuterocampta cruxnigra</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta fallax" pageId="0" pageNumber="5" rank="species" species="fallax">Deuterocampta fallax</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">242</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta humeralis" pageId="0" pageNumber="5" rank="species" species="humeralis">Deuterocampta humeralis</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta leucomelaena" pageId="0" pageNumber="5" rank="species" species="leucomelaena">Deuterocampta leucomelaena</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3,4INP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta pustulicollis" pageId="0" pageNumber="5" rank="species" species="pustulicollis">Deuterocampta pustulicollis</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">2,4</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta sedula" pageId="0" pageNumber="5" rank="species" species="sedula">Deuterocampta sedula</taxonomicName>
+1B
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">2SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta semistriata" pageId="0" pageNumber="5" rank="species" species="semistriata">Deuterocampta semistriata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP443</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta stauroptera" pageId="0" pageNumber="5" rank="species" species="stauroptera">Deuterocampta stauroptera</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">43434</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta undulata" pageId="0" pageNumber="5" rank="species" species="undulata">Deuterocampta undulata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">4</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta vittulosa" pageId="0" pageNumber="5" rank="species" species="vittulosa">Deuterocampta vittulosa</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">4</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Dorysterna" lsidName="Dorysterna cruentata" pageId="0" pageNumber="5" rank="species" species="cruentata">Dorysterna cruentata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Dorysterna" lsidName="Dorysterna dorsosignata" pageId="0" pageNumber="5" rank="species" species="dorsosignata">Dorysterna dorsosignata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">INP122</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Dorysterna" lsidName="Dorysterna riopardensis" pageId="0" pageNumber="5" rank="species" species="riopardensis">Dorysterna riopardensis</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">2</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Dorysterna" lsidName="Dorysterna salvatori" pageId="0" pageNumber="5" rank="species" species="salvatori">Dorysterna salvatori</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Elytrosphaera" lsidName="Elytrosphaera breviuscula" pageId="0" pageNumber="5" rank="species" species="breviuscula">Elytrosphaera breviuscula</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">4</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Elytrosphaera" lsidName="Elytrosphaera lahtivirtai" pageId="0" pageNumber="5" rank="species" species="lahtivirtai">Elytrosphaera lahtivirtai</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">INP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Elytrosphaera" lsidName="Elytrosphaera noverca" pageId="0" pageNumber="5" rank="species" species="noverca">Elytrosphaera noverca</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Elytrosphaera" lsidName="Elytrosphaera xanthopyga" pageId="0" pageNumber="5" rank="species" species="xanthopyga">Elytrosphaera xanthopyga</taxonomicName>
+1C
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">1,332,3SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Eugonycha" lsidName="Eugonycha bryanti" pageId="0" pageNumber="5" rank="species" species="bryanti">Eugonycha bryanti</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">4</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Gavirga" lsidName="Gavirga subaenea" pageId="0" pageNumber="5" rank="species" species="subaenea">Gavirga subaenea</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">4</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Grammodesma" lsidName="Grammodesma elongata" pageId="0" pageNumber="5" rank="species" species="elongata">Grammodesma elongata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">INP8</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Grammodesma" lsidName="Grammodesma luridipennis" pageId="0" pageNumber="5" rank="species" species="luridipennis">Grammodesma luridipennis</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">INP8</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Grammodesma" lsidName="Grammodesma obliqua" pageId="0" pageNumber="5" rank="species" species="obliqua">Grammodesma obliqua</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3,48</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Grammodesma" lsidName="Grammodesma rubroaenea" pageId="0" pageNumber="5" rank="species" species="rubroaenea">Grammodesma rubroaenea</taxonomicName>
+1D
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Grammodesma" lsidName="Grammodesma stulta" pageId="0" pageNumber="5" rank="species" species="stulta">Grammodesma stulta</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">242</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Metastyla" lsidName="Metastyla insignis" pageId="0" pageNumber="5" rank="species" species="insignis">Metastyla insignis</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">2,432</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Monocampta" lsidName="Monocampta crucigera" pageId="0" pageNumber="5" rank="species" species="crucigera">Monocampta crucigera</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">333333,42SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora acuminata" pageId="0" pageNumber="5" rank="species" species="acuminata">Platyphora acuminata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora angulata" pageId="0" pageNumber="5" rank="species" species="angulata">Platyphora angulata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">5</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora axillaris" pageId="0" pageNumber="5" rank="species" species="axillaris">Platyphora axillaris</taxonomicName>
+1E
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3333312,3SONP1,10SONP13</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora biforis" pageId="0" pageNumber="5" rank="species" species="biforis">Platyphora biforis</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">332</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora bigata" pageId="0" pageNumber="5" rank="species" species="bigata">Platyphora bigata</taxonomicName>
+1F
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora bullata" pageId="0" pageNumber="5" rank="species" species="bullata">Platyphora bullata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">2</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora cincta" pageId="0" pageNumber="5" rank="species" species="cincta">Platyphora cincta</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3SONP3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora congener" pageId="0" pageNumber="5" rank="species" species="congener">Platyphora congener</taxonomicName>
+1G
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">33SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora conviva" pageId="0" pageNumber="5" rank="species" species="conviva">Platyphora conviva</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3INP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora curticollis" pageId="0" pageNumber="5" rank="species" species="curticollis">Platyphora curticollis</taxonomicName>
+1H
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora dejeani" pageId="0" pageNumber="5" rank="species" species="dejeani">Platyphora dejeani</taxonomicName>
+1I
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">1311332,3SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora difficilis" pageId="0" pageNumber="5" rank="species" species="difficilis">Platyphora difficilis</taxonomicName>
+1J
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora dilaticollis" pageId="0" pageNumber="5" rank="species" species="dilaticollis">Platyphora dilaticollis</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">33SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora fasciatomaculata" pageId="0" pageNumber="5" rank="species" species="fasciatomaculata">Platyphora fasciatomaculata</taxonomicName>
+1K
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">INP1SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora fervida" pageId="0" pageNumber="5" rank="species" species="fervida">Platyphora fervida</taxonomicName>
+1L
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">32SONP1,9</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora figurata" pageId="0" pageNumber="5" rank="species" species="figurata">Platyphora figurata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">33</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora flavovittata" pageId="0" pageNumber="5" rank="species" species="flavovittata">Platyphora flavovittata</taxonomicName>
+1M
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3INP1SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora fraterna" pageId="0" pageNumber="5" rank="species" species="fraterna">Platyphora fraterna</taxonomicName>
+1N
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora histrio" pageId="0" pageNumber="5" rank="species" species="histrio">Platyphora histrio</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3323</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora irrorata" pageId="0" pageNumber="5" rank="species" species="irrorata">Platyphora irrorata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">333</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora itatiayensis" pageId="0" pageNumber="5" rank="species" species="itatiayensis">Platyphora itatiayensis</taxonomicName>
+1O
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora jucunda" pageId="0" pageNumber="5" rank="species" species="jucunda">Platyphora jucunda</taxonomicName>
+1P
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora langsdorfi" pageId="0" pageNumber="5" rank="species" species="langsdorfi">Platyphora langsdorfi</taxonomicName>
+1Q
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora pardalina" pageId="0" pageNumber="5" rank="species" species="pardalina">Platyphora pardalina</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora pastica" pageId="0" pageNumber="5" rank="species" species="pastica">Platyphora pastica</taxonomicName>
+1R
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">333SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora pervicax" pageId="0" pageNumber="5" rank="species" species="pervicax">Platyphora pervicax</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora princeps" pageId="0" pageNumber="5" rank="species" species="princeps">Platyphora princeps</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora reticulata" pageId="0" pageNumber="5" rank="species" species="reticulata">Platyphora reticulata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3SONP3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora semiviridis" pageId="0" pageNumber="5" rank="species" species="semiviridis">Platyphora semiviridis</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">36</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora signiceps" pageId="0" pageNumber="5" rank="species" species="signiceps">Platyphora signiceps</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3SONP3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora" pageId="0" pageNumber="5" rank="genus">Platyphora</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">INP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora strigilata" pageId="0" pageNumber="5" rank="species" species="strigilata">Platyphora strigilata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3INP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora tesselata" pageId="0" pageNumber="5" rank="species" species="tesselata">Platyphora tesselata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora variolaris" pageId="0" pageNumber="5" rank="species" species="variolaris">Platyphora variolaris</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">2</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora vidanoi" pageId="0" pageNumber="5" rank="species" species="vidanoi">Platyphora vidanoi</taxonomicName>
+1S
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3INP1SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora vigintiunopunctata" pageId="0" pageNumber="5" rank="species" species="vigintiunopunctata">Platyphora vigintiunopunctata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3SONP2</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora zikani" pageId="0" pageNumber="5" rank="species" species="zikani">Platyphora zikani</taxonomicName>
+1T
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora zonata" pageId="0" pageNumber="5" rank="species" species="zonata">Platyphora zonata</taxonomicName>
+1U
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">13SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes flavosignata" pageId="0" pageNumber="5" rank="species" species="flavosignata">Stilodes flavosignata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">223SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes jocosa" pageId="0" pageNumber="5" rank="species" species="jocosa">Stilodes jocosa</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">2,4</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes nigriventris" pageId="0" pageNumber="5" rank="species" species="nigriventris">Stilodes nigriventris</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">212,4</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes peltasta" pageId="0" pageNumber="5" rank="species" species="peltasta">Stilodes peltasta</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">2</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes" pageId="0" pageNumber="5" rank="genus">Stilodes</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP1,9</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes" pageId="0" pageNumber="5" rank="genus">Stilodes</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes thetis" pageId="0" pageNumber="5" rank="species" species="thetis">Stilodes thetis</taxonomicName>
+1V
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">INP1SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes trimaculicollis" pageId="0" pageNumber="5" rank="species" species="trimaculicollis">Stilodes trimaculicollis</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">32SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes (Eustilodes) cordata" pageId="0" pageNumber="5" rank="species" species="cordata" subGenus="Eustilodes">Stilodes (Eustilodes) cordata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">4SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes (Eustilodes) cornuta" pageId="0" pageNumber="5" rank="species" species="cornuta" subGenus="Eustilodes">Stilodes (Eustilodes) cornuta</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes (Eustilodes) denticeps" pageId="0" pageNumber="5" rank="species" species="denticeps" subGenus="Eustilodes">Stilodes (Eustilodes) denticeps</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">4</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes (Grammomades) impuncticollis" pageId="0" pageNumber="5" rank="species" species="impuncticollis" subGenus="Grammomades">Stilodes (Grammomades) impuncticollis</taxonomicName>
+1W
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">332SONP1,9</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes (Isostilodes) bisbilineata" pageId="0" pageNumber="5" rank="species" species="bisbilineata" subGenus="Isostilodes">Stilodes (Isostilodes) bisbilineata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Trichomela" lsidName="Trichomela notaticollis" pageId="0" pageNumber="5" rank="species" species="notaticollis">Trichomela notaticollis</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3SONP3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Trichomela" lsidName="Trichomela xantholoma" pageId="0" pageNumber="5" rank="species" species="xantholoma">Trichomela xantholoma</taxonomicName>
+1X
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Zygogramma" lsidName="Zygogramma appendiculata" pageId="0" pageNumber="5" rank="species" species="appendiculata">Zygogramma appendiculata</taxonomicName>
+1Y
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Zygogramma" lsidName="Zygogramma novemstriata" pageId="0" pageNumber="5" rank="species" species="novemstriata">Zygogramma novemstriata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Zygogramma" lsidName="Zygogramma (Tritaenia) mendesi" pageId="0" pageNumber="5" rank="species" species="mendesi" subGenus="Tritaenia">Zygogramma (Tritaenia) mendesi</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3,43</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Zygogramma" lsidName="Zygogramma (Tritaenia) virgata" pageId="0" pageNumber="5" rank="species" species="virgata" subGenus="Tritaenia">Zygogramma (Tritaenia) virgata</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">2</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="2" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="tribe" tribe="Chrysomelini">Chrysomelini</taxonomicName>
+: 
+<taxonomicName genus="Chrysomelina" lsidName="Chrysomelina" pageId="0" pageNumber="5" rank="subtribe" subtribe="Chrysomelina">Chrysomelina</taxonomicName>
+5 genera and 8 species
+</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Lioplacis" lsidName="Lioplacis meridionalis" pageId="0" pageNumber="5" rank="species" species="meridionalis">Lioplacis meridionalis</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">INP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Phaedon" lsidName="Phaedon confinis" pageId="0" pageNumber="5" rank="species" species="confinis">Phaedon confinis</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">33</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Phaedon" lsidName="Phaedon consimilis" pageId="0" pageNumber="5" rank="species" species="consimilis">Phaedon consimilis</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">3</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Phaedon" lsidName="Phaedon pertinax" pageId="0" pageNumber="5" rank="species" species="pertinax">Phaedon pertinax</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">4333</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Pixis" lsidName="Pixis clavigera" pageId="0" pageNumber="5" rank="species" species="clavigera">Pixis clavigera</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">2</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Pixis" lsidName="Pixis columbina" pageId="0" pageNumber="5" rank="species" species="columbina">Pixis columbina</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">7SONP1</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Plagiodera" lsidName="Plagiodera gounelli" pageId="0" pageNumber="5" rank="species" species="gounelli">Plagiodera gounelli</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">22</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Trochalonota" lsidName="Trochalonota badia" pageId="0" pageNumber="5" rank="species" species="badia">Trochalonota badia</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">223</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="2" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="tribe" tribe="Chrysomelini">Chrysomelini</taxonomicName>
+: 
+<taxonomicName genus="Entomoscelina" lsidName="Entomoscelina" pageId="0" pageNumber="5" rank="subtribe" subtribe="Entomoscelina">Entomoscelina</taxonomicName>
+1 genus and 1 species
+</td>
+</tr>
+<tr pageId="0" pageNumber="5">
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">
+<taxonomicName genus="Microtheca" lsidName="Microtheca ochroloma" pageId="0" pageNumber="5" rank="species" species="ochroloma">Microtheca ochroloma</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="5" rowspan="1">22</td>
+</tr>
+</table>
+</paragraph>
+<paragraph pageId="0" pageNumber="5">
+For documentation of 
+<normalizedToken originalValue="species’">species'</normalizedToken>
+natural history and host plants, data assembled from field expeditions during different research projects conducted at Serra dos 
+<normalizedToken originalValue="Órgãos">Orgaos</normalizedToken>
+National Park (
+<geoCoordinate direction="south" orientation="latitude" precision="15" value="-22.448889">22°26'56"S</geoCoordinate>
+; 
+<geoCoordinate direction="west" orientation="longitude" precision="15" value="-42.984722">42°59'5"W</geoCoordinate>
+), State of Rio de Janeiro, between 2005 and 2010 was used. The duration, months and number of participants of field expeditions per year are as follows: 2005 (1 or 2 days every month, 3 to 5 collectors); 2006 (2 to 4 days every month, 3 to 5 collectors); 2007 (2 to 4 days every month, 3 to 5 collectors); 2008 (1 or 2 days every month, 2 or 3 collectors); 2009 (1 or 2 days every month, 2 or 3 collectors); 2010 (1 or 2 days every month, 1 or 2 collectors).
+</paragraph>
+<paragraph pageId="0" pageNumber="5">Study Site</paragraph>
+<paragraph pageId="0" pageNumber="5">
+The park covers an area of 20,024 ha of well-preserved Atlantic Rain Forest (see 
+<bibRefCitation author="Veloso, HP" journalOrPublisher="Fundacao Instituto Brasileiro de Geografia e Estatistica (IBGE), Rio de Janeiro" pageId="8" pageNumber="13" title="Classificacao da Vegetacao Brasileira Adaptada a Um Sistema Universal." year="1991">Veloso et al. 1991</bibRefCitation>
+for more on local vegetation) and is located ca. 100 km from Rio de Janeiro, in a mountainous area ranging from 80 m to 2263 m elevation. The climate is tropical, with a colder drier season from May to August, and a rainy warmer period from November to February (
+<bibRefCitation author="Flinte, V" editor="Jolivet, P" journalOrPublisher="ZooKeys" pageId="6" pageNumber="11" title="2. Brill, Leiden" url="https://doi.org/10.1163/ej.9789004169470.1-299.14" year="2009 b">Flinte et al. 2009b</bibRefCitation>
+). Mean annual temperature is around 18 °C, maximum of 38 °C and minimum of 0 °C. Annual precipitation varies between 1250 and 1500 mm (
+<bibRefCitation pageId="0" pageNumber="5">Flinte et al. 2008</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="5">Species study and collection</paragraph>
+<paragraph pageId="0" pageNumber="5">
+Species were sampled by a combination of manual collecting, sweep nets and malaise traps, during the conduction of other projects with 
+<taxonomicName family="Chrysomelidae" lsidName="" pageId="0" pageNumber="5" rank="family">Chrysomelidae</taxonomicName>
+in the park. When a species was initially found in the field, individuals in as many different developmental stages as possible were brought to the laboratory and reared in plastic containers for host plant confirmation and observations on behavior and biology. In an attempt to describe species seasonal distribution in the area, considering data on labels of specimens from all collections, we recorded the different months on which they were collected and summed the number of species per month (independent of year).
+</paragraph>
+<paragraph pageId="0" pageNumber="5">Identification and vouchers</paragraph>
+<paragraph pageId="0" pageNumber="5">
+<taxonomicName lsidName="" pageId="0" pageNumber="5" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+species were identified by Mauro Daccordi. 
+<taxonomicName family="Solanaceae" genus="Entomoscelina" lsidName="Entomoscelina" pageId="0" pageNumber="5" rank="family">Solanaceae</taxonomicName>
+host plants were identified by Lucia 
+<normalizedToken originalValue="d’Ávila">d'Avila</normalizedToken>
+Freire de Carvalho (Jardim 
+<normalizedToken originalValue="Botânico">Botanico</normalizedToken>
+do Rio de Janeiro) and Luciano Bianchetti (Embrapa/
+<normalizedToken originalValue="Brasília">Brasilia</normalizedToken>
+), 
+<taxonomicName family="Asteraceae" genus="Entomoscelina" lsidName="Entomoscelina" pageId="0" pageNumber="5" rank="family">Asteraceae</taxonomicName>
+by Roberto 
+<normalizedToken originalValue="Lourenço">Lourenco</normalizedToken>
+Esteves (Universidade do Estado do Rio de Janeiro), 
+<taxonomicName family="Convolvulaceae" genus="Entomoscelina" lsidName="Entomoscelina" pageId="0" pageNumber="5" rank="family">Convolvulaceae</taxonomicName>
+by 
+<normalizedToken originalValue="Rosângela">Rosangela</normalizedToken>
+<normalizedToken originalValue="Simão-Bianchini">Simao-Bianchini</normalizedToken>
+(
+<normalizedToken originalValue="Herbário">Herbario</normalizedToken>
+SP - Instituto de 
+<normalizedToken originalValue="Botânica">Botanica</normalizedToken>
+) and 
+<taxonomicName family="Malvaceae" genus="Entomoscelina" lsidName="Entomoscelina" pageId="0" pageNumber="5" rank="family">Malvaceae</taxonomicName>
+by Massimo Bovini (Jardim 
+<normalizedToken originalValue="Botânico">Botanico</normalizedToken>
+do Rio de Janeiro). Thiago Marinho Alvarenga (Universidade de Campinas) identified parasitoids. Species collected at Serra dos 
+<normalizedToken originalValue="Órgãos">Orgaos</normalizedToken>
+National Park are deposited at CLEI-UFRJ, Rio de Janeiro, Brazil.
+</paragraph>
+</subSection>
+<subSection lastPageId="4" lastPageNumber="9" pageId="1" pageNumber="6" type="results and discussion">
+<paragraph pageId="1" pageNumber="6">
+<pageBreakToken pageId="1" pageNumber="6" start="start">Results</pageBreakToken>
+and discussion
+</paragraph>
+<paragraph pageId="1" pageNumber="6">General patterns of richness and distribution</paragraph>
+<paragraph pageId="1" pageNumber="6">
+The 
+<taxonomicName lsidName="" pageId="1" pageNumber="6" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+Neotropical fauna is thought to comprise ca. 38 genera (
+<bibRefCitation pageId="1" pageNumber="6">Daccordi 1996</bibRefCitation>
+) and 1,020 species (
+<bibRefCitation author="Blackwelder, RE" journalOrPublisher="Smithsonian Institution, Washington, D. C." pageId="5" pageNumber="10" title="Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Part 4. U. S. National Museum, Bulletin 185." year="1944">Blackwelder 1944</bibRefCitation>
+), but these are outdated numbers and no such information could be found specifically for Brazil. One hundred species occurring in the State of Rio de Janeiro were recorded, belonging to 21 genera in one tribe (
+<taxonomicName lsidName="" pageId="1" pageNumber="6" rank="tribe" tribe="Chrysomelini">Chrysomelini</taxonomicName>
+) and three subtribes: 
+<taxonomicName genus="Chrysolinina" lsidName="Chrysolinina" pageId="1" pageNumber="6" rank="subtribe" subtribe="Chrysolinina">Chrysolinina</taxonomicName>
+, 
+<taxonomicName genus="Chrysomelina" lsidName="Chrysomelina" pageId="1" pageNumber="6" rank="subtribe" subtribe="Chrysomelina">Chrysomelina</taxonomicName>
+and 
+<taxonomicName genus="Entomoscelina" lsidName="Entomoscelina" pageId="1" pageNumber="6" rank="subtribe" subtribe="Entomoscelina">Entomoscelina</taxonomicName>
+(Table 1). 
+<taxonomicName genus="Chrysolinina" lsidName="Chrysolinina" pageId="1" pageNumber="6" rank="subtribe" subtribe="Chrysolinina">Chrysolinina</taxonomicName>
+was represented by 91 species, followed by 
+<taxonomicName genus="Chrysomelina" lsidName="Chrysomelina" pageId="1" pageNumber="6" rank="subtribe" subtribe="Chrysomelina">Chrysomelina</taxonomicName>
+with eight and 
+<taxonomicName genus="Entomoscelina" lsidName="Entomoscelina" pageId="1" pageNumber="6" rank="subtribe" subtribe="Entomoscelina">Entomoscelina</taxonomicName>
+with only one species (Table 1). According to 
+<bibRefCitation pageId="1" pageNumber="6">Daccordi (1996)</bibRefCitation>
+, there are many endemic 
+<taxonomicName genus="Chrysolinina" lsidName="Chrysolinina" pageId="1" pageNumber="6" rank="subtribe" subtribe="Chrysolinina">Chrysolinina</taxonomicName>
+and 
+<taxonomicName genus="Chrysomelina" lsidName="Chrysomelina" pageId="1" pageNumber="6" rank="subtribe" subtribe="Chrysomelina">Chrysomelina</taxonomicName>
+taxa in the Neotropical region, where they reach their maximum diversity. Only nine species are from previously published sources, the other 91 species we found are new records for the state. The genus with most species records was 
+<taxonomicName genus="Platyphora" lsidName="Platyphora" pageId="1" pageNumber="6" rank="genus">Platyphora</taxonomicName>
+(n = 39) representing 42.4% of 
+<taxonomicName genus="Chrysolinina" lsidName="Chrysolinina" pageId="1" pageNumber="6" rank="subtribe" subtribe="Chrysolinina">Chrysolinina</taxonomicName>
+found and 40% of total species records, followed by 
+<taxonomicName genus="Stilodes" lsidName="Stilodes" pageId="1" pageNumber="6" rank="genus">Stilodes</taxonomicName>
+(n = 13, 12.9% of all species recorded) and 
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta" pageId="1" pageNumber="6" rank="genus">Deuterocampta</taxonomicName>
+(n = 11, 10.9%), genera restricted to the Neotropical region (
+<bibRefCitation pageId="1" pageNumber="6">Daccordi 1996</bibRefCitation>
+). Indeed, 
+<taxonomicName genus="Platyphora" lsidName="Platyphora" pageId="1" pageNumber="6" rank="genus">Platyphora</taxonomicName>
+is the most species-rich genus in South America (
+<bibRefCitation pageId="1" pageNumber="6">Daccordi 1994</bibRefCitation>
+), with approximately 500 species (
+<bibRefCitation author="Chaboo, CS" journalOrPublisher="Journal of Natural History" pageId="6" pageNumber="11" pagination="2325 - 2367" title="Origins and diversifcation of subsociality in leaf beetles (Coleoptera: Chrysomelidae: Cassidinae: Chrysomelinae)." url="https://doi.org/10.1080/00222933.2014.909060" volume="48" year="2014">Chaboo et al. 2014</bibRefCitation>
+and references therein).
+</paragraph>
+<paragraph pageId="1" pageNumber="6">
+The findings presented here also revealed a high diversity of species and genera, typical for the Atlantic rain forest, in comparison to other studies in South and Central America. 
+<bibRefCitation author="Flowers, RW" journalOrPublisher="Revista de Biologia Tropical" pageId="6" pageNumber="11" pagination="77 - 83" title="The genera of Chrysomelinae (Coleoptera: Chrysomelidae) in Costa Rica." url="https://doi.org/10.15517/rbt.v52i1.14754" volume="52" year="2004">Flowers (2004)</bibRefCitation>
+documented 67 species in 11 genera for Costa Rica and, similar to our work, 
+<taxonomicName genus="Platyphora" lsidName="Platyphora" pageId="1" pageNumber="6" rank="genus">Platyphora</taxonomicName>
+and 
+<taxonomicName genus="Stilodes" lsidName="Stilodes" pageId="1" pageNumber="6" rank="genus">Stilodes</taxonomicName>
+were the most species-rich genera. During a six-year field study in a Mexican state, 47 species and eight genera were found; 
+<taxonomicName genus="Leptinotarsa" lsidName="Leptinotarsa" pageId="1" pageNumber="6" rank="genus">Leptinotarsa</taxonomicName>
+, 
+<taxonomicName genus="Calligrapha" lsidName="Calligrapha" pageId="1" pageNumber="6" rank="genus">Calligrapha</taxonomicName>
+and 
+<taxonomicName genus="Zygogramma" lsidName="Zygogramma" pageId="1" pageNumber="6" rank="genus">Zygogramma</taxonomicName>
+were the genera with most species records (
+<bibRefCitation author="Burgos-Solorio, A" journalOrPublisher=")" pageId="6" pageNumber="11" pagination="39 - 66" title="Los Crisomelinos (Coleoptera: Chrysomelidae: Chrysomelinae) del Estado de Morelos. Acta Zoologica Mexicana (n. s." url="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0065-17372004000300004&amp;lng=es&amp;nrm=iso" volume="20" year="2004">Burgos-Solorio and Anaya-Rosales 2004</bibRefCitation>
+). 
+<bibRefCitation author="Chaboo, CS" journalOrPublisher="Journal of the Kansas Entomological Society" pageId="6" pageNumber="11" pagination="380 - 383" title="Beetles (Coleoptera) of Peru: A survey of the families. Chrysomelidae: Chrysomelinae." url="https://doi.org/10.2317/kent-88-03-380-383.1" volume="88" year="2015">Chaboo and Flowers (2015)</bibRefCitation>
+found 158 species and 18 genera for Peru, based on species catalogues.
+</paragraph>
+<paragraph pageId="1" pageNumber="6">
+Species were recorded from only 17 (18.5%) of the 
+<normalizedToken originalValue="state’s">state's</normalizedToken>
+municipalities, and 62 species were known from only one location (Table 1). We found a similar pattern in an inventory of 
+<taxonomicName lsidName="" pageId="1" pageNumber="6" rank="subfamily" subfamily="Cassidinae">Cassidinae</taxonomicName>
+for the same state (
+<bibRefCitation author="Flinte, V" journalOrPublisher="Genus - International Journal of Invertebrate Taxonomy" pageId="6" pageNumber="11" pagination="571 - 614" title="Tortoise beetles of the State of Rio de Janeiro, Brazil (Coleoptera: Chrysomelidae: Cassidinae)." url="http://www.cassidae.uni.wroc.pl/Flinte_Cassidinae%20Rio%20Janeiro.pdf" volume="20" year="2009 a">Flinte et al. 2009a</bibRefCitation>
+), with most records concentrated near the city of Rio de Janeiro and in large protected areas, such as 
+<normalizedToken originalValue="Petrópolis">Petropolis</normalizedToken>
+and 
+<normalizedToken originalValue="Teresópolis">Teresopolis</normalizedToken>
+(Serra dos 
+<normalizedToken originalValue="Órgãos">Orgaos</normalizedToken>
+National Park) and Itatiaia (Itatiaia National Park). The high number of single locality records is probably due more to sampling effort than to endemism, considering that species normally are not very abundant and are more easily collected manually than with traps.
+</paragraph>
+<paragraph pageId="1" pageNumber="6">
+Biology and ecology of 
+<taxonomicName lsidName="" pageId="1" pageNumber="6" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+at Parque Nacional da Serra dos 
+<normalizedToken originalValue="Órgãos">Orgaos</normalizedToken>
+</paragraph>
+<paragraph lastPageId="2" lastPageNumber="7" pageId="1" pageNumber="6">
+A total of 43 species were recorded from Serra dos 
+<normalizedToken originalValue="Órgaõs">Orgaos</normalizedToken>
+National Park (Table 1, under SONP; Figure 1), all 
+<taxonomicName lsidName="" pageId="1" pageNumber="6" rank="tribe" tribe="Chrysomelini">Chrysomelini</taxonomicName>
+, 42 occurring within the subtribe 
+<taxonomicName genus="Chrysolinina" lsidName="Chrysolinina" pageId="1" pageNumber="6" rank="subtribe" subtribe="Chrysolinina">Chrysolinina</taxonomicName>
+and only one from 
+<taxonomicName genus="Chrysomelina" lsidName="Chrysomelina" pageId="1" pageNumber="6" rank="subtribe" subtribe="Chrysomelina">Chrysomelina</taxonomicName>
+(
+<taxonomicName genus="Pixis" lsidName="Pixis columbina" pageId="1" pageNumber="6" rank="species" species="columbina">Pixis columbina</taxonomicName>
+). Within 
+<taxonomicName genus="Chrysolinina" lsidName="Chrysolinina" pageId="1" pageNumber="6" rank="subtribe" subtribe="Chrysolinina">Chrysolinina</taxonomicName>
+, 
+<taxonomicName genus="Platyphora" lsidName="Platyphora" pageId="1" pageNumber="6" rank="genus">Platyphora</taxonomicName>
+was the genus with most species records (23 species) out of the 10 genera found, 
+<pageBreakToken pageId="2" pageNumber="7" start="start">followed</pageBreakToken>
+by 
+<taxonomicName genus="Stilodes" lsidName="Stilodes" pageId="2" pageNumber="7" rank="genus">Stilodes</taxonomicName>
+(7) and 
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta" pageId="2" pageNumber="7" rank="genus">Deuterocampta</taxonomicName>
+(3), much like the pattern found generally over the state (Table 1). Species showed an enormous variation in color. Adult polymorphism expressed by variation in pronotum color was observed in 
+<taxonomicName genus="P." lsidName="P. fervida" pageId="2" pageNumber="7" rank="species" species="fervida">P. fervida</taxonomicName>
+, (Fig. 1-L1, L2), while the degree of fusion in stripes on the elytra varied greatly among individuals in 
+<taxonomicName genus="Zygogramma" lsidName="Zygogramma appendiculata" pageId="2" pageNumber="7" rank="species" species="appendiculata">Zygogramma appendiculata</taxonomicName>
+(Fig. 1-Y1). Other species, such as 
+<taxonomicName genus="Platyphora" lsidName="Platyphora axillaris" pageId="2" pageNumber="7" rank="species" species="axillaris">Platyphora axillaris</taxonomicName>
+(Fig. 1-E1), 
+<taxonomicName genus="P." lsidName="P. dejeani" pageId="2" pageNumber="7" rank="species" species="dejeani">P. dejeani</taxonomicName>
+(Fig. 1-I1) and 
+<taxonomicName genus="P." lsidName="P. fraterna" pageId="2" pageNumber="7" rank="species" species="fraterna">P. fraterna</taxonomicName>
+(Fig. 1-N1), displayed strikingly similar coloration to the leaves of their host plant, while other species including 
+<taxonomicName genus="P." lsidName="P. congener" pageId="2" pageNumber="7" rank="species" species="congener">P. congener</taxonomicName>
+(Fig. 1G), 
+<taxonomicName genus="Calligrapha" lsidName="Calligrapha polyspila" pageId="2" pageNumber="7" rank="species" species="polyspila">Calligrapha polyspila</taxonomicName>
+(Fig. 1A) and 
+<taxonomicName genus="Elytrosphaera" lsidName="Elytrosphaera xanthopyga" pageId="2" pageNumber="7" rank="species" species="xanthopyga">Elytrosphaera xanthopyga</taxonomicName>
+(Fig. 1C) were highly conspicuous to the human eye.
+</paragraph>
+<caption pageId="2" pageNumber="7">
+<paragraph pageId="2" pageNumber="7">
+Figure 1. 
+<taxonomicName lsidName="" pageId="2" pageNumber="7" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+species in Rio de Janeiro. Some 
+<taxonomicName lsidName="" pageId="2" pageNumber="7" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+species occurring in Serra dos 
+<normalizedToken originalValue="Órgãos">Orgaos</normalizedToken>
+National Park, State of Rio de Janeiro, Brazil. 
+<taxonomicName genus="Calligrapha" lsidName="Calligrapha polyspila" pageId="2" pageNumber="7" rank="species" species="polyspila">Calligrapha polyspila</taxonomicName>
+(A); 
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta sedula" pageId="2" pageNumber="7" rank="species" species="sedula">Deuterocampta sedula</taxonomicName>
+adult (B1) and larva (B2); 
+<taxonomicName genus="Elytrosphaera" lsidName="Elytrosphaera xanthopyga" pageId="2" pageNumber="7" rank="species" species="xanthopyga">Elytrosphaera xanthopyga</taxonomicName>
+(C); 
+<taxonomicName genus="Grammodesma" lsidName="Grammodesma rubroaenea" pageId="2" pageNumber="7" rank="species" species="rubroaenea">Grammodesma rubroaenea</taxonomicName>
+adult (D1) and larva (D2); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora axillaris" pageId="2" pageNumber="7" rank="species" species="axillaris">Platyphora axillaris</taxonomicName>
+adult (E1) and larva (E2); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora bigata" pageId="2" pageNumber="7" rank="species" species="bigata">Platyphora bigata</taxonomicName>
+(F); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora congener" pageId="2" pageNumber="7" rank="species" species="congener">Platyphora congener</taxonomicName>
+(G); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora curticollis" pageId="2" pageNumber="7" rank="species" species="curticollis">Platyphora curticollis</taxonomicName>
+adult (H1), larval cannibalism (H2) and larval aggregation (H3); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora dejeani" pageId="2" pageNumber="7" rank="species" species="dejeani">Platyphora dejeani</taxonomicName>
+adult (I1) and larva (I2) 
+<taxonomicName genus="Calligrapha" lsidName="Calligrapha polyspila" pageId="2" pageNumber="7" rank="species" species="polyspila">Calligrapha polyspila</taxonomicName>
+(
+<taxonomicName genus="Platyphora" lsidName="Platyphora difficilis" pageId="2" pageNumber="7" rank="species" species="difficilis">Platyphora difficilis</taxonomicName>
+) (J); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora fasciatomaculata" pageId="2" pageNumber="7" rank="species" species="fasciatomaculata">Platyphora fasciatomaculata</taxonomicName>
+adult (K1) and larva (K2); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora fervida" pageId="2" pageNumber="7" rank="species" species="fervida">Platyphora fervida</taxonomicName>
+yellow-pronotum adult and larva (L1) and red-pronotum female ovipositing (L2); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora flavovittata" pageId="2" pageNumber="7" rank="species" species="flavovittata">Platyphora flavovittata</taxonomicName>
+(M); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora fraterna" pageId="2" pageNumber="7" rank="species" species="fraterna">Platyphora fraterna</taxonomicName>
+adult (N1) and larval aggregation (N2); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora itatiayensis" pageId="2" pageNumber="7" rank="species" species="itatiayensis">Platyphora itatiayensis</taxonomicName>
+adult (O1) and larvae (O2); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora jucunda" pageId="2" pageNumber="7" rank="species" species="jucunda">Platyphora jucunda</taxonomicName>
+adult (P1) and larval aggregation (P2); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora langsdorfi" pageId="2" pageNumber="7" rank="species" species="langsdorfi">Platyphora langsdorfi</taxonomicName>
+adult (Q1) and larva (Q2); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora pastica" pageId="2" pageNumber="7" rank="species" species="pastica">Platyphora pastica</taxonomicName>
+(R) 
+<taxonomicName genus="Platyphora" lsidName="Platyphora vidanoi" pageId="2" pageNumber="7" rank="species" species="vidanoi">Platyphora vidanoi</taxonomicName>
+(S); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora zikani" pageId="2" pageNumber="7" rank="species" species="zikani">Platyphora zikani</taxonomicName>
+adult (T1) and young larvae (T2); 
+<taxonomicName genus="Platyphora" lsidName="Platyphora zonata" pageId="2" pageNumber="7" rank="species" species="zonata">Platyphora zonata</taxonomicName>
+(U); 
+<taxonomicName genus="Stilodes" lsidName="Stilodes thetis" pageId="2" pageNumber="7" rank="species" species="thetis">Stilodes thetis</taxonomicName>
+(V); 
+<taxonomicName genus="Stilodes" lsidName="Stilodes (Grammomades) impuncticollis" pageId="2" pageNumber="7" rank="species" species="impuncticollis" subGenus="Grammomades">Stilodes (Grammomades) impuncticollis</taxonomicName>
+adult (W1), eggs (W2) and larva (W3); 
+<taxonomicName genus="Trichomela" lsidName="Trichomela xantholoma" pageId="2" pageNumber="7" rank="species" species="xantholoma">Trichomela xantholoma</taxonomicName>
+(X); 
+<taxonomicName genus="Zygogramma" lsidName="Zygogramma appendiculata" pageId="2" pageNumber="7" rank="species" species="appendiculata">Zygogramma appendiculata</taxonomicName>
+polymorphic adults in copula (Y1), larvae feeding (Y2), larval cycloalexy (Y3), adult aggregation (Y4), egg mass (Y5), larva attacked by hemipteran nymph (Y6).
+</paragraph>
+</caption>
+<paragraph pageId="2" pageNumber="7">
+The subfamily in SONP exhibited a clear seasonal pattern (Fig. 2), with more species recorded in the hot rainy season, from October to January, than during the drier and colder months, between June and August. This seasonal pattern is well-established for the family 
+<taxonomicName family="Chrysomelidae" lsidName="" pageId="2" pageNumber="7" rank="family">Chrysomelidae</taxonomicName>
+in the area, with annual variation in temperature and precipitation and effects on host plant phenology being likely the main drivers of the temporal dynamics in these beetles (
+<bibRefCitation author="Flinte, V" editor="Jolivet, P" journalOrPublisher="ZooKeys" pageId="6" pageNumber="11" title="2. Brill, Leiden" url="https://doi.org/10.1163/ej.9789004169470.1-299.14" year="2009 b">Flinte et al. 2009b</bibRefCitation>
+, 
+<bibRefCitation author="Flinte, V" journalOrPublisher="ZooKeys" pageId="6" pageNumber="11" pagination="15 - 31" title="Altitudinal and temporal distribution of Plagiometriona Spaeth, 1899 (Coleoptera, Chrysomelidae, Cassidinae) in a tropical forest in southeast Brazil." url="https://doi.org/10.3897/zookeys.157.1179" volume="157" year="2011">2011</bibRefCitation>
+, 
+<bibRefCitation author="Flinte, V" editor="Jolivet, P" journalOrPublisher="ZooKeys" pageId="6" pageNumber="11" pagination="119 - 132" title="Biology and phenology of three leaf beetle species (Chrysomelidae) in a montane forest in southeast Brazil." url="https://doi.org/10.3897/zookeys.547.9015" volume="547" volumeTitle="Research on Chrysomelidae 5." year="2015">2015</bibRefCitation>
+). This is particularly so because many of the records were made at altitudes above 1000 m, where the pattern normally more closely resembles that found in the subtropical zone (e.g. 
+<bibRefCitation author="Medeiros, L" editor="Jolivet, P" journalOrPublisher="Brazilian Journal of Botany" pageId="7" pageNumber="12" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-011-1781-4_11" year="1994">Medeiros and Vasconcellos-Neto 1994</bibRefCitation>
+, 
+<bibRefCitation pageId="2" pageNumber="7">
+<normalizedToken originalValue="Nogueira-de-Sá">Nogueira-de-Sa</normalizedToken>
+et al. 2004
+</bibRefCitation>
+). However, the present results are, to our knowledge, the first to examine the seasonal pattern for such a large number of 
+<taxonomicName lsidName="" pageId="2" pageNumber="7" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+species in a single area. Ideally, a standardized collecting effort across the year would better describe the seasonal differences we observe here. However, as we have conducted research in the area over many years, doing the same surveys at least once a month every year, we are confident that this represents the seasonal pattern of chrysomeline species occurrence in the area. Moreover, the 
+<taxonomicName lsidName="" pageId="2" pageNumber="7" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+species which were intensively studied over the year, 
+<taxonomicName genus="Platyphora" lsidName="Platyphora axillaris" pageId="2" pageNumber="7" rank="species" species="axillaris">Platyphora axillaris</taxonomicName>
+(
+<bibRefCitation author="Flinte, V" editor="Jolivet, P" journalOrPublisher="ZooKeys" pageId="6" pageNumber="11" pagination="119 - 132" title="Biology and phenology of three leaf beetle species (Chrysomelidae) in a montane forest in southeast Brazil." url="https://doi.org/10.3897/zookeys.547.9015" volume="547" volumeTitle="Research on Chrysomelidae 5." year="2015">Flinte et al. 2015</bibRefCitation>
+), 
+<taxonomicName genus="P." lsidName="P. fervida" pageId="2" pageNumber="7" rank="species" species="fervida">P. fervida</taxonomicName>
+and 
+<taxonomicName genus="Stilodes" lsidName="Stilodes (Grammomades) impuncticollis" pageId="2" pageNumber="7" rank="species" species="impuncticollis" subGenus="Grammomades">Stilodes (Grammomades) impuncticollis</taxonomicName>
+(
+<bibRefCitation author="Flinte, V" editor="Jolivet, P" journalOrPublisher="ZooKeys" pageId="6" pageNumber="11" title="2. Brill, Leiden" url="https://doi.org/10.1163/ej.9789004169470.1-299.14" year="2009 b">Flinte et al. 2009b</bibRefCitation>
+) exhibited the same low densities during the drier and colder months.
+</paragraph>
+<caption pageId="2" pageNumber="7">
+<paragraph pageId="2" pageNumber="7">
+Figure 2. Seasonal distribution of 
+<taxonomicName lsidName="" pageId="2" pageNumber="7" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+. Number of 
+<taxonomicName lsidName="" pageId="2" pageNumber="7" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+species recorded on each month, obtained for 40 species from collections and fieldwork, in Serra dos 
+<normalizedToken originalValue="Órgãos">Orgaos</normalizedToken>
+National Park, southeast Brazil.
+</paragraph>
+</caption>
+<paragraph pageId="2" pageNumber="7">
+Host plant and/or biological information were found for almost half of the species (n = 16) (Table 2) that we (VF, AA, MVM, RFM) collected in the park (n = 35). 
+<taxonomicName family="Solanaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Solanaceae</taxonomicName>
+was the most common host plant family, followed by 
+<taxonomicName family="Convolvulaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Convolvulaceae</taxonomicName>
+, 
+<taxonomicName family="Asteraceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Asteraceae</taxonomicName>
+, 
+<taxonomicName family="Malvaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Malvaceae</taxonomicName>
+and 
+<taxonomicName family="Apocynaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Apocynaceae</taxonomicName>
+. As expected, this is a pattern that reflects 
+<taxonomicName genus="Platyphora" lsidName="Platyphora" pageId="2" pageNumber="7" rank="genus">Platyphora</taxonomicName>
+preference for 
+<taxonomicName family="Solanaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Solanaceae</taxonomicName>
+(
+<bibRefCitation author="Jolivet, P" journalOrPublisher="Backhuys Publishers, Leiden" pageId="6" pageNumber="11" title="Host-plants of Chrysomelidae beetles of the world: an essay about the relationships between leaf beetles and their food-plants." year="1995">Jolivet and Hawkeswood 1995</bibRefCitation>
+, 
+<bibRefCitation author="Chaboo, CS" journalOrPublisher="Journal of Natural History" pageId="6" pageNumber="11" pagination="2325 - 2367" title="Origins and diversifcation of subsociality in leaf beetles (Coleoptera: Chrysomelidae: Cassidinae: Chrysomelinae)." url="https://doi.org/10.1080/00222933.2014.909060" volume="48" year="2014">Chaboo et al. 2014</bibRefCitation>
+and references therein). Intense host plant defoliation was observed in 
+<taxonomicName genus="Stilodes" lsidName="Stilodes (Grammomades) impuncticollis" pageId="2" pageNumber="7" rank="species" species="impuncticollis" subGenus="Grammomades">Stilodes (Grammomades) impuncticollis</taxonomicName>
+(Fig. 1-W1, W2, W3) on 
+<taxonomicName genus="Capsicum" lsidName="Capsicum mirabile" pageId="2" pageNumber="7" rank="species" species="mirabile">Capsicum mirabile</taxonomicName>
+(
+<taxonomicName family="Solanaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Solanaceae</taxonomicName>
+), 
+<taxonomicName genus="Platyphora" lsidName="Platyphora fraterna" pageId="2" pageNumber="7" rank="species" species="fraterna">Platyphora fraterna</taxonomicName>
+(Fig. 1-N1, N2) on 
+<taxonomicName genus="Solanum" lsidName="Solanum swartzianum" pageId="2" pageNumber="7" rank="species" species="swartzianum">Solanum swartzianum</taxonomicName>
+(
+<taxonomicName family="Solanaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Solanaceae</taxonomicName>
+) and 
+<taxonomicName genus="Zygogramma" lsidName="Zygogramma appendiculata" pageId="2" pageNumber="7" rank="species" species="appendiculata">Zygogramma appendiculata</taxonomicName>
+(Fig. 1-Y1, Y2, Y3) on 
+<taxonomicName genus="Callianthe" lsidName="Callianthe rufinerva" pageId="2" pageNumber="7" rank="species" species="rufinerva">Callianthe rufinerva</taxonomicName>
+(
+<taxonomicName family="Malvaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Malvaceae</taxonomicName>
+).
+</paragraph>
+<caption pageId="2" pageNumber="7">
+<paragraph pageId="2" pageNumber="7">
+Table 2. Ecological data on 
+<taxonomicName lsidName="" pageId="2" pageNumber="7" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+species. Species at Serra dos 
+<normalizedToken originalValue="Órgãos">Orgaos</normalizedToken>
+National Park with host plant record and/or biological data obtained from our research at the area. Published records are indicated by numbers (see footnote for references).
+</paragraph>
+</caption>
+<paragraph pageId="2" pageNumber="7">
+<table pageId="2" pageNumber="7">
+<tr pageId="2" pageNumber="7">
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="1" pageId="2" pageNumber="7" rowspan="1">Species</th>
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="1" pageId="2" pageNumber="7" rowspan="1">Host plant family</th>
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="1" pageId="2" pageNumber="7" rowspan="1">Host plant species</th>
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="1" pageId="2" pageNumber="7" rowspan="1">Reproduction</th>
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="1" pageId="2" pageNumber="7" rowspan="1">Larvae</th>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Calligrapha" lsidName="Calligrapha polyspila" pageId="2" pageNumber="7" rank="species" species="polyspila">Calligrapha polyspila</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Malvaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Malvaceae</taxonomicName>
+1
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">1</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta sedula" pageId="2" pageNumber="7" rank="species" species="sedula">Deuterocampta sedula</taxonomicName>
+</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Grammodesma" lsidName="Grammodesma rubroaenea" pageId="2" pageNumber="7" rank="species" species="rubroaenea">Grammodesma rubroaenea</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Asteraceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Asteraceae</taxonomicName>
+</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora axillaris" pageId="2" pageNumber="7" rank="species" species="axillaris">Platyphora axillaris</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Solanaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Solanaceae</taxonomicName>
+2
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Solanum" lsidName="Solanum scuticum" pageId="2" pageNumber="7" rank="species" species="scuticum">Solanum scuticum</taxonomicName>
+2
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">2</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora curticollis" pageId="2" pageNumber="7" rank="species" species="curticollis">Platyphora curticollis</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Solanaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Solanaceae</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Solanum" lsidName="Solanum swartzianum" pageId="2" pageNumber="7" rank="species" species="swartzianum">Solanum swartzianum</taxonomicName>
+</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora dejeani" pageId="2" pageNumber="7" rank="species" species="dejeani">Platyphora dejeani</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Convolvulaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Convolvulaceae</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Ipomoea" lsidName="Ipomoea philomega" pageId="2" pageNumber="7" rank="species" species="philomega">Ipomoea philomega</taxonomicName>
+</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora fervida" pageId="2" pageNumber="7" rank="species" species="fervida">Platyphora fervida</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Solanaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Solanaceae</taxonomicName>
+3
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Solanum" lsidName="Solanum lhotskyanum" pageId="2" pageNumber="7" rank="species" species="lhotskyanum">Solanum lhotskyanum</taxonomicName>
+3
+</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora flavovittata" pageId="2" pageNumber="7" rank="species" species="flavovittata">Platyphora flavovittata</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Apocynaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Apocynaceae</taxonomicName>
+</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora fraterna" pageId="2" pageNumber="7" rank="species" species="fraterna">Platyphora fraterna</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Solanaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Solanaceae</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Solanum" lsidName="Solanum swartzianum" pageId="2" pageNumber="7" rank="species" species="swartzianum">Solanum swartzianum</taxonomicName>
+</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora itatiayensis" pageId="2" pageNumber="7" rank="species" species="itatiayensis">Platyphora itatiayensis</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Solanaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Solanaceae</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Solanum" lsidName="Solanum megalochiton" pageId="2" pageNumber="7" rank="species" species="megalochiton">Solanum megalochiton</taxonomicName>
+</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora jucunda" pageId="2" pageNumber="7" rank="species" species="jucunda">Platyphora jucunda</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Solanaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Solanaceae</taxonomicName>
+4
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Solanum" lsidName="Solanum swartzianum" pageId="2" pageNumber="7" rank="species" species="swartzianum">Solanum swartzianum</taxonomicName>
+</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora langsdorfi" pageId="2" pageNumber="7" rank="species" species="langsdorfi">Platyphora langsdorfi</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Convolvulaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Convolvulaceae</taxonomicName>
+5
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Ipomoea" lsidName="Ipomoea philomega" pageId="2" pageNumber="7" rank="species" species="philomega">Ipomoea philomega</taxonomicName>
+</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Platyphora" lsidName="Platyphora zikani" pageId="2" pageNumber="7" rank="species" species="zikani">Platyphora zikani</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Solanaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Solanaceae</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Solanum" lsidName="Solanum swartzianum" pageId="2" pageNumber="7" rank="species" species="swartzianum">Solanum swartzianum</taxonomicName>
+</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes (Grammomades) impuncticollis" pageId="2" pageNumber="7" rank="species" species="impuncticollis" subGenus="Grammomades">Stilodes (Grammomades) impuncticollis</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Solanaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Solanaceae</taxonomicName>
+3
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Capsicum" lsidName="Capsicum mirabile" pageId="2" pageNumber="7" rank="species" species="mirabile">Capsicum mirabile</taxonomicName>
+3
+</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Stilodes" lsidName="Stilodes" pageId="2" pageNumber="7" rank="genus">Stilodes</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Asteraceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Asteraceae</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Baccharis" lsidName="Baccharis stylosa" pageId="2" pageNumber="7" rank="species" species="stylosa">Baccharis stylosa</taxonomicName>
+</td>
+</tr>
+<tr pageId="2" pageNumber="7">
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Zygogramma" lsidName="Zygogramma appendiculata" pageId="2" pageNumber="7" rank="species" species="appendiculata">Zygogramma appendiculata</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName family="Malvaceae" genus="Chrysolinina" lsidName="Chrysolinina" pageId="2" pageNumber="7" rank="family">Malvaceae</taxonomicName>
+</td>
+<td colspan="1" pageId="2" pageNumber="7" rowspan="1">
+<taxonomicName genus="Callianthe" lsidName="Callianthe regnelli" pageId="2" pageNumber="7" rank="species" species="regnelli">Callianthe regnelli</taxonomicName>
+<taxonomicName genus="Callianthe" lsidName="Callianthe rufinerva" pageId="2" pageNumber="7" rank="species" species="rufinerva">Callianthe rufinerva</taxonomicName>
+</td>
+</tr>
+</table>
+</paragraph>
+<paragraph lastPageId="3" lastPageNumber="8" pageId="2" pageNumber="7">
+Maternal care was not recorded for any species in this study, although subsocial behavior is known in the subfamily for several species, including some 
+<taxonomicName genus="Doryphora" lsidName="Doryphora" pageId="2" pageNumber="7" rank="genus">Doryphora</taxonomicName>
+and 
+<taxonomicName genus="Prosicela" lsidName="Prosicela" pageId="2" pageNumber="7" rank="genus">Prosicela</taxonomicName>
+species (
+<bibRefCitation author="Windsor, DM" editor="Jolivet, PH" journalOrPublisher="ZooKeys" pageId="8" pageNumber="13" pagination="71 - 93" title="Subsocial Neotropical Doryphorini (Chrysomelidae, Chrysomelinae): new observations on behavior, host plants and systematics." url="https://doi.org/10.3897/zookeys.332.5199" volume="332" volumeTitle="Research on Chrysomelidae 4." year="2013">Windsor et al. 2013</bibRefCitation>
+, 
+<bibRefCitation author="Chaboo, CS" journalOrPublisher="Journal of Natural History" pageId="6" pageNumber="11" pagination="2325 - 2367" title="Origins and diversifcation of subsociality in leaf beetles (Coleoptera: Chrysomelidae: Cassidinae: Chrysomelinae)." url="https://doi.org/10.1080/00222933.2014.909060" volume="48" year="2014">Chaboo et al. 2014</bibRefCitation>
+). Other interesting behavioral defenses were recorded, including larval cycloalexy in 
+<taxonomicName genus="Z." lsidName="Z. appendiculata" pageId="2" pageNumber="7" rank="species" species="appendiculata">Z. appendiculata</taxonomicName>
+(Fig. 1-Y3) and 
+<taxonomicName genus="P." lsidName="P. curticollis" pageId="2" pageNumber="7" rank="species" species="curticollis">P. curticollis</taxonomicName>
+(Fig. 1-H3), a defensive behavior of gregarious circular formation at rest (
+<bibRefCitation author="Jolivet, P" journalOrPublisher="Insecta Mundi" pageId="6" pageNumber="11" pagination="133 - 142" title="Cycloalexy: a new concept in the larval defense of insects." url="http://digitalcommons.unl.edu/insectamundi/394" volume="4" year="1990">Jolivet et al. 1990</bibRefCitation>
+, Vanconcellos-Neto and Jolivet 1994, 
+<bibRefCitation author="Dury, GJ" journalOrPublisher="Journal of Natural History" pageId="6" pageNumber="11" url="https://doi.org/10.1155/2014/642908" year="2014">Dury et al. 2014</bibRefCitation>
+). Additionally, we recorded larvae of 
+<taxonomicName genus="P." lsidName="P. fraterna" pageId="2" pageNumber="7" rank="species" species="fraterna">P. fraterna</taxonomicName>
+(Fig. 1-N2) attaching trichomes from 
+<taxonomicName genus="Solanum" lsidName="Solanum" pageId="2" pageNumber="7" rank="genus">Solanum</taxonomicName>
+host plant leaves to hairs on their backs, a behavior already described in 
+<taxonomicName genus="P." lsidName="P. zonata" pageId="2" pageNumber="7" rank="species" species="zonata">P. zonata</taxonomicName>
+(
+<bibRefCitation author="Bernardi, N" journalOrPublisher="Revista Brasileira de Zoologia" pageId="5" pageNumber="10" pagination="531 - 534" title="Estagios imaturos de Platyphorazonata (Germar, 1824) (Coleoptera, Chrysomelidae, Chrysomelinae)." url="https://doi.org/10.1590/S0101-81751990000400011" volume="7" year="1991">Bernardi and Scivittaro 1991</bibRefCitation>
+), which may contribute to larval camouflage. Larval 
+<pageBreakToken pageId="3" pageNumber="8" start="start">aggregations</pageBreakToken>
+were observed in many species (Table 2), but also for adults of 
+<taxonomicName genus="Z." lsidName="Z. appendiculata" pageId="3" pageNumber="8" rank="species" species="appendiculata">Z. appendiculata</taxonomicName>
+on young folded leaves in the field (Fig. 1-Y4). Larval gregarious behavior may serve to reduce individual risk against small invertebrate parasitoids and predators, and promote defense against larger predators through the cumulative effect of 
+<normalizedToken originalValue="individuals’">individuals'</normalizedToken>
+toxins (
+<bibRefCitation author="Gregoire, JC" editor="Jolivet, P" journalOrPublisher="Proceedings of the National Academy of Sciences" pageId="6" pageNumber="11" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-009-3105-3_15" year="1988">
+<normalizedToken originalValue="Grégoire">Gregoire</normalizedToken>
+1988
+</bibRefCitation>
+). Thanatosis ("feigning death") was observed in adults of 
+<taxonomicName genus="P." lsidName="P. axillaris" pageId="3" pageNumber="8" rank="species" species="axillaris">P. axillaris</taxonomicName>
+(Fig. 1-E1), 
+<taxonomicName genus="P." lsidName="P. fervida" pageId="3" pageNumber="8" rank="species" species="fervida">P. fervida</taxonomicName>
+(Fig. 1-L1, L2), and 
+<taxonomicName genus="P." lsidName="P. fraterna" pageId="3" pageNumber="8" rank="species" species="fraterna">P. fraterna</taxonomicName>
+(Fig. 1-N1), and both in adults and larvae of 
+<taxonomicName genus="Stilodes" lsidName="Stilodes (Grammomades) impuncticollis" pageId="3" pageNumber="8" rank="species" species="impuncticollis" subGenus="Grammomades">Stilodes (Grammomades) impuncticollis</taxonomicName>
+(Fig. 1-W1, W3).
+</paragraph>
+<paragraph lastPageId="4" lastPageNumber="9" pageId="3" pageNumber="8">
+Seven oviparous and seven larviparous species were found, most being new records of reproductive biology (Table 2). 
+<taxonomicName lsidName="" pageId="3" pageNumber="8" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+is the subfamily of leaf beetles with the most diversity in reproductive biology, containing oviparous, ovoviviparous and viviparous species (
+<bibRefCitation author="Bontems, C" editor="Jolivet, P" journalOrPublisher="Smithsonian Institution, Washington, D. C." pageId="6" pageNumber="11" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-009-3105-3_18" year="1988">Bontems 1988</bibRefCitation>
+), sometimes in the same genus, and also different levels of social behavior (
+<bibRefCitation author="Chaboo, CS" journalOrPublisher="Journal of Natural History" pageId="6" pageNumber="11" pagination="2325 - 2367" title="Origins and diversifcation of subsociality in leaf beetles (Coleoptera: Chrysomelidae: Cassidinae: Chrysomelinae)." url="https://doi.org/10.1080/00222933.2014.909060" volume="48" year="2014">Chaboo et al. 2014</bibRefCitation>
+). The last two types of development may be more costly to the mothers, but ensure a quicker development of the vulnerable larval stage, among other advantages, as proposed by 
+<bibRefCitation author="Jolivet, P" journalOrPublisher="Backhuys Publishers, Leiden" pageId="6" pageNumber="11" title="Host-plants of Chrysomelidae beetles of the world: an essay about the relationships between leaf beetles and their food-plants." year="1995">Jolivet and Hawkeswood (1995)</bibRefCitation>
+and 
+<bibRefCitation author="Chaboo, CS" journalOrPublisher="Journal of Natural History" pageId="6" pageNumber="11" pagination="2325 - 2367" title="Origins and diversifcation of subsociality in leaf beetles (Coleoptera: Chrysomelidae: Cassidinae: Chrysomelinae)." url="https://doi.org/10.1080/00222933.2014.909060" volume="48" year="2014">Chaboo et al. (2014</bibRefCitation>
+and references therein), which is why it is sometimes considered to be a parental care preceding birth (
+<bibRefCitation author="Hinton, HE" journalOrPublisher="Pergamon Press, Elmsford" pageId="6" pageNumber="11" title="Biology of Insect Eggs. Vol 1." year="1981">Hinton 1981</bibRefCitation>
+). Interestingly, viviparous species may result in solitary larvae, as in 
+<taxonomicName genus="P." lsidName="P. axillaris" pageId="3" pageNumber="8" rank="species" species="axillaris">P. axillaris</taxonomicName>
+(Fig. 1-E2), or larval aggregations, as in 
+<taxonomicName genus="P." lsidName="P. jucunda" pageId="3" pageNumber="8" rank="species" species="jucunda">P. jucunda</taxonomicName>
+(Fig. 1-P2). Oviparous species may also have solitary or gregarious larvae, as in 
+<taxonomicName genus="P." lsidName="P. dejeani" pageId="3" pageNumber="8" rank="species" species="dejeani">P. dejeani</taxonomicName>
+(Fig. 1-I2) and 
+<taxonomicName genus="Z." lsidName="Z. appendiculata" pageId="3" pageNumber="8" rank="species" species="appendiculata">Z. appendiculata</taxonomicName>
+(Fig. 1-Y2), respectively, although larval aggregations seem rarer in this type of reproduction. In their work on subsocial 
+<pageBreakToken pageId="4" pageNumber="9" start="start">neotropical</pageBreakToken>
+<taxonomicName lsidName="" pageId="4" pageNumber="9" rank="tribe" tribe="Doryphorini">Doryphorini</taxonomicName>
+, 
+<bibRefCitation author="Windsor, DM" editor="Jolivet, PH" journalOrPublisher="ZooKeys" pageId="8" pageNumber="13" pagination="71 - 93" title="Subsocial Neotropical Doryphorini (Chrysomelidae, Chrysomelinae): new observations on behavior, host plants and systematics." url="https://doi.org/10.3897/zookeys.332.5199" volume="332" volumeTitle="Research on Chrysomelidae 4." year="2013">Windsor et al. (2013)</bibRefCitation>
+found, among 
+<taxonomicName genus="Platyphora" lsidName="Platyphora" pageId="4" pageNumber="9" rank="genus">Platyphora</taxonomicName>
+species, two with solitary larvae and nine which formed larval aggregations, but all eleven species were larviparous. We observed a single case of larval cannibalism in the viviparous 
+<taxonomicName genus="P." lsidName="P. curticollis" pageId="4" pageNumber="9" rank="species" species="curticollis">P. curticollis</taxonomicName>
+during laboratory rearing (Fig. 1-H2), a behavior already described for some 
+<taxonomicName lsidName="" pageId="4" pageNumber="9" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+genera (
+<bibRefCitation author="Wade, MJ" editor="Jolivet, PH" journalOrPublisher="Fundacao Instituto Brasileiro de Geografia e Estatistica (IBGE), Rio de Janeiro" pageId="8" pageNumber="13" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-011-1781-4_41" year="1994">Wade 1994</bibRefCitation>
+, 
+<bibRefCitation pageId="4" pageNumber="9">Mafra-Neto and Jolivet 1996</bibRefCitation>
+, 
+<bibRefCitation author="Windsor, DM" editor="Jolivet, PH" journalOrPublisher="ZooKeys" pageId="8" pageNumber="13" pagination="71 - 93" title="Subsocial Neotropical Doryphorini (Chrysomelidae, Chrysomelinae): new observations on behavior, host plants and systematics." url="https://doi.org/10.3897/zookeys.332.5199" volume="332" volumeTitle="Research on Chrysomelidae 4." year="2013">Windsor et al. 2013</bibRefCitation>
+) that grants nutritional benefits.
+</paragraph>
+<paragraph pageId="4" pageNumber="9">
+Except for the eggs of 
+<taxonomicName genus="Z." lsidName="Z. appendiculata" pageId="4" pageNumber="9" rank="species" species="appendiculata">Z. appendiculata</taxonomicName>
+, which are laid in masses on the underside of its host plant leaves (Fig. 1-Y5), no other eggs of oviparous 
+<taxonomicName lsidName="" pageId="4" pageNumber="9" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+were found in the field. This is probably because chrysomelids often lay their eggs in the soil or in secluded parts of plants (
+<bibRefCitation author="Selman, BJ" editor="Jolivet, PH" journalOrPublisher="Entomography" pageId="7" pageNumber="12" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-011-1781-4_2" year="1994">Selman 1994</bibRefCitation>
+). All oviparous species reared in laboratory laid chorion-covered yellowish eggs on the bottom of the vials or on leaves, normally grouped in clutches (Fig. 1-W2). In the field, the number of eggs of 
+<taxonomicName genus="Z." lsidName="Z. appendiculata" pageId="4" pageNumber="9" rank="species" species="appendiculata">Z. appendiculata</taxonomicName>
+varied from 80 to 100 per group (90.4 
+<normalizedToken originalValue="±">+/-</normalizedToken>
+8.3 SD; n=7 egg masses), and larval aggregations comprised between 10 and 233 individuals per group (49.2 
+<normalizedToken originalValue="±">+/-</normalizedToken>
+38.7; n=50 groups). Larvae of different egg masses may cohabit the same aggregation of this species, since differently sized larvae were observed in the same aggregation. 
+<taxonomicName genus="Platyphora" lsidName="Platyphora fraterna" pageId="4" pageNumber="9" rank="species" species="fraterna">Platyphora fraterna</taxonomicName>
+larvae (Fig. 1-N2) were grouped in aggregations of 24.9 
+<normalizedToken originalValue="±">+/-</normalizedToken>
+13.1 SD individuals (n=14 groups), with a minimum of seven and maximum of 44 larvae per group. No pupa has yet been found in the field, but in the laboratory, prepupae always buried themselves in earth layer at the bottom of the vials. While pupation in 
+<taxonomicName lsidName="" pageId="4" pageNumber="9" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+may be arboreal or underground (
+<bibRefCitation author="Takizawa, H" journalOrPublisher="Kontyu" pageId="8" pageNumber="13" pagination="444 - 468" title="Larvae of the genus Gonioctena Chevrolat (Coleoptera: Chrysomelidae): descriptions of Japanese species and the implications of larval characters for the phylogeny." volume="44" year="1976">Takizawa 1976</bibRefCitation>
+), it seems that underground pupation is most common in our taxa as indicated by laboratory rearing.
+</paragraph>
+<paragraph pageId="4" pageNumber="9">
+Only a few observations on natural enemies of 
+<taxonomicName lsidName="" pageId="4" pageNumber="9" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+were made. Phoretic wasps of 
+<taxonomicName family="Pteromalidae" lsidName="" pageId="4" pageNumber="9" rank="family">Pteromalidae</taxonomicName>
+(
+<taxonomicName genus="Chrysolinina" lsidName="Chrysolinina" order="Hymenoptera" pageId="4" pageNumber="9" rank="order">Hymenoptera</taxonomicName>
+) were found on adults of 
+<taxonomicName genus="Grammodesma" lsidName="Grammodesma rubroaenea" pageId="4" pageNumber="9" rank="species" species="rubroaenea">Grammodesma rubroaenea</taxonomicName>
+(Fig. 1-D1) and 
+<taxonomicName genus="Deuterocampta" lsidName="Deuterocampta sedula" pageId="4" pageNumber="9" rank="species" species="sedula">Deuterocampta sedula</taxonomicName>
+(Fig. 1-B1). 
+<taxonomicName family="Pteromalidae" lsidName="" pageId="4" pageNumber="9" rank="family">Pteromalidae</taxonomicName>
+are well known parasitoids of chrysomeline larvae (
+<bibRefCitation author="Cox, ML" editor="Jolivet, P" journalOrPublisher="Journal of Natural History" pageId="6" pageNumber="11" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-011-1781-4_35" year="1994">Cox 1994</bibRefCitation>
+). On one occasion, a 
+<taxonomicName genus="Podisus" lsidName="Podisus" pageId="4" pageNumber="9" rank="genus">Podisus</taxonomicName>
+(
+<taxonomicName genus="Chrysolinina" lsidName="Chrysolinina" order="Hemiptera" pageId="4" pageNumber="9" rank="order">Hemiptera</taxonomicName>
+) nymph was seen preying on a larva of 
+<taxonomicName genus="Z." lsidName="Z. appendiculata" pageId="4" pageNumber="9" rank="species" species="appendiculata">Z. appendiculata</taxonomicName>
+(Fig. 1-Y6). Many chrysomeline species presented unprotected larvae without any apparent behavioral defense, but several gain chemical defenses by the sequestration of host plants toxins or by synthesizing defensive compounds from plant precursors, especially in 
+<taxonomicName genus="Platyphora" lsidName="Platyphora" pageId="4" pageNumber="9" rank="genus">Platyphora</taxonomicName>
+(
+<bibRefCitation author="Pasteels, JM" journalOrPublisher="Chemoecology" pageId="7" pageNumber="12" pagination="113 - 120" title="Pyrrolizidine alkaloids and pentacyclic triterpene saponins in the defensive secretions of Platyphora leaf beetles." url="https://doi.org/10.1007/PL00001840" volume="11" year="2001">Pasteels et al. 2001</bibRefCitation>
+, 
+<bibRefCitation author="Termonia, A" journalOrPublisher="Proceedings of the Royal Society B" pageId="8" pageNumber="13" pagination="1 - 6" title="Dual chemical sequestration: a key mechanism in transitions among ecological specialization." url="https://doi.org/10.1098/rspb.2001.1859" volume="269" year="2002">Termonia et al. 2002</bibRefCitation>
+).
+</paragraph>
+</subSection>
+<subSection lastPageId="5" lastPageNumber="10" pageId="4" pageNumber="9" type="conclusions">
+<paragraph pageId="4" pageNumber="9">Conclusions</paragraph>
+<paragraph lastPageId="5" lastPageNumber="10" pageId="4" pageNumber="9">
+The high proportion of new host, biological data and occurrence records in Rio de Janeiro reflects the limited knowledge we have about this subfamily in this immediate area. In Brazil, the picture is not very different, as no inventory for the subfamily has been compiled and the relatively few published records come from ecological studies such as 
+<bibRefCitation author="Medeiros, L" editor="Jolivet, P" journalOrPublisher="Brazilian Journal of Botany" pageId="7" pageNumber="12" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-011-1781-4_11" year="1994">Medeiros and Vasconcellos-Neto (1994)</bibRefCitation>
+, 
+<bibRefCitation pageId="4" pageNumber="9">Medeiros et al. (1996)</bibRefCitation>
+, 
+<bibRefCitation pageId="4" pageNumber="9">Macedo et al. (1998)</bibRefCitation>
+, 
+<bibRefCitation pageId="4" pageNumber="9">Vasconcellos-Neto and Jolivet (1998)</bibRefCitation>
+, and 
+<bibRefCitation author="Flinte, V" editor="Jolivet, P" journalOrPublisher="ZooKeys" pageId="6" pageNumber="11" title="2. Brill, Leiden" url="https://doi.org/10.1163/ej.9789004169470.1-299.14" year="2009 b">Flinte et al. (2009b</bibRefCitation>
+, 
+<bibRefCitation author="Flinte, V" editor="Jolivet, P" journalOrPublisher="ZooKeys" pageId="6" pageNumber="11" pagination="119 - 132" title="Biology and phenology of three leaf beetle species (Chrysomelidae) in a montane forest in southeast Brazil." url="https://doi.org/10.3897/zookeys.547.9015" volume="547" volumeTitle="Research on Chrysomelidae 5." year="2015">2015</bibRefCitation>
+). However, 
+<taxonomicName lsidName="" pageId="4" pageNumber="9" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+is known to be very species-rich in Brazil, including known en 
+<pageBreakToken pageId="5" pageNumber="10" start="start">demic</pageBreakToken>
+species, such as 
+<taxonomicName genus="Elythrosphaera" lsidName="Elythrosphaera lahtivirtai" pageId="5" pageNumber="10" rank="species" species="lahtivirtai">Elythrosphaera lahtivirtai</taxonomicName>
+(
+<bibRefCitation pageId="5" pageNumber="10">Macedo et al. 1998</bibRefCitation>
+). Because of their high host specificity (
+<bibRefCitation author="Jolivet, P" editor="Jolivet, P" journalOrPublisher="Pergamon Press, Elmsford" pageId="6" pageNumber="11" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-009-3105-3_1" year="1988">Jolivet 1988</bibRefCitation>
+, 
+<bibRefCitation author="Jolivet, P" journalOrPublisher="Backhuys Publishers, Leiden" pageId="6" pageNumber="11" title="Host-plants of Chrysomelidae beetles of the world: an essay about the relationships between leaf beetles and their food-plants." year="1995">Jolivet and Hawkeswood 1995</bibRefCitation>
+) and low dispersal ability (
+<bibRefCitation author="Freijeiro, A" editor="Jolivet, P" journalOrPublisher="ZooKeys" pageId="6" pageNumber="11" pagination="81 - 99" title="Spatial and environmental correlates of species richness and turnover patterns in European cryptocephaline and chrysomeline beetles." url="https://doi.org/10.3897/zookeys.597.6792" volume="597" volumeTitle="Research on Chrysomelidae 6." year="2016">Freijeiro and Baselga 2016</bibRefCitation>
+) the chrysomelines are expected to have many narrowly distributed species, especially in mountainous areas, as has already been found for other tropical 
+<taxonomicName family="Chrysomelidae" lsidName="" pageId="5" pageNumber="10" rank="family">Chrysomelidae</taxonomicName>
+species (
+<bibRefCitation author="Garcia-Robledo, C" journalOrPublisher="Proceedings of the National Academy of Sciences" pageId="6" pageNumber="11" pagination="680 - 685" title="Limited tolerance by insects to high temperatures across tropical elevational gradients and the implications of global warming for extinction." url="https://doi.org/10.1073/pnas.1507681113" volume="113" year="2016">
+<normalizedToken originalValue="García-Robledo">Garcia-Robledo</normalizedToken>
+et al. 2016
+</bibRefCitation>
+, 
+<bibRefCitation author="Macedo, MV" journalOrPublisher="Oecologia Australis" pageId="6" pageNumber="11" pagination="121 - 132" title="Elevational ranges and local extinction risk of beetles occurring in the &#34; Campos de Altitude &#34; in southeastern Brazil." url="https://doi.org/10.4257/oeco.2016.2002.09" volume="20" year="2016">Macedo et al. 2016</bibRefCitation>
+). These traits then would make these Brazil species especially vulnerable to extinction as the mountains within the Atlantic forest biome are largely degraded and threatened (
+<bibRefCitation author="Martinelli, G" journalOrPublisher="Brazilian Journal of Botany" pageId="7" pageNumber="12" pagination="587 - 597" title="Mountain biodiversity in Brazil." url="https://doi.org/10.1590/S0100-84042007000400005" volume="30" year="2007">Martinelli 2007</bibRefCitation>
+).
+</paragraph>
+</subSection>
+<subSection pageId="5" pageNumber="10" type="acknowledgements">
+<paragraph pageId="5" pageNumber="10">Acknowledgements</paragraph>
+<paragraph pageId="5" pageNumber="10">
+We are grateful to 
+<normalizedToken originalValue="Jéssica">Jessica</normalizedToken>
+Herzog Viana for providing us with data from the collection of MPEG, We also thank Marcela 
+<normalizedToken originalValue="Monné">Monne</normalizedToken>
+from MNRJ and Claudia Leal Rodrigues from CEIOC for giving us access and help to consult the available 
+<taxonomicName lsidName="" pageId="5" pageNumber="10" rank="subfamily" subfamily="Chrysomelinae">Chrysomelinae</taxonomicName>
+specimens in these collections. Special thanks to Donald Windsor, Guillaume Dury, Jesus 
+<normalizedToken originalValue="Gómez-Zurita">Gomez-Zurita</normalizedToken>
+and an anonymous referee for their valuable suggestions on the manuscript. VF received a postdoc scholarship from Conselho Nacional de Desenvolvimento 
+<normalizedToken originalValue="Científico">Cientifico</normalizedToken>
+e 
+<normalizedToken originalValue="Tecnológico">Tecnologico</normalizedToken>
+(CNPq), and AA an undergraduate scholarship also from CNPQ. 
+<normalizedToken originalValue="Fundação">Fundacao</normalizedToken>
+Carlos Chagas Filho de Amparo 
+<normalizedToken originalValue="à">a</normalizedToken>
+Pesquisa do Estado do Rio de Janeiro (FAPERJ), CNPq, 
+<normalizedToken originalValue="Fundação">Fundacao</normalizedToken>
+de Amparo 
+<normalizedToken originalValue="à">a</normalizedToken>
+Pesquisa do Estado de 
+<normalizedToken originalValue="São">Sao</normalizedToken>
+Paulo (FAPESP) and 
+<normalizedToken originalValue="Coordenação">Coordenacao</normalizedToken>
+de 
+<normalizedToken originalValue="Aperfeiçoamento">Aperfeicoamento</normalizedToken>
+de Pessoal de 
+<normalizedToken originalValue="Nível">Nivel</normalizedToken>
+Superior (CAPES) provided the 
+<normalizedToken originalValue="Laboratório">Laboratorio</normalizedToken>
+de Ecologia de Insetos / UFRJ with financial support through projects within Instituto Nacional de 
+<normalizedToken originalValue="Ciência">Ciencia</normalizedToken>
+e Tecnologia dos 
+<taxonomicName genus="Chrysolinina" lsidName="Chrysolinina" order="Hymenoptera" pageId="5" pageNumber="10" rank="order">Hymenoptera</taxonomicName>
+Parasitoides da 
+<normalizedToken originalValue="Região">Regiao</normalizedToken>
+Sudeste Brasileira (INCT Hympar) and Pesquisador Visitante Especial (PVE).
+</paragraph>
+</subSection>
+<subSection lastPageId="8" lastPageNumber="13" pageId="5" pageNumber="10" type="reference_group">
+<paragraph pageId="5" pageNumber="10">References</paragraph>
+<paragraph pageId="5" pageNumber="10">
+<bibRef author="Bechyne, J" journalOrPublisher="Frey" pageId="5" pageNumber="10" pagination="581 - 674" title="Beitraege zur Kenntnis der echten Chrysomeliden (Col. Phytophaga). Entomologische Arbeiten aus dem Museum G." volume="5" year="1954">
+<author pageId="5" pageNumber="10">
+<normalizedToken originalValue="Bechyně">Bechyne</normalizedToken>
+, J
+</author>
+, 
+<year pageId="5" pageNumber="10">1954</year>
+. 
+<title pageId="5" pageNumber="10">
+<normalizedToken originalValue="Beiträge">Beitraege</normalizedToken>
+zur Kenntnis der echten Chrysomeliden (Col. Phytophaga). Entomologische Arbeiten aus dem Museum G.
+</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="10">Frey</journalOrPublisher>
+<volume pageId="5" pageNumber="10">5</volume>
+: 
+<pagination pageId="5" pageNumber="10">581 - 674</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="10">
+<bibRef author="Bechyne, J" journalOrPublisher="Frey" pageId="5" pageNumber="10" pagination="478 - 706" title="Notizen zu den neotropischen Chrysomeloidea (Col. Phytophaga). Entomologische Arbeiten aus dem Museum G." volume="9" year="1958">
+<author pageId="5" pageNumber="10">
+<normalizedToken originalValue="Bechyně">Bechyne</normalizedToken>
+, J
+</author>
+, 
+<year pageId="5" pageNumber="10">1958</year>
+. 
+<title pageId="5" pageNumber="10">Notizen zu den neotropischen Chrysomeloidea (Col. Phytophaga). Entomologische Arbeiten aus dem Museum G.</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="10">Frey</journalOrPublisher>
+<volume pageId="5" pageNumber="10">9</volume>
+: 
+<pagination pageId="5" pageNumber="10">478 - 706</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="10">
+<bibRef author="Bechyne, J" journalOrPublisher="Revista de la Facultad de Agronomia (Maracay)" pageId="5" pageNumber="10" pagination="44 - 110" title="Notes sur les Chrysomelidae s. str. de Venezuela et des pays limitrophes." volume="3" year="1965">
+<author pageId="5" pageNumber="10">
+<normalizedToken originalValue="Bechyně">Bechyne</normalizedToken>
+, J
+</author>
+, 
+<author pageId="5" pageNumber="10">
+<normalizedToken originalValue="Springlová">Springlova</normalizedToken>
+de 
+<normalizedToken originalValue="Bechyně">Bechyne</normalizedToken>
+, B
+</author>
+, 
+<year pageId="5" pageNumber="10">1965</year>
+. 
+<title pageId="5" pageNumber="10">Notes sur les Chrysomelidae s. str. de Venezuela et des pays limitrophes.</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="10">
+Revista de la Facultad de 
+<normalizedToken originalValue="Agronomía">Agronomia</normalizedToken>
+(Maracay)
+</journalOrPublisher>
+<volume pageId="5" pageNumber="10">3</volume>
+: 
+<pagination pageId="5" pageNumber="10">44 - 110</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="10">
+<bibRef author="Bechyn ӗ, J" journalOrPublisher="Grafindustrial, Maracay" pageId="5" pageNumber="10" title="El Jannelismo y la evolucion." year="1980">
+<author pageId="5" pageNumber="10">Bechynӗ, J</author>
+, 
+<year pageId="5" pageNumber="10">1980</year>
+. 
+<title pageId="5" pageNumber="10">El Jannelismo y la evolucion.</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="10">Grafindustrial, Maracay</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="10">
+<bibRef author="Bernardi, N" journalOrPublisher="Revista Brasileira de Zoologia" pageId="5" pageNumber="10" pagination="531 - 534" title="Estagios imaturos de Platyphorazonata (Germar, 1824) (Coleoptera, Chrysomelidae, Chrysomelinae)." url="https://doi.org/10.1590/S0101-81751990000400011" volume="7" year="1991">
+<author pageId="5" pageNumber="10">Bernardi, N</author>
+, 
+<author pageId="5" pageNumber="10">Scivittaro, A</author>
+, 
+<year pageId="5" pageNumber="10">1991</year>
+. 
+<title pageId="5" pageNumber="10">
+<normalizedToken originalValue="Estágios">Estagios</normalizedToken>
+imaturos de Platyphorazonata (Germar, 1824) (Coleoptera, Chrysomelidae, Chrysomelinae).
+</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="10">Revista Brasileira de Zoologia</journalOrPublisher>
+<volume pageId="5" pageNumber="10">7</volume>
+: 
+<pagination pageId="5" pageNumber="10">531 - 534</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="10">
+<bibRef author="Blackwelder, RE" journalOrPublisher="Smithsonian Institution, Washington, D. C." pageId="5" pageNumber="10" title="Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Part 4. U. S. National Museum, Bulletin 185." year="1944">
+<author pageId="5" pageNumber="10">Blackwelder, RE</author>
+, 
+<year pageId="5" pageNumber="10">1944</year>
+. 
+<title pageId="5" pageNumber="10">Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Part 4. U.S. National Museum, Bulletin 185.</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="10">Smithsonian Institution, Washington, D.C.</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Bontems, C" editor="Jolivet, P" journalOrPublisher="Smithsonian Institution, Washington, D. C." pageId="6" pageNumber="11" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-009-3105-3_18" year="1988">
+<author pageId="6" pageNumber="11">
+<pageBreakToken pageId="6" pageNumber="11" start="start">Bontems</pageBreakToken>
+, C
+</author>
+, 
+<editor pageId="6" pageNumber="11">Jolivet, P</editor>
+, 
+<editor pageId="6" pageNumber="11">Petitpierre, E</editor>
+, 
+<editor pageId="6" pageNumber="11">Hsiao, TH</editor>
+, 
+<year pageId="6" pageNumber="11">1988</year>
+. 
+<title pageId="6" pageNumber="11">Kluwer Academic Publishers, Dordrecht</title>
+. https://doi.org/10.1007/978-94-009-3105-3_18
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Burgos-Solorio, A" journalOrPublisher=")" pageId="6" pageNumber="11" pagination="39 - 66" title="Los Crisomelinos (Coleoptera: Chrysomelidae: Chrysomelinae) del Estado de Morelos. Acta Zoologica Mexicana (n. s." url="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0065-17372004000300004&amp;lng=es&amp;nrm=iso" volume="20" year="2004">
+<author pageId="6" pageNumber="11">Burgos-Solorio, A</author>
+, 
+<author pageId="6" pageNumber="11">Anaya-Rosales, S</author>
+, 
+<year pageId="6" pageNumber="11">2004</year>
+. 
+<title pageId="6" pageNumber="11">
+Los Crisomelinos (Coleoptera: Chrysomelidae: Chrysomelinae) del Estado de Morelos. Acta 
+<normalizedToken originalValue="Zoológica">Zoologica</normalizedToken>
+Mexicana (n.s.
+</title>
+.
+<journalOrPublisher pageId="6" pageNumber="11">)</journalOrPublisher>
+<volume pageId="6" pageNumber="11">20</volume>
+: 
+<pagination pageId="6" pageNumber="11">39 - 66</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Chaboo, CS" journalOrPublisher="Journal of the Kansas Entomological Society" pageId="6" pageNumber="11" pagination="380 - 383" title="Beetles (Coleoptera) of Peru: A survey of the families. Chrysomelidae: Chrysomelinae." url="https://doi.org/10.2317/kent-88-03-380-383.1" volume="88" year="2015">
+<author pageId="6" pageNumber="11">Chaboo, CS</author>
+, 
+<author pageId="6" pageNumber="11">Flowers, RW</author>
+, 
+<year pageId="6" pageNumber="11">2015</year>
+. 
+<title pageId="6" pageNumber="11">Beetles (Coleoptera) of Peru: A survey of the families. Chrysomelidae: Chrysomelinae.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">Journal of the Kansas Entomological Society</journalOrPublisher>
+<volume pageId="6" pageNumber="11">88</volume>
+: 
+<pagination pageId="6" pageNumber="11">380 - 383</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Chaboo, CS" journalOrPublisher="Journal of Natural History" pageId="6" pageNumber="11" pagination="2325 - 2367" title="Origins and diversifcation of subsociality in leaf beetles (Coleoptera: Chrysomelidae: Cassidinae: Chrysomelinae)." url="https://doi.org/10.1080/00222933.2014.909060" volume="48" year="2014">
+<author pageId="6" pageNumber="11">Chaboo, CS</author>
+, 
+<author pageId="6" pageNumber="11">Frieiro-Costa, FA</author>
+, 
+<author pageId="6" pageNumber="11">
+<normalizedToken originalValue="Gómez-Zurita">Gomez-Zurita</normalizedToken>
+, J
+</author>
+, 
+<author pageId="6" pageNumber="11">Westerduijn, R</author>
+, 
+<year pageId="6" pageNumber="11">2014</year>
+. 
+<title pageId="6" pageNumber="11">Origins and diversifcation of subsociality in leaf beetles (Coleoptera: Chrysomelidae: Cassidinae: Chrysomelinae).</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">Journal of Natural History</journalOrPublisher>
+<volume pageId="6" pageNumber="11">48</volume>
+: 
+<pagination pageId="6" pageNumber="11">2325 - 2367</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Cox, ML" editor="Jolivet, P" journalOrPublisher="Journal of Natural History" pageId="6" pageNumber="11" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-011-1781-4_35" year="1994">
+<author pageId="6" pageNumber="11">Cox, ML</author>
+, 
+<editor pageId="6" pageNumber="11">Jolivet, P</editor>
+, 
+<editor pageId="6" pageNumber="11">Cox, ML</editor>
+, 
+<editor pageId="6" pageNumber="11">Petitpierre, E</editor>
+, 
+<year pageId="6" pageNumber="11">1994</year>
+. 
+<title pageId="6" pageNumber="11">Kluwer Academic Publishers, Dordrecht</title>
+. https://doi.org/10.1007/978-94-011-1781-4_35
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Dury, GJ" journalOrPublisher="Journal of Natural History" pageId="6" pageNumber="11" url="https://doi.org/10.1155/2014/642908" year="2014">
+<author pageId="6" pageNumber="11">Dury, GJ</author>
+, 
+<author pageId="6" pageNumber="11">Bede, JC</author>
+, 
+<author pageId="6" pageNumber="11">Windsor, DM</author>
+, 
+<year pageId="6" pageNumber="11">2014</year>
+.. https://doi.org/10.1155/2014/642908
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Flinte, V" journalOrPublisher="Genus - International Journal of Invertebrate Taxonomy" pageId="6" pageNumber="11" pagination="571 - 614" title="Tortoise beetles of the State of Rio de Janeiro, Brazil (Coleoptera: Chrysomelidae: Cassidinae)." url="http://www.cassidae.uni.wroc.pl/Flinte_Cassidinae%20Rio%20Janeiro.pdf" volume="20" year="2009 a">
+<author pageId="6" pageNumber="11">Flinte, V</author>
+, 
+<author pageId="6" pageNumber="11">Borowiec, L</author>
+, 
+<author pageId="6" pageNumber="11">Freitas, S</author>
+, 
+<author pageId="6" pageNumber="11">Viana, JH</author>
+, 
+<author pageId="6" pageNumber="11">Fernandes, FR</author>
+, 
+<author pageId="6" pageNumber="11">
+<normalizedToken originalValue="Nogueira-de-Sá">Nogueira-de-Sa</normalizedToken>
+, F
+</author>
+, 
+<author pageId="6" pageNumber="11">Macedo, MV</author>
+, 
+<author pageId="6" pageNumber="11">Monteiro, RF</author>
+, 
+<year pageId="6" pageNumber="11">2009a</year>
+. 
+<title pageId="6" pageNumber="11">Tortoise beetles of the State of Rio de Janeiro, Brazil (Coleoptera: Chrysomelidae: Cassidinae).</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">Genus - International Journal of Invertebrate Taxonomy</journalOrPublisher>
+<volume pageId="6" pageNumber="11">20</volume>
+: 
+<pagination pageId="6" pageNumber="11">571 - 614</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Flinte, V" journalOrPublisher="ZooKeys" pageId="6" pageNumber="11" pagination="15 - 31" title="Altitudinal and temporal distribution of Plagiometriona Spaeth, 1899 (Coleoptera, Chrysomelidae, Cassidinae) in a tropical forest in southeast Brazil." url="https://doi.org/10.3897/zookeys.157.1179" volume="157" year="2011">
+<author pageId="6" pageNumber="11">Flinte, V</author>
+, 
+<author pageId="6" pageNumber="11">Freitas, S</author>
+, 
+<author pageId="6" pageNumber="11">Macedo, MV</author>
+, 
+<author pageId="6" pageNumber="11">Monteiro, RF</author>
+, 
+<year pageId="6" pageNumber="11">2011</year>
+. 
+<title pageId="6" pageNumber="11">Altitudinal and temporal distribution of Plagiometriona Spaeth, 1899 (Coleoptera, Chrysomelidae, Cassidinae) in a tropical forest in southeast Brazil.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">ZooKeys</journalOrPublisher>
+<volume pageId="6" pageNumber="11">157</volume>
+: 
+<pagination pageId="6" pageNumber="11">15 - 31</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Flinte, V" editor="Jolivet, P" journalOrPublisher="ZooKeys" pageId="6" pageNumber="11" pagination="119 - 132" title="Biology and phenology of three leaf beetle species (Chrysomelidae) in a montane forest in southeast Brazil." url="https://doi.org/10.3897/zookeys.547.9015" volume="547" volumeTitle="Research on Chrysomelidae 5." year="2015">
+<author pageId="6" pageNumber="11">Flinte, V</author>
+, 
+<author pageId="6" pageNumber="11">Hentz, E</author>
+, 
+<author pageId="6" pageNumber="11">Morgado, BM</author>
+, 
+<author pageId="6" pageNumber="11">Lima, ACM</author>
+, 
+<author pageId="6" pageNumber="11">Khattar, G</author>
+, 
+<author pageId="6" pageNumber="11">Monteiro, RF</author>
+, 
+<author pageId="6" pageNumber="11">Macedo, MV</author>
+, 
+<year pageId="6" pageNumber="11">2015</year>
+. 
+<title pageId="6" pageNumber="11">Biology and phenology of three leaf beetle species (Chrysomelidae) in a montane forest in southeast Brazil.</title>
+. In: 
+<editor pageId="6" pageNumber="11">Jolivet, P</editor>
+, 
+<editor pageId="6" pageNumber="11">Santiago-Blay, J</editor>
+, 
+<editor pageId="6" pageNumber="11">Schmitt, M</editor>
+, Eds., 
+<volumeTitle pageId="6" pageNumber="11">Research on Chrysomelidae 5.</volumeTitle>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">ZooKeys</journalOrPublisher>
+<volume pageId="6" pageNumber="11">547</volume>
+: 
+<pagination pageId="6" pageNumber="11">119 - 132</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Flinte, V" editor="Jolivet, P" journalOrPublisher="ZooKeys" pageId="6" pageNumber="11" title="2. Brill, Leiden" url="https://doi.org/10.1163/ej.9789004169470.1-299.14" year="2009 b">
+<author pageId="6" pageNumber="11">Flinte, V</author>
+, 
+<author pageId="6" pageNumber="11">Macedo, MV</author>
+, 
+<author pageId="6" pageNumber="11">Monteiro, RF</author>
+, 
+<editor pageId="6" pageNumber="11">Jolivet, P</editor>
+, 
+<editor pageId="6" pageNumber="11">Santiago-Blay, J</editor>
+, 
+<editor pageId="6" pageNumber="11">Schmitt, M</editor>
+, 
+<year pageId="6" pageNumber="11">2009b</year>
+. 
+<title pageId="6" pageNumber="11">2. Brill, Leiden</title>
+. https://doi.org/10.1163/ej.9789004169470.1-299.14
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Flowers, RW" journalOrPublisher="Revista de Biologia Tropical" pageId="6" pageNumber="11" pagination="77 - 83" title="The genera of Chrysomelinae (Coleoptera: Chrysomelidae) in Costa Rica." url="https://doi.org/10.15517/rbt.v52i1.14754" volume="52" year="2004">
+<author pageId="6" pageNumber="11">Flowers, RW</author>
+, 
+<year pageId="6" pageNumber="11">2004</year>
+. 
+<title pageId="6" pageNumber="11">The genera of Chrysomelinae (Coleoptera: Chrysomelidae) in Costa Rica.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">
+Revista de 
+<normalizedToken originalValue="Biología">Biologia</normalizedToken>
+Tropical
+</journalOrPublisher>
+<volume pageId="6" pageNumber="11">52</volume>
+: 
+<pagination pageId="6" pageNumber="11">77 - 83</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Freijeiro, A" editor="Jolivet, P" journalOrPublisher="ZooKeys" pageId="6" pageNumber="11" pagination="81 - 99" title="Spatial and environmental correlates of species richness and turnover patterns in European cryptocephaline and chrysomeline beetles." url="https://doi.org/10.3897/zookeys.597.6792" volume="597" volumeTitle="Research on Chrysomelidae 6." year="2016">
+<author pageId="6" pageNumber="11">Freijeiro, A</author>
+, 
+<author pageId="6" pageNumber="11">Baselga, A</author>
+, 
+<year pageId="6" pageNumber="11">2016</year>
+. 
+<title pageId="6" pageNumber="11">Spatial and environmental correlates of species richness and turnover patterns in European cryptocephaline and chrysomeline beetles.</title>
+. In: 
+<editor pageId="6" pageNumber="11">Jolivet, P</editor>
+, 
+<editor pageId="6" pageNumber="11">Santiago-Blay, J</editor>
+, 
+<editor pageId="6" pageNumber="11">Schmitt, M</editor>
+, Eds., 
+<volumeTitle pageId="6" pageNumber="11">Research on Chrysomelidae 6.</volumeTitle>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">ZooKeys</journalOrPublisher>
+<volume pageId="6" pageNumber="11">597</volume>
+: 
+<pagination pageId="6" pageNumber="11">81 - 99</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Garcia-Robledo, C" journalOrPublisher="Proceedings of the National Academy of Sciences" pageId="6" pageNumber="11" pagination="680 - 685" title="Limited tolerance by insects to high temperatures across tropical elevational gradients and the implications of global warming for extinction." url="https://doi.org/10.1073/pnas.1507681113" volume="113" year="2016">
+<author pageId="6" pageNumber="11">
+<normalizedToken originalValue="García-Robledo">Garcia-Robledo</normalizedToken>
+, C
+</author>
+, 
+<author pageId="6" pageNumber="11">Kuprewicz, EK</author>
+, 
+<author pageId="6" pageNumber="11">Staines, CL</author>
+, 
+<author pageId="6" pageNumber="11">Erwin, TL</author>
+, 
+<author pageId="6" pageNumber="11">Kress, WJ</author>
+, 
+<year pageId="6" pageNumber="11">2016</year>
+. 
+<title pageId="6" pageNumber="11">Limited tolerance by insects to high temperatures across tropical elevational gradients and the implications of global warming for extinction.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">Proceedings of the National Academy of Sciences</journalOrPublisher>
+<volume pageId="6" pageNumber="11">113</volume>
+: 
+<pagination pageId="6" pageNumber="11">680 - 685</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Gregoire, JC" editor="Jolivet, P" journalOrPublisher="Proceedings of the National Academy of Sciences" pageId="6" pageNumber="11" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-009-3105-3_15" year="1988">
+<author pageId="6" pageNumber="11">
+<normalizedToken originalValue="Grégoire">Gregoire</normalizedToken>
+, JC
+</author>
+, 
+<editor pageId="6" pageNumber="11">Jolivet, P</editor>
+, 
+<editor pageId="6" pageNumber="11">Petitpierre, E</editor>
+, 
+<editor pageId="6" pageNumber="11">Hsiao, TH</editor>
+, 
+<year pageId="6" pageNumber="11">1988</year>
+. 
+<title pageId="6" pageNumber="11">Kluwer Academic Publishers, Dordrecht</title>
+. https://doi.org/10.1007/978-94-009-3105-3_15
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Grissell, EE" journalOrPublisher="Proceedings of the Entomological Society of Washington" pageId="6" pageNumber="11" pagination="264 - 268" title="A new species of Erixestus (Hymenoptera: Pteromalidae), an egg parasitoid of Calligraphapolyspila (Coleoptera: Chrysomelidae) in Argentina." volume="89" year="1987">
+<author pageId="6" pageNumber="11">Grissell, EE</author>
+, 
+<author pageId="6" pageNumber="11">de Santis, L</author>
+, 
+<year pageId="6" pageNumber="11">1987</year>
+. 
+<title pageId="6" pageNumber="11">A new species of Erixestus (Hymenoptera: Pteromalidae), an egg parasitoid of Calligraphapolyspila (Coleoptera: Chrysomelidae) in Argentina.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">Proceedings of the Entomological Society of Washington</journalOrPublisher>
+<volume pageId="6" pageNumber="11">89</volume>
+: 
+<pagination pageId="6" pageNumber="11">264 - 268</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Hinton, HE" journalOrPublisher="Pergamon Press, Elmsford" pageId="6" pageNumber="11" title="Biology of Insect Eggs. Vol 1." year="1981">
+<author pageId="6" pageNumber="11">Hinton, HE</author>
+, 
+<year pageId="6" pageNumber="11">1981</year>
+. 
+<title pageId="6" pageNumber="11">Biology of Insect Eggs. Vol 1.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">Pergamon Press, Elmsford</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Jolivet, P" editor="Jolivet, P" journalOrPublisher="Pergamon Press, Elmsford" pageId="6" pageNumber="11" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-009-3105-3_1" year="1988">
+<author pageId="6" pageNumber="11">Jolivet, P</author>
+, 
+<editor pageId="6" pageNumber="11">Jolivet, P</editor>
+, 
+<editor pageId="6" pageNumber="11">Petitpierre, E</editor>
+, 
+<editor pageId="6" pageNumber="11">Hsiao, TH</editor>
+, 
+<year pageId="6" pageNumber="11">1988</year>
+. 
+<title pageId="6" pageNumber="11">Kluwer Academic Publishers, Dordrecht</title>
+. https://doi.org/10.1007/978-94-009-3105-3_1
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Jolivet, P" journalOrPublisher="Societe nouvelle des editions Boubee, Paris" pageId="6" pageNumber="11" title="Biologie des Coleopteres Chrysomelides." year="1997">
+<author pageId="6" pageNumber="11">Jolivet, P</author>
+, 
+<year pageId="6" pageNumber="11">1997</year>
+. 
+<title pageId="6" pageNumber="11">
+Biologie des 
+<normalizedToken originalValue="Coléoptères">Coleopteres</normalizedToken>
+<normalizedToken originalValue="Chrysomélides">Chrysomelides</normalizedToken>
+.
+</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">
+<normalizedToken originalValue="Société">Societe</normalizedToken>
+nouvelle des 
+<normalizedToken originalValue="éditions">editions</normalizedToken>
+<normalizedToken originalValue="Boubée">Boubee</normalizedToken>
+, Paris
+</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Jolivet, P" journalOrPublisher="Backhuys Publishers, Leiden" pageId="6" pageNumber="11" title="Host-plants of Chrysomelidae beetles of the world: an essay about the relationships between leaf beetles and their food-plants." year="1995">
+<author pageId="6" pageNumber="11">Jolivet, P</author>
+, 
+<author pageId="6" pageNumber="11">Hawkeswood, TJ</author>
+, 
+<year pageId="6" pageNumber="11">1995</year>
+. 
+<title pageId="6" pageNumber="11">Host-plants of Chrysomelidae beetles of the world: an essay about the relationships between leaf beetles and their food-plants.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">Backhuys Publishers, Leiden</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Jolivet, P" journalOrPublisher="Insecta Mundi" pageId="6" pageNumber="11" pagination="133 - 142" title="Cycloalexy: a new concept in the larval defense of insects." url="http://digitalcommons.unl.edu/insectamundi/394" volume="4" year="1990">
+<author pageId="6" pageNumber="11">Jolivet, P</author>
+, 
+<author pageId="6" pageNumber="11">Vasconcellos-Neto, J</author>
+, 
+<author pageId="6" pageNumber="11">Weinstein, P</author>
+, 
+<year pageId="6" pageNumber="11">1990</year>
+. 
+<title pageId="6" pageNumber="11">Cycloalexy: a new concept in the larval defense of insects.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">Insecta Mundi</journalOrPublisher>
+<volume pageId="6" pageNumber="11">4</volume>
+: 
+<pagination pageId="6" pageNumber="11">133 - 142</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="11">
+<bibRef author="Macedo, MV" journalOrPublisher="Oecologia Australis" pageId="6" pageNumber="11" pagination="121 - 132" title="Elevational ranges and local extinction risk of beetles occurring in the &#34; Campos de Altitude &#34; in southeastern Brazil." url="https://doi.org/10.4257/oeco.2016.2002.09" volume="20" year="2016">
+<author pageId="6" pageNumber="11">Macedo, MV</author>
+, 
+<author pageId="6" pageNumber="11">Flinte, V</author>
+, 
+<author pageId="6" pageNumber="11">Araujo, CO</author>
+, 
+<author pageId="6" pageNumber="11">Silveira, LFL</author>
+, 
+<author pageId="6" pageNumber="11">Bouzan, AM</author>
+, 
+<author pageId="6" pageNumber="11">Dufrayer, R</author>
+, 
+<author pageId="6" pageNumber="11">Viana, JH</author>
+, 
+<author pageId="6" pageNumber="11">Araujo, RO</author>
+, 
+<author pageId="6" pageNumber="11">Hentz, E</author>
+, 
+<author pageId="6" pageNumber="11">Monteiro, RF</author>
+, 
+<year pageId="6" pageNumber="11">2016</year>
+. 
+<title pageId="6" pageNumber="11">Elevational ranges and local extinction risk of beetles occurring in the "Campos de Altitude" in southeastern Brazil.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="11">Oecologia Australis</journalOrPublisher>
+<volume pageId="6" pageNumber="11">20</volume>
+: 
+<pagination pageId="6" pageNumber="11">121 - 132</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="7" pageNumber="12">
+<bibRef author="Martinelli, G" journalOrPublisher="Brazilian Journal of Botany" pageId="7" pageNumber="12" pagination="587 - 597" title="Mountain biodiversity in Brazil." url="https://doi.org/10.1590/S0100-84042007000400005" volume="30" year="2007">
+<author pageId="7" pageNumber="12">
+<pageBreakToken pageId="7" pageNumber="12" start="start">Martinelli</pageBreakToken>
+, G
+</author>
+, 
+<year pageId="7" pageNumber="12">2007</year>
+. 
+<title pageId="7" pageNumber="12">Mountain biodiversity in Brazil.</title>
+. 
+<journalOrPublisher pageId="7" pageNumber="12">Brazilian Journal of Botany</journalOrPublisher>
+<volume pageId="7" pageNumber="12">30</volume>
+: 
+<pagination pageId="7" pageNumber="12">587 - 597</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="7" pageNumber="12">
+<bibRef author="Medeiros, L" editor="Jolivet, P" journalOrPublisher="Brazilian Journal of Botany" pageId="7" pageNumber="12" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-011-1781-4_11" year="1994">
+<author pageId="7" pageNumber="12">Medeiros, L</author>
+, 
+<author pageId="7" pageNumber="12">Vasconcellos-Neto, J</author>
+, 
+<editor pageId="7" pageNumber="12">Jolivet, P</editor>
+, 
+<editor pageId="7" pageNumber="12">Cox, ML</editor>
+, 
+<editor pageId="7" pageNumber="12">Petitpierre, E</editor>
+, 
+<year pageId="7" pageNumber="12">1994</year>
+. 
+<title pageId="7" pageNumber="12">Kluwer Academic Publishers, Dordrecht</title>
+. https://doi.org/10.1007/978-94-011-1781-4_11
+</bibRef>
+</paragraph>
+<paragraph pageId="7" pageNumber="12">
+<bibRef author="Olckers, T" journalOrPublisher="BioControl" pageId="7" pageNumber="12" pagination="225 - 239" title="Biology and host range of Platyphorasemiviridis, a leaf beetle evaluated as a potential biological control agent for Solanummauritianum in South Africa." url="https://doi.org/10.1023/A:1009912011121" volume="43" year="1998">
+<author pageId="7" pageNumber="12">Olckers, T</author>
+, 
+<year pageId="7" pageNumber="12">1998</year>
+. 
+<title pageId="7" pageNumber="12">Biology and host range of Platyphorasemiviridis, a leaf beetle evaluated as a potential biological control agent for Solanummauritianum in South Africa.</title>
+. 
+<journalOrPublisher pageId="7" pageNumber="12">BioControl</journalOrPublisher>
+<volume pageId="7" pageNumber="12">43</volume>
+: 
+<pagination pageId="7" pageNumber="12">225 - 239</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="7" pageNumber="12">
+<bibRef author="Olckers, T" journalOrPublisher="BioControl" pageId="7" pageNumber="12" url="https://doi.org/10.1649/0010-065X(2000)054[0497:BAPHRO]2.0.CO;2" year="2000">
+<author pageId="7" pageNumber="12">Olckers, T</author>
+, 
+<year pageId="7" pageNumber="12">2000</year>
+.. https://doi.org/10.1649/0010-065X(2000)054[0497:BAPHRO]2.0.CO;2
+</bibRef>
+</paragraph>
+<paragraph pageId="7" pageNumber="12">
+<bibRef author="Pasteels, JM" journalOrPublisher="Chemoecology" pageId="7" pageNumber="12" pagination="113 - 120" title="Pyrrolizidine alkaloids and pentacyclic triterpene saponins in the defensive secretions of Platyphora leaf beetles." url="https://doi.org/10.1007/PL00001840" volume="11" year="2001">
+<author pageId="7" pageNumber="12">Pasteels, JM</author>
+, 
+<author pageId="7" pageNumber="12">Termonia, A</author>
+, 
+<author pageId="7" pageNumber="12">Windsor, DM</author>
+, 
+<author pageId="7" pageNumber="12">Witte, L</author>
+, 
+<author pageId="7" pageNumber="12">Teuring, C</author>
+, 
+<author pageId="7" pageNumber="12">Hartmann, T</author>
+, 
+<year pageId="7" pageNumber="12">2001</year>
+. 
+<title pageId="7" pageNumber="12">Pyrrolizidine alkaloids and pentacyclic triterpene saponins in the defensive secretions of Platyphora leaf beetles.</title>
+. 
+<journalOrPublisher pageId="7" pageNumber="12">Chemoecology</journalOrPublisher>
+<volume pageId="7" pageNumber="12">11</volume>
+: 
+<pagination pageId="7" pageNumber="12">113 - 120</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="7" pageNumber="12">
+<bibRef author="Reid, CAM" journalOrPublisher="Zootaxa" pageId="7" pageNumber="12" pagination="1 - 119" title="A taxonomic revision of the Australian Chrysomelinae, with a key to the genera (Coleoptera: Chrysomelidae)." volume="1292" year="2006">
+<author pageId="7" pageNumber="12">Reid, CAM</author>
+, 
+<year pageId="7" pageNumber="12">2006</year>
+. 
+<title pageId="7" pageNumber="12">A taxonomic revision of the Australian Chrysomelinae, with a key to the genera (Coleoptera: Chrysomelidae).</title>
+. 
+<journalOrPublisher pageId="7" pageNumber="12">Zootaxa</journalOrPublisher>
+<volume pageId="7" pageNumber="12">1292</volume>
+: 
+<pagination pageId="7" pageNumber="12">1 - 119</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="7" pageNumber="12">
+<bibRef author="Sampaio, AA" editor="Da-Silva, ER" journalOrPublisher="Zootaxa" pageId="7" pageNumber="12" title="Perse Editora, Rio de Janeiro" url="https://doi.org/10.13140/RG.2.1.1474.2649" year="2016">
+<author pageId="7" pageNumber="12">Sampaio, AA</author>
+, 
+<author pageId="7" pageNumber="12">
+<normalizedToken originalValue="Monné">Monne</normalizedToken>
+, ML
+</author>
+, 
+<editor pageId="7" pageNumber="12">Da-Silva, ER</editor>
+, 
+<editor pageId="7" pageNumber="12">Passos, MIS</editor>
+, 
+<editor pageId="7" pageNumber="12">Aguiar, VM</editor>
+, 
+<editor pageId="7" pageNumber="12">Lessa, CSS</editor>
+, 
+<editor pageId="7" pageNumber="12">Coelho, LBN</editor>
+, 
+<year pageId="7" pageNumber="12">2016</year>
+. 
+<title pageId="7" pageNumber="12">Perse Editora, Rio de Janeiro</title>
+. https://doi.org/10.13140/RG.2.1.1474.2649
+</bibRef>
+</paragraph>
+<paragraph pageId="7" pageNumber="12">
+<bibRef author="Seeno, TN" journalOrPublisher="Entomography" pageId="7" pageNumber="12" pagination="1 - 221" title="Leaf Beetle Genera (Coleoptera: Chrysomelidae)." volume="1" year="1982">
+<author pageId="7" pageNumber="12">Seeno, TN</author>
+, 
+<author pageId="7" pageNumber="12">Wilcox, JA</author>
+, 
+<year pageId="7" pageNumber="12">1982</year>
+. 
+<title pageId="7" pageNumber="12">Leaf Beetle Genera (Coleoptera: Chrysomelidae).</title>
+. 
+<journalOrPublisher pageId="7" pageNumber="12">Entomography</journalOrPublisher>
+<volume pageId="7" pageNumber="12">1</volume>
+: 
+<pagination pageId="7" pageNumber="12">1 - 221</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="7" pageNumber="12">
+<bibRef author="Selman, BJ" editor="Jolivet, PH" journalOrPublisher="Entomography" pageId="7" pageNumber="12" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-011-1781-4_2" year="1994">
+<author pageId="7" pageNumber="12">Selman, BJ</author>
+, 
+<editor pageId="7" pageNumber="12">Jolivet, PH</editor>
+, 
+<editor pageId="7" pageNumber="12">Cox, ML</editor>
+, 
+<editor pageId="7" pageNumber="12">Petitpierre, E</editor>
+, 
+<year pageId="7" pageNumber="12">1994</year>
+. 
+<title pageId="7" pageNumber="12">Kluwer Academic Publishers, Dordrecht</title>
+. https://doi.org/10.1007/978-94-011-1781-4_2
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="13">
+<bibRef author="Takizawa, H" journalOrPublisher="Kontyu" pageId="8" pageNumber="13" pagination="444 - 468" title="Larvae of the genus Gonioctena Chevrolat (Coleoptera: Chrysomelidae): descriptions of Japanese species and the implications of larval characters for the phylogeny." volume="44" year="1976">
+<author pageId="8" pageNumber="13">
+<pageBreakToken pageId="8" pageNumber="13" start="start">Takizawa</pageBreakToken>
+, H
+</author>
+, 
+<year pageId="8" pageNumber="13">1976</year>
+. 
+<title pageId="8" pageNumber="13">Larvae of the genus Gonioctena Chevrolat (Coleoptera: Chrysomelidae): descriptions of Japanese species and the implications of larval characters for the phylogeny.</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="13">
+<normalizedToken originalValue="Kontyû">Kontyu</normalizedToken>
+</journalOrPublisher>
+<volume pageId="8" pageNumber="13">44</volume>
+: 
+<pagination pageId="8" pageNumber="13">444 - 468</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="13">
+<bibRef author="Termonia, A" journalOrPublisher="Proceedings of the Royal Society B" pageId="8" pageNumber="13" pagination="1 - 6" title="Dual chemical sequestration: a key mechanism in transitions among ecological specialization." url="https://doi.org/10.1098/rspb.2001.1859" volume="269" year="2002">
+<author pageId="8" pageNumber="13">Termonia, A</author>
+, 
+<author pageId="8" pageNumber="13">Pasteels, JM</author>
+, 
+<author pageId="8" pageNumber="13">Windsor, DM</author>
+, 
+<author pageId="8" pageNumber="13">Milinkovitch, MC</author>
+, 
+<year pageId="8" pageNumber="13">2002</year>
+. 
+<title pageId="8" pageNumber="13">Dual chemical sequestration: a key mechanism in transitions among ecological specialization.</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="13">Proceedings of the Royal Society B</journalOrPublisher>
+<volume pageId="8" pageNumber="13">269</volume>
+: 
+<pagination pageId="8" pageNumber="13">1 - 6</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="13">
+<bibRef author="Vasconcellos-Neto, J" editor="Jolivet, P" journalOrPublisher="Proceedings of the Royal Society B" pageId="8" pageNumber="13" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-011-1781-4_23" year="1994">
+<author pageId="8" pageNumber="13">Vasconcellos-Neto, J</author>
+, 
+<author pageId="8" pageNumber="13">Jolivet, P</author>
+, 
+<editor pageId="8" pageNumber="13">Jolivet, P</editor>
+, 
+<editor pageId="8" pageNumber="13">Cox, ML</editor>
+, 
+<editor pageId="8" pageNumber="13">Petitpierre, E</editor>
+, 
+<year pageId="8" pageNumber="13">1994</year>
+. 
+<title pageId="8" pageNumber="13">Kluwer Academic Publishers, Dordrecht</title>
+. https://doi.org/10.1007/978-94-011-1781-4_23
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="13">
+<bibRef author="Veloso, HP" journalOrPublisher="Fundacao Instituto Brasileiro de Geografia e Estatistica (IBGE), Rio de Janeiro" pageId="8" pageNumber="13" title="Classificacao da Vegetacao Brasileira Adaptada a Um Sistema Universal." year="1991">
+<author pageId="8" pageNumber="13">Veloso, HP</author>
+, 
+<author pageId="8" pageNumber="13">Rangel-Filho, ALR</author>
+, 
+<author pageId="8" pageNumber="13">Lima, JCA</author>
+, 
+<year pageId="8" pageNumber="13">1991</year>
+. 
+<title pageId="8" pageNumber="13">
+<normalizedToken originalValue="Classificação">Classificacao</normalizedToken>
+da 
+<normalizedToken originalValue="Vegetação">Vegetacao</normalizedToken>
+Brasileira Adaptada a Um Sistema Universal.
+</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="13">
+<normalizedToken originalValue="Fundação">Fundacao</normalizedToken>
+Instituto Brasileiro de Geografia e 
+<normalizedToken originalValue="Estatística">Estatistica</normalizedToken>
+(IBGE), Rio de Janeiro
+</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="13">
+<bibRef author="Wade, MJ" editor="Jolivet, PH" journalOrPublisher="Fundacao Instituto Brasileiro de Geografia e Estatistica (IBGE), Rio de Janeiro" pageId="8" pageNumber="13" title="Kluwer Academic Publishers, Dordrecht" url="https://doi.org/10.1007/978-94-011-1781-4_41" year="1994">
+<author pageId="8" pageNumber="13">Wade, MJ</author>
+, 
+<editor pageId="8" pageNumber="13">Jolivet, PH</editor>
+, 
+<editor pageId="8" pageNumber="13">Cox, ML</editor>
+, 
+<editor pageId="8" pageNumber="13">Petitpierre, E</editor>
+, 
+<year pageId="8" pageNumber="13">1994</year>
+. 
+<title pageId="8" pageNumber="13">Kluwer Academic Publishers, Dordrecht</title>
+. https://doi.org/10.1007/978-94-011-1781-4_41
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="13">
+<bibRef author="Windsor, DM" editor="Jolivet, PH" journalOrPublisher="ZooKeys" pageId="8" pageNumber="13" pagination="71 - 93" title="Subsocial Neotropical Doryphorini (Chrysomelidae, Chrysomelinae): new observations on behavior, host plants and systematics." url="https://doi.org/10.3897/zookeys.332.5199" volume="332" volumeTitle="Research on Chrysomelidae 4." year="2013">
+<author pageId="8" pageNumber="13">Windsor, DM</author>
+, 
+<author pageId="8" pageNumber="13">Dury, GJ</author>
+, 
+<author pageId="8" pageNumber="13">Frieiro-Costa, FA</author>
+, 
+<author pageId="8" pageNumber="13">Lanckowsky, S</author>
+, 
+<author pageId="8" pageNumber="13">Pasteels, JM</author>
+, 
+<year pageId="8" pageNumber="13">2013</year>
+. 
+<title pageId="8" pageNumber="13">Subsocial Neotropical Doryphorini (Chrysomelidae, Chrysomelinae): new observations on behavior, host plants and systematics.</title>
+. In: 
+<editor pageId="8" pageNumber="13">Jolivet, PH</editor>
+, 
+<editor pageId="8" pageNumber="13">Santiago-Blay, J</editor>
+, 
+<editor pageId="8" pageNumber="13">Schmitt, M</editor>
+, Eds., 
+<volumeTitle pageId="8" pageNumber="13">Research on Chrysomelidae 4.</volumeTitle>
+. 
+<journalOrPublisher pageId="8" pageNumber="13">ZooKeys</journalOrPublisher>
+<volume pageId="8" pageNumber="13">332</volume>
+: 
+<pagination pageId="8" pageNumber="13">71 - 93</pagination>
+</bibRef>
+</paragraph>
+</subSection>
+<paragraph pageId="8" pageNumber="13">
+1Contribution to the 9th International Symposium on the 
+<taxonomicName family="Chrysomelidae" lsidName="" pageId="8" pageNumber="13" rank="family">Chrysomelidae</taxonomicName>
+, Orlando, FL, USA, September 28, 2016
+</paragraph>
+</document>

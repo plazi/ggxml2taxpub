@@ -1,0 +1,2669 @@
+<?xml version="1.0" encoding="UTF-8"?><document ID-DOI="http://dx.doi.org/10.3897/BDJ.8.e54479" ID-PMC="PMC7403162" ID-Pensoft-Pub="1314-2828-8-e54479" ID-Pensoft-UUID="0061C0B4E92F5ADE892EB19F198F9AB1" ID-PubMed="32821211" ModsDocID="1314-2828-8-e54479" checkinTime="1596000165192" checkinUser="pensoft" docAuthor="Rebelo, Hugo &amp; Ferreira, Sónia &amp; Amorim, Francisco &amp; Horta, Pedro &amp; Raposeira, Helena &amp; Santos, Helena &amp; Beja, Pedro &amp; Mata, Vanessa A." docDate="2020" docId="0061C0B4E92F5ADE892EB19F198F9AB1" docName="BiodivDatJour 8: e54479" docOrigin="Biodiversity Data Journal 8" docSource="https://bdj.pensoft.net/article/54479/download/xml/" docTitle="Hidden in our pockets: building of a DNA barcode library unveils the first record of Myotis alcathoe for Portugal" docVersion="3" id="0061C0B4E92F5ADE892EB19F198F9AB1" pageNumber="54479" updateTime="1668128451714" updateUser="ExternalLinkService">
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo>
+<mods:title>Hidden in our pockets: building of a DNA barcode library unveils the first record of Myotis alcathoe for Portugal</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Rebelo, Hugo</mods:namePart>
+<mods:affiliation>
+CIBIO-InBIO, Centro de 
+<normalizedToken originalValue="Investigação">Investigacao</normalizedToken>
+em Biodiversidade e Recursos 
+<normalizedToken originalValue="Genéticos">Geneticos</normalizedToken>
+, Universidade do Porto, 
+<normalizedToken originalValue="Vairão">Vairao</normalizedToken>
+, Portugal
+</mods:affiliation>
+<mods:affiliation>
+CIBIO-InBIO, Centro de 
+<normalizedToken originalValue="Investigação">Investigacao</normalizedToken>
+em Biodiversidade e Recursos 
+<normalizedToken originalValue="Genéticos">Geneticos</normalizedToken>
+, Instituto Superior de Agronomia, Lisboa, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>
+Ferreira, 
+<normalizedToken originalValue="Sónia">Sonia</normalizedToken>
+</mods:namePart>
+<mods:nameIdentifier type="orcid">https://orcid.org/0000-0002-6884-3966</mods:nameIdentifier>
+<mods:affiliation>
+CIBIO-InBIO, Centro de 
+<normalizedToken originalValue="Investigação">Investigacao</normalizedToken>
+em Biodiversidade e Recursos 
+<normalizedToken originalValue="Genéticos">Geneticos</normalizedToken>
+, Universidade do Porto, 
+<normalizedToken originalValue="Vairão">Vairao</normalizedToken>
+, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Amorim, Francisco</mods:namePart>
+<mods:affiliation>
+CIBIO-InBIO, Centro de 
+<normalizedToken originalValue="Investigação">Investigacao</normalizedToken>
+em Biodiversidade e Recursos 
+<normalizedToken originalValue="Genéticos">Geneticos</normalizedToken>
+, Universidade do Porto, 
+<normalizedToken originalValue="Vairão">Vairao</normalizedToken>
+, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Horta, Pedro</mods:namePart>
+<mods:affiliation>
+Departamento de Biologia, Faculdade de 
+<normalizedToken originalValue="Ciências">Ciencias</normalizedToken>
+, Universidade do Porto, Porto, Portugal
+</mods:affiliation>
+<mods:affiliation>
+CIBIO-InBIO, Centro de 
+<normalizedToken originalValue="Investigação">Investigacao</normalizedToken>
+em Biodiversidade e Recursos 
+<normalizedToken originalValue="Genéticos">Geneticos</normalizedToken>
+, Universidade do Porto, 
+<normalizedToken originalValue="Vairão">Vairao</normalizedToken>
+, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Raposeira, Helena</mods:namePart>
+<mods:affiliation>
+Departamento de Biologia, Faculdade de 
+<normalizedToken originalValue="Ciências">Ciencias</normalizedToken>
+, Universidade do Porto, Porto, Portugal
+</mods:affiliation>
+<mods:affiliation>
+CIBIO-InBIO, Centro de 
+<normalizedToken originalValue="Investigação">Investigacao</normalizedToken>
+em Biodiversidade e Recursos 
+<normalizedToken originalValue="Genéticos">Geneticos</normalizedToken>
+, Universidade do Porto, 
+<normalizedToken originalValue="Vairão">Vairao</normalizedToken>
+, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Santos, Helena</mods:namePart>
+<mods:affiliation>
+CIBIO-InBIO, Centro de 
+<normalizedToken originalValue="Investigação">Investigacao</normalizedToken>
+em Biodiversidade e Recursos 
+<normalizedToken originalValue="Genéticos">Geneticos</normalizedToken>
+, Universidade do Porto, 
+<normalizedToken originalValue="Vairão">Vairao</normalizedToken>
+, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Beja, Pedro</mods:namePart>
+<mods:nameIdentifier type="orcid">https://orcid.org/0000-0001-8164-0760</mods:nameIdentifier>
+<mods:affiliation>
+CIBIO-InBIO, Centro de 
+<normalizedToken originalValue="Investigação">Investigacao</normalizedToken>
+em Biodiversidade e Recursos 
+<normalizedToken originalValue="Genéticos">Geneticos</normalizedToken>
+, Universidade do Porto, 
+<normalizedToken originalValue="Vairão">Vairao</normalizedToken>
+, Portugal
+</mods:affiliation>
+<mods:affiliation>
+CIBIO-InBIO, Centro de 
+<normalizedToken originalValue="Investigação">Investigacao</normalizedToken>
+em Biodiversidade e Recursos 
+<normalizedToken originalValue="Genéticos">Geneticos</normalizedToken>
+, Instituto Superior de Agronomia, Lisboa, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Mata, Vanessa A.</mods:namePart>
+<mods:nameIdentifier type="email">vanessamata@hotmail.com</mods:nameIdentifier>
+<mods:nameIdentifier type="orcid">https://orcid.org/0000-0003-3005-9030</mods:nameIdentifier>
+<mods:affiliation>
+CIBIO-InBIO, Centro de 
+<normalizedToken originalValue="Investigação">Investigacao</normalizedToken>
+em Biodiversidade e Recursos 
+<normalizedToken originalValue="Genéticos">Geneticos</normalizedToken>
+, Universidade do Porto, 
+<normalizedToken originalValue="Vairão">Vairao</normalizedToken>
+, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Biodiversity Data Journal</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>8</mods:number>
+</mods:detail>
+<mods:date>2020</mods:date>
+<mods:extent unit="page">
+<mods:start>54479</mods:start>
+<mods:end>54479</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://dx.doi.org/10.3897/BDJ.8.e54479</mods:url>
+</mods:location>
+<mods:identifier type="DOI">http://dx.doi.org/10.3897/BDJ.8.e54479</mods:identifier>
+<mods:identifier type="Pensoft-Pub">1314-2828-8-e54479</mods:identifier>
+<mods:identifier type="Pensoft-UUID">0061C0B4E92F5ADE892EB19F198F9AB1</mods:identifier>
+<mods:classification>journal article</mods:classification>
+</mods:mods>
+<subSection pageId="0" pageNumber="54479" type="introduction">
+<paragraph pageId="0" pageNumber="54479">
+<pageBreakToken origin="extrapolated" pageId="0" pageNumber="54479" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+The barcoding of life is a booming initiative to catalogue worldwide biodiversity (
+<bibRefCitation author="Ratnasingham, S" journalOrPublisher="Molecular Ecology Notes" pageId="0" pageNumber="54479" pagination="355 - 364" refId="B5745840" refString="Ratnasingham, S, Hebert, Paul D. N., 2007. BOLD: The Barcode of Life Data System (http://www.barcodinglife.org). Molecular Ecology Notes 7 (3): 355 - 364" title="BOLD: The Barcode of Life Data System (http: // www. barcodinglife. org)" volume="7" year="2007">Ratnasingham and Hebert 2007</bibRefCitation>
+) wherein tens of thousands of species have already been referenced through the sequencing of a fragment of the cytochrome 
+<!--emphasis removed-->c
+oxidase I (COI) gene. These libraries have already been used in a vast array of studies ranging from the diet assessment of species (e.g. 
+<bibRefCitation author="Mata, Vanessa A." journalOrPublisher="Biology Letters" pageId="0" pageNumber="54479" refId="B5745795" refString="Mata, Vanessa A., Amorim, Francisco, Corley, Martin F. V., McCracken, Gary F., Rebelo, Hugo, Beja, Pedro, 2016. Female dietary bias towards large migratory moths in the European free-tailed bat (Tadarida teniotis). Biology Letters 12 (3)" title="Female dietary bias towards large migratory moths in the European free-tailed bat (Tadarida teniotis)" volume="12" year="2016">Mata et al. 2016</bibRefCitation>
+), to the detection of rare species (e.g. 
+<bibRefCitation author="Wilcox, T. M." journalOrPublisher="PLOS One" pageId="0" pageNumber="54479" pagination=": e 59520" refId="B5745940" refString="Wilcox, T. M., McKelvey, K. S., Young, M. K., Jane, S. F., Lowe, W. H., Whiteley, Andrew R., Schwartz, M. K., 2013. Robust detection of rare species using environmental DNA: The importance of primer specificity. PLOS One 8 (3): e59520" title="Robust detection of rare species using environmental DNA: The importance of primer specificity" volume="8" year="2013">Wilcox et al. 2013</bibRefCitation>
+) or the community composition of habitats or ecosystems (e.g. 
+<bibRefCitation author="Baselga, Andres" journalOrPublisher="Nature Communications" pageId="0" pageNumber="54479" pagination=": 1892" refId="B5745575" refString="Baselga, Andres, Fujisawa, Tomochika, Crampton-Platt, Alexandra, Bergsten, Johannes, Foster, Peter G., Monaghan, Michael T., Vogler, Alfried P., 2013. Whole-community DNA barcoding reveals a spatio-temporal continuum of biodiversity at species and genetic levels. Nature Communications 4 (1): 1892" title="Whole-community DNA barcoding reveals a spatio-temporal continuum of biodiversity at species and genetic levels" volume="4" year="2013">Baselga et al. 2013</bibRefCitation>
+, 
+<bibRefCitation author="Clare, Elizabeth L." journalOrPublisher="Molecular Ecology Notes" pageId="0" pageNumber="54479" pagination="184 - 190" refId="B5745633" refString="Clare, Elizabeth L., Lim, Burton K., Engstrom, Mark D., Eger, Judith L., Hebert, Paul D. N., 2007. DNA barcoding of Neotropical bats: species identification and discovery within Guyana. Molecular Ecology Notes 7 (2): 184 - 190" title="DNA barcoding of Neotropical bats: species identification and discovery within Guyana" volume="7" year="2007">Clare et al. 2007</bibRefCitation>
+). One of the potential uses of DNA barcoding has been the taxonomic validation of biological collections (
+<bibRefCitation author="Puillandre, N" journalOrPublisher="Molecular Ecology Resources" pageId="0" pageNumber="54479" pagination="396 - 402" refId="B5745807" refString="Puillandre, N, Bouchet, P, Boisselier-Dubayle, M-C, Brisset, J, Buge, B, Castelin, M, Chagnoux, S, Christophe, T, Corbari, L, Lambourdiere, J, Lozouet, P, Marani, G, Rivasseau, A, Silva, N, Terryn, Y, Tillier, S, Utge, J, Samadi, S, 2012. New taxonomy and old collections: integrating DNA barcoding into the collection curation process. Molecular Ecology Resources 12 (3): 396 - 402" title="New taxonomy and old collections: integrating DNA barcoding into the collection curation process" volume="12" year="2012">Puillandre et al. 2012</bibRefCitation>
+). Consequently, under DNA barcoding initiatives, a great number of new species or hidden cryptic diversity have been found (e.g. 
+<bibRefCitation author="Lara, Ariagna" journalOrPublisher="Molecular Ecology Resources" pageId="0" pageNumber="54479" pagination="421 - 430" refId="B5745782" refString="Lara, Ariagna, Ponce de Leon, Jose Luis, Rodriguez, Rodet, Casane, Didier, Cote, Guillaume, Bernatchez, Louis, Garcia-Machado, Erik, 2010. DNA barcoding of Cuban freshwater fishes: evidence for cryptic species and taxonomic conflicts. Molecular Ecology Resources 10 (3): 421 - 430" title="DNA barcoding of Cuban freshwater fishes: evidence for cryptic species and taxonomic conflicts" volume="10" year="2010">Lara et al. 2010</bibRefCitation>
+, 
+<bibRefCitation author="Saitoh, Takema" journalOrPublisher="Molecular Ecology Resources" pageId="0" pageNumber="54479" pagination="177 - 186" refId="B5745871" refString="Saitoh, Takema, Sugita, Norimasa, Someya, Sayaka, Iwami, Yasuko, Kobayashi, Sayaka, Kamigaichi, Hiromi, Higuchi, Aki, Asai, Shigeki, Yamamoto, Yoshihiro, Nishiumi, Isao, 2015. DNA barcoding reveals 24 distinct lineages as cryptic bird species candidates in and around the Japanese Archipelago. Molecular Ecology Resources 15 (1): 177 - 186" title="DNA barcoding reveals 24 distinct lineages as cryptic bird species candidates in and around the Japanese Archipelago" volume="15" year="2015">Saitoh et al. 2015</bibRefCitation>
+, 
+<bibRefCitation author="Corley, Martin F. V." journalOrPublisher="Nota Lepidopterologica" pageId="0" pageNumber="54479" pagination="15 - 24" refId="B5745654" refString="Corley, Martin F. V., Ferreira, Sonia, Lvovsky, Alexander L., Rosete, Jorge, 2017. Borkhausenia crimnodes Meyrick, 1912 (Lepidoptera, Oecophoridae), a southern hemisphere species resident in Portugal. Nota Lepidopterologica 40 (1): 15 - 24" title="Borkhausenia crimnodes Meyrick, 1912 (Lepidoptera, Oecophoridae), a southern hemisphere species resident in Portugal" volume="40" year="2017">Corley et al. 2017</bibRefCitation>
+, 
+<bibRefCitation author="Corley, Martin Francis Vanner" journalOrPublisher="Zootaxa" pageId="0" pageNumber="54479" pagination="594 - 600" refId="B5745644" refString="Corley, Martin Francis Vanner, Ferreira, Sonia, 2017. DNA Barcoding reveals sexual dimorphism in Isotrias penedana Trematerra, 2013 (Lepidoptera: Tortricidae, Chlidanotinae). Zootaxa 4221 (5): 594 - 600" title="DNA Barcoding reveals sexual dimorphism in Isotrias penedana Trematerra, 2013 (Lepidoptera: Tortricidae, Chlidanotinae)." volume="4221" year="2017">Corley and Ferreira 2017</bibRefCitation>
+). These latter examples demonstrate the power of this technique on unveiling hidden patterns of diversity.
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+In Portugal, the InBIO Barcoding Initiative was recently launched under the scope of EnvMetaGen ERA-Chair, aiming to contribute for building a DNA barcoding library for the 
+<normalizedToken originalValue="country’s">country's</normalizedToken>
+biodiversity of terrestrial and freshwater ecosystems (
+<bibRefCitation author="Ferreira, S" journalOrPublisher="European Union Horizon 2020 Research &amp; Innovation Programme - H 2020 - WIDESPREAD- 2014 - 2" pageId="0" pageNumber="54479" refId="B5745706" refString="Ferreira, S, Fonseca, N, Egeter, B, Pauperio, J, Galhardo, M, Oxelfelt, F, Aresta, S, Archer, J, Corley, MFV, Penado, A, Pina, S, Jarman, S, Beja, P, 2018. Deliverable 4.2 (D4.2): Protocol for building and organising reference collections of DNA sequences, EnvMetaGen project (Grant Agreement No 668981). European Union Horizon 2020 Research &amp; Innovation Programme - H2020-WIDESPREAD-2014-2" title="Deliverable 4.2 (D 4.2): Protocol for building and organising reference collections of DNA sequences, EnvMetaGen project (Grant Agreement No 668981)." year="2018">Ferreira et al. 2018</bibRefCitation>
+). Building on this initiative, we assembled a COI reference library for all the 25 bat species known to occur in mainland Portugal (
+<bibRefCitation author="Rainho, A" journalOrPublisher="Instituto da Conservacao da Natureza e das Florestas, Lisbon" pageId="0" pageNumber="54479" refId="B5745831" refString="Rainho, A, Alves, P, Amorim, F, Marques, JT, 2013. Atlas dos morcegos de Portugal Continental. Instituto da Conservacao da Natureza e das Florestas, Lisbon" title="Atlas dos morcegos de Portugal Continental" year="2013">Rainho et al. 2013</bibRefCitation>
+), belonging to four families (
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+, 
+<taxonomicName authorityName="Gray" authorityYear="1825" family="Rhinolophidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Rhinolophidae</taxonomicName>
+, Miniopteridade and 
+<taxonomicName family="Molossidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Molossidae</taxonomicName>
+). During this process, a new bat species was discovered for the country - 
+<taxonomicName genus="Myotis" lsidName="Myotis alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->Myotis alcathoe
+</taxonomicName>
+(
+<bibRefCitation author="Helversen, O" journalOrPublisher="Naturwissenschaften" pageId="0" pageNumber="54479" pagination="217 - 223" refId="B5745724" refString="Helversen, O, Heller, K G, Mayer, F, Nemeth, A, Volleth, M, Gombkoetoe, P, 2001. Cryptic mammalian species: a new species of whiskered bat (Myotis alcathoe n. sp.) in Europe. Naturwissenschaften 88 (5): 217 - 223" title="Cryptic mammalian species: a new species of whiskered bat (Myotis alcathoe n. sp.) in Europe." volume="88" year="2001">Helversen et al. 2001</bibRefCitation>
+) - raising the number of bat species for mainland Portugal to 26.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="54479" type="general description">
+<paragraph pageId="0" pageNumber="54479">General description</paragraph>
+<paragraph pageId="0" pageNumber="54479">Purpose</paragraph>
+<paragraph pageId="0" pageNumber="54479">This dataset aims to provide a first contribution to an authoritative DNA barcode sequences library for Portuguese bats. Such a library should facilitate DNA-based identification of species for both traditional molecular studies and DNA-metabarcoding studies and constitute a valuable resource for taxonomic and ecological studies.</paragraph>
+<paragraph pageId="0" pageNumber="54479">Additional information</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+We obtained the full barcode sequence (COI - 658 bp) for 63 specimens (Fig. 
+<figureCitation captionStart="Figure 1" captionStartId="F5745244" captionText="Figure 1. Phylogenetic tree obtained by Maximum Likelihood (ML) analysis of 26 species of bats, based on 63 newly-sequenced cytochrome c oxidase I gene (COI - 658 bp) Portuguese samples (codes started by MB) and representative sequences of all 26 species publicly available on BOLD (http: // www. boldsystems. org), bootstrap values (&gt; 80 %) are indicated at nodes." figureDoi="10.3897/BDJ.8.e54479.figure1" httpUri="https://binary.pensoft.net/fig/402447" pageId="0" pageNumber="54479">1</figureCitation>
+, Table 
+<tableCitation captionStart="Table 1" captionStartId="T5745480" captionText="Table 1. List of species that were collected and DNA barcoded within this project. * Indicate species with new BINs." httpUri="http://table.plazi.org/id/7BDA9309975D747F67011FA91EC1BFC9" pageId="0" pageNumber="54479" tableUuid="7BDA9309975D747F67011FA91EC1BFC9">1</tableCitation>
+). Sequences are distributed in 26 Barcode Index Numbers (BINs), a system in which closely related sequences are clustered into operational taxonomic units (OTUs). Of these, four are unique, two of 
+<taxonomicName authorityName="Cabrera" authorityYear="1904" genus="Myotis" lsidName="Myotis escalerai" pageId="0" pageNumber="54479" rank="species" species="escalerai">Myotis escalerai</taxonomicName>
+(ADS3148, ADT1511), one of 
+<taxonomicName baseAuthorityName="Linnaeus" baseAuthorityYear="1758" genus="Plecotus" lsidName="Plecotus auritus" pageId="0" pageNumber="54479" rank="species" species="auritus">
+<!--emphasis removed-->Plecotus auritus
+</taxonomicName>
+(ADU1131) and one of 
+<taxonomicName baseAuthorityName="Bechstein" baseAuthorityYear="1800" genus="Rhinolophus" lsidName="Rhinolophus hipposideros" pageId="0" pageNumber="54479" rank="species" species="hipposideros">
+<!--emphasis removed-->Rhinolophus hipposideros
+</taxonomicName>
+(ADV3826). For five specimens, the field identification did not match the molecular data, most likely as a result of morphological misidentification (two 
+<taxonomicName baseAuthorityName="Temminck" baseAuthorityYear="1840" genus="Eptesicus" lsidName="Eptesicus isabellinus" pageId="0" pageNumber="54479" rank="species" species="isabellinus">
+<!--emphasis removed-->Eptesicus isabellinus
+</taxonomicName>
+matched 
+<taxonomicName genus="E." lsidName="E. serotinus" pageId="0" pageNumber="54479" rank="species" species="serotinus">
+<!--emphasis removed-->E. serotinus
+</taxonomicName>
+haplotypes, one 
+<taxonomicName baseAuthorityName="E. Geoffroy" baseAuthorityYear="1806" genus="Myotis" lsidName="Myotis emarginatus" pageId="0" pageNumber="54479" rank="species" species="emarginatus">
+<!--emphasis removed-->Myotis emarginatus
+</taxonomicName>
+matched 
+<taxonomicName genus="M." lsidName="M. escalerai" pageId="0" pageNumber="54479" rank="species" species="escalerai">
+<!--emphasis removed-->M. escalerai
+</taxonomicName>
+, one 
+<taxonomicName genus="M." lsidName="M. mystacinus" pageId="0" pageNumber="54479" rank="species" species="mystacinus">
+<!--emphasis removed-->M. mystacinus
+</taxonomicName>
+matched 
+<taxonomicName genus="M." lsidName="M. alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->M. alcathoe
+</taxonomicName>
+and one 
+<taxonomicName baseAuthorityName="Leach" baseAuthorityYear="1825" genus="Pipistrellus" lsidName="Pipistrellus pygmaeus" pageId="0" pageNumber="54479" rank="species" species="pygmaeus">
+<!--emphasis removed-->Pipistrellus pygmaeus
+</taxonomicName>
+matched 
+<taxonomicName genus="P." lsidName="P. pipistrellus" pageId="0" pageNumber="54479" rank="species" species="pipistrellus">
+<!--emphasis removed-->P. pipistrellus
+</taxonomicName>
+). The analysed specimens of 
+<taxonomicName authority="myotis" genus="Myotis" lsidName="Myotis myotis" pageId="0" pageNumber="54479" rank="species" species="myotis">
+<!--emphasis removed-->Myotis myotis
+</taxonomicName>
+and 
+<taxonomicName genus="M." lsidName="M. blythii" pageId="0" pageNumber="54479" rank="species" species="blythii">
+<!--emphasis removed-->M. blythii
+</taxonomicName>
+shared the same COI haplotypes, probably due to a known widespread introgression of mtDNA (
+<bibRefCitation author="Afonso, Eve" journalOrPublisher="PLOS One" pageId="0" pageNumber="54479" pagination=": e 0170534" refId="B5745509" refString="Afonso, Eve, Goydadin, Anne-Claude, Giraudoux, Patrick, Farny, Gilles, 2017. Investigating hybridization between the two sibling bat species Myotis myotis and M. blythii from guano in a natural mixed maternity colony. PLOS One 12 (2): e0170534" title="Investigating hybridization between the two sibling bat species Myotis myotis and M. blythii from guano in a natural mixed maternity colony" volume="12" year="2017">Afonso et al. 2017</bibRefCitation>
+). It is also possible to observe the occurrence of two distinct haplogroups of 
+<taxonomicName authorityName="Cabrera" authorityYear="1904" genus="Myotis" lsidName="Myotis escalerai" pageId="0" pageNumber="54479" rank="species" species="escalerai">
+<!--emphasis removed-->Myotis escalerai
+</taxonomicName>
+, probably corresponding to the 
+<normalizedToken originalValue="‘West’">'West'</normalizedToken>
+and 'North Central 
+<normalizedToken originalValue="East’">East'</normalizedToken>
+cytochrome-b haplogroups described by 
+<bibRefCitation author="Razgour, Orly" journalOrPublisher="Molecular Ecology" pageId="0" pageNumber="54479" pagination="5267 - 5283" refId="B5745850" refString="Razgour, Orly, Salicini, Irene, Ibanez, Carlos, Randi, Ettore, Juste, Javier, 2015. Unravelling the evolutionary history and future prospects of endemic species restricted to former glacial refugia. Molecular Ecology 24 (20): 5267 - 5283" title="Unravelling the evolutionary history and future prospects of endemic species restricted to former glacial refugia" volume="24" year="2015">Razgour et al. (2015)</bibRefCitation>
+. Phylogenetic trees confirmed the presence of the previously known 23 bats species to mainland Portugal, plus the 
+<!--emphasis removed-->
+M. 
+<taxonomicName genus="Myotis" lsidName="myotis" pageId="0" pageNumber="54479" rank="species" species="myotis">myotis</taxonomicName>
+/ 
+<taxonomicName baseAuthorityName="Tomes" baseAuthorityYear="1857" genus="Myotis" lsidName="blythii" pageId="0" pageNumber="54479" rank="species" species="blythii">blythii</taxonomicName>
+
+complex (Fig. 
+<figureCitation captionStart="Figure 1" captionStartId="F5745244" captionText="Figure 1. Phylogenetic tree obtained by Maximum Likelihood (ML) analysis of 26 species of bats, based on 63 newly-sequenced cytochrome c oxidase I gene (COI - 658 bp) Portuguese samples (codes started by MB) and representative sequences of all 26 species publicly available on BOLD (http: // www. boldsystems. org), bootstrap values (&gt; 80 %) are indicated at nodes." figureDoi="10.3897/BDJ.8.e54479.figure1" httpUri="https://binary.pensoft.net/fig/402447" pageId="0" pageNumber="54479">1</figureCitation>
+), as well as the occurrence of the unrecorded 
+<taxonomicName genus="M." lsidName="M. alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->M. alcathoe
+</taxonomicName>
+. This individual was collected in a protected area located in north-western Portugal (Peneda 
+<normalizedToken originalValue="Gerês">Geres</normalizedToken>
+National Park; Figs 
+<figureCitation captionStart="Figure 2" captionStartId="F5745240" captionText="Figure 2. Geographic location of the analysed samples in this study." figureDoi="10.3897/BDJ.8.e54479.figure2" httpUri="https://binary.pensoft.net/fig/402446" pageId="0" pageNumber="54479">2</figureCitation>
+, 
+<figureCitation captionStart="Figure 3" captionStartId="F5745232" captionText="Figure 3. Picture of the Myotis alcathoe individual discovered in this study." figureDoi="10.3897/BDJ.8.e54479.figure3" httpUri="https://binary.pensoft.net/fig/402444" pageId="0" pageNumber="54479">3</figureCitation>
+, 
+<figureCitation captionStart="Figure 4" captionStartId="F5745236" captionText="Figure 4. Vegetation structure of where Myotis alcathoe was captured." figureDoi="10.3897/BDJ.8.e54479.figure4" httpUri="https://binary.pensoft.net/fig/402445" pageId="0" pageNumber="54479">4</figureCitation>
+). Our results also provide the first genetic confirmation of the presence of 
+<taxonomicName baseAuthorityName="Schreber" baseAuthorityYear="1774" genus="Nyctalus" lsidName="Nyctalus noctula" pageId="0" pageNumber="54479" rank="species" species="noctula">
+<!--emphasis removed-->Nyctalus noctula
+</taxonomicName>
+in Portugal, whose occurrence in the country consists of isolated and sporadic observation events (this study; 
+<bibRefCitation author="Barros, P." journalOrPublisher="Barbastella" pageId="0" pageNumber="54479" pagination="19 - 31" refId="B5745539" refString="Barros, P., 2012. Contribution to the knowledge of bat distribution in northern and central Portugal. Barbastella 5 (1): 19 - 31" title="Contribution to the knowledge of bat distribution in northern and central Portugal" volume="5" year="2012">Barros 2012</bibRefCitation>
+, 
+<bibRefCitation author="Rainho, A" journalOrPublisher="Instituto da Conservacao da Natureza e das Florestas, Lisbon" pageId="0" pageNumber="54479" refId="B5745831" refString="Rainho, A, Alves, P, Amorim, F, Marques, JT, 2013. Atlas dos morcegos de Portugal Continental. Instituto da Conservacao da Natureza e das Florestas, Lisbon" title="Atlas dos morcegos de Portugal Continental" year="2013">Rainho et al. 2013</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+This work provides a clear example on how the DNA barcoding of collections may unveil unexpected results and reveal hidden diversity. In this case, a sample collected in 2005 and sequenced in 2018 provided the first record of 
+<taxonomicName genus="Myotis" lsidName="Myotis alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->Myotis alcathoe
+</taxonomicName>
+for Portugal. This individual was identified in the field as 
+<taxonomicName genus="M." lsidName="M. mystacinus" pageId="0" pageNumber="54479" rank="species" species="mystacinus">
+<!--emphasis removed-->M. mystacinus
+</taxonomicName>
+that is a cryptic species of 
+<taxonomicName genus="M." lsidName="M. alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->M. alcathoe
+</taxonomicName>
+, thus demonstrating the difficulty in distinguishing these species, based on external morphological characters alone. In fact, it was only through molecular studies that 
+<taxonomicName genus="M." lsidName="M. alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->M. alcathoe
+</taxonomicName>
+was first identified as a separate species (
+<bibRefCitation author="Helversen, O" journalOrPublisher="Naturwissenschaften" pageId="0" pageNumber="54479" pagination="217 - 223" refId="B5745724" refString="Helversen, O, Heller, K G, Mayer, F, Nemeth, A, Volleth, M, Gombkoetoe, P, 2001. Cryptic mammalian species: a new species of whiskered bat (Myotis alcathoe n. sp.) in Europe. Naturwissenschaften 88 (5): 217 - 223" title="Cryptic mammalian species: a new species of whiskered bat (Myotis alcathoe n. sp.) in Europe." volume="88" year="2001">Helversen et al. 2001</bibRefCitation>
+). Yet, caution must be taken when using only mitochondrial markers for species identification, because mitochondrial introgressions have been reported for a number of species (e.g. 
+<bibRefCitation author="Bogdanowicz, Wieslaw" journalOrPublisher="PLOS One" pageId="0" pageNumber="54479" pagination=": e 53334" refId="B5745600" refString="Bogdanowicz, Wieslaw, Piksa, Krzysztof, Tereba, Anna, 2012. Hybridization hotspots at bat swarming sites. PLOS One 7 (12): e53334" title="Hybridization hotspots at bat swarming sites" volume="7" year="2012">Bogdanowicz et al. 2012</bibRefCitation>
+). The use of these markers when introgressions are present may produce species misidentifications. Regarding the molecular identification of 
+<taxonomicName genus="M." lsidName="M. alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->M. alcathoe
+</taxonomicName>
+, in central Europe, introgression between 
+<taxonomicName genus="M." lsidName="M. alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->M. alcathoe
+</taxonomicName>
+and 
+<taxonomicName genus="M." lsidName="M. mystacinus" pageId="0" pageNumber="54479" rank="species" species="mystacinus">
+<!--emphasis removed-->M. mystacinus
+</taxonomicName>
+(see 
+<bibRefCitation author="Bogdanowicz, Wieslaw" journalOrPublisher="PLOS One" pageId="0" pageNumber="54479" pagination=": e 53334" refId="B5745600" refString="Bogdanowicz, Wieslaw, Piksa, Krzysztof, Tereba, Anna, 2012. Hybridization hotspots at bat swarming sites. PLOS One 7 (12): e53334" title="Hybridization hotspots at bat swarming sites" volume="7" year="2012">Bogdanowicz et al. 2012</bibRefCitation>
+). This way, although we cannot fully discard the possibility of the discovered female individual to be a hybrid, these authors found an overall low level of introgression, as well as an asymmetric introgression pattern mediated mainly by males, thus making it unlikely that our bat was a 
+<taxonomicName genus="M." lsidName="M. mystacinus" pageId="0" pageNumber="54479" rank="species" species="mystacinus">
+<!--emphasis removed-->M. mystacinus
+</taxonomicName>
+. Further genetic analyses using nuclear markers would be needed to fully validate the identity of the species, but congruence of morphological characters (lighter and brown fur) and ecological ones (foraging on a very cluttered riparian gallery) seem to further support the identity of our bat individual as 
+<taxonomicName genus="M." lsidName="M. alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->M. alcathoe
+</taxonomicName>
+.
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<taxonomicName genus="M." lsidName="M. alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->M. alcathoe
+</taxonomicName>
+is associated with dense riparian environments and was known to occur from northern Spain to Sweden and Turkey. Its known distribution is highly scattered and most likely full of knowledge gaps, mainly due to under-sampling of the habitats of this bat species and misidentifications during fieldwork (
+<bibRefCitation author="Bashta, Andriy-Taras" journalOrPublisher="Folia Zoologica" pageId="0" pageNumber="54479" pagination="1 - 4" refId="B5745588" refString="Bashta, Andriy-Taras, Piskorski, Michal, Myslajek, Robert W., Tereba, Anna, Kurek, Korneliusz, Sachanowicz, Konrad, 2011. Myotis alcathoe in Poland and Ukraine: new data on its status and habitat in Central Europe. Folia Zoologica 60 (1): 1 - 4" title="Myotis alcathoe in Poland and Ukraine: new data on its status and habitat in Central Europe" volume="60" year="2011">Bashta et al. 2011</bibRefCitation>
+). The closest known record of the species is separated by more than 150 km from the Portuguese sample location (
+<bibRefCitation author="Hermida, Roberto J." journalOrPublisher="Galemys" pageId="0" pageNumber="54479" pagination="13 - 23" refId="B5745736" refString="Hermida, Roberto J., Lamas, Francisco J., Grana, David A., Rial, Simon, Cerqueira, Felix, Arzua, Manuel, Seage, Ramon, 2012. Contribucion al conocimiento de la distribucion de los Murcielagos (O. Chiroptera) en Galicia. Galemys 24: 13 - 23" title="Contribucion al conocimiento de la distribucion de los Murcielagos (O. Chiroptera) en Galicia" volume="24" year="2012">Hermida et al. 2012</bibRefCitation>
+), thus our record is also the westernmost known record for the species. Records in Spain are mainly associated with streams within mature woodlands dominated by oaks (
+<bibRefCitation author="Agirre-Mendi, Pablo T." journalOrPublisher="Acta Chiropterologica" pageId="0" pageNumber="54479" pagination="49 - 57" refId="B5745519" refString="Agirre-Mendi, Pablo T., Garcia-mudarra, Juan L., Juste, Javier, Ibanez, Carlos, 2004. Presence of Myotis alcathoe Helversen &amp; Heller, 2001 (Chiroptera: Vespertilionidae) in the Iberian Peninsula. Acta Chiropterologica 6 (1): 49 - 57" title="Presence of Myotis alcathoe Helversen &amp; Heller, 2001 (Chiroptera: Vespertilionidae) in the Iberian Peninsula" volume="6" year="2004">Agirre-Mendi et al. 2004</bibRefCitation>
+). These 
+<normalizedToken originalValue="species’">species'</normalizedToken>
+populations are classified as Data Deficient by IUCN, with destruction and degradation of riparian forest and woodland identified as the main threats due to loss of roosts and foraging areas (
+<bibRefCitation author="Helversen, O" journalOrPublisher="Naturwissenschaften" pageId="0" pageNumber="54479" pagination="217 - 223" refId="B5745724" refString="Helversen, O, Heller, K G, Mayer, F, Nemeth, A, Volleth, M, Gombkoetoe, P, 2001. Cryptic mammalian species: a new species of whiskered bat (Myotis alcathoe n. sp.) in Europe. Naturwissenschaften 88 (5): 217 - 223" title="Cryptic mammalian species: a new species of whiskered bat (Myotis alcathoe n. sp.) in Europe." volume="88" year="2001">Helversen et al. 2001</bibRefCitation>
+). Of note, this species is classified as 
+<normalizedToken originalValue="“Endangered”">"Endangered"</normalizedToken>
+in Catalonia due to its rarity and pressures over riparian forests (
+<bibRefCitation author="Coronado, Alba" journalOrPublisher="Hystrix" pageId="0" pageNumber="54479" pagination="240 - 246" refId="B5745664" refString="Coronado, Alba, Flaquer, Carles, Puig-Montserrat, Xavier, Barthe, Emilie, Mas, Maria, Arrizabalaga, Antoni, Lopez-Baucells, Adria, 2017. The role of secondary trees in Mediterranean mature forests for the conservation of the forest-dwelling bat Myotis alcathoe. Are current logging guidelines appropriate? Hystrix 28 (2): 240 - 246" title="The role of secondary trees in Mediterranean mature forests for the conservation of the forest-dwelling bat Myotis alcathoe. Are current logging guidelines appropriate?" volume="28" year="2017">Coronado et al. 2017</bibRefCitation>
+). It is highly likely that the Portuguese populations may suffer from similar threats. Therefore, this species may be restricted to the northern forests of Portugal, although only through dedicated surveys will it be possible to characterise its distribution in the country and evaluate population status.
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Our take-home message is that the screening of current and older collections, either museum or private, may withhold surprises that will further complete acknowledged species lists. With the ever-decreasing costs of barcoding techniques, it is expected that many researchers may afford this approach. Barcoding will most likely become an essential tool for the managing of collections. Additionally, vouchering of specimens, especially from regions with large knowledge gaps like tropical Africa and Southeast Asia, might help future studies aiming for pathogen discovery, integrative taxonomy, climate change, environmental pollution and other topics that might not constitute the initial focus of the sampling.</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="54479" type="project description">
+<paragraph pageId="0" pageNumber="54479">Project description</paragraph>
+<paragraph pageId="0" pageNumber="54479">Title</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+The name "The InBIO Barcoding Initiative Database: Portuguese Bats (
+<taxonomicName genus="M." lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+)" refers to the data release of DNA barcodes and distribution data of bats within the InBIO Barcoding Initiative.
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Personnel</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+Pedro Beja (project coordinator), 
+<normalizedToken originalValue="Sónia">Sonia</normalizedToken>
+Ferreira (IBI manager), Hugo Rebelo (
+<taxonomicName genus="M." lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+specialist), Francisco Amorim (
+<taxonomicName genus="M." lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+specialist), Pedro Horta (
+<taxonomicName genus="M." lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+specialist), Helena Raposeira (
+<taxonomicName genus="M." lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+specialist), Helena Santos (
+<taxonomicName genus="M." lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+specialist), Vanessa Mata (
+<taxonomicName genus="M." lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+specialist).
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Study area description</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+Continental Portugal (Fig. 
+<figureCitation captionStart="Figure 2" captionStartId="F5745240" captionText="Figure 2. Geographic location of the analysed samples in this study." figureDoi="10.3897/BDJ.8.e54479.figure2" httpUri="https://binary.pensoft.net/fig/402446" pageId="0" pageNumber="54479">2</figureCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Design description</paragraph>
+<paragraph pageId="0" pageNumber="54479">Chiropteran specimens were collected in the field, morphologically identified and DNA barcoded.</paragraph>
+<paragraph pageId="0" pageNumber="54479">Funding</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+FCT - 
+<normalizedToken originalValue="Fundação">Fundacao</normalizedToken>
+para 
+<normalizedToken originalValue="Ciência">Ciencia</normalizedToken>
+e Tecnologia, I.P. funded V.M. (PD/BD/113462/2015) and F.A. (PD/BD/52606/2014). S.F. was funded by the project PORBIOTA - Portuguese E-Infrastructure for Information and Research on Biodiversity (POCI-01-0145-FEDER-022127), supported by Operational Thematic Program for Competitiveness and Internationalization (POCI), under the PORTUGAL 2020 Partnership Agreement, through the European Regional Development Fund (FEDER). This research also received funding from the European 
+<normalizedToken originalValue="Union’s">Union's</normalizedToken>
+Horizon 2020 Research and Innovation Programme under grant agreement No 668981. Fieldwork and sample collection were funded under the scope of the FCT projects PTDC/BIA-BIC/110587/2009, LTER/BIA-BEC/0004/2009 and PTDC/BIA-ECO/31731/2017 and from EDP - Energias de Portugal.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="54479" type="sampling methods">
+<paragraph pageId="0" pageNumber="54479">Sampling methods</paragraph>
+<paragraph pageId="0" pageNumber="54479">Study extent</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+Continental Portugal (Fig. 
+<figureCitation captionStart="Figure 2" captionStartId="F5745240" captionText="Figure 2. Geographic location of the analysed samples in this study." figureDoi="10.3897/BDJ.8.e54479.figure2" httpUri="https://binary.pensoft.net/fig/402446" pageId="0" pageNumber="54479">2</figureCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Sampling description</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+Bat samples were collected under the scope of several projects spanning from 2005 to 2018 (
+<bibRefCitation author="Rebelo, Hugo" journalOrPublisher="Journal of Applied Ecology" pageId="0" pageNumber="54479" pagination="410 - 420" refId="B5745861" refString="Rebelo, Hugo, Jones, Gareth, 2010. Ground validation of presence-only modelling with rare species: a case study on barbastelles Barbastella barbastellus (Chiroptera: Vespertilionidae). Journal of Applied Ecology 47 (2): 410 - 420" title="Ground validation of presence-only modelling with rare species: a case study on barbastelles Barbastella barbastellus (Chiroptera: Vespertilionidae)" volume="47" year="2010">Rebelo and Jones 2010</bibRefCitation>
+, 
+<bibRefCitation author="Santos, Helena" journalOrPublisher="Biological Journal of the Linnean Society" pageId="0" pageNumber="54479" pagination="150 - 162" refId="B5745887" refString="Santos, Helena, Juste, Javier, Ibanez, Carlos, Palmeirim, Jorge M., Godinho, Raquel, Amorim, Francisco, Alves, Pedro, Costa, Hugo, de Paz, Oscar, Perez-Suarez, Gonzalo, Martinez-Alos, Susana, Jones, Gareth, Rebelo, Hugo, 2014. Influences of ecology and biogeography on shaping the distributions of cryptic species: three bat tales in Iberia. Biological Journal of the Linnean Society 112 (1): 150 - 162" title="Influences of ecology and biogeography on shaping the distributions of cryptic species: three bat tales in Iberia" volume="112" year="2014">Santos et al. 2014</bibRefCitation>
+, 
+<bibRefCitation author="Amorim, Francisco" journalOrPublisher="Mammalian Biology" pageId="0" pageNumber="54479" pagination="228 - 236" refId="B5745529" refString="Amorim, Francisco, Mata, Vanessa A., Beja, Pedro, Rebelo, Hugo, 2015. Effects of a drought episode on the reproductive success of European free-tailed bats (Tadarida teniotis). Mammalian Biology 80 (3): 228 - 236" title="Effects of a drought episode on the reproductive success of European free-tailed bats (Tadarida teniotis)" volume="80" year="2015">Amorim et al. 2015</bibRefCitation>
+). All bats were captured during mist-netting sessions or using harp-traps at roost exits. A non-lethal 3 mm wing punch was collected from several individuals and stored in 96% ethanol. Taxonomical identification of individuals during fieldwork was done according to the most popular identification keys of European bats (
+<bibRefCitation author="Dietz, C" journalOrPublisher="Hystrix" pageId="0" pageNumber="54479" refId="B5745678" refString="Dietz, C, Helversen, O, 2004." year="2004">Dietz and Helversen 2004</bibRefCitation>
+, 
+<bibRefCitation author="Dietz, C" journalOrPublisher="A &amp; C Black Publishers Ltd" pageId="0" pageNumber="54479" refId="B5745687" refString="Dietz, C, Helversen, O, Nill, D, 2009. Bats of Britain, Europe and Northwest Africa. A&amp;C Black Publishers Ltd" title="Bats of Britain, Europe and Northwest Africa" year="2009">Dietz et al. 2009</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+Up to five specimens of each species were sequenced in the laboratory. DNA was extracted from wing punches, using the E.Z.N.A. Tissue Kit (Omega Bio-tek). Two partially overlapping fragments of the COI gene were amplified using the primers FwhF1 x Ind_C_R (325bp; 
+<bibRefCitation author="Vamos, Ecaterina" journalOrPublisher="Metabarcoding and Metagenomics" pageId="0" pageNumber="54479" refId="B5745930" refString="Vamos, Ecaterina, Elbrecht, Vasco, Leese, Florian, 2017. Short COI markers for freshwater macroinvertebrate metabarcoding. Metabarcoding and Metagenomics 1" title="Short COI markers for freshwater macroinvertebrate metabarcoding" volume="1" year="2017">Vamos et al. 2017</bibRefCitation>
+, 
+<bibRefCitation author="Shokralla, Shadi" journalOrPublisher="Scientific Reports" pageId="0" pageNumber="54479" pagination=": 9687" refId="B5745906" refString="Shokralla, Shadi, Porter, Teresita M., Gibson, Joel F., Dobosz, Rafal, Janzen, Daniel H., Hallwachs, Winnie, Golding, G. Brian, Hajibabaei, Mehrdad, 2015. Massively parallel multiplex DNA sequencing for specimen identification using an Illumina MiSeq platform. Scientific Reports 5 (1): 9687" title="Massively parallel multiplex DNA sequencing for specimen identification using an Illumina MiSeq platform" volume="5" year="2015">Shokralla et al. 2015</bibRefCitation>
+) and BF2 x BR2 (423bp; 
+<bibRefCitation author="Elbrecht, Vasco" journalOrPublisher="Frontiers in Environmental Science" pageId="0" pageNumber="54479" refId="B5745696" refString="Elbrecht, Vasco, Leese, Florian, 2017. Validation and development of COI metabarcoding primers for freshwater macroinvertebrate bioassessment. Frontiers in Environmental Science 5" title="Validation and development of COI metabarcoding primers for freshwater macroinvertebrate bioassessment" volume="5" year="2017">Elbrecht and Leese 2017</bibRefCitation>
+), modified to contain Illumina adaptors. PCR products were subject to a second amplification to attach indexing barcodes and P5/P7 adaptors, followed by bead clean-up, nanodrop quantification and normalisation. The final pool was quantified by qPCR and sequenced in a MiSeq platform using a v2 2x250 kit (~5000 reads/fragment/sample). Bioinformatic analysis of raw reads was done using ObiTools (
+<bibRefCitation author="Boyer, Frederic" journalOrPublisher="Molecular Ecology Resources" pageId="0" pageNumber="54479" pagination="176 - 182" refId="B5745610" refString="Boyer, Frederic, Mercier, Celine, Bonin, Aurelie, Le Bras, Yvan, Taberlet, Pierre, Coissac, Eric, 2015. obitools: aunix-inspired software package for DNA metabarcoding. Molecular Ecology Resources 16 (1): 176 - 182" title="obitools: aunix-inspired software package for DNA metabarcoding" volume="16" year="2015">Boyer et al. 2015</bibRefCitation>
+) and, briefly, consisted of pairwise alignment of reads, removal of primer sequences, collapsing of similar reads into haplotypes and removal of rare variants (low read count). Geneious 10.2.3 (http://www.geneious.com, 
+<bibRefCitation author="Kearse, M." journalOrPublisher="Bioinformatics" pageId="0" pageNumber="54479" pagination="1647 - 1649" refId="B5745749" refString="Kearse, M., Moir, R., Wilson, A., Stones-Havas, S., Cheung, M., Sturrock, S., Buxton, S., Cooper, A., Markowitz, S., Duran, C., Thierer, T., Ashton, B., Meintjes, P., Drummond, A., 2012. Geneious Basic: An integrated and extendable desktop software platform for the organization and analysis of sequence data. Bioinformatics 28 (12): 1647 - 1649" title="Geneious Basic: An integrated and extendable desktop software platform for the organization and analysis of sequence data" volume="28" year="2012">Kearse et al. 2012</bibRefCitation>
+) was used for final sequence assembly, while double checking for the occurrence of possible nuclear copies. Species ID was confirmed using BOLD System Identification Platform (http://www.boldsystems.org). For each species, two representative sequences available in BOLD were retrieved and aligned with ours in order to build a phylogenetic tree. Haplotype alignments were analysed using the Maximum Likelihood (ML) method and ML trees were built in RaxML (
+<bibRefCitation author="Stamatakis, Alexandros" journalOrPublisher="Bioinformatics" pageId="0" pageNumber="54479" pagination="1312 - 1313" refId="B5745920" refString="Stamatakis, Alexandros, 2014. RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies. Bioinformatics 30 (9): 1312 - 1313" title="RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies" volume="30" year="2014">Stamatakis 2014</bibRefCitation>
+) with 1,000 bootstrap replicates and searching for the best-scoring ML tree.
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Quality control</paragraph>
+<paragraph pageId="0" pageNumber="54479">All DNA barcodes sequences were compared against the BOLD database and the 99 top hits were inspected in order to detect possible issues due to contaminations or misidentifications. Prior to GBIF submission, data were checked for errors and inconsistencies with OpenRefine 3.2 (http://openrefine.org).</paragraph>
+<paragraph pageId="0" pageNumber="54479">Step description</paragraph>
+<paragraph pageId="0" pageNumber="54479">Samples were collected from bats captured using mist-nets or harp-traps at roost exits and identified morphologically by experts. A non-lethal 3 mm wing punch was collected from each individual and stored in 96% ethanol from where DNA was extracted and the COI DNA barcode fragment was sequenced. Prior to GBIF submission, data were checked for errors and inconsistencies with OpenRefine 3.2 (http://openrefine.org).</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="54479" type="geographic coverage">
+<paragraph pageId="0" pageNumber="54479">Geographic coverage</paragraph>
+<paragraph pageId="0" pageNumber="54479">Description</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+Continental Portugal (Fig. 
+<figureCitation captionStart="Figure 2" captionStartId="F5745240" captionText="Figure 2. Geographic location of the analysed samples in this study." figureDoi="10.3897/BDJ.8.e54479.figure2" httpUri="https://binary.pensoft.net/fig/402446" pageId="0" pageNumber="54479">2</figureCitation>
+)
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Coordinates</paragraph>
+<paragraph pageId="0" pageNumber="54479">37.4° and 41.9° Latitude; 9.3° and 6.9° Longitude.</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="54479" type="taxonomic coverage">
+<paragraph pageId="0" pageNumber="54479">Taxonomic coverage</paragraph>
+<paragraph pageId="0" pageNumber="54479">Description</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+This dataset is composed entirely of data relating to 63 
+<taxonomicName genus="M." lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+records.
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+Overall, 26 species are represented in the dataset (100% of the ones existing in continental Portugal and 83.8% of the ones existing in Iberia). These species belong to four families, the majority of which belong to the 
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+(20 species or 76.9%), with additional representatives from 
+<taxonomicName authorityName="Gray" authorityYear="1825" family="Rhinolophidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Rhinolophidae</taxonomicName>
+(four species) and a single species in the 
+<taxonomicName family="Miniopteridae" lsidName="" pageId="0" pageNumber="54479" rank="family">Miniopteridae</taxonomicName>
+and 
+<taxonomicName family="Molossidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Molossidae</taxonomicName>
+. 
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+also accounts for over eighty percent (84.1%) of all collected samples, 
+<taxonomicName authorityName="Gray" authorityYear="1825" family="Rhinolophidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Rhinolophidae</taxonomicName>
+(9.5%), 
+<taxonomicName family="Miniopteridae" lsidName="" pageId="0" pageNumber="54479" rank="family">Miniopteridae</taxonomicName>
+(4.8%) and a single sample was collected from the 
+<taxonomicName family="Molossidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Molossidae</taxonomicName>
+family.
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Taxa included</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<table pageId="0" pageNumber="54479">
+<tr pageId="0" pageNumber="54479">
+<thead pageId="0" pageNumber="54479">
+<th colspan="1" pageId="0" pageNumber="54479" rowspan="1">Rank</th>
+<th colspan="1" pageId="0" pageNumber="54479" rowspan="1">Scientific Name</th>
+<th colspan="1" pageId="0" pageNumber="54479" rowspan="1">Common Name</th>
+</thead>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Schreber" baseAuthorityYear="1774" genus="Barbastella" lsidName="Barbastella barbastellus" pageId="0" pageNumber="54479" rank="species" species="barbastellus">
+<!--emphasis removed-->Barbastella barbastellus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Western barbastelle</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Temminck" baseAuthorityYear="1840" genus="Eptesicus" lsidName="Eptesicus isabellinus" pageId="0" pageNumber="54479" rank="species" species="isabellinus">
+<!--emphasis removed-->Eptesicus isabellinus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Meridional serotine</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Schreber" baseAuthorityYear="1774" genus="Eptesicus" lsidName="Eptesicus serotinus" pageId="0" pageNumber="54479" rank="species" species="serotinus">
+<!--emphasis removed-->Eptesicus serotinus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Common serotine</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Bonaparte" baseAuthorityYear="1837" genus="Hypsugo" lsidName="Hypsugo savii" pageId="0" pageNumber="54479" rank="species" species="savii">
+<!--emphasis removed-->Hypsugo savii
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Savi's pipistrelle</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Kuhl" baseAuthorityYear="1817" genus="Miniopterus" lsidName="Miniopterus schreibersii" pageId="0" pageNumber="54479" rank="species" species="schreibersii">
+<!--emphasis removed-->Miniopterus schreibersii
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Common bent-wing</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName genus="Myotis" lsidName="Myotis alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->Myotis alcathoe
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Alcathoe</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Kuhl" baseAuthorityYear="1817" genus="Myotis" lsidName="Myotis bechsteinii" pageId="0" pageNumber="54479" rank="species" species="bechsteinii">
+<!--emphasis removed-->Myotis bechsteinii
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Bechstein's</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Tomes" baseAuthorityYear="1857" genus="Myotis" lsidName="Myotis blythii" pageId="0" pageNumber="54479" rank="species" species="blythii">
+<!--emphasis removed-->Myotis blythii
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Lesser mouse-eared</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Kuhl" baseAuthorityYear="1817" genus="Myotis" lsidName="Myotis daubentonii" pageId="0" pageNumber="54479" rank="species" species="daubentonii">
+<!--emphasis removed-->Myotis daubentonii
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Daubenton's</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="E. Geoffroy" baseAuthorityYear="1806" genus="Myotis" lsidName="Myotis emarginatus" pageId="0" pageNumber="54479" rank="species" species="emarginatus">
+<!--emphasis removed-->Myotis emarginatus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Geoffroy's</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName authorityName="Cabrera" authorityYear="1904" genus="Myotis" lsidName="Myotis escalerai" pageId="0" pageNumber="54479" rank="species" species="escalerai">
+<!--emphasis removed-->Myotis escalerai
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Escalera's</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName authority="myotis" genus="Myotis" lsidName="Myotis myotis" pageId="0" pageNumber="54479" rank="species" species="myotis">
+<!--emphasis removed-->Myotis myotis
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Greater mouse-eared</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Kuhl" baseAuthorityYear="1817" genus="Myotis" lsidName="Myotis mystacinus" pageId="0" pageNumber="54479" rank="species" species="mystacinus">
+<!--emphasis removed-->Myotis mystacinus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Whiskered</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Schreber" baseAuthorityYear="1780" genus="Nyctalus" lsidName="Nyctalus lasiopterus" pageId="0" pageNumber="54479" rank="species" species="lasiopterus">
+<!--emphasis removed-->Nyctalus lasiopterus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Greater noctule</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Kuhl" baseAuthorityYear="1817" genus="Nyctalus" lsidName="Nyctalus leisleri" pageId="0" pageNumber="54479" rank="species" species="leisleri">
+<!--emphasis removed-->Nyctalus leisleri
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Lesser noctule</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Schreber" baseAuthorityYear="1774" genus="Nyctalus" lsidName="Nyctalus noctula" pageId="0" pageNumber="54479" rank="species" species="noctula">
+<!--emphasis removed-->Nyctalus noctula
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Common noctule</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Kuhl" baseAuthorityYear="1817" genus="Pipistrellus" lsidName="Pipistrellus kuhlii" pageId="0" pageNumber="54479" rank="species" species="kuhlii">
+<!--emphasis removed-->Pipistrellus kuhlii
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Kuhl's pipistrelle</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName authority="pipistrellus" genus="Pipistrellus" lsidName="Pipistrellus pipistrellus" pageId="0" pageNumber="54479" rank="species" species="pipistrellus">
+<!--emphasis removed-->Pipistrellus pipistrellus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Common pipistrelle</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Leach" baseAuthorityYear="1825" genus="Pipistrellus" lsidName="Pipistrellus pygmaeus" pageId="0" pageNumber="54479" rank="species" species="pygmaeus">
+<!--emphasis removed-->Pipistrellus pygmaeus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Soprano pipistrelle</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Linnaeus" baseAuthorityYear="1758" genus="Plecotus" lsidName="Plecotus auritus" pageId="0" pageNumber="54479" rank="species" species="auritus">
+<!--emphasis removed-->Plecotus auritus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Brown long-eared</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="J. Fischer" baseAuthorityYear="1829" genus="Plecotus" lsidName="Plecotus austriacus" pageId="0" pageNumber="54479" rank="species" species="austriacus">
+<!--emphasis removed-->Plecotus austriacus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Grey long-eared</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName authorityName="Blasius" authorityYear="1853" genus="Rhinolophus" lsidName="Rhinolophus euryale" pageId="0" pageNumber="54479" rank="species" species="euryale">
+<!--emphasis removed-->Rhinolophus euryale
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Mediterranean horseshoe</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Schreber" baseAuthorityYear="1774" genus="Rhinolophus" lsidName="Rhinolophus ferrumequinum" pageId="0" pageNumber="54479" rank="species" species="ferrumequinum">
+<!--emphasis removed-->Rhinolophus ferrumequinum
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Greater horseshoe</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Bechstein" baseAuthorityYear="1800" genus="Rhinolophus" lsidName="Rhinolophus hipposideros" pageId="0" pageNumber="54479" rank="species" species="hipposideros">
+<!--emphasis removed-->Rhinolophus hipposideros
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Lesser horseshoe</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName authorityName="Matschie" authorityYear="1901" genus="Rhinolophus" lsidName="Rhinolophus mehelyi" pageId="0" pageNumber="54479" rank="species" species="mehelyi">
+<!--emphasis removed-->Rhinolophus mehelyi
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Mehely's horseshoe</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Rafinesque" baseAuthorityYear="1814" genus="Tadarida" lsidName="Tadarida teniotis" pageId="0" pageNumber="54479" rank="species" species="teniotis">
+<!--emphasis removed-->Tadarida teniotis
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">European free-tailed</td>
+</tr>
+</table>
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="54479" type="temporal coverage">
+<paragraph pageId="0" pageNumber="54479">Temporal coverage</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<!--emphasis removed-->Data range:
+2005-6-27 - 2018-8-22.
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Notes</paragraph>
+<paragraph pageId="0" pageNumber="54479">Samples were collected in the period from 27 June 2005 to 22 August 2018.</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="54479" type="collection data">
+<paragraph pageId="0" pageNumber="54479">Collection data</paragraph>
+<paragraph pageId="0" pageNumber="54479">Collection name</paragraph>
+<paragraph pageId="0" pageNumber="54479">InBIO Barcoding Initiative</paragraph>
+<paragraph pageId="0" pageNumber="54479">Collection identifier</paragraph>
+<paragraph pageId="0" pageNumber="54479">4ec2b246-f5fa-4b90-9a8d-ddafc2a3f970</paragraph>
+<paragraph pageId="0" pageNumber="54479">Curatorial unit</paragraph>
+<paragraph pageId="0" pageNumber="54479">DNA extractions - 1 to 63</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="54479" type="usage rights">
+<paragraph pageId="0" pageNumber="54479">Usage rights</paragraph>
+<paragraph pageId="0" pageNumber="54479">Use license</paragraph>
+<paragraph pageId="0" pageNumber="54479">Creative Commons Public Domain Waiver (CC-Zero)</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="54479" type="data resources">
+<paragraph pageId="0" pageNumber="54479">Data resources</paragraph>
+<paragraph pageId="0" pageNumber="54479">Data package title</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+The InBIO Barcoding Initiative Database: Portuguese Bats (
+<taxonomicName authorityName="Rafinesque" authorityYear="1814" genus="Tadarida" lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Resource link</paragraph>
+<paragraph pageId="0" pageNumber="54479">dx.doi.org/10.5883/DS-IBICH</paragraph>
+<paragraph pageId="0" pageNumber="54479">Number of data sets</paragraph>
+<paragraph pageId="0" pageNumber="54479">1</paragraph>
+<paragraph pageId="0" pageNumber="54479">Data set 1.</paragraph>
+<paragraph pageId="0" pageNumber="54479">Data set name</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+DS-IBICH IBI - 
+<taxonomicName authorityName="Rafinesque" authorityYear="1814" genus="Tadarida" lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Data format</paragraph>
+<paragraph pageId="0" pageNumber="54479">dwc, xml, tsv, fasta</paragraph>
+<paragraph pageId="0" pageNumber="54479">Number of columns</paragraph>
+<paragraph pageId="0" pageNumber="54479">33</paragraph>
+<paragraph pageId="0" pageNumber="54479">Download URL</paragraph>
+<paragraph pageId="0" pageNumber="54479">http://www.boldsystems.org/index.php/Public_SearchTerms?query=DS-IBICH</paragraph>
+<paragraph pageId="0" pageNumber="54479">Data format version</paragraph>
+<paragraph pageId="0" pageNumber="54479">1</paragraph>
+<paragraph pageId="0" pageNumber="54479">Description</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+The InBIO Barcoding Initiative Database: Portuguese Bats (
+<taxonomicName authorityName="Rafinesque" authorityYear="1814" genus="Tadarida" lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+) dataset can be downloaded from the Public Data Portal of BOLD (http://www.boldsystems.org/index.php/Public_SearchTerms?query=DS-IBICH) in different formats (data as dwc, xml or tsv and sequences as fasta files). Alternatively, BOLD users can log-in and access the dataset via the Workbench platform of BOLD. All records are also searchable within BOLD, using the search function of the database.The dataset, at the time of writing the manuscript, is included as Suppl. materials 1, 2, 3 in the form of two text files for record information as downloaded from BOLD, one text file with the collecting and identification data in Darwin Core Standard format (downloaded from GBIF) and of a fasta file containing all sequences as downloaded from BOLD. It should be noted that, as the BOLD database is not compliant with the Darwin Core Standard format, the Darwin Core formatted file (dwc) that can be downloaded from BOLD is not strictly Darwin Core formatted. For a proper Darwin Core formatted file, see http://ipt.gbif.pt/ipt/resource?r=ibi_chiroptera&amp;v=1.1 (Suppl. material 2).
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+All data are available in the BioStudies database (http://www.ebi.ac.uk/biostudies) under accession number 
+<!--emphasis removed-->S-BSST395
+.
+</paragraph>
+<caption ID-Table-UUID="10B67C31E4FB182E00C93A482E8EC394" httpUri="http://table.plazi.org/id/10B67C31E4FB182E00C93A482E8EC394" pageId="0" pageNumber="54479" start="Data set 1" startId="DS1">
+<paragraph pageId="0" pageNumber="54479">
+<!--emphasis removed-->Data set 1.
+</paragraph>
+</caption>
+<paragraph pageId="0" pageNumber="54479">
+<table pageId="0" pageNumber="54479">
+<tr pageId="0" pageNumber="54479">
+<thead pageId="0" pageNumber="54479">
+<th colspan="1" pageId="0" pageNumber="54479" rowspan="1">Column label</th>
+<th colspan="1" pageId="0" pageNumber="54479" rowspan="1">Column description</th>
+</thead>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">processid</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Unique identifier for the sample</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">sampleid</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Identifier for the sample being sequenced, i.e. IBI catalogue number at Cibio-InBIO, Porto University. Often identical to the "Field ID" or "Museum ID"</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">recordID</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Identifier for specimen assigned in the field</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">catalognum</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Catalogue number</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">fieldnum</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Field number</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">institution_storing</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">The full name of the institution that has physical possession of the voucher specimen</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">bin_uri</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Barcode Index Number system identifier</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">phylum_taxID</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Phylum taxonomic numeric code</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">phylum_name</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Phylum name</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">class_taxID</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Class taxonomic numeric code</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">class_name</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Class name</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">order_taxID</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Order taxonomic numeric code</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">order_name</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Order name</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">family_taxID</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Family taxonomic numeric code</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">family_name</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Family name</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">subfamily_taxID</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Subfamily taxonomic numeric code</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">subfamily_name</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Subfamily name</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">genus_taxID</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Genus taxonomic numeric code</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">genus_name</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Genus name</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species_taxID</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Species taxonomic numeric code</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">species_name</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Species name</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">identification_provided_by</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Full name of primary individual who assigned the specimen to a taxonomic group</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">identification_method</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">The method used to identify the specimen</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">voucher_status</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Status of the specimen in an accessioning process (BOLD controlled vocabulary)</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">tissue_type</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">A brief description of the type of tissue or material analysed</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">collectors</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">The full or abbreviated names of the individuals or team responsible for collecting the sample in the field</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">lifestage</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">The age class or life stage of the specimen at the time of sampling</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">lat</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">The geographical latitude (in decimal degrees) of the geographic centre of a location</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">lon</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">The geographical longitude (in decimal degrees) of the geographic centre of a location</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">country</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">The full, unabbreviated name of the country where the organism was collected</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">province_state</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">The full, unabbreviated name of the province ("Distrito" in Portugal) where the organism was collected</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">region</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">The full, unabbreviated name of the municipality ("Concelho" in Portugal) where the organism was collected</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">exactsite</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">Additional name/text description regarding the exact location of the collection site relative to a geographic relevant landmark</td>
+</tr>
+</table>
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="54479" type="acknowledgements">
+<paragraph pageId="0" pageNumber="54479">Acknowledgements</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+We would like to thank our lab technicians 
+<normalizedToken originalValue="Cátia">Catia</normalizedToken>
+Chaves and Joana Pinto for the lab processing of the samples, as well as Pedro Sousa for the upload of the GBIF data.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="54479" type="author contributions">
+<paragraph pageId="0" pageNumber="54479">Author contributions</paragraph>
+<paragraph pageId="0" pageNumber="54479">Samples were collected by H.R., F.A., P.H., H.R., H.S. and V.A.M. Data analysis was conducted by S.F. Writing of the manuscript was led by H.R., S.F. and V.A.M. with substantial contributions from the remaining authors.</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="54479" type="reference_group">
+<paragraph pageId="0" pageNumber="54479">References</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Afonso, Eve" journalOrPublisher="PLOS One" pageId="0" pageNumber="54479" pagination=": e 0170534" refId="B5745509" title="Investigating hybridization between the two sibling bat species Myotis myotis and M. blythii from guano in a natural mixed maternity colony" volume="12" year="2017">
+<author pageId="0" pageNumber="54479">Afonso, Eve</author>
+, 
+<author pageId="0" pageNumber="54479">Goydadin, Anne-Claude</author>
+, 
+<author pageId="0" pageNumber="54479">Giraudoux, Patrick</author>
+, 
+<author pageId="0" pageNumber="54479">Farny, Gilles</author>
+, 
+<year pageId="0" pageNumber="54479">2017</year>
+. 
+<title pageId="0" pageNumber="54479">
+Investigating hybridization between the two sibling bat species 
+<taxonomicName authority="myotis" genus="Myotis" lsidName="Myotis myotis" pageId="0" pageNumber="54479" rank="species" species="myotis">
+<!--emphasis removed-->Myotis myotis
+</taxonomicName>
+and 
+<taxonomicName genus="M." lsidName="M. blythii" pageId="0" pageNumber="54479" rank="species" species="blythii">
+<!--emphasis removed-->M. blythii
+</taxonomicName>
+from guano in a natural mixed maternity colony
+</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">PLOS One</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">12</volume>
+(
+<issue pageId="0" pageNumber="54479">2</issue>
+)
+<pagination pageId="0" pageNumber="54479">: e0170534</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Agirre-Mendi, Pablo T." journalOrPublisher="Acta Chiropterologica" pageId="0" pageNumber="54479" pagination="49 - 57" refId="B5745519" title="Presence of Myotis alcathoe Helversen &amp; Heller, 2001 (Chiroptera: Vespertilionidae) in the Iberian Peninsula" volume="6" year="2004">
+<author pageId="0" pageNumber="54479">Agirre-Mendi, Pablo T.</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="García-mudarra">Garcia-mudarra</normalizedToken>
+, Juan L.
+</author>
+, 
+<author pageId="0" pageNumber="54479">Juste, Javier</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Ibáñez">Ibanez</normalizedToken>
+, Carlos
+</author>
+, 
+<year pageId="0" pageNumber="54479">2004</year>
+. 
+<title pageId="0" pageNumber="54479">
+Presence of 
+<taxonomicName genus="Myotis" lsidName="Myotis alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->Myotis alcathoe
+</taxonomicName>
+Helversen &amp; Heller, 2001 (
+<taxonomicName authorityName="Kaup" authorityYear="1829" genus="Myotis" lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+: 
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+) in the Iberian Peninsula
+</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Acta Chiropterologica</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">6</volume>
+(
+<issue pageId="0" pageNumber="54479">1</issue>
+): 
+<pagination pageId="0" pageNumber="54479">49 - 57</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Amorim, Francisco" journalOrPublisher="Mammalian Biology" pageId="0" pageNumber="54479" pagination="228 - 236" refId="B5745529" title="Effects of a drought episode on the reproductive success of European free-tailed bats (Tadarida teniotis)" volume="80" year="2015">
+<author pageId="0" pageNumber="54479">Amorim, Francisco</author>
+, 
+<author pageId="0" pageNumber="54479">Mata, Vanessa A.</author>
+, 
+<author pageId="0" pageNumber="54479">Beja, Pedro</author>
+, 
+<author pageId="0" pageNumber="54479">Rebelo, Hugo</author>
+, 
+<year pageId="0" pageNumber="54479">2015</year>
+. 
+<title pageId="0" pageNumber="54479">
+Effects of a drought episode on the reproductive success of European free-tailed bats (
+<taxonomicName baseAuthorityName="Rafinesque" baseAuthorityYear="1814" genus="Tadarida" lsidName="Tadarida teniotis" pageId="0" pageNumber="54479" rank="species" species="teniotis">
+<!--emphasis removed-->Tadarida teniotis
+</taxonomicName>
+)
+</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Mammalian Biology</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">80</volume>
+(
+<issue pageId="0" pageNumber="54479">3</issue>
+): 
+<pagination pageId="0" pageNumber="54479">228 - 236</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Barros, P." journalOrPublisher="Barbastella" pageId="0" pageNumber="54479" pagination="19 - 31" refId="B5745539" title="Contribution to the knowledge of bat distribution in northern and central Portugal" volume="5" year="2012">
+<author pageId="0" pageNumber="54479">Barros, P.</author>
+, 
+<year pageId="0" pageNumber="54479">2012</year>
+. 
+<title pageId="0" pageNumber="54479">Contribution to the knowledge of bat distribution in northern and central Portugal</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Barbastella</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">5</volume>
+(
+<issue pageId="0" pageNumber="54479">1</issue>
+): 
+<pagination pageId="0" pageNumber="54479">19 - 31</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Baselga, Andres" journalOrPublisher="Nature Communications" pageId="0" pageNumber="54479" pagination=": 1892" refId="B5745575" title="Whole-community DNA barcoding reveals a spatio-temporal continuum of biodiversity at species and genetic levels" volume="4" year="2013">
+<author pageId="0" pageNumber="54479">
+Baselga, 
+<normalizedToken originalValue="Andrés">Andres</normalizedToken>
+</author>
+, 
+<author pageId="0" pageNumber="54479">Fujisawa, Tomochika</author>
+, 
+<author pageId="0" pageNumber="54479">Crampton-Platt, Alexandra</author>
+, 
+<author pageId="0" pageNumber="54479">Bergsten, Johannes</author>
+, 
+<author pageId="0" pageNumber="54479">Foster, Peter G.</author>
+, 
+<author pageId="0" pageNumber="54479">Monaghan, Michael T.</author>
+, 
+<author pageId="0" pageNumber="54479">Vogler, Alfried P.</author>
+, 
+<year pageId="0" pageNumber="54479">2013</year>
+. 
+<title pageId="0" pageNumber="54479">Whole-community DNA barcoding reveals a spatio-temporal continuum of biodiversity at species and genetic levels</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Nature Communications</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">4</volume>
+(
+<issue pageId="0" pageNumber="54479">1</issue>
+)
+<pagination pageId="0" pageNumber="54479">: 1892</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Bashta, Andriy-Taras" journalOrPublisher="Folia Zoologica" pageId="0" pageNumber="54479" pagination="1 - 4" refId="B5745588" title="Myotis alcathoe in Poland and Ukraine: new data on its status and habitat in Central Europe" volume="60" year="2011">
+<author pageId="0" pageNumber="54479">Bashta, Andriy-Taras</author>
+, 
+<author pageId="0" pageNumber="54479">
+Piskorski, 
+<normalizedToken originalValue="Michał">Michal</normalizedToken>
+</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Mysłajek">Myslajek</normalizedToken>
+, Robert W.
+</author>
+, 
+<author pageId="0" pageNumber="54479">Tereba, Anna</author>
+, 
+<author pageId="0" pageNumber="54479">Kurek, Korneliusz</author>
+, 
+<author pageId="0" pageNumber="54479">Sachanowicz, Konrad</author>
+, 
+<year pageId="0" pageNumber="54479">2011</year>
+. 
+<title pageId="0" pageNumber="54479">
+<taxonomicName genus="Myotis" lsidName="Myotis alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->Myotis alcathoe
+</taxonomicName>
+in Poland and Ukraine: new data on its status and habitat in Central Europe
+</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Folia Zoologica</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">60</volume>
+(
+<issue pageId="0" pageNumber="54479">1</issue>
+): 
+<pagination pageId="0" pageNumber="54479">1 - 4</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Bogdanowicz, Wieslaw" journalOrPublisher="PLOS One" pageId="0" pageNumber="54479" pagination=": e 53334" refId="B5745600" title="Hybridization hotspots at bat swarming sites" volume="7" year="2012">
+<author pageId="0" pageNumber="54479">
+Bogdanowicz, 
+<normalizedToken originalValue="Wiesław">Wieslaw</normalizedToken>
+</author>
+, 
+<author pageId="0" pageNumber="54479">Piksa, Krzysztof</author>
+, 
+<author pageId="0" pageNumber="54479">Tereba, Anna</author>
+, 
+<year pageId="0" pageNumber="54479">2012</year>
+. 
+<title pageId="0" pageNumber="54479">Hybridization hotspots at bat swarming sites</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">PLOS One</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">7</volume>
+(
+<issue pageId="0" pageNumber="54479">12</issue>
+)
+<pagination pageId="0" pageNumber="54479">: e53334</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Boyer, Frederic" journalOrPublisher="Molecular Ecology Resources" pageId="0" pageNumber="54479" pagination="176 - 182" refId="B5745610" title="obitools: aunix-inspired software package for DNA metabarcoding" volume="16" year="2015">
+<author pageId="0" pageNumber="54479">
+Boyer, 
+<normalizedToken originalValue="Frédéric">Frederic</normalizedToken>
+</author>
+, 
+<author pageId="0" pageNumber="54479">
+Mercier, 
+<normalizedToken originalValue="Céline">Celine</normalizedToken>
+</author>
+, 
+<author pageId="0" pageNumber="54479">
+Bonin, 
+<normalizedToken originalValue="Aurélie">Aurelie</normalizedToken>
+</author>
+, 
+<author pageId="0" pageNumber="54479">Le Bras, Yvan</author>
+, 
+<author pageId="0" pageNumber="54479">Taberlet, Pierre</author>
+, 
+<author pageId="0" pageNumber="54479">Coissac, Eric</author>
+, 
+<year pageId="0" pageNumber="54479">2015</year>
+. 
+<title pageId="0" pageNumber="54479">obitools: aunix-inspired software package for DNA metabarcoding</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Molecular Ecology Resources</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">16</volume>
+(
+<issue pageId="0" pageNumber="54479">1</issue>
+): 
+<pagination pageId="0" pageNumber="54479">176 - 182</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Clare, Elizabeth L." journalOrPublisher="Molecular Ecology Notes" pageId="0" pageNumber="54479" pagination="184 - 190" refId="B5745633" title="DNA barcoding of Neotropical bats: species identification and discovery within Guyana" volume="7" year="2007">
+<author pageId="0" pageNumber="54479">Clare, Elizabeth L.</author>
+, 
+<author pageId="0" pageNumber="54479">Lim, Burton K.</author>
+, 
+<author pageId="0" pageNumber="54479">Engstrom, Mark D.</author>
+, 
+<author pageId="0" pageNumber="54479">Eger, Judith L.</author>
+, 
+<author pageId="0" pageNumber="54479">Hebert, Paul D. N.</author>
+, 
+<year pageId="0" pageNumber="54479">2007</year>
+. 
+<title pageId="0" pageNumber="54479">DNA barcoding of Neotropical bats: species identification and discovery within Guyana</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Molecular Ecology Notes</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">7</volume>
+(
+<issue pageId="0" pageNumber="54479">2</issue>
+): 
+<pagination pageId="0" pageNumber="54479">184 - 190</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Corley, Martin Francis Vanner" journalOrPublisher="Zootaxa" pageId="0" pageNumber="54479" pagination="594 - 600" refId="B5745644" title="DNA Barcoding reveals sexual dimorphism in Isotrias penedana Trematerra, 2013 (Lepidoptera: Tortricidae, Chlidanotinae)." volume="4221" year="2017">
+<author pageId="0" pageNumber="54479">Corley, Martin Francis Vanner</author>
+, 
+<author pageId="0" pageNumber="54479">
+Ferreira, 
+<normalizedToken originalValue="Sónia">Sonia</normalizedToken>
+</author>
+, 
+<year pageId="0" pageNumber="54479">2017</year>
+. 
+<title pageId="0" pageNumber="54479">
+DNA Barcoding reveals sexual dimorphism in 
+<taxonomicName authorityName="Trematerra" authorityYear="2013" genus="Isotrias" lsidName="Isotrias penedana" pageId="0" pageNumber="54479" rank="species" species="penedana">
+<!--emphasis removed-->Isotrias penedana
+</taxonomicName>
+Trematerra, 2013 (
+<taxonomicName authorityName="Meyrick" authorityYear="1895" genus="Isotrias" lsidName="" order="Lepidoptera" pageId="0" pageNumber="54479" rank="order">Lepidoptera</taxonomicName>
+: 
+<taxonomicName family="Tortricidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Tortricidae</taxonomicName>
+, 
+<taxonomicName lsidName="" pageId="0" pageNumber="54479" rank="subFamily" subFamily="Chlidanotinae">Chlidanotinae</taxonomicName>
+).
+</title>
+<journalOrPublisher pageId="0" pageNumber="54479">Zootaxa</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">4221</volume>
+(
+<issue pageId="0" pageNumber="54479">5</issue>
+): 
+<pagination pageId="0" pageNumber="54479">594 - 600</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Corley, Martin F. V." journalOrPublisher="Nota Lepidopterologica" pageId="0" pageNumber="54479" pagination="15 - 24" refId="B5745654" title="Borkhausenia crimnodes Meyrick, 1912 (Lepidoptera, Oecophoridae), a southern hemisphere species resident in Portugal" volume="40" year="2017">
+<author pageId="0" pageNumber="54479">Corley, Martin F. V.</author>
+, 
+<author pageId="0" pageNumber="54479">
+Ferreira, 
+<normalizedToken originalValue="Sónia">Sonia</normalizedToken>
+</author>
+, 
+<author pageId="0" pageNumber="54479">Lvovsky, Alexander L.</author>
+, 
+<author pageId="0" pageNumber="54479">Rosete, Jorge</author>
+, 
+<year pageId="0" pageNumber="54479">2017</year>
+. 
+<title pageId="0" pageNumber="54479">
+<taxonomicName authorityName="Meyrick" authorityYear="1912" genus="Borkhausenia" lsidName="Borkhausenia crimnodes" pageId="0" pageNumber="54479" rank="species" species="crimnodes">
+<!--emphasis removed-->Borkhausenia crimnodes
+</taxonomicName>
+Meyrick, 1912 (
+<taxonomicName genus="Borkhausenia" lsidName="" order="Lepidoptera" pageId="0" pageNumber="54479" rank="order">Lepidoptera</taxonomicName>
+, 
+<taxonomicName family="Oecophoridae" lsidName="" pageId="0" pageNumber="54479" rank="family">Oecophoridae</taxonomicName>
+), a southern hemisphere species resident in Portugal
+</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Nota Lepidopterologica</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">40</volume>
+(
+<issue pageId="0" pageNumber="54479">1</issue>
+): 
+<pagination pageId="0" pageNumber="54479">15 - 24</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Coronado, Alba" journalOrPublisher="Hystrix" pageId="0" pageNumber="54479" pagination="240 - 246" refId="B5745664" title="The role of secondary trees in Mediterranean mature forests for the conservation of the forest-dwelling bat Myotis alcathoe. Are current logging guidelines appropriate?" volume="28" year="2017">
+<author pageId="0" pageNumber="54479">Coronado, Alba</author>
+, 
+<author pageId="0" pageNumber="54479">Flaquer, Carles</author>
+, 
+<author pageId="0" pageNumber="54479">Puig-Montserrat, Xavier</author>
+, 
+<author pageId="0" pageNumber="54479">Barthe, Emilie</author>
+, 
+<author pageId="0" pageNumber="54479">Mas, Maria</author>
+, 
+<author pageId="0" pageNumber="54479">Arrizabalaga, Antoni</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="López-Baucells">Lopez-Baucells</normalizedToken>
+, 
+<normalizedToken originalValue="Adrià">Adria</normalizedToken>
+</author>
+, 
+<year pageId="0" pageNumber="54479">2017</year>
+. 
+<title pageId="0" pageNumber="54479">
+The role of secondary trees in Mediterranean mature forests for the conservation of the forest-dwelling bat 
+<taxonomicName genus="Myotis" lsidName="Myotis alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->Myotis alcathoe
+</taxonomicName>
+. Are current logging guidelines appropriate?
+</title>
+<journalOrPublisher pageId="0" pageNumber="54479">Hystrix</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">28</volume>
+(
+<issue pageId="0" pageNumber="54479">2</issue>
+): 
+<pagination pageId="0" pageNumber="54479">240 - 246</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Dietz, C" journalOrPublisher="Hystrix" pageId="0" pageNumber="54479" refId="B5745678" year="2004">
+<author pageId="0" pageNumber="54479">Dietz, C</author>
+, 
+<author pageId="0" pageNumber="54479">Helversen, O</author>
+, 
+<year pageId="0" pageNumber="54479">2004</year>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Dietz, C" journalOrPublisher="A &amp; C Black Publishers Ltd" pageId="0" pageNumber="54479" refId="B5745687" title="Bats of Britain, Europe and Northwest Africa" year="2009">
+<author pageId="0" pageNumber="54479">Dietz, C</author>
+, 
+<author pageId="0" pageNumber="54479">Helversen, O</author>
+, 
+<author pageId="0" pageNumber="54479">Nill, D</author>
+, 
+<year pageId="0" pageNumber="54479">2009</year>
+. 
+<title pageId="0" pageNumber="54479">Bats of Britain, Europe and Northwest Africa</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">A&amp;C Black Publishers Ltd</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Elbrecht, Vasco" journalOrPublisher="Frontiers in Environmental Science" pageId="0" pageNumber="54479" refId="B5745696" title="Validation and development of COI metabarcoding primers for freshwater macroinvertebrate bioassessment" volume="5" year="2017">
+<author pageId="0" pageNumber="54479">Elbrecht, Vasco</author>
+, 
+<author pageId="0" pageNumber="54479">Leese, Florian</author>
+, 
+<year pageId="0" pageNumber="54479">2017</year>
+. 
+<title pageId="0" pageNumber="54479">Validation and development of COI metabarcoding primers for freshwater macroinvertebrate bioassessment</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Frontiers in Environmental Science</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">5</volume>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Ferreira, S" journalOrPublisher="European Union Horizon 2020 Research &amp; Innovation Programme - H 2020 - WIDESPREAD- 2014 - 2" pageId="0" pageNumber="54479" refId="B5745706" title="Deliverable 4.2 (D 4.2): Protocol for building and organising reference collections of DNA sequences, EnvMetaGen project (Grant Agreement No 668981)." year="2018">
+<author pageId="0" pageNumber="54479">Ferreira, S</author>
+, 
+<author pageId="0" pageNumber="54479">Fonseca, N</author>
+, 
+<author pageId="0" pageNumber="54479">Egeter, B</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Paupério">Pauperio</normalizedToken>
+, J
+</author>
+, 
+<author pageId="0" pageNumber="54479">Galhardo, M</author>
+, 
+<author pageId="0" pageNumber="54479">Oxelfelt, F</author>
+, 
+<author pageId="0" pageNumber="54479">Aresta, S</author>
+, 
+<author pageId="0" pageNumber="54479">Archer, J</author>
+, 
+<author pageId="0" pageNumber="54479">Corley, MFV</author>
+, 
+<author pageId="0" pageNumber="54479">Penado, A</author>
+, 
+<author pageId="0" pageNumber="54479">Pina, S</author>
+, 
+<author pageId="0" pageNumber="54479">Jarman, S</author>
+, 
+<author pageId="0" pageNumber="54479">Beja, P</author>
+, 
+<year pageId="0" pageNumber="54479">2018</year>
+. 
+<title pageId="0" pageNumber="54479">Deliverable 4.2 (D4.2): Protocol for building and organising reference collections of DNA sequences, EnvMetaGen project (Grant Agreement No 668981).</title>
+<journalOrPublisher pageId="0" pageNumber="54479">European Union Horizon 2020 Research &amp; Innovation Programme - H2020-WIDESPREAD-2014-2</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Helversen, O" journalOrPublisher="Naturwissenschaften" pageId="0" pageNumber="54479" pagination="217 - 223" refId="B5745724" title="Cryptic mammalian species: a new species of whiskered bat (Myotis alcathoe n. sp.) in Europe." volume="88" year="2001">
+<author pageId="0" pageNumber="54479">Helversen, O</author>
+, 
+<author pageId="0" pageNumber="54479">Heller, K G</author>
+, 
+<author pageId="0" pageNumber="54479">Mayer, F</author>
+, 
+<author pageId="0" pageNumber="54479">Nemeth, A</author>
+, 
+<author pageId="0" pageNumber="54479">Volleth, M</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Gombkötö">Gombkoetoe</normalizedToken>
+, P
+</author>
+, 
+<year pageId="0" pageNumber="54479">2001</year>
+. 
+<title pageId="0" pageNumber="54479">
+Cryptic mammalian species: a new species of whiskered bat (
+<taxonomicName genus="Myotis" lsidName="Myotis alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->Myotis alcathoe
+</taxonomicName>
+n. sp.) in Europe.
+</title>
+<journalOrPublisher pageId="0" pageNumber="54479">Naturwissenschaften</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">88</volume>
+(
+<issue pageId="0" pageNumber="54479">5</issue>
+): 
+<pagination pageId="0" pageNumber="54479">217 - 223</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Hermida, Roberto J." journalOrPublisher="Galemys" pageId="0" pageNumber="54479" pagination="13 - 23" refId="B5745736" title="Contribucion al conocimiento de la distribucion de los Murcielagos (O. Chiroptera) en Galicia" volume="24" year="2012">
+<author pageId="0" pageNumber="54479">Hermida, Roberto J.</author>
+, 
+<author pageId="0" pageNumber="54479">Lamas, Francisco J.</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Graña">Grana</normalizedToken>
+, David A.
+</author>
+, 
+<author pageId="0" pageNumber="54479">
+Rial, 
+<normalizedToken originalValue="Simón">Simon</normalizedToken>
+</author>
+, 
+<author pageId="0" pageNumber="54479">
+Cerqueira, 
+<normalizedToken originalValue="Félix">Felix</normalizedToken>
+</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Arzúa">Arzua</normalizedToken>
+, Manuel
+</author>
+, 
+<author pageId="0" pageNumber="54479">
+Seage, 
+<normalizedToken originalValue="Ramón">Ramon</normalizedToken>
+</author>
+, 
+<year pageId="0" pageNumber="54479">2012</year>
+. 
+<title pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Contribución">Contribucion</normalizedToken>
+al conocimiento de la 
+<normalizedToken originalValue="distribución">distribucion</normalizedToken>
+de los 
+<normalizedToken originalValue="Murciélagos">Murcielagos</normalizedToken>
+(O. 
+<taxonomicName authorityName="Kaup" authorityYear="1829" genus="Myotis" lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+) en Galicia
+</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Galemys</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">24</volume>
+: 
+<pagination pageId="0" pageNumber="54479">13 - 23</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Kearse, M." journalOrPublisher="Bioinformatics" pageId="0" pageNumber="54479" pagination="1647 - 1649" refId="B5745749" title="Geneious Basic: An integrated and extendable desktop software platform for the organization and analysis of sequence data" volume="28" year="2012">
+<author pageId="0" pageNumber="54479">Kearse, M.</author>
+, 
+<author pageId="0" pageNumber="54479">Moir, R.</author>
+, 
+<author pageId="0" pageNumber="54479">Wilson, A.</author>
+, 
+<author pageId="0" pageNumber="54479">Stones-Havas, S.</author>
+, 
+<author pageId="0" pageNumber="54479">Cheung, M.</author>
+, 
+<author pageId="0" pageNumber="54479">Sturrock, S.</author>
+, 
+<author pageId="0" pageNumber="54479">Buxton, S.</author>
+, 
+<author pageId="0" pageNumber="54479">Cooper, A.</author>
+, 
+<author pageId="0" pageNumber="54479">Markowitz, S.</author>
+, 
+<author pageId="0" pageNumber="54479">Duran, C.</author>
+, 
+<author pageId="0" pageNumber="54479">Thierer, T.</author>
+, 
+<author pageId="0" pageNumber="54479">Ashton, B.</author>
+, 
+<author pageId="0" pageNumber="54479">Meintjes, P.</author>
+, 
+<author pageId="0" pageNumber="54479">Drummond, A.</author>
+, 
+<year pageId="0" pageNumber="54479">2012</year>
+. 
+<title pageId="0" pageNumber="54479">Geneious Basic: An integrated and extendable desktop software platform for the organization and analysis of sequence data</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Bioinformatics</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">28</volume>
+(
+<issue pageId="0" pageNumber="54479">12</issue>
+): 
+<pagination pageId="0" pageNumber="54479">1647 - 1649</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Lara, Ariagna" journalOrPublisher="Molecular Ecology Resources" pageId="0" pageNumber="54479" pagination="421 - 430" refId="B5745782" title="DNA barcoding of Cuban freshwater fishes: evidence for cryptic species and taxonomic conflicts" volume="10" year="2010">
+<author pageId="0" pageNumber="54479">Lara, Ariagna</author>
+, 
+<author pageId="0" pageNumber="54479">
+Ponce de 
+<normalizedToken originalValue="León">Leon</normalizedToken>
+, 
+<normalizedToken originalValue="José">Jose</normalizedToken>
+Luis
+</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Rodríguez">Rodriguez</normalizedToken>
+, Rodet
+</author>
+, 
+<author pageId="0" pageNumber="54479">Casane, Didier</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Côté">Cote</normalizedToken>
+, Guillaume
+</author>
+, 
+<author pageId="0" pageNumber="54479">Bernatchez, Louis</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="García-Machado">Garcia-Machado</normalizedToken>
+, Erik
+</author>
+, 
+<year pageId="0" pageNumber="54479">2010</year>
+. 
+<title pageId="0" pageNumber="54479">DNA barcoding of Cuban freshwater fishes: evidence for cryptic species and taxonomic conflicts</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Molecular Ecology Resources</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">10</volume>
+(
+<issue pageId="0" pageNumber="54479">3</issue>
+): 
+<pagination pageId="0" pageNumber="54479">421 - 430</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Mata, Vanessa A." journalOrPublisher="Biology Letters" pageId="0" pageNumber="54479" refId="B5745795" title="Female dietary bias towards large migratory moths in the European free-tailed bat (Tadarida teniotis)" volume="12" year="2016">
+<author pageId="0" pageNumber="54479">Mata, Vanessa A.</author>
+, 
+<author pageId="0" pageNumber="54479">Amorim, Francisco</author>
+, 
+<author pageId="0" pageNumber="54479">Corley, Martin F. V.</author>
+, 
+<author pageId="0" pageNumber="54479">McCracken, Gary F.</author>
+, 
+<author pageId="0" pageNumber="54479">Rebelo, Hugo</author>
+, 
+<author pageId="0" pageNumber="54479">Beja, Pedro</author>
+, 
+<year pageId="0" pageNumber="54479">2016</year>
+. 
+<title pageId="0" pageNumber="54479">
+Female dietary bias towards large migratory moths in the European free-tailed bat (
+<taxonomicName baseAuthorityName="Rafinesque" baseAuthorityYear="1814" genus="Tadarida" lsidName="Tadarida teniotis" pageId="0" pageNumber="54479" rank="species" species="teniotis">
+<!--emphasis removed-->Tadarida teniotis
+</taxonomicName>
+)
+</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Biology Letters</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">12</volume>
+(
+<issue pageId="0" pageNumber="54479">3</issue>
+)
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Puillandre, N" journalOrPublisher="Molecular Ecology Resources" pageId="0" pageNumber="54479" pagination="396 - 402" refId="B5745807" title="New taxonomy and old collections: integrating DNA barcoding into the collection curation process" volume="12" year="2012">
+<author pageId="0" pageNumber="54479">Puillandre, N</author>
+, 
+<author pageId="0" pageNumber="54479">Bouchet, P</author>
+, 
+<author pageId="0" pageNumber="54479">Boisselier-Dubayle, M-C</author>
+, 
+<author pageId="0" pageNumber="54479">Brisset, J</author>
+, 
+<author pageId="0" pageNumber="54479">Buge, B</author>
+, 
+<author pageId="0" pageNumber="54479">Castelin, M</author>
+, 
+<author pageId="0" pageNumber="54479">Chagnoux, S</author>
+, 
+<author pageId="0" pageNumber="54479">Christophe, T</author>
+, 
+<author pageId="0" pageNumber="54479">Corbari, L</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Lambourdière">Lambourdiere</normalizedToken>
+, J
+</author>
+, 
+<author pageId="0" pageNumber="54479">Lozouet, P</author>
+, 
+<author pageId="0" pageNumber="54479">Marani, G</author>
+, 
+<author pageId="0" pageNumber="54479">Rivasseau, A</author>
+, 
+<author pageId="0" pageNumber="54479">Silva, N</author>
+, 
+<author pageId="0" pageNumber="54479">Terryn, Y</author>
+, 
+<author pageId="0" pageNumber="54479">Tillier, S</author>
+, 
+<author pageId="0" pageNumber="54479">Utge, J</author>
+, 
+<author pageId="0" pageNumber="54479">Samadi, S</author>
+, 
+<year pageId="0" pageNumber="54479">2012</year>
+. 
+<title pageId="0" pageNumber="54479">New taxonomy and old collections: integrating DNA barcoding into the collection curation process</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Molecular Ecology Resources</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">12</volume>
+(
+<issue pageId="0" pageNumber="54479">3</issue>
+): 
+<pagination pageId="0" pageNumber="54479">396 - 402</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Rainho, A" journalOrPublisher="Instituto da Conservacao da Natureza e das Florestas, Lisbon" pageId="0" pageNumber="54479" refId="B5745831" title="Atlas dos morcegos de Portugal Continental" year="2013">
+<author pageId="0" pageNumber="54479">Rainho, A</author>
+, 
+<author pageId="0" pageNumber="54479">Alves, P</author>
+, 
+<author pageId="0" pageNumber="54479">Amorim, F</author>
+, 
+<author pageId="0" pageNumber="54479">Marques, JT</author>
+, 
+<year pageId="0" pageNumber="54479">2013</year>
+. 
+<title pageId="0" pageNumber="54479">Atlas dos morcegos de Portugal Continental</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">
+Instituto da 
+<normalizedToken originalValue="Conservação">Conservacao</normalizedToken>
+da Natureza e das Florestas, Lisbon
+</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Ratnasingham, S" journalOrPublisher="Molecular Ecology Notes" pageId="0" pageNumber="54479" pagination="355 - 364" refId="B5745840" title="BOLD: The Barcode of Life Data System (http: // www. barcodinglife. org)" volume="7" year="2007">
+<author pageId="0" pageNumber="54479">Ratnasingham, S</author>
+, 
+<author pageId="0" pageNumber="54479">Hebert, Paul D. N.</author>
+, 
+<year pageId="0" pageNumber="54479">2007</year>
+. 
+<title pageId="0" pageNumber="54479">BOLD: The Barcode of Life Data System (http://www.barcodinglife.org)</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Molecular Ecology Notes</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">7</volume>
+(
+<issue pageId="0" pageNumber="54479">3</issue>
+): 
+<pagination pageId="0" pageNumber="54479">355 - 364</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Razgour, Orly" journalOrPublisher="Molecular Ecology" pageId="0" pageNumber="54479" pagination="5267 - 5283" refId="B5745850" title="Unravelling the evolutionary history and future prospects of endemic species restricted to former glacial refugia" volume="24" year="2015">
+<author pageId="0" pageNumber="54479">Razgour, Orly</author>
+, 
+<author pageId="0" pageNumber="54479">Salicini, Irene</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Ibáñez">Ibanez</normalizedToken>
+, Carlos
+</author>
+, 
+<author pageId="0" pageNumber="54479">Randi, Ettore</author>
+, 
+<author pageId="0" pageNumber="54479">Juste, Javier</author>
+, 
+<year pageId="0" pageNumber="54479">2015</year>
+. 
+<title pageId="0" pageNumber="54479">Unravelling the evolutionary history and future prospects of endemic species restricted to former glacial refugia</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Molecular Ecology</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">24</volume>
+(
+<issue pageId="0" pageNumber="54479">20</issue>
+): 
+<pagination pageId="0" pageNumber="54479">5267 - 5283</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Rebelo, Hugo" journalOrPublisher="Journal of Applied Ecology" pageId="0" pageNumber="54479" pagination="410 - 420" refId="B5745861" title="Ground validation of presence-only modelling with rare species: a case study on barbastelles Barbastella barbastellus (Chiroptera: Vespertilionidae)" volume="47" year="2010">
+<author pageId="0" pageNumber="54479">Rebelo, Hugo</author>
+, 
+<author pageId="0" pageNumber="54479">Jones, Gareth</author>
+, 
+<year pageId="0" pageNumber="54479">2010</year>
+. 
+<title pageId="0" pageNumber="54479">
+Ground validation of presence-only modelling with rare species: a case study on barbastelles 
+<taxonomicName baseAuthorityName="Schreber" baseAuthorityYear="1774" genus="Barbastella" lsidName="Barbastella barbastellus" pageId="0" pageNumber="54479" rank="species" species="barbastellus">
+<!--emphasis removed-->Barbastella barbastellus
+</taxonomicName>
+(
+<taxonomicName authorityName="Gray" authorityYear="1821" genus="Barbastella" lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+: 
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+)
+</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Journal of Applied Ecology</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">47</volume>
+(
+<issue pageId="0" pageNumber="54479">2</issue>
+): 
+<pagination pageId="0" pageNumber="54479">410 - 420</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Saitoh, Takema" journalOrPublisher="Molecular Ecology Resources" pageId="0" pageNumber="54479" pagination="177 - 186" refId="B5745871" title="DNA barcoding reveals 24 distinct lineages as cryptic bird species candidates in and around the Japanese Archipelago" volume="15" year="2015">
+<author pageId="0" pageNumber="54479">Saitoh, Takema</author>
+, 
+<author pageId="0" pageNumber="54479">Sugita, Norimasa</author>
+, 
+<author pageId="0" pageNumber="54479">Someya, Sayaka</author>
+, 
+<author pageId="0" pageNumber="54479">Iwami, Yasuko</author>
+, 
+<author pageId="0" pageNumber="54479">Kobayashi, Sayaka</author>
+, 
+<author pageId="0" pageNumber="54479">Kamigaichi, Hiromi</author>
+, 
+<author pageId="0" pageNumber="54479">Higuchi, Aki</author>
+, 
+<author pageId="0" pageNumber="54479">Asai, Shigeki</author>
+, 
+<author pageId="0" pageNumber="54479">Yamamoto, Yoshihiro</author>
+, 
+<author pageId="0" pageNumber="54479">Nishiumi, Isao</author>
+, 
+<year pageId="0" pageNumber="54479">2015</year>
+. 
+<title pageId="0" pageNumber="54479">DNA barcoding reveals 24 distinct lineages as cryptic bird species candidates in and around the Japanese Archipelago</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Molecular Ecology Resources</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">15</volume>
+(
+<issue pageId="0" pageNumber="54479">1</issue>
+): 
+<pagination pageId="0" pageNumber="54479">177 - 186</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Santos, Helena" journalOrPublisher="Biological Journal of the Linnean Society" pageId="0" pageNumber="54479" pagination="150 - 162" refId="B5745887" title="Influences of ecology and biogeography on shaping the distributions of cryptic species: three bat tales in Iberia" volume="112" year="2014">
+<author pageId="0" pageNumber="54479">Santos, Helena</author>
+, 
+<author pageId="0" pageNumber="54479">Juste, Javier</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Ibáñez">Ibanez</normalizedToken>
+, Carlos
+</author>
+, 
+<author pageId="0" pageNumber="54479">Palmeirim, Jorge M.</author>
+, 
+<author pageId="0" pageNumber="54479">Godinho, Raquel</author>
+, 
+<author pageId="0" pageNumber="54479">Amorim, Francisco</author>
+, 
+<author pageId="0" pageNumber="54479">Alves, Pedro</author>
+, 
+<author pageId="0" pageNumber="54479">Costa, Hugo</author>
+, 
+<author pageId="0" pageNumber="54479">de Paz, Oscar</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Pérez-Suarez">Perez-Suarez</normalizedToken>
+, Gonzalo
+</author>
+, 
+<author pageId="0" pageNumber="54479">
+<normalizedToken originalValue="Martínez-Alos">Martinez-Alos</normalizedToken>
+, Susana
+</author>
+, 
+<author pageId="0" pageNumber="54479">Jones, Gareth</author>
+, 
+<author pageId="0" pageNumber="54479">Rebelo, Hugo</author>
+, 
+<year pageId="0" pageNumber="54479">2014</year>
+. 
+<title pageId="0" pageNumber="54479">Influences of ecology and biogeography on shaping the distributions of cryptic species: three bat tales in Iberia</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Biological Journal of the Linnean Society</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">112</volume>
+(
+<issue pageId="0" pageNumber="54479">1</issue>
+): 
+<pagination pageId="0" pageNumber="54479">150 - 162</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Shokralla, Shadi" journalOrPublisher="Scientific Reports" pageId="0" pageNumber="54479" pagination=": 9687" refId="B5745906" title="Massively parallel multiplex DNA sequencing for specimen identification using an Illumina MiSeq platform" volume="5" year="2015">
+<author pageId="0" pageNumber="54479">Shokralla, Shadi</author>
+, 
+<author pageId="0" pageNumber="54479">Porter, Teresita M.</author>
+, 
+<author pageId="0" pageNumber="54479">Gibson, Joel F.</author>
+, 
+<author pageId="0" pageNumber="54479">Dobosz, Rafal</author>
+, 
+<author pageId="0" pageNumber="54479">Janzen, Daniel H.</author>
+, 
+<author pageId="0" pageNumber="54479">Hallwachs, Winnie</author>
+, 
+<author pageId="0" pageNumber="54479">Golding, G. Brian</author>
+, 
+<author pageId="0" pageNumber="54479">Hajibabaei, Mehrdad</author>
+, 
+<year pageId="0" pageNumber="54479">2015</year>
+. 
+<title pageId="0" pageNumber="54479">Massively parallel multiplex DNA sequencing for specimen identification using an Illumina MiSeq platform</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Scientific Reports</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">5</volume>
+(
+<issue pageId="0" pageNumber="54479">1</issue>
+)
+<pagination pageId="0" pageNumber="54479">: 9687</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Stamatakis, Alexandros" journalOrPublisher="Bioinformatics" pageId="0" pageNumber="54479" pagination="1312 - 1313" refId="B5745920" title="RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies" volume="30" year="2014">
+<author pageId="0" pageNumber="54479">Stamatakis, Alexandros</author>
+, 
+<year pageId="0" pageNumber="54479">2014</year>
+. 
+<title pageId="0" pageNumber="54479">RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Bioinformatics</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">30</volume>
+(
+<issue pageId="0" pageNumber="54479">9</issue>
+): 
+<pagination pageId="0" pageNumber="54479">1312 - 1313</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Vamos, Ecaterina" journalOrPublisher="Metabarcoding and Metagenomics" pageId="0" pageNumber="54479" refId="B5745930" title="Short COI markers for freshwater macroinvertebrate metabarcoding" volume="1" year="2017">
+<author pageId="0" pageNumber="54479">Vamos, Ecaterina</author>
+, 
+<author pageId="0" pageNumber="54479">Elbrecht, Vasco</author>
+, 
+<author pageId="0" pageNumber="54479">Leese, Florian</author>
+, 
+<year pageId="0" pageNumber="54479">2017</year>
+. 
+<title pageId="0" pageNumber="54479">Short COI markers for freshwater macroinvertebrate metabarcoding</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">Metabarcoding and Metagenomics</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">1</volume>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+<bibRef author="Wilcox, T. M." journalOrPublisher="PLOS One" pageId="0" pageNumber="54479" pagination=": e 59520" refId="B5745940" title="Robust detection of rare species using environmental DNA: The importance of primer specificity" volume="8" year="2013">
+<author pageId="0" pageNumber="54479">Wilcox, T. M.</author>
+, 
+<author pageId="0" pageNumber="54479">McKelvey, K. S.</author>
+, 
+<author pageId="0" pageNumber="54479">Young, M. K.</author>
+, 
+<author pageId="0" pageNumber="54479">Jane, S. F.</author>
+, 
+<author pageId="0" pageNumber="54479">Lowe, W. H.</author>
+, 
+<author pageId="0" pageNumber="54479">Whiteley, Andrew R.</author>
+, 
+<author pageId="0" pageNumber="54479">Schwartz, M. K.</author>
+, 
+<year pageId="0" pageNumber="54479">2013</year>
+. 
+<title pageId="0" pageNumber="54479">Robust detection of rare species using environmental DNA: The importance of primer specificity</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="54479">PLOS One</journalOrPublisher>
+<volume pageId="0" pageNumber="54479">8</volume>
+(
+<issue pageId="0" pageNumber="54479">3</issue>
+)
+<pagination pageId="0" pageNumber="54479">: e59520</pagination>
+</bibRef>
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="54479" type="multiple">
+<caption doi="10.3897/BDJ.8.e54479.figure1" httpUri="https://binary.pensoft.net/fig/402447" pageId="0" pageNumber="54479" start="Figure 1" startId="F5745244">
+<paragraph pageId="0" pageNumber="54479">
+<!--emphasis removed-->Figure 1.
+Phylogenetic tree obtained by Maximum Likelihood (ML) analysis of 26 species of bats, based on 63 newly-sequenced cytochrome c oxidase I gene (COI - 658 bp) Portuguese samples (codes started by MB) and representative sequences of all 26 species publicly available on BOLD (http://www.boldsystems.org), bootstrap values (&gt; 80%) are indicated at nodes.
+</paragraph>
+</caption>
+<caption doi="10.3897/BDJ.8.e54479.figure2" httpUri="https://binary.pensoft.net/fig/402446" pageId="0" pageNumber="54479" start="Figure 2" startId="F5745240">
+<paragraph pageId="0" pageNumber="54479">
+<!--emphasis removed-->Figure 2.
+Geographic location of the analysed samples in this study.
+</paragraph>
+</caption>
+<caption doi="10.3897/BDJ.8.e54479.figure3" httpUri="https://binary.pensoft.net/fig/402444" pageId="0" pageNumber="54479" start="Figure 3" startId="F5745232">
+<paragraph pageId="0" pageNumber="54479">
+<!--emphasis removed-->Figure 3.
+Picture of the 
+<taxonomicName genus="Myotis" lsidName="Myotis alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->Myotis alcathoe
+</taxonomicName>
+individual discovered in this study.
+</paragraph>
+</caption>
+<caption doi="10.3897/BDJ.8.e54479.figure4" httpUri="https://binary.pensoft.net/fig/402445" pageId="0" pageNumber="54479" start="Figure 4" startId="F5745236">
+<paragraph pageId="0" pageNumber="54479">
+<!--emphasis removed-->Figure 4.
+Vegetation structure of where 
+<taxonomicName genus="Myotis" lsidName="Myotis alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->Myotis alcathoe
+</taxonomicName>
+was captured.
+</paragraph>
+</caption>
+<caption ID-Table-UUID="7BDA9309975D747F67011FA91EC1BFC9" httpUri="http://table.plazi.org/id/7BDA9309975D747F67011FA91EC1BFC9" pageId="0" pageNumber="54479" start="Table 1" startId="T5745480">
+<paragraph pageId="0" pageNumber="54479">
+<!--emphasis removed-->Table 1.
+List of species that were collected and DNA barcoded within this project. * Indicate species with new BINs.
+</paragraph>
+</caption>
+<paragraph pageId="0" pageNumber="54479">
+<table pageId="0" pageNumber="54479">
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<!--emphasis removed-->Family
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<!--emphasis removed-->Species
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<!--emphasis removed-->IBI code
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<!--emphasis removed-->BOLD code
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<!--emphasis removed-->BOLD BIN
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<!--emphasis removed-->GenBank
+</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName family="Miniopteridae" lsidName="" pageId="0" pageNumber="54479" rank="family">Miniopteridae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName baseAuthorityName="Kuhl" baseAuthorityYear="1817" genus="Miniopterus" lsidName="Miniopterus schreibersii" pageId="0" pageNumber="54479" rank="species" species="schreibersii">
+<!--emphasis removed-->Miniopterus schreibersii
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB12</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH012-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC3658</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407281</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB13</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH013-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC3658</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407282</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB14</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH014-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC3658</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407283</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName family="Molossidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Molossidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Rafinesque" baseAuthorityYear="1814" genus="Tadarida" lsidName="Tadarida teniotis" pageId="0" pageNumber="54479" rank="species" species="teniotis">
+<!--emphasis removed-->Tadarida teniotis
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB60</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH056-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAB2570</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407332</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName authorityName="Gray" authorityYear="1825" family="Rhinolophidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Rhinolophidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName authorityName="Blasius" authorityYear="1853" genus="Rhinolophus" lsidName="Rhinolophus euryale" pageId="0" pageNumber="54479" rank="species" species="euryale">
+<!--emphasis removed-->Rhinolophus euryale
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB56</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH052-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAF7222</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407326</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName authorityName="Gray" authorityYear="1825" family="Rhinolophidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Rhinolophidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Schreber" baseAuthorityYear="1774" genus="Rhinolophus" lsidName="Rhinolophus ferrumequinum" pageId="0" pageNumber="54479" rank="species" species="ferrumequinum">
+<!--emphasis removed-->Rhinolophus ferrumequinum
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB57</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH053-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAD7131</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407327</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName authorityName="Gray" authorityYear="1825" family="Rhinolophidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Rhinolophidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName baseAuthorityName="Bechstein" baseAuthorityYear="1800" genus="Rhinolophus" lsidName="Rhinolophus hipposideros" pageId="0" pageNumber="54479" rank="species" species="hipposideros">
+<!--emphasis removed-->Rhinolophus hipposideros
+</taxonomicName>
+*
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB58</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH054-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">ADV3826</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407328</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB59</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH055-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">ADV3826</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407329</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName authorityName="Gray" authorityYear="1825" family="Rhinolophidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Rhinolophidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName authorityName="Matschie" authorityYear="1901" genus="Rhinolophus" lsidName="Rhinolophus mehelyi" pageId="0" pageNumber="54479" rank="species" species="mehelyi">
+<!--emphasis removed-->Rhinolophus mehelyi
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB64</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH060-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAF7233</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407330</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB65</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH061-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAF7233</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407331</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName baseAuthorityName="Schreber" baseAuthorityYear="1774" genus="Barbastella" lsidName="Barbastella barbastellus" pageId="0" pageNumber="54479" rank="species" species="barbastellus">
+<!--emphasis removed-->Barbastella barbastellus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB01</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH001-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAF0184</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407270</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB02</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH002-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAF0184</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407272</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB03</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH003-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAF0184</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407271</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Temminck" baseAuthorityYear="1840" genus="Eptesicus" lsidName="Eptesicus isabellinus" pageId="0" pageNumber="54479" rank="species" species="isabellinus">
+<!--emphasis removed-->Eptesicus isabellinus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB06</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH006-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAX8557</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407277</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="4">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="4">
+<taxonomicName baseAuthorityName="Schreber" baseAuthorityYear="1774" genus="Eptesicus" lsidName="Eptesicus serotinus" pageId="0" pageNumber="54479" rank="species" species="serotinus">
+<!--emphasis removed-->Eptesicus serotinus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB04</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH004-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC2865</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407276</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB05</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH005-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC2865</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407273</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB07</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH007-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC2865</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407274</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB08</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH008-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC2865</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407275</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName baseAuthorityName="Bonaparte" baseAuthorityYear="1837" genus="Hypsugo" lsidName="Hypsugo savii" pageId="0" pageNumber="54479" rank="species" species="savii">
+<!--emphasis removed-->Hypsugo savii
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB09</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH009-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC2816</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407279</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB10</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH010-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC2816</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407278</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB11</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH011-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC2816</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407280</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName genus="Myotis" lsidName="Myotis alcathoe" pageId="0" pageNumber="54479" rank="species" species="alcathoe">
+<!--emphasis removed-->Myotis alcathoe
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB33</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH031-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAF5058</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407284</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName baseAuthorityName="Kuhl" baseAuthorityYear="1817" genus="Myotis" lsidName="Myotis bechsteinii" pageId="0" pageNumber="54479" rank="species" species="bechsteinii">
+<!--emphasis removed-->Myotis bechsteinii
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB15</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH015-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAD0964</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407285</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB16</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH016-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAD0964</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407287</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB17</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH017-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAD0964</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407286</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName baseAuthorityName="Tomes" baseAuthorityYear="1857" genus="Myotis" lsidName="Myotis blythii" pageId="0" pageNumber="54479" rank="species" species="blythii">
+<!--emphasis removed-->Myotis blythii
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB18</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH018-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC9255</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407289</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH019-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC9255</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407288</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName baseAuthorityName="Kuhl" baseAuthorityYear="1817" genus="Myotis" lsidName="Myotis daubentonii" pageId="0" pageNumber="54479" rank="species" species="daubentonii">
+<!--emphasis removed-->Myotis daubentonii
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB20</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH020-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAA8808</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407290</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB21</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH021-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAA8808</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407292</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB22</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH022-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAA8808</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407291</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName baseAuthorityName="E. Geoffroy" baseAuthorityYear="1806" genus="Myotis" lsidName="Myotis emarginatus" pageId="0" pageNumber="54479" rank="species" species="emarginatus">
+<!--emphasis removed-->Myotis emarginatus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB23</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH062-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAD0937</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407294</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB25</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH063-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAD0937</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407293</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="5">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="5">
+<taxonomicName authorityName="Cabrera" authorityYear="1904" genus="Myotis" lsidName="Myotis escalerai" pageId="0" pageNumber="54479" rank="species" species="escalerai">
+<!--emphasis removed-->Myotis escalerai
+</taxonomicName>
+*
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB24</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH023-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">ADT1511</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407297</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB26</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH024-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">ADS3148</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407298</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB27</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH025-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">ADT1511</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407299</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB28</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH026-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">ADT1511</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407296</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB29</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH027-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">ADS3148</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407295</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName authority="myotis" genus="Myotis" lsidName="Myotis myotis" pageId="0" pageNumber="54479" rank="species" species="myotis">
+<!--emphasis removed-->Myotis myotis
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB30</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH028-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC9255</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407302</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB31</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH029-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC9255</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407301</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB32</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH030-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC9255</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407300</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName baseAuthorityName="Kuhl" baseAuthorityYear="1817" genus="Myotis" lsidName="Myotis mystacinus" pageId="0" pageNumber="54479" rank="species" species="mystacinus">
+<!--emphasis removed-->Myotis mystacinus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB61</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH057-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAB4668</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407303</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB62</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH058-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAB4668</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407304</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB63</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH059-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAB4668</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407305</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName baseAuthorityName="Schreber" baseAuthorityYear="1780" genus="Nyctalus" lsidName="Nyctalus lasiopterus" pageId="0" pageNumber="54479" rank="species" species="lasiopterus">
+<!--emphasis removed-->Nyctalus lasiopterus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB35</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH032-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAF3011</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407306</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB36</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH033-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAF3011</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407307</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName baseAuthorityName="Kuhl" baseAuthorityYear="1817" genus="Nyctalus" lsidName="Nyctalus leisleri" pageId="0" pageNumber="54479" rank="species" species="leisleri">
+<!--emphasis removed-->Nyctalus leisleri
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB37</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH034-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC4752</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407308</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB38</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH035-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC4752</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407310</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB39</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH036-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC4752</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407309</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName baseAuthorityName="Schreber" baseAuthorityYear="1774" genus="Nyctalus" lsidName="Nyctalus noctula" pageId="0" pageNumber="54479" rank="species" species="noctula">
+<!--emphasis removed-->Nyctalus noctula
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB40</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH037-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC7411</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407311</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB41</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH038-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC7411</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407312</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName baseAuthorityName="Kuhl" baseAuthorityYear="1817" genus="Pipistrellus" lsidName="Pipistrellus kuhlii" pageId="0" pageNumber="54479" rank="species" species="kuhlii">
+<!--emphasis removed-->Pipistrellus kuhlii
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB43</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH039-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAA7926</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407313</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB44</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH040-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAA7926</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407314</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB45</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH041-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAA7926</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407315</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="4">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="4">
+<taxonomicName authority="pipistrellus" genus="Pipistrellus" lsidName="Pipistrellus pipistrellus" pageId="0" pageNumber="54479" rank="species" species="pipistrellus">
+<!--emphasis removed-->Pipistrellus pipistrellus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB46</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH042-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC5524</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407316</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB47</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH043-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC5524</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407317</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB48</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH044-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC5524</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407319</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB51</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH047-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAC5524</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407318</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="2">
+<taxonomicName baseAuthorityName="Leach" baseAuthorityYear="1825" genus="Pipistrellus" lsidName="Pipistrellus pygmaeus" pageId="0" pageNumber="54479" rank="species" species="pygmaeus">
+<!--emphasis removed-->Pipistrellus pygmaeus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB49</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH045-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAB4312</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407321</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB50</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH046-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAB4312</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407320</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">
+<taxonomicName baseAuthorityName="Linnaeus" baseAuthorityYear="1758" genus="Plecotus" lsidName="Plecotus auritus" pageId="0" pageNumber="54479" rank="species" species="auritus">
+<!--emphasis removed-->Plecotus auritus
+</taxonomicName>
+*
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB52</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH048-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">ADU1131</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407322</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName family="Vespertilionidae" lsidName="" pageId="0" pageNumber="54479" rank="family">Vespertilionidae</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="3">
+<taxonomicName baseAuthorityName="J. Fischer" baseAuthorityYear="1829" genus="Plecotus" lsidName="Plecotus austriacus" pageId="0" pageNumber="54479" rank="species" species="austriacus">
+<!--emphasis removed-->Plecotus austriacus
+</taxonomicName>
+</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB53</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH049-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAD0926</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407323</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB54</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH050-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAD0926</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407324</td>
+</tr>
+<tr pageId="0" pageNumber="54479">
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MB55</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">IBICH051-19</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">AAD0926</td>
+<td colspan="1" pageId="0" pageNumber="54479" rowspan="1">MT407325</td>
+</tr>
+</table>
+</paragraph>
+<supplement ID-arpha="488B2E2E-92D7-55DB-B20D-E690759F2238" ID-doi="10.3897/BDJ.8.e54479.suppl1" httpUri="https://binary.pensoft.net/file/411218" pageId="0" pageNumber="54479">
+<paragraph pageId="0" pageNumber="54479">
+Supplementary material 1IBI- 
+<taxonomicName genus="Plecotus" lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+library - Specimen detailsData type
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Record information - specimen data</paragraph>
+<paragraph pageId="0" pageNumber="54479">Brief description</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+The file includes information about all records in BOLD for the IBI- 
+<taxonomicName genus="Plecotus" lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+library. It contains collecting and identification data. The data are as downloaded from BOLD, without further processing.
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">File: oo_411218.txt</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+Hugo Rebelo, 
+<normalizedToken originalValue="Sónia">Sonia</normalizedToken>
+Ferreira, Francisco Amorim, Pedro Horta, Helena Raposeira, Helena Santos, Pedro Beja, Vanessa Mata
+</paragraph>
+</supplement>
+<supplement ID-arpha="19071C0A-9F08-5EAB-8FE1-EA9599FD5F27" ID-doi="10.3897/BDJ.8.e54479.suppl2" httpUri="https://binary.pensoft.net/file/411282" pageId="0" pageNumber="54479">
+<paragraph pageId="0" pageNumber="54479">
+Supplementary material 2IBI- 
+<taxonomicName genus="Plecotus" lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+library - Specimen details - Darwin Core StandardData type
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Record information - specimen data in Darwin Core Standard format</paragraph>
+<paragraph pageId="0" pageNumber="54479">Brief description</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+The file includes information about all records in BOLD for the IBI- 
+<taxonomicName genus="Plecotus" lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+library. It contains collecting and identification data. The data are downloaded from GBIF, without further processing.
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">File: oo_411282.txt</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+Hugo Rebelo, 
+<normalizedToken originalValue="Sónia">Sonia</normalizedToken>
+Ferreira, Francisco Amorim, Pedro Horta, Helena Raposeira, Helena Santos, Pedro Sousa, Pedro Beja, Vanessa Mata
+</paragraph>
+</supplement>
+<supplement ID-arpha="0A14D044-0419-5977-82DC-3E3A198DFFEE" ID-doi="10.3897/BDJ.8.e54479.suppl3" httpUri="https://binary.pensoft.net/file/411203" pageId="0" pageNumber="54479">
+<paragraph pageId="0" pageNumber="54479">
+Supplementary material 3IBI- 
+<taxonomicName genus="Plecotus" lsidName="" order="Chiroptera" pageId="0" pageNumber="54479" rank="order">Chiroptera</taxonomicName>
+library - DNA sequencesData type
+</paragraph>
+<paragraph pageId="0" pageNumber="54479">Genomic data, DNA sequences</paragraph>
+<paragraph pageId="0" pageNumber="54479">Brief description</paragraph>
+<paragraph pageId="0" pageNumber="54479">COI sequences in fasta format. Each sequence is identified by the BOLD ProcessID, species name, marker and GenBank accession number, separated by pipe. The data are as downloaded from BOLD.</paragraph>
+<paragraph pageId="0" pageNumber="54479">File: oo_411203.txt</paragraph>
+<paragraph pageId="0" pageNumber="54479">
+Hugo Rebelo, 
+<normalizedToken originalValue="Sónia">Sonia</normalizedToken>
+Ferreira, Francisco Amorim, Pedro Horta, Helena Raposeira, Helena Santos, Pedro Beja, Vanessa Mata
+</paragraph>
+</supplement>
+</subSection>
+</document>

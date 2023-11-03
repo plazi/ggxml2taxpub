@@ -1,0 +1,1285 @@
+<?xml version="1.0" encoding="UTF-8"?><document xmlns:dwc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:tp="http://www.plazi.org/taxpub" xmlns:xlink="http://www.w3.org/1999/xlink" ID-DOI="http://dx.doi.org/10.3897/CompCytogen.11(2).11395" ID-PMC="PMC5596992" ID-Pensoft-Pub="1993-078X-11(2)-285" ID-PubMed="28919965" ModsDocAuthor="" ModsDocDate="2017" ModsDocID="1993-078X-11(2)-285" ModsDocOrigin="CompCytogen 11(2)" ModsDocTitle="The Cerrado (Brazil) plant cytogenetics database" checkinTime="1493205428428" checkinUser="pensoft" docAuthor="Roa, Fernando &amp; Telles, Mariana Pires de Campos" docDate="2017" docId="0119E52BFF8EFFF50371FFE5FFE99B17" docName="0119E52BFF8EFFF50371FFE5FFE99B17" docOrigin="CompCytogen 11 (2)" docSource="http://dx.doi.org/10.3897/CompCytogen.11(2).11395" docTitle="The Cerrado (Brazil) plant cytogenetics database" docVersion="2" lastPageNumber="297" pageNumber="285" updateTime="1668106996251" updateUser="ExternalLinkService">
+<mods:mods>
+<mods:titleInfo>
+<mods:title>The Cerrado (Brazil) plant cytogenetics database</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Roa, Fernando</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Telles, Mariana Pires de Campos</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>CompCytogen</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>11(2)</mods:number>
+</mods:detail>
+<mods:date>2017</mods:date>
+<mods:extent unit="page">
+<mods:start>285</mods:start>
+<mods:end>297</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://dx.doi.org/10.3897/CompCytogen.11(2).11395</mods:url>
+</mods:location>
+<mods:identifier type="DOI">http://dx.doi.org/10.3897/CompCytogen.11(2).11395</mods:identifier>
+<mods:identifier type="Pensoft-Pub">1993-078X-11(2)-285</mods:identifier>
+<mods:classification>journal article</mods:classification>
+</mods:mods>
+<subSection pageId="0" pageNumber="285" type="introduction">
+<paragraph pageId="0" pageNumber="285">
+<pageBreakToken origin="extrapolated" pageId="0" pageNumber="285" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph pageId="0" pageNumber="285">
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="0" pageNumber="285" rank="genus">Cerrado</taxonomicName>
+, a phytogeographic domain from Brazil, is the third largest biodiversity hotspot in the world considering species endemism and degree of threat (
+<bibRefCitation author="Myers, N" journalOrPublisher="Nature" pageId="6" pageNumber="291" pagination="853 - 858" title="Biodiversity hotspots for conservation priorities." url="https://doi.org/10.1038/35002501" volume="403" year="2000">Myers et al. 2000</bibRefCitation>
+; 
+<bibRefCitation author="Forzza, RC" journalOrPublisher="BioScience" pageId="6" pageNumber="291" pagination="39 - 45" title="New Brazilian Floristic List Highlights Conservation Challenges." url="https://doi.org/10.1525/bio.2012.62.1.8" volume="62" year="2012">Forzza et al. 2012</bibRefCitation>
+). In fact, it has suffered more anthropic impact than the Amazonian tropical forest (
+<bibRefCitation author="Spera, SA" journalOrPublisher="Global Change Biology" pageId="6" pageNumber="291" pagination="3405 - 3413" title="Land-use change affects water recycling in Brazil's last agricultural frontier." url="https://doi.org/10.1111/gcb.13298" volume="22" year="2016">Spera et al. 2016</bibRefCitation>
+). With originally 2m km2 of wilderness area, of which ca. 50% are currently cultivated, this region hosts ca. 11,000 species belonging to 1,423 genera of 171 families of phanerogams (
+<bibRefCitation pageId="0" pageNumber="285">Sano et al. 2008</bibRefCitation>
+; 
+<bibRefCitation author="Ferreira, ME" journalOrPublisher="Cienciahoje" pageId="5" pageNumber="290" pagination="24 - 29" title="Cerrado O fim da historia ou uma nova historia?" volume="56" year="2016">Ferreira et al. 2016</bibRefCitation>
+). Classical cytogenetic studies, comprehending somatic or meiotic chromosome counts are known for a considerable portion of species occurring in 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="0" pageNumber="285" rank="genus">Cerrado</taxonomicName>
+but in many cases they were not performed on plants from this region. Meanwhile, studies of genome size, differential staining and molecular cytogenetics are very rare.
+</paragraph>
+<paragraph pageId="0" pageNumber="285">
+Since the chromosome number is the most basic karyotype feature and it can be observed by conventional staining of meristem cells or pollen mother cells, most cytogenetic databases deal only with this attribute (
+<bibRefCitation author="Peruzzi, L" journalOrPublisher="Caryologia" pageId="6" pageNumber="291" pagination="292 - 295" title="Online resources for chromosome number databases." url="https://doi.org/10.1080/0144235X.2014.974358" volume="67" year="2014">Peruzzi and Bedini 2014</bibRefCitation>
+; 
+<bibRefCitation author="Rice, A" journalOrPublisher="New Phytologist" pageId="6" pageNumber="291" pagination="19 - 26" title="The Chromosome Counts Database (CCDB) - a community resource of plant chromosome numbers." url="https://doi.org/10.1111/nph.13191" volume="206" year="2015">Rice et al. 2015</bibRefCitation>
+). Estimates of genome size, which are currently addressed mostly by comparing the relative fluorescence of propidium iodide stained nuclei measured in a flow cytometer to that of known patterns, are compiled in the Kew C-value database (
+<bibRefCitation author="Dolezel, J" journalOrPublisher="Cytometry Part A" pageId="5" pageNumber="290" pagination="635 - 642" title="Nuclear genome size: Are we getting closer?" url="https://doi.org/10.1002/cyto.a.20915" volume="77" year="2010">
+<normalizedToken originalValue="Doležel">Dolezel</normalizedToken>
+and Greilhuber 2010
+</bibRefCitation>
+; 
+<bibRefCitation author="Garcia, S" journalOrPublisher="Nucleic Acids Research" pageId="6" pageNumber="291" pagination="1159 - 1166" title="Recent updates and developments to plant genome size databases" url="https://doi.org/10.1093/nar/gkt1195" volume="42" year="2014 a">Garcia et al. 2014a</bibRefCitation>
+). Other valuable information such as: karyotype formula, dependent on the relative position of centromere along the chromosome and chromosome length (
+<bibRefCitation author="Guerra, M" journalOrPublisher="Brazilian Journal of Genetics" pageId="6" pageNumber="291" pagination="741 - 743" title="Reviewing the chromosome nomenclature of Levan et al." volume="9" year="1986">Guerra 1986</bibRefCitation>
+), silver staining of nucleolar organizer regions (AgNOR) (
+<bibRefCitation author="Vieira, R" journalOrPublisher="Genome" pageId="6" pageNumber="291" pagination="713 - 718" title="Genetic control of 1 R nucleolus organizer region expression in the presence of wheat genomes." url="https://doi.org/10.1139/g90-107" volume="33" year="1990">Vieira et al. 1990</bibRefCitation>
+), and heterochromatin staining after treatment with acids, bases or denaturation (
+<bibRefCitation author="Schwarzacher, T" journalOrPublisher="Plant Systematics and Evolution" pageId="6" pageNumber="291" pagination="293 - 297" title="Application of Giemsa banding to orchid karyotype analysis." url="https://doi.org/10.1007/BF00986805" volume="134" year="1980">Schwarzacher et al. 1980</bibRefCitation>
+; 
+<bibRefCitation author="Guerra, M" journalOrPublisher="Genetics and Molecular Biology" pageId="6" pageNumber="291" pagination="1029 - 1041" title="Patterns of heterochromatin distribution in plant chromosomes." url="https://doi.org/10.1590/S1415-47572000000400049" volume="23" year="2000">Guerra 2000</bibRefCitation>
+; 
+<bibRefCitation author="Barros e Silva, AE" journalOrPublisher="Biotechnic &amp; Histochemistry" pageId="5" pageNumber="290" pagination="115 - 125" title="The meaning of DAPI bands observed after C-banding and FISH procedures." url="https://doi.org/10.3109/10520290903149596" volume="85" year="2010">Barros e Silva and Guerra 2010</bibRefCitation>
+) are not included in databases. In contrast, fluorescence in situ hybridization (FISH), in which a DNA probe produced by molecular biology methods anneals with chromosome preparations and is detected by fluorescence has gained more attention (
+<bibRefCitation author="Roa, F" journalOrPublisher="BMC Evolutionary Biology" pageId="6" pageNumber="291" pagination=": 225" title="Distribution of 45 S rDNA sites in chromosomes of plants: structural and evolutionary implications" url="https://doi.org/10.1186/1471-2148-12-225" volume="12" year="2012">Roa and Guerra 2012</bibRefCitation>
+; 
+<bibRefCitation author="Garcia, S" journalOrPublisher="BioScience" pageId="6" pageNumber="291" title="Database: the journal of biological databases and curation" url="https://doi.org/10.1093/database/bau063" year="2014 b">Garcia et al. 2014b</bibRefCitation>
+; 
+<bibRefCitation author="Roa, F" journalOrPublisher="Cytogenetic and Genome Research" pageId="6" pageNumber="291" pagination="243 - 249" title="Non-Random Distribution of 5 S rDNA Sites and Its Association with 45 S rDNA in Plant Chromosomes." url="https://doi.org/10.1159/000440930" volume="146" year="2015">Roa and Guerra 2015</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="285">
+The aim of this study was to assess the current cytogenetic knowledge of 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="0" pageNumber="285" rank="genus">Cerrado</taxonomicName>
+plants, aiming to provide a consistent database that 
+<normalizedToken originalValue="didn’t">didn't</normalizedToken>
+exclude any attribute and diagnose recent progress in the field.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="285" type="materials_methods">
+<paragraph pageId="0" pageNumber="285">Methods</paragraph>
+<paragraph pageId="0" pageNumber="285">Data compilation</paragraph>
+<paragraph pageId="0" pageNumber="285">
+Plant names in the 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="0" pageNumber="285" rank="genus">Cerrado</taxonomicName>
+plant list (
+<bibRefCitation pageId="0" pageNumber="285">Sano et al. 2008</bibRefCitation>
+) and the cytogenetic literature were checked according to the Brazilian Flora 2020 site (
+<bibRefCitation author="Peruzzi, L" journalOrPublisher="R Foundation for Statistical Computing, Vienna, Austria" pageId="6" pageNumber="291" title="Flora do Brasil 2020" url="http://floradobrasil.jbrj.gov.br/" year="2016">REFLORA 2016</bibRefCitation>
+) through the www.plantminer.com app (
+<bibRefCitation author="Carvalho, GH" journalOrPublisher="Environmental Modelling &amp; Software" pageId="5" pageNumber="290" pagination="815 - 816" title="Plantminer: A web tool for checking and gathering plant species taxonomic information." url="https://doi.org/10.1016/j.envsoft.2009.11.014" volume="25" year="2010">Carvalho et al. 2010</bibRefCitation>
+). In order to get to the original cytological sources, websites in Table 1 were used. The information in the primary source was organized in the following fields: family (
+<bibRefCitation author="Alfons, A" journalOrPublisher="Botanical Journal of the Linnean Society" pageId="5" pageNumber="290" pagination="1 - 20" title="An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV." url="https://doi.org/10.1111/boj.12385" volume="181" year="2016">APG 2016</bibRefCitation>
+), genus, original name as reported in the publication (field = name_on_source), accepted name following the online Brazilian Flora 2020 (field = accepted_name), place of sampling (field = provenance), distribution of C-, Chromomycin A3, AgNOR-bands (fields = C-bands, CMA_bands, AgNOR), availability of images (field = images), karyotype formula (field = karyotype), FISH sites position (field = FISH), genome size (field = C-value), meiotic or gametophyte chromosome number (field = meiosis-n), sporophytic chromosome number-2n (field = 2n), level of ploidy (field = ploidy), average chromosome size (field = ACS), Total chromosome length (field = TCL), Total chromosome area (field = TCA), reference, and 
+<normalizedToken originalValue="authors’">authors'</normalizedToken>
+affiliation (field = affiliation). Metadata were gathered partially by scripts from search engines as Scopus (Elsevier) and Crossref (PILA).
+</paragraph>
+<caption pageId="0" pageNumber="285">
+<paragraph pageId="0" pageNumber="285">Table 1. Websites used for the search of literature.</paragraph>
+</caption>
+<paragraph pageId="0" pageNumber="285">
+<table pageId="0" pageNumber="285">
+<tr pageId="0" pageNumber="285">
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="1" pageId="0" pageNumber="285" rowspan="1">Name</th>
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="1" pageId="0" pageNumber="285" rowspan="1">URL</th>
+</tr>
+<tr pageId="0" pageNumber="285">
+<td colspan="1" pageId="0" pageNumber="285" rowspan="1">ccdb.tau.ac.il</td>
+</tr>
+<tr pageId="0" pageNumber="285">
+<td colspan="1" pageId="0" pageNumber="285" rowspan="1">C-values</td>
+<td colspan="1" pageId="0" pageNumber="285" rowspan="1">data.kew.org/cvalues</td>
+</tr>
+<tr pageId="0" pageNumber="285">
+<td colspan="1" pageId="0" pageNumber="285" rowspan="1">www.iopb.org</td>
+</tr>
+<tr pageId="0" pageNumber="285">
+<td colspan="1" pageId="0" pageNumber="285" rowspan="1">scholar.google.com</td>
+</tr>
+<tr pageId="0" pageNumber="285">
+<td colspan="1" pageId="0" pageNumber="285" rowspan="1">www.scopus.com</td>
+</tr>
+<tr pageId="0" pageNumber="285">
+<td colspan="1" pageId="0" pageNumber="285" rowspan="1">biodiversitylibrary.org</td>
+</tr>
+<tr pageId="0" pageNumber="285">
+<td colspan="1" pageId="0" pageNumber="285" rowspan="1">www.jstor.org</td>
+</tr>
+<tr pageId="0" pageNumber="285">
+<td colspan="1" pageId="0" pageNumber="285" rowspan="1">bibdigital.rjb.csic.es/spa/index.php</td>
+</tr>
+<tr pageId="0" pageNumber="285">
+<td colspan="1" pageId="0" pageNumber="285" rowspan="1">www.repository.naturalis.nl</td>
+</tr>
+<tr pageId="0" pageNumber="285">
+<td colspan="1" pageId="0" pageNumber="285" rowspan="1">www.botanicus.org</td>
+</tr>
+<tr pageId="0" pageNumber="285">
+<td colspan="1" pageId="0" pageNumber="285" rowspan="1">repository.si.edu/handle/10088/6943</td>
+</tr>
+<tr pageId="0" pageNumber="285">
+<td colspan="1" pageId="0" pageNumber="285" rowspan="1">www.crossref.org</td>
+</tr>
+</table>
+</paragraph>
+<paragraph pageId="0" pageNumber="285">Data statistics</paragraph>
+<paragraph pageId="0" pageNumber="285">
+All statistics and the online database were performed in R (
+<bibRefCitation author="Peruzzi, L" journalOrPublisher="R Foundation for Statistical Computing, Vienna, Austria" pageId="6" pageNumber="291" title="R: A language and environment for statistical computing" year="2016">R Core Team 2016</bibRefCitation>
+). Packages used were shiny (
+<bibRefCitation author="Chang, W" journalOrPublisher="Environmental Modelling &amp; Software" pageId="5" pageNumber="290" title="shiny: Web Application Framework for R" url="https://cran.r-project.org/package=shiny" year="2016">Chang et al. 2016</bibRefCitation>
+), shinyjs (
+<bibRefCitation author="Attali, D" journalOrPublisher="Botanical Journal of the Linnean Society" pageId="5" pageNumber="290" title="shinyjs: Perform Common JavaScript Operations in Shiny Apps using Plain R Code" url="https://cran.r-project.org/package=shinyjs" year="2016">Attali 2016</bibRefCitation>
+), shinydashboard (
+<bibRefCitation author="Chang, W" journalOrPublisher="Environmental Modelling &amp; Software" pageId="5" pageNumber="290" title="shinydashboard: Create Dashboards with &#34; Shiny. &#34;" url="https://cran.r-project.org/package=shinydashboard" year="2015">Chang 2015</bibRefCitation>
+), ggplot2 (
+<bibRefCitation author="Wickham, H" journalOrPublisher="Springer-Verlag, New York" pageId="6" pageNumber="291" title="ggplot 2: Elegant Graphics for Data Analysis." year="2009">Wickham 2009</bibRefCitation>
+), plyr (
+<bibRefCitation author="Wickham, H" journalOrPublisher="Springer-Verlag, New York" pageId="6" pageNumber="291" title="plyr: Tools for Splitting, Applying and Combining Data." url="https://cran.r-project.org/package=plyr" year="2015 a">Wickham 2015a</bibRefCitation>
+), dplyr (
+<bibRefCitation author="Wickham, H" journalOrPublisher="Springer-Verlag, New York" pageId="6" pageNumber="291" title="dplyr: A Grammar of Data Manipulation." url="https://cran.r-project.org/package=dplyr" year="2016">Wickham and Francois 2016</bibRefCitation>
+), stringr (
+<bibRefCitation author="Wickham, H" journalOrPublisher="Springer-Verlag, New York" pageId="6" pageNumber="291" title="stringr: Simple, Consistent Wrappers for Common String Operations." url="https://cran.r-project.org/package=stringr" year="2015 b">Wickham 2015b</bibRefCitation>
+), data.table (
+<bibRefCitation author="Dowle, M" journalOrPublisher="Cytometry Part A" pageId="5" pageNumber="290" title="data. table: Extension of Data. frame" url="https://cran.r-project.org/package=data.table" year="2015">Dowle et al. 2015</bibRefCitation>
+), DT (
+<bibRefCitation author="Xie, Y" journalOrPublisher="Springer-Verlag, New York" pageId="6" pageNumber="291" title="DT: A Wrapper of the JavaScript Library &#34; DataTables. &#34;" url="https://cran.r-project.org/package=DT" year="2015">Xie 2015</bibRefCitation>
+), mongolite (
+<bibRefCitation author="Ooms, J" journalOrPublisher="Nature" pageId="6" pageNumber="291" title="mongolite: Fast and Simple MongoDB Client for R" url="https://cran.r-project.org/package=mongolite" year="2016">Ooms 2016</bibRefCitation>
+), gtools (
+<bibRefCitation author="Warnes, GR" journalOrPublisher="Genome" pageId="6" pageNumber="291" title="gtools: Various R Programming Tools." url="https://cran.r-project.org/package=gtools" year="2015">Warnes et al. 2015</bibRefCitation>
+), robustHD (
+<bibRefCitation author="Alfons, A" pageId="5" pageNumber="290" title="robustHD: Robust Methods for High-Dimensional Data" url="https://cran.r-project.org/package=robustHD" year="2016">Alfons 2016</bibRefCitation>
+) and scales (
+<bibRefCitation author="Wickham, H" journalOrPublisher="Springer-Verlag, New York" pageId="6" pageNumber="291" title="scales: Scale Functions for Visualization." url="https://cran.r-project.org/package=scales" year="2016">Wickham 2016</bibRefCitation>
+). Several frequencies were determined, such as: employed techniques or country of author affiliation per decade; chromosome number (2n), genome size, TCL and TCA per taxa. Where not available, TCL and TCA were measured from photos by ImageJ (
+<bibRefCitation author="Schneider, CA" journalOrPublisher="Nature Methods" pageId="6" pageNumber="291" pagination="671 - 675" title="NIH Image to ImageJ: 25 years of image analysis." url="https://doi.org/10.1038/nmeth.2089" volume="9" year="2012">Schneider et al. 2012</bibRefCitation>
+). Due to the scarcity of genome size data, a correlation analysis between TCA/TCL and known genome sizes was performed in order to have a rough idea of genome size in pg based on TCL or TCA. In accessions without 2n number, they were calculated from meiosis or pollen observations (n).
+</paragraph>
+<paragraph pageId="0" pageNumber="285">
+Even n numbers are more common than odd ones because of the prevalence of even 2n that eventually undergo duplication (
+<bibRefCitation author="Otto, SP" journalOrPublisher="Annual Review of Genetics" pageId="6" pageNumber="291" pagination="401 - 437" title="Polyploid Incidence and Evolution." url="https://doi.org/10.1146/annurev.genet.34.1.401" volume="34" year="2000">Otto and Whitton 2000</bibRefCitation>
+; 
+<bibRefCitation author="Rice, A" journalOrPublisher="New Phytologist" pageId="6" pageNumber="291" pagination="19 - 26" title="The Chromosome Counts Database (CCDB) - a community resource of plant chromosome numbers." url="https://doi.org/10.1111/nph.13191" volume="206" year="2015">Rice et al. 2015</bibRefCitation>
+). As expected, this trend is more pronounced for high 2n which are usually the result of whole genome duplication events, but may vary by dysploidy. Accessions were subdivided in two groups according to n under or over the mode (n) (low 2n, high 2n); and the even/odd ratio for each group was calculated in order to assess indirectly the degree of polyploidy/dysploidy in each major clade.
+</paragraph>
+</subSection>
+<subSection lastPageId="2" lastPageNumber="287" pageId="0" pageNumber="285" type="results">
+<paragraph pageId="0" pageNumber="285">Results</paragraph>
+<paragraph pageId="0" pageNumber="285">Coverage</paragraph>
+<paragraph lastPageId="1" lastPageNumber="286" pageId="0" pageNumber="285">
+A subset of 38.9% (4,590 taxa) of the 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="0" pageNumber="285" rank="genus">Cerrado</taxonomicName>
+Plant list was searched, including the 50 richest genera and 273 genera with only one species. Information of 1,431 accessions, from 366 available primary sources, were included in the database. 702 (16.8%) species of our searched sample (4182) had any cytogenetic data and about 500 of them had at least one accession collected in Brazil. Complete lack of information happens 
+<pageBreakToken pageId="1" pageNumber="286" start="start">for</pageBreakToken>
+70% of the single-species genera addressed (Suppl. material 1, 2, 3). The genera 
+<taxonomicName genus="Hyptis" lsidName="Hyptis" pageId="1" pageNumber="286" rank="genus">Hyptis</taxonomicName>
+Jacq., 1787 (
+<taxonomicName family="Lamiaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Lamiaceae</taxonomicName>
+), 
+<taxonomicName genus="Stachytarpheta" lsidName="Stachytarpheta" pageId="1" pageNumber="286" rank="genus">Stachytarpheta</taxonomicName>
+Vahl, 1804 (
+<taxonomicName family="Verbenaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Verbenaceae</taxonomicName>
+), 
+<taxonomicName genus="Microlicia" lsidName="Microlicia" pageId="1" pageNumber="286" rank="genus">Microlicia</taxonomicName>
+D.Don, 1823 (
+<taxonomicName family="Melastomataceae" lsidName="" pageId="1" pageNumber="286" rank="family">Melastomataceae</taxonomicName>
+), 
+<taxonomicName genus="Leiothrix" lsidName="Leiothrix" pageId="1" pageNumber="286" rank="genus">Leiothrix</taxonomicName>
+Ruhland, 1903 (
+<taxonomicName family="Eriocaulaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Eriocaulaceae</taxonomicName>
+) and 
+<taxonomicName genus="Ditassa" lsidName="Ditassa" pageId="1" pageNumber="286" rank="genus">Ditassa</taxonomicName>
+R.Br., 1809 (
+<taxonomicName family="Apocynaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Apocynaceae</taxonomicName>
+) may be considered orphan because they are among the 50 most diverse in 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="1" pageNumber="286" rank="genus">Cerrado</taxonomicName>
+, but almost no chromosome numbers are known for them (Suppl. material 1). At the family level 
+<taxonomicName family="Eriocaulaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Eriocaulaceae</taxonomicName>
+(Monocots - Commelinids), 
+<taxonomicName family="Lamiaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Lamiaceae</taxonomicName>
+, 
+<taxonomicName family="Apocynaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Apocynaceae</taxonomicName>
+(Core eudicots-Superasterids-Asterids-Lamiids), 
+<taxonomicName family="Polygalaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Polygalaceae</taxonomicName>
+(Core eudicots-Superrosids-Fabids) and 
+<taxonomicName family="Lauraceae" lsidName="" pageId="1" pageNumber="286" rank="family">Lauraceae</taxonomicName>
+(Magnoliids) are also poorly studied (Suppl. material 2), while among the major clades (previously in parentheses), studies for Magnoliids are scarce. Every figure and table is interactive in the database website (http://cyto.shinyapps.io/cerrado).
+</paragraph>
+<paragraph pageId="1" pageNumber="286">
+For the richest and best sampled families, the following modal 2n counts were observed: 
+<taxonomicName family="Oxalidaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Oxalidaceae</taxonomicName>
+2n = 12, 
+<taxonomicName family="Lythraceae" lsidName="" pageId="1" pageNumber="286" rank="family">Lythraceae</taxonomicName>
+2n = 30, 
+<taxonomicName family="Sapindaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Sapindaceae</taxonomicName>
+2n = 24, 
+<taxonomicName family="Solanaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Solanaceae</taxonomicName>
+2n = 24, 
+<taxonomicName family="Cyperaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Cyperaceae</taxonomicName>
+2n = 10, 
+<taxonomicName family="Poaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Poaceae</taxonomicName>
+2n = 20, 
+<taxonomicName family="Asteraceae" lsidName="" pageId="1" pageNumber="286" rank="family">Asteraceae</taxonomicName>
+2n = 18 and 
+<taxonomicName family="Fabaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Fabaceae</taxonomicName>
+2n = 26 (Suppl. material 2). At the genus level, 
+<taxonomicName genus="Paspalum" lsidName="Paspalum" pageId="1" pageNumber="286" rank="genus">Paspalum</taxonomicName>
+L., 1759 (
+<taxonomicName family="Poaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Poaceae</taxonomicName>
+), 
+<taxonomicName genus="Cuphea" lsidName="Cuphea" pageId="1" pageNumber="286" rank="genus">Cuphea</taxonomicName>
+P.Browne, 1756 (
+<taxonomicName family="Lythraceae" lsidName="" pageId="1" pageNumber="286" rank="family">Lythraceae</taxonomicName>
+) and 
+<taxonomicName genus="Rhynchospora" lsidName="Rhynchospora" pageId="1" pageNumber="286" rank="genus">Rhynchospora</taxonomicName>
+Vahl, 1805 (
+<taxonomicName family="Cyperaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Cyperaceae</taxonomicName>
+) stand among the best studied with ca. 50% of coverage. For ca. 20% of species in most major clades, the chromosome number has been studied (Suppl. material 3).
+</paragraph>
+<paragraph pageId="1" pageNumber="286">Techniques chronology</paragraph>
+<paragraph pageId="1" pageNumber="286">Frequencies of use of karyological techniques show that the first cytogenetic analysis were mainly based on meiosis from 1928 on, and subsequently by 1990 the analysis of mitosis (sporophyte) gained more prevalence. Measurements of karyotype formula (morphology) achieved significance after the 1990's. A trend to include images in publications, only with a fall during the 2000's decade was observed. Sophisticated techniques that show a substantial rise from the 2000's decade are the estimation of the C-value, CMA banding (including C-CMA banding) and FISH. However, they have been applied to a limited number of species, ranging from 0.5 to 2.3% of the 1,431 entries in the database (Fig. 1).</paragraph>
+<caption pageId="1" pageNumber="286">
+<paragraph pageId="1" pageNumber="286">
+Figure 1. Chronology of cytogenetic techniques or parameters published for 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="1" pageNumber="286" rank="genus">Cerrado</taxonomicName>
+plant species. Numbers of accessions in the database.
+</paragraph>
+</caption>
+<paragraph pageId="1" pageNumber="286">Author affiliations</paragraph>
+<paragraph lastPageId="2" lastPageNumber="287" pageId="1" pageNumber="286">
+In order to track affiliation of authors over time, they were clustered by decade in a time-line. For accessions collected in Brazil [774 (54%)] the country of affiliation of the author showed an increase in the prevalence of Brazilian based research after the 1990's. Other significant contributions for Brazilian samples have been made by Argentinian based authors (Fig. 2). Most publishing authors for the 1935 - 1970 period were affiliated in the U.S.A, and afterwards, in Brazil. Among the authors with more entries, Coleman, Irwin and Turner studied in the 1935 - 1970 period mainly 
+<taxonomicName family="Asteraceae" lsidName="" pageId="1" pageNumber="286" rank="family">Asteraceae</taxonomicName>
+and 
+<taxonomicName family="Fabaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Fabaceae</taxonomicName>
+. In the 1970 decade, Coleman studied 
+<taxonomicName family="Fabaceae" lsidName="" pageId="1" pageNumber="286" rank="family">Fabaceae</taxonomicName>
+and Nassar, 
+<taxonomicName family="Eu phorbiaceae" lastPageId="2" lastPageNumber="287" lsidName="" pageId="1" pageNumber="286" rank="family">
+Eu 
+<pageBreakToken pageId="2" pageNumber="287" start="start">phorbiaceae</pageBreakToken>
+</taxonomicName>
+. In the 80's and 2000's Graham studied 
+<taxonomicName family="Lythraceae" lsidName="" pageId="2" pageNumber="287" rank="family">Lythraceae</taxonomicName>
+, and in the 90's Guerra published mainly data on 
+<taxonomicName family="Cyperaceae" lsidName="" pageId="2" pageNumber="287" rank="family">Cyperaceae</taxonomicName>
+, 
+<taxonomicName family="Orchidaceae" lsidName="" pageId="2" pageNumber="287" rank="family">Orchidaceae</taxonomicName>
+and 
+<taxonomicName family="Velloziaceae" lsidName="" pageId="2" pageNumber="287" rank="family">Velloziaceae</taxonomicName>
+. In the current decade, 
+<normalizedToken originalValue="Félix">Felix</normalizedToken>
+published mainly about 
+<taxonomicName family="Euphorbiaceae" lsidName="" pageId="2" pageNumber="287" rank="family">Euphorbiaceae</taxonomicName>
+and 
+<taxonomicName family="Fabaceae" lsidName="" pageId="2" pageNumber="287" rank="family">Fabaceae</taxonomicName>
+(Suppl. material 4). Accordingly, those authors correspond to the most important nodes in the co-author network (database website).
+</paragraph>
+<caption pageId="2" pageNumber="287">
+<paragraph pageId="2" pageNumber="287">
+Figure 2. Chronology of author affiliation for 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="2" pageNumber="287" rank="genus">Cerrado</taxonomicName>
+plant species collected in Brazil. Numbers of references in the database.
+</paragraph>
+</caption>
+</subSection>
+<subSection pageId="3" pageNumber="288" type="chromosome numbers and genome size">
+<paragraph pageId="3" pageNumber="288">
+<pageBreakToken pageId="3" pageNumber="288" start="start">Chromosome</pageBreakToken>
+numbers and genome size
+</paragraph>
+<paragraph pageId="3" pageNumber="288">
+699 (16.1%) species of the searched list have known chromosome numbers with a general median of 2n = 28. Fig. 3 shows two ploidy related prevalent chromosome numbers; neopolyploids in Commelinids, which corresponds to 
+<taxonomicName genus="Paspalum" lsidName="Paspalum" pageId="3" pageNumber="288" rank="genus">Paspalum</taxonomicName>
+counts (2n = 20 and 40), and several paleopolyploid genera as 
+<taxonomicName genus="Habenaria" lsidName="Habenaria" pageId="3" pageNumber="288" rank="genus">Habenaria</taxonomicName>
+with 2n = 42 (Monocots) and 
+<taxonomicName genus="Mikania" lsidName="Mikania" pageId="3" pageNumber="288" rank="genus">Mikania</taxonomicName>
+with 2n = 36 (Eudicots-Asterids-Campanulids). An unusual conspicuous high frequency of 2n = 36 for the whole sample, corresponds mainly to genera 
+<taxonomicName genus="Manihot" lsidName="Manihot" pageId="3" pageNumber="288" rank="genus">Manihot</taxonomicName>
+Mill., 1754 (
+<taxonomicName family="Euphorbiaceae" lsidName="" pageId="3" pageNumber="288" rank="family">Euphorbiaceae</taxonomicName>
+), 
+<taxonomicName genus="Tibouchina" lsidName="Tibouchina" pageId="3" pageNumber="288" rank="genus">Tibouchina</taxonomicName>
+Aubl., 1775 (
+<taxonomicName family="Melastomataceae" lsidName="" pageId="3" pageNumber="288" rank="family">Melastomataceae</taxonomicName>
+) and 
+<taxonomicName genus="Mikania" lsidName="Mikania" pageId="3" pageNumber="288" rank="genus">Mikania</taxonomicName>
+Willd., 1803 (
+<taxonomicName family="Asteraceae" lsidName="" pageId="3" pageNumber="288" rank="family">Asteraceae</taxonomicName>
+). Intraspecific chromosome number variation occurs in 14.3% of species, being polyploidy the cause in 88% of them. At the genus level, most high chromosome numbers are multiples of one of the lowest modal numbers of the genus, i.e. base numbers (database website). The even/odd ratio of n is higher for the groups with "n greater than the mode" in almost every clade, as expected, except for Asterids-Campanulids (ratio 1.5), while Asterids-Lamiids shows the greatest bias towards even numbers (ratio 6.5) in karyotypes with n greater than the mode (Table 2).
+</paragraph>
+<caption pageId="3" pageNumber="288">
+<paragraph pageId="3" pageNumber="288">
+Figure 3. Dot-plot of observed and calculated 2n numbers for 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="3" pageNumber="288" rank="genus">Cerrado</taxonomicName>
+plant species considering APG major clades. The three most common numbers (frequency ties separated by comma) and sample size in parentheses are indicated. Dot size varies depending on the maximum frequency of each group.
+</paragraph>
+</caption>
+<caption pageId="3" pageNumber="288">
+<paragraph pageId="3" pageNumber="288">Table 2. Even/odd ratio for haploid (n) numbers considering mode of n.</paragraph>
+</caption>
+<paragraph pageId="3" pageNumber="288">
+<table pageId="3" pageNumber="288">
+<tr pageId="3" pageNumber="288">
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="1" pageId="3" pageNumber="288" rowspan="3">Clade or group</th>
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="2" pageId="3" pageNumber="288" rowspan="1">n even/odd ratio</th>
+</tr>
+<tr pageId="3" pageNumber="288">
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="1" pageId="3" pageNumber="288" rowspan="1">Greater</th>
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="1" pageId="3" pageNumber="288" rowspan="1">Lesser</th>
+</tr>
+<tr pageId="3" pageNumber="288">
+<th xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" colspan="2" pageId="3" pageNumber="288" rowspan="1">than n mode</th>
+</tr>
+</table>
+</paragraph>
+<paragraph pageId="3" pageNumber="288">
+Only 88 C-values were found for the taxa of 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="3" pageNumber="288" rank="genus">Cerrado</taxonomicName>
+, most of them ranging from 2C = ca. 1.5 pg to ca. 3.5 pg with a median value of 2.38 pg (Fig. 4). That corresponds to 1.25% of the addressed species list. For a sample of known TCL (or TCA) and C-value, a correlation analysis, although significant, resulted in low r2 values (weak to moderate). Applying a linear model to predict 2C-value based on TCL, resulted in prediction intervals of ca. 2pg. TCL and TCA values together with some predicted 2C- values are shown in Suppl. material 5, 6 and the database website.
+</paragraph>
+<caption pageId="3" pageNumber="288">
+<paragraph pageId="3" pageNumber="288">
+Figure 4. Violin-plots for genome sizes in pg for 
+<taxonomicName genus="Cerrado" lsidName="Cerrado angiosperms" pageId="3" pageNumber="288" rank="species" species="angiosperms">Cerrado angiosperms</taxonomicName>
+. Y-axis contains clades, three highest peaks of the Gaussian kernel density and sample size. Bandwidth of the density estimator customizable in http://cyto.shinyapps.io/cerrado
+</paragraph>
+</caption>
+</subSection>
+<subSection pageId="4" pageNumber="289" type="discussion">
+<paragraph pageId="4" pageNumber="289">
+<pageBreakToken pageId="4" pageNumber="289" start="start">Discussion</pageBreakToken>
+</paragraph>
+<paragraph pageId="4" pageNumber="289">
+There is strong interest for genomics and genetics of 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="4" pageNumber="289" rank="genus">Cerrado</taxonomicName>
+species (
+<bibRefCitation author="Souza, UJB de" journalOrPublisher="Hoehnea" pageId="6" pageNumber="291" pagination="461 - 477" title="Tendencias da literatura cientifica sobre genetica de populacoes de plantas do Cerrado." url="https://doi.org/10.1590/2236-8906-06/2016" volume="43" year="2016">Souza et al. 2016</bibRefCitation>
+). Knowledge of basic data as chromosome number, ploidy level and genome size is critical for the selection of model species (
+<bibRefCitation author="Kelly, LJ" journalOrPublisher="Plant Ecology &amp; Diversity" pageId="6" pageNumber="291" pagination="415 - 425" title="Why size really matters when sequencing plant genomes." url="https://doi.org/10.1080/17550874.2012.716868" volume="5" year="2012">Kelly et al. 2012</bibRefCitation>
+). Though recent cytogenetic studies tend to incorporate phylogenetic frameworks and correlate cytogenetic with ecological variables, this kind of studies are scarce for 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="4" pageNumber="289" rank="genus">Cerrado</taxonomicName>
+(
+<bibRefCitation author="Glick, L" journalOrPublisher="Molecular Biology and Evolution" pageId="6" pageNumber="291" pagination="1914 - 1922" title="ChromEvol: Assessing the pattern of chromosome number evolution and the inference of polyploidy along a phylogeny." url="https://doi.org/10.1093/molbev/msu122" volume="31" year="2014">Glick and Mayrose 2014</bibRefCitation>
+; 
+<bibRefCitation author="Suda, J" journalOrPublisher="New Phytologist" pageId="6" pageNumber="291" pagination="994 - 1007" title="The hidden side of plant invasions: The role of genome size." url="https://doi.org/10.1111/nph.13107" volume="205" year="2015">Suda et al. 2015</bibRefCitation>
+; 
+<bibRefCitation author="Silveira, RM" journalOrPublisher="Plant Systematics and Evolution" pageId="6" pageNumber="291" title="Genet Mol Res" url="https://doi.org/10.4238/gmr15048842" year="2016">Silveira et al. 2016</bibRefCitation>
+). As noted by 
+<bibRefCitation author="Guerra, M" journalOrPublisher="Acta Botanica Brasilica" pageId="6" pageNumber="291" pagination="75 - 86" title="A situacao da citotaxonomia de angiospermas nos tropicos e, em particular, no Brasil." url="https://doi.org/10.1590/S0102-33061990000300009" volume="4" year="1990">Guerra (1990)</bibRefCitation>
+, previous to the 1990 decade, cytogenetic studies of authors from U.S.A. prevailed. After that period, mitotic analysis increased compared to meiotic studies, which relate to the establishment of cytogenetic laboratories allowing the treatment with antimitotics of root meristems. Still, the amount of chromosome number data for species occurring in 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="4" pageNumber="289" rank="genus">Cerrado</taxonomicName>
+is lower than the world total, 16.1 vs. 20% (
+<bibRefCitation author="Rice, A" journalOrPublisher="New Phytologist" pageId="6" pageNumber="291" pagination="19 - 26" title="The Chromosome Counts Database (CCDB) - a community resource of plant chromosome numbers." url="https://doi.org/10.1111/nph.13191" volume="206" year="2015">Rice et al. 2015</bibRefCitation>
+) and several 
+<normalizedToken originalValue="“orphan”">"orphan"</normalizedToken>
+genera were identified, such as 
+<taxonomicName genus="Stachytarpheta" lsidName="Stachytarpheta" pageId="4" pageNumber="289" rank="genus">Stachytarpheta</taxonomicName>
+(
+<taxonomicName family="Verbenaceae" lsidName="" pageId="4" pageNumber="289" rank="family">Verbenaceae</taxonomicName>
+), 
+<taxonomicName genus="Microlicia" lsidName="Microlicia" pageId="4" pageNumber="289" rank="genus">Microlicia</taxonomicName>
+(
+<taxonomicName family="Melastomataceae" lsidName="" pageId="4" pageNumber="289" rank="family">Melastomataceae</taxonomicName>
+) and 
+<taxonomicName genus="Leiothrix" lsidName="Leiothrix" pageId="4" pageNumber="289" rank="genus">Leiothrix</taxonomicName>
+(
+<taxonomicName family="Eriocaulaceae" lsidName="" pageId="4" pageNumber="289" rank="family">Eriocaulaceae</taxonomicName>
+). Unlike other techniques, C-banding and silver staining studies did not increase in recent decades, which might be related to low repetitiveness of methods (
+<bibRefCitation author="Guerra, M" journalOrPublisher="Acta Botanica Brasilica" pageId="6" pageNumber="291" pagination="75 - 86" title="A situacao da citotaxonomia de angiospermas nos tropicos e, em particular, no Brasil." url="https://doi.org/10.1590/S0102-33061990000300009" volume="4" year="1990">Guerra 1990</bibRefCitation>
+). Despite recent efforts, the percentage of known 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="4" pageNumber="289" rank="genus">Cerrado</taxonomicName>
+C-values is still lower than the 2.1% for all 
+<taxonomicName lsidName="angiosperms" pageId="4" pageNumber="289" rank="species" species="angiosperms">angiosperms</taxonomicName>
+(
+<bibRefCitation author="Garcia, S" journalOrPublisher="Nucleic Acids Research" pageId="6" pageNumber="291" pagination="1159 - 1166" title="Recent updates and developments to plant genome size databases" url="https://doi.org/10.1093/nar/gkt1195" volume="42" year="2014 a">Garcia et al. 2014a</bibRefCitation>
+). Data of TCA, and TCL for a larger number of species were intended to be used as proxy for genome size after an analysis that resulted in weak to moderate significant correlation with 2C-value in pg. Though they can give a rough estimate of the magnitude of the genome, the prediction interval is high considering most genomes fall within a 2 pg range.
+</paragraph>
+<paragraph pageId="4" pageNumber="289">
+Discontinuities in chromosome numbers seen as multimodal distributions indicate that higher numbers are polyploids generated by genome duplication. A polyploid origin for most high n numbers is also evidenced by the high (&gt; 1) even/odd ratios of n (
+<bibRefCitation author="Rice, A" journalOrPublisher="New Phytologist" pageId="6" pageNumber="291" pagination="19 - 26" title="The Chromosome Counts Database (CCDB) - a community resource of plant chromosome numbers." url="https://doi.org/10.1111/nph.13191" volume="206" year="2015">Rice et al. 2015</bibRefCitation>
+). In contrast, low even/odd value (for n greater than the mode) is rare and suggests increased dysploidy and/or low frequency of polyploidy, compared with groups that follow the opposite general trend.
+</paragraph>
+</subSection>
+<subSection lastPageId="5" lastPageNumber="290" pageId="4" pageNumber="289" type="conclusion">
+<paragraph pageId="4" pageNumber="289">Conclusion</paragraph>
+<paragraph lastPageId="5" lastPageNumber="290" pageId="4" pageNumber="289">
+The Database of Cytogenetics of 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="4" pageNumber="289" rank="genus">Cerrado</taxonomicName>
+plants and its website is presented, making an important step in facilitating access to most known cytogenetic attributes (http://cyto.shinyapps.io/cerrado/). The amount of chromosome number data for 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="4" pageNumber="289" rank="genus">Cerrado</taxonomicName>
+is lower than the world total. The chromosome number, is still lacking in several rich genera and families, and therefore, they can be considered 
+<normalizedToken originalValue="“orphan”">"orphan"</normalizedToken>
+. This complete lack of information also happens for 70% of the single-species genera addressed. Analysis of chromosome numbers at several taxonomical levels revealed a straightforward relationship between polyploidy and high chromosome numbers. Regarding other techniques, like heterochromatin staining, molecular cytogenetics and C-value estimation, they have been applied to a very small percentage of species, however, those studies have 
+<pageBreakToken pageId="5" pageNumber="290" start="start">been</pageBreakToken>
+steadily increasing since 2000. Though cytogenetic data are the basis for some evolutionary and ecological studies, there is a lack of those kind of interdisciplinary studies for 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="5" pageNumber="290" rank="genus">Cerrado</taxonomicName>
+.
+</paragraph>
+</subSection>
+<subSection pageId="5" pageNumber="290" type="acknowledgements">
+<paragraph pageId="5" pageNumber="290">Acknowledgements</paragraph>
+<paragraph pageId="5" pageNumber="290">
+FR wishes to thank CAPES for their financial support, through a PNPD fellowship. MPCT is supported by productivity grants CNPq/FAPEG/
+<normalizedToken originalValue="Pró-Centro-Oeste">Pro-Centro-Oeste</normalizedToken>
+(563839/2010-4 and 201110267000125), Pronex - FAPEG/CNPq (Funding Announcement No. 07/2012) and CNPq (447754/2014-9). This publication was funded by the PPGS CAPES/FAPEG F. A. No. 08/2014. Current research is developed in the context of the National Institutes for Science and Technology (INCT) in Ecology, Evolution and Biodiversity Conservation, supported by MCTIC/CNpq (proc. 465610/2014-5) and FAPEG.
+</paragraph>
+</subSection>
+<subSection lastPageId="6" lastPageNumber="291" pageId="5" pageNumber="290" type="reference_group">
+<paragraph pageId="5" pageNumber="290">References</paragraph>
+<paragraph pageId="5" pageNumber="290">
+<bibRef author="Alfons, A" pageId="5" pageNumber="290" title="robustHD: Robust Methods for High-Dimensional Data" url="https://cran.r-project.org/package=robustHD" year="2016">
+<author pageId="5" pageNumber="290">Alfons, A</author>
+, 
+<year pageId="5" pageNumber="290">2016</year>
+. 
+<title pageId="5" pageNumber="290">robustHD: Robust Methods for High-Dimensional Data</title>
+. https://cran.r-project.org/package=robustHD
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="290">
+<bibRef author="Alfons, A" journalOrPublisher="Botanical Journal of the Linnean Society" pageId="5" pageNumber="290" pagination="1 - 20" title="An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV." url="https://doi.org/10.1111/boj.12385" volume="181" year="2016">
+<year pageId="5" pageNumber="290">2016</year>
+. 
+<title pageId="5" pageNumber="290">An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV.</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="290">Botanical Journal of the Linnean Society</journalOrPublisher>
+<volume pageId="5" pageNumber="290">181</volume>
+: 
+<pagination pageId="5" pageNumber="290">1 - 20</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="290">
+<bibRef author="Attali, D" journalOrPublisher="Botanical Journal of the Linnean Society" pageId="5" pageNumber="290" title="shinyjs: Perform Common JavaScript Operations in Shiny Apps using Plain R Code" url="https://cran.r-project.org/package=shinyjs" year="2016">
+<author pageId="5" pageNumber="290">Attali, D</author>
+, 
+<year pageId="5" pageNumber="290">2016</year>
+. 
+<title pageId="5" pageNumber="290">shinyjs: Perform Common JavaScript Operations in Shiny Apps using Plain R Code</title>
+. https://cran.r-project.org/package=shinyjs
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="290">
+<bibRef author="Barros e Silva, AE" journalOrPublisher="Biotechnic &amp; Histochemistry" pageId="5" pageNumber="290" pagination="115 - 125" title="The meaning of DAPI bands observed after C-banding and FISH procedures." url="https://doi.org/10.3109/10520290903149596" volume="85" year="2010">
+<author pageId="5" pageNumber="290">Barros e Silva, AE</author>
+, 
+<author pageId="5" pageNumber="290">Guerra, M</author>
+, 
+<year pageId="5" pageNumber="290">2010</year>
+. 
+<title pageId="5" pageNumber="290">The meaning of DAPI bands observed after C-banding and FISH procedures.</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="290">Biotechnic &amp; Histochemistry</journalOrPublisher>
+<volume pageId="5" pageNumber="290">85</volume>
+: 
+<pagination pageId="5" pageNumber="290">115 - 125</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="290">
+<bibRef author="Carvalho, GH" journalOrPublisher="Environmental Modelling &amp; Software" pageId="5" pageNumber="290" pagination="815 - 816" title="Plantminer: A web tool for checking and gathering plant species taxonomic information." url="https://doi.org/10.1016/j.envsoft.2009.11.014" volume="25" year="2010">
+<author pageId="5" pageNumber="290">Carvalho, GH</author>
+, 
+<author pageId="5" pageNumber="290">Cianciaruso, MV</author>
+, 
+<author pageId="5" pageNumber="290">Batalha, MA</author>
+, 
+<year pageId="5" pageNumber="290">2010</year>
+. 
+<title pageId="5" pageNumber="290">Plantminer: A web tool for checking and gathering plant species taxonomic information.</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="290">Environmental Modelling &amp; Software</journalOrPublisher>
+<volume pageId="5" pageNumber="290">25</volume>
+: 
+<pagination pageId="5" pageNumber="290">815 - 816</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="290">
+<bibRef author="Chang, W" journalOrPublisher="Environmental Modelling &amp; Software" pageId="5" pageNumber="290" title="shinydashboard: Create Dashboards with &#34; Shiny. &#34;" url="https://cran.r-project.org/package=shinydashboard" year="2015">
+<author pageId="5" pageNumber="290">Chang, W</author>
+, 
+<year pageId="5" pageNumber="290">2015</year>
+. 
+<title pageId="5" pageNumber="290">
+shinydashboard: Create Dashboards with 
+<normalizedToken originalValue="“Shiny.”">"Shiny."</normalizedToken>
+</title>
+. https://cran.r-project.org/package=shinydashboard
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="290">
+<bibRef author="Chang, W" journalOrPublisher="Environmental Modelling &amp; Software" pageId="5" pageNumber="290" title="shiny: Web Application Framework for R" url="https://cran.r-project.org/package=shiny" year="2016">
+<author pageId="5" pageNumber="290">Chang, W</author>
+, 
+<author pageId="5" pageNumber="290">Cheng, J</author>
+, 
+<author pageId="5" pageNumber="290">Allaire, JJ</author>
+, 
+<author pageId="5" pageNumber="290">Xie, Y</author>
+, 
+<author pageId="5" pageNumber="290">McPherson, J</author>
+, 
+<year pageId="5" pageNumber="290">2016</year>
+. 
+<title pageId="5" pageNumber="290">shiny: Web Application Framework for R</title>
+. https://cran.r-project.org/package=shiny
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="290">
+<bibRef author="Dolezel, J" journalOrPublisher="Cytometry Part A" pageId="5" pageNumber="290" pagination="635 - 642" title="Nuclear genome size: Are we getting closer?" url="https://doi.org/10.1002/cyto.a.20915" volume="77" year="2010">
+<author pageId="5" pageNumber="290">
+<normalizedToken originalValue="Doležel">Dolezel</normalizedToken>
+, J
+</author>
+, 
+<author pageId="5" pageNumber="290">Greilhuber, J</author>
+, 
+<year pageId="5" pageNumber="290">2010</year>
+. 
+<title pageId="5" pageNumber="290">Nuclear genome size: Are we getting closer?</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="290">Cytometry Part A</journalOrPublisher>
+<volume pageId="5" pageNumber="290">77</volume>
+: 
+<pagination pageId="5" pageNumber="290">635 - 642</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="290">
+<bibRef author="Dowle, M" journalOrPublisher="Cytometry Part A" pageId="5" pageNumber="290" title="data. table: Extension of Data. frame" url="https://cran.r-project.org/package=data.table" year="2015">
+<author pageId="5" pageNumber="290">Dowle, M</author>
+, 
+<author pageId="5" pageNumber="290">Srinivasan, A</author>
+, 
+<author pageId="5" pageNumber="290">Short, T [with contributions from R Saporta SL</author>
+, 
+<author pageId="5" pageNumber="290">Antonyan, E]</author>
+, 
+<year pageId="5" pageNumber="290">2015</year>
+. 
+<title pageId="5" pageNumber="290">data.table: Extension of Data.frame</title>
+. https://cran.r-project.org/package=data.table
+</bibRef>
+</paragraph>
+<paragraph pageId="5" pageNumber="290">
+<bibRef author="Ferreira, ME" journalOrPublisher="Cienciahoje" pageId="5" pageNumber="290" pagination="24 - 29" title="Cerrado O fim da historia ou uma nova historia?" volume="56" year="2016">
+<author pageId="5" pageNumber="290">Ferreira, ME</author>
+, 
+<author pageId="5" pageNumber="290">dos Anjos, AF</author>
+, 
+<author pageId="5" pageNumber="290">Ferreira, LG</author>
+, 
+<author pageId="5" pageNumber="290">Bustamante, M</author>
+, 
+<author pageId="5" pageNumber="290">Fernandes, GW</author>
+, 
+<author pageId="5" pageNumber="290">Machado, RB</author>
+, 
+<year pageId="5" pageNumber="290">2016</year>
+. 
+<title pageId="5" pageNumber="290">
+Cerrado O fim da 
+<normalizedToken originalValue="história">historia</normalizedToken>
+ou uma nova 
+<normalizedToken originalValue="história">historia</normalizedToken>
+?
+</title>
+. 
+<journalOrPublisher pageId="5" pageNumber="290">
+<normalizedToken originalValue="Ciênciahoje">Cienciahoje</normalizedToken>
+</journalOrPublisher>
+<volume pageId="5" pageNumber="290">56</volume>
+: 
+<pagination pageId="5" pageNumber="290">24 - 29</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Forzza, RC" journalOrPublisher="BioScience" pageId="6" pageNumber="291" pagination="39 - 45" title="New Brazilian Floristic List Highlights Conservation Challenges." url="https://doi.org/10.1525/bio.2012.62.1.8" volume="62" year="2012">
+<author pageId="6" pageNumber="291">
+<pageBreakToken pageId="6" pageNumber="291" start="start">Forzza</pageBreakToken>
+, RC
+</author>
+, 
+<author pageId="6" pageNumber="291">Baumgratz, JFA</author>
+, 
+<author pageId="6" pageNumber="291">Bicudo, CEM</author>
+, 
+<author pageId="6" pageNumber="291">Canhos, DAL</author>
+, 
+<author pageId="6" pageNumber="291">Carvalho, AA</author>
+, 
+<author pageId="6" pageNumber="291">Coelho, MAN</author>
+, 
+<author pageId="6" pageNumber="291">Costa, AF</author>
+, 
+<author pageId="6" pageNumber="291">Costa, DP</author>
+, 
+<author pageId="6" pageNumber="291">Hopkins, MG</author>
+, 
+<author pageId="6" pageNumber="291">Leitman, PM</author>
+, 
+<author pageId="6" pageNumber="291">Lohmann, LG</author>
+, 
+<author pageId="6" pageNumber="291">Lughadha, EN</author>
+, 
+<author pageId="6" pageNumber="291">Maia, LC</author>
+, 
+<author pageId="6" pageNumber="291">Martinelli, G</author>
+, 
+<author pageId="6" pageNumber="291">Menezes, M</author>
+, 
+<author pageId="6" pageNumber="291">Morim, MP</author>
+, 
+<author pageId="6" pageNumber="291">Peixoto, AL</author>
+, 
+<author pageId="6" pageNumber="291">Pirani, JR</author>
+, 
+<author pageId="6" pageNumber="291">Prado, J</author>
+, 
+<author pageId="6" pageNumber="291">Queiroz, LP</author>
+, 
+<author pageId="6" pageNumber="291">Souza, S</author>
+, 
+<author pageId="6" pageNumber="291">Souza, VC</author>
+, 
+<author pageId="6" pageNumber="291">Stehmann, JR</author>
+, 
+<author pageId="6" pageNumber="291">Sylvestre, LS</author>
+, 
+<author pageId="6" pageNumber="291">Walter, BMT</author>
+, 
+<author pageId="6" pageNumber="291">Zappi, DC</author>
+, 
+<year pageId="6" pageNumber="291">2012</year>
+. 
+<title pageId="6" pageNumber="291">New Brazilian Floristic List Highlights Conservation Challenges.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">BioScience</journalOrPublisher>
+<volume pageId="6" pageNumber="291">62</volume>
+: 
+<pagination pageId="6" pageNumber="291">39 - 45</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Garcia, S" journalOrPublisher="BioScience" pageId="6" pageNumber="291" title="Database: the journal of biological databases and curation" url="https://doi.org/10.1093/database/bau063" year="2014 b">
+<author pageId="6" pageNumber="291">Garcia, S</author>
+, 
+<author pageId="6" pageNumber="291">
+<normalizedToken originalValue="Gálvez">Galvez</normalizedToken>
+, F
+</author>
+, 
+<author pageId="6" pageNumber="291">Gras, A</author>
+, 
+<author pageId="6" pageNumber="291">
+<normalizedToken originalValue="Kovařík">Kovarik</normalizedToken>
+, A
+</author>
+, 
+<author pageId="6" pageNumber="291">Garnatje, T</author>
+, 
+<year pageId="6" pageNumber="291">2014b</year>
+. 
+<title pageId="6" pageNumber="291">Database: the journal of biological databases and curation</title>
+. https://doi.org/10.1093/database/bau063
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Garcia, S" journalOrPublisher="Nucleic Acids Research" pageId="6" pageNumber="291" pagination="1159 - 1166" title="Recent updates and developments to plant genome size databases" url="https://doi.org/10.1093/nar/gkt1195" volume="42" year="2014 a">
+<author pageId="6" pageNumber="291">Garcia, S</author>
+, 
+<author pageId="6" pageNumber="291">Leitch, IJ</author>
+, 
+<author pageId="6" pageNumber="291">Anadon-Rosell, A</author>
+, 
+<author pageId="6" pageNumber="291">
+Canela, 
+<normalizedToken originalValue="MÁ">MA</normalizedToken>
+</author>
+, 
+<author pageId="6" pageNumber="291">
+<normalizedToken originalValue="Gálvez">Galvez</normalizedToken>
+, F
+</author>
+, 
+<author pageId="6" pageNumber="291">Garnatje, T</author>
+, 
+<author pageId="6" pageNumber="291">Gras, A</author>
+, 
+<author pageId="6" pageNumber="291">Hidalgo, O</author>
+, 
+<author pageId="6" pageNumber="291">Johnston, E</author>
+, 
+<author pageId="6" pageNumber="291">Mas de Xaxars, G</author>
+, 
+<author pageId="6" pageNumber="291">Pellicer, J</author>
+, 
+<author pageId="6" pageNumber="291">Siljak-Yakovlev, S</author>
+, 
+<author pageId="6" pageNumber="291">
+<normalizedToken originalValue="Vallès">Valles</normalizedToken>
+, J
+</author>
+, 
+<author pageId="6" pageNumber="291">Vitales, D</author>
+, 
+<author pageId="6" pageNumber="291">Bennett, MD</author>
+, 
+<year pageId="6" pageNumber="291">2014a</year>
+. 
+<title pageId="6" pageNumber="291">Recent updates and developments to plant genome size databases</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Nucleic Acids Research</journalOrPublisher>
+<volume pageId="6" pageNumber="291">42</volume>
+: 
+<pagination pageId="6" pageNumber="291">1159 - 1166</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Glick, L" journalOrPublisher="Molecular Biology and Evolution" pageId="6" pageNumber="291" pagination="1914 - 1922" title="ChromEvol: Assessing the pattern of chromosome number evolution and the inference of polyploidy along a phylogeny." url="https://doi.org/10.1093/molbev/msu122" volume="31" year="2014">
+<author pageId="6" pageNumber="291">Glick, L</author>
+, 
+<author pageId="6" pageNumber="291">Mayrose, I</author>
+, 
+<year pageId="6" pageNumber="291">2014</year>
+. 
+<title pageId="6" pageNumber="291">ChromEvol: Assessing the pattern of chromosome number evolution and the inference of polyploidy along a phylogeny.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Molecular Biology and Evolution</journalOrPublisher>
+<volume pageId="6" pageNumber="291">31</volume>
+: 
+<pagination pageId="6" pageNumber="291">1914 - 1922</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Guerra, M" journalOrPublisher="Brazilian Journal of Genetics" pageId="6" pageNumber="291" pagination="741 - 743" title="Reviewing the chromosome nomenclature of Levan et al." volume="9" year="1986">
+<author pageId="6" pageNumber="291">Guerra, M</author>
+, 
+<year pageId="6" pageNumber="291">1986</year>
+. 
+<title pageId="6" pageNumber="291">Reviewing the chromosome nomenclature of Levan et al.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Brazilian Journal of Genetics</journalOrPublisher>
+<volume pageId="6" pageNumber="291">9</volume>
+: 
+<pagination pageId="6" pageNumber="291">741 - 743</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Guerra, M" journalOrPublisher="Acta Botanica Brasilica" pageId="6" pageNumber="291" pagination="75 - 86" title="A situacao da citotaxonomia de angiospermas nos tropicos e, em particular, no Brasil." url="https://doi.org/10.1590/S0102-33061990000300009" volume="4" year="1990">
+<author pageId="6" pageNumber="291">Guerra, M</author>
+, 
+<year pageId="6" pageNumber="291">1990</year>
+. 
+<title pageId="6" pageNumber="291">
+A 
+<normalizedToken originalValue="situação">situacao</normalizedToken>
+da citotaxonomia de angiospermas nos 
+<normalizedToken originalValue="trópicos">tropicos</normalizedToken>
+e, em particular, no Brasil.
+</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Acta Botanica Brasilica</journalOrPublisher>
+<volume pageId="6" pageNumber="291">4</volume>
+: 
+<pagination pageId="6" pageNumber="291">75 - 86</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Guerra, M" journalOrPublisher="Genetics and Molecular Biology" pageId="6" pageNumber="291" pagination="1029 - 1041" title="Patterns of heterochromatin distribution in plant chromosomes." url="https://doi.org/10.1590/S1415-47572000000400049" volume="23" year="2000">
+<author pageId="6" pageNumber="291">Guerra, M</author>
+, 
+<year pageId="6" pageNumber="291">2000</year>
+. 
+<title pageId="6" pageNumber="291">Patterns of heterochromatin distribution in plant chromosomes.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Genetics and Molecular Biology</journalOrPublisher>
+<volume pageId="6" pageNumber="291">23</volume>
+: 
+<pagination pageId="6" pageNumber="291">1029 - 1041</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Kelly, LJ" journalOrPublisher="Plant Ecology &amp; Diversity" pageId="6" pageNumber="291" pagination="415 - 425" title="Why size really matters when sequencing plant genomes." url="https://doi.org/10.1080/17550874.2012.716868" volume="5" year="2012">
+<author pageId="6" pageNumber="291">Kelly, LJ</author>
+, 
+<author pageId="6" pageNumber="291">Leitch, AR</author>
+, 
+<author pageId="6" pageNumber="291">Fay, MF</author>
+, 
+<author pageId="6" pageNumber="291">Renny-Byfield, S</author>
+, 
+<author pageId="6" pageNumber="291">Pellicer, J</author>
+, 
+<author pageId="6" pageNumber="291">Macas, JJ</author>
+, 
+<author pageId="6" pageNumber="291">Leitch, IJ</author>
+, 
+<year pageId="6" pageNumber="291">2012</year>
+. 
+<title pageId="6" pageNumber="291">Why size really matters when sequencing plant genomes.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Plant Ecology &amp; Diversity</journalOrPublisher>
+<volume pageId="6" pageNumber="291">5</volume>
+: 
+<pagination pageId="6" pageNumber="291">415 - 425</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Myers, N" journalOrPublisher="Nature" pageId="6" pageNumber="291" pagination="853 - 858" title="Biodiversity hotspots for conservation priorities." url="https://doi.org/10.1038/35002501" volume="403" year="2000">
+<author pageId="6" pageNumber="291">Myers, N</author>
+, 
+<author pageId="6" pageNumber="291">Mittermeier, RA</author>
+, 
+<author pageId="6" pageNumber="291">Mittermeier, CG</author>
+, 
+<author pageId="6" pageNumber="291">da Fonseca, GAB</author>
+, 
+<author pageId="6" pageNumber="291">Kent, J</author>
+, 
+<year pageId="6" pageNumber="291">2000</year>
+. 
+<title pageId="6" pageNumber="291">Biodiversity hotspots for conservation priorities.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Nature</journalOrPublisher>
+<volume pageId="6" pageNumber="291">403</volume>
+: 
+<pagination pageId="6" pageNumber="291">853 - 858</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Ooms, J" journalOrPublisher="Nature" pageId="6" pageNumber="291" title="mongolite: Fast and Simple MongoDB Client for R" url="https://cran.r-project.org/package=mongolite" year="2016">
+<author pageId="6" pageNumber="291">Ooms, J</author>
+, 
+<year pageId="6" pageNumber="291">2016</year>
+. 
+<title pageId="6" pageNumber="291">mongolite: Fast and Simple MongoDB Client for R</title>
+. https://cran.r-project.org/package=mongolite
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Otto, SP" journalOrPublisher="Annual Review of Genetics" pageId="6" pageNumber="291" pagination="401 - 437" title="Polyploid Incidence and Evolution." url="https://doi.org/10.1146/annurev.genet.34.1.401" volume="34" year="2000">
+<author pageId="6" pageNumber="291">Otto, SP</author>
+, 
+<author pageId="6" pageNumber="291">Whitton, J</author>
+, 
+<year pageId="6" pageNumber="291">2000</year>
+. 
+<title pageId="6" pageNumber="291">Polyploid Incidence and Evolution.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Annual Review of Genetics</journalOrPublisher>
+<volume pageId="6" pageNumber="291">34</volume>
+: 
+<pagination pageId="6" pageNumber="291">401 - 437</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Peruzzi, L" journalOrPublisher="Caryologia" pageId="6" pageNumber="291" pagination="292 - 295" title="Online resources for chromosome number databases." url="https://doi.org/10.1080/0144235X.2014.974358" volume="67" year="2014">
+<author pageId="6" pageNumber="291">Peruzzi, L</author>
+, 
+<author pageId="6" pageNumber="291">Bedini, G</author>
+, 
+<year pageId="6" pageNumber="291">2014</year>
+. 
+<title pageId="6" pageNumber="291">Online resources for chromosome number databases.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Caryologia</journalOrPublisher>
+<volume pageId="6" pageNumber="291">67</volume>
+: 
+<pagination pageId="6" pageNumber="291">292 - 295</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Peruzzi, L" journalOrPublisher="R Foundation for Statistical Computing, Vienna, Austria" pageId="6" pageNumber="291" title="R: A language and environment for statistical computing" year="2016">
+<year pageId="6" pageNumber="291">2016</year>
+. 
+<title pageId="6" pageNumber="291">R: A language and environment for statistical computing</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">R Foundation for Statistical Computing, Vienna, Austria</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Peruzzi, L" journalOrPublisher="R Foundation for Statistical Computing, Vienna, Austria" pageId="6" pageNumber="291" title="Flora do Brasil 2020" url="http://floradobrasil.jbrj.gov.br/" year="2016">
+<year pageId="6" pageNumber="291">2016</year>
+. 
+<title pageId="6" pageNumber="291">Flora do Brasil 2020</title>
+. http://floradobrasil.jbrj.gov.br/
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Rice, A" journalOrPublisher="New Phytologist" pageId="6" pageNumber="291" pagination="19 - 26" title="The Chromosome Counts Database (CCDB) - a community resource of plant chromosome numbers." url="https://doi.org/10.1111/nph.13191" volume="206" year="2015">
+<author pageId="6" pageNumber="291">Rice, A</author>
+, 
+<author pageId="6" pageNumber="291">Glick, L</author>
+, 
+<author pageId="6" pageNumber="291">Abadi, S</author>
+, 
+<author pageId="6" pageNumber="291">Einhorn, M</author>
+, 
+<author pageId="6" pageNumber="291">Kopelman, NM</author>
+, 
+<author pageId="6" pageNumber="291">Salman-Minkov, A</author>
+, 
+<author pageId="6" pageNumber="291">Mayzel, J</author>
+, 
+<author pageId="6" pageNumber="291">Chay, O</author>
+, 
+<author pageId="6" pageNumber="291">Mayrose, I</author>
+, 
+<year pageId="6" pageNumber="291">2015</year>
+. 
+<title pageId="6" pageNumber="291">The Chromosome Counts Database (CCDB) - a community resource of plant chromosome numbers.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">New Phytologist</journalOrPublisher>
+<volume pageId="6" pageNumber="291">206</volume>
+: 
+<pagination pageId="6" pageNumber="291">19 - 26</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Roa, F" journalOrPublisher="BMC Evolutionary Biology" pageId="6" pageNumber="291" pagination=": 225" title="Distribution of 45 S rDNA sites in chromosomes of plants: structural and evolutionary implications" url="https://doi.org/10.1186/1471-2148-12-225" volume="12" year="2012">
+<author pageId="6" pageNumber="291">Roa, F</author>
+, 
+<author pageId="6" pageNumber="291">Guerra, M</author>
+, 
+<year pageId="6" pageNumber="291">2012</year>
+. 
+<title pageId="6" pageNumber="291">Distribution of 45S rDNA sites in chromosomes of plants: structural and evolutionary implications</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">BMC Evolutionary Biology</journalOrPublisher>
+<volume pageId="6" pageNumber="291">12</volume>
+<pagination pageId="6" pageNumber="291">: 225</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Roa, F" journalOrPublisher="Cytogenetic and Genome Research" pageId="6" pageNumber="291" pagination="243 - 249" title="Non-Random Distribution of 5 S rDNA Sites and Its Association with 45 S rDNA in Plant Chromosomes." url="https://doi.org/10.1159/000440930" volume="146" year="2015">
+<author pageId="6" pageNumber="291">Roa, F</author>
+, 
+<author pageId="6" pageNumber="291">Guerra, M</author>
+, 
+<year pageId="6" pageNumber="291">2015</year>
+. 
+<title pageId="6" pageNumber="291">Non-Random Distribution of 5S rDNA Sites and Its Association with 45S rDNA in Plant Chromosomes.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Cytogenetic and Genome Research</journalOrPublisher>
+<volume pageId="6" pageNumber="291">146</volume>
+: 
+<pagination pageId="6" pageNumber="291">243 - 249</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Schneider, CA" journalOrPublisher="Nature Methods" pageId="6" pageNumber="291" pagination="671 - 675" title="NIH Image to ImageJ: 25 years of image analysis." url="https://doi.org/10.1038/nmeth.2089" volume="9" year="2012">
+<author pageId="6" pageNumber="291">Schneider, CA</author>
+, 
+<author pageId="6" pageNumber="291">Rasband, WS</author>
+, 
+<author pageId="6" pageNumber="291">Eliceiri, KW</author>
+, 
+<year pageId="6" pageNumber="291">2012</year>
+. 
+<title pageId="6" pageNumber="291">NIH Image to ImageJ: 25 years of image analysis.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Nature Methods</journalOrPublisher>
+<volume pageId="6" pageNumber="291">9</volume>
+: 
+<pagination pageId="6" pageNumber="291">671 - 675</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Schwarzacher, T" journalOrPublisher="Plant Systematics and Evolution" pageId="6" pageNumber="291" pagination="293 - 297" title="Application of Giemsa banding to orchid karyotype analysis." url="https://doi.org/10.1007/BF00986805" volume="134" year="1980">
+<author pageId="6" pageNumber="291">Schwarzacher, T</author>
+, 
+<author pageId="6" pageNumber="291">Ambros, P</author>
+, 
+<author pageId="6" pageNumber="291">Schweizer, D</author>
+, 
+<year pageId="6" pageNumber="291">1980</year>
+. 
+<title pageId="6" pageNumber="291">Application of Giemsa banding to orchid karyotype analysis.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Plant Systematics and Evolution</journalOrPublisher>
+<volume pageId="6" pageNumber="291">134</volume>
+: 
+<pagination pageId="6" pageNumber="291">293 - 297</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Silveira, RM" journalOrPublisher="Plant Systematics and Evolution" pageId="6" pageNumber="291" title="Genet Mol Res" url="https://doi.org/10.4238/gmr15048842" year="2016">
+<author pageId="6" pageNumber="291">Silveira, RM</author>
+, 
+<author pageId="6" pageNumber="291">Machado, RM</author>
+, 
+<author pageId="6" pageNumber="291">Forni-Martins, ER</author>
+, 
+<author pageId="6" pageNumber="291">Verola, CF</author>
+, 
+<author pageId="6" pageNumber="291">Costa, IR</author>
+, 
+<year pageId="6" pageNumber="291">2016</year>
+. 
+<title pageId="6" pageNumber="291">Genet Mol Res</title>
+. https://doi.org/10.4238/gmr15048842
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Souza, UJB de" journalOrPublisher="Hoehnea" pageId="6" pageNumber="291" pagination="461 - 477" title="Tendencias da literatura cientifica sobre genetica de populacoes de plantas do Cerrado." url="https://doi.org/10.1590/2236-8906-06/2016" volume="43" year="2016">
+<author pageId="6" pageNumber="291">Souza, UJB de</author>
+, 
+<author pageId="6" pageNumber="291">Telles, MP de C</author>
+, 
+<author pageId="6" pageNumber="291">Diniz-Filho, JAF</author>
+, 
+<year pageId="6" pageNumber="291">2016</year>
+. 
+<title pageId="6" pageNumber="291">
+<normalizedToken originalValue="Tendências">Tendencias</normalizedToken>
+da literatura 
+<normalizedToken originalValue="científica">cientifica</normalizedToken>
+sobre 
+<normalizedToken originalValue="genética">genetica</normalizedToken>
+de 
+<normalizedToken originalValue="populações">populacoes</normalizedToken>
+de plantas do Cerrado.
+</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Hoehnea</journalOrPublisher>
+<volume pageId="6" pageNumber="291">43</volume>
+: 
+<pagination pageId="6" pageNumber="291">461 - 477</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Spera, SA" journalOrPublisher="Global Change Biology" pageId="6" pageNumber="291" pagination="3405 - 3413" title="Land-use change affects water recycling in Brazil's last agricultural frontier." url="https://doi.org/10.1111/gcb.13298" volume="22" year="2016">
+<author pageId="6" pageNumber="291">Spera, SA</author>
+, 
+<author pageId="6" pageNumber="291">Galford, GL</author>
+, 
+<author pageId="6" pageNumber="291">Coe, MT</author>
+, 
+<author pageId="6" pageNumber="291">Macedo, MN</author>
+, 
+<author pageId="6" pageNumber="291">Mustard, JF</author>
+, 
+<year pageId="6" pageNumber="291">2016</year>
+. 
+<title pageId="6" pageNumber="291">
+Land-use change affects water recycling in 
+<normalizedToken originalValue="Brazil’s">Brazil's</normalizedToken>
+last agricultural frontier.
+</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Global Change Biology</journalOrPublisher>
+<volume pageId="6" pageNumber="291">22</volume>
+: 
+<pagination pageId="6" pageNumber="291">3405 - 3413</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Suda, J" journalOrPublisher="New Phytologist" pageId="6" pageNumber="291" pagination="994 - 1007" title="The hidden side of plant invasions: The role of genome size." url="https://doi.org/10.1111/nph.13107" volume="205" year="2015">
+<author pageId="6" pageNumber="291">Suda, J</author>
+, 
+<author pageId="6" pageNumber="291">Meyerson, LA</author>
+, 
+<author pageId="6" pageNumber="291">Leitch, IJ</author>
+, 
+<author pageId="6" pageNumber="291">
+<normalizedToken originalValue="Pyšek">Pysek</normalizedToken>
+, P
+</author>
+, 
+<year pageId="6" pageNumber="291">2015</year>
+. 
+<title pageId="6" pageNumber="291">The hidden side of plant invasions: The role of genome size.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">New Phytologist</journalOrPublisher>
+<volume pageId="6" pageNumber="291">205</volume>
+: 
+<pagination pageId="6" pageNumber="291">994 - 1007</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Vieira, R" journalOrPublisher="Genome" pageId="6" pageNumber="291" pagination="713 - 718" title="Genetic control of 1 R nucleolus organizer region expression in the presence of wheat genomes." url="https://doi.org/10.1139/g90-107" volume="33" year="1990">
+<author pageId="6" pageNumber="291">Vieira, R</author>
+, 
+<author pageId="6" pageNumber="291">
+Queiroz, 
+<normalizedToken originalValue="Á">A</normalizedToken>
+</author>
+, 
+<author pageId="6" pageNumber="291">Morais, L</author>
+, 
+<author pageId="6" pageNumber="291">
+<normalizedToken originalValue="Barão">Barao</normalizedToken>
+, A
+</author>
+, 
+<author pageId="6" pageNumber="291">Mello-Sampayo, T</author>
+, 
+<author pageId="6" pageNumber="291">Viegas, W</author>
+, 
+<year pageId="6" pageNumber="291">1990</year>
+. 
+<title pageId="6" pageNumber="291">Genetic control of 1R nucleolus organizer region expression in the presence of wheat genomes.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Genome</journalOrPublisher>
+<volume pageId="6" pageNumber="291">33</volume>
+: 
+<pagination pageId="6" pageNumber="291">713 - 718</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Warnes, GR" journalOrPublisher="Genome" pageId="6" pageNumber="291" title="gtools: Various R Programming Tools." url="https://cran.r-project.org/package=gtools" year="2015">
+<author pageId="6" pageNumber="291">Warnes, GR</author>
+, 
+<author pageId="6" pageNumber="291">Bolker, B</author>
+, 
+<author pageId="6" pageNumber="291">Lumley, T</author>
+, 
+<year pageId="6" pageNumber="291">2015</year>
+. 
+<title pageId="6" pageNumber="291">gtools: Various R Programming Tools.</title>
+. https://cran.r-project.org/package=gtools
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Wickham, H" journalOrPublisher="Springer-Verlag, New York" pageId="6" pageNumber="291" title="ggplot 2: Elegant Graphics for Data Analysis." year="2009">
+<author pageId="6" pageNumber="291">Wickham, H</author>
+, 
+<year pageId="6" pageNumber="291">2009</year>
+. 
+<title pageId="6" pageNumber="291">ggplot2: Elegant Graphics for Data Analysis.</title>
+. 
+<journalOrPublisher pageId="6" pageNumber="291">Springer-Verlag, New York</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Wickham, H" journalOrPublisher="Springer-Verlag, New York" pageId="6" pageNumber="291" title="plyr: Tools for Splitting, Applying and Combining Data." url="https://cran.r-project.org/package=plyr" year="2015 a">
+<author pageId="6" pageNumber="291">Wickham, H</author>
+, 
+<year pageId="6" pageNumber="291">2015a</year>
+. 
+<title pageId="6" pageNumber="291">plyr: Tools for Splitting, Applying and Combining Data.</title>
+. https://cran.r-project.org/package=plyr
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Wickham, H" journalOrPublisher="Springer-Verlag, New York" pageId="6" pageNumber="291" title="stringr: Simple, Consistent Wrappers for Common String Operations." url="https://cran.r-project.org/package=stringr" year="2015 b">
+<author pageId="6" pageNumber="291">Wickham, H</author>
+, 
+<year pageId="6" pageNumber="291">2015b</year>
+. 
+<title pageId="6" pageNumber="291">stringr: Simple, Consistent Wrappers for Common String Operations.</title>
+. https://cran.r-project.org/package=stringr
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Wickham, H" journalOrPublisher="Springer-Verlag, New York" pageId="6" pageNumber="291" title="scales: Scale Functions for Visualization." url="https://cran.r-project.org/package=scales" year="2016">
+<author pageId="6" pageNumber="291">Wickham, H</author>
+, 
+<year pageId="6" pageNumber="291">2016</year>
+. 
+<title pageId="6" pageNumber="291">scales: Scale Functions for Visualization.</title>
+. https://cran.r-project.org/package=scales
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Wickham, H" journalOrPublisher="Springer-Verlag, New York" pageId="6" pageNumber="291" title="dplyr: A Grammar of Data Manipulation." url="https://cran.r-project.org/package=dplyr" year="2016">
+<author pageId="6" pageNumber="291">Wickham, H</author>
+, 
+<author pageId="6" pageNumber="291">Francois, R</author>
+, 
+<year pageId="6" pageNumber="291">2016</year>
+. 
+<title pageId="6" pageNumber="291">dplyr: A Grammar of Data Manipulation.</title>
+. https://cran.r-project.org/package=dplyr
+</bibRef>
+</paragraph>
+<paragraph pageId="6" pageNumber="291">
+<bibRef author="Xie, Y" journalOrPublisher="Springer-Verlag, New York" pageId="6" pageNumber="291" title="DT: A Wrapper of the JavaScript Library &#34; DataTables. &#34;" url="https://cran.r-project.org/package=DT" year="2015">
+<author pageId="6" pageNumber="291">Xie, Y</author>
+, 
+<year pageId="6" pageNumber="291">2015</year>
+. 
+<title pageId="6" pageNumber="291">
+DT: A Wrapper of the JavaScript Library 
+<normalizedToken originalValue="“DataTables.”">"DataTables."</normalizedToken>
+</title>
+. https://cran.r-project.org/package=DT
+</bibRef>
+</paragraph>
+</subSection>
+<subSection pageId="7" pageNumber="292" type="materials_methods">
+<paragraph pageId="7" pageNumber="292">
+<pageBreakToken pageId="7" pageNumber="292" start="start">Supplementary</pageBreakToken>
+materials
+</paragraph>
+<paragraph pageId="7" pageNumber="292">Supplementary material 1Summary statistics for genera</paragraph>
+<paragraph pageId="7" pageNumber="292">Data type: cytogenetic attributes</paragraph>
+<paragraph pageId="7" pageNumber="292">Explanation note: more details in http://cyto.shinyapps.io/cerrado</paragraph>
+<paragraph pageId="7" pageNumber="292">This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary material 2Summary statistics for families</paragraph>
+<paragraph pageId="7" pageNumber="292">Data type: cytogenetic attributes</paragraph>
+<paragraph pageId="7" pageNumber="292">Explanation note: more details in http://cyto.shinyapps.io/cerrado</paragraph>
+<paragraph pageId="7" pageNumber="292">This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary material 3Summary statistics for major clades</paragraph>
+<paragraph pageId="7" pageNumber="292">Data type: cytogenetic attributes</paragraph>
+<paragraph pageId="7" pageNumber="292">Explanation note: more details in http://cyto.shinyapps.io/cerrado</paragraph>
+<paragraph pageId="7" pageNumber="292">
+This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary material 4Authors with more publications of cytogenetic data of 
+<taxonomicName genus="Cerrado" lsidName="Cerrado" pageId="7" pageNumber="292" rank="genus">Cerrado</taxonomicName>
+plants per decade
+</paragraph>
+<paragraph pageId="7" pageNumber="292">Data type: affiliation and taxa - categorical data table</paragraph>
+<paragraph pageId="7" pageNumber="292">Explanation note: more details in http://cyto.shinyapps.io/cerrado</paragraph>
+<paragraph pageId="7" pageNumber="292">
+Copyright notice: This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary material 5Figure S1. Total chromosome length for 
+<taxonomicName genus="Cerrado" lsidName="Cerrado angiosperms" pageId="7" pageNumber="292" rank="species" species="angiosperms">Cerrado angiosperms</taxonomicName>
+</paragraph>
+<paragraph pageId="7" pageNumber="292">Data type: Histogram</paragraph>
+<paragraph pageId="7" pageNumber="292">Explanation note: See text for details.</paragraph>
+<paragraph pageId="7" pageNumber="292">
+This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary material 6Figure S2. Total chromosome area for 
+<taxonomicName genus="Cerrado" lsidName="Cerrado angiosperms" pageId="7" pageNumber="292" rank="species" species="angiosperms">Cerrado angiosperms</taxonomicName>
+</paragraph>
+<paragraph pageId="7" pageNumber="292">Data type: Histogram</paragraph>
+<paragraph pageId="7" pageNumber="292">Explanation note: See text for details.</paragraph>
+This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.Fernando Roa, Mariana Pires de Campos Telles
+</subSection>
+</document>

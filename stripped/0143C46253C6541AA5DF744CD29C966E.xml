@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?><document ID-DOI="http://dx.doi.org/10.3897/alpento.7.110958" ID-Pensoft-Pub="2535-0889-7-201" ID-Pensoft-UUID="0143C46253C6541AA5DF744CD29C966E" ID-ZooBank="032B0AE392C043C3AE989EBB41AD434E" ModsDocID="2535-0889-7-201" checkinTime="1698655357517" checkinUser="pensoft" docAuthor="Pellet, Jérôme" docDate="2023" docId="0143C46253C6541AA5DF744CD29C966E" docName="AlpEntomol 7: 201-204" docOrigin="Alpine Entomology 7" docPubDate="2023-10-30" docSource="https://alpineentomology.pensoft.net/article/110958/download/xml/" docTitle="Planning insect surveys in alpine ecosystems" docVersion="1" id="0143C46253C6541AA5DF744CD29C966E" lastPageNumber="204" pageNumber="201" updateTime="1698655357517" updateUser="pensoft">
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo>
+<mods:title>Planning insect surveys in alpine ecosystems</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>
+Pellet, 
+<normalizedToken originalValue="Jérôme">Jerome</normalizedToken>
+</mods:namePart>
+<mods:nameIdentifier type="email">jerome.pellet@nplusp.ch</mods:nameIdentifier>
+<mods:nameIdentifier type="ORCID">https://orcid.org/0000-0002-4760-8609</mods:nameIdentifier>
+<mods:affiliation>
+n+p wildlife ecology, Place 
+<normalizedToken originalValue="St-François">St-Francois</normalizedToken>
+6, CH-1003 Lausanne, Switzerland
+</mods:affiliation>
+<mods:affiliation>Department of Ecology and Evolution, University of Lausanne, Lausanne CH-1015, Switzerland</mods:affiliation>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Alpine Entomology</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>7</mods:number>
+</mods:detail>
+<mods:detail type="pubDate">
+<mods:number>2023-10-30</mods:number>
+</mods:detail>
+<mods:date>2023</mods:date>
+<mods:extent unit="page">
+<mods:start>201</mods:start>
+<mods:end>204</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://dx.doi.org/10.3897/alpento.7.110958</mods:url>
+</mods:location>
+<mods:identifier type="DOI">http://dx.doi.org/10.3897/alpento.7.110958</mods:identifier>
+<mods:identifier type="Pensoft-Pub">2535-0889-7-201</mods:identifier>
+<mods:identifier type="ZooBank">032B0AE392C043C3AE989EBB41AD434E</mods:identifier>
+<mods:identifier type="Pensoft-UUID">0143C46253C6541AA5DF744CD29C966E</mods:identifier>
+<mods:classification>journal article</mods:classification>
+</mods:mods>
+<subSection pageId="0" pageNumber="201" type="introduction">
+<paragraph pageId="0" pageNumber="201">
+<pageBreakToken origin="extrapolated" pageId="0" pageNumber="201" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+Standing at the core of complex ecological food webs, insects provide insights into the health and stability of ecosystems. They are thus widely used as bioindicators at local, regional, and international scales (
+<bibRefCitation DOI="https://doi.org/10.1111/j.1469-185X.1997.tb00029.x" author="McGeogh, MA" journalOrPublisher="Biological Reviews" pageId="0" pageNumber="201" pagination="181 - 201" refId="B13" refString="McGeogh, MA, 1998. The selection, testing, and application of terrestrial insects as bioindicators. Biological Reviews 73: 181 - 201, DOI: https://doi.org/10.1111/j.1469-185X.1997.tb00029.x" title="The selection, testing, and application of terrestrial insects as bioindicators." url="https://doi.org/10.1111/j.1469-185X.1997.tb00029.x" volume="73" year="1998">McGeogh 1998</bibRefCitation>
+; 
+<bibRefCitation DOI="https://doi.org/10.1098/rstb.2004.1585" author="Thomas, JA" journalOrPublisher="Proceedings of the Royal Society B, Biological Sciences" pageId="0" pageNumber="201" pagination="339 - 357" refId="B20" refString="Thomas, JA, 2005. Monitoring change in the abundance and distribution of insects using butterflies and other indicator groups. Proceedings of the Royal Society B, Biological Sciences 360: 339 - 357, DOI: https://doi.org/10.1098/rstb.2004.1585" title="Monitoring change in the abundance and distribution of insects using butterflies and other indicator groups." url="https://doi.org/10.1098/rstb.2004.1585" volume="360" year="2005">Thomas 2005</bibRefCitation>
+; 
+<bibRefCitation DOI="https://doi.org/10.1016/j.biocon.2017.07.034" author="Buckland, ST" journalOrPublisher="Biological Conservation" pageId="0" pageNumber="201" pagination="23 - 34" refId="B4" refString="Buckland, ST, Johnston, A, 2017. Monitoring the biodiversity of regions: Key principles and possible pitfalls. Biological Conservation 214: 23 - 34, DOI: https://doi.org/10.1016/j.biocon.2017.07.034" title="Monitoring the biodiversity of regions: Key principles and possible pitfalls." url="https://doi.org/10.1016/j.biocon.2017.07.034" volume="214" year="2017">Buckland and Johnston 2017</bibRefCitation>
+; 
+<bibRefCitation DOI="https://doi.org/10.3389/fenvs.2023.1146052" author="Chowdhury, S" journalOrPublisher="Biological Conservation" pageId="0" pageNumber="201" refId="B6" refString="Chowdhury, S, Dubey, VK, Choudhury, S, Das, A, Jeengar, D, Sujatha, B, Kumar, A, Kumar, N, Semwal, A, Kumar, V, 2023. Insects as bioindicators: A hidden gem for environmental monitoring. Frontiers in Environmental Science 11: 1146052. https://doi.org/10.3389/fenvs.2023.1146052" title="Insects as bioindicators: A hidden gem for environmental monitoring. Frontiers in Environmental Science 11: 1146052." url="https://doi.org/10.3389/fenvs.2023.1146052" year="2023">Chowdhury et al. 2023</bibRefCitation>
+). By surveying and monitoring insect diversity, we gain a better understanding of the intricate relationships between species and their habitats across time, enabling us to develop environmentally sound conservation strategies and evaluate the efficiency of public policies (
+<bibRefCitation DOI="https://doi.org/10.1016/S0169-5347(01)02205-4" author="Yoccoz, NG" journalOrPublisher="Trends in Ecology &amp; Evolution" pageId="0" pageNumber="201" pagination="446 - 453" refId="B22" refString="Yoccoz, NG, Nichols, JD, Boulinier, T, 2001. Monitoring of biological diversity in space and time. Trends in Ecology &amp; Evolution 16: 446 - 453, DOI: https://doi.org/10.1016/S0169-5347(01)02205-4" title="Monitoring of biological diversity in space and time." url="https://doi.org/10.1016/S0169-5347(01)02205-4" volume="16" year="2001">Yoccoz et al. 2001</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="201">Many of the ongoing entomological survey programs aim at estimating species richness among taxa. Even though recent technologies (e.g. computer vision, acoustic monitoring, radar, and molecular methods) offer new perspectives (van Klink et al. 2022), visual encounters remain the most widespread approach. This is especially true for several popular taxa that are widely surveyed in alpine ecosystems, such as butterflies/day-flying moths, dragonflies/damselflies, and crickets/grasshoppers, all of which can be readily identified or photographed in the field. Even though these taxa do not contain an overwhelming number of species compared to other taxa, surveying them remains a costly endeavor.</paragraph>
+<paragraph pageId="0" pageNumber="201">
+Entomological visual surveys are usually based on repeated visits across the activity period of the focal taxon. This is necessary because individual species fluctuate in abundance asynchronously during a year (the adult activity or flight periods of various species of insect typically only partly overlap within a focal taxon, see 
+<bibRefCitation DOI="https://doi.org/10.1007/s10841-007-9075-8" author="Pellet, J" journalOrPublisher="Journal of Insect Conservation" pageId="0" pageNumber="201" pagination="155 - 162" refId="B16" refString="Pellet, J, 2008. Seasonal variation of butterflies' detectability in Pollard walks. Journal of Insect Conservation 12: 155 - 162, DOI: https://doi.org/10.1007/s10841-007-9075-8" title="Seasonal variation of butterflies' detectability in Pollard walks." url="https://doi.org/10.1007/s10841-007-9075-8" volume="12" year="2008">Pellet 2008</bibRefCitation>
+). These multiple visits aim to maximize the chance of encountering all potentially present species. Monitoring schemes therefore very often rely on pre-defined time windows surveys that are assumed to maximize the observed species richness of the community under scrutiny.
+</paragraph>
+<paragraph pageId="0" pageNumber="201">Here, we present a novel approach to identify the best time windows for surveying alpine entomological communities by optimizing the encounter probabilities of every species with as few visits as possible. Using 20 years of observations for three popular taxa, we provide evidence-based, data-driven, guidance for alpine insect survey planning.</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="201" type="materials_methods">
+<paragraph pageId="0" pageNumber="201">Material and methods</paragraph>
+<paragraph pageId="0" pageNumber="201">
+We first extracted all observations of 
+<taxonomicName authorityName="Linnaeus" authorityYear="1758" class="Hexapoda" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Lepidoptera" pageId="0" pageNumber="201" phylum="Arthropoda" rank="order">Lepidoptera</taxonomicName>
+(limited to butterflies and day-flying moths), 
+<taxonomicName authorityName="Fabricius" authorityYear="1793" class="Hexapoda" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Odonata" pageId="0" pageNumber="201" phylum="Arthropoda" rank="order">Odonata</taxonomicName>
+(dragonflies and damselflies), and 
+<taxonomicName class="Insecta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Orthoptera" pageId="0" pageNumber="201" phylum="? arthropoda" rank="order">Orthoptera</taxonomicName>
+(crickets and grasshoppers) from info fauna, the Swiss biological records center (www.infofauna.ch) for the period spanning 2003-2022. The data was then organized into three matrices (one for each taxon) containing (i) the species name, (ii) the year the observation was made, (iii) the altitudinal levels of the observation, (iv) 52 columns corresponding to the weeks of the calendar year. These weekly columns were then filled with the total number of adult individuals of a given species that had been observed each year at a given altitudinal level.
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+Species detectability in a given week at a given altitudinal level was first assumed to follow 
+<!--emphasis removed-->P
+(
+<!--emphasis removed-->Xs
+, 
+<!--emphasis removed-->t
+) ≅ 1 - e- 
+<!--emphasis removed-->Ns
+, 
+<!--emphasis removed-->t
+, where 
+<!--emphasis removed-->P
+(
+<!--emphasis removed-->Xs
+, 
+<!--emphasis removed-->t
+) is the probability of detecting species 
+<!--emphasis removed-->s
+during week 
+<!--emphasis removed-->t
+and 
+<!--emphasis removed-->Ns
+, 
+<!--emphasis removed-->t
+is the number of observations of species 
+<!--emphasis removed-->s
+during week 
+<!--emphasis removed-->t.
+That is, the more abundant a species is, the more likely it is that a single individual of that species will be observed. In short, we ended up with an expected number of species being potentially observed at every altitudinal level, week, and year.
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+Our optimization algorithm then worked through the following steps, iterating years and altitude 
+<!--emphasis removed-->Xs
+, 
+<!--emphasis removed-->t
+) (i.e. the number of species likely to be detected). For convenience, we tested 5 scenarios representing an increasing number of annual surveys (from 1 to 5). We then used this data to plot the best time windows - from a single week to a combination of 5 different weeks - that maximize the species richness likely observed by an observer.
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+The first draft of the introduction, discussion, and abstract of this paper has been adapted with 
+<bibRefCitation author="Pellet, J" journalOrPublisher="Journal of Insect Conservation" pageId="0" pageNumber="201" publicationUrl="https://www.perplexity.ai" refId="B17" refString="2023. . https://www.perplexity.ai" url="https://www.perplexity.ai" year="2023">PerplexityAI (2023)</bibRefCitation>
+. Prompts included the first version of the texts along with requests to (i) shorten paragraphs, (ii) improve clarity and (iii) correct any grammatical errors. All outputs from 
+<bibRefCitation author="Pellet, J" journalOrPublisher="Journal of Insect Conservation" pageId="0" pageNumber="201" publicationUrl="https://www.perplexity.ai" refId="B17" refString="2023. . https://www.perplexity.ai" url="https://www.perplexity.ai" year="2023">PerplexityAI (2023)</bibRefCitation>
+were then reviewed and edited before being taken into consideration.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="201" type="results">
+<paragraph pageId="0" pageNumber="201">Results</paragraph>
+<paragraph pageId="0" pageNumber="201">
+The optimized survey windows for 3 taxa and 3 altitudinal levels are described in Fig. 
+<figureCitation captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Optimal time windows to maximize potential species richness in entomological surveys for 3 taxa at 3 altitudinal levels assuming between 1 and 5 surveys each. The mean of the 2003 - 2022 period is represented with a white dot, the colored bars represent the standard deviation. A single survey aiming at maximizing the potential species richness of butterflies in the lowland (lower left sub-figure) would have to take place between weeks 26 and 30 of the year (first half of July). If two surveys are planned, then they should ideally take place on week 23 (early June + / - 1 week) and on week 28 (mid-July + / - 2 weeks)." figureDoi="10.3897/alpento.7.110958.figure1" httpUri="https://binary.pensoft.net/fig/928492" pageId="0" pageNumber="201">1</figureCitation>
+. Each of the 9 sub-figures illustrates the best periods to maximize detectable species richness under 5 survey intensity scenarios (from a single annual survey to 5 annual surveys).
+</paragraph>
+<caption doi="10.3897/alpento.7.110958.figure1" httpUri="https://binary.pensoft.net/fig/928492" pageId="0" pageNumber="201" start="Figure 1" startId="F1">
+<paragraph pageId="0" pageNumber="201">
+<!--emphasis removed-->Figure 1.
+Optimal time windows to maximize potential species richness in entomological surveys for 3 taxa at 3 altitudinal levels assuming between 1 and 5 surveys each. The mean of the 2003-2022 period is represented with a white dot, the colored bars represent the standard deviation. A single survey aiming at maximizing the potential species richness of butterflies in the lowland (lower left sub-figure) would have to take place between weeks 26 and 30 of the year (first half of July). If two surveys are planned, then they should ideally take place on week 23 (early June 
+<normalizedToken originalValue="±">+/-</normalizedToken>
+1 week) and on week 28 (mid-July 
+<normalizedToken originalValue="±">+/-</normalizedToken>
+2 weeks).
+</paragraph>
+</caption>
+<paragraph pageId="0" pageNumber="201">
+For 
+<taxonomicName authorityName="Fabricius" authorityYear="1793" class="Hexapoda" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Odonata" pageId="0" pageNumber="201" phylum="Arthropoda" rank="order">Odonata</taxonomicName>
+at the subalpine level (top middle sub-figure), a single visit should be made on the last week of July (the white dot representing the median best week). Depending on yearly variability, this best week can span anywhere between mid-July and the end of August. If two surveys are envisioned, then the first one should occur in mid-July and the second one in early August.
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+As expected, higher elevations translate into later survey windows, the amplitude of the shift being about 2 weeks between the lowland and the subalpine levels. Fig. 
+<figureCitation captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Optimal time windows to maximize potential species richness in entomological surveys for 3 taxa at 3 altitudinal levels assuming between 1 and 5 surveys each. The mean of the 2003 - 2022 period is represented with a white dot, the colored bars represent the standard deviation. A single survey aiming at maximizing the potential species richness of butterflies in the lowland (lower left sub-figure) would have to take place between weeks 26 and 30 of the year (first half of July). If two surveys are planned, then they should ideally take place on week 23 (early June + / - 1 week) and on week 28 (mid-July + / - 2 weeks)." figureDoi="10.3897/alpento.7.110958.figure1" httpUri="https://binary.pensoft.net/fig/928492" pageId="0" pageNumber="201">1</figureCitation>
+also shows, with little surprise, that 
+<taxonomicName class="Insecta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Orthoptera" pageId="0" pageNumber="201" phylum="? arthropoda" rank="order">Orthoptera</taxonomicName>
+tend to be more detectable later in the year than 
+<taxonomicName authorityName="Fabricius" authorityYear="1793" class="Hexapoda" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Odonata" pageId="0" pageNumber="201" phylum="Arthropoda" rank="order">Odonata</taxonomicName>
+and 
+<taxonomicName lsidName="" pageId="0" pageNumber="201" rank="subOrder" subOrder="Rhopalocera">Rhopalocera</taxonomicName>
+, the latter two groups having a larger spring/early summer species pool.
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+Running the algorithm for the 1983-2022 period (data not represented in Fig. 
+<figureCitation captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Optimal time windows to maximize potential species richness in entomological surveys for 3 taxa at 3 altitudinal levels assuming between 1 and 5 surveys each. The mean of the 2003 - 2022 period is represented with a white dot, the colored bars represent the standard deviation. A single survey aiming at maximizing the potential species richness of butterflies in the lowland (lower left sub-figure) would have to take place between weeks 26 and 30 of the year (first half of July). If two surveys are planned, then they should ideally take place on week 23 (early June + / - 1 week) and on week 28 (mid-July + / - 2 weeks)." figureDoi="10.3897/alpento.7.110958.figure1" httpUri="https://binary.pensoft.net/fig/928492" pageId="0" pageNumber="201">1</figureCitation>
+) yielded valuable insights into changes in the timing of the optimal survey windows between the two 20-year periods. On average, all groups showed an advance of the best time windows of 0.9 weeks. That is, the best time windows moved about one week early between the two time periods. More specifically, 
+<taxonomicName lsidName="" pageId="0" pageNumber="201" rank="subOrder" subOrder="Rhopalocera">Rhopalocera</taxonomicName>
+and 
+<taxonomicName class="Insecta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Orthoptera" pageId="0" pageNumber="201" phylum="? arthropoda" rank="order">Orthoptera</taxonomicName>
+showed a bigger advancement (1.1 week) than 
+<taxonomicName authorityName="Fabricius" authorityYear="1793" class="Hexapoda" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Odonata" pageId="0" pageNumber="201" phylum="Arthropoda" rank="order">Odonata</taxonomicName>
+(0.6 week). The advancement of the timing was also larger at the subalpine level (1.6 weeks) than at lower elevations (0.9 and 1.2 week for the lowland and mountain levels respectively). There was, however, no significant change in the standard deviations of the best time windows for any taxon or altitudinal level.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="201" type="discussion and conclusion">
+<paragraph pageId="0" pageNumber="201">Discussion and conclusion</paragraph>
+<paragraph pageId="0" pageNumber="201">
+Insect surveys represent technically and logistically challenging operations that can prove costly (
+<bibRefCitation DOI="https://doi.org/10.1111/j.1442-9993.2007.01715.x" author="Field, SA" journalOrPublisher="Austral Ecology" pageId="0" pageNumber="201" pagination="485 - 491" refId="B7" refString="Field, SA, O'Connor, PJ, Tyre, AJ, Possingham, HP, 2007. Making monitoring meaningful. Austral Ecology 32: 485 - 491, DOI: https://doi.org/10.1111/j.1442-9993.2007.01715.x" title="Making monitoring meaningful." url="https://doi.org/10.1111/j.1442-9993.2007.01715.x" volume="32" year="2007">Field et al. 2007</bibRefCitation>
+). In a world of limited financial resources, optimizing survey periods allows for a better balance of resources between monitoring investments and management actions, which constitute the final aim of most natural resources public policies (
+<bibRefCitation DOI="https://doi.org/10.1111/j.1442-9993.2007.01715.x" author="Field, SA" journalOrPublisher="Austral Ecology" pageId="0" pageNumber="201" pagination="485 - 491" refId="B7" refString="Field, SA, O'Connor, PJ, Tyre, AJ, Possingham, HP, 2007. Making monitoring meaningful. Austral Ecology 32: 485 - 491, DOI: https://doi.org/10.1111/j.1442-9993.2007.01715.x" title="Making monitoring meaningful." url="https://doi.org/10.1111/j.1442-9993.2007.01715.x" volume="32" year="2007">Field et al. 2007</bibRefCitation>
+). This approach requires that the goals and scope of the surveys be explicitly formulated (
+<bibRefCitation author="Anderson, DR" journalOrPublisher="Wildlife Society Bulletin" pageId="0" pageNumber="201" pagination="1294 - 1297" refId="B1" refString="Anderson, DR, 2001. The need to get the basics right in wildlife field studies. Wildlife Society Bulletin 29: 1294 - 1297" title="The need to get the basics right in wildlife field studies." volume="29" year="2001">Anderson 2001</bibRefCitation>
+). In our case, we postulated, as in many ongoing programs, that maximizing observed species richness was the objective. Maximizing species cumulative detection probabilities across multiple surveys increases the chance of obtaining relevant species community data, as well as identifying species/habitat relationships or detecting trends in occupancy (
+<bibRefCitation DOI="https://doi.org/10.1002/env.514" author="Pollock, KH" journalOrPublisher="Environmetrics" pageId="0" pageNumber="201" pagination="105 - 119" refId="B18" refString="Pollock, KH, Nichols, JD, Simons, TR, Farnsworth, GL, Bailey, LL, Sauer, JR, 2002. Large scale wildlife monitoring studies: statistical methods for design and analysis. Environmetrics 13: 105 - 119, DOI: https://doi.org/10.1002/env.514" title="Large scale wildlife monitoring studies: statistical methods for design and analysis." url="https://doi.org/10.1002/env.514" volume="13" year="2002">Pollock et al. 2002</bibRefCitation>
+; 
+<bibRefCitation DOI="https://doi.org/10.1111/j.1365-2664.2005.01098.x" author="MacKenzie, DI" journalOrPublisher="Journal of Applied Ecology" pageId="0" pageNumber="201" pagination="1105 - 1114" refId="B14" refString="MacKenzie, DI, Royle, JA, 2005. Designing occupancy studies: general advice and allocating survey effort. Journal of Applied Ecology 42: 1105 - 1114, DOI: https://doi.org/10.1111/j.1365-2664.2005.01098.x" title="Designing occupancy studies: general advice and allocating survey effort." url="https://doi.org/10.1111/j.1365-2664.2005.01098.x" volume="42" year="2005">MacKenzie and Royle 2005</bibRefCitation>
+; 
+<bibRefCitation DOI="https://doi.org/10.1111/een.12991" author="Mourguiart, B" journalOrPublisher="Ecological Entomology" pageId="0" pageNumber="201" pagination="163 - 174" refId="B15" refString="Mourguiart, B, Couturier, T, Braud, Y, Mansons, J, Combrisson, D, Besnard, A, 2020. Multi-species occupancy models: an effective and flexible framework for studies of insect communities. Ecological Entomology 46: 163 - 174, DOI: https://doi.org/10.1111/een.12991" title="Multi-species occupancy models: an effective and flexible framework for studies of insect communities." url="https://doi.org/10.1111/een.12991" volume="46" year="2020">Mourguiart et al. 2020</bibRefCitation>
+). This optimization approach focusing on both detection probability and estimates of occupancy has proven useful in other groups in the past (e.g. amphibians, 
+<bibRefCitation DOI="https://doi.org/10.1038/s41598-017-16534-8" author="Barata, IM" journalOrPublisher="Wildlife Society Bulletin" pageId="0" pageNumber="201" refId="B2" refString="Barata, IM, Griffiths, RA, Ridout, MS, 2017. The power of monitoring: optimizing survey designs to detect occupancy changes in a rare amphibian population. Nature Scientific Reports 7: 16491. https://doi.org/10.1038/s41598-017-16534-8" title="The power of monitoring: optimizing survey designs to detect occupancy changes in a rare amphibian population. Nature Scientific Reports 7: 16491." url="https://doi.org/10.1038/s41598-017-16534-8" year="2017">Barata et al. 2017</bibRefCitation>
+or mammals, 
+<bibRefCitation DOI="https://doi.org/10.1016/j.rama.2018.07.010" author="Baumgardt, JA" journalOrPublisher="Rangeland Ecology &amp; Management" pageId="0" pageNumber="201" pagination="168 - 181" refId="B3" refString="Baumgardt, JA, Morrison, ML, Brennan, LA, Pierce, BL, Campbell, TA, 2019. Development of multispecies, long-term monitoring programs for resource management. Rangeland Ecology &amp; Management 172: 168 - 181, DOI: https://doi.org/10.1016/j.rama.2018.07.010" title="Development of multispecies, long-term monitoring programs for resource management." url="https://doi.org/10.1016/j.rama.2018.07.010" volume="172" year="2019">Baumgardt et al. 2019</bibRefCitation>
+). In short, our approach potentially increases the return on investment for multiple species survey schemes.
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+By using a large 20-year-long dataset across multiple altitudinal levels, we closed the loop of active adaptive monitoring, where data collected in the past is used to improve future efforts (
+<bibRefCitation DOI="https://doi.org/10.1016/j.tree.2011.08.002" author="Lindenmayer, DB" journalOrPublisher="Trends in Ecology and Evolution" pageId="0" pageNumber="201" pagination="641 - 646" refId="B12" refString="Lindenmayer, DB, Likens, GE, Haywood, A, Miezis, L, 2011. Adaptive monitoring in the real world: proof of concept. Trends in Ecology and Evolution 26: 641 - 646, DOI: https://doi.org/10.1016/j.tree.2011.08.002" title="Adaptive monitoring in the real world: proof of concept." url="https://doi.org/10.1016/j.tree.2011.08.002" volume="26" year="2011">Lindenmayer et al. 2011</bibRefCitation>
+). This is especially important under climate changes that shift both habitat suitability and phenological periods of insects and other cold-blooded species (
+<bibRefCitation DOI="https://doi.org/10.1111/brv.12727" author="Vitasse, Y" journalOrPublisher="Biological Reviews" pageId="0" pageNumber="201" pagination="1816 - 1835" refId="B21" refString="Vitasse, Y, Ursenbacher, S, Klein, G, Bohnenstengel, T, Chittaro, Y, Delestrade, A, Monnerat, C, Rebetez, M, Rixen, C, Strebel, N, Schmidt, BR, Wipf, S, Wohlgemuth, T, Yoccoz, NG, Lenoir, J, 2021. Phenological and elevational shifts of plants, animals and fungi under climate change in the European Alps. Biological Reviews 96: 1816 - 1835, DOI: https://doi.org/10.1111/brv.12727" title="Phenological and elevational shifts of plants, animals and fungi under climate change in the European Alps." url="https://doi.org/10.1111/brv.12727" volume="96" year="2021">Vitasse et al. 2021</bibRefCitation>
+; 
+<bibRefCitation DOI="https://doi.org/10.1016/j.cois.2022.100897" author="Buckley, LB" journalOrPublisher="Biological Conservation" pageId="0" pageNumber="201" refId="B5" refString="Buckley, LB, 2022. Temperature-sensitive development shapes insect phenological responses to climate change. Current Opinion in Insect Science 52: 100897. https://doi.org/10.1016/j.cois.2022.100897" title="Temperature-sensitive development shapes insect phenological responses to climate change. Current Opinion in Insect Science 52: 100897." url="https://doi.org/10.1016/j.cois.2022.100897" year="2022">Buckley 2022</bibRefCitation>
+). As we have shown here, the overall phenological shift in 20 years is about 1 week. It is consequently a necessity to regularly adapt existing survey programs (
+<bibRefCitation DOI="https://doi.org/10.1073/pnas.2002543117" author="Halsch, CA" journalOrPublisher="Biological Reviews" pageId="0" pageNumber="201" refId="B10" refString="Halsch, CA, Shapiro, AM, Fordyce, JA, Nice, CC, Thorne, JH, Waetjen, DP, Forister, ML, 2021. Insects and recent climate change. PNAS 118(2): e2002543117. https://doi.org/10.1073/pnas.2002543117" title="Insects and recent climate change. PNAS 118 (2): e 2002543117." url="https://doi.org/10.1073/pnas.2002543117" year="2021">Halsch et al. 2021</bibRefCitation>
+; 
+<bibRefCitation DOI="https://doi.org/10.1111/brv.12746" author="Hill, GM" journalOrPublisher="Biological Reviews" pageId="0" pageNumber="201" pagination="2113 - 2126" refId="B9" refString="Hill, GM, Kawahara, AY, Daniels, JC, Bateman, CC, Scheffers, BR, 2021. Climate change effects on animal ecology: butterflies and moths as a case study. Biological Reviews 96: 2113 - 2126, DOI: https://doi.org/10.1111/brv.12746" title="Climate change effects on animal ecology: butterflies and moths as a case study." url="https://doi.org/10.1111/brv.12746" volume="96" year="2021">Hill et al. 2021</bibRefCitation>
+). Further optimization could consider not only changes in emergence timing but also changes in voltinism or shifts in altitudinal ranges.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="201" type="acknowledgements">
+<paragraph pageId="0" pageNumber="201">Acknowledgments</paragraph>
+<paragraph pageId="0" pageNumber="201">
+Gerard Maze and Marine Bugnon provided help with the construction of the model and its implementation in both Python (parsing and optimization algorithms) and R (summary statistics and figure production). DO! 
+<normalizedToken originalValue="L’agence">L'agence</normalizedToken>
+prepared the pictograms of Fig. 
+<figureCitation captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Optimal time windows to maximize potential species richness in entomological surveys for 3 taxa at 3 altitudinal levels assuming between 1 and 5 surveys each. The mean of the 2003 - 2022 period is represented with a white dot, the colored bars represent the standard deviation. A single survey aiming at maximizing the potential species richness of butterflies in the lowland (lower left sub-figure) would have to take place between weeks 26 and 30 of the year (first half of July). If two surveys are planned, then they should ideally take place on week 23 (early June + / - 1 week) and on week 28 (mid-July + / - 2 weeks)." figureDoi="10.3897/alpento.7.110958.figure1" httpUri="https://binary.pensoft.net/fig/928492" pageId="0" pageNumber="201">1</figureCitation>
+. Yves Gonseth, Benedikt Schmidt, and Christian Monnerat provided feedback during the initial stages of this project.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="201" type="reference_group">
+<paragraph pageId="0" pageNumber="201">References</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef author="Anderson, DR" journalOrPublisher="Wildlife Society Bulletin" pageId="0" pageNumber="201" pagination="1294 - 1297" refId="B1" title="The need to get the basics right in wildlife field studies." volume="29" year="2001">
+<author pageId="0" pageNumber="201">Anderson, DR</author>
+, 
+<year pageId="0" pageNumber="201">2001</year>
+. 
+<title pageId="0" pageNumber="201">The need to get the basics right in wildlife field studies.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Wildlife Society Bulletin</journalOrPublisher>
+<volume pageId="0" pageNumber="201">29</volume>
+: 
+<pagination pageId="0" pageNumber="201">1294 - 1297</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1038/s41598-017-16534-8" author="Barata, IM" journalOrPublisher="Wildlife Society Bulletin" pageId="0" pageNumber="201" refId="B2" title="The power of monitoring: optimizing survey designs to detect occupancy changes in a rare amphibian population. Nature Scientific Reports 7: 16491." url="https://doi.org/10.1038/s41598-017-16534-8" year="2017">
+<author pageId="0" pageNumber="201">Barata, IM</author>
+, 
+<author pageId="0" pageNumber="201">Griffiths, RA</author>
+, 
+<author pageId="0" pageNumber="201">Ridout, MS</author>
+, 
+<year pageId="0" pageNumber="201">2017</year>
+. 
+<title pageId="0" pageNumber="201">The power of monitoring: optimizing survey designs to detect occupancy changes in a rare amphibian population. Nature Scientific Reports 7: 16491.</title>
+<publicationUrl pageId="0" pageNumber="201">https://doi.org/10.1038/s41598-017-16534-8</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1016/j.rama.2018.07.010" author="Baumgardt, JA" journalOrPublisher="Rangeland Ecology &amp; Management" pageId="0" pageNumber="201" pagination="168 - 181" refId="B3" title="Development of multispecies, long-term monitoring programs for resource management." url="https://doi.org/10.1016/j.rama.2018.07.010" volume="172" year="2019">
+<author pageId="0" pageNumber="201">Baumgardt, JA</author>
+, 
+<author pageId="0" pageNumber="201">Morrison, ML</author>
+, 
+<author pageId="0" pageNumber="201">Brennan, LA</author>
+, 
+<author pageId="0" pageNumber="201">Pierce, BL</author>
+, 
+<author pageId="0" pageNumber="201">Campbell, TA</author>
+, 
+<year pageId="0" pageNumber="201">2019</year>
+. 
+<title pageId="0" pageNumber="201">Development of multispecies, long-term monitoring programs for resource management.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Rangeland Ecology &amp; Management</journalOrPublisher>
+<volume pageId="0" pageNumber="201">172</volume>
+: 
+<pagination pageId="0" pageNumber="201">168 - 181</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1016/j.rama.2018.07.010</DOI>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1016/j.biocon.2017.07.034" author="Buckland, ST" journalOrPublisher="Biological Conservation" pageId="0" pageNumber="201" pagination="23 - 34" refId="B4" title="Monitoring the biodiversity of regions: Key principles and possible pitfalls." url="https://doi.org/10.1016/j.biocon.2017.07.034" volume="214" year="2017">
+<author pageId="0" pageNumber="201">Buckland, ST</author>
+, 
+<author pageId="0" pageNumber="201">Johnston, A</author>
+, 
+<year pageId="0" pageNumber="201">2017</year>
+. 
+<title pageId="0" pageNumber="201">Monitoring the biodiversity of regions: Key principles and possible pitfalls.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Biological Conservation</journalOrPublisher>
+<volume pageId="0" pageNumber="201">214</volume>
+: 
+<pagination pageId="0" pageNumber="201">23 - 34</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1016/j.biocon.2017.07.034</DOI>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1016/j.cois.2022.100897" author="Buckley, LB" journalOrPublisher="Biological Conservation" pageId="0" pageNumber="201" refId="B5" title="Temperature-sensitive development shapes insect phenological responses to climate change. Current Opinion in Insect Science 52: 100897." url="https://doi.org/10.1016/j.cois.2022.100897" year="2022">
+<author pageId="0" pageNumber="201">Buckley, LB</author>
+, 
+<year pageId="0" pageNumber="201">2022</year>
+. 
+<title pageId="0" pageNumber="201">Temperature-sensitive development shapes insect phenological responses to climate change. Current Opinion in Insect Science 52: 100897.</title>
+<publicationUrl pageId="0" pageNumber="201">https://doi.org/10.1016/j.cois.2022.100897</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.3389/fenvs.2023.1146052" author="Chowdhury, S" journalOrPublisher="Biological Conservation" pageId="0" pageNumber="201" refId="B6" title="Insects as bioindicators: A hidden gem for environmental monitoring. Frontiers in Environmental Science 11: 1146052." url="https://doi.org/10.3389/fenvs.2023.1146052" year="2023">
+<author pageId="0" pageNumber="201">Chowdhury, S</author>
+, 
+<author pageId="0" pageNumber="201">Dubey, VK</author>
+, 
+<author pageId="0" pageNumber="201">Choudhury, S</author>
+, 
+<author pageId="0" pageNumber="201">Das, A</author>
+, 
+<author pageId="0" pageNumber="201">Jeengar, D</author>
+, 
+<author pageId="0" pageNumber="201">Sujatha, B</author>
+, 
+<author pageId="0" pageNumber="201">Kumar, A</author>
+, 
+<author pageId="0" pageNumber="201">Kumar, N</author>
+, 
+<author pageId="0" pageNumber="201">Semwal, A</author>
+, 
+<author pageId="0" pageNumber="201">Kumar, V</author>
+, 
+<year pageId="0" pageNumber="201">2023</year>
+. 
+<title pageId="0" pageNumber="201">Insects as bioindicators: A hidden gem for environmental monitoring. Frontiers in Environmental Science 11: 1146052.</title>
+<publicationUrl pageId="0" pageNumber="201">https://doi.org/10.3389/fenvs.2023.1146052</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1111/j.1442-9993.2007.01715.x" author="Field, SA" journalOrPublisher="Austral Ecology" pageId="0" pageNumber="201" pagination="485 - 491" refId="B7" title="Making monitoring meaningful." url="https://doi.org/10.1111/j.1442-9993.2007.01715.x" volume="32" year="2007">
+<author pageId="0" pageNumber="201">Field, SA</author>
+, 
+<author pageId="0" pageNumber="201">
+<normalizedToken originalValue="O’Connor">O'Connor</normalizedToken>
+, PJ
+</author>
+, 
+<author pageId="0" pageNumber="201">Tyre, AJ</author>
+, 
+<author pageId="0" pageNumber="201">Possingham, HP</author>
+, 
+<year pageId="0" pageNumber="201">2007</year>
+. 
+<title pageId="0" pageNumber="201">Making monitoring meaningful.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Austral Ecology</journalOrPublisher>
+<volume pageId="0" pageNumber="201">32</volume>
+: 
+<pagination pageId="0" pageNumber="201">485 - 491</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1111/j.1442-9993.2007.01715.x</DOI>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.2193/0022-541X(2005)069[0473:OAOMEU]2.0.CO;2" author="Field, SA" journalOrPublisher="Austral Ecology" pageId="0" pageNumber="201" refId="B8" title="Optimizing allocation of monitoring effort under economic and observational constraints. Journal of Wildlife Management 69: 473 - 582." url="https://doi.org/10.2193/0022-541X(2005)069[0473:OAOMEU]2.0.CO;2" year="2005">
+<author pageId="0" pageNumber="201">Field, SA</author>
+, 
+<author pageId="0" pageNumber="201">Tyre, AJ</author>
+, 
+<author pageId="0" pageNumber="201">Possingham, HP</author>
+, 
+<year pageId="0" pageNumber="201">2005</year>
+. 
+<title pageId="0" pageNumber="201">Optimizing allocation of monitoring effort under economic and observational constraints. Journal of Wildlife Management 69: 473-582.</title>
+<publicationUrl pageId="0" pageNumber="201">https://doi.org/10.2193/0022-541X(2005)069[0473:OAOMEU]2.0.CO;2</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1111/brv.12746" author="Hill, GM" journalOrPublisher="Biological Reviews" pageId="0" pageNumber="201" pagination="2113 - 2126" refId="B9" title="Climate change effects on animal ecology: butterflies and moths as a case study." url="https://doi.org/10.1111/brv.12746" volume="96" year="2021">
+<author pageId="0" pageNumber="201">Hill, GM</author>
+, 
+<author pageId="0" pageNumber="201">Kawahara, AY</author>
+, 
+<author pageId="0" pageNumber="201">Daniels, JC</author>
+, 
+<author pageId="0" pageNumber="201">Bateman, CC</author>
+, 
+<author pageId="0" pageNumber="201">Scheffers, BR</author>
+, 
+<year pageId="0" pageNumber="201">2021</year>
+. 
+<title pageId="0" pageNumber="201">Climate change effects on animal ecology: butterflies and moths as a case study.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Biological Reviews</journalOrPublisher>
+<volume pageId="0" pageNumber="201">96</volume>
+: 
+<pagination pageId="0" pageNumber="201">2113 - 2126</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1111/brv.12746</DOI>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1073/pnas.2002543117" author="Halsch, CA" journalOrPublisher="Biological Reviews" pageId="0" pageNumber="201" refId="B10" title="Insects and recent climate change. PNAS 118 (2): e 2002543117." url="https://doi.org/10.1073/pnas.2002543117" year="2021">
+<author pageId="0" pageNumber="201">Halsch, CA</author>
+, 
+<author pageId="0" pageNumber="201">Shapiro, AM</author>
+, 
+<author pageId="0" pageNumber="201">Fordyce, JA</author>
+, 
+<author pageId="0" pageNumber="201">Nice, CC</author>
+, 
+<author pageId="0" pageNumber="201">Thorne, JH</author>
+, 
+<author pageId="0" pageNumber="201">Waetjen, DP</author>
+, 
+<author pageId="0" pageNumber="201">Forister, ML</author>
+, 
+<year pageId="0" pageNumber="201">2021</year>
+. 
+<title pageId="0" pageNumber="201">Insects and recent climate change. PNAS 118(2): e2002543117.</title>
+<publicationUrl pageId="0" pageNumber="201">https://doi.org/10.1073/pnas.2002543117</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1016/j.biocon.2010.02.013" author="Lindenmayer, DB" journalOrPublisher="Biological Conservation" pageId="0" pageNumber="201" pagination="1317 - 1328" refId="B11" title="The science and application of ecological monitoring." url="https://doi.org/10.1016/j.biocon.2010.02.013" volume="143" year="2010">
+<author pageId="0" pageNumber="201">Lindenmayer, DB</author>
+, 
+<author pageId="0" pageNumber="201">Likens, GE</author>
+, 
+<year pageId="0" pageNumber="201">2010</year>
+. 
+<title pageId="0" pageNumber="201">The science and application of ecological monitoring.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Biological Conservation</journalOrPublisher>
+<volume pageId="0" pageNumber="201">143</volume>
+: 
+<pagination pageId="0" pageNumber="201">1317 - 1328</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1016/j.biocon.2010.02.013</DOI>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1016/j.tree.2011.08.002" author="Lindenmayer, DB" journalOrPublisher="Trends in Ecology and Evolution" pageId="0" pageNumber="201" pagination="641 - 646" refId="B12" title="Adaptive monitoring in the real world: proof of concept." url="https://doi.org/10.1016/j.tree.2011.08.002" volume="26" year="2011">
+<author pageId="0" pageNumber="201">Lindenmayer, DB</author>
+, 
+<author pageId="0" pageNumber="201">Likens, GE</author>
+, 
+<author pageId="0" pageNumber="201">Haywood, A</author>
+, 
+<author pageId="0" pageNumber="201">Miezis, L</author>
+, 
+<year pageId="0" pageNumber="201">2011</year>
+. 
+<title pageId="0" pageNumber="201">Adaptive monitoring in the real world: proof of concept.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Trends in Ecology and Evolution</journalOrPublisher>
+<volume pageId="0" pageNumber="201">26</volume>
+: 
+<pagination pageId="0" pageNumber="201">641 - 646</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1016/j.tree.2011.08.002</DOI>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1111/j.1469-185X.1997.tb00029.x" author="McGeogh, MA" journalOrPublisher="Biological Reviews" pageId="0" pageNumber="201" pagination="181 - 201" refId="B13" title="The selection, testing, and application of terrestrial insects as bioindicators." url="https://doi.org/10.1111/j.1469-185X.1997.tb00029.x" volume="73" year="1998">
+<author pageId="0" pageNumber="201">McGeogh, MA</author>
+, 
+<year pageId="0" pageNumber="201">1998</year>
+. 
+<title pageId="0" pageNumber="201">The selection, testing, and application of terrestrial insects as bioindicators.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Biological Reviews</journalOrPublisher>
+<volume pageId="0" pageNumber="201">73</volume>
+: 
+<pagination pageId="0" pageNumber="201">181 - 201</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1111/j.1469-185X.1997.tb00029.x</DOI>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1111/j.1365-2664.2005.01098.x" author="MacKenzie, DI" journalOrPublisher="Journal of Applied Ecology" pageId="0" pageNumber="201" pagination="1105 - 1114" refId="B14" title="Designing occupancy studies: general advice and allocating survey effort." url="https://doi.org/10.1111/j.1365-2664.2005.01098.x" volume="42" year="2005">
+<author pageId="0" pageNumber="201">MacKenzie, DI</author>
+, 
+<author pageId="0" pageNumber="201">Royle, JA</author>
+, 
+<year pageId="0" pageNumber="201">2005</year>
+. 
+<title pageId="0" pageNumber="201">Designing occupancy studies: general advice and allocating survey effort.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Journal of Applied Ecology</journalOrPublisher>
+<volume pageId="0" pageNumber="201">42</volume>
+: 
+<pagination pageId="0" pageNumber="201">1105 - 1114</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1111/j.1365-2664.2005.01098.x</DOI>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1111/een.12991" author="Mourguiart, B" journalOrPublisher="Ecological Entomology" pageId="0" pageNumber="201" pagination="163 - 174" refId="B15" title="Multi-species occupancy models: an effective and flexible framework for studies of insect communities." url="https://doi.org/10.1111/een.12991" volume="46" year="2020">
+<author pageId="0" pageNumber="201">Mourguiart, B</author>
+, 
+<author pageId="0" pageNumber="201">Couturier, T</author>
+, 
+<author pageId="0" pageNumber="201">Braud, Y</author>
+, 
+<author pageId="0" pageNumber="201">Mansons, J</author>
+, 
+<author pageId="0" pageNumber="201">Combrisson, D</author>
+, 
+<author pageId="0" pageNumber="201">Besnard, A</author>
+, 
+<year pageId="0" pageNumber="201">2020</year>
+. 
+<title pageId="0" pageNumber="201">Multi-species occupancy models: an effective and flexible framework for studies of insect communities.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Ecological Entomology</journalOrPublisher>
+<volume pageId="0" pageNumber="201">46</volume>
+: 
+<pagination pageId="0" pageNumber="201">163 - 174</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1111/een.12991</DOI>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1007/s10841-007-9075-8" author="Pellet, J" journalOrPublisher="Journal of Insect Conservation" pageId="0" pageNumber="201" pagination="155 - 162" refId="B16" title="Seasonal variation of butterflies' detectability in Pollard walks." url="https://doi.org/10.1007/s10841-007-9075-8" volume="12" year="2008">
+<author pageId="0" pageNumber="201">Pellet, J</author>
+, 
+<year pageId="0" pageNumber="201">2008</year>
+. 
+<title pageId="0" pageNumber="201">
+Seasonal variation of 
+<normalizedToken originalValue="butterflies’">butterflies'</normalizedToken>
+detectability in Pollard walks.
+</title>
+<journalOrPublisher pageId="0" pageNumber="201">Journal of Insect Conservation</journalOrPublisher>
+<volume pageId="0" pageNumber="201">12</volume>
+: 
+<pagination pageId="0" pageNumber="201">155 - 162</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1007/s10841-007-9075-8</DOI>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef author="Pellet, J" journalOrPublisher="Journal of Insect Conservation" pageId="0" pageNumber="201" publicationUrl="https://www.perplexity.ai" refId="B17" url="https://www.perplexity.ai" year="2023">
+<year pageId="0" pageNumber="201">2023</year>
+.. 
+<publicationUrl pageId="0" pageNumber="201">https://www.perplexity.ai</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1002/env.514" author="Pollock, KH" journalOrPublisher="Environmetrics" pageId="0" pageNumber="201" pagination="105 - 119" refId="B18" title="Large scale wildlife monitoring studies: statistical methods for design and analysis." url="https://doi.org/10.1002/env.514" volume="13" year="2002">
+<author pageId="0" pageNumber="201">Pollock, KH</author>
+, 
+<author pageId="0" pageNumber="201">Nichols, JD</author>
+, 
+<author pageId="0" pageNumber="201">Simons, TR</author>
+, 
+<author pageId="0" pageNumber="201">Farnsworth, GL</author>
+, 
+<author pageId="0" pageNumber="201">Bailey, LL</author>
+, 
+<author pageId="0" pageNumber="201">Sauer, JR</author>
+, 
+<year pageId="0" pageNumber="201">2002</year>
+. 
+<title pageId="0" pageNumber="201">Large scale wildlife monitoring studies: statistical methods for design and analysis.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Environmetrics</journalOrPublisher>
+<volume pageId="0" pageNumber="201">13</volume>
+: 
+<pagination pageId="0" pageNumber="201">105 - 119</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1002/env.514</DOI>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef author="Possingham, HP" editor="Lindenmayer, DB" journalOrPublisher="CSIRO, Collingwood" pageId="0" pageNumber="201" pagination="49 - 62" refId="B19" title="The conservation return on investment from ecological monitoring." volumeTitle="Biodiversity monitoring in Australia." year="2012">
+<author pageId="0" pageNumber="201">Possingham, HP</author>
+, 
+<author pageId="0" pageNumber="201">Wintle, BA</author>
+, 
+<author pageId="0" pageNumber="201">Fuller, RA</author>
+, 
+<author pageId="0" pageNumber="201">Joseph, LN</author>
+, 
+<year pageId="0" pageNumber="201">2012</year>
+. 
+<title pageId="0" pageNumber="201">The conservation return on investment from ecological monitoring.</title>
+In: 
+<editor pageId="0" pageNumber="201">Lindenmayer, DB</editor>
+, 
+<editor pageId="0" pageNumber="201">Gibbons, P</editor>
+, Eds., 
+<volumeTitle pageId="0" pageNumber="201">Biodiversity monitoring in Australia.</volumeTitle>
+<journalOrPublisher pageId="0" pageNumber="201">CSIRO, Collingwood</journalOrPublisher>
+: 
+<pagination pageId="0" pageNumber="201">49 - 62</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1098/rstb.2004.1585" author="Thomas, JA" journalOrPublisher="Proceedings of the Royal Society B, Biological Sciences" pageId="0" pageNumber="201" pagination="339 - 357" refId="B20" title="Monitoring change in the abundance and distribution of insects using butterflies and other indicator groups." url="https://doi.org/10.1098/rstb.2004.1585" volume="360" year="2005">
+<author pageId="0" pageNumber="201">Thomas, JA</author>
+, 
+<year pageId="0" pageNumber="201">2005</year>
+. 
+<title pageId="0" pageNumber="201">Monitoring change in the abundance and distribution of insects using butterflies and other indicator groups.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Proceedings of the Royal Society B, Biological Sciences</journalOrPublisher>
+<volume pageId="0" pageNumber="201">360</volume>
+: 
+<pagination pageId="0" pageNumber="201">339 - 357</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1098/rstb.2004.1585</DOI>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1111/brv.12727" author="Vitasse, Y" journalOrPublisher="Biological Reviews" pageId="0" pageNumber="201" pagination="1816 - 1835" refId="B21" title="Phenological and elevational shifts of plants, animals and fungi under climate change in the European Alps." url="https://doi.org/10.1111/brv.12727" volume="96" year="2021">
+<author pageId="0" pageNumber="201">Vitasse, Y</author>
+, 
+<author pageId="0" pageNumber="201">Ursenbacher, S</author>
+, 
+<author pageId="0" pageNumber="201">Klein, G</author>
+, 
+<author pageId="0" pageNumber="201">Bohnenstengel, T</author>
+, 
+<author pageId="0" pageNumber="201">Chittaro, Y</author>
+, 
+<author pageId="0" pageNumber="201">Delestrade, A</author>
+, 
+<author pageId="0" pageNumber="201">Monnerat, C</author>
+, 
+<author pageId="0" pageNumber="201">Rebetez, M</author>
+, 
+<author pageId="0" pageNumber="201">Rixen, C</author>
+, 
+<author pageId="0" pageNumber="201">Strebel, N</author>
+, 
+<author pageId="0" pageNumber="201">Schmidt, BR</author>
+, 
+<author pageId="0" pageNumber="201">Wipf, S</author>
+, 
+<author pageId="0" pageNumber="201">Wohlgemuth, T</author>
+, 
+<author pageId="0" pageNumber="201">Yoccoz, NG</author>
+, 
+<author pageId="0" pageNumber="201">Lenoir, J</author>
+, 
+<year pageId="0" pageNumber="201">2021</year>
+. 
+<title pageId="0" pageNumber="201">Phenological and elevational shifts of plants, animals and fungi under climate change in the European Alps.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Biological Reviews</journalOrPublisher>
+<volume pageId="0" pageNumber="201">96</volume>
+: 
+<pagination pageId="0" pageNumber="201">1816 - 1835</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1111/brv.12727</DOI>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="201">
+<bibRef DOI="https://doi.org/10.1016/S0169-5347(01)02205-4" author="Yoccoz, NG" journalOrPublisher="Trends in Ecology &amp; Evolution" pageId="0" pageNumber="201" pagination="446 - 453" refId="B22" title="Monitoring of biological diversity in space and time." url="https://doi.org/10.1016/S0169-5347(01)02205-4" volume="16" year="2001">
+<author pageId="0" pageNumber="201">Yoccoz, NG</author>
+, 
+<author pageId="0" pageNumber="201">Nichols, JD</author>
+, 
+<author pageId="0" pageNumber="201">Boulinier, T</author>
+, 
+<year pageId="0" pageNumber="201">2001</year>
+. 
+<title pageId="0" pageNumber="201">Monitoring of biological diversity in space and time.</title>
+<journalOrPublisher pageId="0" pageNumber="201">Trends in Ecology &amp; Evolution</journalOrPublisher>
+<volume pageId="0" pageNumber="201">16</volume>
+: 
+<pagination pageId="0" pageNumber="201">446 - 453</pagination>
+, DOI: 
+<DOI pageId="0" pageNumber="201">https://doi.org/10.1016/S0169-5347(01)02205-4</DOI>
+</bibRef>
+</paragraph>
+</subSection>
+</document>

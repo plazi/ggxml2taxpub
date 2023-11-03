@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?><document ID-DOI="http://dx.doi.org/10.3897/oneeco.6.e67320" ID-Pensoft-Pub="2367-8194-6-e67320" ID-Pensoft-UUID="017D2044B0EF571BBE4E44C2386BEAB1" ModsDocID="2367-8194-6-e67320" checkinTime="1641862659085" checkinUser="pensoft" docAuthor="Grace, James Benjamin &amp; Steiner, Magdalena" docDate="2021" docId="017D2044B0EF571BBE4E44C2386BEAB1" docName="OneEcosystem 6: e67320" docOrigin="One Ecosystem 6" docPubDate="2021-07-08" docSource="https://oneecosystem.pensoft.net/article/67320/download/xml/" docTitle="A protocol for modelling generalised biological responses using latent variables in structural equation models" docVersion="2" id="017D2044B0EF571BBE4E44C2386BEAB1" pageNumber="67320" updateTime="1641862960026" updateUser="ExternalLinkService">
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo>
+<mods:title>A protocol for modelling generalised biological responses using latent variables in structural equation models</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Grace, James Benjamin</mods:namePart>
+<mods:nameIdentifier type="email">gracej@usgs.gov</mods:nameIdentifier>
+<mods:nameIdentifier type="ORCID">https://orcid.org/0000-0001-6374-4726</mods:nameIdentifier>
+<mods:affiliation>U.S. Geological Survey, Lafayette, United States of America</mods:affiliation>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Steiner, Magdalena</mods:namePart>
+<mods:affiliation>University of Fribourg, Fribourg, Switzerland</mods:affiliation>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>One Ecosystem</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>6</mods:number>
+</mods:detail>
+<mods:detail type="pubDate">
+<mods:number>2021-07-08</mods:number>
+</mods:detail>
+<mods:date>2021</mods:date>
+<mods:extent unit="page">
+<mods:start>67320</mods:start>
+<mods:end>67320</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://dx.doi.org/10.3897/oneeco.6.e67320</mods:url>
+</mods:location>
+<mods:identifier type="DOI">http://dx.doi.org/10.3897/oneeco.6.e67320</mods:identifier>
+<mods:identifier type="Pensoft-Pub">2367-8194-6-e67320</mods:identifier>
+<mods:identifier type="Pensoft-UUID">017D2044B0EF571BBE4E44C2386BEAB1</mods:identifier>
+<mods:classification>journal article</mods:classification>
+</mods:mods>
+<subSection pageId="0" pageNumber="67320" type="introduction">
+<paragraph pageId="0" pageNumber="67320">
+<pageBreakToken origin="extrapolated" pageId="0" pageNumber="67320" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+The quest for generalisation in the ecological sciences is a fundamental challenge. One way that a general reaction by a system or organism can be detected is if there is a multivariate response where numerous individual properties change in concerted fashion. While such concerted reactions are often described using standard multivariate statistical analyses, causal investigations of the nature of integrated multivariate responses fall primarily into the purview of latent variable structural equation modelling (LVSEM, 
+<bibRefCitation author="Joreskog, K. G." journalOrPublisher="Biometrika" pageId="0" pageNumber="67320" pagination="239 - 251" refId="B6852906" refString="Joreskog, K. G., 1970. A general method for analysis of covariance structures. Biometrika 57: 239 - 251" title="A general method for analysis of covariance structures" volume="57" year="1970">Joreskog 1970</bibRefCitation>
+, 
+<bibRefCitation author="Bollen, K. A." journalOrPublisher="John Wiley &amp; Sons, New York" pageId="0" pageNumber="67320" refId="B6852835" refString="Bollen, K. A., 1989. Structural equations with latent variables. John Wiley &amp; Sons, New York" title="Structural equations with latent variables" year="1989">Bollen 1989</bibRefCitation>
+). LVSEM represents a foundational method in quantitative training in the fields of psychology and sociology, while other fields, including ecology, have historically focused on observed variable models (e.g. OVSEM, aka path analysis). While there has been an increased use of LVs in ecological models in the past 20 years (e.g. 
+<bibRefCitation author="Arhonditsis, G. B." journalOrPublisher="Ecological Modelling" pageId="0" pageNumber="67320" pagination="385 - 409" refId="B6852823" refString="Arhonditsis, G. B., Stow, C. A., Steinberg, L. J., Kenney, M. A., Lathrop, R. C., McBride, S. J., Reckhow, K. H., 2006. Exploring ecological patterns with structural equation modeling and Bayesian analysis. Ecological Modelling 192: 385 - 409" title="Exploring ecological patterns with structural equation modeling and Bayesian analysis" volume="192" year="2006">Arhonditsis et al. 2006</bibRefCitation>
+, 
+<bibRefCitation author="Shipley, B." journalOrPublisher="Ecology" pageId="0" pageNumber="67320" pagination="535 - 541" refId="B6852972" refString="Shipley, B., Lechowicz, M. J., Wright, I., Reich, P. B., 2006. Fundamental tradeoffs generating the worldwide leaf economics spectrum. Ecology 87: 535 - 541" title="Fundamental tradeoffs generating the worldwide leaf economics spectrum" volume="87" year="2006">Shipley et al. 2006</bibRefCitation>
+, 
+<bibRefCitation author="Cubaynes, S." journalOrPublisher="Ecology" pageId="0" pageNumber="67320" pagination="248 - 255" refId="B6852843" refString="Cubaynes, S., Doutrelant, C., Grgoire, A., Perret, P., Faivre, B., Gimenez, O., 2012. Testing hypotheses in evolutionary ecology with imperfect detection: capture-recapture structural equation modeling. Ecology 93: 248 - 255" title="Testing hypotheses in evolutionary ecology with imperfect detection: capture-recapture structural equation modeling" volume="93" year="2012">Cubaynes et al. 2012</bibRefCitation>
+, 
+<bibRefCitation author="Liu, X." journalOrPublisher="Ecology" pageId="0" pageNumber="67320" pagination="2396 - 2405" refId="B6852915" refString="Liu, X., Swenson, N. G., Lin, D., Mi, X., Umana, M. N., Schmid, B., Ma, K., 2016. Linking individual level functional traits to tree growth in a subtropical forest. Ecology 97: 2396 - 2405" title="Linking individual level functional traits to tree growth in a subtropical forest" volume="97" year="2016">Liu et al. 2016</bibRefCitation>
+, 
+<bibRefCitation author="Souchay, G." journalOrPublisher="Oikos" pageId="0" pageNumber="67320" pagination="125 - 133" refId="B6852981" refString="Souchay, G., Wijk, R. E., Schaub, M., Bauer, S., 2018. Identifying drivers of breeding success in a long distance migrant using structural equation modelling. Oikos 127: 125 - 133" title="Identifying drivers of breeding success in a long distance migrant using structural equation modelling" volume="127" year="2018">Souchay et al. 2018</bibRefCitation>
+), only a few descriptions of the methods have emerged (
+<bibRefCitation author="Pugesek, B. H" journalOrPublisher="Cambridge University Press" pageId="0" pageNumber="67320" refId="B6852936" refString="Pugesek, B. H, Tomer, A., von Eye, A., 2003. Structural Equation Modeling: Applications in Ecological and Evolutionary Biology. Cambridge University Press" title="Structural Equation Modeling: Applications in Ecological and Evolutionary Biology" year="2003">Pugesek et al. 2003</bibRefCitation>
+, 
+<bibRefCitation author="Grace, J. B." journalOrPublisher="Cambridge University Press" pageId="0" pageNumber="67320" refId="B6852862" refString="Grace, J. B., 2006. Structural equation modeling and natural systems. Cambridge University Press" title="Structural equation modeling and natural systems" year="2006">Grace 2006</bibRefCitation>
+, 
+<bibRefCitation author="Shipley, B." journalOrPublisher="Cambridge University Press" pageId="0" pageNumber="67320" refId="B6852964" refString="Shipley, B., 2016. Cause and correlation in biology. Cambridge University Press" title="Cause and correlation in biology" year="2016">Shipley 2016</bibRefCitation>
+). More importantly, the depth of coverage of the subject in ecological treatments is much less than in social science treatments, leaving untapped the full potential for LVSEM to advance ecological understanding. In this paper, we present a protocol designed to guide ecological researchers through the evaluation of hypotheses about generalised responses using LVSEM.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Fig. 
+<figureCitation captionStart="Figure 1" captionStartId="F6852006" captionText="Figure 1. Structural equation meta-model representing the general modelling goal. Note that a meta-model is a generalisation that defines a finite set of possible fully-specified models. Dotted outlines are used to convey that the entities represented are general concepts rather than specific variables." httpUri="https://binary.pensoft.net/fig/525913" pageId="0" pageNumber="67320">1</figureCitation>
+provides a high-level perspective of the problem of interest in this paper. The particular form of representation here is referred to as a Structural Equation Meta-Model (SEMM), which represents the conceptual entities of interest in the study and the hypothesised causal connections amongst them (
+<bibRefCitation author="Grace, J. B." journalOrPublisher="Ecological Monographs" pageId="0" pageNumber="67320" pagination="67 - 87" refId="B6852897" refString="Grace, J. B., Anderson, T. M., Olff, H., Scheiner, S. M., 2010. On the specification of structural equation models for ecological systems. Ecological Monographs 80: 67 - 87" title="On the specification of structural equation models for ecological systems" volume="80" year="2010">Grace et al. 2010</bibRefCitation>
+). SEMMs are meant to solve a ubiquitous problem in statistical modelling, which is that our theories exist at a general level, while our fully-specified statistical models are highly specific. SEMMs are meant to facilitate an explicit linkage between our theoretical ideas and our specific findings. Typically, this step in the science process is implicit and, thus, the question of how our results generalise goes undescribed (and presumably only lightly considered).
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+The hypothesis represented in Fig. 
+<figureCitation captionStart="Figure 1" captionStartId="F6852006" captionText="Figure 1. Structural equation meta-model representing the general modelling goal. Note that a meta-model is a generalisation that defines a finite set of possible fully-specified models. Dotted outlines are used to convey that the entities represented are general concepts rather than specific variables." httpUri="https://binary.pensoft.net/fig/525913" pageId="0" pageNumber="67320">1</figureCitation>
+is very general. It simply posits that the response of a system to perturbation can be understood through an evaluation of the mediating mechanisms. In this paper, a primary emphasis is on the nature of the response. We are especially interested in the degree to which the subjects of study exhibit a tightly integrated suite of changes. Several theoretical possibilities exist. In highly integrated responses, multivariate reactions will manifest strong and consistent correlations amongst measured indicator variables. At the other extreme, non-integrated responses will manifest reactions, such that each measured property acts independently from the others. Between those extremes are cases where there are mixtures of general and individual responses. All of these details are of interest if we are to develop an understanding of the study system and if we wish to properly represent hypotheses that can explain the observed data. That said, a substantial degree of intercorrelation amongst measured indicator variables is required if general responses are expected to conform to the requirements for latent variables. LVSEM allows us to empirically test hypotheses about the latent responses so as to arrive at a model with both theoretical and empirical support.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Fig. 
+<figureCitation captionStart="Figure 2" captionStartId="F6852010" captionText="Figure 2. Structural equation model representing the hypothesis that observed intercorrelations amongst response indicator variables (1 - 4) can be explained by a common cause, the generalised response. In contrast to Fig. 1, here we are dealing with specific variables, not concepts and solid outlines are used to represent that difference. Ellipses or circles are characteristically used to denote latent variables and rectangles used to denote observed variables (Grace 2006, Chapter 4)." httpUri="https://binary.pensoft.net/fig/525737" pageId="0" pageNumber="67320">2</figureCitation>
+illustrates the LVSEM approach to representing a general multivariate response. Conceptually, Fig. 
+<figureCitation captionStart="Figure 2" captionStartId="F6852010" captionText="Figure 2. Structural equation model representing the hypothesis that observed intercorrelations amongst response indicator variables (1 - 4) can be explained by a common cause, the generalised response. In contrast to Fig. 1, here we are dealing with specific variables, not concepts and solid outlines are used to represent that difference. Ellipses or circles are characteristically used to denote latent variables and rectangles used to denote observed variables (Grace 2006, Chapter 4)." httpUri="https://binary.pensoft.net/fig/525737" pageId="0" pageNumber="67320">2</figureCitation>
+describes the case where there is some underlying cause for the various specific, yet correlated, responses. It is characteristic that the underlying cause is not directly observed. Instead, we learn about the latent properties of the underlying cause through the patterns of correlations amongst specific manifestations. Statistically, Fig. 
+<figureCitation captionStart="Figure 2" captionStartId="F6852010" captionText="Figure 2. Structural equation model representing the hypothesis that observed intercorrelations amongst response indicator variables (1 - 4) can be explained by a common cause, the generalised response. In contrast to Fig. 1, here we are dealing with specific variables, not concepts and solid outlines are used to represent that difference. Ellipses or circles are characteristically used to denote latent variables and rectangles used to denote observed variables (Grace 2006, Chapter 4)." httpUri="https://binary.pensoft.net/fig/525737" pageId="0" pageNumber="67320">2</figureCitation>
+represents a very particular hypothesis. For those not accustomed to causal modelling, an important shift in thinking is required to differentiate 
+<normalizedToken originalValue="one’s">one's</normalizedToken>
+logic from that associated with descriptive statistical models. For example, we might employ principal components analysis to estimate a set of parameters consistent with Fig. 
+<figureCitation captionStart="Figure 2" captionStartId="F6852010" captionText="Figure 2. Structural equation model representing the hypothesis that observed intercorrelations amongst response indicator variables (1 - 4) can be explained by a common cause, the generalised response. In contrast to Fig. 1, here we are dealing with specific variables, not concepts and solid outlines are used to represent that difference. Ellipses or circles are characteristically used to denote latent variables and rectangles used to denote observed variables (Grace 2006, Chapter 4)." httpUri="https://binary.pensoft.net/fig/525737" pageId="0" pageNumber="67320">2</figureCitation>
+. Such parameters would be purely descriptive, a summary of the data and fail to correspond to any particular causal explanation. In LVSEM, the model evaluated is treated as a causal hypothesis, which, in this case, is that the intercorrelations amongst indicator variables can be adequately explained by a single common causal process. All other sources of variation for the indicators are assumed to be independent. There are many ways in which data may fail to confirm this hypothesis, leading us to construct alternative causal hypotheses in order to explain what is going on.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Numerous complexities can be encountered when analysing models containing latent variables with multiple indicators. It is probably safe to say that the available literature may be inadequate for the beginning user of SEM to navigate the various diagnostics and decisions required for such models. Our primary objective in this paper is to provide a series of questions that can guide the investigator through the process. Our advice is targeted for the general objective outlined in Fig. 
+<figureCitation captionStart="Figure 1" captionStartId="F6852006" captionText="Figure 1. Structural equation meta-model representing the general modelling goal. Note that a meta-model is a generalisation that defines a finite set of possible fully-specified models. Dotted outlines are used to convey that the entities represented are general concepts rather than specific variables." httpUri="https://binary.pensoft.net/fig/525913" pageId="0" pageNumber="67320">1</figureCitation>
+and may have to be supplemented for models with more complex purposes.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="67320" type="the basic analytic machinery for lvsem">
+<paragraph pageId="0" pageNumber="67320">The Basic Analytic Machinery for LVSEM</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+There exist many technical descriptions of the analytical machinery used to implement LVSEM. Here, we provide a non-technical summary and refer the reader to 
+<bibRefCitation author="Bollen, K. A." journalOrPublisher="John Wiley &amp; Sons, New York" pageId="0" pageNumber="67320" refId="B6852835" refString="Bollen, K. A., 1989. Structural equations with latent variables. John Wiley &amp; Sons, New York" title="Structural equations with latent variables" year="1989">Bollen 1989</bibRefCitation>
+for a detailed treatment. A concise presentation of the equations and notation corresponding to our presentation can be found in Suppl. material 1.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Fig. 
+<figureCitation captionStart="Figure 3" captionStartId="F6852014" captionText="Figure 3. Example SE model for the study of a general response to a specific perturbation and the role of a specific hypothesised mediator variable. See text for a discussion of notation." httpUri="https://binary.pensoft.net/fig/525914" pageId="0" pageNumber="67320">3</figureCitation>
+provides a more complete representation of the kind of model we seek to evaluate in this paper. Here, we see that, in addition to a latent variable for the general response and its four indicator variables, our hypothesis includes latent variables for a specific perturbation and a hypothesised mediator variable that explains the effect of perturbation on the general response. The model also proposes that the Perturbation can affect the General Response independently from the Mediator and the Mediator can affect particular responses (e.g. response4) to some degree differently from the other responses.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">The classical approach to implementing SEM involves the analysis of covariances. For this, the rows of raw data are converted into a variance-covariance square matrix. Hypothesised models represent a set of expectations about the patterns of covariances that should be found in data. Typically, covariance modelling estimates the parameters of the causal diagram via maximum likelihood while respecting the assumed causal relationships specified in the causal graph. Covariance SEM also produces a statistic that summarises the differences between the observed covariances and those predicted while agreeing with the model structure and tests the null hypothesis that the observed and predicted covariances are equal, except for random sampling variation. Failure to reject this null hypothesis is evidence that the assumed causal structure is correct.</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+For LVSEM, model structure is described using equations representing the relationships between latent variables and their indicators and equations describing relationships amongst latent variables (Suppl. material 1). For the model in Fig. 
+<figureCitation captionStart="Figure 3" captionStartId="F6852014" captionText="Figure 3. Example SE model for the study of a general response to a specific perturbation and the role of a specific hypothesised mediator variable. See text for a discussion of notation." httpUri="https://binary.pensoft.net/fig/525914" pageId="0" pageNumber="67320">3</figureCitation>
+, software would implement the variables Specific Perturbation and Specific Mediator as latent variables with single indicators in order to be consistent in the use of separate matrices for relationships amongst latent variables and relationships between latent and observed variables (Suppl. material 1, Table S1.1). Variables are described as 
+<!--emphasis removed-->exogenous
+if they serve only as predictors of other variables (no arrows pointing to them) and 
+<!--emphasis removed-->endogenous
+if predicted by other variables (possess incoming arrows). In Fig. 
+<figureCitation captionStart="Figure 3" captionStartId="F6852014" captionText="Figure 3. Example SE model for the study of a general response to a specific perturbation and the role of a specific hypothesised mediator variable. See text for a discussion of notation." httpUri="https://binary.pensoft.net/fig/525914" pageId="0" pageNumber="67320">3</figureCitation>
+, Perturbation is the only exogenous variable, all others are endogenous. The Greek symbols used to denote various parameters correspond to the matrices used to implement the models. The lambda matrix contains the model-implied weights between latent variables and their indicators, the beta matrix contains the effects of endogenous variables on other endogenous variables and the gamma matrix contains the effects of exogenous variables on endogenous variables. Two additional matrices are the psi matrix, which contains the latent error terms (zeta 1 and 2), as well as their intercorrelations, if such are specified and the theta-epsilon matrix, which includes the errors for indicators (epsilon 1-4) and their intercorrelations, if any. The practical value of these matrices is that they permit a great flexibility in model specification, allowing for error correlations, reciprocal effects and a great many customised specifications.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="67320" type="an ecological example: the responses of grape nutritive qualities to intensity of agricultural management">
+<paragraph pageId="0" pageNumber="67320">An Ecological Example: The Responses of Grape Nutritive Qualities to Intensity of Agricultural Management</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRefCitation author="Steiner, M." journalOrPublisher="Journal of Applied Ecology" pageId="0" pageNumber="67320" refId="B6852990" refString="Steiner, M., Grace, J. B., Bacher, S., 2021. Biodiversity effects on grape Quality depend on variety and management intensity. Journal of Applied Ecology In Press" title="Biodiversity effects on grape Quality depend on variety and management intensity" volume="In Press" year="2021">Steiner et al. 2021</bibRefCitation>
+conducted a study of Swiss vineyards managed under different intensities of weed management, which resulted in different levels of non-crop plant biodiversity. Grape qualities of known importance to wine-making (nitrogen, sugars, tartric acid and malic acid) were measured and served as indicators of the general property "Grape Qualities". Features of the spontaneous vegetation that were measured included total cover, total species richness and abundance of nitrogen fixing plants. The empirical measurements corresponding with the concepts of theoretical interest are summarised in Table 
+<tableCitation captionStart="Table 1" captionStartId="T6852034" captionText="Table 1. Concepts related to the structural equation meta-model in Figure 4 and their relationships to measured variables (from Steiner et al. 2021)." httpUri="http://table.plazi.org/id/6FEEEEB8FCF291D3187990C95EC776A1" pageId="0" pageNumber="67320" tableUuid="6FEEEEB8FCF291D3187990C95EC776A1">1</tableCitation>
+.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+The overall study objectives are summarised in Fig. 
+<figureCitation captionStart="Figure 4" captionStartId="F6852018" captionText="Figure 4. Meta-model for the ecological example referenced in this paper (modified from Steiner et al. 2021)." httpUri="https://binary.pensoft.net/fig/559410" pageId="0" pageNumber="67320">4</figureCitation>
+. Here, it can be seen that the overall problem was to determine whether management intensity has an influence on grape qualities and whether such an effect can be explained by hypothesised mediators. One question of interest in this study was whether the measured properties of grapes show an integrated pattern of response. This question was evaluated first before examining effects of management intensity, spontaneous non-crop vegetation and soil nitrogen on grape qualities.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="67320" type="illustration of a protocol for evaluating hypotheses about general responses">
+<paragraph pageId="0" pageNumber="67320">Illustration of a Protocol for Evaluating Hypotheses about General Responses</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Question #1: What are the Anticipated Characteristics of the Theoretical Construct(s) of Interest
+?
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+We learn about latent variables indirectly. More specifically, we learn about them through theorising and empirical investigations, rather than direct measurement. It is important, therefore, that we consider the theoretical meaning of constructs carefully and explicitly. Most ecologists are accustomed to using descriptive procedures, such as principal components analysis (PCA), when faced with a set of related measurements. PCA seeks to reduce a set of variables to some smaller number of composite variables (aka components) that contain most of the information in the set. PCA is purely a data-reduction method and there is no basis for drawing causal interpretations of the resulting components (
+<bibRefCitation author="McCune, B." journalOrPublisher="Ecology" pageId="0" pageNumber="67320" refId="B6852927" refString="McCune, B., Grace, J. B., Urban, D., 2002. Analysis of ecological communities: Chapter 30. In: MjM Software, Gleneden Beach, OR, USA." title="Analysis of ecological communities: Chapter 30" volumeTitle="MjM Software, Gleneden Beach, OR, USA." year="2002">McCune et al. 2002</bibRefCitation>
+, Chapter 30).
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+With LVSEM, we might pose a hypothesis, such as the one shown in Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F6852022" captionText="Figure 5. (A) The initial hypothesis evaluated by Steiner et al. 2021 for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties." httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320">5</figureCitation>
+A for the grape study. Here, we are hypothesising that the chemical composition of grapes is tightly regulated within plants and, thus, there should be strong integration and tight correlations (positive or negative) amongst indicator variables. However, the simple structure shown in Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F6852022" captionText="Figure 5. (A) The initial hypothesis evaluated by Steiner et al. 2021 for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties." httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320">5</figureCitation>
+A is not necessarily the only model to initially consider. For example, we might wish to also consider a model like the one in Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F6852022" captionText="Figure 5. (A) The initial hypothesis evaluated by Steiner et al. 2021 for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties." httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320">5</figureCitation>
+B, which anticipates that certain chemical properties will be inherently more tightly constrained. In that case, we might expect an additional effect, which can be represented by including an error correlation. The error correlation is actually an implied latent variable. We might want to represent this effect using a double-headed arrow rather than by including an explicit latent variable for several reasons. First, it allows us to retain focus on our primary hypothesis. Second, it only involves a single parameter, thereby saving model degrees of freedom and maintaining statistical power.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+In thinking about our theoretical constructs, of fundamental importance is whether we think the concept is unidimensional (behaves like it is one thing) or multidimensional (behaves like a collection of different things). Taken literally (which software estimation will do), the hypothesis being evaluated in Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F6852022" captionText="Figure 5. (A) The initial hypothesis evaluated by Steiner et al. 2021 for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties." httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320">5</figureCitation>
+A is that there is a single common cause influencing all the response indicators. The effects (lambdas) do not have to be equal, but their relative strengths have to be consistent if we are to believe they are correlated due to a single common cause. All other causes contributing variations to response indicators are independent (the epsilons). If we think there are latent factors causing some response indicators to be more strongly correlated than could be explained by the single cause of theoretical interest, we might expect the need to include correlations amongst errors.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+There are many other possibilities that might be supported by theory. The most common alternative is that a theoretical 
+<normalizedToken originalValue="“construct”">"construct"</normalizedToken>
+or concept may be a collection of independent or semi-independent causes. The details that accompany this situation are beyond our purpose in this paper and the reader is referred to 
+<bibRefCitation author="Grace, J. B." journalOrPublisher="Ecological Monographs" pageId="0" pageNumber="67320" pagination="67 - 87" refId="B6852897" refString="Grace, J. B., Anderson, T. M., Olff, H., Scheiner, S. M., 2010. On the specification of structural equation models for ecological systems. Ecological Monographs 80: 67 - 87" title="On the specification of structural equation models for ecological systems" volume="80" year="2010">Grace et al. (2010)</bibRefCitation>
+for a discussion of this larger topic.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Question #2: Are there Appropriate Measured Variables that can Serve as Indicators of the General Theoretical Constructs
+?
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+When interested in a general property of a study system, it is recommended that one gives careful consideration to the previous question about expected attributes when designing the sampling scheme. This is one of those interesting differences between science practice in the social sciences versus the ecological sciences. In the social sciences, particularly when studies involve human behaviour, the default assumption is that the latent properties are of primary interest. Studies may involve human attitudes and motivations, which are assumed from the outset to be "deeply latent" and only discernible indirectly. This has led to the development of a process for careful consideration of the development of proper measures for the constructs of interest. For example, the American Association of Psychology Dictionary (
+<bibRefCitation author="VandenBos, G. R." journalOrPublisher="American Psychological Association" pageId="0" pageNumber="67320" refId="B6852999" refString="VandenBos, G. R., 2007. APA dictionary of psychology. American Psychological Association" title="APA dictionary of psychology" year="2007">VandenBos 2007</bibRefCitation>
+) provides the following description for 
+<!--emphasis removed-->scale development
+:
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">"The process of creating a new instrument [a set of specific measurements] for measuring an unobserved or latent construct, such as depression, sociability, or fourth-grade mathematics ability. The process includes defining the construct and test specifications, generating items and response scales, piloting the items in a large sample, conducting analyses to fine-tune the measure, and then readministering the refined measure to develop norms (if applicable) and to assess aspects of reliability and validity."</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Our purpose here is to raise awareness of the fact that there has been substantial development of methodologies in other scientific disciplines that could be of interest to natural scientists, but that has been systematically ignored to the detriment of our scientific studies. It is beyond the scope of the present paper to consider this body of knowledge in detail, though the expected requirements for a set of indicators to represent a theoretical construct will be illustrated via our presentation. For a more general introduction to scale development, one can refer to 
+<bibRefCitation author="DeVellis, R. F." journalOrPublisher="Scale development: Theory and applications" pageId="0" pageNumber="67320" refId="B6852854" refString="DeVellis, R. F., 2016. . Scale development: Theory and applications 26" volume="26" year="2016">DeVellis (2016)</bibRefCitation>
+.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">When one wishes to develop a latent variable SE model, it is possible to proceed by having one or more indicator measurements. Having only a single measure provides limited opportunities. The most commonly adopted approach is to simply assume that the measured variable is a perfect representation of the latent property. The main accomplishment achieved in such a model is to make a conceptual distinction between the concept of interest and the observed measure. When we have some estimate for the reliability (repeatability) of a measurement process, we can insert that information into our model and remove bias due to measurement error. Once we have two or more indicators, it is possible to confirm or not the presence of a latent cause. This is the example situation we address in the current paper.</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Indicator validity
+refers to the requirement that measured variables are interpretable as measures of the concept of interest. This is a theoretical requirement, but one to not forget to address in a paper. We recommend the construction of a table such as Table 1 as a formal means of defining explicitly the basis for explaining the logic connecting indicators to latent variables.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Question #3: What do the Patterns of Intercorrelations Amongst Indicator Variables Suggest
+?
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+It is one thing to conceptualise a set of observed variables as reflections of a concept of interest, but it is another thing for the data to agree with 
+<normalizedToken originalValue="one’s">one's</normalizedToken>
+conceptualisation. A simple first approach to this problem is to construct a correlation matrix to see if the patterns of correlations amongst indicator variables are roughly consistent with theoretical expectations. For this exercise, we focus on the sub-model shown in Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F6852022" captionText="Figure 5. (A) The initial hypothesis evaluated by Steiner et al. 2021 for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties." httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320">5</figureCitation>
+A rather than the entire model for simplicity. Data for this paper were simulated from the results found by 
+<bibRefCitation author="Steiner, M." journalOrPublisher="Journal of Applied Ecology" pageId="0" pageNumber="67320" refId="B6852990" refString="Steiner, M., Grace, J. B., Bacher, S., 2021. Biodiversity effects on grape Quality depend on variety and management intensity. Journal of Applied Ecology In Press" title="Biodiversity effects on grape Quality depend on variety and management intensity" volume="In Press" year="2021">Steiner et al. (2021)</bibRefCitation>
+, as our goal is not to revisit the analyses performed by 
+<bibRefCitation author="Steiner, M." journalOrPublisher="Journal of Applied Ecology" pageId="0" pageNumber="67320" refId="B6852990" refString="Steiner, M., Grace, J. B., Bacher, S., 2021. Biodiversity effects on grape Quality depend on variety and management intensity. Journal of Applied Ecology In Press" title="Biodiversity effects on grape Quality depend on variety and management intensity" volume="In Press" year="2021">Steiner et al. (2021)</bibRefCitation>
+, but instead to use that study as a tangible example of the methods demonstration in this paper.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F6852022" captionText="Figure 5. (A) The initial hypothesis evaluated by Steiner et al. 2021 for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties." httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320">5</figureCitation>
+A implies two main things about our expectations of the data. The first expectation is very general; we expect the indicators to be correlated with one another. If we fail to find significant correlations (based on standard tests and null hypothesis testing, p &lt;0.05, then the indicators are not varying in concert and the data will not support the claim of a latent cause. Beyond that primary expectation, we might expect the standardised lambdas to be similar to each other in magnitude if they are simply controlled by a single common cause. There are many reasons this expectation might not be met. For example, if the true model is as shown in Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F6852022" captionText="Figure 5. (A) The initial hypothesis evaluated by Steiner et al. 2021 for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties." httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320">5</figureCitation>
+B, we would expect a somewhat different pattern of correlations. If that model were the true model, we would expect sugars and malic acids to be more strongly correlated with each other than with the other measures. Going one step further, the pattern of correlations may tell us which of several a priori theoretical alternatives are likely to be supported.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+When one starts working with LVSEM, it is found that there are many ways that data may deviate from showing equal correlation strengths amongst indicators, aside from error correlations, some of which are suggested in Fig. 
+<figureCitation captionStart="Figure 3" captionStartId="F6852014" captionText="Figure 3. Example SE model for the study of a general response to a specific perturbation and the role of a specific hypothesised mediator variable. See text for a discussion of notation." httpUri="https://binary.pensoft.net/fig/525914" pageId="0" pageNumber="67320">3</figureCitation>
+. In the case of the data presented in Table 
+<tableCitation captionStart="Table 2" captionStartId="T6852035" captionText="Table 2. Correlations amongst simulated indicators of Grape Qualities." httpUri="http://table.plazi.org/id/4EFE13ACD942D191E0A3888AAD09098F" pageId="0" pageNumber="67320" tableUuid="4EFE13ACD942D191E0A3888AAD09098F">2</tableCitation>
+, the correlations amongst indicators vary in strength, ranging from 0.61 to 0.27. The first thing to note is that sugars are negatively correlated with the other properties, suggesting some metabolic trade-off. A second observation is that tartric and malic acids are only weakly correlated, which argues against the idea that acid production is a general property.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Question #4: Do Analyses Support There Being a Generalised Response
+?
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+It is customary in SEM practice to analyse latent variable models in two stages, first evaluating the fit between latent variables and indicators (Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F6852022" captionText="Figure 5. (A) The initial hypothesis evaluated by Steiner et al. 2021 for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties." httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320">5</figureCitation>
+A) and then second, evaluating the full model (e.g. Fig. 
+<figureCitation captionStart="Figure 6" captionStartId="F6852026" captionText="Figure 6. (A) The Net Effect Model. (B) The Mediated Effect Model." httpUri="https://binary.pensoft.net/fig/525743" pageId="0" pageNumber="67320">6</figureCitation>
+). Results obtained from the analysis of sub-models are only provisional, but this provides an opportunity to isolate certain kinds of misspecifications without working through models containing multiple misspecifications. SE models that include only latent variables and their indicators are often referred to as confirmatory factor analysis (CFA) models. 
+<bibRefCitation author="Grace, J. B." journalOrPublisher="One Ecosystem" pageId="0" pageNumber="67320" refId="B6852870" refString="Grace, J. B., 2020. A 'Weight of Evidence' approach to evaluating structural equation models. One Ecosystem 5 (e50452)" title="A ' Weight of Evidence' approach to evaluating structural equation models" volume="5" year="2020">Grace (2020)</bibRefCitation>
+describes an integrated approach to comparing SE models that is consistent with current views from the field of statistics. The approach described involves an assessment of the weight of evidence supporting each model in the theoretically-defensible set of models being compared and considers the use of 
+<!--emphasis removed-->p
+-values along with information criteria, such as Akaike Information Criteria. Some readers may find that treatment a useful complement to the presentation in this paper.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Table 3 presents the code used to conduct a CFA examination of the model shown in Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F6852022" captionText="Figure 5. (A) The initial hypothesis evaluated by Steiner et al. 2021 for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties." httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320">5</figureCitation>
+A. As can be seen in Table 
+<tableCitation captionStart="Table 3" captionStartId="T6852036" captionText="Table 3. R code for the Latent Response Model (Fig. 5 A) using the lavaan software (R Core Team 2019, Rosseel 2012)" httpUri="http://table.plazi.org/id/7A86985EAA5F5FAE5A61FF318D8382E2" pageId="0" pageNumber="67320" tableUuid="7A86985EAA5F5FAE5A61FF318D8382E2">3</tableCitation>
+, lavaan allows for the use of covariance matrices as input data, which is very helpful in methods illustrations. The CFA command "GrapeQual =~ N +Sugars +Tart +Malic" is read as, "The latent property Grape quality is measured by four indicators, nitrogen, sugars, tartric acid and malic acid."
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">Tables of results for all models run in the paper are provided in Suppl. material 2. The reader may find it useful to download that file to follow along if they wish to see more of the raw results. References to specific tables of results (e.g. Table S2.1) are provided in the text that follows. Suppl. material 3 contains the R script as a separate document.</paragraph>
+<paragraph pageId="0" pageNumber="67320">Examination of results focuses initially on overall model fit (Suppl. material 2, Table S2.1). We do not want to interpret results related to parameter estimates until we are confident there are no major model-data discrepancies; therefore, initial focus is placed on model fit evaluation.</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Results show strong support for our initial model (Table S2.1). A test statistic (Model Chi-square) value of 0.808 with an associated 
+<!--emphasis removed-->p
+-value of 0.668 was found. This 
+<!--emphasis removed-->p
+-value is well above the 0.05 criterion, providing strong support for there not being major model-data discrepancies. A Comparative Fit Index value of 1.000 further indicates a near-perfect explanation of the observed covariances by the model. Thus, it is extremely unlikely that additions to our model, such as shown in Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F6852022" captionText="Figure 5. (A) The initial hypothesis evaluated by Steiner et al. 2021 for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties." httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320">5</figureCitation>
+B, would be justified. That said, we do not use a 0.05 criterion as an absolute cutoff for adequate fit, since 
+<!--emphasis removed-->p
+-values above 0.05 can hide important discrepancies.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Having assessed the global model fit, we turn attention to the parameter estimates (Table S2.1). Again, we do not treat 
+<!--emphasis removed-->p
+-values as absolute cutoffs, but instead as continuous measures of evidence that a parameter or model deviates from the default expectation (
+<bibRefCitation author="Grace, J. B." journalOrPublisher="One Ecosystem" pageId="0" pageNumber="67320" refId="B6852870" refString="Grace, J. B., 2020. A 'Weight of Evidence' approach to evaluating structural equation models. One Ecosystem 5 (e50452)" title="A ' Weight of Evidence' approach to evaluating structural equation models" volume="5" year="2020">Grace 2020</bibRefCitation>
+). For our assessment of global model fit (Table S2.1), the default expectation is our hypothesised model (Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F6852022" captionText="Figure 5. (A) The initial hypothesis evaluated by Steiner et al. 2021 for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties." httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320">5</figureCitation>
+A). For parameter estimates (Table S2.1), however, the default expectation is a value of zero. The 
+<!--emphasis removed-->p
+-values for parameters, which range from &lt;0.001 to 0.003, provide further support for the model in Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F6852022" captionText="Figure 5. (A) The initial hypothesis evaluated by Steiner et al. 2021 for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties." httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320">5</figureCitation>
+A. Note that the estimate for N (lambda1) is fixed to a defined value of 1.0 as a lavaan default. This is done to set the scale for the latent variable, which would otherwise be unidentified. Finally, 
+<!--emphasis removed-->R-square
+values are provided in Table S2.1 and indicate the degree to which our hypothesised latent cause explains the total observed variation in the indicator variables. Values returned were 0.78 for N, 0.38 for Sugars, 0.21 for Tart and 0.46 for Malic. Thus, in this case, variation in N appears to be less influenced by factors outside the model compared to the other indicators.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Question #5: Does the Generalised Response Exhibit a Concerted Reaction to Perturbation? and
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Question #6: Are there Unique Reactions by Specific Indicators
+?
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+The complexity of SE models and the variety of inferences we typically wish to make lead us to move through the evaluation of our overall hypothesis in stages. It is important to keep in mind that conclusions one might draw, based on the analysis of sub-models, may need to be reconsidered once the full model is examined. Having examined the latent response sub-model, we now move to a pair of competing models shown in Fig. 
+<figureCitation captionStart="Figure 6" captionStartId="F6852026" captionText="Figure 6. (A) The Net Effect Model. (B) The Mediated Effect Model." httpUri="https://binary.pensoft.net/fig/525743" pageId="0" pageNumber="67320">6</figureCitation>
+. Here, we use single measures for management intensity and non-crop vegetation.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+In Fig. 
+<figureCitation captionStart="Figure 6" captionStartId="F6852026" captionText="Figure 6. (A) The Net Effect Model. (B) The Mediated Effect Model." httpUri="https://binary.pensoft.net/fig/525743" pageId="0" pageNumber="67320">6</figureCitation>
+, we address a pair of questions; "Do grape qualities vary as a function of management intensity?" and "Does the cover of non-crop N-fixing plant species explain some or all of the effects of management intensity." The first of these questions is represented in Fig. 
+<figureCitation captionStart="Figure 6" captionStartId="F6852026" captionText="Figure 6. (A) The Net Effect Model. (B) The Mediated Effect Model." httpUri="https://binary.pensoft.net/fig/525743" pageId="0" pageNumber="67320">6</figureCitation>
+A and the lavaan code is provided in Table 
+<tableCitation captionStart="Table 4" captionStartId="T6852546" captionText="Table 4. R code for examining the Net Effect Model (Fig. 6 A)." httpUri="http://table.plazi.org/id/E3B0472C6ACAF5AED5AD4583BF23203A" pageId="0" pageNumber="67320" tableUuid="E3B0472C6ACAF5AED5AD4583BF23203A">4</tableCitation>
+. Lavaan code is used to specify two latent variables using the =~ operator, then to represent the hypothesis that Grape Qualities depend on Management Intensity. We first request overall fit measures using the 
+<normalizedToken originalValue="“show”">"show"</normalizedToken>
+command, then modification indices to see if there are meaningful suggestions for model improvement.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Results for the initial model (Fig. 
+<figureCitation captionStart="Figure 6" captionStartId="F6852026" captionText="Figure 6. (A) The Net Effect Model. (B) The Mediated Effect Model." httpUri="https://binary.pensoft.net/fig/525743" pageId="0" pageNumber="67320">6</figureCitation>
+A) revealed substantial model-data discrepancy (Table S2.3). Not only is the 
+<!--emphasis removed-->p
+-value for the test statistic &lt;0.001, the CFI value of 0.789 is well below typical recommendations for a value of 0.95 or greater (
+<bibRefCitation author="Hu, L. T." journalOrPublisher="Structural equation modeling: a multidisciplinary journal" pageId="0" pageNumber="67320" pagination="1 - 55" refId="B7215224" refString="Hu, L. T., Bentler, P. M., 1999. Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. Structural equation modeling: a multidisciplinary journal 6: 1 - 55" title="Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives" volume="6" year="1999">Hu and Bentler 1999</bibRefCitation>
+, 
+<bibRefCitation author="Grace, J. B." journalOrPublisher="One Ecosystem" pageId="0" pageNumber="67320" refId="B6852870" refString="Grace, J. B., 2020. A 'Weight of Evidence' approach to evaluating structural equation models. One Ecosystem 5 (e50452)" title="A ' Weight of Evidence' approach to evaluating structural equation models" volume="5" year="2020">Grace 2020</bibRefCitation>
+). Modification indices suggest some sort of a unmodeled relationship between management intensity and tartric acid. Since modification indices are best thought of as uninformed suggestions, we must use theoretical knowledge to decide what alternative model would be appropriate to consider.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+As illustrated in Fig. 
+<figureCitation captionStart="Figure 3" captionStartId="F6852014" captionText="Figure 3. Example SE model for the study of a general response to a specific perturbation and the role of a specific hypothesised mediator variable. See text for a discussion of notation." httpUri="https://binary.pensoft.net/fig/525914" pageId="0" pageNumber="67320">3</figureCitation>
+, one of the theoretical possibilities we might anticipate for this model is specific effects of management on particular grape qualities. Here, we considered a reasonable alternative to be the addition of a direct effect of management intensity on tartric acid (Table 
+<tableCitation captionStart="Table 4" captionStartId="T6852546" captionText="Table 4. R code for examining the Net Effect Model (Fig. 6 A)." httpUri="http://table.plazi.org/id/E3B0472C6ACAF5AED5AD4583BF23203A" pageId="0" pageNumber="67320" tableUuid="E3B0472C6ACAF5AED5AD4583BF23203A">4</tableCitation>
+, Revised Net Effect Model). Results showed this revised model to have near-perfect correspondence with the data (Table S2.2).
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Our second question, represented in Fig. 
+<figureCitation captionStart="Figure 6" captionStartId="F6852026" captionText="Figure 6. (A) The Net Effect Model. (B) The Mediated Effect Model." httpUri="https://binary.pensoft.net/fig/525743" pageId="0" pageNumber="67320">6</figureCitation>
+B, involves a mediator that might explain why management intensity has an observed effect on grape qualities. 
+<bibRefCitation author="Steiner, M." journalOrPublisher="Journal of Applied Ecology" pageId="0" pageNumber="67320" refId="B6852990" refString="Steiner, M., Grace, J. B., Bacher, S., 2021. Biodiversity effects on grape Quality depend on variety and management intensity. Journal of Applied Ecology In Press" title="Biodiversity effects on grape Quality depend on variety and management intensity" volume="In Press" year="2021">Steiner et al. 2021</bibRefCitation>
+considered a number of possibilities. We do not revisit the full variety of possible mediator models considered in the original study, but focus on the possibility that the cover of nitrogen-fixing non-crop plants might explain all or part of the effects of management intensity on grape qualities. While we might expect to again find a specific effect of management on tartric acid, we nonetheless begin with the most general version of the mediator model shown in Fig. 
+<figureCitation captionStart="Figure 6" captionStartId="F6852026" captionText="Figure 6. (A) The Net Effect Model. (B) The Mediated Effect Model." httpUri="https://binary.pensoft.net/fig/525743" pageId="0" pageNumber="67320">6</figureCitation>
+B (which we refer to as LVMed1 in Table 
+<tableCitation captionStart="Table 5" captionStartId="T6852665" captionText="Table 5. R code for examining the Mediated Effect Model (Fig. 6 B)." httpUri="http://table.plazi.org/id/2908A4647ACAE75D88F03EC8B7E716E3" pageId="0" pageNumber="67320" tableUuid="2908A4647ACAE75D88F03EC8B7E716E3">5</tableCitation>
+.) Results again indicate that management intensity has a specific effect on tartric acid separate from its general effect. Once that link is included in the Revised Mediated Effect Model (LVMed2, Table 5), fit was found to be very close (CFI = 1.0, Table S2.3).
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Question #7: Can we Simplify the Model, Thereby Increasing Generality
+?
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Since SE models are used for explanatory representations of scientist's understanding of systems (
+<bibRefCitation author="Grace, J. B." journalOrPublisher="Ecology" pageId="0" pageNumber="67320" refId="B6852888" refString="Grace, J. B., Irvine, K. M., 2020. Scientists guide to developing explanatory statistical models using causal analysis principles. Ecology 101 (e02962)" title="Scientists guide to developing explanatory statistical models using causal analysis principles" volume="101" year="2020">Grace and Irvine 2020</bibRefCitation>
+), there are many cases where that purpose may lead investigators to use a light hand in pruning weak effects from their models. However, when the goal is to make general inferences, model simplicity is preferred. In the context of the current paper, simplicity can be approached by fixing parameters to set values (such as zero) so that model structure is maintained while the number of estimated parameters is reduced. Fixed values of parameters represent general statements. In addition, the fewer the number of estimated parameters, the greater the statistical power per parameter (number of observations/number of estimated parameters).
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Regarding our example, we next turn to an examination of individual parameter estimates to determine whether model simplification of model LVmed2 is possible (Table S2.4). 
+<!--emphasis removed-->P
+-values provide strong support for all estimated lambdas (all &lt;0.001), as well as all other estimated parameters, except beta1 (
+<!--emphasis removed-->p
+= 0.713), which is the effect of the mediator Non-Crop Vegetation on Grape Qualities. We estimated a simplified model (not shown) with beta1 set to zero (beta1 == 0) and determined that model fit was improved, as discrepancy increased very slightly while the number of estimated parameters was reduced by one (and fit is a measure of the amount of discrepancy prorata to the number of estimated parameters). We continue discussing ways to minimise the number of estimated parameters in the next section where we address the complexity that arises when there is more than one variety of grape being modelled.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Question #8: What About Generality Across Groups
+?
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+LVSEM has the capacity to formally evaluate parameter equality across groups. Referred to as 
+<!--emphasis removed-->multi-group analysis
+, the investigator can test hypotheses by asking whether models of the same general form apply beyond single groups. With regard to the Swiss grape study, the investigators sampled vineyards that cultivated two different varieties of grapes, 
+<!--emphasis removed-->Chasselas
+and 
+<!--emphasis removed-->Pinot noir
+. Suppl. material 3 includes simulated data for the two varieties of grape, as well as code for multi-group analysis.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+If multigroup models are specified without constraints, all parameters will be independently estimated for each group by default. One way to set equality constraints across groups is to add labels to the code. In this case, one first uses the format c(
+<normalizedToken originalValue="“label1”">"label1"</normalizedToken>
+, 
+<normalizedToken originalValue="“label2”">"label2"</normalizedToken>
+) to create names for the parameters where there are two groups. This example will generate two independent parameter estimates, one for each group, since the labels are unique. If we specify c(
+<normalizedToken originalValue="“lambda1”">"lambda1"</normalizedToken>
+, 
+<normalizedToken originalValue="“lambda1”">"lambda1"</normalizedToken>
+), the repeated use of a common label means a single value will be estimated for both groups (Table 
+<tableCitation captionStart="Table 6" captionStartId="T6852690" captionText="Table 6. Example R code for multigroup analysis of full model." httpUri="http://table.plazi.org/id/6680D83DBE22A621121D721E5DA197A5" pageId="0" pageNumber="67320" tableUuid="6680D83DBE22A621121D721E5DA197A5">6</tableCitation>
+). The effects of this constraint will be reflected in the model discrepancy and we can judge whether this equality constraint has a small or large effect (Table S2.5). Adding the three constraints caused Model Degrees of Freedom to increase by 3 (going from 4 to 7) in the constrained model. This reduction in the number of estimated parameters is very helpful for small sample studies because multigroup models can contain twice as many parameters.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Using the approach in Table 
+<tableCitation captionStart="Table 6" captionStartId="T6852690" captionText="Table 6. Example R code for multigroup analysis of full model." httpUri="http://table.plazi.org/id/6680D83DBE22A621121D721E5DA197A5" pageId="0" pageNumber="67320" tableUuid="6680D83DBE22A621121D721E5DA197A5">6</tableCitation>
+, the results obtained show that even with all lambdas constrained to be equal across groups, global model fit is very close (CFI = 1.0, Table S2.6). Based on this finding, we proceeded to estimate the full model, first allowing all gamma and beta parameters to be independent, then adding equality constraints and revisiting model fit. Proceeding in this fashion, we arrive at the model in Table 
+<tableCitation captionStart="Table 7" captionStartId="T6852732" captionText="Table 7. R code for final multigroup analysis of full model." httpUri="http://table.plazi.org/id/593C1412776901B79578B63D50EB0BAC" pageId="0" pageNumber="67320" tableUuid="593C1412776901B79578B63D50EB0BAC">7</tableCitation>
+and the results are shown in Fig. 
+<figureCitation captionStart="Figure 7" captionStartId="F6852030" captionText="Figure 7. Standardised results for the final full model showing both groups." httpUri="https://binary.pensoft.net/fig/525744" pageId="0" pageNumber="67320">7</figureCitation>
+.
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="67320" type="discussion">
+<paragraph pageId="0" pageNumber="67320">Discussion</paragraph>
+<paragraph pageId="0" pageNumber="67320">It is important to be able to judge whether a system exhibits a generalised multivariate response to environmental change rather than an independent collection of uncoordinated responses. This paper presents an approach to addressing that question. A particular aspect of the approach demonstrated is that it invokes causal reasoning. We ask if suites of observed properties behave as if they are jointly influenced by a "hidden hand" or integrative cause.</paragraph>
+<paragraph pageId="0" pageNumber="67320">Studying generalised responses is inherently challenging. Our objective is to focus our attention on the general, while moving the specifics to the background - at least initially. The sequence of operations described support a "general first, specifics second" perspective. Ultimately, SEM forces us to address both. Along the way, we must confront the large number of possible explanations that can exist for the actual functioning of the system being studied. This complexity means one cannot take a rigid approach, but must follow clues along a path to selecting a final model to use for interpretation. We suggest a series of questions that can guide investigators through several critical steps in model evaluation. In addition, we recognise that the research context matters, so the list may need to be modified for particular applications.</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Success in applying a flexible, adaptive approach requires a solid understanding of how the analytical system 
+<normalizedToken originalValue="‘thinks’">'thinks'</normalizedToken>
+about things. Within LVSEM, latent variables represent the common variance or overlapping information for a set of measures. They represent, in essence, the consensus opinion about the latent factor that functions as their common causal connection. There will, of course, be unique information associated with the individual measures, particularly if they are selected to represent multiple facets of a theoretical construct. Our core challenge is to capture the general opinions of the data without becoming overly distracted by the unique responses.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+Fig. 
+<figureCitation captionStart="Figure 7" captionStartId="F6852030" captionText="Figure 7. Standardised results for the final full model showing both groups." httpUri="https://binary.pensoft.net/fig/525744" pageId="0" pageNumber="67320">7</figureCitation>
+provides us with a vehicle for making some main points about the evaluation of general responses. By including latent variables and their indicators, an explicit distinction between concepts of interest and the measures used to quantify those concepts is made. This approach means that in future studies, one may retain their general hypothesis while adapting the details of model to the particulars of the measured indicators. It also means that we have a model that can adjust for measurement error if we choose to incorporate that information (e.g. 
+<bibRefCitation author="Grace, J. B." journalOrPublisher="Ecological Applications" pageId="0" pageNumber="67320" pagination="503 - 514" refId="B6852879" refString="Grace, J. B., Keeley, J. E., 2006. A structural equation model analysis of postfire plant diversity in California shrublands. Ecological Applications 16: 503 - 514" title="A structural equation model analysis of postfire plant diversity in California shrublands" volume="16" year="2006">Grace and Keeley 2006</bibRefCitation>
+). While Fig. 
+<figureCitation captionStart="Figure 7" captionStartId="F6852030" captionText="Figure 7. Standardised results for the final full model showing both groups." httpUri="https://binary.pensoft.net/fig/525744" pageId="0" pageNumber="67320">7</figureCitation>
+presents standardised results, Table S2.7 shows that the unstandardised lambdas for Grape Qualities are equal for the different grape varieties. This suggests the observed indicators have physiological meaning at a fundamental level. Future studies may wish to further examine the physiological properties of grapes to develop a deeper understanding of the role of external conditions on their expression.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+A number of mysteries are exposed in our multigroup model (Fig. 
+<figureCitation captionStart="Figure 7" captionStartId="F6852030" captionText="Figure 7. Standardised results for the final full model showing both groups." httpUri="https://binary.pensoft.net/fig/525744" pageId="0" pageNumber="67320">7</figureCitation>
+). For some reason, the 
+<!--emphasis removed-->Chasselas
+variety does not respond to the abundance of nitrogen-fixing plants, while 
+<!--emphasis removed-->Pinot noir
+is quite responsive. Beyond that, the total effect of management intensity on grape qualities for 
+<!--emphasis removed-->Pinot noir
+is partly dependent on management through its influence on non-crop vegetation (indirect effect: -0.47*0.59 = -0.28), but is also largely impacted through other mechanisms (direct effect: 0.63). We might speculate that these other mechanisms have to do with a reduction in the competitive effects of non-crop vegetation on grape qualities, but further studies could explore that relationship in greater detail. Finally, the 
+<!--emphasis removed-->Chasselas
+variety exhibits a differential response of tartric acid to management compared to the other grape properties, which suggests the need for further examination.
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">It is our hope that this paper demonstrates both how to approach using LVSEM to investigate multivariate responses and also to hint at the variety of scientific insights that can be gleaned from the effort. We believe there is an important opportunity for LVSEM to play a greater role in our quantitative understanding of ecological responses to environmental change.</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="67320" type="acknowledgements">
+<paragraph pageId="0" pageNumber="67320">Acknowledgements</paragraph>
+<paragraph pageId="0" pageNumber="67320">We thank two anonymous reviewers for helpful comments and suggestions. This work was supported by the USGS Ecosystems and Land Change Science Climate Research and Development Programs. Any use of trade, firm or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="67320" type="reference_group">
+<paragraph pageId="0" pageNumber="67320">References</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Arhonditsis, G. B." journalOrPublisher="Ecological Modelling" pageId="0" pageNumber="67320" pagination="385 - 409" refId="B6852823" title="Exploring ecological patterns with structural equation modeling and Bayesian analysis" volume="192" year="2006">
+<author pageId="0" pageNumber="67320">Arhonditsis, G. B.</author>
+, 
+<author pageId="0" pageNumber="67320">Stow, C. A.</author>
+, 
+<author pageId="0" pageNumber="67320">Steinberg, L. J.</author>
+, 
+<author pageId="0" pageNumber="67320">Kenney, M. A.</author>
+, 
+<author pageId="0" pageNumber="67320">Lathrop, R. C.</author>
+, 
+<author pageId="0" pageNumber="67320">McBride, S. J.</author>
+, 
+<author pageId="0" pageNumber="67320">Reckhow, K. H.</author>
+, 
+<year pageId="0" pageNumber="67320">2006</year>
+. 
+<title pageId="0" pageNumber="67320">Exploring ecological patterns with structural equation modeling and Bayesian analysis</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Ecological Modelling</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">192</volume>
+: 
+<pagination pageId="0" pageNumber="67320">385 - 409</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Bollen, K. A." journalOrPublisher="John Wiley &amp; Sons, New York" pageId="0" pageNumber="67320" refId="B6852835" title="Structural equations with latent variables" year="1989">
+<author pageId="0" pageNumber="67320">Bollen, K. A.</author>
+, 
+<year pageId="0" pageNumber="67320">1989</year>
+. 
+<title pageId="0" pageNumber="67320">Structural equations with latent variables</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">John Wiley &amp; Sons, New York</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Cubaynes, S." journalOrPublisher="Ecology" pageId="0" pageNumber="67320" pagination="248 - 255" refId="B6852843" title="Testing hypotheses in evolutionary ecology with imperfect detection: capture-recapture structural equation modeling" volume="93" year="2012">
+<author pageId="0" pageNumber="67320">Cubaynes, S.</author>
+, 
+<author pageId="0" pageNumber="67320">Doutrelant, C.</author>
+, 
+<author pageId="0" pageNumber="67320">Grgoire, A.</author>
+, 
+<author pageId="0" pageNumber="67320">Perret, P.</author>
+, 
+<author pageId="0" pageNumber="67320">Faivre, B.</author>
+, 
+<author pageId="0" pageNumber="67320">Gimenez, O.</author>
+, 
+<year pageId="0" pageNumber="67320">2012</year>
+. 
+<title pageId="0" pageNumber="67320">Testing hypotheses in evolutionary ecology with imperfect detection: capture-recapture structural equation modeling</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Ecology</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">93</volume>
+: 
+<pagination pageId="0" pageNumber="67320">248 - 255</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="DeVellis, R. F." journalOrPublisher="Scale development: Theory and applications" pageId="0" pageNumber="67320" refId="B6852854" volume="26" year="2016">
+<author pageId="0" pageNumber="67320">DeVellis, R. F.</author>
+, 
+<year pageId="0" pageNumber="67320">2016</year>
+.. 
+<journalOrPublisher pageId="0" pageNumber="67320">Scale development: Theory and applications</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">26</volume>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Grace, J. B." journalOrPublisher="Cambridge University Press" pageId="0" pageNumber="67320" refId="B6852862" title="Structural equation modeling and natural systems" year="2006">
+<author pageId="0" pageNumber="67320">Grace, J. B.</author>
+, 
+<year pageId="0" pageNumber="67320">2006</year>
+. 
+<title pageId="0" pageNumber="67320">Structural equation modeling and natural systems</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Cambridge University Press</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Grace, J. B." journalOrPublisher="Ecological Applications" pageId="0" pageNumber="67320" pagination="503 - 514" refId="B6852879" title="A structural equation model analysis of postfire plant diversity in California shrublands" volume="16" year="2006">
+<author pageId="0" pageNumber="67320">Grace, J. B.</author>
+, 
+<author pageId="0" pageNumber="67320">Keeley, J. E.</author>
+, 
+<year pageId="0" pageNumber="67320">2006</year>
+. 
+<title pageId="0" pageNumber="67320">A structural equation model analysis of postfire plant diversity in California shrublands</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Ecological Applications</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">16</volume>
+: 
+<pagination pageId="0" pageNumber="67320">503 - 514</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Grace, J. B." journalOrPublisher="Ecological Monographs" pageId="0" pageNumber="67320" pagination="67 - 87" refId="B6852897" title="On the specification of structural equation models for ecological systems" volume="80" year="2010">
+<author pageId="0" pageNumber="67320">Grace, J. B.</author>
+, 
+<author pageId="0" pageNumber="67320">Anderson, T. M.</author>
+, 
+<author pageId="0" pageNumber="67320">Olff, H.</author>
+, 
+<author pageId="0" pageNumber="67320">Scheiner, S. M.</author>
+, 
+<year pageId="0" pageNumber="67320">2010</year>
+. 
+<title pageId="0" pageNumber="67320">On the specification of structural equation models for ecological systems</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Ecological Monographs</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">80</volume>
+: 
+<pagination pageId="0" pageNumber="67320">67 - 87</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Grace, J. B." journalOrPublisher="One Ecosystem" pageId="0" pageNumber="67320" refId="B6852870" title="A ' Weight of Evidence' approach to evaluating structural equation models" volume="5" year="2020">
+<author pageId="0" pageNumber="67320">Grace, J. B.</author>
+, 
+<year pageId="0" pageNumber="67320">2020</year>
+. 
+<title pageId="0" pageNumber="67320">A 'Weight of Evidence' approach to evaluating structural equation models</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">One Ecosystem</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">5</volume>
+(
+<issue pageId="0" pageNumber="67320">e50452</issue>
+)
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Grace, J. B." journalOrPublisher="Ecology" pageId="0" pageNumber="67320" refId="B6852888" title="Scientists guide to developing explanatory statistical models using causal analysis principles" volume="101" year="2020">
+<author pageId="0" pageNumber="67320">Grace, J. B.</author>
+, 
+<author pageId="0" pageNumber="67320">Irvine, K. M.</author>
+, 
+<year pageId="0" pageNumber="67320">2020</year>
+. 
+<title pageId="0" pageNumber="67320">Scientists guide to developing explanatory statistical models using causal analysis principles</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Ecology</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">101</volume>
+(
+<issue pageId="0" pageNumber="67320">e02962</issue>
+)
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Hu, L. T." journalOrPublisher="Structural equation modeling: a multidisciplinary journal" pageId="0" pageNumber="67320" pagination="1 - 55" refId="B7215224" title="Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives" volume="6" year="1999">
+<author pageId="0" pageNumber="67320">Hu, L. T.</author>
+, 
+<author pageId="0" pageNumber="67320">Bentler, P. M.</author>
+, 
+<year pageId="0" pageNumber="67320">1999</year>
+. 
+<title pageId="0" pageNumber="67320">Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Structural equation modeling: a multidisciplinary journal</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">6</volume>
+: 
+<pagination pageId="0" pageNumber="67320">1 - 55</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Joreskog, K. G." journalOrPublisher="Biometrika" pageId="0" pageNumber="67320" pagination="239 - 251" refId="B6852906" title="A general method for analysis of covariance structures" volume="57" year="1970">
+<author pageId="0" pageNumber="67320">Joreskog, K. G.</author>
+, 
+<year pageId="0" pageNumber="67320">1970</year>
+. 
+<title pageId="0" pageNumber="67320">A general method for analysis of covariance structures</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Biometrika</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">57</volume>
+: 
+<pagination pageId="0" pageNumber="67320">239 - 251</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Liu, X." journalOrPublisher="Ecology" pageId="0" pageNumber="67320" pagination="2396 - 2405" refId="B6852915" title="Linking individual level functional traits to tree growth in a subtropical forest" volume="97" year="2016">
+<author pageId="0" pageNumber="67320">Liu, X.</author>
+, 
+<author pageId="0" pageNumber="67320">Swenson, N. G.</author>
+, 
+<author pageId="0" pageNumber="67320">Lin, D.</author>
+, 
+<author pageId="0" pageNumber="67320">Mi, X.</author>
+, 
+<author pageId="0" pageNumber="67320">Umana, M. N.</author>
+, 
+<author pageId="0" pageNumber="67320">Schmid, B.</author>
+, 
+<author pageId="0" pageNumber="67320">Ma, K.</author>
+, 
+<year pageId="0" pageNumber="67320">2016</year>
+. 
+<title pageId="0" pageNumber="67320">Linking individual level functional traits to tree growth in a subtropical forest</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Ecology</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">97</volume>
+: 
+<pagination pageId="0" pageNumber="67320">2396 - 2405</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="McCune, B." journalOrPublisher="Ecology" pageId="0" pageNumber="67320" refId="B6852927" title="Analysis of ecological communities: Chapter 30" volumeTitle="MjM Software, Gleneden Beach, OR, USA." year="2002">
+<author pageId="0" pageNumber="67320">McCune, B.</author>
+, 
+<author pageId="0" pageNumber="67320">Grace, J. B.</author>
+, 
+<author pageId="0" pageNumber="67320">Urban, D.</author>
+, 
+<year pageId="0" pageNumber="67320">2002</year>
+. 
+<title pageId="0" pageNumber="67320">Analysis of ecological communities: Chapter 30</title>
+. In: 
+<volumeTitle pageId="0" pageNumber="67320">MjM Software, Gleneden Beach, OR, USA.</volumeTitle>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Pugesek, B. H" journalOrPublisher="Cambridge University Press" pageId="0" pageNumber="67320" refId="B6852936" title="Structural Equation Modeling: Applications in Ecological and Evolutionary Biology" year="2003">
+<author pageId="0" pageNumber="67320">Pugesek, B. H</author>
+, 
+<author pageId="0" pageNumber="67320">Tomer, A.</author>
+, 
+<author pageId="0" pageNumber="67320">von Eye, A.</author>
+, 
+<year pageId="0" pageNumber="67320">2003</year>
+. 
+<title pageId="0" pageNumber="67320">Structural Equation Modeling: Applications in Ecological and Evolutionary Biology</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Cambridge University Press</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Team, R Core" journalOrPublisher="R Foundation for Statistical Computing" pageId="0" pageNumber="67320" refId="B6852947" title="R: A language and environment for statistical computing" year="2019">
+<author pageId="0" pageNumber="67320">Team, R Core</author>
+, 
+<year pageId="0" pageNumber="67320">2019</year>
+. 
+<title pageId="0" pageNumber="67320">R: A language and environment for statistical computing</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">R Foundation for Statistical Computing</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Rosseel, Y." journalOrPublisher="Journal of Statistical Software" pageId="0" pageNumber="67320" pagination="1 - 36" refId="B6852955" title="lavaan: An R Package for Structural Equation Modeling" volume="48" year="2012">
+<author pageId="0" pageNumber="67320">Rosseel, Y.</author>
+, 
+<year pageId="0" pageNumber="67320">2012</year>
+. 
+<title pageId="0" pageNumber="67320">lavaan: An R Package for Structural Equation Modeling</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Journal of Statistical Software</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">48</volume>
+: 
+<pagination pageId="0" pageNumber="67320">1 - 36</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Shipley, B." journalOrPublisher="Ecology" pageId="0" pageNumber="67320" pagination="535 - 541" refId="B6852972" title="Fundamental tradeoffs generating the worldwide leaf economics spectrum" volume="87" year="2006">
+<author pageId="0" pageNumber="67320">Shipley, B.</author>
+, 
+<author pageId="0" pageNumber="67320">Lechowicz, M. J.</author>
+, 
+<author pageId="0" pageNumber="67320">Wright, I.</author>
+, 
+<author pageId="0" pageNumber="67320">Reich, P. B.</author>
+, 
+<year pageId="0" pageNumber="67320">2006</year>
+. 
+<title pageId="0" pageNumber="67320">Fundamental tradeoffs generating the worldwide leaf economics spectrum</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Ecology</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">87</volume>
+: 
+<pagination pageId="0" pageNumber="67320">535 - 541</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Shipley, B." journalOrPublisher="Cambridge University Press" pageId="0" pageNumber="67320" refId="B6852964" title="Cause and correlation in biology" year="2016">
+<author pageId="0" pageNumber="67320">Shipley, B.</author>
+, 
+<year pageId="0" pageNumber="67320">2016</year>
+. 
+<title pageId="0" pageNumber="67320">Cause and correlation in biology</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Cambridge University Press</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Souchay, G." journalOrPublisher="Oikos" pageId="0" pageNumber="67320" pagination="125 - 133" refId="B6852981" title="Identifying drivers of breeding success in a long distance migrant using structural equation modelling" volume="127" year="2018">
+<author pageId="0" pageNumber="67320">Souchay, G.</author>
+, 
+<author pageId="0" pageNumber="67320">Wijk, R. E.</author>
+, 
+<author pageId="0" pageNumber="67320">Schaub, M.</author>
+, 
+<author pageId="0" pageNumber="67320">Bauer, S.</author>
+, 
+<year pageId="0" pageNumber="67320">2018</year>
+. 
+<title pageId="0" pageNumber="67320">Identifying drivers of breeding success in a long distance migrant using structural equation modelling</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Oikos</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">127</volume>
+: 
+<pagination pageId="0" pageNumber="67320">125 - 133</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="Steiner, M." journalOrPublisher="Journal of Applied Ecology" pageId="0" pageNumber="67320" refId="B6852990" title="Biodiversity effects on grape Quality depend on variety and management intensity" volume="In Press" year="2021">
+<author pageId="0" pageNumber="67320">Steiner, M.</author>
+, 
+<author pageId="0" pageNumber="67320">Grace, J. B.</author>
+, 
+<author pageId="0" pageNumber="67320">Bacher, S.</author>
+, 
+<year pageId="0" pageNumber="67320">2021</year>
+. 
+<title pageId="0" pageNumber="67320">Biodiversity effects on grape Quality depend on variety and management intensity</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">Journal of Applied Ecology</journalOrPublisher>
+<volume pageId="0" pageNumber="67320">In Press</volume>
+</bibRef>
+</paragraph>
+<paragraph pageId="0" pageNumber="67320">
+<bibRef author="VandenBos, G. R." journalOrPublisher="American Psychological Association" pageId="0" pageNumber="67320" refId="B6852999" title="APA dictionary of psychology" year="2007">
+<author pageId="0" pageNumber="67320">VandenBos, G. R.</author>
+, 
+<year pageId="0" pageNumber="67320">2007</year>
+. 
+<title pageId="0" pageNumber="67320">APA dictionary of psychology</title>
+. 
+<journalOrPublisher pageId="0" pageNumber="67320">American Psychological Association</journalOrPublisher>
+</bibRef>
+</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="67320" type="multiple">
+<caption httpUri="https://binary.pensoft.net/fig/525913" pageId="0" pageNumber="67320" start="Figure 1" startId="F6852006">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Figure 1.
+Structural equation meta-model representing the general modelling goal. Note that a meta-model is a generalisation that defines a finite set of possible fully-specified models. Dotted outlines are used to convey that the entities represented are general concepts rather than specific variables.
+</paragraph>
+</caption>
+<caption httpUri="https://binary.pensoft.net/fig/525737" pageId="0" pageNumber="67320" start="Figure 2" startId="F6852010">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Figure 2.
+Structural equation model representing the hypothesis that observed intercorrelations amongst response indicator variables (1 - 4) can be explained by a common cause, the generalised response. In contrast to Fig. 
+<figureCitation captionStart="Figure 1" captionStartId="F6852006" captionText="Figure 1. Structural equation meta-model representing the general modelling goal. Note that a meta-model is a generalisation that defines a finite set of possible fully-specified models. Dotted outlines are used to convey that the entities represented are general concepts rather than specific variables." httpUri="https://binary.pensoft.net/fig/525913" pageId="0" pageNumber="67320">1</figureCitation>
+, here we are dealing with specific variables, not concepts and solid outlines are used to represent that difference. Ellipses or circles are characteristically used to denote latent variables and rectangles used to denote observed variables (
+<bibRefCitation author="Grace, J. B." journalOrPublisher="Cambridge University Press" pageId="0" pageNumber="67320" refId="B6852862" refString="Grace, J. B., 2006. Structural equation modeling and natural systems. Cambridge University Press" title="Structural equation modeling and natural systems" year="2006">Grace 2006</bibRefCitation>
+, Chapter 4).
+</paragraph>
+</caption>
+<caption httpUri="https://binary.pensoft.net/fig/525914" pageId="0" pageNumber="67320" start="Figure 3" startId="F6852014">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Figure 3.
+Example SE model for the study of a general response to a specific perturbation and the role of a specific hypothesised mediator variable. See text for a discussion of notation.
+</paragraph>
+</caption>
+<caption httpUri="https://binary.pensoft.net/fig/559410" pageId="0" pageNumber="67320" start="Figure 4" startId="F6852018">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Figure 4.
+Meta-model for the ecological example referenced in this paper (modified from 
+<bibRefCitation author="Steiner, M." journalOrPublisher="Journal of Applied Ecology" pageId="0" pageNumber="67320" refId="B6852990" refString="Steiner, M., Grace, J. B., Bacher, S., 2021. Biodiversity effects on grape Quality depend on variety and management intensity. Journal of Applied Ecology In Press" title="Biodiversity effects on grape Quality depend on variety and management intensity" volume="In Press" year="2021">Steiner et al. 2021</bibRefCitation>
+).
+</paragraph>
+</caption>
+<caption httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320" start="Figure 5" startId="F6852022">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Figure 5.
+(A) The initial hypothesis evaluated by 
+<bibRefCitation author="Steiner, M." journalOrPublisher="Journal of Applied Ecology" pageId="0" pageNumber="67320" refId="B6852990" refString="Steiner, M., Grace, J. B., Bacher, S., 2021. Biodiversity effects on grape Quality depend on variety and management intensity. Journal of Applied Ecology In Press" title="Biodiversity effects on grape Quality depend on variety and management intensity" volume="In Press" year="2021">Steiner et al. 2021</bibRefCitation>
+for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties.
+</paragraph>
+</caption>
+<caption httpUri="https://binary.pensoft.net/fig/525743" pageId="0" pageNumber="67320" start="Figure 6" startId="F6852026">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Figure 6.
+(A) The Net Effect Model. (B) The Mediated Effect Model.
+</paragraph>
+</caption>
+<caption httpUri="https://binary.pensoft.net/fig/525744" pageId="0" pageNumber="67320" start="Figure 7" startId="F6852030">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Figure 7.
+Standardised results for the final full model showing both groups.
+</paragraph>
+</caption>
+<caption ID-Table-UUID="6FEEEEB8FCF291D3187990C95EC776A1" httpUri="http://table.plazi.org/id/6FEEEEB8FCF291D3187990C95EC776A1" pageId="0" pageNumber="67320" start="Table 1" startId="T6852034">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Table 1.
+Concepts related to the structural equation meta-model in Figure 4 and their relationships to measured variables (from 
+<bibRefCitation author="Steiner, M." journalOrPublisher="Journal of Applied Ecology" pageId="0" pageNumber="67320" refId="B6852990" refString="Steiner, M., Grace, J. B., Bacher, S., 2021. Biodiversity effects on grape Quality depend on variety and management intensity. Journal of Applied Ecology In Press" title="Biodiversity effects on grape Quality depend on variety and management intensity" volume="In Press" year="2021">Steiner et al. 2021</bibRefCitation>
+).
+</paragraph>
+</caption>
+<paragraph pageId="0" pageNumber="67320">
+<table pageId="0" pageNumber="67320">
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">
+<!--emphasis removed-->Concept of interest
+</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">
+<!--emphasis removed-->Measurements
+</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">
+<!--emphasis removed-->Scientific rationale
+</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Management intensity</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Intensity is a three-level index {1,2,3}.1 = minimal control of inter-row vegetation, 2 = vegetation removal in every other row between grape plants, 3 = vegetation removal in all rows between grape plants.</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">The primary purpose of management is to reduce competitive effects of non-crop plants on grape plants. It is assumed that competition primarily acts through reductions in soil water and nutrients, but other forms of interference could be possible.</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Non-crop vegetation properties</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Plant species richness (numbers),abundance of N-fixing plants (% cover)</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">One possibility we wished to consider was a general beneficial effect of plant richness on grape qualities due to complementarity.Another possibility of interest was a specific effect of the abundance of N-fixing plants on grape properties due to facilitation.</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Soil nitrogen</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Total soil N content (%)</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">We considered it possible that variations in total soil N might help explain variations in grape N. Such an effect either might or might not be indirectly related to management intensity.</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Grape qualities</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Nitrogen concentrationSugar concentrationTartaric acidMalic acid</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">We measured a suite of standard grape chemical parameters of importance for wine-making. While all of these parameters determine the character of wine, N concentration is perhaps of primary concern because of its critical role in the fermentation process (Bell and Henschke 2005)</td>
+</tr>
+</table>
+</paragraph>
+<caption ID-Table-UUID="4EFE13ACD942D191E0A3888AAD09098F" httpUri="http://table.plazi.org/id/4EFE13ACD942D191E0A3888AAD09098F" pageId="0" pageNumber="67320" start="Table 2" startId="T6852035">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Table 2.
+Correlations amongst simulated indicators of Grape Qualities.
+</paragraph>
+</caption>
+<paragraph pageId="0" pageNumber="67320">
+<table pageId="0" pageNumber="67320">
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Nitrogen</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Sugars</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Tartric Acid</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Malic Acid</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Nitrogen</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">1.00</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Sugars</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">-0.53</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">1.00</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Tartric Acid</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">0.40</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">-0.36</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">1.00</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">Malic Acid</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">0.61</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">-0.41</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">0.27</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">1.00</td>
+</tr>
+</table>
+</paragraph>
+<caption ID-Table-UUID="7A86985EAA5F5FAE5A61FF318D8382E2" httpUri="http://table.plazi.org/id/7A86985EAA5F5FAE5A61FF318D8382E2" pageId="0" pageNumber="67320" start="Table 3" startId="T6852036">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Table 3.
+R code for the Latent Response Model (Fig. 
+<figureCitation captionStart="Figure 5" captionStartId="F6852022" captionText="Figure 5. (A) The initial hypothesis evaluated by Steiner et al. 2021 for the Grape Qualities construct. (B) A slightly modified hypothesis that predicts sugar and malic acids will be more closely associated with each other than with the other measured properties." httpUri="https://binary.pensoft.net/fig/525915" pageId="0" pageNumber="67320">5</figureCitation>
+A) using the lavaan software (
+<bibRefCitation author="Team, R Core" journalOrPublisher="R Foundation for Statistical Computing" pageId="0" pageNumber="67320" refId="B6852947" refString="Team, R Core, 2019. R: A language and environment for statistical computing. R Foundation for Statistical Computing" title="R: A language and environment for statistical computing" year="2019">R Core Team 2019</bibRefCitation>
+, 
+<bibRefCitation author="Rosseel, Y." journalOrPublisher="Journal of Statistical Software" pageId="0" pageNumber="67320" pagination="1 - 36" refId="B6852955" refString="Rosseel, Y., 2012. lavaan: An R Package for Structural Equation Modeling. Journal of Statistical Software 48: 1 - 36" title="lavaan: An R Package for Structural Equation Modeling" volume="48" year="2012">Rosseel 2012</bibRefCitation>
+)
+</paragraph>
+</caption>
+<paragraph pageId="0" pageNumber="67320">
+<table pageId="0" pageNumber="67320">
+<tr pageId="0" pageNumber="67320">
+<td colspan="6" pageId="0" pageNumber="67320" rowspan="1">library(lavaan)</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="6" pageId="0" pageNumber="67320" rowspan="1">input.cov &lt;- '</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">2.602</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">-1.187</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">1.896</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">1.038</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">-0.781</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">2.536</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">1.270</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">-0.726</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">0.559</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">1.688</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">-0.592</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">0.451</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">0.147</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">-0.219</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">1.670</td>
+<td colspan="1" isEmpty="true" pageId="0" pageNumber="67320" rowspan="1">-</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">0.821</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">-0.364</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">-0.455</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">0.578</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">-0.864</td>
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">1.366 '</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="6" pageId="0" pageNumber="67320" rowspan="1">cov.dat &lt;- getCov(input.com, names = c("N", "Sugars", "Tart", "Malic", "Nfixers", "Mgt"))</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="6" pageId="0" pageNumber="67320" rowspan="1">cfa1 &lt;- 'GrapeQual =~ lambda1*N +lambda2*Sugars +lambda3*Tart +lambda4*Malic '</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="6" pageId="0" pageNumber="67320" rowspan="1">cfa1.fit &lt;- sem(cfa1, sample.cov = cfa.cov.dat, sample.nobs = 50)</td>
+</tr>
+</table>
+</paragraph>
+<caption ID-Table-UUID="E3B0472C6ACAF5AED5AD4583BF23203A" httpUri="http://table.plazi.org/id/E3B0472C6ACAF5AED5AD4583BF23203A" pageId="0" pageNumber="67320" start="Table 4" startId="T6852546">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Table 4.
+R code for examining the Net Effect Model (Fig. 
+<figureCitation captionStart="Figure 6" captionStartId="F6852026" captionText="Figure 6. (A) The Net Effect Model. (B) The Mediated Effect Model." httpUri="https://binary.pensoft.net/fig/525743" pageId="0" pageNumber="67320">6</figureCitation>
+A).
+</paragraph>
+</caption>
+<paragraph pageId="0" pageNumber="67320">
+<table pageId="0" pageNumber="67320">
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">
+## 
+<!--emphasis removed-->Initial Net Effect Model
+</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">LVNet1 &lt;- 'GrapeQual =~ lambda1*N +lambda2*Sugars +lambda3*Tart +lambda4*MalicManInten =~ lambda5*MgtGrapeQual ~ gamma1*ManInten'</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">LVNet1.fit &lt;- sem(LVNet1, sample.cov=cov.dat, sample.nobs=50</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">show(LVNet1.fit); fitMeasures(LVNet1.fit, "cfi")subset(modindices(LVNet1.fit), mi&gt;3)</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">
+## 
+<!--emphasis removed-->Revised Net Effect Model
+</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">LVNet2 &lt;- 'GrapeQual =~ lambda1*N +lambda2*Sugars +lambda3*Tart +lambda4*MalicManInten =~ lambda5*MgtGrapeQual ~ gamma1*ManIntenTart ~ gamma3*ManInten'</td>
+</tr>
+</table>
+</paragraph>
+<caption ID-Table-UUID="2908A4647ACAE75D88F03EC8B7E716E3" httpUri="http://table.plazi.org/id/2908A4647ACAE75D88F03EC8B7E716E3" pageId="0" pageNumber="67320" start="Table 5" startId="T6852665">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Table 5.
+R code for examining the Mediated Effect Model (Fig. 
+<figureCitation captionStart="Figure 6" captionStartId="F6852026" captionText="Figure 6. (A) The Net Effect Model. (B) The Mediated Effect Model." httpUri="https://binary.pensoft.net/fig/525743" pageId="0" pageNumber="67320">6</figureCitation>
+B).
+</paragraph>
+</caption>
+<paragraph pageId="0" pageNumber="67320">
+<table pageId="0" pageNumber="67320">
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">
+### 
+<!--emphasis removed-->Initial Mediated Effect Model
+</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">LVmed1 &lt;- 'GrapeQual =~ lambda1*N +lambda2*Sugars +lambda3*Tart +lambda4*MalicManInten =~ lambda5*MgtNonCrop =~ lambda6*NfixersGrapeQual ~ gamma1*ManInten + beta1*NonCropNonCrop ~ gamma2*ManInten'</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">
+### 
+<!--emphasis removed-->Revised Mediated Effect Model
+</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">LVmed2 &lt;- 'GrapeQual =~ lambda1*N +lambda2*Sugars +lambda3*Tart +lambda4*MalicManInten =~ lambda5*MgtNonCrop =~ lambda6*NfixersGrapeQual ~ gamma1*ManInten + beta1*NonCropNonCrop ~ gamma2*ManIntenTart ~ gamma3*ManInten' #added direct effect</td>
+</tr>
+</table>
+</paragraph>
+<caption ID-Table-UUID="6680D83DBE22A621121D721E5DA197A5" httpUri="http://table.plazi.org/id/6680D83DBE22A621121D721E5DA197A5" pageId="0" pageNumber="67320" start="Table 6" startId="T6852690">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Table 6.
+Example R code for multigroup analysis of full model.
+</paragraph>
+</caption>
+<paragraph pageId="0" pageNumber="67320">
+<table pageId="0" pageNumber="67320">
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">
+## 
+<!--emphasis removed-->CFA independence model with distinct labels for each group
+</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">mg.mod0 &lt;- 'GrapeQual =~ c("lambda1a","lambda1b")*N+ c("lambda2a","lambda2b")*Sugars+ c("lambda3a","lambda3b")*Tart+ c("lambda4a","lambda4b")*Malic'</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">
+## 
+<!--emphasis removed-->CFA model with parameters equal across groups (using repeat labels)
+</td>
+</tr>
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">mg.mod1 &lt;- 'GrapeQual =~ c("lambda1","lambda1")*N+ c("lambda2","lambda2")*Sugars+ c("lambda3","lambda3")*Tart + c("lambda4","lambda4")*Malic'</td>
+</tr>
+</table>
+</paragraph>
+<caption ID-Table-UUID="593C1412776901B79578B63D50EB0BAC" httpUri="http://table.plazi.org/id/593C1412776901B79578B63D50EB0BAC" pageId="0" pageNumber="67320" start="Table 7" startId="T6852732">
+<paragraph pageId="0" pageNumber="67320">
+<!--emphasis removed-->Table 7.
+R code for final multigroup analysis of full model.
+</paragraph>
+</caption>
+<paragraph pageId="0" pageNumber="67320">
+<table pageId="0" pageNumber="67320">
+<tr pageId="0" pageNumber="67320">
+<td colspan="1" pageId="0" pageNumber="67320" rowspan="1">mg.mod4 &lt;- '# declare latent variablesGrapeQual =~ c("lambda1","lambda1")*N + c("lambda2","lambda2")*Sugars+ c("lambda3","lambda3")*Tart+ c("lambda4","lambda4")*MalicManInten =~ c("lambda5","lambda5")*MgtNonCrop =~ c("lambda6","lambda6")*Nfixers# regressionsGrapeQual ~ c("gamma1a","gamma1b")*ManInten+ c("beta1a","beta1b")*NonCropNonCrop ~ c("gamma2a","gamma2b")*ManIntenTart ~ c("gamma3a","gamma3b")*ManInten# set constraintsbeta1a == 0gamma3b == 0gamma2a == gamma2b'</td>
+</tr>
+</table>
+</paragraph>
+<supplement ID-arpha="30999FB0-DE85-585F-8A8A-D941AA37FE29" ID-doi="10.3897/oneeco.6.e67320.suppl1" httpUri="https://binary.pensoft.net/file/559472" pageId="0" pageNumber="67320">
+<paragraph pageId="0" pageNumber="67320">Supplementary material 1 A protocol for modelling generalised biological responses using latent variables in structural equation models Data type</paragraph>
+<paragraph pageId="0" pageNumber="67320">Mathematical equations and notation for latent variable structural equation modelling.</paragraph>
+<paragraph pageId="0" pageNumber="67320">Brief description</paragraph>
+<paragraph pageId="0" pageNumber="67320">This text file contains the equations and notation mentioned in Grace JB, Steiner M (2021) A protocol for modelling generalised biological responses using latent variables in structural equation models. One Ecosystem</paragraph>
+<paragraph pageId="0" pageNumber="67320">File: oo_559472.pdf</paragraph>
+<paragraph pageId="0" pageNumber="67320">Grace JB, Steiner M</paragraph>
+</supplement>
+<supplement ID-arpha="A5E51F5D-8798-5308-AD94-835C295AC78C" ID-doi="10.3897/oneeco.6.e67320.suppl2" httpUri="https://binary.pensoft.net/file/562638" pageId="0" pageNumber="67320">
+<paragraph pageId="0" pageNumber="67320">Supplementary material 2 A protocol for modelling generalised biological responses using latent variables in structural equation models Data type</paragraph>
+<paragraph pageId="0" pageNumber="67320">Results Tables</paragraph>
+<paragraph pageId="0" pageNumber="67320">Brief description</paragraph>
+<paragraph pageId="0" pageNumber="67320">This file contains the results tables for the demonstrations included in Grace JB, Steiner M (2021) A protocol for modelling generalised biological responses using latent variables in structural equation models. One Ecosystem.</paragraph>
+<paragraph pageId="0" pageNumber="67320">File: oo_562638.pdf</paragraph>
+<paragraph pageId="0" pageNumber="67320">Grace JB, Steiner M</paragraph>
+</supplement>
+<supplement ID-arpha="58B26F77-17CA-5DCF-BBAB-6E5834F1CA14" ID-doi="10.3897/oneeco.6.e67320.suppl3" httpUri="https://binary.pensoft.net/file/559445" pageId="0" pageNumber="67320">
+<paragraph pageId="0" pageNumber="67320">Supplementary material 3 A protocol for modelling generalised biological responses using latent variables in structural equation models Data type</paragraph>
+<paragraph pageId="0" pageNumber="67320">R code</paragraph>
+<paragraph pageId="0" pageNumber="67320">Brief description</paragraph>
+<paragraph pageId="0" pageNumber="67320">: This text file contains the R code used to develop the demonstrations included in Grace JB, Steiner M (2021) A protocol for modelling generalised biological responses using latent variables in structural equation models. One Ecosystem.</paragraph>
+<paragraph pageId="0" pageNumber="67320">File: oo_559445.R</paragraph>
+<paragraph pageId="0" pageNumber="67320">Grace JB, Steiner, M</paragraph>
+</supplement>
+</subSection>
+</document>

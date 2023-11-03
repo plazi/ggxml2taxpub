@@ -1,0 +1,2614 @@
+<?xml version="1.0" encoding="UTF-8"?><document xmlns:dwc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:tp="http://www.plazi.org/taxpub" xmlns:xlink="http://www.w3.org/1999/xlink" ID-DOI="http://dx.doi.org/10.3897/jor.27.23700" ID-Pensoft-Pub="1937-2426-2-203" ModsDocAuthor="" ModsDocDate="2018" ModsDocID="1937-2426-2-203" ModsDocOrigin="Journal of Orthoptera Research 27 (2)" ModsDocTitle="Acoustic profiling of Orthoptera: present state and future needs" checkinTime="1558621641373" checkinUser="pensoft" docAuthor="Riede, Klaus" docDate="2018" docId="0001B61964342447FFB7D51CFFD55E21" docName="JourOrthoptRes 27(2): 203-215" docOrigin="Journal of Orthoptera Research 27 (2)" docSource="http://dx.doi.org/10.3897/jor.27.23700" docTitle="Acoustic profiling of Orthoptera: present state and future needs" docVersion="3" lastPageNumber="215" pageNumber="203" updateTime="1585373365223" updateUser="pensoft">
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Acoustic profiling of Orthoptera: present state and future needs</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Riede, Klaus</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Journal of Orthoptera Research</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>27</mods:number>
+</mods:detail>
+<mods:detail type="issue">
+<mods:number>2</mods:number>
+</mods:detail>
+<mods:date>2018</mods:date>
+<mods:extent unit="page">
+<mods:start>203</mods:start>
+<mods:end>215</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://dx.doi.org/10.3897/jor.27.23700</mods:url>
+</mods:location>
+<mods:identifier type="DOI">http://dx.doi.org/10.3897/jor.27.23700</mods:identifier>
+<mods:identifier type="Pensoft-Pub">1937-2426-2-203</mods:identifier>
+<mods:classification>journal article</mods:classification>
+</mods:mods>
+<subSection pageId="0" pageNumber="203" type="introduction">
+<paragraph pageId="0" pageNumber="203">
+<pageBreakToken origin="extrapolated" pageId="0" pageNumber="203" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph pageId="0" pageNumber="203">
+A considerable number of animal species produce species-specific sounds for communication, indicating their presence acoustically. Among the most impressive examples are tropical rainforest insects, producing a huge variety of audible signals, while only very few can actually be seen (
+<bibRefCitation author="Riede, K" journalOrPublisher="Ambio" pageId="10" pageNumber="213" pagination="546 - 548" title="Monitoring biodiversity: Analysis of Amazonian rainforest sounds." url="https://www.jstor.org/stable/4314145" volume="22" year="1993">Riede 1993</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="203">
+There is a long tradition in ornithology of identifying birds by their songs (
+<bibRefCitation author="Parker, TA III" journalOrPublisher="Auk" pageId="10" pageNumber="213" pagination="443 - 444" title="On the use of tape recorders in avifaunal surveys." volume="108" year="1991">Parker 1991</bibRefCitation>
+). Acoustic assessment forms part of regular censusing (reviewed by 
+<bibRefCitation author="Brandes, TS" journalOrPublisher="Bird Conservation International" pageId="8" pageNumber="211" pagination="163 - 173" title="Automated sound recording and analysis techniques for bird surveys and conservation." url="https://doi.org/10.1017/S0959270908000415" volume="18" year="2008">Brandes 2008</bibRefCitation>
+), or targeted searches for flagship species such as the Ivory Woodpecker (
+<bibRefCitation author="Swiston, KA" journalOrPublisher="Journal of Field Ornithology" pageId="11" pageNumber="214" pagination="42 - 50" title="Comparison of manual and automated methods for identifying target sounds in audio recordings of Pileated, Pale-billed, and putative Ivory-billed woodpeckers." url="https://doi.org/10.1111/j.1557-9263.2009.00204.x" volume="80" year="2009">Swiston and Mennill 2009</bibRefCitation>
+). Efficiency and reproducibility of human observers can be increased considerably by using powerful directional microphones in combination with cheap portable sound recording devices and bat detectors, allowing monitoring of high frequency or even ultrasound signals (reviewed by 
+<bibRefCitation pageId="0" pageNumber="203">Obrist et al. 2010</bibRefCitation>
+, p. 79). Several research groups developed sophisticated autonomous sound recording and automated classification techniques, facilitating monitoring and inventorying of birds (
+<bibRefCitation author="Haselmayer, J" journalOrPublisher="ZooKeys" pageId="9" pageNumber="212" url="https://doi.org/10.1650/0010-5422(2000)102[0887:ACOPCA]2.0.CO;2" year="2000">Haselmayer and Quinn 2000</bibRefCitation>
+, 
+<bibRefCitation author="Celis-Murillo, A" journalOrPublisher="Journal of Field Ornithology" pageId="8" pageNumber="211" pagination="64 - 78" title="Using soundscape recordings to estimate bird species abundance, richness, and composition." url="https://doi.org/10.1111/j.1557-9263.2009.00206.x" volume="80" year="2009">Celis-Murillo et al. 2009</bibRefCitation>
+; but see 
+<bibRefCitation author="Hutto, RL" journalOrPublisher="Journal of Field Ornithology" pageId="9" pageNumber="212" pagination="387 - 398" title="Humans versus autonomous recording units: a comparison of point-count results." url="https://doi.org/10.1111/j.1557-9263.2009.00245.x" volume="80" year="2009">Hutto and Stutzman 2009</bibRefCitation>
+, for a discussion of limitations), whales (
+<bibRefCitation author="Sirovic, A" journalOrPublisher="Marine Mammal Science" pageId="11" pageNumber="214" pagination="125 - 136" title="Blue and fin whale acoustic presence around Antarctica during 2003 and 2004." url="https://doi.org/10.1111/j.1748-7692.2008.00239.x" volume="25" year="2009">
+<normalizedToken originalValue="Širović">Sirovic</normalizedToken>
+et al. 2009
+</bibRefCitation>
+), bats (
+<bibRefCitation author="Jennings, N" journalOrPublisher="Canadian Journal of Zoology" pageId="10" pageNumber="213" pagination="371 - 377" title="Human vs. machine: identification of bat species from their echolocation calls by humans and by artificial neural networks." url="https://doi.org/10.1139/Z08-009" volume="86" year="2008">Jennings et al. 2008</bibRefCitation>
+), frogs (
+<bibRefCitation author="Hu, W" journalOrPublisher="ACM Transactions on Sensor Networks" pageId="9" pageNumber="212" pagination="1 - 28" title="Design and evaluation of a hybrid sensor network for cane toad monitoring." url="https://doi.org/10.1145/1464420.1464424" volume="5" year="2009">Hu et al. 2009</bibRefCitation>
+), crickets (
+<bibRefCitation author="Riede, K" journalOrPublisher="Ambio" pageId="10" pageNumber="213" pagination="546 - 548" title="Monitoring biodiversity: Analysis of Amazonian rainforest sounds." url="https://www.jstor.org/stable/4314145" volume="22" year="1993">Riede 1993</bibRefCitation>
+, 
+<bibRefCitation pageId="0" pageNumber="203">Nischk and Riede 2001</bibRefCitation>
+, 
+<bibRefCitation author="Riede, K" journalOrPublisher="Ambio" pageId="10" pageNumber="213" url="https://doi.org/10.1665/1082-6467(2006)15[105:AAOOSF]2.0.CO;2" year="2006">Riede et al. 2006</bibRefCitation>
+), bushcrickets (
+<bibRefCitation author="Penone, C" journalOrPublisher="Conservation Biology" pageId="10" pageNumber="213" pagination="979 - 987" title="Use of large-scale acoustic monitoring to assess anthropogenic pressures on Orthoptera communities." url="https://doi.org/10.1111/cobi.12083" volume="27" year="2013">Penone et al. 2013</bibRefCitation>
+) and grasshoppers (
+<bibRefCitation author="Chesmore, ED" journalOrPublisher="Bulletin of Entomological Research" pageId="9" pageNumber="212" pagination="319 - 330" title="Automated identification of field-recorded songs of four British grasshoppers using bioacoustic signal recognition." url="https://doi.org/10.1079/BER2004306" volume="94" year="2004">Chesmore and Ohya 2004</bibRefCitation>
+, 
+<bibRefCitation author="Gardiner, T" journalOrPublisher="Journal of Insect Conservation" pageId="9" pageNumber="212" pagination="151 - 173" title="Review of the methods frequently used to estimate the abundance of Orthoptera in grassland ecosystems." url="https://doi.org/10.1007/s10841-005-2854-1" volume="9" year="2005">Gardiner et al. 2005</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="203">
+Due to their small size, high species diversity, strong population fluctuations, and cryptic lifestyles, insects are particularly difficult to monitor, requiring expensive and frequent sampling of specimens (
+<bibRefCitation author="Gardner, TA" journalOrPublisher="Ecology Letters" pageId="9" pageNumber="212" pagination="139 - 150" title="The cost-effectiveness of biodiversity surveys in tropical forests." url="https://doi.org/10.1111/j.1461-0248.2007.01133.x" volume="11" year="2008">Gardner et al. 2008</bibRefCitation>
+). The species-specific songs of 
+<taxonomicName lsidName="" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+enable detectability by acoustic monitoring. With the help of adequate equipment, recordings can be used for discovery of hitherto undescribed, 
+<normalizedToken originalValue="“new”">"new"</normalizedToken>
+species, detection of endemics, non-invasive mapping of species abundances and ranges (
+<bibRefCitation author="Penone, C" journalOrPublisher="Conservation Biology" pageId="10" pageNumber="213" pagination="979 - 987" title="Use of large-scale acoustic monitoring to assess anthropogenic pressures on Orthoptera communities." url="https://doi.org/10.1111/cobi.12083" volume="27" year="2013">Penone et al. 2013</bibRefCitation>
+), and rapid assessment of community structure and species turnover (
+<bibRefCitation author="Forrest, TG" journalOrPublisher="The Florida Entomologist" pageId="9" pageNumber="212" pagination="416 - 426" title="Using insect sounds to estimate and monitor their populations." url="https://doi.org/10.2307/3495001" volume="71" year="1988">Forrest 1988</bibRefCitation>
+), particularly in complex habitats with low visibility (
+<bibRefCitation author="Riede, K" journalOrPublisher="Ambio" pageId="10" pageNumber="213" pagination="546 - 548" title="Monitoring biodiversity: Analysis of Amazonian rainforest sounds." url="https://www.jstor.org/stable/4314145" volume="22" year="1993">Riede 1993</bibRefCitation>
+, 
+<bibRefCitation author="Diwakar, S" journalOrPublisher="Biodiversity Conservation" pageId="9" pageNumber="212" pagination="4081 - 4093" title="Psychoacoustic sampling as a reliable, noninvasive method to monitor orthopteran species diversity in tropical forests." url="https://doi.org/10.1007/s10531-007-9208-0" volume="16" year="2007">Diwakar et al. 2007</bibRefCitation>
+, 
+<bibRefCitation author="Schmidt, AK" journalOrPublisher="Behavioral Ecology" pageId="11" pageNumber="214" pagination="470 - 480" title="Spectral niche segregation and community organization in a tropical cricket assemblage." url="https://doi.org/10.1093/beheco/ars187" volume="24" year="2013">Schmidt et al. 2013</bibRefCitation>
+). At present, information on phenology, activity patterns, abundance, and community structure is only available for a very small number of insects, but is urgently needed to document potentially dramatic effects of climate change and changing land use patterns on insect communities (
+<bibRefCitation author="Garnas, JR" journalOrPublisher="Current Opinion in Insect Science" pageId="9" pageNumber="212" pagination="93 - 101" title="Rapid evolution of insects to global environmental change: conceptual issues and empirical gaps." url="https://doi.org/10.1016/j.cois.2018.07.013" volume="29" year="2018">Garnas 2018</bibRefCitation>
+, 
+<bibRefCitation author="Maurer, JA" journalOrPublisher="Biological Reviews" pageId="10" pageNumber="213" url="https://doi.org/10.1371/journal.pone.0202850" year="2018">Maurer et al. 2018</bibRefCitation>
+). The high number of stridulating species among the 
+<taxonomicName lsidName="" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+is both an opportunity and a challenge for compiling these highly needed datasets by acoustic profiling.
+</paragraph>
+<paragraph pageId="0" pageNumber="203">
+Besides species discovery, the potential of acoustic monitoring for Environmental Impact Assessments and Red Listing of 
+<taxonomicName lsidName="" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+is evident. 
+<bibRefCitation author="Cordero, PJ" journalOrPublisher="Zootaxa" pageId="9" pageNumber="212" pagination="63 - 68" title="Recognizing taxonomic units in the field - The case of the crickets Oecanthusdulcisonans Gorochov, 1993, and O. pellucens (Scopoli, 1763) (Orthoptera: Gryllidae): implications for their distribution and conservation in Southern Europe." volume="2284" year="2009">Cordero et al. (2009)</bibRefCitation>
+recognized and mapped the rare and endangered silver-bell cricket 
+<taxonomicName genus="Oecanthus" lsidName="Oecanthus dulcisonans" pageId="0" pageNumber="203" rank="species" species="dulcisonans">Oecanthus dulcisonans</taxonomicName>
+Gorochov, 1993 by its song. On the island of 
+<normalizedToken originalValue="Réunion">Reunion</normalizedToken>
+, several endemic crickets are indicator species for native forest, and acoustic monitoring was applied successfully to survey a reforestation program (
+<bibRefCitation author="Hugel, S" journalOrPublisher="Journal of Insect Conservation" pageId="9" pageNumber="212" pagination="473 - 477" title="Impact of native forest restoration on endemic crickets and katydids density in Rodrigues island." url="https://doi.org/10.1007/s10841-012-9476-1" volume="16" year="2012">Hugel 2012</bibRefCitation>
+). The strong high-frequency components of bushcricket songs allow separation from ambient noise by high-pass filtering. Due to their strong ultrasound components, 
+<bibRefCitation author="Penone, C" journalOrPublisher="Conservation Biology" pageId="10" pageNumber="213" pagination="979 - 987" title="Use of large-scale acoustic monitoring to assess anthropogenic pressures on Orthoptera communities." url="https://doi.org/10.1111/cobi.12083" volume="27" year="2013">Penone et al. (2013)</bibRefCitation>
+were able to map singing specimens along roadsides in France, using ultrasound bat recorders.
+</paragraph>
+<paragraph pageId="0" pageNumber="203">
+Several bioacoustic monitoring studies focusing on 
+<taxonomicName lsidName="" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+applied (semi-)automatic identification (
+<bibRefCitation author="Fischer, FP" journalOrPublisher="Journal of Ecoacoustics" pageId="9" pageNumber="212" url="https://doi.org/10.1890/1051-0761(1997)007[0909:QAOGQA]2.0.CO;2" year="1997">Fischer et al. 1997</bibRefCitation>
+, 
+<bibRefCitation author="Gardiner, T" journalOrPublisher="Journal of Insect Conservation" pageId="9" pageNumber="212" pagination="151 - 173" title="Review of the methods frequently used to estimate the abundance of Orthoptera in grassland ecosystems." url="https://doi.org/10.1007/s10841-005-2854-1" volume="9" year="2005">Gardiner et al. 2005</bibRefCitation>
+) illustrating the potential of the method. However, there are severe challenges impeding further progress. Among these are the lack of baseline data (
+<bibRefCitation author="Lehmann, GUC" journalOrPublisher="Journal of Insect Conservation" pageId="10" pageNumber="213" pagination="905 - 925" title="Baseline data for automated acoustic monitoring of Orthoptera in a Mediterranean landscape, the Hymettos, Greece." url="https://doi.org/10.1007/s10841-014-9700-2" volume="18" year="2014">Lehmann et al. 2014</bibRefCitation>
+) for the respective region where acoustic monitoring is planned. Lists of candidate species are missing for most regions of the world, even for the comparatively well-known European fauna. Another bottleneck is the lack of well-curated song reference libraries, which will be the main topic of this paper.
+</paragraph>
+<paragraph pageId="0" pageNumber="203">
+Comprehensive song libraries are paramount for acoustic profiling of entire communities, either machine-based or relying on human expertise. At present, there is not even a simple identification tool for unknown 
+<taxonomicName lsidName="" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+songs. The vision is to upload a sound recording to a data warehouse portal and search for similar acoustic patterns, comparable to the Basic Local Alignment Search Tool (BLAST, 
+<bibRefCitation author="Altschul, SF" journalOrPublisher="Journal of Molecular Biology" pageId="8" pageNumber="211" pagination="403 - 410" title="Basic local alignment search tool." url="https://doi.org/10.1016/S0022-2836(05)80360-2" volume="215" year="1990">Altschul et al. 1990</bibRefCitation>
+), available as a tool in genetic databases (e.g. National Center for Biotechnology Information (NCBI), http://blast.ncbi.nlm.nih.gov/Blast.cgi). However, this requires comprehensive databases. Upload of sequence data to GenBank is a pre-requisite for publication in peer-reviewed journals (see editorial policies for data sharing and submission guidelines of major journals, e.g. https://journals.plos.org/plosgenetics/s/submission-guidelines#loc-accession-numbers). As a result, we now have comprehensive repositories for gene sequences. As will be shown below, 
+<taxonomicName lsidName="" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+song libraries are far from comprehensive. An editorial policy of obligatory submission of original sound files to selected sound libraries would rapidly improve coverage of existing sound repositories, which is a necessary condition for progress of computer-aided species identification.
+</paragraph>
+<paragraph pageId="0" pageNumber="203">
+This article explores several acoustic archives and their pros and cons as a possible repository for song reference recordings, based on data-mining of existing online sound repositories for 
+<taxonomicName lsidName="" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+songs. By analyzing the lessons learnt, I present a strategic framework for establishing acoustic profiling as a core element of future automatized monitoring schemes, targeting all vocalizing animals within entire soundscapes.
+</paragraph>
+</subSection>
+<subSection lastPageId="4" lastPageNumber="207" pageId="0" pageNumber="203" type="present knowledge of orthoptera songs and coverage in sound repositories">
+<paragraph pageId="0" pageNumber="203">
+Present knowledge of 
+<taxonomicName lsidName="" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+songs and coverage in sound repositories
+</paragraph>
+<paragraph pageId="0" pageNumber="203">
+The analysis of insect sounds started with simple, descriptive verbal descriptions and musical annotation, pioneered by 
+<bibRefCitation author="Scudder, SH" journalOrPublisher="American Naturalist" pageId="11" pageNumber="214" pagination="113 - 120" title="The songs of the grasshoppers." url="https://doi.org/10.1086/270197" volume="2" year="1868">Scudder (1868)</bibRefCitation>
+for North American and 
+<bibRefCitation author="Yersin, AJ" journalOrPublisher="Bulletins des Seances de la societe Vaudoise des Sciences Naturelles" pageId="11" pageNumber="214" pagination="108 - 128" title="Memoire sur quelques faits relative a la stridulation des Orthopteres et leur distribution geographique en Europe." volume="4" year="1854">Yersin (1854)</bibRefCitation>
+for European grasshoppers (reviewed by 
+<bibRefCitation pageId="0" pageNumber="203">Ragge and Reynolds 1998</bibRefCitation>
+: p. 64). 
+<bibRefCitation pageId="0" pageNumber="203">Faber (1953)</bibRefCitation>
+focused on their function for intraspecific communication, with elaborate verbal transcriptions of songs and entire behavioral sequences, including optical displays. Research about female attraction - phonotaxis - elicited by these stereotyped songs has a long history, reviewed by 
+<bibRefCitation pageId="0" pageNumber="203">Weber and Thorson (1989)</bibRefCitation>
+. Some crickets and several gomphocerine grasshopper species were used as model organisms for sophisticated neuroethological and biological experiments to unravel underlying neural circuitry (for 
+<taxonomicName genus="Gryllus" lsidName="Gryllus bimaculatus" pageId="0" pageNumber="203" rank="species" species="bimaculatus">Gryllus bimaculatus</taxonomicName>
+, 
+<taxonomicName genus="G." lsidName="G. campestris" pageId="0" pageNumber="203" rank="species" species="campestris">G. campestris</taxonomicName>
+: 
+<bibRefCitation pageId="0" pageNumber="203">Weber and Thorson 1989</bibRefCitation>
+, 
+<bibRefCitation author="Schoeneich, S" journalOrPublisher="Behavioral Ecology" pageId="11" pageNumber="214" url="https://doi.org/10.1126/sciadv.1500325" year="2015">
+<normalizedToken originalValue="Schöneich">Schoeneich</normalizedToken>
+et al. 2015
+</bibRefCitation>
+; for 
+<taxonomicName family="Acrididae" lsidName="" pageId="0" pageNumber="203" rank="family">Acrididae</taxonomicName>
+: 
+<bibRefCitation author="Roemer, H" journalOrPublisher="Journal of Comparative Physiology A" pageId="10" pageNumber="213" pagination="249 - 262" title="Morphology and physiology of auditory interneurons in the metathoracic ganglion of the locust." url="https://doi.org/10.1007/BF00612642" volume="155" year="1984">Roemer and Marquart 1984</bibRefCitation>
+, 
+<bibRefCitation author="Helversen, D von" journalOrPublisher="ZooKeys" pageId="9" pageNumber="212" url="https://doi.org/10.1007/s004220050496" year="1998">Helversen and Helversen 1998</bibRefCitation>
+, 
+<bibRefCitation author="Ronacher, B" journalOrPublisher="Journal of Comparative Physiology A" pageId="10" pageNumber="213" pagination="517 - 523" title="Filtering of behaviourally relevant temporal parameters of a grasshopper's song by an auditory interneuron." url="https://doi.org/10.1007/BF00604905" volume="163" year="1988">Ronacher and Stumpner 1988</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="0" pageNumber="203">
+It is now widely demonstrated that most 
+<taxonomicName lsidName="" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+songs are inborn, stereotyped and species-specific, providing reliable taxonomic features. Most species exhibit a maximum of only three distinct song types: calling, courtship, and rival song, depending on the behavioral context. Striking differences in calling song structure of morphologically similar species helped taxonomists to diagnose and describe "cryptic species", many of which cannot be determined without a sound recording. In a seminal paper, 
+<bibRefCitation author="Walker, TJ" journalOrPublisher="Quarterly Review of Biology" pageId="11" pageNumber="214" pagination="345 - 355" title="Cryptic species among sound-producing ensiferan Orthoptera (Gryllidae and Tettigoniidae)." url="https://doi.org/10.1086/404325" volume="39" year="1964">Walker (1964)</bibRefCitation>
+reviewed studies on songs and taxonomy of North American 
+<taxonomicName lsidName="" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+, searching for eventual cryptic species. He concluded that "approximately one-fourth of the species of gryllids and tettigoniids of the eastern United States had never been recognized or had been wrongly synonymized." (l.c., p. 346). His discovery and description of "virtuoso katydids" (uhleri group of the genus 
+<taxonomicName genus="Amblycorypha" lsidName="Amblycorypha" pageId="0" pageNumber="203" rank="genus">Amblycorypha</taxonomicName>
+: 
+<bibRefCitation author="Walker, TJ" journalOrPublisher="Quarterly Review of Biology" pageId="11" pageNumber="214" url="https://doi.org/10.1665/1082-6467(2004)013[0169:TUGOTG]2.0.CO;2" year="2004 a">Walker 2004a</bibRefCitation>
+) corroborated this prediction.
+</paragraph>
+<paragraph pageId="0" pageNumber="203">
+Regional faunistic surveys including songs were pioneered by 
+<bibRefCitation author="Pierce, GW" journalOrPublisher="Conservation Biology" pageId="10" pageNumber="213" url="https://doi.org/10.4159/harvard.9780674420663" year="1948">Pierce (1948)</bibRefCitation>
+and 
+<bibRefCitation pageId="0" pageNumber="203">Alexander (1956)</bibRefCitation>
+for North American crickets, 
+<bibRefCitation pageId="0" pageNumber="203">Otte and Alexander (1983)</bibRefCitation>
+for Australian crickets, and 
+<bibRefCitation pageId="0" pageNumber="203">Heller (1988)</bibRefCitation>
+for European 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" pageId="0" pageNumber="203" rank="superfamily" superfamily="Tettigonioidea">Tettigonioidea</taxonomicName>
+. Each of these studies provided graphic representations and comparative analysis of acoustic signatures for hundreds of species, highlighting pronounced interspecific differences in frequency composition and temporal structure.
+</paragraph>
+<paragraph pageId="0" pageNumber="203">Original recordings are available for only a small fraction of these pioneer studies, as analog tapes or on CD (see below). In any case, most authors published basic song parameters and graphic representations revealing frequency composition (spectrograms and power spectra) and temporal structure (oscillograms, cf. Fig. 1). These parameters could eventually be used as preliminary proxies in annotated repositories, and later be supplemented by song recordings.</paragraph>
+<caption pageId="0" pageNumber="203">
+<paragraph pageId="0" pageNumber="203">
+Fig. 1. Web-based sound analysis tool for the Macaulay Sound Library, Cornell Lab (https://www.macaulaylibrary.org). Macaulay Library provides more than 400,000 playable audio files (http://macaulaylibrary.org/index.do), and even permits spectrographic online visualization using RavenViewer as a free browser plugin (http://www.birds.cornell.edu/brp/software/sound-analysis-tools). The example shows a recording of a Virtuoso katydid by T. Walker, who provided most of the 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+sound recordings for this sound library. For further details, see text.
+</paragraph>
+</caption>
+<paragraph pageId="0" pageNumber="203">
+An adequate analysis of 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+songs cannot be achieved by the unaided human ear but requires visualization and temporal analysis by signal analysis software. A wide variety of programs is now available for personal computers (for an extensive list see 
+<bibRefCitation pageId="0" pageNumber="203">Obrist et al. 2010</bibRefCitation>
+), including the RavenViewer plug-in for the Firefox web-browser, allowing online analysis (Fig. 1).
+</paragraph>
+<paragraph pageId="0" pageNumber="203">
+Particularly for tropical 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+, reliable species identification is only possible by determination of a collected voucher specimen, which often turns out to be an unknown species in need of taxonomic description. Therefore, most tropical 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+are caught and recorded in captivity, to establish a reliable cross-reference between voucher specimen and recording. Besides essential parameters like time, recordist, etc. (cf. Table II in 
+<bibRefCitation author="Ranft, R" journalOrPublisher="Anais da Academia Brasileira de Ciencias" pageId="10" pageNumber="213" pagination="456 - 460" title="Natural sound archives: past, present and future. Appendix: Neotropical Sound Archives. Case studies." url="http://dx.doi.org/10.1590/S0001-37652004000200041" volume="76" year="2004">Ranft 2004</bibRefCitation>
+), temperature must always be annotated because temporal patterns of 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="0" pageNumber="203" rank="order">Orthoptera</taxonomicName>
+songs depend considerably on temperature ("Dolbear's law": 
+<bibRefCitation author="Dolbear, A" journalOrPublisher="American Naturalist" pageId="9" pageNumber="212" pagination="970 - 971" title="The cricket as a thermometer." url="https://doi.org/10.1086/276739" volume="31" year="1897">Dolbear 1897</bibRefCitation>
+, 
+<bibRefCitation author="Frings, H" journalOrPublisher="Journal of Experimental Zoology" pageId="9" pageNumber="212" pagination="33 - 51" title="Effects of temperature on the ordinary song of the common meadow grasshopper, Orchelimumvulgare (Orthoptera: Tettigoniidae)." url="https://doi.org/10.1002/jez.1401510104" volume="151" year="1962">Frings and Frings 1962</bibRefCitation>
+).
+</paragraph>
+<paragraph lastPageId="1" lastPageNumber="204" pageId="0" pageNumber="203">
+Older recordings and state of digitization.-The history of analog recordings starts in 1889, and major archives of wildlife recordings go back to the 1940s (for a historical synopsis see 
+<bibRefCitation author="Ranft, R" journalOrPublisher="Anais da Academia Brasileira de Ciencias" pageId="10" pageNumber="213" pagination="456 - 460" title="Natural sound archives: past, present and future. Appendix: Neotropical Sound Archives. Case studies." url="http://dx.doi.org/10.1590/S0001-37652004000200041" volume="76" year="2004">Ranft 2004</bibRefCitation>
+). Targeted recording of individual specimens with directional microphones and portable (albeit heavy) tape recorders was the standard methodology during the 20th century, resulting in impressive analog tape archives which often remained with the re 
+<pageBreakToken pageId="1" pageNumber="204" start="start">searcher</pageBreakToken>
+. There is a high risk of loss of these valuable collections due to deterioration and misplacement (
+<bibRefCitation author="Marques, PAM" journalOrPublisher="Journal of Biogeography" pageId="10" pageNumber="213" url="https://doi.org/10.1371/journal.pone.0114303" year="2014">Marques et al. 2014</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="1" pageNumber="204">
+Microphones and recording apparatuses varied widely due to considerable technological changes during the last decades, evolving from analog tape recorders to digital recording. The frequency spectrum of many 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="1" pageNumber="204" rank="order">Orthoptera</taxonomicName>
+reaches far into the ultrasound, with the recently described, hitherto highest-pitched katydids of the Neotropical genus 
+<taxonomicName genus="Supersonus" lsidName="Supersonus" pageId="1" pageNumber="204" rank="genus">Supersonus</taxonomicName>
+reaching up to 150 kHz (
+<bibRefCitation author="Sarria-S, FA" journalOrPublisher="Journal of Comparative Physiology A" pageId="11" pageNumber="214" url="https://doi.org/10.1371/journal.pone.0098708" year="2014">Sarria-S et al. 2014</bibRefCitation>
+). During the 20th century, analog recording of ultrasound song components required special microphones and expensive high-speed tape recorders (see materials and methods in 
+<bibRefCitation author="Morris, GK" journalOrPublisher="Animal Behaviour" pageId="10" pageNumber="213" pagination="42 - 51" title="Calling display and mating behaviour of Copiphorarhinoceros Pictet (Orthoptera: Tettigoniidae)." url="https://doi.org/10.1016/S0003-3472(80)80006-6" volume="28" year="1980">Morris 1980</bibRefCitation>
+, 
+<bibRefCitation author="Morris, GK" journalOrPublisher="Transactions of the American Entomological Society" pageId="10" pageNumber="213" pagination="287 - 314" title="Song structure and description of some Costa Rican katydids (Orthoptera: Tettigoniidae)." volume="108" year="1982">Morris and Beier 1982</bibRefCitation>
+, and 
+<bibRefCitation author="Morris, GK" journalOrPublisher="Transactions of the American Entomological Society" pageId="10" pageNumber="213" url="https://doi.org/10.1007/s00359-018-1250-8" year="2018">Morris et al. 2018</bibRefCitation>
+). Today, common digital recorders with built-in microphones and 96 kHz sampling rate cover a frequency range up to 30 kHz with sufficient quality. In addition, there is an increasing number of ultrasound recording devices and "bat detectors", reaching far into the ultrasound up to 300 kHz (see 
+<bibRefCitation pageId="1" pageNumber="204">Obrist et al. 2010</bibRefCitation>
+, p. 79), facilitating classification of tettigoniid songs in the field.
+</paragraph>
+<paragraph pageId="1" pageNumber="204">
+Since the 1990s, most monographs compiling 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="1" pageNumber="204" rank="order">Orthoptera</taxonomicName>
+songs were backed up by recordings on CD, serving as potential acoustic determination guides and targeting a wider audience. Compilations are available for most European (
+<bibRefCitation pageId="1" pageNumber="204">Ragge and Reynolds 1998</bibRefCitation>
+), Italian (
+<bibRefCitation pageId="1" pageNumber="204">Fontana et al. 2002</bibRefCitation>
+), Central European (
+<bibRefCitation pageId="1" pageNumber="204">Bellmann 1993</bibRefCitation>
+), Australian 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="1" pageNumber="204" rank="order">Orthoptera</taxonomicName>
+(
+<bibRefCitation pageId="1" pageNumber="204">Rentz 1996</bibRefCitation>
+), and Costa Rican katydids (
+<bibRefCitation author="Naskrecki, P" journalOrPublisher="Neural Computing and Applications" pageId="10" pageNumber="213" url="http://140.247.96.247/orthsoc/pdf/Naskrecki_KCR_2000.pdf" year="2000">Naskrecki 2000</bibRefCitation>
+). A comprehensive compilation of Japanese 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="1" pageNumber="204" rank="order">Orthoptera</taxonomicName>
+songs on two CDs forms part of an illustrated guide to 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="1" pageNumber="204" rank="order">Orthoptera</taxonomicName>
+(
+<bibRefCitation author="Murai, T" journalOrPublisher="Hokkaido University Press, Sapporom" pageId="10" pageNumber="213" title="Illustrated Guide to Orthoptera and Their Songs: The Insect Choruses of Japan." year="2015">Murai 2015</bibRefCitation>
+). Note that a CD is already a digitized recording, usually of high quality. Due to copyright rules, most of these recordings are not publicly available. Nevertheless, they usually can be used for research purposes, analysis and feature extraction.
+</paragraph>
+<paragraph pageId="1" pageNumber="204">
+Several well-organized sound libraries house more than hundreds of thousands of catalogued analog tape recordings of vocalizing animals, such as the Tierstimmenarchiv Berlin (http://www.tierstimmenarchiv.de/), British Library Sound Archive's wildlife collection (https://www.bl.uk/collection-guides/wildlife-and-environmental-sounds), or the Macaulay Library of Sounds (
+<bibRefCitation author="Cordero, PJ" journalOrPublisher="Zootaxa" pageId="9" pageNumber="212" url="https://www.macaulaylibrary.org" year="2017">Cornell Lab (2017)</bibRefCitation>
+http://macaulaylibrary.org/). The latter provides more than 402,720 playable audio files, and even permits spectrographic online visualization using RavenViewer as a free browser plugin (cf. Fig. 1). With more than 40,000 animal sound recordings, the Borror Laboratory of Bioacoustics archive (http://blb.osu.edu/database/; Ohio State University) is among the smaller archives, but contains important historic 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="1" pageNumber="204" rank="order">Orthoptera</taxonomicName>
+recordings by R. Alexander and D. Borror, including the few available recordings of North American grasshoppers (
+<taxonomicName family="Acrididae" lsidName="" pageId="1" pageNumber="204" rank="family">Acrididae</taxonomicName>
+).
+</paragraph>
+<paragraph lastPageId="2" lastPageNumber="205" pageId="1" pageNumber="204">
+Besides the major sound archives reviewed below, there are important regional archives (reviewed for Latin America by Ranft 
+<pageBreakToken pageId="2" pageNumber="205" start="start">2004</pageBreakToken>
+in Annex II) and new initiatives such as the sound library of the Museum National d'Histoire Naturelle (La 
+<normalizedToken originalValue="sonothèque">sonotheque</normalizedToken>
+: https://sonotheque.mnhn.fr/). A list of links to major sound libraries is provided by the International Bioacoustic Council (
+<bibRefCitation author="Hutto, RL" journalOrPublisher="Journal of Field Ornithology" pageId="9" pageNumber="212" url="http://www.ibac.info/links.htmllibs" year="2018">IBAC 2018</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="2" pageNumber="205">
+Digital availability of sound recordings.-Digitization of existing analog recordings in most major sound archives is under way, but there are distinct policies on use and access via the World Wide Web (
+<bibRefCitation author="Baker, E" journalOrPublisher="Biological Journal of the Linnean Society" pageId="8" pageNumber="211" url="https://doi.org/10.1093/database/bav054" year="2015">Baker et al. 2015</bibRefCitation>
+). At present, most major sound archives provide searchable catalogues of all audio, offering public access to and download options for digitized recordings, under varying license agreements. In some cases, scientific re-use is limited because sound files are made available in compressed formats such as mp3 (ISO/IEC 11172-3:1993).
+</paragraph>
+<paragraph pageId="2" pageNumber="205">
+The following comparison of major sound archives focuses on the number of accessible 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+songs, number of species, and taxonomic compatibility with the 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+Species File (OSF; 
+<bibRefCitation author="Cigliano, MM" journalOrPublisher="Bulletin of Entomological Research" pageId="9" pageNumber="212" url="http://orthoptera.speciesfile.org/HomePage/Orthoptera/HomePage.aspx" year="2018">Cigliano et al. 2018</bibRefCitation>
+), as well as user-friendliness of web interfaces. Connectivity with the Global Biodiversity Information Facility (GBIF: http://www.gbif.org) was analyzed by a GBIF query for " 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+", adding 
+<normalizedToken originalValue="“audio”">"audio"</normalizedToken>
+multimedia type as additional filter criterion. The number of 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+recordings and species for these major sound archives is summarized in Table 1, including comments on accessibility and particular issues. Archives differ considerably in taxonomic and geographic coverage. Most archives have several recordings for each species, and each archive has strengths and weaknesses summarized in the last column.
+</paragraph>
+<caption pageId="2" pageNumber="205">
+<paragraph pageId="2" pageNumber="205">
+Table 1. Digitized 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+songs in major sound archives and databases. For further details on issues and special features see text.
+</paragraph>
+</caption>
+<paragraph pageId="2" pageNumber="205">
+<table pageId="2" pageNumber="205">
+<tr pageId="2" pageNumber="205">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">Archive1</td>
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">
+N 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+recordings
+</td>
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">N taxa</td>
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">Taxa</td>
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">
+Geographic focus 
+<taxonomicName genus="Tettigonioidea" lsidName="Tettigonioidea" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+fauna
+</td>
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">Issues and special features</td>
+</tr>
+<tr pageId="2" pageNumber="205">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">2</td>
+<taxonomicName genus="Ensifera" lsidName="Ensifera" pageId="2" pageNumber="205" rank="suborder" suborder="Ensifera">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">Ensifera</td>
+</taxonomicName>
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">GBIF</td>
+</tr>
+<tr pageId="2" pageNumber="205">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">3</td>
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">Orthoptera</td>
+</taxonomicName>
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">4</td>
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">GBIF</td>
+</tr>
+<tr pageId="2" pageNumber="205">
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">Orthoptera</td>
+</taxonomicName>
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">GBIF</td>
+</tr>
+<tr pageId="2" pageNumber="205">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">5</td>
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">Orthoptera</td>
+</taxonomicName>
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">GBIF</td>
+</tr>
+<tr pageId="2" pageNumber="205">
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">Orthoptera</td>
+</taxonomicName>
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">GBIF</td>
+</tr>
+<tr pageId="2" pageNumber="205">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">6</td>
+<taxonomicName genus="Ensifera" lsidName="Ensifera" pageId="2" pageNumber="205" rank="suborder" suborder="Ensifera">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">Ensifera</td>
+</taxonomicName>
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">7GBIF</td>
+</tr>
+<tr pageId="2" pageNumber="205">
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">Orthoptera</td>
+</taxonomicName>
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">8</td>
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">Orthoptera</td>
+</taxonomicName>
+</tr>
+<tr pageId="2" pageNumber="205">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">GBIF9</td>
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">
+<td colspan="1" pageId="2" pageNumber="205" rowspan="1">Orthoptera</td>
+</taxonomicName>
+</tr>
+</table>
+</paragraph>
+<paragraph pageId="2" pageNumber="205">
+While all databases allow extraction of the number of 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+recordings, information about the number of species was not always available. Therefore, it was queried from a table downloaded from 
+<bibRefCitation author="Garnas, JR" journalOrPublisher="Current Opinion in Insect Science" pageId="9" pageNumber="212" url="https://doi.org/10.15468/dl.pwhibo" year="2015">GBIF (2015)</bibRefCitation>
+. A close inspection reveals three major contributors: Borror Lab, Animal Sound Archive (= TSA), and ZFMK DORSA. Note that GBIF accesses data providers dynamically and the number of records is increasing daily. While the 
+<bibRefCitation author="Garnas, JR" journalOrPublisher="Current Opinion in Insect Science" pageId="9" pageNumber="212" url="https://doi.org/10.15468/dl.pwhibo" year="2015">GBIF (2015)</bibRefCitation>
+dataset contained 3973 occurrences, a more recent 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+/Audio search (
+<bibRefCitation author="Garnas, JR" journalOrPublisher="Current Opinion in Insect Science" pageId="9" pageNumber="212" url="https://doi.org/10.15468/dl.psq6q1" year="2017">GBIF 2017</bibRefCitation>
+) resulted in 4803 occurrences from 119 species.
+</paragraph>
+<paragraph pageId="2" pageNumber="205">
+Major sound libraries focus on vertebrates, particularly birds, containing few insect recordings. In contrast, SINA (
+<bibRefCitation author="Walker, TJ" journalOrPublisher="Quarterly Review of Biology" pageId="11" pageNumber="214" url="http://entnemdept.ufl.edu/Walker/buzz/" year="2004 b">Walker 2004b</bibRefCitation>
+), OSF (
+<bibRefCitation author="Cigliano, MM" journalOrPublisher="Bulletin of Entomological Research" pageId="9" pageNumber="212" url="http://orthoptera.speciesfile.org/HomePage/Orthoptera/HomePage.aspx" year="2018">Cigliano et al. 2018</bibRefCitation>
+) and SYSTAX (
+<bibRefCitation author="Swiston, KA" journalOrPublisher="Journal of Field Ornithology" pageId="11" pageNumber="214" url="https://doi.org/10.15468/zyqkbl" year="2017">SysTax 2017</bibRefCitation>
+) focus exclusively on 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+. The 
+<bibRefCitation author="Swiston, KA" journalOrPublisher="Journal of Field Ornithology" pageId="11" pageNumber="214" url="https://doi.org/10.15468/bdwtd8" year="2017">SYSTAX-DORSA (2017)</bibRefCitation>
+virtual museum is a repository dedicated to 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+types, song recordings, pictures, and voucher specimens from German institutions and private collections. This database includes 2229 type specimens documented by approximately 25,000 images (Fig. 2). As part of a major digitization initiative funded by the German Research ministry, analog tapes from widely scattered institutional and private sound archives have been digitized (
+<bibRefCitation author="Ingrisch, S" journalOrPublisher="Memorie della Societa Entomologica Italiana" pageId="9" pageNumber="212" pagination="349 - 356" title="DORSA - A &#34; Virtual Museum &#34; of German Orthoptera Collections." volume="82" year="2004">Ingrisch et al. 2004</bibRefCitation>
+) and made accessible at http://www.systax.org and via 
+<bibRefCitation author="Garnas, JR" journalOrPublisher="Current Opinion in Insect Science" pageId="9" pageNumber="212" url="https://doi.org/10.15468/dl.psq6q1" year="2017">GBIF (2017)</bibRefCitation>
+. The digitization of historic analog tapes of ultrasound recordings was particularly challenging, because the appropriate tape recorders for their reproduction are becoming rare.
+</paragraph>
+<caption pageId="2" pageNumber="205">
+<paragraph pageId="2" pageNumber="205">
+Fig. 2. The SYSTAX database. Screenshot of the new SYSTAX user interface, to be released under www.systax.org. A search for the Neotropical tettigoniid genus 
+<taxonomicName genus="Anaulacomera" lsidName="Anaulacomera" pageId="2" pageNumber="205" rank="genus">Anaulacomera</taxonomicName>
+recovers several sound recordings from a voucher specimen of a hitherto undescribed species, documented by photographs. Faceting allows searching by images or sounds exclusively.
+</paragraph>
+</caption>
+<paragraph lastPageId="3" lastPageNumber="206" pageId="2" pageNumber="205">
+In summary, accessibility of 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+song recordings in any format is extremely limited. With a total of 26,000 described 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+species of which a (conservatively!) estimated 10,000 are able to stridulate, we have web access to song recordings for about 1000 species, i.e. coverage of a meagre 10% of all stridulating 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="2" pageNumber="205" rank="order">Orthoptera</taxonomicName>
+species. Adding another 1000 songs scattered in publications, CDs, books and private collections, we might have song 
+<pageBreakToken pageId="3" pageNumber="206" start="start">data</pageBreakToken>
+for about 2000 species, which is still only 20% of all known stridulating species. If we assume that another 20,000 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="3" pageNumber="206" rank="order">Orthoptera</taxonomicName>
+species still remain to be described (again, a conservative estimate, cf. 
+<bibRefCitation author="Stork, NE" journalOrPublisher="Proceedings of the National Academy of Sciences" pageId="11" pageNumber="214" pagination="7519 - 7523" title="New approaches narrow global species estimates for beetles, insects, and terrestrial arthropods." url="http://dx.doi.org/10.1073/pnas.1502408112" volume="112" year="2015">Stork et al. 2015</bibRefCitation>
+), we get an idea of the daunting task ahead!
+</paragraph>
+<paragraph pageId="3" pageNumber="206">
+Accessibility of new digital recordings.-The amount of multimedia data documenting animal songs is growing exponentially thanks to Passive Acoustic Monitoring (PAM) and citizen science efforts (cf. 
+<bibRefCitation author="August, T" journalOrPublisher="Biological Journal of the Linnean Society" pageId="8" pageNumber="211" pagination="731 - 749" title="Emerging technologies for biological recording." url="https://doi.org/10.1111/bij.12534" volume="115" year="2015">August et al. 2015</bibRefCitation>
+, 
+<bibRefCitation pageId="3" pageNumber="206">Di Minin et al. 2015</bibRefCitation>
+). In addition, behavior and song recordings can be found on YouTube (see 
+<bibRefCitation author="Olivero, P" journalOrPublisher="Journal of Orthoptera Research" pageId="10" pageNumber="213" pagination="1 - 5" title="Same-sex sexual behavior in Xenogryllusmarmoratus (Haan, 1844) (Grylloidea: Gryllidae: Eneopterinae): Observation in the wild from YouTube." url="https://dx.doi.org/10.3897/jor.26.14569" volume="26" year="2017">Olivero and Robillard 2017</bibRefCitation>
+, for cricket behavior "in the wild from YouTube") or as digital supplementary material for scientific journals. In a letter to Science, 
+<bibRefCitation author="Toledo, LF" journalOrPublisher="Science of the total Environment" pageId="11" pageNumber="214" url="https://doi.org/10.1126/science.347.6221.484-be.347.6221.484-b" year="2015">Toledo et al. (2015)</bibRefCitation>
+suggested that scientific journals require deposition of sound files used in publications. Submitting sound as additional online material for publications is certainly a step forward, but will lead to further fragmentation, with valuable sound recordings hidden as supplementary material behind journal paywalls, or distributed over a wide variety of online repositories such as Figshare, Dryad, etc. Instead, a long-term, sustainable archival strategy should be centered around memory institutions, which in general have a longer half-life than states or private companies. Therefore, 
+<bibRefCitation pageId="3" pageNumber="206">Riede and Jahn (2013)</bibRefCitation>
+suggested that researchers submit sound recordings and well-annotated corpora to a few well-established memory institutions, comparable to common practice in genetics.
+</paragraph>
+<paragraph pageId="3" pageNumber="206">
+Traditional targeted song recordings of individual 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="3" pageNumber="206" rank="order">Orthoptera</taxonomicName>
+species have now been complemented by acoustic profiling using entire soundscapes (sensu 
+<bibRefCitation pageId="3" pageNumber="206">Schafer 1994</bibRefCitation>
+). Soundscapes are recorded routinely for environmental monitoring (
+<bibRefCitation author="Szeremeta, B" journalOrPublisher="Science of the total Environment" pageId="11" pageNumber="214" pagination="6143 - 6149" title="Analysis and evaluation of soundscapes in public parks through interviews and measurement of noise." url="https://doi.org/10.1016/j.scitotenv.2009.08.039" volume="407" year="2009">Szeremeta and Zannin 2009</bibRefCitation>
+) or military uses (
+<bibRefCitation author="Ferguson, BG" journalOrPublisher="Intelligent Sensors, Sensor Networks and Information Processing Conference" pageId="9" pageNumber="212" pagination="149 - 153" title="Extracting tactical information from acoustic signals." volume="2004" year="2004">Ferguson and Lo 2004</bibRefCitation>
+). A huge number of recordings is generated by PAM. Following a definition of 
+<bibRefCitation author="Marques, TA" journalOrPublisher="Biological Reviews" pageId="10" pageNumber="213" pagination="287 - 309" title="Estimating animal population density using passive acoustics." url="https://doi.org/10.1111/brv.12001" volume="88" year="2013">Marques et al. (2013)</bibRefCitation>
+, PAM "refers loosely to methods using sounds made by animals to make inferences about their distribution and occurrence over space and time." (l.c., p. 290). There is a rapidly increasing number of acoustic monitoring initiatives recording overall soundscapes by Autonomous Recording Units (ARUs), using custom-built or commercial equipment. Acoustic monitoring by microphone arrays is a rapidly developing field, allowing exact 3D mapping of the position of songsters, reviewed by 
+<bibRefCitation author="Blumstein, DT" journalOrPublisher="Journal of Applied Ecology" pageId="8" pageNumber="211" pagination="758 - 767" title="Acoustic monitoring in terrestrial environments using microphone arrays: Applications, technological considerations and prospectus." url="https://doi.org/10.1111/j.1365-2664.2011.01993.x" volume="48" year="2011">Blumstein et al. (2011)</bibRefCitation>
+. PAM focusses either on endangered vertebrate species or entire soundscapes.
+</paragraph>
+<paragraph pageId="3" pageNumber="206">
+Soundscape projects generally do not even try to identify or assess species compositions, but rather measure overall indices. 
+<bibRefCitation author="Sueur, J" journalOrPublisher="Acta Acustica united with Acustica" pageId="11" pageNumber="214" url="https://doi.org/10.1371/journal.pone.0004065" year="2008 b">Sueur et al. (2008b)</bibRefCitation>
+applied signal analysis to entire soundscapes recorded at Tanzanian coastal forests, measuring entropy as a surrogate for biodiversity richness. Further recordings were made at biodiversity hotspots in New Caledonia and French Guiana (reviewed in 
+<bibRefCitation author="Sueur, J" journalOrPublisher="Acta Acustica united with Acustica" pageId="11" pageNumber="214" pagination="772 - 781" title="Acoustic indices for biodiversity assessment and landscape investigation." url="https://doi.org/10.3813/AAA.918757" volume="100" year="2014">Sueur et al. 2014</bibRefCitation>
+). Such overall bioacoustic indices do not provide information about actual 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="3" pageNumber="206" rank="order">Orthoptera</taxonomicName>
+species presence and diversity, but informative snippets could be extracted (
+<bibRefCitation pageId="3" pageNumber="206">Riede and Jahn 2013</bibRefCitation>
+, 
+<bibRefCitation author="Lehmann, GUC" journalOrPublisher="Journal of Insect Conservation" pageId="10" pageNumber="213" pagination="905 - 925" title="Baseline data for automated acoustic monitoring of Orthoptera in a Mediterranean landscape, the Hymettos, Greece." url="https://doi.org/10.1007/s10841-014-9700-2" volume="18" year="2014">Lehmann et al. 2014</bibRefCitation>
+). This means that post-hoc analysis for 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="3" pageNumber="206" rank="order">Orthoptera</taxonomicName>
+presence/absence at an ever-increasing number of acoustic monitoring sites is possible, if soundscape recordings would be made available for re-analysis.
+</paragraph>
+<paragraph lastPageId="4" lastPageNumber="207" pageId="3" pageNumber="206">
+The generated data volume is huge, and in most cases not publicly accessible or, as is the case for microphone arrays, not stored at all. Terabytes of acoustic recordings are stored on 
+<normalizedToken originalValue="researchers’">researchers'</normalizedToken>
+hard disks, with a high risk of getting lost, thereby impeding the 
+<pageBreakToken pageId="4" pageNumber="207" start="start">chance</pageBreakToken>
+for re-analysis. Only a small number of projects maintain servers to release soundscape recordings for re-analysis. Maintenance and release of soundscape data will provide opportunities and future challenges, as well as valuable data sources for orthopterists, because most PAM recordings from rainforests are dominated by insects, and 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="4" pageNumber="207" rank="order">Orthoptera</taxonomicName>
+in particular (
+<bibRefCitation author="Aide, TM" pageId="8" pageNumber="211" url="https://doi.org/10.3390/rs9111096" year="2017">Aide et al. 2017</bibRefCitation>
+). At present, the Purdue soundscape server provides unlimited access to an impressive number of high-quality recordings (
+<bibRefCitation author="Pijanowski, BC" journalOrPublisher="BioScience" pageId="10" pageNumber="213" pagination="203 - 216" title="Soundscape ecology: The science of sound in the landscape." url="https://doi.org/10.1525/bio.2011.61.3.6" volume="61" year="2011">Pijanowski et al. 2011</bibRefCitation>
+, 
+<bibRefCitation author="Potamitis, I" journalOrPublisher="Applied Acoustics" pageId="10" pageNumber="213" url="http://ltm.agriculture.purdue.edu/soundscapes.htm" year="2015">Purdue Sound Ecology Project 2015</bibRefCitation>
+). The extensive soundscape collection of 
+<bibRefCitation pageId="4" pageNumber="207">Krause (2017)</bibRefCitation>
+is commercial, but nevertheless available for 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" order="Orthoptera" pageId="4" pageNumber="207" rank="order">Orthoptera</taxonomicName>
+song data mining.
+</paragraph>
+</subSection>
+<subSection pageId="4" pageNumber="207" type="improving data coverage and requirements for data sharing">
+<paragraph pageId="4" pageNumber="207">Improving data coverage and requirements for data sharing</paragraph>
+<paragraph pageId="4" pageNumber="207">
+Improving data coverage.-The number of species covered by each database presented in Table 1 is not cumulative because there is a strong overlap between DORSA, Tierstimmenarchiv, and OSF, with a strong focus on European species. Exact numbers on SINA (
+<bibRefCitation author="Walker, TJ" journalOrPublisher="Quarterly Review of Biology" pageId="11" pageNumber="214" url="http://entnemdept.ufl.edu/Walker/buzz/" year="2004 b">Walker 2004b</bibRefCitation>
+) are not available, and not every link from OSF to SINA leads to a sound recording. SINA is restricted to North American 
+<taxonomicName genus="Ensifera" lsidName="Ensifera" pageId="4" pageNumber="207" rank="suborder" suborder="Ensifera">Ensifera</taxonomicName>
+, while 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" pageId="4" pageNumber="207" rank="suborder" suborder="Caelifera">Caelifera</taxonomicName>
+remain uncovered, apart from some very few historic acridid recordings from the Borror sound archive. For the time being, the best available documentation of North American acridid songs are verbal descriptions and musical annotations by 
+<bibRefCitation author="Scudder, SH" journalOrPublisher="American Naturalist" pageId="11" pageNumber="214" pagination="113 - 120" title="The songs of the grasshoppers." url="https://doi.org/10.1086/270197" volume="2" year="1868">Scudder (1868)</bibRefCitation>
+and spectrogram figures published by 
+<bibRefCitation pageId="4" pageNumber="207">Otte (1981)</bibRefCitation>
+. In light of the incomplete coverage of available sound libraries, filling the gaps for 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="4" pageNumber="207" rank="order">Orthoptera</taxonomicName>
+species without any song recording should have highest priority. Because OSF (
+<bibRefCitation author="Cigliano, MM" journalOrPublisher="Bulletin of Entomological Research" pageId="9" pageNumber="212" url="http://orthoptera.speciesfile.org/HomePage/Orthoptera/HomePage.aspx" year="2018">Cigliano et al. 2018</bibRefCitation>
+) is a taxonomic hub for all 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="4" pageNumber="207" rank="order">Orthoptera</taxonomicName>
+taxa, uploading at least one recording per species would be the most straightforward and efficient way to monitor progress of 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="4" pageNumber="207" rank="order">Orthoptera</taxonomicName>
+song coverage and store at least one song recording and/or parameter for each species. The orthopterist community is small and given the excellent communication between OSF curators and authors, the easiest way to increase the OSF song repository would be by proactive encouragement of authors to deposit their available recordings in OSF.
+</paragraph>
+<paragraph pageId="4" pageNumber="207">
+For most species with a SYSTAX-DORSA recording, a 
+<normalizedToken originalValue="“typical”">"typical"</normalizedToken>
+song has already been transferred to OSF, which presently contains songs for 818 species and subspecies (
+<bibRefCitation author="Cigliano, MM" journalOrPublisher="Bulletin of Entomological Research" pageId="9" pageNumber="212" url="http://orthoptera.speciesfile.org/HomePage/Orthoptera/HomePage.aspx" year="2018">Cigliano et al. 2018</bibRefCitation>
+). With a considerable number of recordings imported from DORSA, OSF has a similar bias towards European species. The addition of songs from newly described species will sooner or later compensate this imbalance, but incorporation of songs from newly described species grows slowly: According to a "complex search" (
+<normalizedToken originalValue="“sounds”">"sounds"</normalizedToken>
+AND "description date&gt;=2014", extracted 6/9/2015) in OSF, from the 857 recent species described since 2014, only eight sound recordings found their way into OSF: two 
+<taxonomicName genus="Neoxabea" lsidName="Neoxabea" pageId="4" pageNumber="207" rank="genus">Neoxabea</taxonomicName>
+spp. and three 
+<taxonomicName genus="Oecanthus" lsidName="Oecanthus" pageId="4" pageNumber="207" rank="genus">Oecanthus</taxonomicName>
+spp. described in 
+<bibRefCitation author="Collins, N" journalOrPublisher="Transactions of the American Entomological Society" pageId="9" pageNumber="212" pagination="163 - 184" title="Two new species of Neoxabea, three new species of Oecanthus, and documentation of two other species in Nicaragua (Orthoptera: Gryllidae: Oecanthinae)." url="https://doi.org/10.3157/061.140.0111" volume="140" year="2014">Collins et al. (2014)</bibRefCitation>
+, 
+<taxonomicName genus="Tettigonia" lsidName="Tettigonia balcanica" pageId="4" pageNumber="207" rank="species" species="balcanica">Tettigonia balcanica</taxonomicName>
+Chobanov and Lemonnier-Darcemont, 2014 (
+<bibRefCitation author="Chobanov, DP" journalOrPublisher="Bulletin of Entomological Research" pageId="9" pageNumber="212" url="https://doi.org/10.4081/entomologia.2014.209" year="2014">Chobanov et al. 2014</bibRefCitation>
+), and two 
+<taxonomicName genus="Typophyllum" lsidName="Typophyllum" pageId="4" pageNumber="207" rank="genus">Typophyllum</taxonomicName>
+spp. described by 
+<bibRefCitation author="Braun, H" journalOrPublisher="Zootaxa" pageId="8" pageNumber="211" pagination="1 - 32" title="Little walking leaves from southeast Ecuador: biology and taxonomy of Typophyllum species (Orthoptera, Tettigoniidae, Pterochrozinae)." url="https://doi.org/10.11646/zootaxa.4012.1.1" volume="4012" year="2015">Braun (2015)</bibRefCitation>
+. For others (e.g. 
+<bibRefCitation author="Walker, TJ" journalOrPublisher="Journal of Orthoptera Research" pageId="11" pageNumber="214" pagination="1 - 38" title="Systematics and acoustics of North American Anaxipha (Gryllidae: Trigonidiinae)." url="https://doi.org/10.1665/034.023.0102" volume="23" year="2014">Walker and Funk 2014</bibRefCitation>
+, 
+<bibRefCitation author="Hemp, C" journalOrPublisher="Organisms, Diversity and Evolution" pageId="9" pageNumber="212" pagination="351 - 368" title="Ecology, acoustics and chromosomes of the East African genus Afroanthracites Hemp and Ingrisch (Orthoptera, Tettigoniidae, Conocephalinae, Agraeciini) with the description of new species." url="https://doi.org/10.1007/s13127-014-0194-2" volume="15" year="2015">Hemp et al. 2015</bibRefCitation>
+, 
+<bibRefCitation author="Baker, A" journalOrPublisher="Zoologischer Anzeiger - A Journal of Comparative Zoology" pageId="8" pageNumber="211" pagination="60 - 70" title="Wing resonances in a new dead-leaf-mimic katydid (Tettigoniidae: Pterochrozinae) from the Andean cloud forests." url="https://doi.org/10.1016/j.jcz.2017.10.001" volume="270" year="2017">Baker et al. 2017</bibRefCitation>
+) the publications contain detailed song descriptions, while the songs are either deposited outside OSF, or are not accessible at all. However, OSF already contains links, e.g. to 
+<bibRefCitation author="Walker, TJ" journalOrPublisher="Journal of Orthoptera Research" pageId="11" pageNumber="214" pagination="1 - 38" title="Systematics and acoustics of North American Anaxipha (Gryllidae: Trigonidiinae)." url="https://doi.org/10.1665/034.023.0102" volume="23" year="2014">Walker and Funk's (2014)</bibRefCitation>
+recordings, and it would be a comparatively easy task to transfer additional songs to OSF. Likewise, editors of 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="4" pageNumber="207" rank="order">Orthoptera</taxonomicName>
+song CDs (e.g. 
+<bibRefCitation pageId="4" pageNumber="207">Rentz 1996</bibRefCitation>
+, 
+<bibRefCitation author="Naskrecki, P" journalOrPublisher="Neural Computing and Applications" pageId="10" pageNumber="213" url="http://140.247.96.247/orthsoc/pdf/Naskrecki_KCR_2000.pdf" year="2000">Naskrecki 2000</bibRefCitation>
+) are actively involved in the enrichment of OSF and are probably disposed to contribute their CD recordings.
+</paragraph>
+<paragraph pageId="4" pageNumber="207">
+Problems of data sharing and file exchange.-At present, federated bioacoustics datasets downloaded from GBIF have issues resulting from unresolved problems between data providers and GBIF. Macaulay (
+<bibRefCitation author="Scholes, E III" journalOrPublisher="Behavioral Ecology" pageId="11" pageNumber="214" url="https://doi.org/10.15468/ckcdpy" year="2015">Scholes 2015</bibRefCitation>
+), 
+<bibRefCitation author="Swiston, KA" journalOrPublisher="Journal of Field Ornithology" pageId="11" pageNumber="214" url="https://doi.org/10.15468/zyqkbl" year="2017">Systax (2017)</bibRefCitation>
+and BioAcoustica (
+<bibRefCitation author="Baker, E" journalOrPublisher="Biological Journal of the Linnean Society" pageId="8" pageNumber="211" url="https://doi.org/10.5519/0040999" year="2017">Baker and Rycroft 2017</bibRefCitation>
+) are registered, citable GBIF data providers, but occurrences disappear once the multimedia audio filter is applied.
+</paragraph>
+<paragraph pageId="4" pageNumber="207">In addition, downloading sound files from currently available repositories leads to disintegration of sound file and sound metadata. The safest way to avoid such disintegration is to store metadata within the sound file - typically, a spoken announcement by the recordist often contains information about time, place, temperature, microphone, and recording conditions. However, if this information is clipped for the sake of signal clarity and detectability, a downloaded sound file cannot be attributed to its source and metadata. For SYSTAX-DORSA sound files, the Soundminer software (http://store.soundminer.com/) was used to annotate metadata, showing species name and source when displayed on most devices (Fig. 3).</paragraph>
+<caption pageId="4" pageNumber="207">
+<paragraph pageId="4" pageNumber="207">
+Fig. 3. Embedding metadata within sound files. Metadata were embedded within wav and mp3 fields directly from the SYSTAX database using Soundminer software (http://store.soundminer.com/). Metadata are visible within most mp3-players, displaying the species name as 
+<normalizedToken originalValue="“TrackTitle”">"TrackTitle"</normalizedToken>
+and the recordist as 
+<normalizedToken originalValue="“Artist”">"Artist"</normalizedToken>
+(Courtesy: S. Ingrisch).
+</paragraph>
+</caption>
+<paragraph pageId="4" pageNumber="207">Embedding metadata within the sound file creates redundancy which can be used to restore or cross-check the links between the original database storing the metadata and the multimedia object.</paragraph>
+</subSection>
+<subSection lastPageId="5" lastPageNumber="208" pageId="4" pageNumber="207" type="future needs: a data warehouse for bioacoustic data">
+<paragraph pageId="4" pageNumber="207">Future needs: a data warehouse for bioacoustic data</paragraph>
+<paragraph pageId="4" pageNumber="207">
+A combination of features from all databases reviewed here probably describes best the requirements for an ideal 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="4" pageNumber="207" rank="order">Orthoptera</taxonomicName>
+song data warehouse. In particular:
+</paragraph>
+<paragraph pageId="4" pageNumber="207">· Baseline collection data such as recordist, time, and locality.</paragraph>
+<paragraph pageId="4" pageNumber="207">· Cross-reference to voucher specimen, if available: repository (e.g. museum collection), unique identifier (collection number), identifier, and baseline data.</paragraph>
+<paragraph pageId="4" pageNumber="207">· If no voucher specimen is available, an image, video and comments on taxonomic reliability by naming the identifier.</paragraph>
+<paragraph pageId="4" pageNumber="207">· Comprehensive metadata for each recording, in particular temperature, microphone with frequency characteristics and distance from specimen, and preferably sound intensity at a given distance.</paragraph>
+<paragraph pageId="4" pageNumber="207">· User-friendly upload and query interface for input.</paragraph>
+<paragraph pageId="4" pageNumber="207">On the output side users need:</paragraph>
+<paragraph pageId="4" pageNumber="207">· Advanced search functions.</paragraph>
+<paragraph pageId="4" pageNumber="207">· Basket function for download of selected songs and/or corpora, including metadata.</paragraph>
+<paragraph pageId="4" pageNumber="207">Optional requirements include online visualization of sound files (spectrogram/oscillogram), generation of bioacoustic factsheets, and flexible tools for annotation of song parameters.</paragraph>
+<paragraph pageId="4" pageNumber="207">Building on these basic features, a bioacoustics workbench could provide efficient, reciprocal connection to taxonomic (OSF) and specimen-based federated specimen databases (GBIF).</paragraph>
+<paragraph lastPageId="5" lastPageNumber="208" pageId="4" pageNumber="207">
+None of the existing databases fulfill all these requirements. Therefore, the way forward is interoperability and the federation of existing multimedia databases. Commercial or community multimedia providers like the pioneering peer-to-peer filesharing program Napster (https://en.wikipedia.org/wiki/Napster), iTunes, or SoundCloud (https://soundcloud.com/) demonstrate that efficient, user-friendly data management and federation of sound files is feasible, but not designed for scientific use, requiring annotation, citability and sustainability of repositories. GBIF federates specimen data. It allows filtering for audio data, providing multimedia links, but without any interface for direct listening or bulk download via shopping basket functions. However, GBIF is evolving rapidly and is attentive to 
+<normalizedToken originalValue="users’">users'</normalizedToken>
+needs. Among the existing sound libraries, BioAcoustica (http://bio.acousti.ca/, 
+<bibRefCitation author="Baker, E" journalOrPublisher="Biological Journal of the Linnean Society" pageId="8" pageNumber="211" url="https://doi.org/10.1093/database/bav054" year="2015">Baker et al. 2015</bibRefCitation>
+) 
+<pageBreakToken pageId="5" pageNumber="208" start="start">comes</pageBreakToken>
+closest to the requirements outlined above due to its modular design using cutting-edge technology.
+</paragraph>
+<paragraph pageId="5" pageNumber="208">
+A scheme illustrating elements and workflows of a bioacoustics data warehouse is presented in Fig. 4. A fully developed bioacoustic workbench should allow seamless integration of entire soundscape recordings (as generated by PAM) and tools for managing acoustic scenes, with software for annotation and identification of acoustic snippets (cf. 
+<bibRefCitation pageId="5" pageNumber="208">Riede and Jahn 2013</bibRefCitation>
+), and reference corpora generated from targeted recordings with taxonomically identified voucher specimens.
+</paragraph>
+<caption pageId="5" pageNumber="208">
+<paragraph pageId="5" pageNumber="208">
+Fig. 4. A data warehouse for sound management. The scheme illustrates elements and workflow for acoustic profiling of 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="5" pageNumber="208" rank="order">Orthoptera</taxonomicName>
+. Songs are sampled either by recording individual songsters (Targeted Recordings), or entire acoustic scenes, each of which could contain several 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="5" pageNumber="208" rank="order">Orthoptera</taxonomicName>
+songs. Targeted recordings are treated like specimens, with time and locality stamps and, preferably, a voucher specimen. All databases listed in Table 1 are designed to store individual recordings. These distributed databases could be federated via ABCD- or Darwin-protocol. Soundscapes require distinct data management of large multimedia files. 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="5" pageNumber="208" rank="order">Orthoptera</taxonomicName>
+songs could be extracted manually or semi-automatically as sound snippets, and eventually be identified (ID) manually, or using automatic sound recognition algorithms (ASR). Many snippets can be extracted from each scene, resulting in a one-to-many relationship between scenes and snippets.
+</paragraph>
+</caption>
+<paragraph pageId="5" pageNumber="208">
+A well-designed data warehouse infrastructure is the only way to organize efficient workflows between taxonomists (providing reference sound libraries) and computer scientists developing algorithmic recognition tools. Ideally, code and documentation of recognizer software should be publicly accessible through the (virtual) data warehouse, together with the sound libraries and references to voucher specimens. For the time being, it is suggested to establish OSF as a taxonomic backbone to host at least one song recording per species, which would allow for verifying completeness of bioacoustic coverage of singing 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="5" pageNumber="208" rank="order">Orthoptera</taxonomicName>
+species. Every sound file could be associated with a unique Life Science Identifier (LSID), comparable to Digital Object Identifiers (DOI), facilitating the necessary cross reference between names, multimedia files, voucher specimens, and eventually genetic sequences. However, at present, a functional LSID architecture is jeopardized by lack of standards (cf. Table 1 in 
+<bibRefCitation author="Guralnick, RP" journalOrPublisher="ZooKeys" pageId="9" pageNumber="212" pagination="133 - 154" title="Community next steps for making globally unique identifiers work for biocollections data." url="https://doi.org/10.3897/zookeys.494.9352" volume="494" year="2015">Guralnick et al. 2015</bibRefCitation>
+).
+</paragraph>
+</subSection>
+<subSection lastPageId="7" lastPageNumber="210" pageId="5" pageNumber="208" type="the way forward: algorithms for acoustic profiling">
+<paragraph pageId="5" pageNumber="208">The way forward: algorithms for acoustic profiling</paragraph>
+<paragraph pageId="5" pageNumber="208">
+Well-documented, comprehensive song libraries are the prerequisite for the next logical step, which is acoustic profiling of entire communities. This is particularly promising for lesser known tropical faunas, where acoustic recording could accelerate species assessment. Up to now, overall analysis of 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="5" pageNumber="208" rank="order">Orthoptera</taxonomicName>
+communities based on entire soundscapes are still limited to very few sites. 
+<bibRefCitation author="Lehmann, GUC" journalOrPublisher="Journal of Insect Conservation" pageId="10" pageNumber="213" pagination="905 - 925" title="Baseline data for automated acoustic monitoring of Orthoptera in a Mediterranean landscape, the Hymettos, Greece." url="https://doi.org/10.1007/s10841-014-9700-2" volume="18" year="2014">Lehmann et al. (2014)</bibRefCitation>
+used ARUs in the Hymettos mountain range, Greece. Tropical 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="5" pageNumber="208" rank="order">Orthoptera</taxonomicName>
+communities have been assessed in the Western Ghats, India (
+<bibRefCitation author="Diwakar, S" journalOrPublisher="Biodiversity Conservation" pageId="9" pageNumber="212" pagination="4081 - 4093" title="Psychoacoustic sampling as a reliable, noninvasive method to monitor orthopteran species diversity in tropical forests." url="https://doi.org/10.1007/s10531-007-9208-0" volume="16" year="2007">Diwakar et al. 2007</bibRefCitation>
+), Panama (
+<bibRefCitation author="Schmidt, AK" journalOrPublisher="Behavioral Ecology" pageId="11" pageNumber="214" pagination="470 - 480" title="Spectral niche segregation and community organization in a tropical cricket assemblage." url="https://doi.org/10.1093/beheco/ars187" volume="24" year="2013">Schmidt et al. 2013</bibRefCitation>
+) and Amazonian Ecuador, the latter based exclusively on ethospecies (
+<bibRefCitation author="Riede, K" journalOrPublisher="Ambio" pageId="10" pageNumber="213" pagination="546 - 548" title="Monitoring biodiversity: Analysis of Amazonian rainforest sounds." url="https://www.jstor.org/stable/4314145" volume="22" year="1993">Riede 1993</bibRefCitation>
+). Evidence that ethospecies can be reliably attributed to well-defined morphospecies was provided by systematic recording of captured individuals in Ecuadorian lowland and mountain rainforests (
+<bibRefCitation pageId="5" pageNumber="208">Nischk and Riede 2001</bibRefCitation>
+).
+</paragraph>
+<paragraph lastPageId="6" lastPageNumber="209" pageId="5" pageNumber="208">
+There is a fundamental difference between: 1) automatic classification and identification of individual recordings, consisting of high-quality sound signals of an unknown 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="5" pageNumber="208" rank="order">Orthoptera</taxonomicName>
+songster, or; 2) recognition of 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="5" pageNumber="208" rank="order">Orthoptera</taxonomicName>
+songs 
+<normalizedToken originalValue="“hidden”">"hidden"</normalizedToken>
+within overall soundscape recordings. The two problems are quite distinct, and 
+<pageBreakToken pageId="6" pageNumber="209" start="start">the</pageBreakToken>
+latter requires additional, complex processing steps. Therefore, they are discussed separately in the following sections.
+</paragraph>
+<paragraph pageId="6" pageNumber="209">
+Classification of individual recordings.-For individual recordings, song parameters such as pulse rate and carrier frequency can be easily extracted by basic sound analysis software. These parameters might be sufficient to identify species using a traditional taxonomic key (
+<bibRefCitation pageId="6" pageNumber="209">Ragge and Reynolds 1998</bibRefCitation>
+, p.83) based on acoustic features. 
+<bibRefCitation author="Benediktov, AA" journalOrPublisher="Entomological Review" pageId="8" pageNumber="211" pagination="1174 - 1181" title="The possibility of computer analysis of the twilight soundscape of the orthopteran (Tettigoniidae, Gryllidae) community, by the example of an agrocenosis in Eastern Bulgaria." url="https://link.springer.com/article/10.1134/S0013873815090043" volume="95" year="2015">Benediktov (2015)</bibRefCitation>
+analyzed a calling community of the orthopteran (
+<taxonomicName family="Tettigoniidae" lsidName="" pageId="6" pageNumber="209" rank="family">Tettigoniidae</taxonomicName>
+and 
+<taxonomicName family="Gryllidae" lsidName="" pageId="6" pageNumber="209" rank="family">Gryllidae</taxonomicName>
+) community from an agrocenosis in eastern Bulgaria by straight-forward interpretation of spectrograms, showing that valuable information can be extracted from overall recordings 
+<normalizedToken originalValue="“manually”">"manually"</normalizedToken>
+, without complex computer algorithms. Such direct comparisons of song parameters with available feature datasets was classified as a "brute force" approach by 
+<bibRefCitation author="Tacioli, L" journalOrPublisher="Science of the total Environment" pageId="11" pageNumber="214" url="https://lis-unicamp.github.io/wp-content/uploads/2017/06/Tacioli-BreSci2017.pdf" year="2017">Tacioli et al. (2017)</bibRefCitation>
+.
+</paragraph>
+<paragraph pageId="6" pageNumber="209">
+More complex software for 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="6" pageNumber="209" rank="order">Orthoptera</taxonomicName>
+song identification is based on Artificial Neural Networks (ANN) and Hidden Markov Models (HMM) which are widely used in automatic human speech recognition (
+<bibRefCitation author="Mustafa, MK" journalOrPublisher="Neural Computing and Applications" pageId="10" pageNumber="213" pagination="1 - 9" title="A comparative review of dynamic neural networks and hidden Markov model methods for mobile on-device speech recognition." url="https://doi.org/10.1007/s00521-017-3028-2" volume="2017" year="2017">Mustafa et al. 2017</bibRefCitation>
+). Because ANNs have to be trained by a set of training recordings, and later be tested on another validation set, this approach is only possible for identification of species with at least ten recordings of distinct specimens.
+</paragraph>
+<paragraph pageId="6" pageNumber="209">
+<bibRefCitation author="Dietrich, C" journalOrPublisher="Pattern Recognition" pageId="9" pageNumber="212" pagination="2293 - 2305" title="Classification of bioacoustic time series based on the combination of global and local decisions." url="https://doi.org/10.1016/S0031-3203(04)00161-X" volume="37" year="2004">Dietrich et al. (2004)</bibRefCitation>
+used ANNs and temporal fusion to classify 31 
+<taxonomicName genus="Caelifera" lsidName="Caelifera" order="Orthoptera" pageId="6" pageNumber="209" rank="order">Orthoptera</taxonomicName>
+songs from the DORSA database (
+<bibRefCitation author="Ingrisch, S" journalOrPublisher="Memorie della Societa Entomologica Italiana" pageId="9" pageNumber="212" pagination="349 - 356" title="DORSA - A &#34; Virtual Museum &#34; of German Orthoptera Collections." volume="82" year="2004">Ingrisch et al. 2004</bibRefCitation>
+). 
+<bibRefCitation author="Potamitis, I" journalOrPublisher="BioScience" pageId="10" pageNumber="213" url="https://www.isca-speech.org/archive/interspeech_2006/i06_1505.html" year="2006">Potamitis et al. (2006)</bibRefCitation>
+used the SINA repository and some additional resources to test automatic identification of insects using speech recognition tools. In a follow-up publication, 
+<bibRefCitation author="Ganchev, T" journalOrPublisher="Bioacoustics" pageId="9" pageNumber="212" pagination="281 - 328" title="Automatic acoustic identification of singing insects." url="https://www.tandfonline.com/doi/abs/10.1080/09524622.2007.9753582" volume="16" year="2007">Ganchev and Potamitis (2007)</bibRefCitation>
+applied a hierarchic classification scheme, with identification accuracy that exceeded 99% at suborder and family levels. 
+<bibRefCitation author="Chaves, VA" journalOrPublisher="Journal of Field Ornithology" pageId="8" pageNumber="211" url="https://ieeexplore.ieee.org/document/6249897" year="2012">Chaves et al. (2012)</bibRefCitation>
+used Costa Rican katydid songs from the 
+<bibRefCitation author="Naskrecki, P" journalOrPublisher="Neural Computing and Applications" pageId="10" pageNumber="213" url="http://140.247.96.247/orthsoc/pdf/Naskrecki_KCR_2000.pdf" year="2000">Naskrecki (2000)</bibRefCitation>
+CD for sound parameterization using Mel Frequency Cepstral Coefficients and subsequent classification based on HMM, resulting in high accuracy of identification.
+</paragraph>
+<paragraph pageId="6" pageNumber="209">
+<bibRefCitation author="Riede, K" journalOrPublisher="Ambio" pageId="10" pageNumber="213" url="https://doi.org/10.1665/1082-6467(2006)15[105:AAOOSF]2.0.CO;2" year="2006">Riede et al. (2006)</bibRefCitation>
+annotated 
+<taxonomicName genus="Grylloidea" lsidName="Grylloidea" pageId="6" pageNumber="209" rank="superfamily" superfamily="Grylloidea">Grylloidea</taxonomicName>
+from the SYSTAX-DORSA files with essential parameters such as carrier frequency and pulse rate. They applied a batch routine, using segmentation and feature extraction modules developed by 
+<bibRefCitation author="Dietrich, C" journalOrPublisher="Pattern Recognition" pageId="9" pageNumber="212" pagination="2293 - 2305" title="Classification of bioacoustic time series based on the combination of global and local decisions." url="https://doi.org/10.1016/S0031-3203(04)00161-X" volume="37" year="2004">Dietrich et al. (2004)</bibRefCitation>
+to annotate song parameters for hundreds of recordings from 53 species.
+</paragraph>
+<paragraph pageId="6" pageNumber="209">
+<bibRefCitation author="Tacioli, L" journalOrPublisher="Science of the total Environment" pageId="11" pageNumber="214" url="https://lis-unicamp.github.io/wp-content/uploads/2017/06/Tacioli-BreSci2017.pdf" year="2017">Tacioli et al. (2017)</bibRefCitation>
+reviewed basic principles of existing animal sound identification software and implemented a user-friendly, downloadable software (Wildlife Sound Identification Software (WASIS) http://www.naturalhistory.com.br/wasis.html). At present, the underlying reference database contains recordings from Neotropical birds and amphibia, but it should be possible to use this promising approach for 
+<taxonomicName genus="Grylloidea" lsidName="Grylloidea" order="Orthoptera" pageId="6" pageNumber="209" rank="order">Orthoptera</taxonomicName>
+song recognition, as well.
+</paragraph>
+<paragraph lastPageId="7" lastPageNumber="210" pageId="6" pageNumber="209">
+Data-mining soundscapes.-Identification of individual species in soundscapes is a much harder task because of noise and highly variable microphone distances from songsters. As a first step, Regions of Interest (ROIs) - sound signals probably containing a song - have to be identified and filtered. In a second step, these 
+<pageBreakToken pageId="7" pageNumber="210" start="start">ROIs</pageBreakToken>
+can eventually be treated and classified like individual recordings. A considerable number of publications report successful algorithmic identification of sets of bat (
+<bibRefCitation author="Jennings, N" journalOrPublisher="Canadian Journal of Zoology" pageId="10" pageNumber="213" pagination="371 - 377" title="Human vs. machine: identification of bat species from their echolocation calls by humans and by artificial neural networks." url="https://doi.org/10.1139/Z08-009" volume="86" year="2008">Jennings et al. 2008</bibRefCitation>
+), bird (
+<bibRefCitation author="Potamitis, I" journalOrPublisher="Applied Acoustics" pageId="10" pageNumber="213" pagination="1 - 9" title="Automatic bird sound detection in long real-field recordings: Applications and tools." url="https://doi.org/10.1016/j.apacoust.2014.01.001" volume="80" year="2014">Potamitis et al. 2014</bibRefCitation>
+), and frog (
+<bibRefCitation author="Hu, W" journalOrPublisher="ACM Transactions on Sensor Networks" pageId="9" pageNumber="212" pagination="1 - 28" title="Design and evaluation of a hybrid sensor network for cane toad monitoring." url="https://doi.org/10.1145/1464420.1464424" volume="5" year="2009">Hu et al. 2009</bibRefCitation>
+) species within field recordings from certain sites. As with individual song recognition software, these algorithms have to be trained, requiring a considerable number of training recordings, preferably from the respective area.
+</paragraph>
+<paragraph pageId="7" pageNumber="210">
+Most recognition software was developed for birds, based on extensive corpora of overall soundscape recordings and high numbers of individual, labelled species recordings used for training and testing. 
+<bibRefCitation author="Knight, EC" journalOrPublisher="Bioacoustics" pageId="10" pageNumber="213" url="https://doi.org/10.5751/ACE-01114-120214" year="2017">Knight et al. (2017)</bibRefCitation>
+provide an overview of underlying principles and performance benchmarking of five readily available species recognition programs. Among these programs, the template-based MonitoR software (
+<bibRefCitation author="Katz, J" journalOrPublisher="Bioacoustics" pageId="10" pageNumber="213" pagination="177 - 196" title="Assessment of error rates in acoustic monitoring with the R package monitoR." url="http://dx.doi.org/10.1080/09524622.2015.1133320" volume="25" year="2016">Katz et al. 2016</bibRefCitation>
+) is particularly promising, because it is a package implemented in R (https://www.r-project.org/), a free software project becoming increasingly popular among biologists. In addition, R contains the seewave package (
+<bibRefCitation author="Sueur, J" journalOrPublisher="Bioacoustics" pageId="11" pageNumber="214" pagination="213 - 226" title="Seewave: a free modular tool for sound analysis and synthesis." url="https://doi.org/10.1080/09524622.2008.9753600" volume="18" year="2008 a">Sueur et al. 2008a</bibRefCitation>
+), designed for sound analysis and synthesis. Users familiar with R can modify or combine it with other R packages (
+<bibRefCitation author="Sueur, J" journalOrPublisher="Proceedings of the National Academy of Sciences" pageId="11" pageNumber="214" url="https://doi.org/10.1007/978-3-319-77647-7" year="2018">Sueur 2018</bibRefCitation>
+). 
+<bibRefCitation author="Ovaskainen, O" journalOrPublisher="Ecology Letters" pageId="10" pageNumber="213" pagination="1244 - 1254" title="Animal Sound Identifier (ASI): software for automated identification of vocal animals." url="https://doi.org/10.1111/ele.13092" volume="21" year="2018">Ovaskainen et al. (2018)</bibRefCitation>
+developed Animal Sound Identifier (ASI), an interesting toolbox running on Matlab. Unlike most previous approaches, ASI locates training data directly from the field recordings and thus avoids the need for pre-defined reference libraries.
+</paragraph>
+<paragraph pageId="7" pageNumber="210">
+<bibRefCitation author="Phillips, YF" journalOrPublisher="Conservation Biology" pageId="10" pageNumber="213" url="https://doi.org/10.1371/journal.pone.0193345" year="2018">Phillips et al. (2018)</bibRefCitation>
+present an impressive method of reducing audio data to six orders of magnitude, facilitating the interpretation of environmental audio. By clustering vectors of acoustic indices, they were able to attribute clusters to dominant sound sources, such as birds, cicadas, or 
+<taxonomicName genus="Grylloidea" lsidName="Grylloidea" order="Orthoptera" pageId="7" pageNumber="210" rank="order">Orthoptera</taxonomicName>
+. They were able to determine 
+<taxonomicName genus="Grylloidea" lsidName="Grylloidea" order="Orthoptera" pageId="7" pageNumber="210" rank="order">Orthoptera</taxonomicName>
+calling date and time of day within a huge dataset of 26 months of recordings. With this pre-processing, it should be easy to extract relevant 
+<taxonomicName genus="Grylloidea" lsidName="Grylloidea" order="Orthoptera" pageId="7" pageNumber="210" rank="order">Orthoptera</taxonomicName>
+snippets and eventually store them as 
+<normalizedToken originalValue="“ethospecies”">"ethospecies"</normalizedToken>
+(sensu 
+<bibRefCitation author="Riede, K" journalOrPublisher="Ambio" pageId="10" pageNumber="213" pagination="546 - 548" title="Monitoring biodiversity: Analysis of Amazonian rainforest sounds." url="https://www.jstor.org/stable/4314145" volume="22" year="1993">Riede 1993</bibRefCitation>
+) for future identification.
+</paragraph>
+<paragraph pageId="7" pageNumber="210">
+To facilitate multiple use of sound files for improving algorithms, the respective sound files should be tagged and labelled as a corpus. A wide variety of well-documented corpora is available to be used in computational linguistics and speech recognition. A speech corpus is a well-defined set of speech audio files (
+<bibRefCitation pageId="7" pageNumber="210">Harrington 2010</bibRefCitation>
+), and a pre-requisite for reproducible results in classifier and recognizer development. Well-curated corpora are not yet available in bioacoustics (cf. 
+<bibRefCitation pageId="7" pageNumber="210">Riede and Jahn 2013</bibRefCitation>
+), which hampers progress of computer-aided analysis.
+</paragraph>
+</subSection>
+<subSection lastPageId="8" lastPageNumber="211" pageId="7" pageNumber="210" type="discussion">
+<paragraph pageId="7" pageNumber="210">Discussion</paragraph>
+<paragraph pageId="7" pageNumber="210">
+<bibRefCitation pageId="7" pageNumber="210">Otte and Alexander (1983)</bibRefCitation>
+were the first to point out the enormous potential of communicative signal analysis for understanding the systematics and taxonomy of 
+<taxonomicName genus="Grylloidea" lsidName="Grylloidea" order="Orthoptera" pageId="7" pageNumber="210" rank="order">Orthoptera</taxonomicName>
+:
+</paragraph>
+<paragraph pageId="7" pageNumber="210">
+"It must be clear at this point that those systematists who utilize communicative signals and isolating mechanisms as their principal means of locating and recognizing species are not simply studying biology as well as morphology, or simply using a wide variety of characters, as is commonly and justifiably considered desirable in bio-systematic work. Their entire approach, their methods of analysis, and their interpretations of particular kinds of data are all different. Further, and probably most important, their possibilities for rapid and accurate systematic coverage are unparalleled. For this reason, the groups of animals for which these techniques are possible ought to present unique opportunities for breakthroughs in biogeography and in the study of speciation and other evolutionary phenomena." (l.c., p. 5). Three decades later, bioacoustic characters of 
+<taxonomicName genus="Grylloidea" lsidName="Grylloidea" order="Orthoptera" pageId="7" pageNumber="210" rank="order">Orthoptera</taxonomicName>
+songs frequently form part of species descriptions, taxonomic revisions (e.g. Anatolian 
+<taxonomicName genus="Chorthippus" lsidName="Chorthippus" pageId="7" pageNumber="210" rank="genus">Chorthippus</taxonomicName>
+species: 
+<bibRefCitation author="Mol, A" journalOrPublisher="Annales de la Societe Entomologique de France (Nouvelle serie)" pageId="10" pageNumber="213" pagination="121 - 128" title="Song and morphology of the three Anatolian endemic species of the genus Chorthippus (Orthoptera: Acrididae, Gomphocerinae)." url="https://doi.org/10.1080/00379271.2003.10697367" volume="39" year="2003">Mol et al. 2003</bibRefCitation>
+), as well as phylogenetic studies (
+<bibRefCitation author="Desutter-Grandcolas, L" journalOrPublisher="Zoological Scripta" pageId="9" pageNumber="212" pagination="525 - 561" title="Phylogeny and the evolution of acoustic communication in extant Ensifera (Insecta, Orthoptera)." url="https://doi.org/10.1046/j.1463-6409.2003.00142.x" volume="32" year="2003">Desutter-Grandcolas 2003</bibRefCitation>
+, 
+<bibRefCitation author="Nattier, R" journalOrPublisher="Zoologica Scripta" pageId="10" pageNumber="213" pagination="479 - 497" title="Evolution of acoustic communication in the Gomphocerinae (Orthoptera: Caelifera: Acrididae)." url="https://doi.org/10.1111/j.1463-6409.2011.00485.x" volume="40" year="2011">Nattier et al. 2011</bibRefCitation>
+), being a well-established element of a comprehensive, 
+<normalizedToken originalValue="“integrative”">"integrative"</normalizedToken>
+taxonomy (
+<bibRefCitation author="Dayrat, B" journalOrPublisher="Biological Journal of the Linnean Society London" pageId="9" pageNumber="212" pagination="407 - 415" title="Towards integrative taxonomy." url="https://doi.org/10.1111/j.1095-8312.2005.00503.x" volume="85" year="2005">Dayrat 2005</bibRefCitation>
+, 
+<bibRefCitation author="Schlick-Steiner, BC" journalOrPublisher="Annual Review of Entomology" pageId="11" pageNumber="214" pagination="421 - 438" title="Integrative taxonomy: a multi-source approach to exploring biodiversity." url="https://doi.org/10.1146/annurev-ento-112408-085432" volume="55" year="2010">Schlick-Steiner et al. 2010</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="7" pageNumber="210">
+To mobilize the full potential of sound repositories for biodiversity research, innovative query tools are needed. The vision is to upload a sound recording to a data warehouse portal and search for similar acoustic patterns, comparable to BLAST (
+<bibRefCitation author="Altschul, SF" journalOrPublisher="Journal of Molecular Biology" pageId="8" pageNumber="211" pagination="403 - 410" title="Basic local alignment search tool." url="https://doi.org/10.1016/S0022-2836(05)80360-2" volume="215" year="1990">Altschul et al. 1990</bibRefCitation>
+), available as a tool in genetic databases (e.g. NCBI). The potential of such innovative tools will be further enhanced by federated access to distinct sound archives, using one portal with a unified query tool. As a next step, applications running on portable computers could allow classification and identification of songs in the field. Such an infrastructure sounds demanding, but its elements are already available.
+</paragraph>
+<paragraph pageId="7" pageNumber="210">Thanks to the rapid technological evolution of hard- and software, complex Artificial Intelligence tools for recognition of human speech, music and animal sounds are now available for personal devices such as smartphones. Commercial programs and apps such as Shazam (for music recognition: https://play.google.com/store/apps/details?id=com.shazam.androidandhl=en_US) or Alexa (for human speech recognition https://play.google.com/store/apps/details?id=com.amazon.dee.appandhl=de) are well-known examples. Evidently, speech recognition is of considerable military and economic interest, which means that large parts of on-going research are not accessible to the research community. This might be the reason that animal sound recognition lags far behind the performance of the above-mentioned commercial products.</paragraph>
+<paragraph pageId="7" pageNumber="210">
+PAM in combination with computer-aided algorithms could lead to major progress in species monitoring and discovery. 
+<bibRefCitation author="Lomolino, MV" journalOrPublisher="Journal of Biogeography" pageId="10" pageNumber="213" pagination="1187 - 1196" title="The silence of biogeography." url="https://doi.org/10.1111/jbi.12525" volume="42" year="2015">Lomolino et al. (2015)</bibRefCitation>
+highlight the potential of these ecoacoustic surveys for biogeography. However, most of the terabytes resulting from PAM are only used to calculate soundscape indices, to be used in landscape ecology (cf. 
+<bibRefCitation author="Ross, SRPJ" journalOrPublisher="Journal of Comparative Physiology A" pageId="11" pageNumber="214" url="https://doi.org/10.1007/s11284-017-1509-5" year="2018">Ross et al. 2018</bibRefCitation>
+). 
+<bibRefCitation author="Ferreira, LM" journalOrPublisher="Journal of Ecoacoustics" pageId="9" pageNumber="212" pagination="1 - 17" title="What do insects, anurans, birds, and mammals have to say about soundscape indices in a tropical savanna." url="https://doi.org/10.22261/jea.pvh6yz" volume="2" year="2018">Ferreira et al. (2018)</bibRefCitation>
+compared six soundscape indices with sonotype richness in a species-rich Brazilian tropical savanna. A sonotype is equivalent to the acoustic morphospecies (
+<bibRefCitation author="Aide, TM" pageId="8" pageNumber="211" url="https://doi.org/10.3390/rs9111096" year="2017">Aide et al. 2017</bibRefCitation>
+) or ethospecies (
+<bibRefCitation author="Riede, K" journalOrPublisher="Ambio" pageId="10" pageNumber="213" pagination="546 - 548" title="Monitoring biodiversity: Analysis of Amazonian rainforest sounds." url="https://www.jstor.org/stable/4314145" volume="22" year="1993">Riede 1993</bibRefCitation>
+). It is recognizable as an individual vocalization, but not necessarily supported by a reliable species identification. 
+<bibRefCitation author="Ferreira, LM" journalOrPublisher="Journal of Ecoacoustics" pageId="9" pageNumber="212" pagination="1 - 17" title="What do insects, anurans, birds, and mammals have to say about soundscape indices in a tropical savanna." url="https://doi.org/10.22261/jea.pvh6yz" volume="2" year="2018">Ferreira et al. (2018)</bibRefCitation>
+showed that the majority of sonotypes could not be attributed to birds. They criticize the bias of several indices on avifauna and emphasize the need to include insects and anurans in ecoacoustics.
+</paragraph>
+<paragraph pageId="7" pageNumber="210">
+While there has been considerable progress in bird song recognition and the labelling of large audio datasets, a comparable milestone has not yet been reached for 
+<taxonomicName genus="Grylloidea" lsidName="Grylloidea" order="Orthoptera" pageId="7" pageNumber="210" rank="order">Orthoptera</taxonomicName>
+. This is probably due to insufficient coverage in sound libraries. 
+<taxonomicName genus="Grylloidea" lsidName="Grylloidea" order="Orthoptera" pageId="7" pageNumber="210" rank="order">Orthoptera</taxonomicName>
+songs have been documented for less than 20% of described species. Reference sound libraries are missing not only for tropical regions, but are incomplete even for well-known faunas, e.g. North American grasshoppers, despite comprehensive literature including detailed description of communication and spectrograms of songs (
+<bibRefCitation pageId="7" pageNumber="210">Otte 1981</bibRefCitation>
+). In addition, complex software for training ANNs requires several recordings for each species. Therefore, for simple logical reasons, neither queries nor sophisticated software will produce useful results with reference libraries containing only 1 or 0 recordings for each species.
+</paragraph>
+<paragraph lastPageId="8" lastPageNumber="211" pageId="7" pageNumber="210">
+It must be doubted that self-organizing scientific routine procedures will suffice to establish the necessary infrastructure 
+<pageBreakToken pageId="8" pageNumber="211" start="start">sketched</pageBreakToken>
+here. A strong commitment for data sharing as part of good scientific practice is needed, preferably under the leadership of the respective scientific societies such as IBAC or the 
+<normalizedToken originalValue="Orthopterists’">Orthopterists'</normalizedToken>
+Society, together with representatives from major sound archives. The OSF (
+<bibRefCitation author="Cigliano, MM" journalOrPublisher="Bulletin of Entomological Research" pageId="9" pageNumber="212" url="http://orthoptera.speciesfile.org/HomePage/Orthoptera/HomePage.aspx" year="2018">Cigliano et al. 2018</bibRefCitation>
+) provides an authoritative taxonomic backbone and tools for the upload and retrieval of sound files. At present, OSF database managers and editors of the Journal of 
+<taxonomicName genus="Grylloidea" lsidName="Grylloidea" order="Orthoptera" pageId="8" pageNumber="211" rank="order">Orthoptera</taxonomicName>
+Research encourage submission of sound files together with manuscripts, but there is no obligation. In contrast, submission of gene sequence data to the NCBI is a pre-requisite for publication, resulting in rapid population of gene banks and impressive advances in molecular biology.
+</paragraph>
+<paragraph pageId="8" pageNumber="211">Despite promising first results, an efficient connection and data flow between sound archives, museum collections, advanced computational tools and users has not yet been established. Close cooperation of biologists with computer engineers is needed to cope with the data deluge generated by PAM. Again, well-curated and documented song libraries are a prerequisite to exploit bioacoustic Big Data for further biodiversity assessments.</paragraph>
+<paragraph pageId="8" pageNumber="211">Basically, an efficient acoustic sampling strategy should consist of the following components:</paragraph>
+<paragraph pageId="8" pageNumber="211">1. Protocols for standardized acoustic recording, at species and community level, using acoustic data loggers for autonomous long-term recordings.</paragraph>
+<paragraph pageId="8" pageNumber="211">
+2. Open access to and efficient management of sound recordings, song data, and voucher specimens, involving the 
+<taxonomicName genus="Grylloidea" lsidName="Grylloidea" order="Orthoptera" pageId="8" pageNumber="211" rank="order">Orthoptera</taxonomicName>
+Species File (OSF: 
+<bibRefCitation author="Cigliano, MM" journalOrPublisher="Bulletin of Entomological Research" pageId="9" pageNumber="212" url="http://orthoptera.speciesfile.org/HomePage/Orthoptera/HomePage.aspx" year="2018">Cigliano et al. 2018</bibRefCitation>
+) as a taxonomic backbone, and the Global Biodiversity Information Facility (GBIF) for federation of distinct biodiversity multimedia databases.
+</paragraph>
+<paragraph pageId="8" pageNumber="211">3. An infrastructure for automatic analysis and song classification for on-the ground and web-based analysis, including web2.0 applications for user communities and citizen science.</paragraph>
+<paragraph pageId="8" pageNumber="211">4. A strategic framework for future inventorying and monitoring efforts, including geographic priorities.</paragraph>
+<paragraph pageId="8" pageNumber="211">
+Components 1 and 3 involve the entire terrestrial bioacoustics research community, requiring considerable effort to overcome fragmentation between distinct bioacoustic subgroups, clustering around distinct taxa (e.g. frogs, birds, etc.). In contrast, 2 and 4 focus on 
+<taxonomicName genus="Grylloidea" lsidName="Grylloidea" order="Orthoptera" pageId="8" pageNumber="211" rank="order">Orthoptera</taxonomicName>
+and are feasible, eventually serving as a model for other species groups.
+</paragraph>
+</subSection>
+<subSection pageId="8" pageNumber="211" type="conclusions">
+<paragraph pageId="8" pageNumber="211">Conclusions</paragraph>
+<paragraph pageId="8" pageNumber="211">
+A recent commentary paper by 
+<bibRefCitation author="Deichmann, J" journalOrPublisher="Biotropica" pageId="9" pageNumber="212" pagination="713 - 718" title="It's time to listen: There is much to be learned from the sounds of tropical ecosystems." url="https://doi.org/10.1111/btp.12593" volume="50" year="2018">Deichmann et al. (2018)</bibRefCitation>
+entitled "It is time to listen" called for a systematic monitoring of rainforest soundscapes. Singing insects are the principal component of these soundscapes. 
+<taxonomicName genus="Grylloidea" lsidName="Grylloidea" order="Orthoptera" pageId="8" pageNumber="211" rank="order">Orthoptera</taxonomicName>
+songs are characterized by well-defined signal parameters such as carrier frequency and pulse rate. Acoustic profiling techniques have much to offer, from rapid assessment and species discovery of acoustically active species in remaining wilderness areas to continuous monitoring in managed landscapes. Their full potential can only be developed by cooperative data sharing. At present, an increased wealth of digitized bioacoustic data leads to confusing fragmentation: without the creation of a data warehouse infrastructure, bioacousticians will lose an excellent opportunity to exploit potential synergies from on-going soundscape monitoring initiatives and contribute to urgently needed biodiversity assessments. Likewise, without willingness for data sharing, the newly emerging field of ecoacoustics will generate fragmented soundscape monitoring projects.
+</paragraph>
+</subSection>
+<subSection pageId="8" pageNumber="211" type="acknowledgements">
+<paragraph pageId="8" pageNumber="211">Acknowledgements</paragraph>
+<paragraph pageId="8" pageNumber="211">
+This article is based on numerous fruitful discussions with my colleagues, in particular, Maria Marta Cigliano, Holger Braun and 
+<normalizedToken originalValue="Hernán">Hernan</normalizedToken>
+Lucas Pereira, Museo de La Plata, La Plata, Argentina. Thanks to Ed Baker for linguistic corrections and very useful suggestions. Special thanks to reviewer Rittik Deb, who made very constructive suggestions for re-structuring the article and deepening the sections on algorithmic species recognition.
+</paragraph>
+</subSection>
+<subSection lastPageId="11" lastPageNumber="214" pageId="8" pageNumber="211" type="reference_group">
+<paragraph pageId="8" pageNumber="211">References</paragraph>
+<paragraph pageId="8" pageNumber="211">
+<bibRef author="Aide, TM" pageId="8" pageNumber="211" url="https://doi.org/10.3390/rs9111096" year="2017">
+<author pageId="8" pageNumber="211">Aide, TM</author>
+, 
+<author pageId="8" pageNumber="211">
+<normalizedToken originalValue="Hernández-Serna">Hernandez-Serna</normalizedToken>
+, A
+</author>
+, 
+<author pageId="8" pageNumber="211">Campos-Cerqueira, M</author>
+, 
+<author pageId="8" pageNumber="211">Acevedo-Charry, O</author>
+, 
+<author pageId="8" pageNumber="211">Deichmann, JL</author>
+, 
+<year pageId="8" pageNumber="211">2017</year>
+.. https://doi.org/10.3390/rs9111096
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="211">
+<bibRef author="Altschul, SF" journalOrPublisher="Journal of Molecular Biology" pageId="8" pageNumber="211" pagination="403 - 410" title="Basic local alignment search tool." url="https://doi.org/10.1016/S0022-2836(05)80360-2" volume="215" year="1990">
+<author pageId="8" pageNumber="211">Altschul, SF</author>
+, 
+<author pageId="8" pageNumber="211">Gish, W</author>
+, 
+<author pageId="8" pageNumber="211">Miller, W</author>
+, 
+<author pageId="8" pageNumber="211">Myers, EW</author>
+, 
+<author pageId="8" pageNumber="211">Lipman, DJ</author>
+, 
+<year pageId="8" pageNumber="211">1990</year>
+. 
+<title pageId="8" pageNumber="211">Basic local alignment search tool.</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="211">Journal of Molecular Biology</journalOrPublisher>
+<volume pageId="8" pageNumber="211">215</volume>
+: 
+<pagination pageId="8" pageNumber="211">403 - 410</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="211">
+<bibRef author="August, T" journalOrPublisher="Biological Journal of the Linnean Society" pageId="8" pageNumber="211" pagination="731 - 749" title="Emerging technologies for biological recording." url="https://doi.org/10.1111/bij.12534" volume="115" year="2015">
+<author pageId="8" pageNumber="211">August, T</author>
+, 
+<author pageId="8" pageNumber="211">Harvey, M</author>
+, 
+<author pageId="8" pageNumber="211">Lightfoot, P</author>
+, 
+<author pageId="8" pageNumber="211">Kilbey, D</author>
+, 
+<author pageId="8" pageNumber="211">Papadopoulos, T</author>
+, 
+<author pageId="8" pageNumber="211">Jepson, P</author>
+, 
+<year pageId="8" pageNumber="211">2015</year>
+. 
+<title pageId="8" pageNumber="211">Emerging technologies for biological recording.</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="211">Biological Journal of the Linnean Society</journalOrPublisher>
+<volume pageId="8" pageNumber="211">115</volume>
+: 
+<pagination pageId="8" pageNumber="211">731 - 749</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="211">
+<bibRef author="Baker, E" journalOrPublisher="Biological Journal of the Linnean Society" pageId="8" pageNumber="211" url="https://doi.org/10.1093/database/bav054" year="2015">
+<author pageId="8" pageNumber="211">Baker, E</author>
+, 
+<author pageId="8" pageNumber="211">Price, BW</author>
+, 
+<author pageId="8" pageNumber="211">Rycroft, SD</author>
+, 
+<author pageId="8" pageNumber="211">Hill, J</author>
+, 
+<author pageId="8" pageNumber="211">Smith, VS</author>
+, 
+<year pageId="8" pageNumber="211">2015</year>
+.. https://doi.org/10.1093/database/bav054
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="211">
+<bibRef author="Baker, E" journalOrPublisher="Biological Journal of the Linnean Society" pageId="8" pageNumber="211" url="https://doi.org/10.5519/0040999" year="2017">
+<author pageId="8" pageNumber="211">Baker, E</author>
+, 
+<author pageId="8" pageNumber="211">Rycroft, S</author>
+, 
+<year pageId="8" pageNumber="211">2017</year>
+.. https://doi.org/10.5519/0040999
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="211">
+<bibRef author="Baker, A" journalOrPublisher="Zoologischer Anzeiger - A Journal of Comparative Zoology" pageId="8" pageNumber="211" pagination="60 - 70" title="Wing resonances in a new dead-leaf-mimic katydid (Tettigoniidae: Pterochrozinae) from the Andean cloud forests." url="https://doi.org/10.1016/j.jcz.2017.10.001" volume="270" year="2017">
+<author pageId="8" pageNumber="211">Baker, A</author>
+, 
+<author pageId="8" pageNumber="211">Sarria-S, FA</author>
+, 
+<author pageId="8" pageNumber="211">Morris, GK</author>
+, 
+<author pageId="8" pageNumber="211">Jonsson, T</author>
+, 
+<author pageId="8" pageNumber="211">Montealegre-Z, F</author>
+, 
+<year pageId="8" pageNumber="211">2017</year>
+. 
+<title pageId="8" pageNumber="211">Wing resonances in a new dead-leaf-mimic katydid (Tettigoniidae: Pterochrozinae) from the Andean cloud forests.</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="211">Zoologischer Anzeiger - A Journal of Comparative Zoology</journalOrPublisher>
+<volume pageId="8" pageNumber="211">270</volume>
+: 
+<pagination pageId="8" pageNumber="211">60 - 70</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="211">
+<bibRef author="Benediktov, AA" journalOrPublisher="Entomological Review" pageId="8" pageNumber="211" pagination="1174 - 1181" title="The possibility of computer analysis of the twilight soundscape of the orthopteran (Tettigoniidae, Gryllidae) community, by the example of an agrocenosis in Eastern Bulgaria." url="https://link.springer.com/article/10.1134/S0013873815090043" volume="95" year="2015">
+<author pageId="8" pageNumber="211">Benediktov, AA</author>
+, 
+<year pageId="8" pageNumber="211">2015</year>
+. 
+<title pageId="8" pageNumber="211">The possibility of computer analysis of the twilight soundscape of the orthopteran (Tettigoniidae, Gryllidae) community, by the example of an agrocenosis in Eastern Bulgaria.</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="211">Entomological Review</journalOrPublisher>
+<volume pageId="8" pageNumber="211">95</volume>
+: 
+<pagination pageId="8" pageNumber="211">1174 - 1181</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="211">
+<bibRef author="Blumstein, DT" journalOrPublisher="Journal of Applied Ecology" pageId="8" pageNumber="211" pagination="758 - 767" title="Acoustic monitoring in terrestrial environments using microphone arrays: Applications, technological considerations and prospectus." url="https://doi.org/10.1111/j.1365-2664.2011.01993.x" volume="48" year="2011">
+<author pageId="8" pageNumber="211">Blumstein, DT</author>
+, 
+<author pageId="8" pageNumber="211">Mennill, DJ</author>
+, 
+<author pageId="8" pageNumber="211">Clemins, P</author>
+, 
+<author pageId="8" pageNumber="211">Girod, L</author>
+, 
+<author pageId="8" pageNumber="211">Yao, K</author>
+, 
+<author pageId="8" pageNumber="211">Patricelli, G</author>
+, 
+<author pageId="8" pageNumber="211">Deppe, JL</author>
+, 
+<author pageId="8" pageNumber="211">Krakauer, AH</author>
+, 
+<author pageId="8" pageNumber="211">Clark, C</author>
+, 
+<author pageId="8" pageNumber="211">Cortopassi, KA</author>
+, 
+<author pageId="8" pageNumber="211">Hanser, SF</author>
+, 
+<author pageId="8" pageNumber="211">Mccowan, B</author>
+, 
+<author pageId="8" pageNumber="211">Ali, AM</author>
+, 
+<author pageId="8" pageNumber="211">Kirschel, ANG</author>
+, 
+<year pageId="8" pageNumber="211">2011</year>
+. 
+<title pageId="8" pageNumber="211">Acoustic monitoring in terrestrial environments using microphone arrays: Applications, technological considerations and prospectus.</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="211">Journal of Applied Ecology</journalOrPublisher>
+<volume pageId="8" pageNumber="211">48</volume>
+: 
+<pagination pageId="8" pageNumber="211">758 - 767</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="211">
+<bibRef author="Brandes, TS" journalOrPublisher="Bird Conservation International" pageId="8" pageNumber="211" pagination="163 - 173" title="Automated sound recording and analysis techniques for bird surveys and conservation." url="https://doi.org/10.1017/S0959270908000415" volume="18" year="2008">
+<author pageId="8" pageNumber="211">Brandes, TS</author>
+, 
+<year pageId="8" pageNumber="211">2008</year>
+. 
+<title pageId="8" pageNumber="211">Automated sound recording and analysis techniques for bird surveys and conservation.</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="211">Bird Conservation International</journalOrPublisher>
+<volume pageId="8" pageNumber="211">18</volume>
+: 
+<pagination pageId="8" pageNumber="211">163 - 173</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="211">
+<bibRef author="Braun, H" journalOrPublisher="Zootaxa" pageId="8" pageNumber="211" pagination="1 - 32" title="Little walking leaves from southeast Ecuador: biology and taxonomy of Typophyllum species (Orthoptera, Tettigoniidae, Pterochrozinae)." url="https://doi.org/10.11646/zootaxa.4012.1.1" volume="4012" year="2015">
+<author pageId="8" pageNumber="211">Braun, H</author>
+, 
+<year pageId="8" pageNumber="211">2015</year>
+. 
+<title pageId="8" pageNumber="211">Little walking leaves from southeast Ecuador: biology and taxonomy of Typophyllum species (Orthoptera, Tettigoniidae, Pterochrozinae).</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="211">Zootaxa</journalOrPublisher>
+<volume pageId="8" pageNumber="211">4012</volume>
+: 
+<pagination pageId="8" pageNumber="211">1 - 32</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="211">
+<bibRef author="Celis-Murillo, A" journalOrPublisher="Journal of Field Ornithology" pageId="8" pageNumber="211" pagination="64 - 78" title="Using soundscape recordings to estimate bird species abundance, richness, and composition." url="https://doi.org/10.1111/j.1557-9263.2009.00206.x" volume="80" year="2009">
+<author pageId="8" pageNumber="211">Celis-Murillo, A</author>
+, 
+<author pageId="8" pageNumber="211">Deppe, JL</author>
+, 
+<author pageId="8" pageNumber="211">Allen, MF</author>
+, 
+<year pageId="8" pageNumber="211">2009</year>
+. 
+<title pageId="8" pageNumber="211">Using soundscape recordings to estimate bird species abundance, richness, and composition.</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="211">Journal of Field Ornithology</journalOrPublisher>
+<volume pageId="8" pageNumber="211">80</volume>
+: 
+<pagination pageId="8" pageNumber="211">64 - 78</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="211">
+<bibRef author="Chaves, VA" journalOrPublisher="Journal of Field Ornithology" pageId="8" pageNumber="211" url="https://ieeexplore.ieee.org/document/6249897" year="2012">
+<author pageId="8" pageNumber="211">Chaves, VA</author>
+, 
+<author pageId="8" pageNumber="211">Travieso, CM</author>
+, 
+<author pageId="8" pageNumber="211">Camacho, A</author>
+, 
+<author pageId="8" pageNumber="211">Alonso, JB</author>
+, 
+<year pageId="8" pageNumber="211">2012</year>
+.. https://ieeexplore.ieee.org/document/6249897
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Chesmore, ED" journalOrPublisher="Bulletin of Entomological Research" pageId="9" pageNumber="212" pagination="319 - 330" title="Automated identification of field-recorded songs of four British grasshoppers using bioacoustic signal recognition." url="https://doi.org/10.1079/BER2004306" volume="94" year="2004">
+<author pageId="9" pageNumber="212">
+<pageBreakToken pageId="9" pageNumber="212" start="start">Chesmore</pageBreakToken>
+, ED
+</author>
+, 
+<author pageId="9" pageNumber="212">Ohya, E</author>
+, 
+<year pageId="9" pageNumber="212">2004</year>
+. 
+<title pageId="9" pageNumber="212">Automated identification of field-recorded songs of four British grasshoppers using bioacoustic signal recognition.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Bulletin of Entomological Research</journalOrPublisher>
+<volume pageId="9" pageNumber="212">94</volume>
+: 
+<pagination pageId="9" pageNumber="212">319 - 330</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Chobanov, DP" journalOrPublisher="Bulletin of Entomological Research" pageId="9" pageNumber="212" url="https://doi.org/10.4081/entomologia.2014.209" year="2014">
+<author pageId="9" pageNumber="212">Chobanov, DP</author>
+, 
+<author pageId="9" pageNumber="212">Lemonnier-Darcemont, M</author>
+, 
+<author pageId="9" pageNumber="212">Darcemont, C</author>
+, 
+<author pageId="9" pageNumber="212">
+<normalizedToken originalValue="Puskás">Puskas</normalizedToken>
+, G
+</author>
+, 
+<author pageId="9" pageNumber="212">Heller, KG</author>
+, 
+<year pageId="9" pageNumber="212">2014</year>
+.. https://doi.org/10.4081/entomologia.2014.209
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Cigliano, MM" journalOrPublisher="Bulletin of Entomological Research" pageId="9" pageNumber="212" url="http://orthoptera.speciesfile.org/HomePage/Orthoptera/HomePage.aspx" year="2018">
+<author pageId="9" pageNumber="212">Cigliano, MM</author>
+, 
+<author pageId="9" pageNumber="212">Braun, H</author>
+, 
+<author pageId="9" pageNumber="212">Eades, DC</author>
+, 
+<author pageId="9" pageNumber="212">Otte, D</author>
+, 
+<year pageId="9" pageNumber="212">2018</year>
+.. http://orthoptera.speciesfile.org/HomePage/Orthoptera/HomePage.aspx
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Collins, N" journalOrPublisher="Transactions of the American Entomological Society" pageId="9" pageNumber="212" pagination="163 - 184" title="Two new species of Neoxabea, three new species of Oecanthus, and documentation of two other species in Nicaragua (Orthoptera: Gryllidae: Oecanthinae)." url="https://doi.org/10.3157/061.140.0111" volume="140" year="2014">
+<author pageId="9" pageNumber="212">Collins, N</author>
+, 
+<author pageId="9" pageNumber="212">van den Berghe, E</author>
+, 
+<author pageId="9" pageNumber="212">Carson, L</author>
+, 
+<year pageId="9" pageNumber="212">2014</year>
+. 
+<title pageId="9" pageNumber="212">Two new species of Neoxabea, three new species of Oecanthus, and documentation of two other species in Nicaragua (Orthoptera: Gryllidae: Oecanthinae).</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Transactions of the American Entomological Society</journalOrPublisher>
+<volume pageId="9" pageNumber="212">140</volume>
+: 
+<pagination pageId="9" pageNumber="212">163 - 184</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Cordero, PJ" journalOrPublisher="Zootaxa" pageId="9" pageNumber="212" pagination="63 - 68" title="Recognizing taxonomic units in the field - The case of the crickets Oecanthusdulcisonans Gorochov, 1993, and O. pellucens (Scopoli, 1763) (Orthoptera: Gryllidae): implications for their distribution and conservation in Southern Europe." volume="2284" year="2009">
+<author pageId="9" pageNumber="212">Cordero, PJ</author>
+, 
+<author pageId="9" pageNumber="212">Llorente, V</author>
+, 
+<author pageId="9" pageNumber="212">Coredero, P</author>
+, 
+<author pageId="9" pageNumber="212">Ortego, J</author>
+, 
+<year pageId="9" pageNumber="212">2009</year>
+. 
+<title pageId="9" pageNumber="212">Recognizing taxonomic units in the field - The case of the crickets Oecanthusdulcisonans Gorochov, 1993, and O.pellucens (Scopoli, 1763) (Orthoptera: Gryllidae): implications for their distribution and conservation in Southern Europe.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Zootaxa</journalOrPublisher>
+<volume pageId="9" pageNumber="212">2284</volume>
+: 
+<pagination pageId="9" pageNumber="212">63 - 68</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Cordero, PJ" journalOrPublisher="Zootaxa" pageId="9" pageNumber="212" url="https://www.macaulaylibrary.org" year="2017">
+<year pageId="9" pageNumber="212">2017</year>
+.. https://www.macaulaylibrary.org
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Dayrat, B" journalOrPublisher="Biological Journal of the Linnean Society London" pageId="9" pageNumber="212" pagination="407 - 415" title="Towards integrative taxonomy." url="https://doi.org/10.1111/j.1095-8312.2005.00503.x" volume="85" year="2005">
+<author pageId="9" pageNumber="212">Dayrat, B</author>
+, 
+<year pageId="9" pageNumber="212">2005</year>
+. 
+<title pageId="9" pageNumber="212">Towards integrative taxonomy.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Biological Journal of the Linnean Society London</journalOrPublisher>
+<volume pageId="9" pageNumber="212">85</volume>
+: 
+<pagination pageId="9" pageNumber="212">407 - 415</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Deichmann, J" journalOrPublisher="Biotropica" pageId="9" pageNumber="212" pagination="713 - 718" title="It's time to listen: There is much to be learned from the sounds of tropical ecosystems." url="https://doi.org/10.1111/btp.12593" volume="50" year="2018">
+<author pageId="9" pageNumber="212">Deichmann, J</author>
+, 
+<author pageId="9" pageNumber="212">Acevedo-Charry, O</author>
+, 
+<author pageId="9" pageNumber="212">Barclay, L</author>
+, 
+<author pageId="9" pageNumber="212">Burivalova, Z</author>
+, 
+<author pageId="9" pageNumber="212">Campos Cerqueira, M</author>
+, 
+<author pageId="9" pageNumber="212">d'Horta, F</author>
+, 
+<author pageId="9" pageNumber="212">Game, E</author>
+, 
+<author pageId="9" pageNumber="212">Gottesman, B</author>
+, 
+<author pageId="9" pageNumber="212">Hart, P</author>
+, 
+<author pageId="9" pageNumber="212">Kalan, A</author>
+, 
+<author pageId="9" pageNumber="212">Linke, S</author>
+, 
+<author pageId="9" pageNumber="212">Do Nascimento, L</author>
+, 
+<author pageId="9" pageNumber="212">Pijanowski, B</author>
+, 
+<author pageId="9" pageNumber="212">Staaterman, E</author>
+, 
+<author pageId="9" pageNumber="212">Aide, TM</author>
+, 
+<year pageId="9" pageNumber="212">2018</year>
+. 
+<title pageId="9" pageNumber="212">It's time to listen: There is much to be learned from the sounds of tropical ecosystems.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Biotropica</journalOrPublisher>
+<volume pageId="9" pageNumber="212">50</volume>
+: 
+<pagination pageId="9" pageNumber="212">713 - 718</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Desutter-Grandcolas, L" journalOrPublisher="Zoological Scripta" pageId="9" pageNumber="212" pagination="525 - 561" title="Phylogeny and the evolution of acoustic communication in extant Ensifera (Insecta, Orthoptera)." url="https://doi.org/10.1046/j.1463-6409.2003.00142.x" volume="32" year="2003">
+<author pageId="9" pageNumber="212">Desutter-Grandcolas, L</author>
+, 
+<year pageId="9" pageNumber="212">2003</year>
+. 
+<title pageId="9" pageNumber="212">Phylogeny and the evolution of acoustic communication in extant Ensifera (Insecta, Orthoptera).</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Zoological Scripta</journalOrPublisher>
+<volume pageId="9" pageNumber="212">32</volume>
+: 
+<pagination pageId="9" pageNumber="212">525 - 561</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Dietrich, C" journalOrPublisher="Pattern Recognition" pageId="9" pageNumber="212" pagination="2293 - 2305" title="Classification of bioacoustic time series based on the combination of global and local decisions." url="https://doi.org/10.1016/S0031-3203(04)00161-X" volume="37" year="2004">
+<author pageId="9" pageNumber="212">Dietrich, C</author>
+, 
+<author pageId="9" pageNumber="212">Palm, G</author>
+, 
+<author pageId="9" pageNumber="212">Riede, K</author>
+, 
+<author pageId="9" pageNumber="212">Schwenker, F</author>
+, 
+<year pageId="9" pageNumber="212">2004</year>
+. 
+<title pageId="9" pageNumber="212">Classification of bioacoustic time series based on the combination of global and local decisions.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Pattern Recognition</journalOrPublisher>
+<volume pageId="9" pageNumber="212">37</volume>
+: 
+<pagination pageId="9" pageNumber="212">2293 - 2305</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Diwakar, S" journalOrPublisher="Biodiversity Conservation" pageId="9" pageNumber="212" pagination="4081 - 4093" title="Psychoacoustic sampling as a reliable, noninvasive method to monitor orthopteran species diversity in tropical forests." url="https://doi.org/10.1007/s10531-007-9208-0" volume="16" year="2007">
+<author pageId="9" pageNumber="212">Diwakar, S</author>
+, 
+<author pageId="9" pageNumber="212">Jain, M</author>
+, 
+<author pageId="9" pageNumber="212">Balakrishnan, R</author>
+, 
+<year pageId="9" pageNumber="212">2007</year>
+. 
+<title pageId="9" pageNumber="212">Psychoacoustic sampling as a reliable, noninvasive method to monitor orthopteran species diversity in tropical forests.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Biodiversity Conservation</journalOrPublisher>
+<volume pageId="9" pageNumber="212">16</volume>
+: 
+<pagination pageId="9" pageNumber="212">4081 - 4093</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Dolbear, A" journalOrPublisher="American Naturalist" pageId="9" pageNumber="212" pagination="970 - 971" title="The cricket as a thermometer." url="https://doi.org/10.1086/276739" volume="31" year="1897">
+<author pageId="9" pageNumber="212">Dolbear, A</author>
+, 
+<year pageId="9" pageNumber="212">1897</year>
+. 
+<title pageId="9" pageNumber="212">The cricket as a thermometer.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">American Naturalist</journalOrPublisher>
+<volume pageId="9" pageNumber="212">31</volume>
+: 
+<pagination pageId="9" pageNumber="212">970 - 971</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Ferguson, BG" journalOrPublisher="Intelligent Sensors, Sensor Networks and Information Processing Conference" pageId="9" pageNumber="212" pagination="149 - 153" title="Extracting tactical information from acoustic signals." volume="2004" year="2004">
+<author pageId="9" pageNumber="212">Ferguson, BG</author>
+, 
+<author pageId="9" pageNumber="212">Lo, KW</author>
+, 
+<year pageId="9" pageNumber="212">2004</year>
+. 
+<title pageId="9" pageNumber="212">Extracting tactical information from acoustic signals.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Intelligent Sensors, Sensor Networks and Information Processing Conference</journalOrPublisher>
+<volume pageId="9" pageNumber="212">2004</volume>
+: 
+<pagination pageId="9" pageNumber="212">149 - 153</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Ferreira, LM" journalOrPublisher="Journal of Ecoacoustics" pageId="9" pageNumber="212" pagination="1 - 17" title="What do insects, anurans, birds, and mammals have to say about soundscape indices in a tropical savanna." url="https://doi.org/10.22261/jea.pvh6yz" volume="2" year="2018">
+<author pageId="9" pageNumber="212">Ferreira, LM</author>
+, 
+<author pageId="9" pageNumber="212">Oliveira, EG</author>
+, 
+<author pageId="9" pageNumber="212">Lopes, LC</author>
+, 
+<author pageId="9" pageNumber="212">Brito, MR</author>
+, 
+<author pageId="9" pageNumber="212">Baumgarten, J</author>
+, 
+<author pageId="9" pageNumber="212">Rodrigues, FH</author>
+, 
+<author pageId="9" pageNumber="212">Sousa-Lima, RS</author>
+, 
+<year pageId="9" pageNumber="212">2018</year>
+. 
+<title pageId="9" pageNumber="212">What do insects, anurans, birds, and mammals have to say about soundscape indices in a tropical savanna.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Journal of Ecoacoustics</journalOrPublisher>
+<volume pageId="9" pageNumber="212">2</volume>
+: 
+<pagination pageId="9" pageNumber="212">1 - 17</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Fischer, FP" journalOrPublisher="Journal of Ecoacoustics" pageId="9" pageNumber="212" url="https://doi.org/10.1890/1051-0761(1997)007[0909:QAOGQA]2.0.CO;2" year="1997">
+<author pageId="9" pageNumber="212">Fischer, FP</author>
+, 
+<author pageId="9" pageNumber="212">Schulz, U</author>
+, 
+<author pageId="9" pageNumber="212">Schubert, H</author>
+, 
+<author pageId="9" pageNumber="212">Knapp, P</author>
+, 
+<author pageId="9" pageNumber="212">Schmoger, M</author>
+, 
+<year pageId="9" pageNumber="212">1997</year>
+.. https://doi.org/10.1890/1051-0761(1997)007[0909:QAOGQA]2.0.CO;2
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Forrest, TG" journalOrPublisher="The Florida Entomologist" pageId="9" pageNumber="212" pagination="416 - 426" title="Using insect sounds to estimate and monitor their populations." url="https://doi.org/10.2307/3495001" volume="71" year="1988">
+<author pageId="9" pageNumber="212">Forrest, TG</author>
+, 
+<year pageId="9" pageNumber="212">1988</year>
+. 
+<title pageId="9" pageNumber="212">Using insect sounds to estimate and monitor their populations.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">The Florida Entomologist</journalOrPublisher>
+<volume pageId="9" pageNumber="212">71</volume>
+: 
+<pagination pageId="9" pageNumber="212">416 - 426</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Frings, H" journalOrPublisher="Journal of Experimental Zoology" pageId="9" pageNumber="212" pagination="33 - 51" title="Effects of temperature on the ordinary song of the common meadow grasshopper, Orchelimumvulgare (Orthoptera: Tettigoniidae)." url="https://doi.org/10.1002/jez.1401510104" volume="151" year="1962">
+<author pageId="9" pageNumber="212">Frings, H</author>
+, 
+<author pageId="9" pageNumber="212">Frings, M</author>
+, 
+<year pageId="9" pageNumber="212">1962</year>
+. 
+<title pageId="9" pageNumber="212">Effects of temperature on the ordinary song of the common meadow grasshopper, Orchelimumvulgare (Orthoptera: Tettigoniidae).</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Journal of Experimental Zoology</journalOrPublisher>
+<volume pageId="9" pageNumber="212">151</volume>
+: 
+<pagination pageId="9" pageNumber="212">33 - 51</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Ganchev, T" journalOrPublisher="Bioacoustics" pageId="9" pageNumber="212" pagination="281 - 328" title="Automatic acoustic identification of singing insects." url="https://www.tandfonline.com/doi/abs/10.1080/09524622.2007.9753582" volume="16" year="2007">
+<author pageId="9" pageNumber="212">Ganchev, T</author>
+, 
+<author pageId="9" pageNumber="212">Potamitis, I</author>
+, 
+<year pageId="9" pageNumber="212">2007</year>
+. 
+<title pageId="9" pageNumber="212">Automatic acoustic identification of singing insects.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Bioacoustics</journalOrPublisher>
+<volume pageId="9" pageNumber="212">16</volume>
+: 
+<pagination pageId="9" pageNumber="212">281 - 328</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Gardiner, T" journalOrPublisher="Journal of Insect Conservation" pageId="9" pageNumber="212" pagination="151 - 173" title="Review of the methods frequently used to estimate the abundance of Orthoptera in grassland ecosystems." url="https://doi.org/10.1007/s10841-005-2854-1" volume="9" year="2005">
+<author pageId="9" pageNumber="212">Gardiner, T</author>
+, 
+<author pageId="9" pageNumber="212">Hill, J</author>
+, 
+<author pageId="9" pageNumber="212">Chesmore, D</author>
+, 
+<year pageId="9" pageNumber="212">2005</year>
+. 
+<title pageId="9" pageNumber="212">Review of the methods frequently used to estimate the abundance of Orthoptera in grassland ecosystems.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Journal of Insect Conservation</journalOrPublisher>
+<volume pageId="9" pageNumber="212">9</volume>
+: 
+<pagination pageId="9" pageNumber="212">151 - 173</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Gardner, TA" journalOrPublisher="Ecology Letters" pageId="9" pageNumber="212" pagination="139 - 150" title="The cost-effectiveness of biodiversity surveys in tropical forests." url="https://doi.org/10.1111/j.1461-0248.2007.01133.x" volume="11" year="2008">
+<author pageId="9" pageNumber="212">Gardner, TA</author>
+, 
+<author pageId="9" pageNumber="212">Barlow, J</author>
+, 
+<author pageId="9" pageNumber="212">Araujo, IS</author>
+, 
+<author pageId="9" pageNumber="212">Avila-Pires, TCS</author>
+, 
+<author pageId="9" pageNumber="212">Bonaldo, AB</author>
+, 
+<author pageId="9" pageNumber="212">Costa, JE</author>
+, 
+<author pageId="9" pageNumber="212">Esposito, MC</author>
+, 
+<author pageId="9" pageNumber="212">Ferreira, LV</author>
+, 
+<author pageId="9" pageNumber="212">Hawes, J</author>
+, 
+<author pageId="9" pageNumber="212">
+<normalizedToken originalValue="Hemández">Hemandez</normalizedToken>
+, MIM
+</author>
+, 
+<author pageId="9" pageNumber="212">Hoogmoed, MS</author>
+, 
+<author pageId="9" pageNumber="212">Leite, RN</author>
+, 
+<author pageId="9" pageNumber="212">Lo-Man-Hung, NF</author>
+, 
+<author pageId="9" pageNumber="212">Malcolm, JR</author>
+, 
+<author pageId="9" pageNumber="212">Martins, MB</author>
+, 
+<author pageId="9" pageNumber="212">Mestre, LAM</author>
+, 
+<author pageId="9" pageNumber="212">Miranda-Santas, R</author>
+, 
+<author pageId="9" pageNumber="212">Nunes-Gutjahr, AL</author>
+, 
+<author pageId="9" pageNumber="212">Overal, WL</author>
+, 
+<author pageId="9" pageNumber="212">Parry, L</author>
+, 
+<author pageId="9" pageNumber="212">Peters, SL</author>
+, 
+<author pageId="9" pageNumber="212">Ribeiro-Gunior, MA</author>
+, 
+<author pageId="9" pageNumber="212">Da Silva, MNF</author>
+, 
+<author pageId="9" pageNumber="212">Da Silva Mottc, C</author>
+, 
+<author pageId="9" pageNumber="212">Peres, C</author>
+, 
+<year pageId="9" pageNumber="212">2008</year>
+. 
+<title pageId="9" pageNumber="212">The cost-effectiveness of biodiversity surveys in tropical forests.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Ecology Letters</journalOrPublisher>
+<volume pageId="9" pageNumber="212">11</volume>
+: 
+<pagination pageId="9" pageNumber="212">139 - 150</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Garnas, JR" journalOrPublisher="Current Opinion in Insect Science" pageId="9" pageNumber="212" pagination="93 - 101" title="Rapid evolution of insects to global environmental change: conceptual issues and empirical gaps." url="https://doi.org/10.1016/j.cois.2018.07.013" volume="29" year="2018">
+<author pageId="9" pageNumber="212">Garnas, JR</author>
+, 
+<year pageId="9" pageNumber="212">2018</year>
+. 
+<title pageId="9" pageNumber="212">Rapid evolution of insects to global environmental change: conceptual issues and empirical gaps.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Current Opinion in Insect Science</journalOrPublisher>
+<volume pageId="9" pageNumber="212">29</volume>
+: 
+<pagination pageId="9" pageNumber="212">93 - 101</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Garnas, JR" journalOrPublisher="Current Opinion in Insect Science" pageId="9" pageNumber="212" url="https://doi.org/10.15468/dl.pwhibo" year="2015">
+<year pageId="9" pageNumber="212">2015</year>
+.. https://doi.org/10.15468/dl.pwhibo
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Garnas, JR" journalOrPublisher="Current Opinion in Insect Science" pageId="9" pageNumber="212" url="https://doi.org/10.15468/dl.psq6q1" year="2017">
+<year pageId="9" pageNumber="212">2017</year>
+.. https://doi.org/10.15468/dl.psq6q1
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Guralnick, RP" journalOrPublisher="ZooKeys" pageId="9" pageNumber="212" pagination="133 - 154" title="Community next steps for making globally unique identifiers work for biocollections data." url="https://doi.org/10.3897/zookeys.494.9352" volume="494" year="2015">
+<author pageId="9" pageNumber="212">Guralnick, RP</author>
+, 
+<author pageId="9" pageNumber="212">Cellinese, N</author>
+, 
+<author pageId="9" pageNumber="212">Deck, J</author>
+, 
+<author pageId="9" pageNumber="212">Pyle, RL</author>
+, 
+<author pageId="9" pageNumber="212">Kunze, J</author>
+, 
+<author pageId="9" pageNumber="212">Penev, L</author>
+, 
+<author pageId="9" pageNumber="212">Walls, R</author>
+, 
+<author pageId="9" pageNumber="212">Hagedorn, G</author>
+, 
+<author pageId="9" pageNumber="212">Agosti, D</author>
+, 
+<author pageId="9" pageNumber="212">Wieczorek, J</author>
+, 
+<author pageId="9" pageNumber="212">Catapano, T</author>
+, 
+<author pageId="9" pageNumber="212">Page, EDM</author>
+, 
+<year pageId="9" pageNumber="212">2015</year>
+. 
+<title pageId="9" pageNumber="212">Community next steps for making globally unique identifiers work for biocollections data.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">ZooKeys</journalOrPublisher>
+<volume pageId="9" pageNumber="212">494</volume>
+: 
+<pagination pageId="9" pageNumber="212">133 - 154</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Haselmayer, J" journalOrPublisher="ZooKeys" pageId="9" pageNumber="212" url="https://doi.org/10.1650/0010-5422(2000)102[0887:ACOPCA]2.0.CO;2" year="2000">
+<author pageId="9" pageNumber="212">Haselmayer, J</author>
+, 
+<author pageId="9" pageNumber="212">Quinn, JS</author>
+, 
+<year pageId="9" pageNumber="212">2000</year>
+.. https://doi.org/10.1650/0010-5422(2000)102[0887:ACOPCA]2.0.CO;2
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Helversen, D von" journalOrPublisher="ZooKeys" pageId="9" pageNumber="212" url="https://doi.org/10.1007/s004220050496" year="1998">
+<author pageId="9" pageNumber="212">Helversen, D von</author>
+, 
+<author pageId="9" pageNumber="212">Helversen, O von</author>
+, 
+<year pageId="9" pageNumber="212">1998</year>
+.. https://doi.org/10.1007/s004220050496
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Hemp, C" journalOrPublisher="Organisms, Diversity and Evolution" pageId="9" pageNumber="212" pagination="351 - 368" title="Ecology, acoustics and chromosomes of the East African genus Afroanthracites Hemp and Ingrisch (Orthoptera, Tettigoniidae, Conocephalinae, Agraeciini) with the description of new species." url="https://doi.org/10.1007/s13127-014-0194-2" volume="15" year="2015">
+<author pageId="9" pageNumber="212">Hemp, C</author>
+, 
+<author pageId="9" pageNumber="212">Heller, KG</author>
+, 
+<author pageId="9" pageNumber="212">Warchalowska-Sliwa, E</author>
+, 
+<author pageId="9" pageNumber="212">Grzywacz, B</author>
+, 
+<author pageId="9" pageNumber="212">Hemp, A</author>
+, 
+<year pageId="9" pageNumber="212">2015</year>
+. 
+<title pageId="9" pageNumber="212">Ecology, acoustics and chromosomes of the East African genus Afroanthracites Hemp and Ingrisch (Orthoptera, Tettigoniidae, Conocephalinae, Agraeciini) with the description of new species.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Organisms, Diversity and Evolution</journalOrPublisher>
+<volume pageId="9" pageNumber="212">15</volume>
+: 
+<pagination pageId="9" pageNumber="212">351 - 368</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Hu, W" journalOrPublisher="ACM Transactions on Sensor Networks" pageId="9" pageNumber="212" pagination="1 - 28" title="Design and evaluation of a hybrid sensor network for cane toad monitoring." url="https://doi.org/10.1145/1464420.1464424" volume="5" year="2009">
+<author pageId="9" pageNumber="212">Hu, W</author>
+, 
+<author pageId="9" pageNumber="212">Bulusu, N</author>
+, 
+<author pageId="9" pageNumber="212">Chou, CT</author>
+, 
+<author pageId="9" pageNumber="212">Jha, S</author>
+, 
+<author pageId="9" pageNumber="212">Taylor, A</author>
+, 
+<author pageId="9" pageNumber="212">Tran, VN</author>
+, 
+<year pageId="9" pageNumber="212">2009</year>
+. 
+<title pageId="9" pageNumber="212">Design and evaluation of a hybrid sensor network for cane toad monitoring.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">ACM Transactions on Sensor Networks</journalOrPublisher>
+<volume pageId="9" pageNumber="212">5</volume>
+: 
+<pagination pageId="9" pageNumber="212">1 - 28</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Hugel, S" journalOrPublisher="Journal of Insect Conservation" pageId="9" pageNumber="212" pagination="473 - 477" title="Impact of native forest restoration on endemic crickets and katydids density in Rodrigues island." url="https://doi.org/10.1007/s10841-012-9476-1" volume="16" year="2012">
+<author pageId="9" pageNumber="212">Hugel, S</author>
+, 
+<year pageId="9" pageNumber="212">2012</year>
+. 
+<title pageId="9" pageNumber="212">Impact of native forest restoration on endemic crickets and katydids density in Rodrigues island.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Journal of Insect Conservation</journalOrPublisher>
+<volume pageId="9" pageNumber="212">16</volume>
+: 
+<pagination pageId="9" pageNumber="212">473 - 477</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Hutto, RL" journalOrPublisher="Journal of Field Ornithology" pageId="9" pageNumber="212" pagination="387 - 398" title="Humans versus autonomous recording units: a comparison of point-count results." url="https://doi.org/10.1111/j.1557-9263.2009.00245.x" volume="80" year="2009">
+<author pageId="9" pageNumber="212">Hutto, RL</author>
+, 
+<author pageId="9" pageNumber="212">Stutzman, RJ</author>
+, 
+<year pageId="9" pageNumber="212">2009</year>
+. 
+<title pageId="9" pageNumber="212">Humans versus autonomous recording units: a comparison of point-count results.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">Journal of Field Ornithology</journalOrPublisher>
+<volume pageId="9" pageNumber="212">80</volume>
+: 
+<pagination pageId="9" pageNumber="212">387 - 398</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Hutto, RL" journalOrPublisher="Journal of Field Ornithology" pageId="9" pageNumber="212" url="http://www.ibac.info/links.htmllibs" year="2018">
+<year pageId="9" pageNumber="212">2018</year>
+.. http://www.ibac.info/links.html#libs
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Ingrisch, S" journalOrPublisher="Memorie della Societa Entomologica Italiana" pageId="9" pageNumber="212" pagination="349 - 356" title="DORSA - A &#34; Virtual Museum &#34; of German Orthoptera Collections." volume="82" year="2004">
+<author pageId="9" pageNumber="212">Ingrisch, S</author>
+, 
+<author pageId="9" pageNumber="212">Riede, K</author>
+, 
+<author pageId="9" pageNumber="212">Lampe, KH</author>
+, 
+<author pageId="9" pageNumber="212">Dietrich, C</author>
+, 
+<year pageId="9" pageNumber="212">2004</year>
+. 
+<title pageId="9" pageNumber="212">DORSA - A "Virtual Museum" of German Orthoptera Collections.</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="212">
+Memorie della 
+<normalizedToken originalValue="Società">Societa</normalizedToken>
+Entomologica Italiana
+</journalOrPublisher>
+<volume pageId="9" pageNumber="212">82</volume>
+: 
+<pagination pageId="9" pageNumber="212">349 - 356</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="212">
+<bibRef author="Ingrisch, S" journalOrPublisher="Memorie della Societa Entomologica Italiana" pageId="9" pageNumber="212" url="https://www.iso.org/standard/22411.html" year="1993">
+<year pageId="9" pageNumber="212">1993</year>
+.. https://www.iso.org/standard/22411.html
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Jennings, N" journalOrPublisher="Canadian Journal of Zoology" pageId="10" pageNumber="213" pagination="371 - 377" title="Human vs. machine: identification of bat species from their echolocation calls by humans and by artificial neural networks." url="https://doi.org/10.1139/Z08-009" volume="86" year="2008">
+<author pageId="10" pageNumber="213">
+<pageBreakToken pageId="10" pageNumber="213" start="start">Jennings</pageBreakToken>
+, N
+</author>
+, 
+<author pageId="10" pageNumber="213">Parsons, S</author>
+, 
+<author pageId="10" pageNumber="213">Pocock, MJO</author>
+, 
+<year pageId="10" pageNumber="213">2008</year>
+. 
+<title pageId="10" pageNumber="213">Human vs. machine: identification of bat species from their echolocation calls by humans and by artificial neural networks.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Canadian Journal of Zoology</journalOrPublisher>
+<volume pageId="10" pageNumber="213">86</volume>
+: 
+<pagination pageId="10" pageNumber="213">371 - 377</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Katz, J" journalOrPublisher="Bioacoustics" pageId="10" pageNumber="213" pagination="177 - 196" title="Assessment of error rates in acoustic monitoring with the R package monitoR." url="http://dx.doi.org/10.1080/09524622.2015.1133320" volume="25" year="2016">
+<author pageId="10" pageNumber="213">Katz, J</author>
+, 
+<author pageId="10" pageNumber="213">Hafner, SD</author>
+, 
+<author pageId="10" pageNumber="213">Donovan, T</author>
+, 
+<year pageId="10" pageNumber="213">2016</year>
+. 
+<title pageId="10" pageNumber="213">Assessment of error rates in acoustic monitoring with the R package monitoR.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Bioacoustics</journalOrPublisher>
+<volume pageId="10" pageNumber="213">25</volume>
+: 
+<pagination pageId="10" pageNumber="213">177 - 196</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Knight, EC" journalOrPublisher="Bioacoustics" pageId="10" pageNumber="213" url="https://doi.org/10.5751/ACE-01114-120214" year="2017">
+<author pageId="10" pageNumber="213">Knight, EC</author>
+, 
+<author pageId="10" pageNumber="213">Hannah, KC</author>
+, 
+<author pageId="10" pageNumber="213">Foley, G</author>
+, 
+<author pageId="10" pageNumber="213">Scott, C</author>
+, 
+<author pageId="10" pageNumber="213">Mark Brigham, R</author>
+, 
+<author pageId="10" pageNumber="213">Bayne, E</author>
+, 
+<year pageId="10" pageNumber="213">2017</year>
+.. https://doi.org/10.5751/ACE-01114-120214
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Lehmann, GUC" journalOrPublisher="Journal of Insect Conservation" pageId="10" pageNumber="213" pagination="905 - 925" title="Baseline data for automated acoustic monitoring of Orthoptera in a Mediterranean landscape, the Hymettos, Greece." url="https://doi.org/10.1007/s10841-014-9700-2" volume="18" year="2014">
+<author pageId="10" pageNumber="213">Lehmann, GUC</author>
+, 
+<author pageId="10" pageNumber="213">Frommolt, KH</author>
+, 
+<author pageId="10" pageNumber="213">Lehmann, AW</author>
+, 
+<author pageId="10" pageNumber="213">Riede, K</author>
+, 
+<year pageId="10" pageNumber="213">2014</year>
+. 
+<title pageId="10" pageNumber="213">Baseline data for automated acoustic monitoring of Orthoptera in a Mediterranean landscape, the Hymettos, Greece.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Journal of Insect Conservation</journalOrPublisher>
+<volume pageId="10" pageNumber="213">18</volume>
+: 
+<pagination pageId="10" pageNumber="213">905 - 925</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Lomolino, MV" journalOrPublisher="Journal of Biogeography" pageId="10" pageNumber="213" pagination="1187 - 1196" title="The silence of biogeography." url="https://doi.org/10.1111/jbi.12525" volume="42" year="2015">
+<author pageId="10" pageNumber="213">Lomolino, MV</author>
+, 
+<author pageId="10" pageNumber="213">Pijanowski, BC</author>
+, 
+<author pageId="10" pageNumber="213">Gasc, A</author>
+, 
+<year pageId="10" pageNumber="213">2015</year>
+. 
+<title pageId="10" pageNumber="213">The silence of biogeography.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Journal of Biogeography</journalOrPublisher>
+<volume pageId="10" pageNumber="213">42</volume>
+: 
+<pagination pageId="10" pageNumber="213">1187 - 1196</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Marques, PAM" journalOrPublisher="Journal of Biogeography" pageId="10" pageNumber="213" url="https://doi.org/10.1371/journal.pone.0114303" year="2014">
+<author pageId="10" pageNumber="213">Marques, PAM</author>
+, 
+<author pageId="10" pageNumber="213">
+<normalizedToken originalValue="Magalhães">Magalhaes</normalizedToken>
+, DM
+</author>
+, 
+<author pageId="10" pageNumber="213">Pereira, SF</author>
+, 
+<author pageId="10" pageNumber="213">Jorge, PE</author>
+, 
+<year pageId="10" pageNumber="213">2014</year>
+.. https://doi.org/10.1371/journal.pone.0114303
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Marques, TA" journalOrPublisher="Biological Reviews" pageId="10" pageNumber="213" pagination="287 - 309" title="Estimating animal population density using passive acoustics." url="https://doi.org/10.1111/brv.12001" volume="88" year="2013">
+<author pageId="10" pageNumber="213">Marques, TA</author>
+, 
+<author pageId="10" pageNumber="213">Thomas, L</author>
+, 
+<author pageId="10" pageNumber="213">Martin, SW</author>
+, 
+<author pageId="10" pageNumber="213">Mellinger, DK</author>
+, 
+<author pageId="10" pageNumber="213">Ward, JA</author>
+, 
+<author pageId="10" pageNumber="213">Moretti, DJ</author>
+, 
+<author pageId="10" pageNumber="213">Harris, D</author>
+, 
+<author pageId="10" pageNumber="213">Tyack, PL</author>
+, 
+<year pageId="10" pageNumber="213">2013</year>
+. 
+<title pageId="10" pageNumber="213">Estimating animal population density using passive acoustics.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Biological Reviews</journalOrPublisher>
+<volume pageId="10" pageNumber="213">88</volume>
+: 
+<pagination pageId="10" pageNumber="213">287 - 309</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Maurer, JA" journalOrPublisher="Biological Reviews" pageId="10" pageNumber="213" url="https://doi.org/10.1371/journal.pone.0202850" year="2018">
+<author pageId="10" pageNumber="213">Maurer, JA</author>
+, 
+<author pageId="10" pageNumber="213">Shepard, JH</author>
+, 
+<author pageId="10" pageNumber="213">Crabo, LG</author>
+, 
+<author pageId="10" pageNumber="213">Hammond, PC</author>
+, 
+<author pageId="10" pageNumber="213">Zack, RS</author>
+, 
+<author pageId="10" pageNumber="213">Peterson, MA</author>
+, 
+<year pageId="10" pageNumber="213">2018</year>
+.. https://doi.org/10.1371/journal.pone.0202850
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Mol, A" journalOrPublisher="Annales de la Societe Entomologique de France (Nouvelle serie)" pageId="10" pageNumber="213" pagination="121 - 128" title="Song and morphology of the three Anatolian endemic species of the genus Chorthippus (Orthoptera: Acrididae, Gomphocerinae)." url="https://doi.org/10.1080/00379271.2003.10697367" volume="39" year="2003">
+<author pageId="10" pageNumber="213">Mol, A</author>
+, 
+<author pageId="10" pageNumber="213">Ciplak, B</author>
+, 
+<author pageId="10" pageNumber="213">Sirin, D</author>
+, 
+<year pageId="10" pageNumber="213">2003</year>
+. 
+<title pageId="10" pageNumber="213">Song and morphology of the three Anatolian endemic species of the genus Chorthippus (Orthoptera: Acrididae, Gomphocerinae).</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">
+Annales de la 
+<normalizedToken originalValue="Société">Societe</normalizedToken>
+Entomologique de France (Nouvelle 
+<normalizedToken originalValue="série">serie</normalizedToken>
+)
+</journalOrPublisher>
+<volume pageId="10" pageNumber="213">39</volume>
+: 
+<pagination pageId="10" pageNumber="213">121 - 128</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Morris, GK" journalOrPublisher="Animal Behaviour" pageId="10" pageNumber="213" pagination="42 - 51" title="Calling display and mating behaviour of Copiphorarhinoceros Pictet (Orthoptera: Tettigoniidae)." url="https://doi.org/10.1016/S0003-3472(80)80006-6" volume="28" year="1980">
+<author pageId="10" pageNumber="213">Morris, GK</author>
+, 
+<year pageId="10" pageNumber="213">1980</year>
+. 
+<title pageId="10" pageNumber="213">Calling display and mating behaviour of Copiphorarhinoceros Pictet (Orthoptera: Tettigoniidae).</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Animal Behaviour</journalOrPublisher>
+<volume pageId="10" pageNumber="213">28</volume>
+: 
+<pagination pageId="10" pageNumber="213">42 - 51</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Morris, GK" journalOrPublisher="Transactions of the American Entomological Society" pageId="10" pageNumber="213" pagination="287 - 314" title="Song structure and description of some Costa Rican katydids (Orthoptera: Tettigoniidae)." volume="108" year="1982">
+<author pageId="10" pageNumber="213">Morris, GK</author>
+, 
+<author pageId="10" pageNumber="213">Beier, M</author>
+, 
+<year pageId="10" pageNumber="213">1982</year>
+. 
+<title pageId="10" pageNumber="213">Song structure and description of some Costa Rican katydids (Orthoptera: Tettigoniidae).</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Transactions of the American Entomological Society</journalOrPublisher>
+<volume pageId="10" pageNumber="213">108</volume>
+: 
+<pagination pageId="10" pageNumber="213">287 - 314</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Morris, GK" journalOrPublisher="Transactions of the American Entomological Society" pageId="10" pageNumber="213" url="https://doi.org/10.1007/s00359-018-1250-8" year="2018">
+<author pageId="10" pageNumber="213">Morris, GK</author>
+, 
+<author pageId="10" pageNumber="213">Hall, AM</author>
+, 
+<author pageId="10" pageNumber="213">
+<normalizedToken originalValue="Römer">Roemer</normalizedToken>
+, H
+</author>
+, 
+<year pageId="10" pageNumber="213">2018</year>
+.. https://doi.org/10.1007/s00359-018-1250-8
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Murai, T" journalOrPublisher="Hokkaido University Press, Sapporom" pageId="10" pageNumber="213" title="Illustrated Guide to Orthoptera and Their Songs: The Insect Choruses of Japan." year="2015">
+<author pageId="10" pageNumber="213">Murai, T</author>
+, 
+<year pageId="10" pageNumber="213">2015</year>
+. 
+<title pageId="10" pageNumber="213">Illustrated Guide to Orthoptera and Their Songs: The Insect Choruses of Japan.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Hokkaido University Press, Sapporom</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Mustafa, MK" journalOrPublisher="Neural Computing and Applications" pageId="10" pageNumber="213" pagination="1 - 9" title="A comparative review of dynamic neural networks and hidden Markov model methods for mobile on-device speech recognition." url="https://doi.org/10.1007/s00521-017-3028-2" volume="2017" year="2017">
+<author pageId="10" pageNumber="213">Mustafa, MK</author>
+, 
+<author pageId="10" pageNumber="213">Allen, T</author>
+, 
+<author pageId="10" pageNumber="213">Appiah, K</author>
+, 
+<year pageId="10" pageNumber="213">2017</year>
+. 
+<title pageId="10" pageNumber="213">A comparative review of dynamic neural networks and hidden Markov model methods for mobile on-device speech recognition.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Neural Computing and Applications</journalOrPublisher>
+<volume pageId="10" pageNumber="213">2017</volume>
+: 
+<pagination pageId="10" pageNumber="213">1 - 9</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Naskrecki, P" journalOrPublisher="Neural Computing and Applications" pageId="10" pageNumber="213" url="http://140.247.96.247/orthsoc/pdf/Naskrecki_KCR_2000.pdf" year="2000">
+<author pageId="10" pageNumber="213">Naskrecki, P</author>
+, 
+<year pageId="10" pageNumber="213">2000</year>
+.. http://140.247.96.247/orthsoc/pdf/Naskrecki_KCR_2000.pdf
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Nattier, R" journalOrPublisher="Zoologica Scripta" pageId="10" pageNumber="213" pagination="479 - 497" title="Evolution of acoustic communication in the Gomphocerinae (Orthoptera: Caelifera: Acrididae)." url="https://doi.org/10.1111/j.1463-6409.2011.00485.x" volume="40" year="2011">
+<author pageId="10" pageNumber="213">Nattier, R</author>
+, 
+<author pageId="10" pageNumber="213">Robillard, T</author>
+, 
+<author pageId="10" pageNumber="213">
+<normalizedToken originalValue="Amédégnato">Amedegnato</normalizedToken>
+, C
+</author>
+, 
+<author pageId="10" pageNumber="213">Couloux, A</author>
+, 
+<author pageId="10" pageNumber="213">Cruad, C</author>
+, 
+<author pageId="10" pageNumber="213">Desutter-Grandcolas, L</author>
+, 
+<year pageId="10" pageNumber="213">2011</year>
+. 
+<title pageId="10" pageNumber="213">Evolution of acoustic communication in the Gomphocerinae (Orthoptera: Caelifera: Acrididae).</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Zoologica Scripta</journalOrPublisher>
+<volume pageId="10" pageNumber="213">40</volume>
+: 
+<pagination pageId="10" pageNumber="213">479 - 497</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Olivero, P" journalOrPublisher="Journal of Orthoptera Research" pageId="10" pageNumber="213" pagination="1 - 5" title="Same-sex sexual behavior in Xenogryllusmarmoratus (Haan, 1844) (Grylloidea: Gryllidae: Eneopterinae): Observation in the wild from YouTube." url="https://dx.doi.org/10.3897/jor.26.14569" volume="26" year="2017">
+<author pageId="10" pageNumber="213">Olivero, P</author>
+, 
+<author pageId="10" pageNumber="213">Robillard, T</author>
+, 
+<year pageId="10" pageNumber="213">2017</year>
+. 
+<title pageId="10" pageNumber="213">Same-sex sexual behavior in Xenogryllusmarmoratus (Haan, 1844) (Grylloidea: Gryllidae: Eneopterinae): Observation in the wild from YouTube.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Journal of Orthoptera Research</journalOrPublisher>
+<volume pageId="10" pageNumber="213">26</volume>
+: 
+<pagination pageId="10" pageNumber="213">1 - 5</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Ovaskainen, O" journalOrPublisher="Ecology Letters" pageId="10" pageNumber="213" pagination="1244 - 1254" title="Animal Sound Identifier (ASI): software for automated identification of vocal animals." url="https://doi.org/10.1111/ele.13092" volume="21" year="2018">
+<author pageId="10" pageNumber="213">Ovaskainen, O</author>
+, 
+<author pageId="10" pageNumber="213">Moliterno de Camargo, U</author>
+, 
+<author pageId="10" pageNumber="213">Somervuo, P</author>
+, 
+<year pageId="10" pageNumber="213">2018</year>
+. 
+<title pageId="10" pageNumber="213">Animal Sound Identifier (ASI): software for automated identification of vocal animals.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Ecology Letters</journalOrPublisher>
+<volume pageId="10" pageNumber="213">21</volume>
+: 
+<pagination pageId="10" pageNumber="213">1244 - 1254</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Parker, TA III" journalOrPublisher="Auk" pageId="10" pageNumber="213" pagination="443 - 444" title="On the use of tape recorders in avifaunal surveys." volume="108" year="1991">
+<author pageId="10" pageNumber="213">Parker, TA III</author>
+, 
+<year pageId="10" pageNumber="213">1991</year>
+. 
+<title pageId="10" pageNumber="213">On the use of tape recorders in avifaunal surveys.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Auk</journalOrPublisher>
+<volume pageId="10" pageNumber="213">108</volume>
+: 
+<pagination pageId="10" pageNumber="213">443 - 444</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Penone, C" journalOrPublisher="Conservation Biology" pageId="10" pageNumber="213" pagination="979 - 987" title="Use of large-scale acoustic monitoring to assess anthropogenic pressures on Orthoptera communities." url="https://doi.org/10.1111/cobi.12083" volume="27" year="2013">
+<author pageId="10" pageNumber="213">Penone, C</author>
+, 
+<author pageId="10" pageNumber="213">Le Viol, I</author>
+, 
+<author pageId="10" pageNumber="213">Pellissier, V</author>
+, 
+<author pageId="10" pageNumber="213">Julien, JF</author>
+, 
+<author pageId="10" pageNumber="213">Bas, Y</author>
+, 
+<author pageId="10" pageNumber="213">Kerbiriou, C</author>
+, 
+<year pageId="10" pageNumber="213">2013</year>
+. 
+<title pageId="10" pageNumber="213">Use of large-scale acoustic monitoring to assess anthropogenic pressures on Orthoptera communities.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Conservation Biology</journalOrPublisher>
+<volume pageId="10" pageNumber="213">27</volume>
+: 
+<pagination pageId="10" pageNumber="213">979 - 987</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Phillips, YF" journalOrPublisher="Conservation Biology" pageId="10" pageNumber="213" url="https://doi.org/10.1371/journal.pone.0193345" year="2018">
+<author pageId="10" pageNumber="213">Phillips, YF</author>
+, 
+<author pageId="10" pageNumber="213">Towsey, M</author>
+, 
+<author pageId="10" pageNumber="213">Roe, P</author>
+, 
+<year pageId="10" pageNumber="213">2018</year>
+.. https://doi.org/10.1371/journal.pone.0193345
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Pierce, GW" journalOrPublisher="Conservation Biology" pageId="10" pageNumber="213" url="https://doi.org/10.4159/harvard.9780674420663" year="1948">
+<author pageId="10" pageNumber="213">Pierce, GW</author>
+, 
+<year pageId="10" pageNumber="213">1948</year>
+.. https://doi.org/10.4159/harvard.9780674420663
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Pijanowski, BC" journalOrPublisher="BioScience" pageId="10" pageNumber="213" pagination="203 - 216" title="Soundscape ecology: The science of sound in the landscape." url="https://doi.org/10.1525/bio.2011.61.3.6" volume="61" year="2011">
+<author pageId="10" pageNumber="213">Pijanowski, BC</author>
+, 
+<author pageId="10" pageNumber="213">Villanueva-Rivera, LJ</author>
+, 
+<author pageId="10" pageNumber="213">Dumyahn, SL</author>
+, 
+<author pageId="10" pageNumber="213">Farina, A</author>
+, 
+<author pageId="10" pageNumber="213">Krause, BL</author>
+, 
+<author pageId="10" pageNumber="213">Napoletano, BM</author>
+, 
+<author pageId="10" pageNumber="213">Gage, SH</author>
+, 
+<author pageId="10" pageNumber="213">Pieretti, N</author>
+, 
+<year pageId="10" pageNumber="213">2011</year>
+. 
+<title pageId="10" pageNumber="213">Soundscape ecology: The science of sound in the landscape.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">BioScience</journalOrPublisher>
+<volume pageId="10" pageNumber="213">61</volume>
+: 
+<pagination pageId="10" pageNumber="213">203 - 216</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Potamitis, I" journalOrPublisher="BioScience" pageId="10" pageNumber="213" url="https://www.isca-speech.org/archive/interspeech_2006/i06_1505.html" year="2006">
+<author pageId="10" pageNumber="213">Potamitis, I</author>
+, 
+<author pageId="10" pageNumber="213">Ganchev, T</author>
+, 
+<author pageId="10" pageNumber="213">Fakotakis, N</author>
+, 
+<year pageId="10" pageNumber="213">2006</year>
+.. https://www.isca-speech.org/archive/interspeech_2006/i06_1505.html
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Potamitis, I" journalOrPublisher="Applied Acoustics" pageId="10" pageNumber="213" pagination="1 - 9" title="Automatic bird sound detection in long real-field recordings: Applications and tools." url="https://doi.org/10.1016/j.apacoust.2014.01.001" volume="80" year="2014">
+<author pageId="10" pageNumber="213">Potamitis, I</author>
+, 
+<author pageId="10" pageNumber="213">Ntalampiras, S</author>
+, 
+<author pageId="10" pageNumber="213">Jahn, O</author>
+, 
+<author pageId="10" pageNumber="213">Riede, K</author>
+, 
+<year pageId="10" pageNumber="213">2014</year>
+. 
+<title pageId="10" pageNumber="213">Automatic bird sound detection in long real-field recordings: Applications and tools.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Applied Acoustics</journalOrPublisher>
+<volume pageId="10" pageNumber="213">80</volume>
+: 
+<pagination pageId="10" pageNumber="213">1 - 9</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Potamitis, I" journalOrPublisher="Applied Acoustics" pageId="10" pageNumber="213" url="http://ltm.agriculture.purdue.edu/soundscapes.htm" year="2015">
+<year pageId="10" pageNumber="213">2015</year>
+.. http://ltm.agriculture.purdue.edu/soundscapes.htm
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Ranft, R" journalOrPublisher="Anais da Academia Brasileira de Ciencias" pageId="10" pageNumber="213" pagination="456 - 460" title="Natural sound archives: past, present and future. Appendix: Neotropical Sound Archives. Case studies." url="http://dx.doi.org/10.1590/S0001-37652004000200041" volume="76" year="2004">
+<author pageId="10" pageNumber="213">Ranft, R</author>
+, 
+<year pageId="10" pageNumber="213">2004</year>
+. 
+<title pageId="10" pageNumber="213">Natural sound archives: past, present and future. Appendix: Neotropical Sound Archives. Case studies.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">
+Anais da Academia Brasileira de 
+<normalizedToken originalValue="Ciências">Ciencias</normalizedToken>
+</journalOrPublisher>
+<volume pageId="10" pageNumber="213">76</volume>
+: 
+<pagination pageId="10" pageNumber="213">456 - 460</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Riede, K" journalOrPublisher="Ambio" pageId="10" pageNumber="213" pagination="546 - 548" title="Monitoring biodiversity: Analysis of Amazonian rainforest sounds." url="https://www.jstor.org/stable/4314145" volume="22" year="1993">
+<author pageId="10" pageNumber="213">Riede, K</author>
+, 
+<year pageId="10" pageNumber="213">1993</year>
+. 
+<title pageId="10" pageNumber="213">Monitoring biodiversity: Analysis of Amazonian rainforest sounds.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Ambio</journalOrPublisher>
+<volume pageId="10" pageNumber="213">22</volume>
+: 
+<pagination pageId="10" pageNumber="213">546 - 548</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Riede, K" journalOrPublisher="Ambio" pageId="10" pageNumber="213" url="https://doi.org/10.1665/1082-6467(2006)15[105:AAOOSF]2.0.CO;2" year="2006">
+<author pageId="10" pageNumber="213">Riede, K</author>
+, 
+<author pageId="10" pageNumber="213">Nischk, F</author>
+, 
+<author pageId="10" pageNumber="213">Thiel, C</author>
+, 
+<author pageId="10" pageNumber="213">Schwenker, F</author>
+, 
+<year pageId="10" pageNumber="213">2006</year>
+.. https://doi.org/10.1665/1082-6467(2006)15[105:AAOOSF]2.0.CO;2
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Roemer, H" journalOrPublisher="Journal of Comparative Physiology A" pageId="10" pageNumber="213" pagination="249 - 262" title="Morphology and physiology of auditory interneurons in the metathoracic ganglion of the locust." url="https://doi.org/10.1007/BF00612642" volume="155" year="1984">
+<author pageId="10" pageNumber="213">Roemer, H</author>
+, 
+<author pageId="10" pageNumber="213">Marquart, V</author>
+, 
+<year pageId="10" pageNumber="213">1984</year>
+. 
+<title pageId="10" pageNumber="213">Morphology and physiology of auditory interneurons in the metathoracic ganglion of the locust.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Journal of Comparative Physiology A</journalOrPublisher>
+<volume pageId="10" pageNumber="213">155</volume>
+: 
+<pagination pageId="10" pageNumber="213">249 - 262</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="213">
+<bibRef author="Ronacher, B" journalOrPublisher="Journal of Comparative Physiology A" pageId="10" pageNumber="213" pagination="517 - 523" title="Filtering of behaviourally relevant temporal parameters of a grasshopper's song by an auditory interneuron." url="https://doi.org/10.1007/BF00604905" volume="163" year="1988">
+<author pageId="10" pageNumber="213">Ronacher, B</author>
+, 
+<author pageId="10" pageNumber="213">Stumpner, A</author>
+, 
+<year pageId="10" pageNumber="213">1988</year>
+. 
+<title pageId="10" pageNumber="213">Filtering of behaviourally relevant temporal parameters of a grasshopper's song by an auditory interneuron.</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="213">Journal of Comparative Physiology A</journalOrPublisher>
+<volume pageId="10" pageNumber="213">163</volume>
+: 
+<pagination pageId="10" pageNumber="213">517 - 523</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Ross, SRPJ" journalOrPublisher="Journal of Comparative Physiology A" pageId="11" pageNumber="214" url="https://doi.org/10.1007/s11284-017-1509-5" year="2018">
+<author pageId="11" pageNumber="214">
+<pageBreakToken pageId="11" pageNumber="214" start="start">Ross</pageBreakToken>
+, SRPJ
+</author>
+, 
+<author pageId="11" pageNumber="214">Friedman, NR</author>
+, 
+<author pageId="11" pageNumber="214">Dudley, KL</author>
+, 
+<author pageId="11" pageNumber="214">Yoshimura, M</author>
+, 
+<author pageId="11" pageNumber="214">Yoshida, T</author>
+, 
+<author pageId="11" pageNumber="214">Economo, EP</author>
+, 
+<year pageId="11" pageNumber="214">2018</year>
+.. https://doi.org/10.1007/s11284-017-1509-5
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Sarria-S, FA" journalOrPublisher="Journal of Comparative Physiology A" pageId="11" pageNumber="214" url="https://doi.org/10.1371/journal.pone.0098708" year="2014">
+<author pageId="11" pageNumber="214">Sarria-S, FA</author>
+, 
+<author pageId="11" pageNumber="214">Morris, GK</author>
+, 
+<author pageId="11" pageNumber="214">Windmill, JFC</author>
+, 
+<author pageId="11" pageNumber="214">Jackson, J</author>
+, 
+<author pageId="11" pageNumber="214">Montealegre-Z, F</author>
+, 
+<year pageId="11" pageNumber="214">2014</year>
+.. https://doi.org/10.1371/journal.pone.0098708
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Schlick-Steiner, BC" journalOrPublisher="Annual Review of Entomology" pageId="11" pageNumber="214" pagination="421 - 438" title="Integrative taxonomy: a multi-source approach to exploring biodiversity." url="https://doi.org/10.1146/annurev-ento-112408-085432" volume="55" year="2010">
+<author pageId="11" pageNumber="214">Schlick-Steiner, BC</author>
+, 
+<author pageId="11" pageNumber="214">Steiner, FM</author>
+, 
+<author pageId="11" pageNumber="214">Seifert, B</author>
+, 
+<author pageId="11" pageNumber="214">Stauffer, C</author>
+, 
+<author pageId="11" pageNumber="214">Christian, E</author>
+, 
+<author pageId="11" pageNumber="214">Crozier, RH</author>
+, 
+<year pageId="11" pageNumber="214">2010</year>
+. 
+<title pageId="11" pageNumber="214">Integrative taxonomy: a multi-source approach to exploring biodiversity.</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="214">Annual Review of Entomology</journalOrPublisher>
+<volume pageId="11" pageNumber="214">55</volume>
+: 
+<pagination pageId="11" pageNumber="214">421 - 438</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Schmidt, AK" journalOrPublisher="Behavioral Ecology" pageId="11" pageNumber="214" pagination="470 - 480" title="Spectral niche segregation and community organization in a tropical cricket assemblage." url="https://doi.org/10.1093/beheco/ars187" volume="24" year="2013">
+<author pageId="11" pageNumber="214">Schmidt, AK</author>
+, 
+<author pageId="11" pageNumber="214">Roemer, H</author>
+, 
+<author pageId="11" pageNumber="214">Riede, K</author>
+, 
+<year pageId="11" pageNumber="214">2013</year>
+. 
+<title pageId="11" pageNumber="214">Spectral niche segregation and community organization in a tropical cricket assemblage.</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="214">Behavioral Ecology</journalOrPublisher>
+<volume pageId="11" pageNumber="214">24</volume>
+: 
+<pagination pageId="11" pageNumber="214">470 - 480</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Scholes, E III" journalOrPublisher="Behavioral Ecology" pageId="11" pageNumber="214" url="https://doi.org/10.15468/ckcdpy" year="2015">
+<author pageId="11" pageNumber="214">Scholes, E III</author>
+, 
+<year pageId="11" pageNumber="214">2015</year>
+.. https://doi.org/10.15468/ckcdpy
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Schoeneich, S" journalOrPublisher="Behavioral Ecology" pageId="11" pageNumber="214" url="https://doi.org/10.1126/sciadv.1500325" year="2015">
+<author pageId="11" pageNumber="214">
+<normalizedToken originalValue="Schöneich">Schoeneich</normalizedToken>
+, S
+</author>
+, 
+<author pageId="11" pageNumber="214">Kostarakos, K</author>
+, 
+<author pageId="11" pageNumber="214">Hedwig, B</author>
+, 
+<year pageId="11" pageNumber="214">2015</year>
+.. https://doi.org/10.1126/sciadv.1500325
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Scudder, SH" journalOrPublisher="American Naturalist" pageId="11" pageNumber="214" pagination="113 - 120" title="The songs of the grasshoppers." url="https://doi.org/10.1086/270197" volume="2" year="1868">
+<author pageId="11" pageNumber="214">Scudder, SH</author>
+, 
+<year pageId="11" pageNumber="214">1868</year>
+. 
+<title pageId="11" pageNumber="214">The songs of the grasshoppers.</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="214">American Naturalist</journalOrPublisher>
+<volume pageId="11" pageNumber="214">2</volume>
+: 
+<pagination pageId="11" pageNumber="214">113 - 120</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Sirovic, A" journalOrPublisher="Marine Mammal Science" pageId="11" pageNumber="214" pagination="125 - 136" title="Blue and fin whale acoustic presence around Antarctica during 2003 and 2004." url="https://doi.org/10.1111/j.1748-7692.2008.00239.x" volume="25" year="2009">
+<author pageId="11" pageNumber="214">
+<normalizedToken originalValue="Širović">Sirovic</normalizedToken>
+, A
+</author>
+, 
+<author pageId="11" pageNumber="214">Hildebrand, JA</author>
+, 
+<author pageId="11" pageNumber="214">Wiggins, SM</author>
+, 
+<author pageId="11" pageNumber="214">Thiele, D</author>
+, 
+<year pageId="11" pageNumber="214">2009</year>
+. 
+<title pageId="11" pageNumber="214">Blue and fin whale acoustic presence around Antarctica during 2003 and 2004.</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="214">Marine Mammal Science</journalOrPublisher>
+<volume pageId="11" pageNumber="214">25</volume>
+: 
+<pagination pageId="11" pageNumber="214">125 - 136</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Stork, NE" journalOrPublisher="Proceedings of the National Academy of Sciences" pageId="11" pageNumber="214" pagination="7519 - 7523" title="New approaches narrow global species estimates for beetles, insects, and terrestrial arthropods." url="http://dx.doi.org/10.1073/pnas.1502408112" volume="112" year="2015">
+<author pageId="11" pageNumber="214">Stork, NE</author>
+, 
+<author pageId="11" pageNumber="214">McBroom, J</author>
+, 
+<author pageId="11" pageNumber="214">Gely, C</author>
+, 
+<author pageId="11" pageNumber="214">Hamilton, AJ</author>
+, 
+<year pageId="11" pageNumber="214">2015</year>
+. 
+<title pageId="11" pageNumber="214">New approaches narrow global species estimates for beetles, insects, and terrestrial arthropods.</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="214">Proceedings of the National Academy of Sciences</journalOrPublisher>
+<volume pageId="11" pageNumber="214">112</volume>
+: 
+<pagination pageId="11" pageNumber="214">7519 - 7523</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Sueur, J" journalOrPublisher="Proceedings of the National Academy of Sciences" pageId="11" pageNumber="214" url="https://doi.org/10.1007/978-3-319-77647-7" year="2018">
+<author pageId="11" pageNumber="214">Sueur, J</author>
+, 
+<year pageId="11" pageNumber="214">2018</year>
+.. https://doi.org/10.1007/978-3-319-77647-7
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Sueur, J" journalOrPublisher="Bioacoustics" pageId="11" pageNumber="214" pagination="213 - 226" title="Seewave: a free modular tool for sound analysis and synthesis." url="https://doi.org/10.1080/09524622.2008.9753600" volume="18" year="2008 a">
+<author pageId="11" pageNumber="214">Sueur, J</author>
+, 
+<author pageId="11" pageNumber="214">Aubin, T</author>
+, 
+<author pageId="11" pageNumber="214">Simonis, C</author>
+, 
+<year pageId="11" pageNumber="214">2008a</year>
+. 
+<title pageId="11" pageNumber="214">Seewave: a free modular tool for sound analysis and synthesis.</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="214">Bioacoustics</journalOrPublisher>
+<volume pageId="11" pageNumber="214">18</volume>
+: 
+<pagination pageId="11" pageNumber="214">213 - 226</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Sueur, J" journalOrPublisher="Acta Acustica united with Acustica" pageId="11" pageNumber="214" pagination="772 - 781" title="Acoustic indices for biodiversity assessment and landscape investigation." url="https://doi.org/10.3813/AAA.918757" volume="100" year="2014">
+<author pageId="11" pageNumber="214">Sueur, J</author>
+, 
+<author pageId="11" pageNumber="214">Farina, A</author>
+, 
+<author pageId="11" pageNumber="214">Gasc, A</author>
+, 
+<author pageId="11" pageNumber="214">Pieretti, N</author>
+, 
+<author pageId="11" pageNumber="214">Pavoine, S</author>
+, 
+<year pageId="11" pageNumber="214">2014</year>
+. 
+<title pageId="11" pageNumber="214">Acoustic indices for biodiversity assessment and landscape investigation.</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="214">Acta Acustica united with Acustica</journalOrPublisher>
+<volume pageId="11" pageNumber="214">100</volume>
+: 
+<pagination pageId="11" pageNumber="214">772 - 781</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Sueur, J" journalOrPublisher="Acta Acustica united with Acustica" pageId="11" pageNumber="214" url="https://doi.org/10.1371/journal.pone.0004065" year="2008 b">
+<author pageId="11" pageNumber="214">Sueur, J</author>
+, 
+<author pageId="11" pageNumber="214">Pavoine, S</author>
+, 
+<author pageId="11" pageNumber="214">Hamerlynck, O</author>
+, 
+<author pageId="11" pageNumber="214">Duvail, S</author>
+, 
+<year pageId="11" pageNumber="214">2008b</year>
+.. https://doi.org/10.1371/journal.pone.0004065
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Swiston, KA" journalOrPublisher="Journal of Field Ornithology" pageId="11" pageNumber="214" pagination="42 - 50" title="Comparison of manual and automated methods for identifying target sounds in audio recordings of Pileated, Pale-billed, and putative Ivory-billed woodpeckers." url="https://doi.org/10.1111/j.1557-9263.2009.00204.x" volume="80" year="2009">
+<author pageId="11" pageNumber="214">Swiston, KA</author>
+, 
+<author pageId="11" pageNumber="214">Mennill, DJ</author>
+, 
+<year pageId="11" pageNumber="214">2009</year>
+. 
+<title pageId="11" pageNumber="214">Comparison of manual and automated methods for identifying target sounds in audio recordings of Pileated, Pale-billed, and putative Ivory-billed woodpeckers.</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="214">Journal of Field Ornithology</journalOrPublisher>
+<volume pageId="11" pageNumber="214">80</volume>
+: 
+<pagination pageId="11" pageNumber="214">42 - 50</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Swiston, KA" journalOrPublisher="Journal of Field Ornithology" pageId="11" pageNumber="214" url="https://doi.org/10.15468/zyqkbl" year="2017">
+<year pageId="11" pageNumber="214">2017</year>
+.. https://doi.org/10.15468/zyqkbl
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Swiston, KA" journalOrPublisher="Journal of Field Ornithology" pageId="11" pageNumber="214" url="https://doi.org/10.15468/bdwtd8" year="2017">
+<year pageId="11" pageNumber="214">2017</year>
+.. https://doi.org/10.15468/bdwtd8
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Szeremeta, B" journalOrPublisher="Science of the total Environment" pageId="11" pageNumber="214" pagination="6143 - 6149" title="Analysis and evaluation of soundscapes in public parks through interviews and measurement of noise." url="https://doi.org/10.1016/j.scitotenv.2009.08.039" volume="407" year="2009">
+<author pageId="11" pageNumber="214">Szeremeta, B</author>
+, 
+<author pageId="11" pageNumber="214">Zannin, PH</author>
+, 
+<year pageId="11" pageNumber="214">2009</year>
+. 
+<title pageId="11" pageNumber="214">Analysis and evaluation of soundscapes in public parks through interviews and measurement of noise.</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="214">Science of the total Environment</journalOrPublisher>
+<volume pageId="11" pageNumber="214">407</volume>
+: 
+<pagination pageId="11" pageNumber="214">6143 - 6149</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Tacioli, L" journalOrPublisher="Science of the total Environment" pageId="11" pageNumber="214" url="https://lis-unicamp.github.io/wp-content/uploads/2017/06/Tacioli-BreSci2017.pdf" year="2017">
+<author pageId="11" pageNumber="214">Tacioli, L</author>
+, 
+<author pageId="11" pageNumber="214">Toledo, LF</author>
+, 
+<author pageId="11" pageNumber="214">Bauzer Medeiros, C</author>
+, 
+<year pageId="11" pageNumber="214">2017</year>
+.. https://lis-unicamp.github.io/wp-content/uploads/2017/06/Tacioli-BreSci2017.pdf
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Toledo, LF" journalOrPublisher="Science of the total Environment" pageId="11" pageNumber="214" url="https://doi.org/10.1126/science.347.6221.484-be.347.6221.484-b" year="2015">
+<author pageId="11" pageNumber="214">Toledo, LF</author>
+, 
+<author pageId="11" pageNumber="214">Tipp, C</author>
+, 
+<author pageId="11" pageNumber="214">Marquez, R</author>
+, 
+<year pageId="11" pageNumber="214">2015</year>
+.. https://doi.org/10.1126/science.347.6221.484-be.347.6221.484-b
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Walker, TJ" journalOrPublisher="Quarterly Review of Biology" pageId="11" pageNumber="214" pagination="345 - 355" title="Cryptic species among sound-producing ensiferan Orthoptera (Gryllidae and Tettigoniidae)." url="https://doi.org/10.1086/404325" volume="39" year="1964">
+<author pageId="11" pageNumber="214">Walker, TJ</author>
+, 
+<year pageId="11" pageNumber="214">1964</year>
+. 
+<title pageId="11" pageNumber="214">Cryptic species among sound-producing ensiferan Orthoptera (Gryllidae and Tettigoniidae).</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="214">Quarterly Review of Biology</journalOrPublisher>
+<volume pageId="11" pageNumber="214">39</volume>
+: 
+<pagination pageId="11" pageNumber="214">345 - 355</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Walker, TJ" journalOrPublisher="Quarterly Review of Biology" pageId="11" pageNumber="214" url="https://doi.org/10.1665/1082-6467(2004)013[0169:TUGOTG]2.0.CO;2" year="2004 a">
+<author pageId="11" pageNumber="214">Walker, TJ</author>
+, 
+<year pageId="11" pageNumber="214">2004a</year>
+.. https://doi.org/10.1665/1082-6467(2004)013[0169:TUGOTG]2.0.CO;2
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Walker, TJ" journalOrPublisher="Quarterly Review of Biology" pageId="11" pageNumber="214" url="http://entnemdept.ufl.edu/Walker/buzz/" year="2004 b">
+<author pageId="11" pageNumber="214">Walker, TJ</author>
+, 
+<year pageId="11" pageNumber="214">2004b</year>
+.. http://entnemdept.ufl.edu/Walker/buzz/
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Walker, TJ" journalOrPublisher="Journal of Orthoptera Research" pageId="11" pageNumber="214" pagination="1 - 38" title="Systematics and acoustics of North American Anaxipha (Gryllidae: Trigonidiinae)." url="https://doi.org/10.1665/034.023.0102" volume="23" year="2014">
+<author pageId="11" pageNumber="214">Walker, TJ</author>
+, 
+<author pageId="11" pageNumber="214">Funk, DH</author>
+, 
+<year pageId="11" pageNumber="214">2014</year>
+. 
+<title pageId="11" pageNumber="214">Systematics and acoustics of North American Anaxipha (Gryllidae: Trigonidiinae).</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="214">Journal of Orthoptera Research</journalOrPublisher>
+<volume pageId="11" pageNumber="214">23</volume>
+: 
+<pagination pageId="11" pageNumber="214">1 - 38</pagination>
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="214">
+<bibRef author="Yersin, AJ" journalOrPublisher="Bulletins des Seances de la societe Vaudoise des Sciences Naturelles" pageId="11" pageNumber="214" pagination="108 - 128" title="Memoire sur quelques faits relative a la stridulation des Orthopteres et leur distribution geographique en Europe." volume="4" year="1854">
+<author pageId="11" pageNumber="214">Yersin, AJ</author>
+, 
+<year pageId="11" pageNumber="214">1854</year>
+. 
+<title pageId="11" pageNumber="214">
+<normalizedToken originalValue="Mémoire">Memoire</normalizedToken>
+sur quelques faits relative 
+<normalizedToken originalValue="à">a</normalizedToken>
+la stridulation des 
+<normalizedToken originalValue="Orthoptères">Orthopteres</normalizedToken>
+et leur distribution 
+<normalizedToken originalValue="géographique">geographique</normalizedToken>
+en Europe.
+</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="214">
+Bulletins des 
+<normalizedToken originalValue="Séances">Seances</normalizedToken>
+de la 
+<normalizedToken originalValue="societé">societe</normalizedToken>
+Vaudoise des Sciences Naturelles
+</journalOrPublisher>
+<volume pageId="11" pageNumber="214">4</volume>
+: 
+<pagination pageId="11" pageNumber="214">108 - 128</pagination>
+</bibRef>
+</paragraph>
+</subSection>
+</document>

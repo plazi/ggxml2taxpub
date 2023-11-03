@@ -1,0 +1,1457 @@
+<?xml version="1.0" encoding="UTF-8"?><document xmlns:dwc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:tp="http://www.plazi.org/taxpub" xmlns:xlink="http://www.w3.org/1999/xlink" ID-DOI="http://dx.doi.org/10.3897/zookeys.319.4159" ID-PMC="PMC3764524" ID-Pensoft-Pub="1313-2970-319" ID-PubMed="24039521" ModsDocOrigin="ZooKeys 319" checkinTime="1376626893337" checkinUser="pensoft" docAuthor="Mozaffarian, Fariba" docDate="2013" docId="0044FFE0FF8DFFE0FFF5FFFAFFACFF86" docName="ZooKeys 319 (2013) : Special issue" docOrigin="ZooKeys 319" docSource="http://dx.doi.org/10.3897/zookeys.319.4159" docTitle="A preliminary study on the distribution patterns of endemic species of Fulgoromorpha (Hemiptera, Auchenorrhyncha) in Iran" docVersion="3" lastPageNumber="248" pageNumber="231" updateTime="1668156225996" updateUser="ExternalLinkService">
+<mods:mods>
+<mods:titleInfo>
+<mods:title>A preliminary study on the distribution patterns of endemic species of Fulgoromorpha (Hemiptera, Auchenorrhyncha) in Iran</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Mozaffarian, Fariba</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>ZooKeys</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>319</mods:number>
+</mods:detail>
+<mods:date>2013</mods:date>
+<mods:extent unit="page">
+<mods:start>231</mods:start>
+<mods:end>248</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://dx.doi.org/10.3897/zookeys.319.4159</mods:url>
+</mods:location>
+<mods:identifier type="DOI">http://dx.doi.org/10.3897/zookeys.319.4159</mods:identifier>
+<mods:identifier type="Pensoft-Pub">1313-2970-319</mods:identifier>
+</mods:mods>
+<subSection pageId="0" pageNumber="321" type="abstract">
+<paragraph pageId="0" pageNumber="231">
+<pageBreakToken origin="extrapolated" pageId="0" pageNumber="321" start="start">Abstract</pageBreakToken>
+</paragraph>
+<paragraph pageId="0" pageNumber="231">Iran is known as the most complex and varied country in southwest Asia, in terms of geography, vegetation, climate and consequently biological diversity. The rather high number of recorded endemic species of Fulgoromorpha in Iran indicates a high potential for speciation in some areas.</paragraph>
+<paragraph pageId="0" pageNumber="231">In this study, in order to identify the endemic zones for Fulgoromorpha of Iran, three main biogeographic regions of the country were divided into 13 primary zones, mainly according to the distribution of published and unpublished locality records of endemic species. Using Venn diagrams and cluster analyses on the primary zones, 6 final endemic zones were recognized: Caspian zone, southern slopes of Alborz, Zagros Mountains, Kerman Mountains, Khorasan Mountains, and Baluchestan and Persian Gulf coasts. Then a similarity map was produced for endemic zones using a Multidimensional analysis (Alscal) and the differences between the positions of the same zones in the similarity and geographic maps were discussed.</paragraph>
+</subSection>
+<subSection pageId="0" pageNumber="321" type="multiple">
+<paragraph pageId="0" pageNumber="231">Keywords: Zoogeography, Iran, Fulgoromorpha</paragraph>
+</subSection>
+<subSection lastPageId="2" lastPageNumber="323" pageId="0" pageNumber="321" type="Introduction">
+<paragraph pageId="0" pageNumber="231">Introduction</paragraph>
+<paragraph lastPageId="1" lastPageNumber="232" pageId="0" pageNumber="231">
+Iran is located in southwest Asia between the latitudes of 25°30' and 40° north and the longitudes of 44° and 63°30' east and has a surface area of 1,648,195 square kilometers. It is limited by central Asia, Caspian Sea, Caucasus Mountains and Aras 
+<pageBreakToken pageId="1" pageNumber="322" start="start">River</pageBreakToken>
+to the north, Anatolian Plateau and Mesopotamian region to the west, Persian Gulf and Oman Sea which is connected to the Indian Ocean to the south and Afghanistan and Pakistan to the east. The major part of the land of Iran is covered by the Plateau of Iran, a triangle between the Alborz Mountain Range in the north, the Zagros Mountains in the west and the Sulaiman Mountain Range in Pakistan and Afghanistan.
+</paragraph>
+<paragraph pageId="1" pageNumber="232">
+According to Manuel 
+<bibRefCitation author="Berberian, M" journalOrPublisher="American Geophysics Union And Geolological Socociety of America, Geodynamics Series," pageId="13" pageNumber="334" title="Active tectonic faulting and tectonics of Iran." type="journal article" volume="3" year="1981">Berberian (1981)</bibRefCitation>
+, the continental crust of Iran has been originally developed by some complex movements which made the plate of the Alborz and central Iran and then the Zagros and Arabian plate detach from the Gondwana supercontinent in the southern hemisphere, drift northwards and attach to Eurasia from Permian to late Miocene. Consequently some parts of the old Tethys have been recognized in some parts of the country (Ghorbani 2002).
+</paragraph>
+<paragraph pageId="1" pageNumber="232">
+In terms of biodiversity richness, Iran is considered as an extremely complex area and wide ranges in the extremes of altitude (below sea-level in shores of the Caspian sea to 5,770 m of the Damavan Mt.), climate (humid and nearly jungle-like forests in the north to arid places in Dasht-e Lut with less than 100 m annual rainfall) and temperature (from -35°C in the north west to 70°C in the deserts of Dasht-e Lut) (
+<bibRefCitation author="Hedge, IC" journalOrPublisher="Notes from the Royal Botanic Garden Edinburgh" pageId="14" pageNumber="335" title="Patterns of distribution and endemism in Iran." type="journal article" volume="36" year="1978">Hedge and Wendelbo 1978</bibRefCitation>
+, 
+<bibRefCitation pageId="1" pageNumber="322">Frey and Probst 1986</bibRefCitation>
+, 
+<bibRefCitation pageId="1" pageNumber="322">Zohary 1963</bibRefCitation>
+). The high biodiversity of the Iranian fauna is also the result of its location and the influences of four ecozones from north (Palaearctic and old periodical connections with the Nearctic by Bering Strait), south (Afrotropical from the Arabian Peninsula) and southeast (Oriental) (
+<bibRefCitation pageId="1" pageNumber="322">Madjnoonian et al. 2005</bibRefCitation>
+).
+</paragraph>
+<paragraph pageId="1" pageNumber="232">
+Biogeographic studies in Iran have been carried out mainly on plants (
+<bibRefCitation pageId="1" pageNumber="322">Zohary 1963</bibRefCitation>
+, 
+<bibRefCitation author="Zohary, M" journalOrPublisher="Stuttgart: Gustav Fischer Verlag" pageId="14" pageNumber="335" title="Geobotanical Faoundations of the Middle East." type="book" year="1973">1973</bibRefCitation>
+, 
+<bibRefCitation pageId="1" pageNumber="322">Frey and Probst 1886</bibRefCitation>
+, 
+<bibRefCitation author="Hedge, IC" journalOrPublisher="Notes from the Royal Botanic Garden Edinburgh" pageId="14" pageNumber="335" title="Patterns of distribution and endemism in Iran." type="journal article" volume="36" year="1978">Hedge and Wendelbo 1978</bibRefCitation>
+, 
+<bibRefCitation author="Hangay, G" journalOrPublisher="Folia Historico Naturalia Musei Matraensis" pageId="14" pageNumber="335" title="Report on Hungarian entomological expedition to Iran." type="journal article" volume="29" year="2005">Hangay and Szekely 2005</bibRefCitation>
+). Those studies recognized three main biogeographic regions in Iran which are usually applied as useful framework and references in analyses: Hyrcanian, Irano-Turanian and Nubo-Sindian and also a small area in the west of Iran which is touched by the Saharo-Arabian region according to 
+<bibRefCitation author="Zohary, M" journalOrPublisher="Stuttgart: Gustav Fischer Verlag" pageId="14" pageNumber="335" title="Geobotanical Faoundations of the Middle East." type="book" year="1973">Zohary (1973)</bibRefCitation>
+(Fig. 1).
+</paragraph>
+<caption pageId="1" pageNumber="322">
+<paragraph pageId="1" pageNumber="232">
+Figure 1. Distribution of endemic Fulgoromorpha of Iran, Phytogeographical regions (Black lines) (after 
+<bibRefCitation author="Zohary, M" journalOrPublisher="Stuttgart: Gustav Fischer Verlag" pageId="14" pageNumber="335" title="Geobotanical Faoundations of the Middle East." type="book" year="1973">Zohary 1973</bibRefCitation>
+, altered by 
+<bibRefCitation pageId="1" pageNumber="322">Frey and Probst 1986</bibRefCitation>
+and Primary divisions (Red lines) suggested for the distribution pattern of endemic planthoppers of Iran.
+</paragraph>
+</caption>
+<paragraph pageId="1" pageNumber="232">
+The oldest zoogeographic division was performed by 
+<bibRefCitation author="Zarudny, NA" journalOrPublisher="Journal fuer Ornithologie" pageId="14" pageNumber="335" title="Verzeichnis der Voegel Persiens." type="journal article" url="10.1007/BF02091053" volume="59" year="1911">Zarudny (1911)</bibRefCitation>
+, an ornithologist who organized some trips to different parts of Iran during 
+<date value="1884" valueMax="1904">1884-1904</date>
+and divided Iran into 9 zones: South Caspian Sea, Northwest, Khorasan, Kerman, Southwest, Sistan, Baluchestan, Karun plains and South coasts. In 1968, Anderson recognized 13 zones in his extensive study on endemic lizards of Iran: the central plateau, the Urmia basin, the Sistan basin, the Caspian region, the Khuzestan plain and Persian Gulf coast, Baluchestan and Makran coast, the Turkmen steppe, the Mogan steppe, the Zagros, the western foothills of the Zagros, the Kope Dag, the Alborz, the Islands of the Persian Gulf. 
+<bibRefCitation author="Emeljanov, AF" journalOrPublisher="Entomological Review" pageId="14" pageNumber="335" title="Proposals on the Classification and Nomenclature of Ranges." type="journal article" volume="53" year="1974">Emeljanov (1974)</bibRefCitation>
+considered Iran in the Sethian Desert Region in his Palaearctic biogeographic divisions and showed 2 subregions inside Iran: Sahara-Arabian (Makran mixed and Sind plane) and Irano-Turanian (Middlear Eastern mixed (Armenian and Zagrossan), Hyrcanian Mountain, Iranian Mixed and Khorasan Mountain). 
+<bibRefCitation author="Dlabola, J" journalOrPublisher="Acta Musei Nationalis Pragae" pageId="14" pageNumber="335" title="Ergebnisse der tschechoslovakisch-iranischen entomologischen Expeditionen nach dem Iran (Mit Angaben uber einige Sammelresultate in Anatolien) (1970 und 1973) (Homoptera, Auchenorrhycha). - II Teil." type="journal article" url="10.1029/GD003p0033" volume="40" year="1981">Dlabola (1981)</bibRefCitation>
+classified different habitats in Iran and described the origin of studied Auchenorrhyncha species in three groups: arboreal, eremian and oreal.
+</paragraph>
+<paragraph pageId="2" pageNumber="233">
+<pageBreakToken pageId="2" pageNumber="323" start="start">A</pageBreakToken>
+total of 235 species of Fulgoromorpha have been recorded from Iran since 1902 (
+<bibRefCitation author="Mozaffarian, F" journalOrPublisher="ZooKeys" pageId="14" pageNumber="335" title="An annotated checklist of the planthoppers of Iran (Hemiptera, Auchenorrhyncha, Fulgoromorpha) with distribution data." type="journal article" url="10.3897/zookeys.145.1846" volume="145" year="2011">Mozaffarian and Wilson 2011</bibRefCitation>
+), 117 of which from 13 families have never been recorded from other parts of the world and are restricted to the borders of Iran according to our knowledge. The high endemism (nearly 50%) in the recorded fauna of Iran shows a high potential of speciation inside Iran. The aim of this study is recognizing distribution patterns and endemic areas for endemic species of Fulgoromorpha in Iran.
+</paragraph>
+</subSection>
+<subSection lastPageId="3" lastPageNumber="324" pageId="2" pageNumber="323" type="Materials and methods">
+<paragraph pageId="2" pageNumber="233">Materials and methods</paragraph>
+<paragraph lastPageId="3" lastPageNumber="234" pageId="2" pageNumber="233">
+A total of 473 locality records of 117 species of planthoppers endemic to Iran were gathered, 416 of which derived from publications, 48 were newly collected and identified species in the Hayk Mirzayans Insect Museum (HMIM), and 9 were studied in the Zoological Institute of the Russian Academy of Science (ZIN). Due to the lack of the exact locality data of 3 endemic species: 
+<taxonomicName genus="Phantia" lsidName="Phantia lactea" pageId="2" pageNumber="323" rank="species" species="lactea">Phantia lactea</taxonomicName>
+Rusiecka, 1902 (
+<taxonomicName family="Flatidae" lsidName="" pageId="2" pageNumber="323" rank="family">Flatidae</taxonomicName>
+), 
+<taxonomicName genus="Phantia" lsidName="Phantia putoni" pageId="2" pageNumber="323" rank="species" species="putoni">Phantia putoni</taxonomicName>
+Rusiecka, 1902 (
+<taxonomicName family="Flatidae" lsidName="" pageId="2" pageNumber="323" rank="family">Flatidae</taxonomicName>
+) and 
+<taxonomicName genus="Oliarus" lsidName="Oliarus convergens" pageId="2" pageNumber="323" rank="species" species="convergens">Oliarus convergens</taxonomicName>
+(Melichar, 1902) (
+<taxonomicName family="Cixiidae" lsidName="" pageId="2" pageNumber="323" rank="family">Cixiidae</taxonomicName>
+), 
+<pageBreakToken pageId="3" pageNumber="324" start="start">they</pageBreakToken>
+were deleted from further analyses. Then the distribution maps were prepared using Arc Map 9.3. and the country was divided into 13 primary zones according to the distribution of the endemic planthoppers, topography, climate condition and published zoogeographic zones (Fig. 1). Venn diagrams and cluster analyses were performed using Gliffy venn diagram software and NTSYS (2.02g) (
+<bibRefCitation pageId="3" pageNumber="324">Rohlf 1998</bibRefCitation>
+) to find the relationship between those primary zones and to identify the final zones. The input data for cluster analyses were qualitative data: 1 and 0 for presence and absence of any species in any division, respectively. The similarity between final endemic zones was shown by a similarity map using a multidimensional scaling analysis (Alscal) by SPSS.
+</paragraph>
+</subSection>
+<subSection lastPageId="13" lastPageNumber="334" pageId="3" pageNumber="324" type="Results and discussion">
+<paragraph pageId="3" pageNumber="234">Results and discussion</paragraph>
+<paragraph pageId="3" pageNumber="234">Hyrcanian district</paragraph>
+<paragraph pageId="3" pageNumber="234">
+This is a small area in northern Iran, from the Caucasian-Euxino-Hyrcanian province of the Euro-Siberian region (
+<bibRefCitation pageId="3" pageNumber="324">Frey and Probst 1986</bibRefCitation>
+). The district is limited to the Alborz Mountain and Caspian Sea, stretches from Talesh in Azarbaijan in the west to Gorgan in the east and characterized by predominantly deciduous forests.
+</paragraph>
+<paragraph lastPageId="4" lastPageNumber="235" pageId="3" pageNumber="234">
+The district is considered as one zone (Caspian zone) in this study. Fifteen endemic planthoppers of Iran have been recorded from this zone, 9 of which are endemic to the region (Table 1 and Fig. 2). The high and wall-like Alborz Mountain separates the south coast of the Caspian Sea from the Irano-Turanian region. This barrier not only prevents the fauna from migrating to south parts but also limits the high humidity of the Caspian Sea to the north and produces two very different climatic regions in the northern and southern slopes which can be considered a major factor for differentiating the fauna of north Iran from other parts of the country. Most of the Iranian endemic species common between Hyrcanian and other regions are limited to the Alborz Mt. and are distributed in areas very close to the borders of the Hyrcanian district. 
+<taxonomicName genus="Malenia" lsidName="Malenia masirica" pageId="3" pageNumber="324" rank="species" species="masirica">Malenia masirica</taxonomicName>
+Dlabola, 1986 (
+<taxonomicName family="Derbidae" lsidName="" pageId="3" pageNumber="324" rank="family">Derbidae</taxonomicName>
+) is the only endemic planthopper recorded in all three main regions. There are only a few records of the presence of this species in Iran which belong mostly to the southern Zagros, the Nubo-Sindian region, close to Irano-Turan, and one record of a female specimen from the north of Iran, all made by 
+<bibRefCitation author="Dlabola, J" journalOrPublisher="Acta Musei Nationalis Pragae" pageId="14" pageNumber="335" title="Neue Arten der Fulgoromorphen Zikadenfamilien vom Mittelmeergebiet und Nahen Osten. (Homoptera, Auchenorrhyncha: Cixiidae, Meenoplidae, Derbidae, Dictyopharidae, Lophopidae und Issidae)." type="journal article" volume="42" year="1986">Dlabola (1986)</bibRefCitation>
+, and the specimens are deposited in Prague. 
+<taxonomicName genus="Morsina" lsidName="Morsina persica" pageId="3" pageNumber="324" rank="species" species="persica">Morsina persica</taxonomicName>
+Melichar, 1902 (
+<taxonomicName family="Nogodinidae" lsidName="" pageId="3" pageNumber="324" rank="family">Nogodinidae</taxonomicName>
+) is the only endemic planthopper common between the Caspian zone and the Nubo-Sindian in spite of the distance and lack of records in the Irano-Turanian. The species was originally described from south east of Iran by 
+<bibRefCitation author="Melichar, L" journalOrPublisher="Zoological Annals" pageId="14" pageNumber="335" title="Homopteren aus West-China, Persien und dem Sud-Ussuri- Gebiete, St. Petersburg Museum." type="journal article" volume="7" year="1902">Melichar (1902)</bibRefCitation>
+and there are also other published and unpublished records of this species from there, deposited in HMIM. However the only record of the presence of this species in the Hyrcanian district is made by 
+<bibRefCitation author="Dlabola, J" journalOrPublisher="Acta Musei Nationalis Pragae" pageId="14" pageNumber="335" title="Ergebnisse der tschechoslovakisch-iranischen entomologischen Expeditionen nach dem Iran (Mit Angaben uber einige Sammelresultate in Anatolien) (1970 und 1973) (Homoptera, Auchenorrhycha). - II Teil." type="journal article" url="10.1029/GD003p0033" volume="40" year="1981">Dlabola (1981)</bibRefCitation>
+and he mentioned the species as an eremian faunal element which can be often found as oreal. According to this reference, the only specimen of this species from the north of Iran belongs to the museum of Plant Pests and Disease Research Institute, Tehran-Evin which is the former name 
+<pageBreakToken pageId="4" pageNumber="325" start="start">used</pageBreakToken>
+for HMIM, while it is not mentioned in the list of museum specimens (
+<bibRefCitation author="Mirzayans, H" journalOrPublisher="Iran: Ministry of Agriculture, Agricultural Research" pageId="14" pageNumber="335" title="Insects of Iran, The list of Homoptera: Auchenorrhyncha in the Insect Collection of plant Pests &amp; Diseases Research Institute." type="book" year="1995">Mirzayans 1995</bibRefCitation>
+) and is not currently existing in this museum either. However another specimen of this species is deposited in the HMIM museum collected from southeast of Iran, by the same collector and in the same date mentioned by 
+<normalizedToken originalValue="Dlabola’s">Dlabola's</normalizedToken>
+northern specimen. Therefore the presence of this species in the Hyrcanian district is doubtful and appears to be a mistake in recording the locality in 
+<bibRefCitation author="Dlabola, J" journalOrPublisher="Acta Musei Nationalis Pragae" pageId="14" pageNumber="335" title="Ergebnisse der tschechoslovakisch-iranischen entomologischen Expeditionen nach dem Iran (Mit Angaben uber einige Sammelresultate in Anatolien) (1970 und 1973) (Homoptera, Auchenorrhycha). - II Teil." type="journal article" url="10.1029/GD003p0033" volume="40" year="1981">Dlabola (1981)</bibRefCitation>
+.
+</paragraph>
+<caption pageId="4" pageNumber="325">
+<paragraph pageId="4" pageNumber="235">Figure 2. The number of endemic planthoppers of Iran in the main biogeographic areas.</paragraph>
+</caption>
+<caption pageId="4" pageNumber="325">
+<paragraph pageId="4" pageNumber="235">
+Table 1.. List of endemic species of Iran, indicating endemic species of suggested endemic zones (Extracted from 
+<bibRefCitation author="Mozaffarian, F" journalOrPublisher="ZooKeys" pageId="14" pageNumber="335" title="An annotated checklist of the planthoppers of Iran (Hemiptera, Auchenorrhyncha, Fulgoromorpha) with distribution data." type="journal article" url="10.3897/zookeys.145.1846" volume="145" year="2011">Mozaffarian and Wilson 2011</bibRefCitation>
+and new data).&lt;br/&gt;
+</paragraph>
+</caption>
+<paragraph pageId="4" pageNumber="235">
+<table xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pageId="4" pageNumber="325">
+<tr pageId="4" pageNumber="325">
+<th colspan="1" pageId="4" pageNumber="325" rowspan="1">Endemic species</th>
+<th colspan="1" pageId="4" pageNumber="325" rowspan="1">Caspian zone</th>
+<th colspan="1" pageId="4" pageNumber="325" rowspan="1">Kerman Mountains</th>
+<th colspan="1" pageId="4" pageNumber="325" rowspan="1">Zagros mountains</th>
+<th colspan="1" pageId="4" pageNumber="325" rowspan="1">Khorasan Mountains</th>
+<th colspan="1" pageId="4" pageNumber="325" rowspan="1">Southern Slopes of Alborz</th>
+<th colspan="1" pageId="4" pageNumber="325" rowspan="1">Baluchestan and Persian Gulf coasts</th>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="7" pageId="4" pageNumber="325" rowspan="1">
+Family: 
+<taxonomicName family="Caliscelidae" lsidName="" pageId="4" pageNumber="325" rank="family">Caliscelidae</taxonomicName>
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Adenissus" lsidName="Adenissus baluchestanicus" pageId="4" pageNumber="325" rank="species" species="baluchestanicus">Adenissus baluchestanicus</taxonomicName>
+Dlabola, 1980
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Adenissus" lsidName="Adenissus isinus" pageId="4" pageNumber="325" rank="species" species="isinus">Adenissus isinus</taxonomicName>
+Dlabola, 1980
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Adenissus" lsidName="Adenissus zabolicus" pageId="4" pageNumber="325" rank="species" species="zabolicus">Adenissus zabolicus</taxonomicName>
+Dlabola, 1980
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Adenissus" lsidName="Adenissus zahedanicus" pageId="4" pageNumber="325" rank="species" species="zahedanicus">Adenissus zahedanicus</taxonomicName>
+Dlabola, 1980
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Aphelonema" lsidName="Aphelonema brunneolutea" pageId="4" pageNumber="325" rank="species" species="brunneolutea">Aphelonema brunneolutea</taxonomicName>
+Dlabola 1994
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Perissana" lsidName="Perissana dlabolai" pageId="4" pageNumber="325" rank="species" species="dlabolai">Perissana dlabolai</taxonomicName>
+Gnezdilov &amp; Wilson, 2006
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Reinhardema" lsidName="Reinhardema pasagarda" pageId="4" pageNumber="325" rank="species" species="pasagarda">Reinhardema pasagarda</taxonomicName>
+(Dlabola, 1982)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="7" pageId="4" pageNumber="325" rowspan="1">
+Family: 
+<taxonomicName family="Cixiidae" lsidName="" pageId="4" pageNumber="325" rank="family">Cixiidae</taxonomicName>
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Duilius" lsidName="Duilius v-atrum" pageId="4" pageNumber="325" rank="species" species="v-atrum">Duilius v-atrum</taxonomicName>
+(Dlabola, 1985)
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Cixius" lsidName="Cixius persicus" pageId="4" pageNumber="325" rank="species" species="persicus">Cixius persicus</taxonomicName>
+Distant, 1907
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Myndus" lsidName="Myndus genocolus" pageId="4" pageNumber="325" rank="species" species="genocolus">Myndus genocolus</taxonomicName>
+Dlabola, 1985
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Myndus" lsidName="Myndus sarbazus" pageId="4" pageNumber="325" rank="species" species="sarbazus">Myndus sarbazus</taxonomicName>
+Dlabola, 1989
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Anoculiarus" lsidName="Anoculiarus ornatus" pageId="4" pageNumber="325" rank="species" species="ornatus">Anoculiarus ornatus</taxonomicName>
+Dlabola, 1985
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Eumecurus" lsidName="Eumecurus apunctatus" pageId="4" pageNumber="325" rank="species" species="apunctatus">Eumecurus apunctatus</taxonomicName>
+Dlabola, 1985
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Eumecurus" lsidName="Eumecurus baluchestanicus" pageId="4" pageNumber="325" rank="species" species="baluchestanicus">Eumecurus baluchestanicus</taxonomicName>
+Dlabola, 1985
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Eumecurus" lsidName="Eumecurus octopus" pageId="4" pageNumber="325" rank="species" species="octopus">Eumecurus octopus</taxonomicName>
+Dlabola, 1985
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Eumecurus" lsidName="Eumecurus superstylus" pageId="4" pageNumber="325" rank="species" species="superstylus">Eumecurus superstylus</taxonomicName>
+Dlabola, 1985
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Eumecurus" lsidName="Eumecurus transpunctatus" pageId="4" pageNumber="325" rank="species" species="transpunctatus">Eumecurus transpunctatus</taxonomicName>
+Dlabola, 1985
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Eumecurus" lsidName="Eumecurus vilbastei" pageId="4" pageNumber="325" rank="species" species="vilbastei">Eumecurus vilbastei</taxonomicName>
+Dlabola, 1985
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Hyalesthes" lsidName="Hyalesthes restultus" pageId="4" pageNumber="325" rank="species" species="restultus">Hyalesthes restultus</taxonomicName>
+Dlabola, 1994
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Hyalesthes" lsidName="Hyalesthes zabolicus" pageId="4" pageNumber="325" rank="species" species="zabolicus">Hyalesthes zabolicus</taxonomicName>
+Dlabola, 1985
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Oliarus" lsidName="Oliarus convergens" pageId="4" pageNumber="325" rank="species" species="convergens">Oliarus convergens</taxonomicName>
+Melichar, 1902
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Pentastira" lsidName="Pentastira bahtiaricus" pageId="4" pageNumber="325" rank="species" species="bahtiaricus">Pentastira bahtiaricus</taxonomicName>
+(Dlabola, 1981)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Pentastira" lsidName="Pentastira superspicata" pageId="4" pageNumber="325" rank="species" species="superspicata">Pentastira superspicata</taxonomicName>
+Dlabola, 1985
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Pentastira" lsidName="Pentastira shul" pageId="4" pageNumber="325" rank="species" species="shul">Pentastira shul</taxonomicName>
+(Dlabola, 1985)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Reptalus" lsidName="Reptalus eremicus" pageId="4" pageNumber="325" rank="species" species="eremicus">Reptalus eremicus</taxonomicName>
+Dlabola, 1985
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Reptalus" lsidName="Reptalus reductus" pageId="4" pageNumber="325" rank="species" species="reductus">Reptalus reductus</taxonomicName>
+Dlabola, 1994
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Reptalus" lsidName="Reptalus ziaran" pageId="4" pageNumber="325" rank="species" species="ziaran">Reptalus ziaran</taxonomicName>
+Dlabola, 1985
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="7" pageId="4" pageNumber="325" rowspan="1">
+Family: 
+<taxonomicName family="Delphacidae" lsidName="" pageId="4" pageNumber="325" rank="family">Delphacidae</taxonomicName>
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Tropidocephala" lsidName="Tropidocephala prasina" pageId="4" pageNumber="325" rank="species" species="prasina">Tropidocephala prasina</taxonomicName>
+Melichar, 1902
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Muirodelphax" lsidName="Muirodelphax amol" pageId="4" pageNumber="325" rank="species" species="amol">Muirodelphax amol</taxonomicName>
+Dlabola, 1981
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Pseudaraeopus" lsidName="Pseudaraeopus curtulus" pageId="4" pageNumber="325" rank="species" species="curtulus">Pseudaraeopus curtulus</taxonomicName>
+Dlabola, 1960
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Pseudaraeopus" lsidName="Pseudaraeopus iranicus" pageId="4" pageNumber="325" rank="species" species="iranicus">Pseudaraeopus iranicus</taxonomicName>
+Dlabola, 1960
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Ribautodelphax" lsidName="Ribautodelphax hyrcanus" pageId="4" pageNumber="325" rank="species" species="hyrcanus">Ribautodelphax hyrcanus</taxonomicName>
+Dlabola, 1981
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="7" pageId="4" pageNumber="325" rowspan="1">
+Family: 
+<taxonomicName family="Derbidae" lsidName="" pageId="4" pageNumber="325" rank="family">Derbidae</taxonomicName>
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Malenia" lsidName="Malenia isinica" pageId="4" pageNumber="325" rank="species" species="isinica">Malenia isinica</taxonomicName>
+Dlabola, 1986
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Malenia" lsidName="Malenia masirica" pageId="4" pageNumber="325" rank="species" species="masirica">Malenia masirica</taxonomicName>
+Dlabola, 1986
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Proutista" lsidName="Proutista jezeki" pageId="4" pageNumber="325" rank="species" species="jezeki">Proutista jezeki</taxonomicName>
+Dlabola, 1981
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="7" pageId="4" pageNumber="325" rowspan="1">
+Family: 
+<taxonomicName family="Dictyopharidae" lsidName="" pageId="4" pageNumber="325" rank="family">Dictyopharidae</taxonomicName>
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Callodictya" lsidName="Callodictya kazeruna" pageId="4" pageNumber="325" rank="species" species="kazeruna">Callodictya kazeruna</taxonomicName>
+(Dlabola, 1986)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Dictyophara" lsidName="Dictyophara albata" pageId="4" pageNumber="325" rank="species" species="albata">Dictyophara albata</taxonomicName>
+Dlabola &amp; Heller, 1962
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Dictyophara" lsidName="Dictyophara exoptata" pageId="4" pageNumber="325" rank="species" species="exoptata">Dictyophara exoptata</taxonomicName>
+Dlabola &amp; Heller, 1962
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Dictyophara" lsidName="Dictyophara pazukii" pageId="4" pageNumber="325" rank="species" species="pazukii">Dictyophara pazukii</taxonomicName>
+(Dlabola, 1984)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Dictyophara" lsidName="Dictyophara hoberlandti" pageId="4" pageNumber="325" rank="species" species="hoberlandti">Dictyophara hoberlandti</taxonomicName>
+Dlabola, 1974
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Kumlika" lsidName="Kumlika mandrita" pageId="4" pageNumber="325" rank="species" species="mandrita">Kumlika mandrita</taxonomicName>
+Emeljanov, 1997
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Nymphorgerius" lsidName="Nymphorgerius convergens" pageId="4" pageNumber="325" rank="species" species="convergens">Nymphorgerius convergens</taxonomicName>
+Emeljanov, 1972
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Nymphorgerius" lsidName="Nymphorgerius emeljanovi" pageId="4" pageNumber="325" rank="species" species="emeljanovi">Nymphorgerius emeljanovi</taxonomicName>
+Dlabola, 1979
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Nymphorgerius" lsidName="Nymphorgerius mullah" pageId="4" pageNumber="325" rank="species" species="mullah">Nymphorgerius mullah</taxonomicName>
+Dlabola, 1979
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Nymphorgerius" lsidName="Nymphorgerius rostratus" pageId="4" pageNumber="325" rank="species" species="rostratus">Nymphorgerius rostratus</taxonomicName>
+Emeljanov, 2009
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="7" pageId="4" pageNumber="325" rowspan="1">
+Family: 
+<taxonomicName family="Flatidae" lsidName="" pageId="4" pageNumber="325" rank="family">Flatidae</taxonomicName>
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Bahuflata" lsidName="Bahuflata punctata" pageId="4" pageNumber="325" rank="species" species="punctata">Bahuflata punctata</taxonomicName>
+Dlabola, 1979
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Derisa" lsidName="Derisa atratula" pageId="4" pageNumber="325" rank="species" species="atratula">Derisa atratula</taxonomicName>
+Melichar, 1902
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mesophantia" lsidName="Mesophantia kanganica" pageId="4" pageNumber="325" rank="species" species="kanganica">Mesophantia kanganica</taxonomicName>
+Dlabola, 1983
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mesophantia" lsidName="Mesophantia pallens" pageId="4" pageNumber="325" rank="species" species="pallens">Mesophantia pallens</taxonomicName>
+Melichar, 1902
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mesophantia" lsidName="Mesophantia sabzevaranica" pageId="4" pageNumber="325" rank="species" species="sabzevaranica">Mesophantia sabzevaranica</taxonomicName>
+Dlabola, 1983
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mesophantia" lsidName="Mesophantia tisina" pageId="4" pageNumber="325" rank="species" species="tisina">Mesophantia tisina</taxonomicName>
+Dlabola, 1983
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Persepolia" lsidName="Persepolia jasmuriana" pageId="4" pageNumber="325" rank="species" species="jasmuriana">Persepolia jasmuriana</taxonomicName>
+Dlabola, 1982
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Persepolia" lsidName="Persepolia secunda" pageId="4" pageNumber="325" rank="species" species="secunda">Persepolia secunda</taxonomicName>
+Dlabola, 1981
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Persepolia" lsidName="Persepolia servadeina" pageId="4" pageNumber="325" rank="species" species="servadeina">Persepolia servadeina</taxonomicName>
+Dlabola, 1982
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Phantia" lsidName="Phantia borazianica" pageId="4" pageNumber="325" rank="species" species="borazianica">Phantia borazianica</taxonomicName>
+Dlabola, 1989
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Phantia" lsidName="Phantia crucispina" pageId="4" pageNumber="325" rank="species" species="crucispina">Phantia crucispina</taxonomicName>
+Dlabola, 1989
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Phantia" lsidName="Phantia denasuta" pageId="4" pageNumber="325" rank="species" species="denasuta">Phantia denasuta</taxonomicName>
+Dlabola, 1989
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Phantia" lsidName="Phantia finita" pageId="4" pageNumber="325" rank="species" species="finita">Phantia finita</taxonomicName>
+Dlabola, 1989
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Phantia" lsidName="Phantia helleri" pageId="4" pageNumber="325" rank="species" species="helleri">Phantia helleri</taxonomicName>
+Linnavuori, 1962
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Phantia" lsidName="Phantia lactea" pageId="4" pageNumber="325" rank="species" species="lactea">Phantia lactea</taxonomicName>
+Rusiecka, 1902
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Phantia" lsidName="Phantia ovatospina" pageId="4" pageNumber="325" rank="species" species="ovatospina">Phantia ovatospina</taxonomicName>
+Dlabola, 1989
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Phantia" lsidName="Phantia picea" pageId="4" pageNumber="325" rank="species" species="picea">Phantia picea</taxonomicName>
+Dlabola, 1989
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Phantia" lsidName="Phantia putoni" pageId="4" pageNumber="325" rank="species" species="putoni">Phantia putoni</taxonomicName>
+Rusiecka, 1902
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Tisia" lsidName="Tisia esfandiarii" pageId="4" pageNumber="325" rank="species" species="esfandiarii">Tisia esfandiarii</taxonomicName>
+Dlabola, 1981
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="7" pageId="4" pageNumber="325" rowspan="1">
+Family: 
+<taxonomicName family="Issidae" lsidName="" pageId="4" pageNumber="325" rank="family">Issidae</taxonomicName>
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Cavatorium" lsidName="Cavatorium ardakanum" pageId="4" pageNumber="325" rank="species" species="ardakanum">Cavatorium ardakanum</taxonomicName>
+Dlabola, 1980
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Cavatorium" lsidName="Cavatorium bispinatum" pageId="4" pageNumber="325" rank="species" species="bispinatum">Cavatorium bispinatum</taxonomicName>
+Dlabola, 1980
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Cavatorium" lsidName="Cavatorium quadrispinatum" pageId="4" pageNumber="325" rank="species" species="quadrispinatum">Cavatorium quadrispinatum</taxonomicName>
+Dlabola, 1980
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Cavatorium" lsidName="Cavatorium sarbaz" pageId="4" pageNumber="325" rank="species" species="sarbaz">Cavatorium sarbaz</taxonomicName>
+Dlabola, 1980
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Eusarima" lsidName="Eusarima iranica" pageId="4" pageNumber="325" rank="species" species="iranica">Eusarima iranica</taxonomicName>
+Gnezdilov &amp; Mozaffarian 2011
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Inflatodus" lsidName="Inflatodus astyages" pageId="4" pageNumber="325" rank="species" species="astyages">Inflatodus astyages</taxonomicName>
+Dlabola, 1982
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Inflatodus" lsidName="Inflatodus kyaxares" pageId="4" pageNumber="325" rank="species" species="kyaxares">Inflatodus kyaxares</taxonomicName>
+Dlabola, 1982
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Inflatodus" lsidName="Inflatodus persicus" pageId="4" pageNumber="325" rank="species" species="persicus">Inflatodus persicus</taxonomicName>
+(Dlabola, 1981)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Inflatodus" lsidName="Inflatodus viridans" pageId="4" pageNumber="325" rank="species" species="viridans">Inflatodus viridans</taxonomicName>
+(Dlabola, 1974)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Iranodus" lsidName="Iranodus amygdalinus" pageId="4" pageNumber="325" rank="species" species="amygdalinus">Iranodus amygdalinus</taxonomicName>
+Dlabola, 1980
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Iranodus" lsidName="Iranodus dumetorus" pageId="4" pageNumber="325" rank="species" species="dumetorus">Iranodus dumetorus</taxonomicName>
+(Dlabola, 1981)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Iranodus" lsidName="Iranodus khatunus" pageId="4" pageNumber="325" rank="species" species="khatunus">Iranodus khatunus</taxonomicName>
+(Dlabola, 1981)
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Iranodus" lsidName="Iranodus nishabur" pageId="4" pageNumber="325" rank="species" species="nishabur">Iranodus nishabur</taxonomicName>
+Dlabola, 1982
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Iranodus" lsidName="Iranodus repandus" pageId="4" pageNumber="325" rank="species" species="repandus">Iranodus repandus</taxonomicName>
+(Dlabola, 1981)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Iranodus" lsidName="Iranodus transversalis" pageId="4" pageNumber="325" rank="species" species="transversalis">Iranodus transversalis</taxonomicName>
+Dlabola, 1980
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mycterodus" lsidName="Mycterodus astragalicus" pageId="4" pageNumber="325" rank="species" species="astragalicus">Mycterodus astragalicus</taxonomicName>
+Dlabola, 1974
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mycterodus" lsidName="Mycterodus demavendinus" pageId="4" pageNumber="325" rank="species" species="demavendinus">Mycterodus demavendinus</taxonomicName>
+Dlabola, 1981
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mycterodus" lsidName="Mycterodus elbursicus" pageId="4" pageNumber="325" rank="species" species="elbursicus">Mycterodus elbursicus</taxonomicName>
+(Logvinenko, 1974)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mycterodus" lsidName="Mycterodus fagetophilus" pageId="4" pageNumber="325" rank="species" species="fagetophilus">Mycterodus fagetophilus</taxonomicName>
+Dlabola, 1980
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mycterodus" lsidName="Mycterodus guilanicus" pageId="4" pageNumber="325" rank="species" species="guilanicus">Mycterodus guilanicus</taxonomicName>
+Dlabola, 1981
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mycterodus" lsidName="Mycterodus hezarmeshedi" pageId="4" pageNumber="325" rank="species" species="hezarmeshedi">Mycterodus hezarmeshedi</taxonomicName>
+Dlabola, 1980
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mycterodus" lsidName="Mycterodus inassuetus" pageId="4" pageNumber="325" rank="species" species="inassuetus">Mycterodus inassuetus</taxonomicName>
+Dlabola, 1981
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mycterodus" lsidName="Mycterodus kandavanicus" pageId="4" pageNumber="325" rank="species" species="kandavanicus">Mycterodus kandavanicus</taxonomicName>
+Dlabola, 1980
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mycterodus" lsidName="Mycterodus krameri" pageId="4" pageNumber="325" rank="species" species="krameri">Mycterodus krameri</taxonomicName>
+Dlabola, 1974
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mycterodus" lsidName="Mycterodus lanceatus" pageId="4" pageNumber="325" rank="species" species="lanceatus">Mycterodus lanceatus</taxonomicName>
+Dlabola 1997
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mycterodus" lsidName="Mycterodus peterseni" pageId="4" pageNumber="325" rank="species" species="peterseni">Mycterodus peterseni</taxonomicName>
+Dlabola, 1980
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mycterodus" lsidName="Mycterodus sexpunctatus" pageId="4" pageNumber="325" rank="species" species="sexpunctatus">Mycterodus sexpunctatus</taxonomicName>
+Dlabola, 1980
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Mycterodus" lsidName="Mycterodus shahrudicus" pageId="4" pageNumber="325" rank="species" species="shahrudicus">Mycterodus shahrudicus</taxonomicName>
+Dlabola, 1980
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Pentissus" lsidName="Pentissus bamicus" pageId="4" pageNumber="325" rank="species" species="bamicus">Pentissus bamicus</taxonomicName>
+Dlabola, 1980
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Phasmena" lsidName="Phasmena adyoungi" pageId="4" pageNumber="325" rank="species" species="adyoungi">Phasmena adyoungi</taxonomicName>
+Dlabola, 1982
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Phasmena" lsidName="Phasmena telifera" pageId="4" pageNumber="325" rank="species" species="telifera">Phasmena telifera</taxonomicName>
+Melichar, 1902
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Quadriva" lsidName="Quadriva aurita" pageId="4" pageNumber="325" rank="species" species="aurita">Quadriva aurita</taxonomicName>
+(Dlabola, 1982)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Quadriva" lsidName="Quadriva dehbakrina" pageId="4" pageNumber="325" rank="species" species="dehbakrina">Quadriva dehbakrina</taxonomicName>
+(Dlabola, 1980)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Quadriva" lsidName="Quadriva lassa" pageId="4" pageNumber="325" rank="species" species="lassa">Quadriva lassa</taxonomicName>
+(Dlabola, 1981)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Quadriva" lsidName="Quadriva proxima" pageId="4" pageNumber="325" rank="species" species="proxima">Quadriva proxima</taxonomicName>
+(Dlabola, 1980)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Quadriva" lsidName="Quadriva sabzevarana" pageId="4" pageNumber="325" rank="species" species="sabzevarana">Quadriva sabzevarana</taxonomicName>
+(Dlabola, 1980)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Quadriva" lsidName="Quadriva taftanica" pageId="4" pageNumber="325" rank="species" species="taftanica">Quadriva taftanica</taxonomicName>
+(Dlabola, 1980)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Quadriva" lsidName="Quadriva tangesarhena" pageId="4" pageNumber="325" rank="species" species="tangesarhena">Quadriva tangesarhena</taxonomicName>
+(Dlabola, 1980)
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Scorlupaster" lsidName="Scorlupaster emersum" pageId="4" pageNumber="325" rank="species" species="emersum">Scorlupaster emersum</taxonomicName>
+(Dlabola, 1981)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="7" pageId="4" pageNumber="325" rowspan="1">
+Family: 
+<taxonomicName family="Kinnaridae" lsidName="" pageId="4" pageNumber="325" rank="family">Kinnaridae</taxonomicName>
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Perloma" lsidName="Perloma boroumandi" pageId="4" pageNumber="325" rank="species" species="boroumandi">Perloma boroumandi</taxonomicName>
+(Dlabola, 1981)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Perloma" lsidName="Perloma satrapa" pageId="4" pageNumber="325" rank="species" species="satrapa">Perloma satrapa</taxonomicName>
+(Dlabola, 1981)
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Perloma" lsidName="Perloma zarudnyi" pageId="4" pageNumber="325" rank="species" species="zarudnyi">Perloma zarudnyi</taxonomicName>
+(Emeljanov, 1984)
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="7" pageId="4" pageNumber="325" rowspan="1">
+Family: 
+<taxonomicName family="Meenoplidae" lsidName="" pageId="4" pageNumber="325" rank="family">Meenoplidae</taxonomicName>
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Anigrus" lsidName="Anigrus farsicus" pageId="4" pageNumber="325" rank="species" species="farsicus">Anigrus farsicus</taxonomicName>
+Dlabola, 1986
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="7" pageId="4" pageNumber="325" rowspan="1">
+Family: 
+<taxonomicName family="Nogodinidae" lsidName="" pageId="4" pageNumber="325" rank="family">Nogodinidae</taxonomicName>
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Hadjia" lsidName="Hadjia nerii" pageId="4" pageNumber="325" rank="species" species="nerii">Hadjia nerii</taxonomicName>
+Dlabola, 1981
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Hadjia" lsidName="Hadjia quadrifasciata" pageId="4" pageNumber="325" rank="species" species="quadrifasciata">Hadjia quadrifasciata</taxonomicName>
+Dlabola, 1981
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Iranissus" lsidName="Iranissus ephedrinus" pageId="4" pageNumber="325" rank="species" species="ephedrinus">Iranissus ephedrinus</taxonomicName>
+Dlabola, 1980
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Morsina" lsidName="Morsina persica" pageId="4" pageNumber="325" rank="species" species="persica">Morsina persica</taxonomicName>
+Melichar, 1902
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Philbyella" lsidName="Philbyella glarea" pageId="4" pageNumber="325" rank="species" species="glarea">Philbyella glarea</taxonomicName>
+Dlabola &amp; Heller, 1962
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="7" pageId="4" pageNumber="325" rowspan="1">
+Family: 
+<taxonomicName family="Ricaniidae" lsidName="" pageId="4" pageNumber="325" rank="family">Ricaniidae</taxonomicName>
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Ricania" lsidName="Ricania soraya" pageId="4" pageNumber="325" rank="species" species="soraya">Ricania soraya</taxonomicName>
+Dlabola, 1983
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="7" pageId="4" pageNumber="325" rowspan="1">
+Family: 
+<taxonomicName family="Tettigometridae" lsidName="" pageId="4" pageNumber="325" rank="family">Tettigometridae</taxonomicName>
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Tettigometra" lsidName="Tettigometra demavenda" pageId="4" pageNumber="325" rank="species" species="demavenda">Tettigometra demavenda</taxonomicName>
+Dlabola, 1981
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="7" pageId="4" pageNumber="325" rowspan="1">
+Family: 
+<taxonomicName family="Tropiduchidae" lsidName="" pageId="4" pageNumber="325" rank="family">Tropiduchidae</taxonomicName>
+</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Kazerunia" lsidName="Kazerunia leguaniforma" pageId="4" pageNumber="325" rank="species" species="leguaniforma">Kazerunia leguaniforma</taxonomicName>
+Dlabola, 1977
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Kazerunia" lsidName="Kazerunia ochreata" pageId="4" pageNumber="325" rank="species" species="ochreata">Kazerunia ochreata</taxonomicName>
+Dlabola, 1974
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+<tr pageId="4" pageNumber="325">
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">
+<taxonomicName genus="Kazerunia" lsidName="Kazerunia undulata" pageId="4" pageNumber="325" rank="species" species="undulata">Kazerunia undulata</taxonomicName>
+Dlabola, 1977
+</td>
+<td colspan="1" pageId="4" pageNumber="325" rowspan="1">*</td>
+</tr>
+</table>
+</paragraph>
+<paragraph pageId="4" pageNumber="235">
+Historically, the north of Iran was occupied by the old Tethys 55-20 mya (Ghorbani, 2002) so the occupation should have occurred after the area got dry. During the Pliocene ice age (100,000 years ago) the region was used as a refugee, and species spread northwards after the ice age, which may be a reason for rather small numbers of endemic species in this region. 
+<bibRefCitation author="Hedge, IC" journalOrPublisher="Notes from the Royal Botanic Garden Edinburgh" pageId="14" pageNumber="335" title="Patterns of distribution and endemism in Iran." type="journal article" volume="36" year="1978">Hedge and Wendelbo (1978)</bibRefCitation>
+also indicated rather small numbers of endemic Phanerogamic plants in this area. However the area has a considerably different climate and fauna from other parts of Iran and has been considered as a separate zoogeographic division both by 
+<bibRefCitation author="Zarudny, NA" journalOrPublisher="Journal fuer Ornithologie" pageId="14" pageNumber="335" title="Verzeichnis der Voegel Persiens." type="journal article" url="10.1007/BF02091053" volume="59" year="1911">Zarudny (1911)</bibRefCitation>
+, 
+<bibRefCitation pageId="4" pageNumber="325">Anderson (1968)</bibRefCitation>
+and 
+<bibRefCitation author="Emeljanov, AF" journalOrPublisher="Entomological Review" pageId="14" pageNumber="335" title="Proposals on the Classification and Nomenclature of Ranges." type="journal article" volume="53" year="1974">Emeljanov (1974)</bibRefCitation>
+.
+</paragraph>
+<paragraph pageId="4" pageNumber="235">Saharo-Arabian region</paragraph>
+<paragraph lastPageId="5" lastPageNumber="236" pageId="4" pageNumber="235">
+According to 
+<bibRefCitation author="Zohary, M" journalOrPublisher="Stuttgart: Gustav Fischer Verlag" pageId="14" pageNumber="335" title="Geobotanical Faoundations of the Middle East." type="book" year="1973">Zohary (1973)</bibRefCitation>
+, the west of Iran is touched by the Saharo-Arabian region. Short and mild winters and long and dry hot summers are typical for this part of the country (
+<bibRefCitation pageId="4" pageNumber="325">Frey and Probst 1986</bibRefCitation>
+). Two endemic planthoppers of Iran (
+<taxonomicName genus="Callodictya" lsidName="Callodictya kazeruna" pageId="4" pageNumber="325" rank="species" species="kazeruna">Callodictya kazeruna</taxonomicName>
+(Dlabola, 1986) (
+<taxonomicName family="Dictyopharidae" lsidName="" pageId="4" pageNumber="325" rank="family">Dictyopharidae</taxonomicName>
+) and 
+<taxonomicName genus="Phantia" lsidName="Phantia helleri" pageId="4" pageNumber="325" rank="species" species="helleri">Phantia helleri</taxonomicName>
+Linnavuori, 1962 (
+<taxonomicName family="Flatidae" lsidName="" pageId="4" pageNumber="325" rank="family">Flatidae</taxonomicName>
+)) have been recorded from this part while the former is in common with other 
+<pageBreakToken pageId="5" pageNumber="326" start="start">parts</pageBreakToken>
+of the Irano-Turan (Zagros Mt.) and the latter has a rather wide distribution in the Irano-Turanian and Nubo-Sindian regions (Fig. 2). Hence this region is not considered as an endemic zone in distribution patterns of endemic planthoppers.
+</paragraph>
+<paragraph pageId="5" pageNumber="236">Irano-Turanian region</paragraph>
+<paragraph pageId="5" pageNumber="236">The region covers nine tenths of the land of Iran and major parts of the Iranian Plateau, from central to south of Asia. The region consists of plains, deserts and mountains which are divided into 8 primary divisions in this study: Kerman, Karkas Mt., Humid Zagros, Dry Zagros, North Khorasan Mt., South Khorasan Mt., Southern slopes of Alborz Mt. and Deserts and Plains.</paragraph>
+<paragraph pageId="5" pageNumber="236">Kerman Mountains</paragraph>
+<paragraph pageId="5" pageNumber="236">
+The complex of the Kerman Mts located in the southeast of the Irano-Turanian region and partially in the Nubo-Sindian (Fig. 1). The mountain range is a part of the Zagros chain but far from the other mountains and surrounded by deserts. The mountain and the deserts around have been considered as a zoogeographic zone by 
+<bibRefCitation author="Zarudny, NA" journalOrPublisher="Journal fuer Ornithologie" pageId="14" pageNumber="335" title="Verzeichnis der Voegel Persiens." type="journal article" url="10.1007/BF02091053" volume="59" year="1911">Zarudny (1911)</bibRefCitation>
+. Twenty eight endemic planthoppers of Iran were recorded from this mountain range, 8 of which endemic for there (Table 1, Fig. 3). The mountain range appears to be rather isolated from the Zagros and is limited by the Jazmurian lowlands in the south, Dasht-e Lut kavirs and other Irano-Turanian plains on the other sides. The isolation of mountains by plains and deserts creates a rather suitable condition for isolating populations and speciation. The high mountains in this complex (eg.: Hezar: 4,465 m, Lalehzar: 4,351 m, Tang-e Dalfard, 3,348 m) may be convenient places for relict species after the cold temperature of the Pleistocene ice age. However the fauna of endemic species is rather affected by both Nubo-Sindian (19 common species) and other parts of Irano-Turan (10 common species) (Fig. 3).
+</paragraph>
+<caption pageId="5" pageNumber="326">
+<paragraph pageId="5" pageNumber="236">Figure 3. Venn diagrams for the number of endemic species in Kerman Mts and other areas with common species.</paragraph>
+</caption>
+<paragraph pageId="5" pageNumber="236">Zagros mountains (Humid and Dry Zagros and Karkas Mt.)</paragraph>
+<paragraph pageId="5" pageNumber="236">
+The Zagros mountain chain stretches from northwest of Iran to southeast near the Strait of Hormoz and is considered as the south branches of the Alpine-Himalayan orogenic belt (
+<bibRefCitation pageId="5" pageNumber="326">Dewey et al. 1986</bibRefCitation>
+). The formation of the Zagros orogenic belt is subjected to controversy. Some geologists believe it has been made by the collision between the Afro-Arabian and Eurasian plate during the Cenozoic (
+<bibRefCitation author="Takin, M" journalOrPublisher="ZooKeys" pageId="14" pageNumber="335" title="Iranian geology and continental drift in the Middle East. Nature 235, 147 - 150." type="url" url="10.1038/235147a0" year="1972">Takin 1972</bibRefCitation>
+, 
+<bibRefCitation author="Agard, P" journalOrPublisher="International journal of earth sciences" pageId="13" pageNumber="334" title="Convergence history across Zagros, Iran; constraints from collisional and earlier deformation." type="journal article" url="10.1007/s00531-005-0481-4" volume="94" year="2005">Agard 2005</bibRefCitation>
+). As a result of this collision, several parallel folds were formed (
+<bibRefCitation pageId="5" pageNumber="326">Alan, 1969</bibRefCitation>
+). The long mountain chain divides the Mediterranean climatic zone from the arid regions of west Asia. It is also a barrier between Mesopotamia and the Plateau of Iran with some corridors for the distribution of the fauna between the two zones (
+<bibRefCitation pageId="5" pageNumber="326">Anderson 1968</bibRefCitation>
+).
+</paragraph>
+<paragraph lastPageId="6" lastPageNumber="237" pageId="5" pageNumber="236">
+In this study the Zagros chain was divided into 3 primary zones (Fig. 1): "Humid Zagros" in the northwest which consists of higher mountains and is affected by Mediterranean winds, "Dry Zagros" in the southeast with a drier climate and rather isolated mountains as the result of wider parallel valleys, and the Karkas mountain 
+<pageBreakToken pageId="6" pageNumber="327" start="start">which</pageBreakToken>
+appears to be a rather isolated mountain surrounded by Maranjab kavir and other lower lands around. Two different zones in northwest and southeast Zagros are also applied by 
+<bibRefCitation author="Hedge, IC" journalOrPublisher="Notes from the Royal Botanic Garden Edinburgh" pageId="14" pageNumber="335" title="Patterns of distribution and endemism in Iran." type="journal article" volume="36" year="1978">Hedge and Wendelbo (1978)</bibRefCitation>
+for distribution patterns of endemic phanerogamic plants, named: Armeno-Kurdic and Zagros, respectively. Similarly, 
+<bibRefCitation author="Zarudny, NA" journalOrPublisher="Journal fuer Ornithologie" pageId="14" pageNumber="335" title="Verzeichnis der Voegel Persiens." type="journal article" url="10.1007/BF02091053" volume="59" year="1911">Zarudny (1911)</bibRefCitation>
+recognized the northwest of Zagros as a separate zone with a fauna similar to the Caucasus. Northwest of Zagros, (Armenian) was mentioned as a different area from southeast of Zagros, (Zagrossan) in 
+<bibRefCitation author="Emeljanov, AF" journalOrPublisher="Entomological Review" pageId="14" pageNumber="335" title="Proposals on the Classification and Nomenclature of Ranges." type="journal article" volume="53" year="1974">Emeljanov (1974)</bibRefCitation>
+as well. However both of them were considered as divisions of "Middle Eastern mixed".
+</paragraph>
+<paragraph pageId="6" pageNumber="237">A total of 36 endemic planthoppers of Iran have been recorded from Zagros Mts, 19 of which are endemic to the Zagros (Table 1), 17 endemic to Dry Zagros, and 2 in common with Dry Zagros and Karkas Mt. or Humid Zagros (Fig. 4). The Venn diagram (Fig. 4) shows there are no endemic species for Humid Zagros and Karkas Mt. and the fauna of Iranian endemic planthoppers in those primary zones are mainly in common with Dry Zagros and partially with the south Alborz and Caspian zones. Therefore, those two primary divisions of the Zagros Mountains are not considered as endemic zones. Differently from the wall-like Alborz Mt., the Zagros chain comprises series of parallel ridges and valleys. The distances between mountains increases from northwest to southeast. Although the wider lower lands between the mountains in the south of Zagros (Dry Zagros) form corridors for the distribution and migration of species, mountains surrounded by those lower lands can provide a vicariant condition for speciation or at least prevent the distribution of species to other locations. The fauna of endemic planthoppers in Dry Zagros has some species in common with the Nubo-Sindian (10) and Kerman Mt. (2) which can be explained by the rather short distance between them.</paragraph>
+<caption pageId="6" pageNumber="327">
+<paragraph pageId="6" pageNumber="237">Figure 4. Venn diagram for the number of endemic species in Zagros Mts. (Humid Zagros, Dry Zagros and Karkas Mt.) and other areas with common species.</paragraph>
+</caption>
+<paragraph pageId="7" pageNumber="238">
+<pageBreakToken pageId="7" pageNumber="328" start="start">Khorasan</pageBreakToken>
+mountains
+</paragraph>
+<paragraph pageId="7" pageNumber="238">
+It is believed that Iran has been connected to central Asia since the Oligocene. Then the plateau of Iran was uplifted during the Tertiary orogeny and consequently Kope Dagh (Northeast of Iran), Hindukush and Himalaya were created (
+<bibRefCitation pageId="7" pageNumber="328">Anderson 1968</bibRefCitation>
+). Mountains in northern Khorasan are a continuation of the Alborz but lack the wall-like integration of the Alborz and the humidity of the Caspian Sea, and mountains in both northern and southern Khorasan are rather parallel with the Zagros. In this study they were considered as different primary zones due to their distances and the distribution of endemic planthoppers.
+</paragraph>
+<paragraph pageId="7" pageNumber="238">A total of 11 Iranian endemic planthoppers have been recorded from Khorasan Mts, 5 of which are endemic to this mountain range (Table 1), 3 in the south, 1 in the north and 1 in common (Fig. 5). The cluster analysis shows the similarity of the northern and southern fauna (Fig. 6). Hence the two mountains can be considered as a same zone in the distribution pattern. While south parts, which are surrounded by Kavir-e Lut and Dasht-e Kavir to the west and lowlands in Afghanistan to the east, have more endemic species and appear to be more suitable places for speciation.</paragraph>
+<caption pageId="7" pageNumber="328">
+<paragraph pageId="7" pageNumber="238">Figure 5. Venn diagram for the number of endemic species in Khorasan Mts and common species with other areas.</paragraph>
+</caption>
+<caption pageId="7" pageNumber="328">
+<paragraph pageId="7" pageNumber="238">Figure 6. Cluster diagram for the endemic areas of Fulgoromorpha in Iran.</paragraph>
+</caption>
+<paragraph pageId="7" pageNumber="238">Southern slopes of Alborz</paragraph>
+<paragraph pageId="7" pageNumber="238">
+The Alborz mountain chain represents a north branch of the Alpine-Himalayan orogenic system (
+<bibRefCitation pageId="7" pageNumber="328">Dewey et al. 1986</bibRefCitation>
+). It stretches from northwest of Iran to southeast of the Caspian Sea and includes the highest mountain of west Asia, Damavand 5,670 m. It forms a consistent barrier between the fauna of the Caspian zone and the Plateau of Iran.
+</paragraph>
+<paragraph lastPageId="8" lastPageNumber="239" pageId="7" pageNumber="238">
+Seventeen endemic planthoppers of Iran are recorded from the south of Alborz, 12 of which endemic to the region (Table 1, Fig. 7). The southern slopes of Alborz 
+<pageBreakToken pageId="8" pageNumber="329" start="start">have</pageBreakToken>
+an absolutely different climatic condition from the northern Slopes due to the lack of corridors for receiving the humidity of the Caspian Sea. The presence of the Dasht-e Kavir desert in the south can be another factor for preventing the distribution of populations and probably speciation. There is only one common endemic planthopper between the southern slopes of Alborz and northern Khorasan whereas three species in common with the Zagros show a relationship with the western mountains.
+</paragraph>
+<caption pageId="8" pageNumber="329">
+<paragraph pageId="8" pageNumber="239">Figure 7. Venn diagram for the number of endemic species in southern slopes of Alborz and common species with other areas.</paragraph>
+</caption>
+<paragraph pageId="8" pageNumber="239">Deserts and plains</paragraph>
+<paragraph lastPageId="10" lastPageNumber="241" pageId="8" pageNumber="239">
+Two big salt pans or Kavirs in central Iran are undrained basins and the lands surrounding them have typical features such as clayey or sandy soil and a high amount of salt on the surface. The inner lands of these salt marshes are nearly free of vegetation (
+<bibRefCitation author="Hangay, G" journalOrPublisher="Folia Historico Naturalia Musei Matraensis" pageId="14" pageNumber="335" title="Report on Hungarian entomological expedition to Iran." type="journal article" volume="29" year="2005">Hangay and Szekely 2005</bibRefCitation>
+, 
+<bibRefCitation pageId="8" pageNumber="329">Frey and Probst 1986</bibRefCitation>
+, 
+<bibRefCitation author="Zohary, M" journalOrPublisher="Stuttgart: Gustav Fischer Verlag" pageId="14" pageNumber="335" title="Geobotanical Faoundations of the Middle East." type="book" year="1973">Zohary 1973</bibRefCitation>
+). It is said that Dasht-e Lut is considered as the hottest place in the world exceeding 70°C of temperature in some parts of it (
+<bibRefCitation author="Mildrexler, DJ" journalOrPublisher="Bulletin of American Meteorology Society" pageId="14" pageNumber="335" title="Satellite Finds Highest Land Skin Temperatures on Earth." type="journal article" url="10.1175/2011BAMS3067.1" volume="92" year="2011">Mildrexler et al. 2011</bibRefCitation>
+). There are marshes and mud grounds with large crusts of salt in inner parts of Kavirs while some parts have a steppe-like appearance and some other regions are surrounded by 
+<taxonomicName genus="Tamarix" lsidName="Tamarix" pageId="8" pageNumber="329" rank="genus">Tamarix</taxonomicName>
+spp., 
+<taxonomicName genus="Calligonum" lsidName="Calligonum" pageId="8" pageNumber="329" rank="genus">Calligonum</taxonomicName>
+spp. etc. (
+<bibRefCitation pageId="8" pageNumber="329">Frey and Probst 1986</bibRefCitation>
+). 
+<bibRefCitation author="Hedge, IC" journalOrPublisher="Notes from the Royal Botanic Garden Edinburgh" pageId="14" pageNumber="335" title="Patterns of distribution and endemism in Iran." type="journal article" volume="36" year="1978">Hedge and Wendelbo (1978)</bibRefCitation>
+and 
+<bibRefCitation pageId="8" pageNumber="329">Anderson (1968)</bibRefCitation>
+recognized deserts and plains of the central Plateau of Iran as biogeographic zones. However 
+<bibRefCitation author="Zarudny, NA" journalOrPublisher="Journal fuer Ornithologie" pageId="14" pageNumber="335" title="Verzeichnis der Voegel Persiens." type="journal article" url="10.1007/BF02091053" volume="59" year="1911">Zarudny (1911)</bibRefCitation>
+did not mention them in his list. The distribution patterns of the Iranian endemic planthoppers appear to be very restricted in central Iran. 
+<taxonomicName genus="Malenia" lsidName="Malenia masirica" pageId="8" pageNumber="329" rank="species" species="masirica">Malenia masirica</taxonomicName>
+Dlabola, 1986, 
+<taxonomicName genus="Mesophantia" lsidName="Mesophantia pallens" pageId="8" pageNumber="329" rank="species" species="pallens">Mesophantia pallens</taxonomicName>
+Melichar, 1902 and 
+<taxonomicName genus="Persepolia" lsidName="Persepolia servadeina" pageId="8" pageNumber="329" rank="species" species="servadeina">Persepolia servadeina</taxonomicName>
+<pageBreakToken pageId="9" pageNumber="330" start="start">Dlabola</pageBreakToken>
+, 1982 are the only endemic species recorded from this part of the country while none of them are endemic for those deserts. The two first species have a rather wide distribution in Iran and the third one has been collected so close to Kerman Mt. 
+<pageBreakToken pageId="10" pageNumber="331" start="start">Few</pageBreakToken>
+records of endemic Iranian planthoppers from the deserts may be simply because of less collecting in those dry areas or poor vegetation in some parts of them. None the less, according to our current knowledge, deserts and plains of the Irano-Turan cannot be considered as an endemic zone for planthoppers.
+</paragraph>
+<paragraph pageId="10" pageNumber="241">Nubo-Sindian region</paragraph>
+<paragraph pageId="10" pageNumber="241">
+This part of the country in southern and southeastern Iran is the only region which is not considered as Palaearctic but as a part of the Oriental. A varied terminology has been used for this region. 
+<bibRefCitation author="Hedge, IC" journalOrPublisher="Notes from the Royal Botanic Garden Edinburgh" pageId="14" pageNumber="335" title="Patterns of distribution and endemism in Iran." type="journal article" volume="36" year="1978">Hedge and Wendelbo (1978)</bibRefCitation>
+used the term 
+<normalizedToken originalValue="“Sahara-Sindian”">"Sahara-Sindian"</normalizedToken>
+to show a west to east continuum from southwest Asia to Send deserts while 
+<bibRefCitation pageId="10" pageNumber="331">Frey and Probst (1986)</bibRefCitation>
+preferred Nubo-Sindian because they believed the distribution patterns of the Nubo-Sindian province are obvious here while Saharo-Arabian and Mediterranean species have migrated to this region.
+</paragraph>
+<paragraph pageId="10" pageNumber="241">
+By subtracting the endemic species of a small part of the Kerman Mountain from the Nubo-Sindian, 54 recorded endemic species of Iran, which is more than half of the total, are distributed in this region and 32 of these are endemic to the region (Table 1). The distribution of endemic Fulgoromorpha shows three rather separate groups which are recognized as three primary zones here: Baluchestan, the Strait of Hormoz and the coasts of the Persian Gulf (Fig. 1). The cluster analysis showed the similarity of the fauna of the endemic species in the Strait of Hormoz and the Persian Gulf coasts (Fig. 8) so those two primary zones can be considered as a same zone. 
+<bibRefCitation pageId="10" pageNumber="331">Anderson (1968)</bibRefCitation>
+found a discontinuity in the faunal elements of southern and southeastern Iran and justified it with the relatively recent position of the Persian Gulf and lower sea levels during the Pleistocene which must have caused dry land contact between Iran and Arabia. This belief is confirmed by evidence for ecological continuity across the two sides of the Persian Gulf. Therefore the higher sea levels after the ice age can also produce a vicariant condition in the Persian Gulf coasts and isolating endemic species between mountains and a different climate condition to the north and the waters of the Persian Gulf to the south. The number of endemic species in the Nubo-Sindian is reduced from east to west which may be because of the isolation of the eastern species by the Kavie-e Lut and Jazmurian lowlands. On the other hand, the Venn diagram (Fig. 9) shows a rather high number of common species between Baluchestan and the two other adjacent areas. Hence according to our current knowledge of distribution patterns of endemic planthoppers, the Baluchestan primary zone can also be united with the other primary zones of the Nubo-Sindian region. The area was also considered mainly as one division (Makran mixed) with a very small area of Baluchestan in southeast (Sind plane) by 
+<bibRefCitation author="Emeljanov, AF" journalOrPublisher="Entomological Review" pageId="14" pageNumber="335" title="Proposals on the Classification and Nomenclature of Ranges." type="journal article" volume="53" year="1974">Emeljanov (1974)</bibRefCitation>
+. According to Ghorbani (2002), some parts of Baluchestan, the Strait of Hormoz and the area between them had been occupied by the old Tethys so the common endemic species between Baluchestan and two other primary zones in southern Iran should have crossed the area after drying.
+</paragraph>
+<caption pageId="10" pageNumber="331">
+<paragraph pageId="10" pageNumber="241">Figure 8. Cluster diagram for the primary zones of endemic Fulgoromorpha in tjr Nubo- Sindian region.</paragraph>
+</caption>
+<caption pageId="10" pageNumber="331">
+<paragraph pageId="10" pageNumber="241">Figure 9. Venn diagram for the number of endemic species of the Nubo-Sindian region in three primary zones (Numbers in the parentheses are the number of endemic species in that specific primary zone)</paragraph>
+</caption>
+<paragraph lastPageId="13" lastPageNumber="244" pageId="11" pageNumber="242">
+<pageBreakToken pageId="11" pageNumber="332" start="start">The</pageBreakToken>
+final 6 endemic zones (Caspian zone, South slopes of Alborz, Khorasan Mts, Zagros Mts, Kerman Mts and Baluchestan and Persian Gulf coasts) are shown in Fig. 10. The cluster analysis on six final endemic zones of Iranian planthoppers (Fig. 6) indicates Baluchestan and Perisan Gulf coasts the only region which is considered as a part of the Oriental Region, as the most different zone from the others. Then Zagros Mts, Kerman Mts, Alborz, Khorasan Mts and Caspian zones are diverging, respectively. Alscal analysis produced a map according to the similarity of endemic zones. Rotating the similarity map canvas horizontally (Fig. 11), makes it more comparable with the geographic map (Fig. 10). The Caspian zone and the Nubo-Sindian region are located in similar situations in both maps. While the Khorasan zone is closer to the 
+<pageBreakToken pageId="12" pageNumber="333" start="start">Caspian</pageBreakToken>
+zone in the similarity map rather than its geographic situation. This similarity can be justified by the possibility of specimens migrating between two zones at the end of the wall-like mountains of Alborz at the east of the Caspian zone. This is why the southern slopes of Alborz go farther in the Alscal map and confirms the efficiency of the barrier of the Alborz mountain in separating species of the two adjacent zones. 
+<pageBreakToken pageId="13" pageNumber="334" start="start">Although</pageBreakToken>
+the Zagros mountain has rather similar situations in both maps, it is farther from the Nubo-Sindian in similarity rather than its geographic situation. The reason may be the higher number of endemic species in Baluchestan rather than in the coasts of Persian Gulf and the Strait of Hormoz close to the Zagros Mountains. The situation of the Kermann Mts in the similarity map moved from its geographic situation towards the north. The rather far distance of this zone from the others, confirms the isolation of the species living there. However, deleting the doubtful record of 
+<taxonomicName genus="Morsina" lsidName="Morsina persica" pageId="13" pageNumber="334" rank="species" species="persica">Morsina persica</taxonomicName>
+, common between the Caspian zone and the Nubo-Sindian part of the Kerman Mountains may move the situation of the Kerman zone in the similarity map towards the south.
+</paragraph>
+<caption pageId="13" pageNumber="334">
+<paragraph pageId="13" pageNumber="244">Figure 10. Final endemic zones and distribution of endemic Fulgoromorpha of Iran.</paragraph>
+</caption>
+<caption pageId="13" pageNumber="334">
+<paragraph pageId="13" pageNumber="244">Figure 11. A similarity map of endemic zones of Fulgoromorpha of Iran resulted from Aslcal analysis.</paragraph>
+</caption>
+<paragraph pageId="13" pageNumber="244">
+The records of the endemic planthoppers of Iran belong to recent 110 years (
+<bibRefCitation author="Mozaffarian, F" journalOrPublisher="ZooKeys" pageId="14" pageNumber="335" title="An annotated checklist of the planthoppers of Iran (Hemiptera, Auchenorrhyncha, Fulgoromorpha) with distribution data." type="journal article" url="10.3897/zookeys.145.1846" volume="145" year="2011">Mozaffarian and Wilson 2011</bibRefCitation>
+). The nature of Iran, like any other land, has been exposed to various changes during this long period by events, such as agriculture, war, fire in woods and forests, overgrazing, urbanization and so on. Hence, probably the presence of some endemic species with a limited distribution and the probable extinction of some of them should be subjected to further investigations.
+</paragraph>
+</subSection>
+<subSection pageId="13" pageNumber="334" type="acknowledgements">
+<paragraph pageId="13" pageNumber="244">Acknowledgement</paragraph>
+<paragraph pageId="13" pageNumber="244">I sincerely thank Prof. A. F. Emeljanov and Dr V. M. Gnezdilov for an opportunity to study the Iranian specimens in the Zoological Institute of the Russian Academy of Sciences in St. Petersburg (Russia) and Dr M. R. Wilson, Dr P. J. Mazzoglio, Dr I. Gjonov, Dr N. Simov and anonymous reviewers for valuable suggestions.</paragraph>
+</subSection>
+<subSection lastPageId="14" lastPageNumber="335" pageId="13" pageNumber="334" type="reference_group">
+<paragraph pageId="13" pageNumber="244">References</paragraph>
+<paragraph pageId="13" pageNumber="244">
+<bibRef author="Agard, P" journalOrPublisher="International journal of earth sciences" pageId="13" pageNumber="334" title="Convergence history across Zagros, Iran; constraints from collisional and earlier deformation." type="journal article" url="10.1007/s00531-005-0481-4" volume="94" year="2005">
+<author pageId="13" pageNumber="334">Agard, P</author>
+, 
+<author pageId="13" pageNumber="334">Omrani, J</author>
+, 
+<author pageId="13" pageNumber="334">Jolivet, L</author>
+, 
+<author pageId="13" pageNumber="334">Mouthereau, F</author>
+, 
+<year pageId="13" pageNumber="334">2005</year>
+. 
+<title pageId="13" pageNumber="334">Convergence history across Zagros, Iran; constraints from collisional and earlier deformation.</title>
+. 
+<journalOrPublisher pageId="13" pageNumber="334">International journal of earth sciences</journalOrPublisher>
+<volume pageId="13" pageNumber="334">94</volume>
+: 
+<pageData pageId="13" pageNumber="334">401 - 419</pageData>
+</bibRef>
+</paragraph>
+<paragraph pageId="13" pageNumber="244">
+<bibRef author="Berberian, M" journalOrPublisher="American Geophysics Union And Geolological Socociety of America, Geodynamics Series," pageId="13" pageNumber="334" title="Active tectonic faulting and tectonics of Iran." type="journal article" volume="3" year="1981">
+<author pageId="13" pageNumber="334">Berberian, M</author>
+, 
+<year pageId="13" pageNumber="334">1981</year>
+. 
+<title pageId="13" pageNumber="334">Active tectonic faulting and tectonics of Iran.</title>
+. 
+<journalOrPublisher pageId="13" pageNumber="334">American Geophysics Union And Geolological Socociety of America, Geodynamics Series,</journalOrPublisher>
+<volume pageId="13" pageNumber="334">3</volume>
+: 
+<pageData pageId="13" pageNumber="334">33 - 69</pageData>
+</bibRef>
+</paragraph>
+<paragraph pageId="14" pageNumber="245">
+<bibRef author="Dlabola, J" journalOrPublisher="Acta Musei Nationalis Pragae" pageId="14" pageNumber="335" title="Ergebnisse der tschechoslovakisch-iranischen entomologischen Expeditionen nach dem Iran (Mit Angaben uber einige Sammelresultate in Anatolien) (1970 und 1973) (Homoptera, Auchenorrhycha). - II Teil." type="journal article" url="10.1029/GD003p0033" volume="40" year="1981">
+<author pageId="14" pageNumber="335">
+<pageBreakToken pageId="14" pageNumber="335" start="start">Dlabola</pageBreakToken>
+, J
+</author>
+, 
+<year pageId="14" pageNumber="335">1981</year>
+. 
+<title pageId="14" pageNumber="335">
+Ergebnisse der tschechoslovakisch-iranischen entomologischen Expeditionen nach dem Iran (Mit Angaben uber einige Sammelresultate in Anatolien) (
+<date value="1970" valueMax="1973">1970 und 1973</date>
+) (Homoptera, Auchenorrhycha).- II Teil.
+</title>
+. 
+<journalOrPublisher pageId="14" pageNumber="335">Acta Musei Nationalis Pragae</journalOrPublisher>
+<volume pageId="14" pageNumber="335">40</volume>
+: 
+<pageData pageId="14" pageNumber="335">127 - 311</pageData>
+</bibRef>
+</paragraph>
+<paragraph pageId="14" pageNumber="245">
+<bibRef author="Dlabola, J" journalOrPublisher="Acta Musei Nationalis Pragae" pageId="14" pageNumber="335" title="Neue Arten der Fulgoromorphen Zikadenfamilien vom Mittelmeergebiet und Nahen Osten. (Homoptera, Auchenorrhyncha: Cixiidae, Meenoplidae, Derbidae, Dictyopharidae, Lophopidae und Issidae)." type="journal article" volume="42" year="1986">
+<author pageId="14" pageNumber="335">Dlabola, J</author>
+, 
+<year pageId="14" pageNumber="335">1986</year>
+. 
+<title pageId="14" pageNumber="335">Neue Arten der Fulgoromorphen Zikadenfamilien vom Mittelmeergebiet und Nahen Osten. (Homoptera, Auchenorrhyncha: Cixiidae, Meenoplidae, Derbidae, Dictyopharidae, Lophopidae und Issidae).</title>
+. 
+<journalOrPublisher pageId="14" pageNumber="335">Acta Musei Nationalis Pragae</journalOrPublisher>
+<volume pageId="14" pageNumber="335">42</volume>
+: 
+<pageData pageId="14" pageNumber="335">169 - 196</pageData>
+</bibRef>
+</paragraph>
+<paragraph pageId="14" pageNumber="245">
+<bibRef author="Emeljanov, AF" journalOrPublisher="Entomological Review" pageId="14" pageNumber="335" title="Proposals on the Classification and Nomenclature of Ranges." type="journal article" volume="53" year="1974">
+<author pageId="14" pageNumber="335">Emeljanov, AF</author>
+, 
+<year pageId="14" pageNumber="335">1974</year>
+. 
+<title pageId="14" pageNumber="335">Proposals on the Classification and Nomenclature of Ranges.</title>
+. 
+<journalOrPublisher pageId="14" pageNumber="335">Entomological Review</journalOrPublisher>
+<volume pageId="14" pageNumber="335">53</volume>
+: 
+<pageData pageId="14" pageNumber="335">11 - 26</pageData>
+</bibRef>
+</paragraph>
+<paragraph pageId="14" pageNumber="245">
+<bibRef author="Hangay, G" journalOrPublisher="Folia Historico Naturalia Musei Matraensis" pageId="14" pageNumber="335" title="Report on Hungarian entomological expedition to Iran." type="journal article" volume="29" year="2005">
+<author pageId="14" pageNumber="335">Hangay, G</author>
+, 
+<author pageId="14" pageNumber="335">Nadai, L</author>
+, 
+<author pageId="14" pageNumber="335">Szekely, K</author>
+, 
+<year pageId="14" pageNumber="335">2005</year>
+. 
+<title pageId="14" pageNumber="335">Report on Hungarian entomological expedition to Iran.</title>
+. 
+<journalOrPublisher pageId="14" pageNumber="335">Folia Historico Naturalia Musei Matraensis</journalOrPublisher>
+<volume pageId="14" pageNumber="335">29</volume>
+: 
+<pageData pageId="14" pageNumber="335">7 - 18</pageData>
+</bibRef>
+</paragraph>
+<paragraph pageId="14" pageNumber="245">
+<bibRef author="Hedge, IC" journalOrPublisher="Notes from the Royal Botanic Garden Edinburgh" pageId="14" pageNumber="335" title="Patterns of distribution and endemism in Iran." type="journal article" volume="36" year="1978">
+<author pageId="14" pageNumber="335">Hedge, IC</author>
+, 
+<author pageId="14" pageNumber="335">Wendelbo, P</author>
+, 
+<year pageId="14" pageNumber="335">1978</year>
+. 
+<title pageId="14" pageNumber="335">Patterns of distribution and endemism in Iran.</title>
+. 
+<journalOrPublisher pageId="14" pageNumber="335">Notes from the Royal Botanic Garden Edinburgh</journalOrPublisher>
+<volume pageId="14" pageNumber="335">36</volume>
+: 
+<pageData pageId="14" pageNumber="335">441 - 464</pageData>
+</bibRef>
+</paragraph>
+<paragraph pageId="14" pageNumber="245">
+<bibRef author="Melichar, L" journalOrPublisher="Zoological Annals" pageId="14" pageNumber="335" title="Homopteren aus West-China, Persien und dem Sud-Ussuri- Gebiete, St. Petersburg Museum." type="journal article" volume="7" year="1902">
+<author pageId="14" pageNumber="335">Melichar, L</author>
+, 
+<year pageId="14" pageNumber="335">1902</year>
+. 
+<title pageId="14" pageNumber="335">Homopteren aus West-China, Persien und dem Sud-Ussuri- Gebiete, St. Petersburg Museum.</title>
+. 
+<journalOrPublisher pageId="14" pageNumber="335">Zoological Annals</journalOrPublisher>
+<volume pageId="14" pageNumber="335">7</volume>
+: 
+<pageData pageId="14" pageNumber="335">76 - 146</pageData>
+</bibRef>
+</paragraph>
+<paragraph pageId="14" pageNumber="245">
+<bibRef author="Mildrexler, DJ" journalOrPublisher="Bulletin of American Meteorology Society" pageId="14" pageNumber="335" title="Satellite Finds Highest Land Skin Temperatures on Earth." type="journal article" url="10.1175/2011BAMS3067.1" volume="92" year="2011">
+<author pageId="14" pageNumber="335">Mildrexler, DJ</author>
+, 
+<author pageId="14" pageNumber="335">Zhao, M</author>
+, 
+<author pageId="14" pageNumber="335">Running, SW</author>
+, 
+<year pageId="14" pageNumber="335">2011</year>
+. 
+<title pageId="14" pageNumber="335">Satellite Finds Highest Land Skin Temperatures on Earth.</title>
+. 
+<journalOrPublisher pageId="14" pageNumber="335">Bulletin of American Meteorology Society</journalOrPublisher>
+<volume pageId="14" pageNumber="335">92</volume>
+: 
+<pageData pageId="14" pageNumber="335">855 - 860</pageData>
+</bibRef>
+</paragraph>
+<paragraph pageId="14" pageNumber="245">
+<bibRef author="Mirzayans, H" journalOrPublisher="Iran: Ministry of Agriculture, Agricultural Research" pageId="14" pageNumber="335" title="Insects of Iran, The list of Homoptera: Auchenorrhyncha in the Insect Collection of plant Pests &amp; Diseases Research Institute." type="book" year="1995">
+<author pageId="14" pageNumber="335">Mirzayans, H</author>
+, 
+<year pageId="14" pageNumber="335">1995</year>
+. 
+<title pageId="14" pageNumber="335">Insects of Iran, The list of Homoptera: Auchenorrhyncha in the Insect Collection of plant Pests &amp; Diseases Research Institute.</title>
+. 
+<journalOrPublisher pageId="14" pageNumber="335">Iran: Ministry of Agriculture, Agricultural Research</journalOrPublisher>
+, 63 pp.
+</bibRef>
+</paragraph>
+<paragraph pageId="14" pageNumber="245">
+<bibRef author="Mozaffarian, F" journalOrPublisher="ZooKeys" pageId="14" pageNumber="335" title="An annotated checklist of the planthoppers of Iran (Hemiptera, Auchenorrhyncha, Fulgoromorpha) with distribution data." type="journal article" url="10.3897/zookeys.145.1846" volume="145" year="2011">
+<author pageId="14" pageNumber="335">Mozaffarian, F</author>
+, 
+<author pageId="14" pageNumber="335">Wilson, M</author>
+, 
+<year pageId="14" pageNumber="335">2011</year>
+. 
+<title pageId="14" pageNumber="335">An annotated checklist of the planthoppers of Iran (Hemiptera, Auchenorrhyncha, Fulgoromorpha) with distribution data.</title>
+. 
+<journalOrPublisher pageId="14" pageNumber="335">ZooKeys</journalOrPublisher>
+<volume pageId="14" pageNumber="335">145</volume>
+: 
+<pageData pageId="14" pageNumber="335">1 - 58</pageData>
+</bibRef>
+</paragraph>
+<paragraph pageId="14" pageNumber="245">
+<bibRef author="Takin, M" journalOrPublisher="ZooKeys" pageId="14" pageNumber="335" title="Iranian geology and continental drift in the Middle East. Nature 235, 147 - 150." type="url" url="10.1038/235147a0" year="1972">
+<author pageId="14" pageNumber="335">Takin, M</author>
+, 
+<year pageId="14" pageNumber="335">1972</year>
+. 
+<title pageId="14" pageNumber="335">Iranian geology and continental drift in the Middle East. Nature 235, 147-150.</title>
+. 10.1038/235147a0
+</bibRef>
+</paragraph>
+<paragraph pageId="14" pageNumber="245">
+<bibRef author="Zarudny, NA" journalOrPublisher="Journal fuer Ornithologie" pageId="14" pageNumber="335" title="Verzeichnis der Voegel Persiens." type="journal article" url="10.1007/BF02091053" volume="59" year="1911">
+<author pageId="14" pageNumber="335">Zarudny, NA</author>
+, 
+<year pageId="14" pageNumber="335">1911</year>
+. 
+<title pageId="14" pageNumber="335">
+Verzeichnis der 
+<normalizedToken originalValue="Vögel">Voegel</normalizedToken>
+Persiens.
+</title>
+. 
+<journalOrPublisher pageId="14" pageNumber="335">
+Journal 
+<normalizedToken originalValue="für">fuer</normalizedToken>
+Ornithologie
+</journalOrPublisher>
+<volume pageId="14" pageNumber="335">59</volume>
+: 
+<pageData pageId="14" pageNumber="335">185 - 241</pageData>
+</bibRef>
+</paragraph>
+<paragraph pageId="14" pageNumber="245">
+<bibRef author="Zohary, M" journalOrPublisher="Stuttgart: Gustav Fischer Verlag" pageId="14" pageNumber="335" title="Geobotanical Faoundations of the Middle East." type="book" year="1973">
+<author pageId="14" pageNumber="335">Zohary, M</author>
+, 
+<year pageId="14" pageNumber="335">1973</year>
+. 
+<title pageId="14" pageNumber="335">Geobotanical Faoundations of the Middle East.</title>
+. 
+<journalOrPublisher pageId="14" pageNumber="335">Stuttgart: Gustav Fischer Verlag</journalOrPublisher>
+, 739 pp.
+</bibRef>
+</paragraph>
+</subSection>
+</document>
