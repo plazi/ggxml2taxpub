@@ -9,7 +9,8 @@
          <issn>N/A</issn>
       </journal-meta>
       <article-meta>
-         <article-id pub-id-type="doi">http://dx.doi.org/10.3897/CompCytogen.11(2).11395</article-id>
+         <article-id pub-id-type="doi"
+            >http://dx.doi.org/10.3897/CompCytogen.11(2).11395</article-id>
          <title-group>
             <article-title>The Cerrado (Brazil) plant cytogenetics database</article-title>
          </title-group>
@@ -135,10 +136,7 @@
                <tp:taxon-name>Fabaceae</tp:taxon-name>
             </kwd>
             <kwd content-type="mentioned-taxon">
-               <tp:taxon-name>
-Eu 
-phorbiaceae
-</tp:taxon-name>
+               <tp:taxon-name> Eu phorbiaceae </tp:taxon-name>
             </kwd>
             <kwd content-type="mentioned-taxon">
                <tp:taxon-name>Lythraceae</tp:taxon-name>
@@ -254,1160 +252,492 @@ phorbiaceae
    <body>
       <sec sec-type="introduction">
          <title>N/A</title>
+         <p> Introduction </p>
          <p>
-Introduction
-</p>
-         <p>
-            <tp:taxon-name>Cerrado</tp:taxon-name>
-, a phytogeographic domain from Brazil, is the third largest biodiversity hotspot in the world considering species endemism and degree of threat (
-
-; 
-
-). In fact, it has suffered more anthropic impact than the Amazonian tropical forest (
-
-). With originally 2m km2 of wilderness area, of which ca. 50% are currently cultivated, this region hosts ca. 11,000 species belonging to 1,423 genera of 171 families of phanerogams (
-
-; 
-
-). Classical cytogenetic studies, comprehending somatic or meiotic chromosome counts are known for a considerable portion of species occurring in 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-but in many cases they were not performed on plants from this region. Meanwhile, studies of genome size, differential staining and molecular cytogenetics are very rare.
-</p>
-         <p>
-Since the chromosome number is the most basic karyotype feature and it can be observed by conventional staining of meristem cells or pollen mother cells, most cytogenetic databases deal only with this attribute (
-
-; 
-
-). Estimates of genome size, which are currently addressed mostly by comparing the relative fluorescence of propidium iodide stained nuclei measured in a flow cytometer to that of known patterns, are compiled in the Kew C-value database (
-
-; 
-
-). Other valuable information such as: karyotype formula, dependent on the relative position of centromere along the chromosome and chromosome length (
-
-), silver staining of nucleolar organizer regions (AgNOR) (
-
-), and heterochromatin staining after treatment with acids, bases or denaturation (
-
-; 
-
-; 
-
-) are not included in databases. In contrast, fluorescence in situ hybridization (FISH), in which a DNA probe produced by molecular biology methods anneals with chromosome preparations and is detected by fluorescence has gained more attention (
-
-; 
-
-; 
-
-).
-</p>
-         <p>
-The aim of this study was to assess the current cytogenetic knowledge of 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-plants, aiming to provide a consistent database that 
-didn't
-exclude any attribute and diagnose recent progress in the field.
-</p>
+            <tp:taxon-name>Cerrado</tp:taxon-name> , a phytogeographic domain from Brazil, is the
+            third largest biodiversity hotspot in the world considering species endemism and degree
+            of threat ( ; ). In fact, it has suffered more anthropic impact than the Amazonian
+            tropical forest ( ). With originally 2m km2 of wilderness area, of which ca. 50% are
+            currently cultivated, this region hosts ca. 11,000 species belonging to 1,423 genera of
+            171 families of phanerogams ( ; ). Classical cytogenetic studies, comprehending somatic
+            or meiotic chromosome counts are known for a considerable portion of species occurring
+            in <tp:taxon-name>Cerrado</tp:taxon-name> but in many cases they were not performed on
+            plants from this region. Meanwhile, studies of genome size, differential staining and
+            molecular cytogenetics are very rare. </p>
+         <p> Since the chromosome number is the most basic karyotype feature and it can be observed
+            by conventional staining of meristem cells or pollen mother cells, most cytogenetic
+            databases deal only with this attribute ( ; ). Estimates of genome size, which are
+            currently addressed mostly by comparing the relative fluorescence of propidium iodide
+            stained nuclei measured in a flow cytometer to that of known patterns, are compiled in
+            the Kew C-value database ( ; ). Other valuable information such as: karyotype formula,
+            dependent on the relative position of centromere along the chromosome and chromosome
+            length ( ), silver staining of nucleolar organizer regions (AgNOR) ( ), and
+            heterochromatin staining after treatment with acids, bases or denaturation ( ; ; ) are
+            not included in databases. In contrast, fluorescence in situ hybridization (FISH), in
+            which a DNA probe produced by molecular biology methods anneals with chromosome
+            preparations and is detected by fluorescence has gained more attention ( ; ; ). </p>
+         <p> The aim of this study was to assess the current cytogenetic knowledge of
+               <tp:taxon-name>Cerrado</tp:taxon-name> plants, aiming to provide a consistent
+            database that didn't exclude any attribute and diagnose recent progress in the field.
+         </p>
       </sec>
       <sec sec-type="materials_methods">
          <title>N/A</title>
          <p>Methods</p>
          <p>Data compilation</p>
-         <p>
-Plant names in the 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-plant list (
-
-) and the cytogenetic literature were checked according to the Brazilian Flora 2020 site (
-
-) through the www.plantminer.com app (
-
-). In order to get to the original cytological sources, websites in Table 1 were used. The information in the primary source was organized in the following fields: family (
-
-), genus, original name as reported in the publication (field = name_on_source), accepted name following the online Brazilian Flora 2020 (field = accepted_name), place of sampling (field = provenance), distribution of C-, Chromomycin A3, AgNOR-bands (fields = C-bands, CMA_bands, AgNOR), availability of images (field = images), karyotype formula (field = karyotype), FISH sites position (field = FISH), genome size (field = C-value), meiotic or gametophyte chromosome number (field = meiosis-n), sporophytic chromosome number-2n (field = 2n), level of ploidy (field = ploidy), average chromosome size (field = ACS), Total chromosome length (field = TCL), Total chromosome area (field = TCA), reference, and 
-authors'
-affiliation (field = affiliation). Metadata were gathered partially by scripts from search engines as Scopus (Elsevier) and Crossref (PILA).
-</p>
-         <p>
-</p>
+         <p> Plant names in the <tp:taxon-name>Cerrado</tp:taxon-name> plant list ( ) and the
+            cytogenetic literature were checked according to the Brazilian Flora 2020 site ( )
+            through the www.plantminer.com app ( ). In order to get to the original cytological
+            sources, websites in Table 1 were used. The information in the primary source was
+            organized in the following fields: family ( ), genus, original name as reported in the
+            publication (field = name_on_source), accepted name following the online Brazilian Flora
+            2020 (field = accepted_name), place of sampling (field = provenance), distribution of
+            C-, Chromomycin A3, AgNOR-bands (fields = C-bands, CMA_bands, AgNOR), availability of
+            images (field = images), karyotype formula (field = karyotype), FISH sites position
+            (field = FISH), genome size (field = C-value), meiotic or gametophyte chromosome number
+            (field = meiosis-n), sporophytic chromosome number-2n (field = 2n), level of ploidy
+            (field = ploidy), average chromosome size (field = ACS), Total chromosome length (field
+            = TCL), Total chromosome area (field = TCA), reference, and authors' affiliation (field
+            = affiliation). Metadata were gathered partially by scripts from search engines as
+            Scopus (Elsevier) and Crossref (PILA). </p>
+         <p> </p>
          <p>Data statistics</p>
-         <p>
-All statistics and the online database were performed in R (
-
-). Packages used were shiny (
-
-), shinyjs (
-
-), shinydashboard (
-
-), ggplot2 (
-
-), plyr (
-
-), dplyr (
-
-), stringr (
-
-), data.table (
-
-), DT (
-
-), mongolite (
-
-), gtools (
-
-), robustHD (
-
-) and scales (
-
-). Several frequencies were determined, such as: employed techniques or country of author affiliation per decade; chromosome number (2n), genome size, TCL and TCA per taxa. Where not available, TCL and TCA were measured from photos by ImageJ (
-
-). Due to the scarcity of genome size data, a correlation analysis between TCA/TCL and known genome sizes was performed in order to have a rough idea of genome size in pg based on TCL or TCA. In accessions without 2n number, they were calculated from meiosis or pollen observations (n).
-</p>
-         <p>
-Even n numbers are more common than odd ones because of the prevalence of even 2n that eventually undergo duplication (
-
-; 
-
-). As expected, this trend is more pronounced for high 2n which are usually the result of whole genome duplication events, but may vary by dysploidy. Accessions were subdivided in two groups according to n under or over the mode (n) (low 2n, high 2n); and the even/odd ratio for each group was calculated in order to assess indirectly the degree of polyploidy/dysploidy in each major clade.
-</p>
+         <p> All statistics and the online database were performed in R ( ). Packages used were
+            shiny ( ), shinyjs ( ), shinydashboard ( ), ggplot2 ( ), plyr ( ), dplyr ( ), stringr (
+            ), data.table ( ), DT ( ), mongolite ( ), gtools ( ), robustHD ( ) and scales ( ).
+            Several frequencies were determined, such as: employed techniques or country of author
+            affiliation per decade; chromosome number (2n), genome size, TCL and TCA per taxa. Where
+            not available, TCL and TCA were measured from photos by ImageJ ( ). Due to the scarcity
+            of genome size data, a correlation analysis between TCA/TCL and known genome sizes was
+            performed in order to have a rough idea of genome size in pg based on TCL or TCA. In
+            accessions without 2n number, they were calculated from meiosis or pollen observations
+            (n). </p>
+         <p> Even n numbers are more common than odd ones because of the prevalence of even 2n that
+            eventually undergo duplication ( ; ). As expected, this trend is more pronounced for
+            high 2n which are usually the result of whole genome duplication events, but may vary by
+            dysploidy. Accessions were subdivided in two groups according to n under or over the
+            mode (n) (low 2n, high 2n); and the even/odd ratio for each group was calculated in
+            order to assess indirectly the degree of polyploidy/dysploidy in each major clade. </p>
       </sec>
       <sec sec-type="results">
          <title>N/A</title>
          <p>Results</p>
          <p>Coverage</p>
-         <p>
-A subset of 38.9% (4,590 taxa) of the 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-Plant list was searched, including the 50 richest genera and 273 genera with only one species. Information of 1,431 accessions, from 366 available primary sources, were included in the database. 702 (16.8%) species of our searched sample (4182) had any cytogenetic data and about 500 of them had at least one accession collected in Brazil. Complete lack of information happens 
-for
-70% of the single-species genera addressed (Suppl. material 1, 2, 3). The genera 
-<tp:taxon-name>Hyptis</tp:taxon-name>
-Jacq., 1787 (
-<tp:taxon-name>Lamiaceae</tp:taxon-name>
-), 
-<tp:taxon-name>Stachytarpheta</tp:taxon-name>
-Vahl, 1804 (
-<tp:taxon-name>Verbenaceae</tp:taxon-name>
-), 
-<tp:taxon-name>Microlicia</tp:taxon-name>
-D.Don, 1823 (
-<tp:taxon-name>Melastomataceae</tp:taxon-name>
-), 
-<tp:taxon-name>Leiothrix</tp:taxon-name>
-Ruhland, 1903 (
-<tp:taxon-name>Eriocaulaceae</tp:taxon-name>
-) and 
-<tp:taxon-name>Ditassa</tp:taxon-name>
-R.Br., 1809 (
-<tp:taxon-name>Apocynaceae</tp:taxon-name>
-) may be considered orphan because they are among the 50 most diverse in 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-, but almost no chromosome numbers are known for them (Suppl. material 1). At the family level 
-<tp:taxon-name>Eriocaulaceae</tp:taxon-name>
-(Monocots - Commelinids), 
-<tp:taxon-name>Lamiaceae</tp:taxon-name>
-, 
-<tp:taxon-name>Apocynaceae</tp:taxon-name>
-(Core eudicots-Superasterids-Asterids-Lamiids), 
-<tp:taxon-name>Polygalaceae</tp:taxon-name>
-(Core eudicots-Superrosids-Fabids) and 
-<tp:taxon-name>Lauraceae</tp:taxon-name>
-(Magnoliids) are also poorly studied (Suppl. material 2), while among the major clades (previously in parentheses), studies for Magnoliids are scarce. Every figure and table is interactive in the database website (http://cyto.shinyapps.io/cerrado).
-</p>
-         <p>
-For the richest and best sampled families, the following modal 2n counts were observed: 
-<tp:taxon-name>Oxalidaceae</tp:taxon-name>
-2n = 12, 
-<tp:taxon-name>Lythraceae</tp:taxon-name>
-2n = 30, 
-<tp:taxon-name>Sapindaceae</tp:taxon-name>
-2n = 24, 
-<tp:taxon-name>Solanaceae</tp:taxon-name>
-2n = 24, 
-<tp:taxon-name>Cyperaceae</tp:taxon-name>
-2n = 10, 
-<tp:taxon-name>Poaceae</tp:taxon-name>
-2n = 20, 
-<tp:taxon-name>Asteraceae</tp:taxon-name>
-2n = 18 and 
-<tp:taxon-name>Fabaceae</tp:taxon-name>
-2n = 26 (Suppl. material 2). At the genus level, 
-<tp:taxon-name>Paspalum</tp:taxon-name>
-L., 1759 (
-<tp:taxon-name>Poaceae</tp:taxon-name>
-), 
-<tp:taxon-name>Cuphea</tp:taxon-name>
-P.Browne, 1756 (
-<tp:taxon-name>Lythraceae</tp:taxon-name>
-) and 
-<tp:taxon-name>Rhynchospora</tp:taxon-name>
-Vahl, 1805 (
-<tp:taxon-name>Cyperaceae</tp:taxon-name>
-) stand among the best studied with ca. 50% of coverage. For ca. 20% of species in most major clades, the chromosome number has been studied (Suppl. material 3).
-</p>
+         <p> A subset of 38.9% (4,590 taxa) of the <tp:taxon-name>Cerrado</tp:taxon-name> Plant list
+            was searched, including the 50 richest genera and 273 genera with only one species.
+            Information of 1,431 accessions, from 366 available primary sources, were included in
+            the database. 702 (16.8%) species of our searched sample (4182) had any cytogenetic data
+            and about 500 of them had at least one accession collected in Brazil. Complete lack of
+            information happens for 70% of the single-species genera addressed (Suppl. material 1,
+            2, 3). The genera <tp:taxon-name>Hyptis</tp:taxon-name> Jacq., 1787 (
+               <tp:taxon-name>Lamiaceae</tp:taxon-name> ),
+               <tp:taxon-name>Stachytarpheta</tp:taxon-name> Vahl, 1804 (
+               <tp:taxon-name>Verbenaceae</tp:taxon-name> ),
+               <tp:taxon-name>Microlicia</tp:taxon-name> D.Don, 1823 (
+               <tp:taxon-name>Melastomataceae</tp:taxon-name> ),
+               <tp:taxon-name>Leiothrix</tp:taxon-name> Ruhland, 1903 (
+               <tp:taxon-name>Eriocaulaceae</tp:taxon-name> ) and
+               <tp:taxon-name>Ditassa</tp:taxon-name> R.Br., 1809 (
+               <tp:taxon-name>Apocynaceae</tp:taxon-name> ) may be considered orphan because they
+            are among the 50 most diverse in <tp:taxon-name>Cerrado</tp:taxon-name> , but almost no
+            chromosome numbers are known for them (Suppl. material 1). At the family level
+               <tp:taxon-name>Eriocaulaceae</tp:taxon-name> (Monocots - Commelinids),
+               <tp:taxon-name>Lamiaceae</tp:taxon-name> , <tp:taxon-name>Apocynaceae</tp:taxon-name>
+            (Core eudicots-Superasterids-Asterids-Lamiids),
+               <tp:taxon-name>Polygalaceae</tp:taxon-name> (Core eudicots-Superrosids-Fabids) and
+               <tp:taxon-name>Lauraceae</tp:taxon-name> (Magnoliids) are also poorly studied (Suppl.
+            material 2), while among the major clades (previously in parentheses), studies for
+            Magnoliids are scarce. Every figure and table is interactive in the database website
+            (http://cyto.shinyapps.io/cerrado). </p>
+         <p> For the richest and best sampled families, the following modal 2n counts were observed:
+               <tp:taxon-name>Oxalidaceae</tp:taxon-name> 2n = 12,
+               <tp:taxon-name>Lythraceae</tp:taxon-name> 2n = 30,
+               <tp:taxon-name>Sapindaceae</tp:taxon-name> 2n = 24,
+               <tp:taxon-name>Solanaceae</tp:taxon-name> 2n = 24,
+               <tp:taxon-name>Cyperaceae</tp:taxon-name> 2n = 10,
+               <tp:taxon-name>Poaceae</tp:taxon-name> 2n = 20,
+               <tp:taxon-name>Asteraceae</tp:taxon-name> 2n = 18 and
+               <tp:taxon-name>Fabaceae</tp:taxon-name> 2n = 26 (Suppl. material 2). At the genus
+            level, <tp:taxon-name>Paspalum</tp:taxon-name> L., 1759 (
+               <tp:taxon-name>Poaceae</tp:taxon-name> ), <tp:taxon-name>Cuphea</tp:taxon-name>
+            P.Browne, 1756 ( <tp:taxon-name>Lythraceae</tp:taxon-name> ) and
+               <tp:taxon-name>Rhynchospora</tp:taxon-name> Vahl, 1805 (
+               <tp:taxon-name>Cyperaceae</tp:taxon-name> ) stand among the best studied with ca. 50%
+            of coverage. For ca. 20% of species in most major clades, the chromosome number has been
+            studied (Suppl. material 3). </p>
          <p>Techniques chronology</p>
-         <p>Frequencies of use of karyological techniques show that the first cytogenetic analysis were mainly based on meiosis from 1928 on, and subsequently by 1990 the analysis of mitosis (sporophyte) gained more prevalence. Measurements of karyotype formula (morphology) achieved significance after the 1990's. A trend to include images in publications, only with a fall during the 2000's decade was observed. Sophisticated techniques that show a substantial rise from the 2000's decade are the estimation of the C-value, CMA banding (including C-CMA banding) and FISH. However, they have been applied to a limited number of species, ranging from 0.5 to 2.3% of the 1,431 entries in the database (Fig. 1).</p>
+         <p>Frequencies of use of karyological techniques show that the first cytogenetic analysis
+            were mainly based on meiosis from 1928 on, and subsequently by 1990 the analysis of
+            mitosis (sporophyte) gained more prevalence. Measurements of karyotype formula
+            (morphology) achieved significance after the 1990's. A trend to include images in
+            publications, only with a fall during the 2000's decade was observed. Sophisticated
+            techniques that show a substantial rise from the 2000's decade are the estimation of the
+            C-value, CMA banding (including C-CMA banding) and FISH. However, they have been applied
+            to a limited number of species, ranging from 0.5 to 2.3% of the 1,431 entries in the
+            database (Fig. 1).</p>
          <p>Author affiliations</p>
-         <p>
-In order to track affiliation of authors over time, they were clustered by decade in a time-line. For accessions collected in Brazil [774 (54%)] the country of affiliation of the author showed an increase in the prevalence of Brazilian based research after the 1990's. Other significant contributions for Brazilian samples have been made by Argentinian based authors (Fig. 2). Most publishing authors for the 1935 - 1970 period were affiliated in the U.S.A, and afterwards, in Brazil. Among the authors with more entries, Coleman, Irwin and Turner studied in the 1935 - 1970 period mainly 
-<tp:taxon-name>Asteraceae</tp:taxon-name>
-and 
-<tp:taxon-name>Fabaceae</tp:taxon-name>
-. In the 1970 decade, Coleman studied 
-<tp:taxon-name>Fabaceae</tp:taxon-name>
-and Nassar, 
-<tp:taxon-name>
-Eu 
-phorbiaceae
-</tp:taxon-name>
-. In the 80's and 2000's Graham studied 
-<tp:taxon-name>Lythraceae</tp:taxon-name>
-, and in the 90's Guerra published mainly data on 
-<tp:taxon-name>Cyperaceae</tp:taxon-name>
-, 
-<tp:taxon-name>Orchidaceae</tp:taxon-name>
-and 
-<tp:taxon-name>Velloziaceae</tp:taxon-name>
-. In the current decade, 
-Felix
-published mainly about 
-<tp:taxon-name>Euphorbiaceae</tp:taxon-name>
-and 
-<tp:taxon-name>Fabaceae</tp:taxon-name>
-(Suppl. material 4). Accordingly, those authors correspond to the most important nodes in the co-author network (database website).
-</p>
+         <p> In order to track affiliation of authors over time, they were clustered by decade in a
+            time-line. For accessions collected in Brazil [774 (54%)] the country of affiliation of
+            the author showed an increase in the prevalence of Brazilian based research after the
+            1990's. Other significant contributions for Brazilian samples have been made by
+            Argentinian based authors (Fig. 2). Most publishing authors for the 1935 - 1970 period
+            were affiliated in the U.S.A, and afterwards, in Brazil. Among the authors with more
+            entries, Coleman, Irwin and Turner studied in the 1935 - 1970 period mainly
+               <tp:taxon-name>Asteraceae</tp:taxon-name> and <tp:taxon-name>Fabaceae</tp:taxon-name>
+            . In the 1970 decade, Coleman studied <tp:taxon-name>Fabaceae</tp:taxon-name> and
+            Nassar, <tp:taxon-name> Eu phorbiaceae </tp:taxon-name> . In the 80's and 2000's Graham
+            studied <tp:taxon-name>Lythraceae</tp:taxon-name> , and in the 90's Guerra published
+            mainly data on <tp:taxon-name>Cyperaceae</tp:taxon-name> ,
+               <tp:taxon-name>Orchidaceae</tp:taxon-name> and
+               <tp:taxon-name>Velloziaceae</tp:taxon-name> . In the current decade, Felix published
+            mainly about <tp:taxon-name>Euphorbiaceae</tp:taxon-name> and
+               <tp:taxon-name>Fabaceae</tp:taxon-name> (Suppl. material 4). Accordingly, those
+            authors correspond to the most important nodes in the co-author network (database
+            website). </p>
       </sec>
       <sec sec-type="chromosome numbers and genome size">
          <title>N/A</title>
-         <p>
-Chromosome
-numbers and genome size
-</p>
-         <p>
-699 (16.1%) species of the searched list have known chromosome numbers with a general median of 2n = 28. Fig. 3 shows two ploidy related prevalent chromosome numbers; neopolyploids in Commelinids, which corresponds to 
-<tp:taxon-name>Paspalum</tp:taxon-name>
-counts (2n = 20 and 40), and several paleopolyploid genera as 
-<tp:taxon-name>Habenaria</tp:taxon-name>
-with 2n = 42 (Monocots) and 
-<tp:taxon-name>Mikania</tp:taxon-name>
-with 2n = 36 (Eudicots-Asterids-Campanulids). An unusual conspicuous high frequency of 2n = 36 for the whole sample, corresponds mainly to genera 
-<tp:taxon-name>Manihot</tp:taxon-name>
-Mill., 1754 (
-<tp:taxon-name>Euphorbiaceae</tp:taxon-name>
-), 
-<tp:taxon-name>Tibouchina</tp:taxon-name>
-Aubl., 1775 (
-<tp:taxon-name>Melastomataceae</tp:taxon-name>
-) and 
-<tp:taxon-name>Mikania</tp:taxon-name>
-Willd., 1803 (
-<tp:taxon-name>Asteraceae</tp:taxon-name>
-). Intraspecific chromosome number variation occurs in 14.3% of species, being polyploidy the cause in 88% of them. At the genus level, most high chromosome numbers are multiples of one of the lowest modal numbers of the genus, i.e. base numbers (database website). The even/odd ratio of n is higher for the groups with "n greater than the mode" in almost every clade, as expected, except for Asterids-Campanulids (ratio 1.5), while Asterids-Lamiids shows the greatest bias towards even numbers (ratio 6.5) in karyotypes with n greater than the mode (Table 2).
-</p>
-         <p>
-</p>
-         <p>
-Only 88 C-values were found for the taxa of 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-, most of them ranging from 2C = ca. 1.5 pg to ca. 3.5 pg with a median value of 2.38 pg (Fig. 4). That corresponds to 1.25% of the addressed species list. For a sample of known TCL (or TCA) and C-value, a correlation analysis, although significant, resulted in low r2 values (weak to moderate). Applying a linear model to predict 2C-value based on TCL, resulted in prediction intervals of ca. 2pg. TCL and TCA values together with some predicted 2C- values are shown in Suppl. material 5, 6 and the database website.
-</p>
+         <p> Chromosome numbers and genome size </p>
+         <p> 699 (16.1%) species of the searched list have known chromosome numbers with a general
+            median of 2n = 28. Fig. 3 shows two ploidy related prevalent chromosome numbers;
+            neopolyploids in Commelinids, which corresponds to
+               <tp:taxon-name>Paspalum</tp:taxon-name> counts (2n = 20 and 40), and several
+            paleopolyploid genera as <tp:taxon-name>Habenaria</tp:taxon-name> with 2n = 42
+            (Monocots) and <tp:taxon-name>Mikania</tp:taxon-name> with 2n = 36
+            (Eudicots-Asterids-Campanulids). An unusual conspicuous high frequency of 2n = 36 for
+            the whole sample, corresponds mainly to genera <tp:taxon-name>Manihot</tp:taxon-name>
+            Mill., 1754 ( <tp:taxon-name>Euphorbiaceae</tp:taxon-name> ),
+               <tp:taxon-name>Tibouchina</tp:taxon-name> Aubl., 1775 (
+               <tp:taxon-name>Melastomataceae</tp:taxon-name> ) and
+               <tp:taxon-name>Mikania</tp:taxon-name> Willd., 1803 (
+               <tp:taxon-name>Asteraceae</tp:taxon-name> ). Intraspecific chromosome number
+            variation occurs in 14.3% of species, being polyploidy the cause in 88% of them. At the
+            genus level, most high chromosome numbers are multiples of one of the lowest modal
+            numbers of the genus, i.e. base numbers (database website). The even/odd ratio of n is
+            higher for the groups with "n greater than the mode" in almost every clade, as expected,
+            except for Asterids-Campanulids (ratio 1.5), while Asterids-Lamiids shows the greatest
+            bias towards even numbers (ratio 6.5) in karyotypes with n greater than the mode (Table
+            2). </p>
+         <p> </p>
+         <p> Only 88 C-values were found for the taxa of <tp:taxon-name>Cerrado</tp:taxon-name> ,
+            most of them ranging from 2C = ca. 1.5 pg to ca. 3.5 pg with a median value of 2.38 pg
+            (Fig. 4). That corresponds to 1.25% of the addressed species list. For a sample of known
+            TCL (or TCA) and C-value, a correlation analysis, although significant, resulted in low
+            r2 values (weak to moderate). Applying a linear model to predict 2C-value based on TCL,
+            resulted in prediction intervals of ca. 2pg. TCL and TCA values together with some
+            predicted 2C- values are shown in Suppl. material 5, 6 and the database website. </p>
       </sec>
       <sec sec-type="discussion">
          <title>N/A</title>
-         <p>
-Discussion
-</p>
-         <p>
-There is strong interest for genomics and genetics of 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-species (
-
-). Knowledge of basic data as chromosome number, ploidy level and genome size is critical for the selection of model species (
-
-). Though recent cytogenetic studies tend to incorporate phylogenetic frameworks and correlate cytogenetic with ecological variables, this kind of studies are scarce for 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-(
-
-; 
-
-; 
-
-). As noted by 
-
-, previous to the 1990 decade, cytogenetic studies of authors from U.S.A. prevailed. After that period, mitotic analysis increased compared to meiotic studies, which relate to the establishment of cytogenetic laboratories allowing the treatment with antimitotics of root meristems. Still, the amount of chromosome number data for species occurring in 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-is lower than the world total, 16.1 vs. 20% (
-
-) and several 
-"orphan"
-genera were identified, such as 
-<tp:taxon-name>Stachytarpheta</tp:taxon-name>
-(
-<tp:taxon-name>Verbenaceae</tp:taxon-name>
-), 
-<tp:taxon-name>Microlicia</tp:taxon-name>
-(
-<tp:taxon-name>Melastomataceae</tp:taxon-name>
-) and 
-<tp:taxon-name>Leiothrix</tp:taxon-name>
-(
-<tp:taxon-name>Eriocaulaceae</tp:taxon-name>
-). Unlike other techniques, C-banding and silver staining studies did not increase in recent decades, which might be related to low repetitiveness of methods (
-
-). Despite recent efforts, the percentage of known 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-C-values is still lower than the 2.1% for all 
-<tp:taxon-name>angiosperms</tp:taxon-name>
-(
-
-). Data of TCA, and TCL for a larger number of species were intended to be used as proxy for genome size after an analysis that resulted in weak to moderate significant correlation with 2C-value in pg. Though they can give a rough estimate of the magnitude of the genome, the prediction interval is high considering most genomes fall within a 2 pg range.
-</p>
-         <p>
-Discontinuities in chromosome numbers seen as multimodal distributions indicate that higher numbers are polyploids generated by genome duplication. A polyploid origin for most high n numbers is also evidenced by the high (&gt; 1) even/odd ratios of n (
-
-). In contrast, low even/odd value (for n greater than the mode) is rare and suggests increased dysploidy and/or low frequency of polyploidy, compared with groups that follow the opposite general trend.
-</p>
+         <p> Discussion </p>
+         <p> There is strong interest for genomics and genetics of
+               <tp:taxon-name>Cerrado</tp:taxon-name> species ( ). Knowledge of basic data as
+            chromosome number, ploidy level and genome size is critical for the selection of model
+            species ( ). Though recent cytogenetic studies tend to incorporate phylogenetic
+            frameworks and correlate cytogenetic with ecological variables, this kind of studies are
+            scarce for <tp:taxon-name>Cerrado</tp:taxon-name> ( ; ; ). As noted by , previous to the
+            1990 decade, cytogenetic studies of authors from U.S.A. prevailed. After that period,
+            mitotic analysis increased compared to meiotic studies, which relate to the
+            establishment of cytogenetic laboratories allowing the treatment with antimitotics of
+            root meristems. Still, the amount of chromosome number data for species occurring in
+               <tp:taxon-name>Cerrado</tp:taxon-name> is lower than the world total, 16.1 vs. 20% (
+            ) and several "orphan" genera were identified, such as
+               <tp:taxon-name>Stachytarpheta</tp:taxon-name> (
+               <tp:taxon-name>Verbenaceae</tp:taxon-name> ),
+               <tp:taxon-name>Microlicia</tp:taxon-name> (
+               <tp:taxon-name>Melastomataceae</tp:taxon-name> ) and
+               <tp:taxon-name>Leiothrix</tp:taxon-name> (
+               <tp:taxon-name>Eriocaulaceae</tp:taxon-name> ). Unlike other techniques, C-banding
+            and silver staining studies did not increase in recent decades, which might be related
+            to low repetitiveness of methods ( ). Despite recent efforts, the percentage of known
+               <tp:taxon-name>Cerrado</tp:taxon-name> C-values is still lower than the 2.1% for all
+               <tp:taxon-name>angiosperms</tp:taxon-name> ( ). Data of TCA, and TCL for a larger
+            number of species were intended to be used as proxy for genome size after an analysis
+            that resulted in weak to moderate significant correlation with 2C-value in pg. Though
+            they can give a rough estimate of the magnitude of the genome, the prediction interval
+            is high considering most genomes fall within a 2 pg range. </p>
+         <p> Discontinuities in chromosome numbers seen as multimodal distributions indicate that
+            higher numbers are polyploids generated by genome duplication. A polyploid origin for
+            most high n numbers is also evidenced by the high (&gt; 1) even/odd ratios of n ( ). In
+            contrast, low even/odd value (for n greater than the mode) is rare and suggests
+            increased dysploidy and/or low frequency of polyploidy, compared with groups that follow
+            the opposite general trend. </p>
       </sec>
       <sec sec-type="conclusion">
          <title>N/A</title>
          <p>Conclusion</p>
-         <p>
-The Database of Cytogenetics of 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-plants and its website is presented, making an important step in facilitating access to most known cytogenetic attributes (http://cyto.shinyapps.io/cerrado/). The amount of chromosome number data for 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-is lower than the world total. The chromosome number, is still lacking in several rich genera and families, and therefore, they can be considered 
-"orphan"
-. This complete lack of information also happens for 70% of the single-species genera addressed. Analysis of chromosome numbers at several taxonomical levels revealed a straightforward relationship between polyploidy and high chromosome numbers. Regarding other techniques, like heterochromatin staining, molecular cytogenetics and C-value estimation, they have been applied to a very small percentage of species, however, those studies have 
-been
-steadily increasing since 2000. Though cytogenetic data are the basis for some evolutionary and ecological studies, there is a lack of those kind of interdisciplinary studies for 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-.
-</p>
+         <p> The Database of Cytogenetics of <tp:taxon-name>Cerrado</tp:taxon-name> plants and its
+            website is presented, making an important step in facilitating access to most known
+            cytogenetic attributes (http://cyto.shinyapps.io/cerrado/). The amount of chromosome
+            number data for <tp:taxon-name>Cerrado</tp:taxon-name> is lower than the world total.
+            The chromosome number, is still lacking in several rich genera and families, and
+            therefore, they can be considered "orphan" . This complete lack of information also
+            happens for 70% of the single-species genera addressed. Analysis of chromosome numbers
+            at several taxonomical levels revealed a straightforward relationship between polyploidy
+            and high chromosome numbers. Regarding other techniques, like heterochromatin staining,
+            molecular cytogenetics and C-value estimation, they have been applied to a very small
+            percentage of species, however, those studies have been steadily increasing since 2000.
+            Though cytogenetic data are the basis for some evolutionary and ecological studies,
+            there is a lack of those kind of interdisciplinary studies for
+               <tp:taxon-name>Cerrado</tp:taxon-name> . </p>
       </sec>
       <sec sec-type="acknowledgements">
          <title>N/A</title>
          <p>Acknowledgements</p>
-         <p>
-FR wishes to thank CAPES for their financial support, through a PNPD fellowship. MPCT is supported by productivity grants CNPq/FAPEG/
-Pro-Centro-Oeste
-(563839/2010-4 and 201110267000125), Pronex - FAPEG/CNPq (Funding Announcement No. 07/2012) and CNPq (447754/2014-9). This publication was funded by the PPGS CAPES/FAPEG F. A. No. 08/2014. Current research is developed in the context of the National Institutes for Science and Technology (INCT) in Ecology, Evolution and Biodiversity Conservation, supported by MCTIC/CNpq (proc. 465610/2014-5) and FAPEG.
-</p>
+         <p> FR wishes to thank CAPES for their financial support, through a PNPD fellowship. MPCT
+            is supported by productivity grants CNPq/FAPEG/ Pro-Centro-Oeste (563839/2010-4 and
+            201110267000125), Pronex - FAPEG/CNPq (Funding Announcement No. 07/2012) and CNPq
+            (447754/2014-9). This publication was funded by the PPGS CAPES/FAPEG F. A. No. 08/2014.
+            Current research is developed in the context of the National Institutes for Science and
+            Technology (INCT) in Ecology, Evolution and Biodiversity Conservation, supported by
+            MCTIC/CNpq (proc. 465610/2014-5) and FAPEG. </p>
       </sec>
       <sec sec-type="reference_group">
          <title>N/A</title>
          <ref-list>
             <ref>
-               <mixed-citation>
-Alfons, A
-, 
-2016
-. 
-robustHD: Robust Methods for High-Dimensional Data
-. https://cran.r-project.org/package=robustHD
-</mixed-citation>
+               <mixed-citation> Alfons, A , 2016 . robustHD: Robust Methods for High-Dimensional
+                  Data . https://cran.r-project.org/package=robustHD </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-2016
-. 
-An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV.
-. 
-Botanical Journal of the Linnean Society
-181
-: 
-1 - 20
-</mixed-citation>
+               <mixed-citation> 2016 . An update of the Angiosperm Phylogeny Group classification
+                  for the orders and families of flowering plants: APG IV. . Botanical Journal of
+                  the Linnean Society 181 : 1 - 20 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Attali, D
-, 
-2016
-. 
-shinyjs: Perform Common JavaScript Operations in Shiny Apps using Plain R Code
-. https://cran.r-project.org/package=shinyjs
-</mixed-citation>
+               <mixed-citation> Attali, D , 2016 . shinyjs: Perform Common JavaScript Operations in
+                  Shiny Apps using Plain R Code . https://cran.r-project.org/package=shinyjs
+               </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Barros e Silva, AE
-, 
-Guerra, M
-, 
-2010
-. 
-The meaning of DAPI bands observed after C-banding and FISH procedures.
-. 
-Biotechnic &amp; Histochemistry
-85
-: 
-115 - 125
-</mixed-citation>
+               <mixed-citation> Barros e Silva, AE , Guerra, M , 2010 . The meaning of DAPI bands
+                  observed after C-banding and FISH procedures. . Biotechnic &amp; Histochemistry 85
+                  : 115 - 125 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Carvalho, GH
-, 
-Cianciaruso, MV
-, 
-Batalha, MA
-, 
-2010
-. 
-Plantminer: A web tool for checking and gathering plant species taxonomic information.
-. 
-Environmental Modelling &amp; Software
-25
-: 
-815 - 816
-</mixed-citation>
+               <mixed-citation> Carvalho, GH , Cianciaruso, MV , Batalha, MA , 2010 . Plantminer: A
+                  web tool for checking and gathering plant species taxonomic information. .
+                  Environmental Modelling &amp; Software 25 : 815 - 816 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Chang, W
-, 
-2015
-. 
-
-shinydashboard: Create Dashboards with 
-"Shiny."
-
-. https://cran.r-project.org/package=shinydashboard
-</mixed-citation>
+               <mixed-citation> Chang, W , 2015 . shinydashboard: Create Dashboards with "Shiny." .
+                  https://cran.r-project.org/package=shinydashboard </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Chang, W
-, 
-Cheng, J
-, 
-Allaire, JJ
-, 
-Xie, Y
-, 
-McPherson, J
-, 
-2016
-. 
-shiny: Web Application Framework for R
-. https://cran.r-project.org/package=shiny
-</mixed-citation>
+               <mixed-citation> Chang, W , Cheng, J , Allaire, JJ , Xie, Y , McPherson, J , 2016 .
+                  shiny: Web Application Framework for R . https://cran.r-project.org/package=shiny
+               </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-
-Dolezel
-, J
-
-, 
-Greilhuber, J
-, 
-2010
-. 
-Nuclear genome size: Are we getting closer?
-. 
-Cytometry Part A
-77
-: 
-635 - 642
-</mixed-citation>
+               <mixed-citation> Dolezel , J , Greilhuber, J , 2010 . Nuclear genome size: Are we
+                  getting closer? . Cytometry Part A 77 : 635 - 642 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Dowle, M
-, 
-Srinivasan, A
-, 
-Short, T [with contributions from R Saporta SL
-, 
-Antonyan, E]
-, 
-2015
-. 
-data.table: Extension of Data.frame
-. https://cran.r-project.org/package=data.table
-</mixed-citation>
+               <mixed-citation> Dowle, M , Srinivasan, A , Short, T [with contributions from R
+                  Saporta SL , Antonyan, E] , 2015 . data.table: Extension of Data.frame .
+                  https://cran.r-project.org/package=data.table </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Ferreira, ME
-, 
-dos Anjos, AF
-, 
-Ferreira, LG
-, 
-Bustamante, M
-, 
-Fernandes, GW
-, 
-Machado, RB
-, 
-2016
-. 
-
-Cerrado O fim da 
-historia
-ou uma nova 
-historia
-?
-
-. 
-
-Cienciahoje
-
-56
-: 
-24 - 29
-</mixed-citation>
+               <mixed-citation> Ferreira, ME , dos Anjos, AF , Ferreira, LG , Bustamante, M ,
+                  Fernandes, GW , Machado, RB , 2016 . Cerrado O fim da historia ou uma nova
+                  historia ? . Cienciahoje 56 : 24 - 29 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-
-Forzza
-, RC
-
-, 
-Baumgratz, JFA
-, 
-Bicudo, CEM
-, 
-Canhos, DAL
-, 
-Carvalho, AA
-, 
-Coelho, MAN
-, 
-Costa, AF
-, 
-Costa, DP
-, 
-Hopkins, MG
-, 
-Leitman, PM
-, 
-Lohmann, LG
-, 
-Lughadha, EN
-, 
-Maia, LC
-, 
-Martinelli, G
-, 
-Menezes, M
-, 
-Morim, MP
-, 
-Peixoto, AL
-, 
-Pirani, JR
-, 
-Prado, J
-, 
-Queiroz, LP
-, 
-Souza, S
-, 
-Souza, VC
-, 
-Stehmann, JR
-, 
-Sylvestre, LS
-, 
-Walter, BMT
-, 
-Zappi, DC
-, 
-2012
-. 
-New Brazilian Floristic List Highlights Conservation Challenges.
-. 
-BioScience
-62
-: 
-39 - 45
-</mixed-citation>
+               <mixed-citation> Forzza , RC , Baumgratz, JFA , Bicudo, CEM , Canhos, DAL , Carvalho,
+                  AA , Coelho, MAN , Costa, AF , Costa, DP , Hopkins, MG , Leitman, PM , Lohmann, LG
+                  , Lughadha, EN , Maia, LC , Martinelli, G , Menezes, M , Morim, MP , Peixoto, AL ,
+                  Pirani, JR , Prado, J , Queiroz, LP , Souza, S , Souza, VC , Stehmann, JR ,
+                  Sylvestre, LS , Walter, BMT , Zappi, DC , 2012 . New Brazilian Floristic List
+                  Highlights Conservation Challenges. . BioScience 62 : 39 - 45 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Garcia, S
-, 
-
-Galvez
-, F
-
-, 
-Gras, A
-, 
-
-Kovarik
-, A
-
-, 
-Garnatje, T
-, 
-2014b
-. 
-Database: the journal of biological databases and curation
-. https://doi.org/10.1093/database/bau063
-</mixed-citation>
+               <mixed-citation> Garcia, S , Galvez , F , Gras, A , Kovarik , A , Garnatje, T , 2014b
+                  . Database: the journal of biological databases and curation .
+                  https://doi.org/10.1093/database/bau063 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Garcia, S
-, 
-Leitch, IJ
-, 
-Anadon-Rosell, A
-, 
-
-Canela, 
-MA
-
-, 
-
-Galvez
-, F
-
-, 
-Garnatje, T
-, 
-Gras, A
-, 
-Hidalgo, O
-, 
-Johnston, E
-, 
-Mas de Xaxars, G
-, 
-Pellicer, J
-, 
-Siljak-Yakovlev, S
-, 
-
-Valles
-, J
-
-, 
-Vitales, D
-, 
-Bennett, MD
-, 
-2014a
-. 
-Recent updates and developments to plant genome size databases
-. 
-Nucleic Acids Research
-42
-: 
-1159 - 1166
-</mixed-citation>
+               <mixed-citation> Garcia, S , Leitch, IJ , Anadon-Rosell, A , Canela, MA , Galvez , F
+                  , Garnatje, T , Gras, A , Hidalgo, O , Johnston, E , Mas de Xaxars, G , Pellicer,
+                  J , Siljak-Yakovlev, S , Valles , J , Vitales, D , Bennett, MD , 2014a . Recent
+                  updates and developments to plant genome size databases . Nucleic Acids Research
+                  42 : 1159 - 1166 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Glick, L
-, 
-Mayrose, I
-, 
-2014
-. 
-ChromEvol: Assessing the pattern of chromosome number evolution and the inference of polyploidy along a phylogeny.
-. 
-Molecular Biology and Evolution
-31
-: 
-1914 - 1922
-</mixed-citation>
+               <mixed-citation> Glick, L , Mayrose, I , 2014 . ChromEvol: Assessing the pattern of
+                  chromosome number evolution and the inference of polyploidy along a phylogeny. .
+                  Molecular Biology and Evolution 31 : 1914 - 1922 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Guerra, M
-, 
-1986
-. 
-Reviewing the chromosome nomenclature of Levan et al.
-. 
-Brazilian Journal of Genetics
-9
-: 
-741 - 743
-</mixed-citation>
+               <mixed-citation> Guerra, M , 1986 . Reviewing the chromosome nomenclature of Levan et
+                  al. . Brazilian Journal of Genetics 9 : 741 - 743 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Guerra, M
-, 
-1990
-. 
-
-A 
-situacao
-da citotaxonomia de angiospermas nos 
-tropicos
-e, em particular, no Brasil.
-
-. 
-Acta Botanica Brasilica
-4
-: 
-75 - 86
-</mixed-citation>
+               <mixed-citation> Guerra, M , 1990 . A situacao da citotaxonomia de angiospermas nos
+                  tropicos e, em particular, no Brasil. . Acta Botanica Brasilica 4 : 75 - 86
+               </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Guerra, M
-, 
-2000
-. 
-Patterns of heterochromatin distribution in plant chromosomes.
-. 
-Genetics and Molecular Biology
-23
-: 
-1029 - 1041
-</mixed-citation>
+               <mixed-citation> Guerra, M , 2000 . Patterns of heterochromatin distribution in plant
+                  chromosomes. . Genetics and Molecular Biology 23 : 1029 - 1041 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Kelly, LJ
-, 
-Leitch, AR
-, 
-Fay, MF
-, 
-Renny-Byfield, S
-, 
-Pellicer, J
-, 
-Macas, JJ
-, 
-Leitch, IJ
-, 
-2012
-. 
-Why size really matters when sequencing plant genomes.
-. 
-Plant Ecology &amp; Diversity
-5
-: 
-415 - 425
-</mixed-citation>
+               <mixed-citation> Kelly, LJ , Leitch, AR , Fay, MF , Renny-Byfield, S , Pellicer, J ,
+                  Macas, JJ , Leitch, IJ , 2012 . Why size really matters when sequencing plant
+                  genomes. . Plant Ecology &amp; Diversity 5 : 415 - 425 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Myers, N
-, 
-Mittermeier, RA
-, 
-Mittermeier, CG
-, 
-da Fonseca, GAB
-, 
-Kent, J
-, 
-2000
-. 
-Biodiversity hotspots for conservation priorities.
-. 
-Nature
-403
-: 
-853 - 858
-</mixed-citation>
+               <mixed-citation> Myers, N , Mittermeier, RA , Mittermeier, CG , da Fonseca, GAB ,
+                  Kent, J , 2000 . Biodiversity hotspots for conservation priorities. . Nature 403 :
+                  853 - 858 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Ooms, J
-, 
-2016
-. 
-mongolite: Fast and Simple MongoDB Client for R
-. https://cran.r-project.org/package=mongolite
-</mixed-citation>
+               <mixed-citation> Ooms, J , 2016 . mongolite: Fast and Simple MongoDB Client for R .
+                  https://cran.r-project.org/package=mongolite </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Otto, SP
-, 
-Whitton, J
-, 
-2000
-. 
-Polyploid Incidence and Evolution.
-. 
-Annual Review of Genetics
-34
-: 
-401 - 437
-</mixed-citation>
+               <mixed-citation> Otto, SP , Whitton, J , 2000 . Polyploid Incidence and Evolution. .
+                  Annual Review of Genetics 34 : 401 - 437 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Peruzzi, L
-, 
-Bedini, G
-, 
-2014
-. 
-Online resources for chromosome number databases.
-. 
-Caryologia
-67
-: 
-292 - 295
-</mixed-citation>
+               <mixed-citation> Peruzzi, L , Bedini, G , 2014 . Online resources for chromosome
+                  number databases. . Caryologia 67 : 292 - 295 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-2016
-. 
-R: A language and environment for statistical computing
-. 
-R Foundation for Statistical Computing, Vienna, Austria
-</mixed-citation>
+               <mixed-citation> 2016 . R: A language and environment for statistical computing . R
+                  Foundation for Statistical Computing, Vienna, Austria </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-2016
-. 
-Flora do Brasil 2020
-. http://floradobrasil.jbrj.gov.br/
-</mixed-citation>
+               <mixed-citation> 2016 . Flora do Brasil 2020 . http://floradobrasil.jbrj.gov.br/
+               </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Rice, A
-, 
-Glick, L
-, 
-Abadi, S
-, 
-Einhorn, M
-, 
-Kopelman, NM
-, 
-Salman-Minkov, A
-, 
-Mayzel, J
-, 
-Chay, O
-, 
-Mayrose, I
-, 
-2015
-. 
-The Chromosome Counts Database (CCDB) - a community resource of plant chromosome numbers.
-. 
-New Phytologist
-206
-: 
-19 - 26
-</mixed-citation>
+               <mixed-citation> Rice, A , Glick, L , Abadi, S , Einhorn, M , Kopelman, NM ,
+                  Salman-Minkov, A , Mayzel, J , Chay, O , Mayrose, I , 2015 . The Chromosome Counts
+                  Database (CCDB) - a community resource of plant chromosome numbers. . New
+                  Phytologist 206 : 19 - 26 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Roa, F
-, 
-Guerra, M
-, 
-2012
-. 
-Distribution of 45S rDNA sites in chromosomes of plants: structural and evolutionary implications
-. 
-BMC Evolutionary Biology
-12
-: 225
-</mixed-citation>
+               <mixed-citation> Roa, F , Guerra, M , 2012 . Distribution of 45S rDNA sites in
+                  chromosomes of plants: structural and evolutionary implications . BMC Evolutionary
+                  Biology 12 : 225 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Roa, F
-, 
-Guerra, M
-, 
-2015
-. 
-Non-Random Distribution of 5S rDNA Sites and Its Association with 45S rDNA in Plant Chromosomes.
-. 
-Cytogenetic and Genome Research
-146
-: 
-243 - 249
-</mixed-citation>
+               <mixed-citation> Roa, F , Guerra, M , 2015 . Non-Random Distribution of 5S rDNA Sites
+                  and Its Association with 45S rDNA in Plant Chromosomes. . Cytogenetic and Genome
+                  Research 146 : 243 - 249 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Schneider, CA
-, 
-Rasband, WS
-, 
-Eliceiri, KW
-, 
-2012
-. 
-NIH Image to ImageJ: 25 years of image analysis.
-. 
-Nature Methods
-9
-: 
-671 - 675
-</mixed-citation>
+               <mixed-citation> Schneider, CA , Rasband, WS , Eliceiri, KW , 2012 . NIH Image to
+                  ImageJ: 25 years of image analysis. . Nature Methods 9 : 671 - 675
+               </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Schwarzacher, T
-, 
-Ambros, P
-, 
-Schweizer, D
-, 
-1980
-. 
-Application of Giemsa banding to orchid karyotype analysis.
-. 
-Plant Systematics and Evolution
-134
-: 
-293 - 297
-</mixed-citation>
+               <mixed-citation> Schwarzacher, T , Ambros, P , Schweizer, D , 1980 . Application of
+                  Giemsa banding to orchid karyotype analysis. . Plant Systematics and Evolution 134
+                  : 293 - 297 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Silveira, RM
-, 
-Machado, RM
-, 
-Forni-Martins, ER
-, 
-Verola, CF
-, 
-Costa, IR
-, 
-2016
-. 
-Genet Mol Res
-. https://doi.org/10.4238/gmr15048842
-</mixed-citation>
+               <mixed-citation> Silveira, RM , Machado, RM , Forni-Martins, ER , Verola, CF , Costa,
+                  IR , 2016 . Genet Mol Res . https://doi.org/10.4238/gmr15048842 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Souza, UJB de
-, 
-Telles, MP de C
-, 
-Diniz-Filho, JAF
-, 
-2016
-. 
-
-Tendencias
-da literatura 
-cientifica
-sobre 
-genetica
-de 
-populacoes
-de plantas do Cerrado.
-
-. 
-Hoehnea
-43
-: 
-461 - 477
-</mixed-citation>
+               <mixed-citation> Souza, UJB de , Telles, MP de C , Diniz-Filho, JAF , 2016 .
+                  Tendencias da literatura cientifica sobre genetica de populacoes de plantas do
+                  Cerrado. . Hoehnea 43 : 461 - 477 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Spera, SA
-, 
-Galford, GL
-, 
-Coe, MT
-, 
-Macedo, MN
-, 
-Mustard, JF
-, 
-2016
-. 
-
-Land-use change affects water recycling in 
-Brazil's
-last agricultural frontier.
-
-. 
-Global Change Biology
-22
-: 
-3405 - 3413
-</mixed-citation>
+               <mixed-citation> Spera, SA , Galford, GL , Coe, MT , Macedo, MN , Mustard, JF , 2016
+                  . Land-use change affects water recycling in Brazil's last agricultural frontier.
+                  . Global Change Biology 22 : 3405 - 3413 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Suda, J
-, 
-Meyerson, LA
-, 
-Leitch, IJ
-, 
-
-Pysek
-, P
-
-, 
-2015
-. 
-The hidden side of plant invasions: The role of genome size.
-. 
-New Phytologist
-205
-: 
-994 - 1007
-</mixed-citation>
+               <mixed-citation> Suda, J , Meyerson, LA , Leitch, IJ , Pysek , P , 2015 . The hidden
+                  side of plant invasions: The role of genome size. . New Phytologist 205 : 994 -
+                  1007 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Vieira, R
-, 
-
-Queiroz, 
-A
-
-, 
-Morais, L
-, 
-
-Barao
-, A
-
-, 
-Mello-Sampayo, T
-, 
-Viegas, W
-, 
-1990
-. 
-Genetic control of 1R nucleolus organizer region expression in the presence of wheat genomes.
-. 
-Genome
-33
-: 
-713 - 718
-</mixed-citation>
+               <mixed-citation> Vieira, R , Queiroz, A , Morais, L , Barao , A , Mello-Sampayo, T ,
+                  Viegas, W , 1990 . Genetic control of 1R nucleolus organizer region expression in
+                  the presence of wheat genomes. . Genome 33 : 713 - 718 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Warnes, GR
-, 
-Bolker, B
-, 
-Lumley, T
-, 
-2015
-. 
-gtools: Various R Programming Tools.
-. https://cran.r-project.org/package=gtools
-</mixed-citation>
+               <mixed-citation> Warnes, GR , Bolker, B , Lumley, T , 2015 . gtools: Various R
+                  Programming Tools. . https://cran.r-project.org/package=gtools </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Wickham, H
-, 
-2009
-. 
-ggplot2: Elegant Graphics for Data Analysis.
-. 
-Springer-Verlag, New York
-</mixed-citation>
+               <mixed-citation> Wickham, H , 2009 . ggplot2: Elegant Graphics for Data Analysis. .
+                  Springer-Verlag, New York </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Wickham, H
-, 
-2015a
-. 
-plyr: Tools for Splitting, Applying and Combining Data.
-. https://cran.r-project.org/package=plyr
-</mixed-citation>
+               <mixed-citation> Wickham, H , 2015a . plyr: Tools for Splitting, Applying and
+                  Combining Data. . https://cran.r-project.org/package=plyr </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Wickham, H
-, 
-2015b
-. 
-stringr: Simple, Consistent Wrappers for Common String Operations.
-. https://cran.r-project.org/package=stringr
-</mixed-citation>
+               <mixed-citation> Wickham, H , 2015b . stringr: Simple, Consistent Wrappers for Common
+                  String Operations. . https://cran.r-project.org/package=stringr </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Wickham, H
-, 
-2016
-. 
-scales: Scale Functions for Visualization.
-. https://cran.r-project.org/package=scales
-</mixed-citation>
+               <mixed-citation> Wickham, H , 2016 . scales: Scale Functions for Visualization. .
+                  https://cran.r-project.org/package=scales </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Wickham, H
-, 
-Francois, R
-, 
-2016
-. 
-dplyr: A Grammar of Data Manipulation.
-. https://cran.r-project.org/package=dplyr
-</mixed-citation>
+               <mixed-citation> Wickham, H , Francois, R , 2016 . dplyr: A Grammar of Data
+                  Manipulation. . https://cran.r-project.org/package=dplyr </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Xie, Y
-, 
-2015
-. 
-
-DT: A Wrapper of the JavaScript Library 
-"DataTables."
-
-. https://cran.r-project.org/package=DT
-</mixed-citation>
+               <mixed-citation> Xie, Y , 2015 . DT: A Wrapper of the JavaScript Library
+                  "DataTables." . https://cran.r-project.org/package=DT </mixed-citation>
             </ref>
          </ref-list>
       </sec>
       <sec sec-type="materials_methods">
          <title>N/A</title>
-         <p>
-Supplementary
-materials
-</p>
+         <p> Supplementary materials </p>
          <p>Supplementary material 1Summary statistics for genera</p>
          <p>Data type: cytogenetic attributes</p>
          <p>Explanation note: more details in http://cyto.shinyapps.io/cerrado</p>
-         <p>This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary material 2Summary statistics for families</p>
+         <p>This dataset is made available under the Open Database License
+            (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a
+            license agreement intended to allow users to freely share, modify, and use this Dataset
+            while maintaining this same freedom for others, provided that the original source and
+            author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary
+            material 2Summary statistics for families</p>
          <p>Data type: cytogenetic attributes</p>
          <p>Explanation note: more details in http://cyto.shinyapps.io/cerrado</p>
-         <p>This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary material 3Summary statistics for major clades</p>
+         <p>This dataset is made available under the Open Database License
+            (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a
+            license agreement intended to allow users to freely share, modify, and use this Dataset
+            while maintaining this same freedom for others, provided that the original source and
+            author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary
+            material 3Summary statistics for major clades</p>
          <p>Data type: cytogenetic attributes</p>
          <p>Explanation note: more details in http://cyto.shinyapps.io/cerrado</p>
-         <p>
-This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary material 4Authors with more publications of cytogenetic data of 
-<tp:taxon-name>Cerrado</tp:taxon-name>
-plants per decade
-</p>
+         <p> This dataset is made available under the Open Database License
+            (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a
+            license agreement intended to allow users to freely share, modify, and use this Dataset
+            while maintaining this same freedom for others, provided that the original source and
+            author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary
+            material 4Authors with more publications of cytogenetic data of
+               <tp:taxon-name>Cerrado</tp:taxon-name> plants per decade </p>
          <p>Data type: affiliation and taxa - categorical data table</p>
          <p>Explanation note: more details in http://cyto.shinyapps.io/cerrado</p>
-         <p>
-Copyright notice: This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary material 5Figure S1. Total chromosome length for 
-<tp:taxon-name>Cerrado angiosperms</tp:taxon-name>
+         <p> Copyright notice: This dataset is made available under the Open Database License
+            (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a
+            license agreement intended to allow users to freely share, modify, and use this Dataset
+            while maintaining this same freedom for others, provided that the original source and
+            author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary
+            material 5Figure S1. Total chromosome length for <tp:taxon-name>Cerrado
+               angiosperms</tp:taxon-name>
          </p>
          <p>Data type: Histogram</p>
          <p>Explanation note: See text for details.</p>
-         <p>
-This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary material 6Figure S2. Total chromosome area for 
-<tp:taxon-name>Cerrado angiosperms</tp:taxon-name>
+         <p> This dataset is made available under the Open Database License
+            (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a
+            license agreement intended to allow users to freely share, modify, and use this Dataset
+            while maintaining this same freedom for others, provided that the original source and
+            author(s) are credited.Fernando Roa, Mariana Pires de Campos TellesSupplementary
+            material 6Figure S2. Total chromosome area for <tp:taxon-name>Cerrado
+               angiosperms</tp:taxon-name>
          </p>
          <p>Data type: Histogram</p>
          <p>Explanation note: See text for details.</p>

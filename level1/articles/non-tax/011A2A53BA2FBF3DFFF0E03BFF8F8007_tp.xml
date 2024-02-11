@@ -9,9 +9,12 @@
          <issn>N/A</issn>
       </journal-meta>
       <article-meta>
-         <article-id pub-id-type="doi">http://dx.doi.org/10.3897/natureconservation.30.27627</article-id>
+         <article-id pub-id-type="doi"
+            >http://dx.doi.org/10.3897/natureconservation.30.27627</article-id>
          <title-group>
-            <article-title>Assessing the potential distribution of invasive alien species Amorphafruticosa (Mill.) in the Mureş Floodplain Natural Park (Romania) using GIS and logistic regression</article-title>
+            <article-title>Assessing the potential distribution of invasive alien species
+               Amorphafruticosa (Mill.) in the Mureş Floodplain Natural Park (Romania) using GIS and
+               logistic regression</article-title>
          </title-group>
          <pub-date date-type="pub">
             <year>2018</year>
@@ -365,2266 +368,1003 @@
    <body>
       <sec sec-type="introduction">
          <title>N/A</title>
+         <p> Introduction </p>
+         <p> Invasive species are acknowledged as economic, environmental or social threats ( ; ; ),
+            becoming key components of global change ( ; ) through their high adaptive capacity
+            which enables them to penetrate natural geographic barriers or political boundaries ( ;
+            ; ; ). As a result, invasive species are characterised by remarkable spatio-temporal
+            dynamics, thus becoming successfully established and spread over extended areas in
+            Europe, triggering significant environmental and socio-economic damages ( ; ). It is
+            estimated that only 0.1% of the introduced species became invasive ( ). However, at
+            European level, in the last two centuries, an increasing number of species have become
+            capable of spreading on an annual average of 6.2 neophytes ( , ). In protected areas, in
+            particular, biological invasions are disturbing drivers for ecosystem functioning and
+            structure, as well as for species, species communities or habitats ( ). The site
+            features that have been associated with invasibility include both environmental and
+            anthropogenic factors such as disturbance ( ; ), proximity to roads ( ), soil nutrients,
+            topographic position and forest fragmentation ( ; , ). </p>
          <p>
-Introduction
-</p>
-         <p>
-Invasive species are acknowledged as economic, environmental or social threats (
-
-; 
-
-; 
-
-), becoming key components of global change (
-
-; 
-
-) through their high adaptive capacity which enables them to penetrate natural geographic barriers or political boundaries (
-
-; 
-
-; 
-
-; 
-
-). As a result, invasive species are characterised by remarkable spatio-temporal dynamics, thus becoming successfully established and spread over extended areas in Europe, triggering significant environmental and socio-economic damages (
-
-; 
-
-). It is estimated that only 0.1% of the introduced species became invasive (
-
-). However, at European level, in the last two centuries, an increasing number of species have become capable of spreading on an annual average of 6.2 neophytes (
-
-, 
-
-). In protected areas, in particular, biological invasions are disturbing drivers for ecosystem functioning and structure, as well as for species, species communities or habitats (
-
-). The site features that have been associated with invasibility include both environmental and anthropogenic factors such as disturbance (
-
-; 
-
-), proximity to roads (
-
-), soil nutrients, topographic position and forest fragmentation (
-
-; 
-
-, 
-
-).
-</p>
-         <p>
-            <tp:taxon-name>A. fruticosa</tp:taxon-name>
-is considered one of the most invasive species, native to the south-eastern part of North America, widely introduced in North Asia and Europe (
-
-). In Romania, the species has been cultivated prior to the nineteenth century (
-
-; 
-
-). Since 1975, it has become invasive and after 1985, it has spread over broader areas proving the high capacity for widening its habitat (
-
-). However, it became adapted to different types of habitats such as: river banks (poplar or willow galleries, almond willow-osier scrubs), unvegetated or sparsely vegetated shores, water-fringing reed-beds, riverine and lakeshore scrubs (
-
-), as well as mesophyle and xeromesophyle meadows in western Romania (
-
-). Recent studies consider that 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-is one of the worst invaders in wetland habitats (
-
-), a real competitor to native plant or riverine scrubs (
-
-) with high capacity to remove indigenous species (
-
-).
-</p>
-         <p>
-Recent interdisciplinary studies conducted in the framework of FP7 enviroGRIDS project - Building Capacity for a Black Sea Catchment Observation and Assessment supporting Sustainable Development (WP5 - Impacts on Selected Societal Benefit; Sub-task 5.6.2: Terrestrial Invasive Plant Species in Romanian Protected Areas) have identified and assessed 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-in the Danube Delta Biosphere Reserve, Comana and 
-Mures
-Floodplain
-Natural Parks in relation to species preference for different natural and human-induced conditions (
-Dumitrascu
-and Grigorescu 2016). Thus, large areas covered with 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-were spotted in wetlands, along forest roads, in arable lands, in the proximity of transport routes etc. (
-
-; 
-
-; 
-
-). In 2016, a first synthesis work, representing a geographical approach of the invasive terrestrial plant species in the Romanian protected areas, was elaborated. The volume includes various aspects connected with the 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-and its impact on the protected ecosystems, as well as relevant environmental and anthropogenic driving factors which influence its potential spread (
-Dumitrascu
-and Grigorescu 2016). As a result, a first methodology, aiming to assess the spatial potential distribution of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-in important wetland protected areas, was elaborated. Hence, based on the GIS spatial and statistical analysis, the frequency of the invasive species in relation to its natural and human-induced driving factors was calculated in order to identify different ecological requirements in various habitat types aimed at modelling the areas with different potential distribution (
-
-).
-</p>
-         <p>
-Limited resources are available for the control of these plants (
-
-). Given this constraint, the mapping and assessment of invasive 
-species'
-potential distribution can provide a useful tool for investigating its dynamics at different spatial scales. Thus, numerous studies use logistic regression to identify and quantify the strength of association between invasive plant presence and environmental and anthropogenic factors and to model their potential spread in new areas (e.g. 
-
-; 
-
-; 
-
-; 
-
-; 
-
-; 
-
-; 
-
-; 
-
-; 
-
-). In this respect, based on GIS spatial and statistical analysis, within the current research, two objectives have been achieved: (1) to identify which of the analysed explanatory driving factors better contribute to the explanation of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence and (2) to generate a probability map in order to identify the areas with different potential for 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-spreading in the 
-Mureș
-Floodplain Natural Park. The results of the current study might be useful for the administration of 
-Mureș
-Floodplain Natural Park in terms of directing the management efforts towards monitoring the areas at high risk of being affected by invasive species and as support for thorough future research at finer spatial scales.
-</p>
+            <tp:taxon-name>A. fruticosa</tp:taxon-name> is considered one of the most invasive
+            species, native to the south-eastern part of North America, widely introduced in North
+            Asia and Europe ( ). In Romania, the species has been cultivated prior to the nineteenth
+            century ( ; ). Since 1975, it has become invasive and after 1985, it has spread over
+            broader areas proving the high capacity for widening its habitat ( ). However, it became
+            adapted to different types of habitats such as: river banks (poplar or willow galleries,
+            almond willow-osier scrubs), unvegetated or sparsely vegetated shores, water-fringing
+            reed-beds, riverine and lakeshore scrubs ( ), as well as mesophyle and xeromesophyle
+            meadows in western Romania ( ). Recent studies consider that <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> is one of the worst invaders in wetland habitats ( ), a
+            real competitor to native plant or riverine scrubs ( ) with high capacity to remove
+            indigenous species ( ). </p>
+         <p> Recent interdisciplinary studies conducted in the framework of FP7 enviroGRIDS project
+            - Building Capacity for a Black Sea Catchment Observation and Assessment supporting
+            Sustainable Development (WP5 - Impacts on Selected Societal Benefit; Sub-task 5.6.2:
+            Terrestrial Invasive Plant Species in Romanian Protected Areas) have identified and
+            assessed <tp:taxon-name>A. fruticosa</tp:taxon-name> in the Danube Delta Biosphere
+            Reserve, Comana and Mures Floodplain Natural Parks in relation to species preference for
+            different natural and human-induced conditions ( Dumitrascu and Grigorescu 2016). Thus,
+            large areas covered with <tp:taxon-name>A. fruticosa</tp:taxon-name> were spotted in
+            wetlands, along forest roads, in arable lands, in the proximity of transport routes etc.
+            ( ; ; ). In 2016, a first synthesis work, representing a geographical approach of the
+            invasive terrestrial plant species in the Romanian protected areas, was elaborated. The
+            volume includes various aspects connected with the <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> and its impact on the protected ecosystems, as well as
+            relevant environmental and anthropogenic driving factors which influence its potential
+            spread ( Dumitrascu and Grigorescu 2016). As a result, a first methodology, aiming to
+            assess the spatial potential distribution of <tp:taxon-name>A. fruticosa</tp:taxon-name>
+            in important wetland protected areas, was elaborated. Hence, based on the GIS spatial
+            and statistical analysis, the frequency of the invasive species in relation to its
+            natural and human-induced driving factors was calculated in order to identify different
+            ecological requirements in various habitat types aimed at modelling the areas with
+            different potential distribution ( ). </p>
+         <p> Limited resources are available for the control of these plants ( ). Given this
+            constraint, the mapping and assessment of invasive species' potential distribution can
+            provide a useful tool for investigating its dynamics at different spatial scales. Thus,
+            numerous studies use logistic regression to identify and quantify the strength of
+            association between invasive plant presence and environmental and anthropogenic factors
+            and to model their potential spread in new areas (e.g. ; ; ; ; ; ; ; ; ). In this
+            respect, based on GIS spatial and statistical analysis, within the current research, two
+            objectives have been achieved: (1) to identify which of the analysed explanatory driving
+            factors better contribute to the explanation of <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence and (2) to generate a probability map in order
+            to identify the areas with different potential for <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> spreading in the Mureș Floodplain Natural Park. The results
+            of the current study might be useful for the administration of Mureș Floodplain Natural
+            Park in terms of directing the management efforts towards monitoring the areas at high
+            risk of being affected by invasive species and as support for thorough future research
+            at finer spatial scales. </p>
       </sec>
       <sec sec-type="materials|methods">
          <title>N/A</title>
          <p>Materials and methods</p>
          <p>The study-area</p>
-         <p>
-Mures
-Floodplain Natural Park is located in the western part of Romania (
-20°53'E
-; 
-46°07'N
-) in the Panonic biogeographic region (Fig. 1). The study-area covers 17,455 ha and overlaps the lower part of the 
-Mures
-River (tributary of Tisa River), occupying the embanked enclosure of the river between the city of Arad and the state border with Hungary (
-
-).
-</p>
-         <p>
-The
-Mures
-Floodplain Natural Park, established in 2004 through Government Decision no. 2151/2004, falls into V IUCN category - Protected Landscape (Natural Park) and Natura 2000 European Network, both SPA - Special Protection Areas and SCI - Site of Community Importance. Furthermore, since 2006, the area was included on the RAMSAR list as Wetlands of International Importance. The Park is a typical wet 
-land
-area with running and still waters, alluvial forests, as well as an important place for nesting and passage for a large number of bird species of international importance (
-
-), hosting specific wetland habitats and species of conservation interest within four nature reserves: Prundu Mare-Pecica, 
-Igris
-Isles, Insula Mare Cenad and Cenad Forest (
-
-).
-</p>
-         <p>
-Generally, the area is a floodplain with altitudes decreasing from about 110 m (in east) to about 80 m (in west). The climate is temperate-continental with oceanic humid influences (
-
-), with almost 10-11 °C mean annual air temperature and 500-600 mm mean annual precipitation (
-
-). Forests (in the eastern half) and agricultural land (mainly arable) represent the main land use/cover category of the Park.
-</p>
-         <p>
-According to the geographical distribution of habitats, the importance of the species and management, the Park is divided into three different zones: (1) the totally protected area (6%) which includes the most valuable natural elements, (2) the sustainable management area (92%), also called the buffer zone, which makes the transition between the totally protected area and (3) the sustainable development area (2%) which includes built-up areas or natural resources exploitation sites that existed prior to the designation of the protected area. Within the totally protected area, any form of use of natural resources, construction or investments which do not meet the sustainable management of the protected natural area and/or scientific research activities is forbidden. In the buffer zone, it is prohibited to build new constructions, except for those that strictly serve the protected natural area, the scientific research activities or those meant to ensure national safety or the prevention of natural disasters. Investments or development activities are accepted in the sustainable development area, priority being given to tourism, albeit respecting the sustainable use of natural resources and the prevention of any significant negative effects on biodiversity (
-
-).
-</p>
+         <p> Mures Floodplain Natural Park is located in the western part of Romania ( 20°53'E ;
+            46°07'N ) in the Panonic biogeographic region (Fig. 1). The study-area covers 17,455 ha
+            and overlaps the lower part of the Mures River (tributary of Tisa River), occupying the
+            embanked enclosure of the river between the city of Arad and the state border with
+            Hungary ( ). </p>
+         <p> The Mures Floodplain Natural Park, established in 2004 through Government Decision no.
+            2151/2004, falls into V IUCN category - Protected Landscape (Natural Park) and Natura
+            2000 European Network, both SPA - Special Protection Areas and SCI - Site of Community
+            Importance. Furthermore, since 2006, the area was included on the RAMSAR list as
+            Wetlands of International Importance. The Park is a typical wet land area with running
+            and still waters, alluvial forests, as well as an important place for nesting and
+            passage for a large number of bird species of international importance ( ), hosting
+            specific wetland habitats and species of conservation interest within four nature
+            reserves: Prundu Mare-Pecica, Igris Isles, Insula Mare Cenad and Cenad Forest ( ). </p>
+         <p> Generally, the area is a floodplain with altitudes decreasing from about 110 m (in
+            east) to about 80 m (in west). The climate is temperate-continental with oceanic humid
+            influences ( ), with almost 10-11 °C mean annual air temperature and 500-600 mm mean
+            annual precipitation ( ). Forests (in the eastern half) and agricultural land (mainly
+            arable) represent the main land use/cover category of the Park. </p>
+         <p> According to the geographical distribution of habitats, the importance of the species
+            and management, the Park is divided into three different zones: (1) the totally
+            protected area (6%) which includes the most valuable natural elements, (2) the
+            sustainable management area (92%), also called the buffer zone, which makes the
+            transition between the totally protected area and (3) the sustainable development area
+            (2%) which includes built-up areas or natural resources exploitation sites that existed
+            prior to the designation of the protected area. Within the totally protected area, any
+            form of use of natural resources, construction or investments which do not meet the
+            sustainable management of the protected natural area and/or scientific research
+            activities is forbidden. In the buffer zone, it is prohibited to build new
+            constructions, except for those that strictly serve the protected natural area, the
+            scientific research activities or those meant to ensure national safety or the
+            prevention of natural disasters. Investments or development activities are accepted in
+            the sustainable development area, priority being given to tourism, albeit respecting the
+            sustainable use of natural resources and the prevention of any significant negative
+            effects on biodiversity ( ). </p>
          <p>Methodology</p>
-         <p>
-The current study aims to explain the relationships between 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence and its explanatory driving forces, on one hand and to model the probability of the potential distribution using spatial analysis and binary logistic regression (BLR), on the other. The methodology, used in the present study, includes three main stages: the extraction of the geospatial datasets, the spatial analysis using GIS and the statistical analysis using SPSS (Statistical Package for the Social Sciences) software package. Synthetically, Figure 2 describes the methodology applied to calibrate, simulate and validate the model in order to assess the potential distribution of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-in 
-Mures
-Floodplain Natural Park.
-</p>
+         <p> The current study aims to explain the relationships between <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence and its explanatory driving forces, on one hand
+            and to model the probability of the potential distribution using spatial analysis and
+            binary logistic regression (BLR), on the other. The methodology, used in the present
+            study, includes three main stages: the extraction of the geospatial datasets, the
+            spatial analysis using GIS and the statistical analysis using SPSS (Statistical Package
+            for the Social Sciences) software package. Synthetically, Figure 2 describes the
+            methodology applied to calibrate, simulate and validate the model in order to assess the
+            potential distribution of <tp:taxon-name>A. fruticosa</tp:taxon-name> in Mures
+            Floodplain Natural Park. </p>
          <p>Data and data processing</p>
-         <p>
-Based on field research findings, as well as on data availability, eight spatial datasets representing the dependent and the independent variables (Fig. 3) were employed to model 
-the
-probability of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-'s potential distribution: 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-presence/absence (AF), soil type (ST), depth to water (DW), proximity to water (PW), Normalised Difference Vegetation Index (NDVI), proximity to near roads (PR), forest fragmentation (FF) and proximity to near settlements (PS). Due to the relative homogenous topographical char 
-acteristics
-with rather insignificant altitudinal difference (about 30 m), as well as to its longitudinal and latitudinal low extension (00°47' and 00°07', respectively), the explanatory factors related to climate and relief were not considered. Moreover, the scale of the study area, coupled with the particular local environmental features, makes this research a valuable local-scale approach, allowing a better understanding of the environmental issues and an increased potential for being included into the decision-making process. Thus, we consider that such an approach can be replicated to other geographical areas with similar environmental conditions or extrapolated from local to regional scales.
-</p>
-         <p>
-Dependent variable: 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence
-</p>
-         <p>
-The layer of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-presence/absence in the 
-Mures
-Floodplain Natural Park was derived from the data collected during the field surveys which were carried out between 2012 and 2016. The mapping was realised using topographic maps (1:25000 scale) and, for more accuracy, using orthophoto images (scale 1:5000) and GPS measurements. The species was identified in various habitat types where field 
-releves
-with over 20% coverage (according to Braun - Blanquet scale) and frequency (according to Raunkiaer scale) were taken into consideration (
-
-). Thus, the total mapped area covers a surface of 363 ha, including polygons with different coverage of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-.
-</p>
-         <p>
-With respect to the dataset used to model the probability map, a binary raster with the categories 
-"presence"
-(coded with 1) and 
-"absence"
-(coded with 0) was generated (Fig. 3), in order to discriminate the cells with 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence from the non-occurrence.
-</p>
+         <p> Based on field research findings, as well as on data availability, eight spatial
+            datasets representing the dependent and the independent variables (Fig. 3) were employed
+            to model the probability of <tp:taxon-name>A. fruticosa</tp:taxon-name> 's potential
+            distribution: <tp:taxon-name>A. fruticosa</tp:taxon-name> presence/absence (AF), soil
+            type (ST), depth to water (DW), proximity to water (PW), Normalised Difference
+            Vegetation Index (NDVI), proximity to near roads (PR), forest fragmentation (FF) and
+            proximity to near settlements (PS). Due to the relative homogenous topographical char
+            acteristics with rather insignificant altitudinal difference (about 30 m), as well as to
+            its longitudinal and latitudinal low extension (00°47' and 00°07', respectively), the
+            explanatory factors related to climate and relief were not considered. Moreover, the
+            scale of the study area, coupled with the particular local environmental features, makes
+            this research a valuable local-scale approach, allowing a better understanding of the
+            environmental issues and an increased potential for being included into the
+            decision-making process. Thus, we consider that such an approach can be replicated to
+            other geographical areas with similar environmental conditions or extrapolated from
+            local to regional scales. </p>
+         <p> Dependent variable: <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence </p>
+         <p> The layer of <tp:taxon-name>A. fruticosa</tp:taxon-name> presence/absence in the Mures
+            Floodplain Natural Park was derived from the data collected during the field surveys
+            which were carried out between 2012 and 2016. The mapping was realised using topographic
+            maps (1:25000 scale) and, for more accuracy, using orthophoto images (scale 1:5000) and
+            GPS measurements. The species was identified in various habitat types where field
+            releves with over 20% coverage (according to Braun - Blanquet scale) and frequency
+            (according to Raunkiaer scale) were taken into consideration ( ). Thus, the total mapped
+            area covers a surface of 363 ha, including polygons with different coverage of
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> . </p>
+         <p> With respect to the dataset used to model the probability map, a binary raster with the
+            categories "presence" (coded with 1) and "absence" (coded with 0) was generated (Fig.
+            3), in order to discriminate the cells with <tp:taxon-name>A. fruticosa</tp:taxon-name>
+            occurrence from the non-occurrence. </p>
          <p>Explanatory factors</p>
-         <p>After processing different maps (topographic, soil and hydrogeological) and orthophoto images, six thematic layers were extracted and analysed: soil characteristics, piezometric level, surface waters, forests, built-up areas and roads from where soil type, depth to water, forest fragmentation, distance to roads, distance to waters and distance to settlements were derived.</p>
-         <p>
-In order to assess the occurrence of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-within the dominant vegetation cover, the NDVI(Normalised Difference Vegetation Index) was used. This index was calculated using the Landsat 8 OLI_TIRS (Operational Land Imager_Thermal Infrared Sensor, accessed July 18, 2017) acquired from the United States Geological Survey - USGS (portal available at http://www.usgs.gov/). This index, developed by Rouse et al. in 1974 and widely used for the remote sensing of vegetation, is a measure of surface reflectance and gives a quantitative estimation of vegetation growth and biomass (
-
-). The NDVI values were obtained by employing the following formula:
-</p>
+         <p>After processing different maps (topographic, soil and hydrogeological) and orthophoto
+            images, six thematic layers were extracted and analysed: soil characteristics,
+            piezometric level, surface waters, forests, built-up areas and roads from where soil
+            type, depth to water, forest fragmentation, distance to roads, distance to waters and
+            distance to settlements were derived.</p>
+         <p> In order to assess the occurrence of <tp:taxon-name>A. fruticosa</tp:taxon-name> within
+            the dominant vegetation cover, the NDVI(Normalised Difference Vegetation Index) was
+            used. This index was calculated using the Landsat 8 OLI_TIRS (Operational Land
+            Imager_Thermal Infrared Sensor, accessed July 18, 2017) acquired from the United States
+            Geological Survey - USGS (portal available at http://www.usgs.gov/). This index,
+            developed by Rouse et al. in 1974 and widely used for the remote sensing of vegetation,
+            is a measure of surface reflectance and gives a quantitative estimation of vegetation
+            growth and biomass ( ). The NDVI values were obtained by employing the following
+            formula: </p>
          <p>, (Eq.1)</p>
-         <p>where NIR = reflectance in the near infrared band; RED = reflectance in the red (visible) band.</p>
-         <p>
-The
-resultant NDVI values ranged between -0.245 and 0.714. After the visual interpretation of orthophoto images, the NDVI values were considered as representing: no vegetation areas (aquatic surface, bare soils, built-up areas, recent riverbed deposits) (NDVI &lt;0); agricultural crops (NDVI = 0
-...
-0.25); herbaceous vegetation (NDVI = 0.25
-...
-0.4); transitional woodland-scrub (0.40
-...
-0.55); forest vegetation (NDVI&gt;0.55).
-</p>
-         <p>
-Total
-edge (TE), calculated as the sum of the lengths (m) of all edge segments in a class or landscape (
-
-) was used to quantify the forest fragmentation. In this case, the TE was calculated just for the forested class, in a 25 ha window size, using Patch Analyst (
-
-), a GIS tool developed to analyse spatial landscape patches and model the attributes associated with patches, according to numerous statistical metrics. The resultant values were categorised in: slightly fragmented forests (TE &lt;2000 m); moderate fragmented forests (TE = 2000
-...
-5000 m); highly fragmented forests (TE&gt;5000 m). Moreover, based on the Euclidean multiple ring buffers, maps depicting the distance to roads (buffer = 0.1 km), waters (buffer = 0.5 km) and settlements (buffer = 0.5 km) were created. Twenty-one binary rasters were generated to distinguish the ten soil type classes, three piezometric levels, three forest fragmentation classes and five NDVI classes. Finally, twenty-four categorical and continuous independent variables were prepared and homogenised as raster with 30
-x
-30 m cell (equivalent to the spatial resolution of the Landsat image used to derive NDVI) for further spatial and statistical analyses (Table 1). For these variables, several assumptions related to location suitability were presumed in order to explore the relationship between the invasive species and its explanatory factors.
-</p>
-         <p>
-</p>
+         <p>where NIR = reflectance in the near infrared band; RED = reflectance in the red
+            (visible) band.</p>
+         <p> The resultant NDVI values ranged between -0.245 and 0.714. After the visual
+            interpretation of orthophoto images, the NDVI values were considered as representing: no
+            vegetation areas (aquatic surface, bare soils, built-up areas, recent riverbed deposits)
+            (NDVI &lt;0); agricultural crops (NDVI = 0 ... 0.25); herbaceous vegetation (NDVI = 0.25
+            ... 0.4); transitional woodland-scrub (0.40 ... 0.55); forest vegetation (NDVI&gt;0.55). </p>
+         <p> Total edge (TE), calculated as the sum of the lengths (m) of all edge segments in a
+            class or landscape ( ) was used to quantify the forest fragmentation. In this case, the
+            TE was calculated just for the forested class, in a 25 ha window size, using Patch
+            Analyst ( ), a GIS tool developed to analyse spatial landscape patches and model the
+            attributes associated with patches, according to numerous statistical metrics. The
+            resultant values were categorised in: slightly fragmented forests (TE &lt;2000 m);
+            moderate fragmented forests (TE = 2000 ... 5000 m); highly fragmented forests
+            (TE&gt;5000 m). Moreover, based on the Euclidean multiple ring buffers, maps depicting
+            the distance to roads (buffer = 0.1 km), waters (buffer = 0.5 km) and settlements
+            (buffer = 0.5 km) were created. Twenty-one binary rasters were generated to distinguish
+            the ten soil type classes, three piezometric levels, three forest fragmentation classes
+            and five NDVI classes. Finally, twenty-four categorical and continuous independent
+            variables were prepared and homogenised as raster with 30 x 30 m cell (equivalent to the
+            spatial resolution of the Landsat image used to derive NDVI) for further spatial and
+            statistical analyses (Table 1). For these variables, several assumptions related to
+            location suitability were presumed in order to explore the relationship between the
+            invasive species and its explanatory factors. </p>
+         <p> </p>
          <p>Statistical analysis</p>
-         <p>
-In the present study, to assess the relationships of the site characteristics and 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-presence/absence, BLR was applied. This method is the most commonly used parametric model aimed at determining the empirical relationships between a dependent and several independent variables (
-
-), where the dependent variable is a binary presence (1) or absence event (0) and the independent variables are categorical and/or continuous variables. If binary values 1 and 0 are used to represent 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence and no occurrence, respectively, the probability of the presence of the species for any specific grid cell was calculated using the logistic curve as described by the logistic function (
-
-):
-</p>
+         <p> In the present study, to assess the relationships of the site characteristics and
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> presence/absence, BLR was applied. This
+            method is the most commonly used parametric model aimed at determining the empirical
+            relationships between a dependent and several independent variables ( ), where the
+            dependent variable is a binary presence (1) or absence event (0) and the independent
+            variables are categorical and/or continuous variables. If binary values 1 and 0 are used
+            to represent <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence and no occurrence,
+            respectively, the probability of the presence of the species for any specific grid cell
+            was calculated using the logistic curve as described by the logistic function ( ): </p>
          <p>, (Eq.2)</p>
-         <p>then the probability of occurrence can be estimated with the following logistic regression model:</p>
+         <p>then the probability of occurrence can be estimated with the following logistic
+            regression model:</p>
          <p>, (Eq.3)</p>
-         <p>
-where P(Y =1|X1, X2, ..., Xi) is the probability of the dependent variable Y being 1 given (X1, X2, ..., Xi), i.e. the probability of a cell of being invaded by invasive species; Xi is an independent variable representing the explanatory factors of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-and 
-βi
-is the coefficient for variable Xi.
-</p>
-         <p>
-The
-response of these regression functions is visualised into the raster probability map based on the location suitability, given the probability of the occurrence of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-in each resultant raster cell.
-</p>
-         <p>
-In order to reduce the effects of multi-collinearity, before the logistic regression analysis, Pearson correlations between each pair of independent variables were conducted and examined. In case of strong correlations (min. 
-+/-
-0.7), the better predictor variable (in univariate trials) was retained. Furthermore, to verify the explanatory power of the variables included in the sub-model, the 
-Cramer's
-V statistics tool was used. 
-Cramer's
-V is a statistic that transforms chi-square (for a contingency table larger than two rows by two columns) to a range of 0-1, where unit value indicates complete agreement between the two nominal variables (
-
-). The test procedure is based on contingency table analysis which can test the strength of the association between the dependent variable and both continuous and categorical independent variables.
-</p>
+         <p> where P(Y =1|X1, X2, ..., Xi) is the probability of the dependent variable Y being 1
+            given (X1, X2, ..., Xi), i.e. the probability of a cell of being invaded by invasive
+            species; Xi is an independent variable representing the explanatory factors of
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> and βi is the coefficient for variable
+            Xi. </p>
+         <p> The response of these regression functions is visualised into the raster probability
+            map based on the location suitability, given the probability of the occurrence of
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> in each resultant raster cell. </p>
+         <p> In order to reduce the effects of multi-collinearity, before the logistic regression
+            analysis, Pearson correlations between each pair of independent variables were conducted
+            and examined. In case of strong correlations (min. +/- 0.7), the better predictor
+            variable (in univariate trials) was retained. Furthermore, to verify the explanatory
+            power of the variables included in the sub-model, the Cramer's V statistics tool was
+            used. Cramer's V is a statistic that transforms chi-square (for a contingency table
+            larger than two rows by two columns) to a range of 0-1, where unit value indicates
+            complete agreement between the two nominal variables ( ). The test procedure is based on
+            contingency table analysis which can test the strength of the association between the
+            dependent variable and both continuous and categorical independent variables. </p>
          <p>Model calibration and assessment of potential distribution</p>
-         <p>
-The BLR was performed using the backward stepwise method in SPSS in order to obtain the best-fit combination for predictors. Thus, the variables, which collectively best explain 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence, were adopted by the regression model. To indicate the effectiveness of the each sets, a Nagelkerke pseudo R square (
-
-) was determined. Furthermore, ROC/AUC (Relative Operating Characteristic/Area Under Curve) was used to test the "goodness of fit" (
-
-). In the standard ROC approach, the predictive probability map is compared with the map of the true binary event in order to assess the spatial coincidence between the event and the probability values (
-
-). This graph displays the predictive accuracy of the logistic model, which can be evaluated using the area under the ROC curve (AUC). A completely random model gives a ROC value of 0.5, while a perfect fit results in a ROC value of 1.0. For the best-fit combination for resultant predictors, the maximum likelihood estimator (
-
-) was determined. In the BLR, the model is considered to fit if the value of the Hosmer-Lemeshow test shows a value higher than p-value (0.05).
-</p>
-         <p>
-Based on the corresponding coefficients of the best 
-ﬁt
-predictor set, the relative contribution of the explanatory variables of the 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence was assessed and the potential distribution probability map was generated. To categorise the resultant map, five classes were used to classify the probability values: very high, high, medium, low and very low probability. The classification was performed by Natural breaks (Jenks), a method that seeks to reduce the variance within classes and to maximise the variance between classes (
-
-), commonly used in GIS techniques for grouping spatial values that are not evenly distributed.
-</p>
-         <p>
-Spatial
-validation
-</p>
-         <p>
-Usually, in the analysis and modelling of spatial data, real datasets are used to validate the performance using different techniques. A typical procedure is splitting data into two parts (
-
-): training set (used to develop the model) and validation set (used to estimate the ability of the model). The proportions of data included in each dataset are somewhat arbitrary and dependent on the total mapped area available, 70% for calibration and 30% for validation being commonly used (
-
-). According to the available datasets representing 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence (mapped) and to build the model with a significant percent for the training set, in the present study a 70%/30% training/validation split was considered. Furthermore, to eliminate sampling biases and associated subjectivism, the random-partition was used to extract the data for validation. Then, based on the 
-cross-classiﬁcation
-technique, the analysis between validation dataset and probability map was achieved and the frequency of the 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence was identified and quantified for each probability class.
-</p>
+         <p> The BLR was performed using the backward stepwise method in SPSS in order to obtain the
+            best-fit combination for predictors. Thus, the variables, which collectively best
+            explain <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence, were adopted by the
+            regression model. To indicate the effectiveness of the each sets, a Nagelkerke pseudo R
+            square ( ) was determined. Furthermore, ROC/AUC (Relative Operating Characteristic/Area
+            Under Curve) was used to test the "goodness of fit" ( ). In the standard ROC approach,
+            the predictive probability map is compared with the map of the true binary event in
+            order to assess the spatial coincidence between the event and the probability values (
+            ). This graph displays the predictive accuracy of the logistic model, which can be
+            evaluated using the area under the ROC curve (AUC). A completely random model gives a
+            ROC value of 0.5, while a perfect fit results in a ROC value of 1.0. For the best-fit
+            combination for resultant predictors, the maximum likelihood estimator ( ) was
+            determined. In the BLR, the model is considered to fit if the value of the
+            Hosmer-Lemeshow test shows a value higher than p-value (0.05). </p>
+         <p> Based on the corresponding coefficients of the best ﬁt predictor set, the relative
+            contribution of the explanatory variables of the <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence was assessed and the potential distribution
+            probability map was generated. To categorise the resultant map, five classes were used
+            to classify the probability values: very high, high, medium, low and very low
+            probability. The classification was performed by Natural breaks (Jenks), a method that
+            seeks to reduce the variance within classes and to maximise the variance between classes
+            ( ), commonly used in GIS techniques for grouping spatial values that are not evenly
+            distributed. </p>
+         <p> Spatial validation </p>
+         <p> Usually, in the analysis and modelling of spatial data, real datasets are used to
+            validate the performance using different techniques. A typical procedure is splitting
+            data into two parts ( ): training set (used to develop the model) and validation set
+            (used to estimate the ability of the model). The proportions of data included in each
+            dataset are somewhat arbitrary and dependent on the total mapped area available, 70% for
+            calibration and 30% for validation being commonly used ( ). According to the available
+            datasets representing <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence (mapped)
+            and to build the model with a significant percent for the training set, in the present
+            study a 70%/30% training/validation split was considered. Furthermore, to eliminate
+            sampling biases and associated subjectivism, the random-partition was used to extract
+            the data for validation. Then, based on the cross-classiﬁcation technique, the analysis
+            between validation dataset and probability map was achieved and the frequency of the
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence was identified and quantified
+            for each probability class. </p>
       </sec>
       <sec sec-type="results">
          <title>N/A</title>
          <p>Results</p>
-         <p>
-The occurrence of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-in relation to the analysed explanatory variables
-</p>
-         <p>
-In terms of the analysed explanatory factors, 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-distribution across the park has a relative spatial heterogeneity. The frequency analysis (Fig. 4) shows that 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurs in various conditions but with differences mainly according to the soil type, vegetation cover and distance to roads. In relation to soil type, 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-overlaps largely protisols and fluvisols (92% of the total mapped area). Similar to the soil particularities, the roads appear to have the most important role in facilitating the establishment of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-. In detail, the frequency of species related to distance to nearest roads, calculated for 0.1 km buffer rings, shows that 68% of the mapped area is identified in the first 0.1 km and 91% in the first 0.2 km. In relation to the depth to water, the most significant areas with 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-(58%) were mapped in the high floodplain, the sand banks and floodplain terraces where the aquifer level is situated at 2.0-5.0 m depth. In relation to the forest fragmentation, 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-was mainly found (69%) in the moderate fragmented forests (TE = 2000-5000 m/25 ha). Related to NDVI values, the large occurrence of A. fruticoasa (46%) is mainly related to values ranging between 0.40 and 0.55, thus indicating a preference of the invasive species for transitional woodland-scrub. Furthermore, the notable occurrence (25%), in relation to the highest NDVI values (&gt;0.55) and 17% in relation to the medium positive NDVI values (0.25-0.40), indicate also a preference for forest vegetation and grasslands. In relation to the 
-water's
-vicinity, 55% of the total mapped areas with 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-are situated close to the 
-Mureș
-River, within the first 0.5 km buffer ring. The 
-frequency
-distribution of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-indicates also an increasing occurrence in relation to the distance to settlements. Thus, 43% of the total mapped areas are distributed in the first 1 km and 73% in the first 2 km buffer rings.
-</p>
+         <p> The occurrence of <tp:taxon-name>A. fruticosa</tp:taxon-name> in relation to the
+            analysed explanatory variables </p>
+         <p> In terms of the analysed explanatory factors, <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> distribution across the park has a relative spatial
+            heterogeneity. The frequency analysis (Fig. 4) shows that <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurs in various conditions but with differences mainly
+            according to the soil type, vegetation cover and distance to roads. In relation to soil
+            type, <tp:taxon-name>A. fruticosa</tp:taxon-name> overlaps largely protisols and
+            fluvisols (92% of the total mapped area). Similar to the soil particularities, the roads
+            appear to have the most important role in facilitating the establishment of
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> . In detail, the frequency of species
+            related to distance to nearest roads, calculated for 0.1 km buffer rings, shows that 68%
+            of the mapped area is identified in the first 0.1 km and 91% in the first 0.2 km. In
+            relation to the depth to water, the most significant areas with <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> (58%) were mapped in the high floodplain, the sand banks
+            and floodplain terraces where the aquifer level is situated at 2.0-5.0 m depth. In
+            relation to the forest fragmentation, <tp:taxon-name>A. fruticosa</tp:taxon-name> was
+            mainly found (69%) in the moderate fragmented forests (TE = 2000-5000 m/25 ha). Related
+            to NDVI values, the large occurrence of A. fruticoasa (46%) is mainly related to values
+            ranging between 0.40 and 0.55, thus indicating a preference of the invasive species for
+            transitional woodland-scrub. Furthermore, the notable occurrence (25%), in relation to
+            the highest NDVI values (&gt;0.55) and 17% in relation to the medium positive NDVI
+            values (0.25-0.40), indicate also a preference for forest vegetation and grasslands. In
+            relation to the water's vicinity, 55% of the total mapped areas with <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> are situated close to the Mureș River, within the first 0.5
+            km buffer ring. The frequency distribution of <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> indicates also an increasing occurrence in relation to the
+            distance to settlements. Thus, 43% of the total mapped areas are distributed in the
+            first 1 km and 73% in the first 2 km buffer rings. </p>
          <p>Correlation analysis amongst the explanatory variables</p>
-         <p>
-The Pearson correlation analysis between the independent variables showed that the variables were not highly inter-correlated (max. 
-+/-
-0.30), which suggests the absence of multi-collinearity. The highest values were found between NDVI (&gt;0.55) and slightly fragmented forests (0.298), depth to water (&lt;2 m) and protisols (0.255). The lowest 
-coefﬁcients
-(0.001) were found between slightly fragmented forests and chernozems soil type, moderate fragmented forests and depth to water (&gt;5 m), NDVI (0-0.25) and lacovishte soil type.
-</p>
-         <p>
-Association between dependent variable and explanatory variables using 
-Cramer's
-V test
-</p>
-         <p>
-The explanatory power of the 
-independents'
-variables was tested based on the 
-Cramer's
-V statistics. According to this method, the analysed explanatory factors were not strongly associated with 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence. Overall, continuous and few categorical variables were found to have better association with 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence with 
-Cramer's
-V values between 1.5 and 2.3: proximity to roads (V = 0.224), proximity to settlements (V = 0.221), proximity to waters (V = 0.193), piezometric level &lt;2 m (V = 0.151), moderate forest fragmentation (V = 0.161) and NDVI values between 0 and 0.25 (V = 0.152). Furthermore, except for erodisols (V = 0.143), protisols (V = 0.122), fluvisols (V = 0.113), piezometric level between 2 and 5 m (V = 0.114), 
-highly
-fragmented forests (V = 0.105) and NDVI values between 0.25 and 0.40 (V = 0.11), remaining variables have values less than 0.1, indicating a weakly association with the 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence.
-</p>
+         <p> The Pearson correlation analysis between the independent variables showed that the
+            variables were not highly inter-correlated (max. +/- 0.30), which suggests the absence
+            of multi-collinearity. The highest values were found between NDVI (&gt;0.55) and
+            slightly fragmented forests (0.298), depth to water (&lt;2 m) and protisols (0.255). The
+            lowest coefﬁcients (0.001) were found between slightly fragmented forests and chernozems
+            soil type, moderate fragmented forests and depth to water (&gt;5 m), NDVI (0-0.25) and
+            lacovishte soil type. </p>
+         <p> Association between dependent variable and explanatory variables using Cramer's V test </p>
+         <p> The explanatory power of the independents' variables was tested based on the Cramer's V
+            statistics. According to this method, the analysed explanatory factors were not strongly
+            associated with <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence. Overall,
+            continuous and few categorical variables were found to have better association with
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence with Cramer's V values between
+            1.5 and 2.3: proximity to roads (V = 0.224), proximity to settlements (V = 0.221),
+            proximity to waters (V = 0.193), piezometric level &lt;2 m (V = 0.151), moderate forest
+            fragmentation (V = 0.161) and NDVI values between 0 and 0.25 (V = 0.152). Furthermore,
+            except for erodisols (V = 0.143), protisols (V = 0.122), fluvisols (V = 0.113),
+            piezometric level between 2 and 5 m (V = 0.114), highly fragmented forests (V = 0.105)
+            and NDVI values between 0.25 and 0.40 (V = 0.11), remaining variables have values less
+            than 0.1, indicating a weakly association with the <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence. </p>
          <p>Logistic regression modelling</p>
-         <p>
-Setting the backward stepwise in the BLR, eight steps for the best predictor sets resulted (Table 2). Variables that were not statistically 
-signiﬁcant
-, associated with 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence within the 95% 
-conﬁdence
-interval, were 
-identiﬁed
-and automatically excluded by the model. Thus, the best-fit combination for predictors was found in step eight, which includes seventeen explanatory factors (Table 3).
-</p>
-         <p>
-</p>
-         <p>
-</p>
-         <p>
-For set-8, the regression "goodness of fit" measured by the Nagelkerke R2 is -0.243 which, according to 
-
-, indicates that the model is a good 
-ﬁt
-for the data. Therewith, 
-
-also stated that pseudo R2 value between 0.2 and 0.4 can be considered as an extremely good 
-ﬁt
-. The predictor set-8 also attained the highest accuracy (AUC=0.798) showing a prediction ability of 79.8% of the model. Furthermore, the Hosmer-Lemeshow significance test resulted in Chi-square = 13.39 and p = 0.063 (&gt;0.05), indicating a good fit of the model.
-</p>
-         <p>
-The relative contribution of the explanatory factors was evaluated using the corresponding 
-coefﬁcients
-in the BLR (Table 3). Based on the 
-coefﬁcients'
-values, all the explanatory variables were ranked. Thus, amongst all variables, erodisols, protisols and luvisols were found as the most 
-signiﬁcant
-predictors for 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence in the study area. All values of OR are greater than one, indicating a higher probability of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence in those areas comparing to other soil type classes. The probability of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence in areas with erodisols is larger than the probability in areas covered with protisols. The areas with protisols present more suitability for 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence than areas with luvisols. This can be seen from the odds ratio values of 18.59, 8.17 and 6.96 in a decreasing order for erodisols, protisols and luvisols, respectively.
-</p>
-         <p>
-The regression model showed a positive relationship between 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence and depth to water for piezometric level less than 2 m and between 2 and 5 m and negative relation with respect to a piezometric level higher than 5 m. This means that, with the increase in depth to water, the 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence decreases due to less connectivity to groundwater. This can be seen in the odds ratio values (4.89, 2.38 and 0.35) in a decreasing order for the piezometric level. Furthermore, the positive values of 
-β
-and OR show that 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-tends to spread in moderate and mainly highly fragmented forests. However, the positive values of 
-β
-(0.19) and the value of OR greater than one (1.21) for slightly fragmented forests also demonstrate that the species can spread in rather compacted afforested areas.
-</p>
-         <p>
-The model also demonstrates that 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-is in relation to vegetation cover, the positive 
-β
-coefficients and OR values for NDVI values&gt;0.25 showing the tendency of species to spread in areas with grasslands, transitional woodland-scrub and afforested areas. The estimated 
-β
-value (-0.694) and OR (0.50) for the proximity to roads indicates that the probability of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence further away from roads is less expected. 
-Speciﬁcally
-, the probability of species occurrence would decrease 2 times if distance to roads increases by 0.1 km. The model demonstrates that 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence is not significantly controlled by the proximity to settlements, however the negative value of 
-β
-(-0.16) indicates that, with the increase in distance to settlements, the probability of this invasive terrestrial species to occur decreases. Thus, the odds of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence in an area 0.5 km closer to settlements is estimated to be 1.17 as large as that in areas further away from settlements.
-</p>
-         <p>
-The regression results for proximity to waters (β = 0.006; OR = 1.006) revealed that they have no significant influence on 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence.
-</p>
-         <p>
-The
-probability map of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence
-</p>
-         <p>
-The probability of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence was assessed by plugging the 
-β
-coefficients of the logistic regression model containing the 17 
-signiﬁcant
-predictors (Table 3) into Eq. (3). Thus, the probability map (Fig. 5) indicated that 24.9% of the grid cells have high and very high suitability for 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence, largely in the eastern half of the Park, close to Felnac, Pecica and Semlac localities. Here, the suitability is mainly characterised by the favourable soil type, the presence of numerous agricultural and forestry roads and the large extension of the pastures and transitional woodland-scrub vegetation. On the other hand, the lowest probability values are in the western (near Cenad locality), north-eastern and southern parts of the protected area (near Arad and Secusigiu localities) where the unsuitable soil type classes and piezometric level ranking between 2 and 5 m or arable lands and compacted forests are predominant.
-</p>
-         <p>
-In order to conduct the spatial validation of the model, the map of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence probability, computed using the logistic regression model, was compared with the actual 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence (reference datasets used for validation). Thus, the 
-cross-classiﬁcation
-map reveals a relatively good spatial fit between the observed data and the predicted data (Fig. 6). Both very high and high probability classes include 69.9% of total cells, representing the real 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-location used as the validation dataset. Furthermore, only 10% of the total pixels, representing the real 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-used as the validation dataset, overlap the very low and low probability classes.
-</p>
+         <p> Setting the backward stepwise in the BLR, eight steps for the best predictor sets
+            resulted (Table 2). Variables that were not statistically signiﬁcant , associated with
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence within the 95% conﬁdence
+            interval, were identiﬁed and automatically excluded by the model. Thus, the best-fit
+            combination for predictors was found in step eight, which includes seventeen explanatory
+            factors (Table 3). </p>
+         <p> </p>
+         <p> </p>
+         <p> For set-8, the regression "goodness of fit" measured by the Nagelkerke R2 is -0.243
+            which, according to , indicates that the model is a good ﬁt for the data. Therewith,
+            also stated that pseudo R2 value between 0.2 and 0.4 can be considered as an extremely
+            good ﬁt . The predictor set-8 also attained the highest accuracy (AUC=0.798) showing a
+            prediction ability of 79.8% of the model. Furthermore, the Hosmer-Lemeshow significance
+            test resulted in Chi-square = 13.39 and p = 0.063 (&gt;0.05), indicating a good fit of
+            the model. </p>
+         <p> The relative contribution of the explanatory factors was evaluated using the
+            corresponding coefﬁcients in the BLR (Table 3). Based on the coefﬁcients' values, all
+            the explanatory variables were ranked. Thus, amongst all variables, erodisols, protisols
+            and luvisols were found as the most signiﬁcant predictors for <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence in the study area. All values of OR are greater
+            than one, indicating a higher probability of <tp:taxon-name>A. fruticosa</tp:taxon-name>
+            occurrence in those areas comparing to other soil type classes. The probability of
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence in areas with erodisols is
+            larger than the probability in areas covered with protisols. The areas with protisols
+            present more suitability for <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence than
+            areas with luvisols. This can be seen from the odds ratio values of 18.59, 8.17 and 6.96
+            in a decreasing order for erodisols, protisols and luvisols, respectively. </p>
+         <p> The regression model showed a positive relationship between <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence and depth to water for piezometric level less
+            than 2 m and between 2 and 5 m and negative relation with respect to a piezometric level
+            higher than 5 m. This means that, with the increase in depth to water, the
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence decreases due to less
+            connectivity to groundwater. This can be seen in the odds ratio values (4.89, 2.38 and
+            0.35) in a decreasing order for the piezometric level. Furthermore, the positive values
+            of β and OR show that <tp:taxon-name>A. fruticosa</tp:taxon-name> tends to spread in
+            moderate and mainly highly fragmented forests. However, the positive values of β (0.19)
+            and the value of OR greater than one (1.21) for slightly fragmented forests also
+            demonstrate that the species can spread in rather compacted afforested areas. </p>
+         <p> The model also demonstrates that <tp:taxon-name>A. fruticosa</tp:taxon-name> is in
+            relation to vegetation cover, the positive β coefficients and OR values for NDVI
+            values&gt;0.25 showing the tendency of species to spread in areas with grasslands,
+            transitional woodland-scrub and afforested areas. The estimated β value (-0.694) and OR
+            (0.50) for the proximity to roads indicates that the probability of <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence further away from roads is less expected.
+            Speciﬁcally , the probability of species occurrence would decrease 2 times if distance
+            to roads increases by 0.1 km. The model demonstrates that <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence is not significantly controlled by the proximity
+            to settlements, however the negative value of β (-0.16) indicates that, with the
+            increase in distance to settlements, the probability of this invasive terrestrial
+            species to occur decreases. Thus, the odds of <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence in an area 0.5 km closer to settlements is
+            estimated to be 1.17 as large as that in areas further away from settlements. </p>
+         <p> The regression results for proximity to waters (β = 0.006; OR = 1.006) revealed that
+            they have no significant influence on <tp:taxon-name>A. fruticosa</tp:taxon-name>
+            occurrence. </p>
+         <p> The probability map of <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence </p>
+         <p> The probability of <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence was assessed
+            by plugging the β coefficients of the logistic regression model containing the 17
+            signiﬁcant predictors (Table 3) into Eq. (3). Thus, the probability map (Fig. 5)
+            indicated that 24.9% of the grid cells have high and very high suitability for
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence, largely in the eastern half
+            of the Park, close to Felnac, Pecica and Semlac localities. Here, the suitability is
+            mainly characterised by the favourable soil type, the presence of numerous agricultural
+            and forestry roads and the large extension of the pastures and transitional
+            woodland-scrub vegetation. On the other hand, the lowest probability values are in the
+            western (near Cenad locality), north-eastern and southern parts of the protected area
+            (near Arad and Secusigiu localities) where the unsuitable soil type classes and
+            piezometric level ranking between 2 and 5 m or arable lands and compacted forests are
+            predominant. </p>
+         <p> In order to conduct the spatial validation of the model, the map of <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence probability, computed using the logistic
+            regression model, was compared with the actual <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence (reference datasets used for validation). Thus,
+            the cross-classiﬁcation map reveals a relatively good spatial fit between the observed
+            data and the predicted data (Fig. 6). Both very high and high probability classes
+            include 69.9% of total cells, representing the real <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> location used as the validation dataset. Furthermore, only
+            10% of the total pixels, representing the real <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> used as the validation dataset, overlap the very low and
+            low probability classes. </p>
       </sec>
       <sec sec-type="discussion">
          <title>N/A</title>
+         <p> Discussion </p>
          <p>
-Discussion
-</p>
+            <tp:taxon-name>A. fruticosa</tp:taxon-name> location in the Mureș Floodplain Natural
+            Park </p>
+         <p> The field surveys in the Mureș Floodplain Natural Park have shown <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence in different ecosystems and habitats,
+            significantly affecting the native vegetation. The species were identified mainly along
+            the forest roads edges and forest glades (especially north to Mureș River), as well as
+            along the edges of arable lands (mainly abandoned, unused) with a tendency to invade
+            them in the west and north-west of Felnac locality. The largest area was identified in
+            the western part of Pecica locality and north-west of Fenlac, along the forest roads and
+            at the contact between forested areas and pastures or arable lands. Therewith, the
+            species has a significant spread south-west of Seitin locality on arable lands and along
+            Mures River (Fig. 7). Selected biological indices (coverage, frequency, abundance)
+            computed in six representative sites during the field research, indicate a preference
+            mainly for the riparian habitats (with <tp:taxon-name>Salix alba</tp:taxon-name> and
+               <tp:taxon-name>Populus alba</tp:taxon-name> ), alluvial forest (with
+               <tp:taxon-name>Alnus glutinosa</tp:taxon-name> and <tp:taxon-name>Fraxinus
+               excelsior</tp:taxon-name> ), riparian mixed forests (with <tp:taxon-name>Quercus
+               robur</tp:taxon-name> , <tp:taxon-name>Ulmus laevis</tp:taxon-name> ,
+               <tp:taxon-name>U. minor</tp:taxon-name> , <tp:taxon-name>Fraxinus
+               excelsior</tp:taxon-name> , <tp:taxon-name>F. angustifolia</tp:taxon-name> ) and
+            muddy banks (with <tp:taxon-name>Chenopodium rubri</tp:taxon-name> pp and
+               <tp:taxon-name>Bidention</tp:taxon-name> vegetation). </p>
+         <p> In relation to park zoning, out of the total mapped surface, 1.7% is located in the
+            totally protected area (Felnac, Libus), 13.6% in the sustainable development area
+            (largely in Pecica locality), while the remainder (84.7%) is in the sustainable
+            management area, mainly spreading along the left bank of Mures River. </p>
+         <p> The main explanatory factors of <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence.
+            Expected invasion </p>
+         <p> The driving factors of <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence may vary
+            from place to place. Many factors can affect the establishment and spread of invasive
+            species ( ). They include the interaction of multiple environmental variables, such as
+            elevation, precipitation and soil type, which constitute the species' fundamental niche
+            ( ; ). Invasive species have also been associated with areas of distur bance , either
+            natural (e.g. ﬁre or ﬂoods ; ; ) or human related ( ; ) and inﬂuenced by abiotic
+            factors, such as historical land use and management ( ). </p>
+         <p> In the present study, the selected explanatory variables encompass a significant share
+            of the driving factors. Many studies have indicated that most of the analysed factors
+            were also found to be important in other protected wetland areas in Romania ( , , ; ; ),
+            as well as in the other European countries ( ; ; ). In the present study, the model
+            shows that <tp:taxon-name>A. fruticosa</tp:taxon-name> is mainly controlled by the soil,
+            groundwater's availability, predominant vegetation type in the invaded areas and
+            human-induced disturbance (forest fragmentation, roads extension). Speciﬁcally , amongst
+            all analysed explanatory factors, erodisols, protisols and luvisols were found as the
+            most signiﬁcant categorical predictors for <tp:taxon-name>A. fruticosa</tp:taxon-name>
+            occurrence in the Mures Floodplain Natural Park. It should be noted that, in the study
+            area, these classes of soil types cover about 80% of the total area, thus indicating a
+            significant potential for <tp:taxon-name>A. fruticosa</tp:taxon-name> to spread in large
+            areas of the park. The model also proved a significant relationship between the
+            piezometric level and <tp:taxon-name>A. fruticosa</tp:taxon-name> distribution
+            indicating species' requirements for water availability in the soil. </p>
          <p>
-            <tp:taxon-name>A. fruticosa</tp:taxon-name>
-location in the 
-Mureș
-Floodplain Natural Park
-</p>
-         <p>
-The field surveys in the 
-Mureș
-Floodplain Natural Park have shown 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence in different ecosystems and habitats, significantly affecting the native vegetation. The species were identified mainly along the forest roads edges and forest glades (especially north to 
-Mureș
-River), as well as along the edges of arable lands (mainly abandoned, unused) with a tendency to invade them in the west and north-west of Felnac locality. The largest area was identified in the western part of Pecica locality and north-west of Fenlac, along the forest roads and at the contact between forested areas and pastures or arable lands. Therewith, the species has a significant spread south-west of 
-Seitin
-locality on arable lands and along 
-Mures
-River (Fig. 7). Selected biological indices (coverage, frequency, abundance) computed in six representative sites during the field research, indicate a preference mainly for the riparian habitats (with 
-<tp:taxon-name>Salix alba</tp:taxon-name>
-and 
-<tp:taxon-name>Populus alba</tp:taxon-name>
-), alluvial forest (with 
-<tp:taxon-name>Alnus glutinosa</tp:taxon-name>
-and 
-<tp:taxon-name>Fraxinus excelsior</tp:taxon-name>
-), riparian mixed forests (with 
-<tp:taxon-name>Quercus robur</tp:taxon-name>
-, 
-<tp:taxon-name>Ulmus laevis</tp:taxon-name>
-, 
-<tp:taxon-name>U. minor</tp:taxon-name>
-, 
-<tp:taxon-name>Fraxinus excelsior</tp:taxon-name>
-, 
-<tp:taxon-name>F. angustifolia</tp:taxon-name>
-) and muddy banks (with 
-<tp:taxon-name>Chenopodium rubri</tp:taxon-name>
-pp and 
-<tp:taxon-name>Bidention</tp:taxon-name>
-vegetation).
-</p>
-         <p>
-In relation to park zoning, out of the total mapped surface, 1.7% is located in the totally protected area (Felnac, Libus), 13.6% in the sustainable development area (largely in Pecica locality), while the remainder (84.7%) is in the sustainable management area, mainly spreading along the left bank of 
-Mures
-River.
-</p>
-         <p>
-The main explanatory factors of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence. Expected invasion
-</p>
-         <p>
-The driving factors of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence may vary from place to place. Many factors can affect the establishment and spread of invasive species (
-
-). They include the interaction of multiple environmental variables, such as elevation, precipitation and soil type, which constitute the 
-species'
-fundamental niche (
-
-; 
-
-). Invasive species have also been associated with areas of distur 
-bance
-, either natural (e.g. 
-ﬁre
-or 
-ﬂoods
-; 
-
-; 
-
-) or human related (
-
-; 
-
-) and 
-inﬂuenced
-by abiotic factors, such as historical land use and management (
-
-).
-</p>
-         <p>
-In the present study, the selected explanatory variables encompass a significant share of the driving factors. Many studies have indicated that most of the analysed factors were also found to be important in other protected wetland areas in Romania (
-
-, 
-
-, 
-
-; 
-
-; 
-
-), as well as in the other European countries (
-
-; 
-
-; 
-
-). In the present study, the model shows that 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-is mainly controlled by the soil, 
-groundwater's
-availability, predominant vegetation type in the invaded areas and human-induced disturbance (forest fragmentation, roads extension). 
-Speciﬁcally
-, amongst all analysed explanatory factors, erodisols, protisols and luvisols were found as the most 
-signiﬁcant
-categorical predictors for 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence in the 
-Mures
-Floodplain Natural Park. It should be noted that, in the study area, these classes of soil types cover about 80% of the total area, thus indicating a significant potential for 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-to spread in large areas of the park. The model also proved a significant relationship between the piezometric level and 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-distribution indicating 
-species'
-requirements for water availability in the soil.
-</p>
-         <p>
-            <tp:taxon-name>A. fruticosa</tp:taxon-name>
-is considered a weak competitor in forests because it is usually excluded by tree species (
-
-), but due to its fast growth, shading and probably its allelopathic effects (
-
-) and nitrogen-fixing ability (
-
-), it is a superior transformer in grasslands (
-
-). In the present study, the model confirms the strong adaptability of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-in grasslands areas. However, it can be noticed that the regression coefficients for highest values of NDVI also show the tendency of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-to spread in the transitional woodland- 
-scrub
-and afforested areas. This can indicate the adaptation capacity to any terrestrial ecosystems and, consequently, a tolerance for semi-shade. Furthermore, the model indicates the preference of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-for fragmented forests, confirming that forest fragmentation could increase the 
-ecosystems'
-vulnerability to invasive species and habitat decline (
-
-).
-</p>
-         <p>
-It is widely known that roads can serve as corridors for the movement of invasive species (
-
-), as well as for providing main habitats for establishment (
-
-). In other Romanian protected areas, large areas covered by 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-were spotted in wetlands, along the forest roads (
-
-; 
-
-). This can be explained by their influence in ecosystems fragmentation through creating suitable areas for invasive species growth. For the present-study, the regression results indicate that the proximity to roads was the predictor that has the most important contribution for 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence amongst the continuous driving factors. On the other hand, the continuity and the patterns of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence along the roads show the very important role of roads in facilitating the movement of this invasive plant. Moreover, the road traffic close to the 
-Park's
-border can favour 
-species'
-expansion, having been known for its tolerance to polluting environments (
-
-; 
-
-; 
-
-). The development of the invasive species on contaminated areas was confirmed within another protected area of Romania (Comana Natural Park), where the large spread of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-along the main roads and non-electrified railroad was observed (
-
-). The model does not demonstrate that 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence is significantly controlled by the proximity to settlements. However, the negative value of regression coefficients shows that the presence of the invasive plant species could be facilitated by human activities, indicating that the disturbed habitats inside and close to the settlements are easier to invade. This study also revealed that the proximity of aquatic surfaces has no significant influence on 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence. However, the positive regression coefficients, as well as the mapped areas with 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-(59%) within the first 500 m distance to 
-Mures
-River, could be explained through the favourable specific microclimate or fluvial processes within the riverbed which can favour the growth of invasive species to the detriment of riparian vegetation. In addition, the occurrence of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-along the riverbed could be also explained by the fact that rivers are regularly considered natural vectors for invasive species dissemination (
-
-).
-</p>
-         <p>
-In this respect, the authors consider that the more ecosystems and habitats are affected by disturbance, the more likely they become invaded by 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-. Thus, future forest fragmentation and clearing, the extension of the transportation network and the abandonment of the agricultural lands will increase the potential spread of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-. Furthermore, planting 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-for different purposes (on the degraded lands, protection of dams or roads) will facilitate 
-species'
-invasion within the important habitats and ecosystems of the Park.
-</p>
-         <p>
-Importance
-of the study. Perspectives
-</p>
-         <p>
-Invasive species may cause cascading effects in communities and/or affect both biotic and abiotic components of ecosystems (
-
-) bringing in substantial costs to agriculture, forest and human health (
-
-), as well as to ecosystem services, affecting ecosystem structure and function (
-
-), loss of biodiversity or unique habitats. Invasive plants may decrease the suitability of soil for native species (
-
-), disturbing soil formation, nutrient components or altering microbial communities. As a result, detailed knowledge of 
-species'
-ecological and geographic distribution is critical for effective conservation planning and modelling of its potential spread. However, data about most of species occurrence is sparse, resulting in incomplete information about species distribution, which leads to its difficult control and monitoring in sensitive areas (e.g. protected areas, wetlands). Hence, species distribution models attempt to provide detailed spatial data by relating presence of species to environmental predictors (
-
-; 
-
-; 
-
-). In the current study, in order to identify and inventory 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-, as well as to develop a potential distribution model for the entire protected area, integrating GIS and logistic regression have been performed, given that we consider that the resultant map would provide the necessary information for the effective management of native ecosystems in the study area. Since the river systems are considered as main transport corridors for the invasive plants (
-
-), characterised by natural disturbances that create suitable sites for invasive species (
-
-), it can be appreciated that 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-expansion could represent an important trans-border ecological issue given that 
-Mures
-River represents an important tributary of the Tisa River in the Danube Basin area. More than that, this can be critical given that the Danube is considered one of the most important routes for spreading invasive species, owing to its long distance, fluctuating water level and long-time anthropogenic presence, which facilitate these invasions (
-
-). Due to the resultant map indicating a significant susceptibility to invasion, we consider that, without careful management, the important habitats and essential ecosystem processes in large fluvial areas in the 
-Mures
-Floodplain Natural Park could be seriously disturbed in a relatively short time. Hence, the resultant outcomes could become important tools for the 
-park's
-administration to adopt appropriate planning strategies for the eradication/limitation of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-in view of conserving the biodiversity of native flora and, finally, to provide the sustainable development of this protected area. On the other hand, the database containing the spatial distribution of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-can serve the 
-park's
-administration and research as useful information about the location of the invasive species in order to monitor and carry out an assessment of the quantitative rates of dispersal in different habitats and ecosystems within the protected area, but also cross-boundary, knowing the relative continuity of the environmental conditions which provides suitable habitats for potential expansion. Furthermore, the results might be also used in other similar sites where 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurs in order to identify the areas that can 
-be
-potentially invaded by this terrestrial invasive plant species. Given that this invasive plant is strongly associated with some landscape features such as soil type, depth to water, vegetation cover or roads, it is also essential to incorporate this knowledge into the assessment of potential spreading of other invasive terrestrial plant species in other sites. In addition, the probability map generated in this study can provide the basis for scenario analysis where independent variables can be improved and modified according to the specific biophysical and anthropogenic changes in an area.
-</p>
+            <tp:taxon-name>A. fruticosa</tp:taxon-name> is considered a weak competitor in forests
+            because it is usually excluded by tree species ( ), but due to its fast growth, shading
+            and probably its allelopathic effects ( ) and nitrogen-fixing ability ( ), it is a
+            superior transformer in grasslands ( ). In the present study, the model confirms the
+            strong adaptability of <tp:taxon-name>A. fruticosa</tp:taxon-name> in grasslands areas.
+            However, it can be noticed that the regression coefficients for highest values of NDVI
+            also show the tendency of <tp:taxon-name>A. fruticosa</tp:taxon-name> to spread in the
+            transitional woodland- scrub and afforested areas. This can indicate the adaptation
+            capacity to any terrestrial ecosystems and, consequently, a tolerance for semi-shade.
+            Furthermore, the model indicates the preference of <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> for fragmented forests, confirming that forest
+            fragmentation could increase the ecosystems' vulnerability to invasive species and
+            habitat decline ( ). </p>
+         <p> It is widely known that roads can serve as corridors for the movement of invasive
+            species ( ), as well as for providing main habitats for establishment ( ). In other
+            Romanian protected areas, large areas covered by <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> were spotted in wetlands, along the forest roads ( ; ).
+            This can be explained by their influence in ecosystems fragmentation through creating
+            suitable areas for invasive species growth. For the present-study, the regression
+            results indicate that the proximity to roads was the predictor that has the most
+            important contribution for <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence
+            amongst the continuous driving factors. On the other hand, the continuity and the
+            patterns of <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence along the roads show
+            the very important role of roads in facilitating the movement of this invasive plant.
+            Moreover, the road traffic close to the Park's border can favour species' expansion,
+            having been known for its tolerance to polluting environments ( ; ; ). The development
+            of the invasive species on contaminated areas was confirmed within another protected
+            area of Romania (Comana Natural Park), where the large spread of <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> along the main roads and non-electrified railroad was
+            observed ( ). The model does not demonstrate that <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence is significantly controlled by the proximity to
+            settlements. However, the negative value of regression coefficients shows that the
+            presence of the invasive plant species could be facilitated by human activities,
+            indicating that the disturbed habitats inside and close to the settlements are easier to
+            invade. This study also revealed that the proximity of aquatic surfaces has no
+            significant influence on <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence.
+            However, the positive regression coefficients, as well as the mapped areas with
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> (59%) within the first 500 m distance to
+            Mures River, could be explained through the favourable specific microclimate or fluvial
+            processes within the riverbed which can favour the growth of invasive species to the
+            detriment of riparian vegetation. In addition, the occurrence of <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> along the riverbed could be also explained by the fact that
+            rivers are regularly considered natural vectors for invasive species dissemination ( ). </p>
+         <p> In this respect, the authors consider that the more ecosystems and habitats are
+            affected by disturbance, the more likely they become invaded by <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> . Thus, future forest fragmentation and clearing, the
+            extension of the transportation network and the abandonment of the agricultural lands
+            will increase the potential spread of <tp:taxon-name>A. fruticosa</tp:taxon-name> .
+            Furthermore, planting <tp:taxon-name>A. fruticosa</tp:taxon-name> for different purposes
+            (on the degraded lands, protection of dams or roads) will facilitate species' invasion
+            within the important habitats and ecosystems of the Park. </p>
+         <p> Importance of the study. Perspectives </p>
+         <p> Invasive species may cause cascading effects in communities and/or affect both biotic
+            and abiotic components of ecosystems ( ) bringing in substantial costs to agriculture,
+            forest and human health ( ), as well as to ecosystem services, affecting ecosystem
+            structure and function ( ), loss of biodiversity or unique habitats. Invasive plants may
+            decrease the suitability of soil for native species ( ), disturbing soil formation,
+            nutrient components or altering microbial communities. As a result, detailed knowledge
+            of species' ecological and geographic distribution is critical for effective
+            conservation planning and modelling of its potential spread. However, data about most of
+            species occurrence is sparse, resulting in incomplete information about species
+            distribution, which leads to its difficult control and monitoring in sensitive areas
+            (e.g. protected areas, wetlands). Hence, species distribution models attempt to provide
+            detailed spatial data by relating presence of species to environmental predictors ( ; ;
+            ). In the current study, in order to identify and inventory <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> , as well as to develop a potential distribution model for
+            the entire protected area, integrating GIS and logistic regression have been performed,
+            given that we consider that the resultant map would provide the necessary information
+            for the effective management of native ecosystems in the study area. Since the river
+            systems are considered as main transport corridors for the invasive plants ( ),
+            characterised by natural disturbances that create suitable sites for invasive species (
+            ), it can be appreciated that <tp:taxon-name>A. fruticosa</tp:taxon-name> expansion
+            could represent an important trans-border ecological issue given that Mures River
+            represents an important tributary of the Tisa River in the Danube Basin area. More than
+            that, this can be critical given that the Danube is considered one of the most important
+            routes for spreading invasive species, owing to its long distance, fluctuating water
+            level and long-time anthropogenic presence, which facilitate these invasions ( ). Due to
+            the resultant map indicating a significant susceptibility to invasion, we consider that,
+            without careful management, the important habitats and essential ecosystem processes in
+            large fluvial areas in the Mures Floodplain Natural Park could be seriously disturbed in
+            a relatively short time. Hence, the resultant outcomes could become important tools for
+            the park's administration to adopt appropriate planning strategies for the
+            eradication/limitation of <tp:taxon-name>A. fruticosa</tp:taxon-name> in view of
+            conserving the biodiversity of native flora and, finally, to provide the sustainable
+            development of this protected area. On the other hand, the database containing the
+            spatial distribution of <tp:taxon-name>A. fruticosa</tp:taxon-name> can serve the park's
+            administration and research as useful information about the location of the invasive
+            species in order to monitor and carry out an assessment of the quantitative rates of
+            dispersal in different habitats and ecosystems within the protected area, but also
+            cross-boundary, knowing the relative continuity of the environmental conditions which
+            provides suitable habitats for potential expansion. Furthermore, the results might be
+            also used in other similar sites where <tp:taxon-name>A. fruticosa</tp:taxon-name>
+            occurs in order to identify the areas that can be potentially invaded by this
+            terrestrial invasive plant species. Given that this invasive plant is strongly
+            associated with some landscape features such as soil type, depth to water, vegetation
+            cover or roads, it is also essential to incorporate this knowledge into the assessment
+            of potential spreading of other invasive terrestrial plant species in other sites. In
+            addition, the probability map generated in this study can provide the basis for scenario
+            analysis where independent variables can be improved and modified according to the
+            specific biophysical and anthropogenic changes in an area. </p>
          <p>Limitation of the results</p>
-         <p>
-Uncertainty is an inevitable component of invasion forecasts (
-
-) and modelling will always contain a level of errors resulting from a wide range of factors (
-
-), including insufficient sample size, measurements errors in the biological survey data or insufficient spatial resolution in the mapped environmental variables and impossibility or difficulty in integrating critical habitat variables and others factors (e.g. competition, dispersion). Hence, the resultant probability map should be used as a preliminary data on the potential distribution of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-in order to identify regions with different probability and, consequently, to spot the areas that require more or less intensive monitoring of this invasive terrestrial plant species. Thus, important limitations and assumptions in the calibration of the model and generating the probability map have to be considered. The first is related to the 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence inventory dataset. In the present paper, we assume that all areas covered with 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence were not included in the analysis. However, several inconvenient factors (e.g. large extension of the area or inaccessibility in different sites) limited the mapping of all areas covered by 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-. We consider that the available datasets used to model the probability map were not sufficient to assess with the highest accuracy the potential occurrence of A. 
-<tp:taxon-name>fruticosa</tp:taxon-name>
-. Thus, the estimated coefficients in the logistic regression models have associated estimation errors, the uncertainty decreasing by mapping more plant occurrence data and predictors (
-
-; 
-
-).
-</p>
-         <p>
-Another limitation refers to the unavailable datasets for the independent variables. Thus, the resulted pseudo R2 values indicate that only 24.3% of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence in the 
-Mures
-Floodplain Natural Park can be influenced by the analysed explanatory factors and the remaining percentage was influenced by other factors. Thus, in order to allow a better and realistic modelling of 
-species'
-spreading potential in the future at a much finer scale, more information on the spatial distribution of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-combined with other predictors (e.g. soil nutrients and heavy metals content, past land-use changes, existing plant community) must be integrated. Moreover, the coarse resolution of the available soils and depth to water data have also restricted the accuracy of the model. One more limitation is related to the final probability map which does not reflect its temporal probability. As it is difficult or impossible to model seed dispersal at a regional scale (
-
-), the current results only display the spatial distribution potential of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-depending on the analysed explanatory factors, without considering the seed dispersal vectors. In addition, environmentally suitable sites within the native distributional area 
-may
-remain free from invasion because of biotic interactions, dispersal limitations or historical constraints (
-
-; 
-
-). On the other hand, these restrictive factors may, at least in theory, differ or even be lacking in invaded areas (
-
-). As a consequence, it can be appreciated that, in the future, the spread might affect more or less other areas indicated by the current research.
-</p>
+         <p> Uncertainty is an inevitable component of invasion forecasts ( ) and modelling will
+            always contain a level of errors resulting from a wide range of factors ( ), including
+            insufficient sample size, measurements errors in the biological survey data or
+            insufficient spatial resolution in the mapped environmental variables and impossibility
+            or difficulty in integrating critical habitat variables and others factors (e.g.
+            competition, dispersion). Hence, the resultant probability map should be used as a
+            preliminary data on the potential distribution of <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> in order to identify regions with different probability
+            and, consequently, to spot the areas that require more or less intensive monitoring of
+            this invasive terrestrial plant species. Thus, important limitations and assumptions in
+            the calibration of the model and generating the probability map have to be considered.
+            The first is related to the <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence
+            inventory dataset. In the present paper, we assume that all areas covered with
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> occurrence were not included in the
+            analysis. However, several inconvenient factors (e.g. large extension of the area or
+            inaccessibility in different sites) limited the mapping of all areas covered by
+               <tp:taxon-name>A. fruticosa</tp:taxon-name> . We consider that the available datasets
+            used to model the probability map were not sufficient to assess with the highest
+            accuracy the potential occurrence of A. <tp:taxon-name>fruticosa</tp:taxon-name> . Thus,
+            the estimated coefficients in the logistic regression models have associated estimation
+            errors, the uncertainty decreasing by mapping more plant occurrence data and predictors
+            ( ; ). </p>
+         <p> Another limitation refers to the unavailable datasets for the independent variables.
+            Thus, the resulted pseudo R2 values indicate that only 24.3% of <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence in the Mures Floodplain Natural Park can be
+            influenced by the analysed explanatory factors and the remaining percentage was
+            influenced by other factors. Thus, in order to allow a better and realistic modelling of
+            species' spreading potential in the future at a much finer scale, more information on
+            the spatial distribution of <tp:taxon-name>A. fruticosa</tp:taxon-name> combined with
+            other predictors (e.g. soil nutrients and heavy metals content, past land-use changes,
+            existing plant community) must be integrated. Moreover, the coarse resolution of the
+            available soils and depth to water data have also restricted the accuracy of the model.
+            One more limitation is related to the final probability map which does not reflect its
+            temporal probability. As it is difficult or impossible to model seed dispersal at a
+            regional scale ( ), the current results only display the spatial distribution potential
+            of <tp:taxon-name>A. fruticosa</tp:taxon-name> depending on the analysed explanatory
+            factors, without considering the seed dispersal vectors. In addition, environmentally
+            suitable sites within the native distributional area may remain free from invasion
+            because of biotic interactions, dispersal limitations or historical constraints ( ; ).
+            On the other hand, these restrictive factors may, at least in theory, differ or even be
+            lacking in invaded areas ( ). As a consequence, it can be appreciated that, in the
+            future, the spread might affect more or less other areas indicated by the current
+            research. </p>
       </sec>
       <sec sec-type="conclusions">
          <title>N/A</title>
          <p>Conclusions</p>
-         <p>
-The present study is a geographical approach to assess spatial potential spreading of one of the most disturbing invasive terrestrial plant species in Europe (A. 
-<tp:taxon-name>fruticosa</tp:taxon-name>
-) in one of the most important natural protected area in Romania (
-Mures
-Floodplain Natural Park). Cross-referencing the scientific findings on the assessment of invasive species in Romania, revealed that the present study is one of the first attempts to explain the spatial relationships between this invasive terrestrial plant species and its explanatory factors and to assess potential distribution, integrating GIS and logistic regression into spatial simulation. Thus, the model shows that the explanatory factors of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-occurrence are varied and have different influences, confirming previous findings of scientific literature and other current research on the increased tolerance and high adaptation capacity of this invasive species to a variety of conditions. The probability map, resulting from plugging the 
-β
-coefficients of the logistic regression, indicates that spreading of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-is expected to continue mainly in the areas where significant parcels were mapped (close to Pecica, Semlac and Seitin localities), but with extension into the eastern and central part of the Park, close to Arad, Felnac, Secusigiu and Nadlac localities. This could indicate a future strong adaptation capacity of 
-<tp:taxon-name>A. fruticosa</tp:taxon-name>
-to many terrestrial ecosystems and, consequently, a serious threat for the native terrestrial plant species, requiring the inclusion of specific measures in the 
-park's
-management plan.
-</p>
+         <p> The present study is a geographical approach to assess spatial potential spreading of
+            one of the most disturbing invasive terrestrial plant species in Europe (A.
+               <tp:taxon-name>fruticosa</tp:taxon-name> ) in one of the most important natural
+            protected area in Romania ( Mures Floodplain Natural Park). Cross-referencing the
+            scientific findings on the assessment of invasive species in Romania, revealed that the
+            present study is one of the first attempts to explain the spatial relationships between
+            this invasive terrestrial plant species and its explanatory factors and to assess
+            potential distribution, integrating GIS and logistic regression into spatial simulation.
+            Thus, the model shows that the explanatory factors of <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> occurrence are varied and have different influences,
+            confirming previous findings of scientific literature and other current research on the
+            increased tolerance and high adaptation capacity of this invasive species to a variety
+            of conditions. The probability map, resulting from plugging the β coefficients of the
+            logistic regression, indicates that spreading of <tp:taxon-name>A.
+               fruticosa</tp:taxon-name> is expected to continue mainly in the areas where
+            significant parcels were mapped (close to Pecica, Semlac and Seitin localities), but
+            with extension into the eastern and central part of the Park, close to Arad, Felnac,
+            Secusigiu and Nadlac localities. This could indicate a future strong adaptation capacity
+            of <tp:taxon-name>A. fruticosa</tp:taxon-name> to many terrestrial ecosystems and,
+            consequently, a serious threat for the native terrestrial plant species, requiring the
+            inclusion of specific measures in the park's management plan. </p>
       </sec>
       <sec sec-type="acknowledgements">
          <title>N/A</title>
          <p>Acknowledgements</p>
-         <p>The current research was undertaken in the framework of the EU FP7 - Building Capacity for Black Sea Catchment Observation and Assessment System supporting Sustainable Development (EnviroGRIDS) and of the research project carried out under the research plan of the Institute of Geography, Romanian Academy "The National Geographic Atlas of Romania". Image courtesy for the LANDSAT satellite images of U.S. Geological Survey available at: www.usgs.gov.</p>
+         <p>The current research was undertaken in the framework of the EU FP7 - Building Capacity
+            for Black Sea Catchment Observation and Assessment System supporting Sustainable
+            Development (EnviroGRIDS) and of the research project carried out under the research
+            plan of the Institute of Geography, Romanian Academy "The National Geographic Atlas of
+            Romania". Image courtesy for the LANDSAT satellite images of U.S. Geological Survey
+            available at: www.usgs.gov.</p>
       </sec>
       <sec sec-type="reference_group">
          <title>N/A</title>
          <ref-list>
             <ref>
-               <mixed-citation>
-Almasi, KN
-, 
-2000
-. 
-A non-native perennial invades a native forest.
-. 
-Biological Invasions
-2
-: 
-219 - 230
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Anastasiu
-, P
-
-, 
-Negrean, G
-, 
-Bas, C
-, 
-
-Sirbu
-, C
-
-, 
-Oprea, A
-, 
-2008
-. 
-A preliminary study on the neophytes of wetlands in Romania.
-. In: 
-Rabitsch, W
-, 
-Essl, F
-, 
-Klingenstein, F
-, Eds., 
-Biological Invasions - from Ecology to Conservation.
-. 
-Neobiota
-7
-: 
-181 - 192
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Andreu, J
-, 
-Vila, M
-, 
-2010
-. 
-Risk analysis of potential invasive plants in Spain.
-. 
-Journal for Nature Conservation
-18
-: 
-34 - 44
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Arim, M
-, 
-Abades, SR
-, 
-Neill, PE
-, 
-Lima, M
-, 
-Marquet, PA
-, 
-2006
-. 
-Spread dynamics of invasive species.
-. 
-PNAS
-103
-: 
-374 - 378
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Bailey, J
-, 
-Bimova, K
-, 
-Mandak, B
-, 
-2007
-. 
-The potential role of polyploidy and hybridisation in the further evolution of the highly invasive Fallopia taxa in Europe.
-. 
-Ecological Research
-22
-: 
-920 - 928
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Blagojevic
-, M
-
-, 
-
-Konstantinovic
-, B
-
-, 
-
-Samardzic
-, N
-
-, 
-Kurjakov, A
-, 
-
-Orlovic
-, S
-
-, 
-2015
-. 
-Seed Bank of Amorphafruticosa L. on Some Ruderal Sites in Serbia.
-. 
-Journal of Agricultural Science and Technology B
-5
-: 
-122 - 128
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Brothers, TS
-, 
-Spingarn, A
-, 
-1992
-. 
-Forest fragmentation and alien plant invasion of central Indiana old-growth forests.
-. 
-Conservation Biology
-6
-: 
-91 - 100
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Cadanasso, ML
-, 
-Pickett, ST
-, 
-2001
-. 
-Effect of edge structure on the flux of species into forest interiors.
-. 
-Conservation Biology
-15
-: 
-91 - 97
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Callaway, RM
-, 
-Ridenour, WM
-, 
-2004
-.. https://doi.org/10.1890/1540-9295(2004)002[0436:NWISAT]2.0.CO;2
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Charles, H
-, 
-Dukes, JS
-, 
-2006
-. 
-Impacts of Invasive Species on Ecosystem Services in Ecological Studies.
-. 
-Biological Invasions
-193
-: 
-9 - 15
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Christen, D
-, 
-Matlack, G
-, 
-2006
-. 
-The role of roadsides in plant invasions: A demographic approach.
-. 
-Conservation Biology
-20
-: 
-385 - 391
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Cowie, ID
-, 
-Werner, PA
-, 
-1993
-. 
-Non-native plant species invasive in Kakadu National Park, tropical northern Australia.
-. 
-Biological Conservation
-63
-: 
-127 - 135
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Delai, F
-, 
-Kiss, T
-, 
-Nagy, J
-, 
-2018
-. 
-Field-based estimates of floodplain roughness along the Tisza River (Hungary): The role of invasive Amorphafruticosa.
-. 
-Applied Geography (Sevenoaks, England)
-90
-: 
-96 - 105
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-De
-Poorter, M
-
-, 
-Pagad, S
-, 
-Ullah, MI
-, 
-2007
-.. http://www.issg.org/pdf/publications/gisp/resources/ias_protectedareas_scoping_i.pdf
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Dirnbock, T
-, 
-Greimler, J
-, 
-Lopez, PS
-, 
-Stuessy, TF
-, 
-2003
-. 
-Predicting Future Threats to the Native Vegetation of Robinson Crusoe Island, Juan Fernandez Archipelago, Chile.
-. 
-Conservation Biology
-17
-: 
-1650 - 1659
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Doroftei, M
-, 
-2009
-. 
-Chorology of Amorphafruticosa in Danube Delta.
-. 
-Romanian Journal of Plant Biology
-54
-: 
-61 - 67
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Dumitrascu
-, M
-
-, 
-Grigorescu, I
-, 
-Doroftei, M
-, 
-Kucsicsa, G
-, 
-
-Mierlă
-, M
-
-, 
-
-Dragotă
-, C
-
-, 
-
-Năstase
-, M
-
-, 
-2013
-.. http://sgem.org/sgemlib/spip.php?article3268
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Elakowich, SD
-, 
-Wooten, JW
-, 
-1995
-. 
-Allelopathyc woody plants I. Abiesalba through Lyonialucida.
-. 
-Allelopathy Journal
-2
-: 
-117 - 146
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Elith, J
-, 
-Graham, CH
-, 
-Anderson, RP
-, 
-
-Dudik
-, M
-
-, 
-Ferrier, S
-, 
-Guisan, A, et al.
-, 
-2006
-. 
-
-Novel methods improve prediction of 
-species'
-distributions from occurrence data.
-
-. 
-Ecography
-29
-: 
-129 - 151
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Franklin, J
-, 
-1995
-. 
-Predictive vegetation mapping: Geographic modelling of biospatial patterns in relation to environmental gradients.
-. 
-Progress in Physical Geography
-19
-: 
-474 - 499
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Fukasawa, K
-, 
-Koike, F
-, 
-Tanaka, N
-, 
-Otsu, K
-, 
-2009
-. 
-Predicting future invasion of an invasive alien tree in a Japanese oceanic island by process-based statistical models using recent distribution maps.
-. 
-Ecological Research
-24
-: 
-965 - 975
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Goslee, SC
-, 
-Debra, PC
-, 
-Peters, DPC
-, 
-Beck, GK
-, 
-2006
-. 
-Spatial prediction of invasion success across heterogeneous landscapes using an individual-based model.
-. 
-Biological Invasions
-8
-: 
-193 - 200
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Grigorescu, I
-, 
-Dumitrascu, M
-, 
-Kucsicsa, G
-, 
-Doroftei, M
-, 
-
-Dragotă
-, C
-
-, 
-
-Năstase
-, M
-
-, 
-2014
-.. https://doi.org/10.5593/SGEM2014/B51/S20.008
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Guisan
-, A
-
-, 
-Thuiller, W
-, 
-2005
-. 
-Predicting species distribution: Offering more than simple habitat models.
-. 
-Ecology Letters
-8
-: 
-993 - 1009
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Hall, FG
-, 
-Towhshend, JR
-, 
-Engman, ET
-, 
-1995
-. 
-Status of remote sensing algorithms for estimation of land surface state parameters.
-. 
-Remote Sensing of Environment
-51
-: 
-138 - 156
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Harrison, S
-, 
-Hohn, C
-, 
-Ratay, S
-, 
-2002
-. 
-Distribution of exotic plants along roads in a peninsular nature reserve.
-. 
-Biological Invasions
-4
-: 
-425 - 430
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Higgins, SI
-, 
-Richardson, DM
-, 
-Cowling, RM
-, 
-Trinder, Smith TH
-, 
-1999
-. 
-Predicting the landscape-scale distribution of alien plants and their threat to plant diversity.
-. 
-Conservation Biology
-13
-: 
-303 - 313
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Horssen, PW
-, 
-Pebesma, EJ
-, 
-Schot, PP
-, 
-2002
-. 
-Uncertainties in spatially aggregated predictions from a logistic regression model.
-. 
-Ecological Modelling
-154
-: 
-93 - 101
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Hutchinson, GE
-, 
-1957
-. 
-Concluding remarks.
-. 
-Cold Spring Harbor Symposia on Quantitative Biology
-22
-: 
-415 - 427
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Jenks, GF
-, 
-1967
-. 
-The Data Model Concept in Statistical Mapping.
-. 
-International Yearbook of Cartography
-7
-: 
-186 - 190
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Jimenez-Valverde
-, J
-
-, 
-Peterson, AT
-, 
-
-Soberon
-, J
-
-, 
-Overton, JM
-, 
-
-Aragon
-, P
-
-, 
-Lobo, JM
-, 
-2011
-. 
-Use of niche models in invasive species risk assessments.
-. 
-Biological Invasions
-13
-: 
-2785 - 2797
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Joly, M
-, 
-Bertrand, P
-, 
-White, MC
-, 
-Lavoie, C
-, 
-Gbangou, RY
-, 
-Dube, J
-, 
-2011
-. 
-Paving the Way for Invasive Species: Road Type and the Spread of Common Ragweed (Ambrosiaartemisiifolia).
-. 
-Environmental Management
-48
-: 
-514 - 522
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Lambdon, P
-, 
-
-Pysek
-, P
-
-, 
-Basnou, C
-, 
-Hejda, M
-, 
-Arianoutsou, M
-, 
-Essl, F
-, 
-Andriopoulos, P
-, 
-2008
-. 
-Alien flora of Europe: Species diversity, temporal trends, geographical patterns and research needs.
-. 
-Preslia
-80
-: 
-101 - 149
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Macdonald, IAW
-, 
-Graber, DM
-, 
-DeBenedetti, S
-, 
-Groves, RH
-, 
-Fuentes, ER
-, 
-1988
-. 
-Introduced species in nature reserves in Mediterranean-type climatic regions of the world.
-. 
-Biological Conservation
-44
-: 
-37 - 66
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Mack, MC
-, 
-
-D'Antonio
-, CM
-
-, 
-1998
-. 
-Impacts of biological invasions on disturbance regimes.
-. 
-Trends in Ecology &amp; Evolution
-13
-: 
-195 - 198
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Mack
-, RN
-
-, 
-Simberloff, D
-, 
-Lonsdale, WM
-, 
-Evans, H
-, 
-Clout, M
-, 
-Bazzaz, FA
-, 
-2000
-.. https://doi.org/10.1890/1051-0761(2000)010[0689:BICEGC]2.0.CO;2
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Mcgeochm, MA
-, 
-Stuart, HM
-, 
-Spear, D
-, 
-Marais, E
-, 
-Kleynhans, EJ
-, 
-Symes, A
-, 
-Chanson, J
-, 
-Hoffmann, M
-, 
-2010
-. 
-Global indicators of biological invasion: Species numbers, biodiversity impact and policy responses.
-. 
-Diversity &amp; Distributions
-16
-: 
-95 - 108
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Mortensen, DA
-, 
-Emily, SJ
-, 
-Rauschert, ESJ
-, 
-Nord, AN
-, 
-Jones, BP
-, 
-2009
-. 
-Forest Roads Facilitate the Spread of Invasive Plants.
-. 
-Invasive Plant Science and Management
-2
-: 
-191 - 199
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Panetta, FD
-, 
-Dodd, J
-, 
-1987
-. 
-Bioclimatic prediction of the potential distribution of skeleton weed Chondrillajuncea L. in Western Australia.
-. 
-Journal of the Australian Institute of Agricultural Science
-53
-: 
-11 - 16
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Pearce, JL
-, 
-Venier, LA
-, 
-Ferrier, S
-, 
-McKenney, DW
-, 
-2003
-.. https://doi.org/10.1642/0004-8038(2003)120[1199:PSOIOA]2.0.CO;2
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Pearson, RG
-, 
-2010
-. 
-
-Species'
-Distribution Modeling for Conservation Educators and Practitioners.
-
-. 
-Lessons in Conservation
-3
-: 
-54 - 89
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Pedashenko, HP
-, 
-Apostolova, II
-, 
-Kiril, V
-, 
-Vassilev, KV
-, 
-2012
-. 
-Amorphafruticosa invasibility of different habitats in lower Danube.
-. 
-Phytologia Balcanica
-18
-: 
-285 - 291
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Pulliam, HR
-, 
-2000
-. 
-On the relationship between niche and distribution.
-. 
-Ecology Letters
-33
-: 
-49 - 361
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Pysek
-, P
-
-, 
-Hume, PE
-, 
-2005
-. 
-Spatio-temporal dynamics of plant invasions: Linking pattern to process.
-. 
-Ecoscience
-12
-: 
-302 - 315
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Pysek
-, P
-
-, 
-
-Jarosik
-, V
-
-, 
-Pergl, J
-, 
-Randall, R
-, 
-
-Chytry
-, M
-
-, 
-
-Kuehn
-, I
-
-, 
-
-Tichy
-, L
-
-, 
-Danihelka, J
-, 
-Chrtek, jun J
-, 
-
-Sadlo
-, J
-
-, 
-2009
-. 
-The global invasion success of Central European plants is related to distribution characteristics in their native range and species traits.
-. 
-Diversity &amp; Distributions
-15
-: 
-891 - 903
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Pysek, P
-, 
-Jarosik, V
-, 
-Kucera, T
-, 
-2003
-. 
-Inclusion of native and alien species in temperate nature reserves: An historical study from Central Europe.
-. 
-Conservation Biology
-17
-: 
-1414 - 1424
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Radovanovic
-, N
-
-, 
-
-Kuzmanovic
-, N
-
-, 
-
-Vukojicic
-, S
-
-, 
-
-Lakusic
-, D
-
-, 
-
-Jovanovic
-, S
-
-, 
-2017
-. 
-Floristic diversity, composition and invasibility of riparian habitats with Amorphafruticosa: A case study from Belgrade (Southeast Europe).
-. 
-Urban Forestry &amp; Urban Greening
-24
-: 
-101 - 108
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Rew
-, LJ
-
-, 
-Maxwell, BD
-, 
-Aspinall, R
-, 
-2005
-. 
-Predicting the occurrence of nonindigenous species using environmental and remotely sensed data.
-. 
-Weed Science
-53
-: 
-236 - 241
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Richardson, DM
-, 
-Pysek, P
-, 
-
-Rejmanek
-, M
-
-, 
-Barbour, MG
-, 
-Panetta, FD
-, 
-West, CJ
-, 
-2000
-. 
-Naturalization and invasion of alien plants: Concepts and definitions.
-. 
-Diversity &amp; Distributions
-6
-: 
-93 - 107
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Ricklefs, RE
-, 
-Schluter, D
-, 
-1993
-. 
-Species diversity in ecological communities: historical and geographical perspectives.
-. 
-University of Chicago Press, Chicago
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Rood, SB
-, 
-Braatne, JH
-, 
-Goater, LA
-, 
-2010
-. 
-Favorable fragmentation: River reservoirs can impede downstream expansion of riparian weeds.
-. 
-Ecological Applications
-20
-: 
-1664 - 1677
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Rouget, M
-, 
-Richardson, DM
-, 
-Milton, SJ
-, 
-Polakow, D
-, 
-2001
-. 
-Predicting invasion dynamics of four alien Pinus species in a highly fragmented semi-arid shrubland in South Africa.
-. 
-Plant Ecology
-152
-: 
-79 - 92
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Sărăteanu
-, V
-
-, 
-2010
-. 
-Assessing the influence of Amorphafruticosa L. invasive shrub on some grassland vegetation types from western Romania.
-. 
-Research Journal of Agricultural Science
-42
-: 
-536 - 540
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Seo, KW
-, 
-Son, Y
-, 
-Rhoades, CC
-, 
-Noh, NJ
-, 
-Koo, JW
-, 
-Kim, JG
-, 
-2008
-. 
-Seedling Growth and Heavy Metal Accumulation of Candidate Woody Species for Revegetating Korean Mine Spoils.
-. 
-Restoration Ecology
-16
-: 
-702 - 712
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Shea, K
-, 
-Chesson, P
-, 
-2002
-. 
-Community ecology theory as a framework for biological invasion.
-. 
-Trends in Ecology &amp; Evolution
-17
-: 
-170 - 176
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Silveri, A
-, 
-Dunwiddie, PW
-, 
-Michaels, HJ
-, 
-2001
-. 
-Logging and edaphic factors in the invasion of an Asian woody vine in a mesic North American forest.
-. 
-Biological Invasions
-3
-: 
-379 - 389
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Sirbu
-, C
-
-, 
-Oprea, A
-, 
-2011
-. 
-
-Plante adventive 
-in
-flora 
-Romanei
-.
-
-. 
-
-Editura "Ion Ionescu de la Brad", 
-Iasi
-
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Sirbu
-, C
-
-, 
-Oprea, A
-, 
-
-Elias
-, P
-
-, 
-Ferus, P
-, 
-2012
-. 
-New data addition to the Romanian alien flora.
-. 
-Journal of Plant Development
-19
-: 
-141 - 156
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-
-Szigetvari
-
-, C
-
-, 
-2002
-. 
-Initial steps in the regeneration of a floodplain meadow after a decade of dominance of an invasive transformer shrub, Amorphafruticosa L.
-. 
-TISCIA
-33
-: 
-67 - 77
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Turner, MG
-, 
-1989
-. 
-Landscape ecology: The effect of patterns on process.
-. 
-Annual Review of Ecology and Systematics
-20
-: 
-171 - 197
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Underwood, EC
-, 
-Klinger, R
-, 
-Moore, PE
-, 
-2004
-. 
-Predicting patterns of non-native plant invasions in Yosemite National Park, California, USA.
-. 
-Diversity &amp; Distributions
-10
-: 
-447 - 459
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Vaclavik
-, T
-
-, 
-Meentemeyer, RK
-, 
-2009
-.. https://doi.org/10.1016/j.ecolmodel.2009.08.013
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Wang, ET
-, 
-van Berkum, P
-, 
-Sui, XH
-, 
-Beyene, D
-, 
-Chen, WX
-, 
-
-Martinez-Romero
-, E
-
-, 
-1999
-. 
-Diversity of microbial associated with Amorphafruticosa isolated from Chinese soils and description of Mesorhizobiumamorphae sp. nov.
-. 
-International Journal of Systematic Bacteriology
-49
-: 
-51 - 65
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Weber, E
-, 
-Gut, D
-, 
-2004
-. 
-Assessing the risk of potentially invasive plant species in central Europe.
-. 
-Journal for Nature Conservation
-12
-: 
-171 - 179
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Xiang, S
-, 
-Xiaolei, Z
-, 
-Guangcai, C
-, 
-Yitai, C
-, 
-Ling, W
-, 
-Xiaoquan, S
-, 
-2011
-. 
-Seedling growth and metal accumulation of selected woody species in copper and lead/zinc mine tailings.
-. 
-Journal of Environmental Sciences (China)
-23
-: 
-266 - 274
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Yemshanov, D
-, 
-Koch, FH
-, 
-Ducey, MJ
-, 
-2015
-.. https://doi.org/10.1079/9781780643946.0206
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Dumitrascu, M
-, 
-Grigorescu, I.
-, 
-2016
-. 
-Invasive Terrestrial Plant Species in the Romanian Protected Areas.
-. 
-A geographical approach, Romanian Academy Publishing House
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-McCullagh, P
-, 
-Nelder, JA
-, 
-1989
-.. https://doi.org/10.1007/978-1-4899-3242-6
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Kleinbaum, D.
-, 
-1994
-.. https://doi.org/10.1007/978-1-4757-4108-7
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Liebetrau, AM
-, 
-1983
-.. https://doi.org/10.4135/9781412984942
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Nagelkerke, NJD
-, 
-1991
-.. https://doi.org/10.1093/biomet/78.3.691
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Pontius, Jr RG
-, 
-Schneider, LC
-, 
-2001
-.. https://doi.org/10.1016/S0167-8809(01)00187-6
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Mas, JF
-, 
-Soares, Filho B
-, 
-Pontius, RG
-, 
-
-Farfan
-Gutierrez
-, M
-
-, 
-Rodrigues, H
-, 
-2013
-.. https://doi.org/10.3390/ijgi2030869
-</mixed-citation>
+               <mixed-citation> Almasi, KN , 2000 . A non-native perennial invades a native forest.
+                  . Biological Invasions 2 : 219 - 230 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Anastasiu , P , Negrean, G , Bas, C , Sirbu , C , Oprea, A , 2008 .
+                  A preliminary study on the neophytes of wetlands in Romania. . In: Rabitsch, W ,
+                  Essl, F , Klingenstein, F , Eds., Biological Invasions - from Ecology to
+                  Conservation. . Neobiota 7 : 181 - 192 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Andreu, J , Vila, M , 2010 . Risk analysis of potential invasive
+                  plants in Spain. . Journal for Nature Conservation 18 : 34 - 44 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Arim, M , Abades, SR , Neill, PE , Lima, M , Marquet, PA , 2006 .
+                  Spread dynamics of invasive species. . PNAS 103 : 374 - 378 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Bailey, J , Bimova, K , Mandak, B , 2007 . The potential role of
+                  polyploidy and hybridisation in the further evolution of the highly invasive
+                  Fallopia taxa in Europe. . Ecological Research 22 : 920 - 928 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Blagojevic , M , Konstantinovic , B , Samardzic , N , Kurjakov, A ,
+                  Orlovic , S , 2015 . Seed Bank of Amorphafruticosa L. on Some Ruderal Sites in
+                  Serbia. . Journal of Agricultural Science and Technology B 5 : 122 - 128
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Brothers, TS , Spingarn, A , 1992 . Forest fragmentation and alien
+                  plant invasion of central Indiana old-growth forests. . Conservation Biology 6 :
+                  91 - 100 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Cadanasso, ML , Pickett, ST , 2001 . Effect of edge structure on the
+                  flux of species into forest interiors. . Conservation Biology 15 : 91 - 97
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Callaway, RM , Ridenour, WM , 2004 ..
+                  https://doi.org/10.1890/1540-9295(2004)002[0436:NWISAT]2.0.CO;2 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Charles, H , Dukes, JS , 2006 . Impacts of Invasive Species on
+                  Ecosystem Services in Ecological Studies. . Biological Invasions 193 : 9 - 15
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Christen, D , Matlack, G , 2006 . The role of roadsides in plant
+                  invasions: A demographic approach. . Conservation Biology 20 : 385 - 391
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Cowie, ID , Werner, PA , 1993 . Non-native plant species invasive in
+                  Kakadu National Park, tropical northern Australia. . Biological Conservation 63 :
+                  127 - 135 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Delai, F , Kiss, T , Nagy, J , 2018 . Field-based estimates of
+                  floodplain roughness along the Tisza River (Hungary): The role of invasive
+                  Amorphafruticosa. . Applied Geography (Sevenoaks, England) 90 : 96 - 105
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> De Poorter, M , Pagad, S , Ullah, MI , 2007 ..
+                  http://www.issg.org/pdf/publications/gisp/resources/ias_protectedareas_scoping_i.pdf
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Dirnbock, T , Greimler, J , Lopez, PS , Stuessy, TF , 2003 .
+                  Predicting Future Threats to the Native Vegetation of Robinson Crusoe Island, Juan
+                  Fernandez Archipelago, Chile. . Conservation Biology 17 : 1650 - 1659
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Doroftei, M , 2009 . Chorology of Amorphafruticosa in Danube Delta.
+                  . Romanian Journal of Plant Biology 54 : 61 - 67 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Dumitrascu , M , Grigorescu, I , Doroftei, M , Kucsicsa, G , Mierlă
+                  , M , Dragotă , C , Năstase , M , 2013 ..
+                  http://sgem.org/sgemlib/spip.php?article3268 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Elakowich, SD , Wooten, JW , 1995 . Allelopathyc woody plants I.
+                  Abiesalba through Lyonialucida. . Allelopathy Journal 2 : 117 - 146
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Elith, J , Graham, CH , Anderson, RP , Dudik , M , Ferrier, S ,
+                  Guisan, A, et al. , 2006 . Novel methods improve prediction of species'
+                  distributions from occurrence data. . Ecography 29 : 129 - 151 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Franklin, J , 1995 . Predictive vegetation mapping: Geographic
+                  modelling of biospatial patterns in relation to environmental gradients. .
+                  Progress in Physical Geography 19 : 474 - 499 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Fukasawa, K , Koike, F , Tanaka, N , Otsu, K , 2009 . Predicting
+                  future invasion of an invasive alien tree in a Japanese oceanic island by
+                  process-based statistical models using recent distribution maps. . Ecological
+                  Research 24 : 965 - 975 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Goslee, SC , Debra, PC , Peters, DPC , Beck, GK , 2006 . Spatial
+                  prediction of invasion success across heterogeneous landscapes using an
+                  individual-based model. . Biological Invasions 8 : 193 - 200 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Grigorescu, I , Dumitrascu, M , Kucsicsa, G , Doroftei, M , Dragotă
+                  , C , Năstase , M , 2014 .. https://doi.org/10.5593/SGEM2014/B51/S20.008
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Guisan , A , Thuiller, W , 2005 . Predicting species distribution:
+                  Offering more than simple habitat models. . Ecology Letters 8 : 993 - 1009
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Hall, FG , Towhshend, JR , Engman, ET , 1995 . Status of remote
+                  sensing algorithms for estimation of land surface state parameters. . Remote
+                  Sensing of Environment 51 : 138 - 156 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Harrison, S , Hohn, C , Ratay, S , 2002 . Distribution of exotic
+                  plants along roads in a peninsular nature reserve. . Biological Invasions 4 : 425
+                  - 430 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Higgins, SI , Richardson, DM , Cowling, RM , Trinder, Smith TH ,
+                  1999 . Predicting the landscape-scale distribution of alien plants and their
+                  threat to plant diversity. . Conservation Biology 13 : 303 - 313 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Horssen, PW , Pebesma, EJ , Schot, PP , 2002 . Uncertainties in
+                  spatially aggregated predictions from a logistic regression model. . Ecological
+                  Modelling 154 : 93 - 101 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Hutchinson, GE , 1957 . Concluding remarks. . Cold Spring Harbor
+                  Symposia on Quantitative Biology 22 : 415 - 427 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Jenks, GF , 1967 . The Data Model Concept in Statistical Mapping. .
+                  International Yearbook of Cartography 7 : 186 - 190 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Jimenez-Valverde , J , Peterson, AT , Soberon , J , Overton, JM ,
+                  Aragon , P , Lobo, JM , 2011 . Use of niche models in invasive species risk
+                  assessments. . Biological Invasions 13 : 2785 - 2797 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Joly, M , Bertrand, P , White, MC , Lavoie, C , Gbangou, RY , Dube,
+                  J , 2011 . Paving the Way for Invasive Species: Road Type and the Spread of Common
+                  Ragweed (Ambrosiaartemisiifolia). . Environmental Management 48 : 514 - 522
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Lambdon, P , Pysek , P , Basnou, C , Hejda, M , Arianoutsou, M ,
+                  Essl, F , Andriopoulos, P , 2008 . Alien flora of Europe: Species diversity,
+                  temporal trends, geographical patterns and research needs. . Preslia 80 : 101 -
+                  149 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Macdonald, IAW , Graber, DM , DeBenedetti, S , Groves, RH , Fuentes,
+                  ER , 1988 . Introduced species in nature reserves in Mediterranean-type climatic
+                  regions of the world. . Biological Conservation 44 : 37 - 66 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Mack, MC , D'Antonio , CM , 1998 . Impacts of biological invasions
+                  on disturbance regimes. . Trends in Ecology &amp; Evolution 13 : 195 - 198
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Mack , RN , Simberloff, D , Lonsdale, WM , Evans, H , Clout, M ,
+                  Bazzaz, FA , 2000 ..
+                  https://doi.org/10.1890/1051-0761(2000)010[0689:BICEGC]2.0.CO;2 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Mcgeochm, MA , Stuart, HM , Spear, D , Marais, E , Kleynhans, EJ ,
+                  Symes, A , Chanson, J , Hoffmann, M , 2010 . Global indicators of biological
+                  invasion: Species numbers, biodiversity impact and policy responses. . Diversity
+                  &amp; Distributions 16 : 95 - 108 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Mortensen, DA , Emily, SJ , Rauschert, ESJ , Nord, AN , Jones, BP ,
+                  2009 . Forest Roads Facilitate the Spread of Invasive Plants. . Invasive Plant
+                  Science and Management 2 : 191 - 199 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Panetta, FD , Dodd, J , 1987 . Bioclimatic prediction of the
+                  potential distribution of skeleton weed Chondrillajuncea L. in Western Australia.
+                  . Journal of the Australian Institute of Agricultural Science 53 : 11 - 16
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Pearce, JL , Venier, LA , Ferrier, S , McKenney, DW , 2003 ..
+                  https://doi.org/10.1642/0004-8038(2003)120[1199:PSOIOA]2.0.CO;2 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Pearson, RG , 2010 . Species' Distribution Modeling for Conservation
+                  Educators and Practitioners. . Lessons in Conservation 3 : 54 - 89
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Pedashenko, HP , Apostolova, II , Kiril, V , Vassilev, KV , 2012 .
+                  Amorphafruticosa invasibility of different habitats in lower Danube. . Phytologia
+                  Balcanica 18 : 285 - 291 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Pulliam, HR , 2000 . On the relationship between niche and
+                  distribution. . Ecology Letters 33 : 49 - 361 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Pysek , P , Hume, PE , 2005 . Spatio-temporal dynamics of plant
+                  invasions: Linking pattern to process. . Ecoscience 12 : 302 - 315
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Pysek , P , Jarosik , V , Pergl, J , Randall, R , Chytry , M , Kuehn
+                  , I , Tichy , L , Danihelka, J , Chrtek, jun J , Sadlo , J , 2009 . The global
+                  invasion success of Central European plants is related to distribution
+                  characteristics in their native range and species traits. . Diversity &amp;
+                  Distributions 15 : 891 - 903 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Pysek, P , Jarosik, V , Kucera, T , 2003 . Inclusion of native and
+                  alien species in temperate nature reserves: An historical study from Central
+                  Europe. . Conservation Biology 17 : 1414 - 1424 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Radovanovic , N , Kuzmanovic , N , Vukojicic , S , Lakusic , D ,
+                  Jovanovic , S , 2017 . Floristic diversity, composition and invasibility of
+                  riparian habitats with Amorphafruticosa: A case study from Belgrade (Southeast
+                  Europe). . Urban Forestry &amp; Urban Greening 24 : 101 - 108 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Rew , LJ , Maxwell, BD , Aspinall, R , 2005 . Predicting the
+                  occurrence of nonindigenous species using environmental and remotely sensed data.
+                  . Weed Science 53 : 236 - 241 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Richardson, DM , Pysek, P , Rejmanek , M , Barbour, MG , Panetta, FD
+                  , West, CJ , 2000 . Naturalization and invasion of alien plants: Concepts and
+                  definitions. . Diversity &amp; Distributions 6 : 93 - 107 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Ricklefs, RE , Schluter, D , 1993 . Species diversity in ecological
+                  communities: historical and geographical perspectives. . University of Chicago
+                  Press, Chicago </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Rood, SB , Braatne, JH , Goater, LA , 2010 . Favorable
+                  fragmentation: River reservoirs can impede downstream expansion of riparian weeds.
+                  . Ecological Applications 20 : 1664 - 1677 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Rouget, M , Richardson, DM , Milton, SJ , Polakow, D , 2001 .
+                  Predicting invasion dynamics of four alien Pinus species in a highly fragmented
+                  semi-arid shrubland in South Africa. . Plant Ecology 152 : 79 - 92
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Sărăteanu , V , 2010 . Assessing the influence of Amorphafruticosa
+                  L. invasive shrub on some grassland vegetation types from western Romania. .
+                  Research Journal of Agricultural Science 42 : 536 - 540 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Seo, KW , Son, Y , Rhoades, CC , Noh, NJ , Koo, JW , Kim, JG , 2008
+                  . Seedling Growth and Heavy Metal Accumulation of Candidate Woody Species for
+                  Revegetating Korean Mine Spoils. . Restoration Ecology 16 : 702 - 712
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Shea, K , Chesson, P , 2002 . Community ecology theory as a
+                  framework for biological invasion. . Trends in Ecology &amp; Evolution 17 : 170 -
+                  176 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Silveri, A , Dunwiddie, PW , Michaels, HJ , 2001 . Logging and
+                  edaphic factors in the invasion of an Asian woody vine in a mesic North American
+                  forest. . Biological Invasions 3 : 379 - 389 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Sirbu , C , Oprea, A , 2011 . Plante adventive in flora Romanei . .
+                  Editura "Ion Ionescu de la Brad", Iasi </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Sirbu , C , Oprea, A , Elias , P , Ferus, P , 2012 . New data
+                  addition to the Romanian alien flora. . Journal of Plant Development 19 : 141 -
+                  156 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Szigetvari , C , 2002 . Initial steps in the regeneration of a
+                  floodplain meadow after a decade of dominance of an invasive transformer shrub,
+                  Amorphafruticosa L. . TISCIA 33 : 67 - 77 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Turner, MG , 1989 . Landscape ecology: The effect of patterns on
+                  process. . Annual Review of Ecology and Systematics 20 : 171 - 197
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Underwood, EC , Klinger, R , Moore, PE , 2004 . Predicting patterns
+                  of non-native plant invasions in Yosemite National Park, California, USA. .
+                  Diversity &amp; Distributions 10 : 447 - 459 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Vaclavik , T , Meentemeyer, RK , 2009 ..
+                  https://doi.org/10.1016/j.ecolmodel.2009.08.013 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Wang, ET , van Berkum, P , Sui, XH , Beyene, D , Chen, WX ,
+                  Martinez-Romero , E , 1999 . Diversity of microbial associated with
+                  Amorphafruticosa isolated from Chinese soils and description of
+                  Mesorhizobiumamorphae sp. nov. . International Journal of Systematic Bacteriology
+                  49 : 51 - 65 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Weber, E , Gut, D , 2004 . Assessing the risk of potentially
+                  invasive plant species in central Europe. . Journal for Nature Conservation 12 :
+                  171 - 179 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Xiang, S , Xiaolei, Z , Guangcai, C , Yitai, C , Ling, W , Xiaoquan,
+                  S , 2011 . Seedling growth and metal accumulation of selected woody species in
+                  copper and lead/zinc mine tailings. . Journal of Environmental Sciences (China) 23
+                  : 266 - 274 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Yemshanov, D , Koch, FH , Ducey, MJ , 2015 ..
+                  https://doi.org/10.1079/9781780643946.0206 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Dumitrascu, M , Grigorescu, I. , 2016 . Invasive Terrestrial Plant
+                  Species in the Romanian Protected Areas. . A geographical approach, Romanian
+                  Academy Publishing House </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> McCullagh, P , Nelder, JA , 1989 ..
+                  https://doi.org/10.1007/978-1-4899-3242-6 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Kleinbaum, D. , 1994 .. https://doi.org/10.1007/978-1-4757-4108-7
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Liebetrau, AM , 1983 .. https://doi.org/10.4135/9781412984942
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Nagelkerke, NJD , 1991 .. https://doi.org/10.1093/biomet/78.3.691
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Pontius, Jr RG , Schneider, LC , 2001 ..
+                  https://doi.org/10.1016/S0167-8809(01)00187-6 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Mas, JF , Soares, Filho B , Pontius, RG , Farfan Gutierrez , M ,
+                  Rodrigues, H , 2013 .. https://doi.org/10.3390/ijgi2030869 </mixed-citation>
             </ref>
          </ref-list>
       </sec>

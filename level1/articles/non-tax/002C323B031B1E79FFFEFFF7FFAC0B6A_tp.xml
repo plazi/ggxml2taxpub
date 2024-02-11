@@ -11,7 +11,8 @@
       <article-meta>
          <article-id pub-id-type="doi">http://dx.doi.org/10.3897/zookeys.328.5768</article-id>
          <title-group>
-            <article-title>Rotational Scanning Electron Micrographs (rSEM): A novel and accessible tool to visualize and communicate complex morphology</article-title>
+            <article-title>Rotational Scanning Electron Micrographs (rSEM): A novel and accessible
+               tool to visualize and communicate complex morphology</article-title>
          </title-group>
          <pub-date date-type="pub">
             <year>2013</year>
@@ -80,10 +81,14 @@
    <body>
       <sec sec-type="abstract">
          <title>N/A</title>
-         <p>
-Abstract
-</p>
-         <p>An accessible workflow is presented to create interactive, rotational scanning electron micrographs (rSEM). These information-rich animations facilitate the study and communication of complex morphological structures exemplified here by male arthropod genitalia. Methods are outlined for the publication of rSEMs on the web or in journal articles as SWF files. Image components of rSEMs were archived in MorphBank to ensure future data access. rSEM represents a promising new addition to the toolkit of a new generation of digital taxonomy.</p>
+         <p> Abstract </p>
+         <p>An accessible workflow is presented to create interactive, rotational scanning electron
+            micrographs (rSEM). These information-rich animations facilitate the study and
+            communication of complex morphological structures exemplified here by male arthropod
+            genitalia. Methods are outlined for the publication of rSEMs on the web or in journal
+            articles as SWF files. Image components of rSEMs were archived in MorphBank to ensure
+            future data access. rSEM represents a promising new addition to the toolkit of a new
+            generation of digital taxonomy.</p>
       </sec>
       <sec sec-type="multiple">
          <title>N/A</title>
@@ -92,659 +97,309 @@ Abstract
       <sec sec-type="Introduction">
          <title>N/A</title>
          <p>Introduction</p>
-         <p>
-In the effort to discover, describe and organize the 
-planet's
-biodiversity, taxonomists are faced with the challenge of providing clear and concise diagnostic characters in species descriptions, often involving structures with complex morphology. To address this challenge, a variety of imaging methods have emerged over the past ten years to complement more traditional line drawings, which continue to play an important role 
-in
-species descriptions. Traditionally, diagnostic characters are illustrated in one or a set of standard views to facilitate the comparison of taxa within and between publications by taxonomists and other users. In this current paradigm, characters not or suboptimally visible in these conventional views are difficult for taxonomists to convey and for users to interpret, placing a constraint on the range of published morphological data. These issues are further exacerbated in the case of complex or asymmetrical male genitalia, which are challenging to clearly and accurately describe in words. Multifocal, 
-'stacked'
-images of external structures or habitus are now standard in most taxonomic descriptions and recent advances in micro-computed tomography (
-µCT
-) and magnetic resonance imaging (MRI) promise to yield exciting new character data from both external and internal morphology (i.e., 
-
-, 
-
-, 
-
-); even from non-sclerotized specimens preserved in alcohol (
-
-) or living specimens (
-
-). Both 
-µCT
-and MRI scans can be represented as rotating (
-
-), even interactive (
-
-) animations and have dramatically increased the level of morphological data available to users in one 
-'illustration'
-. Raman-atomic force microscopy has revealed morphological differences in molecular surface structure between various 
-<tp:taxon-name>Diptera</tp:taxon-name>
-taxa, at the nanometer level of resolution (
-
-).
-</p>
-         <p>
-Since the early 1970s (for an early example, see 
-
-), scanning electron microscopy (SEM) has had an increasingly important role in several taxonomic fields, especially the study of 
-<tp:taxon-name>Arthropoda</tp:taxon-name>
-, in exploring the fine surface sculpture and other morphological aspects impossible to assess with a standard stereo- or compound microscope, or poorly resolved at higher magnifications using 
-µCT
-and MRI (e.g., 
-
-; 
-
-, 
-
-; 
-
-, 
-
-; 
-
-; 
-
-; 
-
-). For some millipede families (i.e., 
-<tp:taxon-name>Dalodesmidae</tp:taxon-name>
-Cook, 1896, 
-<tp:taxon-name>Haplodesmidae</tp:taxon-name>
-Cook, 1896) characterized by minute genitalia, descriptions of new taxa are based primarily on SEM, supplemented with line drawings (e.g., 
-
-, 
-
-). Additionally, the level of detail and magnification provided by SEMs are now commonly harnessed to facilitate the interpretation of phylogenetic character states (e.g. 
-
-, 
-
-).
-</p>
-         <p>
-Recently, we have sought for an accessible method to integrate and present diagnostic differences of taxa existing at non-standard and standard angles, using SEM micrographs. Here we describe an SEM image workflow that results in information-rich, rotatable animations (hereafter referred to as rSEMs - rotational scanning electron micrographs), which can be either web published or embedded in PDF articles for publication in journals accepting such media (e.g., ZooKeys). Examples of rSEM from different arthropod groups (
-<tp:taxon-name>Coleoptera</tp:taxon-name>
-, 
-<tp:taxon-name>Diptera</tp:taxon-name>
-, 
-<tp:taxon-name>Myriapoda</tp:taxon-name>
-) are provided.
-</p>
+         <p> In the effort to discover, describe and organize the planet's biodiversity, taxonomists
+            are faced with the challenge of providing clear and concise diagnostic characters in
+            species descriptions, often involving structures with complex morphology. To address
+            this challenge, a variety of imaging methods have emerged over the past ten years to
+            complement more traditional line drawings, which continue to play an important role in
+            species descriptions. Traditionally, diagnostic characters are illustrated in one or a
+            set of standard views to facilitate the comparison of taxa within and between
+            publications by taxonomists and other users. In this current paradigm, characters not or
+            suboptimally visible in these conventional views are difficult for taxonomists to convey
+            and for users to interpret, placing a constraint on the range of published morphological
+            data. These issues are further exacerbated in the case of complex or asymmetrical male
+            genitalia, which are challenging to clearly and accurately describe in words.
+            Multifocal, 'stacked' images of external structures or habitus are now standard in most
+            taxonomic descriptions and recent advances in micro-computed tomography ( µCT ) and
+            magnetic resonance imaging (MRI) promise to yield exciting new character data from both
+            external and internal morphology (i.e., , , ); even from non-sclerotized specimens
+            preserved in alcohol ( ) or living specimens ( ). Both µCT and MRI scans can be
+            represented as rotating ( ), even interactive ( ) animations and have dramatically
+            increased the level of morphological data available to users in one 'illustration' .
+            Raman-atomic force microscopy has revealed morphological differences in molecular
+            surface structure between various <tp:taxon-name>Diptera</tp:taxon-name> taxa, at the
+            nanometer level of resolution ( ). </p>
+         <p> Since the early 1970s (for an early example, see ), scanning electron microscopy (SEM)
+            has had an increasingly important role in several taxonomic fields, especially the study
+            of <tp:taxon-name>Arthropoda</tp:taxon-name> , in exploring the fine surface sculpture
+            and other morphological aspects impossible to assess with a standard stereo- or compound
+            microscope, or poorly resolved at higher magnifications using µCT and MRI (e.g., ; , ; ,
+            ; ; ; ). For some millipede families (i.e., <tp:taxon-name>Dalodesmidae</tp:taxon-name>
+            Cook, 1896, <tp:taxon-name>Haplodesmidae</tp:taxon-name> Cook, 1896) characterized by
+            minute genitalia, descriptions of new taxa are based primarily on SEM, supplemented with
+            line drawings (e.g., , ). Additionally, the level of detail and magnification provided
+            by SEMs are now commonly harnessed to facilitate the interpretation of phylogenetic
+            character states (e.g. , ). </p>
+         <p> Recently, we have sought for an accessible method to integrate and present diagnostic
+            differences of taxa existing at non-standard and standard angles, using SEM micrographs.
+            Here we describe an SEM image workflow that results in information-rich, rotatable
+            animations (hereafter referred to as rSEMs - rotational scanning electron micrographs),
+            which can be either web published or embedded in PDF articles for publication in
+            journals accepting such media (e.g., ZooKeys). Examples of rSEM from different arthropod
+            groups ( <tp:taxon-name>Coleoptera</tp:taxon-name> ,
+               <tp:taxon-name>Diptera</tp:taxon-name> , <tp:taxon-name>Myriapoda</tp:taxon-name> )
+            are provided. </p>
       </sec>
       <sec sec-type="Specimen preparation and mounting">
          <title>N/A</title>
          <p>Specimen preparation and mounting</p>
-         <p>
-Larger, dry specimens were mounted (see below) without special cleaning or dehydration. Specimens preserved in 70% ethanol or glycerin were first cleaned of debris and 
-then
-dehydrated in 96% ethanol, then acetone, and air dried before mounting. Fragile specimens (e.g. small flies, nymphs, larvae) should be dried using critical point drying to avoid shriveling or collapsing (
-
-). Specimens with a broad, flattened base can be mounted directly onto the SEM stub (Fig. 1A). The majority of specimens will have a much smaller contact point with the stub and should be attached via flexible secondary mounts consisting of electrical tape or thin, aluminum wire (Fig. 1B). Specimens should be mounted as close to the center of rotation and as perpendicular to the SEM stub surface as possible (Fig. 1), to reduce image alignment difficulties and 
-'swaying'
-rSEMs. Secondary mounts allow manipulation of the specimen to the optimal position, even after coating.
-</p>
+         <p> Larger, dry specimens were mounted (see below) without special cleaning or dehydration.
+            Specimens preserved in 70% ethanol or glycerin were first cleaned of debris and then
+            dehydrated in 96% ethanol, then acetone, and air dried before mounting. Fragile
+            specimens (e.g. small flies, nymphs, larvae) should be dried using critical point drying
+            to avoid shriveling or collapsing ( ). Specimens with a broad, flattened base can be
+            mounted directly onto the SEM stub (Fig. 1A). The majority of specimens will have a much
+            smaller contact point with the stub and should be attached via flexible secondary mounts
+            consisting of electrical tape or thin, aluminum wire (Fig. 1B). Specimens should be
+            mounted as close to the center of rotation and as perpendicular to the SEM stub surface
+            as possible (Fig. 1), to reduce image alignment difficulties and 'swaying' rSEMs.
+            Secondary mounts allow manipulation of the specimen to the optimal position, even after
+            coating. </p>
          <p>Image Acquisition and processing</p>
-         <p>For users unfamiliar with the elements of this workflow, a step-by-step set of instructions is provided in provided in Appendix 1. Specimens were sputter-coated with platinum/palladium and studied with a JEOL JSM-6335F scanning electron microscope. Note that the microscope stage MUST be able to tilt to 90° in order to produce a usable animation (Fig. 2). Images were taken at fixed rotational intervals and named sequentially.</p>
-         <p>
-Images were then processed (adjusting the exposure, contrast, highlights, shadows, whites, blacks) and cropped to improve image quality and detail, and to ensure that all images were 
-'aligned'
-, such that they form a smooth transition when browsed in sequence. Images were exported as JPG. Image processing can be accomplished using subscription based software such as Adobe® Lightroom® or Photoshop®, or open-source software such as ImageJ (http://rsbweb.nih.gov/ij/). The images can now be integrated into an animation for submission to a scientific journal or published on a website. The individual images generated for this study were archived in MorphBank under object #830913, 830920-830935, 830953-830970 and 831016-831034; they can be found together by searching for collection 
-'rSEM'
-.
-</p>
-         <p>
-Creation
-of rSEMs for submission to a journal
-</p>
-         <p>
-rSEMs in the present article and in 
-
-were submitted as SWF files. These files were embedded in the PDF version of each article by the publisher and therefore instructions for this procedure are not included here. Depending on the journal, SWF files may be embedded or included as downloadable, supplementary figures (Appendix 1 and 2). We have opted for the integrated nature of embedded files as plates rather than disjointed supplementary files. The creation of rSEMs was performed using Adobe® Flash® CS5, which were then exported as SWF files. Images were inserted as individual key frames and animated using the following Action Script in the action palette (script by 
-'winlwin'
-, http://www.icodesnip.com/snippet/actionscript-3/360-degree-view):
-</p>
-         <p>import flash.events.Event; instancename.stop(); var frameTo:Number=0; addEventListener(Event.ENTER_FRAME,goTo); function goTo(e:Event):void {frameTo=int(mouseX/stage.stageWidth*instancename.totalFrames)+1; instancename.gotoAndStop(frameTo);}</p>
-         <p>
-Web
-publication of rSEM
-</p>
-         <p>
-To publish an rSEM on the web, a program or web plug-in is needed to integrate the images into an animation. There is a multitude of these available online of varying quality and functionality (search 'object 
-viewer'
-or '360 
-panorama'
-) ranging from subscription-based (Magic 360
-(TM)
-(http://www.magictoolbox.com/magic360/)) to free and open-source (Reel© 1.2.1 (http://jquery.vostrel.cz/reel#dict)). A set of scripts needs to be downloaded and a folder containing the sequentially numbered images should be created. We have tested the two previously mentioned options and both result in web 
-animations
-that are compatible with all operating systems, including mobile devices. For full instructions, readers are directed to the tutorials provided by the publishers (see links above). The rSEMs included in the html version of 
-
-and the present paper (Figs 3-5) were created using Reel 1.2.1, and an example of Magic 360 output is given in Appendix 2.
-</p>
+         <p>For users unfamiliar with the elements of this workflow, a step-by-step set of
+            instructions is provided in provided in Appendix 1. Specimens were sputter-coated with
+            platinum/palladium and studied with a JEOL JSM-6335F scanning electron microscope. Note
+            that the microscope stage MUST be able to tilt to 90° in order to produce a usable
+            animation (Fig. 2). Images were taken at fixed rotational intervals and named
+            sequentially.</p>
+         <p> Images were then processed (adjusting the exposure, contrast, highlights, shadows,
+            whites, blacks) and cropped to improve image quality and detail, and to ensure that all
+            images were 'aligned' , such that they form a smooth transition when browsed in
+            sequence. Images were exported as JPG. Image processing can be accomplished using
+            subscription based software such as Adobe® Lightroom® or Photoshop®, or open-source
+            software such as ImageJ (http://rsbweb.nih.gov/ij/). The images can now be integrated
+            into an animation for submission to a scientific journal or published on a website. The
+            individual images generated for this study were archived in MorphBank under object
+            #830913, 830920-830935, 830953-830970 and 831016-831034; they can be found together by
+            searching for collection 'rSEM' . </p>
+         <p> Creation of rSEMs for submission to a journal </p>
+         <p> rSEMs in the present article and in were submitted as SWF files. These files were
+            embedded in the PDF version of each article by the publisher and therefore instructions
+            for this procedure are not included here. Depending on the journal, SWF files may be
+            embedded or included as downloadable, supplementary figures (Appendix 1 and 2). We have
+            opted for the integrated nature of embedded files as plates rather than disjointed
+            supplementary files. The creation of rSEMs was performed using Adobe® Flash® CS5, which
+            were then exported as SWF files. Images were inserted as individual key frames and
+            animated using the following Action Script in the action palette (script by 'winlwin' ,
+            http://www.icodesnip.com/snippet/actionscript-3/360-degree-view): </p>
+         <p>import flash.events.Event; instancename.stop(); var frameTo:Number=0;
+            addEventListener(Event.ENTER_FRAME,goTo); function goTo(e:Event):void
+            {frameTo=int(mouseX/stage.stageWidth*instancename.totalFrames)+1;
+            instancename.gotoAndStop(frameTo);}</p>
+         <p> Web publication of rSEM </p>
+         <p> To publish an rSEM on the web, a program or web plug-in is needed to integrate the
+            images into an animation. There is a multitude of these available online of varying
+            quality and functionality (search 'object viewer' or '360 panorama' ) ranging from
+            subscription-based (Magic 360 (TM) (http://www.magictoolbox.com/magic360/)) to free and
+            open-source (Reel© 1.2.1 (http://jquery.vostrel.cz/reel#dict)). A set of scripts needs
+            to be downloaded and a folder containing the sequentially numbered images should be
+            created. We have tested the two previously mentioned options and both result in web
+            animations that are compatible with all operating systems, including mobile devices. For
+            full instructions, readers are directed to the tutorials provided by the publishers (see
+            links above). The rSEMs included in the html version of and the present paper (Figs 3-5)
+            were created using Reel 1.2.1, and an example of Magic 360 output is given in Appendix
+            2. </p>
       </sec>
       <sec sec-type="Discussion">
          <title>N/A</title>
-         <p>
-Discussion
-</p>
-         <p>
-The workflow described herein will generate interactive, information-rich animations that facilitate both the study and communication of complex morphology in systematics (Figs 3-5). rSEMs combine sharply detailed SEM micrographs into a single, holistic representation of a structure that may even reveal diagnostic characters visible but yet unnoticed when using a light microscope. The use of SEM is not always optimal or appropriate as users may not have access to facilities or cannot image large, fragile or unique specimens. In these cases, morphological characters will still need to be illustrated by line drawings or stacked images, despite their potential complexity. Differ 
-ences
-in color and degree of sclerotization are also lost in SEM. However, rSEMs can be created using technology and software in widespread use and provide an accessible alternative to other imaging methods such as 
-µCT
-if the user is focused on structural aspects of external morphology. As HTML5 is becoming more prominent than Flash® as a media development standard, an update is planned to incorporate instructions for developing rSEM in HTML5. rSEMs are integrated into a taxonomic revision for the first time in a companion article (
-
-) to provide clear, accurate and user-accessible descriptions of morphological structures, which are typically difficult to interpret without taxonomic expertise.
-</p>
-         <p>
-With the development of Web 2.0 and Open Access publishing, the demand for image quality and methods for visualizing taxonomic traits has increased. Recently, publishing 3D models and embedding multimedia files in biomedical journals has become common practice (e.g. 
-
-, 
-
-). However, the adoption of such media in taxonomy is still relatively scattered, and is mostly limited to MRI and Micro-computed Tomography (e.g. 
-
-, 
-
-, 
-
-, 
-
-). This may be due to the perception that sophisticated imaging requires special software, e-infrastructure and significant funding. The rSEM workflow provided here demonstrates this to be incorrect. The workflow does not require special equipment beyond that of a scanning electron microscope and the processing and integration of images can be accomplished using photo editing software and Adobe Flash CS5 or a plug-in such as Reel 1.2.1.
-</p>
-         <p>
-Here, additional rSEMs of arthropod genitalia were provided as examples of complex morphology. However, this approach could easily be extended to structures than other genitalia, and could be applied to the illustration of a phylogenetically important character system (e.g., a rotatable insect head capsule). So far, we have only animated rSEM in the x-axis because our test structures varied mainly along the y-axis. However, illustration of structures along both x and y-axes of rotation, while requiring many more images, may be a powerful form of data delivery in certain situations. For example, if a finely controlled, electronic stage is available, full-color, rotatable habitus images could be produced using a dissecting microscope and stacking software. There are clearly far more applications of rSEM or rSEM-like animations than we have presented here, and we encourage readers to experiment with this technique in their own scientific exploration of 
-Earth's
-biodiversity.
-</p>
+         <p> Discussion </p>
+         <p> The workflow described herein will generate interactive, information-rich animations
+            that facilitate both the study and communication of complex morphology in systematics
+            (Figs 3-5). rSEMs combine sharply detailed SEM micrographs into a single, holistic
+            representation of a structure that may even reveal diagnostic characters visible but yet
+            unnoticed when using a light microscope. The use of SEM is not always optimal or
+            appropriate as users may not have access to facilities or cannot image large, fragile or
+            unique specimens. In these cases, morphological characters will still need to be
+            illustrated by line drawings or stacked images, despite their potential complexity.
+            Differ ences in color and degree of sclerotization are also lost in SEM. However, rSEMs
+            can be created using technology and software in widespread use and provide an accessible
+            alternative to other imaging methods such as µCT if the user is focused on structural
+            aspects of external morphology. As HTML5 is becoming more prominent than Flash® as a
+            media development standard, an update is planned to incorporate instructions for
+            developing rSEM in HTML5. rSEMs are integrated into a taxonomic revision for the first
+            time in a companion article ( ) to provide clear, accurate and user-accessible
+            descriptions of morphological structures, which are typically difficult to interpret
+            without taxonomic expertise. </p>
+         <p> With the development of Web 2.0 and Open Access publishing, the demand for image
+            quality and methods for visualizing taxonomic traits has increased. Recently, publishing
+            3D models and embedding multimedia files in biomedical journals has become common
+            practice (e.g. , ). However, the adoption of such media in taxonomy is still relatively
+            scattered, and is mostly limited to MRI and Micro-computed Tomography (e.g. , , , ).
+            This may be due to the perception that sophisticated imaging requires special software,
+            e-infrastructure and significant funding. The rSEM workflow provided here demonstrates
+            this to be incorrect. The workflow does not require special equipment beyond that of a
+            scanning electron microscope and the processing and integration of images can be
+            accomplished using photo editing software and Adobe Flash CS5 or a plug-in such as Reel
+            1.2.1. </p>
+         <p> Here, additional rSEMs of arthropod genitalia were provided as examples of complex
+            morphology. However, this approach could easily be extended to structures than other
+            genitalia, and could be applied to the illustration of a phylogenetically important
+            character system (e.g., a rotatable insect head capsule). So far, we have only animated
+            rSEM in the x-axis because our test structures varied mainly along the y-axis. However,
+            illustration of structures along both x and y-axes of rotation, while requiring many
+            more images, may be a powerful form of data delivery in certain situations. For example,
+            if a finely controlled, electronic stage is available, full-color, rotatable habitus
+            images could be produced using a dissecting microscope and stacking software. There are
+            clearly far more applications of rSEM or rSEM-like animations than we have presented
+            here, and we encourage readers to experiment with this technique in their own scientific
+            exploration of Earth's biodiversity. </p>
       </sec>
       <sec sec-type="acknowledgements">
          <title>N/A</title>
          <p>Acknowledgements</p>
-         <p>We are grateful to Nikolaj Scharff (Copenhagen) for sharing some insights on SEM mounting techniques, Petr Vostrel for making his Reel plug-in freely available online. Daniel Mietchen, Pavel Stoev and one anonymous reviewer provided comments that greatly improved this manuscript.</p>
+         <p>We are grateful to Nikolaj Scharff (Copenhagen) for sharing some insights on SEM
+            mounting techniques, Petr Vostrel for making his Reel plug-in freely available online.
+            Daniel Mietchen, Pavel Stoev and one anonymous reviewer provided comments that greatly
+            improved this manuscript.</p>
       </sec>
       <sec sec-type="reference_group">
          <title>N/A</title>
          <ref-list>
             <ref>
-               <mixed-citation>
-Andersen, MS
-, 
-Gaimari, SD
-, 
-2003
-. 
-Raman-atomic force microscopy of the ommatidial surfaces of Dipteran compound eyes.
-. 
-Journal of Structural Biology
-142
-: 
-364 - 368
-</mixed-citation>
+               <mixed-citation> Andersen, MS , Gaimari, SD , 2003 . Raman-atomic force microscopy of
+                  the ommatidial surfaces of Dipteran compound eyes. . Journal of Structural Biology
+                  142 : 364 - 368 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Akkari, N
-, 
-Cheung, DK-B
-, 
-Enghoff, H
-, 
-Stoev, P
-, 
-2013
-. 
-Revolving SEM images visualising 3D taxonomic characters: application to six species of the millipede genus Ommatoiulus Latzel, 1884, with description of seven new species and an interactive key to the Tunisian members of the genus (Diplopoda, Julida, Julidae).
-. 
-ZooKeys
-328
-: 
-5 - 45
-</mixed-citation>
+               <mixed-citation> Akkari, N , Cheung, DK-B , Enghoff, H , Stoev, P , 2013 . Revolving
+                  SEM images visualising 3D taxonomic characters: application to six species of the
+                  millipede genus Ommatoiulus Latzel, 1884, with description of seven new species
+                  and an interactive key to the Tunisian members of the genus (Diplopoda, Julida,
+                  Julidae). . ZooKeys 328 : 5 - 45 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Akkari, N
-, 
-Enghoff, H
-, 
-2011
-. 
-On some surface structures of potential taxonomic importance in families of the suborders Polydesmidea and Dalodesmidea (Polydesmida, Diplopoda).
-. 
-Zookeys
-156
-: 
-1 - 24
-</mixed-citation>
+               <mixed-citation> Akkari, N , Enghoff, H , 2011 . On some surface structures of
+                  potential taxonomic importance in families of the suborders Polydesmidea and
+                  Dalodesmidea (Polydesmida, Diplopoda). . Zookeys 156 : 1 - 24 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Akkari, N
-, 
-Enghoff, H
-, 
-2012
-. 
-Review of the genus Ommatoiulus in Andalusia, Spain (Diplopoda: Julida) with description of ten new species and notes on a remarkable gonopod structure, the fovea.
-. 
-Zootaxa
-2528
-: 
-1 - 53
-</mixed-citation>
+               <mixed-citation> Akkari, N , Enghoff, H , 2012 . Review of the genus Ommatoiulus in
+                  Andalusia, Spain (Diplopoda: Julida) with description of ten new species and notes
+                  on a remarkable gonopod structure, the fovea. . Zootaxa 2528 : 1 - 53
+               </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Beutel, R
-, 
-Ge, S
-, 
-
-Hoernschemeyer
-, T
-
-, 
-2008
-. 
-On the head morphology of Tetraphalerus, the phylogeny of Archostemata and the basal branching events in Coleoptera.
-. 
-Cladistics
-24
-: 
-270 - 298
-</mixed-citation>
+               <mixed-citation> Beutel, R , Ge, S , Hoernschemeyer , T , 2008 . On the head
+                  morphology of Tetraphalerus, the phylogeny of Archostemata and the basal branching
+                  events in Coleoptera. . Cladistics 24 : 270 - 298 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Boistel, R
-, 
-Swoger, J
-, 
-
-Krzic
-, U
-
-, 
-Fernandez, V
-, 
-Gillet, B
-, 
-Reynaud, EG
-, 
-2011
-. 
-The future of three-dimensional microscopic imaging in marine biology.
-. 
-Marine Ecology
-32
-: 
-438 - 452
-</mixed-citation>
+               <mixed-citation> Boistel, R , Swoger, J , Krzic , U , Fernandez, V , Gillet, B ,
+                  Reynaud, EG , 2011 . The future of three-dimensional microscopic imaging in marine
+                  biology. . Marine Ecology 32 : 438 - 452 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Chani-Posse, M
-, 
-2013
-. 
-Towards a natural classification of the subtribe Philonthina (Coleoptera: Staphylinidae: Staphylinini): a phylogenetic analysis of the Neotropical genera.
-. 
-Systematic Entomology
-38
-: 
-390 - 406
-</mixed-citation>
+               <mixed-citation> Chani-Posse, M , 2013 . Towards a natural classification of the
+                  subtribe Philonthina (Coleoptera: Staphylinidae: Staphylinini): a phylogenetic
+                  analysis of the Neotropical genera. . Systematic Entomology 38 : 390 - 406
+               </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Edgecombe, DG
-, 
-Hollington, LM
-, 
-2005
-. 
-Morphology and relationships of a new species of Henicops (Chilopoda: Lithobiomorpha) from New South Wales and Queensland, Australia.
-. 
-Zootaxa
-961
-: 
-1 - 20
-</mixed-citation>
+               <mixed-citation> Edgecombe, DG , Hollington, LM , 2005 . Morphology and relationships
+                  of a new species of Henicops (Chilopoda: Lithobiomorpha) from New South Wales and
+                  Queensland, Australia. . Zootaxa 961 : 1 - 20 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Faulwetter, S
-, 
-Vasileiadou, A
-, 
-Kouratoras, M
-, 
-Dailianis, T
-, 
-Arvanitidis, C
-, 
-2013
-. 
-Micro-computed tomography: introducing new dimensions to taxonomy.
-. 
-ZooKeys
-263
-: 
-1 - 45
-</mixed-citation>
+               <mixed-citation> Faulwetter, S , Vasileiadou, A , Kouratoras, M , Dailianis, T ,
+                  Arvanitidis, C , 2013 . Micro-computed tomography: introducing new dimensions to
+                  taxonomy. . ZooKeys 263 : 1 - 45 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Grzywacz, A
-, 
-Szpila, K
-, 
-Pape, T
-, 
-2012
-. 
-Egg morphology of nine species of Pollenia Robineau-Desvoidy, 1830 (Diptera: Calliphoridae).
-. 
-Microscopy Research and Technique
-75
-: 
-955 - 967
-</mixed-citation>
+               <mixed-citation> Grzywacz, A , Szpila, K , Pape, T , 2012 . Egg morphology of nine
+                  species of Pollenia Robineau-Desvoidy, 1830 (Diptera: Calliphoridae). . Microscopy
+                  Research and Technique 75 : 955 - 967 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Hart, AG
-, 
-Bowtell, RW
-, 
-Kockenberger, W
-, 
-Wenseleers, T
-, 
-Ratnieks, FLW
-, 
-2003
-. 
-Magnetic resonance imaging in entomology: a critical review.
-. 
-Journal of Insect Science
-3
-: 
-1 - 9
-</mixed-citation>
+               <mixed-citation> Hart, AG , Bowtell, RW , Kockenberger, W , Wenseleers, T , Ratnieks,
+                  FLW , 2003 . Magnetic resonance imaging in entomology: a critical review. .
+                  Journal of Insect Science 3 : 1 - 9 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Herman, LH
-, 
-1972
-. 
-Revision of Bledius and related genera. Part I. The aequatorialis, mandibularis, and semiferrugineus groups and two new genera (Coleoptera, Staphylinidae, Oxytelinae).
-. 
-Bulletin of the American Museum of Natural History
-149
-: 
-111 - 254
-</mixed-citation>
+               <mixed-citation> Herman, LH , 1972 . Revision of Bledius and related genera. Part I.
+                  The aequatorialis, mandibularis, and semiferrugineus groups and two new genera
+                  (Coleoptera, Staphylinidae, Oxytelinae). . Bulletin of the American Museum of
+                  Natural History 149 : 111 - 254 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Laforsch, C
-, 
-Imhof, H
-, 
-Sigl, R
-, 
-Settles, M
-, 
-
-Hess
-, M
-
-, 
-Wanninger, A
-, 
-Alexandru, C
-, 
-2012
-. 
-InTech, Rijeka
-. 10.5772/31092
-</mixed-citation>
+               <mixed-citation> Laforsch, C , Imhof, H , Sigl, R , Settles, M , Hess , M ,
+                  Wanninger, A , Alexandru, C , 2012 . InTech, Rijeka . 10.5772/31092
+               </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-
-Lowe
-, T
-
-, 
-Garwood,, RJ
-, 
-Simonsen,, TJ
-, 
-Bradley,, RS
-, 
-Withers, PJ
-, 
-2013
-. 
-Imaging inside a living chrysalis. Journal of the Royal Society Interface 10, 20130304.
-. 10.1098/rsif.2013.0304
-</mixed-citation>
+               <mixed-citation> Lowe , T , Garwood,, RJ , Simonsen,, TJ , Bradley,, RS , Withers, PJ
+                  , 2013 . Imaging inside a living chrysalis. Journal of the Royal Society Interface
+                  10, 20130304. . 10.1098/rsif.2013.0304 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Mesibov, R
-, 
-2008
-. 
-The millipede genera Gephyrodesmus Jeekel, 1983 and Orthorhachis Jeekel, 1985 in southeastern Australia, a new Lissodesmus Chamberlin, 1920 from Victoria, and observations on male leg setae, spinnerets and metatergite sculpture (Diplopoda: Polydesmida: Dalodesmidae).
-. 
-Zootaxa
-1790
-: 
-1 - 52
-</mixed-citation>
+               <mixed-citation> Mesibov, R , 2008 . The millipede genera Gephyrodesmus Jeekel, 1983
+                  and Orthorhachis Jeekel, 1985 in southeastern Australia, a new Lissodesmus
+                  Chamberlin, 1920 from Victoria, and observations on male leg setae, spinnerets and
+                  metatergite sculpture (Diplopoda: Polydesmida: Dalodesmidae). . Zootaxa 1790 : 1 -
+                  52 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Mesibov, R
-, 
-2009
-. 
-Revision of Agathodesmus Silvestri, 1910 (Diplopoda, Polydesmida, Haplodesmidae).
-. 
-Zookeys
-12
-: 
-87 - 110
-</mixed-citation>
+               <mixed-citation> Mesibov, R , 2009 . Revision of Agathodesmus Silvestri, 1910
+                  (Diplopoda, Polydesmida, Haplodesmidae). . Zookeys 12 : 87 - 110 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Mietchen, D
-, 
-Aberhan, M
-, 
-Manz, B
-, 
-Hampe, O
-, 
-Mohr, B
-, 
-Neumann, C
-, 
-Volke, F
-, 
-2008
-. 
-Three-dimensional magnetic resonance imaging of fossils across taxa.
-. 
-Biogeosciences
-5
-, 25 pp.
-</mixed-citation>
+               <mixed-citation> Mietchen, D , Aberhan, M , Manz, B , Hampe, O , Mohr, B , Neumann, C
+                  , Volke, F , 2008 . Three-dimensional magnetic resonance imaging of fossils across
+                  taxa. . Biogeosciences 5 , 25 pp. </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Miller, JA
-, 
-Griswold, CE
-, 
-Scharff, N
-, 
-
-Řezac
-, M
-
-, 
-
-Szűts
-, T
-
-, 
-Marhabaie, M
-, 
-2012
-. 
-The velvet spiders: an atlas of the Eresidae (Arachnida, Araneae).
-. 
-ZooKeys
-195
-: 
-1 - 144
-</mixed-citation>
+               <mixed-citation> Miller, JA , Griswold, CE , Scharff, N , Řezac , M , Szűts , T ,
+                  Marhabaie, M , 2012 . The velvet spiders: an atlas of the Eresidae (Arachnida,
+                  Araneae). . ZooKeys 195 : 1 - 144 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Oster, G
-, 
-Pollister, A
-, 
-1966
-. 
-Physical techniques in biological research.
-. 
-New York: Academic Press
-, 310 pp.
-</mixed-citation>
+               <mixed-citation> Oster, G , Pollister, A , 1966 . Physical techniques in biological
+                  research. . New York: Academic Press , 310 pp. </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Rota, J
-, 
-2005
-. 
-Larval and pupal descriptions of the Neotropical choreutid genera Rhobonda Walker and Zodia Heppner (Lepidoptera: Choreutidae).
-. 
-Annals of the Entomological Society of America
-98
-: 
-37 - 47
-</mixed-citation>
+               <mixed-citation> Rota, J , 2005 . Larval and pupal descriptions of the Neotropical
+                  choreutid genera Rhobonda Walker and Zodia Heppner (Lepidoptera: Choreutidae). .
+                  Annals of the Entomological Society of America 98 : 37 - 47 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Shear, W
-, 
-2012
-. 
-Snoqualmia, a new polydesmid millipede genus from the northwestern United States, with a description of two new species (Diplopoda, Polydesmida, Polydesmidae).
-. 
-Insecta Mundi
-238
-: 
-1 - 13
-</mixed-citation>
+               <mixed-citation> Shear, W , 2012 . Snoqualmia, a new polydesmid millipede genus from
+                  the northwestern United States, with a description of two new species (Diplopoda,
+                  Polydesmida, Polydesmidae). . Insecta Mundi 238 : 1 - 13 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Tyzack, JK
-, 
-2008
-. 
-Dragging (and zooming and rotating) publication of 3D molecular structures into the 21st century.
-. 
-Trends in Biochemical Sciences
-33
-: 
-405 - 407
-</mixed-citation>
+               <mixed-citation> Tyzack, JK , 2008 . Dragging (and zooming and rotating) publication
+                  of 3D molecular structures into the 21st century. . Trends in Biochemical Sciences
+                  33 : 405 - 407 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Whitmore, D
-, 
-2009
-. 
-A review of the Sarcophaga (Heteronychia) (Diptera: Sarcophagidae) of Sardinia.
-. 
-Zootaxa
-2318
-: 
-566 - 588
-</mixed-citation>
+               <mixed-citation> Whitmore, D , 2009 . A review of the Sarcophaga (Heteronychia)
+                  (Diptera: Sarcophagidae) of Sardinia. . Zootaxa 2318 : 566 - 588 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Whitmore, D
-, 
-2011
-. 
-New taxonomic and nomenclatural data on Sarcophaga (Heteronychia) (Diptera: Sarcophagidae), with description of six new species.
-. 
-Zootaxa
-2778
-: 
-1 - 57
-</mixed-citation>
+               <mixed-citation> Whitmore, D , 2011 . New taxonomic and nomenclatural data on
+                  Sarcophaga (Heteronychia) (Diptera: Sarcophagidae), with description of six new
+                  species. . Zootaxa 2778 : 1 - 57 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Ziegler, A
-, 
-Mietchen, D
-, 
-Faber, C
-, 
-von Hausen, W
-, 
-
-Schoebel
-, Ch
-
-, 
-Sellerer, M
-, 
-Ziegler, A
-, 
-2011
-. 
-Effectively incorporating selected multimedia content into medical publications.
-. 
-BMC Medicine
-9
-, 17 pp.
-</mixed-citation>
+               <mixed-citation> Ziegler, A , Mietchen, D , Faber, C , von Hausen, W , Schoebel , Ch
+                  , Sellerer, M , Ziegler, A , 2011 . Effectively incorporating selected multimedia
+                  content into medical publications. . BMC Medicine 9 , 17 pp. </mixed-citation>
             </ref>
          </ref-list>
       </sec>
       <sec sec-type="inferred">
          <title>Orphanage</title>
-         <p>
-Appendix
-1
-</p>
+         <p> Appendix 1 </p>
       </sec>
       <sec sec-type="inferred">
          <title>Orphanage</title>
-         <p>New user guide to the creation and publication of rSEM (doi: 10.3897/zookeys.328.5768.app1) File format: Microsoft Word document (doc).</p>
+         <p>New user guide to the creation and publication of rSEM (doi:
+            10.3897/zookeys.328.5768.app1) File format: Microsoft Word document (doc).</p>
       </sec>
       <sec sec-type="inferred">
          <title>Orphanage</title>
-         <p>Explanation note: A step-by-step style of instructions for new users, involving the software used by the authors. Note: in the future, these instructions may not correspond exactly with the interfaces of the corresponding software.</p>
+         <p>Explanation note: A step-by-step style of instructions for new users, involving the
+            software used by the authors. Note: in the future, these instructions may not correspond
+            exactly with the interfaces of the corresponding software.</p>
       </sec>
       <sec sec-type="inferred">
          <title>Orphanage</title>
@@ -752,15 +407,13 @@ Appendix
       </sec>
       <sec sec-type="inferred">
          <title>Orphanage</title>
-         <p>
-rSEM illustrating the distiphallus of 
-<tp:taxon-name>Oxysarcodexia (Xylocamptopsis) fringidea</tp:taxon-name>
-(Curran &amp; Walley) (
-<tp:taxon-name>Sarcophagidae</tp:taxon-name>
-, 
-<tp:taxon-name>Diptera</tp:taxon-name>
-); web-published using Magic 360TM script files. Click and drag to rotate the rSEM and point click to open and close the magnification tool. (doi: 10.3897/zookeys.328.5768.app2) File format: Hypertext Markup Document, archived (zip).
-</p>
+         <p> rSEM illustrating the distiphallus of <tp:taxon-name>Oxysarcodexia (Xylocamptopsis)
+               fringidea</tp:taxon-name> (Curran &amp; Walley) (
+               <tp:taxon-name>Sarcophagidae</tp:taxon-name> , <tp:taxon-name>Diptera</tp:taxon-name>
+            ); web-published using Magic 360TM script files. Click and drag to rotate the rSEM and
+            point click to open and close the magnification tool. (doi:
+            10.3897/zookeys.328.5768.app2) File format: Hypertext Markup Document, archived (zip).
+         </p>
       </sec>
       <sec sec-type="inferred">
          <title>Orphanage</title>

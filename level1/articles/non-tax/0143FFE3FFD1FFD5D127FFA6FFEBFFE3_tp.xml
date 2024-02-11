@@ -11,7 +11,8 @@
       <article-meta>
          <article-id pub-id-type="doi">http://dx.doi.org/10.3897/zookeys.332.5339</article-id>
          <title-group>
-            <article-title>Endemism patterns in the Italian leaf beetle fauna (Coleoptera, Chrysomelidae)</article-title>
+            <article-title>Endemism patterns in the Italian leaf beetle fauna (Coleoptera,
+               Chrysomelidae)</article-title>
          </title-group>
          <pub-date date-type="pub">
             <year>2013</year>
@@ -969,10 +970,7 @@
                <tp:taxon-name>Neocrepidodera ligurica</tp:taxon-name>
             </kwd>
             <kwd content-type="mentioned-taxon">
-               <tp:taxon-name>
-Cryptocephalus
-paganensis
-</tp:taxon-name>
+               <tp:taxon-name> Cryptocephalus paganensis </tp:taxon-name>
             </kwd>
             <kwd content-type="mentioned-taxon">
                <tp:taxon-name>Longitarsus springeri</tp:taxon-name>
@@ -1023,10 +1021,7 @@ paganensis
                <tp:taxon-name>Timarcha cornuta</tp:taxon-name>
             </kwd>
             <kwd content-type="mentioned-taxon">
-               <tp:taxon-name>
-Timarcha
-apuana
-</tp:taxon-name>
+               <tp:taxon-name> Timarcha apuana </tp:taxon-name>
             </kwd>
             <kwd content-type="mentioned-taxon">
                <tp:taxon-name>Chrysolina osellai</tp:taxon-name>
@@ -1047,10 +1042,7 @@ apuana
                <tp:taxon-name>Chrysomelidae</tp:taxon-name>
             </kwd>
             <kwd content-type="mentioned-taxon">
-               <tp:taxon-name>
-Neocrepidodera
-nobilis
-</tp:taxon-name>
+               <tp:taxon-name> Neocrepidodera nobilis </tp:taxon-name>
             </kwd>
             <kwd content-type="mentioned-taxon">
                <tp:taxon-name>Neocrepidodera obirensis</tp:taxon-name>
@@ -1155,10 +1147,7 @@ nobilis
                <tp:taxon-name>Timarcha sardea</tp:taxon-name>
             </kwd>
             <kwd content-type="mentioned-taxon">
-               <tp:taxon-name>
-Aphthona
-wagneri
-</tp:taxon-name>
+               <tp:taxon-name> Aphthona wagneri </tp:taxon-name>
             </kwd>
             <kwd content-type="mentioned-taxon">
                <tp:taxon-name>Aphthona perrisi</tp:taxon-name>
@@ -1175,2041 +1164,800 @@ wagneri
    <body>
       <sec sec-type="abstract">
          <title>N/A</title>
-         <p>
-Abstract
-</p>
-         <p>
-In this contribution the results of a zoogeographical analysis, carried out on the 123 endemic leaf beetle species (Coleoptera: Chrysomelidae) occurring in Italy and its immediately adjacent regions, are reported. To assess the level of faunistic similarity among the different geographic regions studied, a cluster analysis was performed, based on the endemic component. This was done by calculating the Baroni Urbani &amp; 
-Buser's
-similarity index (BUB). Finally, a parsimony analysis of endemicity (PAE) was used to identify the most important areas of endemism in Italy.
-</p>
+         <p> Abstract </p>
+         <p> In this contribution the results of a zoogeographical analysis, carried out on the 123
+            endemic leaf beetle species (Coleoptera: Chrysomelidae) occurring in Italy and its
+            immediately adjacent regions, are reported. To assess the level of faunistic similarity
+            among the different geographic regions studied, a cluster analysis was performed, based
+            on the endemic component. This was done by calculating the Baroni Urbani &amp; Buser's
+            similarity index (BUB). Finally, a parsimony analysis of endemicity (PAE) was used to
+            identify the most important areas of endemism in Italy. </p>
       </sec>
       <sec sec-type="multiple">
          <title>N/A</title>
-         <p>Keywords: Coleoptera, Chrysomelidae, Italy, Alps, Apennines, Corsica, Sardinia, Sicily, endemic species, cluster analysis, parsimony analysis of endemicity</p>
+         <p>Keywords: Coleoptera, Chrysomelidae, Italy, Alps, Apennines, Corsica, Sardinia, Sicily,
+            endemic species, cluster analysis, parsimony analysis of endemicity</p>
       </sec>
       <sec sec-type="Introduction">
          <title>N/A</title>
          <p>Introduction</p>
-         <p>
-Even if there is not general agreement on whether conservation strategies should focus on hotspots of richness, extinction threat, endemicity or rarity, since the correlation among these factors and their role as biodiversity indicators are still controversial (
-
-; 
-
-; 
-
-; 
-
-; 
-
-; 
-
-), 
-the
-individuation of areas with great endemic species concentration is very important for biogeographical and conservation purposes (
-
-; 
-
-; 
-
-; 
-
-). It is important not only for the intrinsic value of the particular species, but also for the funding for projects, since the idea of something exclusive and unique also appeals politicians (
-
-) and lay people (
-
-).
-</p>
-         <p>
-In this contribution, the results of a zoogeographical analysis carried out on the endemic species of leaf beetles (
-<tp:taxon-name>Coleoptera</tp:taxon-name>
-: 
-<tp:taxon-name>Chrysomelidae</tp:taxon-name>
-) occurring in Italy, and the immediately adjacent regions, are reported.
-</p>
-         <p>
-Considering the biogeographic purpose of this contribution, we have preferred to follow the 
-"traditional"
-subdivision into subfamilies as proposed by 
-
-, and recently also adopted in 
-
-, for the taxonomy of the 
-<tp:taxon-name>Chrysomelidae</tp:taxon-name>
-but 
-<tp:taxon-name>Cryptocephalinae</tp:taxon-name>
-and 
-<tp:taxon-name>Clytrinae</tp:taxon-name>
-are treated as separated subfamilies. The subfamily 
-<tp:taxon-name>Bruchinae</tp:taxon-name>
-was not considered for this study.
-</p>
-         <p>
-Leaf beetles, with 37.000-40.000 described species that are widespread in all the zoogeographical regions, are one of the most species rich families of phytophagous insects (
-
-; 
-
-; 
-
-). In Italy and Corsica there are at least 830 species (
-
-; 
-
-), not including 
-<tp:taxon-name>Bruchinae</tp:taxon-name>
-, of which about 15% show varying levels of endemicity.
-</p>
-         <p>
-Distribution patterns in 
-<tp:taxon-name>Chrysomelidae</tp:taxon-name>
-are very diverse, varying from cosmopolitan or sub-cosmopolitan species, to species that are strictly and locally endemic. Leaf beetles live in any habitat that has vegetation; because of the species richness of this beetle family and its well documented chorological and ecological information, it is highly representative of the overall biodiversity of a given ecosystem. For these reasons, 
-<tp:taxon-name>Chrysomelidae</tp:taxon-name>
-have to be considered an effective instrument for environmental analysis (cf. 
-
-). Moreover, this beetle family comprises many species that show high levels of ecological and biological specialization, at least in temperate regions, and a significant trend towards differentiation and endemization in general.
-</p>
+         <p> Even if there is not general agreement on whether conservation strategies should focus
+            on hotspots of richness, extinction threat, endemicity or rarity, since the correlation
+            among these factors and their role as biodiversity indicators are still controversial (
+            ; ; ; ; ; ), the individuation of areas with great endemic species concentration is very
+            important for biogeographical and conservation purposes ( ; ; ; ). It is important not
+            only for the intrinsic value of the particular species, but also for the funding for
+            projects, since the idea of something exclusive and unique also appeals politicians ( )
+            and lay people ( ). </p>
+         <p> In this contribution, the results of a zoogeographical analysis carried out on the
+            endemic species of leaf beetles ( <tp:taxon-name>Coleoptera</tp:taxon-name> :
+               <tp:taxon-name>Chrysomelidae</tp:taxon-name> ) occurring in Italy, and the
+            immediately adjacent regions, are reported. </p>
+         <p> Considering the biogeographic purpose of this contribution, we have preferred to follow
+            the "traditional" subdivision into subfamilies as proposed by , and recently also
+            adopted in , for the taxonomy of the <tp:taxon-name>Chrysomelidae</tp:taxon-name> but
+               <tp:taxon-name>Cryptocephalinae</tp:taxon-name> and
+               <tp:taxon-name>Clytrinae</tp:taxon-name> are treated as separated subfamilies. The
+            subfamily <tp:taxon-name>Bruchinae</tp:taxon-name> was not considered for this study. </p>
+         <p> Leaf beetles, with 37.000-40.000 described species that are widespread in all the
+            zoogeographical regions, are one of the most species rich families of phytophagous
+            insects ( ; ; ). In Italy and Corsica there are at least 830 species ( ; ), not
+            including <tp:taxon-name>Bruchinae</tp:taxon-name> , of which about 15% show varying
+            levels of endemicity. </p>
+         <p> Distribution patterns in <tp:taxon-name>Chrysomelidae</tp:taxon-name> are very diverse,
+            varying from cosmopolitan or sub-cosmopolitan species, to species that are strictly and
+            locally endemic. Leaf beetles live in any habitat that has vegetation; because of the
+            species richness of this beetle family and its well documented chorological and
+            ecological information, it is highly representative of the overall biodiversity of a
+            given ecosystem. For these reasons, <tp:taxon-name>Chrysomelidae</tp:taxon-name> have to
+            be considered an effective instrument for environmental analysis (cf. ). Moreover, this
+            beetle family comprises many species that show high levels of ecological and biological
+            specialization, at least in temperate regions, and a significant trend towards
+            differentiation and endemization in general. </p>
       </sec>
       <sec sec-type="materials|methods">
          <title>N/A</title>
          <p>Materials and methods</p>
-         <p>
-In this paper we consider an "endemic species" as "a species showing a distribution restricted to a geographical area, delimited by natural elements, and independent of administrative borders" (cf. 
-
-); whereas an "area of endemism" is "a geographic region comprising the distributions of two or more monophyletic taxa, that exhibit a phylogenetic and distributional congruence, and have their respective relatives occurring in other such defined regions" (cf. 
-
-). Finally, by "subendemic species" we mean "an endemic species not occurring exclusively in a single area"; and "exclusively endemic species", or "strictly local endemic species", as "endemic species occurring exclusively in a single area".
-</p>
-         <p>
-Study
-region
-</p>
-         <p>
-The region studied for this research includes the continental, peninsular and insular parts of Italy, and includes Corsica, as delimited in Fig. 1. The Alps were subdivided into sectors using the SOIUSA method, proposed by 
-
-, which provided the following: the Central-Eastern Alps, North-Eastern Alps, North-Western Alps, South-Eastern Alps, and South-Western Alps (Fig. 1). We refer to the "faunal provinces" proposed by 
-
-for the peninsular and insular parts of Italy, showing the following areas: the Apulian Province, Central Apennines, Northern Apennines, Padanian Province, Sardinia, Sicily, and the Southern Apennines (Fig. 1). Finally, Corsica and the small Tyrrhenian Islands (Capri, Ischia, Pontine Islands, and Tuscany Islands) were added by us (Fig. 1). Distribution maps were constructed by ESRI ArcGis 10.0 software.
-</p>
+         <p> In this paper we consider an "endemic species" as "a species showing a distribution
+            restricted to a geographical area, delimited by natural elements, and independent of
+            administrative borders" (cf. ); whereas an "area of endemism" is "a geographic region
+            comprising the distributions of two or more monophyletic taxa, that exhibit a
+            phylogenetic and distributional congruence, and have their respective relatives
+            occurring in other such defined regions" (cf. ). Finally, by "subendemic species" we
+            mean "an endemic species not occurring exclusively in a single area"; and "exclusively
+            endemic species", or "strictly local endemic species", as "endemic species occurring
+            exclusively in a single area". </p>
+         <p> Study region </p>
+         <p> The region studied for this research includes the continental, peninsular and insular
+            parts of Italy, and includes Corsica, as delimited in Fig. 1. The Alps were subdivided
+            into sectors using the SOIUSA method, proposed by , which provided the following: the
+            Central-Eastern Alps, North-Eastern Alps, North-Western Alps, South-Eastern Alps, and
+            South-Western Alps (Fig. 1). We refer to the "faunal provinces" proposed by for the
+            peninsular and insular parts of Italy, showing the following areas: the Apulian
+            Province, Central Apennines, Northern Apennines, Padanian Province, Sardinia, Sicily,
+            and the Southern Apennines (Fig. 1). Finally, Corsica and the small Tyrrhenian Islands
+            (Capri, Ischia, Pontine Islands, and Tuscany Islands) were added by us (Fig. 1).
+            Distribution maps were constructed by ESRI ArcGis 10.0 software. </p>
          <p>Database</p>
-         <p>
-Our database of the endemic species of leaf beetles (
-<tp:taxon-name>Coleoptera</tp:taxon-name>
-: 
-<tp:taxon-name>Chrysomelidae</tp:taxon-name>
-), used for the statistical analyses, consisted of: a) records obtained by a critical bibliographic screening (
-
-; 
-
-; 
-
-; 
-
-; 
-
-; 
-
-; 
-
-; 
-
-; 
-
-, 
-
-); b) material from entomological collections; and c) information obtained from specialists. The complete list of endemic species, expressed as presence/absence in the different regions studied, is reported in Tab. I. Subspecies were not considered, because their status is often not well defined and also not universally accepted.
-</p>
-         <p>
-The terminology and typology used for the distribution types of endemic and subendemic Italian species follows 
-
-and 
-
-, but with the following modifications: a) "3900.22 SISA Sicilian-S-Apennine Endemic" replaces "SISC Sicilian-S-Calabrian Endemic"; b) "3900.23 APSI - Apennine-Sicilian Endemic" was added by us.
-</p>
-         <p>
-Data on host plants were obtained through careful bibliographic screening, integrated with personal observations. Regarding the trophic range, we refer to 
-
-, and the following terminology is used:
-</p>
-         <p>
-"monophagous"
-: species with adults feeding on one or two systematically closely related plant genera;
-</p>
-         <p>
-"oligophagous"
-: species with adults feeding on plant genera from one or two systematically closely related families; and
-</p>
-         <p>
-"polyphagous"
-: species with adults feeding on many botanical species that are not closely related systematically.
-</p>
-         <p>
-Finally, the term 
-"herb"
-refers to species where adults are associated with herbaceous plants, while by 
-"arb/shr"
-refers to species where adults are associated with trees and/or shrubs.
-</p>
-         <p>
-Cluster
-analysis
-</p>
-         <p>
-The level of faunistic similarity between the different geographic regions studied was assessed, based on the endemic component, by performing a cluster analysis which used Operational Geographic Units (OGUs) (see Fig. 1) as reference. This was done by calculating the Baroni Urbani &amp; 
-Buser's
-similarity index (BUB) (
-
-) on a presence-absence binary matrix of the endemic species. As clustering algorithm, the WPGMA (Weighted Pair-Group Method using Arithmetic averages) was used (
-
-), and the analysis was done using the MVSP (
-
-) and NTSys (
-
-) statistical packages. The BUB similarity index is expressed by the formula [(√ad)+a]/[(√ad)+a+b+c], where: a is the total number of co-presences; b is the total number of species present in OGU 1 but absent in OGU 2; c is the total number of species present in OGU 2 but absent in OGU 1; d is a total number of co-absences. This index was preferred because we regard the knowledge of the distribution of the endemic leaf beetle fauna in the study area to be good. Thus, we think that co-absences in this analysis represent a highly informative element (
-
-, 
-
-).
-</p>
+         <p> Our database of the endemic species of leaf beetles (
+               <tp:taxon-name>Coleoptera</tp:taxon-name> :
+               <tp:taxon-name>Chrysomelidae</tp:taxon-name> ), used for the statistical analyses,
+            consisted of: a) records obtained by a critical bibliographic screening ( ; ; ; ; ; ; ;
+            ; , ); b) material from entomological collections; and c) information obtained from
+            specialists. The complete list of endemic species, expressed as presence/absence in the
+            different regions studied, is reported in Tab. I. Subspecies were not considered,
+            because their status is often not well defined and also not universally accepted. </p>
+         <p> The terminology and typology used for the distribution types of endemic and subendemic
+            Italian species follows and , but with the following modifications: a) "3900.22 SISA
+            Sicilian-S-Apennine Endemic" replaces "SISC Sicilian-S-Calabrian Endemic"; b) "3900.23
+            APSI - Apennine-Sicilian Endemic" was added by us. </p>
+         <p> Data on host plants were obtained through careful bibliographic screening, integrated
+            with personal observations. Regarding the trophic range, we refer to , and the following
+            terminology is used: </p>
+         <p> "monophagous" : species with adults feeding on one or two systematically closely
+            related plant genera; </p>
+         <p> "oligophagous" : species with adults feeding on plant genera from one or two
+            systematically closely related families; and </p>
+         <p> "polyphagous" : species with adults feeding on many botanical species that are not
+            closely related systematically. </p>
+         <p> Finally, the term "herb" refers to species where adults are associated with herbaceous
+            plants, while by "arb/shr" refers to species where adults are associated with trees
+            and/or shrubs. </p>
+         <p> Cluster analysis </p>
+         <p> The level of faunistic similarity between the different geographic regions studied was
+            assessed, based on the endemic component, by performing a cluster analysis which used
+            Operational Geographic Units (OGUs) (see Fig. 1) as reference. This was done by
+            calculating the Baroni Urbani &amp; Buser's similarity index (BUB) ( ) on a
+            presence-absence binary matrix of the endemic species. As clustering algorithm, the
+            WPGMA (Weighted Pair-Group Method using Arithmetic averages) was used ( ), and the
+            analysis was done using the MVSP ( ) and NTSys ( ) statistical packages. The BUB
+            similarity index is expressed by the formula [(√ad)+a]/[(√ad)+a+b+c], where: a is the
+            total number of co-presences; b is the total number of species present in OGU 1 but
+            absent in OGU 2; c is the total number of species present in OGU 2 but absent in OGU 1;
+            d is a total number of co-absences. This index was preferred because we regard the
+            knowledge of the distribution of the endemic leaf beetle fauna in the study area to be
+            good. Thus, we think that co-absences in this analysis represent a highly informative
+            element ( , ). </p>
          <p>Parsimony analysis of endemicity</p>
-         <p>
-Parsimony analysis of endemicity (PAE) was used to identify the most important areas of endemism in Italy (
-
-; 
-
-; 
-
-). To increase the reliability of the analysis a selection was made from the data matrix, including only those species that have been reported to live in two or more contiguous OGUs. As geographic reference we used a grid of 
-
-50
-x
-
-50 km quadrats superimposed on our study region. Species occurring in only one, or in non-contiguous OGUs, were excluded from this analysis as they are uninformative. PAE was implemented using the MIX programme (1000 randomization, seed = 25) in the PHYLYP package (
-
-), with the 
-Camin-Sokal
-optimization technique (
-
-), allowing for extinction but not the possibility of new colonization events. For the strict consensus tree (
-
-; 
-
-) the CONSENSE program in the PHYLYP package (
-
-) was used.
-</p>
-         <p>
-Abbreviations. Distribution types - ALAP
-: Alpine-Apennine
-; ALPE
-: Eastern Alpine
-; ALPS
-: Southern Alpine
-; ALPW
-: Western Alpine
-; ALSE
-: South-Eastern Alpine
-; ALSW
-: South-Western Alpine
-; APPC
-: Central Apennine
-; APPE
-: Apennine
-; APPN
-: Northern Apennine
-; APPS
-: Southern Apennine
-; APSI
-: Apennine-Sicilian
-; AWNA
-: Western Alpine-Northern Apennine
-; CORS
-: Corsican
-; ITAL
-: Italian
-; PADA
-: Padanian
-; SACO
-: Sardinian-Corsican
-; SARD
-: Sardinian
-; SICI
-: Sicilian
-; SISA
-: Sicilian-Southern Apennine
-; TYRR
-: Tyrrhenian
-.
-</p>
-         <p>
-Geographical sectors - APUL
-: Apulian Province
-; CAPE
-: Central Apennines
-; CEALP
-: Central-Eastern Alps
-; COR
-: Corsica
-; NAPE
-: Northern Apennines
-; NEALP
-
-: 
-North-Eastern
-Alps
-
-; NWALP
-: North-Western Alps
-; PAD
-: Padanian Province
-; SAPE
-: Southern Apennines
-; SAR
-: Sardinia
-; SEALP
-: South-Eastern Alps
-; SIC
-: Sicily
-; SWALP
-: South-Western Alps
-; and STI
-: small Tyrrhenian Islands
-.
-</p>
+         <p> Parsimony analysis of endemicity (PAE) was used to identify the most important areas of
+            endemism in Italy ( ; ; ). To increase the reliability of the analysis a selection was
+            made from the data matrix, including only those species that have been reported to live
+            in two or more contiguous OGUs. As geographic reference we used a grid of 50 x 50 km
+            quadrats superimposed on our study region. Species occurring in only one, or in
+            non-contiguous OGUs, were excluded from this analysis as they are uninformative. PAE was
+            implemented using the MIX programme (1000 randomization, seed = 25) in the PHYLYP
+            package ( ), with the Camin-Sokal optimization technique ( ), allowing for extinction
+            but not the possibility of new colonization events. For the strict consensus tree ( ; )
+            the CONSENSE program in the PHYLYP package ( ) was used. </p>
+         <p> Abbreviations. Distribution types - ALAP : Alpine-Apennine ; ALPE : Eastern Alpine ;
+            ALPS : Southern Alpine ; ALPW : Western Alpine ; ALSE : South-Eastern Alpine ; ALSW :
+            South-Western Alpine ; APPC : Central Apennine ; APPE : Apennine ; APPN : Northern
+            Apennine ; APPS : Southern Apennine ; APSI : Apennine-Sicilian ; AWNA : Western
+            Alpine-Northern Apennine ; CORS : Corsican ; ITAL : Italian ; PADA : Padanian ; SACO :
+            Sardinian-Corsican ; SARD : Sardinian ; SICI : Sicilian ; SISA : Sicilian-Southern
+            Apennine ; TYRR : Tyrrhenian . </p>
+         <p> Geographical sectors - APUL : Apulian Province ; CAPE : Central Apennines ; CEALP :
+            Central-Eastern Alps ; COR : Corsica ; NAPE : Northern Apennines ; NEALP : North-Eastern
+            Alps ; NWALP : North-Western Alps ; PAD : Padanian Province ; SAPE : Southern Apennines
+            ; SAR : Sardinia ; SEALP : South-Eastern Alps ; SIC : Sicily ; SWALP : South-Western
+            Alps ; and STI : small Tyrrhenian Islands . </p>
       </sec>
       <sec sec-type="Results">
          <title>N/A</title>
          <p>Results</p>
-         <p>
-We found 123 endemic species of 
-<tp:taxon-name>Chrysomelidae</tp:taxon-name>
-occurring in the study region (Table 1), which represent about 15% of the total leaf beetle fauna in Italy. This percentage is very high if compared to the total percentage for the endemic component of the terrestrial and inland water fauna in Italy, which is 10%. Seen in the European context, the latter percentage represents a high value (
-
-, 
-
-).
-</p>
-         <p>
-</p>
-         <p>
-The percentage of endemic species is not proportionate to the different subfamilies of 
-<tp:taxon-name>Chrysomelidae</tp:taxon-name>
-(Fig. 2). 
-<tp:taxon-name>Alticinae</tp:taxon-name>
-, for example, display the greatest endemic species richness (38), but only represent 11.18% of the entire Italian flea beetle fauna (340 species). In some of the other subfamilies the percentage of endemic species is higher 
-than
-the total average of 14.82% for the 
-<tp:taxon-name>Chrysomelidae</tp:taxon-name>
-in Italy. Examples include: the 
-<tp:taxon-name>Galerucinae</tp:taxon-name>
-with 29.51% (18 endemic species from a total of 61); 
-<tp:taxon-name>Cryptocephalinae</tp:taxon-name>
-with 21.52% (34 endemic species from a total of 158); and 
-<tp:taxon-name>Chrysomelinae</tp:taxon-name>
-with 17.65% (27 endemic species from a total of 153). Besides the 
-<tp:taxon-name>Alticinae</tp:taxon-name>
-, lower endemic species percentages are also found in 
-<tp:taxon-name>Clytrinae</tp:taxon-name>
-with 9.43% (5 endemic species from a total of 53) and 
-<tp:taxon-name>Criocerinae</tp:taxon-name>
-with 4.76% (1 endemic species from a total of 21). No endemic species of 
-<tp:taxon-name>Cassidinae</tp:taxon-name>
-, 
-<tp:taxon-name>Donaciinae</tp:taxon-name>
-, 
-<tp:taxon-name>Eumolpinae</tp:taxon-name>
-, 
-<tp:taxon-name>Hispinae</tp:taxon-name>
-or 
-<tp:taxon-name>Lamprosomatinae</tp:taxon-name>
-were found in the study area.
-</p>
-         <p>
-Regions with the greatest richness of endemic leaf beetle species are (Fig. 3): the Central Apennines (29 species), Southern Apennines (28), Corsica (26), South-Western Alps (25), Northern Apennines (24), Sicily (24), North-Western Alps (23) and Sardinia (22). Areas with the poorest endemic species richness are: the North-Eastern Alps (6), Tyrrhenian Islands (9), Central-Eastern Alps (10), Padanian Province (11), 
-and
-Apulian Province (13). However, if we only consider the local exclusively endemic species for every region, the greatest endemic species richness can be found in Sicily (9 species), the Central Apennines (7), and South-Eastern Alps (7) (Fig. 3). Local exclusively endemic species can provide important information about past and present isolation conditions for a given geographical region. At this point it is noteworthy that the number of exclusively endemic species for Corsica (5), and especially for Sardinia (2), is very low. However, if we consider the Sardinian-Corsican area as a whole, the number increases to 17 species, demonstrating the common history shared by these two islands and their intensive faunistic exchange. The Apulian Province and the North-Eastern Alps have no exclusively endemic species. The former probably because the Apulian Province was never isolated geographically or ecologically; the latter because the North-Eastern Alps, besides a poor endemic species richness, display ecological continuity that has possibly promoted horizontal range expansions into other adjacent Alpine sectors, thus hampering local endemization.
-</p>
-         <p>
-The endemic component of the different subfamilies for all the regions studied (Fig. 4) is, in general, significantly correlated with an increase in altitude or the meas 
-ure
-of insularity; in the largest islands these two factors often fulfill a synergistic role. Regarding the altitude, the highest number of endemic species occur between 400 m and 1800 m a.s.l. with the majority found between 700 m and 800 m; the species from the plains have been added to the low and medium altitude species (Fig. 9). Endemization associated with lower altitudes generally occurs in insular areas, particularly Sardinia, Corsica and the small Tyrrhenian islands; whereas endemization associated with higher altitudes mainly occurs in the Central Apennines, where the alternation of catathermic and hypsothermic phases during the Pleistocene glaciations played an important role in the isolation and differentiation of the montane fauna. The number of endemic species and area are not significantly correlated (Fig. 8).
-</p>
-         <p>
-Based on the recognized distribution types for the Italian endemic fauna, as proposed by 
-
-and 
-
-, and partially modified by us (see "Materials and methods" above), we can conclude that the Sardinian-Corsican type (SACO) in which 
-<tp:taxon-name>Cryptocephalinae</tp:taxon-name>
-and 
-<tp:taxon-name>Chrysomelinae</tp:taxon-name>
-are dominant, and the Western Alpine type (ALPW) where 
-<tp:taxon-name>Alticinae</tp:taxon-name>
-are clearly in the majority, represent the distributions with the greatest abundance of endemic species. However, other distribution types that are well represented are the: Sicilian (SICI), where the absence of 
-<tp:taxon-name>Alticinae</tp:taxon-name>
-has to be emphasized; Sicilian-Southern Apennine (SISA), where the 
-<tp:taxon-name>Galerucinae</tp:taxon-name>
-are more abundant; Appenine (APPE) and Central Apennine (APPC), where 
-<tp:taxon-name>Alticinae</tp:taxon-name>
-and, to a lesser extent, 
-<tp:taxon-name>Chrysomelinae</tp:taxon-name>
-, 
-<tp:taxon-name>Cryptocephalinae</tp:taxon-name>
-and 
-<tp:taxon-name>Galerucinae</tp:taxon-name>
-, are more plentiful (Fig. 5). Distribution types with poor representation are the: Padanian (PADA), with 
-<tp:taxon-name>Chrysolina schatzmayri</tp:taxon-name>
-(G. 
-Mueller
-) being the only species; and the Southern Apennines (APPS), with 
-<tp:taxon-name>Cryptocephalus daccordii</tp:taxon-name>
-Biondi and 
-<tp:taxon-name>Luperus calabricus</tp:taxon-name>
-Laboissiere
-, being the only species - the latter also occurring in the Apulian Province (Fig. 5).
-</p>
-         <p>The results of the cluster analysis are depicted in a dendrogram (Fig. 10). In broad terms, it shows an "Alpine block" and an "Apennine-insular block" which are distinctly separated. The Alpine block is, in turn, subdivided into the Eastern Alps [(NE Alps - CE Alps) SE Alps] and Western Alps (NW Alps - SW Alps); whereas the Apennine-insular block shows a clear separation between the Apennines [(Apulian Province - S Apennines) C Apennines (Padanian Province - N Apennines)], and the small Tyrrhenian islands (Tyrrhenian Is.), Sicily (Sicily) and the Corsican-Sardinian region (Corsica-Sardinia). Within the Apennine block, the central and southern sectors (the Apulian Province included) show a higher faunistic similarity among them than with the northern sector (Padanian Province included). Finally, the position of Sicily reflects its close geographic proximity and ecological continuity with the Apennines.</p>
-         <p>
-Host plant families preferred by the endemic species occurring in the study region are, among herbaceous plants, the 
-<tp:taxon-name>Asteraceae</tp:taxon-name>
-(13.97%), 
-<tp:taxon-name>Poaceae</tp:taxon-name>
-(7.35%), 
-<tp:taxon-name>Lamiaceae</tp:taxon-name>
-(5.88%) and 
-<tp:taxon-name>Brassicaceae</tp:taxon-name>
-(5.15%); whereas among arboreal and shrubby plants, the 
-<tp:taxon-name>Fagaceae</tp:taxon-name>
-(8.09%) and 
-<tp:taxon-name>Rosaceae</tp:taxon-name>
-(5.88%) (Fig. 6) are dominant. The endemic leaf beetle species studied show an increase in trophic specialization. This is demonstrated by a high prevalence of monophagous (Herb: 50.00%; Arb/Shr: 44.44%) and, to a lesser extent, oligophagous elements (Herb: 34.48%; Arb/Shr: 33.33%), while species as 
-sociated
-with herbaceous plants show the lowest percentage (15.52%) of polyphagous elements (Fig. 7).
-</p>
-         <p>The results of the parsimony analysis of endemicity (PAE) are reported in Fig. 11. This analysis reveals that the most significant region, displaying the richest endemicity, is the Alps:</p>
+         <p> We found 123 endemic species of <tp:taxon-name>Chrysomelidae</tp:taxon-name> occurring
+            in the study region (Table 1), which represent about 15% of the total leaf beetle fauna
+            in Italy. This percentage is very high if compared to the total percentage for the
+            endemic component of the terrestrial and inland water fauna in Italy, which is 10%. Seen
+            in the European context, the latter percentage represents a high value ( , ). </p>
+         <p> </p>
+         <p> The percentage of endemic species is not proportionate to the different subfamilies of
+               <tp:taxon-name>Chrysomelidae</tp:taxon-name> (Fig. 2).
+               <tp:taxon-name>Alticinae</tp:taxon-name> , for example, display the greatest endemic
+            species richness (38), but only represent 11.18% of the entire Italian flea beetle fauna
+            (340 species). In some of the other subfamilies the percentage of endemic species is
+            higher than the total average of 14.82% for the
+               <tp:taxon-name>Chrysomelidae</tp:taxon-name> in Italy. Examples include: the
+               <tp:taxon-name>Galerucinae</tp:taxon-name> with 29.51% (18 endemic species from a
+            total of 61); <tp:taxon-name>Cryptocephalinae</tp:taxon-name> with 21.52% (34 endemic
+            species from a total of 158); and <tp:taxon-name>Chrysomelinae</tp:taxon-name> with
+            17.65% (27 endemic species from a total of 153). Besides the
+               <tp:taxon-name>Alticinae</tp:taxon-name> , lower endemic species percentages are also
+            found in <tp:taxon-name>Clytrinae</tp:taxon-name> with 9.43% (5 endemic species from a
+            total of 53) and <tp:taxon-name>Criocerinae</tp:taxon-name> with 4.76% (1 endemic
+            species from a total of 21). No endemic species of
+               <tp:taxon-name>Cassidinae</tp:taxon-name> , <tp:taxon-name>Donaciinae</tp:taxon-name>
+            , <tp:taxon-name>Eumolpinae</tp:taxon-name> , <tp:taxon-name>Hispinae</tp:taxon-name> or
+               <tp:taxon-name>Lamprosomatinae</tp:taxon-name> were found in the study area. </p>
+         <p> Regions with the greatest richness of endemic leaf beetle species are (Fig. 3): the
+            Central Apennines (29 species), Southern Apennines (28), Corsica (26), South-Western
+            Alps (25), Northern Apennines (24), Sicily (24), North-Western Alps (23) and Sardinia
+            (22). Areas with the poorest endemic species richness are: the North-Eastern Alps (6),
+            Tyrrhenian Islands (9), Central-Eastern Alps (10), Padanian Province (11), and Apulian
+            Province (13). However, if we only consider the local exclusively endemic species for
+            every region, the greatest endemic species richness can be found in Sicily (9 species),
+            the Central Apennines (7), and South-Eastern Alps (7) (Fig. 3). Local exclusively
+            endemic species can provide important information about past and present isolation
+            conditions for a given geographical region. At this point it is noteworthy that the
+            number of exclusively endemic species for Corsica (5), and especially for Sardinia (2),
+            is very low. However, if we consider the Sardinian-Corsican area as a whole, the number
+            increases to 17 species, demonstrating the common history shared by these two islands
+            and their intensive faunistic exchange. The Apulian Province and the North-Eastern Alps
+            have no exclusively endemic species. The former probably because the Apulian Province
+            was never isolated geographically or ecologically; the latter because the North-Eastern
+            Alps, besides a poor endemic species richness, display ecological continuity that has
+            possibly promoted horizontal range expansions into other adjacent Alpine sectors, thus
+            hampering local endemization. </p>
+         <p> The endemic component of the different subfamilies for all the regions studied (Fig. 4)
+            is, in general, significantly correlated with an increase in altitude or the meas ure of
+            insularity; in the largest islands these two factors often fulfill a synergistic role.
+            Regarding the altitude, the highest number of endemic species occur between 400 m and
+            1800 m a.s.l. with the majority found between 700 m and 800 m; the species from the
+            plains have been added to the low and medium altitude species (Fig. 9). Endemization
+            associated with lower altitudes generally occurs in insular areas, particularly
+            Sardinia, Corsica and the small Tyrrhenian islands; whereas endemization associated with
+            higher altitudes mainly occurs in the Central Apennines, where the alternation of
+            catathermic and hypsothermic phases during the Pleistocene glaciations played an
+            important role in the isolation and differentiation of the montane fauna. The number of
+            endemic species and area are not significantly correlated (Fig. 8). </p>
+         <p> Based on the recognized distribution types for the Italian endemic fauna, as proposed
+            by and , and partially modified by us (see "Materials and methods" above), we can
+            conclude that the Sardinian-Corsican type (SACO) in which
+               <tp:taxon-name>Cryptocephalinae</tp:taxon-name> and
+               <tp:taxon-name>Chrysomelinae</tp:taxon-name> are dominant, and the Western Alpine
+            type (ALPW) where <tp:taxon-name>Alticinae</tp:taxon-name> are clearly in the majority,
+            represent the distributions with the greatest abundance of endemic species. However,
+            other distribution types that are well represented are the: Sicilian (SICI), where the
+            absence of <tp:taxon-name>Alticinae</tp:taxon-name> has to be emphasized;
+            Sicilian-Southern Apennine (SISA), where the <tp:taxon-name>Galerucinae</tp:taxon-name>
+            are more abundant; Appenine (APPE) and Central Apennine (APPC), where
+               <tp:taxon-name>Alticinae</tp:taxon-name> and, to a lesser extent,
+               <tp:taxon-name>Chrysomelinae</tp:taxon-name> ,
+               <tp:taxon-name>Cryptocephalinae</tp:taxon-name> and
+               <tp:taxon-name>Galerucinae</tp:taxon-name> , are more plentiful (Fig. 5).
+            Distribution types with poor representation are the: Padanian (PADA), with
+               <tp:taxon-name>Chrysolina schatzmayri</tp:taxon-name> (G. Mueller ) being the only
+            species; and the Southern Apennines (APPS), with <tp:taxon-name>Cryptocephalus
+               daccordii</tp:taxon-name> Biondi and <tp:taxon-name>Luperus
+               calabricus</tp:taxon-name> Laboissiere , being the only species - the latter also
+            occurring in the Apulian Province (Fig. 5). </p>
+         <p>The results of the cluster analysis are depicted in a dendrogram (Fig. 10). In broad
+            terms, it shows an "Alpine block" and an "Apennine-insular block" which are distinctly
+            separated. The Alpine block is, in turn, subdivided into the Eastern Alps [(NE Alps - CE
+            Alps) SE Alps] and Western Alps (NW Alps - SW Alps); whereas the Apennine-insular block
+            shows a clear separation between the Apennines [(Apulian Province - S Apennines) C
+            Apennines (Padanian Province - N Apennines)], and the small Tyrrhenian islands
+            (Tyrrhenian Is.), Sicily (Sicily) and the Corsican-Sardinian region (Corsica-Sardinia).
+            Within the Apennine block, the central and southern sectors (the Apulian Province
+            included) show a higher faunistic similarity among them than with the northern sector
+            (Padanian Province included). Finally, the position of Sicily reflects its close
+            geographic proximity and ecological continuity with the Apennines.</p>
+         <p> Host plant families preferred by the endemic species occurring in the study region are,
+            among herbaceous plants, the <tp:taxon-name>Asteraceae</tp:taxon-name> (13.97%),
+               <tp:taxon-name>Poaceae</tp:taxon-name> (7.35%),
+               <tp:taxon-name>Lamiaceae</tp:taxon-name> (5.88%) and
+               <tp:taxon-name>Brassicaceae</tp:taxon-name> (5.15%); whereas among arboreal and
+            shrubby plants, the <tp:taxon-name>Fagaceae</tp:taxon-name> (8.09%) and
+               <tp:taxon-name>Rosaceae</tp:taxon-name> (5.88%) (Fig. 6) are dominant. The endemic
+            leaf beetle species studied show an increase in trophic specialization. This is
+            demonstrated by a high prevalence of monophagous (Herb: 50.00%; Arb/Shr: 44.44%) and, to
+            a lesser extent, oligophagous elements (Herb: 34.48%; Arb/Shr: 33.33%), while species as
+            sociated with herbaceous plants show the lowest percentage (15.52%) of polyphagous
+            elements (Fig. 7). </p>
+         <p>The results of the parsimony analysis of endemicity (PAE) are reported in Fig. 11. This
+            analysis reveals that the most significant region, displaying the richest endemicity, is
+            the Alps:</p>
          <p>-</p>
-         <p>
-the CE Alps (Western Tauern and Eastern Tauern Alps) (quadrats C15, D13-14), are mainly characterized by sharing the endemic species 
-<tp:taxon-name>Neocrepidodera simplicipes</tp:taxon-name>
-(Kutschera) and 
-<tp:taxon-name>Phyllotreta ziegleri</tp:taxon-name>
-Lohse;
-</p>
+         <p> the CE Alps (Western Tauern and Eastern Tauern Alps) (quadrats C15, D13-14), are mainly
+            characterized by sharing the endemic species <tp:taxon-name>Neocrepidodera
+               simplicipes</tp:taxon-name> (Kutschera) and <tp:taxon-name>Phyllotreta
+               ziegleri</tp:taxon-name> Lohse; </p>
          <p>-</p>
-         <p>
-the SE Alps (Julian Alps, Venetian Prealps, Dolomites, Carnic Alps) (E13-16, F11-12, F14), are characterized by the presence of 
-<tp:taxon-name>Aphthona juliana</tp:taxon-name>
-Springer, 
-<tp:taxon-name>Neocrepidodera obirensis</tp:taxon-name>
-(Ganglbauer), 
-<tp:taxon-name>Orestia carnica</tp:taxon-name>
-Leonardi, 
-<tp:taxon-name>Orestia carniolica</tp:taxon-name>
-Weise and 
-<tp:taxon-name>Pachybrachis fraudolentus</tp:taxon-name>
-G. 
-Mueller
-;
-</p>
-         <p>
--
-</p>
-         <p>
-the Central Alps (Rhaetian and Bergamasque Alps) (E9, F7-9, G8), are mainly characterized by the presence of 
-<tp:taxon-name>Cryptocephalus barii</tp:taxon-name>
-            <tp:taxon-name>Burlini</tp:taxon-name>
-, but also by 
-<tp:taxon-name>Orestia heikertingeri</tp:taxon-name>
-Leonardi;
-</p>
+         <p> the SE Alps (Julian Alps, Venetian Prealps, Dolomites, Carnic Alps) (E13-16, F11-12,
+            F14), are characterized by the presence of <tp:taxon-name>Aphthona
+               juliana</tp:taxon-name> Springer, <tp:taxon-name>Neocrepidodera
+               obirensis</tp:taxon-name> (Ganglbauer), <tp:taxon-name>Orestia
+               carnica</tp:taxon-name> Leonardi, <tp:taxon-name>Orestia carniolica</tp:taxon-name>
+            Weise and <tp:taxon-name>Pachybrachis fraudolentus</tp:taxon-name> G. Mueller ; </p>
+         <p> - </p>
+         <p> the Central Alps (Rhaetian and Bergamasque Alps) (E9, F7-9, G8), are mainly
+            characterized by the presence of <tp:taxon-name>Cryptocephalus barii</tp:taxon-name>
+            <tp:taxon-name>Burlini</tp:taxon-name> , but also by <tp:taxon-name>Orestia
+               heikertingeri</tp:taxon-name> Leonardi; </p>
          <p>-</p>
-         <p>
-the NW Alps (Pennine, Cottian and Graian Alps) (F5, G4-6, H4, I3-4), are mainly characterized by the presence of 
-<tp:taxon-name>Cryptocephalus tardus</tp:taxon-name>
-Weise, 
-<tp:taxon-name>Neocrepidodera adelinae</tp:taxon-name>
-(Binaghi), 
-<tp:taxon-name>Neocrepidodera basalis</tp:taxon-name>
-(K. Daniel), 
-<tp:taxon-name>Neocrepidodera nobilis</tp:taxon-name>
-(J. Daniel), 
-<tp:taxon-name>Oreina canavesei</tp:taxon-name>
-Bontems and 
-<tp:taxon-name>Pachybrachis alpinus</tp:taxon-name>
-Rapilly, but also by 
-<tp:taxon-name>Orestia heikertingeri</tp:taxon-name>
-; and
-</p>
+         <p> the NW Alps (Pennine, Cottian and Graian Alps) (F5, G4-6, H4, I3-4), are mainly
+            characterized by the presence of <tp:taxon-name>Cryptocephalus tardus</tp:taxon-name>
+            Weise, <tp:taxon-name>Neocrepidodera adelinae</tp:taxon-name> (Binaghi),
+               <tp:taxon-name>Neocrepidodera basalis</tp:taxon-name> (K. Daniel),
+               <tp:taxon-name>Neocrepidodera nobilis</tp:taxon-name> (J. Daniel),
+               <tp:taxon-name>Oreina canavesei</tp:taxon-name> Bontems and
+               <tp:taxon-name>Pachybrachis alpinus</tp:taxon-name> Rapilly, but also by
+               <tp:taxon-name>Orestia heikertingeri</tp:taxon-name> ; and </p>
          <p>-</p>
-         <p>
-the SW-Alps (Maritime and Ligurian Alps) (J4-5, K5), are characterized by the presence of 
-<tp:taxon-name>Arima buai</tp:taxon-name>
-Havelka, 
-<tp:taxon-name>Cryptocephalus atrifrons</tp:taxon-name>
-Abeille, 
-<tp:taxon-name>Cryptocephalus zoiai</tp:taxon-name>
-Sassi and 
-<tp:taxon-name>Neocrepidodera ligurica</tp:taxon-name>
-(J. Daniel).
-</p>
-         <p>In the remaining peninsular and insular regions, the following were also detected by the PAE (Fig. 11):</p>
+         <p> the SW-Alps (Maritime and Ligurian Alps) (J4-5, K5), are characterized by the presence
+            of <tp:taxon-name>Arima buai</tp:taxon-name> Havelka, <tp:taxon-name>Cryptocephalus
+               atrifrons</tp:taxon-name> Abeille, <tp:taxon-name>Cryptocephalus
+               zoiai</tp:taxon-name> Sassi and <tp:taxon-name>Neocrepidodera
+               ligurica</tp:taxon-name> (J. Daniel). </p>
+         <p>In the remaining peninsular and insular regions, the following were also detected by the
+            PAE (Fig. 11):</p>
          <p>-</p>
-         <p>
-many strictly local endemic species such as 
-<tp:taxon-name>
-Cryptocephalus
-paganensis
-</tp:taxon-name>
-Pic, 
-<tp:taxon-name>Longitarsus springeri</tp:taxon-name>
-Leonardi, 
-<tp:taxon-name>Luperus fiorii</tp:taxon-name>
-Weise, 
-<tp:taxon-name>Oreina sibylla</tp:taxon-name>
-(Binaghi), 
-<tp:taxon-name>Orestia brandstetteri</tp:taxon-name>
-Kapp, 
-<tp:taxon-name>Psylliodes biondii</tp:taxon-name>
-Leonardi, 
-<tp:taxon-name>Psylliodes springeri</tp:taxon-name>
-Leonardi and 
-<tp:taxon-name>Timarcha fracassii</tp:taxon-name>
-Meier occur in the Central Apennines (N14-16, O15-16);
-</p>
+         <p> many strictly local endemic species such as <tp:taxon-name> Cryptocephalus paganensis
+            </tp:taxon-name> Pic, <tp:taxon-name>Longitarsus springeri</tp:taxon-name> Leonardi,
+               <tp:taxon-name>Luperus fiorii</tp:taxon-name> Weise, <tp:taxon-name>Oreina
+               sibylla</tp:taxon-name> (Binaghi), <tp:taxon-name>Orestia
+               brandstetteri</tp:taxon-name> Kapp, <tp:taxon-name>Psylliodes biondii</tp:taxon-name>
+            Leonardi, <tp:taxon-name>Psylliodes springeri</tp:taxon-name> Leonardi and
+               <tp:taxon-name>Timarcha fracassii</tp:taxon-name> Meier occur in the Central
+            Apennines (N14-16, O15-16); </p>
          <p>-</p>
-         <p>
-the exclusively endemic species 
-<tp:taxon-name>Luperus vitalei</tp:taxon-name>
-Ragusa, 
-<tp:taxon-name>Calomicrus rottenbergi</tp:taxon-name>
-Ragusa, 
-<tp:taxon-name>Galeruca nebrodensis</tp:taxon-name>
-Ragusa and 
-<tp:taxon-name>Gonioctena theae</tp:taxon-name>
-Baviera occur in Northern Sicily (Madonie and Nebrodi) (
-X16-17
-); and
-</p>
+         <p> the exclusively endemic species <tp:taxon-name>Luperus vitalei</tp:taxon-name> Ragusa,
+               <tp:taxon-name>Calomicrus rottenbergi</tp:taxon-name> Ragusa, <tp:taxon-name>Galeruca
+               nebrodensis</tp:taxon-name> Ragusa and <tp:taxon-name>Gonioctena
+               theae</tp:taxon-name> Baviera occur in Northern Sicily (Madonie and Nebrodi) ( X16-17
+            ); and </p>
          <p>-</p>
-         <p>
-Western Corsica (N7, O7, P7) is characterized by the presence of 
-<tp:taxon-name>Galeruca corsica</tp:taxon-name>
-(Joannis), 
-<tp:taxon-name>Labidostomis syriaca</tp:taxon-name>
-Lacordaire, 
-<tp:taxon-name>Luperus maculicornis</tp:taxon-name>
-Desbrochers, 
-<tp:taxon-name>Orestia coiffaiti</tp:taxon-name>
-Doguet and 
-<tp:taxon-name>Timarcha cornuta</tp:taxon-name>
-Bechyne
-.
-</p>
-         <p>
-Finally, in addition to the areas of endemism determined by the PAE in Fig. 11 we have also added the regions with restricted endemic species, represented by a single quadrat, namely: the Apuan Alps (J9) with 
-<tp:taxon-name>
-Timarcha
-apuana
-</tp:taxon-name>
-Daccordi &amp; Ruffo and 
-<tp:taxon-name>Chrysolina osellai</tp:taxon-name>
-Daccordi &amp; Ruffo; the Giglio Island (N10) with 
-<tp:taxon-name>Pachybrachis sassii</tp:taxon-name>
-Montagna; the Pontine Islands (Q14) with 
-<tp:taxon-name>Pachybrachis burlinii</tp:taxon-name>
-Daccordi &amp; Ruffo; the Aegadian Islands (
-X13
-) with 
-<tp:taxon-name>Pachybrachis osellai</tp:taxon-name>
-Daccordi &amp; Ruffo; and finally Gennargentu (S8), with 
-<tp:taxon-name>Cryptocephalus alnicola</tp:taxon-name>
-Costa.
-</p>
+         <p> Western Corsica (N7, O7, P7) is characterized by the presence of
+               <tp:taxon-name>Galeruca corsica</tp:taxon-name> (Joannis),
+               <tp:taxon-name>Labidostomis syriaca</tp:taxon-name> Lacordaire,
+               <tp:taxon-name>Luperus maculicornis</tp:taxon-name> Desbrochers,
+               <tp:taxon-name>Orestia coiffaiti</tp:taxon-name> Doguet and <tp:taxon-name>Timarcha
+               cornuta</tp:taxon-name> Bechyne . </p>
+         <p> Finally, in addition to the areas of endemism determined by the PAE in Fig. 11 we have
+            also added the regions with restricted endemic species, represented by a single quadrat,
+            namely: the Apuan Alps (J9) with <tp:taxon-name> Timarcha apuana </tp:taxon-name>
+            Daccordi &amp; Ruffo and <tp:taxon-name>Chrysolina osellai</tp:taxon-name> Daccordi
+            &amp; Ruffo; the Giglio Island (N10) with <tp:taxon-name>Pachybrachis
+               sassii</tp:taxon-name> Montagna; the Pontine Islands (Q14) with
+               <tp:taxon-name>Pachybrachis burlinii</tp:taxon-name> Daccordi &amp; Ruffo; the
+            Aegadian Islands ( X13 ) with <tp:taxon-name>Pachybrachis osellai</tp:taxon-name>
+            Daccordi &amp; Ruffo; and finally Gennargentu (S8), with <tp:taxon-name>Cryptocephalus
+               alnicola</tp:taxon-name> Costa. </p>
       </sec>
       <sec sec-type="Discussion">
          <title>N/A</title>
          <p>Discussion</p>
          <p>
-            <tp:taxon-name>Chrysomelidae</tp:taxon-name>
-contribute significantly to the Italian endemic fauna, with 123 known endemic species representing 14.82% of the entire leaf beetle fauna for the country.
-</p>
-         <p>
-In the Alps, and particularly in the Apennines, the majority of endemic and subendemic species most likely originated as a result of the range shifts caused by the cyclic climatic changes during the Pleistocene glaciations. These climatic changes strongly influenced the recent biogeographic history of the faunas currently occur 
-ring
-in the high altitude montane systems of Europe (
-
-). Italy, in particular, represented one of the most important ice-age refugia for Mediterranean and Alpine species in Europe during the Pleistocene (
-
-; 
-
-). In the Alps the largest concentrations of strictly endemic species are in the south-eastern and western sectors, areas that were at lower altitudes and not covered by ice during glaciation (cf. 
-
-). These ice-free areas in some sectors of the Alps, as also in the Central Apennines, most likely served as centres of glacial survival from where these species performed only altitudinal shift, but no major horizontal range expansions to other deglaciating areas. On the other hand, endemic species currently confined only to high alpine habitats in the inner Alps, such as 
-<tp:taxon-name>
-Neocrepidodera
-nobilis
-</tp:taxon-name>
-, 
-<tp:taxon-name>Neocrepidodera obirensis</tp:taxon-name>
-, 
-<tp:taxon-name>Neocrepidodera simplicipes</tp:taxon-name>
-, 
-<tp:taxon-name>Neocrepidodera spectabilis</tp:taxon-name>
-(J. Daniel), 
-<tp:taxon-name>Oreina peirolerii</tp:taxon-name>
-(Bassi), 
-<tp:taxon-name>Oreina melancholica</tp:taxon-name>
-(Heer), and 
-<tp:taxon-name>Cryptocephalus tardus</tp:taxon-name>
-, may instead have survived in situ in the small ice-free areas topping the ice shield, the so-called 
-"nunataks"
-, during the catathermic periods of the glaciations.
-</p>
-         <p>
-The Apennines have played an important role as a centre for differentiation and currently host 50 endemic species of leaf beetles, 30% of which are shared with the Alps, and 26% with Sicily. Some species, such as 
-<tp:taxon-name>Luperus fiorii</tp:taxon-name>
-, 
-<tp:taxon-name>Oreina sibylla</tp:taxon-name>
-, 
-<tp:taxon-name>Psylliodes biondii</tp:taxon-name>
-and 
-<tp:taxon-name>Psylliodes springeri</tp:taxon-name>
-, are faunistic elements of northern origin that found suitable ecological conditions for their survival at the highest altitudes of montane systems, such as 
-<tp:taxon-name>Sibillini</tp:taxon-name>
-, Laga, Gran Sasso and Maiella, during the inter- and post-glacial hypsothermic periods. In other Apennine sectors, during the "climatic optimum" after the last glaciation, the increase in dominance of woody vegetation strongly reduced the presence of high altitude refugia, so causing the definitive disappearance of the cold-adapted species that had found refuge on isolated mountain massifs (cf. 
-
-; 
-
-).
-</p>
-         <p>
-Some endemic species of the Central and Southern Apennines, for example 
-<tp:taxon-name>Chrysolina sirentensis</tp:taxon-name>
-(Meier), probably had a trans-adriatic origin instead (
-
-; 
-
-, 
-
-, 
-
-; 
-
-). This distributional pattern is due to the effect of marine transgressions that occurred during the glacial phases, which allowed the formation of terrestrial bridges from the Balkan Peninsula and Central Italy and vice versa, particularly promoting the transit of submontane mesophilous elements (
-
-).
-</p>
-         <p>
-Other
-endemic Apennine species seem to belong to more ancient stock, generally pre-quaternary, that includes both Paleo-Mediterranean and possible Tertiary Alpine elements (
-
-). Among them are:
-</p>
-         <p>
-- 
-<tp:taxon-name>Longitarsus laureolae</tp:taxon-name>
-Biondi, occurring in the Southern Apennines and North-Western Sicily. This species is very closely related to the West Mediterranean 
-<tp:taxon-name>Longitarsus candidulus</tp:taxon-name>
-(Foudras), and 
-<tp:taxon-name>Luperus leonardii</tp:taxon-name>
-Doguet endemic to the Pyrenees (
-
-);
-</p>
-         <p>
--
-<tp:taxon-name>Chrysolina osellai</tp:taxon-name>
-, which is endemic to the Apuan Alps and belongs to a Paleo-Mediterranean species group with possible Pyrenean affinities (
-
-); and
-</p>
-         <p>
-- 
-<tp:taxon-name>Longitarsus springeri</tp:taxon-name>
-, a species that is taxonomically distinct from the other congeneric European and Mediterranean entities (
-
-).
-</p>
-         <p>
-Among the species studied, only 
-<tp:taxon-name>Dibolia alpestris</tp:taxon-name>
-Mohr shows a disjunct Alpine-Central Apennine distribution. Considering the absence of significant diagnostic phenotypic characters between these populations, it is possible to suppose that this species only reached the Central Apennines during the last glaciation.
-</p>
-         <p>The results from the PAE also show that the most important determining factor for the individualization of the areas of endemism, both in the Alps and in the Apennines, is the altitude. As reported above, this fact is surely due to historical events, and mainly the Pleistocene glaciations that promoted important differentiation phenomena as a consequence of relictual conditions, but also due to the subsequent role of high altitude montane environments in conserving and supporting animal populations that would otherwise have disappeared at lower altitude, because of human pressure.</p>
-         <p>
-Sicily has 14 subendemic species, the equivalent of 62.5% of the entire endemic leaf beetle component. Of these 13 are shared with the Southern Apennines and only one, 
-<tp:taxon-name>Pachybrachis testaceus</tp:taxon-name>
-Perris which is of probable Paleo-Mediterranean origin, is shared with Sardinia and Corsica. The nine exclusively endemic species include some pre-Quaternary elements, such as 
-<tp:taxon-name>Timarcha sicelidis</tp:taxon-name>
-Reiche which belongs to an ancient group (Miocene?) and possibly has affinities with 
-<tp:taxon-name>Timarcha cornuta</tp:taxon-name>
-, endemic to Corsica, and 
-<tp:taxon-name>Timarcha sardea</tp:taxon-name>
-Villa &amp; Villa, endemic to Sardinia and Corsica (
-
-). No phylogeographical data are available for 
-<tp:taxon-name>Timarcha sicelidis</tp:taxon-name>
-occurring in Northern Sicily and the Hyblean area, but its biogeographical history could most likely be analogous to the history of other taxa, such as the tenebrionid beetles 
-<tp:taxon-name>Pimelia grossa</tp:taxon-name>
-Fabricius and 
-<tp:taxon-name>Pimelia rugulosa</tp:taxon-name>
-Germar (
-
-). The current distribution of these two species reflects the extensive geological changes over the Plio-Pleistocene period, that have deeply influenced the origin and distribution of the Sicilian fauna. Most of the exclusively endemic species, such as 
-<tp:taxon-name>Calomicrus rottenbergi</tp:taxon-name>
-, 
-<tp:taxon-name>Galeruca sicana</tp:taxon-name>
-(Reiche), 
-<tp:taxon-name>Galeruca nebrodensis</tp:taxon-name>
-, 
-<tp:taxon-name>Gonioctena theae</tp:taxon-name>
-, 
-<tp:taxon-name>Lachnaia caprai</tp:taxon-name>
-Grassoand 
-<tp:taxon-name>Luperus vitalei</tp:taxon-name>
-,are limited to Northern Sicily. Only 
-<tp:taxon-name>Cryptocephalus plantaris</tp:taxon-name>
-Suffrian has a limited distribution in southern Sicily and Malta (
-
-); its origin can probably be traced back to marine regressions of the Pleistocene, when Malta and the Hyblean region were occasionally in contact (cf. 
-
-), or due to a more recent colonization of Sicily from the South.
-</p>
-         <p>
-The Sardinian-Corsican leaf beetle fauna comprises a great number of exclusively endemic species (24), including some pre-Quaternary elements of probable Miocene origin, such as 
-<tp:taxon-name>Timarcha cornuta</tp:taxon-name>
-and 
-<tp:taxon-name>Timarcha sardea</tp:taxon-name>
-(
-
-; 
-
-).
-</p>
-         <p>
-Finally, among the possible Paleo-Mediterranean elements, we find the following: 
-<tp:taxon-name>
-Aphthona
-wagneri
-</tp:taxon-name>
-Heikertinger, occurring in Corsica and on the small Tyrrhenian Islands (Tuscany Islands); 
-<tp:taxon-name>Aphthona perrisi</tp:taxon-name>
-Allard and 
-<tp:taxon-name>Cryptocephalus biondii</tp:taxon-name>
-Sassi &amp; Regalin occurring in Sardinia, Corsica and on the Tuscany Islands; the above-mentioned 
-<tp:taxon-name>Pachybrachis testaceus</tp:taxon-name>
-, occurring in Sardinia, Corsica, Sicily and on the circum-Sicilian islands.
-</p>
-         <p>
-In conclusion we can affirm that endemization phenomena in this beetle family seem mainly due to factors as philopatry, trophic specialization, meiopterism and adaptation to high altitudes, often in combination with vicariance and colonization events, which have contributed to create reproductively isolated units in the course of the time (cf. 
-
-).
-</p>
-         <p>About endemization as consequence for adaptation to high altitudes, it can be due to historical events, mainly the Pleistocenic glaciations, that promoted important differentiation phenomena as consequence of relictuality conditions, but can also be due to the subsequent role of high montane environments in conservation, supporting animal populations that would otherwise have disappeared at lower altitude because of human pressure.</p>
+            <tp:taxon-name>Chrysomelidae</tp:taxon-name> contribute significantly to the Italian
+            endemic fauna, with 123 known endemic species representing 14.82% of the entire leaf
+            beetle fauna for the country. </p>
+         <p> In the Alps, and particularly in the Apennines, the majority of endemic and subendemic
+            species most likely originated as a result of the range shifts caused by the cyclic
+            climatic changes during the Pleistocene glaciations. These climatic changes strongly
+            influenced the recent biogeographic history of the faunas currently occur ring in the
+            high altitude montane systems of Europe ( ). Italy, in particular, represented one of
+            the most important ice-age refugia for Mediterranean and Alpine species in Europe during
+            the Pleistocene ( ; ). In the Alps the largest concentrations of strictly endemic
+            species are in the south-eastern and western sectors, areas that were at lower altitudes
+            and not covered by ice during glaciation (cf. ). These ice-free areas in some sectors of
+            the Alps, as also in the Central Apennines, most likely served as centres of glacial
+            survival from where these species performed only altitudinal shift, but no major
+            horizontal range expansions to other deglaciating areas. On the other hand, endemic
+            species currently confined only to high alpine habitats in the inner Alps, such as
+               <tp:taxon-name> Neocrepidodera nobilis </tp:taxon-name> ,
+               <tp:taxon-name>Neocrepidodera obirensis</tp:taxon-name> ,
+               <tp:taxon-name>Neocrepidodera simplicipes</tp:taxon-name> ,
+               <tp:taxon-name>Neocrepidodera spectabilis</tp:taxon-name> (J. Daniel),
+               <tp:taxon-name>Oreina peirolerii</tp:taxon-name> (Bassi), <tp:taxon-name>Oreina
+               melancholica</tp:taxon-name> (Heer), and <tp:taxon-name>Cryptocephalus
+               tardus</tp:taxon-name> , may instead have survived in situ in the small ice-free
+            areas topping the ice shield, the so-called "nunataks" , during the catathermic periods
+            of the glaciations. </p>
+         <p> The Apennines have played an important role as a centre for differentiation and
+            currently host 50 endemic species of leaf beetles, 30% of which are shared with the
+            Alps, and 26% with Sicily. Some species, such as <tp:taxon-name>Luperus
+               fiorii</tp:taxon-name> , <tp:taxon-name>Oreina sibylla</tp:taxon-name> ,
+               <tp:taxon-name>Psylliodes biondii</tp:taxon-name> and <tp:taxon-name>Psylliodes
+               springeri</tp:taxon-name> , are faunistic elements of northern origin that found
+            suitable ecological conditions for their survival at the highest altitudes of montane
+            systems, such as <tp:taxon-name>Sibillini</tp:taxon-name> , Laga, Gran Sasso and
+            Maiella, during the inter- and post-glacial hypsothermic periods. In other Apennine
+            sectors, during the "climatic optimum" after the last glaciation, the increase in
+            dominance of woody vegetation strongly reduced the presence of high altitude refugia, so
+            causing the definitive disappearance of the cold-adapted species that had found refuge
+            on isolated mountain massifs (cf. ; ). </p>
+         <p> Some endemic species of the Central and Southern Apennines, for example
+               <tp:taxon-name>Chrysolina sirentensis</tp:taxon-name> (Meier), probably had a
+            trans-adriatic origin instead ( ; , , ; ). This distributional pattern is due to the
+            effect of marine transgressions that occurred during the glacial phases, which allowed
+            the formation of terrestrial bridges from the Balkan Peninsula and Central Italy and
+            vice versa, particularly promoting the transit of submontane mesophilous elements ( ). </p>
+         <p> Other endemic Apennine species seem to belong to more ancient stock, generally
+            pre-quaternary, that includes both Paleo-Mediterranean and possible Tertiary Alpine
+            elements ( ). Among them are: </p>
+         <p> - <tp:taxon-name>Longitarsus laureolae</tp:taxon-name> Biondi, occurring in the
+            Southern Apennines and North-Western Sicily. This species is very closely related to the
+            West Mediterranean <tp:taxon-name>Longitarsus candidulus</tp:taxon-name> (Foudras), and
+               <tp:taxon-name>Luperus leonardii</tp:taxon-name> Doguet endemic to the Pyrenees ( ); </p>
+         <p> - <tp:taxon-name>Chrysolina osellai</tp:taxon-name> , which is endemic to the Apuan
+            Alps and belongs to a Paleo-Mediterranean species group with possible Pyrenean
+            affinities ( ); and </p>
+         <p> - <tp:taxon-name>Longitarsus springeri</tp:taxon-name> , a species that is
+            taxonomically distinct from the other congeneric European and Mediterranean entities (
+            ). </p>
+         <p> Among the species studied, only <tp:taxon-name>Dibolia alpestris</tp:taxon-name> Mohr
+            shows a disjunct Alpine-Central Apennine distribution. Considering the absence of
+            significant diagnostic phenotypic characters between these populations, it is possible
+            to suppose that this species only reached the Central Apennines during the last
+            glaciation. </p>
+         <p>The results from the PAE also show that the most important determining factor for the
+            individualization of the areas of endemism, both in the Alps and in the Apennines, is
+            the altitude. As reported above, this fact is surely due to historical events, and
+            mainly the Pleistocene glaciations that promoted important differentiation phenomena as
+            a consequence of relictual conditions, but also due to the subsequent role of high
+            altitude montane environments in conserving and supporting animal populations that would
+            otherwise have disappeared at lower altitude, because of human pressure.</p>
+         <p> Sicily has 14 subendemic species, the equivalent of 62.5% of the entire endemic leaf
+            beetle component. Of these 13 are shared with the Southern Apennines and only one,
+               <tp:taxon-name>Pachybrachis testaceus</tp:taxon-name> Perris which is of probable
+            Paleo-Mediterranean origin, is shared with Sardinia and Corsica. The nine exclusively
+            endemic species include some pre-Quaternary elements, such as <tp:taxon-name>Timarcha
+               sicelidis</tp:taxon-name> Reiche which belongs to an ancient group (Miocene?) and
+            possibly has affinities with <tp:taxon-name>Timarcha cornuta</tp:taxon-name> , endemic
+            to Corsica, and <tp:taxon-name>Timarcha sardea</tp:taxon-name> Villa &amp; Villa,
+            endemic to Sardinia and Corsica ( ). No phylogeographical data are available for
+               <tp:taxon-name>Timarcha sicelidis</tp:taxon-name> occurring in Northern Sicily and
+            the Hyblean area, but its biogeographical history could most likely be analogous to the
+            history of other taxa, such as the tenebrionid beetles <tp:taxon-name>Pimelia
+               grossa</tp:taxon-name> Fabricius and <tp:taxon-name>Pimelia rugulosa</tp:taxon-name>
+            Germar ( ). The current distribution of these two species reflects the extensive
+            geological changes over the Plio-Pleistocene period, that have deeply influenced the
+            origin and distribution of the Sicilian fauna. Most of the exclusively endemic species,
+            such as <tp:taxon-name>Calomicrus rottenbergi</tp:taxon-name> , <tp:taxon-name>Galeruca
+               sicana</tp:taxon-name> (Reiche), <tp:taxon-name>Galeruca nebrodensis</tp:taxon-name>
+            , <tp:taxon-name>Gonioctena theae</tp:taxon-name> , <tp:taxon-name>Lachnaia
+               caprai</tp:taxon-name> Grassoand <tp:taxon-name>Luperus vitalei</tp:taxon-name> ,are
+            limited to Northern Sicily. Only <tp:taxon-name>Cryptocephalus plantaris</tp:taxon-name>
+            Suffrian has a limited distribution in southern Sicily and Malta ( ); its origin can
+            probably be traced back to marine regressions of the Pleistocene, when Malta and the
+            Hyblean region were occasionally in contact (cf. ), or due to a more recent colonization
+            of Sicily from the South. </p>
+         <p> The Sardinian-Corsican leaf beetle fauna comprises a great number of exclusively
+            endemic species (24), including some pre-Quaternary elements of probable Miocene origin,
+            such as <tp:taxon-name>Timarcha cornuta</tp:taxon-name> and <tp:taxon-name>Timarcha
+               sardea</tp:taxon-name> ( ; ). </p>
+         <p> Finally, among the possible Paleo-Mediterranean elements, we find the following:
+               <tp:taxon-name> Aphthona wagneri </tp:taxon-name> Heikertinger, occurring in Corsica
+            and on the small Tyrrhenian Islands (Tuscany Islands); <tp:taxon-name>Aphthona
+               perrisi</tp:taxon-name> Allard and <tp:taxon-name>Cryptocephalus
+               biondii</tp:taxon-name> Sassi &amp; Regalin occurring in Sardinia, Corsica and on the
+            Tuscany Islands; the above-mentioned <tp:taxon-name>Pachybrachis
+               testaceus</tp:taxon-name> , occurring in Sardinia, Corsica, Sicily and on the
+            circum-Sicilian islands. </p>
+         <p> In conclusion we can affirm that endemization phenomena in this beetle family seem
+            mainly due to factors as philopatry, trophic specialization, meiopterism and adaptation
+            to high altitudes, often in combination with vicariance and colonization events, which
+            have contributed to create reproductively isolated units in the course of the time (cf.
+            ). </p>
+         <p>About endemization as consequence for adaptation to high altitudes, it can be due to
+            historical events, mainly the Pleistocenic glaciations, that promoted important
+            differentiation phenomena as consequence of relictuality conditions, but can also be due
+            to the subsequent role of high montane environments in conservation, supporting animal
+            populations that would otherwise have disappeared at lower altitude because of human
+            pressure.</p>
       </sec>
       <sec sec-type="acknowledgements">
          <title>N/A</title>
          <p>Acknowledgements</p>
-         <p>We are very grateful to our friends and colleagues, Mauro Daccordi (Verona, Italy), Davide Sassi (Milan, Italy), Stefano Zoia (Milan, Italy), for their data and valuable suggestions. A special thanks to our friend Elizabeth Grobbelaar (Pretoria, Republic of South Africa) for comments and linguistic improvements. This contribution was granted by the Italian PRIN 20085YJMTC (Research Programmes of National Interest).</p>
+         <p>We are very grateful to our friends and colleagues, Mauro Daccordi (Verona, Italy),
+            Davide Sassi (Milan, Italy), Stefano Zoia (Milan, Italy), for their data and valuable
+            suggestions. A special thanks to our friend Elizabeth Grobbelaar (Pretoria, Republic of
+            South Africa) for comments and linguistic improvements. This contribution was granted by
+            the Italian PRIN 20085YJMTC (Research Programmes of National Interest).</p>
       </sec>
       <sec sec-type="reference_group">
          <title>N/A</title>
          <ref-list>
             <ref>
-               <mixed-citation>
-Baroni, Urbani C
-, 
-Buser, MW
-, 
-1976
-. 
-Similarity of binary data.
-. 
-Systematic Zoology
-25
-: 
-251 - 259
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Baviera, C
-, 
-2007
-. 
-First record of Gonioctena (Coleoptera Chrysomelidae, Chrysomelinae) in Sicily, with the description of Gonioctena theae n. sp.
-. 
-Italian Journal of Zoology
-74
-: 
-389 - 393
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Biondi, M
-, 
-1988a
-. 
-
-Osservazioni comparative sul comportamento di tre indici di 
-similarita
-per dati binari.
-
-. 
-Biogeographia
-11
-: 
-285 - 292
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Biondi, M
-, 
-1988b
-. 
-Contributo alla conoscenza dei Crisomelidi Alticini dei Monti Peloritani (Sicilia nord orientale) e descrizione di una nuova specie di Longitarsus (Coleoptera, Chrysomelidae, Alticinae).
-. 
-Animalia, Catania
-15
-: 
-129 - 149
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Biondi, M
-,, 
-1996
-. 
-Proposal for an ecological and zoogeographical categorization of the mediterranean species of the flea beetle genus Longitarsus Berthold.
-. In: 
-Jolivet, PHA
-, 
-Cox, ML
-, Eds., 
-Chrysomelidae Biology
-. 
-SPB Academic Publishing
-: 
-13 - 35
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Biondi, M
-, 
-2006a
-. 
-Recenti aspetti metodologici in biogeografia storica.
-. 
-Atti Accademia di Entomologia, Anno LIII
-2005
-: 
-89 - 111
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Biondi
-, M
-
-, 
-2006b
-. 
-Il calcolo della somiglianza con dati binari nelle analisi biogeografiche.
-. 
-Biogeographia
-27
-: 
-227 - 251
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Biondi, M
-, 
-2006c
-. 
-Insecta Coleoptera Chrysomelidae Alticinae.
-. In: 
-Ruffo, S
-, 
-Stoch, F
-, Eds., 
-Checklist e distribuzione della fauna italiana. Memorie del Museo Civico di Storia Naturale di Verona
-. 
-Sezione Scienze della Vita
-16
-: 
-227 - 229
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Biondi, M
-, 
-Daccordi, M
-, 
-Regalin, R
-, 
-Zampetti, M
-,, 
-1994
-. 
-Coleoptera Polyphaga XV (Chrysomelidae, Bruchidae).
-. In: 
-Minelli, A
-, 
-Ruffo, S
-, 
-La Posta, S
-, Eds., 
-Checklist delle specie della fauna italiana
-. 
-Calderini, Bologna
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Biondi, M
-, 
-
-D'Alessandro
-, P
-
-, 
-2012
-. 
-Afrotropical flea beetle genera: a key to their identification, updated catalogue and biogeographical analysis (Coleoptera, Chrysomelidae, Galerucinae, Alticini).
-. 
-Zookeys
-253
-: 
-1 - 158
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Bonfiglio, L
-, 
-Mangano, G
-, 
-Marra, AC
-, 
-Masini, F
-, 
-Pavia, M
-, 
-Petruso, D
-, 
-2002
-. 
-Pleistocene Calabrian and Sicilian bioprovinces.
-. 
-Geobios (Special Memories)
-24
-: 
-29 - 39
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Bonn, A
-, 
-Rodrigues, ASL
-, 
-Gaston, KJ
-, 
-2002
-. 
-Threatened and endemic species: are they good indicators of patterns of biodiversity on a national scale?
-. 
-Ecology Letters
-5
-: 
-733 - 741
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Bourdonne
-, JC
-
-, 
-Doguet, S
-, 
-1991
-. 
-
-Donnees
-sur la biosystematique des Chrysolina l. s. (Coleoptera Chrysomelidae: Chrysomelinae).
-
-. 
-
-Annales de la 
-Societe
-Entomologique de France (N.S.)
-
-27
-: 
-29 - 64
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Brooks, TM
-, 
-Mittermeier, RA
-, 
-da Fonseca, GAB
-, 
-Gerlach, J
-, 
-Hoffmann, M
-, 
-Lamoreux, JF
-, 
-Mittermeier, CG
-, 
-Pilgrim, JD
-, 
-Rodrigues, ASL
-, 
-2006
-. 
-Global biodiversity conservation priorities.
-. 
-Science
-313
-: 
-58 - 61
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Burlakova, LE
-, 
-Karatayev, AY
-, 
-Karatayev, VA
-, 
-May, ME
-, 
-Bennett, DL
-, 
-Cook, MJ
-, 
-2011
-. 
-Endemic species: contribution to community uniqueness, effect of habitat alteration, and conservation priorities.
-. 
-Biological Conservation
-144
-: 
-155 - 165
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Camin, JH
-, 
-Sokal, RR
-, 
-1965
-. 
-A method for deducing branching sequences in phylogeny.
-. 
-Evolution
-19
-: 
-311 - 326
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Daccordi, M
-, 
-Pistarino, A
-, 
-2001
-. 
-
-Rinvenimento di Timarcha cornuta 
-Bechyne
-(Coleoptera Chrysomelidae Chrysomelinae).
-
-. 
-Bollettino del Museo regionale di Scienze naturali di Torino
-18
-: 
-433 - 446
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Daccordi, M
-, 
-Ruffo, S
-, 
-1979
-. 
-Le Chrysolina italiane del sottogenere Threnosoma Motsch. (Coleoptera Chrysomelidae).
-. 
-Bollettino del Museo Civico di Storia Naturale di Verona
-6
-: 
-305 - 332
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Daccordi, M
-, 
-Ruffo, S
-, 
-1988
-. 
-Considerazioni sistematiche e biogeografiche sulle Timarcha italiane (Coleoptera, Chrysomelidae).
-. 
-
-Atti XV Congresso nazionale italiano di Entomologia, 
-L'Aquila
-
-1988
-: 
-343 - 351
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Daccordi, M
-, 
-Ruffo, S
-, 
-2005
-. 
-Considerazioni biogeografiche sulle Chrysolina delle province appenninica e sicula con descrizione di Chrysolina (Stichoptera) bourdonnei n. sp. (Coleoptera, Chrysomelidae).
-. 
-Studi Trentini di Scienze Naturali, Acta Biologica
-81
-: 
-113 - 127
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-
-D'Alessandro
-
-, P
-
-, 
-Biondi, M
-, 
-2007
-. 
-Analisi zoogeografica della crisomelidofauna appenninica legata ai piani altitudinali montano, subalpino e alpino (Coleoptera, Chrysomelidae).
-. 
-Biogeographia
-28
-: 
-461 - 494
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-D'Alessandro
-, P
-
-, 
-Biondi, M
-, 
-2011
-. 
-I Coleotteri Crisomelidi nel Demanio di Marganai e nelle zone limitrofe: analisi del popolamento e considerazioni sui metodi di campionamento utilizzati (Coleoptera: Chrysomelidae).
-. In: 
-Nardi, G
-, 
-Whitmore, D
-, 
-Bardiani, M
-, 
-Birtele, D
-, 
-Mason, F
-, 
-Spada, L
-, 
-Cerretti, P
-, Eds., 
-Biodiversity of Marganai and Montimannu (Sardinia). Research in the frame work of the ICP Forests network.
-. 
-Conservazione Habitat Invertebrati
-5
-: 
-553 - 580
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Felsenstein, J
-,, 
-1989
-. 
-PHYLIP manual, version 3.2.
-. In:. 
-University of California Herbarium, Berkeley, California
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Gridelli, E
-, 
-1950
-. 
-Il problema delle specie a diffusione transadriatica, con particolare riguardo ai coleotteri.
-. 
-Memorie di Biogeografia adriatica
-1
-: 
-1 - 299
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Harold, AS
-, 
-Mooi, RD
-, 
-1994
-. 
-
-Areas of endemism: 
-deﬁnition
-and recognition criteria.
-
-. 
-Systematic Biology
-43
-: 
-261 - 266
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Hilty, J
-, 
-Merenlender, A
-, 
-2000
-. 
-Faunal indicator taxa selection for monitoring ecosystem health.
-. 
-Biological Conservation
-92
-: 
-185 - 197
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Jetz, W
-, 
-Rahbek, C
-, 
-Colwell, RK
-, 
-2004
-. 
-The coincidence of rarity and richness and the potential signature of history in centres of endemism.
-. 
-Ecology Letters
-7
-: 
-
-1180 - 1191
-
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Jolivet, P
-, 
-Verma, KK
-, 
-2002
-. 
-Biology of leaf beetles.
-. 
-U.K.: Intercept Publishers, Andover, Hampshire
-, 332 pp.
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Kapp, A
-, 
-2007
-. 
-
-Eine neue Art der Gattung Orestia Germar aus den Abruzzen und aktuelle Funde von Orestia aus Mittel- und 
-Sueditalien
-(Coleoptera, Chrysomelidae).
-
-. 
-
-Entomologische 
-Blaetter
-
-102
-: 
-95 - 100
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Kippenberg, H
-, 
-2008
-. 
-Revision der Untergattung Protorina Weise der Gattung Oreina Chevrolat (Coleoptera: Chrysomelidae: Chrysomelinae).
-. 
-Koleopterologische Rundschau
-78
-: 
-367 - 418
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-La, Greca M
-,, 
-2002
-. 
-Vicende paleogeografiche e componenti della fauna italiana.
-. In: 
-Minelli, A
-, 
-Chemini, C
-, 
-Argano, R
-, 
-Ruffo, S
-, Eds., 
-La fauna in Italia.
-. 
-
-Touring Editore, Milano e Ministero 
-dell'Ambiente
-e della Tutela del Territorio, Roma
-
-, 448 pp.
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Lamoreux, JF
-, 
-Morrison, JC
-, 
-Ricketts, TH
-, 
-Olson, DM
-, 
-Dinerstein, E
-, 
-McKnight, MW
-, 
-Shugart, HH
-, 
-2006
-. 
-Global tests of biodiversity concordance and the importance of endemism.
-. 
-Nature
-440
-: 
-212 - 214
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Lawrence, JF
-, 
-Newton, AF Jr.
-,, 
-1995
-. 
-Families and subfamilies of Coleoptera (with selected genera, notes and references, and data on family-group names).
-. In: 
-Pakaluk, J
-, 
-
-Ślipinski
-, SA
-
-, Eds., 
-Crowson.
-. 
-Muzeum i Instytut Zoologii Polska Akademia Nauk, Warszawa
-: 
-779 - 1006
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Leonardi, C
-, 
-1975
-. 
-
-Note su alcuni Longitarsus con descrizione di due nuove specie e citazione di quattro 
-entita
-nuove per la fauna europea (Coleoptera Chrysomelidae).
-
-. 
-
-Atti della 
-Societa
-Italiana di Scienze Naturali e Museo Civico di Storia Naturale di Milano
-
-116
-: 
-199 - 217
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Leonardi
-, C
-
-, 
-2007
-. 
-Dati inediti sul genere Psylliodes Latreille, con descrizione di quattro nuove specie mediterranee (Coleoptera Chrysomelidae).
-. 
-
-Atti della 
-Societa
-italiana di Scienze naturali e del Museo civico di Storia naturale di Milano
-
-148
-: 
-161 - 240
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Marazzi, S
-,, 
-2006
-. 
-Atlante orografico delle Alpi. SOIUSA. Suddivisione orografica internazionale unificata del Sistema Alpino.
-. In: 
-Quaderni di cultura alpina
-. 
-Priuli &amp; Verlucca Ed.
-, 456 pp.
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Margush, T
-, 
-McMorris, FR
-, 
-1981
-. 
-Consensus n-trees.
-. 
-Bulletin of Mathematical Biology
-43
-: 
-239 - 244
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-McQuitty, LL
-, 
-1966
-. 
-Similarity analysis by reciprocal pairs for discrete and continuous data.
-. 
-Educational and Psychological Measurement
-26
-: 
-825 - 831
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Meuser, E
-, 
-Harshaw, HW
-, 
-
-Mooers, 
-AO
-
-, 
-2009
-. 
-Public preference for endemism over other conservation-related species attributes.
-. 
-Conservation Biology
-23
-: 
-
-1041 - 1046
-
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Montagna, M
-, 
-2011
-. 
-Pachybrachis sassii, a new species from the Mediterranean Giglio Island (Italy) (Coleoptera, Chrysomelidae, Cryptocephalinae).
-. 
-ZooKeys
-155
-: 
-51 - 60
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Moncoutier, B
-, 
-2011
-. 
-Cryptocephalus eridani Sassi, 2001, nouveau pour la faune de France (Coleoptera, Chrysomelidae).
-. 
-Le Coleopteriste
-14
-: 
-88 - 89
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Morrone, JJ
-, 
-1994
-. 
-On the identification of areas of endemism.
-. 
-Systematic Biology
-43
-: 
-438 - 441
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Orme, CDL
-, 
-Gavies, RG
-, 
-Burgess, M
-, 
-Eigenbrod, F
-, 
-Pickup, N
-, 
-Olson, VA
-, 
-Webster, AJ
-, 
-Ding, TS
-, 
-Rasmussen, PC
-, 
-Ridgely, RS
-, 
-Stattersfield, AJ
-, 
-Bennett, PM
-, 
-Blackburn, TM
-, 
-Gaston, KJ
-, 
-Owens, IPF
-, 
-2005
-. 
-Global hotspots of species richness are not congruent with endemism or threat.
-. 
-Nature
-436
-: 
-
-1016 - 1019
-
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Piper, RW
-, 
-Compton, SG
-, 
-2010
-. 
-Population size and dispersal ability of Cryptocephalus niti dulus (Linnaeus, 1758) (Col.: Chrysomelidae).
-. 
-
-The 
-Entomologist's
-record and Journal of variation
-
-122
-: 
-257 - 264
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Prendergast, JR
-, 
-Quinn, RM
-, 
-Lawton, JH
-, 
-Eversham, BC
-, 
-Gibbons, DW
-, 
-1993
-. 
-Rare species, the coincidence of diversity hotspots and conservation strategies.
-. 
-Nature
-365
-: 
-335 - 337
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Reid, WV
-, 
-1998
-. 
-Biodiversity hotspots.
-. 
-Trends in Ecology &amp; Evolution
-13
-: 
-275 - 280
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Riddle, BR
-, 
-Ladle, RJ
-, 
-Lourie, SA
-, 
-Whittaker, RJ
-,, 
-2011
-. 
-Basic biogeography: estimating biodiversity and mapping nature.
-. In: 
-Ladle, RJ
-, 
-Whittaker, RJ
-, Eds., 
-Conservation Biogeography
-. 
-Wiley-Blackwell, Oxford
-, 320 pp.
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Rohlf, FJ
-, 
-2008
-. 
-NTSYSpc: Numerical Taxonomy System, ver. 2.20.
-. 
-Setauket, NY: Exeter Publishing Ltd.
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Rosen
-, BR
-
-,, 
-1988
-. 
-From fossils to earth history: applied historical biogeography.
-. In: 
-Myers, AA
-, 
-Giller, PS
-, Eds.,. 
-Chapman &amp; Hall, London &amp; New York
-: 
-437 - 481
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Rosen, BR
-, 
-Smith, AB
-,, 
-1988
-. 
-Tectonics from fossils? Analysis of reef-coral and sea-urchin distributions from late Cretaceous to Recent, using a new method.
-. In: 
-Audley-Charles, MG
-, 
-Hallam, A
-, Eds., 
-Geological Society Special Publication
-. 
-Oxford University Press, Oxford
-: 
-275 - 306
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Ruffo, S
-, 
-1971
-. 
-
-Alcune considerazioni, in margine al XVII congresso della 
-Societa
-Italiana di Biogeographia, sul popolamento animale 
-dell'Appennino
-centrale.
-
-. 
-Biogeographia
-2
-: 
-811 - 827
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Sassi, D
-, 
-2006
-. 
-Insecta Coleoptera Chrysomelidae Cryptocephalinae.
-. In: 
-Ruffo, S
-, 
-Stoch, F
-, Eds., 
-Checklist e distribuzione della fauna italiana. Memorie del Museo civico di Storia naturale di Verona
-. 
-Sezione Scienze della Vita
-16
-: 
-223 - 225
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Sassi, D
-, 
-2011
-. 
-A new species of the Cryptocephalus marginellus complex from Italian Western Alps (Coleoptera: Chrysomelidae: Cryptocephalinae).
-. 
-Genus
-22
-: 
-123 - 132
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Sassi, D
-, 
-Zoia, S
-, 
-2002
-. 
-Cryptocephalus (Burlinius) plantaris from Sicily and Malta, species resurrected synonymy with C. (B.) luridicollis (Coleoptera Chrysomelidae).
-. 
-
-Bollettino della 
-Societa
-Entomologica Italiana
-
-134
-: 
-111 - 116
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Schmitt, M
-,, 
-1996
-. 
-The phylogenetic system of the Chrysomelidae.
-. In: 
-Jolivet, PHA
-, 
-Cox, ML
-, Eds.,. 
-SPB Academic Publishing
-: 
-57 - 96
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Schmitt, T
-, 
-2009
-. 
-Biogeographical and evolutionary importance of the European high mountain systems.
-. 
-Frontiers in Zoology
-4
-, 9 pp.
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Sokal, RR
-, 
-Rohlf, FJ
-, 
-1981
-. 
-Taxonomic congruence in the Leptopodomorpha re-examined.
-. 
-Systematic Zoology
-30
-: 
-309 - 325
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Stoch, F
-, 
-2000
-. 
-How many endemic species? Species richness assessment and conservation priorities in Italy.
-. 
-Belgian Journal of Entomology
-2
-: 
-125 - 133
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Stoch, F
-,, 
-2008
-. 
-La fauna italiana: dalla conoscenza alla conservazione/Italian fauna: from knowledge to conservation.
-. In: 
-DPN - Direzione per la Protezione della Natura.
-. 
-Palombi &amp; Partner, Roma
-, 37 pp.
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Stoch, F
-, 
-Vigna, Taglianti A
-, 
-2006
-. 
-I corotipi della fauna italiana.
-. In: 
-Ruffo, S
-, 
-Stoch, F
-, Eds., 
-Checklist e distribuzione della fauna italiana. Memorie del Museo civico di Storia naturale di Verona
-. 
-Sezione Scienze della Vita
-16
-: 
-25 - 28
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Stroscio, S
-, 
-Baviera, C
-, 
-Frati, F
-, 
-Lo, Paro G
-, 
-Nardi, F
-, 
-2011
-. 
-Deep genetic divergence in the darkling beetle Pimelia rugulosa (Coleoptera, Tenebrionidae) reflects Plio-Pleistocenic paleogeographics history of Sicily.
-. 
-Journal of Zoological Systematics and Evolutionary Research
-49
-: 
-196 - 203
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Taberlet, P
-, 
-Fumagalli, L
-, 
-Wust-Saucy, AG
-, 
-Cosson, JF
-, 
-1998
-. 
-Comparative phylogeography and postglacial colonization routes in Europe.
-. 
-Molecular Ecology
-7
-: 
-453 - 464
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Triponez, Y
-, 
-Buerki, S
-, 
-Borer, M
-, 
-Naisbit, RE
-, 
-Rahier, M
-, 
-Alvarez, N
-, 
-2011
-. 
-Discordances between phylogenetic and morphological patterns in alpine leaf beetles attest to an intricate biogeographic history of lineages in postglacial Europe.
-. 
-Molecular Ecology
-20
-: 
-
-2442 - 2463
-
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-
-Vigna
-Taglianti, A
-
-, 
-Audisio, PA
-, 
-Biondi, M
-, 
-Bologna, MA
-, 
-Carpaneto, GM
-, 
-De Biase, A
-, 
-Fattorini, S
-, 
-Piattella, E
-, 
-Sindaco, R
-, 
-Venchi, A
-, 
-Zapparoli, M
-, 
-1999
-. 
-A proposal for a chorotype classification of the Near East fauna, in the frame work in the Western Palearctic region.
-. 
-Biogeographia
-20
-: 
-31 - 59
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Whittaker, RJ
-, 
-
-Araujo
-, MB
-
-, 
-Jepson, P
-, 
-Ladle, RJ
-, 
-Watson, JEM
-, 
-Willis, KJ
-, 
-2005
-. 
-Conservation Biogeography: assessment and prospect.
-. 
-Diversity and Distributions
-11
-: 
-3 - 23
-</mixed-citation>
-            </ref>
-            <ref>
-               <mixed-citation>
-Wilson, KA
-, 
-McBride, MF
-, 
-Bode, M
-, 
-Possingham, HP
-, 
-2006
-. 
-Prioritizing global conservation efforts.
-. 
-Nature
-440
-: 
-337 - 340
-</mixed-citation>
+               <mixed-citation> Baroni, Urbani C , Buser, MW , 1976 . Similarity of binary data. .
+                  Systematic Zoology 25 : 251 - 259 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Baviera, C , 2007 . First record of Gonioctena (Coleoptera
+                  Chrysomelidae, Chrysomelinae) in Sicily, with the description of Gonioctena theae
+                  n. sp. . Italian Journal of Zoology 74 : 389 - 393 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Biondi, M , 1988a . Osservazioni comparative sul comportamento di
+                  tre indici di similarita per dati binari. . Biogeographia 11 : 285 - 292
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Biondi, M , 1988b . Contributo alla conoscenza dei Crisomelidi
+                  Alticini dei Monti Peloritani (Sicilia nord orientale) e descrizione di una nuova
+                  specie di Longitarsus (Coleoptera, Chrysomelidae, Alticinae). . Animalia, Catania
+                  15 : 129 - 149 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Biondi, M ,, 1996 . Proposal for an ecological and zoogeographical
+                  categorization of the mediterranean species of the flea beetle genus Longitarsus
+                  Berthold. . In: Jolivet, PHA , Cox, ML , Eds., Chrysomelidae Biology . SPB
+                  Academic Publishing : 13 - 35 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Biondi, M , 2006a . Recenti aspetti metodologici in biogeografia
+                  storica. . Atti Accademia di Entomologia, Anno LIII 2005 : 89 - 111
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Biondi , M , 2006b . Il calcolo della somiglianza con dati binari
+                  nelle analisi biogeografiche. . Biogeographia 27 : 227 - 251 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Biondi, M , 2006c . Insecta Coleoptera Chrysomelidae Alticinae. .
+                  In: Ruffo, S , Stoch, F , Eds., Checklist e distribuzione della fauna italiana.
+                  Memorie del Museo Civico di Storia Naturale di Verona . Sezione Scienze della Vita
+                  16 : 227 - 229 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Biondi, M , Daccordi, M , Regalin, R , Zampetti, M ,, 1994 .
+                  Coleoptera Polyphaga XV (Chrysomelidae, Bruchidae). . In: Minelli, A , Ruffo, S ,
+                  La Posta, S , Eds., Checklist delle specie della fauna italiana . Calderini,
+                  Bologna </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Biondi, M , D'Alessandro , P , 2012 . Afrotropical flea beetle
+                  genera: a key to their identification, updated catalogue and biogeographical
+                  analysis (Coleoptera, Chrysomelidae, Galerucinae, Alticini). . Zookeys 253 : 1 -
+                  158 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Bonfiglio, L , Mangano, G , Marra, AC , Masini, F , Pavia, M ,
+                  Petruso, D , 2002 . Pleistocene Calabrian and Sicilian bioprovinces. . Geobios
+                  (Special Memories) 24 : 29 - 39 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Bonn, A , Rodrigues, ASL , Gaston, KJ , 2002 . Threatened and
+                  endemic species: are they good indicators of patterns of biodiversity on a
+                  national scale? . Ecology Letters 5 : 733 - 741 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Bourdonne , JC , Doguet, S , 1991 . Donnees sur la biosystematique
+                  des Chrysolina l. s. (Coleoptera Chrysomelidae: Chrysomelinae). . Annales de la
+                  Societe Entomologique de France (N.S.) 27 : 29 - 64 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Brooks, TM , Mittermeier, RA , da Fonseca, GAB , Gerlach, J ,
+                  Hoffmann, M , Lamoreux, JF , Mittermeier, CG , Pilgrim, JD , Rodrigues, ASL , 2006
+                  . Global biodiversity conservation priorities. . Science 313 : 58 - 61
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Burlakova, LE , Karatayev, AY , Karatayev, VA , May, ME , Bennett,
+                  DL , Cook, MJ , 2011 . Endemic species: contribution to community uniqueness,
+                  effect of habitat alteration, and conservation priorities. . Biological
+                  Conservation 144 : 155 - 165 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Camin, JH , Sokal, RR , 1965 . A method for deducing branching
+                  sequences in phylogeny. . Evolution 19 : 311 - 326 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Daccordi, M , Pistarino, A , 2001 . Rinvenimento di Timarcha cornuta
+                  Bechyne (Coleoptera Chrysomelidae Chrysomelinae). . Bollettino del Museo regionale
+                  di Scienze naturali di Torino 18 : 433 - 446 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Daccordi, M , Ruffo, S , 1979 . Le Chrysolina italiane del
+                  sottogenere Threnosoma Motsch. (Coleoptera Chrysomelidae). . Bollettino del Museo
+                  Civico di Storia Naturale di Verona 6 : 305 - 332 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Daccordi, M , Ruffo, S , 1988 . Considerazioni sistematiche e
+                  biogeografiche sulle Timarcha italiane (Coleoptera, Chrysomelidae). . Atti XV
+                  Congresso nazionale italiano di Entomologia, L'Aquila 1988 : 343 - 351
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Daccordi, M , Ruffo, S , 2005 . Considerazioni biogeografiche sulle
+                  Chrysolina delle province appenninica e sicula con descrizione di Chrysolina
+                  (Stichoptera) bourdonnei n. sp. (Coleoptera, Chrysomelidae). . Studi Trentini di
+                  Scienze Naturali, Acta Biologica 81 : 113 - 127 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> D'Alessandro , P , Biondi, M , 2007 . Analisi zoogeografica della
+                  crisomelidofauna appenninica legata ai piani altitudinali montano, subalpino e
+                  alpino (Coleoptera, Chrysomelidae). . Biogeographia 28 : 461 - 494
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> D'Alessandro , P , Biondi, M , 2011 . I Coleotteri Crisomelidi nel
+                  Demanio di Marganai e nelle zone limitrofe: analisi del popolamento e
+                  considerazioni sui metodi di campionamento utilizzati (Coleoptera: Chrysomelidae).
+                  . In: Nardi, G , Whitmore, D , Bardiani, M , Birtele, D , Mason, F , Spada, L ,
+                  Cerretti, P , Eds., Biodiversity of Marganai and Montimannu (Sardinia). Research
+                  in the frame work of the ICP Forests network. . Conservazione Habitat Invertebrati
+                  5 : 553 - 580 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Felsenstein, J ,, 1989 . PHYLIP manual, version 3.2. . In:.
+                  University of California Herbarium, Berkeley, California </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Gridelli, E , 1950 . Il problema delle specie a diffusione
+                  transadriatica, con particolare riguardo ai coleotteri. . Memorie di Biogeografia
+                  adriatica 1 : 1 - 299 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Harold, AS , Mooi, RD , 1994 . Areas of endemism: deﬁnition and
+                  recognition criteria. . Systematic Biology 43 : 261 - 266 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Hilty, J , Merenlender, A , 2000 . Faunal indicator taxa selection
+                  for monitoring ecosystem health. . Biological Conservation 92 : 185 - 197
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Jetz, W , Rahbek, C , Colwell, RK , 2004 . The coincidence of rarity
+                  and richness and the potential signature of history in centres of endemism. .
+                  Ecology Letters 7 : 1180 - 1191 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Jolivet, P , Verma, KK , 2002 . Biology of leaf beetles. . U.K.:
+                  Intercept Publishers, Andover, Hampshire , 332 pp. </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Kapp, A , 2007 . Eine neue Art der Gattung Orestia Germar aus den
+                  Abruzzen und aktuelle Funde von Orestia aus Mittel- und Sueditalien (Coleoptera,
+                  Chrysomelidae). . Entomologische Blaetter 102 : 95 - 100 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Kippenberg, H , 2008 . Revision der Untergattung Protorina Weise der
+                  Gattung Oreina Chevrolat (Coleoptera: Chrysomelidae: Chrysomelinae). .
+                  Koleopterologische Rundschau 78 : 367 - 418 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> La, Greca M ,, 2002 . Vicende paleogeografiche e componenti della
+                  fauna italiana. . In: Minelli, A , Chemini, C , Argano, R , Ruffo, S , Eds., La
+                  fauna in Italia. . Touring Editore, Milano e Ministero dell'Ambiente e della
+                  Tutela del Territorio, Roma , 448 pp. </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Lamoreux, JF , Morrison, JC , Ricketts, TH , Olson, DM , Dinerstein,
+                  E , McKnight, MW , Shugart, HH , 2006 . Global tests of biodiversity concordance
+                  and the importance of endemism. . Nature 440 : 212 - 214 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Lawrence, JF , Newton, AF Jr. ,, 1995 . Families and subfamilies of
+                  Coleoptera (with selected genera, notes and references, and data on family-group
+                  names). . In: Pakaluk, J , Ślipinski , SA , Eds., Crowson. . Muzeum i Instytut
+                  Zoologii Polska Akademia Nauk, Warszawa : 779 - 1006 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Leonardi, C , 1975 . Note su alcuni Longitarsus con descrizione di
+                  due nuove specie e citazione di quattro entita nuove per la fauna europea
+                  (Coleoptera Chrysomelidae). . Atti della Societa Italiana di Scienze Naturali e
+                  Museo Civico di Storia Naturale di Milano 116 : 199 - 217 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Leonardi , C , 2007 . Dati inediti sul genere Psylliodes Latreille,
+                  con descrizione di quattro nuove specie mediterranee (Coleoptera Chrysomelidae). .
+                  Atti della Societa italiana di Scienze naturali e del Museo civico di Storia
+                  naturale di Milano 148 : 161 - 240 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Marazzi, S ,, 2006 . Atlante orografico delle Alpi. SOIUSA.
+                  Suddivisione orografica internazionale unificata del Sistema Alpino. . In:
+                  Quaderni di cultura alpina . Priuli &amp; Verlucca Ed. , 456 pp. </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Margush, T , McMorris, FR , 1981 . Consensus n-trees. . Bulletin of
+                  Mathematical Biology 43 : 239 - 244 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> McQuitty, LL , 1966 . Similarity analysis by reciprocal pairs for
+                  discrete and continuous data. . Educational and Psychological Measurement 26 : 825
+                  - 831 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Meuser, E , Harshaw, HW , Mooers, AO , 2009 . Public preference for
+                  endemism over other conservation-related species attributes. . Conservation
+                  Biology 23 : 1041 - 1046 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Montagna, M , 2011 . Pachybrachis sassii, a new species from the
+                  Mediterranean Giglio Island (Italy) (Coleoptera, Chrysomelidae, Cryptocephalinae).
+                  . ZooKeys 155 : 51 - 60 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Moncoutier, B , 2011 . Cryptocephalus eridani Sassi, 2001, nouveau
+                  pour la faune de France (Coleoptera, Chrysomelidae). . Le Coleopteriste 14 : 88 -
+                  89 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Morrone, JJ , 1994 . On the identification of areas of endemism. .
+                  Systematic Biology 43 : 438 - 441 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Orme, CDL , Gavies, RG , Burgess, M , Eigenbrod, F , Pickup, N ,
+                  Olson, VA , Webster, AJ , Ding, TS , Rasmussen, PC , Ridgely, RS , Stattersfield,
+                  AJ , Bennett, PM , Blackburn, TM , Gaston, KJ , Owens, IPF , 2005 . Global
+                  hotspots of species richness are not congruent with endemism or threat. . Nature
+                  436 : 1016 - 1019 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Piper, RW , Compton, SG , 2010 . Population size and dispersal
+                  ability of Cryptocephalus niti dulus (Linnaeus, 1758) (Col.: Chrysomelidae). . The
+                  Entomologist's record and Journal of variation 122 : 257 - 264 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Prendergast, JR , Quinn, RM , Lawton, JH , Eversham, BC , Gibbons,
+                  DW , 1993 . Rare species, the coincidence of diversity hotspots and conservation
+                  strategies. . Nature 365 : 335 - 337 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Reid, WV , 1998 . Biodiversity hotspots. . Trends in Ecology &amp;
+                  Evolution 13 : 275 - 280 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Riddle, BR , Ladle, RJ , Lourie, SA , Whittaker, RJ ,, 2011 . Basic
+                  biogeography: estimating biodiversity and mapping nature. . In: Ladle, RJ ,
+                  Whittaker, RJ , Eds., Conservation Biogeography . Wiley-Blackwell, Oxford , 320
+                  pp. </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Rohlf, FJ , 2008 . NTSYSpc: Numerical Taxonomy System, ver. 2.20. .
+                  Setauket, NY: Exeter Publishing Ltd. </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Rosen , BR ,, 1988 . From fossils to earth history: applied
+                  historical biogeography. . In: Myers, AA , Giller, PS , Eds.,. Chapman &amp; Hall,
+                  London &amp; New York : 437 - 481 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Rosen, BR , Smith, AB ,, 1988 . Tectonics from fossils? Analysis of
+                  reef-coral and sea-urchin distributions from late Cretaceous to Recent, using a
+                  new method. . In: Audley-Charles, MG , Hallam, A , Eds., Geological Society
+                  Special Publication . Oxford University Press, Oxford : 275 - 306
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Ruffo, S , 1971 . Alcune considerazioni, in margine al XVII
+                  congresso della Societa Italiana di Biogeographia, sul popolamento animale
+                  dell'Appennino centrale. . Biogeographia 2 : 811 - 827 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Sassi, D , 2006 . Insecta Coleoptera Chrysomelidae Cryptocephalinae.
+                  . In: Ruffo, S , Stoch, F , Eds., Checklist e distribuzione della fauna italiana.
+                  Memorie del Museo civico di Storia naturale di Verona . Sezione Scienze della Vita
+                  16 : 223 - 225 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Sassi, D , 2011 . A new species of the Cryptocephalus marginellus
+                  complex from Italian Western Alps (Coleoptera: Chrysomelidae: Cryptocephalinae). .
+                  Genus 22 : 123 - 132 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Sassi, D , Zoia, S , 2002 . Cryptocephalus (Burlinius) plantaris
+                  from Sicily and Malta, species resurrected synonymy with C. (B.) luridicollis
+                  (Coleoptera Chrysomelidae). . Bollettino della Societa Entomologica Italiana 134 :
+                  111 - 116 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Schmitt, M ,, 1996 . The phylogenetic system of the Chrysomelidae. .
+                  In: Jolivet, PHA , Cox, ML , Eds.,. SPB Academic Publishing : 57 - 96
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Schmitt, T , 2009 . Biogeographical and evolutionary importance of
+                  the European high mountain systems. . Frontiers in Zoology 4 , 9 pp.
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Sokal, RR , Rohlf, FJ , 1981 . Taxonomic congruence in the
+                  Leptopodomorpha re-examined. . Systematic Zoology 30 : 309 - 325 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Stoch, F , 2000 . How many endemic species? Species richness
+                  assessment and conservation priorities in Italy. . Belgian Journal of Entomology 2
+                  : 125 - 133 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Stoch, F ,, 2008 . La fauna italiana: dalla conoscenza alla
+                  conservazione/Italian fauna: from knowledge to conservation. . In: DPN - Direzione
+                  per la Protezione della Natura. . Palombi &amp; Partner, Roma , 37 pp.
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Stoch, F , Vigna, Taglianti A , 2006 . I corotipi della fauna
+                  italiana. . In: Ruffo, S , Stoch, F , Eds., Checklist e distribuzione della fauna
+                  italiana. Memorie del Museo civico di Storia naturale di Verona . Sezione Scienze
+                  della Vita 16 : 25 - 28 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Stroscio, S , Baviera, C , Frati, F , Lo, Paro G , Nardi, F , 2011 .
+                  Deep genetic divergence in the darkling beetle Pimelia rugulosa (Coleoptera,
+                  Tenebrionidae) reflects Plio-Pleistocenic paleogeographics history of Sicily. .
+                  Journal of Zoological Systematics and Evolutionary Research 49 : 196 - 203
+               </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Taberlet, P , Fumagalli, L , Wust-Saucy, AG , Cosson, JF , 1998 .
+                  Comparative phylogeography and postglacial colonization routes in Europe. .
+                  Molecular Ecology 7 : 453 - 464 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Triponez, Y , Buerki, S , Borer, M , Naisbit, RE , Rahier, M ,
+                  Alvarez, N , 2011 . Discordances between phylogenetic and morphological patterns
+                  in alpine leaf beetles attest to an intricate biogeographic history of lineages in
+                  postglacial Europe. . Molecular Ecology 20 : 2442 - 2463 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Vigna Taglianti, A , Audisio, PA , Biondi, M , Bologna, MA ,
+                  Carpaneto, GM , De Biase, A , Fattorini, S , Piattella, E , Sindaco, R , Venchi, A
+                  , Zapparoli, M , 1999 . A proposal for a chorotype classification of the Near East
+                  fauna, in the frame work in the Western Palearctic region. . Biogeographia 20 : 31
+                  - 59 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Whittaker, RJ , Araujo , MB , Jepson, P , Ladle, RJ , Watson, JEM ,
+                  Willis, KJ , 2005 . Conservation Biogeography: assessment and prospect. .
+                  Diversity and Distributions 11 : 3 - 23 </mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation> Wilson, KA , McBride, MF , Bode, M , Possingham, HP , 2006 .
+                  Prioritizing global conservation efforts. . Nature 440 : 337 - 340
+               </mixed-citation>
             </ref>
          </ref-list>
       </sec>

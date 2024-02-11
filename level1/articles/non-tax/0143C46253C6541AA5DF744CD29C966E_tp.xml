@@ -55,608 +55,254 @@
    <body>
       <sec sec-type="introduction">
          <title>N/A</title>
-         <p>
-Introduction
-</p>
-         <p>
-Standing at the core of complex ecological food webs, insects provide insights into the health and stability of ecosystems. They are thus widely used as bioindicators at local, regional, and international scales (
-
-; 
-
-; 
-
-; 
-
-). By surveying and monitoring insect diversity, we gain a better understanding of the intricate relationships between species and their habitats across time, enabling us to develop environmentally sound conservation strategies and evaluate the efficiency of public policies (
-
-).
-</p>
-         <p>Many of the ongoing entomological survey programs aim at estimating species richness among taxa. Even though recent technologies (e.g. computer vision, acoustic monitoring, radar, and molecular methods) offer new perspectives (van Klink et al. 2022), visual encounters remain the most widespread approach. This is especially true for several popular taxa that are widely surveyed in alpine ecosystems, such as butterflies/day-flying moths, dragonflies/damselflies, and crickets/grasshoppers, all of which can be readily identified or photographed in the field. Even though these taxa do not contain an overwhelming number of species compared to other taxa, surveying them remains a costly endeavor.</p>
-         <p>
-Entomological visual surveys are usually based on repeated visits across the activity period of the focal taxon. This is necessary because individual species fluctuate in abundance asynchronously during a year (the adult activity or flight periods of various species of insect typically only partly overlap within a focal taxon, see 
-
-). These multiple visits aim to maximize the chance of encountering all potentially present species. Monitoring schemes therefore very often rely on pre-defined time windows surveys that are assumed to maximize the observed species richness of the community under scrutiny.
-</p>
-         <p>Here, we present a novel approach to identify the best time windows for surveying alpine entomological communities by optimizing the encounter probabilities of every species with as few visits as possible. Using 20 years of observations for three popular taxa, we provide evidence-based, data-driven, guidance for alpine insect survey planning.</p>
+         <p> Introduction </p>
+         <p> Standing at the core of complex ecological food webs, insects provide insights into the
+            health and stability of ecosystems. They are thus widely used as bioindicators at local,
+            regional, and international scales ( ; ; ; ). By surveying and monitoring insect
+            diversity, we gain a better understanding of the intricate relationships between species
+            and their habitats across time, enabling us to develop environmentally sound
+            conservation strategies and evaluate the efficiency of public policies ( ). </p>
+         <p>Many of the ongoing entomological survey programs aim at estimating species richness
+            among taxa. Even though recent technologies (e.g. computer vision, acoustic monitoring,
+            radar, and molecular methods) offer new perspectives (van Klink et al. 2022), visual
+            encounters remain the most widespread approach. This is especially true for several
+            popular taxa that are widely surveyed in alpine ecosystems, such as
+            butterflies/day-flying moths, dragonflies/damselflies, and crickets/grasshoppers, all of
+            which can be readily identified or photographed in the field. Even though these taxa do
+            not contain an overwhelming number of species compared to other taxa, surveying them
+            remains a costly endeavor.</p>
+         <p> Entomological visual surveys are usually based on repeated visits across the activity
+            period of the focal taxon. This is necessary because individual species fluctuate in
+            abundance asynchronously during a year (the adult activity or flight periods of various
+            species of insect typically only partly overlap within a focal taxon, see ). These
+            multiple visits aim to maximize the chance of encountering all potentially present
+            species. Monitoring schemes therefore very often rely on pre-defined time windows
+            surveys that are assumed to maximize the observed species richness of the community
+            under scrutiny. </p>
+         <p>Here, we present a novel approach to identify the best time windows for surveying alpine
+            entomological communities by optimizing the encounter probabilities of every species
+            with as few visits as possible. Using 20 years of observations for three popular taxa,
+            we provide evidence-based, data-driven, guidance for alpine insect survey planning.</p>
       </sec>
       <sec sec-type="materials_methods">
          <title>N/A</title>
          <p>Material and methods</p>
-         <p>
-We first extracted all observations of 
-<tp:taxon-name>Lepidoptera</tp:taxon-name>
-(limited to butterflies and day-flying moths), 
-<tp:taxon-name>Odonata</tp:taxon-name>
-(dragonflies and damselflies), and 
-<tp:taxon-name>Orthoptera</tp:taxon-name>
-(crickets and grasshoppers) from info fauna, the Swiss biological records center (www.infofauna.ch) for the period spanning 2003-2022. The data was then organized into three matrices (one for each taxon) containing (i) the species name, (ii) the year the observation was made, (iii) the altitudinal levels of the observation, (iv) 52 columns corresponding to the weeks of the calendar year. These weekly columns were then filled with the total number of adult individuals of a given species that had been observed each year at a given altitudinal level.
-</p>
-         <p>
-Species detectability in a given week at a given altitudinal level was first assumed to follow 
-P
-(
-Xs
-, 
-t
-) ≅ 1 - e- 
-Ns
-, 
-t
-, where 
-P
-(
-Xs
-, 
-t
-) is the probability of detecting species 
-s
-during week 
-t
-and 
-Ns
-, 
-t
-is the number of observations of species 
-s
-during week 
-t.
-That is, the more abundant a species is, the more likely it is that a single individual of that species will be observed. In short, we ended up with an expected number of species being potentially observed at every altitudinal level, week, and year.
-</p>
-         <p>
-Our optimization algorithm then worked through the following steps, iterating years and altitude 
-Xs
-, 
-t
-) (i.e. the number of species likely to be detected). For convenience, we tested 5 scenarios representing an increasing number of annual surveys (from 1 to 5). We then used this data to plot the best time windows - from a single week to a combination of 5 different weeks - that maximize the species richness likely observed by an observer.
-</p>
-         <p>
-The first draft of the introduction, discussion, and abstract of this paper has been adapted with 
-
-. Prompts included the first version of the texts along with requests to (i) shorten paragraphs, (ii) improve clarity and (iii) correct any grammatical errors. All outputs from 
-
-were then reviewed and edited before being taken into consideration.
-</p>
+         <p> We first extracted all observations of <tp:taxon-name>Lepidoptera</tp:taxon-name>
+            (limited to butterflies and day-flying moths), <tp:taxon-name>Odonata</tp:taxon-name>
+            (dragonflies and damselflies), and <tp:taxon-name>Orthoptera</tp:taxon-name> (crickets
+            and grasshoppers) from info fauna, the Swiss biological records center
+            (www.infofauna.ch) for the period spanning 2003-2022. The data was then organized into
+            three matrices (one for each taxon) containing (i) the species name, (ii) the year the
+            observation was made, (iii) the altitudinal levels of the observation, (iv) 52 columns
+            corresponding to the weeks of the calendar year. These weekly columns were then filled
+            with the total number of adult individuals of a given species that had been observed
+            each year at a given altitudinal level. </p>
+         <p> Species detectability in a given week at a given altitudinal level was first assumed to
+            follow P ( Xs , t ) ≅ 1 - e- Ns , t , where P ( Xs , t ) is the probability of detecting
+            species s during week t and Ns , t is the number of observations of species s during
+            week t. That is, the more abundant a species is, the more likely it is that a single
+            individual of that species will be observed. In short, we ended up with an expected
+            number of species being potentially observed at every altitudinal level, week, and year. </p>
+         <p> Our optimization algorithm then worked through the following steps, iterating years and
+            altitude Xs , t ) (i.e. the number of species likely to be detected). For convenience,
+            we tested 5 scenarios representing an increasing number of annual surveys (from 1 to 5).
+            We then used this data to plot the best time windows - from a single week to a
+            combination of 5 different weeks - that maximize the species richness likely observed by
+            an observer. </p>
+         <p> The first draft of the introduction, discussion, and abstract of this paper has been
+            adapted with . Prompts included the first version of the texts along with requests to
+            (i) shorten paragraphs, (ii) improve clarity and (iii) correct any grammatical errors.
+            All outputs from were then reviewed and edited before being taken into consideration.
+         </p>
       </sec>
       <sec sec-type="results">
          <title>N/A</title>
          <p>Results</p>
-         <p>
-The optimized survey windows for 3 taxa and 3 altitudinal levels are described in Fig. 
-1
-. Each of the 9 sub-figures illustrates the best periods to maximize detectable species richness under 5 survey intensity scenarios (from a single annual survey to 5 annual surveys).
-</p>
-         <p>
-For 
-<tp:taxon-name>Odonata</tp:taxon-name>
-at the subalpine level (top middle sub-figure), a single visit should be made on the last week of July (the white dot representing the median best week). Depending on yearly variability, this best week can span anywhere between mid-July and the end of August. If two surveys are envisioned, then the first one should occur in mid-July and the second one in early August.
-</p>
-         <p>
-As expected, higher elevations translate into later survey windows, the amplitude of the shift being about 2 weeks between the lowland and the subalpine levels. Fig. 
-1
-also shows, with little surprise, that 
-<tp:taxon-name>Orthoptera</tp:taxon-name>
-tend to be more detectable later in the year than 
-<tp:taxon-name>Odonata</tp:taxon-name>
-and 
-<tp:taxon-name>Rhopalocera</tp:taxon-name>
-, the latter two groups having a larger spring/early summer species pool.
-</p>
-         <p>
-Running the algorithm for the 1983-2022 period (data not represented in Fig. 
-1
-) yielded valuable insights into changes in the timing of the optimal survey windows between the two 20-year periods. On average, all groups showed an advance of the best time windows of 0.9 weeks. That is, the best time windows moved about one week early between the two time periods. More specifically, 
-<tp:taxon-name>Rhopalocera</tp:taxon-name>
-and 
-<tp:taxon-name>Orthoptera</tp:taxon-name>
-showed a bigger advancement (1.1 week) than 
-<tp:taxon-name>Odonata</tp:taxon-name>
-(0.6 week). The advancement of the timing was also larger at the subalpine level (1.6 weeks) than at lower elevations (0.9 and 1.2 week for the lowland and mountain levels respectively). There was, however, no significant change in the standard deviations of the best time windows for any taxon or altitudinal level.
-</p>
+         <p> The optimized survey windows for 3 taxa and 3 altitudinal levels are described in Fig.
+            1 . Each of the 9 sub-figures illustrates the best periods to maximize detectable
+            species richness under 5 survey intensity scenarios (from a single annual survey to 5
+            annual surveys). </p>
+         <p> For <tp:taxon-name>Odonata</tp:taxon-name> at the subalpine level (top middle
+            sub-figure), a single visit should be made on the last week of July (the white dot
+            representing the median best week). Depending on yearly variability, this best week can
+            span anywhere between mid-July and the end of August. If two surveys are envisioned,
+            then the first one should occur in mid-July and the second one in early August. </p>
+         <p> As expected, higher elevations translate into later survey windows, the amplitude of
+            the shift being about 2 weeks between the lowland and the subalpine levels. Fig. 1 also
+            shows, with little surprise, that <tp:taxon-name>Orthoptera</tp:taxon-name> tend to be
+            more detectable later in the year than <tp:taxon-name>Odonata</tp:taxon-name> and
+               <tp:taxon-name>Rhopalocera</tp:taxon-name> , the latter two groups having a larger
+            spring/early summer species pool. </p>
+         <p> Running the algorithm for the 1983-2022 period (data not represented in Fig. 1 )
+            yielded valuable insights into changes in the timing of the optimal survey windows
+            between the two 20-year periods. On average, all groups showed an advance of the best
+            time windows of 0.9 weeks. That is, the best time windows moved about one week early
+            between the two time periods. More specifically,
+               <tp:taxon-name>Rhopalocera</tp:taxon-name> and
+               <tp:taxon-name>Orthoptera</tp:taxon-name> showed a bigger advancement (1.1 week) than
+               <tp:taxon-name>Odonata</tp:taxon-name> (0.6 week). The advancement of the timing was
+            also larger at the subalpine level (1.6 weeks) than at lower elevations (0.9 and 1.2
+            week for the lowland and mountain levels respectively). There was, however, no
+            significant change in the standard deviations of the best time windows for any taxon or
+            altitudinal level. </p>
       </sec>
       <sec sec-type="discussion and conclusion">
          <title>N/A</title>
          <p>Discussion and conclusion</p>
-         <p>
-Insect surveys represent technically and logistically challenging operations that can prove costly (
-
-). In a world of limited financial resources, optimizing survey periods allows for a better balance of resources between monitoring investments and management actions, which constitute the final aim of most natural resources public policies (
-
-). This approach requires that the goals and scope of the surveys be explicitly formulated (
-
-). In our case, we postulated, as in many ongoing programs, that maximizing observed species richness was the objective. Maximizing species cumulative detection probabilities across multiple surveys increases the chance of obtaining relevant species community data, as well as identifying species/habitat relationships or detecting trends in occupancy (
-
-; 
-
-; 
-
-). This optimization approach focusing on both detection probability and estimates of occupancy has proven useful in other groups in the past (e.g. amphibians, 
-
-or mammals, 
-
-). In short, our approach potentially increases the return on investment for multiple species survey schemes.
-</p>
-         <p>
-By using a large 20-year-long dataset across multiple altitudinal levels, we closed the loop of active adaptive monitoring, where data collected in the past is used to improve future efforts (
-
-). This is especially important under climate changes that shift both habitat suitability and phenological periods of insects and other cold-blooded species (
-
-; 
-
-). As we have shown here, the overall phenological shift in 20 years is about 1 week. It is consequently a necessity to regularly adapt existing survey programs (
-
-; 
-
-). Further optimization could consider not only changes in emergence timing but also changes in voltinism or shifts in altitudinal ranges.
-</p>
+         <p> Insect surveys represent technically and logistically challenging operations that can
+            prove costly ( ). In a world of limited financial resources, optimizing survey periods
+            allows for a better balance of resources between monitoring investments and management
+            actions, which constitute the final aim of most natural resources public policies ( ).
+            This approach requires that the goals and scope of the surveys be explicitly formulated
+            ( ). In our case, we postulated, as in many ongoing programs, that maximizing observed
+            species richness was the objective. Maximizing species cumulative detection
+            probabilities across multiple surveys increases the chance of obtaining relevant species
+            community data, as well as identifying species/habitat relationships or detecting trends
+            in occupancy ( ; ; ). This optimization approach focusing on both detection probability
+            and estimates of occupancy has proven useful in other groups in the past (e.g.
+            amphibians, or mammals, ). In short, our approach potentially increases the return on
+            investment for multiple species survey schemes. </p>
+         <p> By using a large 20-year-long dataset across multiple altitudinal levels, we closed the
+            loop of active adaptive monitoring, where data collected in the past is used to improve
+            future efforts ( ). This is especially important under climate changes that shift both
+            habitat suitability and phenological periods of insects and other cold-blooded species (
+            ; ). As we have shown here, the overall phenological shift in 20 years is about 1 week.
+            It is consequently a necessity to regularly adapt existing survey programs ( ; ).
+            Further optimization could consider not only changes in emergence timing but also
+            changes in voltinism or shifts in altitudinal ranges. </p>
       </sec>
       <sec sec-type="acknowledgements">
          <title>N/A</title>
          <p>Acknowledgments</p>
-         <p>
-Gerard Maze and Marine Bugnon provided help with the construction of the model and its implementation in both Python (parsing and optimization algorithms) and R (summary statistics and figure production). DO! 
-L'agence
-prepared the pictograms of Fig. 
-1
-. Yves Gonseth, Benedikt Schmidt, and Christian Monnerat provided feedback during the initial stages of this project.
-</p>
+         <p> Gerard Maze and Marine Bugnon provided help with the construction of the model and its
+            implementation in both Python (parsing and optimization algorithms) and R (summary
+            statistics and figure production). DO! L'agence prepared the pictograms of Fig. 1 . Yves
+            Gonseth, Benedikt Schmidt, and Christian Monnerat provided feedback during the initial
+            stages of this project. </p>
       </sec>
       <sec sec-type="reference_group">
          <title>N/A</title>
          <ref-list>
             <ref>
-               <mixed-citation>
-Anderson, DR
-, 
-2001
-. 
-The need to get the basics right in wildlife field studies.
-Wildlife Society Bulletin
-29
-: 
-1294 - 1297
-</mixed-citation>
+               <mixed-citation> Anderson, DR , 2001 . The need to get the basics right in wildlife
+                  field studies. Wildlife Society Bulletin 29 : 1294 - 1297 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Barata, IM
-, 
-Griffiths, RA
-, 
-Ridout, MS
-, 
-2017
-. 
-The power of monitoring: optimizing survey designs to detect occupancy changes in a rare amphibian population. Nature Scientific Reports 7: 16491.
-https://doi.org/10.1038/s41598-017-16534-8
-</mixed-citation>
+               <mixed-citation> Barata, IM , Griffiths, RA , Ridout, MS , 2017 . The power of
+                  monitoring: optimizing survey designs to detect occupancy changes in a rare
+                  amphibian population. Nature Scientific Reports 7: 16491.
+                  https://doi.org/10.1038/s41598-017-16534-8 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Baumgardt, JA
-, 
-Morrison, ML
-, 
-Brennan, LA
-, 
-Pierce, BL
-, 
-Campbell, TA
-, 
-2019
-. 
-Development of multispecies, long-term monitoring programs for resource management.
-Rangeland Ecology &amp; Management
-172
-: 
-168 - 181
-, DOI: 
-https://doi.org/10.1016/j.rama.2018.07.010
-</mixed-citation>
+               <mixed-citation> Baumgardt, JA , Morrison, ML , Brennan, LA , Pierce, BL , Campbell,
+                  TA , 2019 . Development of multispecies, long-term monitoring programs for
+                  resource management. Rangeland Ecology &amp; Management 172 : 168 - 181 , DOI:
+                  https://doi.org/10.1016/j.rama.2018.07.010 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Buckland, ST
-, 
-Johnston, A
-, 
-2017
-. 
-Monitoring the biodiversity of regions: Key principles and possible pitfalls.
-Biological Conservation
-214
-: 
-23 - 34
-, DOI: 
-https://doi.org/10.1016/j.biocon.2017.07.034
-</mixed-citation>
+               <mixed-citation> Buckland, ST , Johnston, A , 2017 . Monitoring the biodiversity of
+                  regions: Key principles and possible pitfalls. Biological Conservation 214 : 23 -
+                  34 , DOI: https://doi.org/10.1016/j.biocon.2017.07.034 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Buckley, LB
-, 
-2022
-. 
-Temperature-sensitive development shapes insect phenological responses to climate change. Current Opinion in Insect Science 52: 100897.
-https://doi.org/10.1016/j.cois.2022.100897
-</mixed-citation>
+               <mixed-citation> Buckley, LB , 2022 . Temperature-sensitive development shapes insect
+                  phenological responses to climate change. Current Opinion in Insect Science 52:
+                  100897. https://doi.org/10.1016/j.cois.2022.100897 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Chowdhury, S
-, 
-Dubey, VK
-, 
-Choudhury, S
-, 
-Das, A
-, 
-Jeengar, D
-, 
-Sujatha, B
-, 
-Kumar, A
-, 
-Kumar, N
-, 
-Semwal, A
-, 
-Kumar, V
-, 
-2023
-. 
-Insects as bioindicators: A hidden gem for environmental monitoring. Frontiers in Environmental Science 11: 1146052.
-https://doi.org/10.3389/fenvs.2023.1146052
-</mixed-citation>
+               <mixed-citation> Chowdhury, S , Dubey, VK , Choudhury, S , Das, A , Jeengar, D ,
+                  Sujatha, B , Kumar, A , Kumar, N , Semwal, A , Kumar, V , 2023 . Insects as
+                  bioindicators: A hidden gem for environmental monitoring. Frontiers in
+                  Environmental Science 11: 1146052. https://doi.org/10.3389/fenvs.2023.1146052
+               </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Field, SA
-, 
-
-O'Connor
-, PJ
-
-, 
-Tyre, AJ
-, 
-Possingham, HP
-, 
-2007
-. 
-Making monitoring meaningful.
-Austral Ecology
-32
-: 
-485 - 491
-, DOI: 
-https://doi.org/10.1111/j.1442-9993.2007.01715.x
-</mixed-citation>
+               <mixed-citation> Field, SA , O'Connor , PJ , Tyre, AJ , Possingham, HP , 2007 .
+                  Making monitoring meaningful. Austral Ecology 32 : 485 - 491 , DOI:
+                  https://doi.org/10.1111/j.1442-9993.2007.01715.x </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Field, SA
-, 
-Tyre, AJ
-, 
-Possingham, HP
-, 
-2005
-. 
-Optimizing allocation of monitoring effort under economic and observational constraints. Journal of Wildlife Management 69: 473-582.
-https://doi.org/10.2193/0022-541X(2005)069[0473:OAOMEU]2.0.CO;2
-</mixed-citation>
+               <mixed-citation> Field, SA , Tyre, AJ , Possingham, HP , 2005 . Optimizing allocation
+                  of monitoring effort under economic and observational constraints. Journal of
+                  Wildlife Management 69: 473-582.
+                  https://doi.org/10.2193/0022-541X(2005)069[0473:OAOMEU]2.0.CO;2 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Hill, GM
-, 
-Kawahara, AY
-, 
-Daniels, JC
-, 
-Bateman, CC
-, 
-Scheffers, BR
-, 
-2021
-. 
-Climate change effects on animal ecology: butterflies and moths as a case study.
-Biological Reviews
-96
-: 
-2113 - 2126
-, DOI: 
-https://doi.org/10.1111/brv.12746
-</mixed-citation>
+               <mixed-citation> Hill, GM , Kawahara, AY , Daniels, JC , Bateman, CC , Scheffers, BR
+                  , 2021 . Climate change effects on animal ecology: butterflies and moths as a case
+                  study. Biological Reviews 96 : 2113 - 2126 , DOI:
+                  https://doi.org/10.1111/brv.12746 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Halsch, CA
-, 
-Shapiro, AM
-, 
-Fordyce, JA
-, 
-Nice, CC
-, 
-Thorne, JH
-, 
-Waetjen, DP
-, 
-Forister, ML
-, 
-2021
-. 
-Insects and recent climate change. PNAS 118(2): e2002543117.
-https://doi.org/10.1073/pnas.2002543117
-</mixed-citation>
+               <mixed-citation> Halsch, CA , Shapiro, AM , Fordyce, JA , Nice, CC , Thorne, JH ,
+                  Waetjen, DP , Forister, ML , 2021 . Insects and recent climate change. PNAS
+                  118(2): e2002543117. https://doi.org/10.1073/pnas.2002543117 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Lindenmayer, DB
-, 
-Likens, GE
-, 
-2010
-. 
-The science and application of ecological monitoring.
-Biological Conservation
-143
-: 
-1317 - 1328
-, DOI: 
-https://doi.org/10.1016/j.biocon.2010.02.013
-</mixed-citation>
+               <mixed-citation> Lindenmayer, DB , Likens, GE , 2010 . The science and application of
+                  ecological monitoring. Biological Conservation 143 : 1317 - 1328 , DOI:
+                  https://doi.org/10.1016/j.biocon.2010.02.013 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Lindenmayer, DB
-, 
-Likens, GE
-, 
-Haywood, A
-, 
-Miezis, L
-, 
-2011
-. 
-Adaptive monitoring in the real world: proof of concept.
-Trends in Ecology and Evolution
-26
-: 
-641 - 646
-, DOI: 
-https://doi.org/10.1016/j.tree.2011.08.002
-</mixed-citation>
+               <mixed-citation> Lindenmayer, DB , Likens, GE , Haywood, A , Miezis, L , 2011 .
+                  Adaptive monitoring in the real world: proof of concept. Trends in Ecology and
+                  Evolution 26 : 641 - 646 , DOI: https://doi.org/10.1016/j.tree.2011.08.002
+               </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-McGeogh, MA
-, 
-1998
-. 
-The selection, testing, and application of terrestrial insects as bioindicators.
-Biological Reviews
-73
-: 
-181 - 201
-, DOI: 
-https://doi.org/10.1111/j.1469-185X.1997.tb00029.x
-</mixed-citation>
+               <mixed-citation> McGeogh, MA , 1998 . The selection, testing, and application of
+                  terrestrial insects as bioindicators. Biological Reviews 73 : 181 - 201 , DOI:
+                  https://doi.org/10.1111/j.1469-185X.1997.tb00029.x </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-MacKenzie, DI
-, 
-Royle, JA
-, 
-2005
-. 
-Designing occupancy studies: general advice and allocating survey effort.
-Journal of Applied Ecology
-42
-: 
-1105 - 1114
-, DOI: 
-https://doi.org/10.1111/j.1365-2664.2005.01098.x
-</mixed-citation>
+               <mixed-citation> MacKenzie, DI , Royle, JA , 2005 . Designing occupancy studies:
+                  general advice and allocating survey effort. Journal of Applied Ecology 42 : 1105
+                  - 1114 , DOI: https://doi.org/10.1111/j.1365-2664.2005.01098.x </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Mourguiart, B
-, 
-Couturier, T
-, 
-Braud, Y
-, 
-Mansons, J
-, 
-Combrisson, D
-, 
-Besnard, A
-, 
-2020
-. 
-Multi-species occupancy models: an effective and flexible framework for studies of insect communities.
-Ecological Entomology
-46
-: 
-163 - 174
-, DOI: 
-https://doi.org/10.1111/een.12991
-</mixed-citation>
+               <mixed-citation> Mourguiart, B , Couturier, T , Braud, Y , Mansons, J , Combrisson, D
+                  , Besnard, A , 2020 . Multi-species occupancy models: an effective and flexible
+                  framework for studies of insect communities. Ecological Entomology 46 : 163 - 174
+                  , DOI: https://doi.org/10.1111/een.12991 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Pellet, J
-, 
-2008
-. 
-
-Seasonal variation of 
-butterflies'
-detectability in Pollard walks.
-
-Journal of Insect Conservation
-12
-: 
-155 - 162
-, DOI: 
-https://doi.org/10.1007/s10841-007-9075-8
-</mixed-citation>
+               <mixed-citation> Pellet, J , 2008 . Seasonal variation of butterflies' detectability
+                  in Pollard walks. Journal of Insect Conservation 12 : 155 - 162 , DOI:
+                  https://doi.org/10.1007/s10841-007-9075-8 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-2023
-.. 
-https://www.perplexity.ai
-</mixed-citation>
+               <mixed-citation> 2023 .. https://www.perplexity.ai </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Pollock, KH
-, 
-Nichols, JD
-, 
-Simons, TR
-, 
-Farnsworth, GL
-, 
-Bailey, LL
-, 
-Sauer, JR
-, 
-2002
-. 
-Large scale wildlife monitoring studies: statistical methods for design and analysis.
-Environmetrics
-13
-: 
-105 - 119
-, DOI: 
-https://doi.org/10.1002/env.514
-</mixed-citation>
+               <mixed-citation> Pollock, KH , Nichols, JD , Simons, TR , Farnsworth, GL , Bailey, LL
+                  , Sauer, JR , 2002 . Large scale wildlife monitoring studies: statistical methods
+                  for design and analysis. Environmetrics 13 : 105 - 119 , DOI:
+                  https://doi.org/10.1002/env.514 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Possingham, HP
-, 
-Wintle, BA
-, 
-Fuller, RA
-, 
-Joseph, LN
-, 
-2012
-. 
-The conservation return on investment from ecological monitoring.
-In: 
-Lindenmayer, DB
-, 
-Gibbons, P
-, Eds., 
-Biodiversity monitoring in Australia.
-CSIRO, Collingwood
-: 
-49 - 62
-</mixed-citation>
+               <mixed-citation> Possingham, HP , Wintle, BA , Fuller, RA , Joseph, LN , 2012 . The
+                  conservation return on investment from ecological monitoring. In: Lindenmayer, DB
+                  , Gibbons, P , Eds., Biodiversity monitoring in Australia. CSIRO, Collingwood : 49
+                  - 62 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Thomas, JA
-, 
-2005
-. 
-Monitoring change in the abundance and distribution of insects using butterflies and other indicator groups.
-Proceedings of the Royal Society B, Biological Sciences
-360
-: 
-339 - 357
-, DOI: 
-https://doi.org/10.1098/rstb.2004.1585
-</mixed-citation>
+               <mixed-citation> Thomas, JA , 2005 . Monitoring change in the abundance and
+                  distribution of insects using butterflies and other indicator groups. Proceedings
+                  of the Royal Society B, Biological Sciences 360 : 339 - 357 , DOI:
+                  https://doi.org/10.1098/rstb.2004.1585 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Vitasse, Y
-, 
-Ursenbacher, S
-, 
-Klein, G
-, 
-Bohnenstengel, T
-, 
-Chittaro, Y
-, 
-Delestrade, A
-, 
-Monnerat, C
-, 
-Rebetez, M
-, 
-Rixen, C
-, 
-Strebel, N
-, 
-Schmidt, BR
-, 
-Wipf, S
-, 
-Wohlgemuth, T
-, 
-Yoccoz, NG
-, 
-Lenoir, J
-, 
-2021
-. 
-Phenological and elevational shifts of plants, animals and fungi under climate change in the European Alps.
-Biological Reviews
-96
-: 
-1816 - 1835
-, DOI: 
-https://doi.org/10.1111/brv.12727
-</mixed-citation>
+               <mixed-citation> Vitasse, Y , Ursenbacher, S , Klein, G , Bohnenstengel, T ,
+                  Chittaro, Y , Delestrade, A , Monnerat, C , Rebetez, M , Rixen, C , Strebel, N ,
+                  Schmidt, BR , Wipf, S , Wohlgemuth, T , Yoccoz, NG , Lenoir, J , 2021 .
+                  Phenological and elevational shifts of plants, animals and fungi under climate
+                  change in the European Alps. Biological Reviews 96 : 1816 - 1835 , DOI:
+                  https://doi.org/10.1111/brv.12727 </mixed-citation>
             </ref>
             <ref>
-               <mixed-citation>
-Yoccoz, NG
-, 
-Nichols, JD
-, 
-Boulinier, T
-, 
-2001
-. 
-Monitoring of biological diversity in space and time.
-Trends in Ecology &amp; Evolution
-16
-: 
-446 - 453
-, DOI: 
-https://doi.org/10.1016/S0169-5347(01)02205-4
-</mixed-citation>
+               <mixed-citation> Yoccoz, NG , Nichols, JD , Boulinier, T , 2001 . Monitoring of
+                  biological diversity in space and time. Trends in Ecology &amp; Evolution 16 : 446
+                  - 453 , DOI: https://doi.org/10.1016/S0169-5347(01)02205-4 </mixed-citation>
             </ref>
          </ref-list>
       </sec>
