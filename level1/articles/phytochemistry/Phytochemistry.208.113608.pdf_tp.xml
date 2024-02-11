@@ -1,0 +1,1853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:tp="http://www.plazi.org/taxpub">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="other">N/A</journal-id>
+         <journal-title-group>
+            <journal-title>Phytochemistry</journal-title>
+         </journal-title-group>
+         <issn>N/A</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1016/j.phytochem.2023.113608</article-id>
+         <title-group>
+            <article-title>Insights on the antiradical capacity and mechanism of phytocannabinoids: H-abstraction and electron transfer processes in physiological media and the influence of the acid-base equilibrium</article-title>
+         </title-group>
+         <pub-date date-type="pub">
+            <day>30</day>
+            <month>04</month>
+            <year>2023</year>
+         </pub-date>
+         <kwd-group>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Cannabis sativa
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Cannabaceae</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Cannabis sativa
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Cannabis sativa
+L. (Cannabaceae)
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+C. sativa
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Cannabis</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+C. sativa
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+C. sativa
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+C. sativa
+</tp:taxon-name>
+            </kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+Insights on the antiradical capacity and mechanism of phytocannabinoids: H-abstraction and electron transfer processes in physiological media and the influence of the acid-base equilibrium
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+Houssem Boulebd
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+
+Chemistry Department, Faculty of Exact Science, University of 
+Constantine
+1, 
+Constantine
+, 25000, 
+Algeria
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>A R T I C L E I N F O</p>
+      </sec>
+      <sec sec-type="key_words">
+         <title>
+Keywords:
+</title>
+         <p>
+            <tp:taxon-name>
+Cannabis sativa
+</tp:taxon-name>
+         </p>
+         <p>
+            <tp:taxon-name>Cannabaceae</tp:taxon-name>
+         </p>
+         <p>Phytocannabinoids</p>
+         <p>DFT calculations</p>
+         <p>Antioxidant activity</p>
+         <p>Kinetic study</p>
+         <p>A B S T R A C T</p>
+         <p>
+Phytocannabinoids are natural products primarily isolated from 
+<tp:taxon-name>
+Cannabis sativa
+</tp:taxon-name>
+that exhibit the typical C21 terpenophenolic skeleton. This class of compounds has been shown to be effective in the treatment of various oxidation-related diseases, which has made their antioxidant properties the focus of increasing interest. In the present contribution, the primary antioxidant properties of eight representative phytocannabinoids have been systematically studied against a variety of biologically significant radical species using the density functional theory (DFT) method. The findings demonstrated that phytocannabinoids, in water at physiological pH, exhibit excellent radical scavenging capacity, mainly exerted by the single electron transfer (SET) process from the deprotonated state. In contrast, phytocannabinoids are moderate radical scavengers in non-polar environment 
+via
+the formal hydrogen atom transfer (fHAT) process. Among the compounds examined, cannabichromene (CBC) and cannabifuran (CBF) had the greatest free radical scavenging capacity in water, surpassing even common antioxidants like BHT and Trolox. CBF is expected to have potent antiradical action toward peroxyl radicals, alkoxy radicals, and nitrogen dioxide in water at physiological pH. These results provide supporting evidence that phytocannabinoids may be useful in scavenging harmful free radicals in physiological environments.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+1. Introduction
+</title>
+         <p>
+Following the discovery in 1964 of 9-tetrahydrocannabinol (THC) as the active molecule of the herbaceous plant 
+<tp:taxon-name>
+Cannabis sativa
+L. (Cannabaceae)
+</tp:taxon-name>
+(
+
+), research has continued to understand this plant with surprising effects, at times psychotropic, but with an increasing number of studies demonstrating a significant therapeutic potential (
+
+). Despite a large number of synonyms 
+<tp:taxon-name>
+C. sativa
+</tp:taxon-name>
+is now considered the sole species of the 
+<tp:taxon-name>Cannabis</tp:taxon-name>
+genus but is divided into several phenotypes known as sub-species and varieties (
+
+). 
+<tp:taxon-name>
+C. sativa
+</tp:taxon-name>
+has a wide range of chemical compounds, including cannabinoids, terpenoids, and flavonoids. All of these compounds are found in the fatty resin that develops in the trichomes of female plants (
+
+). 
+<tp:taxon-name>
+C. sativa
+</tp:taxon-name>
+contains about 100 cannabinoids, including the most well-known THC, cannabidiol (CBD), cannabinol (CBN), cannabichromene (CBC), cannabig´erol (CBG), cannabinodiol (CBND), cannabielsoin (CBE), cannabicyclol (CBL), and cannabitriol (CBT) (
+
+). In spite of having a common molecular framework (the C21 terpenophenolic skeleton), these compounds with widely varying chemical structures exhibit a wide range of different characteristics. THC is the most potent psychoactive compound, whereas CBD has no psychoactive effects but does have anti-inflammatory properties (
+
+). The activities of phytocannabinoids with no psychotropic effects are now being researched since they are potentially therapeutic molecules (
+
+; 
+
+). Several cannabinoid-derived medications have already been approved, including DRONABINOL, a THC-synthesized drug used in the prevention or treatment of nausea and vomiting caused by chemotherapy, EPIDYOLEX, a CBD synthesized drug recently approved for the treatment of epilepsy crises, and SATIVEX, a 
+<tp:taxon-name>
+C. sativa
+</tp:taxon-name>
+extract containing THC and CBD with defined concentrations developed for the treatment of plaque sclerosis (
+
+).
+</p>
+         <p>
+Phytocannabinoids, being phenolic compounds, should have the ability to inhibit harmful free radicals. Although these chemicals have been studied for their antioxidant potential (
+
+; 
+
+), very little is known about them. So far, the only noticeable effects of CBD as an antioxidant have been sufficiently demonstrated (
+
+; 
+
+). It was reported that CBD can decrease oxidative stress in two ways: by directly influencing the activity of oxidants and antioxidants, or by acting as an indirect inhibitor of molecular targets implicated in the redox system (Casares et al., 2020; 
+
+; 
+
+; 
+
+). CBD has also been examined for its radical scavenging action, which has been found to be comparable to that of α- tocopherol (
+
+). A recent study examined the antioxidant properties of seven phytocannabinoids including CBG, CBD, Δ9-THC, CBN, CBGA, CBDA, and Δ9-THCA using spectrophotometric methods such as ABTS, DPPH, ORAC, CUPRAC, beta-carotene, and FRAP (
+
+). The results demonstrated that all of the studied phytocannabinoids are good antioxidants; however, their efficacy differs depending on the experimental test and the structure of the molecule. Most phytocannabinoids have been shown to have increased activity when tested using SET (single electron transfer) mechanism-based methods, such as ABTS, CUPRAC, and FRAP, but reduced activity when tested using methods based on the HAT (hydrogen atom transfer) and RAF (radical adduct formation) mechanisms, such as DPPH and beta-carotene.
+</p>
+         <p>
+E-mail address:
+boulebd.houssem@umc.edu.dz.
+</p>
+         <p>
+Despite the therapeutic value of phytocannabinoids and their antiradical potential, relatively few investigations on their mechanisms of action have been conducted. In two studies we recently published, we used DFT calculations to describe in detail the scavenging effects of cannabidiol (CBD) and cannabidiolic acid (CBDA) (
+
+; 
+
+). We have shown that these compounds are effective in scavenging hydroperoxyl radicals in polar physiological media but less effective in lipid media. As part of our ongoing research on the antiradical activity of phytocannabinoids, we have evaluated in this paper the antiradical capacity and mechanism of eight compounds that constitute the main families of phytocannabinoids, including cannabinol (CBD), tetrahydrocannabinol (TCBN), cannabichromene (CBC), cannabicyclol (CBL), cannabielsoin (CBE), cannabinodiol (CBND), cannabifuran (CBF), and cannabigerol (CBG) (
+Fig. 1
+). First, the activity was evaluated against the hydroperoxyl radical, which is a typical radical widely used as a model for the evaluation of the antioxidant activity. Then, based on the findings, the activity of the most promising phytocannabinoid was assessed in physiological aqueous medium against a variety of common radical species.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2. Results and discussion
+</title>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.1. Frontier molecular orbitals analysis
+</title>
+         <p>
+Frontier molecular orbitals (FMOs) i.e., HOMO (highest occupied molecular orbital) and LUMO (lowest unoccupied molecular orbital) are useful tools for describing the scavenging activity of organic compounds. The distribution and energy of these orbitals can provide information about the sites of free radical attack as well as the overall ability of the molecule to act as an electron acceptor or donor. The FMOs of the phytocannabinoids studied are presented in 
+Fig. 2
+. From the obtained findings, it is clear that HOMOs and LUMOs are mainly located on the phenolic moieties of all compounds. This suggests that the OH groups of phytocannabinoids play a crucial role in determining their reactivity.
+</p>
+         <p>
+The energy of HOMO reflects the ability of the molecule to lose an electron. The results show that the HOMO energy of phytocannabinoids decreases in the following order CBE (6.20 eV)
+&gt;
+CBC (6.98 eV)
+&gt;
+CBN (6.99 eV)
+&gt;
+CBND (7.05 eV)
+&gt;
+CBF (7.07 eV)
+&gt;
+TCBN (7.15 eV)
+&gt;
+CBG (7.33 eV). This indicates that CBE, CBC, and CBN are the strongest electron donors, while TCBN and CBG are the weakest. Moreover, CBE (ΔE = 6.01 eV), CBC (ΔE = 6.74 eV), and CBN (ΔE = 6.74 eV) show a significantly small energy gap compared to that of CBG (7.10 eV), implying that these molecules are the most potent in terms of electron donating.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.2. Chemical equilibria in aqueous media
+</title>
+         <p>
+To investigate antiradical activity in water, it is necessary to understand acid-base equilibrium under physiological conditions (pH = 7.4). Since experimental data on phytocannabinoids are lacking, the relative pKa values were calculated using a procedure described in the literature (Rebollar-Zepeda et al., 2011). The computed values are shown in 
+Fig. 3
+, and 
+Fig. S2
+depicts the mole fraction as a function of the pH of the neutral and anionic species. The molar fractions have been calculated using the following equations:
+</p>
+         <p>
+Phyto OH = 100 (%Phyto O 
+–
+)
+</p>
+         <p>10 pKa</p>
+         <p>
+%Phyto O 
+–
+=
+)
+× 100
+</p>
+         <p>10 pKa + 3.98 × 10 8</p>
+         <p>
+As per 
+Fig. 3
+, it can be seen that the neutral form is prevalent at physiological pH (7.4), with ratios ranging from 99.01% to 99.97% (
+Table S2
+). The anionic form, on the other hand, is present in low concentrations ranging from 0.02% to 0.99% (
+Table S2
+). The fHAT and RAF mechanisms should be unaffected by this minimum proportion, but it may be critical for the SET process. As a result, the anionic form is investigated in this study for the SET mechanism in water, whereas only the neutral form is investigated for fHAT and RAF mechanisms.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.3. Thermodynamic behavior of antiradical mechanisms
+</title>
+         <p>Antioxidants react with free radicals to produce much less reactive species in which the free electron is distributed over the entire molecule and not localized on a single atom. This process can take place according to several mechanisms involving hydrogen transfer (fHAT), electron transfer (SET) or by a non-redox path (RAF) according to the following equations:</p>
+         <p>
+Antiox H + R 
+•
+→ Antiox 
+•
++ RH (fHAT)
+</p>
+         <p>
+Antiox + R 
+•
+→ Antiox 
++•
++ R (SET)
+</p>
+         <p>
+Antiox + R 
+•
+→ [Antiox R] 
+•
+(RAF)
+</p>
+         <p>fHAT and RAF involve uncharged species; thus, their feasibility is possible under both polar and lipid conditions. On the other hand, SET involves the transfer of electrons from an anionic or a neutral species leading to a neutral or a cationic radical as follows:</p>
+         <p>
+Antiox OH + R 
+•
+→ [Antiox OH] 
++•
++ R (SET1)
+</p>
+         <p>
+Antiox O + R 
+•
+→ Antiox O 
+⋅
++ R (SET2)
+</p>
+         <p>
+These mechanisms therefore are possible only under polar conditions. However, several mechanistic studies have demonstrated that the electron transfer from neural molecules is kinetically unfavorable and only electron transfer from anionic species is significant (
+
+; 
+
+; 
+
+). Thus, this mechanism can only take place under polar conditions from anionic species (SET2).
+</p>
+         <p>
+Phytocannabinoids (
+Fig. 1
+) have several potential sites for free radial attack. According to the fHAT mechanism, the phenolic OH groups are the most suitable sites for donating their hydrogen atoms; however, studies on antioxidants have shown that some benzylic hydrogen atoms may also be involved in the hydrogen transfer process. Furthermore, we previously demonstrated that cannabidiolic acid (CBDA) interacts with HOO 
+•
+in lipid environments 
+via
+a benzylic group rather than a phenolic OH group (
+
+). Thus, in addition to the phenolic OH groups, all potential 
+CH
+groups were examined in this study. In terms of the RAF mechanism, it is known that the attack of HOO 
+•
+on the aromatic nucleus is energetically unfavorable since it destroys aromaticity. Only attacks on non-phenolic double bonds are possible. This was also taken into consideration in this study.
+</p>
+         <p>
+Fig. 4
+shows the computed Gibbs free energies of the reaction of phytocannabinoids with HOO 
+•
+following fHAT, RAF, and SET mechanisms in physiological media. As can be seen, in both environments, the phenolic OH groups of all phytocannabinoids show low ΔG values for the fHAT mechanism ranging from 3.1 to 1.9 kcal/mol. This implies that this process is thermodynamically favorable for these OH groups. Similarly, benzylic 
+CH
+groups, including 3 
+CH
+and 12 
+CH
+of TCBN and CBG respectively, also showed low ΔG values of 9.9 to 1.2 kcal/mol, reflecting the feasibility of fHAT for these two groups as well. Considering the RAF mechanism, it appears that the reactions at positions C4, C19, C20, and (C17, C18) of CBC, CBND, CBE, and CBG, respectively are exergonic or almost isergonic. Therefore, RAF is a thermodynamically possible mechanism for some phytocannabinoids. Finally, the ΔG values of the SET mechanism are slightly endergonic (0.5 to 4.3 kcal/mol) and indicate that SET is also possible in water.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.4. Kinetic study under physiological conditions
+</title>
+         <p>
+In the first step, the kinetic study of the reaction of phytocannabinoids with HOO 
+•
+was performed in the gas phase for all the thermodynamically conceivable pathways and the results obtained are reported in 
+Table S2
+. Only, the fHAT and RAF mechanisms were considered since they are relatively slightly dependent on the environments. As we can see, the calculated branching ratios show that fHAT is the dominant process for all phytocannabinoids, while RAF has no contribution to the overall rate constant (Γ = 0%). The 3 
+CH
+group of the TCBN has a rate constant of 1.08 × 
+104
+M 
+1
+s 
+1
+which contributes 28% to the 
+k
+overall
+. This implies that this 
+CH
+group may play a role in the primary antioxidant activity of TCBN. On the other hand, that of CBG (12 
+CH
+) has no contribution to the 
+k
+overall
+with a rate constant of 2.53 × 10 
+1
+M 
+1
+s 
+1
+(Γ = 0%).
+</p>
+         <p>
+Based on this preliminary assessment in the gas phase, the antiradical activity in the lipid-like environment was modeled following the fHAT mechanism at the phenolic OH groups and the active 
+CH
+groups. On the other hand, the SET mechanism from the anionic state was also considered in water. The overall rate constants (
+k
+overall
+) were calculated as follows:
+</p>
+         <p>In the lipid-like environment</p>
+         <p>
+k
+overall = 
+k
+app(fHAT OH) + 
+k
+app (fHAT 
+CH
+)
+</p>
+         <p>In water</p>
+         <p>
+k
+overall
+= 
+k
+f
+(fHAT OH) + 
+k
+f
+(fHAT 
+CH
+) + 
+k
+f
+(SET2)
+</p>
+         <p>
+The results are reported in 
+Table 1
+, and the localized transition states are shown in 
+Fig. 5
+. In the lipid-like environment, the radical scavenging capacity of phytocannabinoids is moderate to good with overall rate coefficients of 6.00 × 10 
+1
+to 8.80 × 10 
+3
+M 
+1
+s 
+1
+. The best candidates were found to be, in order, TCBN, CBG, CBF, and CBC. Their overall rate constants are somewhat close to that of BHT (1.70 × 10 
+4
+M 
+1
+s 
+1
+) (
+
+) suggesting that these molecules are good antioxidants under lipid physiological conditions. Analysis of the branching ratios reveals that the 
+CH
+group of TCBN plays a significant role in the overall reactivity of the molecule with a contribution of 35% to the overall rate constant. This highlights the potential role of benzylic 
+CH
+groups in antioxidant action. Similar outcomes were also attained in our earlier work on CBDA (
+
+).
+</p>
+         <p>
+</p>
+         <p>
+a
+The nuclear reorganization energy (λ).
+</p>
+         <p>
+b
+Mole fraction.
+</p>
+         <p>
+c 
+K
+= 
+f
+. 
+k
+.
+</p>
+         <p>f app</p>
+         <p>
+On the other hand, the antiradical activity of phytocannabinoids under physiological polar conditions appears to be substantially better with overall rate coefficients ranging from 5.20 × 
+104
+to 5.25 × 
+106
+M 
+1
+s 
+1
+. CBN, CBC, and CBF are the most promising molecules with rate coefficients of the order of 
+106
+M 
+1
+s 
+1
+. The SET mechanism from the anionic states is dominant or almost exclusive for all phytocannabinoids. This finding is consistent with our earlier works on CBD and CBDA (
+
+; 
+
+), as well as experimental investigations on phytocannabinoids (
+
+). In comparison, the calculated rate constants of CBN, CBC, and CBF are larger than that of Trolox (1.30 × 
+105
+M 
+1
+s 
+1
+) (
+
+) and BHT (2.51 × 10 
+5
+M 
+1
+s 
+1
+) (
+
+), implying that these phytocannabinoids are effective free radical scavengers under physiologically polar conditions.
+</p>
+         <p>
+To get a more reliable estimation of the antiradical potency of phytocannabinoids, the predicted rate constant of CBF, as the most active derivative in polar physiological environments, was compared to the experimental value of the reference antioxidant Trolox. The molar fraction of the HOO 
+•
+radical at physiological pH (0.00251), however, must be included in the 
+koverall
+of CBF to obtain a reliable result as follows:
+)
+k
+fHAT
+(CBF) = 
+k
+appfHAT
+9.90 × 10 
+2
+× fCBF(0.9901) × fHOO(0.00251)
+</p>
+         <p>
+= 2.46 × 10 
+0
+M 
+1
+s 
+1
+)
+k
+SET2
+(CBF) = 
+k
+appSET
+2 5.30 × 10 
+8
+× fCBF (0.0099) × fHOO(0.00251)
+</p>
+         <p>
+= 1.32 × 10 
+4
+M 
+1
+s 
+1
+</p>
+         <p>
+k
+overall
+= 
+k
+f
+(fHAT) + 
+k
+f
+(SET2) = 1.32 × 10 
+4
+M 
+1
+s 
+1
+</p>
+         <p>
+As we can see, the value obtained for CBF (1.32 × 10 
+4
+M 
+1
+s 
+1
+) is comparable to the experimental value of Trolox (1.70 × 
+104
+M 
+1
+s 
+1
+) (
+
+), indicating that CBF is a potent scavenger of HOO 
+•
+in polar physiological environments.
+</p>
+         <p>
+In light of these findings, it can be seen that CBF and CBC are the most effective HOO 
+•
+scavengers in both environments while being as effective as reference antioxidants Trolox and BHT. This leads us to conclude that CBF and CBC are promising HOO 
+•
+scavengers in physiological media.
+</p>
+         <p>
+2.5. Scavenging potential toward typical free radicals in water
+</p>
+         <p>
+Although the reaction toward HOO 
+•
+is used as a standard, there is some variation in the radical scavenging reactions with other species. Thus, the antiradical activity of the most promising phytocannabinoid in the aqueous medium (CBF) was also examined against a variety of typical free radicals including peroxyl radicals (
+CH
+3
+COO 
+•
+and Cl 
+3
+COO 
+•
+), hydroxyl radical (HO 
+•
+), alkoxy radicals (
+CH
+3
+O 
+•
+and Cl 
+3
+CO 
+•
+), nitrogen dioxide (NO 
+2
+), nitric oxide (NO), superoxide anion (O 
+2
+• –
+), sulfate radical anion (SO 
+4
+• –
+), and nitride radical (N 
+•
+3
+). This study focused exclusively on the SET mechanism from the anionic form of CBF which is the primary mechanism in water at physiological pH. The obtained rate constants are reported in 
+Table 2
+. By analyzing the data in 
+Table 2
+, we can conclude that CBF has a moderate inhibition capacity against SO 
+4
+• -
+(
+k
+f
+= 1.09 × 
+103
+M 
+1
+s 
+1
+), but an excellent ability to inhibit 
+CH
+3
+COO 
+•
+(
+k
+f
+= 1.88 × 10 
+6
+M 
+1
+s 
+1
+) and Cl 
+3
+COO 
+•
+(
+k
+f
+= 1.88 × 10 
+6
+M 
+1
+s 
+1
+) as well as 
+CH
+3
+O 
+•
+(
+k
+f
+= 9.11 × 
+106
+M 
+1
+s 
+1
+) and NO 
+2
+(
+k
+f
+= 4.26 × 
+106
+M 
+1
+s 
+1
+). However, CBF is ineffective for scavenging HO 
+•
+, NO, and O 
+2
+• -
+under the conditions examined. The prediction of low activity against HO 
+•
+implies that SET is not the correct mechanism for this radical; highly reactive radicals are known to follow other routes (fHAT or RAF) that are mainly barrierless in aqueous conditions (
+
+; 
+
+). These findings corroborate the work of 
+
+, which shows that phytocannabinoid antioxidant activity exceeds that of Trolox when radicals/metal ions are reduced through the SET mechanism by the transfer of electrons from phenolic groups.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+3. Conclusion
+</title>
+         <p>
+The radical scavenging ability of phytocannabinoids has been systematically assessed using both thermodynamic and kinetic calculations under physiological conditions. In light of these computations, it can be concluded that the antiradical capacity of phytocannabinoids depends on the environment and the structure of the molecule. In the lipid-like environment, phytocannabinoids are relatively moderate to good HOO 
+•
+scavengers, reacting mainly according to the fHAT mechanism. However, in water at physiological pH, the antiradical properties of phytocannabinoids are substantially better and mainly defined by the SET mechanism from the anionic state, which is in good agreement with the available experimental data. CBN, CBC, and CBF were identified as the most promising molecules in water for scavenging HOO 
+•
+radical with overall rate constants higher than that of reference compounds Trolox and BHT. Furthermore, CBF exhibited excellent free radical scavenging activity against peroxyl radicals, methoxy radicals, and nitrogen dioxide. These findings may shed new light on how phytocannabinoids exert their antiradical action and inspire the development of novel potential derivatives.
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4. Computational details
+</title>
+         <p>
+All density functional theory (DFT) computations in this investigation were performed using the Gaussian 09 program (M. J. 
+
+). All computations were performed using the M062X functional in conjunction with the 6–311++ G (d,p) basis set (
+
+). Previous studies (
+
+; 
+
+) have proven the accuracy of this methodology for free radical reactions. The ground and transition states were confirmed by the number of imaginary frequencies (0 and 1, respectively). The solvation effects of water and pentyl ethanoate were simulated using the SMD solvation model to mimic polar and lipid physiological environments (
+
+). SMD is frequently used to quantify antioxidant activity with low inaccuracy when compared to experimental data (
+
+; 
+
+; 
+
+, 2021). The thermodynamic characteristics associated with the examined antioxidant pathways were computed, as previously described (
+
+, 
+
+; 
+
+). The kinetic calculations were carried out following the QM-ORSA methodology (quantum mechanics-based test for overall free radical scavenging activity) (
+
+, 
+
+). The rate constant (
+k
+) was derived using standard transition state theory (TST) and 1 M standard state at 298.15 K using the equation below (
+
+; 
+
+; 
+
+)
+</p>
+         <p>
+k
+= 
+σκ kBT
+e (Δ 
+G
+=) 
+/RT h
+</p>
+         <p>
+Where σ is the reaction symmetry number (Fern´andez-Ramos et al., 2007; 
+
+), κ represents tunneling corrections computed using the Eckart barrier (
+
+), 
+
+kB
+
+is the Boltzmann constant, 
+h
+is the Planck constant, ΔG 
+=
+is Gibbs free energy of activation. More details on the methodology are presented in 
+Tables S1
+and SI.
+</p>
+         <p>
+Declaration of competing interest
+</p>
+         <p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p>
+         <p>
+Data availability
+</p>
+         <p>Data will be made available on request.</p>
+      </sec>
+      <sec sec-type="acknowledgments">
+         <title>
+Acknowledgments
+</title>
+         <p>
+I would like to thank MESRS (Minist`ere de l’ Enseignement Sup´erieur et de la Recherche Scientifique, 
+Algeria
+) and DGRSDT (Direction G´en´erale de la Recherche Scientifique et du D´eveloppement Technolsogique, 
+Algeria
+), for financial support, as well as the HPC resources of UCI-UFMC (Unit´e de Calcul Intesif of the university Fr´eres Mentouri 
+Constantine
+1) for the computational resource used.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+Appendix A. Supplementary data
+</title>
+         <p>Supplementary data to this article can be found online at https://doi. org/10.1016/j.phytochem.2023.113608.</p>
+      </sec>
+      <sec sec-type="reference_group">
+         <title>
+References
+</title>
+         <ref-list>
+            <ref>
+               <mixed-citation>
+Aliferis, K.A.
+, 
+Bernard-Perron, D.
+, 
+2020
+. 
+Cannabinomics: application of metabolomics in Cannabis (Cannabis sativa L.) research and development
+. 
+Front. Plant Sci
+. 11 
+https://doi.org/10.3389/fpls.2020.00554
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Atalay, S.
+, 
+Jarocka-Karpowicz, I.
+, 
+Skrzydlewska, E.
+, 
+2020
+. 
+Antioxidative and anti-inflammatory properties of cannabidiol
+. 
+Antioxidants
+9
+. 
+https://doi.org/10.3390/ antiox9010021
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Bielski, B.H.J.
+, 
+Cabelli, D.E.
+, 
+Arudi, R.L.
+, 
+Ross, A.B.
+, 
+1985
+. 
+Reactivity of HO2/O 2 radicals in aqueous solution
+. 
+J. Phys. Chem. Ref. Data
+14
+, 
+1041–1100
+. 
+
+https://doi. org/ 
+10.1063
+/ 
+1.555739
+
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Borges, R.S.
+, 
+Batista, J.
+, 
+Viana, R.B.
+, 
+Baetas, A.C.
+, 
+Orestes, E.
+, 
+Andrade, M.A.
+, Hon´orio, K. M., 
+Da Silva, A.B.F.
+, 
+2013
+. 
+Understanding the molecular aspects of tetrahydrocannabinol and cannabidiol as antioxidants
+. 
+Molecules
+18
+, 
+12663-12674
+. 
+https://doi.org/10.3390/molecules181012663
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Boulebd, H.
+, 
+2022
+a. 
+Is cannabidiolic acid an overlooked natural antioxidant? Insights from quantum chemistry calculations. New J
+. 
+Chem.
+46
+, 
+162–168
+. 
+https://doi.org/ 10.1039/D1NJ04771J
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Boulebd, H.
+, 
+2022
+b. 
+Radical scavenging behavior of butylated hydroxytoluene against oxygenated free radicals in physiological environments: insights from DFT calculations
+. 
+Int. J. Chem. Kinet.
+54
+, 
+50–57
+. 
+https://doi.org/10.1002/kin.21540
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Boulebd, H.
+, 
+Amine Khodja, I.
+, 
+2021
+. 
+A detailed DFT-based study of the free radical scavenging activity and mechanism of daphnetin in physiological environments
+. 
+Phytochemistry
+189
+, 
+112831
+. 
+https://doi.org/10.1016/j.phytochem.2021.112831
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Boulebd, H.
+, 
+Pereira, D.M.
+, 
+Amine Khodja, I.
+, 
+Hoa, N.T.
+, 
+Mechler, A.
+, 
+Vo, Q.V.
+, 
+2022
+. 
+Assessment of the free radical scavenging potential of cannabidiol under physiological conditions: theoretical and experimental investigations
+. 
+J. Mol. Liq.
+346
+, 
+118277
+https://doi.org/10.1016/j.molliq.2021.118277
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Caicedo, C.
+, 
+Iuga, C.
+, Castaneda-Arriaga ˜, R., 
+Alvarez-Idaboy, J.R.
+, 
+2014
+. 
+Antioxidant activity of selected natural polyphenolic compounds from soybean via peroxyl radical scavenging
+. 
+RSC Adv.
+4
+, 
+38918–38930
+. 
+https://doi.org/10.1039/ C4RA04758C
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Casares, L
+., 
+García, V
+., 
+Garrido-Rodríguez, M
+., 
+Mill´an, E
+., 
+Collado, J.A
+., 
+García-Martín, A.
+, et al., 
+2020
+. 
+Cannabidiol induces antioxidant pathways in keratinocytes by targeting BACH1
+. 
+Redox Biol.
+28
+, 
+101321
+https://doi.org/10.1016/j. redox.2019.101321
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Chandra, S.
+, 
+Lata, H.
+, 
+Khan, I.A.
+, 
+ElSohly, M.A.
+, 
+2017
+. 
+Cannabis sativa L.: botany and horticulture
+. In: 
+Chandra, S.
+, 
+Lata, H.
+, 
+ElSohly, M.A.
+(Eds.), 
+Cannabis Sativa L
+. - 
+Botany and Biotechnology. Springer International Publishing, Cham
+, pp. 
+79–100
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Dawidowicz, A.L.
+, 
+Olszowy-Tomczyk, M.
+, 
+Typek, R.
+, 
+2021
+. 
+CBG, CBD, Δ9-THC, CBN, CBGA, CBDA and Δ9-THCA as antioxidant agents and their intervention abilities in antioxidant action
+. 
+Fitoterapia
+152
+, 
+104915
+. 
+https://doi.org/10.1016/j. fitote.2021.104915
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Di Meo, F.
+, 
+Lemaur, V.
+, 
+Cornil, J.
+, 
+Lazzaroni, R.
+, 
+Duroux, J.-L.
+, 
+Olivier, Y.
+, 
+Trouillas, P.
+, 
+2013
+. 
+Free radical scavenging by natural polyphenols: atom versus electron transfer
+. 
+J. Phys. Chem.
+117
+, 
+2082–2092
+. 
+https://doi.org/10.1021/jp3116319
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Djafarou, S.
+, 
+Boulebd, H.
+, 
+2022
+. 
+The radical scavenger capacity and mechanism of prenylated coumestan-type compounds: a DFT analysis. Free Radic
+. 
+Res.
+56
+, 
+273–281
+. 
+https://doi.org/10.1080/10715762.2022.2085097
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Eckart, C.
+, 
+1930
+. 
+The penetration of a potential barrier by electrons
+. 
+Phys. Rev.
+35
+, 
+1303
+. 
+https://doi.org/10.1103/PhysRev.35.1303
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Esposito, G.
+, 
+Filippis, D.D.
+, 
+Cirillo, C.
+, 
+Iuvone, T.
+, 
+Capoccia, E.
+, 
+Scuderi, C.
+, 
+Steardo, A.
+, 
+Cuomo, R.
+, 
+Steardo, L.
+, 
+2013
+. 
+Cannabidiol in inflammatory bowel diseases: a brief overview
+. 
+Phytother Res.
+27
+, 
+633–636
+. 
+https://doi.org/10.1002/ptr.4781
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Evans, M.G.
+, 
+Polanyi, M.
+, 
+1935
+. 
+Some applications of the transition state method to the calculation of reaction velocities, especially in solution
+. 
+Trans. Faraday Soc.
+31
+, 
+875–894
+. 
+https://doi.org/10.1039/TF9353100875
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Eyring, H.
+, 
+1935
+. 
+The activated complex in chemical reactions
+. 
+J. Chem. Phys.
+3
+, 
+107–115
+. 
+
+https://doi.org/ 
+10.1063
+/ 
+1.1749604
+
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Fern´andez-Ramos, A., 
+Ellingson, B.A.
+, 
+Meana-Pa˜neda, R.
+, 
+Marques, J.M.
+, 
+Truhlar, D.G.
+, 
+2007
+. 
+Symmetry numbers and chemical reaction rates
+. 
+Theor. Chem. Acc.
+118
+, 
+813–826
+. 
+https://doi.org/10.1007/s00214-007-0328-0
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Franco, R.
+, 
+Rivas-Santisteban, R.
+, 
+Reyes-Resina, I.
+, 
+Casanovas, M.
+, P´erez-Olives, C., 
+Ferreiro-Vera, C.
+, 
+Navarro, G.
+, S´anchez 
+de Medina, V.
+, 
+Nadal, X.
+, 
+2020
+. 
+Pharmacological potential of varinic-, minor-, and acidic phytocannabinoids
+. 
+Pharmacol. Res.
+158
+, 
+104801
+https://doi.org/10.1016/j.phrs.2020.104801
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Frisch, M.J.
+, 
+Trucks, G.W.
+, 
+Schlegel, H.B.
+, 
+Scuseria, G.E.
+, 
+Robb, M.A.
+, 
+Cheeseman, J.R.
+, et al., 
+2009
+. 
+Gaussian 09
+. 
+Gaussian, Inc., Wallingford CT
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Galano, A.
+, 
+Alvarez-Idaboy, J.R.
+, 
+2013
+. 
+A computational methodology for accurate predictions of rate constants in solution: application to the assessment of primary antioxidant activity
+. 
+J. Comput. Chem.
+34
+, 
+2430–2445
+. 
+https://doi.org/10.1002/ jcc.23409
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Galano, A.
+, 
+Alvarez-Idaboy, J.R.
+, 
+2014
+. 
+Kinetics of radical-molecule reactions in aqueous solution: a benchmark study of the performance of density functional methods
+.J. Comput. Chem.
+35
+, 
+2019–2026
+. 
+https://doi.org/10.1002/jcc.23715
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Galano, A.
+, 
+Alvarez-Idaboy, J.R.
+, 
+2019
+. 
+Computational strategies for predicting free radical scavengers’ protection against oxidative stress: where are we and what might follow?
+Int. J. Quant. Chem.
+119
+, e 
+25665
+https://doi.org/10.1002/qua.25665
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Gaoni, Y.
+, 
+Mechoulam, R.
+, 
+1964
+. 
+Isolation, structure, and partial synthesis of an active constituent of hashish
+. 
+J. Am. Chem. Soc.
+86
+, 
+1646–1647
+. 
+https://doi.org/10.1021/ ja01062a046
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Hieu, L.T.
+, 
+Van Bay, M.
+, 
+Hoa, N.T.
+, 
+Mechler, A.
+, 
+Vo, Q.V.
+, 
+2022
+. 
+The radical scavenging activity of glycozolidol in physiological environments: a quantum chemical study
+. 
+RSC Adv.
+12
+, 
+32693–32699
+. 
+https://doi.org/10.1039/D2RA05907J
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Hoa, N.T.
+, 
+Van Bay, M.
+, 
+Mechler, A.
+, 
+Vo, Q.V.
+, 
+2020
+. 
+Is usnic acid a promising radical scavenger?
+ACS Omega
+5
+, 
+17715–17720
+. 
+https://doi.org/10.1021/ acsomega.0c02306
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Hoa, N.T.
+, 
+Ngoc Van, L.T.
+, 
+Vo, Q.V.
+, 
+2023
+. 
+Reactions of nicotine and the hydroxyl radical in the environment: theoretical insights into the mechanism, kinetics and products
+. 
+Chemosphere
+314
+, 
+137682
+. 
+https://doi.org/10.1016/j.chemosphere.2022.137682
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Klein, T.W.
+, 
+2005
+. 
+Cannabinoid-based drugs as anti-inflammatory therapeutics
+. 
+Nat. Rev. Immunol.
+5
+, 
+400–411
+. 
+https://doi.org/10.1038/nri1602
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Marenich, A.V.
+, 
+Cramer, C.J.
+, 
+Truhlar, D.G.
+, 
+2009
+. 
+Universal solvation model based on solute electron density and on a continuum model of the solvent defined by the bulk dielectric constant and atomic surface tensions
+. 
+J. Phys. Chem. B
+113
+, 
+6378–6396
+. 
+https://doi.org/10.1021/jp810292n
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Pan, H.
+, 
+Mukhopadhyay, P.
+, 
+Rajesh, M.
+, 
+Patel, V.
+, 
+Mukhopadhyay, B.
+, 
+Gao, B.
+, Hask´o, G., 
+Pacher, P.
+, 
+2009
+. 
+Cannabidiol attenuates cisplatin-induced nephrotoxicity by decreasing oxidative/nitrosative stress, inflammation, and cell death
+. 
+J. Pharmacol.Exp. Therapeut.
+328
+, 
+708–714
+. 
+https://doi.org/10.1124/jpet.108.147181
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Peres, F.F.
+, 
+Lima, A.C.
+, 
+Hallak, J.E.C.
+, 
+Crippa, J.A.
+, 
+Silva, R.H.
+, 
+Abílio, V.C.
+, 
+2018
+. 
+Cannabidiol as a promising strategy to treat and prevent movement disorders?
+Front. Pharmacol.
+9
+, 
+482
+. 
+https://dx.doi.org/10.3389%2Ffphar.2018.00482
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Pollak, E.
+, 
+Pechukas, P.
+, 
+1978
+. 
+Symmetry numbers, not statistical factors, should be used in absolute rate theory and in Broensted relations
+. 
+J. Am. Chem. Soc.
+100
+, 
+2984–2991
+. 
+https://doi.org/10.1021/ja00478a009
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Raja, A.
+, 
+Ahmadi, S.
+, 
+de Costa, F.
+, 
+Li, N.
+, 
+Kerman, K.
+, 
+2020
+. 
+Attenuation of oxidative stress by cannabinoids and Cannabis extracts in differentiated neuronal cells
+. 
+Pharmaceuticals
+13
+. 
+https://doi.org/10.3390/ph13110328
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Rebollar-Zepeda, A.M
+., 
+Campos-Hern´andez, T
+., 
+Ramírez-Silva, M.T
+., 
+Rojas-Hern´andez, A
+., 
+Galano, A.
+, 
+2011
+. 
+Searching for computational strategies to accurately predict pKas of large phenolic derivatives
+. 
+J. Chem. Theor. Comput.
+7
+, 
+2528–2538
+. 
+https://doi.org/10.1021/ct2001864
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Rock, E.M.
+, 
+Parker, L.A.
+, 
+2021
+. 
+Constituents of Cannabis sativa
+. In: 
+Murillo-Rodriguez, E.
+, 
+Pandi-Perumal, S.R.
+, 
+Monti, J.M.
+(Eds.), 
+Cannabinoids and Neuropsychiatric Disorders
+. 
+Springer International Publishing, Cham
+, pp. 
+1–13
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Truhlar, D.G.
+, 
+Hase, W.L.
+, 
+Hynes, J.T.
+, 
+1983
+. 
+Current status of transition-state theory
+. 
+J. Chem. Phys.
+87
+, 
+2664–2682
+. 
+https://doi.org/10.1021/jp953748q
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Tura, M.
+, 
+Mandrioli, M.
+, 
+Gallina Toschi, T.
+, 
+2019
+. 
+Preliminary study: comparison of antioxidant activity of cannabidiol (CBD) and α- tocopherol added to refined olive and sunflower oils
+. 
+Molecules
+24
+. 
+https://doi.org/10.3390/molecules24193485
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Vacek, J.
+, 
+Vostalova, J.
+, 
+Papouskova, B.
+, 
+Skarupova, D.
+, 
+Kos, M.
+, 
+Kabelac, M.
+, 
+Storch, J.
+, 
+2021
+. 
+Antioxidant function of phytocannabinoids: molecular basis of their stability and cytoprotective properties under UV-irradiation. Free Radic
+. 
+Biol. Med.
+164
+, 
+258–270
+. 
+https://doi.org/10.1016/j.freeradbiomed.2021.01.012
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Vo, Q.V.
+, 
+Bay, M.V.
+, 
+Nam, P.C.
+, 
+Quang, D.T.
+, 
+Flavel, M.
+, 
+Hoa, N.T.
+, 
+Mechler, A.
+, 
+2020
+a. 
+Theoretical and experimental studies of the antioxidant and antinitrosant activity of syringic acid
+. 
+J. Org. Chem.
+85
+, 
+15514–15520
+. 
+https://doi.org/10.1021/acs.joc.0c02258
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Vo, Q.V.
+, 
+Thong, N.M.
+, 
+Le Huyen, T.
+, 
+Nam, P.C.
+, 
+Tam, N.M.
+, 
+Hoa, N.T.
+, 
+Mechler, A.
+, 
+2020
+b. 
+A thermodynamic and kinetic study of the antioxidant activity of natural hydroanthraquinones
+. 
+RSC Adv.
+10
+, 
+20089–20097
+. 
+https://doi.org/10.1039/ D0RA04013D
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Vo, Q.V.
+, 
+Van, L.T.N.
+, 
+Hoa, N.T.
+, 
+Mechler, A.
+, 
+2021
+. 
+Modelling the mechanism and kinetics of the radical scavenging activity of iminostilbene
+. 
+Polym. Degrad. Stabil.
+185
+, 
+109483
+https://doi.org/10.1016/j.polymdegradstab.2021.109483
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Yang, L.
+, 
+Rozenfeld, R.
+, 
+Wu, D.
+, 
+Devi, L.A.
+, 
+Zhang, Z.
+, 
+Cederbaum, A.
+, 
+2014
+. 
+Cannabidiol protects liver from binge alcohol-induced steatosis by mechanisms including inhibition of oxidative stress and increase in autophagy. Free Radic
+. 
+Biol. Med.
+68
+, 
+260–267
+. 
+https://doi.org/10.1016/j.freeradbiomed.2013.12.026
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Zhao, Y.
+, 
+Truhlar, D.G.
+, 
+2008
+a. 
+How well can new-generation density functionals describe the energetics of bond-dissociation reactions producing radicals?
+J. Phys. Chem. A
+112
+, 
+1095–1099
+. 
+https://doi.org/10.1021/jp7109127
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Zhao, Y.
+, 
+Truhlar, D.G.
+, 
+2008
+b. 
+The M06 suite of density functionals for main group thermochemistry, thermochemical kinetics, noncovalent interactions, excited states, and transition elements: two new functionals and systematic testing of four M06- class functionals and 12 other functionals
+. 
+Theor. Chem. Acc.
+120
+, 
+215–241
+. 
+https:// doi.org/10.1007/s00214-007-0310-x
+.
+</mixed-citation>
+            </ref>
+         </ref-list>
+      </sec>
+   </body>
+</article>

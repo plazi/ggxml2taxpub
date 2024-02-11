@@ -1,0 +1,2606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:tp="http://www.plazi.org/taxpub">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="other">N/A</journal-id>
+         <journal-title-group>
+            <journal-title>Phytochemistry</journal-title>
+         </journal-title-group>
+         <issn>N/A</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1016/j.phytochem.2021.112843</article-id>
+         <title-group>
+            <article-title>The integration of MS-based metabolomics and multivariate data analysis allows for improved quality assessment of Zingiber officinale Roscoe</article-title>
+         </title-group>
+         <pub-date date-type="pub">
+            <day>31</day>
+            <month>10</month>
+            <year>2021</year>
+         </pub-date>
+         <kwd-group>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Zingiber officinale
+Roscoe
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Zingiber officinale
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Zingiberaceae</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Zingiber officinale
+Roscoe
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Zingiberaceae</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Curcuma longa
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Zingiber officinale
+Roscoe
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Alpinia zerumbet
+(Pers.) B.L.Burtt &amp; R.M.Sm.
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Zingiberaceae</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Curcuma
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Capsicum
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Amomum melegueta
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Zingiber officinale
+Roscoe
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Zingiberaceae</tp:taxon-name>
+            </kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+
+The integration of MS-based metabolomics and multivariate data analysis allows for improved quality assessment of 
+<tp:taxon-name>
+Zingiber officinale
+Roscoe
+</tp:taxon-name>
+         </p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+Mohamed A. Salem
+
+a, 
+*
+, Ahmed Zayed
+b, c
+, Saleh Alseekh
+d, e
+, Alisdair R. Fernie
+d, e
+,
+Patrick Giavalisco 
+f
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+a
+
+Department of Pharmacognosy, Faculty of Pharmacy, Menoufia University, Gamal Abd El Nasr St., Shibin Elkom, 32511, Menoufia, 
+Egypt
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+b
+
+Department of Pharmacognosy, College of Pharmacy, Tanta University, Elguish Street, Medical Campus, 31527, Tanta, 
+Egypt
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+c
+
+Institute of Bioprocess Engineering, Technical University of Kaiserslautern, Gottlieb-Daimler-Str. 49, 67663, Kaiserslautern, 
+Germany
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+d
+
+Max Planck Institute of Molecular Plant Physiology, Am Mühlenberg 1, 14476, Potsdam-Golm, 
+Germany
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+e
+
+Center for Plant Systems Biology and 
+Biotechnology
+, 
+
+4000, 
+Plovdiv
+, 
+Bulgaria
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+f
+
+Max Planck Institute for Biology of Ageing, Joseph Stelzmann Str. 9b, 50931, Cologne, 
+Germany
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>A R T I C L E I N F O</p>
+      </sec>
+      <sec sec-type="key_words">
+         <title>
+Keywords:
+</title>
+         <p>
+            <tp:taxon-name>
+Zingiber officinale
+</tp:taxon-name>
+         </p>
+         <p>
+            <tp:taxon-name>Zingiberaceae</tp:taxon-name>
+         </p>
+         <p>Chemometrics Geographical origin</p>
+         <p>Ginger</p>
+         <p>Metabolomics</p>
+         <p>Biosynthesis</p>
+         <p>Quality assessment</p>
+         <p>A B S T R A C T</p>
+         <p>
+Ginger (
+<tp:taxon-name>
+Zingiber officinale
+Roscoe
+</tp:taxon-name>
+) is consumed for health-promoting effects and as a food condiment. Comprehensive phytochemical analysis, other than gingerols and shogaols, has not yet been deeply investigated. Hence, the current research aimed to establish a non-targeted metabolomics approach for the discrimination between fresh ginger rhizome samples collected from four different producing countries, 
+i.e.
+, 
+China
+, 
+India
+, 
+Pakistan
+, and 
+Peru
+. In addition, lab-dried samples were analyzed to trace drying-induced metabolites. A comprehensive extraction procedure was carried out resulting in production of polar and non-polar fractions. The polar fraction was analyzed by ultra-performance liquid chromatography coupled with Fourier transform tandem mass spectrometry (UPLC-C 
+18
+-FT-MS/MS) and gas chromatography coupled with time-of-flight mass spectrometry (GC-TOF-MS) post derivatization. UPLC-C 
+8
+-FT-MS/MS was used for analysis of non-polar fraction. Results revealed for identification of a total of 253 metabolites. In addition, multivariate data analysis (MVDA), including principal component analysis (PCA) demonstrated clustering of Asian specimens. Several metabolites with a characteristic pattern for the origin revealing the highest contents of bioactive metabolites in the Peruvian product. Moreover, chemical markers identified, including [6]-gingerol and [6]-shogaol discriminating between fresh and dried samples. Furthermore, abundances of some primary metabolites, including amino acids and cinnamic acid, have confirmed the biosynthetic pathway of gingerols and their transformation upon drying to shogaols. The proposed approach can be applied as a potential candidate for quality assessment of ginger and other medicinal plants.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+1. Introduction
+</title>
+         <p>
+Plant-derived metabolites represent interesting targets for various scientific fields. Medicinally, secondary metabolites are considered a potential source of novel drugs (
+
+; 
+
+) and used for the treatments of various diseases ranging from simple pain to life-threatening diseases such as cancer (
+
+). Approximately 90% of natural-based medicines are of plant origin (
+
+), which have been supported by the tremendous biodiversity inherent in plant species (
+
+). In addition, herbal medicine is the most popular 
+type
+worldwide for the primary healthcare services, with 80% of the world population traditionally using it medicinally owing to relative cheapness, safety and acceptability (
+
+). Taxonomically, several recent published articles have used plant metabolites in plant chemotaxonomic classification within relevant species and cultivars (
+
+; 
+
+; 
+
+).
+</p>
+         <p>
+Following the recent advances of hyphenated spectrometric analyses, including gas chromatography coupled with time-of-flight-mass spectrometry (GC-TOF-MS) and ultra-high-performance liquid chromatography coupled with high resolution tandem mass spectrometry (UHPLC-HR-MS/MS), the chemistry of plant metabolites or plant metabolomics have been developed in tremendous steps (
+
+, 2020b). These techniques have gained a special interest in chemotaxonomic classification resolving the complexity of plants metabolome, especially followings its coupling chemometrics tools (
+
+; 
+
+; 
+
+). Moreover, plant metabolomics has important applications in quality control of herbal products ensuring safety, efficacy, and consistency of active principles (
+
+; 
+
+; 
+
+).
+</p>
+         <p>* Corresponding author.</p>
+         <p>
+E-mail addresses:
+mohamed.salem@phrm.menofia.edu.eg (M.A. Salem), ahmed.zayed1@pharm.tanta.edu.eg (A. Zayed), Alseekh@mpimp-golm.mpg.de (S. Alseekh), Fernie@mpimp-golm.mpg.de (A.R. Fernie), giavalisco@age.mpg.de (P. Giavalisco).
+</p>
+         <p>
+Plants of the family 
+<tp:taxon-name>Zingiberaceae</tp:taxon-name>
+, including turmeric (
+<tp:taxon-name>
+Curcuma longa
+</tp:taxon-name>
+L.), ginger (
+<tp:taxon-name>
+Zingiber officinale
+Roscoe
+</tp:taxon-name>
+) and shell ginger (
+<tp:taxon-name>
+Alpinia zerumbet
+(Pers.) B.L.Burtt &amp; R.M.Sm.
+</tp:taxon-name>
+) are commonly used in different communities, due to their attractive food applications and various bioactivities (
+
+). Specifically, ginger, which is used as fresh or dried rhizomes, has been described among Chinese, Ayurvedic and Tibb-Unani herbal medicines. Besides, it is widely-used as spices, nutraceutical, and for the treatment of different gastro-intestinal diseases (
+i.e.
+, nausea, dysentery, anorexia, diarrhea, flatulence, and cancer), infections, cough, bronchitis, liver dysfunctions, and ageing-related degenerative diseases (
+
+; 
+
+; 
+
+; 
+
+). All of these activities are attributed to its distinctive phytochemical profile, which principally includes phenolic compounds, in addition to lipids, organic acids, volatile terpenoids, and dietary fibers (
+
+; 
+
+; 
+
+; 
+
+). Ginger phenolic compounds are particularly numerous and diverse and include [6]-gingerol, [8]-gingerol, [10]-gingerol, [6]-gingerdiol, [6]-shogaol, [6]-paradol, acetoxy-[10]-gingerol, and gingerenone A. These are the most bioactive secondary metabolites, responsible for ginger aromatic and pungent flavor, bioactivities, and often serve as biomarkers in quality control research (
+
+; 
+
+).
+</p>
+         <p>
+Quality control regulations of herbal products consider several aspects, such as botanical, chemical, biochemical, organoleptic, biological and physical characteristics (
+
+). Previously, single component-based analyses were approved by international pharmacopeias and quality control guidelines, using simple methods, such as TLC, HPLC, and specific tests or simple tandem spectrometric methods for identification, and compositional analysis of medicinal plants (
+
+). However, these are currently inadequate to assess product quality and unable to cover the different aspects of analytical regulations (
+
+). Recently, metabolomics approaches have proven efficiency as a comprehensive tool for analysis of all small molecules (Mw 
+&lt;
+1500 Da) in an organism, tissue or even single cell at very low concentrations (
+
+; 
+
+, 2020b). Additionally, metabolomics techniques have resulted in fingerprint spectra for herbal products helping in authentication and quality control of herbal medicines (
+
+; 
+
+). High throughput screening and analysis of huge number of samples have added to the advantages of metabolomics application in quality control studies (
+
+; 
+
+).
+</p>
+         <p>
+Metabolomics have been applied previously to evaluate the effect of geographical origin of the same plant species and to discriminate between the different ginger cultivars (
+
+). For instance, ginger samples collected from different geographical origins were discriminated based on gingerols and six other gingerol-related compounds using ultra-performance liquid chromatography equipped with mass spectrometry (UPLC/MS) coupled with chemometrics (
+
+; 
+
+). Additionally, metabolomic-based approach characterized phenolic metabolites of family 
+<tp:taxon-name>Zingiberaceae</tp:taxon-name>
+including ginger collected from 
+Korea
+and 
+Ethiopia
+(
+
+). These previous studies focused on the determination of gingerols and shogaols as markers for quality assessment owing to their commercial availability. However, a comprehensive analysis of other metabolites of ginger has not yet been deeply investigated.
+</p>
+         <p>The current research applied a non-targeted metabolomics approach to analyze different metabolites (e.g., phenolic compounds, lipids, organic acids, amino acids, and other primary metabolites) comprehensively in various crude fractions of fresh and dried ginger. It aimed to discriminate fresh ginger samples collected from different geographical regions based on metabolomics data. Moreover, the influence of the drying process on the metabolites profiles has also been investigated. Primary metabolites, especially amino acids, and intermediates were also investigated to trace the biosynthetic pathway of gingerols, while others as fatty acids and sugar monomers assessed the nutritive value of ginger.</p>
+         <p>
+2. Results
+</p>
+         <p>
+2.1. Chromatograms/spectra evaluation and metabolites annotation
+</p>
+         <p>
+Ginger samples collected from four different ginger-producing countries, 
+i.e.
+, 
+China
+, 
+India
+, 
+Pakistan
+, and 
+Peru
+, in addition to lab-dried Peruvian samples were subjected to extraction and analysis (
+Fig. 1
+). Representative total ion chromatograms of the analyzed ginger samples from both polar and non-polar fractions either in the positive and negative modes were depicted in 
+Figure S1
+and S 
+2
+, respectively. The chromatograms obtained from the analyzed conditions were evaluated and aligned to obtain a data matrix of all tested samples, as presented in 
+Figure S3.
+</p>
+         <p>
+A schematic diagram is presented in 
+Fig. 2
+showing the steps for confident compound identification taking [6]-gingerol as an example. The extracted ion chromatograms (EIC) of its protonated adduct was detected at 
+m/z
+295.191 [M+H] 
++
+with a retention time (RT) of 12.94 min. The predicted molecular formula for this adducts was C 
+17
+H 
+27
+O 
+4
+. The ammoniated [M + NH 
+4
+] 
++
+as well as sodiated [M+Na] 
++
+adducts were also detected at the same RT showing 
+m/z
+312.217 and 317.173, respectively. A more intense and very prominent peak was detected at 
+m/z
+277.180 and RT of 12.94 min represented the loss of water from the protonated adduct [M-H 
+2
+O + H] 
++
+. Alongside, a deprotonated adduct at 
+m/z
+293.175 [M-H] 
+-
+was identified in the negative ionization mode eluted at the same RT (
+Fig. 3A
+). The predicted molecular formula for this adduct was C 
+17
+H 
+25
+O 
+4
+. A deprotonation followed by addition of formic acid [M + FA-H] 
+-
+at 
+m/z
+339.180 was also detected. Searching the molecular formula against common MS databases showed that the formula could be tentatively assigned to [6]-gingerol. Using the information from tandem MS, confirmation of the compound identification was based on detection of the characteristic fragment ions, as illustrated previously in 
+Fig. 2
+. The detected adducts and fragments of the same compound showed compatible positive correlation among the tested samples, indicating that they have the same precursor and adding more confidence in the identification as shown in 
+Figure S4
+.
+</p>
+         <p>
+Next to the use of the information about the detected adducts and fragmentation pattern in combination with co-elution, the elution profiles of compounds from the same class can be used for their collective identification. For instance, different gingerols showed a systematic retention time shift, according to their chain length on the RP column (
+Fig. 3B
+). Therefore, the separation was achieved according to their hydrophobic properties. Thus, [6]-gingerol that contains shorter carbon chain was eluted earlier (12.94 min) than [8]- and [10]-gingerol with longer chain length at 13.93 and 14.71 min, respectively. If the identified gingerols were plotted as scatter plots, with monoisotopic mass values on the 
+x
+-axis and RT on the y-axis, other compounds from the same class can be predicted, as demonstrated in 
+Fig. 3C
+. Using the same approach, all other metabolites were identified by their retention behavior, accurate mass measurements and MS/MS spectral data (
+Table S1
+).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.2. Metabolites discriminating the analyzed fresh ginger samples
+</title>
+         <p>
+Principal component analysis (PCA) was conducted on the obtained data matrix of the identified metabolites. PCA, which was conducted on all samples, showed that blank samples were located out beyond the 95% confidence limit, indicating its unique chemical profile, while the quality control (QC) samples were located centrally indicating the robustness of the applied analytical method (
+Figure S5
+).
+</p>
+         <p>
+PCA analysis essentially allowed the separation of the analyzed samples based on their geographical closeness of the countries of origin (
+Fig. 4A
+and Table S2). A closer look revealed that the three Asian samples were distinct from Peruvian sample of South America.
+</p>
+         <p>
+Metabolites that contributed significantly to the differentiation between different ginger samples were extracted by using VIP scores as a quantitative estimation of the discriminatory power of each individual metabolite. Overall, the top 25 metabolites with a VIP score greater than 1 were considered location-specific informative metabolite markers (
+Fig. 4B
+). These metabolites suggest location-specific alterations in gingerols, amino acids and organic acids. Notably, the contents of methyl gingerols and paradols as well as glutathione significantly discriminated Peruvian ginger. Most amino acids such as ornithine and arginine as well as acetoxy gingerdiols discriminated Chinese ginger. Phosphatidylethanolamine (PE) significantly increased in Indian ginger. Organic acids such uric acid and 4-hydroxy-benzoic acid as well as the sugar alcohol erythritol showed the highest level in Pakistani ginger. The group of Peruvian ginger samples showed a dramatic difference to other ginger samples on the HCA dendrogram (
+Fig. 4C
+). Meanwhile, Chinese and Indian samples clearly clustered from the Pakistani samples.
+</p>
+         <p>
+Phenylalanine and cinnamic acid are the precursors of [6]-gingerol. They showed similar metabolite pattern among the analyzed samples, as shown in 
+Fig. 5
+. These metabolites showed also the lowest abundance in Peruvian and Chinese samples, while the highest were in fresh Indian and Pakistani samples. In contrast, the pattern was reversed in case of [6]-gingerol, [6]-shogaol, hexahydrocurcumin, gingerenone A and gingerenone B. Other gingerols, 
+i.e.
+, [8]- and [10]-gingerol as well as their methylated derivatives showed similar profiles, showing that the fresh Peruvian ginger was the richest in gingerols (
+Fig. 5
+and S 
+6
+). Interestingly, Chinese fresh ginger showed the highest abundance of gingerdiol and acetoxy derivatives (
+Figure S6
+).
+</p>
+         <p>
+Peruvian ginger showed the lowest abundances of most amino acids, in comparison with the Asian samples (
+Fig. 6
+). Additionally, several glactolipid classes such as monogalactosyldiacylglycerol (MGDG), digalactosyl diacylglycerol (DGDG) and sulfoquinovosyl diacylglycerols (SQDG) as well as phospholipids such as phosphatidylcholines (PC), phosphatidylglycerol (PG), phosphatidylinositol (PI), and phosphatidylserine (PS) showed a reversed pattern from the amino acids. These lipid classes showed the highest abundances in Peruvian ginger, while the Asian samples showed lower abundances (
+Figure S7
+). On the other hand, free fatty acids levels did not change between the tested fresh samples. Other metabolites such as starch, benzoic acid, riboflavin, and glutathione were more abundant in the Peruvian samples (
+Fig. 6
+and S 
+8
+).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.3. Metabolites discriminating the influence of drying ginger samples
+</title>
+         <p>
+Following the drying of Peruvian samples, PCA analysis essentially allowed the separation of the fresh and dried samples (
+Fig. 7A
+). Orthogonal projections to latent structures discriminant analysis (OPLS-DA) was applied to determine several markers that are distinct in dry samples (
+Fig. 7B and C
+). Overall, the top 25 metabolites with a VIP score greater than 1 were considered drying-specific informative metabolite markers (
+Fig. 7D
+). [6]-shogaol, which is derived from [6]-gingerol, was dramatically increased in dried samples. However, [6]-gingerdiol 5- 
+
+O
+- β
+
+- 
+D-
+glucopyranoside was not affected by drying process (
+Fig. 8
+). A dramatic decrease in lipid classes and other primary metabolites, including xylose, riboflavin, and glutathione, was detected following drying process (
+Figure S9
+and S10). Similarly, the drying of ginger also led to a decrease in the starch content and the total amino acids pool (Figure S11).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.4. Absolute quantification of [6]-gingerol and [6]-shogaol
+</title>
+         <p>
+Since [6]-gingerol and [6]-shogaol are considered the major bioactive compounds of ginger, different solvents were tested for their efficiency to recover them from fresh ginger samples. To determine their absolute concentration, UPLC/MS/MS analytical method was optimized. [6]-Gingerol and [6]-shogaol eluted at retention time of 3.3- and 4.4-min using RP-UPLC method, respectively. [6]-Gingerol and [6]- shogaol have molecular formulae of C 
+17
+H 
+26
+O 
+4
+and C 
+17
+H 
+24
+O 
+3
+with molar masses of 294.38 and 
+276.376 g
+/mol, respectively. By MS analysis, they showed better ionization in positive mode with the molecular ion peak at 
+m
+/ 
+z
+295.215 and 277.286, respectively, which were equivalent to protonated adduct (M+H) 
++
+, as shown in 
+Table 1
+. Additionally, by optimizing the multiple reaction monitoring (MRM) method, each compound showed three characteristic transitions. These fragments were used for qualitative identification, while the intense peaks at 
+m
+/ 
+z
+277.2 and 137.2, respectively, were used for absolute quantitative analysis (Figures S12 and S13). Absolute quantification of [6]-gingerol and [6]-shogaol in fresh ginger samples was based on a standard calibration curve with a regression coefficient (R 
+2
+) of 0.999 within a linear range of 10 μg/mL- 
+10 ng
+/mL and 1 μg/mL- 
+0.1 ng
+/mL for [6]-gingerol and [6]-shogaol, respectively (Figure S14).
+</p>
+         <p>
+The result of this analysis showed that acetonitrile and methyl 
+tert
+- butyl ether (MTBE) were the best solvents for extraction of [6]-gingerol, while isopropanol allowed the best extraction of [6]-shogaol, as shown in 
+Fig. 9
+. Since ginger is usually consumed as herbal tea or by adding ginger slices to fresh juices or water, we tested water as solvent for extraction. The results showed that using water also allowed the good extraction of both compounds, without noticeable differences between hot and cold extraction. Although the organic solvents allowed better extraction, the yield did not exceed 1.4-fold increase compared to water extraction. It is noteworthy to observe that the conversion of [6]- gingerol is not spontaneously induced during extraction with hot water.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+3. Discussion
+</title>
+         <p>
+Ginger is usually available in different forms such as fresh ginger rhizomes, dried ginger spice or ginger herbal teas. In our study, ginger rhizome samples were collected from four different ginger-producing countries, 
+i.e.
+, 
+China
+, 
+India
+, 
+Pakistan
+, and 
+Peru
+. The physical appearance of the collected ginger samples did not allow the discrimination according to the country of origin. Additionally, we subjected the fresh Peruvian ginger sample to laboratory drying which was analyzed to trace drying-induced metabolic changes.
+</p>
+         <p>
+Since the bioactivity and effectiveness of herbal extracts are determined by several constituents, a debate is being raised between using of the total crude extract and isolated single components which are responsible for bioactivity (
+
+). Therefore, QC of the total extracts is required after optimization of extraction method to guarantee the presence of all constituents. This will allow analysis of several components simultaneously. Plant metabolomics has proven to be a powerful tool for herbal QC determining most of the herb phytoconstituents with high sensitivity and accuracy, especially when hyphenated spectrometric methods are used.
+</p>
+         <p>
+Moreover, the 
+U.S.
+Food and Drug Administration (FDA) classifies ginger among “generally recognized as safe” (GRAS) materials or substances (
+
+). Identification and quality assessment of ginger is based on few components’ determination, including gingerols, gingerdiones and shogaols contents by simple chromatographic techniques, as TLC and liquid chromatography equipped with UV detector (
+
+). Also, adulteration of ginger powder is rare owing to its characteristic aroma, however, in older literature, various species of 
+<tp:taxon-name>
+Curcuma
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+Capsicum
+</tp:taxon-name>
+, and grains of 
+Paradise
+(
+<tp:taxon-name>
+Amomum melegueta
+</tp:taxon-name>
+) may be added to exhausted material in order to enhance color and pungency. Addition of plant starch derived from other species was also reported (USP41, 2018).
+</p>
+         <p>
+In addition, natural climate and geography have been proven to greatly influence plant metabolomes (
+
+). Therefore, the ginger samples investigated in this study were collected from different localities to study the effect of geographical distribution on the metabolic content. The physical appearance of the collected ginger samples did not allow the discrimination according to the country of origin. Therefore, phytochemical investigation was required to determine the product quality and discriminate between different geographical origins (
+China
+, 
+India
+and 
+Pakistan
+in Asia and 
+Peru
+in Latin America). Results indicated the geographical origin affecting the primary and secondary metabolites abundances. For instance, the Peruvian ginger in addition to its high content of gingerols and paradols, showed the lowest content of free amino acids, glutathione, and starch either in fresh or lab-dried samples. By contrast, Chinese ginger was characterized by its high content of gingerdiols and their acetoxy derivatives. Furthermore, fresh Peruvian ginger was found to be the richest in most lipids adding a nutritive advantage over the Asian gingers.
+</p>
+         <p>
+PCA analysis is a powerful tool usually used to handle a large amount of data based on multiple variables. It allowed the separation of the analyzed samples based on the geographical closeness of the countries of origin. PCA showed clear separation of geographically different ginger samples. In addition, OPLS-DA showed clear separation of fresh and dried counterparts. Different markers were chosen to justify the differences. Examples include [6]-gingerol, [6]-shogaol, and [6]-gingerdiol 5- 
+
+O
+-β
+
+- 
+D-
+glucopyranoside. Transformation of [6]-gingerol to [6]-shogaol upon drying was consistent with the previously-reported results showing that dried ginger is more effective and widely-used for therapeutic applications than the fresh counterpart due to high content and abundance of [6]-shogaol (
+
+; 
+
+; 
+
+). Interestingly, [6]-shogaol is known for its pharmacological activities as potential antioxidant, and anti-inflammatory even more than gingerols (
+
+).
+</p>
+         <p>
+Obviously, hot water extraction did not improve the conversion of gingerol and consequently increase in concentration of shogaol. This may be explained by the fact that the heat-induced dehydration of gingerol needs dryness and long exposure to high temperature or storage for a long period in warm conditions. The similar pattern of [6]- gingerdiol 5- 
+β
+- 
+D-
+glucopyranoside to [6]-gingerol either in fresh or dried samples confirmed that [6]-gingerdiol 5-β- 
+D-
+glucopyranoside was not affected and resisted its conversion to other metabolites upon heat drying. The blockage of the dehydration site by the glucose molecule consequently inhibited the heat-induced dehydration step as occurred in [6]-gingerol. Jiang et al. have previously demonstrated that geographical origins of ginger did not affect plant genetics since all cultivated samples were genetically identical (
+
+). Therefore, development of quality control based on chromatographic techniques is essential to guarantee robustness of the used analytical methods. Gingerols, including [6]-, [8]- and [10]-gingerol are responsible for ginger pungent taste. They were specially considered as potential markers for discrimination between the geographically different samples, in addition to the study the effect of drying process on the metabolic profile.
+</p>
+         <p>
+Interestingly, consumption of ginger as a functional food was proven in the current research, where presence of high levels of citric acid added to the value of ginger as nutraceutical since citric acid has been reported to possess neuro-, hepato-, and geno-protective activities (Abdel-Salam et al., 2014). Other acids, such as 2-hydroxy cinnamic acid or 
+O
+-coumaric acid seemed to be among the heat-induced products and contributed to the antioxidant power of the dried ginger preparations. Additionally, assessment of amino acids and organic acids profiles are important parameters for food and herbal quality control (
+
+; 
+
+). Among the detected amino acids, valine content was rich in dried than fresh samples in general. This could be explained by the resistance of branched chain amino acids against heat and potentially also the conversion of other branched chain amino acids such as isoleucine to the simplest branched chain amino acid valine. Other primary metabolites such as xylose, riboflavin and glutathione were more abundant in fresh samples than dried products. This also confirmed that fresh samples may be considered a more nutritive source of valuable elements than dried products.
+</p>
+         <p>
+Ginger rhizomes have been widely used in modern medicine due the promising biological activities attributed to the homologous phenolic ketones gingerols, particularly [6]-gingerol and its derivatives (
+
+). Shogaols, the dehydrated forms of gingerols, are thought to be derived from the thermal processing (e.g. drying or heating), or long term storage of gingerols (
+
+). Intriguingly, shogaols are more pungent and more potent than gingerols as antioxidant, anti-inflammatory and chemopreventive (
+
+). Our results revealed the presence of minor amounts of shogaol in the fresh ginger samples, which were increased several folds upon drying. Based on these results, we suggest the usage of fresh ginger as a nutritive food and dry ginger in modern medicine. Drying of herbs removes excess moisture and hence extends their shelf lives, reducing their spoilage and minimizing economic loss to farmers (
+
+). Furthermore, the estimation of the dosage used of some phytochemicals and their products can be more easily controlled from dried herbs than in fresh state. However, the shelf-life of ginger rhizomes is short, making the drying is essential for optimal storability.
+</p>
+         <p>
+The current study has also succeeded to highlight biosynthetic aspects of ginger major metabolites, including gingerol biosynthesis. Previous studies have confirmed that [6]-gingerol is biosynthesized through the phenylpropanoid pathway or specifically shikimate-acetate mixed pathway (Figure S15). Firstly, Denniff, et al. demonstrated that dihydroferulic acid and hexanoic acid were the key intermediates in biosynthesis of [6]-gingerol. However, later Ramirez-Ahumada et al. have proposed an alternative pathway. This study showed that other key intermediates were involved as 
+p
+-coumaroyl 5- 
+O
+-shikimate and 1-dehydro-[6]-gingerdione (
+
+). Abundances pattern of phenylalanine and cinnamic acids confirmed that gingerols are biosynthesized 
+via
+shikimic acid pathway. Moreover, an inverse relationship was observed between the abundance of the [6]-gingerol precursors, 
+i.e.
+, phenyl alanine and cinnamic acid, and end products, 
+i.e.
+, [6]-gingerol, gingerenone A, and gingerenone B, especially in fresh samples, where samples with low precursor contents showed high levels of [6]-gingerol. Similarly, hexahydrocurcumin was highly affected by the same precursors and demonstrated to be synthesized also from phenylalanine and cinnamic acid 
+via
+a side reaction with feruloyl-CoA parallel to biosynthesis of [6]-gingerol. This pathway was also consistent with previous studies (
+
+). However, its conversion to gingerenone A and gingerenone B was not equally produced, especially for the Chinese sample, where conversion to gingerenone B was more favored.
+</p>
+         <p>
+Application of non-targeted plant metabolomics provided comprehensive data regarding the phytochemical profiles of metabolites of ginger using MS-based metabolomics and chemometrics. It discriminated between ginger samples of different geographical origins and allowed assessment of the drying process. Additionally, the relation between primary metabolites, such as amino acids, 
+i.e.
+, phenylalanine, and key intermediates of gingerols biosynthetic pathway emphasized the previously reported biosynthetic studies. A single compound is not enough for quality control and moreover the activity of the extract cannot be represented by single compound. Therefore, the applied metabolomic approach can be used in the field of quality control of herbal medicines providing more valuable information than singlecomponent analysis. Moreover, ginger showed richness in amino acids, sugars, organic acids and various lipids supported its use as a nutraceutical. From a nutritive perspective, fresh ginger is better than dried preparations, since it provides essential amino and fatty acids. However, dried ginger preparations are medicinally valuable, due to their higher contents of shogaols and organic phenolic acids. Furthermore, several non-gingerol related compounds were identified which may be promising as drug candidates or in revealing the secrets of the numerous bioactivities of ginger.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4. Experimental
+</title>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4.1. Reagents and chemicals
+</title>
+         <p>
+Standards of [6]-gingerol and [6]-shogaol were obtained from Sigma Aldrich (Steinheim, 
+Germany
+). LC-grade solvents were obtained from Biosolve Chemicals (Biosolve Chimie, Dieuze, 
+France
+). Standard solutions (
+1 mg
+/mL) of [6]-gingerol and [6]-shogaol for HPLC–MS/MS analysis were prepared individually by dissolving each compound in 50% methanol and then were stored at 20 
+◦
+C until use.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4.2. Plant materials
+</title>
+         <p>
+Fresh ginger (
+<tp:taxon-name>
+Zingiber officinale
+Roscoe
+</tp:taxon-name>
+; 
+<tp:taxon-name>Zingiberaceae</tp:taxon-name>
+) rhizome samples, five replicates each, from 
+China
+(Chinese ginger), 
+India
+(Indian ginger), 
+Peru
+(Peruvian ginger), 
+Pakistan
+(Pakistani ginger) were purchased from BIO COMPANY GmbH (
+Berlin
+, 
+Germany
+). All samples were randomized by origin and the fresh ginger samples were peeled with a knife carefully to remove the outer skin without damaging the inner layers. The peeled rhizomes were sliced into small pieces of almost the same thickness and length. The fresh Peruvian sample was chosen as a representative to study the effect of drying. It was cut into slices of 
+1 mm
+. Then, the slices were subjected to a tray drying in an oven (BINDER FD Heating ovens, 
+Germany
+) adjusted at 40 
+◦
+C for 1.5 days.
+</p>
+         <p>
+</p>
+         <p>
+All samples were labeled and then kept frozen in liquid nitrogen until extraction. The initial moisture content of all samples was determined to remove the possible contribution of water content in subsequent determinations. All samples were weighed on an analytical balance (Sartorius, 
+Germany
+). They were then either oven-dried for 48 h at 80 
+◦
+C. After oven-drying, the samples were reweighed. The moisture content of all dried seaweed samples was calculated as follows: Moisture content (%) = [(weight before drying (g)) (weight after drying (g))] × 100 (weight before drying (g)).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4.3. Experimental design, sample extraction and analysis
+</title>
+         <p>
+Ginger samples collected from four different ginger-producing countries, 
+i.e.
+, 
+China
+, 
+India
+, 
+Pakistan
+, and 
+Peru
+, were homogenized and the homogenized samples were subjected to extraction (
+
+). Briefly, five replicates of 
+50 mg
+of each sample were placed in micro-centrifugation tube with pre-cooled (1 mL, 20 
+◦
+C) MTBE: methanol (MeOH) (3:1, 
+v/v
+), vortexed for 1 min followed by incubation on an orbital shaker (100 rpm) for 45 min at 4 
+◦
+C and then sonicated for 15 min. Additionally, a phase-separating step was conducted afterwards with 650 μL H 
+2
+O/MeOH (3:1, 
+v/v
+) followed again with a vortex step for 1 min and centrifugation at 20,000× 
+g
+for 5 min at 4 
+◦
+C. The protocol resulted in the appearance of three different phases, including non-polar fraction represented by the MTBE upper layer, polar fraction in the middle MeOH/H 
+2
+O layer, and a precipitated pellet in the lowest layer.
+</p>
+         <p>
+Afterwards, a fixed volume (500 μL aliquots) of the upper MTBE layer was collected, dried for 3 h, and subjected to lipids analysis using reversed phase (RP) ultra-performance liquid chromatography coupled with Fourier transform tandem mass spectrometry (UPLC-C 
+8
+-FT-MS/ MS). The samples were resuspended in 250 μL acetonitrile:isopropanol (70:30) and 4 μL was injected. In addition, fixed volumes (200 μL and 400 μL aliquots) of the middle MeOH/H 
+2
+O layer were collected, dried for 12 h, and subjected to analysis using GC-TOF-MS and UPLC-C 
+18
+-FT-MS/MS, respectively.
+</p>
+         <p>
+Furthermore, the whole protocol steps were similarly performed for blank samples, where the sample preparation, extraction, and analysis steps were repeated in the absence of plant materials, 
+i.e.
+, empty extraction tubes. QC samples representing a pool made up of equal amounts of all investigated ginger specimen was also included for quality assessment purposes. QC were analyzed prior to sample acquisition and after every ten samples. They were used to confirm the stability and reproducibility of the analysis.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4.4. Chromatographic parameters and instrument specifications
+</title>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4.4.1. Non-polar fraction
+</title>
+         <p>
+The upper MTBE layer was analyzed for lipid content by UPLC-C 
+8
+- FT-MS/MS, where the Bridged Ethyl Hybrid (BEH) C 
+8
+column (100 × 
+2.1 mm
+containing 1.7 μm diameter particles, Waters®, 
+Manchester
+, 
+UK
+) was equipped with a Waters Acquity UPLC system (Waters®, 
+Manchester
+, 
+UK
+). The mobile phases were composed of buffer A consisted of aqueous 1% (
+v/v
+) 1 M ammonium acetate in 0.1% (
+v/v
+) acetic acid, while buffer B consisted of acetonitrile: isopropanol (7:3, 
+v/v
+) containing 1% 1 M ammonium acetate in 0.1% acetic acid. The UPLC system was programmed for metabolites separation by gradient elution with a flow rate adjusted at 400 μL/min, The mobile phase composition varied by time to be 45% A for 1 min, 3 min gradient linear from 45% A to 35% A, 8 min linear from 25% A to 11% A, and then 3 min linear from 11% A to 1% A. Afterwards, the column was washed for 3 min with 1% A and then re-equilibrated by setting the mobile phase back to 45% A for 4 min.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4.4.2. Polar fraction
+</title>
+         <p>
+UPLC-C 
+18
+-FT-MS/MS consisted of RP-High Strength Silica (HSS) T3 C 
+18
+column (100 × 
+2.1 mm
+containing 1.7 μm diameter particles, Waters®), combined with Waters Acquity UPLC system (Waters®, 
+Manchester
+, 
+UK
+) and a mobile phase flow rate at 400 μL/min. The mobile phases of the chromatographic separation were aqueous 0.1% formic acid (buffer A) and methanol containing 0.1% formic acid (buffer B). Linear gradient elution was also applied using 99% A for 1 min, from 99% A to 65% A till 13 min, then 65% A to 30% A till 14.5 min, 30% A to 1% A till 15.5 min, hold at 1% An until the 17 min, and finally to 17.5 min a linear gradient from 1% A to 99% A. The column was re-equilibrated by 99% A for 2.5 min. The UPLC system was coupled with mass spectrometer (MS) worked in positive and negative ionization mode using a heated electrospray ionization (HESI) source together with an Exactive, Orbitrap-type, MS (Exactive, Thermo-Fisher®, 
+Bremen
+, 
+Germany
+).
+</p>
+         <p>
+The instrumentation and chromatographic parameters of GC-TOF-MS were performed as previously described (
+
+). Briefly, aliquots of the polar phase (0.2 mL) were dried down before they were re-suspended in 40 μL of methoxyamine-hydrochloride/pyridine solution followed by heating at 37 
+◦
+C for 90 min. The samples were further derivatized with 90 μL of 
+N
+-methyl- 
+N
+-trimethylsilyltrifloracetamide (MSTFA) for 30 min at 37 
+◦
+C. One μL of the derivatized sample mixture was injected onto the GC-column and measured.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4.4.3. Precipitated protein and starch pellet
+</title>
+         <p>
+For protein extraction, the washed pellet remained after metabolite extraction was re-suspended in 150 μL of protein extraction buffer (6 M urea, 2 M thiourea, 15 mM DTT, 2% CHAPS and protease and phosphatase inhibitors). The samples were incubated for 30 min on an orbital shaker (100 rpm) at room temperature and finally centrifuged at 5000× 
+g
+for 10 min and the protein concentration was determined from the collected supernatant (
+
+). For starch extraction, the washed pellet after protein extraction was re-dissolved in 0.5 mL of water and the samples were heated at 100 
+◦
+C for 1.5 h. The dissolved starch was digested enzymatically using a mix of 
+α
+-amyloglucosidase and 
+α
+-amylase, according to manufacturer instructions. Starch concentration was determined based on a calibration curve of a standard glucose (
+
+).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4.5. Metabolite annotation and identification
+</title>
+         <p>
+For UPLC/MS data, it is often difficult to fully identify compounds without having commercially available authentic standards. Owing to the non-availability of authentic standards for gingerol-related compounds, as well as other ginger metabolites, annotation of the detected metabolite features from UPLC/MS metabolomics approach was based on accurate 
+m/z
+, retention time, isotope distribution and fragmentation pattern (
+
+; 
+
+). The metabolite information was searched against public databases (METLIN, Chem-Spider, KEGG, PubChem, MassBank, HMDB, KNApSAcK, Metabolomics. jp, Metabolomics workbench). Some compounds such as gingerols and shogaols were identified based on comparison with commercially available standards. Metabolite features from positive and negative ionization modes were merged into one dataset (Calder´on-Santiago et al., 2016). Metabolite features that are derived from the same compound were grouped based on 5 ppm tolerance of the mass difference, 0.05 min tolerance of retention time and
+&gt;
+0.9 correlation coefficient between the metabolite features across all the samples. For GC-MS data analysis, chromatograms were exported from Leco® ChromaTOF-GC Software v3.34 to R software (www.r-project.org). Peak detection, retention time alignment and library matching were performed using the Target Search R package (
+
+).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4.6. Data analysis
+</title>
+         <p>
+The chromatograms obtained from the analyzed samples were evaluated and aligned to obtain a data matrix of all tested samples. In addition, metabolite features were grouped according to accurate mass difference, retention time, and correlation between metabolite features across all samples. The data analysis obtained from either UPLC-C 
+8
+-FT-MS/MS or UPLC-C 
+18
+-FT-MS/MS was performed using the Progenesis QI software package (Progenesis QI Version 2.2, Nonlinear Dynamics, 
+Newcastle
+, 
+UK
+). The resulted UPLC or GC matrices were imported into Microsoft Excel (Excel, 2010; Microsoft, Redmond, 
+USA
+). Only compounds with at least five-fold higher intensity in comparison to the blank peaks were further considered for analysis. Compounds that showed missing values in more than two of the five biological replicates were excluded. Metabolite data obtained were normalized by weight, followed by using internal standard normalization. All statistical analyses were performed using the algorithms embedded within Microsoft excel. Bar graphs were plotted using either Excel or Sigma Plot 12.5 (http://www.sigmaplot.co.uk).
+</p>
+         <p>
+In addition, MVDA such as principal component analysis (PCA) was conducted to evaluate the obtained results and to exclude outliers. Also, orthogonal projections to latent structures discriminant analysis (OPLS-DA) was applied to determine several markers that are distinct in dried samples. Furthermore, variable importance in the projection (VIP) scores, which is an estimation of the importance of each variable in the projection used PLS-DA. Variables with a VIP score of ≥1 were considered important. VIP scores were extracted for components 1 and 2 since they accounted for about 80% of the total variance. MVDA was performed using SIMCA-P Version 13.0 (Umetrics, Umeå, 
+Sweden
+) and Metaboanalyst 3.0 (
+
+), following log 
+2
+-transformation and Pareto scaling (centered mean is divided by the square root of the SD of each variable).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4.7. Quantitative determination of [6]-gingerol and [6]-shogaol
+</title>
+         <p>
+To evaluate the absolute [6]-gingerol and [6]-shogaol concentrations in fresh ginger samples, different extraction solvents were applied followed by UPLC/MS/MS analysis. Aliquots (
+50 mg
+each) of the tested samples were extracted with 1 mL of either; water, 25% MeOH, 50% MeOH, 75% MeOH, 100% MeOH, acetonitrile, ethyl acetate, MTBE, or isopropanol. The hot water extraction was performed by adding the hot water (80 
+◦
+C) to ginger samples and the extraction was kept at 80 
+◦
+C for 30 min. For extraction, the samples were vortexed quickly, incubated on an orbital shaker for 30 min, sonicated for 10 min and finally centrifuged at 10,000× 
+g
+for 10 min. Standard dilution series of [6]-gingerol and [6]- shogaol were prepared in 50% MeOH/H 
+2
+O in the range of 0–10 μg/mL for calibration curve construction.
+</p>
+         <p>
+The
+samples and standards were separated by a RP-UPLC system (
+Waters Acquity
+UPLC system, 
+Waters
+®, 
+Manchester
+, UK). A high strength silica (HSS) T3 column (
+100 mm
+× 
+2.1 mm
+containing 1.8 μm diameter particles, 
+Waters
+®, 
+Manchester
+, 
+UK
+) fitted with 2.1 × 
+5 mm
+guard column (ACQUITY UPLC HSS T3 
+VanGuard Pre-column
+, 100 Å, 1.8 μm, 
+Waters
+®, 
+Manchester
+, UK) was used. 
+The
+gradient parameters for RP-UPLC were as follows: 80% eluent A (aqueous 0.1% formic acid) for 6.5 min, 45% B (0.1% formic acid in methanol) from 6.5 to 7 min; 10% A from 7 to 7.1 min, held at 0% A from 7.1 to 8.1 min, returned back to initial the conditions by 8.1 min. 
+Finally
+, the column was re-equilibrated and conditioned to 80% A from 8.1 to 10 min. 
+The
+column temperature was set at 40 
+◦
+C, the flow rate was 0.4 μL/min, the autosampler temperature was set at 10 
+◦
+C, and the injection volume was 7.5 μL. 
+Moreover
+, the MS/MS analysis following the UPLC step was achieved using a quadrupole/ 
+linear ion trap
+(QLIT) mass analyzer (4000 QTRAP, 
+AB Sciex
+Germany GmbH, 
+Darmstadt
+, 
+Germany
+) in multiple reaction monitoring (MRM) scan 
+type
+equipped with an electrospray ionization source (
+Turbo V
+™ 
+Ion Source
+, 
+AB Sciex
+). 
+The
+operating parameters for MS/MS analysis were as follows: ion polarity; positive, ion source; 
+Turbo
+spray, capillary ion spray voltage; 5.5 kV, probe tip position; 
+5 mm
+, source temperature; 500 
+◦
+C, carrier gas; nitrogen, curtain gas; 25 psi, nebulizing gas (GS1) and focusing gas (GS2); 40 psi, interface heater. 
+Furthermore
+, 
+Analyst
+software (version 1.6.2, 
+AB Sciex
+) was used for instrument control next to data acquisition, processing, and analysis (
+
+, 2020b).
+</p>
+         <p>
+Declaration of competing interest
+</p>
+         <p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p>
+         <p>
+Acknowledgment
+</p>
+         <p>MAS is supported by the Academy of Scientific Research and Technology (ASRT-Egypt) under the Joint ASRT-BA Research Grants Program (Grant Number: 1044). ARF and SA are supported by the European Union’ s Horizon 2020 research and innovation programme, project PlantaSYST (SGA-CSA No. 739582 under FPA No. 664620).</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+Appendix A. Supplementary data
+</title>
+         <p>Supplementary data to this article can be found online at https://doi. org/10.1016/j.phytochem.2021.112843.</p>
+         <p>
+Author contribution
+</p>
+         <p>M.A.S and P.G. conceived and designed the research. M.A.S performed the experiments. M.A.S, A.Z., S.A. and A.R.F. analyzed the data and performed the statistical analysis. M.A.S., A.Z., A.R.F. and P.G. wrote the manuscript. All the authors read and approved the manuscript after critical revision.</p>
+      </sec>
+      <sec sec-type="reference_group">
+         <title>
+References
+</title>
+         <ref-list>
+            <ref>
+               <mixed-citation>
+Abdel-Salam, O.M.
+, 
+Youness, E.R.
+, 
+Mohammed, N.A.
+, 
+Morsy, S.M.
+, 
+Omara, E.A.
+, 
+Sleem, A.A.
+, 
+2014
+. 
+Citric acid effects on brain and liver oxidative stress in lipopolysaccharide-treated mice
+. 
+J. Med. Food
+17
+(
+5
+), 
+588–598
+. 
+https://doi.org/ 10.1089/jmf.2013.0065
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Ali, B.H.
+, 
+Blunden, G.
+, 
+Tanira, M.O.
+, 
+Nemmar, A.
+, 
+2008
+. 
+
+Some phytochemical, pharmacological and toxicological properties of ginger (
+Zingiber officinale
+Roscoe): a review of recent research
+
+. 
+Food Chem. Toxicol.
+46
+(
+2
+), 
+409–420
+. 
+https://doi.org/ 10.1016/j.fct.2007.09.085
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Asamenew, G.
+, 
+Kim, H.-W.
+, 
+Lee, M.-K.
+, 
+Lee, S.-H.
+, 
+Kim, Y.J.
+, 
+Cha, Y.-S.
+, 
+Kim, J.-B.
+, 
+2018
+. 
+
+Characterization of phenolic compounds from normal ginger (
+Zingiber officinale
+Rosc.) and black ginger (
+Kaempferia parviflora
+Wall.) using UPLC–DAD–QToF–MS
+
+. 
+Eur. Food Res. Technol.
+245
+(
+3
+), 
+653–665
+. 
+https://doi.org/10.1007/s00217-018- 3188-z
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Bailey-Shaw, Y.A.
+, 
+Williams, L.A.
+, 
+Junor, G.A.
+, 
+Green, C.E.
+, 
+Hibbert, S.L.
+, 
+Salmon, C.N.
+, 
+Smith, A.M.
+, 
+2008
+. 
+
+Changes in the contents of oleoresin and pungent bioactive principles of Jamaican ginger (
+Zingiber officinale
+Roscoe.) during maturation
+
+. 
+J. Agric. Food Chem.
+56
+(
+14
+), 
+5564–5571
+. 
+https://doi.org/10.1021/jf072782m
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Bourdoux, S.
+, 
+Li, D.
+, 
+Rajkovic, A.
+, 
+Devlieghere, F.
+, 
+Uyttendaele, M.
+, 
+2016
+. 
+Performance of drying technologies to ensure microbial safety of dried fruits and vegetables
+. 
+Compr. Rev. Food Sci. Food Saf.
+15
+(
+6
+), 
+1056–1066
+. 
+https://doi.org/10.1111/1541- 4337.12224
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Calder´on-Santiago, M., Fern´andez-Peralbo, 
+M.A
+., 
+Priego-Capote, F.
+, 
+Luque de Castro, M. D.
+, 
+2016
+. 
+MSCombine: a tool for merging untargeted metabolomic data from highresolution mass spectrometry in the positive and negative ionization modes
+. 
+Metabolomics
+12
+(
+3
+). 
+https://doi.org/10.1007/s11306-016-0970-4
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Ciecierska, M.
+, 
+Derewiaka, D.
+, 
+Kowalska, J.
+, 
+Majewska, E.
+, 
+Druzynska, B.
+, 
+Wolosiak, R.
+, 
+2019
+. 
+Effect of mild roasting on Arabica and Robusta coffee beans contamination with polycyclic aromatic hydrocarbons. J
+. 
+Food Sci. Technol.
+56
+(
+2
+), 
+737–745
+. 
+https://doi.org/10.1007/s13197-018-3532-0
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Cragg, G.M.
+, 
+Newman, D.J.
+, 
+2013
+. 
+Natural products: a continuing source of novel drug leads
+. 
+Biochim. Biophys. Acta
+1830
+(
+6
+), 
+3670–3695
+. 
+https://doi.org/10.1016/j. bbagen.2013.02.008
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Cuadros-Inostroza, A.
+, 
+Caldana, C.
+, 
+Redestig, H.
+, 
+Kusano, M.
+, 
+Lisec, J.
+, 
+Pena-Cortes, H.
+, 
+Hannah, M.A.
+, 
+2009
+. 
+TargetSearch-a Bioconductor package for the efficient preprocessing of GC-MS metabolite profiling data
+. 
+BMC Bioinf.
+10
+, 
+428
+. 
+https://doi. org/10.1186/1471-2105-10-428
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Dahl-Lassen, R.
+, 
+van Hecke, J.
+, 
+Jorgensen, H.
+, 
+Bukh, C.
+, 
+Andersen, B.
+, 
+Schjoerring, J.K.
+, 
+2018
+. 
+High-throughput analysis of amino acids in plant materials by single quadrupole mass spectrometry
+. 
+Plant Methods
+14
+(
+1
+), 
+8
+. 
+https://doi.org/10.1186/ s13007-018-0277-8
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Dugasani, S.
+, 
+Pichika, M.R.
+, 
+Nadarajah, V.D.
+, 
+Balijepalli, M.K.
+, 
+Tandra, S.
+, 
+Korlakunta, J. N.
+, 
+2010
+. 
+Comparative antioxidant and anti-inflammatory effects of [6]-gingerol, [8]-gingerol, [10]-gingerol and [6]-shogaol. J
+. 
+Ethnopharmacol.
+127
+(
+2
+), 
+515–520
+. 
+https://doi.org/10.1016/j.jep.2009.10.004
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Farag, M.A.
+, 
+El-Ahmady, S.H.
+, 
+Elian, F.S.
+, 
+Wessjohann, L.A.
+, 
+2013
+. 
+
+Metabolomics driven analysis of artichoke leaf and its commercial products 
+via
+UHPLC-q-TOF-MS and chemometrics
+
+. 
+Phytochemistry
+95
+, 
+177–187
+. 
+https://doi.org/10.1016/j. phytochem.2013.07.003
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Farag, M.A.
+, 
+Elsebai, M.F.
+, 
+Khattab, A.R.
+, 
+2018
+. 
+Metabolome based classification of artichoke leaf: a prospect for phyto-equivalency of its different leaf origins and commercial preparations. J. Pharmaceut
+. 
+Biomed. Anal.
+158
+, 
+151–159
+. 
+https://doi. org/10.1016/j.jpba.2018.05.046
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Farag, M.A.
+, 
+Hegazi, N.
+, 
+Dokhalahy, E.
+, 
+Khattab, A.R.
+, 
+2020
+. 
+Chemometrics based GC-MS aroma profiling for revealing freshness, origin and roasting indices in saffron spice and its adulteration
+. 
+Food Chem.
+331
+, 
+127358
+. 
+https://doi.org/10.1016/j. foodchem.2020.127358
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Fayek, N.M.
+, 
+Farag, M.A.
+, 
+Abdel Monem, A.R.
+, 
+Moussa, M.Y.
+, 
+Abd-Elwahab, S.M.
+, 
+El-Tanbouly, N.D.
+, 
+2019
+. 
+Comparative Metabolite profiling of four citrus peel cultivars via ultra-performance liquid chromatography coupled with quadrupole-time-offlight-mass spectrometry and multivariate data analyses
+. 
+J. Chromatogr. Sci.
+57
+(
+4
+), 
+349–360
+. 
+https://doi.org/10.1093/chromsci/bmz006
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Fitzgerald, M.
+, 
+Heinrich, M.
+, 
+Booker, A.
+, 
+2019
+. 
+Medicinal Plant Analysis: a Historical and regional discussion of emergent complex techniques
+. 
+Front. Pharmacol.
+10
+, 
+1480
+. 
+https://doi.org/10.3389/fphar.2019.01480
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Ghisoni, S.
+, 
+Lucini, L.
+, 
+Rocchetti, G.
+, 
+Chiodelli, G.
+, 
+Farinelli, D.
+, 
+Tombesi, S.
+, 
+Trevisan, M.
+, 
+2020
+. 
+
+Untargeted metabolomics with multivariate analysis to discriminate hazelnut (
+Corylus avellana
+L.) cultivars and their geographical origin
+
+. 
+J. Sci. Food Agric.
+100
+(
+2
+), 
+500–508
+. 
+https://doi.org/10.1002/jsfa.9998
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Gong, F.
+, 
+Fung, Y.S.
+, 
+Liang, Y.Z.
+, 
+2004
+. 
+Determination of volatile components in ginger using gas chromatography-mass spectrometry with resolution improved by data processing techniques
+. 
+J. Agric. Food Chem.
+52
+(
+21
+), 
+6378–6383
+. 
+https://doi.org/ 10.1021/jf040102z
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Govindarajan, V.S.
+, 
+1982
+. 
+Ginger–chemistry, technology, and quality evaluation: part 1
+. 
+Crit. Rev. Food Sci. Nutr.
+17
+(
+1
+), 
+1–96
+. 
+https://doi.org/10.1080/ 10408398209527343
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Heinrich, M.
+, 
+2015
+. 
+Quality and safety of herbal medical products: regulation and the need for quality assurance along the value chains
+. 
+Br. J. Clin. Pharmacol.
+80
+(
+1
+), 
+62–66
+. 
+https://doi.org/10.1111/bcp.12586
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Jiang, H.
+, 
+Xie, Z.
+, 
+Koo, H.J.
+, 
+McLaughlin, S.P.
+, 
+Timmermann, B.N.
+, 
+Gang, D.R.
+, 
+2006
+. 
+
+Metabolic profiling and phylogenetic analysis of medicinal 
+Zingiber
+species: tools for authentication of ginger (
+Zingiber officinale
+Rosc)
+
+. 
+Phytochemistry
+67
+(
+15
+), 
+1673–1685
+. 
+https://doi.org/10.1016/j.phytochem.2005.08.001
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Jiang, Y.
+, 
+Liao, Q.
+, 
+Zou, Y.
+, 
+Liu, Y.
+, 
+Lan, J.
+, 
+2017
+. 
+
+Transcriptome analysis reveals the genetic basis underlying the biosynthesis of volatile oil, gingerols, and diarylheptanoids in ginger (
+Zingiber officinale
+Rosc.)
+
+. 
+Botanical Studies
+58
+(
+1
+), 
+41
+. 
+https://doi.org/10.1186/s40529-017-0195-5
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Jung, M.Y.
+, 
+Lee, M.K.
+, 
+Park, H.J.
+, 
+Oh, E.B.
+, 
+Shin, J.Y.
+, 
+Park, J.S.
+, 
+Choi, D.S.
+, 
+2018
+. 
+Heat-induced conversion of gingerols to shogaols in ginger as affected by heat type (dry or moist heat), sample type (fresh or dried), temperature and time
+. 
+Food Science and Biotechnology
+27
+(
+3
+), 
+687–693
+. 
+https://doi.org/10.1007/s10068-017-0301-1
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Koo, Y.E.
+, 
+Song, J.
+, 
+Bae, S.
+, 
+2018
+. 
+Use of plant and herb derived medicine for therapeutic usage in cardiology
+. 
+Medicine
+5
+(
+2
+), 
+38
+. 
+https://doi.org/10.3390/ medicines5020038
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Kubra, I.R.
+, 
+Rao, L.J.
+, 
+2012
+. 
+
+An impression on current developments in the technology, chemistry, and biological activities of ginger (
+Zingiber officinale
+Roscoe)
+
+. 
+Crit. Rev. Food Sci. Nutr.
+52
+(
+8
+), 
+651–688
+. 
+https://doi.org/10.1080/10408398.2010.505689
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Li, D.
+, 
+Zhou, L.
+, 
+Wang, Q.
+, 
+He, Y.
+, 
+2018
+. 
+Determination of organic acids for quality evaluation in Coptis herbs by ion chromatography
+. 
+3 Biotech
+8
+(
+6
+), 
+285
+. 
+https://doi. org/10.1007/s13205-018-1300-5
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Liang, Q.
+, 
+Wang, C.
+, 
+Li, B.
+, 
+Zhang, A.H.
+, 
+2015
+. 
+Metabolic fingerprinting to understand therapeutic effects and mechanisms of silybin on acute liver damage in rat
+. 
+Phcog. Mag.
+11
+(
+43
+), 
+586–593
+. 
+https://doi.org/10.4103/0973-1296.160469
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Lisec, J.
+, 
+Schauer, N.
+, 
+Kopka, J.
+, 
+Willmitzer, L.
+, 
+Fernie, A.R.
+, 
+2006
+. 
+Gas chromatography mass spectrometry–based metabolite profiling in plants
+. 
+Nat. Protoc.
+1
+(
+1
+), 
+387
+. 
+https://doi.org/10.1038/nprot.2006.59
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Liu, K.
+, 
+Abdullah, A.A.
+, 
+Huang, M.
+, 
+Nishioka, T.
+, 
+Altaf-Ul-Amin, M.
+, 
+Kanaya, S.
+, 
+2017
+. 
+Novel Approach to classify plants based on metabolite-content similarity
+. 
+BioMed Res. Int.
+5296729
+. 
+https://doi.org/10.1155/2017/5296729
+, 2017.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Mais, E.
+, 
+Alolga, R.N.
+, 
+Wang, S.L.
+, 
+Linus, L.O.
+, 
+Yin, X.
+, 
+Qi, L.W.
+, 
+2018
+. 
+A comparative UPLC-Q/TOF-MS-based metabolomics approach for distinguishing Zingiber officinale Roscoe of two geographical origins
+. 
+Food Chem.
+240
+, 
+239–244
+. 
+https:// doi.org/10.1016/j.foodchem.2017.07.106
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Mao, Q.Q.
+, 
+Xu, X.Y.
+, 
+Cao, S.Y.
+, 
+Gan, R.Y.
+, 
+Corke, H.
+, 
+Beta, T.
+, 
+Li, H.B.
+, 
+2019
+. 
+
+Bioactive compounds and bioactivities of ginger (
+Zingiber officinale
+Roscoe)
+
+. 
+Foods
+8
+(
+6
+). 
+https://doi.org/10.3390/foods8060185
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Mohd Sahardi, N.F.N.
+, 
+Makpol, S.
+, 
+2019
+. 
+
+Ginger (
+Zingiber officinale
+Roscoe) in the prevention of ageing and degenerative diseases: review of current evidence
+
+. 
+Evid. base Compl. Alternative Med.: eCAM
+5054395
+. 
+https://doi.org/10.1155/2019/ 5054395
+, 2019.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Motawi, T.K.
+, 
+Hamed, M.A.
+, 
+Shabana, M.H.
+, 
+Hashem, R.M.
+, 
+Aboul Naser, A.F.
+, 
+2011
+. 
+Zingiber officinale acts as a nutraceutical agent against liver fibrosis
+. 
+Nutr. Metabol.
+8
+, 
+40
+. 
+https://doi.org/10.1186/1743-7075-8-40
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Negrin, A.
+, 
+Long, C.
+, 
+Motley, T.J.
+, 
+Kennelly, E.J.
+, 
+2019
+. 
+LC-MS metabolomics and chemotaxonomy of caffeine-containing holly (Ilex) species and related taxa in the Aquifoliaceae
+. 
+J. Agric. Food Chem.
+67
+(
+19
+), 
+5687–5699
+. 
+https://doi.org/10.1021/ acs.jafc.8b07168
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Nikkhah Bodagh, M.
+, 
+Maleki, I.
+, 
+Hekmatdoost, A.
+, 
+2019
+. 
+Ginger in gastrointestinal disorders: a systematic review of clinical trials
+. 
+Food Sci. Nutr.
+7
+(
+1
+), 
+96–108
+. 
+https://doi.org/10.1002/fsn3.807
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Ok, S.
+, 
+Jeong, W.S.
+, 
+2012
+. 
+
+Optimization of extraction conditions for the 6-Shogaol-rich extract from ginger (
+Zingiber officinale
+Roscoe)
+
+. 
+Preventive Nutrition and Food Science
+17
+(
+2
+), 
+166–171
+. 
+https://doi.org/10.3746/pnf.2012.17.2.166
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Pang, X.
+, 
+Cao, J.
+, 
+Wang, D.
+, 
+Qiu, J.
+, 
+Kong, F.
+, 
+2017
+. 
+
+Identification of Ginger (
+Zingiber officinale
+Roscoe) volatiles and localization of aroma-active constituents by gcolfactometry
+
+. 
+J. Agric. Food Chem.
+65
+(
+20
+), 
+4140–4145
+. 
+https://doi.org/10.1021/ acs.jafc.7b00559
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Prasad, S.
+, 
+Tyagi, A.K.
+, 
+2015
+. 
+Ginger and its constituents: role in prevention and treatment of gastrointestinal cancer
+. 
+Gastroenterology Research and Practice
+142979
+. 
+https://doi.org/10.1155/2015/142979
+, 2015.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Rasoanaivo, P.
+, 
+Wright, C.W.
+, 
+Willcox, M.L.
+, 
+Gilbert, B.
+, 
+2011
+. 
+Whole plant extracts versus single compounds for the treatment of malaria: synergy and positive interactions
+. 
+Malar. J.
+10
+, S 
+4
+. 
+https://doi.org/10.1186/1475-2875-10-S1-S4. Suppl 1(Suppl 1
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Razzaq, A.
+, 
+Sadia, B.
+, 
+Raza, A.
+, 
+Khalid Hameed, M.
+, 
+Saleem, F.
+, 
+2019
+. 
+Metabolomics: a way forward for crop improvement
+. 
+Metabolites
+9
+(
+12
+), 
+303
+. 
+https://doi.org/ 10.3390/metabo9120303
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Saha, A.
+, 
+Blando, J.
+, 
+Silver, E.
+, 
+Beltran, L.
+, 
+Sessler, J.
+, 
+DiGiovanni, J.
+, 
+2014
+. 
+
+6-Shogaol from dried ginger inhibits growth of prostate cancer cells both 
+in vitro
+and 
+in vivo
+through inhibition of STAT3 and NF-kappaB signaling
+
+. 
+Cancer Prevention Research
+(Philadelphia, Pa 
+7
+(
+6
+), 
+627–638
+. 
+https://doi.org/10.1158/1940-6207.CAPR-13- 0420
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Salem, M.A.
+, 
+Juppner, J.
+, 
+Bajdzienko, K.
+, 
+Giavalisco, P.
+, 
+2016
+. 
+Protocol: a fast, comprehensive and reproducible one-step extraction method for the rapid preparation of polar and semi-polar metabolites, lipids, proteins, starch and cell wall polymers from a single sample
+. 
+Plant Methods
+12
+(
+1
+), 
+45
+. 
+https://doi.org/10.1186/ s13007-016-0146-2
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Salem, M.A.
+, 
+Perez de Souza, L.
+, 
+Serag, A.
+, 
+Fernie, A.R.
+, 
+Farag, M.A.
+, 
+Ezzat, S.M.
+, 
+Alseekh, S.
+, 
+2020
+a. 
+Metabolomics in the context of plant natural products research: from sample preparation to metabolite analysis
+. 
+Metabolites
+10
+(
+1
+). 
+https://doi.org/ 10.3390/metabo10010037
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Salem, M.A.
+, 
+Yoshida, T.
+, 
+Perez de Souza, L.
+, 
+Alseekh, S.
+, 
+Bajdzienko, K.
+, 
+Fernie, A.R.
+, 
+Giavalisco, P.
+, 
+2020
+b. 
+An improved extraction method enables the comprehensive analysis of lipids, proteins, metabolites and phytohormones from a single sample of leaf tissue under water-deficit stress
+. 
+Plant J.
+103
+, 
+1614–1632
+. 
+https://doi.org/ 10.1111/tpj.14800
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Schymanski, E.L.
+, 
+Jeon, J.
+, 
+Gulde, R.
+, 
+Fenner, K.
+, 
+Ruff, M.
+, 
+Singer, H.P.
+, 
+Hollender, J.
+, 
+2014
+. 
+Identifying small molecules via high resolution mass spectrometry: communicating confidence
+. 
+Environ. Sci. Technol.
+48
+(
+4
+), 
+2097–2098
+. 
+https://doi. org/10.1021/es5002105
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Selvam, A.B.
+, 
+2010
+. 
+Is the term substitution relevant to Pharmacognosy and/or vegetable crude drug industry?
+Pharmacogn. Res.
+2
+(
+5
+), 
+323–324
+. 
+https://doi.org/10.4103/ 0974-8490.72333
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Semwal, R.B.
+, 
+Semwal, D.K.
+, 
+Combrinck, S.
+, 
+Viljoen, A.M.
+, 
+2015
+. 
+Gingerols and shogaols: important nutraceutical principles from ginger
+. 
+Phytochemistry
+117
+, 
+554–568
+. 
+https://doi.org/10.1016/j.phytochem.2015.07.012
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Sen, T.
+, 
+Samanta, S.K.
+, 
+2015
+. 
+Medicinal plants, human health and biodiversity: a broad review
+. 
+Adv. Biochem. Eng. Biotechnol./Biotechnology
+147
+, 
+59–110
+. 
+https://doi. org/10.1007/10_2014_273
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Serag, A.
+, 
+Baky, M.H.
+, D¨oll, S., 
+Farag, M.A.
+, 
+2020
+. 
+UHPLC-MS metabolome based classification of umbelliferous fruit taxa: a prospect for phyto-equivalency of its different accessions and in response to roasting
+. 
+RSC Adv.
+10
+(
+1
+), 
+76–85
+. 
+https://doi. org/10.1039/c9ra07841j
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Sharifi-Rad, M.
+, 
+Varoni, E.M.
+, 
+Salehi, B.
+, 
+Sharifi-Rad, J.
+, 
+Matthews, K.R.
+, 
+Ayatollahi, S.A.
+, 
+Rigano, D.
+, 
+2017
+. 
+
+Plants of the genus 
+zingiber
+as a source of bioactive phytochemicals: from tradition to pharmacy
+
+. 
+Molecules
+22
+(
+12
+), 
+2145
+. 
+https://doi. org/10.3390/molecules22122145
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Simmler, C.
+, 
+Graham, J.G.
+, 
+Chen, S.N.
+, 
+Pauli, G.F.
+, 
+2018
+. 
+Integrated analytical assets aid botanical authenticity and adulteration management
+. 
+Fitoterapia
+129
+, 
+401–414
+. 
+https://doi.org/10.1016/j.fitote.2017.11.017
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Son, S.Y.
+, 
+Kim, N.K.
+, 
+Lee, S.
+, 
+Singh, D.
+, 
+Kim, G.R.
+, 
+Lee, J.S.
+, 
+Lee, C.H.
+, 
+2016
+. 
+Metabolite fingerprinting, pathway analyses, and bioactivity correlations for plant species belonging to the Cornaceae, Fabaceae, and Rosaceae families
+. 
+Plant Cell Rep.
+35
+(
+9
+), 
+1917–1931
+. 
+https://doi.org/10.1007/s00299-016-2006-y
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Sumner, L.W.
+, 
+Amberg, A.
+, 
+Barrett, D.
+, 
+Beale, M.H.
+, 
+Beger, R.
+, 
+Daykin, C.A.
+, 
+Viant, M.R.
+, 
+2007
+. 
+Proposed minimum reporting standards for chemical analysis chemical analysis working group (CAWG) metabolomics standards initiative (MSI)
+. 
+Metabolomics
+3
+(
+3
+), 
+211–221
+. 
+https://doi.org/10.1007/s11306-007-0082-2
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Upton, R.
+, 
+David, B.
+, 
+Gafner, S.
+, 
+Glasl, S.
+, 
+2019
+. 
+Botanical ingredient identification and quality assessment: strengths and limitations of analytical techniques
+. 
+Phytochemistry Rev.
+19
+, 
+1157–1177
+. 
+https://doi.org/10.1007/s11101-019-09625-z
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Usp41
+, 
+2018
+. 
+Dietary Supplement
+, 
+5
+, pp. 
+4650–4657
+page 
+8170 – 8173
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Wink, M.
+, 
+2015
+. 
+Modes of action of herbal medicines and plant secondary metabolites
+. 
+Medicine
+2
+(
+3
+), 
+251–286
+. 
+https://doi.org/10.3390/medicines2030251
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Xia, J.
+, 
+Sinelnikov, I.V.
+, 
+Han, B.
+, 
+Wishart, D.S.
+, 
+2015
+. 
+MetaboAnalyst 3.0-making metabolomics more meaningful
+. 
+Nucleic Acids Res.
+43
+(W 
+1
+), W251–W257. 
+https:// doi.org/10.1093/nar/gkv380
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+You, H.
+, 
+Ireland, B.
+, 
+Moeszinger, M.
+, 
+Zhang, H.
+, 
+Snow, L.
+, 
+Krepich, S.
+, 
+Takagawa, V.
+, 
+2019
+. 
+Determination of bioactive nonvolatile ginger constituents in dietary supplements by a rapid and economic HPLC method: analytical method development and single-laboratory validation
+. 
+Talanta
+194
+, 
+795–802
+. 
+https://doi.org/10.1016/j. talanta.2018.10.075
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Yudthavorasit, S.
+, 
+Wongravee, K.
+, 
+Leepipatpiboon, N.
+, 
+2014
+. 
+
+Characteristic fingerprint based on gingerol derivative analysis for discrimination of ginger (
+Zingiber officinale
+) according to geographical origin using HPLC-DAD combined with chemometrics
+
+. 
+Food Chem.
+158
+, 
+101–111
+. 
+https://doi.org/10.1016/j.foodchem.2014.02.086
+.
+</mixed-citation>
+            </ref>
+         </ref-list>
+      </sec>
+   </body>
+</article>

@@ -1,0 +1,3939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:tp="http://www.plazi.org/taxpub">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="other">N/A</journal-id>
+         <journal-title-group>
+            <journal-title>Phytochemistry</journal-title>
+         </journal-title-group>
+         <issn>N/A</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1016/j.phytochem.2020.112436</article-id>
+         <title-group>
+            <article-title>Transcriptional response of giant reed (Arundo donax L.) low ecotype to long-term salt stress by unigene-based RNAseq</article-title>
+         </title-group>
+         <pub-date date-type="pub">
+            <day>30</day>
+            <month>09</month>
+            <year>2020</year>
+         </pub-date>
+         <kwd-group>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arundo donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arundo donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Poaceae</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arundo donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Poaceae</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arundo donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>A. donax morpho-biophysiological</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+S. italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Poaceae
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Oryza sativa
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Phragmites australis
+NHX
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arabidopsis
+NHX
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Oryza sativa
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Phragmites australis
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arabidopsis thaliana
+Sodium
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Oryza sativa
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Saccharum arundinaceum
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arabidopsis thaliana
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Setaria italica</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Pisum sativum
+RuBisCO
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Oryza sativa
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Saccharum arundinaceum
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arabidopsis thaliana
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Oryza sativa
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Japonica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Pisum sativum
+Rubisco
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+sativa
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arabidopsis thaliana
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Oryza
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arabidopsis thaliana
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Oryza sativa</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Ricinus communis
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arabidopsis thaliana
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Oryza brachyantha
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Setaria</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>italica</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>italica</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Ricinus
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+communis
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Oryza
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>brachyantha</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arabidopsis
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>thaliana</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Zea
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+mays
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>italica</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria
+italica
+alpha-1,4 glucan phosphorylase (Nr ID
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Poaceae
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arundo
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>A. thaliana</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arabidopsis thaliana
+CTR
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Mesembryanthemum crystallinum
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Arundo donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+A. donax
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Arundo donax</tp:taxon-name>
+            </kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="multiple">
+         <title>N/A</title>
+         <p>
+
+Transcriptional response of giant reed (
+<tp:taxon-name>
+Arundo donax
+</tp:taxon-name>
+L.) low ecotype to long-term salt stress by unigene-based RNAseq
+
+</p>
+         <p>
+
+Angelo 
+Sicilia
+, Danilo Fabrizio Santoro, Giorgio Testa, Salvatore Luciano Cosentino, Angela Roberta Lo Piero
+
+∗
+</p>
+         <p>
+Department of Agriculture, Food and Environment, University of Catania, Via Santa So
+fi 
+
+a 98, 95123, Catania, 
+Italy
+</p>
+         <p>
+ARTICLE
+INFO
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+ABSTRACT
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+The giant reed is a fast growing herbaceous non-food crop considered as eligible alternative energy source to reduce the usage of fossil fuels. Tolerance of this plant to abiotic stress has been demonstrated across a range of stressful conditions, thus allowing cultivation in marginal or poorly cultivated land in order not to compromise food security and to overcome land use controversies. In this work, we 
+de novo
+sequenced, assembled and analyzed the 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+low 
+G
+34 ecotype leaf transcriptome (RNAseq analysis) subjected to severe long-term salt stress (256.67 mM NaCl corresponding to 32 dS m 
+−1
+electric conductibility). In order to shed light upon the response to high salinity of this non model plant, we analyzed clusters related to salt sensory and signaling transduction, transcription factors, hormone regulation, Reactive Oxygen Species (ROS) scavenging and osmolyte biosynthesis, all of them showing different regulation compared to untreated plants. The analysis of clusters related to ethylene biosynthesis and signaling indicated that gene transcription is modulated towards the minimization of ethylene negative effects upon plant growth. Certainly, the photosynthesis is strongly affected since genes involved in Rubisco biosynthesis and assembly are down-regulated. However, a shift towards C4 photosynthesis is likely to occur as gene regulation is aimed to activate the primary CO 
+2
+fixation to PEP (phosphoenolpyruvate). The analysis of “carbon metabolism” category revealed that 
+G
+34 ecotype under salt stress induces the expression of glycolysis and Krebs cycle related genes, this being consistent with the hypothesis that some sort of salt avoidance might be occurred in 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+G
+34 low ecotype. By comparing our results with findings obtained with other giant reed ecotype, we identified several differences in the response to salt that are in accordance with the possibility that heritable phenotypic differences among clones of 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+might be accumulated especially in ecotypes originating from distant geographical areas, despite their asexual reproduction modality. Additionally, 26,838 simple sequence repeat (SSR) markers were identified and validated. This SSR dataset definitely expands the marker catalogue of 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+facilitating the genotypic characterization of this species.
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+Keywords:
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+            <tp:taxon-name>
+Arundo donax
+</tp:taxon-name>
+         </p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+            <tp:taxon-name>Poaceae</tp:taxon-name>
+         </p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+RNA-Seq 
+de novo
+assembly
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Giant reed</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Bioenergy crops</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Salt stress</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>Low ecotype</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>SSR</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+1. Introduction
+</title>
+         <p>
+The energy issue has become of fundamental importance in the last few decades and it represents an extremely complex problem to deal with due to a combination of different causes. Phenomena such as the demographic explosion recorded in the last century followed by a strong urbanization, as well as the improvement of the economic conditions of ever-wider groups of population led to a significant increase in global energy demand. The use of fossil fuels of organic origin and non-renewable energy sources became increasingly unsustainable from an environmental, political and economic point of view. For these reasons, many countries in the world, including the 
+United States
+(
+US
+) and the European Union (EU), have begun to develop new energy policies with the aim of using alternative and sustainable energy sources
+</p>
+         <p>
+Abbreviations:
+ABA, Abscisic acid; AUX/IAA, Auxin/indole acetic acid; CDS, coding sequence; DEGs, Differentially expressed genes; ERF, Ethylene responsive factor; GO, Gene ontology; JA, Jasmonic acid; KEGG, Kyoto encyclopedia of genes and genomes; KO, Ortholog database; KOG/COG, Clusters of orthologous groups of proteins; NCBI, National center for biotechnology information; Nr, NCBI non-redundant protein sequences; Nt, NCBI non-redundant nucleotide sequences; PEPC, Phosphoenolpyruvate carboxylase; PEPCK, phosphoenolpyruvate carboxykinase; Pfam, Protein family; qRT-PCR, Quantitative real-time PCR; RIN, RNA integrity number; Rubisco, ribulose-1,5-bisphosphate carboxylase/oxygenase; SOS, Salt overly sensitive; SSR, Simple sequence repeat; TFs, transcription factors; UTR region, untraslated region (REN21, 2016). Among the various renewable energy sources, the production of energy from biomass (bioenergy) is becoming increasingly important since it is one of the most widely available renewable sources on our planet. Second generation biofuels are produced from organic materials not intended for food use including perennial herbaceous plants and fast-growing trees. As cellulosic feedstocks cannot be produced on arable lands due to their competition with the cultivation of food crops, a recommended strategy is to grow them on “marginal lands”, overcoming risks for food security. The marginal lands are usually described as unproductive or unsuitable for crop production due to poor soil properties, bad quality underground water, drought, undesired topology and unfavorable climatic conditions (
+
+). Salt affected soils are also considered marginal due to high salinity and sodicity (
+
+). 
+<tp:taxon-name>
+Arundo donax
+</tp:taxon-name>
+L. (
+<tp:taxon-name>Poaceae</tp:taxon-name>
+), common name “giant cane” or “giant reed”, grows in soil rich in water, especially near channels, rivers, lakes, ponds and marshes, where it shows the maximum biomass yields. 
+<tp:taxon-name>
+Arundo donax
+</tp:taxon-name>
+L. was studied in sufficient depth, in terms of biomass production potential in warm-temperate and semi-arid areas (
+
+; 
+
+). The adaptability of the plants to different kinds of environments, soils and growing conditions, in combination with the high biomass production confers on 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+many advantages when compared to other energy crops. The desirable traits include aspects of crop phenology, canopy and leaf photosynthesis, biomass partitioning, nutrient and water use efficiency and heat, cold and salt tolerance (
+
+). In particular, the growth and physiological responses of giant cane to salinity (NaCl) have been evaluated across a range of salinities (0–42 dS m 
+−1
+) (
+
+). Classic growth analysis showed&gt; 80% reduction in overall growth at the highest salt concentration, and the plants at 40 dS m 
+−1
+grew without chlorosis, maintaining net assimilation rates 7–12 μmol m 
+−2
+s 
+−1
+, confirming that 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+is a halophyte plant (
+
+; 
+
+). Salinity is one of the most brutal environmental stresses that hamper crop productivity worldwide (
+
+; 
+
+; 
+
+). It impairs plant growth and development via water stress, cytotoxicity due to excessive uptake of ions such as sodium (Na 
++
+) and chloride (Cl 
+−
+), and nutritional imbalance (
+
+). Additionally, salinity is typically accompanied by oxidative stress due to the generation of reactive oxygen species (ROS) (
+
+; 
+
+; 
+
+). Plants develop various physiological and biochemical mechanisms in order to survive in soils with high salt concentration. Principle mechanisms include ion homeostasis and compartmentalization, ion transport and uptake, biosynthesis of osmoprotectants and compatible solutes, activation of antioxidant enzymes and synthesis of antioxidant compounds, synthesis of polyamines, generation of nitric oxide (NO), and hormone modulation (
+
+). Nevertheless, decoding of salt stress response mechanisms in plants remains restricted due to the complexity of the response process and the genetic variability among plant species. Moreover, our knowledge of the genetic bases of salt tolerance is largely based on genetic studies in model or crop species (
+
+). 
+De novo
+RNA sequencing (RNA-Seq) assembly facilitates the study of transcriptomes for non-model plant species for which the genome sequence is not available by enabling an almost exhaustive survey of their transcriptomes and allowing the discovery of virtually all expressed genes in a plant tissue under abiotic stress. In 2019, the first transcriptome of 
+G
+2 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+ecotype subjected to two levels (
+S
+3, severe and 
+S
+4, extreme) of long-term salt stress has been reported (
+
+). A deeper re-programming of the gene expression has been found in those plants grew at extreme salt level than in those subjected to severe salt stress, probably representing for them an “ 
+emergency
+” state, considering that in the highest salt treatment, the Na 
++
+concentration was very close to that of seawater. That study allowed identifying several expressed genes that could be preferential targets for functional studies, for metabolic engineering or for tailoring growth habit/development of the giant reed to higher bioenergy yield (
+
+).
+</p>
+         <p>
+Because of its sterility, 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+has developed asexual vegetative reproduction, allowing its rapid spread throughout the world. New plants can be generated every year directly from rhizomes and for this reason, genetic diversity has been very low, as expected for an agamicreproducing plant (
+
+). Regarding the genotypic diversity among clonal populations sampled in different regions, data reveal moderate differences (
+
+; 
+
+; 
+
+). A likely explanation for different levels of variation reported in different regions could be the use of particular 
+type
+of molecular markers to detect genotypic variation, e.g., ISSRs detect more polymorphic bands per primer than RAPDs (
+
+; 
+
+), and the fact that ploidy levels may vary among regions. 
+
+conducted a genetic analysis on 100 Italian clones using SSR markers with the aim of characterizing the population of 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+on Italian territory. They observed quite a low genetic diversity among the clones although suggested the presence of three distinct populations. All these studies suggest that, despite the expected and reported low genetic diversity, genetic and phenotypic differences might be accumulated among ecotypes due to their different geographic origin and distribution. Heritable phenotypic differences among clones of 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+have been reported that could be explored to improve several plant characteristics such as number of culms, culm diameter and height (
+
+). For these reasons, the genetic improvement of this plant, aiming to obtain better performance as an energy crop in several conditions, needs to be mainly based on clonal selection. For the same reasons a deep knowledge of the global transcriptomic response of different giant reed ecotypes to salt is needed that might lead to the discovery of still unidentified candidate genes to employ in genome editing experiments. In this work, considering the frequent occurrence of soil salinity in the Mediterranean area and the potential use of marginal soil for energy crop cultivation, we 
+de novo
+sequenced, assembled and analyzed the 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+low 
+G
+34 ecotype leaf transcriptome (RNAseq analysis) subjected to severe long-term salt stress (32 dS m-1). 
+G
+34 ecotype was chosen because it is normally lower than other ecotypes, this phenotypic characteristic probably being caused by genetic and epigenetic marks it has accumulated from its origin on.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2. Results
+</title>
+         <p>
+2.1. E
+ff 
+
+ect of salt stress upon 
+<tp:taxon-name>A. donax morpho-biophysiological</tp:taxon-name>
+parameters
+
+</p>
+         <p>
+As described in the Experimental section, 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+G34 ecotype morpho-biometric and physiological parameters were measured at sampling date after being subjected to prolonged salt stress imposition (S3 samples). The results showed that both the leaf number per pot, the stem number and the main stem height per pot were reduced by salt stress (Supplementary 
+Figure S1a, S1b and S1c
+). Similarly, physiological parameters such as SPAD unit, net photosynthesis and biomass yield per pot significantly decreased under salt stress conditions (S3) compared with untreated S0 samples (Supplementary 
+Figure S1d, S1e and S1f
+) thus indicating the effectiveness of the treatment to induce gene expression reprogramming.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.2. Transcript assembly and annotation
+</title>
+         <p>
+In this study, we carried out a comprehensive identification of transcriptional responses of 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+G
+34 clone to prolonged severe salt stress by RNA-Seq (see experimental design in Experimental). Raw reads were filtered to remove reads containing adapters or reads of low quality, so that the downstream analyses are based on a total of 430 million clean reads with an average of ~71.5 million reads (~10.7 
+G
+) per sample, the average percentage of Q30 and GC being 94.3% and 54.3%, respectively (
+Table 1
+).
+</p>
+         <p>
+</p>
+         <p>
+De novo
+assembly of clean reads resulted in 273,717 transcripts and 193,070 unigenes with N50 length of 1957 and 1858, respectively (
+Table 1
+), in line with previous N50 reports (
+
+; 
+
+; 
+
+), indicating that a good coverage of the transcriptome has been achieved. To evaluate the assembly consistency, the filtered unique reads were mapped back to the final assembled leaf transcriptome and the average read mapping rate using the alignment software Bowtie 2 was 66.0%. (
+Table 1
+). Both transcript and Unigene length distributions are reported in Supplementary 
+Figure S2
+. These data showed that the throughput and sequencing quality were high enough to warrant further analysis.
+</p>
+         <p>
+To achieve comprehensive gene functional annotation, all assembled unigenes were blasted against public databases, including National Center for Biotechnology Information (NCBI), Protein family (Pfam), Clusters of Orthologous Groups of proteins (KOG/COG), SwissProt, Ortholog database (KO) and Gene Ontology (GO) (
+Table 2
+). A total of 105,782 unigenes were annotated in at least one searched database, accounting for 54.78% of the obtained total unigenes. Among them, 28,524 (14.77%) and 35,773 (18.53%) assembled unigenes showed identity with sequences in the Nr and Nt databases, respectively. The percentage of assembled unigenes homologous to sequences in KO, Swiss-Prot, Pfam, GO and KOG databases were 19.99, 30.17, 13.75, 38.76 and 16.25%, respectively (
+Table 2
+).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.3. Identi
+fi 
+cation of di
+ff 
+erentially expressed genes (DEGs)
+</title>
+         <p>
+The characterization of 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+transcriptional response to salt stress was carried out by the identification of the unigenes whose expression level changed upon NaCl treatment. A total of 1778 differentially expressed genes (DEGs) were identified from the 
+G
+34- 
+S
+3 vs 
+G
+34- CK comparison, 977 up-regulated genes and 801 down-regulated genes (
+Fig. 1
+). Validation of expression levels for ten selected DEG candidates was carried out by quantitative real-time PCR (qRT-PCR) and reported in 
+
+being part of the same sequencing project. The results show high congruence between RNA-Seq results and qRT-PCR (coefficient of determination R 
+2
+= 0.91) indicating the reliability of RNA-Seq quantification of gene expression (data not shown).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.4. Functional classi
+fi 
+cation of DEGs
+</title>
+         <p>
+Gene Ontology (GO) terms, Clusters of Orthologous Groups of proteins (KOG) classification and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway functional enrichment was performed to identify possible biological processes or pathways involved in salt stress response. Considering the 
+G
+34- 
+S
+3 vs 
+G
+34-CK sample set (
+Fig. 2
+), “oxidation-reduction process” (100 up- and 42 down-regulated genes), “transmembrane transport” (59 up- and 31 down-regulated genes) and “carbohydrate metabolic process” (33 up- and 20 down-regulated genes) are the three most enriched GO terms in the Biological Process (BP) ontology. “Oxidoreductase activity” (78 up- and 19 down-regulated genes) is the most enriched GO terms in the Molecular Function (MF) category indicating that genes acting in this process might play crucial roles in the response to salt treatment (
+Fig. 2
+). “Chloroplast” (9 up- and 3 down-regulated genes), “chloroplast part” (5 up- and 5 down-regulated genes), “chloroplast stroma” (2 up- and 11 down-regulated genes) and “chloroplast thylakoid” (1 up- and 7 down-regulated genes) are the most enriched GO terms in the Cellular Component ontology clearly indicating that this organelle is mainly involved under salt stress condition (
+Fig. 2
+).
+</p>
+         <p>
+To predict and classify possible functions, all unigenes were aligned to the KOG database and were assigned to the KOG categories. Among the KOG categories, the cluster for “general function” (16%) represented the largest group, followed by “posttranslational modification, protein turnover, chaperones” (13.4%) and “signal transduction mechanisms” (9.3%). “Translation, ribosomal structure and biogenesis” (8%), “RNA processing and modification” (6.4%) and “transcription” (5.6%) were the largest next categories (data not shown). The set of DEGs originated from 
+G
+34- 
+S
+3 vs 
+G
+34-CK comparison was also mapped onto KEGG pathways. Supplementary 
+Table S2
+shows the main forty KEGG pathway terms sorted by a decreasing gene number involved in the pathway. Overall, the results show that the maximum number of DEGs were observed in the “carbon metabolism” pathway, followed by the “starch and sucrose metabolism” and “biosynthesis of amino acids” indicating that a deep reprogramming of these metabolisms under severe salt treatment occurred as also suggested by the involvement of other related pathways such as “citrate cycle”, “carbon fixation”, “glycolysis/gluconeogenesis” and “pyruvate metabolism”. “Plant hormone signal transduction”, which comprises the transcripts of several hormone-responsive proteins involved in regulation and signal transduction and two other important pathways, including ‘phenylalanine metabolism’ and ‘plant-pathogen interaction’ were also found to be regulated by salt in our study (Supplementary 
+Table S2
+). Other examples of relevant pathways, which are known to be involved in responses to abiotic stresses in giant reed (
+
+), are “protein processing in endoplasmic reticulum”, “arginine and proline metabolism” and “oxidative phosphorylation” (Supplementary 
+Table S2
+).
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.5. Identi
+fi 
+cation of functional genes related to salt stress tolerance
+</title>
+         <p>
+To unravel the 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+G
+34 salt stress response, we analyzed the RNA-Seq datasets from the 
+G
+34- 
+S
+3 vs 
+G
+34-CK comparison, focusing on genes known to be related to soil salinity, from salt sensory and signal to the main downstream metabolisms that might be affected by salt (
+
+). Those clusters showing a threshold of ± 10.000 log 
+2
+fold change have been considered as DEGs (up- or down-regulated) in the 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+transcriptome (
+Table 3
+). 
+Table 3
+also shows that the majority of the 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+sequences aligned with high level of homology with those from related species 
+<tp:taxon-name>
+S. italica
+</tp:taxon-name>
+, confirming a high level of global sequence similarity within the 
+<tp:taxon-name>
+Poaceae
+</tp:taxon-name>
+family as indicated by Evangelistella and coworkers (2017).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.5.1. Salt sensory and signaling mechanisms
+</title>
+         <p>
+The analysis of different expressed genes between 
+G
+34- 
+S
+3 and 
+G
+34- CK revealed that homologous to 
+<tp:taxon-name>
+Oryza sativa
+</tp:taxon-name>
+(CBL-interacting protein kinases 1) CIPK1–SOS2-like is up-regulated in the salt treated samples, whereas genes homologous to the 
+<tp:taxon-name>
+Phragmites australis
+NHX
+</tp:taxon-name>
+1 and 
+<tp:taxon-name>
+Arabidopsis
+NHX
+</tp:taxon-name>
+2 (Na 
++
+/H 
++
+antiporters) are down regulated in response to severe 
+S
+3 salt stress (
+Table 3
+). CIPK1–SOS2-like protein is a serine/threonine protein kinase involved in the activation of plasma membrane Na 
++
+/H 
++
+antiporter (SOS1) which mediates the exclusion of Na 
++
+excess out of the cells. Consequently, the data suggest that the plant response to severe salt stress is likely to increase the activation upon the existing Na 
++
+/H 
++
+antiporter (SOS1) by the CIPK1–SOS2 like phosphorylating activity. The down regulation of NHXs indicates that the vacuolar sequestration of Na 
++
+excess seems to be impaired in the 
+G
+34 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+ecotype subjected to severe salt stress condition. A cluster coding for cation transporter to adjust the K 
++
+homeostasis (
+
+; 
+
+) such as HKT6 was found downregulated (
+
+; 
+
+), probably suggesting that the plasma membrane Na 
++
+/K 
++
+exchange as well is defective (
+Table 3
+).
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.5.2. Hormone regulation of salt stress response
+</title>
+         <p>
+We focused our attention on the main plant hormones involved in salt stress response, such as abscisic acid, brassinosteroid, ethylene, auxin/IAA and jasmonic acid (JA) (
+
+; 
+
+). Regarding the hormone regulation in 
+G
+34 ecotype (
+G
+34- 
+S
+3 vs 
+G
+34-CK) we found that genes involved in ethylene biosynthesis and regulation such as transcripts encoding ACC oxidase, namely the ethylene-forming enzyme (homolog of 
+<tp:taxon-name>
+Saccharum arundinaceum
+</tp:taxon-name>
+1- aminocyclopropane-1-carboxylate oxidase), and homolog of CTR1 (
+<tp:taxon-name>
+Arabidopsis thaliana
+</tp:taxon-name>
+serine/threonine-protein kinase), implicated in quenching the ethylene signal, are both up-regulated under salt stress (
+Table 3
+). Despite the importance of abscisic acid (ABA) in salt stress response, no genes involved in ABA biosynthesis, degradation or perception have been found differentially regulated. In addition, the components of auxin and jasmonic acid signal transduction and regulation do not result differentially regulated in salt stress conditions. As regards brassinosteroid, homolog of 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+cytochrome P450 710A1-like (LOC101770311), involved in steroids biosynthesis process (
+
+), is up-regulated indicating that brassinosteroid signaling increased in response to 
+S
+3 severe salt treatment (
+Table 3
+).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.5.3. ROS scavenging regulatory mechanisms
+</title>
+         <p>
+The analysis of 
+G
+34- 
+S
+3 vs 
+G
+34-CK revealed that, among the antioxidant enzymes, GST 23-like is up-regulated concordantly with GST role in salt stress relief (
+
+; 
+
+). 
+G
+34 ecotype also shows the down-regulation of superoxide dismutase [Fe] 
+2+
+thus suggesting that the “neutralization” of superoxide ions in the chloroplast is impaired (
+Table 3
+). However, homologs of 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+chloroplastic NADP 
++
+-dependent malic enzyme that catalyzes the oxidative decarboxylation of L-malate to yield pyruvate, CO 
+2
+and NADPH, and chloroplastic 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+malate dehydrogenase (MDH) were up-regulated under salt stress conditions (
+Table 3
+) suggesting that components of the “malate valve” are induced in response to severe salt stress (
+
+).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.5.4. Osmolyte biosynthesis
+</title>
+         <p>
+The accumulation of compatible osmolytes, such as proline, polyamines and sugar alcohols plays a key role in maintaining the low intracellular osmotic potential of plants and in preventing the harmful effects of salinity stress (
+
+; 
+
+; Gupta and Huang. 2014). In our study, 1-delta-pyrroline-5-carboxylate synthase (P5CS), the key enzyme of proline biosynthesis, was found up regulated in salt stressed samples (
+Table 3
+) suggesting that proline accumulation might represent a pivotal mechanism to overcome the hypersaline conditions and to adjust the osmotic status in 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+. Due to their cationic nature, polyamines can interact with proteins, nucleic acids, membrane phospholipids and cell wall constituents, either activating or stabilizing these molecules (
+
+; 
+
+). Considering the 
+G
+34- 
+S
+3 vs 
+G
+34-CK data set, a cluster encoding 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+polyamine oxidase 2 (polyamine degradative enzyme) is up-regulated suggesting that polyamines degradation is induced during long term salt stress in 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+, they having probably not a primary role in the salt tolerance mechanism in 
+G
+34 ecotype (
+Table 3
+).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.5.5. Photosynthesis and photorespiration
+</title>
+         <p>
+The analysis of 
+G
+34- 
+S
+3 vs 
+G
+34-CK DEGs reveals that homologs of large subunits of ribulose-1,5-bisphoshate carboxylase/oxygenase (Rubisco) is not represented neither in the up-regulated or in the down regulated clusters, whereas homolog of 
+<tp:taxon-name>
+Oryza sativa
+</tp:taxon-name>
+subsp. 
+<tp:taxon-name>
+Japonica
+</tp:taxon-name>
+Group Ribulose bisphosphate carboxylase small chain A is down regulated (
+Table 3
+). Furthermore, homologs of 
+<tp:taxon-name>
+Pisum sativum
+Rubisco
+</tp:taxon-name>
+large subunit-binding protein subunit alpha, required for the correct assembly of Rubisco, have been discovered among the down-regulated genes, indicating that the processes of Rubisco synthesis and assembly could be strongly affected under 
+S
+3 salt stress (
+Table 3
+). Moreover, clusters encoding glycolate oxidase (
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+peroxisomal (
+S
+)-2- hydroxy-acid oxidase, LOC101764130), which is a key enzyme of the glycolate recovery pathway induced by photorespiration, is up-regulated in 
+G
+34- 
+S
+3 vs 
+G
+34-CK comparison suggesting that CO 
+2
+assimilation via the C3 Calvin cycle might be impaired in favor of oxygen fixation through the photorespiration pathway (
+Table 3
+). This result is consistent with the decrease of net photosynthesis showed in Supplementary 
+Figure S1
+. However, homolog of 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+phosphoenolpyruvate carboxylase kinase (LOC101779241), that is a phosphoenolpyruvate carboxylase (PEPC) inactivating enzyme, was found 
+<tp:taxon-name>
+sativa
+</tp:taxon-name>
+ribulose bisphosphate carboxylase small chain A, and the 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+phosphoenolpyruvate carboxylase kinase (PEPC kinase) are differently regulated in both ecotypes. However, these clusters become differentially expressed in the 
+G
+2 ecotype at higher salt dose (extreme salt stress, 
+S
+4, 419.23 mM NaCl corresponding to 50 dS m 
+−1
+electric conductibility) thus indicating that 
+G
+34 ecotype senses the surrounding salt and modifies the related gene expression at lower concentration (severe salt stress, 
+S
+3, 256.67 mM NaCl corresponding to 32 dS m 
+−1
+electric conductibility).
+</p>
+         <p>
+down-regulated. PEPC forms oxaloacetate, a four-carbon dicarboxylic acid through the carboxylation of phosphoenolpyruvate (PEP) and is involved in carbon fixation process. Thus, giant reed 
+G
+34 ecotype responds to severe salt stress by tending to maximize the catalytic efficiency of PEPC (
+Table 3
+).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.5.6. Transcription factors
+</title>
+         <p>
+In our study, DEGs encoding TFs were identified and divided in 14 subfamilies, as showed in 
+Fig. 3
+, which reports the number of DEGs belonging to each subfamily. The results showed that under severe stress condition, an average of 9 TFs for each family are differently regulated. In particular, 21 DEGs belong to bHLH, 19 to WRKY and 16 to AUX/IAA families, respectively, indicating that they probably play a key role in regulating the changes of transcriptional regulation in response to salt (
+Fig. 3
+). A comparative analysis performed using the available database of rice transcription factors under salt stress led to the identification of 27 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+unigenes, corresponding to high confidence rice TF homologs previously identified as salt or salt/drought genes (
+Table S3
+) (
+
+). Probably because of the altered water potential under salt stress, the majority of these genes (26) are also responsive to drought. Only one gene is specifically responding to salt (Supplementary 
+Table S3
+), it belongs to the WRKY family and is strongly down-regulated.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+
+2.6. Comparison between 
+G
+34 and 
+G
+2 giant reed ecotypes
+
+</title>
+         <p>
+We also compared the aforementioned results with those obtained by the specular analysis performed upon the 
+G
+2 ecotype (
+
+). The results highlighted that there are three clusters, differentially expressed in the 
+G
+34- 
+S
+3 vs 
+G
+34-CK, which are also included in the 
+G
+2 ecotype DEG list (
+Table 4
+). In particular, clusters encoding the 
+<tp:taxon-name>
+Arabidopsis thaliana
+</tp:taxon-name>
+serine/threonine protein kinase CTR1, the 
+<tp:taxon-name>
+Oryza
+</tp:taxon-name>
+         </p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.7. Retrieval and analysis of genes targeted as “salt stress responsive”
+</title>
+         <p>
+The GO terms were further analyzed in order to retrieve clusters specifically involved in the salt stress response, thus excluding all transcripts also regulated by different abiotic stress, such as water deprivation, cold, heavy metals and oxidative stresses (geneontology.org/). All the retrieved clusters are also found to be involved in salt-induced osmotic stress according to the finding that levels of NaCl higher than 100–150 mM cause osmotic stress (
+
+). The results shown in 
+Table S4
+reveal that only 2 clusters, besides the one encoding the aforementioned WRKY, are specifically regulated by salt. The CBLinteracting protein kinase 1 (CIPK1–SOS2 like) has been found up-regulated (Supplementary 
+Table S4
+) thus suggesting that it actives specific signal transduction pathways under severe salt stress conditions. Instead, clusters related to cation transporter HKT6 is down regulated by severe salt stress treatment (Supplementary 
+Table S4
+), both results being already highlighted in 
+Table 3.
+</p>
+         <p>
+2.8. Identi
+fi 
+cation of functional genes related to “carbon metabolism” and
+</p>
+         <p>
+“starch and sucrose metabolism”
+</p>
+         <p>
+Since “carbon metabolism” and “starch and sucrose metabolism” are the most represented KEGG pathways, among the DEGs related to these pathways we searched for genes encoding enzymes involved in glycolysis and Krebs cycle (Table 5). In this further analysis, as detailed above, those clusters showing a threshold of ± 10.000 log 
+2
+fold change have been considered as DEGs (up- or down-regulated) in the 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+transcriptome. For each cluster, the alignment of 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+sequence has been performed and the score of these alignments was reported (% identity and 
+e
+value). Table 5 shows that homolog of 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+hexokinase-7 (HXK7), 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+ATP-dependent 6-phosphofructokinase 2 (PFK2), 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase, 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+glyceraldehyde-3- phosphate dehydrogenase 3 (GAPCP3) are strongly up-regulated under severe salt stress conditions. These clusters are all components of the glycolysis pathway where 
+HK
+generates the hexose phosphate pool of the plant cell, PFK catalyzes the conversion of fructose 6-phosphate (F6P) into fructose-1,6-bisphosphate (F1,6BP), and the last two clusters encode the enzymes involved in the steps of oxidation of glyceraldehyde 3-phosphate and the conversion of 3-phosphoglycerate into 2- phosphoglycerate and leading to phosphoenolpyruvate (PEP) (Table 5).
+</p>
+         <p>
+</p>
+         <p>
+Surprisingly, clusters related to 
+<tp:taxon-name>
+Ricinus communis
+</tp:taxon-name>
+chloroplastic pyruvate kinase isozyme A, catalyzing the irreversible synthesis of pyruvate and ATP, are strongly down regulated in salt stress condition thus indicating that probably an accumulation of PEP might occur to the detriment of pyruvate formation (Table 5). Moreover, homologs of 
+<tp:taxon-name>
+Arabidopsis thaliana
+</tp:taxon-name>
+dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex are up regulated under salt stress condition suggesting that acetyl CoA is actively produced in order to feed the downstream Krebs cycle. This hypothesis is supported by the fact that clusters encoding 
+<tp:taxon-name>
+Oryza brachyantha
+</tp:taxon-name>
+pyruvate dehydrogenase (acetyl-transferring) kinase, known to negatively regulate the pyruvate dehydrogenase activity by phosphorylation (
+
+), was found sharply downregulated (Table 5). Transcripts encoding most of the enzymes involved in the Krebs cycle (citrate synthase, isocitrate dehydrogenase, succinate dehydrogenase and fumarase) are up regulated in salt treated samples, unequivocally indicating that this pathway and its intermediate products assume a crucial role during the response of 
+G
+34 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+ecotype to severe salt stress (Table 5). Phosphoenolpyruvate carboxykinase (PEPCK) homologs (
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+) catalyzing the reversible conversion of oxaloacetate to phosphoenolpyruvate and CO 
+2
+was also strongly induced by salt stress probably leading to an increase of CO 
+2
+e PEP in the cytosol, where PEPCK appears to be exclusively located (
+
+; 
+
+; 
+
+). As regards the “starch and sucrose metabolism” pathway, genes involved in the starch biosynthesis such as 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+1,4-alpha-glucan-branching enzyme 2 and 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+glucose-1- phosphate adenylyltransferase large subunit have been found up-regulated in 
+G
+34- 
+S
+3 vs 
+G
+34-CK sample set and, the finding that clusters related to starch catabolism such as 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+alpha-1,4 glucan phosphorylase are also up regulated is probably related to their reported role in abiotic stress tolerance (Table 5) (
+
+). Considering the availability of unreported data, a similar analysis was also performed in the giant reed 
+G
+2 ecotype and the results are in Table 5. It is interesting that the majority of the clusters that are differentially expressed in the 
+G
+34 ecotype under severe salt stress (
+S
+3), are not differently regulated (neither up- or downregulated) in the 
+G
+2 ecotype grown under the same salt dose (
+G
+2- 
+S
+3 vs 
+G
+2-CK). Clusters encoding for the hexokinase, glyceraldeyde-3-phosphate dehydrogenase and phosphoenolpyruvate carboxykinase (PEPCK) represent the exceptions and in these cases a similar regulation (up- or down regulation) is observable (Table 5). However, most of the clusters differently regulated under severe salt stress (
+S
+3) in the 
+G
+34 ecotype are also listed among the 
+G
+2- 
+S
+4 vs 
+G
+2-CK data set, clearly indicating that 
+G
+34 ecotype response to severe salt stress (
+S
+3) resembles to the 
+G
+2 ecotype response subjected to higher salt dose (extreme salt stress, 
+S
+4, 419.23 mM NaCl corresponding to 50 dS m 
+−1
+electric conductibility, EC).
+</p>
+         <p>
+2.9. Identi
+fi 
+cation and distribution of SSR
+</p>
+         <p>
+The 193,070 unigenes, were screened for repeated motifs to explore the SSR profle in the 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+leaf transcriptome. The motif distribution was screened both in untraslated regions (both 5′-UTR and 3′-UTR) and in coding regions (CDS), since many of the sequenced mRNA transcripts contained untranslated regions (UTRs) and occasional remaining introns. A total of 26,838 SSRs were obtained from 24,304 unigenes, consequently 2534 sequences contained more than one SSR marker. In addition, 881 sequences revealed composed SSR formation (
+Table 6
+). We further investigated the distribution of SSR classes in the unigenes (CDS, 5′ UTR, and 3′ UTR). Out of the total SSRs, 9463 (35,26%) were located in the UTR and CDS regions, of which 5.062 (53.49%), 1690 (17.85%), and 2711 (28.65%) SSRs were located in the 5′ UTR, CDS, and 3′ UTR, respectively. The remaining SSRs (17,375 SSRs; 64.74%) have not an ascertained position because it was not possible to identify the UTR and CDS regions of the transcripts containing them.
+</p>
+         <p>
+</p>
+         <p>
+In 
+Table 7
+is reported the frequency in percentage of each motif. Most of repeated motifs (10,188 SSRs) are mono-base repetitions (37.95%), followed by tri-base (9441 SSRs; 35.17%) and di-base motifs (5970 SSRs; 22.24%). As regard the SSRs located in CDS region, most of them (1423 SSRs) are tri-base repetition (84.20%), followed by mono-base repetitions (120 SSRs; 7.10%). In 5′-UTR region most of the SSRs are tri-base repetitions (2465 SSRs; 48.69%) followed by mono-base repetitions (1151 SSRs; 22.73%), while in 3′-UTR regions 1476 SSRs (54.44%) are mono-base repetitions and 623 SSR (22.98%) are di-base repetitions. The most abundant nucleotide patterns found in the analysis are the following: A/T (6096 SSRs; 22.71%) and C/ 
+G
+(4092 SSRs; 15.24%) for mono-nucleotides, AG/CT (1820 SSRs; 6.78%) for di-nucleotides and CCG/CGG (1405 SSRs; 5.23%) for tri-nucleotides (
+Table 7
+).
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.9.1. Validation of SSRs
+</title>
+         <p>
+As described in Methods section, SSR validation was conducted by amplifying and sequencing five microsatellite regions randomly chosen in 5′-UTR, CDS and 3′-UTR sequences (Supplementary 
+Table S1
+). The repeated motifs are embedded in sequences belonging to genes homologous to: 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+serine/arginine repetitive matrix protein 2 (SRRM2), 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+high mobility group nucleosome-binding domain-containing protein 5 (HMGN5), 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+protein SHORT- ROOT 1 (SHR1), 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+myb-related protein MYBAS1-like (myba), 
+<tp:taxon-name>
+Setaria italica
+</tp:taxon-name>
+squamosa promoter-binding-like protein 2 (SPL1). For all the microsatellites analyzed, both the repeated motifs and the number of repetitions were confirmed by sequence analysis. In fact, five repetitions of AGC motif were detected in SRRM2 and HMGN5, six repetitions of AGC motif were detected in SHR1, four repetitions of AGC motif were detected in myba and five repetitions of GCA motif were detected in SPL1 (data not shown), showing a perfect congruence with the RNA-seq experiment and allowing the validation.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+3. Discussion
+</title>
+         <p>
+Abiotic and biotic stresses severely affect plant and crop growth and reproduction. Therefore, determining the critical molecular mechanisms and cellular processes in response to stresses will provide knowledge for addressing both climate change and food crises. RNA sequencing (RNA-Seq) using next-generation sequencing (NGS) is a revolutionary tool that has been used extensively in plant stress research in view of the great potential to reveal unprecedented complexity of the transcriptomes. The transcriptome sequencing of an organism provides quick insights into the gene space, opportunity to isolate genes of interest, development of functional markers, quantitation of gene expression, and comparative genomic studies. Useful 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+genomic resources were provided by the work of 
+
+which used tissue-specific NGS of four different organs (leaf, culm, bud and root) of one 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+ecotype. The analysis of transcripts putatively involved in stress in 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+led to the identification of genes related to salt and heavy metal tolerance, particularly interesting considering the tolerance of 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+to these stresses. Successively, the shoot transcriptome was obtained from an 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+invasive ecotype in order to establish a molecular dataset allowing studies of the abiotic stress capabilities of this plant (
+
+). 
+
+have reported the first characterization of 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+transcriptome in response to drought. They obtained by Illumina-based RNA-seq the whole root and shoot transcriptomes of young 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+plants subjected to osmotic/water stress with 10 and 20% polyethylene glycol (PEG). 
+
+provided a 
+de novo
+assembly and annotation of the leaf transcriptome of 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+releasing a more complete gene expression catalogue to allow a comprehensive comparison among various assemblies. This last genomic resource was generated using three ecotypes originating from distant geographical locations (
+Greece
+, 
+Croatia
+, and 
+Portugal
+). A global comparison of homology between the transcriptomes of 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+and four other species of the 
+<tp:taxon-name>
+Poaceae
+</tp:taxon-name>
+family revealed a high level of global sequence similarity within this family (
+
+). Recently, the first transcriptome of 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+subjected to two level of long-term salt stress has been reported (
+
+). The picture that emerged from the identification of differentially expressed genes is consistent with a salt dose-dependent response. Here, we describe the results of the RNA sequencing and 
+de novo
+assembly of a low ecotype of giant reed subjected to an extended and severe salt stress (
+S
+3 dose). Although 
+G
+34 clone was naturally lower than the giant reed ecotypes described in literature (
+
+), it had a fair performance under salt stress, showing minimal reduction of main stem height (−37%) and biomass yield (−35%) (data not shown) values compared to those registered for the other giant reed clones such as 
+G
+2 (−48% and - 50%, respectively) (
+
+) Moreover, the number of DEGs reported in 
+G
+34 ecotype is much lesser than that reported for 
+G
+2 ecotype under the same salt dose (3852 DEGs) (
+
+) indicating that a refined and focused modulation of gene expression is achieved to cope the unfavorable conditions. In salt tolerant plants, the cytosolic calcium perturbation actives the Salt Overly Sensitive (SOS) pathway (
+
+; 
+
+). The components of this pathway are the Ca 
+2+
+sensor (SOS3) which accordingly changes its conformation in a Ca 
+2+
+-dependent manner and interacts with SOS2, a serine/threonine protein kinase, forming the active SOS2–SOS3 complex. This interaction results in the activation through its phosphorylation of SOS1 (plasma membrane Na 
++
+/H 
++
+antiporter) which mediates the exclusion of Na 
++
+excess out of the cells. In addition, the SOS2–SOS3 complex activates NHX, the vacuolar Na 
++
+/H 
++
+exchanger resulting in the vacuolar sequestration of Na 
++
+excess thus further contributing to the restore of ion homeostasis (
+
+; 
+
+). The data suggest that the SOS pathway is only partially activated in giant reed 
+G
+34 ecotype under severe salt stress as indicated by the sharp up-regulation of CIPK1–SOS2-like protein. The down regulation of NHXs and HKT6 highlights that both the vacuolar sequestration of Na 
++
+excess and the Na 
++
+extrusion out of the cell across the plasma membrane seem to be impaired. The giant reed response to salt seems to be restricted to a dramatic enhancement of phosphorylating activity upon existing SOS1 antiporter provoking its activation (
+Table 3
+). As expected, the components of the SOS response are among the few salt related specific DEGs, indicating their key role in the specific response to salt. Transcription factors (TFs) are considered as the most important regulators controlling the expression of a broad range of target genes ultimately influencing the level of salt tolerance in plants. It is well documented that TFs belonging to the DREB, NAC, MYB, MYC, C2H2 zinc finger, bZIP, AP2/ERF (Ethylene Responsive Factor) and WRKY families are relevant in salt stress response (
+
+). By comparing our results with those obtained in 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+subjected to water deficit (
+
+), slight differences can be observed in terms of TF subfamilies involved in salt and water stresses. Interestingly, a major involvement of AUX/IAA TFs is detected under salt stress with respect to 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+plants subjected to drought thus indicating that a different regulation network is induced (
+
+). Similarly, the same transcription factor families are involved in the 
+G
+2 ecotype of giant reed under salinity, but a greater number of all TFs for each family resulted differently regulated under extreme salt stress in 
+G
+2 ecotype (
+S
+4) (
+
+). Moreover, a total of 27 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+unigenes correspond to high confidence rice homologs previously identified as salt or salt/ drought responsive genes (
+Table S3
+) (
+
+). Most of them (26) resulted also responsive to drought, indicating that the plant responses to these stresses probably overlap each other and that the downstream metabolic pathways can crosstalk. Significantly, a single gene belonging to WRKY transcription factor family specifically responds to salt treatment suggesting it might have a crucial role in the response to severe stress in the 
+G
+34 ecoptype (
+
+). The synthesis, sequestration, transportation, and turnover of hormones generate a net of signals that correlates plant growth in dependence on internal and external cues. Among these hormones, abscisic acid regulates important abiotic stress responses, in particular water balance and osmotic stress tolerance under drought and salt stress (
+
+). The analysis of 
+G
+34- 
+S
+3 vs 
+G
+34-CK indicates that the ABAactivated signal transduction cascade is not influenced by salt treatment as none of the components was among the DEGs of 
+G
+34- 
+S
+3 vs 
+G
+34-CK. Recently, the increase of leaf tissue ABA concentrations at 2 h after plants were exposed to 50 mM of the ions was observed in maize indicating that ABA synthesis and accumulation are part of the early response to salt (
+
+). Interestingly, the putative ortholog of AT1 
+G
+78390, nine-cis-epoxycarotenoid dioxygenase 9 (NCED), is strongly upregulated in both 
+<tp:taxon-name>
+Arundo
+</tp:taxon-name>
+shoots and roots during the early responses to water stress (
+
+), this finding being in line with the our opinion that ABA is not strictly involved in the response to long term salt stress. Ethylene is biosynthesized by the plant in response to life-cycle events or environmental cues including among other diseases, mechanical stress, drought or flood. The phenotypes that can be observed with respect to ethylene signaling typically relate to the inhibition of plant growth and seasonal changes in a plant's life cycle. Ethylene is efficiently biosynthesized from 1-aminocyclopropane-1- carboxylic acid (ACC) (
+
+). The mechanism of ethylene action, from perception to function, has been referred to as the “cleave and shuttle model” (
+
+). The most studied of the receptors is ethylene response 1 (ETR1) and downstream of ETR 
+
+1 
+in
+<tp:taxon-name>A. thaliana</tp:taxon-name>
+is the kinase constitutive triple response 1 protein (CTR1) (
+
+). In absence of ethylene, CTR1 phosphorylates the putative metal transporter ethylene insensitive 2 (EIN2) that triggers EIN2 degradation by the Ub/26 
+S
+proteasome (
+
+). In the presence of ethylene, CTR1 is inactivated and the EIN2 dephosphorylated form is proteolytically cleaved to generate a C-terminal fragment that localizes to the nucleus and initiates transcriptional regulation. Interestingly, transcripts encoding ACC oxidase have been found up-regulated under severe salt stress, whereas homolog of 
+<tp:taxon-name>
+Arabidopsis thaliana
+CTR
+</tp:taxon-name>
+1 is sharply up-regulated in 
+G
+34- 
+S
+3 vs 
+G
+34-CK samples (
+Table 3
+). In our opinion, this condition might describe a situation in which a low perception of emitted ethylene is attempted under severe salt stress (activation of CTR1) with the aim to minimize the negative effect of ethylene upon plant growth. These attempts to minimize the effect of emitted deleterious hormone were also observed in 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+G
+2 ecotype subjected to salt stress. However, this kind of response was triggered when the 
+G
+2 ecotype was subjected to extreme salt stress (
+S
+4) (
+
+), indicating that more stringent conditions are needed in the 
+G
+2 ecotype to prevent the negative effects of ethylene (
+Table 4
+). A consequence of high salt in the soil is the generation of a low water potential zone around the roots area making extremely difficult for the plants to obtain water and nutrients. Stomatal closure occurs in order to low water loss by transpiration, but it is at the same time responsible of sharp decrease in CO 
+2
+availability for Calvin cycle and a depletion of oxidized NADP 
++
+. The overproduced electrons are transferred to O 
+2
+to generate O 
+2
+●
+-
+
+and a series of dangerous oxygen reactive species (ROSs) causing unrestricted oxidation of various cellular components such as membrane lipids, proteins, and nucleic acid (
+
+). Therefore, salinity tolerance is positively correlated with the induction of ROS scavenging enzymes such as superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase (GPX), ascorbate peroxidase (APX), monodehydroascorbate reductase (MDHAR), dehydroascorbate reductase (DHAR) and glutathione transferases (GSTs) (
+
+). Moreover, malate is a versatile compound in plant metabolism (
+
+) that can easily be transported across subcellular membranes and can be used as a substrate for mitochondrial ATP production or provision of NADH to the cytosol. Malate/oxaloacetate shuttles acting in combination with malate dehydrogenases (MDHs) as key enzymes (also termed malate valves) connect cellular compartments each other. They are powerful systems for balancing metabolic fluxes by enabling indirect transfer of reducing equivalents, and therefore, they play a key role in plant metabolism. The malate valve is strictly regulated during day light (
+
+). The activation of NADP-MDH is only enabled when NADPH increases because it is not consumed in the Calvin cycle due to a lack of CO 
+2
+or ATP. Under these conditions, the NADP-MDH uses the excess NADPH generated via the photosynthetic electron transport chain to convert oxaloacetate to malate, regenerating the electron acceptor NADP 
++
+. Therefore, an electron drainage flux from an over-reduced photosynthetic chain to other cellular compartments can occur. In addition to the NADP-dependent MDH, namely component of the “light” malate valve, chloroplasts contain a redox-independent activity of NAD-MDH functioning as part of the “dark” malate valve and playing an important role during metabolism in the dark. In chloroplasts during darkness, ATP and NADPH for anabolism are generated independently via plastidial glycolysis (ATP), and plastidial oxidative pentose phosphate pathway (NADPH). The “dark” malate valve is here required to export the NADH that is formed during glycolysis at the substrate phosphorylation steps that require a continuous supply of NAD 
++
+. The regeneration of NAD 
++
+, which allows for continued ATP production via glycolysis, is possible due to the activity of NAD-MDH for indirect export of NADH in the form of malate exchanged with oxaloacetate. In our experiment, both the “light” and “dark” malate-valve seem to be activated as both the up-regulation of plastid NADP-malic dehydrogenase and NAD-MDH are observed, probably aimed to move the excess of reducing power from chloroplasts to the cytosol and to avoid over-reduction of the chloroplast glycolysis.
+</p>
+         <p>
+As multifunctional amino acid, proline seems to have diverse roles under stress conditions, such as stabilization of proteins, membranes, and subcellular structures, and protecting cellular functions by scavenging ROSs. Biosynthesis of proline occurs in the chloroplast or cytosol via glutamate pathway in which 1-delta-pyrroline-5-carboxylate synthase (P5CS) catalyzes the key regulatory and rate limiting reaction (
+
+). During proline synthesis, 2 mol of NADPH per mole are consumed thus draining electrons from chloroplasts and contributing to the stabilization of redox balance and maintenance of cellular homeostasis when electron transport chain is saturated because of adverse conditions. The up-regulation of P5CS suggests that proline biosynthesis represents either a crucial mechanism to adjust the osmotic status or a way for NADP 
++
+restoring in 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+. Photosynthesis is the primary processes to be affected by salinity (
+
+; 
+
+). Stomata close in response to leaf turgor declines, therefore supply of CO 
+2
+to Rubisco (EC 4.1.1.39) is impaired thus inducing sharp alterations of photosynthetic metabolism. In 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+under severe salt stress condition, CO 
+2
+assimilation via the C3 Calvin cycle seems to be impaired in favor of oxygen fixation through the photorespiration pathway (
+Table 3
+). In particular, the downregulation of PEPC kinase caused by salt stress indicates that mechanisms aimed to block the PEPC phosphorilation/inactivation occur in 
+G
+34 ecotype maximizing the role of PEP as CO 
+2
+acceptor catalyzed by PEPC. To reinforce this hypothesis, transcripts of chloroplastic pyruvate kinase (PK) are sharply down regulated indicating that carbon metabolism is directed towards PEP accumulation. A similar phenomenon has been reported in the facultative halophyte 
+<tp:taxon-name>
+Mesembryanthemum crystallinum
+</tp:taxon-name>
+during adaptation to salinity where the transition from C3 photosynthesis to Crassulacean acid metabolism (CAM) is associated with the increase in activity of key enzymes of C4 cycle such as PEPC (
+
+). In 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+leaves, the activation of C4 pathway has been recently reported (
+
+), however, in 
+G
+2 ecotype the downregulation of PEPC kinase occurs at extreme salt concentration (
+S
+4) as an ultimate rescue attempt to overcome the long term stress conditions (
+Table 4
+). It had been reported that the transcript abundance of components of the glycolytic, mitochondrial respiration, and pentose phosphate pathways generally decreases in NaCl stress (
+
+; 
+
+). Phosphofructokinase (PFK), pyruvate kinase (PK) and phosphoenolpyruvate kinase (PEPC) gene expression has been found significantly decreased in cucumber leaves when exposed to salt stress. Salt stress also significantly reduced isocitrate dehydrogenase, malate dehydrogenase and succinate dehydrogenase and their levels of transcription, causing a decreased production of organic acids and to a decline in metabolic rate (
+
+; 
+
+). Exogenous putrescine reversed the salt stress and increased gene expression of the key enzymes involved in the glycolysis pathway and Krebs cycle promoting the release of more energy currency (ATP and ADP) (
+
+). Table 5 reports that 
+G
+34 ecotype subjected to salt stress responds by inducing, without any exogenous treatment, most of the genes involved in glycolysis and Krebs cycle thus encouraging carbohydrates to enter the glycolytic pathway and the Krebs cycle in order to supply more energy for plant metabolism and allowing the plant to tolerate the salt stress. The internal tolerance to salt stress observed in the 
+G
+34 ecotype is achieved at severe salt stress (
+S
+3 dose), whereas, a similar response was observed in 
+G
+2 ecotype only when it was subjected to higher salt concentration (
+S
+4 dose) (Table 5).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4. Conclusions
+</title>
+         <p>
+In this work, 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+, 
+G
+34 ecotype was subjected to long-term salt stress at salt level being much higher than that used to define a soil area as “ 
+salinized
+”. 
+G
+34 ecotype was selected because of its characteristic to be shorter than other 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+ecotypes when grown in pots. As 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+reproduces itself asexually, this attribute should depend exclusively upon accumulated genetic and epigenetics marks that can influence other traits such as the response to salt stress as pleiotropic effect. Indeed, the genetic diversity of 
+G
+34 is testified by the obtained peculiar results (both morpho-physiological and transcriptomic data) indicating that some sort of the stress avoidance occurred. 
+G
+34 ecotype does not induce the entire SOS pathway, but the only CIPK1–SOS2 component is strongly activated. The analysis of clusters related to ethylene biosynthesis and signaling indicated that the gene transcription is modulated towards the minimization of ethylene negative effects upon plant growth. The 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+leaves subjected to 
+S
+3 severe salt stress respond to salt-induced oxidative stress by the induction of genes involved in redistributing the reducing power excess among cell compartments (“light” and “dark” malate valve). A clear involvement of proline in coping the salt-induced osmotic stress can be suggested as well as a crucial role of proline biosynthesis as NADPH consumer might be evocated. Certainly, the photosynthesis is strongly affected since genes involved in Rubisco biosynthesis and assembly are down-regulated, however, a shift C3 Calvin cycle to C4 photosynthesis is likely to occur as gene regulation is aimed to activate the primary CO 
+2
+fixation to PEP in mesophyll cells (C4 pathway). The analysis of carbon metabolism revealed that 
+G
+34 ecotype under salt stress activates the gene expression of glycolysis and Krebs cycle genes known to be a typical response to face salt stress. Interestingly, a similar response was achieved by the 
+G
+2 ecotype subjected to a much higher salt dose suggesting that 
+G
+34 ecotype more promptly tries to counteract the stressful conditions. In this respect, also the attempt to mitigate the detrimental effect of ethylene by activating CTR1 is started up by 
+G
+34 ecotype under severe salt stress. Therefore, the results of our work are in accordance with the possibility that heritable phenotypic differences among clones of 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+might be accumulated especially in ecotypes originating from distant geographical areas (
+
+). Additionally, 26,838 simple sequence repeat (SSR) markers were identified and validated. This SSR array certainly enlarges the already available SSR catalogue (
+
+) which includes 8364 SSRs, thus suggesting the future possibility to study genetic variability of this species more accurately.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+5. Experimental
+</title>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+5.1. Plant material and application of salt stress
+</title>
+         <p>
+The experiment was conducted at the Department of Agriculture, Food and Environment (Di3A) of the University of Catania, using 
+G
+34 giant reed clone originated in Birgi (
+Italy
+) (latitude 38̊01′, longitude 12̊32’) and collected for the Giant reed Network project (
+
+). The trial started on 
+July 7th, 2017
+, by transplanting 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+rhizomes into 25 l pots (
+40 cm
+diameter and 
+30 cm
+height) containing a sandy soil as substrate and kept in open air. Before transplantation, the rhizomes were weighed using a laboratory scale and the number of buds was counted, and those showing homogeneous rhizome weight and same bud number were used for transplanting. The pots were arranged according to a randomized block factor scheme, performing three biological replicates for treatments with a total of six experimental units. During the experiment, the irrigation was performed on a weekly basis, and until the first sprouts have been released, tap water (5 l per pot) has been used. The first irrigation with salted water was carried out on 
+August 3rd, 2017
+. Salt stress was imposed by adding 256.67 mM NaCl corresponding to 32 dS m 
+−1
+electric conductibility to the irrigation water (
+S
+3 samples), whereas control samples (CK) were irrigated with tap water without salt addition (
+S
+0 samples). Before leaf harvest, the following morpho-biometric and physiological parameters were measured: number of culms, height of the main culm, number of green and senescent leaves, net photosynthesis and chlorophyll content measured in 
+SPAD
+units (
+SPAD
+502, Konica Minolta). Moreover, the measurement of the yielded biomass was also carried out (
+
+). R software was used for standard deviation calculation. The collected data were submitted to ANOVA analysis using R Studio. The averages with pvalue ≤0.05 were separated by the TukeyHSD test.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+5.2. Sample collection and RNA extraction
+</title>
+         <p>
+On 
+November 17th, 2017
+, fully expanded, no senescing 
+G
+34 leaves (the 3rd leaf from the top) were harvested and immediately frozen with liquid nitrogen. RNA isolation was performed using the Spectrum Plant Total RNA Extraction Kit (Sigma-Aldrich, St. Louis, MO, 
+USA
+) according to the manufacturer's instructions. RNA degradation and contamination were monitored on 1% agarose gels. RNA purity and concentration were assayed using the NanoDrop spectrophotometer (ThermoFisher Scientific, Waltham, MA, 
+USA
+). RNA integrity was assessed using the Agilent Bioanalyzer 2100 system (Agilent Technologies, Santa Clara, CA, 
+USA
+). Before to be sequenced, the RNA samples were subjected to quality parameter evaluation.
+</p>
+         <p>
+The average RNA Integrity Number (RIN) was of 7.6 and there was very slight genomic DNA contamination confirming that all the samples have such high-quality level to be processed (
+Table 1
+).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+5.3. Library preparation for transcriptome sequencing
+</title>
+         <p>
+A total amount of 1.5 μg RNA per sample was used as input material for library preparations. Sequencing libraries were generated using NEBNextṜ Ultra™ RNA Library Prep Kit for IlluminaṜ (New 
+England
+Biolabs, Ipswich, MA, 
+USA
+) following manufacturer's recommendations as described in 
+
+.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+5.4. Clustering and next generation RNA sequencing
+</title>
+         <p>
+Cluster generation and sequencing were performed by Novogene Bioinformatics Technology Co., Ltd. (
+Beijing
+, 
+China
+). The clustering of the index-coded samples was performed on a cBot Cluster Generation System using a PE Cluster kit cBot-HS (Illumina). After cluster generation, the library preparations were sequenced on Illumina HiSeq 2000 platform to generate pair-end reads. Raw data (raw reads) of fastq format were firstly processed through in-house perl scripts. In this step, clean data were obtained by removing reads containing adapter, reads containing poly-N and low quality reads. At the same time, Q20, Q30, GC-content and sequence duplication level of the clean data were calculated. All the downstream analyses were based on clean data with high quality.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+5.5. De novo transcriptome assembling and gene functional annotation
+</title>
+         <p>
+De novo
+transcriptome assembly was accomplished using Trinity (r20140413p1 version) with min_kmer_cov:5 parameters (k = 25). Then Hierarchical Clustering was performed by Corset (v1.05 version) to remove redundancy (parameter -m 10). Afterwards the longest transcripts of each cluster were selected as Unigenes. As part of a wider sequencing project, the flow chart of the 
+G
+34 ecotype 
+de novo
+transcriptome assembly is reported in 
+
+.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+5.6. Identi
+fi 
+cation of clusters speci
+fi 
+cally involved in the salt stress response
+</title>
+         <p>
+In order to discriminate among clusters specifically regulated by salt treatment from those also involved in the response to other abiotic stress (oxidative, water deprivation, cold, heavy metals), the GO term lists relative to 
+G
+34- 
+S
+3 vs 
+G
+34-CK (severe salt stress samples versus control samples) comparison were filtered and exclusively salt-regulated clusters were extrapolated. For the identification of transcription factors responsive to salt stress in 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+, we mined the available salt stress-responsive transcription factor database of rice (SRTFDB) (
+
+) by Blastn searches with an 
+e
+value cutoff of 1e−5.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+5.7. Quanti
+fi 
+cation of gene expression and di
+ff 
+erential expression analysis
+</title>
+         <p>
+Gene expression levels were estimated by RSEM (v1.2.26 version) with bowtie2 mismatch 0 parameters in order to map to Corset filtered transcriptome. For each sample, clean data were mapped back onto the assembled transcriptome and readcount for each gene was then obtained from the mapping results. Differential expression analysis between control and salt stressed samples was performed using the DESeq R package (1.12.0 version, padj &lt;0.05). The resulting 
+p-
+values were adjusted using the Benjamini and Hochberg's approach for controlling the false discovery rate. Genes with an adjusted 
+p
+-value &lt;0.05 found by DESeq were assigned as differentially expressed, adopting log2FoldChange threshold of 0.58 (1.5 fold change). The GO enrichment analysis of the differentially expressed genes (DEGs) was implemented by the GOseq R packages (1.10.0, 2.10.0 version, corrected P-Value &lt;0.05 based) Wallenius non-central hyper-geometric distribution (
+
+). Furthermore, to analyze the 
+<tp:taxon-name>
+Arundo donax
+</tp:taxon-name>
+transcriptome, all of the unigenes were submitted to the KEGG pathway database for the systematic analysis of gene functions. KOBAS software (KEGG Orthology-Based Annotation System, v2.0.12 version, corrected P-Value &lt;0.05) was used to annotate sequences by KEGG Orthology terms.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+5.8. Real-time validation of selected DEG candidates using qRT-PCR
+</title>
+         <p>
+Selected DEGs were validated using qRT-PCR as described in 
+
+. Briefly, total RNA (2.5 μg) extracted from sample leaves as described above, was reversed transcribed using the SuperScript™ Vilo™ cDNA synthesis kit by ThermoFisher Scientific, according to the manufacturer's instructions. Real-time qRT-PCR was performed for a total of ten DEGs with PowerUp SYBR Green Master mix by ThermoFisher Scientific and carried out in the Bio-Rad iQ5 Thermal Cycler detection system. All the genes were normalized with 
+<tp:taxon-name>
+A. donax
+</tp:taxon-name>
+26 
+S
+proteasome non-ATPase regulatory subunit 11 gene (RPN6) that was reported to be a suitable housekeeping gene in abiotic stress conditions (
+
+). All reactions were performed in triplicate and fold change measurements calculated with the 2 
+−ΔΔCT
+method.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+5.9. SSR detection and validation
+</title>
+         <p>
+Picard - tools v1.41 and samtools v0.1.18 were used to sort, remove duplicated reads and merge the bam alignment results of each sample. MISA (v1.0, default parameters; minimum number of repeats of each unit size is: 1–10; 2–6; 3–5; 4–5; 5-5; 6–5) was used for the SSR detection in the unigenes. These markers include repetitions of one, two, three, four, five or six bases with 10, 6, 5.5 and 5 uninterrupted repetitions. TransDecoder v3.0.0 was used in order to have the best 5′- UTR, CDS and 3′-UTR regions. Afterwards, the positions of transcribed domains were combined with the SSRs positions, in order to assign the microsatellites within the ORFs (Open 
+Reading
+frames).
+</p>
+         <p>
+SSRs validation was conducted by amplifying and sequencing five microsatellite regions chosen randomly in 5′-UTR, CDS and 3′-UTR (EST-SSR) coding sequences. The five primer sets were designed using the primer-BLAST software (https://www.ncbi.nlm.nih.gov/tools/ primer-blast/) and their sequences and amplicons are listed in Supplementary 
+Table S1
+. DNA extraction was performed by using the DNeasyṜ Plant Mini Kit (Qiagen, Hilden, 
+Germany
+) according the producer instruction. The PCR was performed on a 50 μl total volume, according BIOTAQ™ DNA Polymerase (BIOLINE, 
+Singapore
+) protocol. PCR products were then subjected to a 3% agarose gel electrophoresis, running at a voltage of 90 V for 3 h. Bands showing the expected size were excised and purified using the PureLinkTM Quick Gel Extraction &amp; PCR Purification Combo Kit (Invitrogen by Thermo Fisher Scientific, 
+Lituania
+) according the producer's instructions. The isolated DNA was sequenced by Eurofins Genomics (Ebersberg, 
+Germany
+) and checked for repeated motifs.
+</p>
+         <p>
+Availability of data and materials
+</p>
+         <p>
+The 
+<tp:taxon-name>Arundo donax</tp:taxon-name>
+transcriptome was uploaded to NCBI (https:// www.ncbi.nlm.nih.gov/geo/) accession number GSE125104.
+</p>
+         <p>
+Authors’ contributions
+</p>
+         <p>
+ARLP, 
+AS
+, GT, DFS and SLC conceived and designed the experiments. 
+AS
+, DFS conducted the experiments. ARLP, 
+AS
+, DFS elaborated RNAseq data. ARLP, GT, DFS and SLC elaborated morpho-biometric data. ARLP wrote the manuscript. All authors read and approved the final manuscript.
+</p>
+         <p>
+Funding
+</p>
+         <p>This research work is part of a project that has received funding from the European Union's Horizon 2020 research and innovation program under grant agreement No 727698.</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+Declaration of competing interest
+</title>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+Appendix A. Supplementary data
+</title>
+         <p>Supplementary data to this article can be found online at https:// doi.org/10.1016/j.phytochem.2020.112436.</p>
+      </sec>
+      <sec sec-type="reference_group">
+         <title>
+References
+</title>
+         <ref-list>
+            <ref>
+               <mixed-citation>
+Ahmad, R.
+, 
+Liow, P.-S.
+, 
+Spencer, D.F.
+, 
+Jasieniuk, M.
+, 
+2008
+. 
+
+Molecular evidence for a single genetic clone of invasive 
+Arundo donax
+in the United States
+
+. 
+Aquat. Bot.
+88
+, 
+113–120
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Bajguz, A.
+, 
+Hayat, S.
+, 
+2009
+. 
+Effects of brassinosteroids on the plant responses to environmental stresses
+. 
+Plant Physiol. Biochem.
+47
+(
+1
+), 
+1–8
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Balogh, E.
+, 
+Herr Jr., J.M.
+, 
+Czakò, M.
+, 
+Marton, L.
+, 
+2012
+. 
+
+Defective development of male and female gametophytes in 
+Arundo donax
+L. (Poaceae)
+
+. 
+Biomass Bioenergy
+45
+, 
+265–269
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Barragan, V.
+, 
+Leidi, E.O.
+, 
+Andrés, Z.
+, et al., 
+2012
+. 
+
+Ion exchangers NHX1 and NHX2 mediate active potassium uptake into vacuoles to regulate cell turgor and stomatal function in 
+Arabidopsis
+
+. 
+Plant Cell
+24
+(
+3
+), 
+1127–1142
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Barrero, R.A.
+, 
+Guerrero, F.D.
+, 
+Moolhuijzen, P.
+, 
+Goolsby, J.A.
+, 
+Tidwell, J.
+, 
+Bellgard, S.E.
+, 
+Bellgard, M.I.
+, 
+2015
+. 
+
+Shoot transcriptome of the giant reed. 
+Arundo donax
+
+. 
+Data Brief
+3
+, 
+1–6
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Behera, T.K.
+, 
+Gaikward, A.B.
+, 
+Singh, A.K.
+, 
+Staub, J.E.
+, 
+2008
+. 
+
+Relative efficiency of DNA markers (RAPD, ISSR and AFLP) in detecting genetic diversity of bitter gourd (
+Momordica charantia
+L.)
+
+. 
+J. Sci. Food Agric.
+88
+, 
+733–737
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Chapman, K.S.R.
+, 
+Hatch, M.D.
+, 
+1983
+. 
+
+Intracellular location of phosphoenolpyruvate carboxykinase and other C4 photosynthetic enzymes in mesophyll and bundle sheath protoplasts of 
+Panicum maximum
+
+. 
+Plant Sci. Lett.
+29
+, 
+145–154
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Chu, C.
+, 
+Dai, Z.
+, 
+Ku, M.S.B.
+, 
+Edwards, G.E.
+, 
+1990
+. 
+
+Induction of Crassulacean acid metabolism in the facultative halophyte 
+Mesembryanthemum crystallinum
+by abscisic acid
+
+. 
+Plant Physiol.
+93
+, 
+1253–1260
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Cosentino, S.L.
+, 
+Copani, V.
+, 
+D'Agosta, G.M.
+, 
+Sanzone, E.
+, 
+Mantineo, M.
+, 
+2006
+. 
+
+First results on evaluation of 
+Arundo donax
+L. clones collected in Southern Italy
+
+. 
+Ind. Crop. Prod.
+23
+, 
+212–222
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Deinlein, U.
+, 
+Stephan, A.B.
+, 
+Horie, T.
+, 
+Luo, W.
+, 
+Xu, G.
+, 
+Schroeder, J.I.
+, 
+2014
+. 
+Plant salttolerance mechanisms
+. 
+Trends Plant Sci.
+19
+, 
+371–379
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Esselman, E.J.
+, 
+Jianqiang, L.
+, 
+Crawford, D.J.
+, 
+Windus, J.L.
+, 
+Wolfe, A.D.
+, 
+1999
+. 
+
+Clonal diversity in the rare 
+Calamagrostis porteri
+ssp. insperata (Poaceae): comparative results for allozymes and random amplified polymorphic DNA (RAPD) and intersimple sequence repeat (ISSR) markers
+
+. 
+Mol. Ecol.
+8
+, 
+443–451
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Evangelistella, C.
+, 
+Valentini, A.
+, 
+Ludovisi, R.
+, 
+Firrincieli, A.
+, 
+Fabbrini, F.
+, 
+Scalabrin, S.
+, 
+Cattonaro, F.
+, 
+Morgante, M.
+, 
+Scarascia Mugnozza, G.
+, 
+Keurentjes, J.J.B.
+, 
+Harfouche, A.
+, 
+2017
+. 
+
+De novo assembly, functional annotation, and analysis of the giant reed (
+Arundo donax
+L.) leaf transcriptome provide tools for the development of a biofuel feedstock
+
+. 
+Biotechnol. Biofuels
+10
+, 
+138
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Fernando, A.L.
+, 
+Boleo, S.
+, 
+Barbosa, B.
+, 
+Costa, J.
+, 
+Duarte, M.P.
+, 
+Monti, A.
+, 
+2015
+. 
+Perennial grass production opportunities on marginal Mediterranean land
+. 
+BioEnergy Res
+8
+, 
+1523–1537
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Flowers, T.J.
+, 
+2004
+. 
+Improving crop salt tolerance
+. 
+J. Exp. Bot.
+55
+(
+396
+), 
+307–319
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Fougere, F.
+, 
+Le Rudulier, D.
+, 
+Streeter, J.G.
+, 
+1991
+. 
+
+Effects of salt stress on amino acid, organic acid, and carbohydrate composition of roots, bacteroids, and cytosol of alfalfa (
+Medicago sativa
+L.)
+
+. 
+Plant Physiol.
+96
+(
+4
+), 
+1228–1236
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Fu, Y.
+, 
+Poli, M.
+, 
+Sablok, G.
+, 
+Wang, B.
+, 
+Liang, Y.
+, 
+La Porta, N.
+, 
+Velikova, V.
+, 
+Loreto, F.
+, 
+Li, M.
+, 
+Varotto, C.
+, 
+2016
+. 
+
+Dissection of early transcriptional responses to water stress in 
+Arundo donax
+L. by unigene-based RNA-seq
+
+. 
+Biotechnol. Biofuels
+9
+, 
+54
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Geilfus, C.M.
+, 
+Ludwig-Müller, J.
+, 
+Bárdos, G.
+, 
+Zörb, C.
+, 
+2018
+. 
+
+Early response to salt ions in maize (
+Zea mays
+L.). J
+
+. 
+Plant Physiol.
+220
+, 
+173–180
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Golldack, D.
+, 
+Li, C.
+, 
+Mohanand, H.
+, 
+Probst, N.
+, 
+2014
+. 
+Tolerance to drought and salt stress in plants: unraveling the signaling networks. Front
+. 
+Plant Sci.
+5
+, 
+151
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Gupta, B.
+, 
+Huang, B.
+, 
+2014
+. 
+Mechanism of salinity tolerance in plants: physiological, biochemical, and molecular characterization
+. 
+Int. J. Genom.
+2014
+, 
+18
+. 
+https://doi. org/10.1155/2014/701596. Article ID 701596
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Haddadchi, A.
+, 
+Gross, C.L.
+, 
+Fatemi, M.
+, 
+2013
+. 
+
+The expansion of sterile 
+Arundo donax
+(Poaceae) in southeastern Australia is accompanied by genotypic variation
+
+. 
+Aquat. Bot.
+104
+, 
+153–161
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Hanin, M.
+, 
+Ebel, C.
+, 
+Ngom, M.
+, 
+Laplaze, L.
+, 
+Masmoudi, K.
+, 
+2016
+. 
+New insights on plant salt tolerance mechanisms and their potential use for breeding. Front
+. 
+Plant Sci.
+7
+, 
+1787
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Hernandez, J.A.
+, 
+Ferrer, M.A.
+, 
+Jimenez, A.
+, 
+Barcelo, A.R.
+, 
+Sevilla, F.
+, 
+2001
+. 
+
+Antioxidant systems and O 
+2
+−
+/H 
+2
+O 
+2
+production in the apoplast of pea leaves. Its relation with salt-induced necrotic lesions in minor veins
+
+. 
+Plant Physiol.
+127
+, 
+817–831
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Hoque, M.A.
+, 
+Banu, M.N.A.
+, 
+Nakamura, Y.
+, 
+Shimoishi, Y.
+, 
+Murata, Y.
+, 
+2008
+. 
+Proline and glycine betaine enhance antioxidant defense and methylglyoxal detoxification systems and reduce NaCl-induced damage in cultured tobacco cells. J
+. 
+Plant Physiol.
+165
+, 
+813–824
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Isayenkov, S.V.
+, 
+2012
+. 
+Physiological and molecular aspects of salt stress in plants
+. 
+Cytol. Genet.
+46
+, 
+302–318
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Isayenkov, S.V.
+, 
+Maathuis, F.J.M.
+, 
+2019
+. 
+Plant salinity stress: many unanswered questions remain. Front
+. 
+Plant Sci.
+10
+Article 
+80
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Jiang, Y.
+, 
+Yang, B.
+, 
+Harris, N.S.
+, 
+Deyholos, M.K.
+, 
+2007
+. 
+Comparative proteomic analysis of NaCl stress-responsive proteins in Arabidopsis roots
+. 
+J. Exp. Bot.
+58
+(
+13
+), 
+3591–3607
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Jones, M.B.
+, 
+Finnan, J.
+, 
+Hodkinson, T.R.
+, 
+2015
+. 
+Morphological and physiological traits for higher biomass production in perennial rhizomatous grasses grown on marginal land
+. 
+Glob Change Biol Bioenergy
+7
+, 
+375–385
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Kaur, G.
+, 
+Asthir, B.
+, 
+2015
+. 
+Proline: a key player in plant abiotic stress tolerance
+. 
+Biol. Plant. (Prague)
+59
+(
+4
+), 
+609–619
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Khudamrongsawat, J.
+, 
+Tayyar, R.
+, 
+Holt, J.S.
+, 
+2004
+. 
+
+Genetic diversity of giant reed (
+Arundo donax
+) in the Santa ana river, California
+
+. 
+Weed Sci.
+52
+, 
+395–405
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Ku, M.S.B.
+, 
+Spalding, M.H.
+, 
+Edwards, G.E.
+, 
+1980
+. 
+
+Intracellular localization of phosphoenolpyruvate carboxykinase in leaves of C 
+4
+and CAM plants
+
+. 
+Plant Sci. Lett.
+19
+, 
+1–8
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Kuromori, T.
+, 
+Seo, M.
+, 
+Shinozaki, K.
+, 
+2018
+. 
+ABA transport and plant water stress responses
+. 
+Trends Plant Sci.
+23
+(
+6
+), 
+513–522
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Lance, C.
+, 
+Rustin, P.
+, 
+1984
+. 
+The central role of malate in plant metabolism
+. 
+Physiol. Veg.
+22
+, 
+625–641
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Li, W.
+, 
+Ma, M.
+, 
+Feng, Y.
+, 
+Li, H.
+, 
+Wang, Y.
+, 
+Ma, Y.
+, 
+Li, M.
+, 
+An, F.Y.
+, 
+Guo, H.W.
+, 
+2015
+. 
+
+EIN2- Directed translational regulation of ethylene signaling in 
+Arabidopsis
+
+. 
+Cell
+163
+, 
+670–683
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Light, K.M.
+, 
+Wisniewski, J.A.
+, 
+Vinyard, W.A.
+, 
+Kieber-Emmons, M.T.
+, 
+2016
+. 
+Perception of the plant hormone ethylene: known-knowns and known-unknowns
+. 
+J. Biol. Inorg. Chem.
+21
+, 
+715–728
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Liu, J.
+, 
+Zhu, J.K.
+, 
+1998
+. 
+A calcium sensor homolog required for plant salt tolerance
+. 
+Science
+280
+, 
+1943–1945
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Lo Cicero, L.
+, 
+Madesis, P.
+, 
+Tsaftaris, A.
+, 
+Lo Piero, A.R.
+, 
+2015
+. 
+
+Tobacco plants over-expressing the sweet orange tau glutathione transferases (
+Cs
+GSTUs) acquire tolerance to the diphenyl ether herbicide fluorodifen and to salt and drought stresses
+
+. 
+Phytochemistry
+116
+(
+1
+), 
+69–77
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+MartìnezAtienza, J.
+, 
+Jiang, X.
+, 
+Garciadeblas, B.
+, 
+Mendoza, I.
+, 
+Zhu, J.
+, 
+Pardo, J.M.
+, 
+Quintero, F.J.
+, 
+2007
+. 
+Conservation of the salt overly sensitive pathway in rice
+. 
+Plant Physiol.
+143
+, 
+1001–1012
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Monti, A.
+, 
+Cosentino, S.L.
+, 
+2015
+. 
+Conclusive results of the European project OPTIMA: optimization of perennial grasses for biomass production in the mediterranean area
+. 
+BioEnergy Res
+8
+, 
+1459–1460
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Munns, R.
+, 
+Tester, M.
+, 
+2008
+. 
+Mechanisms of salinity tolerance
+. 
+Annu. Rev. Plant Biol.
+59
+, 
+651–681
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Nackley, L.L.
+, 
+Kim, S.
+, 
+2015
+. 
+
+A salt on the bioenergy and biological invasions debate: salinity tolerance of the invasive biomass feedstock 
+Arundo donax
+
+. 
+Glob Change Biol Bioenergy
+7
+, 
+752–762
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Pilu, R.
+, 
+Cassani, E.
+, 
+Landoni, M.
+, 
+Cerino Badone, F.
+, 
+Passera, A.
+, 
+Cantaluppi, E.
+, et al., 
+2014
+. 
+
+Genetic characterization of Italian giant reed (
+Arundo donax
+L.) clones collection: exploiting clonal selection
+
+. 
+Euphytica
+196
+, 
+169–181
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Poli, M.
+, 
+Salvi, S.
+, 
+Li, M.
+, 
+Varotto, C.
+, 
+2017
+. 
+
+Selection of reference genes suitable for normalization of qPCR data under abiotic stresses in bioenergy crop 
+Arundo donax
+L
+
+. 
+Sci. Rep.
+7
+, 
+10719
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Priya, P.
+, 
+Jain, M.
+, 
+2013
+. 
+RiceSRTFDB: a database of rice transcription factors containing comprehensive expression, cis-regulatory element and mutant information to facilitate gene function analysis
+. 
+Database, Oxford
+2013
+: 027.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Puglisi, I.
+, 
+Lo Cicero, L.
+, 
+Lo Piero, A.R.
+, 
+2013
+. 
+The glutathione S-transferase gene superfamily: an in silico approach to study the post translational regulation
+. 
+Biodegradation
+24
+(
+4
+), 
+471–485
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Quinn, L.
+, 
+Straker, K.
+, 
+Guo, J.
+, 
+Kim, S.
+, 
+Thapa, S.
+, 
+Kling, G.
+, 
+Lee, D.K.
+, 
+Voigt, T.B.
+, 
+2015
+. 
+Stress-tolerant feedstocks for sustainable bioenergy production on marginal land
+. 
+Bioenerg Res
+8
+, 
+1081–1100
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+REN21
+, 
+2016
+. 
+Renewables 2016 global status report
+. 
+REN21 Secretariat, Paris
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Sablok, G.
+, 
+Fu, Y.
+, 
+Bobbio, V.
+, 
+Laura, M.
+, 
+Rotino, G.L.
+, 
+Bagnaresi, P.
+, 
+Allavena, A.
+, 
+Velikova, V.
+, 
+Viola, R.
+, 
+Loreto, F.
+, 
+Li, M.
+, 
+Varotto, C.
+, 
+2014
+. 
+
+Fuelling genetic and metabolic exploration of C3 bioenergy crops through the first reference transcriptome of 
+Arundo donax
+L
+
+. 
+Plant Biotechnol. J
+12
+, 
+554–567
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Scandalios, J.G.
+, 
+2005
+. 
+Oxidative stress: molecular perception and transduction of signals triggering antioxidant gene defenses
+. 
+Braz. J. Med. Biol. Res.
+38
+, 
+995–1014
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Shahid, S.
+, 
+Al-Shankiti, S.
+, 
+2013
+. 
+Sustainable food production in marginal lands – case of GDLA member countries
+. 
+Int Soil Water Cons Res.
+1
+, 
+24–38
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Shavrukov, Y.
+, 
+2012
+. 
+Salt stress or salt shock: which genes are we studying?
+J. Exp. Bot.
+63
+, 
+695–709
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Sicilia, A.
+, 
+Testa, G.
+, 
+Santoro, D.F.
+, 
+Cosentino, S.L.
+, 
+Lo Piero, A.R.
+, 
+2019
+. 
+RNASeq analysis of giant cane reveals the leaf transcriptome dynamics under long-term salt stress
+. 
+BMC Plant Biol.
+19
+(
+1
+), 
+355
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Tang, Y.
+, 
+Xie, J.S.
+, 
+Geng, S.
+, 
+2010
+. 
+Marginal land-based biomass energy production in China
+. 
+J. Integr. Plant Biol.
+52
+, 
+112–121
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Tsugane, K.
+, 
+Kobayashi, K.
+, 
+Niwa, Y.
+, 
+Ohba, Y.
+, 
+Wada, K.
+, 
+Kobayashi, H.
+, 
+1999
+. 
+
+A recessive 
+Arabidopsis
+mutant that grows photoautotrophically under salt stress shows enhanced active oxygen detoxification
+
+. 
+Plant Cell
+11
+, 
+1195–1206
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Wang, Y.
+, 
+Nii, N.
+, 
+2000
+. 
+
+Changes in chlorophyll, ribulose bisphosphate carboxylaseoxygenase, glycine betaine content, photosynthesis and transpiration in 
+Amaranthus tricolor
+leaves during salt stress
+
+. 
+J. Hortic. Sci. Biotechnol.
+75
+, 
+623–627
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Watanabe, M.
+, 
+Ohnishi, J.
+, 
+Kanai, R.
+, 
+1984
+. 
+
+Intracellular localization of phosphoenolpyruvate carboxykinase in bundle sheath cells of C 
+4
+plants
+
+. 
+Plant Cell Physiol.
+25
+, 
+69–76
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Williams, C.M.J.
+, 
+Biswas, T.K.
+, 
+Black, I.D.
+, 
+Marton, L.
+, 
+Czako, M.
+, 
+Harris, P.L.
+, 
+Pollock, R.
+, 
+Heading, S.
+, 
+Virtue, J.G.
+, 
+2009
+. 
+
+Use of poor quality water to produce high biomass yields of giant reed (
+Arundo donax
+L.) on marginal lands for biofuel or pulp/paper
+
+. In: 
+Jaenicke, H.
+, 
+Ganry, J.
+, 
+Hoeschle-Zeledon, I.
+, 
+Kahane, R.
+(Eds.), 
+International Symposium on Underutilized Plants for Food Security, Nutrition, Income and Sustainable Development
+. 
+International Society for Horticultural Science, Arusha
+, pp. 
+595–602
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Wu, D.Z.
+, 
+Cai, S.G.
+, 
+Chen, M.X.
+, 
+Ye, L.Z.
+, 
+Chen, Z.H.
+, 
+Zhang, H.T.
+, 
+Dai, F.
+, 
+Wu, F.B.
+, 
+Zhang, G.P.
+, 
+2013
+. 
+Tissue metabolic responses to salt stress in wild and cultivated barley
+. 
+PloS One
+8
+(
+1
+), e 
+55431
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Yang, J.
+, 
+Zhang, J.
+, 
+Liu, K.
+, 
+Wang, Z.
+, 
+Liu, L.
+, 
+2007
+. 
+Involvement of polyamines in the drought resistance of rice
+. 
+J. Exp. Bot.
+58
+(
+6
+), 
+1545–1555
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Young, M.D.
+, 
+Wakefield, M.J.
+, 
+Smyth, G.K.
+, 
+Oshlack, A.
+, 
+2010
+. 
+Gene ontology analysis for RNA-seq: accounting for selection bas
+. 
+Genome Biol.
+11
+(
+2
+), R 
+14
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Zapata, P.J.
+, 
+Serrano, M.
+, 
+Pretel, M.T.
+, 
+Botella, M.A.
+, 
+2008
+. 
+Changes in free polyamine concentration induced by salt stress in seedlings of different species
+. 
+Plant Growth Regul.
+56
+, 
+167–177
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Zeeman, S.C.
+, 
+Thorneycroft, D.
+, 
+Schupp, N.
+, 
+Chapple, A.
+, 
+Weck, M.
+, 
+Dunstan, H.
+, 
+Haldimann, P.
+, 
+Bechtold, N.
+, 
+Smith, A.M.
+, 
+Smith, S.M.
+, 
+2004
+. 
+
+Plastidial α- glucan phosphorylase is not required for starch degradation in 
+arabidopsis
+leaves but has a role in the tolerance of abiotic stress
+
+. 
+Plant Physiol.
+135
+(
+2
+), 
+849–858
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Zhang, Y.
+, 
+Xiao, W.
+, 
+Luo, L.
+, 
+Pang, J.
+, 
+Rong, W.
+, 
+He, C.
+, 
+2012
+. 
+Downregulation of OsPK1, a cytosolic pyruvate kinase, by T-DNA insertion causes dwarfism and panicle enclosure in rice
+. 
+Planta
+235
+(
+1
+), 
+25–38
+. 
+https://doi.org/10.1007/s00425-011-1471-3
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Zhong, M.
+, 
+Yuan, Y.
+, 
+Shu, S.
+, 
+Sun, J.
+, 
+Guo, S.
+, 
+Yuan, R.
+, 
+Tang, Y.
+, 
+2016
+. 
+Effects of exogenous putrescine on glycolysis and Krebs cycle metabolism in cucumber leaves subjected to salt stress
+. 
+Plant Growth Regul.
+79
+, 
+319–330
+. 
+https://doi.org/10.1007/ s10725-015-0136-9
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Zhou, J.
+, 
+Rocklin, A.M.
+, 
+Lipscomb, J.D.
+, 
+Que, L.
+, 
+Solomon, E.I.
+, 
+2002
+. 
+Spectroscopic studies of 1-aminocyclopropane-1-carboxylic acid oxidase: molecular mechanism and CO(2) activation in the biosynthesis of ethylene
+. 
+J. Am. Chem. Soc.
+124
+(
+17
+), 
+4602–4609
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Zhu, J.K.
+, 
+2002
+. 
+Salt and drought stress signal transduction in plants
+. 
+Annu. Rev. Plant Biol.
+53
+, 
+247–273
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Zou, J.
+, 
+Qi, Q.
+, 
+Katavic, V.
+, 
+Marillia, E.-F.
+, 
+Taylor, D.C.
+, 
+1999
+. 
+
+Effects of antisense repression of an 
+Arabidopsis thaliana
+pyruvate dehydrogenase kinase cDNA on plant development
+
+. 
+Plant Mol. Biol.
+41
+, 
+837–849
+.
+</mixed-citation>
+            </ref>
+         </ref-list>
+      </sec>
+   </body>
+</article>

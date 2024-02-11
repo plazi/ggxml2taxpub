@@ -1,0 +1,1990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:tp="http://www.plazi.org/taxpub">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="other">N/A</journal-id>
+         <journal-title-group>
+            <journal-title>Phytochemistry</journal-title>
+         </journal-title-group>
+         <issn>N/A</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1016/j.phytochem.2021.112964</article-id>
+         <title-group>
+            <article-title>The antioxidant potential of retrochalcones isolated from liquorice root: A comparative DFT study</article-title>
+         </title-group>
+         <pub-date date-type="pub">
+            <day>31</day>
+            <month>12</month>
+            <year>2021</year>
+         </pub-date>
+         <kwd-group>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Glycyrrhiza
+species
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Fabaceae</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Glycyrrhiza
+species
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Glycyrrhiza
+species (Fabaceae)
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+G. glabra
+Linn.
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+G. echinata
+Linn.
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+G. inflate
+Batalin
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+G. uralensis
+Fisch. It
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>form the</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>form the</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>form the</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>form the</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>form the</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>form the</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Glycyrrhiza species</tp:taxon-name>
+            </kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="multiple">
+         <title>N/A</title>
+         <p>
+The antioxidant potential of retrochalcones isolated from liquorice root: A comparative DFT study
+</p>
+         <p>
+Ankit Mittal, Rita Kakkar
+*
+</p>
+         <p>
+
+Computational Chemistry Laboratory, Department of Chemistry, University of 
+Delhi
+, 
+Delhi
+, 110007, 
+India
+</p>
+         <p>A R T I C L E I N F O</p>
+      </sec>
+      <sec sec-type="key_words">
+         <title>
+Keywords:
+</title>
+         <p>
+            <tp:taxon-name>
+Glycyrrhiza
+species
+</tp:taxon-name>
+         </p>
+         <p>
+            <tp:taxon-name>Fabaceae</tp:taxon-name>
+         </p>
+         <p>Antioxidant activity</p>
+         <p>Retrochalcones</p>
+         <p>Licochalcones</p>
+         <p>Reactive oxygen and nitrogen species</p>
+         <p>A B S T R A C T</p>
+         <p>
+Polyphenolic compounds are known to exhibit potent antioxidant properties owing to the presence of various phenolic groups. The present study reports the antioxidant potentials of six retrochalcones, namely echinatin, and licochalcone A, B, C, D and E, isolated from the root of the 
+<tp:taxon-name>
+Glycyrrhiza
+species
+</tp:taxon-name>
+, toward various reactive oxygen and nitrogen species. Different mechanistic pathways, 
+viz.
+hydrogen atom transfer (HAT), single electron transfer (SET), single electron transfer followed by proton transfer (SET-PT), and sequential proton loss electron transfer (SPLET), have been considered. In addition, two other pathways, i.e. sequential double proton loss electron transfer (SdPLET) and sequential proton loss hydrogen atom transfer (SPLHAT), which are significant for the scavenging of reactive species by the mono-deprotonated forms of retrochalcones, have also been considered. All the calculations were performed using density functional theory at the B3LYP/6–311++G** level in the gas phase and in aqueous solution. The results suggest the predominance of the HAT mechanism in the gas phase, while in aqueous solution, the SPLET mechanism is thermodynamically favored. The possibility of SdPLET increases at higher pH.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+1. Introduction
+</title>
+         <p>
+Liquorice (also known as 
+yashtimadhu
+and 
+mulethi
+), a potent medicinal herb, is derived from the roots and rhizomes of different 
+<tp:taxon-name>
+Glycyrrhiza
+species (Fabaceae)
+</tp:taxon-name>
+, 
+viz
+. 
+<tp:taxon-name>
+G. glabra
+Linn.
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+G. echinata
+Linn.
+</tp:taxon-name>
+, 
+<tp:taxon-name>
+G. inflate
+Batalin
+</tp:taxon-name>
+or 
+<tp:taxon-name>
+G. uralensis
+Fisch. It
+</tp:taxon-name>
+has been used worldwide for the treatment of a number of diseases for over a century now (
+
+; Song et al., 2017). So far, more than 400 compounds have been extracted from the root of the 
+G.
+species, including retrochalcones, 
+viz
+. echinatin and licochalcone A, B, C, D and E. These have a wide array of pharmacological activities such as antioxidant, anti-inflammatory, anti-cancer, anti-bacterial, anti-diabetic, anti-obesity, anti-parasitic, to name a few (
+
+).
+</p>
+         <p>
+Retrochalcones are polyphenolic compounds and thus have the potential to scavenge different reactive species. Recently, we examined the antioxidant potential of echinatin toward eighteen different reactive oxygen species and it was found to effectively scavenge fifteen of the considered eighteen species (
+
+). It follows that the other retrochalcones should also have the potential to scavenge different reactive species. In this regard, we have considered six reactive oxygen and nitrogen species (ROS/RNS) which are known to exert damaging effects in biological systems. The ROS include the hydroxyl and hydroperoxyl radicals, superoxide and carbonate radical anions, and the RNS include the nitrogen monoxide and nitrogen dioxide radicals.
+</p>
+         <p>
+The hydroxyl radical is the most oxidizing ROS and is responsible for the oxidative damage to DNA. The long half-life of the hydroperoxyl radical allows it to reach remote cellular locations. Although the reactivity of the nitric oxide radical is low, its excessive production may lead to cellular damage. It may react with the superoxide radical anion and produce peroxynitrite, which is a powerful oxidizing and nitrating agent, capable of damaging proteins, lipids and DNA (
+
+; 
+
+).
+</p>
+         <p>
+A chalcone framework consists of two aromatic rings, named A and B, connected through a three-carbon, α,β- unsaturated ketone group (–CO– 
+CH
+––CH-), as shown in 
+Fig. 1
+. The absence of hydroxyl groups at the C2 
+′
+and C6’ positions of ring A of the normal chalcone framework differentiates retrochalcones from the class of normal chalcones. All the retrochalcones have been found to exist in the s-cis conformation of their 
+E
+forms in the ground state. Hence, the basic skeleton of the retrochalcones in 
+Fig. 1
+is represented as s-cis.
+</p>
+         <p>
+In the present work, we have considered six retrochalcones, 
+viz
+. echinatin (
+1
+), licochalcone A (
+2
+), licochalcone B (
+3
+), licochalcone C (
+4
+), licochalcone D (
+5
+) and licochalcone E (
+6
+), which differ in the position of three substituents, i.e. 1ˮ,1ˮ-dimethylallyl, 3ˮ-methyl-2ˮ-butenyl (or prenyl) and 1ˮ,2ˮ-dimethyl-2ˮ-propenyl, represented as X, Y and Z, respectively, in addition to the hydroxyl group (
+Fig. 1
+). The ground state conformations of the compounds (
+1–6
+) were determined in our previous work, and are shown in 
+Fig. 2
+(Mittal et al., 2020; 
+
+). All the species in the present work were generated from these most stable conformations of the considered retrochalcones.
+</p>
+         <p>* Corresponding author.</p>
+         <p>
+E-mail address:
+rkakkar@chemistry.du.ac.in (R. Kakkar).
+</p>
+         <p>
+It has been reported that the scavenging of various reactive species could be achieved via some well-known mechanisms, 
+viz
+. hydrogen atom transfer (HAT), single electron transfer (SET), single electron transfer followed by proton transfer (SET-PT), and sequential proton loss electron transfer (SPLET). These mechanisms are associated with various thermodynamic parameters such as bond dissociation enthalpy (BDE), electron affinity (EA), ionization potential (IP), proton dissociation enthalpy (PDE), proton affinity (PA) and electron transfer enthalpy (ETE). In addition to these, the mono-deprotonated forms of the polyphenolic compounds, i.e. Ch(OH) 
+
+n
+-1
+
+O, may further exhibit HAT and SPLET mechanisms, resulting in mechanisms which are popularly known as sequential proton loss hydrogen atom transfer (SPLHAT) and sequential double proton loss electron transfer (SdPLET), respectively (
+
+; 
+
+). The parameters associated with these pathways are represented as BDE 
+
+a
+
+, PA2 and ETE 
+
+a
+
+, where the subscript ‘ 
+
+a
+’
+
+indicates the anionic form. All the possible routes for the scavenging processes are illustrated in 
+Fig. 3
+.
+</p>
+         <p>The main objective of this work is to study all the probable routes of the antioxidant mechanisms and determine the most preferred pathway, along with the site responsible for the inactivation of ROS/RNS in the gas phase and in aqueous solution for all the six considered retrochalcones in their neutral as well as mono-deprotonated forms. A number of global chemical reactivity descriptors (GCRD) have been determined for the analysis of the relative reactivity of the considered ROS/RNS. Further, the equilibrium constants were computed to ascertain the feasibility of scavenging of the ROS/RNS under study by the considered retrochalcones in aqueous solution and these were compared with the hydrogen atom affinity (HAA) results.</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2. Results and discussion
+</title>
+         <p>
+The scavenging of a reactive species (ROS/RNS) by an antioxidant molecule can proceed via different pathways involving hydrogen atom abstraction by the reactive species from the neutral form (HAT, SET-PT and SPLET), mono-deprotonated form (SPLHAT and SdPLET) and single electron transfer (SET) from and to the antioxidant molecule. In general, the H-atom abstraction by a reactive species (R 
+•
+) from the neutral, Ch (OH) 
+
+n
+
+and the mono-deprotonated form, Ch(OH) 
+
+n
+-1
+
+O, of a polyphenolic compound can be represented by equations (1) and (2), respectively.
+</p>
+         <p>
+Ch(OH) 
+
+n
+
++R 
+•
+→ Ch(OH) 
+
+n
+-1
+
+O 
+•
++ RH (1) Ch(OH) 
+
+n
+-1
+
+O + R 
+•
+→ [Ch(OH) 
+
+n
+-2
+
+OO] 
+•‾
++RH (2)
+</p>
+         <p>
+In this work, we have studied all the possible pathways for the antioxidant behavior of compounds 
+
+1–6
+in
+
+the gas phase and in aqueous solution.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.1. HAT mechanism: bond dissociation enthalpies
+</title>
+         <p>
+HAT indicates the transfer of the H 
+•
+from a phenolic site of an antioxidant molecule to the reactive species. The dissociation of this H 
+•
+from the phenolic site can be shown as
+</p>
+         <p>
+Ch(OH) 
+
+n
+
+→ Ch(OH) 
+
+n
+-1
+
+O 
+•
++ H 
+•
+(3)
+</p>
+         <p>The enthalpy change accompanying reaction (3), termed as the bond dissociation enthalpy (BDE) of the phenolic groups present in the antioxidant molecule, can be calculated as</p>
+         <p>
+BDE = 
+H
+(Ch(OH) 
+
+n
+-1
+
+O 
+•
+) + 
+H
+(H 
+•
+) - 
+H
+(Ch(OH) 
+
+n
+
+)
+</p>
+         <p>
+(4) where 
+H
+indicates the enthalpy of the respective species. The enthalpies of the hydrogen atom, 
+H
+(H 
+•
+), in the gas phase and in aqueous solution were taken as 312.4 and 313.4 kcal mol 
+1
+, respectively (Markovic´et al., 2016; Rimarˇcík et al., 2010). The computed enthalpies of the different forms of compounds 
+1–6
+, 
+viz
+. neutral, mono-, di- and tri-anionic, radical, radical cation, radical anion (neutral and deprotonated form) in the gas phase and in aqueous solution are given in 
+Table S1
+of the Supporting Information. The calculated BDE values of each hydroxyl group present in compounds 
+
+1–6
+in
+
+the gas phase and in aqueous solution are listed in 
+Table 1
+.
+</p>
+         <p>
+It can be observed that in the case of compounds 
+1
+, 
+2
+, 
+4
+and 
+6
+, the BDE of the 4-OH group is smaller than that of the 4 
+′
+-OH group, whereas for compounds 
+3
+and 
+5
+, the 3-OH group has the smallest BDE value, followed by the 4-OH group and then the 4 
+′
+-OH group, in both the gas phase and in aqueous solution. Further, the BDE value of the 4-OH group is observed to be suppressed in aqueous solution, while for the 3-OH group in compounds 
+3
+and 
+5
+, and the 4 
+′
+-OH group in all the compounds except compound 
+5
+, the value is increased. Among all the possible hydrogen atom donation sites in the compounds under study, the 3-OH groups of compounds 
+3
+and 
+5
+have the least BDE values of ~75 kcal mol 
+1
+. This can be attributed to the formation of intramolecular hydrogen bonds by the hydroxyl group at position 3 with the adjacent hydroxyl and methoxyl groups of ring B in the compounds. However, the hydrogen bond with the methoxyl group is disrupted during the HAT process, resulting in the requirement of additional energy for the formation of the radical. However, the hydrogen bond with the 4-OH group contributes to the stability of the formed radical. Thus, the 3-OH group is the first site of H 
+•
+donation in these two compounds. In the other compounds, 4-OH can be considered as the first site of H 
+•
+donation in both the gas phase and in aqueous solution. This confirms that ring B of the retrochalcones is the preferred site for radical attack; however, the selectivity and reactivity of the attacking species play major roles in deciding the exact position of attack.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.2. SET mechanism: ionization potentials and electron affinities
+</title>
+         <p>Another mechanism by which an antioxidant molecule can scavenge different reactive species involves the transfer of an electron either from the antioxidant molecule to the reactive species or vice versa. The loss of an electron from the antioxidant molecule results in the formation of the respective radical cation, as shown in equation (5), and the gain of an electron results in the respective radical anion (equation (6)).</p>
+         <p>
+Ch(OH) 
+
+n
+
+→ Ch(OH) 
+
+n
+•+
++ e (5)
+</p>
+         <p>
+Ch(OH) 
+
+n
+
++e → Ch(OH) 
+
+n
+•‾
+(6)
+</p>
+         <p>These two processes are characterized, respectively, by the ionization potential (IP) and electron affinity (EA) of the antioxidant molecule, given as</p>
+         <p>
+IP = 
+H
+(Ch(OH) 
+
+n
+•+
+) + 
+H
+(e) – 
+H
+(Ch(OH) 
+
+n
+
+) (7) EA = 
+H
+(Ch(OH) 
+
+n
+•‾
+) - 
+H
+(e) – 
+H
+(Ch(OH) 
+
+n
+
+) (8)
+</p>
+         <p>
+The enthalpies of the electron, 
+H
+(e), in the gas phase and in aqueous solution were taken as 0.8 and 23.3 kcal mol 
+1
+, respectively. The IP and EA values of compounds 
+
+1–6
+in
+
+the gas phase and in aqueous solution are listed in 
+Table 2
+.
+</p>
+         <p>
+It can be observed that all the retrochalcones have very high values of the IP in the gas phase, which are greatly reduced, approximately by 60 kcal mol 
+1
+, in aqueous solution. This indicates the ease of electron transfer in aqueous solution and thus the free radical scavenging process. The sequence of IP values of compounds 
+
+1–6
+in
+
+the gas phase is observed to be 
+3&gt; 1
+&gt;
+5&gt; 4
+&gt;
+6&gt; 2,
+whereas in aqueous solution the IP values follow the order: 
+3&gt; 5 ~ 4&gt; 1
+&gt;
+6&gt; 2
+. Compound 
+2
+has the lowest value of the IP in both the gas phase and in aqueous solution, which reflects its superior scavenging ability through transfer of an electron to the reactive species.
+</p>
+         <p>
+The EA values of the considered compounds follow the same order in the gas phase as in aqueous solution, i.e. 
+3&gt; 5
+&gt;
+4&gt; 1
+&gt;
+6&gt; 2
+. Thus, compound 
+3
+has the most negative value of EA and thus the highest affinity for the electron. In aqueous solution, the EA values of all the compounds become more negative, by ~20 kcal mol 
+1
+, indicating further enhancement of the electron accepting ability.
+</p>
+         <p>
+Furthermore, both the IP and EA values of compound 
+3
+are greater than those of compound 
+5
+owing to the presence of a prenyl group at the 3’ position of compound 
+5
+. In addition, it can be observed that introduction of the 1ˮ,1ˮ-dimethylallyl and 1ˮ,2ˮ-dimethyl-2ˮ-propenyl groups to the chalcone framework reduces both the IP and EA values.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.3. SET-PT mechanism: ionization potentials and proton dissociation enthalpies
+</title>
+         <p>
+SET-PT is the other possible pathway for the quenching of reactive species. The first step of this mechanism is the same as that given in equation (5), and the associated enthalpy change is the IP. In the second step, the resulting species, i.e. the radical cation of the parent molecule, undergoes deprotonation to 
+<tp:taxon-name>form the</tp:taxon-name>
+respective radical species, as shown in equation (9),
+</p>
+         <p>
+Ch(OH) 
+n
+•+→ Ch(OH) 
+n
+-1O• + H+ (9)
+</p>
+         <p>The enthalpy change corresponding to this step, called the proton dissociation enthalpy (PDE), can be calculated using equation (10)</p>
+         <p>
+PDE = 
+H
+(Ch(OH) 
+
+n
+-1
+
+O 
+•
+) + 
+H
+(H 
++
+) - 
+H
+(Ch(OH) 
+
+n
+•+
+) (10) The enthalpies of the proton, 
+H
+(H 
++
+), in the gas phase and in aqueous solution were taken as 1.5 and 250.7 kcal mol 
+1
+, respectively. The PDE values of each deprotonating site of compounds 
+
+1–6
+in
+
+the gas phase and in aqueous solution are given in 
+Table 3
+.
+</p>
+         <p>
+</p>
+         <p>
+</p>
+         <p>
+It can be observed that the gas phase PDE of all the possible deprotonating sites of compounds 
+1–6
+are above 200 kcal mol 
+1
+, However, in aqueous solution, they are reduced manifolds and lie in the range of about 10–20 kcal mol 
+1
+. The gas phase and aqueous solution PDE of the 4-OH group is found to be less than that of the 4 
+′
+-OH group in all the compounds under study. In compounds 
+3
+and 
+5
+, the PDE of the 3-OH group is the least, i.e. about 9.5 kcal mol 
+1
+, in aqueous solution. Furthermore, the PDE of 4-OH decreases on introducing a hydroxyl group at the 3 position, i.e. in compounds 
+3
+and 
+5
+, due to the formation of intramolecular hydrogen bonds.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.4. SPLET mechanism: proton affinities and electron transfer enthalpies
+</title>
+         <p>
+Another important mechanism for the scavenging of reactive species is the SPLET mechanism. The first step is deprotonation of the parent compound to 
+<tp:taxon-name>form the</tp:taxon-name>
+respective anion (equation (11)). This is followed by the loss of an electron from the resulting anion to give the radical species, as shown in equation (12),
+</p>
+         <p>
+Step I
+Ch(OH) 
+
+n
+
+→ Ch(OH) 
+
+n
+-1
+
+O + H 
++
+(11) 
+Step II
+Ch(OH) 
+
+n
+-1
+
+O → Ch(OH) 
+
+n
+-1
+
+O 
+•
++e (12)
+</p>
+         <p>The enthalpy changes associated with Steps I and II are characterized by the terms first proton affinity (PA1) and electron transfer enthalpy (ETE), respectively, and calculated as</p>
+         <p>
+PA1 = 
+H
+(Ch(OH) 
+
+n
+-1
+
+O) + 
+H
+(H 
++
+) - 
+H
+(Ch(OH) 
+
+n
+
+) (13) ETE = 
+H
+(Ch(OH) 
+
+n
+-1
+
+O 
+•
+) + 
+H
+(e) - 
+H
+(Ch(OH) 
+
+n
+-1
+
+O) (14)
+</p>
+         <p>
+The calculated PA1 and ETE values for all the hydroxyl groups in compounds 
+
+1–6
+in
+
+the gas phase and in aqueous solution are given in 
+Table 3
+.
+</p>
+         <p>
+The gas phase PA1 values for the hydroxyl groups of compounds 
+1–6
+are very high, i.e. over 300 kcal mol 
+1
+, but are reduced significantly, by approximately ten times, in aqueous solution, thus enhancing the ease of deprotonation. It can be observed that in compound 
+1
+, the PA1 value of the 4-OH group is less than that of the 4 
+′
+-OH group in both the gas phase and in aqueous solution, whereas in the case of compounds 
+2
+, 
+4
+and 
+6
+, the 4-OH group has a smaller PA1 value than the 4 
+′
+-OH group in the gas phase, while in aqueous solution, the 4 
+′
+-OH group has a smaller PA1 value than the 4-OH group.
+</p>
+         <p>
+Further, it is observed that in the case of compounds 
+3
+and 
+5
+, the difference between the PA1 values corresponding to sites 3, 4 and 4 
+′
+, lies within 1 kcal mol 
+
+1
+in
+
+aqueous solution. Hence, it is difficult to make a clear distinction about the sequence of deprotonation of the hydroxyl groups in these two compounds. Hence, we calculated the sequential p 
+
+Ka
+
+values of each deprotonation site using density functional theory. The 3- OH group was found to have the lowest p 
+
+Ka
+
+value; hence, this is the first deprotonation site, followed by 4 
+′
+-OH and then 4-OH (
+
+).
+</p>
+         <p>
+The gas phase ETE values lie in the range 60–70 kcal mol 
+1
+, and increase by only 15–25 kcal mol 
+
+1
+in
+
+aqueous solution. The site of electron loss is different from the site of deprotonation in the gas phase and in aqueous solution. In the case of compounds 
+1
+, 
+2
+, 
+4
+and 
+6
+, 4 
+′
+-OH is the preferred site for electron loss in the gas phase while in aqueous solution, the 4-OH site is preferred. Furthermore, in compounds 
+3
+and 
+5
+, the ETE values of the hydroxyl groups follow the order 3-OH 
+&lt;
+4-OH 
+&lt;
+4 
+′
+-OH in both the gas phase and in aqueous solution. The lowest value of the ETE for the 3-OH group can be ascribed to intramolecular hydrogen bond formation.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.5. SPLHAT mechanism: proton affinities and bond dissociation enthalpies
+</title>
+         <p>The mono-deprotonated forms of the retrochalcones may further undergo HAT and SPLET pathways. These two pathways are known as SPLHAT and SdPLET mechanisms of the neutral forms of the retrochalcones. Therefore, the initial step of both the mechanisms is the deprotonation of the parent compound to give the monoanion, represented by equation (11), and the enthalpy change for this step is the first proton affinity (PA1), as calculated by equation (13).</p>
+         <p>In the subsequent step, the resultant monoanion transfers a hydrogen atom to the reactive species and is converted into the corresponding radical anion, as given below</p>
+         <p>
+Ch(OH) 
+
+n
+-1
+
+O → [Ch(OH) 
+
+n
+-2
+
+OO] 
+•‾
++H 
+•
+(15)
+</p>
+         <p>
+The enthalpy change associated with equation (15) is termed the bond dissociation enthalpy of the anionic form, represented as BDE 
+
+a
+
+, and calculated as follows
+</p>
+         <p>
+BDE 
+
+a
+
+= 
+H
+([Ch(OH) 
+
+n
+-2
+
+OO] 
+•‾
+) + 
+H
+(H 
+•
+) - 
+H
+(Ch(OH) 
+
+n
+-1
+
+O) (16)
+</p>
+         <p>
+The BDE 
+
+a
+
+values for the monoanions of compounds 
+
+1–6
+in
+
+the gas phase and in aqueous solution are given in 
+Table 4
+. The sequence of deprotonation in the gas phase and aqueous solution is found to be different on the basis of the PA1 values. Therefore, a variation is observed in the gas phase and in aqueous solution BDE 
+
+a
+
+values. The gas phase BDE 
+
+a
+
+values for the monoanionic forms of all the compounds lie very close to each other, i.e. within a gap of 0.6 kcal mol 
+1
+. In aqueous solution, compounds 
+3
+and 
+5
+exhibit the lowest value of the BDE.
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+a
+In case of compounds 
+3
+and 
+5
+, the BDE values are given for the 3-O-monoanion to 
+<tp:taxon-name>form the</tp:taxon-name>
+3,4-O,O-radical anion.
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+a
+b
+In the case of compounds 
+3
+and 
+5
+, the PA2 values are given for the 3-O-monoanion to 
+<tp:taxon-name>form the</tp:taxon-name>
+3,4 
+′
+-O,O-dianion.
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+c
+The ETE values are given for the respective dianionic forms.
+</p>
+      </sec>
+      <sec sec-type="inferred">
+         <title>Orphanage</title>
+         <p>
+a
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.6. SdPLET mechanism: proton affinities and electron transfer enthalpies
+</title>
+         <p>
+The initial step of this pathway is similar to that of SPLET and SPLHAT, i.e. the deprotonation of the neutral form of the parent compound to 
+<tp:taxon-name>form the</tp:taxon-name>
+monoanion. This is again followed by deprotonation to 
+<tp:taxon-name>form the</tp:taxon-name>
+respective dianion, as shown in equation (17), and the accompanying enthalpy change is termed the second proton affinity (PA2), which can be determined using equation (18).
+</p>
+         <p>
+Ch(OH) 
+
+n
+-1
+
+O → [Ch(OH) 
+
+n
+-2
+
+OO] 
+2-
++H 
++
+(17) PA2 = 
+H
+([Ch(OH) 
+
+n
+-2
+
+OO] 
+2-
+) + 
+H
+(H 
++
+) - 
+H
+(Ch(OH) 
+
+n
+-1
+
+O) (18)
+</p>
+         <p>
+The next step involves the loss of an electron from the resulting dianion species to give the radical anion (equation (19)), and the enthalpy change associated with this step is characterized by the electron transfer enthalpy of the dianion (ETE 
+
+a
+
+) and is calculated using equation (20).
+</p>
+         <p>
+[Ch(OH) 
+
+n
+-2
+
+OO] 
+2-
+→ [Ch(OH) 
+
+n
+-2
+
+OO] 
+•‾
++e (19) ETE 
+
+a
+
+= 
+H
+([Ch(OH) 
+
+n
+-2
+
+OO] 
+•‾
+) + 
+H
+(e) - 
+H
+([Ch(OH) 
+
+n
+-2
+
+OO] 
+2-
+) (20)
+</p>
+         <p>
+The PA2 and ETE 
+
+a
+
+values for the respective anionic forms of compounds 
+
+1–6
+in
+
+the gas phase and aqueous solution are given in 
+Table 4
+.
+</p>
+         <p>
+As expected, the PA2 values are higher than the PA1 values for all the compounds under study. Like the PA1 values, the PA2 values are also very high in the gas phase, i.e. in the range of 375–385 kcal mol 
+1
+, but are reduced to approximately 35 kcal mol 
+
+1
+in
+
+aqueous solution. The order of PA2 values for compounds 
+
+1–6
+in
+
+aqueous solution is 
+2
+&gt;
+6
+&gt;
+4
+&gt;
+1
+&gt;
+5
+&gt;
+3
+. The lowest PA2 value for compound 
+3
+shows its ease of deprotonation for the scavenging process. Unlike the ETE values, the ETE 
+
+a
+
+values for all the compounds in the gas phase are very low, i.e. less than ~10 kcal mol 
+1
+, which increase manyfold in aqueous solution and reach approximately 80 kcal mol 
+1
+.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.7. Thermodynamically preferred reaction pathway
+</title>
+         <p>
+All the calculated thermodynamic parameters, 
+viz
+. BDE, IP, EA, PA1, BDE 
+
+a
+
+and PA2, corresponding to the initial step of the studied mechanisms for the neutral as well as mono-deprotonated forms of compounds 
+1–6
+have been calculated in order to determine the thermodynamically preferred reaction pathway in the gas phase and in aqueous solution. In the gas phase, the BDE values of the hydroxyl groups in the considered compounds are significantly lower than the corresponding IP and PA1 values. Likewise, the BDE 
+
+a
+
+values for the monoanionic forms of compounds 
+
+1–6
+in
+
+the gas phase are appreciably lower than the corresponding PA2 values, but the PA1 values are extremely high. This removes the possibility of the SPLHAT and SdPLET mechanisms in the gas phase. Therefore, the HAT mechanism is the preferred pathway in the gas phase for all the compounds under study.
+</p>
+         <p>
+</p>
+         <p>
+In aqueous solution, the PA1 values are significantly lower than the corresponding BDE and IP values. This suggests that the SPLET mechanism would be the favorable pathway for the neutral forms of compounds 
+
+1–6
+in
+
+aqueous solution. Further, the PA2 values of the monoanionic forms are approximately half of the ETE values. Thus, double deprotonation would be a favorable process, provided the pH of the solution is high, which would result in the SdPLET mechanism in aqueous solution. The obtained results are found to be consistent with the previously reported results for the polyhydroxy chalcones in the gas phase and aqueous solution (
+
+; Wang et al., 2015; Xue et al., 2013).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.8. Quenching of ROS/RNS
+</title>
+         <p>
+Several studies have reported that the energetics of the species to be scavenged also play an important role in determining the properties of an antioxidant molecule. Thus, we have considered two parameters, 
+viz
+. hydrogen atom affinity (HAA) and electron affinity (EA), mainly responsible for the quenching of reactive species. The enthalpy changes associated with equations (21) and (22) correspond to the HAA and EA of the reactive species, respectively.
+</p>
+         <p>
+R 
+•
++ H 
+•
+→ RH (21)
+</p>
+         <p>
+R 
+•
++ e → R 
+‾
+(22)
+</p>
+         <p>
+Here, we have considered six ROS/RNS, which are important for biological systems. The ROS include the hydroxyl and hydroperoxyl radicals, and the superoxide and carbonate radical anions, and the RNS include the nitric oxide and nitrogen dioxide radicals. The computed HAA and EA values of the considered ROS/RNS in the gas phase and in aqueous solution are given in 
+Table 5
+.
+</p>
+         <p>
+The computed enthalpies of the ROS/RNS under study, along with those of their neutral and anionic forms, in both gas phase and aqueous solution, are given in 
+Table S2
+. The enthalpy values for the hydrogen atom and electron in the gas phase (aqueous solution) were taken as 312.4 (313.4) and 0.8 (23.3) kcal mol 
+1
+, respectively. The experimental value of 
+Δsolv
+H
+(H 
+•
+), i.e. 1.0 kcal mol 
+1
+was used to calculate the enthalpy of the hydrogen atom in aqueous solution (Markovi´c et al., 2016; Rimarˇcík et al., 2010).
+</p>
+         <p>
+a
+Triplet state of NO‾ was considered for calculating the EA
+
+</p>
+         <p>.</p>
+         <p>The HAA of the hydroxyl radical is found to be exceptionally high among the considered ROS//RNS in both the gas phase and in aqueous solution. However, the HAAs of the superoxide radical anion and the nitrogen monoxide radical lie in the lower range and thus they could be considered as inefficacious toward accepting a hydrogen atom in either the gas phase or in aqueous solution. This could be verified by the equilibrium constants for the reaction of the antioxidant molecules with the reactive species to be scavenged. Moreover, the HAA of most of the species under study increases on solvation, except for the nitrogen dioxide radical for which it decreases. This affects the HAT mechanism of the scavenger.</p>
+         <p>
+In the gas phase, four radicals, 
+viz
+. hydroxyl, hydroperoxyl, nitric oxide and nitrogen dioxide, show the tendency to accept an electron, whereas in aqueous solution, all the considered ROS/RNS show this tendency with higher affinity. This affects the SET mechanism of the scavenger. The higher HAA and EA values for the hydroxyl radical make it the most reactive species among the considered ROS/RNS.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.9. Global chemical reactivity descriptors (GCRD)
+</title>
+         <p>
+The relative reactivity of the ROS/RNS under study was further analyzed by calculating their global chemical reactivity descriptors (GCRD), 
+viz.
+global chemical hardness (
+η
+), global chemical potential (
+μ
+), electronegativity (
+χ
+), global electrophilicity (
+ω
+) and nucleophilicity (
+N
+) indices, in the gas phase and in aqueous solution, as given in 
+Table 6
+. These reactivity descriptors were calculated using the following relations: 
+η
+=(
+E
+β
+LUMO
+- 
+E
+α
+HOMO
+), 
+μ
+=(
+E
+α
+HOMO
++ 
+E
+β
+LUMO
+)/2, 
+χ
+=- 
+μ,
+and 
+ω
+= 
+μ
+2
+/2 
+η
+(Domingo and Perez´, 2013; 
+
+; 
+
+). 
+E
+α
+HOMO
+and 
+E
+β
+LUMO
+represent the HOMO and LUMO energies of the 
+α
+and 
+β
+spin states of the reactive species, respectively. The global nucleophilicity (
+N
+) was calculated relative to the fluorine radical (Wu et al., 2017). The energies of the HOMO of the 
+α
+spin states and LUMO of the 
+β
+spin states of the considered ROS/RNS in the gas phase and aqueous solution are listed in 
+Table S3
+.
+</p>
+         <p>Here, it can be observed that the electronegativities of the hydroxyl and nitrogen dioxide radicals lie on the higher side as compared to the other reactive species under study. The electrophilicity indices of the superoxide and carbonate radical anions are the lowest among the considered species in the gas phase. However, the nucleophilicity indices of these two species are higher than those of the other four. These variations in the reactivities of the considered species prompted us to investigate the scavenging of these ROS/RNS with the different retrochalcones under study.</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.10. Equilibrium constants of reaction of retrochalcones with ROS/RNS
+</title>
+         <p>
+Let us now consider the feasibility of the scavenging process of different ROS/RNS by the neutral as well as the mono-deprotonated forms of compounds 
+
+1–6
+in
+
+aqueous solution. The overall redox reaction of the neutral and mono-deprotonated retrochalcones with the ROS/RNS can be represented by equations (23) and (24), respectively.
+</p>
+         <p>
+Ch(OH) 
+
+n
+
++R 
+•
+→ Ch(OH) 
+
+n
+•
++ RH (23) Ch(OH) 
+
+n
+-1
+
+O + R 
+•
+→ [Ch(OH) 
+
+n
+-2
+
+OO] 
+•‾
++RH (24)
+</p>
+         <p>
+As we had found that both the forms favor the SPLET mechanism in aqueous solution, the equilibrium constants corresponding to both the reactions were calculated using the procedure employed in our earlier work (
+
+).
+</p>
+         <p>
+The standard hydration Gibbs energy of the proton was taken as 265.9 kcal mol 
+1
+at 298.15 K and 1 atm (
+
+; 
+
+). The basicities for the different deprotonating sites of the neutral and deprotonated forms of compounds 
+1–6
+were taken from our previous work (
+
+). The computed Gibbs energies of the considered ROS/RNS, along with those of their neutral and anionic forms, in the gas phase and in aqueous solution, are listed in 
+Table S2
+of the Supporting Information. The computed Gibbs energies of the different forms of compounds 
+1–6
+, 
+viz
+. neutral, mono-, di- and tri-anionic, radical, radical cation, radical anion (neutral and deprotonated form) in the gas phase and in aqueous solution are given in 
+Table S1
+. The computed equilibrium constants for the overall redox reactions of compounds 
+
+1–6
+in
+
+their neutral and mono-deprotonated forms (in parentheses) with the considered ROS/RNS are given in 
+Table 7
+.
+</p>
+         <p>
+Among the considered ROS/RNS, the hydroxyl radical has the highest value of the equilibrium constant for reaction with both the neutral and mono-deprotonated forms of all the compounds under study. Therefore, we may conclude that the scavenging of hydroxyl radicals is highly favorable and spontaneous by the retrochalcones at the physiological pH. On comparative analysis, it is observed that compounds 
+3
+and 
+5
+have higher equilibrium constants than the other compounds for all the ROS/RNS under study. This is due to the presence of a larger number of hydroxyl groups in these two compounds, which enhances the antioxidant activities of these compounds. This result is in line with the previously reported studies on the scavenging and antioxidant activity of dihydrochalcones and their derivatives against various oxygen and nitrogen radical species (
+
+). In these two compounds, the first deprotonation takes place from the 3-OH group, followed by the 4 
+′
+-OH group, as manifested by the calculated p 
+
+Ka
+
+values. Since the exponents of the equilibrium constants for the scavenging of 
+•
+NO by the compounds 
+1–6
+are all negative, 
+•
+NO is not scavenged by the retrochalcones. For the superoxide radical anion, compounds 
+1
+, 
+3
+and 
+5
+show little tendency to scavenge this radical in their neutral forms, while compounds 
+2
+, 
+4
+and 
+6
+do not scavenge this radical at all. However, the mono-deprotonated forms of all the compounds 
+1–6
+exhibit the ability to scavenge the superoxide radical anion.
+</p>
+         <p>
+</p>
+         <p>
+</p>
+         <p>
+The higher values of the equilibrium constants in the case of the mono-deprotonated forms of the retrochalcones indicate their greater potential for scavenging the reactive species. The ease of scavenging of the considered ROS/RNS by both the neutral and mono-deprotonated forms of compounds 
+1–6
+follows the order: 
+•
+OH
+&gt;
+CO 
+3
+•‾
+&gt;
+•
+OOH
+&gt;
+•
+NO 
+2
+&gt;
+O 
+2
+•‾
+, which is consistent with the order of the hydrogen atom affinity (HAA) in aqueous solution.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+3. Conclusions
+</title>
+         <p>In this work, the antioxidant properties of six different retrochalcones isolated from the liquorice root were evaluated using density functional theory at the B3LYP/6–311++G** level in the gas phase and in aqueous solution. The findings of this work demonstrate that all the compounds under study exhibit potent antioxidant potential to scavenge various ROS/RNS. The comparative analysis of the thermodynamic parameters with respect to the various steps involved in each mechanism suggests the predominance of the HAT mechanism in the gas phase. However, in aqueous solution, the SPLET mechanism is the preferred pathway at the physiological pH, but the feasibility of the SdPLET pathway increases at higher pH.</p>
+         <p>Among the considered ROS/RNS, the hydroxyl radical displays the highest affinity for the hydrogen atom and electron. The highest value of the equilibrium constants for the hydroxyl radical also suggests its highly favorable and spontaneous scavenging by the retrochalcones at the physiological pH. Furthermore, based on the calculated equilibrium constant values, we may conclude that the neutral as well as mono-deprotonated forms of the retrochalcones are able to scavenge the hydroxyl and hydroperoxyl radicals, the carbonate radical anion, and the nitrogen dioxide radical effectively, while they show little tendency to scavenge the superoxide radical anion and are found to be inefficacious toward the nitrogen monoxide radical. The HAA of the reactive species under study are also in accordance with the results obtained from calculation of the equilibrium constants.</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4. Computational details
+</title>
+         <p>
+DFT calculations were performed using the B3LYP three-parameter density functional (
+
+; 
+
+; Vosko et al., 1980). The geometries of all the structures were fully optimized at the B3LYP/6–311++G** level using the Gaussian 09W suite (Frisch et al., 2009). This was followed by harmonic frequency calculations to validate the stationary points and to account for the zero point energy corrections (
+
+). The optimization of the reactive species was carried out using the unrestricted open shell (UB3LYP) approach at the same level of theory.
+</p>
+         <p>
+The universal implicit SMD model (Solvation Model based on the quantum mechanical charge Density of a solute molecule interacting with a continuum) was used to study the influence of bulk solvent (
+
+). This model is known to yield better solvation Gibbs energies as compared to the other models (Saielli, 2010).
+</p>
+         <p>
+Declaration of competing interest
+</p>
+         <p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p>
+      </sec>
+      <sec sec-type="acknowledgments">
+         <title>
+Acknowledgments
+</title>
+         <p>
+Ankit Mittal thanks the University Grants Commission for financial assistance through a Senior Research Fellowship with Grant number 147/(CSIR-UGC NET 
+DEC. 2016
+).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+Appendix A. Supplementary data
+</title>
+         <p>Supplementary data to this article can be found online at https://doi. org/10.1016/j.phytochem.2021.112964.</p>
+      </sec>
+      <sec sec-type="reference_group">
+         <title>
+References
+</title>
+         <ref-list>
+            <ref>
+               <mixed-citation>
+Becke, A.D.
+, 
+1988
+. 
+Density-functional exchange-energy approximation with correct asymptotic behaviour
+. 
+Phys. Rev.
+38
+, 
+3098–3100
+. 
+https://doi.org/10.1103/ PhysRevA.38.3098
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Biela, M.
+, 
+Rimarˇcík, J.
+, 
+Senajov´a, E.
+, 
+Kleinov´a, A.
+, 
+Klein, E.
+, 
+2020
+. 
+Antioxidant action of deprotonated flavonoids: thermodynamics of sequential proton-loss electrontransfer
+. 
+Phytochemistry
+180
+, 
+112528
+. 
+https://doi.org/10.1016/j.phytochem.2020.112528.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Domingo, L.R.
+, P´erez, P., 
+2013
+. 
+Global and local reactivity indices for electrophilic/ nucleophilic free radicals
+. 
+Org. Biomol. Chem.
+11
+, 
+4350–4358
+. 
+https://doi.org/ 10.1039/C3OB40337H
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Ferreira, C.A.
+, 
+Ni, D.
+, 
+Rosenkrans, Z.T.
+, 
+Cai, W.
+, 
+2018
+. 
+Scavenging of reactive oxygen and nitrogen species with nanomaterials
+. 
+Nano Res.
+11
+, 
+4955–4984
+. 
+https://doi.org/ 10.1007/s12274-018-2092-y
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Frisch, M.J.
+, 
+Trucks, G.W.
+, 
+Cheeseman, J.R.
+, 
+1996
+. 
+Systematic model chemistries based on density functional theory: comparison with traditional models and with experiment
+. 
+Theor. Comput. Chem.
+4
+, 
+679–707
+. 
+https://doi.org/10.1016/S1380- 7323(96)80100-2
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Frisch, M.J
+., 
+Trucks, G.W
+., 
+Schlegel, H.B
+., 
+Scuseria, G.E
+., 
+Robb, M.A
+., 
+Cheeseman, J.R
+., 
+Scalmani, G
+., 
+Barone, V
+., 
+Mennucci, B
+., 
+Petersson, G.A
+., 
+Nakatsuji, H
+., 
+Caricato, M
+., 
+Li, X
+., 
+Hratchian, H.P
+., 
+Izmaylov, A.F
+., 
+Bloino, J
+., 
+Zheng, G
+., 
+Sonnenberg, J.L
+., 
+Hada, M
+., 
+Ehara, M
+., 
+Toyota, K
+., 
+Fukuda, R
+., 
+Hasegawa, J
+., 
+Ishida, M
+., 
+Nakajima, T
+., 
+Honda, Y
+., 
+Kitao, O
+., 
+Nakai, H
+., 
+Vreven, T
+., 
+Montgomery Jr
+., 
+J.A
+., 
+Peralta, J.E
+., 
+Ogliaro, F
+., 
+Bearpark, M
+., 
+Heyd, J.J
+., 
+Brothers, E
+., 
+Kudin, K.N
+., 
+
+Staroverov, 
+
+V.N
+
+
+., 
+Kobayashi, R
+., 
+Normand, J
+., 
+Raghavachari, K
+., 
+Rendell, A
+., 
+Burant, J.C
+., 
+Iyengar, S. S
+., 
+Tomasi, J
+., 
+Cossi, M
+., 
+Rega, N
+., 
+Millam, N.J
+., 
+Klene, M
+., 
+Knox, J.E
+., 
+Cross, J.B
+., 
+Bakken, V
+., 
+Adamo, C
+., 
+Jaramillo, J
+., 
+Gomperts, R
+., 
+Stratmann, R.E
+., 
+Yazyev, O
+., 
+Austin, A.J
+., 
+Cammi, R
+., 
+Pomelli, C
+., 
+Ochterski, J.W
+., 
+Martin, R.L
+., 
+Morokuma, K
+., 
+Zakrzewski, V.G
+., 
+Voth, G.A
+., 
+
+Salvador
+, P
+
+., 
+Dannenberg, J.J
+., 
+Dapprich, S.
+, 
+Daniels, A.D.
+, 
+Farkas, ¨O
+., 
+Foresman, J.B.
+, 
+Ortiz, J.V.
+, 
+Cioslowski, J.
+, 
+Fox, D.J.
+, 
+2009
+. 
+Gaussian, Inc., Wallingford CT
+. 
+Gaussian 09, Revision C.01.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Galano, A.
+, 
+Mazzone, G.
+, 
+Alvarez-Diduk, R.
+, 
+Marino, T.
+, 
+Alvarez-Idaboy, J.R.
+, 
+Russo, N.
+, 
+2016
+. 
+Food antioxidants: chemical insights at the molecular level
+. 
+Annu. Rev. Food Sci. Technol.
+7
+, 
+335–352
+. 
+https://doi.org/10.1146/annurev-food-041715-033206
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Galano, A.
+, 
+Raúl Alvarez-Idaboy, J.
+, 
+2019
+. 
+Computational strategies for predicting free radical scavengers’ protection against oxidative stress: where are we and what might follow?
+Int. J. Quant. Chem.
+119
+, e 
+25665
+https://doi.org/10.1002/qua.25665
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Gatta, D.M.P.
+, 
+Franceschelli, S.
+, 
+Felaco, M.
+, 
+Speranza, L.
+, 
+2019
+. 
+Biological effects of licochalcones
+. 
+Mini Rev. Med. Chem.
+19
+, 
+647–656
+. 
+
+https://doi.org/10.2174/ 
+1389557518666180601095420
+
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Kakkar, R.
+, 
+Bhandari, M.
+, 
+Gaba, R.
+, 
+2012
+. 
+Tautomeric transformations and reactivity of alloxan
+. 
+Comput. Theor. Chem.
+986
+, 
+14–24
+. 
+https://doi.org/10.1016/j.comptc.2012.01.038.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Kelly, C.P.
+, 
+Cramer, C.J.
+, 
+Truhlar, D.G.
+, 
+2006
+. 
+Aqueous solvation free energies of ions and ion water clusters based on an accurate value for the absolute aqueous solvation free energy of the proton
+. 
+J. Phys. Chem. B
+110
+, 
+16066–16081
+. 
+https://doi.org/ 10.1021/jp063552y
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Lee, C.
+, 
+Yang, W.
+, 
+Parr, R.G.
+, 
+1988
+. 
+Development of the Colle-Salvetti correlation-energy formula into a functional of the electron density
+. 
+Phys. Rev. B Condens. Matter
+37
+, 
+785–789
+. 
+https://doi.org/10.1103/PhysRevB.37.785
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Markovic
+´, Z., Toˇsovic´, J., Milenkovic´, D., Markovi´c, S., 
+2016
+. 
+Revisiting the solvation enthalpies and free energies of the proton and electron in various solvents
+. 
+Comput. Theor. Chem.
+1077
+, 
+11–17
+. 
+https://doi.org/10.1016/j.comptc.2015.09.007
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Mittal, A.
+, 
+Devi, S.P.
+, 
+Kakkar, R.
+, 
+2020
+. 
+A DFT study of the conformational and electronic properties of echinatin, a retrochalcone, and its anion in the gas phase and aqueous solution
+. 
+Struct. Chem.
+31
+, 
+2513–2524
+. 
+https://doi.org/10.1007/s11224-020- 01598-6
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Mittal, A.
+, 
+Kakkar, R.
+, 
+2020
+. 
+The effect of solvent polarity on the antioxidant potential of echinatin, a retrochalcone, towards various ROS: a DFT thermodynamic study. Free Radic
+. 
+Res.
+54
+, 
+777–786
+. 
+https://doi.org/10.1080/10715762.2020.1849670
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Mittal, A.
+, 
+Kakkar, R.
+, 
+2021
+. 
+A theoretical assessment of the structural and electronic features of some retrochalcones
+. 
+Int. J. Quant. Chem
+. e 
+26797
+https://doi.org/ 10.1002/qua.26797
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Parr, R.G.
+, 
+Szentpaly, L.V.
+, 
+Liu, S.
+, 
+1999
+. 
+Electrophilicity index
+. 
+J. Am. Chem. Soc.
+121
+, 
+1922–1924
+. 
+https://doi.org/10.1021/ja983494x
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Pastorino, G.
+, 
+Cornara, L.
+, 
+Soares, S.
+, 
+Rodrigues, F.
+, 
+Oliveira, M.B.P.
+, 
+2018
+. 
+Liquorice (Glycyrrhiza glabra): a phytochemical and pharmacological review
+. 
+Phytother Res.
+32
+, 
+2323–2339
+. 
+https://doi.org/10.1002/ptr.6178
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Rimarcík ˇ, J.
+, 
+Lukes ˇ, V.
+, 
+Klein, E.
+, 
+Ilcin ˇ, M.
+, 
+2010
+. 
+Study of the solvent effect on the enthalpies of homolytic and heterolytic N–H bond cleavage in p-phenylenediamine and tetracyano-p-phenylenediamine
+. 
+J. Mol. Struct.
+: THEOCHEM 
+952
+, 
+25–30
+. 
+https://doi.org/10.1016/j.theochem.2010.04.002.
+</mixed-citation>
+            </ref>
+         </ref-list>
+      </sec>
+   </body>
+</article>
