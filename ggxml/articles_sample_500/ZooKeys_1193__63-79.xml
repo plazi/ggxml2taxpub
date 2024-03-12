@@ -1,0 +1,2380 @@
+<document ID-CLB-Dataset="289605" ID-DOI="http://dx.doi.org/10.3897/zookeys.1193.110188" ID-GBIF-Dataset="888bfd91-0806-4758-866d-f07247afd14b" ID-Pensoft-Pub="1313-2970-1193-63" ID-Pensoft-UUID="CA8BA289A7B8571EA158BB3DF43AC9C2" ID-ZooBank="25CA8263FF244596AC1C93491C796E2A" ModsDocID="1313-2970-1193-63" checkinTime="1709285531748" checkinUser="pensoft" docAuthor="Li, Ting &amp; Huang, Yong &amp; Huang, Mian" docDate="2024" docId="CA8BA289A7B8571EA158BB3DF43AC9C2" docName="ZooKeys 1193: 63-79" docOrigin="ZooKeys 1193" docPubDate="2024-02-29" docSource="https://zookeys.pensoft.net/article/110188/download/xml/" docTitle="Two new species of the order Monhysterida (Nematoda) from the sea of China" docVersion="4" id="CA8BA289A7B8571EA158BB3DF43AC9C2" lastPageNumber="79" pageNumber="63" updateTime="1709290041024" updateUser="ExternalLinkService">
+<mods:mods id="49F0144A6E8A5C821D67146E41C51700" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="798CB193DCFBD5109C26A7014DE86578">
+<mods:title id="B1214B7B03D67A244E83F436B1B383C1">Two new species of the order Monhysterida (Nematoda) from the sea of China</mods:title>
+</mods:titleInfo>
+<mods:name id="ED152DCEAC0E26602A946A8CD4D8FB4A" type="personal">
+<mods:role id="7CDB9C2EC44E4C34D1DC5B6C36EF992E">
+<mods:roleTerm id="FA52ED7393C1770CE4E14B07DF2C06DF">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C6E58A96E438F6172CBE0425B0E4A15E">Li, Ting</mods:namePart>
+<mods:nameIdentifier id="802B96F5781FEBD6141268D6A317E7C5" type="ORCID">https://orcid.org/0009-0003-5630-314X</mods:nameIdentifier>
+<mods:affiliation id="E50385A7C214FF3EB65CE5CB352D273F">College of Life Sciences, Liaocheng University, Liaocheng 252059, China</mods:affiliation>
+</mods:name>
+<mods:name id="00407B91C52C27F9C3D114FE1735D677" type="personal">
+<mods:role id="14D4B033682A7FD542CB98607221D241">
+<mods:roleTerm id="93B4768ACC3F6CCA881EE066A68F6A80">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="77DEB67805FEC824D7DA65B0CB08536F">Huang, Yong</mods:namePart>
+<mods:nameIdentifier id="C139669CED8DE0B50065D824ACD91CDA" type="ORCID">https://orcid.org/0000-0002-1846-8088</mods:nameIdentifier>
+<mods:affiliation id="6B3E058699595720E9E3E93598E7C5FA">College of Life Sciences, Liaocheng University, Liaocheng 252059, China</mods:affiliation>
+</mods:name>
+<mods:name id="289D28A47CD2DC9B8452A235BC1561E2" type="personal">
+<mods:role id="6152F66812E2CDC9B6E6AAE77D3685D6">
+<mods:roleTerm id="6CD9C87972307C77F36F7FACCC9367DE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C67141F2276BBC63D8E95A0807762970">Huang, Mian</mods:namePart>
+<mods:nameIdentifier id="05A9DCFB381EF060E07D7956B85EC71B" type="email">huangmian@lcu.edu.cn</mods:nameIdentifier>
+<mods:nameIdentifier id="B99E524B3ED5667968908CE42EAE8B6D" type="ORCID">https://orcid.org/0000-0003-3343-1520</mods:nameIdentifier>
+<mods:affiliation id="E1A4445427894ADD919D3BD4A30BB09A">College of Life Sciences, Liaocheng University, Liaocheng 252059, China</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A248472A31A4DAC0490A2A7D5FC51189">text</mods:typeOfResource>
+<mods:relatedItem id="01DCB56F8313C9868E3168212EE46859" type="host">
+<mods:titleInfo id="EC07C1C6C62DFBC37636E33521CA9D83">
+<mods:title id="77FEDBA30274D506B3895D96A0801824">ZooKeys</mods:title>
+</mods:titleInfo>
+<mods:part id="7161CD791E6C566B6E0F5D649119D51D">
+<mods:detail id="6FF4F1923F0935660955C25B51C04808" type="volume">
+<mods:number id="5E907A1B8781E3530E5DFAE73267AE38">1193</mods:number>
+</mods:detail>
+<mods:detail id="2E171037927837AECECF4F4E1524894B" type="pubDate">
+<mods:number id="954EFD0D5BCB0FFD7FAA5CA2DEB06BF5">2024-02-29</mods:number>
+</mods:detail>
+<mods:date id="2AD4A7333885C1E179BAA4616A952108">2024</mods:date>
+<mods:extent id="DAA66DF6E8AEACCB067B08F3C90A79FA" unit="page">
+<mods:start id="B4E3D342C5079244A01A2A66A682BF50">63</mods:start>
+<mods:end id="57C5743E88F29CD7D3CCDA1DDF5FD2C0">79</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="C2FA87EA3EFC26FD05AD47546C6D8FEA">
+<mods:url id="36D57A3264D6649D2DCF19A60701DDFB">http://dx.doi.org/10.3897/zookeys.1193.110188</mods:url>
+</mods:location>
+<mods:identifier id="DE08C16171C60B07463969FF1DDB31A1" type="DOI">http://dx.doi.org/10.3897/zookeys.1193.110188</mods:identifier>
+<mods:identifier id="64D63ADF88B7F47589F66DA5F634F412" type="Pensoft-Pub">1313-2970-1193-63</mods:identifier>
+<mods:identifier id="4CF2339E458E8579D586B2401E9D6127" type="ZooBank">25CA8263FF244596AC1C93491C796E2A</mods:identifier>
+<mods:identifier id="C17DBFA643664BE77133FD0CAB84F3AF" type="Pensoft-UUID">CA8BA289A7B8571EA158BB3DF43AC9C2</mods:identifier>
+<mods:classification id="EAD22BA82FC7E81F4E313A9A0F8D6490">journal article</mods:classification>
+</mods:mods>
+<subSection id="4619227FFD1AD2CB478C6FDCC419965C" pageId="0" pageNumber="63" type="﻿introduction">
+<paragraph id="50C498110CD2FA6B483A484860A4845B" pageId="0" pageNumber="63">
+<pageBreakToken id="9785E7C849EE768D656D7951DA46CEE3" origin="extrapolated" pageId="0" pageNumber="63" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph id="EC7CA9F0F81185494FE8B05831D87141" pageId="0" pageNumber="63">
+To investigate the diversity of epiphytic nematodes growing in seaweed in the intertidal zone along the coast of the Yellow Sea, six species of common seaweeds were collected from 11 sites in 2021. The mean abundance of epiphytic nematodes in the seaweeds (e.g. 
+<taxonomicName id="5EE313BBABC64FA0852592231277CEE5" authorityName="Linnaeus" authorityYear="1753" class="Insecta" family="Hesperiidae" genus="Ulva" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Ulva lactuca" order="Lepidoptera" pageId="0" pageNumber="63" phylum="Arthropoda" rank="species" species="lactuca">
+<emphasis id="3C256DABF3D03DB73050E6C5DB751F12" italics="true" pageId="0" pageNumber="63">Ulva lactuca</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="E976C8814B952AE3ECDEB381B6D479C4" authorityName="C.F.Chang &amp; B.M.Xia" authorityYear="1976" class="Insecta" family="Batrachedridae" genus="Gracilaria" kingdom="Animalia" lsidName="Gracilaria tenuistipitata" order="Lepidoptera" pageId="0" pageNumber="63" phylum="Arthropoda" rank="species" species="tenuistipitata">
+<emphasis id="E36A1088F79EB117BE3BE0C3864C0575" italics="true" pageId="0" pageNumber="63">Gracilaria tenuistipitata</emphasis>
+</taxonomicName>
+, and 
+<taxonomicName id="753573603B0E4E0D49AD7291EF7A36DC" authorityName="O.Kuntze" authorityYear="1893" class="Phaeophyceae" family="Sargassaceae" genus="Sargassum" higherTaxonomySource="GBIF" kingdom="Chromista" lsidName="Sargassum thunbergii" order="Fucales" pageId="0" pageNumber="63" phylum="Gyrista" rank="species" species="thunbergii">
+<emphasis id="948C3AF06A22D0BE0204E934EC0D191C" italics="true" pageId="0" pageNumber="63">Sargassum thunbergii</emphasis>
+</taxonomicName>
+) was 3502 ind./g algae (dry weight). Forty species belonging to 29 genera, 16 families, and seven orders were identified. The main species were 
+<taxonomicName id="65D2D3CF9FEB027587B0FC69B9146BD5" baseAuthorityName="Filipjev" baseAuthorityYear="1918" class="Chromadorea" family="Chromadoridae" genus="Neochromadora" kingdom="Animalia" lsidName="Neochromadora poecilosomoides" order="Chromadorida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="poecilosomoides">
+<emphasis id="78DDEE3368C7817C0E3AD2C4CB589D38" italics="true" pageId="0" pageNumber="63">Neochromadora poecilosomoides</emphasis>
+</taxonomicName>
+(Filipjev, 1918) Micoletzky, 1924, 
+<taxonomicName id="F38637766F985CA9458498849D57CB15" authorityName="Wieser" authorityYear="1954" baseAuthorityName="Butschli" baseAuthorityYear="1874" class="Chromadorea" family="Chromadoridae" genus="Chromadorina" kingdom="Animalia" lsidName="Chromadorina germanica" order="Chromadorida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="germanica">
+<emphasis id="63129049C1B3008D3EFB62D129D0E082" italics="true" pageId="0" pageNumber="63">Chromadorina germanica</emphasis>
+</taxonomicName>
+(
+<normalizedToken id="B54B719D2BA77D127D9B679DE533CBA5" originalValue="Bütschli">Buetschli</normalizedToken>
+, 1874) Wieser, 1954, 
+<taxonomicName id="2C3DE87CE0BA5CCE769171AE7A9ADFBC" authorityName="Zhang &amp; Platt" authorityYear="1983" class="Chromadorea" family="Diplogastridae" genus="Oncholaimus" kingdom="Animalia" lsidName="Oncholaimus sinensis" order="Rhabditida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="sinensis">
+<emphasis id="E43042DBFF09FAB16C08CF15917F6BF5" italics="true" pageId="0" pageNumber="63">Oncholaimus sinensis</emphasis>
+</taxonomicName>
+Zhang &amp; Platt, 1983, and 
+<taxonomicName id="75CE88CCC5A843F596601BE9C4831E9B" authorityName="Kito &amp; Aryuthaka" authorityYear="1998" class="Chromadorea" family="Monhysteridae" genus="Thalassomonhystera" kingdom="Animalia" lsidName="Thalassomonhystera siamensis" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="siamensis">
+<emphasis id="C180874F3B2B38478BD45854A73A168A" italics="true" pageId="0" pageNumber="63">Thalassomonhystera siamensis</emphasis>
+</taxonomicName>
+Kito &amp; Aryuthaka, 1998. Among these materials collected was an unknown species, which is identified as new to science; it is described here as 
+<taxonomicName id="1126DA634FF79E77ECEE5761BDA0FC32" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera zhangi" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="zhangi">
+<emphasis id="4B7FAFCF3DFC5E69479882019A007DEE" italics="true" pageId="0" pageNumber="63">Halomonhystera zhangi</emphasis>
+</taxonomicName>
+sp. nov.
+</paragraph>
+<paragraph id="15D29D5863204501006666EAEB5E6441" pageId="0" pageNumber="63">
+The genus 
+<taxonomicName id="3E92B04E4DAF55B65797BA8ACF075A6D" authorityName="Andrassy" authorityYear="2006" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">
+<emphasis id="1E817497BCF5834F63F9904A2A0F87A6" italics="true" pageId="0" pageNumber="63">Halomonhystera</emphasis>
+</taxonomicName>
+was proposed by 
+<bibRefCitation id="90384ABFC94361E9C537AAE510CD72CB" author="Andrassy, I" journalOrPublisher="Meiofauna Marina" pageId="0" pageNumber="63" pagination="11 - 24" refId="B1" refString="Andrassy, I, 2006. Halomonhystera, a new genus distinct from Geomonhystera Andrassy, 1981 (Nematoda, Monhysteridae). Meiofauna Marina 15: 11 - 24" title="Halomonhystera, a new genus distinct from Geomonhystera Andrassy, 1981 (Nematoda, Monhysteridae)." volume="15" year="2006">
+<normalizedToken id="EEB3A2054F29DC094C793CFC99BF9A74" originalValue="Andrássy">Andrassy</normalizedToken>
+(2006)
+</bibRefCitation>
+to accommodate marine species previously included within the genus 
+<taxonomicName id="D4C249A08C863E2503D9486614318B45" authorityName="Andrassy" authorityYear="1981" genus="Geomonhystera" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Geomonhystera" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">
+<emphasis id="A296E6656B2D88726D579BD2FB1A0ABD" italics="true" pageId="0" pageNumber="63">Geomonhystera</emphasis>
+</taxonomicName>
+. 
+<bibRefCitation id="007AA4BC4A56C8FFBA0089736E1CE1B9" DOI="https://doi.org/10.1007/s10152-014-0416-1" author="Tchesunov, AV" journalOrPublisher="Helgoland Marine Research" pageId="0" pageNumber="63" pagination="57 - 85" refId="B26" refString="Tchesunov, AV, Portnova, DA, Van Campenhout, J, 2015. Description of two free-living nematode species of Halomonhystera disjuncta complex (Nematoda: Monhysterida) from two peculiar habitats in the sea. Helgoland Marine Research 69 (1): 57 - 85, DOI: https://doi.org/10.1007/s10152-014-0416-1" title="Description of two free-living nematode species of Halomonhystera disjuncta complex (Nematoda: Monhysterida) from two peculiar habitats in the sea." url="https://doi.org/10.1007/s10152-014-0416-1" volume="69" year="2015">Tchesunov et al. (2015)</bibRefCitation>
+reviewed the genus and gave an annotated list of 21 morphospecies. According to NeMys database (Nemys Eds 2024), 19 
+<taxonomicName id="8E18F6ABA18A4E3B5087797BD693D0B6" authorityName="Andrassy" authorityYear="2006" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">
+<emphasis id="0CCFC5B6D8ECEC2D7A45320973E22EDA" italics="true" pageId="0" pageNumber="63">Halomonhystera</emphasis>
+</taxonomicName>
+species are accepted as valid. 
+<taxonomicName id="BE742BAC0BBD737983BAA4CB46F726F2" baseAuthorityName="Bütschli" baseAuthorityYear="1874" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera ambiguoides" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="ambiguoides">
+<emphasis id="5D5F2EF8BCD241466FC6817228CA84D7" italics="true" pageId="0" pageNumber="63">Halomonhystera ambiguoides</emphasis>
+</taxonomicName>
+(
+<normalizedToken id="6E61EFC935F8B07F558CA8BBD9EEBA70" originalValue="Bütschli">Buetschli</normalizedToken>
+, 1874) is considered a 
+<emphasis id="8A9DF612FDFDEEF9ADAB1DC1546BBD49" italics="true" pageId="0" pageNumber="63">taxon inquirenda</emphasis>
+. 
+<taxonomicName id="8C42831689842FB513BA6C72B25F7139" baseAuthorityName="De Coninck" baseAuthorityYear="1943" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera paradisjuncta" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="paradisjuncta">
+<emphasis id="12E41DECE0F27D5D23BA53A82D015E8A" italics="true" pageId="0" pageNumber="63">Halomonhystera paradisjuncta</emphasis>
+</taxonomicName>
+(De Coninck, 1943) is accepted as 
+<taxonomicName id="39C124BAB02EDD4091AABE172F79CBA6" genus="H." lsidName="H. disjuncta" pageId="0" pageNumber="63" rank="species" species="disjuncta">
+<emphasis id="68C264E8C71FCB40BFA75CD174602DB1" italics="true" pageId="0" pageNumber="63">H. disjuncta</emphasis>
+</taxonomicName>
+(Bastian, 1865) 
+<normalizedToken id="CA8193BA3E2AD99392CE5DE079CBA0B1" originalValue="Andrássy">Andrassy</normalizedToken>
+, 2006. 
+<taxonomicName id="F7A016B6ACF3B2F7350777D3CDF150D6" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera zhangi" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="zhangi">
+<emphasis id="AC294F2660A17E4943920B0009CB11F6" italics="true" pageId="0" pageNumber="63">Halomonhystera zhangi</emphasis>
+</taxonomicName>
+sp. nov. is the first species of the genus found in the Yellow Sea of China.
+</paragraph>
+<paragraph id="E1DFE18F8F20C9B4EE8E806479F7EC68" pageId="0" pageNumber="63">
+To research the diversity of free-living marine nematodes in the northern South China Sea, sediment samples were taken at many sites in the intertidal zone. Results showed that the average abundance of free-living nematodes were 1596 ind·10 cm-2 in the study area. The most dominant genera were 
+<taxonomicName id="B25EBB039BA4428DA68A6704CB2FC86B" authorityName="Cobb" authorityYear="1920" class="Chromadorea" family="Xyalidae" genus="Daptonema" kingdom="Animalia" lsidName="Daptonema" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">
+<emphasis id="EA5E55CBF695ED24E43EB47BB018496B" italics="true" pageId="0" pageNumber="63">Daptonema</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="C988C9C1782BDE9B030EF0C603706503" authorityName="Bastian" authorityYear="1865" class="Chromadorea" family="Xyalidae" genus="Theristus" kingdom="Animalia" lsidName="Theristus" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">
+<emphasis id="3383F4B6680BDA31B0041E896C36C48B" italics="true" pageId="0" pageNumber="63">Theristus</emphasis>
+</taxonomicName>
+, and 
+<taxonomicName id="FCC5BF219223723A95FF2B41161A9053" class="Chromadorea" family="Diplogastridae" genus="Oncholaimus" kingdom="Animalia" lsidName="Oncholaimus" order="Rhabditida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">
+<emphasis id="A075E3066A7DD9ED8C2D9F1E6E34590A" italics="true" pageId="0" pageNumber="63">Oncholaimus</emphasis>
+</taxonomicName>
+. Among them, an unrecorded species belonging to family 
+<taxonomicName id="3FE1FC7A44F92A2FC381AA3AF3BD9E4D" authorityName="Chitwood" authorityYear="1951" class="Chromadorea" family="Xyalidae" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="family">Xyalidae</taxonomicName>
+was discovered, and it is described here as 
+<taxonomicName id="3451CCBDE4BFCA3929793276A7E73B09" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Xyalidae" genus="Stylotheristus" kingdom="Animalia" lsidName="Stylotheristus flagellicaudatus" order="Monhysterida" pageId="0" pageNumber="63" rank="species" species="flagellicaudatus">
+<emphasis id="59934C968BF6BB70CC86329228168122" italics="true" pageId="0" pageNumber="63">Stylotheristus flagellicaudatus</emphasis>
+</taxonomicName>
+sp. nov. At present, more than 300 nematode species have been identified in a study of the biodiversity of free-living marine nematodes in the South China Sea (
+<bibRefCitation id="B54D62635B63CCF3ADE9A59EB32155BB" DOI="https://doi.org/10.11646/zootaxa.5016.4.2" author="Huang, M" journalOrPublisher="Zootaxa" pageId="0" pageNumber="63" pagination="490 - 502" refId="B13" refString="Huang, M, Shi, BZ, Wang, CG, Xu, K, 2021. Two new species of nematodes from shallow and deep-water sediments in the South China Sea. Zootaxa 5016 (4): 490 - 502, DOI: https://doi.org/10.11646/zootaxa.5016.4.2" title="Two new species of nematodes from shallow and deep-water sediments in the South China Sea." url="https://doi.org/10.11646/zootaxa.5016.4.2" volume="5016" year="2021">Huang et al. 2021</bibRefCitation>
+; 
+<bibRefCitation id="80601943C260FE49BB46C522BDE107B2" DOI="https://doi.org/10.1080/00222933.2022.2102446" author="Lu, Y" journalOrPublisher="Journal of Natural History" pageId="0" pageNumber="63" pagination="1091 - 1107" refId="B18" refString="Lu, Y, Sui, XX, Huang, Y, 2022. Three new species of free-living marine nematodes from the central basin of the South China Sea. Journal of Natural History 56 (17-20): 1091 - 1107, DOI: https://doi.org/10.1080/00222933.2022.2102446" title="Three new species of free-living marine nematodes from the central basin of the South China Sea." url="https://doi.org/10.1080/00222933.2022.2102446" volume="56" year="2022">Lu et al. 2022</bibRefCitation>
+).
+</paragraph>
+<paragraph id="C010EC63C17B4EB1A0381BB778BC9419" pageId="0" pageNumber="63">
+The genus 
+<taxonomicName id="DAF650A9261F66BC6413368A87583143" authorityName="Lorenzen" authorityYear="1977" family="Xyalidae" genus="Stylotheristus" kingdom="Animalia" lsidName="Stylotheristus" order="Monhysterida" pageId="0" pageNumber="63" rank="genus">
+<emphasis id="13832B2FA20C0E6961C3E2648BEC18C7" italics="true" pageId="0" pageNumber="63">Stylotheristus</emphasis>
+</taxonomicName>
+was established by Lorenzen in 1977 and, until now, included only two species, namely 
+<taxonomicName id="6107323341E58DCAACF7B89B5565E810" genus="S." lsidName="S. mutilus" pageId="0" pageNumber="63" rank="species" species="mutilus">
+<emphasis id="39C2C94002DD67049B09A3B924D6EC86" italics="true" pageId="0" pageNumber="63">S. mutilus</emphasis>
+</taxonomicName>
+(Lorenzen, 1973) Lorenzen, 1977 and 
+<taxonomicName id="BA60712AFE6E09F74EE3A5A63165C8E5" genus="S." lsidName="S. multipapillatus" pageId="0" pageNumber="63" rank="species" species="multipapillatus">
+<emphasis id="96A0BEA0DB49B8EEFB018F6EF9F58EDA" italics="true" pageId="0" pageNumber="63">S. multipapillatus</emphasis>
+</taxonomicName>
+Pinto &amp; Neres, 2020. 
+<taxonomicName id="83F0C3EEB2AA796AF6A85A5DCDAED72B" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Xyalidae" genus="Stylotheristus" kingdom="Animalia" lsidName="Stylotheristus flagellicaudatus" order="Monhysterida" pageId="0" pageNumber="63" rank="species" species="flagellicaudatus">
+<emphasis id="91328DA6974B310115689CFBF129357B" italics="true" pageId="0" pageNumber="63">Stylotheristus flagellicaudatus</emphasis>
+</taxonomicName>
+sp. nov. is also the first species recorded within the genus in the South China Sea.
+</paragraph>
+</subSection>
+<subSection id="4C33A128BBEAEDC7B1A0159D5EBE1EFA" pageId="0" pageNumber="63" type="materials_methods">
+<paragraph id="6C605DCBF97A8F10645ED192F8ACD6D5" pageId="0" pageNumber="63">Materials and methods</paragraph>
+<paragraph id="239747EE3E709586132B92FE7FB50723" pageId="0" pageNumber="63">
+Samples of 
+<taxonomicName id="D741798067A95994E6FBEC14215EAB8A" authorityName="O.Kuntze" authorityYear="1893" class="Phaeophyceae" family="Sargassaceae" genus="Sargassum" higherTaxonomySource="GBIF" kingdom="Chromista" lsidName="Sargassum thunbergii" order="Fucales" pageId="0" pageNumber="63" phylum="Gyrista" rank="species" species="thunbergii">
+<emphasis id="33F7E175663CFC35265DD418B606BADA" italics="true" pageId="0" pageNumber="63">Sargassum thunbergii</emphasis>
+</taxonomicName>
+(seaweed) containing specimens of 
+<taxonomicName id="F494C54C5C8A39684B87580D0A353F7D" authorityName="Andrassy" authorityYear="2006" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">
+<emphasis id="93B45344009BBEDDAB6AFFC4706F5CF8" italics="true" pageId="0" pageNumber="63">Halomonhystera</emphasis>
+</taxonomicName>
+were collected using a shovel from the intertidal rocky reef of Qingdao along the Yellow China sea (
+<geoCoordinate id="C76A90838D4D1A0AD931997F61132A62" degrees="36" direction="north" minutes="37.43" orientation="latitude" precision="9" value="36.623833">36°37.43′N</geoCoordinate>
+, 
+<geoCoordinate id="E17416A895A551ED0A1CD829E93139D5" degrees="120" direction="east" minutes="18.9" orientation="longitude" precision="92" value="120.315">120°18.9′E</geoCoordinate>
+) in May 2021. The whole algal samples were scooped off at the roots, then fixed with equivalent 10% formalin in seawater for long-term preservation. In the laboratory, algal samples were poured into a beaker with filtered water, shaken, and washed. Then washing liquid was poured into two layers of sieves (500 and 42 
+<normalizedToken id="F38B80CB01EB5B249FBB894E1A4FE8E4" originalValue="µm">µm</normalizedToken>
+mesh sizes, respectively), and washed with tap water to remove silt and to separate macrofauna from meiofauna. Heavier sediment particles were removed using centrifugation in Ludox-TM (50% colloidal silica, suspension in water; product of Sigma Aldrich Co., USA) with a specific gravity of 1.15 g/ml (
+<bibRefCitation id="30DA5B5F8192D989D64EA86FAF310796" DOI="https://doi.org/10.1007/BF00391564" author="de Jonge, VN" journalOrPublisher="Marine Biology" pageId="0" pageNumber="63" pagination="143 - 148" refId="B8" refString="de Jonge, VN, Bouwman, LA, 1977. A simple density separation technique for quantitative isolation of meiobenthos using the colloidal silica Ludox-TM. Marine Biology 42 (2): 143 - 148, DOI: https://doi.org/10.1007/BF00391564" title="A simple density separation technique for quantitative isolation of meiobenthos using the colloidal silica Ludox-TM." url="https://doi.org/10.1007/BF00391564" volume="42" year="1977">de Jonge and Bouwman 1977</bibRefCitation>
+). Each sample was washed into a Petri dish with distilled water, and the meiofauna was sorted under a stereoscopic microscope. Nematodes were transferred into a cavity block containing a solution of 5% glycerol, 5% pure ethanol, and 90% freshwater by volume (
+<bibRefCitation id="9FAAA742330F30C3F3E56E8CFE11EABE" author="McIntyre, AD" editor="Holme, NA" journalOrPublisher="Blackwell Scientific Publications, Oxford" pageId="0" pageNumber="63" pagination="217 - 244" refId="B19" refString="McIntyre, AD, Warwick, RM, 1984. Meiofauna techniques. In: Holme, NA, McIntyre, AD, Eds., Methods for the study of marine benthos. Blackwell Scientific Publications, Oxford: 217 - 244" title="Meiofauna techniques." volumeTitle="Methods for the study of marine benthos." year="1984">McIntyre and Warwick 1984</bibRefCitation>
+). After ethanol was slowly evaporated, the specimens were mounted in glycerin on permanent slides. The descriptions were made using a differential interference contrast microscope (Leica DM 2500). Line drawings were made with the aid of a camera lucida. All measurements were obtained using Leica LAS X v. 3.3.3, and all curved structures were measured along the arc or median line.
+</paragraph>
+<paragraph id="0E98093C3808A957E7221600C8714AEA" pageId="0" pageNumber="63">
+Sediment samples containing specimens of 
+<taxonomicName id="D00F9C5897D4A4F4FAE326469B0D8C29" authorityName="Lorenzen" authorityYear="1977" family="Xyalidae" genus="Stylotheristus" kingdom="Animalia" lsidName="Stylotheristus" order="Monhysterida" pageId="0" pageNumber="63" rank="genus">
+<emphasis id="E0A0CC85DE9B6B9C323B4939F032D4B8" italics="true" pageId="0" pageNumber="63">Stylotheristus</emphasis>
+</taxonomicName>
+were collected at an intertidal muddy beach of Sangengzhi along Hainan Island in the South China Sea (
+<geoCoordinate id="C3B536B467696CA2B4C7DF4D45D52D92" degrees="19" direction="north" minutes="26" orientation="latitude" precision="15" seconds="55" value="19.44861">19°26′55″N</geoCoordinate>
+, 
+<geoCoordinate id="BEDB4801BC828B4E0B71A6CAD3B5A6ED" degrees="108" direction="east" minutes="37" orientation="longitude" precision="15" seconds="38" value="108.62723">108°37′38″E</geoCoordinate>
+) in March 2017. The samples were taken from the 0-8 cm sediment layer using a 2.9 cm diameter sawn-off syringe, then fixed with 10% formalin in filtered seawater for long-term preservation. In the laboratory, the samples were stained with 0.1% rose Bengal, poured into two layers of sieves (500 and 42 
+<normalizedToken id="3597070708AA6B3F637F2FB64A6A2C25" originalValue="µm">µm</normalizedToken>
+mesh sizes), and washed with tap water to remove silt and separate macrofauna from meiofauna. The following experimental procedure was as mentioned above.
+</paragraph>
+<paragraph id="AF87D7242BA6E6A7509284EA40427B6F" pageId="0" pageNumber="63">Abbreviations are as follows: a, the ratio of body length to maximum body diameter; abd, body diameter at cloaca or anus; b, ratio of body length to pharynx length; c, ratio of body length to tail length; cbd, corresponding body diameter; c′, ratio of tail length to cloacal or anus body diameter; V%, position of vulva from anterior end expressed as a percentage of total body length.</paragraph>
+</subSection>
+<subSection id="F13A2A13A505282EA27193A7A5037580" _chop="before" pageId="0" pageNumber="63" type="multiple">
+<paragraph id="1AB5DA95689996C2915ABF55D20770A3" pageId="0" pageNumber="63">Results and discussion</paragraph>
+<paragraph id="F175883FADF8B0F51A0FE60AD70A1460" pageId="0" pageNumber="63">Taxonomy</paragraph>
+<paragraph id="9A849A10B23F13FF143FC0A939854422" pageId="0" pageNumber="63">
+<emphasis id="34AD4E2017F1ED7D99DD6B8AA1D500CC" bold="true" pageId="0" pageNumber="63">
+Order 
+<taxonomicName id="4A559FD73238AD9E94E9A811261D6E5B" authorityName="Lorenzen" authorityYear="1977" family="Xyalidae" genus="Stylotheristus" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" rank="order">Monhysterida</taxonomicName>
+Filipjev, 1929
+</emphasis>
+</paragraph>
+<paragraph id="FFBEF4865648987087E3E41EF4603960" pageId="0" pageNumber="63">
+<emphasis id="1A32BCAC685A4A65DE07862F41A7AC3A" bold="true" pageId="0" pageNumber="63">
+Family 
+<taxonomicName id="1B74A99D37AE6729AFDEB40CBE727B7D" authorityName="de Man" authorityYear="1876" class="Adenophorea" family="Monhysteridae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="family">Monhysteridae</taxonomicName>
+de Man, 1876
+</emphasis>
+</paragraph>
+</subSection>
+<treatment id="57C9B984A7E3550BAFE44E60FF973C9A" ID-GBIF-Taxon="222674575" pageId="0" pageNumber="63">
+<subSubSection id="3FDD519F25B129D3278F9BC7472629CE" pageId="0" pageNumber="63" type="nomenclature">
+<paragraph id="EF6B9CD2DA1D7838FFFCD0301DFFC112" pageId="0" pageNumber="63">
+Genus 
+<taxonomicName id="DF61FB23A840152E77DBDD9C8C141D97" ID-CoL="8FYTY" LSID="57C9B984-A7E3-550B-AFE4-4E60FF973C9A" authority="Andrassy, 2006" authorityName="Andrassy" authorityYear="2006" family="Monhysteridae" genus="Halomonhystera" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Halomonhystera" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">
+Halomonhystera 
+<normalizedToken id="51B44976FDA9FE362085DDA35AC69B71" originalValue="Andrássy">Andrassy</normalizedToken>
+, 2006
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="5E08E630E035243E45841A3BCF2D2993" pageId="0" pageNumber="63" type="diagnosis">
+<paragraph id="C54639A1F064A1CCA278EA48A56DAF3D" pageId="0" pageNumber="63">Diagnosis.</paragraph>
+<paragraph id="4D63D36295233D5AEFD648D3FAC5CB72" pageId="0" pageNumber="63">
+Cuticle thin, smooth with few somatic setae; labial region not or only slightly off-set; outer labial and cephalic setae short, usually no longer than one-quarter of labial width; buccal cavity cuticularized, cup-shaped or funnel-shaped; amphidial fovea circular, located one to three head diameters from anterior end; pharynx relatively short, without basal bulb; secretory-excretory system well developed with large ventral gland and opening in anterior third of pharynx; females with single anterior ovary to the right of intestine; vulva usually close to anus; males with single outstretched testis; spicules thin, arcuate, with or without a capitulum; gubernaculum short, often with caudal apophysis; one or two ventral precloacal papillae and two or three pairs of smaller caudal papillae; rectum short and thin; tail conical, usually shorter in males than females; three or two caudal glands; spinneret surrounded by tube-like structure (modified from 
+<bibRefCitation id="93CFE98308F28CAE591680995C24444F" DOI="https://doi.org/10.1080/03014223.2013.827581" author="Leduc, D" journalOrPublisher="New Zealand Journal of Zoology" pageId="0" pageNumber="63" pagination="46 - 57" refId="B15" refString="Leduc, D, 2014. Free-living nematodes of the genus Halomonhystera (Monhysteridae) from the Southwest Pacific region and Ross Sea. New Zealand Journal of Zoology 41 (1): 46 - 57, DOI: https://doi.org/10.1080/03014223.2013.827581" title="Free-living nematodes of the genus Halomonhystera (Monhysteridae) from the Southwest Pacific region and Ross Sea." url="https://doi.org/10.1080/03014223.2013.827581" volume="41" year="2014">Leduc 2014</bibRefCitation>
+).
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment id="AD50AEDC26D55CCA8254186D0D8C4E5E" ID-GBIF-Taxon="222674576" LSID="urn:lsid:zoobank.org:act:F20E976D-2B9F-48D2-9C8F-58E0656741F2" pageId="0" pageNumber="63">
+<subSubSection id="C0FB239BCB4B3DD9B0F822372DCD34BA" pageId="0" pageNumber="63" type="nomenclature">
+<paragraph id="01CCF5D843A904EB5E1FE5D2CF82F54C" pageId="0" pageNumber="63">
+<taxonomicName id="B9B215578F0A2F66245FB50F90FB0F85" LSID="https://zoobank.org/F20E976D-2B9F-48D2-9C8F-58E0656741F2" authority="Li &amp; Huang &amp; Huang, 2024" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Monhysteridae" genus="Halomonhystera" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Halomonhystera zhangi" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="zhangi" status="sp. nov.">Halomonhystera zhangi</taxonomicName>
+<taxonomicNameLabel id="32F285E23B65E56D1CEED5326B0B0DAF" pageId="0" pageNumber="63">sp. nov.</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection id="14D8136C94F04D6BBBBA1640ECF4B2E7" pageId="0" pageNumber="63" type="description">
+<paragraph id="E02A885782EB31665ED77DCB40B48320" pageId="0" pageNumber="63">
+<figureCitation id="0F3B074F57A27AC014A9443825C87237" captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Drawings of Halomonhystera zhangi sp. nov. A anterior end of male B anterior end of female C entire body of female D posterior end of male E spicules and gubernaculum F entire body of male. Scale bars: 10 μm (A, B); 30 μm (C, F); 20 μm (D, E)." figureDoi="10.3897/zookeys.1193.110188.figure1" httpUri="https://binary.pensoft.net/fig/994910" pageId="0" pageNumber="63">Figs 1</figureCitation>
+<figureCitation id="09C766263389C478CEF75213D8B60AB8" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Microscopic images of Halomonhystera zhangi sp. nov. A anterior end of holotype, showing anterior setae, renette ampulla (arrow) B, C anterior end of holotype, showing buccal cavity, cephalic setae, excretory pore (arrow 1) and amphidial fovea (arrow 2) D posterior end of holotype, showing gubernaculum and caudal papillae (arrows) E cloacal region of paratype 1, showing spicule and precloacal papillae (arrows) F anterior portion of testis of holotype. Scale bars: 10 μm (A - E); 20 μm (F)." figureDoi="10.3897/zookeys.1193.110188.figure2" httpUri="https://binary.pensoft.net/fig/994911" pageId="0" pageNumber="63">, 2</figureCitation>
+<figureCitation id="70A52018544FA441337F1DC585E7A27C" captionStart="Figure 3" captionStartId="F3" captionText="Figure 3. Microscopic images of Halomonhystera zhangi sp. nov. A anterior end of female 1, showing buccal cavity and anterior setae B anterior end of female 2, showing cephalic setae and amphidial fovea (arrow) C middle region of female, showing ovary (arrow 1), egg (arrow 2), vulva (arrow 3), anus (arrow 4) and caudal glands (arrow 5) D anterior region of female intestine, showing pharyngeal base (arrow 1), ventral gland (arrow 2) and ovary (arrow 3). Scale bars: 10 μm (A, B); 30 μm (C, D)." figureDoi="10.3897/zookeys.1193.110188.figure3" httpUri="https://binary.pensoft.net/fig/994912" pageId="0" pageNumber="63">, 3</figureCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="7B988520836B3F2A02F642DAB28D7D71" pageId="0" pageNumber="63" type="diagnosis">
+<paragraph id="8BEC5175B169724E07D7783B5BCEC3F0" pageId="0" pageNumber="63">Diagnosis.</paragraph>
+<paragraph id="C6E84AD65061524BF2B7F4685CB71B82" pageId="0" pageNumber="63">
+<taxonomicName id="47B2292950834B44B72900DDACFE94E1" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera zhangi" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="zhangi">
+<emphasis id="56ABF6CE67D84D9E581B96EBB186E98C" italics="true" pageId="0" pageNumber="63">Halomonhystera zhangi</emphasis>
+</taxonomicName>
+sp. nov. is characterized by relatively small body size, anterior sensory setae 3 
+<normalizedToken id="101C3A1AA325A471278D434B0D9E0852" originalValue="µm">µm</normalizedToken>
+long; small circular amphidial fovea located at the level of buccal cavity base; buccal cavity funnel-shaped; excretory-secretory system with large ventral gland and opening close to the level of cephalic setae by a very thin canal; slender spicules curved slightly with cephalated proximal end and tapered distal end; gubernaculum rod-like, without apophysis; two papilliform precloacal supplements just in front of cloaca; tail conico-cylindrical with two ventral papillae and each with a seta; testis outstretched with folded anterior portion, situated at the right side of the intestine; distance between the vulva and anus longer than the tail length.
+</paragraph>
+</subSubSection>
+<subSubSection id="2EF1CD5FCB6529E8436D0E81B8DF71AC" pageId="0" pageNumber="63" type="materials_examined">
+<paragraph id="4CC5361A083E2D231A4A76C643190BEE" pageId="0" pageNumber="63">Material examined.</paragraph>
+<paragraph id="74F981ABFEC8CE5F78BC09F7BAFEE5F3" pageId="0" pageNumber="63">
+<materialsCitation id="8E57DB2CB3F65A09728B549FF5B3269F" collectingDate="2024-01-01" collectingDateMax="2024-12-31" collectingDateMin="2024-01-01" county="Chinese Academy of Sciences" location="Type" municipality="Marine Biological Museum" specimenCount="Four" specimenCount-female="4" specimenCount-male="8" typeStatus="Holotype">
+<specimenCount id="FB298D0FA5E430817E3CBF2951816CD7" count="4" type="male">Four males</specimenCount>
+and 
+<specimenCount id="C32EE10B0D931E3DCE5C967307936218" count="2" type="female">two females</specimenCount>
+were obtained. 
+<emphasis id="9DA60FA80C9EBD7BA1DBA6F5F9AD6015" bold="true" italics="true" pageId="0" pageNumber="63">
+<typeStatus id="3C78B304C798F9208D3278B3848C3184" type="holotype">Holotype</typeStatus>
+</emphasis>
+: 
+<specimenCount id="87436F92B50AD264AB97B583E8FB676C" count="1" type="male">♂</specimenCount>
+#1 on slide QDZQ-16JL-89; 
+<emphasis id="EFBBC1F7DE64F099CFBB41B6A32C9D80" bold="true" italics="true" pageId="0" pageNumber="63">
+<typeStatus id="90623B374D4AD11C7EAFDCBACDF93952" type="paratype">paratypes</typeStatus>
+</emphasis>
+: 
+<specimenCount id="D0509DCFB1BA7358EDC860AD67927E1B" count="1" type="male">♂</specimenCount>
+#2 on slide QDZQ-11SC-148, 
+<specimenCount id="5D09345FB74FFB2C928EDCAF93000262" count="1" type="male">♂</specimenCount>
+#3 on slide QDZQ-11SC-157, 
+<specimenCount id="5D2036BEFCDA95E1389FB6C66D243EB2" count="1" type="male">♂</specimenCount>
+#4 on slide QDZQ-16JL-93, 
+<specimenCount id="EF22B01021FFD42C5F5697E1B3E5937D" count="1" type="female">♀</specimenCount>
+#1 on slide QDZQ-16JL-97, and 
+<specimenCount id="2B6E41AB391B0D147962F6487BA96851" count="1" type="female">♀</specimenCount>
+#2 on slide QDZQ-16JL-98. 
+<location id="6383E7665CDD80B9B383A1DAAC390D7E" county="Chinese Academy of Sciences" municipality="Marine Biological Museum" name="Type">Type</location>
+specimens were deposited in the 
+<collectingMunicipality id="0D5880EBBA86D7E0A3E68FCC4DC81C91">Marine Biological Museum</collectingMunicipality>
+of the 
+<collectingCounty id="93049E3911FB8ACE996ED814B237C466">Chinese Academy of Sciences</collectingCounty>
+, Qingdao.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="DD37EEEEF843A4A1256AC43D1E7767BF" pageId="0" pageNumber="63" type="type locality">
+<paragraph id="98E6BB558204FCD147A50F44391B05E9" pageId="0" pageNumber="63">Type locality and habitat.</paragraph>
+<paragraph id="DF41B6B34941A27769E0E8A187E28CF0" pageId="0" pageNumber="63">
+Holotype and all the additional specimens were found from 
+<taxonomicName id="597F2C03A30ADDE632A4A3927EBAEBCA" authorityName="O.Kuntze" authorityYear="1893" class="Phaeophyceae" family="Sargassaceae" genus="Sargassum" higherTaxonomySource="GBIF" kingdom="Chromista" lsidName="Sargassum thunbergii" order="Fucales" pageId="0" pageNumber="63" phylum="Gyrista" rank="species" species="thunbergii">
+<emphasis id="E7D5B4FACF82C3CA7DB67B7EED8F1526" italics="true" pageId="0" pageNumber="63">Sargassum thunbergii</emphasis>
+</taxonomicName>
+(seaweed) growing on the intertidal rocky reef of Qingdao Trestle, China (
+<geoCoordinate id="3AA64E6C850D68BD973D29F0C49A141F" degrees="36" direction="north" minutes="37.43" orientation="latitude" precision="9" value="36.623833">36°37.43′N</geoCoordinate>
+, 
+<geoCoordinate id="C45F9D9C6AD2FC40D92EFF2F8D7079C0" degrees="120" direction="east" minutes="18.9" orientation="longitude" precision="92" value="120.315">120°18.9′E</geoCoordinate>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="FCD164C0B7E153AD820C94FD1289D08F" pageId="0" pageNumber="63" type="etymology">
+<paragraph id="6B7AF94D59008A074221F426FC29C8AB" pageId="0" pageNumber="63">Etymology.</paragraph>
+<paragraph id="89173CA6E273004C6942B53F540F8140" pageId="0" pageNumber="63">
+The specific epithet 
+<normalizedToken id="188F66309FAA16545C7D210F5659E3C9" originalValue="“zhangi”">&quot;zhangi&quot;</normalizedToken>
+is in honor of Professor Zhinan Zhang, a Chinese nematologist, in recognition of his contributions to nematode taxonomy.
+</paragraph>
+<caption id="D0BB3F2A967D96B84B7971238FE67D43" doi="10.3897/zookeys.1193.110188.figure1" httpUri="https://binary.pensoft.net/fig/994910" pageId="0" pageNumber="63" start="Figure 1" startId="F1">
+<paragraph id="0B9DD28D29E2DEE1226848B2846F647F" pageId="0" pageNumber="63">
+<emphasis id="FB09718D6DFE09A05A7F8A600ACBF7A7" bold="true" pageId="0" pageNumber="63">Figure 1.</emphasis>
+Drawings of 
+<taxonomicName id="37D11180EFD260AFD8E9A56E2ACCF140" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera zhangi" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="zhangi">
+<emphasis id="5B84146BB8C5A651466B9C61B8A69EFB" italics="true" pageId="0" pageNumber="63">Halomonhystera zhangi</emphasis>
+</taxonomicName>
+sp. nov. 
+<emphasis id="829AA63FE84E630CEA4553B354E60FBC" bold="true" pageId="0" pageNumber="63">A</emphasis>
+anterior end of male 
+<emphasis id="D5FAB4CB46369620358894DFB4B6C272" bold="true" pageId="0" pageNumber="63">B</emphasis>
+anterior end of female 
+<emphasis id="D574D33EFE5CD92A0F9A0820786C2905" bold="true" pageId="0" pageNumber="63">C</emphasis>
+entire body of female 
+<emphasis id="08B1A3C10DCBF461B2FF7BDAE15089CB" bold="true" pageId="0" pageNumber="63">D</emphasis>
+posterior end of male 
+<emphasis id="EF759AF8004CC05510C269AE1591F363" bold="true" pageId="0" pageNumber="63">E</emphasis>
+spicules and gubernaculum 
+<emphasis id="4C1A92810E92DC30E186A225B548EACE" bold="true" pageId="0" pageNumber="63">F</emphasis>
+entire body of male. Scale bars:10 
+<normalizedToken id="92371C5AB1473BDF73A6DCD96EB600AE" originalValue="μm">μm</normalizedToken>
+(
+<emphasis id="D616A534384ABDE75D1B5E3771CE1D60" bold="true" pageId="0" pageNumber="63">A, B</emphasis>
+); 30 
+<normalizedToken id="08CA5D6AC8A6D6CE4E2633B6A1C79404" originalValue="μm">μm</normalizedToken>
+(
+<emphasis id="A77A124AD365097BE895FA7032B57B47" bold="true" pageId="0" pageNumber="63">C, F</emphasis>
+); 20 
+<normalizedToken id="58E397DC0C553768249EBE6B4EFF02F2" originalValue="μm">μm</normalizedToken>
+(
+<emphasis id="649CBB9B300DE5A13B43AA989E113C99" bold="true" pageId="0" pageNumber="63">D, E</emphasis>
+).
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection id="1162528E9F15B56A731CA7FD2BE8D830" pageId="0" pageNumber="63" type="description">
+<paragraph id="C3DA6E815EDA37C9515FB7D646F7E0BA" pageId="0" pageNumber="63">Measurements.</paragraph>
+<paragraph id="E81496B1B0E28F0860946A625F2911D5" pageId="0" pageNumber="63">
+All measurement data are given in Table 
+<tableCitation id="9575C0E7A0B01B9815291EAD3C5E940A" captionStart="Table 1" captionStartId="T1" captionText="Table 1. Measurements of Halomonhystera zhangi sp. nov. (in µm except for ratios)." httpUri="http://table.plazi.org/id/BBB010A8078D92FE9CC97E9751695687" pageId="0" pageNumber="63" tableUuid="BBB010A8078D92FE9CC97E9751695687">1</tableCitation>
+.
+</paragraph>
+<caption id="BBB010A8078D92FE9CC97E9751695687" ID-Table-UUID="BBB010A8078D92FE9CC97E9751695687" httpUri="http://table.plazi.org/id/BBB010A8078D92FE9CC97E9751695687" pageId="0" pageNumber="63" start="Table 1" startId="T1">
+<paragraph id="89E9E585D29666BB124DAA2E526AA40A" pageId="0" pageNumber="63">
+<emphasis id="16BBC776E141E98CEE034B91AFD12774" bold="true" pageId="0" pageNumber="63">Table 1.</emphasis>
+Measurements of 
+<taxonomicName id="A3572869419B094EEEB9ABEF243028E6" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera zhangi" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="zhangi">
+<emphasis id="E6B7AFE2D7E724B68963654975DD60A0" italics="true" pageId="0" pageNumber="63">Halomonhystera zhangi</emphasis>
+</taxonomicName>
+sp. nov. (in 
+<normalizedToken id="F1BE6551CAAE8D463F726AD0D2118B62" originalValue="µm">µm</normalizedToken>
+except for ratios).
+</paragraph>
+</caption>
+<paragraph id="4FD94361A3BEEADD0903ED13AD4274BB" pageId="0" pageNumber="63">
+<table id="B29F35742456916A067103581E4D5CDA" pageId="0" pageNumber="63">
+<tr id="A6C5F371A4E0560D9124FAC4CB7C5950" pageId="0" pageNumber="63">
+<th id="DD88E2900F5401F782CF89266177E06E" colspan="1" pageId="0" pageNumber="63" rowspan="2">Characters</th>
+<th id="12A8E1E55DAB4A44BDC6A9C4B8A67102" colspan="1" pageId="0" pageNumber="63" rowspan="1">Holotype</th>
+<th id="9653E7B30C09EDD5F02F703A0B8A77EA" colspan="2" pageId="0" pageNumber="63" rowspan="1">Paratypes</th>
+</tr>
+<tr id="E3E839D7C8E7E0B0B7ACA4DA30D216E7" pageId="0" pageNumber="63">
+<th id="5517A47FE0A47F8A8BD7E339857568B6" colspan="1" pageId="0" pageNumber="63" rowspan="1">male</th>
+<th id="0407E8CA2F2F46E1C81A093F181635FE" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+males (
+<emphasis id="D1357F2AE8D3577722B5C50034E1E87A" italics="true" pageId="0" pageNumber="63">n</emphasis>
+= 3)
+</th>
+<th id="A5F9B890E963B34606F4B3287347FF36" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+females (
+<emphasis id="78F1E0AC1F46A75338FE4AD0713023B7" italics="true" pageId="0" pageNumber="63">n</emphasis>
+= 2)
+</th>
+</tr>
+<tr id="4DAE42C6162D47ECE1B8C6F3798C456A" pageId="0" pageNumber="63">
+<td id="656AD9FF9B673E32A1A358DF6E66CDB3" colspan="1" pageId="0" pageNumber="63" rowspan="1">Total body length</td>
+<td id="1AAA0508F427671091B8325A70D41475" colspan="1" pageId="0" pageNumber="63" rowspan="1">820</td>
+<td id="6E0BCC8B242EECE42996615CEB70B9F3" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+732.3 
+<normalizedToken id="8EC56089EF3776BAD4339F402E67B981" originalValue="±">+/-</normalizedToken>
+68.5 (654-781)
+</td>
+<td id="1E9B2ADE51A5968EDA9E0A8BD6327057" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+677.0 
+<normalizedToken id="A7AFB1AFA6686AA240047863976AE995" originalValue="±">+/-</normalizedToken>
+67.9 (629-725)
+</td>
+</tr>
+<tr id="44874AC66921FFAACFC64AE444D30C4C" pageId="0" pageNumber="63">
+<td id="C8F5E251C3214F1AAA30EC39931C696E" colspan="1" pageId="0" pageNumber="63" rowspan="1">Maximum body diameter</td>
+<td id="C256A610B272CA3942EB236ECCBBCC85" colspan="1" pageId="0" pageNumber="63" rowspan="1">28</td>
+<td id="B09050429150544F7256C2A3408CF2C5" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+25.3 
+<normalizedToken id="3A0B1DFE792679D23F0B751B30F3CAE2" originalValue="±">+/-</normalizedToken>
+1.2 (24-26)
+</td>
+<td id="D0B7DEB71940831A9E0EA4AB896FEA92" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+27.0 
+<normalizedToken id="3B863F034F6FAE56F138EF6AAD83F5A7" originalValue="±">+/-</normalizedToken>
+2.8 (25-29)
+</td>
+</tr>
+<tr id="444D796C8FD7729856699A8DB90C2777" pageId="0" pageNumber="63">
+<td id="9433EB3B9906EB549CD9CEDBBB2F005C" colspan="1" pageId="0" pageNumber="63" rowspan="1">Head diameter</td>
+<td id="2BBFB51A4DA2BFE784C4662D7A9BEC20" colspan="1" pageId="0" pageNumber="63" rowspan="1">11</td>
+<td id="C4AC8BBC8B237F72C0A71F0ECA6C5E24" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+10.7 
+<normalizedToken id="F846051877FC004A7503F486C22A2B4E" originalValue="±">+/-</normalizedToken>
+0.6 (10-11)
+</td>
+<td id="60D37E974FE9BC415594D70E9980196E" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+13.5 
+<normalizedToken id="DD15CFC808D870FAA0EA697AC243C573" originalValue="±">+/-</normalizedToken>
+0.7 (13-14)
+</td>
+</tr>
+<tr id="5AE21EA25D872ED91F5C25E97F6C2E74" pageId="0" pageNumber="63">
+<td id="4B81BA4B48CBEF2007F8B2E244FD9CB7" colspan="1" pageId="0" pageNumber="63" rowspan="1">Length of cephalic setae</td>
+<td id="FC902B77958FD66FD50283CBA44DBEAB" colspan="1" pageId="0" pageNumber="63" rowspan="1">3</td>
+<td id="6882C3927A97DEA73656484D1EE43BB1" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+3.0 
+<normalizedToken id="B153363EAB2E5E81ECBBED0D17592D51" originalValue="±">+/-</normalizedToken>
+0.0 (3)
+</td>
+<td id="CFF698F76FF4FBA351228F7872703912" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+4.3 
+<normalizedToken id="10D810F72AD88B3AEC0B92CEB3E3F2B1" originalValue="±">+/-</normalizedToken>
+0.4 (4-4.5)
+</td>
+</tr>
+<tr id="4404D843B8B77DAB5B02E8A4E713E835" pageId="0" pageNumber="63">
+<td id="9FFAC350AEF084B4F8EE2C2D6C455D93" colspan="1" pageId="0" pageNumber="63" rowspan="1">Depth of buccal cavity</td>
+<td id="D168B6EDB73E6D91FE1D8B9B3BD4D119" colspan="1" pageId="0" pageNumber="63" rowspan="1">7</td>
+<td id="79C4E79967766B64D71F942C847C05F9" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+6.3 
+<normalizedToken id="0A3F7553F062A590D361666C11BB3E80" originalValue="±">+/-</normalizedToken>
+0.6 (6-7)
+</td>
+<td id="690084C69A17B0FC65C301ED701F9D1F" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+6.0 
+<normalizedToken id="22441AB7E292561D61EBA1D5C764EA92" originalValue="±">+/-</normalizedToken>
+0 (6-6)
+</td>
+</tr>
+<tr id="2CDD997CDE9CA6E652A71CBCB39B82C8" pageId="0" pageNumber="63">
+<td id="F4D45050F4DFAC55E1725BF4B8C17CF5" colspan="1" pageId="0" pageNumber="63" rowspan="1">Width of buccal cavity</td>
+<td id="56D93815C81ECA3A251B38995CF41DAA" colspan="1" pageId="0" pageNumber="63" rowspan="1">4</td>
+<td id="1567C5B3AC5B912309BF69373167014B" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+4.3 
+<normalizedToken id="A13410660AAFFB1A31CCA3B0418F7D44" originalValue="±">+/-</normalizedToken>
+0.6 (4-5)
+</td>
+<td id="E37D9707771113C509E83DE024094E6E" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+3.5 
+<normalizedToken id="FB92C243BD074195E158FF2BB877A4F9" originalValue="±">+/-</normalizedToken>
+0.7 (3-4)
+</td>
+</tr>
+<tr id="4787E9C66A9B91368D4975EC7A90E200" pageId="0" pageNumber="63">
+<td id="2A6C50BBD1ACEB4DDF49B46813446F9C" colspan="1" pageId="0" pageNumber="63" rowspan="1">Amphidial fovea diameter</td>
+<td id="5419F0D396B876A863F0AB69F15B235B" colspan="1" pageId="0" pageNumber="63" rowspan="1">4</td>
+<td id="135C76E1193E0B4431FF31913523FF9B" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+4.0 
+<normalizedToken id="5B6B0A13F580BDEBBFD271490B0394B5" originalValue="±">+/-</normalizedToken>
+0.0 (4)
+</td>
+<td id="92EB8606013B7DB58153B894C2414661" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+3.0 
+<normalizedToken id="CC0F72070E287E71A8732307C3BDD03E" originalValue="±">+/-</normalizedToken>
+0 (3-3)
+</td>
+</tr>
+<tr id="E9CB961CD74AD2656CD5068800BEBB71" pageId="0" pageNumber="63">
+<td id="C992189DB62A8D625F94A73C57B07138" colspan="1" pageId="0" pageNumber="63" rowspan="1">Amphidial fovea from anterior end</td>
+<td id="C93441E480BD7AA824DC45FC3AB42010" colspan="1" pageId="0" pageNumber="63" rowspan="1">7</td>
+<td id="AF4003BDA5B02BF7FB54036AE58ABCA0" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+7.7 
+<normalizedToken id="4E19DC94F418546C7EE263192E128B90" originalValue="±">+/-</normalizedToken>
+0.6 (7-8)
+</td>
+<td id="CAD29D9DA05432883B78E6502B7F1F3A" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+7.0 
+<normalizedToken id="25F67CEB851138975050ED1E0C73BE8E" originalValue="±">+/-</normalizedToken>
+0 (7-7)
+</td>
+</tr>
+<tr id="5EA3A6061475CC531A05B9A812871387" pageId="0" pageNumber="63">
+<td id="5DE097E1991B559ECF2505314C2414F7" colspan="1" pageId="0" pageNumber="63" rowspan="1">Body diameter at amphidial fovea level</td>
+<td id="3ECEBDD804915112F36F513C007E51A3" colspan="1" pageId="0" pageNumber="63" rowspan="1">14</td>
+<td id="735BCCFE52194191340A91B0CA514AA6" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+13.3 
+<normalizedToken id="0B6D6A8DCEBCC1F074EAE76D323C7339" originalValue="±">+/-</normalizedToken>
+0.6 (13-14)
+</td>
+<td id="2C1B9F490827E28297876750348E8E2B" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+14.5 
+<normalizedToken id="7CC421D77E631E952D59FBFDFE7FA1D7" originalValue="±">+/-</normalizedToken>
+0.7 (14-15)
+</td>
+</tr>
+<tr id="665345A95C1884576D48E1C884D79499" pageId="0" pageNumber="63">
+<td id="EA1B18D12EA37473A97D9019202FBFA5" colspan="1" pageId="0" pageNumber="63" rowspan="1">Nerve ring from anterior end</td>
+<td id="C9B186E4629960CBE013F858618CD746" colspan="1" pageId="0" pageNumber="63" rowspan="1">89</td>
+<td id="27821BADFD9C98D5491B02E84C2225BA" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+81.7 
+<normalizedToken id="5C88F284EE865FCC207753F1772323D6" originalValue="±">+/-</normalizedToken>
+5.5 (78-88)
+</td>
+<td id="848CA817F8E7E69E398B80931D8F8118" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+68.5 
+<normalizedToken id="2D1AB46CE5C33390CD76C8D38DDFE350" originalValue="±">+/-</normalizedToken>
+9.2 (62-75)
+</td>
+</tr>
+<tr id="9D1B7CF3A6597C2F435CB636664C2633" pageId="0" pageNumber="63">
+<td id="E6006461144D1A8CC05DC3E2F8F645C0" colspan="1" pageId="0" pageNumber="63" rowspan="1">Body diameter at nerve ring level</td>
+<td id="10C36457E8FC28E9E351D0A0B36E89F6" colspan="1" pageId="0" pageNumber="63" rowspan="1">22</td>
+<td id="99835C19C474EBF88B221F3FDED2A82C" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+20.0 
+<normalizedToken id="B17F1A1748CE574A7F205192EB12727F" originalValue="±">+/-</normalizedToken>
+1.0 (19-21)
+</td>
+<td id="45613DAB56536E63FC4293D9A5C74725" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+22.0 
+<normalizedToken id="771D9FE7B78228768CF38CB1747FA38D" originalValue="±">+/-</normalizedToken>
+1.4 (21-23)
+</td>
+</tr>
+<tr id="A4C8FB83FAE3F4CD5488BCFBEAAA200A" pageId="0" pageNumber="63">
+<td id="20E6420CE14208EE061926909993454A" colspan="1" pageId="0" pageNumber="63" rowspan="1">Pharynx length</td>
+<td id="D81DBBBC72A340BAE63C98046C47E7DC" colspan="1" pageId="0" pageNumber="63" rowspan="1">134</td>
+<td id="9151EDCBF0E3E78B650FE246F877C898" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+128.7 
+<normalizedToken id="D05B65DB4B49B96EBF314C5BA8628E7D" originalValue="±">+/-</normalizedToken>
+5.5 (123-134)
+</td>
+<td id="5A51B2D8090598C553980D90CAF5C0A8" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+116.5 
+<normalizedToken id="145A39467362B9927B35343ACF74B02C" originalValue="±">+/-</normalizedToken>
+12.0 (108-125)
+</td>
+</tr>
+<tr id="F9B9F8006439AC8335990A2044C67143" pageId="0" pageNumber="63">
+<td id="391FA835189210267D18824DE91B3835" colspan="1" pageId="0" pageNumber="63" rowspan="1">Body diameter at base of pharynx</td>
+<td id="3055A0DB3891C5DA35A00FA5CDB6FBE7" colspan="1" pageId="0" pageNumber="63" rowspan="1">23</td>
+<td id="271A21FEA718CF84958DDFF5E93D3EE2" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+21.3 
+<normalizedToken id="8C26B2F739BE518EF59DCC41FAC6729F" originalValue="±">+/-</normalizedToken>
+1.5 (20-23)
+</td>
+<td id="568B6B9EC382BA8BA3F9CA730D703009" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+23.0 
+<normalizedToken id="5233959A1182CD6E0825E6CFBC967C16" originalValue="±">+/-</normalizedToken>
+1.4 (22-24)
+</td>
+</tr>
+<tr id="D01F20E977DF5B7FA219F06375611A09" pageId="0" pageNumber="63">
+<td id="140A995BB197899B2F1F47EDF208A9A6" colspan="1" pageId="0" pageNumber="63" rowspan="1">Spicules length along arc</td>
+<td id="6D4C7F2652FFD38C2DEFDB11E9DCFFFF" colspan="1" pageId="0" pageNumber="63" rowspan="1">47</td>
+<td id="FDD8F9533A9438094C3917D292566ADB" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+43.3 
+<normalizedToken id="8CF1876FAE658FC07132DBE18D7997A7" originalValue="±">+/-</normalizedToken>
+2.1 (41-45)
+</td>
+<td id="8177277C12E2E62AAAD34A140477EAA3" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+</tr>
+<tr id="3276E4173C68EA838F573AD10FB8629D" pageId="0" pageNumber="63">
+<td id="E72E99A548DE776A3762FB86F9086D81" colspan="1" pageId="0" pageNumber="63" rowspan="1">Length of gubernaculum</td>
+<td id="73FB76562DBD27FDDE021811A5B55588" colspan="1" pageId="0" pageNumber="63" rowspan="1">20</td>
+<td id="993670D689F936C6C41FC4630C649C88" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+17.0 
+<normalizedToken id="D9CAD9884A715206336FE627D984E752" originalValue="±">+/-</normalizedToken>
+1.0 (16-18)
+</td>
+<td id="493A60661930221195031EA72880D5BF" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+</tr>
+<tr id="DE94E17CB4D8A153D03C49DD16B6505B" pageId="0" pageNumber="63">
+<td id="EEE5DF761228203AFA78F801736936E6" colspan="1" pageId="0" pageNumber="63" rowspan="1">Body diameter at cloaca or anus</td>
+<td id="C312632FC1C22D423730F6298E3E552B" colspan="1" pageId="0" pageNumber="63" rowspan="1">29</td>
+<td id="21C0B57DD4576AE3952470508825AB27" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+26.0 
+<normalizedToken id="71E54E272DEA281A8410E23DC35154C8" originalValue="±">+/-</normalizedToken>
+2.6 (23-28)
+</td>
+<td id="0551FBDCEDD69BBAC80FEDB0FB74512F" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+22.0 
+<normalizedToken id="8E72B709435C155A3676CB60C506E36C" originalValue="±">+/-</normalizedToken>
+2.8 (20-24)
+</td>
+</tr>
+<tr id="0ACA34DE7EDA5343420D79D4600AF653" pageId="0" pageNumber="63">
+<td id="E359E11A525FADFD9FA009C9F78A6FA9" colspan="1" pageId="0" pageNumber="63" rowspan="1">Tail length</td>
+<td id="D673B4B59C0235152151F029B01D6411" colspan="1" pageId="0" pageNumber="63" rowspan="1">136</td>
+<td id="6EAE64BB3948BAED7E421DD216551D85" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+118.3 
+<normalizedToken id="D65BD395001243C5DC68945C79B79B34" originalValue="±">+/-</normalizedToken>
+14.6 (102-130)
+</td>
+<td id="BFD502E5E6B88F21B35000862113EE27" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+114.5 
+<normalizedToken id="2BA80E55EF6F1646E213668203D84173" originalValue="±">+/-</normalizedToken>
+10.6 (107-122)
+</td>
+</tr>
+<tr id="50E7618DBFBCE1DB92870BD25C9C6486" pageId="0" pageNumber="63">
+<td id="98ECA8D37E948F97BF085BEDBC2FBFD3" colspan="1" pageId="0" pageNumber="63" rowspan="1">Vulva from anterior end</td>
+<td id="29D39D5397E4D7AE71A16D7B23CAB209" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="18D917D67B87B142DAC3984F8E018335" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="F013D4ECFACB8B613689D6AE8BFE1661" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+393.5 
+<normalizedToken id="02ED9827BE0560EAC57CE3EFB783F9C3" originalValue="±">+/-</normalizedToken>
+37.5 (367-420)
+</td>
+</tr>
+<tr id="792512591235468AB00165A6C01525D8" pageId="0" pageNumber="63">
+<td id="FD4467B31B691ECE00EEF670DD8A49BF" colspan="1" pageId="0" pageNumber="63" rowspan="1">Body diameter at vulva</td>
+<td id="2B06E6B7B9EE0F4F53A97C04AA750140" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="AEA5D713ABCBF0D24CE91B4A7ACD03B4" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="ADAD50C6054C36974B8067919E20949A" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+28.5 
+<normalizedToken id="8B89E706B7480AB9291EC575E9D73685" originalValue="±">+/-</normalizedToken>
+3.5 (26-31)
+</td>
+</tr>
+<tr id="C3488F484565B5C5DC72E02F43747242" pageId="0" pageNumber="63">
+<td id="CE9617171E77550919DD978569573C76" colspan="1" pageId="0" pageNumber="63" rowspan="1">V%</td>
+<td id="E0C4AE61C586DB422B9C06C08A1FDD89" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="DCD9B8EA1809554B68A9550CD6D8959C" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="E765BE65EEF1B44CA893C418FD6CC4FD" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+58.1 
+<normalizedToken id="5396CD66473E3E6BE9E30FDF08B715B1" originalValue="±">+/-</normalizedToken>
+0.3 (57.9-58.3)
+</td>
+</tr>
+<tr id="9884C1D6839657222C9E8727A8F777ED" pageId="0" pageNumber="63">
+<td id="FEEC97BFE1972AB8285C050025610339" colspan="1" pageId="0" pageNumber="63" rowspan="1">a</td>
+<td id="E6F59828FEE1EE7259CE687ED19FB663" colspan="1" pageId="0" pageNumber="63" rowspan="1">29.3</td>
+<td id="84C9E0CD3978F2FB51616E995641C562" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+28.9 
+<normalizedToken id="BED03672379D183990AB276F689363F8" originalValue="±">+/-</normalizedToken>
+1.4 (27.3-30.0)
+</td>
+<td id="953ADAF0A8A55B1302669420E831111A" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+25.1 
+<normalizedToken id="9BD012BF0E1C707670103BD088270567" originalValue="±">+/-</normalizedToken>
+0.1 (25.0-25.2)
+</td>
+</tr>
+<tr id="44DEDFAEE5A77F40F4B7207D39BD6321" pageId="0" pageNumber="63">
+<td id="B176A4C7AE13966EF8C20E421E520674" colspan="1" pageId="0" pageNumber="63" rowspan="1">b</td>
+<td id="A5C3933F08752EDD8F2D7D534F906429" colspan="1" pageId="0" pageNumber="63" rowspan="1">6.1</td>
+<td id="4446484761E853FD4DB82DEA348E704C" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+5.7 
+<normalizedToken id="5F5B282D27FEFBC17F1DE1CFE441700E" originalValue="±">+/-</normalizedToken>
+0.6 (5.3-6.4)
+</td>
+<td id="B192484D71B6770D6B227ED40679405F" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+5.8 
+<normalizedToken id="11B6470CED157AEA8A24339FD7FD3A5E" originalValue="±">+/-</normalizedToken>
+0 (5.8-5.8)
+</td>
+</tr>
+<tr id="732F5B368E2B5193442F8C912FEC1A45" pageId="0" pageNumber="63">
+<td id="24321FFE843802101C175A494EA1A786" colspan="1" pageId="0" pageNumber="63" rowspan="1">c</td>
+<td id="550B2569F191948092F660B7D162BE24" colspan="1" pageId="0" pageNumber="63" rowspan="1">6.0</td>
+<td id="E82A3C689755018D4D0D7A78C65B5D8C" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+6.2 
+<normalizedToken id="C62BDDCFBABD1DECA2EF7B7770157C40" originalValue="±">+/-</normalizedToken>
+0.2 (6.0-6.4)
+</td>
+<td id="017FC858198070810DE3E86C10281343" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+5.9 
+<normalizedToken id="893103CDF5958E8CD1F63FCE8A25E715" originalValue="±">+/-</normalizedToken>
+0 (5.9-5.9)
+</td>
+</tr>
+<tr id="AAF7885E25A831591AA11409E24FF864" pageId="0" pageNumber="63">
+<td id="A471B46209BE75910F31C8D217F6DE14" colspan="1" pageId="0" pageNumber="63" rowspan="1">c′</td>
+<td id="71E24F7A59ED478571F2D95BB2090C75" colspan="1" pageId="0" pageNumber="63" rowspan="1">4.7</td>
+<td id="9E8640D062BAA17D3A2587868C222CC1" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+4.5 
+<normalizedToken id="0DF3DAE506FA507BEA4A838B13030622" originalValue="±">+/-</normalizedToken>
+0.2 (4.4-4.8)
+</td>
+<td id="58651B4BCB01CEC42D4492D321E6949F" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+5.3 
+<normalizedToken id="081C970EE97A46190A702FE2B99C0E1D" originalValue="±">+/-</normalizedToken>
+0.2 (5.1-5.4)
+</td>
+</tr>
+</table>
+</paragraph>
+</subSubSection>
+<subSubSection id="FB9B7B80F781725B6FF8830D10A42DD4" pageId="0" pageNumber="63" type="description">
+<paragraph id="E1058AC17802A82BE76BA098DB6DA2D5" pageId="0" pageNumber="63">Description.</paragraph>
+<paragraph id="C853854A0452B6CC10040F2A59FA4DFA" pageId="0" pageNumber="63">
+<emphasis id="81B918D1559BB13ABEFCAAC72505A641" bold="true" pageId="0" pageNumber="63">Males.</emphasis>
+Body slender, tapering towards both extremities. Cuticle smooth without transversely striated. Four longitudinal rows of short somatic setae sparsely distributed throughout the body, 3-4 
+<normalizedToken id="0B2292134DD4322BC459E8B5F5DCFFD4" originalValue="µm">µm</normalizedToken>
+long. Head diameter representing 39-42% of the maximum body diameter. Inner labial sensilla papilliform. Outer labial sensilla setiform. Outer labial setae and cephalic setae united in one circle with a total of 12 setae, each 3 
+<normalizedToken id="FC7B910F503400251F23FFBCD5A3A732" originalValue="µm">µm</normalizedToken>
+long, i.e. 27-30% of head diameter, situated at the level of middle of the buccal cavity. Amphidial fovea circular with a diameter of 4 
+<normalizedToken id="A276C8722BBC75DEA565D5CB9BD12D0A" originalValue="µm">µm</normalizedToken>
+, which is occupying 29-31% of the corresponding body diameter, located at the level of buccal cavity base, i.e.7-8 
+<normalizedToken id="9DA73A94588FB2CD7B24BCE3DFD68772" originalValue="µm">µm</normalizedToken>
+from the anterior end. Buccal cavity funnel-shaped, without teeth. Pharynx cylindrical with a swollen base, not forming a real terminal bulb. Cardia conical, 6-9 
+<normalizedToken id="2711C42006ED8A1E06B458FD866411A7" originalValue="µm">µm</normalizedToken>
+long. Nerve ring situated posterior to the middle of pharynx. Excretory-secretory system with a large ventral cell, situated near anterior section of intestine; ampulla situated posterior to amphidial fovea, about 25 
+<normalizedToken id="418C88EDF8195645102D90BB9E29F9A0" originalValue="µm">µm</normalizedToken>
+from the anterior end of body; a very thin canal extended forwards from the ampulla, and opening just posterior to the level of outer labial and cephalic setae crown. Tail conical with posterior third cylindrical, equal to 4.4-4.8 cloacal body diameter long. Tail tip slightly swollen with a conical hyaline spinneret (Fig. 
+<figureCitation id="0F96101C76DA3915DC329A2D44F989DD" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Microscopic images of Halomonhystera zhangi sp. nov. A anterior end of holotype, showing anterior setae, renette ampulla (arrow) B, C anterior end of holotype, showing buccal cavity, cephalic setae, excretory pore (arrow 1) and amphidial fovea (arrow 2) D posterior end of holotype, showing gubernaculum and caudal papillae (arrows) E cloacal region of paratype 1, showing spicule and precloacal papillae (arrows) F anterior portion of testis of holotype. Scale bars: 10 μm (A - E); 20 μm (F)." figureDoi="10.3897/zookeys.1193.110188.figure2" httpUri="https://binary.pensoft.net/fig/994911" pageId="0" pageNumber="63">2D</figureCitation>
+). Terminal setae absent. A few short caudal setae sparsely distributed throughout the tail. Two prominent caudal gland cells confined entirely to the tail.
+</paragraph>
+<caption id="891DD3C2F913A20C1AAF002FB7762106" doi="10.3897/zookeys.1193.110188.figure2" httpUri="https://binary.pensoft.net/fig/994911" pageId="0" pageNumber="63" start="Figure 2" startId="F2">
+<paragraph id="54DA0741FD704B42823E051D6216D40F" pageId="0" pageNumber="63">
+<emphasis id="1787E2AF50AAC11BFCE08B0D14847FB6" bold="true" pageId="0" pageNumber="63">Figure 2.</emphasis>
+Microscopic images of 
+<taxonomicName id="DE9D54CE1EB1C82F6075F955809A6FE9" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera zhangi" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="zhangi">
+<emphasis id="42090E69AFC230DACDE6714F4ADB16E5" italics="true" pageId="0" pageNumber="63">Halomonhystera zhangi</emphasis>
+</taxonomicName>
+sp. nov. 
+<emphasis id="A2EFBE3BDC24F4893D16AB5788A85058" bold="true" pageId="0" pageNumber="63">A</emphasis>
+anterior end of holotype, showing anterior setae, renette ampulla (arrow) 
+<emphasis id="476C2E1BDD1F6219DC6DD7D4F2F90646" bold="true" pageId="0" pageNumber="63">B, C</emphasis>
+anterior end of holotype, showing buccal cavity, cephalic setae, excretory pore (arrow 1) and amphidial fovea (arrow 2) 
+<emphasis id="1D58DBFB1AF1B4B48E8E3DBDC5768032" bold="true" pageId="0" pageNumber="63">D</emphasis>
+posterior end of holotype, showing gubernaculum and caudal papillae (arrows) 
+<emphasis id="154108F63DCB0095AC6D4E5146530A28" bold="true" pageId="0" pageNumber="63">E</emphasis>
+cloacal region of paratype 1, showing spicule and precloacal papillae (arrows) 
+<emphasis id="B340E4D116E7429A9B8B0F55B259DBD1" bold="true" pageId="0" pageNumber="63">F</emphasis>
+anterior portion of testis of holotype. Scale bars: 10 
+<normalizedToken id="A9137AFC4C0B5DE95B2A5A61E5ADFEEF" originalValue="μm">μm</normalizedToken>
+(
+<emphasis id="B739F9BFF43258FD70E9AAFD35FDEFDE" bold="true" pageId="0" pageNumber="63">A</emphasis>
+- 
+<emphasis id="A1A815ED79DA18443C8AA6C5C97343A6" bold="true" pageId="0" pageNumber="63">E</emphasis>
+); 20 
+<normalizedToken id="AEE364B5F9354330A70214BF81C1337E" originalValue="μm">μm</normalizedToken>
+(
+<emphasis id="BD113C13F261AFB3B6DF554126504E03" bold="true" pageId="0" pageNumber="63">F</emphasis>
+).
+</paragraph>
+</caption>
+<paragraph id="68A743A1D3EBE1F921A9E9F67FA1A197" pageId="0" pageNumber="63">
+Reproductive system monorchic with an outstretched testis with folded anterior portion, situated at the right side of the intestine. (Fig. 
+<figureCitation id="BCBF98438FC9CFD00E2291AF1F9D3BFA" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Microscopic images of Halomonhystera zhangi sp. nov. A anterior end of holotype, showing anterior setae, renette ampulla (arrow) B, C anterior end of holotype, showing buccal cavity, cephalic setae, excretory pore (arrow 1) and amphidial fovea (arrow 2) D posterior end of holotype, showing gubernaculum and caudal papillae (arrows) E cloacal region of paratype 1, showing spicule and precloacal papillae (arrows) F anterior portion of testis of holotype. Scale bars: 10 μm (A - E); 20 μm (F)." figureDoi="10.3897/zookeys.1193.110188.figure2" httpUri="https://binary.pensoft.net/fig/994911" pageId="0" pageNumber="63">2F</figureCitation>
+). Spicules slender, arcuated, proximally cephalated and distally pointed, 1.52-1.96 times of cloacal body diameter. Gubernaculum rod-like, slightly curved proximally, without apophysis. Two papilliform precloacal supplements, one just anterior to cloaca, another one 30-50 
+<normalizedToken id="5DB736A449DD3FDFB1B0A707360F0C4A" originalValue="µm">µm</normalizedToken>
+anterior to cloaca. Two ventral caudal papillae in the middle region of tail, each with a short seta. The anterior one located at 43-52 
+<normalizedToken id="B56F5841E8C721D3521955A043BF153B" originalValue="µm">µm</normalizedToken>
+posterior from cloaca, and the other at 63-72 
+<normalizedToken id="89F66298BD3814B9FE611576EC4C089C" originalValue="µm">µm</normalizedToken>
+posterior from cloaca.
+</paragraph>
+<paragraph id="4614F7D39F8733C6628314FB904BF88D" pageId="0" pageNumber="63">
+<emphasis id="810224FD28F8F7796934D5BB7ECBFAE5" bold="true" pageId="0" pageNumber="63">Females.</emphasis>
+Similar to males in most morphological characteristics except cephalic setae slightly longer and amphidial fovea relatively smaller. Reproductive system monodelphic with an anterior outstretched ovary, located at the right side of intestine. Mature egg large, oval. Uterus a wide tube. Vulva located posterior to mid-body (i.e. 57.9-58.3% of body length from the anterior end). Distance between the vulva and anus (155-183 
+<normalizedToken id="9542FAC31490471A1B872A6178E3DFF5" originalValue="µm">µm</normalizedToken>
+) longer than the tail length (107-122 
+<normalizedToken id="98AB799E5E0162184375089C90FFB12E" originalValue="µm">µm</normalizedToken>
+). Spermatheca not seen.
+</paragraph>
+</subSubSection>
+<subSubSection id="F235441D810AFBE1EC416BE51B16AA11" pageId="0" pageNumber="63" type="differential diagnosis and discussion">
+<paragraph id="3671FF274B64C78E5FDCC0EE5060032D" pageId="0" pageNumber="63">Differential diagnosis and discussion.</paragraph>
+<paragraph id="27739C9EF3048EDFE6FF4C87D47D9EFF" pageId="0" pageNumber="63">
+<taxonomicName id="BE125084D0216AB76B64853CCA4B4047" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera zhangi" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="zhangi">
+<emphasis id="4011ECE8BE6CB3A58D8A0086B6E7C39C" italics="true" pageId="0" pageNumber="63">Halomonhystera zhangi</emphasis>
+</taxonomicName>
+sp. nov. agrees well with the primary diagnostic characters of the genus, especially in having well developed excretory-secretory system with large ventral gland and opening at anterior pharyngeal region, spinneret with hyaline structure, males having papillary precloacal supplements and caudal papillae. The inconsistent characters to diagnosis of 
+<taxonomicName id="402D59A72A0A7DE1A234BDEB4EF7D958" authorityName="Andrassy" authorityYear="2006" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">
+<emphasis id="043C92EEDF04160B0E869D6D3948F5B6" italics="true" pageId="0" pageNumber="63">Halomonhystera</emphasis>
+</taxonomicName>
+are cephalic setae paired and vulva not very close to anus.
+</paragraph>
+<paragraph id="F721D530C8F95F0BB31803298AC78786" pageId="0" pageNumber="63">
+The present species is similar to 
+<taxonomicName id="F9F109B4CAA3B2A2B7B48B25811640F4" genus="H." lsidName="H. chitwoodi" pageId="0" pageNumber="63" rank="species" species="chitwoodi">
+<emphasis id="CDF8F79EEC2DC62CC7E10568B3F8B8BF" italics="true" pageId="0" pageNumber="63">H. chitwoodi</emphasis>
+</taxonomicName>
+(Steiner, 1958) 
+<normalizedToken id="FE06AD240B229C714731C4639D16D04E" originalValue="Andrássy">Andrassy</normalizedToken>
+, 2006 in the position of amphidial fovea (closing to anterior end of body), the distance between vulva and anus (not shorter than the tail length) and they all growing on 
+<taxonomicName id="00A475836B42D5D207FD79C9F1477277" class="Phaeophyceae" family="Sargassaceae" genus="Sargassum" higherTaxonomySource="GBIF" kingdom="Chromista" lsidName="Sargassum" order="Fucales" pageId="0" pageNumber="63" phylum="Gyrista" rank="genus">Sargassum</taxonomicName>
+, but it differs from the latter species by slightly smaller body size (vs longer than 1 mm), two papilliform precloacal supplements (vs only one precloacal supplement), and conico-cylindrical tail with two ventral bristled papillae (vs conical tail without bristled papilla). In having relatively long distance between the vulva and anus, the new species resembles 
+<taxonomicName id="4E1E287641ACB470566DE372BD956731" genus="H." lsidName="H. glaciei" pageId="0" pageNumber="63" rank="species" species="glaciei">
+<emphasis id="B73EA8F9AE1DF1242ACE600F18515C36" italics="true" pageId="0" pageNumber="63">H. glaciei</emphasis>
+</taxonomicName>
+(Blome &amp; Riemann, 1999) 
+<normalizedToken id="453D4752FE5DEAA912F4D638EC79BB33" originalValue="Andrássy">Andrassy</normalizedToken>
+, 2006, but differs from it by the much shorter and stouter body (vs 2 mm or more, a = 60 or more), the amphidial fovea closing to the anterior body end (vs two labial diameters from anterior end) and by the shorter tail (vs c′= 7). The new species can easily be distinguished from other known species within this genus by relatively small body size, position of amphidial fovea near to anterior end of body, two papilliform precloacal supplements, conico-cylindrical tail with two ventral bristled papillae. The difference between 
+<taxonomicName id="E27D12D774B1D37CA1AD471E5FB4F587" genus="H." lsidName="H. zhangi" pageId="0" pageNumber="63" rank="species" species="zhangi">
+<emphasis id="D512854023FFD7547E39D6E495059580" italics="true" pageId="0" pageNumber="63">H. zhangi</emphasis>
+</taxonomicName>
+sp. nov. and other known species within the genus can be inferred from the key below.
+</paragraph>
+<caption id="203386080962CAECDE78EA250BA4FA7E" doi="10.3897/zookeys.1193.110188.figure3" httpUri="https://binary.pensoft.net/fig/994912" pageId="0" pageNumber="63" start="Figure 3" startId="F3">
+<paragraph id="DAEA73A24BE7BF2DE0F0489E55326F1D" pageId="0" pageNumber="63">
+<emphasis id="3CE22503764C8A9AB5909E184EAA4B19" bold="true" pageId="0" pageNumber="63">Figure 3.</emphasis>
+Microscopic images of 
+<taxonomicName id="23C2358FAE1016E1DD7437DD1E007301" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera zhangi" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="zhangi">
+<emphasis id="04AFD2A92AF2B79BF6ECD84E66880F42" italics="true" pageId="0" pageNumber="63">Halomonhystera zhangi</emphasis>
+</taxonomicName>
+sp. nov. 
+<emphasis id="5A781F075ED251FE0E97BAEFE252643C" bold="true" pageId="0" pageNumber="63">A</emphasis>
+anterior end of female 1, showing buccal cavity and anterior setae 
+<emphasis id="45E04DBF806BF77FCE5A5EB78E38FE38" bold="true" pageId="0" pageNumber="63">B</emphasis>
+anterior end of female 2, showing cephalic setae and amphidial fovea (arrow) 
+<emphasis id="6DC49D8812FBE9D62AD3853F856BBFBB" bold="true" pageId="0" pageNumber="63">C</emphasis>
+middle region of female, showing ovary (arrow 1), egg (arrow 2), vulva (arrow 3), anus (arrow 4) and caudal glands (arrow 5) 
+<emphasis id="3773DF3386D758E3374C208A305E21AE" bold="true" pageId="0" pageNumber="63">D</emphasis>
+anterior region of female intestine, showing pharyngeal base (arrow 1), ventral gland (arrow 2) and ovary (arrow 3). Scale bars: 10 
+<normalizedToken id="AF477D904E846F6FC23E9D6757DACA18" originalValue="μm">μm</normalizedToken>
+(
+<emphasis id="B86E8640DE34C6516C9D9CBFB485188B" bold="true" pageId="0" pageNumber="63">A, B</emphasis>
+); 30 
+<normalizedToken id="03CBF2EC0D01D89A2231D5B824007CD6" originalValue="μm">μm</normalizedToken>
+(
+<emphasis id="64C55040B6E05D0E1D66B561B0A2A0A6" bold="true" pageId="0" pageNumber="63">C, D</emphasis>
+).
+</paragraph>
+</caption>
+</subSubSection>
+</treatment>
+<subSection id="8E722B051B28141B9DCEB03FB962D553" _chop="before" pageId="0" pageNumber="63" type="multiple">
+<paragraph id="3717DD2C38CFD6E9E979603B504E4C1B" pageId="0" pageNumber="63">
+Updated key to all species of 
+<taxonomicName id="29CE162A2E3F6EB99E2FCB4DE0B7D735" authorityName="Andrassy" authorityYear="2006" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">
+<emphasis id="8555F101DCF66ABD24C080F0207B5875" italics="true" pageId="0" pageNumber="63">Halomonhystera</emphasis>
+</taxonomicName>
+(based on Leduc 2014; Tchesunov et al. 2015)
+</paragraph>
+<paragraph id="DA1357DDB82B9F42A7786139915CA643" pageId="0" pageNumber="63">
+<table id="6C86A4C5F1EFF508FDFD04611F355909" inLine="true" pageId="0" pageNumber="63">
+<tr id="7BBBB649B614798A5A42FC923082EA2E" pageId="0" pageNumber="63">
+<td id="EDB8C0104622A1E9154C05B8F6C6CB0A" colspan="1" pageId="0" pageNumber="63" rowspan="1">1</td>
+<td id="1FADB05A35C49976D73308DA10D7EAFC" colspan="1" pageId="0" pageNumber="63" rowspan="1">Distance from vulva to anus 4-12 abd, equal or longer than tail length</td>
+<td id="6FACE18F3544A588E2CD5E18092E6113" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="AC799EE8ACC6B641CD13E619C30292BC" bold="true" pageId="0" pageNumber="63">2</emphasis>
+</td>
+</tr>
+<tr id="817D907719BB3B39470176471023FDBE" pageId="0" pageNumber="63">
+<td id="D15DE971B635EE6B6259BE26FAE09B20" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="09A6374026EF3FFD50C4A2EC4ACB5522" colspan="1" pageId="0" pageNumber="63" rowspan="1">Distance from vulva to anus 1-3 abd, much shorter than tail length</td>
+<td id="9639371D02FE06B33D32C9C5058B57DC" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="FF814748A676FA3B4782EC6FEF14B921" bold="true" pageId="0" pageNumber="63">8</emphasis>
+</td>
+</tr>
+<tr id="EA84E01DE7814599DAC79F1156EB11C0" pageId="0" pageNumber="63">
+<td id="2662009EF3A731538EBF6181D2582739" colspan="1" pageId="0" pageNumber="63" rowspan="1">2</td>
+<td id="2ED4A12ED1537E3F8549315DDDAAB27B" colspan="1" pageId="0" pageNumber="63" rowspan="1">Body longer than 2 mm, extremely slender (a = 60-91)</td>
+<td id="0FBC0E8BBFCC8AFFBCEA559AC0E5A562" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="61DE865BF629C79421BFC7887E8F0DDC" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="DA0741F1CCE19CD94E9A6DC2583955B8" genus="H." lsidName="H. glaciei" pageId="0" pageNumber="63" rank="species" species="glaciei">
+<emphasis id="2D488DC610024B913E64705D0566DB08" italics="true" pageId="0" pageNumber="63">H. glaciei</emphasis>
+</taxonomicName>
+(Blome &amp; Riemann, 1999)
+</emphasis>
+</td>
+</tr>
+<tr id="92467B73C2B388AACAE2D8A8F6821408" pageId="0" pageNumber="63">
+<td id="626B2BD8D6879A206711689EAAC0D19C" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="1626BE587A16D453F7CCB69BE5847B2F" colspan="1" pageId="0" pageNumber="63" rowspan="1">Body shorter than 1.5 mm, moderately slender (a = 20-38)</td>
+<td id="FED3DB5AA06A1969E07794952D376A5B" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="EB7FDBCBFE8AA95DE7CC81969D5A87EB" bold="true" pageId="0" pageNumber="63">3</emphasis>
+</td>
+</tr>
+<tr id="5363D6F7532C457D885693068DDB1AD2" pageId="0" pageNumber="63">
+<td id="9C48369D9F6C9952C65C1CF521F68404" colspan="1" pageId="0" pageNumber="63" rowspan="1">3</td>
+<td id="B7F0F1868C200B570789B444F0489546" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Body very short, 357-400 
+<normalizedToken id="02C246B52A72C65998D32884FAA08211" originalValue="µm">µm</normalizedToken>
+, spicules 14-19 
+<normalizedToken id="0FE3883B8BA4B368E7FD1C83E97642E7" originalValue="µm">µm</normalizedToken>
+</td>
+<td id="C7FF8C2565794909E0E3D8D4C7E0361E" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="340EA611CD00FB370FDC712A70957766" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="8C2A303157F3F671EBF0C9047DCF5431" genus="H." lsidName="H. islandica" pageId="0" pageNumber="63" rank="species" species="islandica">
+<emphasis id="A1EC2A62802510A9DBA3443026D90B38" italics="true" pageId="0" pageNumber="63">H. islandica</emphasis>
+</taxonomicName>
+(De Coninck, 1943)
+</emphasis>
+</td>
+</tr>
+<tr id="773AE2163F37F1D4D9877FE1B751B4BF" pageId="0" pageNumber="63">
+<td id="D9F20B054F0B72D30C2757F94C8D1F00" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="72BD87FFD9126211257EC6BBC4D45F98" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Body longer than 600 
+<normalizedToken id="E9BC5FBBDF3F16748B0DEB1079FBD2B5" originalValue="µm">µm</normalizedToken>
+, spicules longer than 22 
+<normalizedToken id="CAB1F3D2CA969DF97EAE2CBF1E63A014" originalValue="µm">µm</normalizedToken>
+</td>
+<td id="546089E461EB08E6E1F049E0A4AA6908" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="125F34B6D19D68733C0AA9FBB8FA7ED7" bold="true" pageId="0" pageNumber="63">4</emphasis>
+</td>
+</tr>
+<tr id="4F3655D49C5F8E183D02AD69478EF0A7" pageId="0" pageNumber="63">
+<td id="55E2004AEE5270043DDD9AC7FAA40398" colspan="1" pageId="0" pageNumber="63" rowspan="1">4</td>
+<td id="ED7BDCE2F5209DBCC10D2B4B10D0F98D" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Spicules longer than 40 
+<normalizedToken id="265371E6926679341A44E27A62BD2924" originalValue="µm">µm</normalizedToken>
+</td>
+<td id="F9BE2B1400D9F1A374A070BD9C8BDB01" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="27CC47205B7639F91D453DE9E905C566" bold="true" pageId="0" pageNumber="63">5</emphasis>
+</td>
+</tr>
+<tr id="DA7F08C464DA80D122C1D3BC6C28054E" pageId="0" pageNumber="63">
+<td id="C6187579B74333E336AEF07607F330D4" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="2F271026D677EE59167DE199BF76CBF8" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Spicules equal or shorter than 30 
+<normalizedToken id="51BAA76C7A829A1342DA1B888B5F42B9" originalValue="µm">µm</normalizedToken>
+</td>
+<td id="8CEC87A632280FE6BA2EE4816E31BDFC" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="639AA49C125D9DC95930F4CE829F03E4" bold="true" pageId="0" pageNumber="63">6</emphasis>
+</td>
+</tr>
+<tr id="87381E685AD0238F8F592304371D99A5" pageId="0" pageNumber="63">
+<td id="9C046E49F08E6ABC93EBB11C468A88B2" colspan="1" pageId="0" pageNumber="63" rowspan="1">5</td>
+<td id="959DCEE9F361E99EE50F7DDAA44167EA" colspan="1" pageId="0" pageNumber="63" rowspan="1">Tail conico-cylindrical with two ventral bristled papillae</td>
+<td id="2A4E55F0EAB8BAFD024BBB2251515E17" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="AC437C587C14C972D0CE86B00318E583" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="68298CB9CAE4CEC9B9DB6068CE34AAA4" genus="H." lsidName="H. zhangi" pageId="0" pageNumber="63" rank="species" species="zhangi">
+<emphasis id="7E8D798E3F439A7D0C98BFE0F1962452" italics="true" pageId="0" pageNumber="63">H. zhangi</emphasis>
+</taxonomicName>
+sp. nov.
+</emphasis>
+</td>
+</tr>
+<tr id="57FA6708AB498A35ACEC5C6C680BBB29" pageId="0" pageNumber="63">
+<td id="FC8C1FC1720BB795D6B9319323B9D9D2" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="F6810DF677557A363789BF6370AEC205" colspan="1" pageId="0" pageNumber="63" rowspan="1">Tail conical without bristled papilla</td>
+<td id="5881B8A944B306AA8EA1B7AA42B03173" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="DBB33110256785BB1E56C2247E9EA4AA" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="ECDF0BAB2942E0BFE4E33913586A0E68" genus="H." lsidName="H. chitwoodi" pageId="0" pageNumber="63" rank="species" species="chitwoodi">
+<emphasis id="FFEB190EED89A44DC49A97E069166C86" italics="true" pageId="0" pageNumber="63">H. chitwoodi</emphasis>
+</taxonomicName>
+(Steiner, 1958)
+</emphasis>
+</td>
+</tr>
+<tr id="59010C9A542F89F410C24A1E2005D97A" pageId="0" pageNumber="63">
+<td id="02F90F7D1261A74369F9E761C3C949AA" colspan="1" pageId="0" pageNumber="63" rowspan="1">6</td>
+<td id="99461C7323076BB45C505D11938899E6" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Tail elongated, both males and females longer than 5.5 abd, spicules 22 
+<normalizedToken id="C9E148FAB5B2BD2FA78D5C238BF6371A" originalValue="µm">µm</normalizedToken>
+long
+</td>
+<td id="4CD9B3546B6064E8A4551B74320C4412" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="CD966ED51EAA93E09764FB8CD1991842" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="B1B30EFDA3AA7B3729BD298A555C2C09" genus="H." lsidName="H. bathislandica" pageId="0" pageNumber="63" rank="species" species="bathislandica">
+<emphasis id="F1C0960C6F8C22522ECE90650E5D8192" italics="true" pageId="0" pageNumber="63">H. bathislandica</emphasis>
+</taxonomicName>
+(Riemann, 1995)
+</emphasis>
+</td>
+</tr>
+<tr id="4966A2A7CED515579F6B7BA71594AD54" pageId="0" pageNumber="63">
+<td id="481A82DB7EC54F08661B6465FEDB0645" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="199B32CB5D0044128A1001D8D7D70328" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Tail length medium, spicules 23-30 
+<normalizedToken id="77205B84E546CE23E7E2F39C8CE51E46" originalValue="µm">µm</normalizedToken>
+long
+</td>
+<td id="43323FAF48BAAE1465DAAB34D802F86B" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="950EDE10A787377098B4738A0ED66611" bold="true" pageId="0" pageNumber="63">7</emphasis>
+</td>
+</tr>
+<tr id="873F6B3434B2DE1C85B43A8635C2398C" pageId="0" pageNumber="63">
+<td id="367F41F83F0EA4882B5AEC584E1AE034" colspan="1" pageId="0" pageNumber="63" rowspan="1">7</td>
+<td id="C9FB795CCED1190A3DC861A35AA79E60" colspan="1" pageId="0" pageNumber="63" rowspan="1">Width of amphidial fovea equal to 50% cbd, females ovoviviparous</td>
+<td id="3F82E24B1B2C2D4CA63CC3B016AD644D" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="17DC01672DAFB0B38A9DF43A269B875C" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="A9AACDEB644833D75C866B037656A4C9" genus="H." lsidName="H. fisheri" pageId="0" pageNumber="63" rank="species" species="fisheri">
+<emphasis id="212FD0ED8FB181C0C8253B96E0B25B5A" italics="true" pageId="0" pageNumber="63">H. fisheri</emphasis>
+</taxonomicName>
+(Zekely, Sorensen &amp; Bright, 2006)
+</emphasis>
+</td>
+</tr>
+<tr id="69E97B169E5E7824521E8A8EF2E58569" pageId="0" pageNumber="63">
+<td id="37E7D635D280B0723A6876449819A901" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="5D54653951ACD8E7BF9C031CB19E041E" colspan="1" pageId="0" pageNumber="63" rowspan="1">Width of amphidial fovea equal to 40% cbd, females oviparous</td>
+<td id="A2FB793CCBD64D8F0D05D177E1A95E9F" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="70AC177802B00A321E90EC6D464BEE22" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="9CBEEE49B1D8AA74E65BD7B12793E2F8" genus="H." lsidName="H. vandoverae" pageId="0" pageNumber="63" rank="species" species="vandoverae">
+<emphasis id="3F0F4DC66043F9BD6319D8C6FC9D599B" italics="true" pageId="0" pageNumber="63">H. vandoverae</emphasis>
+</taxonomicName>
+(Zekely, Sorensen &amp; Bright, 2006)
+</emphasis>
+</td>
+</tr>
+<tr id="8AA94B6AE089C826172B8581A9187AA3" pageId="0" pageNumber="63">
+<td id="E3702777889DAE1489CAB6FB9F17DFCD" colspan="1" pageId="0" pageNumber="63" rowspan="1">8</td>
+<td id="B9BD685C53D8F289875F049718194565" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Body longer than 1.8 mm, a = 40-50, tail with three successive pairs of subventral papillae in males, spicules 46-96 
+<normalizedToken id="4157B344D615EFF67C83A41B86D55702" originalValue="µm">µm</normalizedToken>
+long
+</td>
+<td id="1940B1B37F54D2A20EEFA2D8AF877445" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="94D586AF4A380B3A1EADE12F7D238ED3" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="2DFB651EE621AF2D0F77A5D743F3A606" genus="H." lsidName="H. socialis" pageId="0" pageNumber="63" rank="species" species="socialis">
+<emphasis id="C3D8F8DA34D1CF05D12AF220664A993A" italics="true" pageId="0" pageNumber="63">H. socialis</emphasis>
+</taxonomicName>
+(
+<normalizedToken id="8458A3185EFF0A53FB3D597AD689F531" originalValue="Bütschli">Buetschli</normalizedToken>
+, 1874)
+</emphasis>
+</td>
+</tr>
+<tr id="E136B383A2905A2C2A5513063A36E71C" pageId="0" pageNumber="63">
+<td id="F07DFAECF7240FE01CCCBEE7DF71F42B" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="467965AB3948948416BFA54FD4C8ED19" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Body shorter than 1.6 mm, a = 20-43, spicules 23-53 
+<normalizedToken id="78A1C663031B3DB9D7562FDE0D734F13" originalValue="µm">µm</normalizedToken>
+long
+</td>
+<td id="2E16B482B6908DE13404751178B5CF59" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="1B4C98482B422AF63E90C5BCE4F1BB09" bold="true" pageId="0" pageNumber="63">9</emphasis>
+</td>
+</tr>
+<tr id="EA4707D4A59C70D7CFEF8A6DE17F7572" pageId="0" pageNumber="63">
+<td id="208F3E8BA3D94CE0114E1D14F3EB676B" colspan="1" pageId="0" pageNumber="63" rowspan="1">9</td>
+<td id="017061EE2E7C9CA48C7B3AFFA26DB39B" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Body small (440-460 
+<normalizedToken id="707C46B2402A09FE0F83B5F5AD8F908A" originalValue="µm">µm</normalizedToken>
+long) with relatively longer tail (c′ = 6.5)
+</td>
+<td id="7B118B919E9B4D2DB85EBEE394C1C5CC" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="6DE75C6D36358C64EBC77FC7D6EAE9D3" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="5DCDA8CB68D7E4A8C9C87EA6CAE0D04D" genus="H." lsidName="H. uniformis" pageId="0" pageNumber="63" rank="species" species="uniformis">
+<emphasis id="94804D75AECFC8C4299F7F8224290DBF" italics="true" pageId="0" pageNumber="63">H. uniformis</emphasis>
+</taxonomicName>
+(Cobb, 1914)
+</emphasis>
+</td>
+</tr>
+<tr id="0E12A6AFF0E2CAF02B296E8BED1A63E2" pageId="0" pageNumber="63">
+<td id="D2FF3EA5AF88B82A62EC83008CF1DAFB" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="70B9D2CD289BA501E6D4D361CB6A42DA" colspan="1" pageId="0" pageNumber="63" rowspan="1">Body size medium, with relatively shorter tail</td>
+<td id="F93E490138D5D8B5C06279EDC3AF72E6" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="A65A506CC8FFE3076B8CCF9FA5C0F065" bold="true" pageId="0" pageNumber="63">10</emphasis>
+</td>
+</tr>
+<tr id="651D2C063BF213274ACD16C6D637C83F" pageId="0" pageNumber="63">
+<td id="C6D5E975BD39FAB559147292D1E96A08" colspan="1" pageId="0" pageNumber="63" rowspan="1">10</td>
+<td id="9C4230369151D699B75709F6C46FE1D5" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Distance from amphidial fovea to anterior body end 2-3 cbd, spicules 38 
+<normalizedToken id="DE111DBF400243BA53192A03F17B6086" originalValue="µm">µm</normalizedToken>
+long
+</td>
+<td id="A3F2C40EE6C558E0DBE7D794C31C439A" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="20F86D098DB3D7F419CA739BA7DFF7F5" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="4899DEA8665C42850689389F6D1CF0D0" genus="H." lsidName="H. cameroni" pageId="0" pageNumber="63" rank="species" species="cameroni">
+<emphasis id="E374369B697258BAEEB817BC9A0CDFC2" italics="true" pageId="0" pageNumber="63">H. cameroni</emphasis>
+</taxonomicName>
+(Steiner, 1958)
+</emphasis>
+</td>
+</tr>
+<tr id="DF03804A6E94377982C1B993AD00B1FC" pageId="0" pageNumber="63">
+<td id="21AF7635C24A7AE582AC34C61F9D2376" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="5535B145D7540D837951AEEDBCF57CED" colspan="1" pageId="0" pageNumber="63" rowspan="1">Distance from amphidial fovea to anterior body end less than 2 cbd</td>
+<td id="566B3A54266BE6A3DA5C4B7AFF43C2E2" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="5C5017D61749A3D5B95A7EDA2FECB7BA" bold="true" pageId="0" pageNumber="63">11</emphasis>
+</td>
+</tr>
+<tr id="8F22AE823DEF87D9FC3D84F8B9026122" pageId="0" pageNumber="63">
+<td id="0969DF37276EA14A1BE936327B483931" colspan="1" pageId="0" pageNumber="63" rowspan="1">11</td>
+<td id="1B3FDB6A569C3C515C2B3EC90F3ACA38" colspan="1" pageId="0" pageNumber="63" rowspan="1">Width of amphidial fovea equal to 33-50% cbd</td>
+<td id="BC3CC8A9DF9214077CA78FCF4A139988" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="74BA130666E4F158C48DDC1DD9EAD29B" bold="true" pageId="0" pageNumber="63">12</emphasis>
+</td>
+</tr>
+<tr id="AB60BD5C27D78685F32D16EF4E451964" pageId="0" pageNumber="63">
+<td id="302C15D00B1B5F990FB035066CCD47B2" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="126CF40FC5D0B1754A9BE48E43FA9EF8" colspan="1" pageId="0" pageNumber="63" rowspan="1">Width of amphidial fovea less than 32% cbd</td>
+<td id="4B580E106EC5AA4423DA8B2507E224D5" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="8B35FF68F64CA774D0759CAB67897636" bold="true" pageId="0" pageNumber="63">14</emphasis>
+</td>
+</tr>
+<tr id="8349567573115E8F6B3248D1B35459EE" pageId="0" pageNumber="63">
+<td id="5AFC59F944BE9790D3C69085DF81C117" colspan="1" pageId="0" pageNumber="63" rowspan="1">12</td>
+<td id="9AE640D2A3749087405B0FAC27C8B0A7" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Spicules 34-40 
+<normalizedToken id="730A9B8FF9F62E7108426C393BE83215" originalValue="µm">µm</normalizedToken>
+long
+</td>
+<td id="BCB244FF514B83AC6D812ACFDB85C4F3" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="BB135214C96C123A08DEDBAEA40C9D2B" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="554EA86F305F022DF6553FA8D12F0785" genus="H." lsidName="H. antarctica" pageId="0" pageNumber="63" rank="species" species="antarctica">
+<emphasis id="71310ECF767C87AA6B2C0AD5691081EE" italics="true" pageId="0" pageNumber="63">H. antarctica</emphasis>
+</taxonomicName>
+(Cobb, 1914)
+</emphasis>
+</td>
+</tr>
+<tr id="472A1E35E08891D1C710F3C101B008F3" pageId="0" pageNumber="63">
+<td id="92670FFEA8BB077A212C9214FABD653F" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="E268CBC220A6C2181AD56BDDBE491D3D" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Spicules 25-30 
+<normalizedToken id="4EC4E7B6AF8032A0455683DB4BBBCFE1" originalValue="µm">µm</normalizedToken>
+long
+</td>
+<td id="923C264AF385252ADB4741257EB6DC28" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="DE935AD668C932AB92CED716A233048C" bold="true" pageId="0" pageNumber="63">13</emphasis>
+</td>
+</tr>
+<tr id="2CEC4F9CDACE920AD57804957F9086B4" pageId="0" pageNumber="63">
+<td id="1666E779664AE84DC8867C3C2BBBB331" colspan="1" pageId="0" pageNumber="63" rowspan="1">13</td>
+<td id="948B681A68DC62ACF1F445B5947C6696" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Body plump, 420-580 
+<normalizedToken id="1C394C1015AFB0003F95E04BDC960DFF" originalValue="µm">µm</normalizedToken>
+long, a = 20-24
+</td>
+<td id="8259DB31F388664D51A66B985751D082" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="C067D8706C2A50E60C111E2BFD9F6591" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="5D48EF69684D599084D1D29D88E056D7" genus="H." lsidName="H. continentalis" pageId="0" pageNumber="63" rank="species" species="continentalis">
+<emphasis id="AEFB55633711178156716EC3897F40D2" italics="true" pageId="0" pageNumber="63">H. continentalis</emphasis>
+</taxonomicName>
+<normalizedToken id="3519D67A6B1B5D96E9EBF204ED955358" originalValue="Andrássy">Andrassy</normalizedToken>
+, 2006
+</emphasis>
+</td>
+</tr>
+<tr id="924D1D22B9D0E53C592A99FA8A99A417" pageId="0" pageNumber="63">
+<td id="FC9398F1620EE7A83E0FA84B5CC6E5B7" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="AA08FBD9ECBA17917519416C8DA17588" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Body slender, 605-780 
+<normalizedToken id="5BC6464D305682747E7D52F7826ED927" originalValue="µm">µm</normalizedToken>
+long, a = 28-34
+</td>
+<td id="9F44EACCA01FE6777252EC3BD0D81B8E" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="245FFF03CA2DCD78FE9BC8C78DAF9E6E" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="C745F552E7D41A3B7F1CD7C4C7028972" genus="H." lsidName="H. hickeyi" pageId="0" pageNumber="63" rank="species" species="hickeyi">
+<emphasis id="8E9CB176DBA78E544E2EBE10CD410FFF" italics="true" pageId="0" pageNumber="63">H. hickeyi</emphasis>
+</taxonomicName>
+Zekely, Sorensen &amp; Bright, 2006
+</emphasis>
+</td>
+</tr>
+<tr id="7D143F44BBB7002012925A45597423AF" pageId="0" pageNumber="63">
+<td id="5DE5996FD9C29273C3ACB3298CA41364" colspan="1" pageId="0" pageNumber="63" rowspan="1">14</td>
+<td id="ACD081B6EC26340523B0774086A44D2D" colspan="1" pageId="0" pageNumber="63" rowspan="1">Females ovoviviparous</td>
+<td id="2A45D86CA4513CA90EDD3D0A9D3C043C" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="61A1D8C79EB5835C6D158779E1747239" bold="true" pageId="0" pageNumber="63">15</emphasis>
+</td>
+</tr>
+<tr id="6B7C489BFBEA93485ADC2F5A9FCB824B" pageId="0" pageNumber="63">
+<td id="C56C373E255F754614B8848564D7DAF9" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="D72C697D83EBC3F28A06DB5B2EC104AB" colspan="1" pageId="0" pageNumber="63" rowspan="1">Females oviparous</td>
+<td id="09508808B4B2A9B64C9466975E2AA7BA" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="E607C4CE172939552A919087EB6C8256" bold="true" pageId="0" pageNumber="63">17</emphasis>
+</td>
+</tr>
+<tr id="9890F311653B4ADC20A282295F51C3AB" pageId="0" pageNumber="63">
+<td id="445BFD5264CBA8187A3E29CA10A2EF12" colspan="1" pageId="0" pageNumber="63" rowspan="1">15</td>
+<td id="19043B42A819DCD4E688DE1532364735" colspan="1" pageId="0" pageNumber="63" rowspan="1">Amphid located 1.5-1.9 labial diameters from the anterior body end, gubernaculum without or with inconspicuous apophysis</td>
+<td id="BCA16956C0CE709B0055ADBC4F58066F" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="A207EAC23FADA8B548198726EEB156DE" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="D2EE42620D753FEE2191261A93CFCBCB" genus="H." lsidName="H. disjuncta" pageId="0" pageNumber="63" rank="species" species="disjuncta">
+<emphasis id="250F8DE2592B3290D6DFA6C8361511D8" italics="true" pageId="0" pageNumber="63">H. disjuncta</emphasis>
+</taxonomicName>
+(Bastian, 1865)
+</emphasis>
+</td>
+</tr>
+<tr id="888AEE8B001E58614586359E0AB919B6" pageId="0" pageNumber="63">
+<td id="7CF7599ADC306667B10FB1A88FA5EEF7" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="632621169FDC25FACC59402D79406400" colspan="1" pageId="0" pageNumber="63" rowspan="1">Amphid located more anteriorly (0.7-1.4 labial diameters), gubernaculum with conspicuous apophysis</td>
+<td id="D3FF27DE343BF92FB48A07F84F8F8CFA" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="ED4AE45B590E9476EE60315BBC3BF7B2" bold="true" pageId="0" pageNumber="63">16</emphasis>
+</td>
+</tr>
+<tr id="E83AC0E570575F6961AEF4C924C893C8" pageId="0" pageNumber="63">
+<td id="831855BD613CE3C23A49157E093DA043" colspan="1" pageId="0" pageNumber="63" rowspan="1">16</td>
+<td id="96CF2C63E721484BA0426AAA8A60600D" colspan="1" pageId="0" pageNumber="63" rowspan="1">Tail with three successive pairs of subventral papillae in males</td>
+<td id="D5382B598043F6FCE17F3CBAFCF24C19" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="9970E0939559968016FC87B6F983D71A" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="3574D40C9BB139D3102788C2B684FE6D" genus="H." lsidName="H. hermesi" pageId="0" pageNumber="63" rank="species" species="hermesi">
+<emphasis id="E78BA02961F570D4884BA6D7EAC79C1E" italics="true" pageId="0" pageNumber="63">H. hermesi</emphasis>
+</taxonomicName>
+Tchesunov, Portnova &amp; van Campenhout, 2015
+</emphasis>
+</td>
+</tr>
+<tr id="CA96C63563BA5CFB20723CBEF7DA294D" pageId="0" pageNumber="63">
+<td id="211E639DF74F59F0FBBAE52061FA8A05" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="47880AA204EB2979C5327E2A6B986A9A" colspan="1" pageId="0" pageNumber="63" rowspan="1">Tail with only one pair of subventral papillae close to the tail tip in males</td>
+<td id="BC696A406C2D518D58A910C6AB73320D" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="389A26D0BFC04381145F7212EF17C224" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="2A98137C89C6743DDB3E05520B4FEA7B" genus="H." lsidName="H. halophila" pageId="0" pageNumber="63" rank="species" species="halophila">
+<emphasis id="6C1BB46559042E9099A77D9F4B96D0FF" italics="true" pageId="0" pageNumber="63">H. halophila</emphasis>
+</taxonomicName>
+<normalizedToken id="621E49A93736133E762178FA55571439" originalValue="Andrássy">Andrassy</normalizedToken>
+, 2006
+</emphasis>
+</td>
+</tr>
+<tr id="95C7764DF3C5B179B8DCE3BB9F620F7F" pageId="0" pageNumber="63">
+<td id="F197D43603BC6CC04827091AF211C546" colspan="1" pageId="0" pageNumber="63" rowspan="1">17</td>
+<td id="B41F7F423FC7ED3E8EB6FDA66939EE54" colspan="1" pageId="0" pageNumber="63" rowspan="1">Distance from vulva to anus 4.2 abd, equal to 85% tail length</td>
+<td id="71ABEE8731ECF08251D73FA0E3879AED" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="377F3EDF31B5DF670A97F23E0BFE165B" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="660A3CF0BE54890E45556100DBA887F7" genus="H." lsidName="H. rotundicapitata" pageId="0" pageNumber="63" rank="species" species="rotundicapitata">
+<emphasis id="8176921105F832C0663E98595C197B52" italics="true" pageId="0" pageNumber="63">H. rotundicapitata</emphasis>
+</taxonomicName>
+(Filipjev, 1922)
+</emphasis>
+</td>
+</tr>
+<tr id="D0BF1A09C8923055BCA86A0E871CA717" pageId="0" pageNumber="63">
+<td id="4D57D80B7DFE73C2CC4E14A30AFFEDCA" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="E0E2533E016D95C34D4637EF0BD87C0F" colspan="1" pageId="0" pageNumber="63" rowspan="1">Distance from vulva to anus less than 2 abd, shorter than 35% tail length</td>
+<td id="FF3CAB92A6172BABC99D6F20E6665353" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="02C6411444069C505BAAD84DC3EC0B28" bold="true" pageId="0" pageNumber="63">18</emphasis>
+</td>
+</tr>
+<tr id="189A164F7728145A774A0AB12CF5BB9C" pageId="0" pageNumber="63">
+<td id="5215917931DCB008CED7122F20CE4835" colspan="1" pageId="0" pageNumber="63" rowspan="1">18</td>
+<td id="3C84B44B4000802DCD9FFA8FDCD8F51F" colspan="1" pageId="0" pageNumber="63" rowspan="1">Gubernaculum with caudal apophyses, tail with four pairs post-cloacal papillae in males</td>
+<td id="03D9517935C03193C9FE982601162532" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="1196DE1BABA9270A816386CF498E7CDC" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="A14445F409899D405CB81ED9172A471C" genus="H." lsidName="H. tangaroa" pageId="0" pageNumber="63" rank="species" species="tangaroa">
+<emphasis id="4D6F3C9F97BCC7D6A8D2CB59A6746B1F" italics="true" pageId="0" pageNumber="63">H. tangaroa</emphasis>
+</taxonomicName>
+Leduc, 2014
+</emphasis>
+</td>
+</tr>
+<tr id="AEC7493FB8FC98E510C9EE40EF96F09E" pageId="0" pageNumber="63">
+<td id="2E0D5AD74C93CFF1DDCC4142BCAE1581" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="4177AC89C44F16EE06B5225DDA302E2D" colspan="1" pageId="0" pageNumber="63" rowspan="1">Gubernaculum without caudal apophyses, tail without or with two pairs post-cloacal papillae in males</td>
+<td id="45686D422CDC44091CF08540CA9209D0" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="7DCDC74A0F1A7D3A466DAF6040B17CED" bold="true" pageId="0" pageNumber="63">19</emphasis>
+</td>
+</tr>
+<tr id="801EFE1BDAB97BDB1B7E3353C49AF293" pageId="0" pageNumber="63">
+<td id="CF4CA3CC9B24C94D78B0EB0CE5A430B1" colspan="1" pageId="0" pageNumber="63" rowspan="1">19</td>
+<td id="9DB8CB6F1351E41809ECA0D51C809A7D" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Buccal cavity with denticles, spicules 41-44 
+<normalizedToken id="1F4DC5E4435869C80101D82F9A43B8F9" originalValue="µm">µm</normalizedToken>
+long
+</td>
+<td id="3DBABCE0AB2A0E0CEC666A447216E129" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="A556F5D16F8E3D46253D338CFA662060" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="269CD4DF4D2905F3EF38164E6CDA1BFF" genus="H." lsidName="H. parasitica" pageId="0" pageNumber="63" rank="species" species="parasitica">
+<emphasis id="8E273327C43F4B35D2D59CCB34BCD949" italics="true" pageId="0" pageNumber="63">H. parasitica</emphasis>
+</taxonomicName>
+Poinar, Duarte &amp; Santos Maria, 2009
+</emphasis>
+</td>
+</tr>
+<tr id="2131BDA8F442E926A6EF5155753718B8" pageId="0" pageNumber="63">
+<td id="0B76163F1FDB2FC393AE1F471B6B223E" colspan="1" pageId="0" pageNumber="63" rowspan="1">-</td>
+<td id="AC13D1C666474DF14E935A5A15F8B41C" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+Buccal cavity without denticles, spicules 23-30 
+<normalizedToken id="6B0D459184BBDD7B6C0F6E8AA6763074" originalValue="µm">µm</normalizedToken>
+</td>
+<td id="727CB897FA096CB59025482BCC32A2A8" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<emphasis id="32B71C64DCC418CF722A4DE01F60F5B4" bold="true" pageId="0" pageNumber="63">
+<taxonomicName id="25EBF3529F6778F7CC3548B1ED73A3BF" genus="H." lsidName="H. taurica" pageId="0" pageNumber="63" rank="species" species="taurica">
+<emphasis id="6A86191F87E1E97D4C052AD5D4978B18" italics="true" pageId="0" pageNumber="63">H. taurica</emphasis>
+</taxonomicName>
+(Tsalolikhin, 2007)
+</emphasis>
+</td>
+</tr>
+</table>
+</paragraph>
+<paragraph id="EC594B7BCA74187C576273B63D3DB9A3" pageId="0" pageNumber="63">
+Family 
+<taxonomicName id="8DE60174399D3D1025A608EA42757919" authorityName="Chitwood" authorityYear="1951" class="Chromadorea" family="Xyalidae" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="family">Xyalidae</taxonomicName>
+Chitwood, 1951
+</paragraph>
+</subSection>
+<treatment id="CC830091309A5DA99BC248515810A5CF" ID-GBIF-Taxon="222674571" pageId="0" pageNumber="63">
+<subSubSection id="FC3D74411052301DECEAF375379BF65F" pageId="0" pageNumber="63" type="nomenclature">
+<paragraph id="5F614A03F2F55B17339A2A1C1B7607D7" pageId="0" pageNumber="63">
+Genus 
+<taxonomicName id="8B7647FBB6D1E93DCC166026E0BB41F2" ID-CoL="8G22J" LSID="CC830091-309A-5DA9-9BC2-48515810A5CF" authority="Lorenzen, 1977" authorityName="Lorenzen" authorityYear="1977" family="Xyalidae" genus="Stylotheristus" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Stylotheristus" order="Monhysterida" pageId="0" pageNumber="63" rank="genus">Stylotheristus Lorenzen, 1977</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="C47262C3D619B12FEBA293E78C8D7461" pageId="0" pageNumber="63" type="diagnosis">
+<paragraph id="FE165AF321D914EED77CA6D9EBE82338" pageId="0" pageNumber="63">Diagnosis.</paragraph>
+<paragraph id="814EB64B69F66B1909DCB911D6DE7254" pageId="0" pageNumber="63">
+Anterior sensilla arranged in two crowns with the number of setae in the second crown depending on the sex and life stage, 6+4 in females and juveniles and 6+10 in males, inner labial sensilla conical; buccal cavity conical; pharyngeal muscles well-developed around the buccal cavity; amphidial fovea transversely oval; spicules short; spermatheca present on the right side of intestine; three caudal glands opening at separate pores; tail conico-cylindrical with three terminal setae (
+<bibRefCitation id="FADE17D19A0BA34B938475CE699C7BEC" DOI="https://doi.org/10.11646/zootaxa.4722.1.1" author="Pinto, TK" journalOrPublisher="Zootaxa" pageId="0" pageNumber="63" pagination="1 - 33" refId="B22" refString="Pinto, TK, Neres, PF, 2020. Four new species of free-living nematodes from shallow continental shelf of Portugal. Zootaxa 4722 (1): 1 - 33, DOI: https://doi.org/10.11646/zootaxa.4722.1.1" title="Four new species of free-living nematodes from shallow continental shelf of Portugal." url="https://doi.org/10.11646/zootaxa.4722.1.1" volume="4722" year="2020">Pinto and Neres 2020</bibRefCitation>
+).
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection id="2384CCD09E9BFC0C6C88A920CFD00056" _chop="after" pageId="0" pageNumber="63" type="multiple">
+<treatment id="C5446C0CED9759DF8D876CEFA8FE88E7" ID-GBIF-Taxon="222674573" LSID="urn:lsid:zoobank.org:act:3875D927-471F-4BEF-AF20-41B8F80B3380" pageId="0" pageNumber="63">
+<subSubSection id="4C7711D8882CFC3648D8813E81506DF3" pageId="0" pageNumber="63" type="nomenclature">
+<paragraph id="D80D717F1843265C52D9816048E2A256" pageId="0" pageNumber="63">
+<taxonomicName id="57F9AC1D8FC806F91305C80D628438EC" LSID="https://zoobank.org/3875D927-471F-4BEF-AF20-41B8F80B3380" authority="Li &amp; Huang &amp; Huang, 2024" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Xyalidae" genus="Stylotheristus" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Stylotheristus flagellicaudatus" order="Monhysterida" pageId="0" pageNumber="63" rank="species" species="flagellicaudatus" status="sp. nov.">Stylotheristus flagellicaudatus</taxonomicName>
+<taxonomicNameLabel id="3A5A6420E35C57D668CF131A450C91C9" pageId="0" pageNumber="63">sp. nov.</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7C82DEB611797BFEBB561C72872AFEF" pageId="0" pageNumber="63" type="description">
+<paragraph id="658D5FA249CABBB650E3BA5B2E926D3F" pageId="0" pageNumber="63">
+<figureCitation id="6E3D22F200617C4ADC31BD2B1C764406" captionStart="Figure 4" captionStartId="F4" captionText="Figure 4. Drawings of Stylotheristus flagellicaudatus sp. nov. A lateral view of pharyngeal region of holotype B lateral view of posterior portion, showing long conico-cylindrical tail C lateral view of anterior portion of holotype, showing the two circles of anterior setaes and oval amphideal fovea D entire view of male E cloacal region of holotype, showing spicule and gubernaculum. Scale bars: 20 µm (A - C, E), 30 µm (D)." figureDoi="10.3897/zookeys.1193.110188.figure4" httpUri="https://binary.pensoft.net/fig/994913" pageId="0" pageNumber="63">Figs 4</figureCitation>
+<figureCitation id="A70B295E7775E6A0E919A9F3125531C2" captionStart="Figure 5" captionStartId="F5" captionText="Figure 5. Microscopic images of Stylotheristus flagellicaudatus sp. nov. A lateral view of anterior portion of holotype, showing conical inner labial setae (arrow 1), outer labial setae (arrow 2), subcephalic setae (arrow 3) and buccal cavity B lateral view of anterior portion of holotype, showing cephalic setae and amphideal fovea (arrow) C lateral view of cloacal region of holotype, showing spicule and gubernaculum (arrow) D lateral view of posterior portion of paratype 1, showing filiform tail and caudal setae E dorsal view of anterior portion of paratype 3, showing cephalic setae (arrow). Scale bars: 20 µm." figureDoi="10.3897/zookeys.1193.110188.figure5" httpUri="https://binary.pensoft.net/fig/994914" pageId="0" pageNumber="63">, 5</figureCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="9613E18741D6CF4CE9810D621320E05E" pageId="0" pageNumber="63" type="diagnosis">
+<paragraph id="65083C0AF4AA86FE2B4CED10C4B956FE" pageId="0" pageNumber="63">Diagnosis.</paragraph>
+<paragraph id="5C0B1FDE77FDB96EE45DC82FAC046160" pageId="0" pageNumber="63">
+<taxonomicName id="15CEE1673F4DA4805CA3FE22CE7D7F8C" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Xyalidae" genus="Stylotheristus" kingdom="Animalia" lsidName="Stylotheristus flagellicaudatus" order="Monhysterida" pageId="0" pageNumber="63" rank="species" species="flagellicaudatus">
+<emphasis id="D6542E3E7FF9BE2C2E4E6AB4F551EC78" italics="true" pageId="0" pageNumber="63">Stylotheristus flagellicaudatus</emphasis>
+</taxonomicName>
+sp. nov. is characterized by relatively shorter body and longer tail than that of two species already described in this genus; cuticle striated; anterior sensilla arranged in two circles: the first circle consisting of six inner labial setiform papillae (3-4 
+<normalizedToken id="711EADFFCB67FC3CFF0EECE7097021DD" originalValue="µm">µm</normalizedToken>
+), the second circle consisting of 16 long setae (12-19 
+<normalizedToken id="93C40D2F7163850FC741154E66AEE937" originalValue="µm">µm</normalizedToken>
+); amphideal fovea transversely oval; well-developed muscle around funnel-shaped buccal cavity; spicules short, gubernaculum composed of a single piece, precloacal supplements absent; tail elongated, filiform.
+</paragraph>
+<caption id="4C0A500E27E4098DA02C2CF907C01083" doi="10.3897/zookeys.1193.110188.figure4" httpUri="https://binary.pensoft.net/fig/994913" pageId="0" pageNumber="63" start="Figure 4" startId="F4">
+<paragraph id="0BBFC63A27F934777209A2ACE4BE2AF2" pageId="0" pageNumber="63">
+<emphasis id="E65D01F41C691F1502B45CC61FD25F8E" bold="true" pageId="0" pageNumber="63">Figure 4.</emphasis>
+Drawings of 
+<taxonomicName id="9C5C454D5EE74DB9BCF29B8C012FBF4D" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Xyalidae" genus="Stylotheristus" kingdom="Animalia" lsidName="Stylotheristus flagellicaudatus" order="Monhysterida" pageId="0" pageNumber="63" rank="species" species="flagellicaudatus">
+<emphasis id="19B58F5239C1D4C921D79659E6981BEA" italics="true" pageId="0" pageNumber="63">Stylotheristus flagellicaudatus</emphasis>
+</taxonomicName>
+sp. nov. 
+<emphasis id="10137EE2E3AA8FAD8BCD1332957800E9" bold="true" pageId="0" pageNumber="63">A</emphasis>
+lateral view of pharyngeal region of holotype 
+<emphasis id="0C263BDCEE8B79287569E3999B79F0E3" bold="true" pageId="0" pageNumber="63">B</emphasis>
+lateral view of posterior portion, showing long conico-cylindrical tail 
+<emphasis id="37C0CED411C3B069C07C706619545225" bold="true" pageId="0" pageNumber="63">C</emphasis>
+lateral view of anterior portion of holotype, showing the two circles of anterior setaes and oval amphideal fovea 
+<emphasis id="1F5CCED56065425290ADC9B3AC943BB9" bold="true" pageId="0" pageNumber="63">D</emphasis>
+entire view of male 
+<emphasis id="71CE2A36DDE4DA163830052F31B2DCE1" bold="true" pageId="0" pageNumber="63">E</emphasis>
+cloacal region of holotype, showing spicule and gubernaculum. Scale bars: 20 
+<normalizedToken id="40A0A8889E7F8EBB7322716129CE713D" originalValue="µm">µm</normalizedToken>
+(
+<emphasis id="AFF4D6C15B455911EE9B6459970E6BFE" bold="true" pageId="0" pageNumber="63">A</emphasis>
+- 
+<emphasis id="AC8C4751B395254DC55D2CF6A9B847AD" bold="true" pageId="0" pageNumber="63">C, E</emphasis>
+), 30 
+<normalizedToken id="8F4473E0B7B0760BDB9C370A0104EB9A" originalValue="µm">µm</normalizedToken>
+(
+<emphasis id="5F486F302B44390F1E3BF698159B6009" bold="true" pageId="0" pageNumber="63">D</emphasis>
+).
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection id="02B11AC5E4052F066055E385A4FD0358" pageId="0" pageNumber="63" type="type material">
+<paragraph id="306A0C530D4B9FF2E891163CA567969B" pageId="0" pageNumber="63">Type material.</paragraph>
+<paragraph id="B3E09AE5B7A227E43A77B8633A6897B0" pageId="0" pageNumber="63">
+Four males were collected. 
+<emphasis id="178B8895F759526B46D0130150C78410" bold="true" italics="true" pageId="0" pageNumber="63">Holotype</emphasis>
+: ♂#1 on slide Sangengzhi 87-4. 
+<emphasis id="6DE9167242F182958146D141DA5FCA1B" bold="true" italics="true" pageId="0" pageNumber="63">Paratypes</emphasis>
+: ♂#2 on slide Sangengzhi 81-10, ♂#3 on slide Sangengzhi 81-11 and ♂#4 on slide Sangengzhi 37-3.
+</paragraph>
+</subSubSection>
+<subSubSection id="73338B7A0AABD4AF3016DD08299B1F1C" pageId="0" pageNumber="63" type="type locality">
+<paragraph id="DB247F487DCD92561B5C88F6988DB5E7" pageId="0" pageNumber="63">Type locality and habitat.</paragraph>
+<paragraph id="4585B98F4BE73F2616B3BAA9199BF205" pageId="0" pageNumber="63">
+Holotype and other specimens were collected in the muddy sediment from the intertidal zone of Sangengzhi, Hainan Province (
+<geoCoordinate id="B947B62D8128B6A09FB9B2FB8B54CF8F" degrees="19" direction="north" minutes="26" orientation="latitude" precision="15" seconds="55" value="19.44861">19°26′55″N</geoCoordinate>
+, 
+<geoCoordinate id="F8598841A71298E781890025BF9C4FC1" degrees="108" direction="east" minutes="37" orientation="longitude" precision="15" seconds="38" value="108.62723">108°37′38″E</geoCoordinate>
+).
+</paragraph>
+<caption id="676AC859C4236B20318CE199C78F627F" doi="10.3897/zookeys.1193.110188.figure5" httpUri="https://binary.pensoft.net/fig/994914" pageId="0" pageNumber="63" start="Figure 5" startId="F5">
+<paragraph id="F8D7CB4E1DA242F5131EB9BC0B7417D8" pageId="0" pageNumber="63">
+<emphasis id="B6F7D8B78D7A395499E8CF99DCE60FB9" bold="true" pageId="0" pageNumber="63">Figure 5.</emphasis>
+Microscopic images of 
+<taxonomicName id="110A28FFF3C5B3C477F83E442467AA8C" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Xyalidae" genus="Stylotheristus" kingdom="Animalia" lsidName="Stylotheristus flagellicaudatus" order="Monhysterida" pageId="0" pageNumber="63" rank="species" species="flagellicaudatus">
+<emphasis id="9DA1FC1AA9017F5BB2E9732369AB2BDE" italics="true" pageId="0" pageNumber="63">Stylotheristus flagellicaudatus</emphasis>
+</taxonomicName>
+sp. nov. 
+<emphasis id="9DDB7EF0CDC7E7E458DFFAE28EA2F2F6" bold="true" pageId="0" pageNumber="63">A</emphasis>
+lateral view of anterior portion of holotype, showing conical inner labial setae (arrow 1), outer labial setae (arrow 2), subcephalic setae (arrow 3) and buccal cavity 
+<emphasis id="ADCECA877D7B7CA8A2409612A127F44E" bold="true" pageId="0" pageNumber="63">B</emphasis>
+lateral view of anterior portion of holotype, showing cephalic setae and amphideal fovea (arrow) 
+<emphasis id="44EABBFAD9CD4A6196CB22668FDBF6E1" bold="true" pageId="0" pageNumber="63">C</emphasis>
+lateral view of cloacal region of holotype, showing spicule and gubernaculum (arrow) 
+<emphasis id="9E1343A4545AEC5216AEB32CDAFBF8B3" bold="true" pageId="0" pageNumber="63">D</emphasis>
+lateral view of posterior portion of paratype 1, showing filiform tail and caudal setae 
+<emphasis id="0564C24AF4E95396F65525B306D6F7EE" bold="true" pageId="0" pageNumber="63">E</emphasis>
+dorsal view of anterior portion of paratype 3, showing cephalic setae (arrow). Scale bars: 20 
+<normalizedToken id="3D30BF938207489717B20CE6E404501A" originalValue="µm">µm</normalizedToken>
+.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection id="93065F7502D1B2CFAEB6460581E4A346" pageId="0" pageNumber="63" type="etymology">
+<paragraph id="DE74C90AE028F3EE24D341EF8A676239" pageId="0" pageNumber="63">Etymology.</paragraph>
+<paragraph id="63DD58EA34B14AE1EB60299ACF9D5B93" pageId="0" pageNumber="63">
+The species epithet 
+<normalizedToken id="9F3A3BC4BF7C6213FF8E63084FAE6060" originalValue="“flagellicaudatus”">&quot;flagellicaudatus&quot;</normalizedToken>
+refers to its long and filiform tail.
+</paragraph>
+</subSubSection>
+<subSubSection id="1999ACA384D8394D297500812D02B60D" pageId="0" pageNumber="63" type="description">
+<paragraph id="BFE67277D73A009EE1C8CC98882F4BE2" pageId="0" pageNumber="63">Measurements.</paragraph>
+<paragraph id="C9548E4D1972111AADE424D18C396FA9" pageId="0" pageNumber="63">
+Measurements are given in Table 
+<tableCitation id="56A2C0508B3C7DC1213DFB78B7C52DE8" captionStart="Table 2" captionStartId="T2" captionText="Table 2. Measurements of the Stylotheristus flagellicaudatus sp. nov. (in µm except for ratios)." httpUri="http://table.plazi.org/id/796647E316505051A72C9F08BDDAE30F" pageId="0" pageNumber="63" tableUuid="796647E316505051A72C9F08BDDAE30F">2</tableCitation>
+.
+</paragraph>
+<caption id="796647E316505051A72C9F08BDDAE30F" ID-Table-UUID="796647E316505051A72C9F08BDDAE30F" httpUri="http://table.plazi.org/id/796647E316505051A72C9F08BDDAE30F" pageId="0" pageNumber="63" start="Table 2" startId="T2">
+<paragraph id="A4EBA6449525DE1BF02DC3F8F517AC17" pageId="0" pageNumber="63">
+<emphasis id="8A235DBF630C7F2436E1EB629E67F820" bold="true" pageId="0" pageNumber="63">Table 2.</emphasis>
+Measurements of the 
+<taxonomicName id="2E0905908600A3A0E0887B6D39D7F645" authorityName="Li &amp; Huang &amp; Huang" authorityYear="2024" family="Xyalidae" genus="Stylotheristus" kingdom="Animalia" lsidName="Stylotheristus flagellicaudatus" order="Monhysterida" pageId="0" pageNumber="63" rank="species" species="flagellicaudatus">
+<emphasis id="9F772984E442A89FD9C57468C6CCE548" italics="true" pageId="0" pageNumber="63">Stylotheristus flagellicaudatus</emphasis>
+</taxonomicName>
+sp. nov. (in 
+<normalizedToken id="6C8565FED219DB99D45C400249432B3C" originalValue="µm">µm</normalizedToken>
+except for ratios).
+</paragraph>
+</caption>
+<paragraph id="62C12C0D7836F64500F458EDB980EC7F" pageId="0" pageNumber="63">
+<table id="B018684B80BF8B67F1FC68CF837A6D3C" pageId="0" pageNumber="63">
+<tr id="69CCAC84547EFEB04B29D049AA5E74EE" pageId="0" pageNumber="63">
+<th id="8D26F655AEF6C7B3B7593C170B856A4E" colspan="1" pageId="0" pageNumber="63" rowspan="2">Characters</th>
+<th id="53E379E5615D6F3E57BDA589C750CA0C" colspan="1" pageId="0" pageNumber="63" rowspan="1">Holotype</th>
+<th id="3139904599E5791A3A55D7EAE5BF8BAF" colspan="1" pageId="0" pageNumber="63" rowspan="1">Paratypes</th>
+</tr>
+<tr id="16C7858A06ED252565B16EF29AF06BA3" pageId="0" pageNumber="63">
+<th id="017F49B06C1078352D28F22F85B8ED21" colspan="1" pageId="0" pageNumber="63" rowspan="1">male</th>
+<th id="AA0BA6C788F96E90EC118072A0624F28" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+males (
+<emphasis id="E7DDE0D00159DE473864AA51C935C682" italics="true" pageId="0" pageNumber="63">n</emphasis>
+= 3)
+</th>
+</tr>
+<tr id="4A5622BDA3D9411195434DC51AB1D40E" pageId="0" pageNumber="63">
+<td id="A7CA4368A40236836E47A05CA5947BCA" colspan="1" pageId="0" pageNumber="63" rowspan="1">Total body length</td>
+<td id="E63D3C98196110C2AC9B18B38115765F" colspan="1" pageId="0" pageNumber="63" rowspan="1">1683</td>
+<td id="0E12253D5C5926F98747930B8FEE3414" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+1570.7 
+<normalizedToken id="DB8015D540393D765A7BB567ADDCAFCE" originalValue="±">+/-</normalizedToken>
+39.3 (1526-1600)
+</td>
+</tr>
+<tr id="CB2E9F90A783FA444825E03BCB21AD7A" pageId="0" pageNumber="63">
+<td id="DD1F72CABA7E72D89F67E9545D8E8B3E" colspan="1" pageId="0" pageNumber="63" rowspan="1">Maximum body diameter</td>
+<td id="9B5E778B19899C87C7B8B5B45DCD23D7" colspan="1" pageId="0" pageNumber="63" rowspan="1">30</td>
+<td id="9EC61529EB5953052D49EC617DD52B1D" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+31.7 
+<normalizedToken id="659C243FCAF09D6013D6AA234D654DEC" originalValue="±">+/-</normalizedToken>
+2.1 (31-34)
+</td>
+</tr>
+<tr id="D5B64D8664F83F6E8258DCE49A6EB4E8" pageId="0" pageNumber="63">
+<td id="C49BBC2929AA62092C10B701AE7C5948" colspan="1" pageId="0" pageNumber="63" rowspan="1">Head diameter</td>
+<td id="78C6FCA603162441BAC85C05508BDE08" colspan="1" pageId="0" pageNumber="63" rowspan="1">23</td>
+<td id="BFC6A3A1DC42984AB0F71F878B42C66E" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+23.7 
+<normalizedToken id="AAAC18B625CAF41F70774C5B526A2694" originalValue="±">+/-</normalizedToken>
+1.2 (23-25)
+</td>
+</tr>
+<tr id="89BE54FDF8141CF73470E0C993988F83" pageId="0" pageNumber="63">
+<td id="F95A88EFF26215A565B7212999F42C4B" colspan="1" pageId="0" pageNumber="63" rowspan="1">Length of inner labial setae</td>
+<td id="8868410E38DBC75501811F46B5948AB2" colspan="1" pageId="0" pageNumber="63" rowspan="1">4</td>
+<td id="D43545AD4F37B54DA0B089C4B3E18728" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+3.0 
+<normalizedToken id="59235E704576FF1CBBA947BB82686C4E" originalValue="±">+/-</normalizedToken>
+0 (3)
+</td>
+</tr>
+<tr id="192C82F5608208DA635F0FDD678FBA22" pageId="0" pageNumber="63">
+<td id="2163C4A1557EA90B13CFF120EDAFF7F6" colspan="1" pageId="0" pageNumber="63" rowspan="1">Length of outer labial setae</td>
+<td id="6E0C5E51E65DA888D648B114410F30DC" colspan="1" pageId="0" pageNumber="63" rowspan="1">18</td>
+<td id="AFFD45D5E45198CD4B3E3E9F5E929BF8" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+19.3 
+<normalizedToken id="B49FC332A90A7352443AD061F470E8CD" originalValue="±">+/-</normalizedToken>
+1.2 (18-20)
+</td>
+</tr>
+<tr id="37B4C3DB45C0237CA14B32622F5ABDBA" pageId="0" pageNumber="63">
+<td id="E19C26EE560E038674D8426A67ECE702" colspan="1" pageId="0" pageNumber="63" rowspan="1">Length of cephalic setae</td>
+<td id="277DD3B0C854195A837AACF18DA93FCC" colspan="1" pageId="0" pageNumber="63" rowspan="1">18</td>
+<td id="6C3FA4AF5269DE66295F27065E4B4D50" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+19.3 
+<normalizedToken id="506FE887F7F9A096BEA8ADCAF657AA42" originalValue="±">+/-</normalizedToken>
+1.2 (18-20)
+</td>
+</tr>
+<tr id="4B84CB54E420ED8D5760CF54E73628DE" pageId="0" pageNumber="63">
+<td id="B2BF4AB784A0AF653076C06AB4D149EA" colspan="1" pageId="0" pageNumber="63" rowspan="1">Amphideal fovea as percentage of corresponding body diameter</td>
+<td id="CDBAB4665E2D7A5EC5C32130A438DB01" colspan="1" pageId="0" pageNumber="63" rowspan="1">45</td>
+<td id="5CC5066A86D4A0237860FD7A0BFA0EA2" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+45.0 
+<normalizedToken id="D818DF70CCECE540285DB46BFABCE00E" originalValue="±">+/-</normalizedToken>
+5.0 (40-50)
+</td>
+</tr>
+<tr id="DEFB6907A2CCF2DA609FC3D622B9CE37" pageId="0" pageNumber="63">
+<td id="1746121893814617BA800108C4CD6AA3" colspan="1" pageId="0" pageNumber="63" rowspan="1">Amphideal fovea from anterior end</td>
+<td id="D72BC2F8048C5093BF70D4DCFC5AAB2A" colspan="1" pageId="0" pageNumber="63" rowspan="1">24</td>
+<td id="A6792D53CE251D1A85A6A738F968B498" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+25.0 
+<normalizedToken id="4BED5DC38C047B91833187E694966BE7" originalValue="±">+/-</normalizedToken>
+0 (25)
+</td>
+</tr>
+<tr id="D3560A67D2C5EA2D75B4D79879F2C7FC" pageId="0" pageNumber="63">
+<td id="B262D77533FEF142A7127C60FBFAC55D" colspan="1" pageId="0" pageNumber="63" rowspan="1">Pharynx length</td>
+<td id="5AD3F97778D10FC2FCBFCAA47619B426" colspan="1" pageId="0" pageNumber="63" rowspan="1">201</td>
+<td id="F6D0816385F5B50C2B486A61BD195051" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+191.7 
+<normalizedToken id="EC4EDBDCB14D3B7598DE12FCB72A918D" originalValue="±">+/-</normalizedToken>
+5.7 (187-198)
+</td>
+</tr>
+<tr id="D469E97916E5CA22E9C5CE432F8FC071" pageId="0" pageNumber="63">
+<td id="BFEBEB7EBCA880E26F9FA168BA802633" colspan="1" pageId="0" pageNumber="63" rowspan="1">Body diameter at pharyngeal base</td>
+<td id="D47FFED3459319D5093280C7CC8DAFFA" colspan="1" pageId="0" pageNumber="63" rowspan="1">36</td>
+<td id="DC4124C8D79DB8F4FD9B812B57302F98" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+29.3 
+<normalizedToken id="2A1E70501A59E479962BDDAFAB877CA6" originalValue="±">+/-</normalizedToken>
+1.2 (28-30)
+</td>
+</tr>
+<tr id="8D4968A6F4E65305384475E38FFAFF5A" pageId="0" pageNumber="63">
+<td id="6D53E0411894965E2905879ABDF52BEE" colspan="1" pageId="0" pageNumber="63" rowspan="1">Length of spicules</td>
+<td id="E9FB091E982C732F15E36DF8017E6ECC" colspan="1" pageId="0" pageNumber="63" rowspan="1">15</td>
+<td id="3FB41570FBFF90ABA9C98A01AF4F8220" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+14.0 
+<normalizedToken id="57866EC36C58650EB5DF4D386EE7095C" originalValue="±">+/-</normalizedToken>
+2.6 (11-16)
+</td>
+</tr>
+<tr id="1E021B7D0F5E8DACE3C432508981BC7B" pageId="0" pageNumber="63">
+<td id="9397212D7F9F64A6AA9CBDA1DBC0AFBB" colspan="1" pageId="0" pageNumber="63" rowspan="1">Cloacal body diameter</td>
+<td id="B141ACD8FF30AC0C30D03B4F4205BBDB" colspan="1" pageId="0" pageNumber="63" rowspan="1">25</td>
+<td id="7EF6DB918843B57E055E54B6AB7B23BD" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+24.7 
+<normalizedToken id="8013A61CDE135D7063D4E4BB77A359D7" originalValue="±">+/-</normalizedToken>
+0.6 (24-25)
+</td>
+</tr>
+<tr id="524CFC8388C3BF4D25C98599FD713711" pageId="0" pageNumber="63">
+<td id="522F582177AD8548A64AB4FF947C91E3" colspan="1" pageId="0" pageNumber="63" rowspan="1">Tail length</td>
+<td id="F7AF193A91F87ED78D363B2DC42F477D" colspan="1" pageId="0" pageNumber="63" rowspan="1">310</td>
+<td id="A82A4532439B01C64EDF8CAA5FFD0B9E" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+299.7 
+<normalizedToken id="C3BB99A45BA4CDD038B6D0EB309047B3" originalValue="±">+/-</normalizedToken>
+0.6 (299-300)
+</td>
+</tr>
+<tr id="19364FF80F6E525CEF97156F4A3D1248" pageId="0" pageNumber="63">
+<td id="0B041F749EEF629031964ABD00596B8B" colspan="1" pageId="0" pageNumber="63" rowspan="1">a</td>
+<td id="0A354181011EA3825CD99D2C1D9D1615" colspan="1" pageId="0" pageNumber="63" rowspan="1">56.1</td>
+<td id="563CAEBC0605D5861F57BFF4D845E089" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+49.5 
+<normalizedToken id="CC7037E22FE778A1EF4563F7D4EBADF9" originalValue="±">+/-</normalizedToken>
+4.4 (44.9-53.3)
+</td>
+</tr>
+<tr id="BDDDB3A6129E3463BC0BAD8C8EA176BA" pageId="0" pageNumber="63">
+<td id="3F6380FDBF22B69E3FB6ED0D947EA566" colspan="1" pageId="0" pageNumber="63" rowspan="1">b</td>
+<td id="7E8A7335100457E5BA5FDF01932AF412" colspan="1" pageId="0" pageNumber="63" rowspan="1">8.4</td>
+<td id="AE525879200E90018CEE438EF8CA3212" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+8.2 
+<normalizedToken id="7A3861321DDE0309FC30AA82B93BDD57" originalValue="±">+/-</normalizedToken>
+0.1 (8.1-8.3)
+</td>
+</tr>
+<tr id="611EDBA7A07528DEB267BF1F25BF78E5" pageId="0" pageNumber="63">
+<td id="CDE6C220A9D29F808CA5DDFB416A7376" colspan="1" pageId="0" pageNumber="63" rowspan="1">c</td>
+<td id="7D5CD975F7511D15249CFA6FE18B6EE2" colspan="1" pageId="0" pageNumber="63" rowspan="1">5.4</td>
+<td id="FE3D4929CB93DE59FE767480F9ECD6D5" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+5.2 
+<normalizedToken id="ADF107691A9146F6C1C5ED7777C24980" originalValue="±">+/-</normalizedToken>
+0.2 (5.1-5.5)
+</td>
+</tr>
+<tr id="34467C2F6D0191119A25DD36DC4344A9" pageId="0" pageNumber="63">
+<td id="1173FCD85D9BC850793413126A5A35C4" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+<normalizedToken id="2F47CF0FA62C9B4A712AC7F8E963A40C" originalValue="c’">c'</normalizedToken>
+</td>
+<td id="0D836D3E307629BE0AE6D02CFEEDD2F2" colspan="1" pageId="0" pageNumber="63" rowspan="1">12.4</td>
+<td id="7BEE3D83257F5F233001D605FBDAEFB5" colspan="1" pageId="0" pageNumber="63" rowspan="1">
+12.1 
+<normalizedToken id="0674E1F6195C10178AD673C24E28262F" originalValue="±">+/-</normalizedToken>
+0.3 (12.0-12.5)
+</td>
+</tr>
+</table>
+</paragraph>
+</subSubSection>
+<subSubSection id="F4C4E05B823828E71FCDB6295E898DBE" pageId="0" pageNumber="63" type="description">
+<paragraph id="612205BEF46D2749581B320B35A6BE17" pageId="0" pageNumber="63">Description.</paragraph>
+<paragraph id="E032D2BC2A30117FEA694FC9559FAEA5" pageId="0" pageNumber="63">
+<emphasis id="A5E524C630971B07E8728CBA3370100E" bold="true" pageId="0" pageNumber="63">Males.</emphasis>
+Body slender, cylindrical, and gradually tapering towards tail end. Cuticle striated. Six longitudinal lines of short somatic setae sparsely distributed throughout the body, 4-6 
+<normalizedToken id="46D912381A27BDF2986311B98AB6C020" originalValue="µm">µm</normalizedToken>
+long. Anterior sensilla arranged in two circles: the first circle consisting of six inner labial setiform papillae, conical, 3-4 
+<normalizedToken id="338683F0D1D350C12A14FF87EA614212" originalValue="µm">µm</normalizedToken>
+long; the second circle consisting of six outer labial setae (18-19 
+<normalizedToken id="DB37D3236B7FE7955A93BE7367C5580A" originalValue="µm">µm</normalizedToken>
+), four cephalic setae (16-17 
+<normalizedToken id="C57312BDD9963C741BC68AD517F35F03" originalValue="µm">µm</normalizedToken>
+) and six subcephalic setae (12-13 
+<normalizedToken id="0EB51096DE3DC82857C686E4F6A3AF1A" originalValue="µm">µm</normalizedToken>
+), situated at the level of buccal cavity base. Buccal cavity funnel-shaped, with well-developed pharyngeal muscles around it. Pharynx cylindrical, not expanded at posterior end. Amphideal fovea transversely oval, 8 
+<normalizedToken id="5DE001D2D9523F6B814546B4FC12F3C4" originalValue="µm">µm</normalizedToken>
+high and 11-12 
+<normalizedToken id="71681A2EECB4580F87049E951757903E" originalValue="µm">µm</normalizedToken>
+wide, occupying 40-50% of corresponding body diameter, located at the position of 24-25 
+<normalizedToken id="9EE197F09DDC3DF73E19D044626EDBB5" originalValue="µm">µm</normalizedToken>
+from the anterior end. Nerve ring located at the middle of pharynx. Secretory-excretory pore not observed. Tail elongated, conico-cylindrical, posterior three-quarters filiform. Three terminal setae 10 
+<normalizedToken id="83E67D9B3A0780FC3F2C968CA74235E1" originalValue="µm">µm</normalizedToken>
+long, three caudal glands present.
+</paragraph>
+<paragraph id="28DDADF518FE38C8EAC109FF5FB7C531" pageId="0" pageNumber="63">Reproductive system monorchid, an anterior testis outstretched, to the left side of intestine. Spicules short and thin, almost straight, 46-64% of cloacal body diameter long. Gubernaculum simple, short, and laminar, about 70% of spicules length. Precloacal supplements absent.</paragraph>
+<paragraph id="71381F17DACCD0E2AC0A2A72B625FAB3" pageId="0" pageNumber="63">
+<emphasis id="1E2CA38C660921417C73DCA1F7AC5A50" bold="true" pageId="0" pageNumber="63">Females</emphasis>
+not found.
+</paragraph>
+</subSubSection>
+</treatment>
+</subSection>
+<subSection id="C4A5AA3E61305255E00EB6C730190AF6" pageId="0" pageNumber="63" type="multiple">
+<paragraph id="9D5B56411B23BC7604131DE1F9E893DC" pageId="0" pageNumber="63">Differential diagnosis and discussion</paragraph>
+<paragraph id="1513F8DAD0155FEAD6BEEC536D90860D" pageId="0" pageNumber="63">
+The characteristics of the new species match well with the main diagnostic of 
+<taxonomicName id="0D254BD231FC1FA1580E2106BAB3E575" authorityName="Lorenzen" authorityYear="1977" family="Xyalidae" genus="Stylotheristus" kingdom="Animalia" lsidName="Stylotheristus" order="Monhysterida" pageId="0" pageNumber="63" rank="genus">
+<emphasis id="B5F1A60A7EDAF09475CF6FC14B840532" italics="true" pageId="0" pageNumber="63">Stylotheristus</emphasis>
+</taxonomicName>
+(
+<bibRefCitation id="E21E7DBE2FBB72A4B912BBE3A7E29B8C" DOI="https://doi.org/10.1515/9783110274257.435" author="Fonseca, G" editor="Schmidt-Rhaesa, A" journalOrPublisher="Vol. 2. Nematoda. De Gruyter, Berlin / Boston" pageId="0" pageNumber="63" pagination="435 - 465" refId="B12" refString="Fonseca, G, Bezerra, TN, 2014. Order Monhysterida Filipjev, 1929. In: Schmidt-Rhaesa, A, Ed., Handbook of Zoology, Gastrotricha, Cycloneuralia and Gnathifera. Vol. 2. Nematoda. De Gruyter, Berlin/Boston: 435 - 465, DOI: https://doi.org/10.1515/9783110274257.435" title="Order Monhysterida Filipjev, 1929." url="https://doi.org/10.1515/9783110274257.435" volumeTitle="Handbook of Zoology, Gastrotricha, Cycloneuralia and Gnathifera." year="2014">Fonseca and Bezerra 2014</bibRefCitation>
+). The genus only has contained only two species until now, i.e. 
+<taxonomicName id="E4427D8841C36F5EE331D932CD706DBC" genus="S." lsidName="S. mutilus" pageId="0" pageNumber="63" rank="species" species="mutilus">
+<emphasis id="AAF5719C984FA806570EF6D0B197C76D" italics="true" pageId="0" pageNumber="63">S. mutilus</emphasis>
+</taxonomicName>
+(Lorenzen, 1973) Lorenzen, 1977 and 
+<taxonomicName id="C3325A187A2BCC78DF501D0B24B9F763" genus="S." lsidName="S. multipapillatus" pageId="0" pageNumber="63" rank="species" species="multipapillatus">
+<emphasis id="E5CEFFF9B7667C7FCDE06FFDA2FE3906" italics="true" pageId="0" pageNumber="63">S. multipapillatus</emphasis>
+</taxonomicName>
+Pinto &amp; Neres, 2020. The new species is distinguished from 
+<taxonomicName id="3CF5606DBF7781EA1FEE2685E90EBCA0" genus="S." lsidName="S. multipapillatus" pageId="0" pageNumber="63" rank="species" species="multipapillatus">
+<emphasis id="0569AB7483F2DF9C276042E3C9180DD7" italics="true" pageId="0" pageNumber="63">S. multipapillatus</emphasis>
+</taxonomicName>
+by the absence of precloacal supplements, relatively larger amphidial fovea, and a longer filiform tail. The latter species possess 11-15 papilliform precloacal supplements and a smaller amphidial fovea (32-38% of corresponding body diameter). The new species differs from 
+<taxonomicName id="A4C7BE36A94A915F49CB54F1F1EA6483" genus="S." lsidName="S. mutilus" pageId="0" pageNumber="63" rank="species" species="mutilus">
+<emphasis id="B13B1A48F31EE507536B567B8E2D368F" italics="true" pageId="0" pageNumber="63">S. mutilus</emphasis>
+</taxonomicName>
+by absence of inerratic circle of long cervical setae, relatively larger amphidial fovea (vs 37% of corresponding body diameter), shorter spicules not cephalated proximally (vs 18-20 
+<normalizedToken id="5395899DE8718E1FE2E21A471765920F" originalValue="µm">µm</normalizedToken>
+with cephalated proximal ends) and the different structure of gubernaculum (only a piece). In 
+<taxonomicName id="D592A769C46AFEC55F74332521A32E31" genus="S." lsidName="S. mutilus" pageId="0" pageNumber="63" rank="species" species="mutilus">
+<emphasis id="EC7196DF5AEF5CCFF8F06400A71206A9" italics="true" pageId="0" pageNumber="63">S. mutilus</emphasis>
+</taxonomicName>
+, the gubernaculum is formed by two pieces, it has a circle of long cervical setae. Besides that, the body size of new species is smaller than of the two known species but the tail in the new species is relatively longer (Fig. 
+<figureCitation id="EA2555206EC422C91B4106D815CADF67" captionStart="Figure 6" captionStartId="F6" captionText="Figure 6. Pictorial key for genus Stylotheristus A S. mutilus (from Lorenzen 1973) B S. multipapillatus (from Pinto and Neres 2020) C S. flagellicaudatus sp. nov. Scale bars: 20 µm (A 1, B, C), 50 µm (A 2), 10 µm (A 3)." figureDoi="10.3897/zookeys.1193.110188.figure6" httpUri="https://binary.pensoft.net/fig/994915" pageId="0" pageNumber="63">6</figureCitation>
+).
+</paragraph>
+<caption id="5863E8426089240C4E38018B28910751" doi="10.3897/zookeys.1193.110188.figure6" httpUri="https://binary.pensoft.net/fig/994915" pageId="0" pageNumber="63" start="Figure 6" startId="F6">
+<paragraph id="9A613AD6DD7FF0EBFED7DAA75A4E4119" pageId="0" pageNumber="63">
+<emphasis id="B7BCB1D5D7F00BD2572AC1D6816BD203" bold="true" pageId="0" pageNumber="63">Figure 6.</emphasis>
+Pictorial key for genus 
+<taxonomicName id="37D073A8D4D8271ACFD633D88BA1A234" authorityName="Lorenzen" authorityYear="1977" family="Xyalidae" genus="Stylotheristus" kingdom="Animalia" lsidName="Stylotheristus" order="Monhysterida" pageId="0" pageNumber="63" rank="genus">
+<emphasis id="E28F24B2A4DB22E1D06709862525DFCC" italics="true" pageId="0" pageNumber="63">Stylotheristus</emphasis>
+</taxonomicName>
+<emphasis id="61C8FF062F2BADDCC932FBF592090257" bold="true" pageId="0" pageNumber="63">A</emphasis>
+<taxonomicName id="9682A7F37B2C43B1A3D6931C59D14E3B" genus="S." lsidName="S. mutilus" pageId="0" pageNumber="63" rank="species" species="mutilus">
+<emphasis id="6936105084D0927D88736F8ADD671995" italics="true" pageId="0" pageNumber="63">S. mutilus</emphasis>
+</taxonomicName>
+(from 
+<bibRefCitation id="C4246A085F22DECF65D0BC5371E8CB34" author="Lorenzen, S" journalOrPublisher="Bremerh" pageId="0" pageNumber="63" pagination="103 - 130" refId="B16" refString="Lorenzen, S, 1973. Freilebende Meersenematoden aus dem Sublitoral der Nordsee und der Kieler Bucht. Veroeff. Inst. Meeresforsch. Bremerh 14: 103 - 130" title="Freilebende Meersenematoden aus dem Sublitoral der Nordsee und der Kieler Bucht. Veroeff. Inst. Meeresforsch." volume="14" year="1973">Lorenzen 1973</bibRefCitation>
+) 
+<emphasis id="8E8C1442F75C6BB9C6543307DD7CF8E3" bold="true" pageId="0" pageNumber="63">B</emphasis>
+<taxonomicName id="E4E8272E22DEAD1BF16CEC35354EB47C" genus="S." lsidName="S. multipapillatus" pageId="0" pageNumber="63" rank="species" species="multipapillatus">
+<emphasis id="C026DCC324ABCA6D2A64C6D3FE09EA27" italics="true" pageId="0" pageNumber="63">S. multipapillatus</emphasis>
+</taxonomicName>
+(from 
+<bibRefCitation id="87F5D4C383176E1250243D886EA06682" DOI="https://doi.org/10.11646/zootaxa.4722.1.1" author="Pinto, TK" journalOrPublisher="Zootaxa" pageId="0" pageNumber="63" pagination="1 - 33" refId="B22" refString="Pinto, TK, Neres, PF, 2020. Four new species of free-living nematodes from shallow continental shelf of Portugal. Zootaxa 4722 (1): 1 - 33, DOI: https://doi.org/10.11646/zootaxa.4722.1.1" title="Four new species of free-living nematodes from shallow continental shelf of Portugal." url="https://doi.org/10.11646/zootaxa.4722.1.1" volume="4722" year="2020">Pinto and Neres 2020</bibRefCitation>
+) 
+<emphasis id="5756989272E1FB5FD08A35376E301C70" bold="true" pageId="0" pageNumber="63">C</emphasis>
+<taxonomicName id="0407A782DD2E1051C1928600DBEAAA2D" genus="S." lsidName="S. flagellicaudatus" pageId="0" pageNumber="63" rank="species" species="flagellicaudatus">
+<emphasis id="9DAC59825D45628F1ED2EBFC3530EE27" italics="true" pageId="0" pageNumber="63">S. flagellicaudatus</emphasis>
+</taxonomicName>
+sp. nov. Scale bars: 20 
+<normalizedToken id="9FFFFB918463F79882248EF0EA5D1BD0" originalValue="µm">µm</normalizedToken>
+(
+<emphasis id="43A45CBA400BD29BC3F2298E1AB80BB0" bold="true" pageId="0" pageNumber="63">A1, B, C</emphasis>
+), 50 
+<normalizedToken id="3B4E5DD10F1BE8A05F01101E709405C4" originalValue="µm">µm</normalizedToken>
+(
+<emphasis id="53F6659D5535A6C816DD8E96EACC6A2B" bold="true" pageId="0" pageNumber="63">A2</emphasis>
+), 10 
+<normalizedToken id="D088D96EC7CE2311A3425CA50B646846" originalValue="µm">µm</normalizedToken>
+(
+<emphasis id="9DB509528097858AE0B0DD1A85C5BBCB" bold="true" pageId="0" pageNumber="63">A3</emphasis>
+).
+</paragraph>
+</caption>
+</subSection>
+<subSection id="CACDC0437C2B945CD1ADD9B198809CC5" pageId="0" pageNumber="63" type="acknowledgements">
+<paragraph id="C201BC8BE91B604F48F83C16F4489072" pageId="0" pageNumber="63">Acknowledgements</paragraph>
+<paragraph id="6024FC214A650EB3ABDE823406269CF6" pageId="0" pageNumber="63">We are very thankful to Dr Mengdi Chu for her kind help in samples collection. We are sincerely grateful to two anonymous referees for reviewing and improving on the manuscript.</paragraph>
+</subSection>
+<subSection id="E8BCE3E034FBFD1F8ADD9274D4EF218C" pageId="0" pageNumber="63" type="﻿additional information">
+<paragraph id="CEBBBB24925CB6CA4E2AF7D3F1271101" pageId="0" pageNumber="63">Additional information</paragraph>
+<paragraph id="1A43CF16B0F84633CBE1A5544416AF0E" pageId="0" pageNumber="63">Conflict of interest</paragraph>
+<paragraph id="9CA41BEB43CFF38A9A1179CB35C64C92" pageId="0" pageNumber="63">The authors have declared that no competing interests exist.</paragraph>
+<paragraph id="580B199A611471682754301833B343DB" pageId="0" pageNumber="63">Ethical statement</paragraph>
+<paragraph id="FC91B0E005DC52B1A4B303513C64A38A" pageId="0" pageNumber="63">No ethical statement was reported.</paragraph>
+<paragraph id="20976C92A31365B993EC116DB6388BB5" pageId="0" pageNumber="63">Funding</paragraph>
+<paragraph id="E6ADB287BE373A105D70727582293E59" pageId="0" pageNumber="63">This research was funded by the National Natural Science Foundation of China (grant number 41676146) and the Natural Science Foundation of Shandong Province (grant number ZR2022QC218).</paragraph>
+<paragraph id="176B2EABBEAAA780A9A80D49ED444941" pageId="0" pageNumber="63">Author contributions</paragraph>
+<paragraph id="51F2A1FF9685A620594C6E7ADE13FCEC" pageId="0" pageNumber="63">Project Management, work program, methodology and taxonomy: M.H.; experiment, data collection: T.L.; taxonomy, writing and editing of paper: Y.H. and T.L. All authors have read and agreed to the submitted version of the manuscript.</paragraph>
+<paragraph id="DA0BF691144A2899E0F248D95D499923" pageId="0" pageNumber="63">Author ORCIDs</paragraph>
+<paragraph id="B70BD0B950DCF2EA7C10D2A163613537" pageId="0" pageNumber="63">Ting Li https://orcid.org/0009-0003-5630-314X</paragraph>
+<paragraph id="4AFBD522DB959952240CE56DA7096F2C" pageId="0" pageNumber="63">Yong Huang https://orcid.org/0000-0002-1846-8088</paragraph>
+<paragraph id="45AF8265FC69EC3B7839A26702715A43" pageId="0" pageNumber="63">Mian Huang https://orcid.org/0000-0003-3343-1520</paragraph>
+<paragraph id="DBBFCC50A270172DCBB75F4BE803FA99" pageId="0" pageNumber="63">Data availability</paragraph>
+<paragraph id="758F9E0A5B36A23C5EA6CC3B48F2D8E3" pageId="0" pageNumber="63">All of the data that support the findings of this study are available in the main text.</paragraph>
+</subSection>
+<subSection id="9EE607BBFDC056796028957F42BADE6E" pageId="0" pageNumber="63" type="reference_group">
+<paragraph id="DBB823608A17BF4DB70B3FA3E283B6F0" pageId="0" pageNumber="63">References</paragraph>
+<paragraph id="2B15ABFD1CC8A3C5B7399F9B4FE86AD8" pageId="0" pageNumber="63">
+<bibRef id="6D83D94FBBB95C42DA251BD8BAB6C21B" author="Andrassy, I" journalOrPublisher="Meiofauna Marina" pageId="0" pageNumber="63" pagination="11 - 24" refId="B1" title="Halomonhystera, a new genus distinct from Geomonhystera Andrassy, 1981 (Nematoda, Monhysteridae)." volume="15" year="2006">
+<author id="981551A9302A5A1648E5D671798B44B3" pageId="0" pageNumber="63">
+<normalizedToken id="202F91D0BE3ACE38B208373D64D252E6" originalValue="Andrássy">Andrassy</normalizedToken>
+, I
+</author>
+, 
+<year id="9A0BEAAF17D88FE886B7FBD6E1735B58" pageId="0" pageNumber="63">2006</year>
+. 
+<title id="1EE78103D58CAB06D304B4B380E32817" pageId="0" pageNumber="63">
+<taxonomicName id="25DDC363F8E7D5A8A548749BB046B300" authorityName="Andrassy" authorityYear="2006" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">
+<emphasis id="E31C66330F9536EAEA47A4DF92C02BD9" italics="true" pageId="0" pageNumber="63">Halomonhystera</emphasis>
+</taxonomicName>
+, a new genus distinct from 
+<taxonomicName id="C1B51F54DC6F29442E868F7579E56504" authorityName="Andrassy" authorityYear="1981" genus="Geomonhystera" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Geomonhystera" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">Geomonhystera</taxonomicName>
+<normalizedToken id="611C248E02A62F6BA1FD87D733DFD8F9" originalValue="Andrássy">Andrassy</normalizedToken>
+, 1981 (
+<taxonomicName id="F4B61467382770EBA43C8425846E4126" authorityName="Andrassy" authorityYear="1981" genus="Geomonhystera" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="phylum">Nematoda</taxonomicName>
+, 
+<taxonomicName id="34D86BB3A21AA4D9DD5E89A6668EBEB5" authorityName="de Man" authorityYear="1876" class="Adenophorea" family="Monhysteridae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="family">Monhysteridae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="01EA720DB030FEAFB967126E9265F642" pageId="0" pageNumber="63">Meiofauna Marina</journalOrPublisher>
+<volume id="55B1428852F0F7D596859A7F146D0F4F" pageId="0" pageNumber="63">15</volume>
+: 
+<pagination id="94B970FA84B3CD80ACAE45DA31CB37AA" pageId="0" pageNumber="63">11 - 24</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="D3DB0C39473F1D125BA6BC3D5210D191" pageId="0" pageNumber="63">
+<bibRef id="F0477B49B668A6B24AFDD479F48B7634" DOI="https://doi.org/10.1111/j.1096-3642.1865.tb00179.x" author="Bastian, HC" journalOrPublisher="Transactions of the Linnean Society of London" pageId="0" pageNumber="63" pagination="73 - 184" refId="B2" title="Monograph on the Anguillulidae, or free nematoids, marine, land, and freshwater; with descriptions of 100 new species." url="https://doi.org/10.1111/j.1096-3642.1865.tb00179.x" volume="25" year="1865">
+<author id="CFAA13E1E8ADC23CE72E37B035EF4636" pageId="0" pageNumber="63">Bastian, HC</author>
+, 
+<year id="DDF9E26CC55ED0B2E96FCC5D117737C3" pageId="0" pageNumber="63">1865</year>
+. 
+<title id="82F1D6F722CE9789D56DC71E16358B25" pageId="0" pageNumber="63">
+Monograph on the 
+<taxonomicName id="9DD3E97B8D52047CB0905254FB61F41B" class="Chromadorea" family="Anguillulidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Diplogasterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="family">Anguillulidae</taxonomicName>
+, or free nematoids, marine, land, and freshwater; with descriptions of 100 new species.
+</title>
+<journalOrPublisher id="53AE8AF766BEE2FBB7C2651C8AFF113B" pageId="0" pageNumber="63">Transactions of the Linnean Society of London</journalOrPublisher>
+<volume id="8EFF76265E557FC7FC518A7C142DC6D1" pageId="0" pageNumber="63">25</volume>
+(
+<issue id="7A7C6635E78FBB3602E50F859EAAE9CD" pageId="0" pageNumber="63">2</issue>
+): 
+<pagination id="DF17311FE2247955ED8E9A005E379A8A" pageId="0" pageNumber="63">73 - 184</pagination>
+, DOI: 
+<DOI id="E68C298474777E587B42AE8F71058AA3" pageId="0" pageNumber="63">https://doi.org/10.1111/j.1096-3642.1865.tb00179.x</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="0C111ECD4263DF89BAC9FA1D4AE62ECD" pageId="0" pageNumber="63">
+<bibRef id="1FCC0E0613E7FE863CC13073278D1451" author="Blome, D" journalOrPublisher="Mitteilungen Hamburgisches Zoologisches Museum und Institut" pageId="0" pageNumber="63" pagination="15 - 20" refId="B3" title="Antarctic Sea Ice Nematodes, with Description of Geomonhystera glaciei sp. nov. (Monhysteridae)." volume="96" year="1999">
+<author id="09BFF735B4AC70A64A9226779B12BF7B" pageId="0" pageNumber="63">Blome, D</author>
+, 
+<author id="1D1C3A3C33B0D58FD05671A65A01EDD7" pageId="0" pageNumber="63">Riemann, F</author>
+, 
+<year id="393B7590909329729810A1BF5CB4F42A" pageId="0" pageNumber="63">1999</year>
+. 
+<title id="A99820465244906A2CC11CCE93BA355C" pageId="0" pageNumber="63">
+Antarctic Sea Ice Nematodes, with Description of 
+<taxonomicName id="FCEE2CD7BC98FC8B9684B2AE0FE01C00" authorityName="Blome &amp; Riemann" authorityYear="1999" genus="Geomonhystera" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Geomonhystera glaciei" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="glaciei">
+<emphasis id="B296004D791AF1F73C34C0F87D8D5CD3" italics="true" pageId="0" pageNumber="63">Geomonhystera glaciei</emphasis>
+</taxonomicName>
+sp. nov. (
+<taxonomicName id="85C1B7EAA2F7EED8CBFD85126B6F1FC0" authorityName="de Man" authorityYear="1876" class="Adenophorea" family="Monhysteridae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="family">Monhysteridae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="C8FE3C48068AC1721C5635D6702639CA" pageId="0" pageNumber="63">Mitteilungen Hamburgisches Zoologisches Museum und Institut</journalOrPublisher>
+<volume id="C0A88910D77395ABEEAF0084F516650A" pageId="0" pageNumber="63">96</volume>
+: 
+<pagination id="99EE4F650B1B59253A8F071AB97748B3" pageId="0" pageNumber="63">15 - 20</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="C7DC7908234A5444F8BEF9257826ED17" pageId="0" pageNumber="63">
+<bibRef id="2EE90672819490C62DDB281B75629A5F" author="Buetschli, O" journalOrPublisher="Abhandlungen der Senckenbergischen Naturforschenden Gesellschaft" pageId="0" pageNumber="63" pagination="1 - 56" refId="B4" title="Zur Kenntnis der freilebenden Nematoden, insbesondere der des Kieler Hafens." volume="9" year="1874">
+<author id="BD5AB0488EE3A75D6F60A36F0676A1BA" pageId="0" pageNumber="63">
+<normalizedToken id="225BB13F6C2E1E4A15EED413D48FEEA8" originalValue="Bütschli">Buetschli</normalizedToken>
+, O
+</author>
+, 
+<year id="103C43F5FDF4811B6CB2F0CD1BC19120" pageId="0" pageNumber="63">1874</year>
+. 
+<title id="79F45264741B63B1EE4E1E494A724088" pageId="0" pageNumber="63">Zur Kenntnis der freilebenden Nematoden, insbesondere der des Kieler Hafens.</title>
+<journalOrPublisher id="AB77DF3249C9A8ED2D6037565DA78470" pageId="0" pageNumber="63">Abhandlungen der Senckenbergischen Naturforschenden Gesellschaft</journalOrPublisher>
+<volume id="75C67DDE029272FF9E5D98C008C416FD" pageId="0" pageNumber="63">9</volume>
+: 
+<pagination id="953AB1BE92C1887549683AFEEF297633" pageId="0" pageNumber="63">1 - 56</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="3CAB74C286AD43F6939ECD9CD7B00AED" pageId="0" pageNumber="63">
+<bibRef id="22938055A65F2D1AEC9A69948C85E99B" author="Chitwood, BG" journalOrPublisher="The Texas Journal of Science" pageId="0" pageNumber="63" pagination="627 - 672" refId="B5" title="North American marine nematodes." volume="3" year="1951">
+<author id="26B152E5BE4161052BB9B3D39A4CE309" pageId="0" pageNumber="63">Chitwood, BG</author>
+, 
+<year id="42CEF3D6CBDB6A8588FE8440DBAD688E" pageId="0" pageNumber="63">1951</year>
+. 
+<title id="5D9A26ECEBE48AF30598890180A3FC7D" pageId="0" pageNumber="63">North American marine nematodes.</title>
+<journalOrPublisher id="C2DC177E0D20BE06C873E8D60B3E84B3" pageId="0" pageNumber="63">The Texas Journal of Science</journalOrPublisher>
+<volume id="785882F399DCF4546B499ACA8DB1DA99" pageId="0" pageNumber="63">3</volume>
+: 
+<pagination id="632C1151FFF2194F751F048E4FCD6101" pageId="0" pageNumber="63">627 - 672</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="358ED9F63DB77ACB472F7436E4513D97" pageId="0" pageNumber="63">
+<bibRef id="691809B660341184919A353DA0A910F3" author="Cobb, N A" journalOrPublisher="Contributions to A Science of Nematology" pageId="0" pageNumber="63" pagination="1 - 33" refId="B6" title="Antarctic marine free-living nematodes of the Shackleton expedition." volume="1" year="1914">
+<author id="1E203EEA2D85FB21FD7253FB5C06AD6D" pageId="0" pageNumber="63">Cobb, N A</author>
+, 
+<year id="94C9774B0C532F9F19E59DF754EF5A43" pageId="0" pageNumber="63">1914</year>
+. 
+<title id="18B65A8797B21D38C2B210C01EA7A5B9" pageId="0" pageNumber="63">Antarctic marine free-living nematodes of the Shackleton expedition.</title>
+<journalOrPublisher id="A4A643EF34DB5F23261AB4308213A63E" pageId="0" pageNumber="63">Contributions to A Science of Nematology</journalOrPublisher>
+<volume id="3750ACC76E9034C54900D0534FF8CFBF" pageId="0" pageNumber="63">1</volume>
+: 
+<pagination id="CF487FF4D026B82A67ED8A473CBF2FAE" pageId="0" pageNumber="63">1 - 33</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="47D76F1F787513E9DC1D36D20019F778" pageId="0" pageNumber="63">
+<bibRef id="DCED9894A33621C23BE61C8B1D20BA55" author="De Coninck, LA" journalOrPublisher="Biologisch Jaarboek" pageId="0" pageNumber="63" pagination="193 - 220" refId="B7" title="Sur Quelques especes nouvelles de Nematodes libres des eaux et des terres saumatres de l'Islande." volume="10" year="1943">
+<author id="F0B8AC64F58AEC9845F7F2C7E9EAA8BE" pageId="0" pageNumber="63">De Coninck, LA</author>
+, 
+<year id="C973469470B289A1C76525B1A79360FA" pageId="0" pageNumber="63">1943</year>
+. 
+<title id="627D63688C389DD9146FCB3ABE43A17E" pageId="0" pageNumber="63">
+Sur Quelques 
+<normalizedToken id="2EEBBC5A4CBEA7B3D1E2487BFD116149" originalValue="espèces">especes</normalizedToken>
+nouvelles de 
+<normalizedToken id="60A0D7675027DBD85B005767E39412F2" originalValue="Nématodes">Nematodes</normalizedToken>
+libres des eaux et des terres 
+<normalizedToken id="038B380A321D34FCA8CDE5C63ACCE67E" originalValue="saumâtres">saumatres</normalizedToken>
+de 
+<normalizedToken id="67A94EB6ED1A5DC66EA319228526768A" originalValue="l’Islande">l'Islande</normalizedToken>
+.
+</title>
+<journalOrPublisher id="17D3AA131F05AE2BDC6C3FC37AB14712" pageId="0" pageNumber="63">Biologisch Jaarboek</journalOrPublisher>
+<volume id="E76DC94A6D3709D1196394B8FD1B860B" pageId="0" pageNumber="63">10</volume>
+: 
+<pagination id="4026489CE6A1B7CF9C23567A63CB3AF4" pageId="0" pageNumber="63">193 - 220</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="DA2F007CE04A51AD3DF6B2499D8E847F" pageId="0" pageNumber="63">
+<bibRef id="E12AE261D9681EB2112CB015BABF95A5" DOI="https://doi.org/10.1007/BF00391564" author="de Jonge, VN" journalOrPublisher="Marine Biology" pageId="0" pageNumber="63" pagination="143 - 148" refId="B8" title="A simple density separation technique for quantitative isolation of meiobenthos using the colloidal silica Ludox-TM." url="https://doi.org/10.1007/BF00391564" volume="42" year="1977">
+<author id="CC74D977AA9414580229076105C8D430" pageId="0" pageNumber="63">de Jonge, VN</author>
+, 
+<author id="9E4753AD543C99B43AB311A0A636E538" pageId="0" pageNumber="63">Bouwman, LA</author>
+, 
+<year id="E6A0722DFF990D0941A67FBE13D23E39" pageId="0" pageNumber="63">1977</year>
+. 
+<title id="D325F78A2BA613C74145C3AF29452EC6" pageId="0" pageNumber="63">A simple density separation technique for quantitative isolation of meiobenthos using the colloidal silica Ludox-TM.</title>
+<journalOrPublisher id="C979C926EDDDAEA416DE924038491C1A" pageId="0" pageNumber="63">Marine Biology</journalOrPublisher>
+<volume id="85B440A0A4B4E49ACE6B7C8A1B71D4EF" pageId="0" pageNumber="63">42</volume>
+(
+<issue id="7ADF9955782D98EFF56663B0E3F47968" pageId="0" pageNumber="63">2</issue>
+): 
+<pagination id="3FC97D3A8AEAC997C00874D66C1B6FFA" pageId="0" pageNumber="63">143 - 148</pagination>
+, DOI: 
+<DOI id="267E139ECC8A049754956E7FC93B4595" pageId="0" pageNumber="63">https://doi.org/10.1007/BF00391564</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="B935FB93F4615C35B07D2BAA524A2485" pageId="0" pageNumber="63">
+<bibRef id="BB8D4B1949B283148369D476B28CC2C6" author="de Man, JG" journalOrPublisher="Tijdschrift der Nederlandische Dierkundige Vereeniging" pageId="0" pageNumber="63" pagination="78 - 196" refId="B9" title="Onderzoekingen over vrij in de aarde levende matoden." volume="2" year="1876">
+<author id="7B610344850602A10C8B9F1849DE45C5" pageId="0" pageNumber="63">de Man, JG</author>
+, 
+<year id="B08D68F94456AF537EB2BF5EEE9A9EC4" pageId="0" pageNumber="63">1876</year>
+. 
+<title id="E77158F3420197B7B006FE2EFF235063" pageId="0" pageNumber="63">Onderzoekingen over vrij in de aarde levende matoden.</title>
+<journalOrPublisher id="760CFD38BCEFAC3FE27A7596938662FE" pageId="0" pageNumber="63">Tijdschrift der Nederlandische Dierkundige Vereeniging</journalOrPublisher>
+<volume id="47EC412F46394752423B196C89CD8AE4" pageId="0" pageNumber="63">2</volume>
+: 
+<pagination id="616C00ED773B8E184FBB07A119E9289C" pageId="0" pageNumber="63">78 - 196</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="D6DF3783E9015BEFCB2716A79852D8AC" pageId="0" pageNumber="63">
+<bibRef id="18B05F5524550B9FDF50BBA810C3BDAC" author="Filipjev, IN" journalOrPublisher="Tijdschrift der Nederlandische Dierkundige Vereeniging" pageId="0" pageNumber="63" refId="B10" title="Free-living marine nematodes of the Sevastopol area. Transactions of the Zoological Laboratory and the Sevastopol Biological Station of the Russian Academy of Sciences 4 (II): 1 - 183." year="1918">
+<author id="E192CEBE27EBFAA23A6C2D666CAE8C8E" pageId="0" pageNumber="63">Filipjev, IN</author>
+, 
+<year id="C84B1A99907B141B7B2D9BF2EB50A85E" pageId="0" pageNumber="63">1918</year>
+. 
+<title id="72B56F6A64B80A61D90E70B2CB8547F6" pageId="0" pageNumber="63">Free-living marine nematodes of the Sevastopol area. Transactions of the Zoological Laboratory and the Sevastopol Biological Station of the Russian Academy of Sciences 4(II): 1-183.</title>
+</bibRef>
+</paragraph>
+<paragraph id="ABF5613D0575272836E0CD4729BCB556" pageId="0" pageNumber="63">
+<bibRef id="2C16E97CC873C3A7DEEEEB583EAF33A5" author="Filipjev, IN" journalOrPublisher="Acta Instituti Agronomomici Stauropolitani (Zoologia)" pageId="0" pageNumber="63" pagination="83 - 184" refId="B11" title="Encore sur les Nematodes libres de la mer Noire." volume="1" year="1922">
+<author id="B37E294C529C8B63004B92535DC1FE11" pageId="0" pageNumber="63">Filipjev, IN</author>
+, 
+<year id="38DE0E38DCACA561A51093A34C231F02" pageId="0" pageNumber="63">1922</year>
+. 
+<title id="4CAE26342B8BC0E941AF20F5CC249462" pageId="0" pageNumber="63">
+Encore sur les 
+<normalizedToken id="82C5FD1582695F33CC641D966128C715" originalValue="Nématodes">Nematodes</normalizedToken>
+libres de la mer Noire.
+</title>
+<journalOrPublisher id="8147C7452BD8CC372D9DDB83824952F8" pageId="0" pageNumber="63">Acta Instituti Agronomomici Stauropolitani (Zoologia)</journalOrPublisher>
+<volume id="9B242E53CE6DCCA24DF0AE84AC183FFC" pageId="0" pageNumber="63">1</volume>
+(
+<issue id="88E85FF7F9D5E929FAB5E2317AAE2576" pageId="0" pageNumber="63">16</issue>
+): 
+<pagination id="A737654022FA396CB024580A4587FB15" pageId="0" pageNumber="63">83 - 184</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="A072F5CF6592547B6CF48C3E341F9A76" pageId="0" pageNumber="63">
+<bibRef id="4CE2BFBEC308EC0DB763CB6E6F3D1B1E" DOI="https://doi.org/10.1515/9783110274257.435" author="Fonseca, G" editor="Schmidt-Rhaesa, A" journalOrPublisher="Vol. 2. Nematoda. De Gruyter, Berlin / Boston" pageId="0" pageNumber="63" pagination="435 - 465" refId="B12" title="Order Monhysterida Filipjev, 1929." url="https://doi.org/10.1515/9783110274257.435" volumeTitle="Handbook of Zoology, Gastrotricha, Cycloneuralia and Gnathifera." year="2014">
+<author id="53FC452D84DDF9F922CE071D65249F9C" pageId="0" pageNumber="63">Fonseca, G</author>
+, 
+<author id="F3AAB66F9DD22709D7DBD6992DF3528A" pageId="0" pageNumber="63">Bezerra, TN</author>
+, 
+<year id="3ED347354B4F1B8D119E7D1FA7E4AF6E" pageId="0" pageNumber="63">2014</year>
+. 
+<title id="58923C2E26D25B39BA29418A7548F8AD" pageId="0" pageNumber="63">
+Order 
+<taxonomicName id="ADC955EC4D64272D5185FEDEA065E916" authorityName="Andrassy" authorityYear="1981" genus="Geomonhystera" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="order">Monhysterida</taxonomicName>
+Filipjev, 1929.
+</title>
+In: 
+<editor id="B90BCB83B0B01D13D507E7267E3BE9C4" pageId="0" pageNumber="63">Schmidt-Rhaesa, A</editor>
+, Ed., 
+<volumeTitle id="BDF3AB9B5981FFF294D5CA52D1A1688A" pageId="0" pageNumber="63">Handbook of Zoology, Gastrotricha, Cycloneuralia and Gnathifera.</volumeTitle>
+<journalOrPublisher id="BE7A51DBDA3F4358856F3E497A90F49A" pageId="0" pageNumber="63">Vol. 2. Nematoda. De Gruyter, Berlin/Boston</journalOrPublisher>
+: 
+<pagination id="6D839F665C5FC730AA6CC2ABEF53B935" pageId="0" pageNumber="63">435 - 465</pagination>
+, DOI: 
+<DOI id="658C573BAC1023D47CF3E1E933983630" pageId="0" pageNumber="63">https://doi.org/10.1515/9783110274257.435</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="5B5ECD247F17C019AEDA60A4A62250C0" pageId="0" pageNumber="63">
+<bibRef id="95A95D3C62BE115E57A0763C066630AD" DOI="https://doi.org/10.11646/zootaxa.5016.4.2" author="Huang, M" journalOrPublisher="Zootaxa" pageId="0" pageNumber="63" pagination="490 - 502" refId="B13" title="Two new species of nematodes from shallow and deep-water sediments in the South China Sea." url="https://doi.org/10.11646/zootaxa.5016.4.2" volume="5016" year="2021">
+<author id="B1887A1B071FEBAFE06273454A84D79D" pageId="0" pageNumber="63">Huang, M</author>
+, 
+<author id="081216E46444B157D40A65BBC8259D72" pageId="0" pageNumber="63">Shi, BZ</author>
+, 
+<author id="9D76D1D383EE0278515F9E2F253A61F9" pageId="0" pageNumber="63">Wang, CG</author>
+, 
+<author id="5E4D8AFC90EB468E3CBB744A7FB1515C" pageId="0" pageNumber="63">Xu, K</author>
+, 
+<year id="941502612B5E0AE877774C5D3D7D8E20" pageId="0" pageNumber="63">2021</year>
+. 
+<title id="E60FAF91E75BBA7A536DAAD700A0F093" pageId="0" pageNumber="63">Two new species of nematodes from shallow and deep-water sediments in the South China Sea.</title>
+<journalOrPublisher id="EFDC446949AFA4A3311115DD4D1050FE" pageId="0" pageNumber="63">Zootaxa</journalOrPublisher>
+<volume id="73AF33B78CCDA1BEB703A063889F7EF7" pageId="0" pageNumber="63">5016</volume>
+(
+<issue id="71DD23D2F625E5935A183D731F3B1DB0" pageId="0" pageNumber="63">4</issue>
+): 
+<pagination id="FC1E6C6D8A64B90EFD47658BC0401A19" pageId="0" pageNumber="63">490 - 502</pagination>
+, DOI: 
+<DOI id="6EDF9E2B7D5CE5CE48F32B3CDBA2552B" pageId="0" pageNumber="63">https://doi.org/10.11646/zootaxa.5016.4.2</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="D75C99C7D0A99760F96F977CC02769CA" pageId="0" pageNumber="63">
+<bibRef id="B178EBCE32315755CCD2093EFE062AF4" DOI="https://doi.org/10.1023/A:1003489929579" author="Kito, K" journalOrPublisher="Zootaxa" pageId="0" pageNumber="63" refId="B14" title="Free-living marine nematodes of shrimp culture ponds in Thailand. I. New species of the genera Diplolaimella and Thalassomonhystera (Monhysteridae) and Theristus (Xyalidae). Hydrobiologia 379 (1 / 3): 123 - 133." url="https://doi.org/10.1023/A:1003489929579" year="1998">
+<author id="D479F942522B9271E8615F60FB979443" pageId="0" pageNumber="63">Kito, K</author>
+, 
+<author id="5A2E08A89651C6A58631E6EBFBE96BEF" pageId="0" pageNumber="63">Aryuthaka, C</author>
+, 
+<year id="88165A4C464512A17BBE633D316DC2D7" pageId="0" pageNumber="63">1998</year>
+. 
+<title id="469951C50B78611BB2A5089CD912D440" pageId="0" pageNumber="63">Free-living marine nematodes of shrimp culture ponds in Thailand. I. New species of the genera Diplolaimella and Thalassomonhystera (Monhysteridae) and Theristus (Xyalidae). Hydrobiologia 379(1/3): 123-133.</title>
+<publicationUrl id="7E682A07E502D324FCB2ED46C4738445" pageId="0" pageNumber="63">https://doi.org/10.1023/A:1003489929579</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph id="C88BCC847E425E2BC4F147FF2BFBE140" pageId="0" pageNumber="63">
+<bibRef id="39C52B352D2DCB80FF84CEA81C219991" DOI="https://doi.org/10.1080/03014223.2013.827581" author="Leduc, D" journalOrPublisher="New Zealand Journal of Zoology" pageId="0" pageNumber="63" pagination="46 - 57" refId="B15" title="Free-living nematodes of the genus Halomonhystera (Monhysteridae) from the Southwest Pacific region and Ross Sea." url="https://doi.org/10.1080/03014223.2013.827581" volume="41" year="2014">
+<author id="B63EEC83BBAE68736255AA77531F4C8B" pageId="0" pageNumber="63">Leduc, D</author>
+, 
+<year id="26B14F66857DBF6A60F0C2BFEEBEFA7F" pageId="0" pageNumber="63">2014</year>
+. 
+<title id="1C7FED43623FA3929E289272DC2C9D1A" pageId="0" pageNumber="63">
+Free-living nematodes of the genus 
+<taxonomicName id="1BE514779FC22BE78CBA30B15E1D7B72" authorityName="Andrassy" authorityYear="2006" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">
+<emphasis id="EE6C664C49EDB1EB863F57C795E31E95" italics="true" pageId="0" pageNumber="63">Halomonhystera</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="BA0772122CB82D13866A1A874732B5F4" authorityName="de Man" authorityYear="1876" class="Adenophorea" family="Monhysteridae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="family">Monhysteridae</taxonomicName>
+) from the Southwest Pacific region and Ross Sea.
+</title>
+<journalOrPublisher id="AFB9F2FE3664EC58B4152A0C5FCF222A" pageId="0" pageNumber="63">New Zealand Journal of Zoology</journalOrPublisher>
+<volume id="B29D00672688791B564169328E36D75D" pageId="0" pageNumber="63">41</volume>
+(
+<issue id="7D4ADB92287C63CABDBA0D3D0343C83F" pageId="0" pageNumber="63">1</issue>
+): 
+<pagination id="ABD692A4EAD6F4533D882F547205EF1C" pageId="0" pageNumber="63">46 - 57</pagination>
+, DOI: 
+<DOI id="4DC8FEB087844B54B46429194F6B057C" pageId="0" pageNumber="63">https://doi.org/10.1080/03014223.2013.827581</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="AD524BC10866A135F6A7FC799FC23EAE" pageId="0" pageNumber="63">
+<bibRef id="724946A14CBFAC8F905FB5AFCC3E92DE" author="Lorenzen, S" journalOrPublisher="Bremerh" pageId="0" pageNumber="63" pagination="103 - 130" refId="B16" title="Freilebende Meersenematoden aus dem Sublitoral der Nordsee und der Kieler Bucht. Veroeff. Inst. Meeresforsch." volume="14" year="1973">
+<author id="ED9C8414388631B485450DE6B7C1A037" pageId="0" pageNumber="63">Lorenzen, S</author>
+, 
+<year id="7E3464A374D65E73DCAC381D4C3C9CC2" pageId="0" pageNumber="63">1973</year>
+. 
+<title id="6C6A8F3CEF051E77B7C48D3CC441B107" pageId="0" pageNumber="63">
+Freilebende Meersenematoden aus dem Sublitoral der Nordsee und der Kieler Bucht. 
+<normalizedToken id="10B5436581DB678345CBA5999B919ECC" originalValue="Veröff">Veroeff</normalizedToken>
+. Inst. Meeresforsch.
+</title>
+<journalOrPublisher id="4D93BC26B21605D368B6BF8606C358A0" pageId="0" pageNumber="63">Bremerh</journalOrPublisher>
+<volume id="FD499122ACA2C89F817658C78509133F" pageId="0" pageNumber="63">14</volume>
+: 
+<pagination id="7E64DEBF735577B3195389FB2D45C5DE" pageId="0" pageNumber="63">103 - 130</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="A1DBC62216A9E3EA98A0BE432E75A910" pageId="0" pageNumber="63">
+<bibRef id="25F42DD7B07F9A743202F65D7C6086B7" author="Lorenzen, S" journalOrPublisher="Veroeffentlichungen des Instituts fuer Meeresforschung in Bremerhaven" pageId="0" pageNumber="63" pagination="197 - 261" refId="B17" title="Revision der Xyalidae (freilebende Nematoden) auf der Grundlage einer kritischen Analyse von 56 Arten aus Nord-und Ostsee." volume="16" year="1977">
+<author id="1C89737064AEE626D138AD0F3CE45689" pageId="0" pageNumber="63">Lorenzen, S</author>
+, 
+<year id="CB3876FF2DC122CEAF6FE82489E3FE33" pageId="0" pageNumber="63">1977</year>
+. 
+<title id="E4C8F4ADF56978F4ED7024E03D8616FC" pageId="0" pageNumber="63">
+Revision der 
+<taxonomicName id="EF2CA006265EC99E8C3E022FD0AA2038" authorityName="Chitwood" authorityYear="1951" class="Chromadorea" family="Xyalidae" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="family">Xyalidae</taxonomicName>
+(freilebende Nematoden) auf der Grundlage einer kritischen Analyse von 56 Arten aus Nord-und Ostsee.
+</title>
+<journalOrPublisher id="AC38B7BE9024D79309175D78BB6DA0A5" pageId="0" pageNumber="63">
+<normalizedToken id="74771B5E05EC6CCCB7DA78CE061D1A2B" originalValue="Veröffentlichungen">Veroeffentlichungen</normalizedToken>
+des Instituts 
+<normalizedToken id="B8CEBE61EF55E6F3A445223F4C1557FF" originalValue="für">fuer</normalizedToken>
+Meeresforschung in Bremerhaven
+</journalOrPublisher>
+<volume id="B0F3579474EADCF0A426A71E50EDA3C2" pageId="0" pageNumber="63">16</volume>
+: 
+<pagination id="3599006D688423A050F3A0C12F656E90" pageId="0" pageNumber="63">197 - 261</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="0C4E57C558C0A923639B58E6A103F19C" pageId="0" pageNumber="63">
+<bibRef id="3FCAC903BC54E14812B79E3757DCA88B" DOI="https://doi.org/10.1080/00222933.2022.2102446" author="Lu, Y" journalOrPublisher="Journal of Natural History" pageId="0" pageNumber="63" pagination="1091 - 1107" refId="B18" title="Three new species of free-living marine nematodes from the central basin of the South China Sea." url="https://doi.org/10.1080/00222933.2022.2102446" volume="56" year="2022">
+<author id="072D209035283FCA3A0536E7354E1953" pageId="0" pageNumber="63">Lu, Y</author>
+, 
+<author id="9AF329F25B2CDBC6E905DC09B3A17702" pageId="0" pageNumber="63">Sui, XX</author>
+, 
+<author id="FCD1C5A5E5ADF7D6F866B0524609C698" pageId="0" pageNumber="63">Huang, Y</author>
+, 
+<year id="885FFAC96773FAFAA960ACEAA56279AE" pageId="0" pageNumber="63">2022</year>
+. 
+<title id="2EC93FEC58340F98E2346A2EAA5D6FDB" pageId="0" pageNumber="63">Three new species of free-living marine nematodes from the central basin of the South China Sea.</title>
+<journalOrPublisher id="93F4957734022F37F386BD9907E2B51C" pageId="0" pageNumber="63">Journal of Natural History</journalOrPublisher>
+<volume id="DFCB13880FDADAD6F23DE135F2EB20B5" pageId="0" pageNumber="63">56</volume>
+(
+<issue id="FAAB3C4A207620DE9A1B3C4987192D43" pageId="0" pageNumber="63">17-20</issue>
+): 
+<pagination id="1811BB0B56F5DB325D4D701C81C1FFF5" pageId="0" pageNumber="63">1091 - 1107</pagination>
+, DOI: 
+<DOI id="E71237A0652040CDBD8CFF0CBF3B9A35" pageId="0" pageNumber="63">https://doi.org/10.1080/00222933.2022.2102446</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="7C3A8CE13136FFE64B9ABF52C0AD9E2D" pageId="0" pageNumber="63">
+<bibRef id="0CD00048FF9E16A7B23D4E29629BE3E2" author="McIntyre, AD" editor="Holme, NA" journalOrPublisher="Blackwell Scientific Publications, Oxford" pageId="0" pageNumber="63" pagination="217 - 244" refId="B19" title="Meiofauna techniques." volumeTitle="Methods for the study of marine benthos." year="1984">
+<author id="DFB10FF15EEF89D101F1E337D6F659E8" pageId="0" pageNumber="63">McIntyre, AD</author>
+, 
+<author id="6C2C0B9E3113E9EC0AFC376CE77751E7" pageId="0" pageNumber="63">Warwick, RM</author>
+, 
+<year id="7B98F46B028750D9F3A8ADBE7F7A6662" pageId="0" pageNumber="63">1984</year>
+. 
+<title id="46980E563F0422E360B48F657EA99C82" pageId="0" pageNumber="63">Meiofauna techniques.</title>
+In: 
+<editor id="F33225D2B90067A57658F88EE02D41E1" pageId="0" pageNumber="63">Holme, NA</editor>
+, 
+<editor id="8D3FCAFC67DD0060B065059F54364B87" pageId="0" pageNumber="63">McIntyre, AD</editor>
+, Eds., 
+<volumeTitle id="8ED5AB3336B45AA41054EC8B8402A899" pageId="0" pageNumber="63">Methods for the study of marine benthos.</volumeTitle>
+<journalOrPublisher id="529FC1263C147F53685FF0C75ACA1075" pageId="0" pageNumber="63">Blackwell Scientific Publications, Oxford</journalOrPublisher>
+: 
+<pagination id="56634A97B925876F9AE88BE1D82F512C" pageId="0" pageNumber="63">217 - 244</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="08175263CCF691367DC8B7CE230F089E" pageId="0" pageNumber="63">
+<bibRef id="F44024A1DF00497BB15D0373CDDFFFB4" author="Micoletzky, H" journalOrPublisher="Blackwell Scientific Publications, Oxford" pageId="0" pageNumber="63" refId="B20" title="Letzter Bericht ueber freilebende Nematoden aus Suez. Sitzungsberichte Akademie der Wissenschaften in Wien Mathematisch-naturwissenschaftliche Klasse 133 (I): 137 - 179." year="1924">
+<author id="908A31D06212FE45235BFCF47FF0145E" pageId="0" pageNumber="63">Micoletzky, H</author>
+, 
+<year id="89D1BD6AB739F91E25C088CD8140BC6D" pageId="0" pageNumber="63">1924</year>
+. 
+<title id="70FE336BA64F9095FA73EFD2F8B8B068" pageId="0" pageNumber="63">
+Letzter Bericht 
+<normalizedToken id="7364C40CC948BE3C92F0B1AA4003D3F4" originalValue="über">ueber</normalizedToken>
+freilebende Nematoden aus Suez. Sitzungsberichte Akademie der Wissenschaften in Wien Mathematisch-naturwissenschaftliche Klasse 133(I): 137-179.
+</title>
+</bibRef>
+</paragraph>
+<paragraph id="DE7F27851850F9EC7469C98006F83AE9" pageId="0" pageNumber="63">
+<bibRef id="A83AD01A7D9C64F0D7576B524A1AFE2C" DOI="https://doi.org/10.14284/366" author="Nemys, Eds" journalOrPublisher="Blackwell Scientific Publications, Oxford" pageId="0" pageNumber="63" refId="B21" title="Nemys: World Database of Nematodes." url="https://doi.org/10.14284/366" year="2024">
+<author id="9239464190BA55656F4E30F6C100BEDD" pageId="0" pageNumber="63">Nemys, Eds</author>
+, 
+<year id="F674F35FF4527E9871CCC49C771FE849" pageId="0" pageNumber="63">2024</year>
+. 
+<title id="3C805C1C816C9EF89A1489BADBDF0B81" pageId="0" pageNumber="63">Nemys: World Database of Nematodes.</title>
+<publicationUrl id="9DF9E7C7F92BFACB9AE76FF82AF29018" pageId="0" pageNumber="63">https://doi.org/10.14284/366</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph id="A0F55A66338B1E59EFE4BF30D54C2A82" pageId="0" pageNumber="63">
+<bibRef id="E5DD770AD2E7812AD129E0A16C947149" DOI="https://doi.org/10.11646/zootaxa.4722.1.1" author="Pinto, TK" journalOrPublisher="Zootaxa" pageId="0" pageNumber="63" pagination="1 - 33" refId="B22" title="Four new species of free-living nematodes from shallow continental shelf of Portugal." url="https://doi.org/10.11646/zootaxa.4722.1.1" volume="4722" year="2020">
+<author id="6269A71FFA407D2D0C06C4CA2D35178D" pageId="0" pageNumber="63">Pinto, TK</author>
+, 
+<author id="E7AF92DE8293CDEA4BD54892E573E897" pageId="0" pageNumber="63">Neres, PF</author>
+, 
+<year id="DD744E03B1B37508EE42E7A7A2239D69" pageId="0" pageNumber="63">2020</year>
+. 
+<title id="71321B80837372DDD69B1D413BE50A8E" pageId="0" pageNumber="63">Four new species of free-living nematodes from shallow continental shelf of Portugal.</title>
+<journalOrPublisher id="138CD1CC2C213AC1D4000FAC9A0DF1A5" pageId="0" pageNumber="63">Zootaxa</journalOrPublisher>
+<volume id="031598F3998C2C54167386504289F75F" pageId="0" pageNumber="63">4722</volume>
+(
+<issue id="CFA712AA5E22A415DF2FB50E9884DBE0" pageId="0" pageNumber="63">1</issue>
+): 
+<pagination id="35B6FBEB9FDC66C810C91B33FD8618D5" pageId="0" pageNumber="63">1 - 33</pagination>
+, DOI: 
+<DOI id="6D58FEEC5B0A44A883F18F54E34C759D" pageId="0" pageNumber="63">https://doi.org/10.11646/zootaxa.4722.1.1</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="0CE5BB74872CD2640DEB94CBBEB5F754" pageId="0" pageNumber="63">
+<bibRef id="EB7702DF7272FF4FF60842C5B654CFB1" DOI="https://doi.org/10.1007/s11230-009-9210-x" author="Poinar, G" journalOrPublisher="Systematic Parasitology" pageId="0" pageNumber="63" pagination="53 - 58" refId="B23" title="Halomonhystera parasitica n. sp. (Nematoda: Monhysteridae), a parasite of Talorchestia brito (Crustacea: Talitridae) in Portugal." url="https://doi.org/10.1007/s11230-009-9210-x" volume="75" year="2009">
+<author id="03A9E44EF68C215B2FB957F1D9AB92EF" pageId="0" pageNumber="63">Poinar, G</author>
+, 
+<author id="334B6CE1FFE3C8B50F099157A80F0A42" pageId="0" pageNumber="63">Duarte, D</author>
+, 
+<author id="D90DEEF23E6E4E1A5596FDF5B0AB6D8F" pageId="0" pageNumber="63">Santos Maria, J</author>
+, 
+<year id="BD363AA6BDA8984F6653D4041F3DAC5B" pageId="0" pageNumber="63">2009</year>
+. 
+<title id="66F371588F6E064026A7401B1B73B336" pageId="0" pageNumber="63">
+<taxonomicName id="0BE10169A5B1177C5B4AEAFD68FA2D4E" authorityName="Poinar, Duarte &amp; Santos Maria" authorityYear="2009" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera parasitica" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="parasitica">
+<emphasis id="FBE604B1ABC0C4AD93C8C19BFB084814" italics="true" pageId="0" pageNumber="63">Halomonhystera parasitica</emphasis>
+</taxonomicName>
+n. sp. (
+<taxonomicName id="BE99360BB424AA6697127CFA50E184FE" authorityName="Andrassy" authorityYear="2006" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="phylum">Nematoda</taxonomicName>
+: 
+<taxonomicName id="9F74A69C77848D898289EB2FE22F3B1D" authorityName="de Man" authorityYear="1876" class="Adenophorea" family="Monhysteridae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="family">Monhysteridae</taxonomicName>
+), a parasite of 
+<taxonomicName id="E7031B0B76C08A8BA183C222DCD897FC" authorityName="Stebbing" authorityYear="1891" class="Malacostraca" family="Talitridae" genus="Talorchestia" kingdom="Animalia" lsidName="Talorchestia brito" order="Amphipoda" pageId="0" pageNumber="63" phylum="Arthropoda" rank="species" species="brito">
+<emphasis id="42BFA057284418DE3041C0F247A1C513" italics="true" pageId="0" pageNumber="63">Talorchestia brito</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="EF8608B98F452A58A6353849C70C9045" class="Malacostraca" family="Talitridae" genus="Talorchestia" kingdom="Animalia" lsidName="" order="Amphipoda" pageId="0" pageNumber="63" phylum="Arthropoda" rank="subPhylum" subPhylum="Crustacea">Crustacea</taxonomicName>
+: 
+<taxonomicName id="F8F82BDCD81D1E021DD484724AB461E5" authorityName="Rafinesque" authorityYear="1815" class="Insecta" family="Talitridae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hymenoptera" pageId="0" pageNumber="63" phylum="Arthropoda" rank="family">Talitridae</taxonomicName>
+) in Portugal.
+</title>
+<journalOrPublisher id="7CE71D23EF85D770FD6AE4BDFA052D21" pageId="0" pageNumber="63">Systematic Parasitology</journalOrPublisher>
+<volume id="0549F6B6F1915C5FF849FA6F1C9FBEA5" pageId="0" pageNumber="63">75</volume>
+(
+<issue id="4C837D6BFBF21E47639EA5AF87FA00E5" pageId="0" pageNumber="63">1</issue>
+): 
+<pagination id="2379E123555D2DC35A5BAE7A55B07814" pageId="0" pageNumber="63">53 - 58</pagination>
+, DOI: 
+<DOI id="059684589ED5EF3EF704E5A9A0EFC087" pageId="0" pageNumber="63">https://doi.org/10.1007/s11230-009-9210-x</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="B9F54DE256DF6F8CA352F04FC9B78A9C" pageId="0" pageNumber="63">
+<bibRef id="975E62071B17AEFFB13E79B2BF09EC48" DOI="https://doi.org/10.1017/S0025315400039126" author="Riemann, F" journalOrPublisher="Journal of the Marine Biological Association of the United Kingdom" pageId="0" pageNumber="63" pagination="715 - 724" refId="B24" title="The deep-sea nematode Thalassomonhystera bathislandica sp. nov. and microhabitats of nematodes in flocculent surface sediments." url="https://doi.org/10.1017/S0025315400039126" volume="75" year="1995">
+<author id="D278BA5089CE4EA06A2BF2154BDE5391" pageId="0" pageNumber="63">Riemann, F</author>
+, 
+<year id="F9F3BAFA5BC1246700E9DBB43D11D268" pageId="0" pageNumber="63">1995</year>
+. 
+<title id="C88B34078C2E3C82DBACAA961897519B" pageId="0" pageNumber="63">
+The deep-sea nematode 
+<taxonomicName id="9D87AB77C90DC2ECDD5697068FDEA70F" class="Chromadorea" family="Monhysteridae" genus="Thalassomonhystera" kingdom="Animalia" lsidName="Thalassomonhystera bathislandica" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="bathislandica">
+<emphasis id="C12A33362BBEB7127B4C673408AD75DA" italics="true" pageId="0" pageNumber="63">Thalassomonhystera bathislandica</emphasis>
+</taxonomicName>
+sp. nov. and microhabitats of nematodes in flocculent surface sediments.
+</title>
+<journalOrPublisher id="D184A44B73947402271ACA17EE8B8EEE" pageId="0" pageNumber="63">Journal of the Marine Biological Association of the United Kingdom</journalOrPublisher>
+<volume id="9EFD66E8D37432AA7A47B22DECC91671" pageId="0" pageNumber="63">75</volume>
+(
+<issue id="6C4E7FA39AC404DA943E512311D95FFB" pageId="0" pageNumber="63">3</issue>
+): 
+<pagination id="63C0DD279BBBD47826612D03D345197E" pageId="0" pageNumber="63">715 - 724</pagination>
+, DOI: 
+<DOI id="45708FED07832B820544CF90E4FEB994" pageId="0" pageNumber="63">https://doi.org/10.1017/S0025315400039126</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="E824F6B684F052C0B803E64E01D2E76D" pageId="0" pageNumber="63">
+<bibRef id="4FF12F9D86E0232FF7CBAF3A75ED0B5D" DOI="https://doi.org/10.1139/z58-025" author="Steiner, G" journalOrPublisher="Canadian Journal of Zoology" pageId="0" pageNumber="63" pagination="269 - 278" refId="B25" title="Monhystera cameroni n. sp. - A nematode commensal of various crustaceans of the Magdalen Islands and Bay of Chaleur (Gulf of St. Lawrence)." url="https://doi.org/10.1139/z58-025" volume="36" year="1958">
+<author id="A59922B81395CF3AE7B70DCD2EC244B1" pageId="0" pageNumber="63">Steiner, G</author>
+, 
+<year id="05CE52A65475B211FD43AF4E5DFD1ED6" pageId="0" pageNumber="63">1958</year>
+. 
+<title id="13E21E7DF408E4CF89F6D87F0F68E50D" pageId="0" pageNumber="63">
+<taxonomicName id="F1386004F4AF82FC4BF96D1DC5A7267C" authorityName="Steiner" authorityYear="1958" class="Chromadorea" family="Monhysteridae" genus="Monhystera" kingdom="Animalia" lsidName="Monhystera cameroni" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="cameroni">
+<emphasis id="777648008628F22F96FFD2286BDE610F" italics="true" pageId="0" pageNumber="63">Monhystera cameroni</emphasis>
+</taxonomicName>
+n. sp. - A nematode commensal of various crustaceans of the Magdalen Islands and Bay of Chaleur (Gulf of St. Lawrence).
+</title>
+<journalOrPublisher id="FECB6D5BD8A239D943802EF76F206E2D" pageId="0" pageNumber="63">Canadian Journal of Zoology</journalOrPublisher>
+<volume id="FC34DFC35C4873217B8B2E337A8D0A54" pageId="0" pageNumber="63">36</volume>
+(
+<issue id="58655325F89942F2A75DF2C533BF0896" pageId="0" pageNumber="63">3</issue>
+): 
+<pagination id="E61669E6632DD71AA42B3C6119E1E4BF" pageId="0" pageNumber="63">269 - 278</pagination>
+, DOI: 
+<DOI id="7E3E1955BB97AD5FE11DF2F58D56083F" pageId="0" pageNumber="63">https://doi.org/10.1139/z58-025</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="C8E2C793CB1B5744D327748783763F8E" pageId="0" pageNumber="63">
+<bibRef id="4FAFB83E2E7121A9D0D912C57065F010" DOI="https://doi.org/10.1007/s10152-014-0416-1" author="Tchesunov, AV" journalOrPublisher="Helgoland Marine Research" pageId="0" pageNumber="63" pagination="57 - 85" refId="B26" title="Description of two free-living nematode species of Halomonhystera disjuncta complex (Nematoda: Monhysterida) from two peculiar habitats in the sea." url="https://doi.org/10.1007/s10152-014-0416-1" volume="69" year="2015">
+<author id="28C39A940A545EE5D9B6F17E11F7DCB9" pageId="0" pageNumber="63">Tchesunov, AV</author>
+, 
+<author id="246312BB81DA8B35ECDEB26080B714F1" pageId="0" pageNumber="63">Portnova, DA</author>
+, 
+<author id="4C86C74143E5E4987B2EBDB4AE7ADE5A" pageId="0" pageNumber="63">Van Campenhout, J</author>
+, 
+<year id="B174D3262B1E586D311282EE44190795" pageId="0" pageNumber="63">2015</year>
+. 
+<title id="F2D87BED1A4EDA7CCCACBF54A242171C" pageId="0" pageNumber="63">
+Description of two free-living nematode species of 
+<taxonomicName id="16883511D2E24C3E0FFE385F9F6391BD" authorityName="Andrassy" authorityYear="2006" baseAuthorityName="Bastian" baseAuthorityYear="1865" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="Halomonhystera disjuncta" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="species" species="disjuncta">
+<emphasis id="B10DB285F5065234F51DB40FA36A36CC" italics="true" pageId="0" pageNumber="63">Halomonhystera disjuncta</emphasis>
+</taxonomicName>
+complex (
+<taxonomicName id="D14075E67FC10BAE82905A1D3BED5EF4" authorityName="Andrassy" authorityYear="2006" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="phylum">Nematoda</taxonomicName>
+: 
+<taxonomicName id="FB6B48944F9E7F8A205648805D721D52" authorityName="Andrassy" authorityYear="2006" family="Monhysteridae" genus="Halomonhystera" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="order">Monhysterida</taxonomicName>
+) from two peculiar habitats in the sea.
+</title>
+<journalOrPublisher id="5C205D51A0FCAA8AF261278FA273C3DC" pageId="0" pageNumber="63">Helgoland Marine Research</journalOrPublisher>
+<volume id="B0109943A001C3D11E31A67FCF5C9F5D" pageId="0" pageNumber="63">69</volume>
+(
+<issue id="67616504E26798B8CA7862A1B1176562" pageId="0" pageNumber="63">1</issue>
+): 
+<pagination id="22001EE721985B849C5B93D2F34E426B" pageId="0" pageNumber="63">57 - 85</pagination>
+, DOI: 
+<DOI id="F0E298852839FF5FC13BE306BF4BBD06" pageId="0" pageNumber="63">https://doi.org/10.1007/s10152-014-0416-1</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="8FCE7123A7B5F8DAED11D0B34B358D97" pageId="0" pageNumber="63">
+<bibRef id="A140B32BAA74E3D397A63BB2D493C8A1" author="Tsalolikhin, SJ" journalOrPublisher="Zoologicheskii jurnal [Zoologicheskii zhurnal]" pageId="0" pageNumber="63" pagination="1283 - 1289" refId="B27" title="A review of the genus Geomonhystera (Nematoda, Monhysterida, Monhysteridae) with a description of the new species, G. taurica." volume="86" year="2007">
+<author id="DFF5C866F086765FF1378ACD2E0362E7" pageId="0" pageNumber="63">Tsalolikhin, SJ</author>
+, 
+<year id="75C5FF99BACBC18DC7605660623E03BA" pageId="0" pageNumber="63">2007</year>
+. 
+<title id="2BBDADB446C8421F1B55F2BA50C86F52" pageId="0" pageNumber="63">
+A review of the genus 
+<taxonomicName id="5FA8121E57E1B12344EC30B16A594AF5" authorityName="Andrassy" authorityYear="1981" genus="Geomonhystera" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Geomonhystera" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="genus">
+<emphasis id="F3AF6BBE83C7AC977AC4E72293009010" italics="true" pageId="0" pageNumber="63">Geomonhystera</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="04D974ED049C62B7B9081F2A57E15261" authorityName="Andrassy" authorityYear="1981" genus="Geomonhystera" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="phylum">Nematoda</taxonomicName>
+, 
+<taxonomicName id="7C872D851D9050924D1D306CC354A5F3" authorityName="Andrassy" authorityYear="1981" genus="Geomonhystera" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="order">Monhysterida</taxonomicName>
+, 
+<taxonomicName id="366E2DF63C2068C3A11D24208CC8FC49" authorityName="de Man" authorityYear="1876" class="Adenophorea" family="Monhysteridae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="family">Monhysteridae</taxonomicName>
+) with a description of the new species, 
+<taxonomicName id="D2AEE3C49D5752CF3F61F84604CCFBB6" genus="G." lsidName="G. taurica" pageId="0" pageNumber="63" rank="species" species="taurica">
+<emphasis id="AB47D34A292BCE82DFDE71C777AD34C9" italics="true" pageId="0" pageNumber="63">G. taurica</emphasis>
+</taxonomicName>
+.
+</title>
+<journalOrPublisher id="9896C1208EF955C18B8569D262EBED69" pageId="0" pageNumber="63">
+Zoologicheskii jurnal [
+<normalizedToken id="F9895D5EE5EC54BB79B88ED468372135" originalValue="Зоологический">Zoologicheskii</normalizedToken>
+<normalizedToken id="4A1D701DF0C2424A13419101E1F43C4B" originalValue="журнал">zhurnal</normalizedToken>
+]
+</journalOrPublisher>
+<volume id="35E9F642B6C8D25FAB69FB435E054A45" pageId="0" pageNumber="63">86</volume>
+(
+<issue id="29DE50E475C7320F7F9DE23DFC79E400" pageId="0" pageNumber="63">11</issue>
+): 
+<pagination id="C1B2B30F8A3A69392418DF34BCDB74CF" pageId="0" pageNumber="63">1283 - 1289</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="08CBE48843F532E67F78E84FAF8E5F47" pageId="0" pageNumber="63">
+<bibRef id="12D8E473CB6DD67C023EFA9224E0B6CF" author="Wieser, W" journalOrPublisher="Lunds Univertitet Arsskrift" pageId="0" pageNumber="63" pagination="1 - 148" refId="B28" title="Free-living marine nematodes II. Chromadoroidea." volume="50" year="1954">
+<author id="CA9641BC771E8DF6114CA380E5053116" pageId="0" pageNumber="63">Wieser, W</author>
+, 
+<year id="CA7A1C96C4DF00F181EF80361D8B2080" pageId="0" pageNumber="63">1954</year>
+. 
+<title id="789BB29AFACBBA2E4606E219422ADCD2" pageId="0" pageNumber="63">
+Free-living marine nematodes II. 
+<taxonomicName id="9BAE3E4169E5D65EE71DE48C3915AC83" genus="G." lsidName="" pageId="0" pageNumber="63" rank="superFamily" superFamily="Chromadoroidea">Chromadoroidea</taxonomicName>
+.
+</title>
+<journalOrPublisher id="66F98D49318657E6B0D9A49A8ABE0158" pageId="0" pageNumber="63">Lunds Univertitet Arsskrift</journalOrPublisher>
+<volume id="FECB2CCEA9E2225ACF30B8905D8BE9EF" pageId="0" pageNumber="63">50</volume>
+(
+<issue id="5E46F7349773BBBD595614738181C96E" pageId="0" pageNumber="63">16</issue>
+): 
+<pagination id="5A881FD2A2729AC0ED92573C993A76E3" pageId="0" pageNumber="63">1 - 148</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="5A66090F142AA12A5BA9FA24081C6EC6" pageId="0" pageNumber="63">
+<bibRef id="EEDE12CA3A55D4824C867E03FFDB6F74" author="Zekely, J" journalOrPublisher="Meiofauna Marina" pageId="0" pageNumber="63" pagination="25 - 42" refId="B29" title="Three new nematode species (Monhysteridae) from deep-sea hydrothermal vents." volume="15" year="2006">
+<author id="CB0F47799D3793E8785EFA160B8E4730" pageId="0" pageNumber="63">Zekely, J</author>
+, 
+<author id="D7B65A0E92AA750EB47654AFC4BA4564" pageId="0" pageNumber="63">Sorensen, MV</author>
+, 
+<author id="EA63DDDEFEA35BD171BE19DDC8EA7E0E" pageId="0" pageNumber="63">Bright, M</author>
+, 
+<year id="BCCCC128DFFCB0F65DEDB71C78BD339E" pageId="0" pageNumber="63">2006</year>
+. 
+<title id="1CFDD9ED9E76D5E3B8E4DE82839448BD" pageId="0" pageNumber="63">
+Three new nematode species (
+<taxonomicName id="F354C441ED3E1483986BF71AC52F90B7" authorityName="de Man" authorityYear="1876" class="Adenophorea" family="Monhysteridae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Monhysterida" pageId="0" pageNumber="63" phylum="Nematoda" rank="family">Monhysteridae</taxonomicName>
+) from deep-sea hydrothermal vents.
+</title>
+<journalOrPublisher id="A1B03D419A6BC9110F7C1943B8751791" pageId="0" pageNumber="63">Meiofauna Marina</journalOrPublisher>
+<volume id="227FC72877D9BD7F0ADF45AB86398D11" pageId="0" pageNumber="63">15</volume>
+: 
+<pagination id="6E22D9A187D13445C71931C1E5A6D30D" pageId="0" pageNumber="63">25 - 42</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="5674E4D64177F662D667245FE63B52B4" pageId="0" pageNumber="63">
+<bibRef id="817FEDF85EF40E182846C610D80699CD" DOI="https://doi.org/10.5962/p.28001" author="Zhang, ZN" journalOrPublisher="Bulletin of the British Museum (Natural History) Zoology" pageId="0" pageNumber="63" pagination="253 - 261" refId="B30" title="New species of marine nematodes from Qingdao, China." url="https://doi.org/10.5962/p.28001" volume="45" year="1983">
+<author id="6771DD8467B03B7370A06D0F4AD406ED" pageId="0" pageNumber="63">Zhang, ZN</author>
+, 
+<author id="E6F17C336A254AB1B6F458AB9B634713" pageId="0" pageNumber="63">Platt, HM</author>
+, 
+<year id="7AF8CEF870C37F0159A60714904762C1" pageId="0" pageNumber="63">1983</year>
+. 
+<title id="91B381856BAA75154A2F83B25A581DAB" pageId="0" pageNumber="63">New species of marine nematodes from Qingdao, China.</title>
+<journalOrPublisher id="400AB62AFF33FA7786E9676A26CFD990" pageId="0" pageNumber="63">Bulletin of the British Museum (Natural History) Zoology</journalOrPublisher>
+<volume id="91D4E111E59D57B0DF874787537701EC" pageId="0" pageNumber="63">45</volume>
+: 
+<pagination id="02D34C27584A74A3E19F7B263F94437D" pageId="0" pageNumber="63">253 - 261</pagination>
+, DOI: 
+<DOI id="4102803B43610FAB62C17257A65477D4" pageId="0" pageNumber="63">https://doi.org/10.5962/p.28001</DOI>
+</bibRef>
+</paragraph>
+</subSection>
+</document>

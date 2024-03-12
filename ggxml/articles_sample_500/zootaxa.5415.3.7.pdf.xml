@@ -1,0 +1,1386 @@
+<document id="C5533FCF2DA48FDBD1D9816C91C64C03" ID-CLB-Dataset="289250" ID-DOI="10.11646/zootaxa.5415.3.7" ID-GBIF-Dataset="17cfac16-74d0-423c-a202-7842983ece06" ID-ISSN="1175-5326" ID-Zenodo-Dep="10693430" ID-ZooBank="2DB4CC1C-63B8-47BF-A3DB-2B9C9E680EF2" IM.bibliography_approvedBy="felipe" IM.illustrations_approvedBy="felipe" IM.materialsCitations_approvedBy="tatiana" IM.metadata_approvedBy="felipe" IM.taxonomicNames_approvedBy="tatiana" IM.treatmentCitations_approvedBy="tatiana" IM.treatments_approvedBy="tatiana" checkinTime="1708605890964" checkinUser="plazi" docAuthor="Tan, Zhixiang &amp; Meng, Shitao &amp; Xing, Jichun" docDate="2024" docId="2D13FF8BFF821535FFCCFF81DA13FF92" docName="zootaxa.5415.3.7.pdf" docOrigin="Zootaxa 5415 (3)" docSource="http://dx.doi.org/10.11646/zootaxa.5415.3.7" docStyle="DocumentStyle:647186512141C8FC8976D5BCC54AEB7D.9:Zootaxa.2013-.journal_article" docStyleId="647186512141C8FC8976D5BCC54AEB7D" docStyleName="Zootaxa.2013-.journal_article" docStyleVersion="9" docTitle="Description of a new species of the genus Paralecanium Cockerell &amp; Bueker (Hemiptera: Coccomorpha: Coccidae) from China" docVersion="5" lastPageNumber="485" pageNumber="477" updateTime="1708960363380" updateUser="ExternalLinkService" zenodo-license-document="CLOSED">
+<mods:mods id="A01A518E8292B9037161A6CC8EC7E1C5" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="7B35FF9C52027477E6FCAAA5E900F40F">
+<mods:title id="BCAAB24C504755C4DECE6EB5F383B6B6">Description of a new species of the genus Paralecanium Cockerell &amp; Bueker (Hemiptera: Coccomorpha: Coccidae) from China</mods:title>
+</mods:titleInfo>
+<mods:name id="891E4C0B17152356653C7E3102F71368" type="personal">
+<mods:role id="2787B44E788EA6A3AE5EB850846BCCCD">
+<mods:roleTerm id="5806E8CBBA4E44AB57DAA483B0881D91">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="51D89F3878C53BE51D1014947B765035">Tan, Zhixiang</mods:namePart>
+<mods:nameIdentifier id="D96B616BA0C7F6093CC681F3FA70FA9C" type="ORCID">0000-0002-9754-8341</mods:nameIdentifier>
+<mods:affiliation id="3DD0AEFE154B7F5ED1A4091CE4291FB6">Institute of Entomology, Guizhou University; The Provincial Special Key Laboratory for Development and Utilization of Insect Resources, Guizhou University; Guiyang, 550025 P. R. China</mods:affiliation>
+</mods:name>
+<mods:name id="F31238C287C2007B6932C2E98590B8BE" type="personal">
+<mods:role id="ED31BBA9C1800AA13730812480840EE9">
+<mods:roleTerm id="D5BF59FA1D24A2155D72A0C5EE82DD7D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B46F92E736FB352FE298B99B0D786BAA">Meng, Shitao</mods:namePart>
+<mods:nameIdentifier id="A90521EBEBB619F81C4B705A712AACA0" type="ORCID">0000-0001-7641-5729</mods:nameIdentifier>
+<mods:affiliation id="E37B20779510BF9283E59548CFE1FBBB">Institute of Entomology, Guizhou University; The Provincial Special Key Laboratory for Development and Utilization of Insect Resources, Guizhou University; Guiyang, 550025 P. R. China</mods:affiliation>
+</mods:name>
+<mods:name id="1D4CBDD514237BC626980700E55739C4" type="personal">
+<mods:role id="7534C262A190C06C248886089308E796">
+<mods:roleTerm id="B4E8DC5E8BC18F91FC65C335596459B0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B675661003D63882B37D7815819A477B">Xing, Jichun</mods:namePart>
+<mods:affiliation id="D563EDF4DA1CC337445A45D6D3D5C858">Institute of Entomology, Guizhou University; The Provincial Special Key Laboratory for Development and Utilization of Insect Resources, Guizhou University; Guiyang, 550025 P. R. China</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="15CB4B2C9310F2AE20506C6D823A47AF">text</mods:typeOfResource>
+<mods:relatedItem id="F1E471788E467239FA9D28EB05041899" type="host">
+<mods:titleInfo id="8CD4895B10CF94D38607AF46008018EA">
+<mods:title id="5FB90A41E4E308FF48084107F1CB429F">Zootaxa</mods:title>
+</mods:titleInfo>
+<mods:part id="5438B5C8E8E206BB26F6D7994B8F2201">
+<mods:date id="A60A5C765809C895E2CE363BE032E609">2024</mods:date>
+<mods:detail id="D34E4589CF6593EB3A6EFCBEF31F27C0" type="pubDate">
+<mods:number id="59A9ECB311D22FDA197F819E0F2694BE">2024-02-22</mods:number>
+</mods:detail>
+<mods:detail id="FC6089D156256D71CD54CF1ECC1A5FF6" type="volume">
+<mods:number id="D60E800E7AC14F24E9721C6B022DBB74">5415</mods:number>
+</mods:detail>
+<mods:detail id="869662F7D23E709B369F80FB85AEA4BB" type="issue">
+<mods:number id="6471B9675CE18B54C1916DAC6A24FCEC">3</mods:number>
+</mods:detail>
+<mods:extent id="B68507592B0057B0E0B3AC47F7F13CE2" unit="page">
+<mods:start id="A20DF10D54AB9568D2884382F3FD14E4">477</mods:start>
+<mods:end id="A65E7B046B16B98C68A8A2959500EEA7">485</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="367D83BC88B39B720D5FE4FD868397B8">
+<mods:url id="3ECA95412CF47D43546FD415A5A3518A">http://dx.doi.org/10.11646/zootaxa.5415.3.7</mods:url>
+</mods:location>
+<mods:classification id="2B4D15EBE117F81331708983B82423BF">journal article</mods:classification>
+<mods:identifier id="EE34D302CDE86B15A6A194FDE760149F" type="CLB-Dataset">289250</mods:identifier>
+<mods:identifier id="515CB0E93B88A6A7E0DD3AB33A7A9466" type="DOI">10.11646/zootaxa.5415.3.7</mods:identifier>
+<mods:identifier id="EBAA447BC7B98B036E5488576FC64697" type="GBIF-Dataset">17cfac16-74d0-423c-a202-7842983ece06</mods:identifier>
+<mods:identifier id="759F886D37AEE55C8AC3C2D785B8D952" type="ISSN">1175-5326</mods:identifier>
+<mods:identifier id="F1D842AFE11C83DC75930DF8FD8CEC46" type="Zenodo-Dep">10693430</mods:identifier>
+<mods:identifier id="85B76495002EA0CCA89BF637FAA62CB3" type="ZooBank">2DB4CC1C-63B8-47BF-A3DB-2B9C9E680EF2</mods:identifier>
+</mods:mods>
+<subSection id="300C2F0EFF821535FF5BFEE2DE03FD1B" _generate="added" pageId="0" pageNumber="477" type="multiple">
+<paragraph id="593C36E5FF821535FF5BFEE2D9AFFE23" blockId="0.[151,1351,354,434]" pageId="0" pageNumber="477">
+<emphasis id="6BF7EAF7FF821535FF5BFEE2D9AFFE23" bold="true" pageId="0" pageNumber="477">
+<docTitle id="1C99CF8BFF821535FF5BFEE2D9AFFE23" pageId="0" pageNumber="477">
+Description of a new species of the genus 
+<taxonomicName id="9E834D66FF821535FCEBFEE3DF54FE16" _authorityPlausibility="0.99919677" _evidence="label" _plausibility="0.85848343" _step="labeledHigher" authority="Cockerell &amp; Bueker" authorityName="Cockerell &amp; Bueker" box="[807,1351,354,388]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FCEBFEE3DE12FE16" bold="true" box="[807,1025,354,388]" italics="true" pageId="0" pageNumber="477">Paralecanium</emphasis>
+Cockerell &amp; Bueker
+</taxonomicName>
+(
+<taxonomicName id="9E834D66FF821535FF6DFE11DB46FE20" _evidence="catalogs" _step="order" box="[161,341,400,434]" class="Insecta" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="order">Hemiptera</taxonomicName>
+: Coccomorpha: 
+<taxonomicName id="9E834D66FF821535FD97FE11D8FCFE20" _evidence="catalogs" _step="family" box="[603,751,400,434]" class="Insecta" family="Coccidae" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="family">Coccidae</taxonomicName>
+) from 
+<collectingCountry id="21947675FF821535FC96FE11D9AFFE23" box="[858,956,400,433]" name="China" pageId="0" pageNumber="477">China</collectingCountry>
+</docTitle>
+</emphasis>
+</paragraph>
+<paragraph id="593C36E5FF821535FF5BFE5FD92BFE7E" blockId="0.[151,1436,478,649]" box="[151,824,478,504]" pageId="0" pageNumber="477">
+<docAuthor id="F2EB3768FF821535FF5BFE5FDB4DFE6A" box="[151,350,478,504]" pageId="0" pageNumber="477">ZHIXIANG TAN</docAuthor>
+<superScript id="AEF69BADFF821535FE92FE5FDB61FE7E" attach="left" box="[350,370,478,492]" fontSize="6" pageId="0" pageNumber="477">1,2</superScript>
+, 
+<docAuthor id="F2EB3768FF821535FE4CFE5FD82DFE6A" box="[384,574,478,504]" pageId="0" pageNumber="477">SHITAO MENG</docAuthor>
+<superScript id="AEF69BADFF821535FDF2FE5FD841FE7E" attach="left" box="[574,594,478,492]" fontSize="6" pageId="0" pageNumber="477">1,3</superScript>
+&amp; 
+<docAuthor id="F2EB3768FF821535FDBFFE5FD937FE6A" box="[627,804,478,504]" pageId="0" pageNumber="477">JICHUN XING</docAuthor>
+<superScript id="AEF69BADFF821535FCE8FE5FD92BFE7E" attach="left" box="[804,824,478,492]" fontSize="6" pageId="0" pageNumber="477">1,*</superScript>
+</paragraph>
+<paragraph id="593C36E5FF821535FF5BFE7FD8FBFDA3" blockId="0.[151,1436,478,649]" pageId="0" pageNumber="477">
+<emphasis id="6BF7EAF7FF821535FF5BFE7FD8FBFDA3" italics="true" pageId="0" pageNumber="477">
+<superScript id="AEF69BADFF821535FF5BFE7FDA8DFD98" attach="right" box="[151,158,510,522]" fontSize="5" pageId="0" pageNumber="477">1</superScript>
+<docAuthorAffiliation id="419CF986FF821535FF52FD81D8FBFDA3" pageId="0" pageNumber="477">
+Institute of Entomology, 
+<collectingRegion id="9B47F807FF821535FE5AFE7EDBF4FD86" box="[406,487,511,532]" country="China" name="Guizhou" pageId="0" pageNumber="477">Guizhou</collectingRegion>
+University; The Provincial Special Key Laboratory for Development and Utilization of Insect Resources, 
+<collectingRegion id="9B47F807FF821535FEC9FD9DDB45FDA3" box="[261,342,540,561]" country="China" name="Guizhou" pageId="0" pageNumber="477">Guizhou</collectingRegion>
+University; Guiyang, 550025 P. R. 
+<collectingCountry id="21947675FF821535FD61FD9DD8FBFDA3" box="[685,744,540,561]" name="China" pageId="0" pageNumber="477">China</collectingCountry>
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="593C36E5FF821535FF5BFDB8D949FDDD" blockId="0.[151,1436,478,649]" box="[151,858,569,591]" pageId="0" pageNumber="477">
+<emphasis id="6BF7EAF7FF821535FF5BFDB8DA8DFDD7" box="[151,158,569,581]" italics="true" pageId="0" pageNumber="477">
+<superScript id="AEF69BADFF821535FF5BFDB8DA8DFDD7" attach="left" box="[151,158,569,581]" fontSize="5" pageId="0" pageNumber="477">2</superScript>
+</emphasis>
+Ễ 
+<emphasis id="6BF7EAF7FF821535FF71FDB8D949FDDD" box="[189,858,569,591]" italics="true" pageId="0" pageNumber="477">
+tanzhixiang154@126.com; https://orcid.org/ 
+<docAuthorORCID id="010C2753FF821535FD49FDBBD949FDDD" box="[645,858,570,591]" pageId="0" pageNumber="477">0000-0002-9754-8341</docAuthorORCID>
+</emphasis>
+</paragraph>
+<paragraph id="593C36E5FF821535FF5BFDD7D97BFDFE" blockId="0.[151,1436,478,649]" box="[151,872,598,620]" pageId="0" pageNumber="477">
+<emphasis id="6BF7EAF7FF821535FF5BFDD7DA8DFDF0" box="[151,158,598,610]" italics="true" pageId="0" pageNumber="477">
+<superScript id="AEF69BADFF821535FF5BFDD7DA8DFDF0" attach="left" box="[151,158,598,610]" fontSize="5" pageId="0" pageNumber="477">3</superScript>
+</emphasis>
+Ễ 
+<emphasis id="6BF7EAF7FF821535FF71FDD6D97BFDFE" box="[189,872,599,620]" italics="true" pageId="0" pageNumber="477">
+Meng206790337@126.com; https://orcid.org/ 
+<docAuthorORCID id="010C2753FF821535FD58FDD6D97BFDFE" box="[660,872,599,620]" pageId="0" pageNumber="477">0000-0001-7641-5729</docAuthorORCID>
+</emphasis>
+</paragraph>
+<paragraph id="593C36E5FF821535FF5BFDF5DE03FD1B" blockId="0.[151,1436,478,649]" box="[151,1040,628,649]" pageId="0" pageNumber="477">
+<emphasis id="6BF7EAF7FF821535FF5BFDF5DB6FFD1B" box="[151,380,628,649]" italics="true" pageId="0" pageNumber="477">
+<superScript id="AEF69BADFF821535FF5BFDF5DA8DFD12" attach="right" box="[151,158,628,640]" fontSize="5" pageId="0" pageNumber="477">*</superScript>
+Corresponding author:
+</emphasis>
+Ễ 
+<emphasis id="6BF7EAF7FF821535FE6DFDF5DE03FD1B" box="[417,1040,628,649]" italics="true" pageId="0" pageNumber="477">xingjichun@126.com; https://orcid.org/0000-0002-3738-7996</emphasis>
+</paragraph>
+</subSection>
+<subSection id="300C2F0EFF821535FF5BFD5DD86CFC64" _generate="added" pageId="0" pageNumber="477" type="abstract">
+<paragraph id="593C36E5FF821535FF5BFD5DDB17FD64" blockId="0.[151,260,732,758]" box="[151,260,732,758]" pageId="0" pageNumber="477">
+<heading id="02748189FF821535FF5BFD5DDB17FD64" bold="true" box="[151,260,732,758]" fontSize="11" level="1" pageId="0" pageNumber="477" reason="1">
+<emphasis id="6BF7EAF7FF821535FF5BFD5DDB17FD64" bold="true" box="[151,260,732,758]" pageId="0" pageNumber="477">Abstract</emphasis>
+</heading>
+</paragraph>
+<paragraph id="593C36E5FF821535FF5BFC9ED86CFC64" blockId="0.[151,1437,798,1014]" pageId="0" pageNumber="477">
+A new species of soft scale insect (
+<taxonomicName id="9E834D66FF821535FDC5FC9FD86CFCA4" _evidence="catalogs" _step="order" box="[521,639,798,822]" class="Insecta" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="order">Hemiptera</taxonomicName>
+: Coccomorpha: 
+<taxonomicName id="9E834D66FF821535FCE0FC9FD982FCA4" _evidence="catalogs" _step="family" box="[812,913,798,822]" class="Insecta" family="Coccidae" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="family">Coccidae</taxonomicName>
+) belonging to the genus 
+<taxonomicName id="9E834D66FF821535FB5BFC9FDB10FCC4" _authorityPlausibility="0.99919677" _evidence="label" _plausibility="0.85848343" _step="labeledHigher" authority="Cockerell &amp; Bueker" authorityName="Cockerell &amp; Bueker" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FB5BFC9FDF3DFCA4" box="[1175,1326,798,822]" italics="true" pageId="0" pageNumber="477">Paralecanium</emphasis>
+Cockerell &amp; Bueker
+</taxonomicName>
+, 
+<taxonomicName id="9E834D66FF821535FEC2FCBED824FCC4" _authorityPlausibility="0.99741507" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Tan, Meng &amp; Xing" authorityName="Tan, Meng &amp; Xing" authorityYear="2024" box="[270,567,830,855]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="species" species="sabia" status="sp. n.">
+<emphasis id="6BF7EAF7FF821535FEC2FCBEDB70FCC4" box="[270,355,830,854]" italics="true" pageId="0" pageNumber="477">P. sabia</emphasis>
+Tan, Meng &amp; Xing
+</taxonomicName>
+<emphasis id="6BF7EAF7FF821535FDF3FCBED868FCC5" bold="true" box="[575,635,831,855]" pageId="0" pageNumber="477">
+<taxonomicNameLabel id="70C4578CFF821535FDF3FCBED868FCC5" box="[575,635,831,855]" pageId="0" pageNumber="477" rank="species">sp. n.</taxonomicNameLabel>
+</emphasis>
+, is described and illustrated. It was found on the leaves of 
+<emphasis id="6BF7EAF7FF821535FB35FCBFDF8FFCC4" box="[1273,1436,830,854]" italics="true" pageId="0" pageNumber="477">Sabia swinhoei</emphasis>
+Hemsl (
+<taxonomicName id="9E834D66FF821535FF22FCDFDB4FFCE4" _evidence="catalogs" _step="family" box="[238,348,862,886]" class="Magnoliopsida" family="Sabiaceae" kingdom="Plantae" order="Proteales" pageId="0" pageNumber="477" phylum="Tracheophyta" rank="family">Sabiaceae</taxonomicName>
+) in 
+<collectingRegion id="9B47F807FF821535FE47FCDFDBF4FCE4" box="[395,487,862,886]" country="China" name="Guizhou" pageId="0" pageNumber="477">Guizhou</collectingRegion>
+Maolan National Nature Reserve, 
+<collectingRegion id="9B47F807FF821535FCA7FCDFDE21FCE4" box="[875,1074,862,886]" country="China" name="Guizhou" pageId="0" pageNumber="477">Guizhou Province</collectingRegion>
+, 
+<collectingCountry id="21947675FF821535FB8CFCDFDE90FCE4" box="[1088,1155,862,886]" name="China" pageId="0" pageNumber="477">China</collectingCountry>
+. Habitat photographs and illustrations are provided. The 
+<typeStatus id="86388847FF821535FE22FCFED80FFC05" box="[494,540,895,919]" pageId="0" pageNumber="477">type</typeStatus>
+material of 
+<taxonomicName id="9E834D66FF821535FD65FCFED912FC04" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Tan &amp; Meng &amp; Xing, 2024" authorityName="Tan &amp; Meng &amp; Xing" authorityYear="2024" box="[681,769,894,918]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="species" species="sabia" status="sp. n.">
+<emphasis id="6BF7EAF7FF821535FD65FCFED912FC04" box="[681,769,894,918]" italics="true" pageId="0" pageNumber="477">P. sabia</emphasis>
+</taxonomicName>
+<emphasis id="6BF7EAF7FF821535FCC7FCFED959FC05" bold="true" box="[779,842,895,919]" pageId="0" pageNumber="477">
+<taxonomicNameLabel id="70C4578CFF821535FCC7FCFED959FC05" box="[779,842,895,919]" pageId="0" pageNumber="477" rank="species">sp. n.</taxonomicNameLabel>
+</emphasis>
+is deposited at the Institute of Entomology, 
+<collectingRegion id="9B47F807FF821535FA8CFCFFDF8FFC04" box="[1344,1436,894,918]" country="China" name="Guizhou" pageId="0" pageNumber="477">Guizhou</collectingRegion>
+University, Guiyang, 
+<collectingCountry id="21947675FF821535FE4AFC1FDBD5FC24" box="[390,454,926,950]" name="China" pageId="0" pageNumber="477">China</collectingCountry>
+(
+<collectionCode id="3F92AE20FF821535FE14FC1ED834FC25" box="[472,551,927,951]" pageId="0" pageNumber="477">GUGC</collectionCode>
+) and in the insect collection at the Department of Forestry Protection, 
+<collectingRegion id="9B47F807FF821535FA82FC1FDF8EFC24" box="[1358,1437,926,950]" country="China" name="Beijing" pageId="0" pageNumber="477">Beijing</collectingRegion>
+Forestry University, 
+<collectingRegion id="9B47F807FF821535FEB8FC3FDBD6FC44" box="[372,453,958,982]" country="China" name="Beijing" pageId="0" pageNumber="477">Beijing</collectingRegion>
+, 
+<collectingCountry id="21947675FF821535FE1CFC3FD803FC44" box="[464,528,958,982]" name="China" pageId="0" pageNumber="477">China</collectingCountry>
+(
+<collectionCode id="3F92AE20FF821535FDD2FC3ED878FC45" box="[542,619,959,983]" pageId="0" pageNumber="477">NFUC</collectionCode>
+). An identification key to separate the 28 species in 
+<taxonomicName id="9E834D66FF821535FB55FC3FDF23FC44" _evidence="document" _step="docGenera" box="[1177,1328,958,982]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FB55FC3FDF23FC44" box="[1177,1328,958,982]" italics="true" pageId="0" pageNumber="477">Paralecanium</emphasis>
+</taxonomicName>
+, based on the morphology of adult females, is provided.
+</paragraph>
+</subSection>
+<subSection id="300C2F0EFF821535FF5BFB9EDE1BFBA4" _generate="added" box="[151,1032,1054,1079]" pageId="0" pageNumber="477" type="key_words">
+<paragraph id="593C36E5FF821535FF5BFB9EDE1BFBA4" blockId="0.[151,1032,1054,1079]" box="[151,1032,1054,1079]" pageId="0" pageNumber="477">
+<emphasis id="6BF7EAF7FF821535FF5BFB9EDB09FBA5" bold="true" box="[151,282,1055,1079]" pageId="0" pageNumber="477">Key words:</emphasis>
+<keyWord id="E2756D82FF821535FEEDFB9FDBDBFBA4" box="[289,456,1054,1078]" pageId="0" pageNumber="477">Sternorrhyncha</keyWord>
+, 
+<keyWord id="E2756D82FF821535FE1FFB9FD86DFBA4" box="[467,638,1054,1078]" pageId="0" pageNumber="477">soft scale insect</keyWord>
+, 
+<keyWord id="E2756D82FF821535FD45FB9FD91FFBA4" box="[649,780,1054,1078]" pageId="0" pageNumber="477">morphology</keyWord>
+, 
+<keyWord id="E2756D82FF821535FCDBFB9ED990FBA5" box="[791,899,1055,1079]" pageId="0" pageNumber="477">taxonomy</keyWord>
+, 
+<keyWord id="E2756D82FF821535FC41FB9FDE1BFBA4" box="[909,1032,1054,1078]" pageId="0" pageNumber="477">distribution</keyWord>
+</paragraph>
+</subSection>
+<subSection id="300C2F0EFF821535FF5BFB09D83EF829" _generate="added" pageId="0" pageNumber="477" type="introduction">
+<paragraph id="593C36E5FF821535FF5BFB09DB25FB30" blockId="0.[151,310,1160,1186]" box="[151,310,1160,1186]" pageId="0" pageNumber="477">
+<heading id="02748189FF821535FF5BFB09DB25FB30" bold="true" box="[151,310,1160,1186]" fontSize="11" level="1" pageId="0" pageNumber="477" reason="1">
+<emphasis id="6BF7EAF7FF821535FF5BFB09DB25FB30" bold="true" box="[151,310,1160,1186]" pageId="0" pageNumber="477">Introduction</emphasis>
+</heading>
+</paragraph>
+<paragraph id="593C36E5FF821535FF5BFB50D826FAE8" blockId="0.[151,1437,1233,1979]" pageId="0" pageNumber="477">
+The scale insects (
+<taxonomicName id="9E834D66FF821535FEA9FB50DBF2FB79" _evidence="catalogs" _step="order" box="[357,481,1233,1259]" class="Insecta" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="order">Hemiptera</taxonomicName>
+: Sternorrhyncha; Coccomorpha) are sap-sucking plant parasites that can weaken and even kill hosts by depleting their nutrients. Some scale insects feed on a wide variety of plants, can be spread through trade, and are serious pests of agriculture, horticulture and forestry. The family of soft scale insects (
+<taxonomicName id="9E834D66FF821535FAC2FA98DF69FAA1" _evidence="catalogs" _step="family" box="[1294,1402,1305,1331]" class="Insecta" family="Coccidae" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="family">Coccidae</taxonomicName>
+) is the third largest in the Coccomorpha; it has a worldwide distribution, and currently includes 178 genera and 1233 species (
+<bibRefCitation id="3D124B14FF821535FF3BFAE0D83AFAE8" author="Garcia Morales, M. &amp; Denno, B. D. &amp; Miller, D. R. &amp; Miller, G. L. &amp; Ben-Dov, Y. &amp; Hardy, N. B." box="[247,553,1376,1403]" pageId="0" pageNumber="477" refId="ref7345" refString="Garcia Morales, M., Denno, B. D., Miller, D. R., Miller, G. L., Ben-Dov, Y. &amp; Hardy, N. B. (2016) ScaleNet: a literature-based model of scale insect biology and systematics. Database. Available from: http: // scalenet. info (accessed 17 November 2023)" type="url" year="2016">
+García Morales 
+<emphasis id="6BF7EAF7FF821535FE61FAE0DBCDFAE9" box="[429,478,1377,1403]" italics="true" pageId="0" pageNumber="477">et al</emphasis>
+. 2016
+</bibRefCitation>
+).
+</paragraph>
+<paragraph id="593C36E5FF821535FF0BFA04D899F9BD" blockId="0.[151,1437,1233,1979]" pageId="0" pageNumber="477">
+Within the 
+<taxonomicName id="9E834D66FF821535FE88FA04DBBCFA0D" _evidence="catalogs" _step="family" box="[324,431,1413,1439]" class="Insecta" family="Coccidae" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="family">Coccidae</taxonomicName>
+, the genus 
+<taxonomicName id="9E834D66FF821535FDE7FA04D8D9FA0D" _evidence="label" _plausibility="0.85848343" _step="labeledHigher" box="[555,714,1413,1439]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FDE7FA04D8D9FA0D" box="[555,714,1413,1439]" italics="true" pageId="0" pageNumber="477">Paralecanium</emphasis>
+</taxonomicName>
+was established by 
+<bibRefCitation id="3D124B14FF821535FC64FA04DEC8FA0D" author="Cockerell, T. D. A. &amp; Bueker, E. D." box="[936,1243,1413,1439]" pageId="0" pageNumber="477" pagination="1 - 8" refId="ref7267" refString="Cockerell, T. D. A. &amp; Bueker, E. D. (1930) New records of Coccidae (Homoptera). American Museum Novitates, New York, 424, 1 - 8." type="journal article" year="1930">Cockerell &amp; Bueker (1930)</bibRefCitation>
+to take soft scale species with fan-like marginal setae. Since then, many species have been added to the genus; however, most of them were described in the first half of the twentieth century and are extremely difficult to identify based on the original descriptions (
+<bibRefCitation id="3D124B14FF821535FEE0FA70D84FF999" author="Hodgson, C. J. &amp; Williams, D. J." box="[300,604,1521,1547]" pageId="0" pageNumber="477" pagination="1 - 162" refId="ref7441" refString="Hodgson, C. J. &amp; Williams, D. J. (2018) Revision of the soft scale genus Paralecanium (Hemiptera: Coccomorpha: Coccidae) with the introduction of three new genera and twenty new species. Zootaxa, 4443 (1), 1 - 162. https: // doi. org / 10.11646 / zootaxa. 4443.1.1" type="journal article" year="2018">Hodgson &amp; Williams 2018</bibRefCitation>
+). The known species in the genus appear to restricted to Eastern Asia (
+<collectingCountry id="21947675FF821535FAADFA70DF8FF999" box="[1377,1436,1521,1547]" name="India" pageId="0" pageNumber="477">India</collectingCountry>
+and 
+<collectingCountry id="21947675FF821535FF0BF994DB25F9BD" box="[199,310,1557,1583]" name="Sri Lanka" pageId="0" pageNumber="477">Sri Lanka</collectingCountry>
+) and eastwards to Australasia.
+</paragraph>
+<paragraph id="593C36E5FF821535FF0BF9B8D91CF8B9" blockId="0.[151,1437,1233,1979]" pageId="0" pageNumber="477">
+Prior to the revision of 
+<taxonomicName id="9E834D66FF821535FE0AF9B8D876F9C1" _evidence="document" _step="docGenera" box="[454,613,1593,1619]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FE0AF9B8D876F9C1" box="[454,613,1593,1619]" italics="true" pageId="0" pageNumber="477">Paralecanium</emphasis>
+</taxonomicName>
+by 
+<bibRefCitation id="3D124B14FF821535FD41F9B8D9DFF9C1" author="Hodgson, C. J. &amp; Williams, D. J." box="[653,972,1593,1619]" pageId="0" pageNumber="477" pagination="1 - 162" refId="ref7441" refString="Hodgson, C. J. &amp; Williams, D. J. (2018) Revision of the soft scale genus Paralecanium (Hemiptera: Coccomorpha: Coccidae) with the introduction of three new genera and twenty new species. Zootaxa, 4443 (1), 1 - 162. https: // doi. org / 10.11646 / zootaxa. 4443.1.1" type="journal article" year="2018">Hodgson &amp; Williams (2018)</bibRefCitation>
+, 34 species and subspecies were placed in the genus. Of these, 
+<bibRefCitation id="3D124B14FF821535FEBBF9DCD8A7F9E5" author="Hodgson, C. J. &amp; Williams, D. J." box="[375,692,1629,1655]" pageId="0" pageNumber="477" pagination="1 - 162" refId="ref7441" refString="Hodgson, C. J. &amp; Williams, D. J. (2018) Revision of the soft scale genus Paralecanium (Hemiptera: Coccomorpha: Coccidae) with the introduction of three new genera and twenty new species. Zootaxa, 4443 (1), 1 - 162. https: // doi. org / 10.11646 / zootaxa. 4443.1.1" type="journal article" year="2018">Hodgson &amp; Williams (2018)</bibRefCitation>
+transferred 14 to their new genus 
+<taxonomicName id="9E834D66FF821535FBE0F9DCDEA0F9E5" _evidence="catalogs" _step="genera" authorityName="Hodgson &amp; Williams" authorityYear="2018" box="[1068,1203,1629,1655]" class="Insecta" family="Coccidae" genus="Discochiton" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FBE0F9DCDEA0F9E5" box="[1068,1203,1629,1655]" italics="true" pageId="0" pageNumber="477">Discochiton</emphasis>
+</taxonomicName>
+. From the remaining 20 species in 
+<taxonomicName id="9E834D66FF821535FEFBF900DBC5F909" _evidence="document" _step="docGenera" box="[311,470,1665,1691]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FEFBF900DBC5F909" box="[311,470,1665,1691]" italics="true" pageId="0" pageNumber="477">Paralecanium</emphasis>
+</taxonomicName>
+, three were then sunk as synonyms and another species was moved to another new genus, 
+<taxonomicName id="9E834D66FF821535FF24F924DB69F92C" _evidence="catalogs" _step="genera" authorityName="Hodgson &amp; Williams" authorityYear="2018" box="[232,378,1701,1726]" class="Insecta" family="Coccidae" genus="Mariacoccus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FF24F924DB69F92C" box="[232,378,1701,1726]" italics="true" pageId="0" pageNumber="477">Mariacoccus</emphasis>
+</taxonomicName>
+, unrelated to 
+<taxonomicName id="9E834D66FF821535FDD5F924D8ABF92D" _evidence="document" _step="docGenera" box="[537,696,1701,1727]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FDD5F924D8ABF92D" box="[537,696,1701,1727]" italics="true" pageId="0" pageNumber="477">Paralecanium</emphasis>
+</taxonomicName>
+. This left just 16 species in 
+<taxonomicName id="9E834D66FF821535FC31F924DE8FF92D" _evidence="document" _step="docGenera" box="[1021,1180,1701,1727]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FC31F924DE8FF92D" box="[1021,1180,1701,1727]" italics="true" pageId="0" pageNumber="477">Paralecanium</emphasis>
+</taxonomicName>
+. 
+<bibRefCitation id="3D124B14FF821535FB67F924DAF1F971" author="Hodgson, C. J. &amp; Williams, D. J." pageId="0" pageNumber="477" pagination="1 - 162" refId="ref7441" refString="Hodgson, C. J. &amp; Williams, D. J. (2018) Revision of the soft scale genus Paralecanium (Hemiptera: Coccomorpha: Coccidae) with the introduction of three new genera and twenty new species. Zootaxa, 4443 (1), 1 - 162. https: // doi. org / 10.11646 / zootaxa. 4443.1.1" type="journal article" year="2018">Hodgson &amp; Williams (2018)</bibRefCitation>
+then described 11 new species, raising the total number of species in 
+<taxonomicName id="9E834D66FF821535FC21F948DE9FF971" _evidence="document" _step="docGenera" box="[1005,1164,1737,1763]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FC21F948DE9FF971" box="[1005,1164,1737,1763]" italics="true" pageId="0" pageNumber="477">Paralecanium</emphasis>
+</taxonomicName>
+to 27 and restricting the genus to south-east Asia and Australasia. Based on these changes, 
+<taxonomicName id="9E834D66FF821535FC45F96CDE3BF895" _evidence="document" _step="docGenera" box="[905,1064,1773,1799]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FC45F96CDE3BF895" box="[905,1064,1773,1799]" italics="true" pageId="0" pageNumber="477">Paralecanium</emphasis>
+</taxonomicName>
+was recharacterised, introducing some new important diagnostic characters for the genus.
+</paragraph>
+<paragraph id="593C36E5FF821535FF0BF8B4D83EF829" blockId="0.[151,1437,1233,1979]" pageId="0" pageNumber="477">
+In the present paper, we describe a new species, 
+<taxonomicName id="9E834D66FF821535FD2FF8B4DE8CF8DD" _authorityPlausibility="0.99741507" _evidence="statusLabel" _step="newLabel1" authority="Tan, Meng &amp; Xing" authorityName="Tan, Meng &amp; Xing" authorityYear="2024" box="[739,1183,1845,1871]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="species" species="sabia" status="sp. nov.">
+<emphasis id="6BF7EAF7FF821535FD2FF8B4D9D6F8DD" box="[739,965,1845,1871]" italics="true" pageId="0" pageNumber="477">Paralecanium sabia</emphasis>
+Tan, Meng &amp; Xing
+</taxonomicName>
+<emphasis id="6BF7EAF7FF821535FB69F8B4DEF7F8DD" bold="true" box="[1189,1252,1845,1871]" pageId="0" pageNumber="477">
+<taxonomicNameLabel id="70C4578CFF821535FB69F8B4DEF7F8DD" box="[1189,1252,1845,1871]" pageId="0" pageNumber="477" rank="species">sp. n.</taxonomicNameLabel>
+</emphasis>
+, found on 
+<emphasis id="6BF7EAF7FF821535FA90F8B4DAE8F8E1" italics="true" pageId="0" pageNumber="477">Sabia swinhoei</emphasis>
+Hemsl (
+<taxonomicName id="9E834D66FF821535FE90F8D8DBDCF8E1" _evidence="catalogs" _step="family" box="[348,463,1881,1907]" class="Magnoliopsida" family="Sabiaceae" kingdom="Plantae" order="Proteales" pageId="0" pageNumber="477" phylum="Tracheophyta" rank="family">Sabiaceae</taxonomicName>
+) in 
+<collectingRegion id="9B47F807FF821535FE32F8D8D872F8E1" box="[510,609,1881,1907]" country="China" name="Guizhou" pageId="0" pageNumber="477">Guizhou</collectingRegion>
+, 
+<collectingCountry id="21947675FF821535FDA1F8D8D8A0F8E1" box="[621,691,1881,1907]" name="China" pageId="0" pageNumber="477">China</collectingCountry>
+, bringing the total number of species in 
+<taxonomicName id="9E834D66FF821535FB4DF8D8DF33F8E1" _evidence="document" _step="docGenera" box="[1153,1312,1881,1907]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FB4DF8D8DF33F8E1" box="[1153,1312,1881,1907]" italics="true" pageId="0" pageNumber="477">Paralecanium</emphasis>
+</taxonomicName>
+to 28. The new species is the first record of 
+<taxonomicName id="9E834D66FF821535FDD2F8FCD895F805" _evidence="catalogs" _step="family" box="[542,646,1917,1943]" class="Insecta" family="Coccidae" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="family">Coccidae</taxonomicName>
+on plants belonging to the family 
+<taxonomicName id="9E834D66FF821535FBD0F8FCDE9CF805" _evidence="catalogs" _step="family" box="[1052,1167,1917,1943]" class="Magnoliopsida" family="Sabiaceae" kingdom="Plantae" order="Proteales" pageId="0" pageNumber="477" phylum="Tracheophyta" rank="family">Sabiaceae</taxonomicName>
+, and the first record of 
+<taxonomicName id="9E834D66FF821535FF5BF820DB25F829" _evidence="document" _step="docGenera" box="[151,310,1953,1979]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="477" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF821535FF5BF820DB25F829" box="[151,310,1953,1979]" italics="true" pageId="0" pageNumber="477">Paralecanium</emphasis>
+</taxonomicName>
+in South-West 
+<collectingCountry id="21947675FF821535FE2FF820D839F829" box="[483,554,1953,1979]" name="China" pageId="0" pageNumber="477">China</collectingCountry>
+.
+</paragraph>
+</subSection>
+<subSection id="300C2F0EFF831534FF5BFF16D96CFCCF" _generate="added" pageId="1" pageNumber="478" type="materials_methods">
+<paragraph id="593C36E5FF831534FF5BFF16DBABFF23" blockId="1.[151,440,151,177]" box="[151,440,151,177]" pageId="1" pageNumber="478">
+<heading id="02748189FF831534FF5BFF16DBABFF23" bold="true" box="[151,440,151,177]" fontSize="11" level="1" pageId="1" pageNumber="478" reason="1">
+<emphasis id="6BF7EAF7FF831534FF5BFF16DBABFF23" bold="true" box="[151,440,151,177]" pageId="1" pageNumber="478">Materials and methods</emphasis>
+</heading>
+</paragraph>
+<paragraph id="593C36E5FF831534FF5BFF5EDEC5FE64" blockId="1.[151,1437,223,862]" pageId="1" pageNumber="478">
+The specimens described in this study were collected from leaves of 
+<emphasis id="6BF7EAF7FF831534FC1FFF5EDE91FF6B" box="[979,1154,223,249]" italics="true" pageId="1" pageNumber="478">Sabia swinhoei</emphasis>
+(
+<taxonomicName id="9E834D66FF831534FB5AFF5EDF1AFF6B" _evidence="catalogs" _step="family" box="[1174,1289,223,249]" class="Magnoliopsida" family="Sabiaceae" kingdom="Plantae" order="Proteales" pageId="1" pageNumber="478" phylum="Tracheophyta" rank="family">Sabiaceae</taxonomicName>
+) growing in 
+<collectingRegion id="9B47F807FF831534FF5BFE82DAE4FE8F" box="[151,247,259,285]" country="China" name="Guizhou" pageId="1" pageNumber="478">Guizhou</collectingRegion>
+Maolan National Nature Reserve, in South-West 
+<collectingCountry id="21947675FF831534FCFEFE82D96AFE8F" box="[818,889,259,285]" name="China" pageId="1" pageNumber="478">China</collectingCountry>
+. Leaves infested with the scale insects were cut with secateurs and kept in covered plastic containers. On return to the laboratory, photographs of the live insects were taken using a Canon EOS 80D camera. Adult female scales were then preserved in vials containing 75% ethanol for subsequent preparation on microscope slides. Adult female specimens were slide-mounted following the method described by 
+<bibRefCitation id="3D124B14FF831534FE72FE12D990FE3F" author="Williams, D. J. &amp; Granara de Willink, M. C." box="[446,899,403,429]" pageId="1" pageNumber="478" refId="ref7594" refString="Williams, D. J. &amp; Granara de Willink, M. C. (1992) Mealybugs of Central and South America. CAB International, Wallingford, 635 pp." type="book" year="1992">Williams &amp; Granara de Willink (1992)</bibRefCitation>
+. Slide-mounted adults were examined under a Nikon SMZ800N stereomicroscope, and OLYMPUS CX41 and Leica DM2500 compound light microscopes. The photomicrographs of adult females were captured using a KEYENCE VHX-6000 digital camera.
+</paragraph>
+<paragraph id="593C36E5FF831534FF0BFE7EDE6EFDF3" blockId="1.[151,1437,223,862]" pageId="1" pageNumber="478">
+The description of the adult female is based on seven slide-mounted specimens. Total body length is given in millimeters (mm), whereas all other measurements are provided in micrometers (μm). Measurements are given as a range for all the available specimens, followed by the 
+<typeStatus id="86388847FF831534FD3AFDC6D94BFDF3" box="[758,856,583,609]" pageId="1" pageNumber="478" type="holotype">holotype</typeStatus>
+measurement in brackets.
+</paragraph>
+<paragraph id="593C36E5FF831534FF0BFDEAD84FFD5F" blockId="1.[151,1437,223,862]" pageId="1" pageNumber="478">Each taxonomic illustration shows features of the dorsal surface on the left side and those of the ventral surface on the right side. Important details are enlarged and placed around the perimeter of the main figure; they are not drawn in direct proportion to each other.</paragraph>
+<paragraph id="593C36E5FF831534FF0BFD56D96CFCCF" blockId="1.[151,1437,223,862]" pageId="1" pageNumber="478">
+The type specimens of the new species are deposited at the Institute of Entomology, 
+<collectingRegion id="9B47F807FF831534FB79FD56DF06FD63" box="[1205,1301,727,753]" country="China" name="Guizhou" pageId="1" pageNumber="478">Guizhou</collectingRegion>
+University, Guiyang, 
+<collectingCountry id="21947675FF831534FEC4FD7ADB58FC87" box="[264,331,763,789]" name="China" pageId="1" pageNumber="478">China</collectingCountry>
+(
+<collectionCode id="3F92AE20FF831534FE90FD7ADBBCFC87" box="[348,431,763,789]" pageId="1" pageNumber="478">GUGC</collectionCode>
+) and in the insect collection at the Department of Forestry Protection, 
+<collectingRegion id="9B47F807FF831534FB2FFD7ADF26FC87" box="[1251,1333,763,789]" country="China" name="Beijing" pageId="1" pageNumber="478">Beijing</collectingRegion>
+Forestry University, 
+<collectingRegion id="9B47F807FF831534FED7FC9EDB63FCAB" box="[283,368,799,825]" country="China" name="Beijing" pageId="1" pageNumber="478">Beijing</collectingRegion>
+, 
+<collectingCountry id="21947675FF831534FEB1FC9EDBD3FCAB" box="[381,448,799,825]" name="China" pageId="1" pageNumber="478">China</collectingCountry>
+(
+<collectionCode id="3F92AE20FF831534FE1CFC9ED832FCAB" box="[464,545,799,825]" pageId="1" pageNumber="478">NFUC</collectionCode>
+). The collection data on the 
+<typeStatus id="86388847FF831534FCA8FC9ED9D5FCAB" box="[868,966,799,825]" pageId="1" pageNumber="478" type="holotype">holotype</typeStatus>
+slide is listed below using “/” to indicate the line breaks on the label; the slide labels are written in Chinese.
+</paragraph>
+</subSection>
+<subSection id="300C2F0EFF831534FF5BFC2EDB09FC5B" _generate="added" box="[151,282,943,969]" pageId="1" pageNumber="478" type="multiple">
+<paragraph id="593C36E5FF831534FF5BFC2EDB09FC5B" blockId="1.[151,282,943,969]" box="[151,282,943,969]" pageId="1" pageNumber="478">
+<heading id="02748189FF831534FF5BFC2EDB09FC5B" bold="true" box="[151,282,943,969]" fontSize="11" level="1" pageId="1" pageNumber="478" reason="1">
+<emphasis id="6BF7EAF7FF831534FF5BFC2EDB09FC5B" bold="true" box="[151,282,943,969]" pageId="1" pageNumber="478">Taxonomy</emphasis>
+</heading>
+</paragraph>
+</subSection>
+<treatment id="D12A87F3FF831537FF5BFC76DE37FE67" ID-DOI="http://doi.org/10.5281/zenodo.10693412" ID-GBIF-Taxon="221744754" ID-Zenodo-Dep="10693412" _generate="added" lastPageId="2" lastPageNumber="479" pageId="1" pageNumber="478">
+<subSubSection id="1199656EFF831534FF5BFC76D80AFB83" _generate="retained" box="[151,537,1015,1042]" pageId="1" pageNumber="478" type="nomenclature">
+<paragraph id="593C36E5FF831534FF5BFC76D80AFB83" blockId="1.[151,537,1015,1042]" box="[151,537,1015,1042]" pageId="1" pageNumber="478">
+<heading id="02748189FF831534FF5BFC76D80AFB83" bold="true" box="[151,537,1015,1042]" fontSize="11" level="1" pageId="1" pageNumber="478" reason="1">
+<emphasis id="6BF7EAF7FF831534FF5BFC76D80AFB83" bold="true" box="[151,537,1015,1042]" pageId="1" pageNumber="478">
+Genus 
+<taxonomicName id="9E834D66FF831534FF22FC76D80AFB83" ID-CoL="6F6N" ID-ENA="759724" _authorityPlausibility="0.9985107" _evidence="label" _plausibility="0.85848343" _step="labeledHigher" authority="Cockerell" authorityName="Cockerell" box="[238,537,1015,1042]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="478" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF831534FF22FC76DB8AFB80" bold="true" box="[238,409,1015,1042]" italics="true" pageId="1" pageNumber="478">Paralecanium</emphasis>
+Cockerell
+</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="1199656EFF831534FF5BFBBDD903FBE0" _generate="added" pageId="1" pageNumber="478" type="reference_group">
+<paragraph id="593C36E5FF831534FF5BFBBDD97EFBC6" blockId="1.[151,1437,1084,1169]" box="[151,877,1084,1108]" pageId="1" pageNumber="478">
+<treatmentCitationGroup id="799311CBFF831534FF5BFBBDD97EFBC6" box="[151,877,1084,1108]" pageId="1" pageNumber="478">
+<taxonomicName id="9E834D66FF831534FF5BFBBDD819FBC6" _authorityPlausibility="0.9985107" _evidence="catalogs" _step="subGenus" authority="Cockerell" authorityName="Cockerell" box="[151,522,1084,1108]" class="Insecta" family="Coccidae" genus="Lecanium" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="478" phylum="Arthropoda" rank="subGenus" subGenus="Paralecanium">
+<emphasis id="6BF7EAF7FF831534FF5BFBBDDBB2FBC6" box="[151,417,1084,1108]" italics="true" pageId="1" pageNumber="478">Lecanium (Paralecanium)</emphasis>
+Cockerell
+</taxonomicName>
+<emphasis id="6BF7EAF7FF831534FDDDFBBDD836FBC1" box="[529,549,1084,1107]" italics="true" pageId="1" pageNumber="478">in</emphasis>
+<treatmentCitation id="D82210F4FF831534FDE7FBBDD97AFBC6" author="Cockerell, T. D. A. &amp; Parrott, P. J." box="[555,873,1084,1108]" page="227" pageId="1" pageNumber="478" year="1899">
+<bibRefCitation id="3D124B14FF831534FDE7FBBDD97AFBC6" author="Cockerell, T. D. A. &amp; Parrott, P. J." box="[555,873,1084,1108]" pageId="1" pageNumber="478" pagination="159 - 165" refId="ref7306" refString="Cockerell, T. D. A. &amp; Parrott, P. J. (1899) Contribution to the knowledge of the Coccidae. The Industrialist, 25, 159 - 165 + 227 - 237." type="journal article" year="1899">Cockerell &amp; Parrott, 1899: 227</bibRefCitation>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="593C36E5FF831534FF5BFBDBD903FBE0" blockId="1.[151,1437,1084,1169]" box="[151,784,1114,1139]" pageId="1" pageNumber="478">
+<treatmentCitationGroup id="799311CBFF831534FF5BFBDBD903FBE0" box="[151,784,1114,1139]" pageId="1" pageNumber="478">
+<taxonomicName id="9E834D66FF831534FF5BFBDBD80CFBE0" ID-CoL="63NKG" _authorityPlausibility="0.9258251" _evidence="catalogs" _step="genera" authority="Tao &amp; Wong, 1983" authorityName="Tao &amp; Wong" authorityYear="1983" box="[151,543,1114,1139]" class="Insecta" family="Coccidae" genus="Podoparalecanium" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="478" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF831534FF5BFBDBDB4AFBE0" box="[151,345,1114,1138]" italics="true" pageId="1" pageNumber="478">Podoparalecanium</emphasis>
+<bibRefCitation id="3D124B14FF831534FE92FBDAD80CFBE0" author="Tao, C. C. C. &amp; Wong, C. Y. &amp; Chang, Y. C." box="[350,543,1114,1139]" pageId="1" pageNumber="478" pagination="57 - 107" refId="ref7540" refString="Tao, C. C. C., Wong, C. Y. &amp; Chang, Y. C. (1983) Monograph of Coccidae of Taiwan, Republic of China (Homoptera: Coccoidea). Journal of Taiwan Museum, 36 (1), 57 - 107." type="journal article" year="1983">Tao &amp; Wong, 1983</bibRefCitation>
+</taxonomicName>
+, 
+<emphasis id="6BF7EAF7FF831534FDE5FBDAD82EFBE0" box="[553,573,1115,1138]" italics="true" pageId="1" pageNumber="478">in</emphasis>
+<treatmentCitation id="D82210F4FF831534FD8DFBDAD91FFBE0" author="Tao, C. C. C. &amp; Wong, C. Y. &amp; Chang, Y. C." box="[577,780,1114,1138]" page="100" pageId="1" pageNumber="478" year="1983">
+<bibRefCitation id="3D124B14FF831534FD8DFBDAD91FFBE0" author="Tao, C. C. C. &amp; Wong, C. Y. &amp; Chang, Y. C." box="[577,780,1114,1138]" pageId="1" pageNumber="478" pagination="57 - 107" refId="ref7540" refString="Tao, C. C. C., Wong, C. Y. &amp; Chang, Y. C. (1983) Monograph of Coccidae of Taiwan, Republic of China (Homoptera: Coccoidea). Journal of Taiwan Museum, 36 (1), 57 - 107." type="journal article" year="1983">
+Tao 
+<emphasis id="6BF7EAF7FF831534FDA1FBDAD88BFBE0" box="[621,664,1114,1138]" italics="true" pageId="1" pageNumber="478">et al</emphasis>
+. 1983: 100
+</bibRefCitation>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="1199656EFF831534FCD9FBDADAE7FB03" _generate="added" pageId="1" pageNumber="478" type="type_taxon">
+<paragraph id="593C36E5FF831534FCD9FBDADAE7FB03" blockId="1.[151,1437,1084,1169]" pageId="1" pageNumber="478">
+<typeStatus id="86388847FF831534FCD9FBDAD954FBE1" box="[789,839,1115,1139]" pageId="1" pageNumber="478">Type</typeStatus>
+species 
+<taxonomicName id="9E834D66FF831534FC57FBDADF13FBE0" ID-CoL="4KQYS" _authorityPlausibility="0.99759436" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Takahashi. Synonymised" authorityName="Takahashi. Synonymised" box="[923,1280,1114,1138]" class="Insecta" family="Coccidae" genus="Podoparalecanium" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="478" phylum="Arthropoda" rank="species" species="machili">
+<emphasis id="6BF7EAF7FF831534FC57FBDAD9ECFBE0" box="[923,1023,1114,1138]" italics="true" pageId="1" pageNumber="478">P. machili</emphasis>
+Takahashi. Synonymised
+</taxonomicName>
+by 
+<treatmentCitation id="D82210F4FF831534FAE8FBDADAE3FB03" author="Tang, F. T." page="126" pageId="1" pageNumber="478" year="1991">
+<bibRefCitation id="3D124B14FF831534FAE8FBDADAE3FB03" author="Tang, F. T." pageId="1" pageNumber="478" refId="ref7506" refString="Tang, F. T. (1991) The Coccidae of China. Shanxi United Universities Press, Taiyuan, P. R. China, 377 pp. [in Chinese]" type="book" year="1991">Tang, 1991: 126</bibRefCitation>
+</treatmentCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="1199656EFF831534FF5BFB3EDE4EF85F" _generate="retained" pageId="1" pageNumber="478" type="diagnosis">
+<paragraph id="593C36E5FF831534FF5BFB3EDBD3FAB3" blockId="1.[151,1437,1215,2034]" pageId="1" pageNumber="478">
+<emphasis id="6BF7EAF7FF831534FF5BFB3ED929FB4B" bold="true" box="[151,826,1215,1241]" pageId="1" pageNumber="478">Generic diagnosis, based on adult female morphology.</emphasis>
+Wax test glassy, probably composed of a series of polygonal plates, probably in 7 or 8 longitudinal lines. Body flat, widest at abdomen and more pointed at anterior end; mostly asymmetrical.
+</paragraph>
+<paragraph id="593C36E5FF831534FF0BFAADDF20F91B" blockId="1.[151,1437,1215,2034]" pageId="1" pageNumber="478">
+<emphasis id="6BF7EAF7FF831534FF0BFAADDB32FAD7" box="[199,289,1324,1349]" italics="true" pageId="1" pageNumber="478">Dorsum</emphasis>
+. Dorsum sclerotized at maturity; areolations present, all circular to oval, extending from edge to middle, becoming progressively smaller and less distinct. Marginal radial lines usually indicated by arrangement of dorsal setae and pores, occasionally distinct; with almost invariably 11 around anterior margin of head, each side with 3 between stigmatic clefts and 11 on abdomen. Stigmatic rays absent. Clear areas present or absent. Setae variable in shape, occasionally of 2 distinct sizes; those situated submarginally and submedially not located in an obvious membranous area of derm. Preopercular pores absent. With 2 or 3 other pore 
+<typeStatus id="86388847FF831534FBC4FA61DE54FA68" box="[1032,1095,1504,1530]" pageId="1" pageNumber="478">types</typeStatus>
+: when 
+<specimenCount id="4F85FD6CFF831534FB54FA5EDEF9FA68" box="[1176,1258,1503,1530]" count="3" pageId="1" pageNumber="478" type="generic" typeStatus="types">3 types</specimenCount>
+present, largest 
+<typeStatus id="86388847FF831534FF5BF985DAD4F98C" box="[151,199,1540,1566]" pageId="1" pageNumber="478">type</typeStatus>
+is a closed pore with a sclerotized margin and often with visible micropores, present in a broad submedial band; also with a small simple pore; and a smaller pore (perhaps a microduct). Pores and setae forming a sparse polygonal pattern similar to that of test. Anal plates variable in shape, usually longer than combined width; anogenital fold with 1 or 2 pairs of setae on anterior margin, each lateral margin with 1 seta anteriorly and another posteriorly.
+</paragraph>
+<paragraph id="593C36E5FF831534FF0BF915D9ECF88B" blockId="1.[151,1437,1215,2034]" pageId="1" pageNumber="478">
+<emphasis id="6BF7EAF7FF831534FF0BF915DB09F93F" box="[199,282,1684,1709]" italics="true" pageId="1" pageNumber="478">Margin</emphasis>
+. Ornamentation of margin variable but generally consisting of sclerotizations along margin, usually appearing as corrugations but some species with sclerotized dashes or arrow-heads lying radially. Marginal setae fan-shaped, each almost round to broadly oval (but spatulate in 
+<taxonomicName id="9E834D66FF831534FCBEF95DDE7AF967" _authorityPlausibility="0.8473381" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Hodgson" authorityName="Hodgson" box="[882,1129,1755,1781]" class="Insecta" family="Coccidae" genus="Podoparalecanium" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="478" phylum="Arthropoda" rank="species" species="comperei">
+<emphasis id="6BF7EAF7FF831534FCBEF95DD9E5F967" box="[882,1014,1756,1781]" italics="true" pageId="1" pageNumber="478">P. comperei</emphasis>
+Hodgson
+</taxonomicName>
+). Stigmatic clefts deep and sclerotized, each with 1–3 stigmatic spines in a transverse line across its base.
+</paragraph>
+<paragraph id="593C36E5FF831534FF0BF8A5DE4EF85F" blockId="1.[151,1437,1215,2034]" pageId="1" pageNumber="478">
+<emphasis id="6BF7EAF7FF831534FF0BF8A5DB1CF8AF" box="[199,271,1828,1853]" italics="true" pageId="1" pageNumber="478">Venter</emphasis>
+. Transverse bands of multilocular disc-pores present medially on abdominal segments V (occasionally), VI and VII. Both spiracular disc-pore bands complete, without any pore-free gap medially. Microducts and setae few. Antennae each 6 segmented and usually well developed, with a full complement of setae, but occasionally reduced and then with some setose setae missing. Spiracles usually rather small but sometimes significantly larger. Legs always present, each with 5 segments, occasionally more-or-less reduced in size.
+</paragraph>
+</subSubSection>
+<subSubSection id="1199656EFF831537FF0BF856DE37FE67" _generate="retained" lastPageId="2" lastPageNumber="479" pageId="1" pageNumber="478" type="discussion">
+<paragraph id="593C36E5FF831537FF0BF856DE37FE67" blockId="1.[151,1437,1215,2034]" lastBlockId="2.[151,1437,151,501]" lastPageId="2" lastPageNumber="479" pageId="1" pageNumber="478">
+<emphasis id="6BF7EAF7FF831534FF0BF856DB28F863" bold="true" box="[199,315,2007,2033]" pageId="1" pageNumber="478">Remarks.</emphasis>
+<taxonomicName id="9E834D66FF831534FE8EF856DBF2F863" _evidence="document" _step="docGenera" box="[322,481,2007,2033]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="478" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF831534FE8EF856DBF2F863" box="[322,481,2007,2033]" italics="true" pageId="1" pageNumber="478">Paralecanium</emphasis>
+</taxonomicName>
+is similar to 
+<taxonomicName id="9E834D66FF831534FDBCF856D906F863" _evidence="catalogs" _step="genera" authorityName="Hodgson &amp; Williams" authorityYear="2018" box="[624,789,2007,2033]" class="Insecta" family="Coccidae" genus="Insularicoccus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="478" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF831534FDBCF856D906F863" box="[624,789,2007,2033]" italics="true" pageId="1" pageNumber="478">Insularicoccus</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="9E834D66FF831534FC86F856D9C2F863" _evidence="catalogs" _step="genera" authorityName="Hodgson &amp; Williams" authorityYear="2018" box="[842,977,2007,2033]" class="Insecta" family="Coccidae" genus="Discochiton" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="478" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF831534FC86F856D9C2F863" box="[842,977,2007,2033]" italics="true" pageId="1" pageNumber="478">Discochiton</emphasis>
+</taxonomicName>
+in sharing the following character states: (i) marginal setae fan-shaped; (ii) dorsum often more-or-less asymmetrical; (iii) presence of clear areas, although they are not apparent in all species; (iv) margin with ornamentation; (v) spiracular clefts and stigmatic spines characteristically shaped; (vi) ventral setae sparse. 
+<taxonomicName id="9E834D66FF801537FD11FF5ED96FFF6B" _evidence="document" _step="docGenera" box="[733,892,223,249]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="479" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF801537FD11FF5ED96FFF6B" box="[733,892,223,249]" italics="true" pageId="2" pageNumber="479">Paralecanium</emphasis>
+</taxonomicName>
+can be distinguished from the former genus by (character states of 
+<taxonomicName id="9E834D66FF801537FEB1FE82D831FE8F" _evidence="catalogs" _step="genera" authorityName="Hodgson &amp; Williams" authorityYear="2018" box="[381,546,259,285]" class="Insecta" family="Coccidae" genus="Insularicoccus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="479" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF801537FEB1FE82D831FE8F" box="[381,546,259,285]" italics="true" pageId="2" pageNumber="479">Insularicoccus</emphasis>
+</taxonomicName>
+in brackets): (i) stigmatic spines forming a line along inner margin of each stigmatic cleft, not in an elongate group or extending radially onto dorsum (stigmatic spines in each cleft forming an elongate group of 5 or more, extending radially onto dorsum); and (ii) preopercular pores absent (preopercular pores present in groups submedially on abdomen, each group fused into a compound pore). 
+<taxonomicName id="9E834D66FF801537FB60FEEEDF58FE1B" _evidence="document" _step="docGenera" box="[1196,1355,367,393]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="479" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF801537FB60FEEEDF58FE1B" box="[1196,1355,367,393]" italics="true" pageId="2" pageNumber="479">Paralecanium</emphasis>
+</taxonomicName>
+can be distinguished from 
+<taxonomicName id="9E834D66FF801537FEBDFE12DBEBFE3F" _evidence="catalogs" _step="genera" authorityName="Hodgson &amp; Williams" authorityYear="2018" box="[369,504,403,429]" class="Insecta" family="Coccidae" genus="Discochiton" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="479" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF801537FEBDFE12DBEBFE3F" box="[369,504,403,429]" italics="true" pageId="2" pageNumber="479">Discochiton</emphasis>
+</taxonomicName>
+by (character states of latter genus in brackets): (i) stigmatic rays absent (stigmatic rays present); (ii) each side with 3 radial lines between stigmatic clefts (each side with 5 radial lines present between stigmatic clefts); and (iii) preopercular pores absent (preopercular pores present).
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment id="D12A87F3FF801533FF5BFDC7DE9CFBCB" ID-DOI="http://doi.org/10.5281/zenodo.10693414" ID-GBIF-Taxon="221744758" ID-Zenodo-Dep="10693414" _generate="added" lastPageId="6" lastPageNumber="483" pageId="2" pageNumber="479">
+<subSubSection id="1199656EFF801537FF5BFDC7D8B9FDF3" _generate="added" box="[151,682,582,609]" pageId="2" pageNumber="479" type="nomenclature">
+<paragraph id="593C36E5FF801537FF5BFDC7D8B9FDF3" blockId="2.[151,682,582,645]" box="[151,682,582,609]" pageId="2" pageNumber="479">
+<heading id="02748189FF801537FF5BFDC7D8B9FDF3" bold="true" box="[151,682,582,609]" fontSize="11" level="1" pageId="2" pageNumber="479" reason="1">
+<emphasis id="6BF7EAF7FF801537FF5BFDC7D8B9FDF3" bold="true" box="[151,682,582,609]" pageId="2" pageNumber="479">
+<taxonomicName id="9E834D66FF801537FF5BFDC7D877FDF2" _authorityPlausibility="0.99741507" _evidence="statusLabel" _step="newLabel1" authority="Tan, Meng &amp; Xing" authorityName="Tan, Meng &amp; Xing" authorityYear="2024" box="[151,612,582,609]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="479" phylum="Arthropoda" rank="species" species="sabia" status="sp. nov.">
+<emphasis id="6BF7EAF7FF801537FF5BFDC7DB6CFDF3" bold="true" box="[151,383,582,609]" italics="true" pageId="2" pageNumber="479">Paralecanium sabia</emphasis>
+Tan, Meng &amp; Xing
+</taxonomicName>
+<taxonomicNameLabel id="70C4578CFF801537FDA7FDC6D8B9FDF3" box="[619,682,583,609]" pageId="2" pageNumber="479" rank="species">sp. n.</taxonomicNameLabel>
+</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="1199656EFF801537FF5BFDEADB0AFD17" _generate="added" box="[151,281,619,645]" pageId="2" pageNumber="479" type="description">
+<paragraph id="593C36E5FF801537FF5BFDEADB0AFD17" blockId="2.[151,682,582,645]" box="[151,281,619,645]" pageId="2" pageNumber="479">
+(
+<figureCitation id="C1B82A60FF801537FF53FDEADB03FD17" box="[159,272,619,645]" captionStart-0="FIGURES 1‒6" captionStart-1="FIGURE 7" captionStart-2="FIGURES 8‒20. 8" captionStartId-0="3.[151,264,1865,1889]" captionStartId-1="4.[151,250,1943,1967]" captionStartId-2="5.[151,264,1846,1870]" captionTargetBox-0="[151,1436,179,1840]" captionTargetBox-1="[255,1332,186,1907]" captionTargetBox-2="[159,1428,187,1812]" captionTargetId-0="figure-17@3.[151,1436,179,1840]" captionTargetId-1="figure-21@4.[246,1342,178,1916]" captionTargetId-2="figure-17@5.[151,1436,179,1820]" captionTargetPageId-0="3" captionTargetPageId-1="4" captionTargetPageId-2="5" captionText-0="FIGURES 1‒6. Habitus of Paralecanium sabia sp. n., type sample: 1. Sabia swinhoei upper leaf surface with two mature P. sabia adult females. 2. Dorsum of mature adult female on leaf. 3. Exposed venter of mature adult female on leaf surface; 4. Dorsal view of younger adult females on leaf; 5. Dorsal view of younger adult female on illuminated background; 6. Venter of younger adult female on illuminated background." captionText-1="FIGURE 7. Paralecanium sabia sp. n., slide-mounted adult female. Scale bar = 500 µm." captionText-2="FIGURES 8‒20. 8. Paralecanium sabia sp. n., adult female: 9. Antenna; 10. Spiracular disc-pore; 11. Ventral seta; 12. Tip of tarsus with claw; 13. Multilocular disc-pore; 14. Dorsal areolations; 15. Anal plate (left side) and genital fold (right side); 16. Dorsal seta; 17. Large dorsal pore; 18. Marginal setae and ornamentations on margin; 19. Spiracular cleft; 20. Smaller dorsal pore." figureDoi-0="http://doi.org/10.5281/zenodo.10693432" figureDoi-1="http://doi.org/10.5281/zenodo.10693434" figureDoi-2="http://doi.org/10.5281/zenodo.10693436" httpUri-0="https://zenodo.org/record/10693432/files/figure.png" httpUri-1="https://zenodo.org/record/10693434/files/figure.png" httpUri-2="https://zenodo.org/record/10693436/files/figure.png" pageId="2" pageNumber="479">Figs 1–18</figureCitation>
+)
+</paragraph>
+</subSubSection>
+<subSubSection id="1199656EFF801533FF5BFD33DED4FD5F" _generate="added" lastPageId="6" lastPageNumber="483" pageId="2" pageNumber="479" type="materials_examined">
+<paragraph id="593C36E5FF801537FF5BFD33DBF9FCAB" blockId="2.[151,1436,690,825]" pageId="2" pageNumber="479">
+<emphasis id="6BF7EAF7FF801537FF5BFD33DB95FD5E" bold="true" box="[151,390,690,716]" pageId="2" pageNumber="479">Material examined.</emphasis>
+<materialsCitation id="E9EB3CB8FF801537FE5DFD32DB7EFC87" ID-GBIF-Occurrence="4526003301" collectionCode="GUGC" collectorName="Shitao Meng" country="China" county="Libo County" elevation="487" latitude="25.293612" location="Qinglongtan" longLatPrecision="21" longitude="108.0675" pageId="2" pageNumber="479" specimenCount="1" specimenCount-female="1" stateProvince="Guizhou" typeStatus="holotype">
+<emphasis id="6BF7EAF7FF801537FE5DFD32D81BFD5F" bold="true" box="[401,520,691,717]" pageId="2" pageNumber="479">
+<typeStatus id="86388847FF801537FE5DFD32D811FD5F" box="[401,514,691,717]" pageId="2" pageNumber="479" type="holotype">Holotype</typeStatus>
+:
+</emphasis>
+adult 
+<specimenCount id="4F85FD6CFF801537FD9BFD32D87FFD5F" box="[599,620,691,717]" count="1" pageId="2" pageNumber="479" type="female">♀</specimenCount>
+, 
+<collectingCountry id="21947675FF801537FDB3FD32D8CFFD5F" box="[639,732,691,717]" name="China" pageId="2" pageNumber="479">CHINA</collectingCountry>
+: 
+<collectingRegion id="9B47F807FF801537FD20FD32D985FD5F" box="[748,918,691,717]" country="China" name="Guizhou" pageId="2" pageNumber="479">Guizhou Prov.</collectingRegion>
+, / 
+<collectingCounty id="B05D4E69FF801537FC75FD32DE5DFD5F" box="[953,1102,691,717]" pageId="2" pageNumber="479">Libo County</collectingCounty>
+, 
+<location id="5C5C603EFF801537FB91FD32DEFFFD5F" box="[1117,1260,691,717]" country="China" county="Libo County" latitude="25.293612" longLatPrecision="21" longitude="108.0675" name="Qinglongtan" pageId="2" pageNumber="479" stateProvince="Guizhou">Qinglongtan</location>
+, / 
+<geoCoordinate id="3CB75022FF801537FADCFD35DF84FD5D" box="[1296,1431,692,719]" degrees="25" direction="north" minutes="17" orientation="latitude" pageId="2" pageNumber="479" precision="15" seconds="37" value="25.293612">25°17′37″N</geoCoordinate>
+, 
+<geoCoordinate id="3CB75022FF801537FF5BFD59DB34FD61" box="[151,295,728,755]" degrees="108" direction="east" minutes="04" orientation="longitude" pageId="2" pageNumber="479" precision="15" seconds="03" value="108.0675">108º04′03″E</geoCoordinate>
+, / 
+<quantity id="9E7B9B00FF801537FE8EFD56DB9AFD63" box="[322,393,727,753]" metricMagnitude="2" metricUnit="m" metricValue="4.87" pageId="2" pageNumber="479" unit="m" value="487.0">
+<elevation id="D2AED1D6FF801537FE8EFD56DB9AFD63" box="[322,393,727,753]" metricMagnitude="2" metricUnit="m" metricValue="4.87" pageId="2" pageNumber="479" unit="m" value="487.0">487 m</elevation>
+</quantity>
+altitude, / on 
+<emphasis id="6BF7EAF7FF801537FDE8FD56D8DDFD63" box="[548,718,727,753]" italics="true" pageId="2" pageNumber="479">
+<collectorName id="F4765333FF801537FDE8FD56D877FD63" box="[548,612,727,753]" pageId="2" pageNumber="479">Sabia</collectorName>
+swinhoei
+</emphasis>
+(
+<taxonomicName id="9E834D66FF801537FD11FD56D940FD63" _evidence="catalogs" _step="family" box="[733,851,727,753]" class="Magnoliopsida" family="Sabiaceae" kingdom="Plantae" order="Proteales" pageId="2" pageNumber="479" phylum="Tracheophyta" rank="family">Sabiaceae</taxonomicName>
+), / 12. 
+<collectorName id="F4765333FF801537FC5FFD56D9DAFD63" box="[915,969,727,753]" pageId="2" pageNumber="479">July.</collectorName>
+2022, / 
+<collectorName id="F4765333FF801537FBECFD56DEA3FD63" box="[1056,1200,727,753]" pageId="2" pageNumber="479">Shitao Meng</collectorName>
+leg., mounted singly on a slide (
+<collectionCode id="3F92AE20FF801537FEC3FD7ADB76FC87" box="[271,357,763,789]" pageId="2" pageNumber="479">GUGC</collectionCode>
+)
+</materialsCitation>
+. 
+<materialsCitation id="E9EB3CB8FF801537FEBBFD7ADBF5FCAB" ID-GBIF-Occurrence="4526003302" collectionCode="GUGC, NFUC" collectorName="Shitao Meng" country="China" county="Libo County" elevation="487" latitude="25.293612" location="Qinglongtan" longLatPrecision="21" longitude="108.0675" pageId="2" pageNumber="479" specimenCount="6" specimenCount-female="6" stateProvince="Guizhou" typeStatus="paratype">
+<emphasis id="6BF7EAF7FF801537FEBBFD7ADBEBFC87" bold="true" box="[375,504,763,789]" pageId="2" pageNumber="479">
+<typeStatus id="86388847FF801537FEBBFD7ADBE0FC87" box="[375,499,763,789]" pageId="2" pageNumber="479" type="paratype">Paratypes</typeStatus>
+:
+</emphasis>
+Same data as holotype, 
+<specimenCount id="4F85FD6CFF801537FCC9FD7AD9B8FC87" box="[773,939,763,789]" count="6" pageId="2" pageNumber="479" type="female" typeStatus="paratype">6 paratype ♀♀</specimenCount>
+, with 4 mounted singly on 4 slides (
+<collectionCode id="3F92AE20FF801537FAF7FD7ADF83FC87" box="[1339,1424,763,789]" pageId="2" pageNumber="479">GUGC</collectionCode>
+), and 2 on a fifth slide (
+<collectionCode id="3F92AE20FF801537FE41FC9EDBCDFCAB" box="[397,478,799,825]" pageId="2" pageNumber="479">NFUC</collectionCode>
+)
+</materialsCitation>
+.
+</paragraph>
+<paragraph id="593C36E5FF801537FF5BFCE7DF82FBA7" blockId="2.[151,1437,870,1905]" pageId="2" pageNumber="479">
+<emphasis id="6BF7EAF7FF801537FF5BFCE7DB67FC12" bold="true" box="[151,372,870,896]" pageId="2" pageNumber="479">Appearance in life</emphasis>
+(
+<figureCitation id="C1B82A60FF801537FE48FCE6DBF9FC13" box="[388,490,871,897]" captionStart="FIGURES 1‒6" captionStartId="3.[151,264,1865,1889]" captionTargetBox="[151,1436,179,1840]" captionTargetId="figure-17@3.[151,1436,179,1840]" captionTargetPageId="3" captionText="FIGURES 1‒6. Habitus of Paralecanium sabia sp. n., type sample: 1. Sabia swinhoei upper leaf surface with two mature P. sabia adult females. 2. Dorsum of mature adult female on leaf. 3. Exposed venter of mature adult female on leaf surface; 4. Dorsal view of younger adult females on leaf; 5. Dorsal view of younger adult female on illuminated background; 6. Venter of younger adult female on illuminated background." figureDoi="http://doi.org/10.5281/zenodo.10693432" httpUri="https://zenodo.org/record/10693432/files/figure.png" pageId="2" pageNumber="479">Figs 1‒6</figureCitation>
+). Adult females situated close to a major leaf vein (
+<figureCitation id="C1B82A60FF801537FBFFFCE6DE66FC13" box="[1075,1141,871,897]" captionStart="FIGURES 1‒6" captionStartId="3.[151,264,1865,1889]" captionTargetBox="[151,1436,179,1840]" captionTargetId="figure-17@3.[151,1436,179,1840]" captionTargetPageId="3" captionText="FIGURES 1‒6. Habitus of Paralecanium sabia sp. n., type sample: 1. Sabia swinhoei upper leaf surface with two mature P. sabia adult females. 2. Dorsum of mature adult female on leaf. 3. Exposed venter of mature adult female on leaf surface; 4. Dorsal view of younger adult females on leaf; 5. Dorsal view of younger adult female on illuminated background; 6. Venter of younger adult female on illuminated background." figureDoi="http://doi.org/10.5281/zenodo.10693432" httpUri="https://zenodo.org/record/10693432/files/figure.png" pageId="2" pageNumber="479">Fig. 1</figureCitation>
+). Body flat, oval but with a slightly pointed head. Dorsum of mature adult female brown-black and well sclerotized, with a white wax patch over each stigmatic cleft (
+<figureCitation id="C1B82A60FF801537FE75FC2EDBEEFC5B" box="[441,509,943,969]" captionStart="FIGURES 1‒6" captionStartId="3.[151,264,1865,1889]" captionTargetBox="[151,1436,179,1840]" captionTargetId="figure-17@3.[151,1436,179,1840]" captionTargetPageId="3" captionText="FIGURES 1‒6. Habitus of Paralecanium sabia sp. n., type sample: 1. Sabia swinhoei upper leaf surface with two mature P. sabia adult females. 2. Dorsum of mature adult female on leaf. 3. Exposed venter of mature adult female on leaf surface; 4. Dorsal view of younger adult females on leaf; 5. Dorsal view of younger adult female on illuminated background; 6. Venter of younger adult female on illuminated background." figureDoi="http://doi.org/10.5281/zenodo.10693432" httpUri="https://zenodo.org/record/10693432/files/figure.png" pageId="2" pageNumber="479">Fig. 2</figureCitation>
+); venter with each spiracular furrow full of powdery white wax, and a sunken dark area (possibly a brood cavity) medially (
+<figureCitation id="C1B82A60FF801537FDA3FC52D8A5FC7F" box="[623,694,979,1005]" captionStart="FIGURES 1‒6" captionStartId="3.[151,264,1865,1889]" captionTargetBox="[151,1436,179,1840]" captionTargetId="figure-17@3.[151,1436,179,1840]" captionTargetPageId="3" captionText="FIGURES 1‒6. Habitus of Paralecanium sabia sp. n., type sample: 1. Sabia swinhoei upper leaf surface with two mature P. sabia adult females. 2. Dorsum of mature adult female on leaf. 3. Exposed venter of mature adult female on leaf surface; 4. Dorsal view of younger adult females on leaf; 5. Dorsal view of younger adult female on illuminated background; 6. Venter of younger adult female on illuminated background." figureDoi="http://doi.org/10.5281/zenodo.10693432" httpUri="https://zenodo.org/record/10693432/files/figure.png" pageId="2" pageNumber="479">Fig. 3</figureCitation>
+). Younger adult females fawn and slightly transparent, allowing ventral white wax lines in spiracular furrows to be visible from dorsal view (
+<figureCitation id="C1B82A60FF801537FC34FC76DE2EFB83" box="[1016,1085,1015,1041]" captionStart="FIGURES 1‒6" captionStartId="3.[151,264,1865,1889]" captionTargetBox="[151,1436,179,1840]" captionTargetId="figure-17@3.[151,1436,179,1840]" captionTargetPageId="3" captionText="FIGURES 1‒6. Habitus of Paralecanium sabia sp. n., type sample: 1. Sabia swinhoei upper leaf surface with two mature P. sabia adult females. 2. Dorsum of mature adult female on leaf. 3. Exposed venter of mature adult female on leaf surface; 4. Dorsal view of younger adult females on leaf; 5. Dorsal view of younger adult female on illuminated background; 6. Venter of younger adult female on illuminated background." figureDoi="http://doi.org/10.5281/zenodo.10693432" httpUri="https://zenodo.org/record/10693432/files/figure.png" pageId="2" pageNumber="479">Fig. 4</figureCitation>
+); also, when viewed against an illuminated background, each side of abdomen with a lightly coloured pattern of 3 or 4 radial lines (
+<figureCitation id="C1B82A60FF801537FB3AFB9ADF90FBA7" box="[1270,1411,1050,1077]" captionStart="FIGURES 1‒6" captionStartId="3.[151,264,1865,1889]" captionTargetBox="[151,1436,179,1840]" captionTargetId="figure-17@3.[151,1436,179,1840]" captionTargetPageId="3" captionText="FIGURES 1‒6. Habitus of Paralecanium sabia sp. n., type sample: 1. Sabia swinhoei upper leaf surface with two mature P. sabia adult females. 2. Dorsum of mature adult female on leaf. 3. Exposed venter of mature adult female on leaf surface; 4. Dorsal view of younger adult females on leaf; 5. Dorsal view of younger adult female on illuminated background; 6. Venter of younger adult female on illuminated background." figureDoi="http://doi.org/10.5281/zenodo.10693432" httpUri="https://zenodo.org/record/10693432/files/figure.png" pageId="2" pageNumber="479">Figs 5 and 6</figureCitation>
+).
+</paragraph>
+<paragraph id="593C36E5FF801537FF2FFBBFDE5FFBEF" blockId="2.[151,1437,870,1905]" pageId="2" pageNumber="479">
+<emphasis id="6BF7EAF7FF801537FF2FFBBFD827FBCA" bold="true" box="[227,564,1086,1113]" pageId="2" pageNumber="479">Slide-mounted adult female</emphasis>
+(
+<figureCitation id="C1B82A60FF801537FD8BFBBED8AEFBCB" box="[583,701,1087,1113]" captionStart-0="FIGURE 7" captionStart-1="FIGURES 8‒20. 8" captionStartId-0="4.[151,250,1943,1967]" captionStartId-1="5.[151,264,1846,1870]" captionTargetBox-0="[255,1332,186,1907]" captionTargetBox-1="[159,1428,187,1812]" captionTargetId-0="figure-21@4.[246,1342,178,1916]" captionTargetId-1="figure-17@5.[151,1436,179,1820]" captionTargetPageId-0="4" captionTargetPageId-1="5" captionText-0="FIGURE 7. Paralecanium sabia sp. n., slide-mounted adult female. Scale bar = 500 µm." captionText-1="FIGURES 8‒20. 8. Paralecanium sabia sp. n., adult female: 9. Antenna; 10. Spiracular disc-pore; 11. Ventral seta; 12. Tip of tarsus with claw; 13. Multilocular disc-pore; 14. Dorsal areolations; 15. Anal plate (left side) and genital fold (right side); 16. Dorsal seta; 17. Large dorsal pore; 18. Marginal setae and ornamentations on margin; 19. Spiracular cleft; 20. Smaller dorsal pore." figureDoi-0="http://doi.org/10.5281/zenodo.10693434" figureDoi-1="http://doi.org/10.5281/zenodo.10693436" httpUri-0="https://zenodo.org/record/10693434/files/figure.png" httpUri-1="https://zenodo.org/record/10693436/files/figure.png" pageId="2" pageNumber="479">Figs 7‒18</figureCitation>
+) (n = 7). Body oval, often symmetrical, rounded at both ends, broadest across abdomen. Length 3.65–3.80 (3.75) mm, width 2.61–2.70 (2.65) mm.
+</paragraph>
+<paragraph id="593C36E5FF801537FF2EFB06D9F2F9C3" blockId="2.[151,1437,870,1905]" pageId="2" pageNumber="479">
+<emphasis id="6BF7EAF7FF801537FF2EFB06DB57FB32" box="[226,324,1159,1184]" italics="true" pageId="2" pageNumber="479">Dorsum.</emphasis>
+Derm of mature specimen with areolations, these abundant submarginally and becoming more obscure and fewer quickly medially; each areolation up to about 25 μm in diameter; with a slightly denser group of areolations on either side of anal plates. With abundant minute pale spots throughout, with 1 present in each areolation, each about 1.0–1.5 μm wide. Marginal radial lines pale; with 11 lines anteriorly between anterior stigmatic clefts, no line from each spiracular cleft, and each side with 3 lines between clefts and 11 on abdomen. Clear areas absent. Dorsal setae rather short and parallel-sided, occasionally curved, each 5–8 µm long with a blunt apex, most frequent in each marginal radial line (each line with 1 or 2 setae); setae absent medially. Large dorsal pores, each 4–5 μm wide, present in broad submedial bands of about 35–44 on each side, extending anterolaterally from anal plates to head; smaller pores, each about 2–3 μm wide, sparse and absent medially; minute pores randomly distributed. Anal plates each with outer angle rounded, and with anterior margin subequal in length to posterior margin; plates 105–132 μm long, combined width 85–100 μm; each plate with 1 seta medially and 2 near apex on outer margin, and with 2 small pores medially; anogenital fold with 1 pair of small setae along anterior margin and 2 setae on each lateral margin; anal plate apodemes joined anteriorly by a sclerotized yoke.
+</paragraph>
+<paragraph id="593C36E5FF801537FF2EF9DADB11F8E3" blockId="2.[151,1437,870,1905]" pageId="2" pageNumber="479">
+<emphasis id="6BF7EAF7FF801537FF2EF9DADB2EF9E6" box="[226,317,1627,1652]" italics="true" pageId="2" pageNumber="479">Margin.</emphasis>
+Marginal ornamentation corrugated, each corrugation with a stout short radial line or arrowhead, with 3–4 (usually 4) corrugations between marginal setae. Marginal setae fan-shaped and oval; width of each fan 27–37 μm wide and 16–26 μm long; with 60–78 setae anteriorly between anterior stigmatic clefts, each side with 21–27 setae between stigmatic clefts, and 52–60 along abdominal margin. Stigmatic clefts quite deep, each with a sclerotized inner margin and 3 stigmatic spines; median spine longer than lateral spines, each 29–42 μm long, with apex near outer margin but never extending out of cavity; lateral spines each 13–27μm long. Eyespots: each with greatest width of socket 41–60μm, diameter of lens 16–20 μm, situated on dorsum almost dorsad to bases of antennae.
+</paragraph>
+<caption id="0DFC666DFF811536FF5BF8C8D89EF85C" ID-DOI="http://doi.org/10.5281/zenodo.10693432" ID-Zenodo-Dep="10693432" httpUri="https://zenodo.org/record/10693432/files/figure.png" pageId="3" pageNumber="480" startId="3.[151,264,1865,1889]" targetBox="[151,1436,179,1840]" targetPageId="3" targetType="figure">
+<paragraph id="593C36E5FF811536FF5BF8C8D89EF85C" blockId="3.[151,1437,1865,1998]" pageId="3" pageNumber="480">
+<emphasis id="6BF7EAF7FF811536FF5BF8C8DB2FF8F0" bold="true" box="[151,316,1865,1890]" pageId="3" pageNumber="480">FIGURES 1‒6.</emphasis>
+<emphasis id="6BF7EAF7FF811536FE8FF8CBDB80F8F0" box="[323,403,1866,1890]" italics="true" pageId="3" pageNumber="480">Habitus</emphasis>
+of 
+<taxonomicName id="9E834D66FF811536FE7BF8CBD896F8F0" _evidence="statusLabel" _step="newLabel1" authority="Tan &amp; Meng &amp; Xing, 2024" authorityName="Tan &amp; Meng &amp; Xing" authorityYear="2024" box="[439,645,1866,1890]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="3" pageNumber="480" phylum="Arthropoda" rank="species" species="sabia" status="sp. nov.">
+<emphasis id="6BF7EAF7FF811536FE7BF8CBD896F8F0" box="[439,645,1866,1890]" italics="true" pageId="3" pageNumber="480">Paralecanium sabia</emphasis>
+</taxonomicName>
+<emphasis id="6BF7EAF7FF811536FD41F8CBD8D4F8F0" bold="true" box="[653,711,1866,1890]" pageId="3" pageNumber="480">
+<taxonomicNameLabel id="70C4578CFF811536FD41F8CBD8D4F8F0" box="[653,711,1866,1890]" pageId="3" pageNumber="480" rank="species">sp. n.</taxonomicNameLabel>
+</emphasis>
+, type sample: 
+<emphasis id="6BF7EAF7FF811536FC92F8CBD962F8F0" bold="true" box="[862,881,1866,1890]" pageId="3" pageNumber="480">1.</emphasis>
+<emphasis id="6BF7EAF7FF811536FCB4F8CBDE00F8F0" box="[888,1043,1866,1890]" italics="true" pageId="3" pageNumber="480">Sabia swinhoei</emphasis>
+upper leaf surface with two mature 
+<taxonomicName id="9E834D66FF811536FA46F8CBDADDF814" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Tan &amp; Meng &amp; Xing" authorityYear="2024" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="3" pageNumber="480" phylum="Arthropoda" rank="species" species="sabia">
+<emphasis id="6BF7EAF7FF811536FA46F8CBDADDF814" italics="true" pageId="3" pageNumber="480">P. sabia</emphasis>
+</taxonomicName>
+adult females. 
+<emphasis id="6BF7EAF7FF811536FEA2F8EFDB92F814" bold="true" box="[366,385,1902,1926]" pageId="3" pageNumber="480">2.</emphasis>
+Dorsum of mature adult female on leaf. 
+<emphasis id="6BF7EAF7FF811536FCE0F8EFD92CF814" bold="true" box="[812,831,1902,1926]" pageId="3" pageNumber="480">3.</emphasis>
+Exposed venter of mature adult female on leaf surface; 
+<emphasis id="6BF7EAF7FF811536FA45F8EFDF8FF814" bold="true" box="[1417,1436,1902,1926]" pageId="3" pageNumber="480">4.</emphasis>
+Dorsal view of younger adult females on leaf; 
+<emphasis id="6BF7EAF7FF811536FDBDF813D890F838" bold="true" box="[625,643,1938,1962]" pageId="3" pageNumber="480">5.</emphasis>
+Dorsal view of younger adult female on illuminated background; 
+<emphasis id="6BF7EAF7FF811536FAE9F813DF2BF838" bold="true" box="[1317,1336,1938,1962]" pageId="3" pageNumber="480">6.</emphasis>
+Venter of younger adult female on illuminated background.
+</paragraph>
+</caption>
+<caption id="0DFC666DFF861531FF5BF816DE31F822" ID-DOI="http://doi.org/10.5281/zenodo.10693434" ID-Zenodo-Dep="10693434" box="[151,1058,1943,1968]" httpUri="https://zenodo.org/record/10693434/files/figure.png" pageId="4" pageNumber="481" startId="4.[151,250,1943,1967]" targetBox="[255,1332,186,1907]" targetPageId="4" targetType="figure">
+<paragraph id="593C36E5FF861531FF5BF816DE31F822" blockId="4.[151,1058,1943,1968]" box="[151,1058,1943,1968]" pageId="4" pageNumber="481">
+<emphasis id="6BF7EAF7FF861531FF5BF816DB00F83D" bold="true" box="[151,275,1943,1967]" pageId="4" pageNumber="481">FIGURE 7.</emphasis>
+<taxonomicName id="9E834D66FF861531FED5F816DBF5F83D" _evidence="statusLabel" _step="newLabel1" authority="Tan &amp; Meng &amp; Xing, 2024" authorityName="Tan &amp; Meng &amp; Xing" authorityYear="2024" box="[281,486,1943,1967]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="481" phylum="Arthropoda" rank="species" species="sabia" status="sp. nov.">
+<emphasis id="6BF7EAF7FF861531FED5F816DBF5F83D" box="[281,486,1943,1967]" italics="true" pageId="4" pageNumber="481">Paralecanium sabia</emphasis>
+</taxonomicName>
+<emphasis id="6BF7EAF7FF861531FE20F816D836F83D" bold="true" box="[492,549,1943,1967]" pageId="4" pageNumber="481">
+<taxonomicNameLabel id="70C4578CFF861531FE20F816D836F83D" box="[492,549,1943,1967]" pageId="4" pageNumber="481" rank="species">sp. n.</taxonomicNameLabel>
+</emphasis>
+, slide-mounted adult female. Scale bar = 500 µm.
+</paragraph>
+</caption>
+<caption id="0DFC666DFF871530FF5BF8B7DAD8F82B" ID-DOI="http://doi.org/10.5281/zenodo.10693436" ID-Zenodo-Dep="10693436" httpUri="https://zenodo.org/record/10693436/files/figure.png" pageId="5" pageNumber="482" startId="5.[151,264,1846,1870]" targetBox="[159,1428,187,1812]" targetPageId="5" targetType="figure">
+<paragraph id="593C36E5FF871530FF5BF8B7DAD8F82B" blockId="5.[151,1436,1846,1977]" pageId="5" pageNumber="482">
+<emphasis id="6BF7EAF7FF871530FF5BF8B7DB72F8DC" bold="true" box="[151,353,1846,1870]" pageId="5" pageNumber="482">FIGURES 8‒20. 8.</emphasis>
+<taxonomicName id="9E834D66FF871530FEA4F8B7D825F8DC" _evidence="statusLabel" _step="newLabel1" authority="Tan &amp; Meng &amp; Xing, 2024" authorityName="Tan &amp; Meng &amp; Xing" authorityYear="2024" box="[360,566,1846,1870]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="5" pageNumber="482" phylum="Arthropoda" rank="species" species="sabia" status="sp. nov.">
+<emphasis id="6BF7EAF7FF871530FEA4F8B7D825F8DC" box="[360,566,1846,1870]" italics="true" pageId="5" pageNumber="482">Paralecanium sabia</emphasis>
+</taxonomicName>
+<emphasis id="6BF7EAF7FF871530FDF1F8B7D865F8DC" bold="true" box="[573,630,1846,1870]" pageId="5" pageNumber="482">
+<taxonomicNameLabel id="70C4578CFF871530FDF1F8B7D865F8DC" box="[573,630,1846,1870]" pageId="5" pageNumber="482" rank="species">sp. n.</taxonomicNameLabel>
+</emphasis>
+, adult female: 
+<emphasis id="6BF7EAF7FF871530FCDCF8B7D930F8DC" bold="true" box="[784,803,1846,1870]" pageId="5" pageNumber="482">9.</emphasis>
+Antenna; 
+<emphasis id="6BF7EAF7FF871530FC40F8B7D9BFF8DC" bold="true" box="[908,940,1846,1870]" pageId="5" pageNumber="482">10.</emphasis>
+Spiracular disc-pore; 
+<emphasis id="6BF7EAF7FF871530FB42F8B7DEBFF8DC" bold="true" box="[1166,1196,1846,1870]" pageId="5" pageNumber="482">11.</emphasis>
+Ventral seta; 
+<emphasis id="6BF7EAF7FF871530FAF4F8B7DF4BF8DC" bold="true" box="[1336,1368,1846,1870]" pageId="5" pageNumber="482">12.</emphasis>
+Tip of tarsus with claw; 
+<emphasis id="6BF7EAF7FF871530FE80F8DBDB7FF8E0" bold="true" box="[332,364,1882,1906]" pageId="5" pageNumber="482">13.</emphasis>
+Multilocular disc-pore; 
+<emphasis id="6BF7EAF7FF871530FDA9F8DBD896F8E0" bold="true" box="[613,645,1882,1906]" pageId="5" pageNumber="482">14.</emphasis>
+Dorsal areolations; 
+<emphasis id="6BF7EAF7FF871530FC99F8DBD967F8E0" bold="true" box="[853,884,1882,1906]" pageId="5" pageNumber="482">15.</emphasis>
+Anal plate (left side) and genital fold (right side); 
+<emphasis id="6BF7EAF7FF871530FAB1F8DBDF8FF8E0" bold="true" box="[1405,1436,1882,1906]" pageId="5" pageNumber="482">16.</emphasis>
+Dorsal seta; 
+<emphasis id="6BF7EAF7FF871530FED4F8FFDB2BF804" bold="true" box="[280,312,1918,1942]" pageId="5" pageNumber="482">17.</emphasis>
+Large dorsal pore; 
+<emphasis id="6BF7EAF7FF871530FDCFF8FFD831F804" bold="true" box="[515,546,1918,1942]" pageId="5" pageNumber="482">18.</emphasis>
+Marginal setae and ornamentations on margin; 
+<emphasis id="6BF7EAF7FF871530FBC2F8FFDE3DF804" bold="true" box="[1038,1070,1918,1942]" pageId="5" pageNumber="482">19.</emphasis>
+Spiracular cleft; 
+<emphasis id="6BF7EAF7FF871530FB2DF8FFDF12F804" bold="true" box="[1249,1281,1918,1942]" pageId="5" pageNumber="482">20.</emphasis>
+Smaller dorsal pore.
+</paragraph>
+</caption>
+<paragraph id="593C36E5FF841533FF0BFF16DED4FD5F" blockId="6.[151,1437,150,1113]" pageId="6" pageNumber="483">
+<emphasis id="6BF7EAF7FF841533FF0BFF16DB00FF22" box="[199,275,151,176]" italics="true" pageId="6" pageNumber="483">Venter.</emphasis>
+Mature female with distinct, lightly sclerotized marginal band 77–95 μm wide, with darker radial “fingers” (absent on younger specimens), marginal band extending up anal cleft, becoming dense beneath posterior apex of anal plates. Multilocular disc-pores present around genital opening and on preceding segment, each side with 5–7 on abdominal segment 
+<collectionCode id="3F92AE20FF841533FDDEFE82D82FFE8F" box="[530,572,259,285]" pageId="6" pageNumber="483">VII</collectionCode>
+, and 11–15 on segment 
+<collectionCode id="3F92AE20FF841533FC9AFE82D964FE8F" box="[854,887,259,285]" country="Norway" name="Mykotektet, National Veterinary Institute" pageId="6" pageNumber="483">VI</collectionCode>
+. Spiracular disc-pores present in a narrow band between margin and each spiracle, with 12–20 pores in each band. Ventral microducts present, sparsely distributed in submarginal areas. Ventral setae: with 2 pairs of interantennal setae, 15‒18 μm long; 1 pair of long setae medially on abdominal segment 
+<collectionCode id="3F92AE20FF841533FE52FEEEDBDBFE1B" box="[414,456,367,393]" pageId="6" pageNumber="483">VII</collectionCode>
+, each about 54 μm long; a pair of shorter setae on each of segments 
+<collectionCode id="3F92AE20FF841533FB1EFEEEDEE2FE1B" box="[1234,1265,367,393]" country="Norway" name="Mykotektet, National Veterinary Institute" pageId="6" pageNumber="483">VI</collectionCode>
+–II; also with 1 long seta associated with each precoxa, and 3 mesad to each mesocoxa and metacoxa; submarginal setae few and short, each about 8 μm long; other setae sparse. Antennae normal, each with 6 segments: total length 215–225 μm; length of apical segment about 35–37 μm; apical seta about 15 μm long; setal distribution typical of family except for absence of setose setae on segments 
+<collectionCode id="3F92AE20FF841533FDFEFE7ED85CFD8B" box="[562,591,511,537]" pageId="6" pageNumber="483">IV</collectionCode>
+and 
+<collectionCode id="3F92AE20FF841533FD4AFE7ED889FD8B" box="[646,666,511,537]" country="Canada" lsid="urn:lsid:biocol.org:col:13946" name="Royal British Columbia Museum - Herbarium" pageId="6" pageNumber="483" type="Museum">V</collectionCode>
+. Clypeolabral shield 95–107 μm long. Spiracles small, width of each peritreme 18–22 μm. Legs quite well developed, with trochanterofemoral segmentation (but no long trochanteral seta on ventral surface), and with tibio-tarsal segmentation. Dimensions of hind leg (in μm): coxa about 64–86, trochanter + femur 98–112, tibia 60–68, tarsus 46–58, claw 10–12. Tarsal digitules slightly longer than claw digitules, with small capitate apices; claw digitules with one slightly narrower than other, particularly narrower towards base; claw without a denticle. Setal distribution: coxa 3 or 4; trochanter 1; femur 2 or 3; tibia 2 and tarsus 2.
+</paragraph>
+</subSubSection>
+<subSubSection id="1199656EFF841533FF0BFD57D83FFD63" _generate="added" box="[199,556,726,753]" pageId="6" pageNumber="483" type="distribution">
+<paragraph id="593C36E5FF841533FF0BFD57D83FFD63" blockId="6.[151,1437,150,1113]" box="[199,556,726,753]" pageId="6" pageNumber="483">
+<emphasis id="6BF7EAF7FF841533FF0BFD57DB72FD62" bold="true" box="[199,353,726,752]" pageId="6" pageNumber="483">Distribution.</emphasis>
+<collectingCountry id="21947675FF841533FEABFD56DBB9FD63" box="[359,426,727,753]" name="China" pageId="6" pageNumber="483">China</collectingCountry>
+(
+<collectingRegion id="9B47F807FF841533FE75FD56D833FD63" box="[441,544,727,753]" country="China" name="Guizhou" pageId="6" pageNumber="483">Guizhou</collectingRegion>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="1199656EFF841533FF0BFD7AD89EFC87" _generate="added" box="[199,653,763,789]" pageId="6" pageNumber="483" type="biology_ecology">
+<paragraph id="593C36E5FF841533FF0BFD7AD89EFC87" blockId="6.[151,1437,150,1113]" box="[199,653,763,789]" pageId="6" pageNumber="483">
+<emphasis id="6BF7EAF7FF841533FF0BFD7ADB45FC87" bold="true" box="[199,342,763,789]" pageId="6" pageNumber="483">Host plants.</emphasis>
+<taxonomicName id="9E834D66FF841533FE91FD7ADBC2FC87" _evidence="catalogs" _step="family" box="[349,465,763,789]" class="Magnoliopsida" family="Sabiaceae" kingdom="Plantae" order="Proteales" pageId="6" pageNumber="483" phylum="Tracheophyta" rank="family">Sabiaceae</taxonomicName>
+: 
+<emphasis id="6BF7EAF7FF841533FE10FD7AD894FC87" box="[476,647,763,789]" italics="true" pageId="6" pageNumber="483">Sabia swinhoei</emphasis>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="1199656EFF841533FF0BFC9ED977FBA7" _generate="added" pageId="6" pageNumber="483" type="discussion">
+<paragraph id="593C36E5FF841533FF0BFC9ED977FBA7" blockId="6.[151,1437,150,1113]" pageId="6" pageNumber="483">
+<emphasis id="6BF7EAF7FF841533FF0BFC9EDB28FCAB" bold="true" box="[199,315,799,825]" pageId="6" pageNumber="483">Remarks.</emphasis>
+<taxonomicName id="9E834D66FF841533FE8DFC9ED831FCAB" _evidence="statusLabel" _step="newLabel1" authority="Tan &amp; Meng &amp; Xing, 2024" authorityName="Tan &amp; Meng &amp; Xing" authorityYear="2024" box="[321,546,799,825]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="sabia" status="sp. nov.">
+<emphasis id="6BF7EAF7FF841533FE8DFC9ED831FCAB" box="[321,546,799,825]" italics="true" pageId="6" pageNumber="483">Paralecanium sabia</emphasis>
+</taxonomicName>
+<emphasis id="6BF7EAF7FF841533FDEBFC9ED876FCAB" bold="true" box="[551,613,799,825]" pageId="6" pageNumber="483">
+<taxonomicNameLabel id="70C4578CFF841533FDEBFC9ED876FCAB" box="[551,613,799,825]" pageId="6" pageNumber="483" rank="species">sp. n.</taxonomicNameLabel>
+</emphasis>
+is similar to 
+<taxonomicName id="9E834D66FF841533FD3EFC9EDE3BFCAB" _authorityPlausibility="0.98980826" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Green, 1896)" baseAuthorityName="Green" baseAuthorityYear="1896" box="[754,1064,799,825]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="maritimum">
+<emphasis id="6BF7EAF7FF841533FD3EFC9ED994FCAA" box="[754,903,799,824]" italics="true" pageId="6" pageNumber="483">P. maritimum</emphasis>
+(
+<bibRefCitation id="3D124B14FF841533FC58FC9EDE33FCAB" author="Green, E. E." box="[916,1056,799,825]" pageId="6" pageNumber="483" pagination="2 - 10" refId="ref7415" refString="Green, E. E. (1896) Catalogue of Coccidae collected in Ceylon. Indian Museum Notes, 4, 2 - 10." type="journal article" year="1896">Green, 1896</bibRefCitation>
+)
+</taxonomicName>
+in having the following character states: (i) abdominal clear areas absent; (ii) similarly shaped stigmatic clefts and stigmatic spines; (iii) dorsal setae rather short; and (iv) a similar number and distribution of large dorsal pores, multilocular disc-pores and spiracular disc-pores. 
+<taxonomicName id="9E834D66FF841533FEDAFC0ADBE4FC37" _evidence="statusLabelOccurrence" _step="newLabel2" authorityName="Tan &amp; Meng &amp; Xing" authorityYear="2024" box="[278,503,907,933]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="sabia">
+<emphasis id="6BF7EAF7FF841533FEDAFC0ADBE4FC37" box="[278,503,907,933]" italics="true" pageId="6" pageNumber="483">Paralecanium sabia</emphasis>
+</taxonomicName>
+can be distinguished from the latter by (character states of 
+<taxonomicName id="9E834D66FF841533FBB5FC0ADF1DFC36" _evidence="catalog+fontStyle" _step="styledSpecies" baseAuthorityName="Green" baseAuthorityYear="1896" box="[1145,1294,907,932]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="maritimum">
+<emphasis id="6BF7EAF7FF841533FBB5FC0ADF1DFC36" box="[1145,1294,907,932]" italics="true" pageId="6" pageNumber="483">P. maritimum</emphasis>
+</taxonomicName>
+in brackets): (i) anal plates together only slightly longer than wide, ratio of length to width 1: 0.80 (anal plates together obviously much longer than wide, ratio of length to width 1: 0.55); (ii) antennal setose setae absent from segments IV and V (setose setae present on all antennal segments); (iii) dorsal setae with a distinctly blunt apex (with a sharp apex); and (iv) areolations each about 25 μm wide (only about 8 μm wide).
+</paragraph>
+</subSubSection>
+<subSubSection id="1199656EFF841533FF0BFBBEDE9CFBCB" _generate="added" box="[199,1167,1087,1113]" pageId="6" pageNumber="483" type="etymology">
+<paragraph id="593C36E5FF841533FF0BFBBEDE9CFBCB" blockId="6.[151,1437,150,1113]" box="[199,1167,1087,1113]" pageId="6" pageNumber="483">
+<emphasis id="6BF7EAF7FF841533FF0BFBBEDB41FBCB" bold="true" box="[199,338,1087,1113]" pageId="6" pageNumber="483">Etymology:</emphasis>
+The specific epithet is based on the Latin genitive of the host-plant name.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment id="D12A87F3FF841532FF5BFB2ADF8EFB22" ID-DOI="http://doi.org/10.5281/zenodo.10708334" ID-GBIF-Taxon="221744753" ID-Zenodo-Dep="10708334" _generate="transformed_from_key" lastPageId="7" lastPageNumber="484" pageId="6" pageNumber="483">
+<subSubSection id="1199656EFF841533FF5BFB2ADEFBFB56" box="[151,1256,1194,1221]" pageId="6" pageNumber="483" type="nomenclature">
+<paragraph id="593C36E5FF841533FF5BFB2ADEFBFB56" blockId="6.[151,1256,1194,1221]" box="[151,1256,1194,1221]" pageId="6" pageNumber="483">
+<heading id="02748189FF841533FF5BFB2ADEFBFB56" bold="true" box="[151,1256,1194,1221]" fontSize="11" level="1" pageId="6" pageNumber="483" reason="1">
+<emphasis id="6BF7EAF7FF841533FF5BFB2ADEFBFB56" bold="true" box="[151,1256,1194,1221]" pageId="6" pageNumber="483">
+Key to species of 
+<taxonomicName id="9E834D66FF841533FEA2FB2BD80AFB57" ID-CoL="6F6N" ID-ENA="759724" _authorityPlausibility="0.9985107" _evidence="document" _plausibility="0.85848343" _step="docGenera" authority="Cockerell" authorityName="Cockerell" box="[366,537,1194,1221]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="genus">
+<emphasis id="6BF7EAF7FF841533FEA2FB2BD80AFB57" bold="true" box="[366,537,1194,1221]" italics="true" pageId="6" pageNumber="483">Paralecanium</emphasis>
+</taxonomicName>
+adult females, partly based on 
+<bibRefCitation id="3D124B14FF841533FC6CFB2ADEFBFB56" author="Hodgson, C. J. &amp; Williams, D. J." box="[928,1256,1194,1221]" pageId="6" pageNumber="483" pagination="1 - 162" refId="ref7441" refString="Hodgson, C. J. &amp; Williams, D. J. (2018) Revision of the soft scale genus Paralecanium (Hemiptera: Coccomorpha: Coccidae) with the introduction of three new genera and twenty new species. Zootaxa, 4443 (1), 1 - 162. https: // doi. org / 10.11646 / zootaxa. 4443.1.1" type="journal article" year="2018">Hodgson &amp; Williams (2018)</bibRefCitation>
+</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="1199656EFF841532FF5BFB71DF8EFB22" lastPageId="7" lastPageNumber="484" pageId="6" pageNumber="483" type="key">
+<keyStep id="E2772E40FF841533FF5BFB71DF8FFAB0" pageId="6" pageNumber="483">
+<paragraph id="593C36E5FF841533FF5BFB71DF8EFA94" blockId="6.[151,1437,1264,2019]" box="[151,1437,1264,1286]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BFB71DF8EFA94" box="[151,1437,1264,1286]" pageId="6" pageNumber="483">
+1(0) Legs reduced, with very short segments................................................. 
+<taxonomicName id="9E834D66FF841533FB67FB71DF8EFA94" _authorityPlausibility="0.8473381" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Hodgson" authorityName="Hodgson" box="[1195,1437,1264,1286]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="palawanense">
+<emphasis id="6BF7EAF7FF841533FB67FB71DF2CFA97" box="[1195,1343,1264,1285]" italics="true" pageId="6" pageNumber="483">P. palawanense</emphasis>
+Hodgson
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF841533FF5BFA8CDF8FFAB0" blockId="6.[151,1437,1264,2019]" box="[151,1436,1293,1315]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BFA8CDF8FFAB0" box="[151,1436,1293,1315]" pageId="6" pageNumber="483">- Legs normally developed............................................................................... 2</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF841533FF5BFAABDF8FFACF" pageId="6" pageNumber="483">
+<paragraph id="593C36E5FF841533FF5BFAABDF8EFAD2" blockId="6.[151,1437,1264,2019]" box="[151,1437,1322,1344]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BFAABDF8EFAD2" box="[151,1437,1322,1344]" pageId="6" pageNumber="483">
+2(1) Marginal setae spatulate................................................................ 
+<taxonomicName id="9E834D66FF841533FB1CFAAADF8EFAD2" _authorityPlausibility="0.8473381" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Hodgson" authorityName="Hodgson" box="[1232,1437,1322,1344]" class="Insecta" family="Coccidae" genus="Podoparalecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="comperei">
+<emphasis id="6BF7EAF7FF841533FB1CFAAADF2CFAD2" box="[1232,1343,1323,1344]" italics="true" pageId="6" pageNumber="483">P. comperei</emphasis>
+Hodgson
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF841533FF5BFAC9DF8FFACF" blockId="6.[151,1437,1264,2019]" box="[151,1436,1352,1374]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BFAC9DF8FFACF" box="[151,1436,1352,1374]" pageId="6" pageNumber="483">- Marginal setae fan-shaped.............................................................................. 3</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF841533FF5BFAE4DF8FFA05" pageId="6" pageNumber="483">
+<paragraph id="593C36E5FF841533FF5BFAE4DF8EFAE9" blockId="6.[151,1437,1264,2019]" box="[151,1437,1381,1403]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BFAE4DF8EFAE9" box="[151,1437,1381,1403]" pageId="6" pageNumber="483">
+3(2) Dorsal setae each expanding into a scimitar-like apex......................................... 
+<taxonomicName id="9E834D66FF841533FB18FAE7DF8EFAE9" _authorityPlausibility="0.8473381" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Hodgson" authorityName="Hodgson" box="[1236,1437,1381,1403]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="acinaces">
+<emphasis id="6BF7EAF7FF841533FB18FAE7DF53FAE9" box="[1236,1344,1382,1403]" italics="true" pageId="6" pageNumber="483">P. acinaces</emphasis>
+Hodgson
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF841533FF5BFA02DF8FFA05" blockId="6.[151,1437,1264,2019]" box="[151,1436,1410,1432]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BFA02DF8FFA05" box="[151,1436,1410,1432]" pageId="6" pageNumber="483">- Dorsal setae with apices of other shapes................................................................... 4</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF841533FF5BFA21DF8FFA41" pageId="6" pageNumber="483">
+<paragraph id="593C36E5FF841533FF5BFA21DF8FFA27" blockId="6.[151,1437,1264,2019]" box="[151,1436,1439,1462]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BFA21DF8FFA27" box="[151,1436,1439,1462]" pageId="6" pageNumber="483">4(3) With dorsal setae of 2 sizes............................................................................. 5</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF841533FF5BFA3CDF8FFA41" blockId="6.[151,1437,1264,2019]" box="[151,1436,1469,1491]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BFA3CDF8FFA41" box="[151,1436,1469,1491]" pageId="6" pageNumber="483">- With dorsal setae of 1 size throughout..................................................................... 6</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF841533FF5BFA5BDF8FF9B9" pageId="6" pageNumber="483">
+<paragraph id="593C36E5FF841533FF5BFA5BDF8EFA62" blockId="6.[151,1437,1264,2019]" box="[151,1437,1498,1520]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BFA5BDF8EFA62" box="[151,1437,1498,1520]" pageId="6" pageNumber="483">
+5(4) Stigmatic spines basically club-shaped, and usually not extending beyond cleft opening............. 
+<taxonomicName id="9E834D66FF841533FB1CFA5ADF8EFA62" _authorityPlausibility="0.8473381" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Hodgson" authorityName="Hodgson" box="[1232,1437,1498,1520]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="busoense">
+<emphasis id="6BF7EAF7FF841533FB1CFA5ADF53FA7D" box="[1232,1344,1498,1520]" italics="true" pageId="6" pageNumber="483">P. busoense</emphasis>
+Hodgson
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF841533FF5BFA79DF8FF9B9" blockId="6.[151,1437,1264,2019]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BFA79DF8FF9B9" pageId="6" pageNumber="483">
+- Stigmatic spines each parallel-sided throughout entire length, and longer, extending beyond cleft opening................................................................................................. 
+<taxonomicName id="9E834D66FF841533FB7BF997DF8FF9B9" ID-CoL="4CY9T" _authorityPlausibility="0.9955136" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Takahashi" authorityName="Takahashi" authorityYear="1950" box="[1207,1436,1557,1579]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="pahanense">
+<emphasis id="6BF7EAF7FF841533FB7BF997DF25F9B8" box="[1207,1334,1557,1579]" italics="true" pageId="6" pageNumber="483">P. pahanense</emphasis>
+Takahashi
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF841533FF5BF9B3DF8FF9F7" pageId="6" pageNumber="483">
+<paragraph id="593C36E5FF841533FF5BF9B3DF8FF9DA" blockId="6.[151,1437,1264,2019]" box="[151,1436,1586,1608]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF9B3DF8FF9DA" box="[151,1436,1586,1608]" pageId="6" pageNumber="483">6(4) Stigmatic clefts each containing only 1 stigmatic spine........................................................ 7</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF841533FF5BF9D1DF8FF9F7" blockId="6.[151,1437,1264,2019]" box="[151,1436,1616,1638]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF9D1DF8FF9F7" box="[151,1436,1616,1638]" pageId="6" pageNumber="483">- Stigmatic clefts each containing at least 2 stigmatic spines.................................................... 10</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF841533FF5BF9ECDF8FF90D" pageId="6" pageNumber="483">
+<paragraph id="593C36E5FF841533FF5BF9ECDF8FF910" blockId="6.[151,1437,1264,2019]" box="[151,1436,1645,1667]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF9ECDF8FF910" box="[151,1436,1645,1667]" pageId="6" pageNumber="483">7(6) Legs relatively well developed, with trochanter + femur more than 105 µm long................................... 8</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF841533FF5BF90ADF8FF90D" blockId="6.[151,1437,1264,2019]" box="[151,1436,1674,1696]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF90ADF8FF90D" box="[151,1436,1674,1696]" pageId="6" pageNumber="483">- Legs reduced, with trochanter + femur less than 85 µm long................................................... 9</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF841533FF5BF929DF8FF96A" pageId="6" pageNumber="483">
+<paragraph id="593C36E5FF841533FF5BF929DF8FF948" blockId="6.[151,1437,1264,2019]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF929DF8FF948" pageId="6" pageNumber="483">
+8(7) Dorsal setae few, each 11–12 μm long, with base narrow but quickly broadening, becoming narrowly bulbous at apex.................................................................................. 
+<taxonomicName id="9E834D66FF841533FBB3F947DF5AF949" _authorityPlausibility="0.8473381" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Hodgson" authorityName="Hodgson" box="[1151,1353,1733,1755]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="claviseta">
+<emphasis id="6BF7EAF7FF841533FBB3F947DEF8F948" box="[1151,1259,1733,1755]" italics="true" pageId="6" pageNumber="483">P. claviseta</emphasis>
+Hodgson
+</taxonomicName>
+(in part)
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF841533FF5BF962DF8FF96A" blockId="6.[151,1437,1264,2019]" box="[151,1436,1762,1784]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF962DF8FF96A" box="[151,1436,1762,1784]" pageId="6" pageNumber="483">
+- Dorsal setae short and stout, each 6–7 µm long, parallel-sided with apex blunt................... 
+<taxonomicName id="9E834D66FF841533FB7FF962DF8FF96A" ID-CoL="4CY9D" _authorityPlausibility="0.9955136" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Takahashi" authorityName="Takahashi" authorityYear="1950" box="[1203,1436,1762,1784]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="maculatum">
+<emphasis id="6BF7EAF7FF841533FB7FF962DF25F965" box="[1203,1334,1762,1784]" italics="true" pageId="6" pageNumber="483">P. maculatum</emphasis>
+Takahashi
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF841533FF5BF881DF8EF8A1" pageId="6" pageNumber="483">
+<paragraph id="593C36E5FF841533FF5BF881DF8FF884" blockId="6.[151,1437,1264,2019]" box="[151,1436,1792,1814]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF881DF8FF884" box="[151,1436,1792,1814]" pageId="6" pageNumber="483">
+9(7) Anal plate apodemes each extending anteriorly and fused medially.............................. 
+<taxonomicName id="9E834D66FF841533FB06F881DF8FF884" ID-CoL="4CY9Q" _authorityPlausibility="0.9955136" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Takahashi" authorityName="Takahashi" authorityYear="1951" box="[1226,1436,1792,1814]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="minutum">
+<emphasis id="6BF7EAF7FF841533FB06F881DF25F887" box="[1226,1334,1792,1813]" italics="true" pageId="6" pageNumber="483">P. minutum</emphasis>
+Takahashi
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF841533FF5BF89CDF8EF8A1" blockId="6.[151,1437,1264,2019]" box="[151,1437,1821,1843]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF89CDF8EF8A1" box="[151,1437,1821,1843]" pageId="6" pageNumber="483">
+- Anal plate apodemes not extending anteriorly, not fused medially................................ 
+<taxonomicName id="9E834D66FF841533FB11F89FDF8EF8A1" _authorityPlausibility="0.8473381" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Hodgson" authorityName="Hodgson" box="[1245,1437,1821,1843]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="vacerra">
+<emphasis id="6BF7EAF7FF841533FB11F89FDF53F8A1" box="[1245,1344,1822,1843]" italics="true" pageId="6" pageNumber="483">P. vacerra</emphasis>
+Hodgson
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF841533FF5BF8BBDF8FF8FF" pageId="6" pageNumber="483">
+<paragraph id="593C36E5FF841533FF5BF8BBDF8EF8C2" blockId="6.[151,1437,1264,2019]" box="[151,1437,1850,1872]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF8BBDF8EF8C2" box="[151,1437,1850,1872]" pageId="6" pageNumber="483">
+10(6) Body elongate, 2.5–3.0x longer than wide................................................. 
+<taxonomicName id="9E834D66FF841533FB0FF8BADF8EF8C2" _authorityPlausibility="0.8473381" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Hodgson" authorityName="Hodgson" box="[1219,1437,1850,1872]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="elongatum">
+<emphasis id="6BF7EAF7FF841533FB0FF8BADF2CF8DD" box="[1219,1343,1850,1872]" italics="true" pageId="6" pageNumber="483">P. elongatum</emphasis>
+Hodgson
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF841533FF5BF8D9DF8FF8FF" blockId="6.[151,1437,1264,2019]" box="[151,1436,1880,1902]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF8D9DF8FF8FF" box="[151,1436,1880,1902]" pageId="6" pageNumber="483">- Body much broader, less than 2x longer than wide.......................................................... 11</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF841533FF5BF8F4DF8FF835" pageId="6" pageNumber="483">
+<paragraph id="593C36E5FF841533FF5BF8F4DF8FF818" blockId="6.[151,1437,1264,2019]" box="[151,1436,1909,1931]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF8F4DF8FF818" box="[151,1436,1909,1931]" pageId="6" pageNumber="483">
+11(10) Stigmatic clefts each containing only 2 stigmatic spines................................ 
+<taxonomicName id="9E834D66FF841533FBB3F8F7DF5AF819" _authorityPlausibility="0.8473381" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Hodgson" authorityName="Hodgson" box="[1151,1353,1909,1931]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="claviseta">
+<emphasis id="6BF7EAF7FF841533FBB3F8F7DEF8F818" box="[1151,1259,1909,1931]" italics="true" pageId="6" pageNumber="483">P. claviseta</emphasis>
+Hodgson
+</taxonomicName>
+(in part)
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF841533FF5BF812DF8FF835" blockId="6.[151,1437,1264,2019]" box="[151,1436,1938,1960]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF812DF8FF835" box="[151,1436,1938,1960]" pageId="6" pageNumber="483">- Stigmatic clefts each containing 3 stigmatic spines.......................................................... 12</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF841533FF5BF831DF8FF870" pageId="6" pageNumber="483">
+<paragraph id="593C36E5FF841533FF5BF831DF8FF854" blockId="6.[151,1437,1264,2019]" box="[151,1436,1968,1990]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF831DF8FF854" box="[151,1436,1968,1990]" pageId="6" pageNumber="483">
+12(11) Trochanters each without a long seta................................................... 
+<taxonomicName id="9E834D66FF841533FB7DF831DF8FF854" ID-CoL="4CY96" _authorityPlausibility="0.9955136" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Takahashi" authorityName="Takahashi" authorityYear="1942" box="[1201,1436,1968,1990]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="483" phylum="Arthropoda" rank="species" species="hainanense">
+<emphasis id="6BF7EAF7FF841533FB7DF831DF26F857" box="[1201,1333,1968,1989]" italics="true" pageId="6" pageNumber="483">P. hainanense</emphasis>
+Takahashi
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF841533FF5BF84CDF8FF870" blockId="6.[151,1437,1264,2019]" box="[151,1436,1997,2019]" pageId="6" pageNumber="483">
+<keyLead id="E27295D0FF841533FF5BF84CDF8FF870" box="[151,1436,1997,2019]" pageId="6" pageNumber="483">- Trochanters each with a long seta........................................................................ 13</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFF19DF8FFF58" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFF19DF8EFF3F" blockId="7.[151,1437,151,1200]" box="[151,1437,151,173]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFF19DF8EFF3F" box="[151,1437,151,173]" pageId="7" pageNumber="484">
+13(12) Marginal ornamentation absent......................................................... 
+<taxonomicName id="9E834D66FF851532FB18FF19DF8EFF3F" ID-CoL="4CY8Y" _authorityPlausibility="0.98980826" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Green)" baseAuthorityName="Green" baseAuthorityYear="1904" box="[1236,1437,151,173]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="calophylli">
+<emphasis id="6BF7EAF7FF851532FB18FF19DF5FFF3E" box="[1236,1356,151,173]" italics="true" pageId="7" pageNumber="484">P. calophylli</emphasis>
+(Green)
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFF34DF8FFF58" blockId="7.[151,1437,151,1200]" box="[151,1436,181,203]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFF34DF8FFF58" box="[151,1436,181,203]" pageId="7" pageNumber="484">- Marginal ornamentation present....................................................................... 14</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFF53DF8FFE97" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFF53DF8FFF7A" blockId="7.[151,1437,151,1200]" box="[151,1436,210,232]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFF53DF8FFF7A" box="[151,1436,210,232]" pageId="7" pageNumber="484">
+14(13) Trochanter + femur less than 40 µm long.................................................. 
+<taxonomicName id="9E834D66FF851532FB13FF52DF8FFF7A" ID-CoL="4CY9S" _authorityPlausibility="0.848179" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Morrison" authorityName="Morrison" authorityYear="1921" box="[1247,1436,210,232]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="ovatum">
+<emphasis id="6BF7EAF7FF851532FB13FF52DF2EFF7A" box="[1247,1341,211,232]" italics="true" pageId="7" pageNumber="484">P. ovatum</emphasis>
+Morrison
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFF71DF8FFE97" blockId="7.[151,1437,151,1200]" box="[151,1436,239,261]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFF71DF8FFE97" box="[151,1436,239,261]" pageId="7" pageNumber="484">- Trochanter + femur more than 60 µm long............................................................... 15</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFE8CDF8FFED2" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFE8CDF8EFEB1" blockId="7.[151,1437,151,1200]" box="[151,1437,269,291]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFE8CDF8EFEB1" box="[151,1437,269,291]" pageId="7" pageNumber="484">
+15(14) Trochanter + femur more than 160 µm long............................................. 
+<taxonomicName id="9E834D66FF851532FB79FE8FDF8EFEB1" _authorityPlausibility="0.9998885" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Fuller)" baseAuthorityName="Fuller" box="[1205,1437,269,291]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="macrozamiae">
+<emphasis id="6BF7EAF7FF851532FB79FE8FDF5FFEB0" box="[1205,1356,269,291]" italics="true" pageId="7" pageNumber="484">P. macrozamiae</emphasis>
+(Fuller)
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFEAADF8FFED2" blockId="7.[151,1437,151,1200]" box="[151,1436,298,320]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFEAADF8FFED2" box="[151,1436,298,320]" pageId="7" pageNumber="484">- Trochanter + femur less than 150 µm long............................................................... 16</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFEC6DF8FFEE8" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFEC6DF8FFECF" blockId="7.[151,1437,151,1200]" box="[151,1436,327,349]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFEC6DF8FFECF" box="[151,1436,327,349]" pageId="7" pageNumber="484">16(15) Venter of mature specimens without a sclerotized or patterned marginal band................................... 17</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFEE4DF8FFEE8" blockId="7.[151,1437,151,1200]" box="[151,1436,357,379]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFEE4DF8FFEE8" box="[151,1436,357,379]" pageId="7" pageNumber="484">- Venter of mature specimens with a sclerotized or patterned marginal band...................................... 18</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFE03DF8EFE27" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFE03DF8EFE0A" blockId="7.[151,1437,151,1200]" box="[151,1437,386,408]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFE03DF8EFE0A" box="[151,1437,386,408]" pageId="7" pageNumber="484">
+17(16) Dorsal setae each finely spinose with a sharp apex....................................... 
+<taxonomicName id="9E834D66FF851532FB69FE02DF8EFE0A" _authorityPlausibility="0.8473381" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Hodgson" authorityName="Hodgson" box="[1189,1437,386,408]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="neoguineense">
+<emphasis id="6BF7EAF7FF851532FB69FE02DF53FE0A" box="[1189,1344,387,408]" italics="true" pageId="7" pageNumber="484">P. neoguineense</emphasis>
+Hodgson
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFE21DF8EFE27" blockId="7.[151,1437,151,1200]" box="[151,1437,415,437]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFE21DF8EFE27" box="[151,1437,415,437]" pageId="7" pageNumber="484">
+- Dorsal setae clearly capitate............................................................. 
+<taxonomicName id="9E834D66FF851532FB2FFE21DF8EFE27" ID-CoL="75PXB" _authorityPlausibility="0.98980826" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Green)" baseAuthorityName="Green" baseAuthorityYear="1904" box="[1251,1437,416,437]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="zonatum">
+<emphasis id="6BF7EAF7FF851532FB2FFE21DF58FE27" box="[1251,1355,416,437]" italics="true" pageId="7" pageNumber="484">P. zonatum</emphasis>
+(Green)
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFE3CDF8FFE7D" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFE3CDF8EFE40" blockId="7.[151,1437,151,1200]" box="[151,1437,445,467]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFE3CDF8EFE40" box="[151,1437,445,467]" pageId="7" pageNumber="484">
+18(16) Ventral marginal band more than 250 μm wide.......................................... 
+<taxonomicName id="9E834D66FF851532FB7BFE3FDF8EFE40" ID-CoL="4CY94" _authorityPlausibility="0.98980826" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Green)" baseAuthorityName="Green" baseAuthorityYear="1896" box="[1207,1437,445,467]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="geometricum">
+<emphasis id="6BF7EAF7FF851532FB7BFE3FDF58FE40" box="[1207,1355,445,467]" italics="true" pageId="7" pageNumber="484">P. geometricum</emphasis>
+(Green)
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFE5ADF8FFE7D" blockId="7.[151,1437,151,1200]" box="[151,1436,474,496]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFE5ADF8FFE7D" box="[151,1436,474,496]" pageId="7" pageNumber="484">- Ventral marginal band less than 230 μm wide............................................................ 19</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFE79DF8FFDB8" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFE79DF8EFD9F" blockId="7.[151,1437,151,1200]" box="[151,1437,503,525]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFE79DF8EFD9F" box="[151,1437,503,525]" pageId="7" pageNumber="484">
+19(18) Marginal setae each fan-shaped but with a flattish top, almost triangular......................... 
+<taxonomicName id="9E834D66FF851532FB14FE79DF8EFD9F" _authorityPlausibility="0.9983714" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Maskell)" baseAuthorityName="Maskell" box="[1240,1437,503,525]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="frenchii">
+<emphasis id="6BF7EAF7FF851532FB14FE79DF2AFD9E" box="[1240,1337,503,525]" italics="true" pageId="7" pageNumber="484">P. frenchii</emphasis>
+(Maskell)
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFD94DF8FFDB8" blockId="7.[151,1437,151,1200]" box="[151,1436,533,555]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFD94DF8FFDB8" box="[151,1436,533,555]" pageId="7" pageNumber="484">- Marginal setae each fan-shaped with a cambered top, never triangular......................................... 20</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFDB3DF8FFDF7" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFDB3DF8FFDD5" blockId="7.[151,1437,151,1200]" box="[151,1436,562,584]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFDB3DF8FFDD5" box="[151,1436,562,584]" pageId="7" pageNumber="484">20(19) Large dorsal pores each 8–10 μm wide.................................................................. 21</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFDD1DF8FFDF7" blockId="7.[151,1437,151,1200]" box="[151,1436,591,613]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFDD1DF8FFDF7" box="[151,1436,591,613]" pageId="7" pageNumber="484">- Large dorsal pores (if present) each no more than 7 μm wide................................................ 22</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFDECDF8EFD0D" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFDECDF8EFD11" blockId="7.[151,1437,151,1200]" box="[151,1437,621,643]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFDECDF8EFD11" box="[151,1437,621,643]" pageId="7" pageNumber="484">
+21(20) Dorsum with each submedial band containing only 10–15 large pores....................... 
+<taxonomicName id="9E834D66FF851532FB7CFDEFDF8EFD11" _authorityPlausibility="0.8473381" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Hodgson" authorityName="Hodgson" box="[1200,1437,621,643]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="cypripedium">
+<emphasis id="6BF7EAF7FF851532FB7CFDEFDF53FD10" box="[1200,1344,621,643]" italics="true" pageId="7" pageNumber="484">P. cypripedium</emphasis>
+Hodgson
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFD0ADF8EFD0D" blockId="7.[151,1437,151,1200]" box="[151,1437,650,672]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFD0ADF8EFD0D" box="[151,1437,650,672]" pageId="7" pageNumber="484">
+- Dorsum with each submedial band containing 35–60 large pores........................... 
+<taxonomicName id="9E834D66FF851532FB65FD0ADF8EFD0D" ID-CoL="4CY9W" _authorityPlausibility="0.98980826" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Green)" baseAuthorityName="Green" box="[1193,1437,650,672]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="peradeniyense">
+<emphasis id="6BF7EAF7FF851532FB65FD0ADF5FFD0D" box="[1193,1356,650,672]" italics="true" pageId="7" pageNumber="484">P. peradeniyense</emphasis>
+(Green)
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFD29DF8FFD48" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFD29DF8FFD2F" blockId="7.[151,1437,151,1200]" box="[151,1436,679,701]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFD29DF8FFD2F" box="[151,1436,679,701]" pageId="7" pageNumber="484">22(20) Dorsal setae each with a sharp apex.................................................................... 23</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFD44DF8FFD48" blockId="7.[151,1437,151,1200]" box="[151,1436,709,731]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFD44DF8FFD48" box="[151,1436,709,731]" pageId="7" pageNumber="484">- Dorsal setae each with a more-or-less blunt or capitate apex................................................. 24</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFD63DF8EFC87" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFD63DF8EFD65" blockId="7.[151,1437,151,1200]" box="[151,1437,738,760]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFD63DF8EFD65" box="[151,1437,738,760]" pageId="7" pageNumber="484">
+23(22) Stigmatic spines tending to be rather pointed............................................. 
+<taxonomicName id="9E834D66FF851532FB0CFD62DF8EFD65" ID-CoL="4CY9J" _authorityPlausibility="0.98980826" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Green)" baseAuthorityName="Green" baseAuthorityYear="1896" box="[1216,1437,738,760]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="marginatum">
+<emphasis id="6BF7EAF7FF851532FB0CFD62DF58FD6A" box="[1216,1355,739,760]" italics="true" pageId="7" pageNumber="484">P. marginatum</emphasis>
+(Green)
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFC81DF8EFC87" blockId="7.[151,1437,151,1200]" box="[151,1437,767,789]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFC81DF8EFC87" box="[151,1437,767,789]" pageId="7" pageNumber="484">
+- Stigmatic spines slightly clavate........................................................ 
+<taxonomicName id="9E834D66FF851532FB07FC81DF8EFC87" ID-CoL="4CY9M" _authorityPlausibility="0.98980826" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Green)" baseAuthorityName="Green" baseAuthorityYear="1896" box="[1227,1437,768,789]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="maritimum">
+<emphasis id="6BF7EAF7FF851532FB07FC81DF58FC87" box="[1227,1355,768,789]" italics="true" pageId="7" pageNumber="484">P. maritimum</emphasis>
+(Green)
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFC9CDF8FFCDD" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFC9CDF8FFCA1" blockId="7.[151,1437,151,1200]" box="[151,1436,797,819]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFC9CDF8FFCA1" box="[151,1436,797,819]" pageId="7" pageNumber="484">24(22) Antennal segments IV and V each with a setose seta....................................................... 25</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFCBADF8FFCDD" blockId="7.[151,1437,151,1200]" box="[151,1436,826,848]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFCBADF8FFCDD" box="[151,1436,826,848]" pageId="7" pageNumber="484">
+- Antennal segments IV and V each without any setose setae......................... 
+<taxonomicName id="9E834D66FF851532FB95FCBADF73FCC2" _authorityPlausibility="0.99741507" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Tan, Meng &amp; Xing" authorityName="Tan, Meng &amp; Xing" authorityYear="2024" box="[1113,1376,826,848]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="sabia" status="sp. n.">
+<emphasis id="6BF7EAF7FF851532FB95FCBADEB7FCDD" box="[1113,1188,826,848]" italics="true" pageId="7" pageNumber="484">P. sabia</emphasis>
+Tan, Meng &amp; Xing
+</taxonomicName>
+<emphasis id="6BF7EAF7FF851532FAAAFCBBDF8FFCDD" bold="true" box="[1382,1436,826,847]" pageId="7" pageNumber="484">
+<taxonomicNameLabel id="70C4578CFF851532FAAAFCBBDF8FFCDD" box="[1382,1436,826,847]" pageId="7" pageNumber="484" rank="species">sp. n.</taxonomicNameLabel>
+</emphasis>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFCD6DF8FFC18" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFCD6DF8FFCFF" blockId="7.[151,1437,151,1200]" box="[151,1436,855,877]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFCD6DF8FFCFF" box="[151,1436,855,877]" pageId="7" pageNumber="484">25(24) Large dorsal pores absent, or, if considered present, each only about 2 μm wide................................. 26</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFCF4DF8FFC18" blockId="7.[151,1437,151,1200]" box="[151,1436,885,907]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFCF4DF8FFC18" box="[151,1436,885,907]" pageId="7" pageNumber="484">- Large dorsal pores present, each 4–6 μm wide............................................................ 27</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFC13DF8FFB92" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFC13DF8EFC57" blockId="7.[151,1437,151,1200]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFC13DF8EFC57" pageId="7" pageNumber="484">
+26(25) Ornamentation of margin consisting of 6–8 strong radial sclerotizations between each pair of marginal setae................................................................................................ 
+<taxonomicName id="9E834D66FF851532FB20FC31DF8EFC57" ID-CoL="4CY9Y" _authorityPlausibility="0.98980826" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Green)" baseAuthorityName="Green" baseAuthorityYear="1896" box="[1260,1437,943,965]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="planum">
+<emphasis id="6BF7EAF7FF851532FB20FC31DF5FFC56" box="[1260,1356,943,965]" italics="true" pageId="7" pageNumber="484">P. planum</emphasis>
+(Green)
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFC4CDF8FFB92" blockId="7.[151,1437,151,1200]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFC4CDF8FFB92" pageId="7" pageNumber="484">
+- Ornamentation of margin consisting of 1–3 large, shallow sclerotized patches between each pair of marginal setae........................................................................................... 
+<taxonomicName id="9E834D66FF851532FB1AFC6ADF8FFB92" ID-CoL="4KQYS" _authorityPlausibility="0.9955136" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Takahashi" authorityName="Takahashi" box="[1238,1436,1002,1024]" class="Insecta" family="Coccidae" genus="Podoparalecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="machili">
+<emphasis id="6BF7EAF7FF851532FB1AFC6ADF25FC6D" box="[1238,1334,1002,1024]" italics="true" pageId="7" pageNumber="484">P. machili</emphasis>
+Takahashi
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFB86DF8FFBA8" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFB86DF8EFB8F" blockId="7.[151,1437,151,1200]" box="[151,1437,1031,1053]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFB86DF8EFB8F" box="[151,1437,1031,1053]" pageId="7" pageNumber="484">
+27(25) Multilocular disc-pores present around genital opening and on preceding 2 segments................... 
+<taxonomicName id="9E834D66FF851532FAC9FB89DF8EFB8F" _authorityPlausibility="0.8473381" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Hodgson" authorityName="Hodgson" box="[1285,1437,1031,1053]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="leei">
+<emphasis id="6BF7EAF7FF851532FAC9FB89DF53FB8E" box="[1285,1344,1031,1053]" italics="true" pageId="7" pageNumber="484">P. leei</emphasis>
+Hodgson
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFBA4DF8FFBA8" blockId="7.[151,1437,151,1200]" box="[151,1436,1061,1083]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFBA4DF8FFBA8" box="[151,1436,1061,1083]" pageId="7" pageNumber="484">- Multilocular disc-pores present in groups on either side of genital opening and on 1 preceding segment only.......... 28</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E2772E40FF851532FF5BFBC3DF8EFB22" pageId="7" pageNumber="484">
+<paragraph id="593C36E5FF851532FF5BFBC3DF8FFBE7" blockId="7.[151,1437,151,1200]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFBC3DF8FFBE7" pageId="7" pageNumber="484">
+28(27) Dorsal setae rather short, each curved with a blunt apex. Abdominal clear areas obscure or absent on younger specimens but clearly present on mature specimens................................................ 
+<taxonomicName id="9E834D66FF851532FB5EFBE1DF8FFBE7" ID-CoL="4CY9R" _authorityPlausibility="0.9955136" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Takahashi" authorityName="Takahashi" authorityYear="1950" box="[1170,1436,1119,1141]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="neomaritimum">
+<emphasis id="6BF7EAF7FF851532FB5EFBE1DF25FBE7" box="[1170,1334,1120,1141]" italics="true" pageId="7" pageNumber="484">P. neomaritimum</emphasis>
+Takahashi
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFBFCDF8EFB22" blockId="7.[151,1437,151,1200]" pageId="7" pageNumber="484">
+<keyLead id="E27295D0FF851532FF5BFBFCDF8EFB22" pageId="7" pageNumber="484">
+- Dorsal setae longer, each straight, stout and parallel-sided, often with a capitate apex. Abdominal clear areas absent....................................................................................... 
+<taxonomicName id="9E834D66FF851532FB79FB1ADF8EFB22" _authorityPlausibility="0.8473381" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Hodgson" authorityName="Hodgson" box="[1205,1437,1178,1200]" class="Insecta" family="Coccidae" genus="Paralecanium" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="484" phylum="Arthropoda" rank="species" species="morobeense">
+<emphasis id="6BF7EAF7FF851532FB79FB1ADF2CFB3D" box="[1205,1343,1178,1200]" italics="true" pageId="7" pageNumber="484">P. morobeense</emphasis>
+Hodgson
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+</subSubSection>
+</treatment>
+<subSection id="300C2F0EFF851532FF5BFA83DAC4F916" _generate="added" pageId="7" pageNumber="484" type="acknowledgments">
+<paragraph id="593C36E5FF851532FF5BFA83DB99FA8E" blockId="7.[151,394,1282,1308]" box="[151,394,1282,1308]" pageId="7" pageNumber="484">
+<heading id="02748189FF851532FF5BFA83DB99FA8E" bold="true" box="[151,394,1282,1308]" fontSize="11" level="1" pageId="7" pageNumber="484" reason="1">
+<emphasis id="6BF7EAF7FF851532FF5BFA83DB99FA8E" bold="true" box="[151,394,1282,1308]" pageId="7" pageNumber="484">Acknowledgements</emphasis>
+</heading>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BFACBDAC4F916" blockId="7.[151,1436,1354,1668]" pageId="7" pageNumber="484">
+The work was supported by the Science and Technology Support Program of 
+<collectingRegion id="9B47F807FF851532FC22FACBDEABFAF6" box="[1006,1208,1354,1380]" country="China" name="Guizhou" pageId="7" pageNumber="484">Guizhou Province</collectingRegion>
+(20201Y129), a key project of the Science-Technology Basic Condition Platform, from the Ministry of Science and Technology of the 
+<collectingCountry id="21947675FF851532FF5BFA13DBC3FA3E" box="[151,464,1426,1452]" name="China" pageId="7" pageNumber="484">People’s Republic of China</collectingCountry>
+(Grant no. 2005DKA21402), and the Biodiversity Survey and Assessment Project of the Ministry of Ecology and Environment, 
+<collectingCountry id="21947675FF851532FDB9FA37D8ABFA42" box="[629,696,1462,1488]" name="China" pageId="7" pageNumber="484">China</collectingCountry>
+(Grant no. 2019HJ2096001006). We thank Prof. Chris J. Hodgson (Department of Biodiversity and Biological Systematics, The National Museum of 
+<collectingCountry id="21947675FF851532FB82FA5BDE86FA66" box="[1102,1173,1498,1524]" name="United Kingdom" pageId="7" pageNumber="484">Wales</collectingCountry>
+, 
+<collectingRegion id="9B47F807FF851532FB6EFA5BDEE6FA66" box="[1186,1269,1498,1524]" country="United Kingdom" name="Cardiff" pageId="7" pageNumber="484">Cardiff</collectingRegion>
+, 
+<collectingCountry id="21947675FF851532FACEFA5BDF5AFA66" box="[1282,1353,1498,1524]" name="United Kingdom" pageId="7" pageNumber="484">Wales</collectingCountry>
+, 
+<collectingCountry id="21947675FF851532FA99FA5ADF9DFA67" box="[1365,1422,1499,1525]" name="United Kingdom" pageId="7" pageNumber="484">U.K.</collectingCountry>
+), Dr Gillian W. Watson (Department of Life Sciences, Natural History Museum, London, 
+<collectingCountry id="21947675FF851532FB4CFA7EDEA4F98B" box="[1152,1207,1535,1561]" name="United Kingdom" pageId="7" pageNumber="484">U.K.</collectingCountry>
+) and an anonymous reviewer for their helpful suggestions and critical reviews of the manuscript. We are also grateful to Dr Feng Liu (College of Life Sciences, 
+<collectingRegion id="9B47F807FF851532FE34F9C7D84BF9F2" box="[504,600,1606,1632]" country="China" name="Guizhou" pageId="7" pageNumber="484">Guizhou</collectingRegion>
+University, Guiyang, 
+<collectingCountry id="21947675FF851532FC99F9C7D989F9F2" box="[853,922,1606,1632]" name="China" pageId="7" pageNumber="484">China</collectingCountry>
+) for assistance with identification of the host plant.
+</paragraph>
+</subSection>
+<subSection id="300C2F0EFF85153DFF5BF957DB07FE31" _generate="added" lastPageId="8" lastPageNumber="485" pageId="7" pageNumber="484" type="reference_group">
+<paragraph id="593C36E5FF851532FF5BF957DB0CF962" blockId="7.[151,287,1750,1776]" box="[151,287,1750,1776]" pageId="7" pageNumber="484">
+<heading id="02748189FF851532FF5BF957DB0CF962" bold="true" box="[151,287,1750,1776]" fontSize="11" level="1" pageId="7" pageNumber="484" reason="1">
+<emphasis id="6BF7EAF7FF851532FF5BF957DB0CF962" bold="true" box="[151,287,1750,1776]" pageId="7" pageNumber="484">References</emphasis>
+</heading>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BF89ADAE7F8C0" blockId="7.[151,1436,1819,2027]" pageId="7" pageNumber="484">
+<bibRef id="8023A213FF851532FF5BF89ADAE7F8C0" _evidence="authorList|year" pageId="7" pageNumber="484" refId="ref7267" type="journal article">
+<author id="813EDE00FF851532FF5BF89ADB58F8A1" box="[151,331,1819,1843]" case="TC" fns="I" in="T.D.A." ins="D" ln="Cockerell" lnc="TC" npo="LnFn" pageId="7" pageNumber="484">Cockerell, T.D.A.</author>
+&amp; 
+<author id="813EDE00FF851532FEA7F89ADBFDF8A1" box="[363,494,1819,1843]" case="TC" fns="I" in="E.D." ins="D" ln="Bueker" lnc="TC" npo="LnFn" pageId="7" pageNumber="484">Bueker, E.D.</author>
+(
+<year id="2D2B77B6FF851532FE37F89AD823F8A1" box="[507,560,1819,1843]" pageId="7" pageNumber="484">1930</year>
+) 
+<title id="2B87DDD3FF851532FDF1F89DD9DAF8A1" box="[573,969,1819,1843]" pageId="7" pageNumber="484">New records of Coccidae (Homoptera)</title>
+. 
+<journalOrPublisher id="83423C29FF851532FC1EF89ADF77F8A1" box="[978,1380,1819,1843]" pageId="7" pageNumber="484">
+<emphasis id="6BF7EAF7FF851532FC1EF89ADF77F8A1" box="[978,1380,1819,1843]" italics="true" pageId="7" pageNumber="484">American Museum Novitates, New York</emphasis>
+</journalOrPublisher>
+, 
+<part id="2D279C78FF851532FABCF89ADF8BF8A1" box="[1392,1432,1819,1843]" pageId="7" pageNumber="484" type="volume">424</part>
+, 
+<pagination id="604AC811FF851532FF0BF8BBDAFCF8C0" box="[199,239,1850,1874]" pageId="7" pageNumber="484" type="pagination">1–8</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BF8D9DB34F81D" blockId="7.[151,1436,1819,2027]" pageId="7" pageNumber="484">
+<bibRef id="8023A213FF851532FF5BF8D9DB34F81D" _evidence="authorList|year" pageId="7" pageNumber="484" refId="ref7306" type="journal article">
+<author id="813EDE00FF851532FF5BF8D9DB5CF8E3" box="[151,335,1880,1905]" case="TC" fns="I" in="T.D.A." ins="D" ln="Cockerell" lnc="TC" npo="LnFn" pageId="7" pageNumber="484">Cockerell, T.D.A.</author>
+&amp; 
+<author id="813EDE00FF851532FEBAF8D8DBFDF8E2" box="[374,494,1881,1904]" case="TC" fns="I" in="P.J." ins="D" ln="Parrott" lnc="TC" npo="LnFn" pageId="7" pageNumber="484">Parrott, P.J.</author>
+(
+<year id="2D2B77B6FF851532FE32F8D9D820F8E2" box="[510,563,1880,1904]" pageId="7" pageNumber="484">1899</year>
+) 
+<title id="2B87DDD3FF851532FD88F8D9DE2AF8E2" box="[580,1081,1880,1904]" pageId="7" pageNumber="484">Contribution to the knowledge of the Coccidae</title>
+. 
+<journalOrPublisher id="83423C29FF851532FB8AF8D9DEE1F8E2" box="[1094,1266,1880,1904]" pageId="7" pageNumber="484">
+<emphasis id="6BF7EAF7FF851532FB8AF8D9DEE1F8E2" box="[1094,1266,1880,1904]" italics="true" pageId="7" pageNumber="484">The Industrialist</emphasis>
+</journalOrPublisher>
+, 
+<part id="2D279C78FF851532FACEF8D9DF0EF8E2" box="[1282,1309,1880,1904]" pageId="7" pageNumber="484" type="volume">25</part>
+, 
+<pagination id="604AC811FF851532FAE7F8D9DF97F8E2" box="[1323,1412,1880,1904]" pageId="7" pageNumber="484" type="pagination">159–165</pagination>
++ 227–237.
+</bibRef>
+</paragraph>
+<paragraph id="593C36E5FF851532FF5BF817DB11F879" blockId="7.[151,1436,1819,2027]" pageId="7" pageNumber="484">
+<bibRef id="8023A213FF851532FF5BF817DB11F879" _evidence="authorList|year" pageId="7" pageNumber="484" refId="ref7345" type="url">
+<author id="813EDE00FF851532FF5BF817DB71F83F" box="[151,354,1942,1966]" case="TC" fns="I" in="M." ins="D" ln="Garcia Morales" lnc="TC" npo="LnFn" pageId="7" pageNumber="484">García Morales, M.</author>
+, 
+<author id="813EDE00FF851532FEA1F817DBE2F83F" box="[365,497,1942,1965]" case="TC" fns="I" in="B.D." ins="D" ln="Denno" lnc="TC" npo="LnFn" pageId="7" pageNumber="484">Denno, B.D.</author>
+, 
+<author id="813EDE00FF851532FE30F817D868F83F" box="[508,635,1942,1966]" case="TC" fns="I" in="D.R." ins="D" ln="Miller" lnc="TC" npo="LnFn" pageId="7" pageNumber="484">Miller, D.R.</author>
+, 
+<author id="813EDE00FF851532FD4AF817D910F83C" box="[646,771,1942,1966]" case="TC" fns="I" in="G.L." ins="D" ln="Miller" lnc="TC" npo="LnFn" pageId="7" pageNumber="484">Miller, G.L.</author>
+, 
+<author id="813EDE00FF851532FCC2F817D99EF83F" box="[782,909,1942,1965]" case="TC" fns="I" in="Y." ins="D" ln="Ben-Dov" lnc="TC" npo="LnFn" pageId="7" pageNumber="484">Ben-Dov, Y.</author>
+&amp; 
+<author id="813EDE00FF851532FC62F817DE39F83F" box="[942,1066,1942,1966]" case="TC" fns="I" in="N.B." ins="D" ln="Hardy" lnc="TC" npo="LnFn" pageId="7" pageNumber="484">Hardy, N.B.</author>
+(
+<year id="2D2B77B6FF851532FBF4F817DE7EF83C" box="[1080,1133,1942,1966]" pageId="7" pageNumber="484">2016</year>
+) 
+<title id="2B87DDD3FF851532FBB0F817D8B8F85E" pageId="7" pageNumber="484">
+<emphasis id="6BF7EAF7FF851532FBB0F817D8B8F85E" italics="true" pageId="7" pageNumber="484">ScaleNet: a literature-based model of scale insect biology and systematics</emphasis>
+</title>
+. 
+<journalOrPublisher id="83423C29FF851532FD70F835D90EF85E" box="[700,797,1972,1996]" pageId="7" pageNumber="484">
+<emphasis id="6BF7EAF7FF851532FD70F835D90EF85E" box="[700,797,1972,1996]" italics="true" pageId="7" pageNumber="484">Database</emphasis>
+</journalOrPublisher>
+. Available from: 
+<publicationUrl id="010D9428FF851532FC16F835DE8BF85E" box="[986,1176,1972,1996]" pageId="7" pageNumber="484">http://scalenet.info</publicationUrl>
+(accessed 
+<accessDate id="96F538B9FF851532FAC2F835DAE8F879" pageId="7" pageNumber="484">17 November 2023</accessDate>
+)
+</bibRef>
+</paragraph>
+<paragraph id="593C36E5FF8A153DFF5BFF16DE49FF3D" blockId="8.[151,1437,151,420]" box="[151,1114,151,175]" pageId="8" pageNumber="485">
+<bibRef id="8023A213FF8A153DFF5BFF16DE49FF3D" _evidence="authorList|year" box="[151,1114,151,175]" pageId="8" pageNumber="485" refId="ref7415" type="journal article">
+<author id="813EDE00FF8A153DFF5BFF16DB1DFF3C" box="[151,270,151,175]" case="TC" fns="I" in="E.E." ins="D" ln="Green" lnc="TC" npo="LnFn" pageId="8" pageNumber="485">Green, E.E.</author>
+(
+<year id="2D2B77B6FF8A153DFED7FF16DB43FF3D" box="[283,336,151,175]" pageId="8" pageNumber="485">1896</year>
+) 
+<title id="2B87DDD3FF8A153DFE92FF16D901FF3D" box="[350,786,151,175]" pageId="8" pageNumber="485">Catalogue of Coccidae collected in Ceylon</title>
+. 
+<journalOrPublisher id="83423C29FF8A153DFCD0FF16D9E8FF3C" box="[796,1019,151,175]" pageId="8" pageNumber="485">
+<emphasis id="6BF7EAF7FF8A153DFCD0FF16D9E8FF3C" box="[796,1019,151,175]" italics="true" pageId="8" pageNumber="485">Indian Museum Notes</emphasis>
+</journalOrPublisher>
+, 
+<part id="2D279C78FF8A153DFBCBFF16DE05FF3D" box="[1031,1046,151,175]" pageId="8" pageNumber="485" type="volume">4</part>
+, 
+<pagination id="604AC811FF8A153DFBEDFF16DE44FF3D" box="[1057,1111,151,175]" pageId="8" pageNumber="485" type="pagination">2–10</pagination>
+.
+</bibRef>
+</paragraph>
+<bibRef id="8023A213FF8A153DFF5BFF34D87CFE99" _evidence="authorList|year" pageId="8" pageNumber="485" refId="ref7441" type="journal article">
+<paragraph id="593C36E5FF8A153DFF5BFF34DE65FF7E" blockId="8.[151,1437,151,420]" pageId="8" pageNumber="485">
+<author id="813EDE00FF8A153DFF5BFF34DB3BFF5F" box="[151,296,181,205]" case="TC" fns="I" in="C.J." ins="D" ln="Hodgson" lnc="TC" npo="LnFn" pageId="8" pageNumber="485">Hodgson, C.J.</author>
+&amp; 
+<author id="813EDE00FF8A153DFE87FF34DBCDFF5F" box="[331,478,181,205]" case="TC" fns="I" in="D.J." ins="D" ln="Williams" lnc="TC" npo="LnFn" pageId="8" pageNumber="485">Williams, D.J.</author>
+(
+<year id="2D2B77B6FF8A153DFE20FF34D832FF5F" box="[492,545,181,205]" pageId="8" pageNumber="485">2018</year>
+) 
+<title id="2B87DDD3FF8A153DFDFCFF34D977FF7E" pageId="8" pageNumber="485">
+Revision of the soft scale genus 
+<emphasis id="6BF7EAF7FF8A153DFC4CFF34DE03FF5F" box="[896,1040,181,205]" italics="true" pageId="8" pageNumber="485">Paralecanium</emphasis>
+(Hemiptera: Coccomorpha: Coccidae) with the introduction of three new genera and twenty new species
+</title>
+. 
+<journalOrPublisher id="83423C29FF8A153DFCA1FF54D9D3FF7E" box="[877,960,213,236]" pageId="8" pageNumber="485">
+<emphasis id="6BF7EAF7FF8A153DFCA1FF54D9D3FF7E" box="[877,960,213,236]" italics="true" pageId="8" pageNumber="485">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="2D279C78FF8A153DFC01FF55DE13FF7E" box="[973,1024,212,236]" pageId="8" pageNumber="485" type="volume">4443</part>
+(
+<part id="2D279C78FF8A153DFBDCFF55DE08FF7E" box="[1040,1051,212,236]" pageId="8" pageNumber="485" type="issue">1</part>
+), 
+<pagination id="604AC811FF8A153DFBFCFF55DE61FF7E" box="[1072,1138,212,236]" pageId="8" pageNumber="485" type="pagination">1–162</pagination>
+.
+</paragraph>
+<paragraph id="593C36E5FF8A153DFF0BFF72D87CFE99" blockId="8.[151,1437,151,420]" box="[199,623,243,267]" pageId="8" pageNumber="485">
+<DOI id="2D12F695FF8A153DFF0BFF72D87CFE99" box="[199,623,243,267]" pageId="8" pageNumber="485">https://doi.org/10.11646/zootaxa.4443.1.1</DOI>
+</paragraph>
+</bibRef>
+<paragraph id="593C36E5FF8A153DFF5BFE93DF59FEBB" blockId="8.[151,1437,151,420]" box="[151,1354,273,298]" pageId="8" pageNumber="485">
+<bibRef id="8023A213FF8A153DFF5BFE93DF59FEBB" _evidence="authorList|year" box="[151,1354,273,298]" pageId="8" pageNumber="485" refId="ref7506" type="book">
+<author id="813EDE00FF8A153DFF5BFE93DAEEFEBB" box="[151,253,274,298]" case="TC" fns="I" in="F.T." ins="D" ln="Tang" lnc="TC" npo="LnFn" pageId="8" pageNumber="485">Tang, F.T.</author>
+(
+<year id="2D2B77B6FF8A153DFEC6FE90DB2DFEBB" box="[266,318,273,297]" pageId="8" pageNumber="485">1991</year>
+) 
+<title id="2B87DDD3FF8A153DFE81FE90D824FEBB" box="[333,567,273,297]" jopScore="0.14714369" pageId="8" pageNumber="485">
+<emphasis id="6BF7EAF7FF8A153DFE81FE90D824FEBB" box="[333,567,273,297]" italics="true" pageId="8" pageNumber="485">The Coccidae of China</emphasis>
+</title>
+. 
+<journalOrPublisher id="83423C29FF8A153DFD88FE90DE63FEBB" box="[580,1136,273,297]" jopScore="0.9938052" pageId="8" pageNumber="485">Shanxi United Universities Press, Taiyuan, P. R. China</journalOrPublisher>
+, 
+<bookContentInfo id="6E782595FF8A153DFBB7FE90DED4FEBB" box="[1147,1223,273,297]" pageId="8" pageNumber="485">377 pp.</bookContentInfo>
+[in Chinese]
+</bibRef>
+</paragraph>
+<paragraph id="593C36E5FF8A153DFF5BFEB1D895FEF4" blockId="8.[151,1437,151,420]" pageId="8" pageNumber="485">
+<bibRef id="8023A213FF8A153DFF5BFEB1D895FEF4" _evidence="authorList|year" pageId="8" pageNumber="485" refId="ref7540" type="journal article">
+<author id="813EDE00FF8A153DFF5BFEB1DB03FEDA" box="[151,272,304,328]" case="TC" fns="I" in="C.C.C." ins="D" ln="Tao" lnc="TC" npo="LnFn" pageId="8" pageNumber="485">Tao, C.C.C.</author>
+, 
+<author id="813EDE00FF8A153DFED6FEB1DB9CFEDA" box="[282,399,304,328]" case="TC" fns="I" in="C.Y." ins="D" ln="Wong" lnc="TC" npo="LnFn" pageId="8" pageNumber="485">Wong, C.Y.</author>
+&amp; 
+<author id="813EDE00FF8A153DFE60FEB1D834FEDA" box="[428,551,304,328]" case="TC" fns="I" in="Y.C." ins="D" ln="Chang" lnc="TC" npo="LnFn" pageId="8" pageNumber="485">Chang, Y.C.</author>
+(
+<year id="2D2B77B6FF8A153DFDFFFEB1D87BFEDA" box="[563,616,304,328]" pageId="8" pageNumber="485">1983</year>
+) 
+<title id="2B87DDD3FF8A153DFDB8FEB1DF8AFEDA" box="[628,1433,304,328]" jopScore="0.33723426" pageId="8" pageNumber="485">Monograph of Coccidae of Taiwan, Republic of China (Homoptera: Coccoidea)</title>
+. 
+<journalOrPublisher id="83423C29FF8A153DFF0BFECEDBCFFEF4" box="[199,476,335,359]" jopScore="0.78747517" pageId="8" pageNumber="485">
+<emphasis id="6BF7EAF7FF8A153DFF0BFECEDBCFFEF4" box="[199,476,335,359]" italics="true" pageId="8" pageNumber="485">Journal of Taiwan Museum</emphasis>
+</journalOrPublisher>
+, 
+<part id="2D279C78FF8A153DFE25FECED811FEF5" box="[489,514,335,359]" pageId="8" pageNumber="485" type="volume">36</part>
+(
+<part id="2D279C78FF8A153DFDDEFECED80EFEF5" box="[530,541,335,359]" pageId="8" pageNumber="485" type="issue">1</part>
+), 
+<pagination id="604AC811FF8A153DFDFFFECFD892FEF4" box="[563,641,334,358]" pageId="8" pageNumber="485" type="pagination">57–107</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="593C36E5FF8A153DFF5BFEECDB07FE31" blockId="8.[151,1437,151,420]" pageId="8" pageNumber="485">
+<bibRef id="8023A213FF8A153DFF5BFEECDB07FE31" _evidence="authorList|year" pageId="8" pageNumber="485" refId="ref7594" type="book">
+<author id="813EDE00FF8A153DFF5BFEECDB3AFE17" box="[151,297,365,389]" case="TC" fns="I" in="D.J." ins="D" ln="Williams" lnc="TC" npo="LnFn" pageId="8" pageNumber="485">Williams, D.J.</author>
+&amp; 
+<author id="813EDE00FF8A153DFE86FEECD85CFE17" box="[330,591,365,389]" case="TC" fns="I" in="M.C." ins="D" ln="Granara de Willink" lnc="TC" npo="LnFn" pageId="8" pageNumber="485">Granara de Willink, M.C.</author>
+(
+<year id="2D2B77B6FF8A153DFD90FEECD882FE17" box="[604,657,365,389]" pageId="8" pageNumber="485">1992</year>
+) 
+<title id="2B87DDD3FF8A153DFD53FEECDE55FE17" box="[671,1094,365,389]" jopScore="0.20012708" pageId="8" pageNumber="485">
+<emphasis id="6BF7EAF7FF8A153DFD53FEECDE55FE17" box="[671,1094,365,389]" italics="true" pageId="8" pageNumber="485">Mealybugs of Central and South America</emphasis>
+</title>
+. 
+<journalOrPublisher id="83423C29FF8A153DFB9FFEECDF8AFE17" box="[1107,1433,365,389]" jopScore="2.4323492" pageId="8" pageNumber="485">CAB International, Wallingford</journalOrPublisher>
+, 
+<bookContentInfo id="6E782595FF8A153DFF0BFE0DDB07FE31" box="[199,276,396,420]" pageId="8" pageNumber="485">635 pp.</bookContentInfo>
+</bibRef>
+</paragraph>
+</subSection>
+</document>

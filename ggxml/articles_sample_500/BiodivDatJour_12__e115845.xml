@@ -1,0 +1,1910 @@
+<document ID-DOI="http://dx.doi.org/10.3897/BDJ.12.e115845" ID-Pensoft-Pub="1314-2828-12-e115845" ID-Pensoft-UUID="ABE4D4CC708E506B8E0293258965840B" ModsDocID="1314-2828-12-e115845" checkinTime="1709630437239" checkinUser="pensoft" docAuthor="Hosni, Eslam M. &amp; Al-Khalaf, Areej A. &amp; Nasser, Mohamed G. &amp; ElShahed, Sara M. &amp; Alashaal, Sara A." docDate="2024" docId="ABE4D4CC708E506B8E0293258965840B" docName="BiodivDatJour 12: e115845" docOrigin="Biodiversity Data Journal 12" docPubDate="2024-03-05" docSource="https://bdj.pensoft.net/article/115845/download/xml/" docTitle="Locusta migratoria (L.) (Orthoptera) in a warming world: unravelling the ecological consequences of climate change using GIS" docVersion="2" id="ABE4D4CC708E506B8E0293258965840B" pageNumber="115845" updateTime="1709630738068" updateUser="ExternalLinkService">
+<mods:mods id="7F030DA90A9F6C5515672244BB31B8E5" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="1ADD1D8BAF277F9B58A5904D23726323">
+<mods:title id="D0F49DB6CA2DC0027978ACB35223D821">Locusta migratoria (L.) (Orthoptera) in a warming world: unravelling the ecological consequences of climate change using GIS</mods:title>
+</mods:titleInfo>
+<mods:name id="39577A5A44D38E050B9CE29D6279FEF1" type="personal">
+<mods:role id="F72A5CB8C3FF7CEF6BF7B85B40E43A26">
+<mods:roleTerm id="B18E8BFAFB3FC88654592D2B19627553">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B7E0E4447961E98BF9D123D4C1DB7003">Hosni, Eslam M.</mods:namePart>
+<mods:nameIdentifier id="2DF7400C8F8F7430FE600ADF0396A429" type="email">iobek@sci.asu.edu.eg</mods:nameIdentifier>
+<mods:nameIdentifier id="D18EEDD509C9A7663276E645DB54EEEB" type="ORCID">https://orcid.org/0000-0002-5657-704X</mods:nameIdentifier>
+<mods:affiliation id="87E4EAB77579B4416A8F2BE18A3C9043">Research Lab of Biogeography and Wildlife Parasitology, Department of Entomology, Faculty of Science, Ain Shams University, Cairo, Egypt</mods:affiliation>
+</mods:name>
+<mods:name id="975AC0814E1A026295A034240DB0FA0C" type="personal">
+<mods:role id="74E53576A638B76D498503917678BC21">
+<mods:roleTerm id="59A0F2FAA951B0F6CAAB5D1881E31898">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="68D8E7B2A147F1742C936052C9B37045">Al-Khalaf, Areej A.</mods:namePart>
+<mods:affiliation id="0B5B70E000783A1589067221DA11C509">Biology Department, College of Science, Princess Nourah Bint Abdulrahman University, Riyadh, Saudi Arabia</mods:affiliation>
+</mods:name>
+<mods:name id="48EC460D4FBB2C9473F2D1527ECA04A1" type="personal">
+<mods:role id="5513B944C5B2D963C26C0432A392ABF2">
+<mods:roleTerm id="38B91D66BB4D0FC7733A3F393522980F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="7E4D0B69276F1EBF07DE003E8B528768">Nasser, Mohamed G.</mods:namePart>
+<mods:nameIdentifier id="0A4DCE87C9F9F6D4E51D5CD4069DE2E9" type="email">mgnasser@sci.asu.edu.eg</mods:nameIdentifier>
+<mods:nameIdentifier id="D68276A8B4C6C623625EEDC1B59DE3FD" type="ORCID">https://orcid.org/0000-0001-8627-7833</mods:nameIdentifier>
+<mods:affiliation id="1A47EF916F4B3941076CD4B5097911AB">Research Lab of Biogeography and Wildlife Parasitology, Department of Entomology, Faculty of Science, Ain Shams University, Cairo, Egypt</mods:affiliation>
+</mods:name>
+<mods:name id="869A029E07EF84D7187714B1DA4D5C51" type="personal">
+<mods:role id="A0F0581B044C3D07F85958C03F0BD4AE">
+<mods:roleTerm id="F3E6647A47E6C8F819804FF006591836">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C15FACFCB715F2272DFFF8B6F06611F4">ElShahed, Sara M.</mods:namePart>
+<mods:affiliation id="1DA5F68A922BA85107A7912523CA9C65">Research Lab of Biogeography and Wildlife Parasitology, Department of Entomology, Faculty of Science, Ain Shams University, Cairo, Egypt</mods:affiliation>
+</mods:name>
+<mods:name id="DF97C0D44306940F212F64A6B9DCE60F" type="personal">
+<mods:role id="9E06E6F99DAD7B8B19C15B12A91637CD">
+<mods:roleTerm id="06B45E44629CCDD184800062C672E10F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="37B5D2C427D7E2B14DD9B75C10DC9B73">Alashaal, Sara A.</mods:namePart>
+<mods:affiliation id="681250D7ABF59E31A0A8ECDFFC24AC93">Research Lab of Biogeography and Wildlife Parasitology, Department of Entomology, Faculty of Science, Ain Shams University, Cairo, Egypt</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="18E841DBFCBB3004A58E6CC7FB0469E2">text</mods:typeOfResource>
+<mods:relatedItem id="3C7DC1A6C8ED9885AF0C6C861A2487E4" type="host">
+<mods:titleInfo id="3CEDB980AB6D762865247AE11846CB36">
+<mods:title id="906A3CAC3BE55F6B4BA5478009E74724">Biodiversity Data Journal</mods:title>
+</mods:titleInfo>
+<mods:part id="954559D23775B6A58E6A202C411152B8">
+<mods:detail id="C428F3CA22317652571C14F6E426C298" type="volume">
+<mods:number id="E33A3B94586EEDB21058EFAD58DCC30D">12</mods:number>
+</mods:detail>
+<mods:detail id="C91E148AA520C6D4E2308E3E6ABBE303" type="pubDate">
+<mods:number id="6AFC031C18C7F8656479BB00DED07DF7">2024-03-05</mods:number>
+</mods:detail>
+<mods:date id="650A458A0AB576E9FB5D5102F863B80C">2024</mods:date>
+<mods:extent id="E9455D85E4A59228931455D24CE5ACB4" unit="page">
+<mods:start id="0448A0A296F4ECEF77CBB55A276945C8">115845</mods:start>
+<mods:end id="747F5D0759EAE689D71977D3A6556DE1">115845</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="E415BEBEAEE51E7A107D9CD8B02BF64D">
+<mods:url id="3269E98F6A65745F5AD64223D67E9601">http://dx.doi.org/10.3897/BDJ.12.e115845</mods:url>
+</mods:location>
+<mods:identifier id="9DDCAA66EE2E870A6CC65F8A408FDC5A" type="DOI">http://dx.doi.org/10.3897/BDJ.12.e115845</mods:identifier>
+<mods:identifier id="0B4ABA81A11E3F3DC66D2D2AC11DCF8D" type="Pensoft-Pub">1314-2828-12-e115845</mods:identifier>
+<mods:identifier id="5C86CE0420556388F3003BF04D533418" type="Pensoft-UUID">ABE4D4CC708E506B8E0293258965840B</mods:identifier>
+<mods:classification id="C3A08EB29BCF8C41990E63E524F9279D">journal article</mods:classification>
+</mods:mods>
+<subSection id="44CF32D44EA50F99788CEEE41E45CEE9" pageId="0" pageNumber="115845" type="introduction">
+<paragraph id="2554979B0976A73085F5D1AEB1EB5422" pageId="0" pageNumber="115845">
+<pageBreakToken id="E8DE68B2D7A2D0ACE2997B2477BA5287" origin="extrapolated" pageId="0" pageNumber="115845" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph id="D99BA58E53BCA1CA2A105879965C574F" pageId="0" pageNumber="115845">
+<taxonomicName id="655295C1A5B5238A44FC52C978BA99E6" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="21784CB8BF156CEA4E2F6770F34540BA" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+(L.), commonly known as the migratory locust or the African locust, is a species of grasshopper that is widely distributed across various regions of the world (
+<bibRefCitation id="8F05AD41F3B80DBA45C375E09F48F7D3" author="Lecoq, Michel" journalOrPublisher="China Agricultural University Press, Beijing" pageId="0" pageNumber="115845" refId="B10783002" refString="Lecoq, Michel, 2022. Locusta migratoria (migratory locust). In: CABI Compendium." title="Locusta migratoria (migratory locust)" volumeTitle="CABI Compendium." year="2022">Lecoq 2022</bibRefCitation>
+). It belongs to the family 
+<taxonomicName id="93FB1A2415C494A41AB412CB39DBAC00" class="Insecta" family="Acrididae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="family">Acrididae</taxonomicName>
+, which includes numerous grasshopper species. 
+<taxonomicName id="ADD149CF40CB28788379D1B99A478063" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="1FC62FC2D620D6CA4FB35B961521DB1D" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+is one of the most notorious and economically significant locust species due to its ability to form large swarms and cause extensive damage to crops and vegetation (
+<bibRefCitation id="A491D1BEAA5E6E91E94108C80A5AF37F" author="Schoofs, Liliane" journalOrPublisher="Insect Biochemistry and Molecular Biology" pageId="0" pageNumber="115845" pagination="859 - 881" refId="B10788435" refString="Schoofs, Liliane, Broeck, Jozef Vanden, De Loof, Arnold, 1993. The myotropic peptides of Locusta migratoria: Structures, distribution, functions and receptors. Insect Biochemistry and Molecular Biology 23 (8): 859 - 881" title="The myotropic peptides of Locusta migratoria: Structures, distribution, functions and receptors" volume="23" year="1993">Schoofs et al. 1993</bibRefCitation>
+; 
+<bibRefCitation id="FED01ECAEC38AC67A13B1098B247759F" author="Raffini, Francesca" journalOrPublisher="Sustainability" pageId="0" pageNumber="115845" refId="B10988270" refString="Raffini, Francesca, Bertorelle, Giorgio, Biello, Roberto, D'Urso, Guido, Russo, Danilo, Bosso, Luciano, 2020. From Nucleotides to Satellite Imagery: Approaches to Identify and Manage the Invasive Pathogen Xylella fastidiosa and Its Insect Vectors in Europe. Sustainability 12 (11)" title="From Nucleotides to Satellite Imagery: Approaches to Identify and Manage the Invasive Pathogen Xylella fastidiosa and Its Insect Vectors in Europe" volume="12" year="2020">Raffini et al. 2020</bibRefCitation>
+).
+</paragraph>
+<paragraph id="C261977D37AF3EC19F2EAAF7A945F256" pageId="0" pageNumber="115845">
+<taxonomicName id="9FCD8F38E61EDA4EE9F56A79F1AD50D5" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="8ED3545DB218BE979561D28EDAF7D158" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+has a broad distribution range and can be found in many parts of the world, primarily in temperate, tropical and subtropical regions. Historically, its native range spans Africa, including areas such as northern and western Africa, the Arabian Peninsula and parts of Asia. However, due to its migratory behaviour and adaptability, the species has expanded its distribution to other continents as well (
+<bibRefCitation id="52671ED2DB4B72E861AFE4FFAA058FAF" author="Malakhov, D. V." journalOrPublisher="Russian Journal of Ecosystem Ecology" pageId="0" pageNumber="115845" refId="B10783019" refString="Malakhov, D. V., Tsychuyeva, N. Yu., Kambulin, V. E., 2018. Ecological modeling of Locusta migratoria L. breeding conditions in South-Eastern Kazakhstan. Russian Journal of Ecosystem Ecology 3 (1)" title="Ecological modeling of Locusta migratoria L. breeding conditions in South-Eastern Kazakhstan." volume="3" year="2018">Malakhov et al. 2018</bibRefCitation>
+). 
+<taxonomicName id="C4F2DF85BA77FDF09F16D239E85F9CEF" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="B11E830CEAF62970AB8B1A9419E494E3" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+has been reported in countries across Europe, including Spain, Italy, France and Greece (
+<bibRefCitation id="5755E966CEAE9AB2E8529735AC3C6071" author="Sergeev, Michael G." journalOrPublisher="Insects" pageId="0" pageNumber="115845" pagination=": 77" refId="B10788444" refString="Sergeev, Michael G., 2021. Distribution Patterns of Grasshoppers and Their Kin over the Eurasian Steppes. Insects 12 (1): 77" title="Distribution Patterns of Grasshoppers and Their Kin over the Eurasian Steppes" volume="12" year="2021">Sergeev 2021</bibRefCitation>
+). It has also been found in parts of Asia, including China, India, Pakistan and Japan (
+<bibRefCitation id="6F8CD404B296E76B1EC5BC95E4AD329A" author="Sergeev, Michael G." journalOrPublisher="Insects" pageId="0" pageNumber="115845" pagination=": 77" refId="B10788444" refString="Sergeev, Michael G., 2021. Distribution Patterns of Grasshoppers and Their Kin over the Eurasian Steppes. Insects 12 (1): 77" title="Distribution Patterns of Grasshoppers and Their Kin over the Eurasian Steppes" volume="12" year="2021">Sergeev 2021</bibRefCitation>
+). In Australia, the species is known as the Australian plague locust and is considered a major agricultural pest (
+<bibRefCitation id="43F312CDFD6FE302EBAAC916E7D56ADA" author="Hunter, D. M." journalOrPublisher="Crop Protection" pageId="0" pageNumber="115845" pagination="699 - 704" refId="B10788858" refString="Hunter, D. M., Milner, R. J., Scanlan, J. C., Spurgin, P. A., 1999. Aerial treatment of the migratory locust, Locusta migratoria (L.) (Orthoptera: Acrididae) with Metarhizium anisopliae (Deuteromycotina: Hyphomycetes) in Australia. Crop Protection 18 (10): 699 - 704" title="Aerial treatment of the migratory locust, Locusta migratoria (L.) (Orthoptera: Acrididae) with Metarhizium anisopliae (Deuteromycotina: Hyphomycetes) in Australia" volume="18" year="1999">Hunter et al. 1999</bibRefCitation>
+). Additionally, it has been a cause of concern for agricultural regions in New Zealand due to its ability to swarm and devour crops (
+<bibRefCitation id="87481C5EB22D49BD8DE1F571777ECD90" author="Rieger, T T" journalOrPublisher="Genetics and Molecular Research" pageId="0" pageNumber="115845" pagination="643 - 649" refId="B10788389" refString="Rieger, T T, Oliveira-Silva, S V, Pacheco, I A, Chagas, B S, Santos, J F, 2007. Localization of HSP single-copy genes by inexpensive, permanent non-fluorescent in situ hybridization on meiotic chromosomes of the grasshopper S Chistocerca pallens (Acrididae). Genetics and Molecular Research 6 (3): 643 - 649" title="Localization of HSP single-copy genes by inexpensive, permanent non-fluorescent in situ hybridization on meiotic chromosomes of the grasshopper S Chistocerca pallens (Acrididae)." volume="6" year="2007">Rieger et al. 2007</bibRefCitation>
+).
+</paragraph>
+<paragraph id="511C378AF84341F434FECD13D7883CBF" pageId="0" pageNumber="115845">
+The distribution and population dynamics of 
+<taxonomicName id="8DC7F199B5D87BDA34EA87634C1CE65B" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="E02E5388612CEB0D10CE177E3C2C5495" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+are influenced by various factors such as climate, vegetation and habitat availability. Favourable conditions, such as periods of rainfall and vegetation growth, can contribute to population booms and the formation of swarms (
+<bibRefCitation id="46082DA15E28A10F744AEFF28458D49E" author="Jyoti, Bhandari" journalOrPublisher="Pakistan Journal of Zoology" pageId="0" pageNumber="115845" refId="B10782930" refString="Jyoti, Bhandari, Shali, Yasen, Zehua, Zhang, Xiaoho, Yao, Jiang, Deng, Yaling, Zhang, Cuiling, Wang, Yang, Li, Xueping, Lei, Wenfeng, Wang, Hassan, Mohammad Farooque, Can, Li, 2020. Population dynamics and life history of Locusta migratoria tibetensis Chen in Lhasa river. Pakistan Journal of Zoology 52 (3)" title="Population dynamics and life history of Locusta migratoria tibetensis Chen in Lhasa river" volume="52" year="2020">Jyoti et al. 2020</bibRefCitation>
+). The ecology of this species is rarely studied and the way within which its population will behave to climate change is infrequently known (
+<bibRefCitation id="5FE75C67ADB875685DEB9B47382E1E72" author="Chapuis, M. - P." journalOrPublisher="Bulletin of Entomological Research" pageId="0" pageNumber="115845" pagination="9 - 17" refId="B10782837" refString="Chapuis, M. - P., Crespin, L., Estoup, A., Auge-Sabatier, A., Foucart, A., Lecoq, M., Michalakis, Y., 2009. Parental crowding influences life history traits in Locusta migratoria females. Bulletin of Entomological Research 100 (1): 9 - 17" title="Parental crowding influences life history traits in Locusta migratoria females" volume="100" year="2009">Chapuis et al. 2009</bibRefCitation>
+). New techniques, such as remote sensing and geographical information systems, will greatly help in better understanding of these issues (
+<bibRefCitation id="DCEDBF87E6E0233EAEF32048ED164160" author="ElShahed, Sara M." journalOrPublisher="Scientific Reports" pageId="0" pageNumber="115845" pagination=": 17314" refId="B10782861" refString="ElShahed, Sara M., Mostafa, Zahia K., Radwan, Marwa H., Hosni, Eslam M., 2023. Modeling the potential global distribution of the Egyptian cotton leafworm, Spodoptera littoralis under climate change. Scientific Reports 13 (1): 17314" title="Modeling the potential global distribution of the Egyptian cotton leafworm, Spodoptera littoralis under climate change" volume="13" year="2023">ElShahed et al. 2023</bibRefCitation>
+).
+</paragraph>
+<paragraph id="048747671C0FC1DE26B969E1E207B2F0" pageId="0" pageNumber="115845">
+The Geographic Information System (GIS) allows researchers to integrate and analyse various spatial data layers, such as climate variables, vegetation indices, land cover and topography, to create comprehensive maps and models of organism distribution (
+<bibRefCitation id="2A5F580988DB42C6D7F4E0FA34BAF58A" author="Miller, Jennifer" journalOrPublisher="Geography Compass" pageId="0" pageNumber="115845" pagination="490 - 509" refId="B10783039" refString="Miller, Jennifer, 2010. Species Distribution Modeling. Geography Compass 4 (6): 490 - 509" title="Species Distribution Modeling" volume="4" year="2010">Miller 2010</bibRefCitation>
+). By examining the relationships between locust occurrence or abundance and environmental factors, GIS helps identify key variables influencing their distribution patterns. MaxEnt is a machine-learning algorithm commonly used in ecological modelling to predict species distributions (
+<bibRefCitation id="1D4255960606B4D9D8E56EDB969FA2DC" author="Merow, Cory" journalOrPublisher="Ecography" pageId="0" pageNumber="115845" pagination="1058 - 1069" refId="B10783030" refString="Merow, Cory, Smith, Matthew J., Silander, John A., 2013. A practical guide to MaxEnt for modeling species' distributions: what it does, and why inputs and settings matter. Ecography 36 (10): 1058 - 1069" title="A practical guide to MaxEnt for modeling species' distributions: what it does, and why inputs and settings matter" volume="36" year="2013">Merow et al. 2013</bibRefCitation>
+). It uses presence-only species occurrence data along with environmental variables to estimate the probability of species occurrence across a landscape (
+<bibRefCitation id="37C89102D8F1581E426BA38150663E82" author="Parmesan, Camille" journalOrPublisher="Journal of Insect Conservation" pageId="0" pageNumber="115845" refId="B10788372" refString="Phillips S. J. Dudik M. Schapire R. E. Maxent software for modeling species niches and distributions https://biodiversityinformatics.amnh.org/open_source/maxent/" year="2014">Phillips et al. 2023</bibRefCitation>
+). MaxEnt models have been employed to understand the environmental niche of several insect species and predict their potential distribution under different climate scenarios (
+<bibRefCitation id="6F155D373D5626B4EF8B86FFDD05E50D" author="Royle, J. Andrew" journalOrPublisher="Methods in Ecology and Evolution" pageId="0" pageNumber="115845" pagination="545 - 554" refId="B10788399" refString="Royle, J. Andrew, Chandler, Richard B., Yackulic, Charles, Nichols, James D., 2012. Likelihood analysis of species occurrence probability from presence-only data for modelling species distributions. Methods in Ecology and Evolution 3 (3): 545 - 554" title="Likelihood analysis of species occurrence probability from presence-only data for modelling species distributions" volume="3" year="2012">Royle et al. 2012</bibRefCitation>
+; 
+<bibRefCitation id="187FDCA75E38B0B84F419860DF4978FE" author="Di Febbraro, Mirko" journalOrPublisher="Global Change Biology" pageId="0" pageNumber="115845" pagination="5509 - 5523" refId="B10991023" refString="Di Febbraro, Mirko, Bosso, Luciano, Fasola, Mauro, Santicchia, Francesca, Aloise, Gaetano, Lioy, Simone, Tricarico, Elena, Ruggieri, Luciano, Bovero, Stefano, Mori, Emiliano, Bertolino, Sandro, 2023. Different facets of the same niche: Integrating citizen science and scientific survey data to predict biological invasion risk under multiple global change drivers. Global Change Biology 29 (19): 5509 - 5523" title="Different facets of the same niche: Integrating citizen science and scientific survey data to predict biological invasion risk under multiple global change drivers" volume="29" year="2023">Di Febbraro et al. 2023</bibRefCitation>
+; 
+<bibRefCitation id="C2F2864451584A5842B29FA6B76BE45F" author="ElShahed, Sara M." journalOrPublisher="Scientific Reports" pageId="0" pageNumber="115845" pagination=": 17314" refId="B10782861" refString="ElShahed, Sara M., Mostafa, Zahia K., Radwan, Marwa H., Hosni, Eslam M., 2023. Modeling the potential global distribution of the Egyptian cotton leafworm, Spodoptera littoralis under climate change. Scientific Reports 13 (1): 17314" title="Modeling the potential global distribution of the Egyptian cotton leafworm, Spodoptera littoralis under climate change" volume="13" year="2023">ElShahed et al. 2023</bibRefCitation>
+).
+</paragraph>
+<paragraph id="6D58782B0EAE9456720143E4883C62F5" pageId="0" pageNumber="115845">
+When studying the impact of climate change on 
+<taxonomicName id="26B0949D98168DB75870F84F41CA122A" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="976C6D8D4BA4589ABA6AC9880DD08E52" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+distribution, the historical climate data and future climate projections could be used to generate distribution modelling maps to predict the distribution pattern of this species (
+<bibRefCitation id="88F496F8121A4BF91654FA6D912B5F94" author="Wei, Xinju" journalOrPublisher="Insects" pageId="0" pageNumber="115845" pagination=": 77" refId="B10788473" refString="Wei, Xinju, Xu, Danping, Zhuo, Zhihang, 2023. Predicting the Impact of Climate Change on the Geographical Distribution of Leafhopper, Cicadella viridis in China through the MaxEnt Model. Insects 14 (7): 77" title="Predicting the Impact of Climate Change on the Geographical Distribution of Leafhopper, Cicadella viridis in China through the MaxEnt Model" volume="14" year="2023">Wei et al. 2023</bibRefCitation>
+). By comparing the current distribution of the species with future climate scenarios, scientists can assess how changes in temperature, precipitation patterns and other climatic variables may affect the potential range and abundance of 
+<taxonomicName id="FEC04EE74D6B9E5DC254DA9E9A022BBB" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="E02130529576EF0033995605B032BD83" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+. These modelling approaches help researchers understand the complex relationships between locust distribution and environmental factors, enabling them to make informed predictions about future changes in locust range and identify areas that may be at higher risk of locust outbreaks due to climate change (
+<bibRefCitation id="0FE20C790BBF214C2AC45575580C7D79" author="Kalra, Naveen" journalOrPublisher="Outlook on Agriculture" pageId="0" pageNumber="115845" pagination="109 - 118" refId="B10782947" refString="Kalra, Naveen, Chander, Subhash, Pathak, H., Aggarwal, P. K., Gupta, N. C., Sehgal, Mukesh, Chakraborty, Debashis, 2016. Impacts of Climate Change on Agriculture. Outlook on Agriculture 36 (2): 109 - 118" title="Impacts of Climate Change on Agriculture" volume="36" year="2016">Kalra et al. 2016</bibRefCitation>
+). This information can be crucial for developing effective strategies for locust management and implementing early warning systems to mitigate the impact on agriculture and ecosystems (
+<bibRefCitation id="35B0805319F0A46FC4F5A637CCA0610A" author="Blank, Lior" journalOrPublisher="Hydrobiologia" pageId="0" pageNumber="115845" pagination="157 - 167" refId="B10782819" refString="Blank, Lior, Blaustein, Leon, 2012. Using ecological niche modeling to predict the distributions of two endangered amphibian species in aquatic breeding sites. Hydrobiologia 693 (1): 157 - 167" title="Using ecological niche modeling to predict the distributions of two endangered amphibian species in aquatic breeding sites" volume="693" year="2012">Blank and Blaustein 2012</bibRefCitation>
+).
+</paragraph>
+<paragraph id="2D4FB78AF5325D4ABB1E23215C96E1E2" pageId="0" pageNumber="115845">
+The hypothesis of this research posits that the distribution patterns of 
+<taxonomicName id="ECD1541F810302F34AF8E1F9DCD7FC39" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="5A1F5E317D43B7E93194E6F447AB3D8B" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+will be significantly influenced by the ecological consequences of climate change. By employing Geographic Information Systems (GIS) and MaxEnt ecological modelling techniques, the study aims to investigate the impact of climate factors, particularly temperature and precipitation, on the distribution of 
+<taxonomicName id="268CEFB10F4373010E4BC3F7CD67925E" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="6D890D659E848800E6BE2D9360CB5687" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+. The overarching prediction is that changes in these climate factors will have profound effects on the species' distribution. As climate change continues to manifest, it is anticipated that 
+<taxonomicName id="5366C109F0AE555076FA5389724B32B3" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="C418A50CE408594E6D3ADA5FB7B517FF" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+will experience an expansion of its range. The warming temperatures and altered precipitation patterns associated with climate change may create more favourable conditions for this locust species, allowing it to colonise previously unsuitable regions. Consequently, research predicts an increased likelihood of 
+<taxonomicName id="3F56AC7854E2ABA51B76C830752EBAE7" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="BD551DBA5848410E29CED4E1736C1542" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+invading new areas, particularly in Europe, as a direct consequence of a warming world. Moreover, the study expects to observe shifts in the suitable habitat for 
+<taxonomicName id="9BECEECCFF3243C6A376A574E1372949" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="E24D48C9A80373FC79A79FC74D019C59" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+due to climate change. As temperature and precipitation patterns change, the locations that were once suitable for the species may become less favourable, while previously unsuitable areas may become more conducive to its survival. These shifts in suitable habitat could have significant implications for the distribution and abundance of 
+<taxonomicName id="913F405F2DE57A98360FC493FC6C3785" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="52400420AB4A6836F832BF5666B4DB80" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+populations.
+</paragraph>
+</subSection>
+<subSection id="70571B019776EC0F15EA9CCD5C154BA0" pageId="0" pageNumber="115845" type="materials and methods">
+<paragraph id="AFE345204A7A943558BC7B2C7A15DA58" pageId="0" pageNumber="115845">Materials and Methods</paragraph>
+<paragraph id="FCF6FD590252A1A790D35EBA45131297" pageId="0" pageNumber="115845">Occurrence data</paragraph>
+<paragraph id="7270B2D7184AF9AD3656C1A73F042C05" pageId="0" pageNumber="115845">
+Records were downloaded from the Global Biodiversity Information Facility database (www.gbif.org). Originally, 9,429 occurrence points were obtained for modelling. The data were filtered through three main steps. First, removal of points without longitudes and latitudes; second, deletion of duplicated records and third, spatial rarefaction, based on 50 km distance using ArcGIS v. 10.3 (SDM toolbox: SDM tools; Universal tools-Spatially rarefy occurrence data) (
+<bibRefCitation id="525253D15A37B1F1802B66D30B25DFCC" author="Hosni, Eslam M." journalOrPublisher="Insects" pageId="0" pageNumber="115845" pagination=": 484" refId="B10782911" refString="Hosni, Eslam M., Al-Khalaf, Areej A., Nasser, Mohamed G., Abou-Shaara, Hossam F., Radwan, Marwa H., 2022. Modeling the Potential Global Distribution of Honeybee Pest, Galleria mellonel la under Changing Climate. Insects 13 (5): 484" title="Modeling the Potential Global Distribution of Honeybee Pest, Galleria mellonel la under Changing Climate" volume="13" year="2022">Hosni et al. 2022</bibRefCitation>
+). A total of 820 unique points were converted to CSV format and used to model the current and future potential distribution of 
+<taxonomicName id="2E7F1B3A1FEFBF21CA148B367E673EF3" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="C3D9C999E2E8290ABF795EE4861B2650" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+. The insect is mainly concentrated in western Europe, Japan, New Zealand and some parts of Africa and Australia (Fig. 
+<figureCitation id="08804CFE6BE027EE8DD02616296F1982" captionStart="Figure 1" captionStartId="F10788506" captionText="Figure 1. Natural distribution of Locusta migratoria." figureDoi="10.3897/BDJ.12.e115845.figure1" httpUri="https://binary.pensoft.net/fig/957887" pageId="0" pageNumber="115845">1</figureCitation>
+).
+</paragraph>
+<paragraph id="2B07E0ED92B3FC3CFFFE04628CC6C629" pageId="0" pageNumber="115845">Environmental data</paragraph>
+<paragraph id="9C137A8BB0D5431C4804D00F9869FEF0" pageId="0" pageNumber="115845">Nineteen bioclimatic variables accounting for temperature and precipitation were attained from the WorldClim database (ww.worldclim.org). The variables have a spatial resolution of 2.5 arc-min (5 km2). These are monthly climatic data for the years 1950-2000 collected by forecast stations.</paragraph>
+<paragraph id="1520BA42F4C1BBE1460883A4206A2333" pageId="0" pageNumber="115845">
+For the current prediction model, the bioclimatic variables 8-9 and 18-19 were excluded because of spatial inconsistencies that affect their resolution (
+<bibRefCitation id="3D8A58364C11ED3E88EF25798768CA45" author="Escobar, Luis E." journalOrPublisher="Geospatial health" pageId="0" pageNumber="115845" refId="B10782870" refString="Escobar, Luis E., Lira-Noriega, Andres, Medina-Vogel, Gonzalo, Townsend Peterson, A., 2014. Potential for spread of the white-nose fungus (Pseudogymnoascus destructans) in the Americas: use of Maxent and NicheA to assure strict model transference. Geospatial health 9 (1)" title="Potential for spread of the white-nose fungus (Pseudogymnoascus destructans) in the Americas: use of Maxent and NicheA to assure strict model transference" volume="9" year="2014">Escobar et al. 2014</bibRefCitation>
+, 
+<bibRefCitation id="D8A82B53F34EE037D4E8778345569034" author="Hosni, Eslam M." journalOrPublisher="Scientific Reports" pageId="0" pageNumber="115845" pagination=": 17314" refId="B10782890" refString="Hosni, Eslam M., Nasser, Mohamed G., Al-Ashaal, Sara A., Rady, Magda H., Kenawy, Mohamed A., 2020. Modeling current and future global distribution of Chrysomya bezziana under changing climate. Scientific Reports 10 (1): 17314" title="Modeling current and future global distribution of Chrysomya bezziana under changing climate" volume="10" year="2020">Hosni et al. 2020</bibRefCitation>
+). The remaining fifteen variables were converted to ASCII format using ArcGIS v. 10.3. To remove the correlation between variables, 
+<normalizedToken id="3EE9245E1E7E40364B25EBF75B810AAE" originalValue="Pearson’s">Pearson's</normalizedToken>
+correlation coefficient was used at a value equal to r2 ≥ |0.8|. In addition, multicollinearity was reduced by the SDM toolbox function in ArcGIS v. 10.3 (universal tool; explore climate data; remove highly correlated variables) (
+<bibRefCitation id="FF834BA834AE525911D8092C57450C73" author="Hosni, E. M" journalOrPublisher="Diversity" pageId="0" pageNumber="115845" pagination=": 99" refId="B10788758" refString="Hosni, E. M, Nasser, M., Al-Khalaf, A. A., Al-Shammery, K. A., Al-Ashaal, S., Soliman, D., 2022. Invasion of the Land of Samurai: Potential Spread of Old-World Screwworm to Japan under Climate Change. Diversity 14 (2): 99" title="Invasion of the Land of Samurai: Potential Spread of Old-World Screwworm to Japan under Climate Change." volume="14" year="2022">Hosni et al. 2022</bibRefCitation>
+). The five most significant bioclimatic variables were taken for further analysis.
+</paragraph>
+<paragraph id="10B24E79B28929C64124C877BF138CA2" pageId="0" pageNumber="115845">
+Regarding the future prediction model, a corresponding set of variables was also downloaded from the WorldClim database for the periods 2050 and 2070, for the representative concentration pathways (RCPs) 2.6 and 8.5. RCPs represent projections of radiative forcing components that are created as input to climatic models, with RCP 2.6 being the lowest emission scenario and RCP 8.5 being the highest (
+<bibRefCitation id="1CEB21E0B06AEEF4BAB3EACC74267AEE" author="van Vuuren, Detlef P." journalOrPublisher="Climatic Change" pageId="0" pageNumber="115845" pagination="5 - 31" refId="B10788453" refString="van Vuuren, Detlef P., Edmonds, Jae, Kainuma, Mikiko, Riahi, Keywan, Thomson, Allison, Hibbard, Kathy, Hurtt, George C., Kram, Tom, Krey, Volker, Lamarque, Jean-Francois, Masui, Toshihiko, Meinshausen, Malte, Nakicenovic, Nebojsa, Smith, Steven J., Rose, Steven K., 2011. The representative concentration pathways: an overview. Climatic Change 109: 5 - 31" title="The representative concentration pathways: an overview" volume="109" year="2011">van Vuuren et al. 2011</bibRefCitation>
+). After conversion to ASCII format in ArcGIS v. 10.3, the layers were used in the future model.
+</paragraph>
+<paragraph id="FB623D146C23F1405947E91C68870CC3" pageId="0" pageNumber="115845">Three General Circulation Models (GCMs) were used for both RCPs (2.6 and 8.5) for the periods 2050 and 2070. The GCMs are the Beijing Climate Center (BCC-CSM 1_1), the National Center for Atmospheric Research (CCSM4) and the Meteorological Research Institute (MRI-CGCM3). Then, the mean of the three GCMs was calculated for each RCP for both 2050 and 2070 for comparison with the current distribution model. Furthermore, loss and gain in habitat suitability were estimated using the map algebra function of ArcGIS v. 10.3.</paragraph>
+<paragraph id="DD00B182BE49849E6E62563E9015F3CD" pageId="0" pageNumber="115845">Modelling approach</paragraph>
+<paragraph id="2A0A285DE7E278134E6A89BE2999507B" pageId="0" pageNumber="115845">
+<taxonomicName id="B85086E87CD4BECB500277D0DBB54930" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="B1CDFF65A9587DC705C3747EE3F31286" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+'s current and future distribution was modelled using the MaxEnt software tool v. 3.4.1 (
+<bibRefCitation id="108122FD110E1B3C2A9C865AB3A87A89" author="Parmesan, Camille" journalOrPublisher="Journal of Insect Conservation" pageId="0" pageNumber="115845" refId="B10788372" refString="Phillips S. J. Dudik M. Schapire R. E. Maxent software for modeling species niches and distributions https://biodiversityinformatics.amnh.org/open_source/maxent/" year="2014">Phillips et al. 2023</bibRefCitation>
+). It forecasts the existence of a species by combining occurrence records with background data from environmental variables in the research region (
+<bibRefCitation id="99DA5CE3A6B920F003C4DC525BC78B7D" author="Kumar, Sunil" journalOrPublisher="Journal of Economic Entomology" pageId="0" pageNumber="115845" pagination="1708 - 1719" refId="B10782959" refString="Kumar, Sunil, Neven, Lisa G., Zhu, Hongyu, Zhang, Runzhi, 2015. Assessing the global risk of establishment of Cydia pomonella (Lepidoptera: Tortricidae) using CLIMEX and MaxEnt niche models. Journal of Economic Entomology 108 (4): 1708 - 1719" title="Assessing the global risk of establishment of Cydia pomonella (Lepidoptera: Tortricidae) using CLIMEX and MaxEnt niche models" volume="108" year="2015">Kumar et al. 2015</bibRefCitation>
+; 
+<bibRefCitation id="8E5A35150EE1FE2525D0BDAF3988941D" author="Zacarias, Daniel Augusta" journalOrPublisher="Climatic Change" pageId="0" pageNumber="115845" pagination="555 - 566" refId="B10788482" refString="Zacarias, Daniel Augusta, 2020. Global bioclimatic suitability for the fall armyworm, Spodoptera frugiperda (Lepidoptera: Noctuidae), and potential co-occurrence with major host crops under climate change scenarios. Climatic Change 161 (4): 555 - 566" title="Global bioclimatic suitability for the fall armyworm, Spodoptera frugiperda (Lepidoptera: Noctuidae), and potential co-occurrence with major host crops under climate change scenarios" volume="161" year="2020">Zacarias 2020</bibRefCitation>
+). MaxEnt ranks locations with conditions similar to their current occurrences from 0 (unsuitable) to 1 (suitable) (
+<bibRefCitation id="9E7D3BC4CE19D83A888266058171DB6A" author="Kumar, Sunil" journalOrPublisher="Journal of Economic Entomology" pageId="0" pageNumber="115845" pagination="1708 - 1719" refId="B10782959" refString="Kumar, Sunil, Neven, Lisa G., Zhu, Hongyu, Zhang, Runzhi, 2015. Assessing the global risk of establishment of Cydia pomonella (Lepidoptera: Tortricidae) using CLIMEX and MaxEnt niche models. Journal of Economic Entomology 108 (4): 1708 - 1719" title="Assessing the global risk of establishment of Cydia pomonella (Lepidoptera: Tortricidae) using CLIMEX and MaxEnt niche models" volume="108" year="2015">Kumar et al. 2015</bibRefCitation>
+). It has been used successfully to forecast the prospective distribution of several insect species of medical and economic value in specific places as well as internationally (
+<bibRefCitation id="EF7126B8BAC2E4C9BDA29B304A0D619B" author="Aidoo, Owusu F." journalOrPublisher="Science of The Total Environment" pageId="0" pageNumber="115845" pagination=": 160962" refId="B10782766" refString="Aidoo, Owusu F., Souza, Philipe G. C., Silva, Ricardo S., Junior, Paulo A. S., Picanco, Marcelo C., Heve, William K., Duker, Rahmat Q., Ablormeti, Fred K., Setamou, Mamoudou, Borgemeister, Christian, 2023. Modeling climate change impacts on potential global distribution of Tamarixia radiata Waterston (Hymenoptera: Eulophidae). Science of The Total Environment 864: 160962" title="Modeling climate change impacts on potential global distribution of Tamarixia radiata Waterston (Hymenoptera: Eulophidae)" volume="864" year="2023">Aidoo et al. 2023</bibRefCitation>
+, 
+<bibRefCitation id="94E318BC826C2CBF2D4F264C28D7F24D" author="Al-Khalaf, Areej A." journalOrPublisher="Diversity" pageId="0" pageNumber="115845" pagination=": 903" refId="B10782810" refString="Al-Khalaf, Areej A., Nasser, Mohamed G., Hosni, Eslam M., 2023. Global Potential Distribution of Sarcophaga dux and Sarcophaga haemorrhoidalis under Climate Change. Diversity 15 (8): 903" title="Global Potential Distribution of Sarcophaga dux and Sarcophaga haemorrhoidalis under Climate Change" volume="15" year="2023">Al-Khalaf et al. 2023</bibRefCitation>
+).
+</paragraph>
+<paragraph id="7B89D2F3185CC6585145C759F451BA4B" pageId="0" pageNumber="115845">
+We divided the occurrence records into two sets, with 75% of the data used for training the MaxEnt models and the remaining 25% for testing. This split allowed us to assess the model's performance on independent data and evaluate its predictive ability. The choice of a 75%/25% split is a commonly employed practice in ecological modelling studies (
+<bibRefCitation id="F2EE02878DC8A49052AB34D2361D8F04" author="Hosni, Eslam M." journalOrPublisher="Scientific Reports" pageId="0" pageNumber="115845" pagination=": 17314" refId="B10782890" refString="Hosni, Eslam M., Nasser, Mohamed G., Al-Ashaal, Sara A., Rady, Magda H., Kenawy, Mohamed A., 2020. Modeling current and future global distribution of Chrysomya bezziana under changing climate. Scientific Reports 10 (1): 17314" title="Modeling current and future global distribution of Chrysomya bezziana under changing climate" volume="10" year="2020">Hosni et al. 2020</bibRefCitation>
+). The number of iterations was set to 500. The number of iterations represents the number of times the MaxEnt algorithm adjusts model parameters to maximise the likelihood of occurrence data, given the environmental variables. Selecting an appropriate number of iterations is crucial for achieving model convergence and stability (
+<bibRefCitation id="A113E48B6AF093EA8E39F3809239E345" author="Parmesan, Camille" journalOrPublisher="Journal of Insect Conservation" pageId="0" pageNumber="115845" refId="B10788372" refString="Phillips S. J. Dudik M. Schapire R. E. Maxent software for modeling species niches and distributions https://biodiversityinformatics.amnh.org/open_source/maxent/" year="2014">Phillips et al. 2023</bibRefCitation>
+). The number of background points was set to 10,000 which represent the environmental conditions in the study region. Background points are randomly generated pseudo-absences used to define the range of environmental conditions available to the species (
+<bibRefCitation id="8EFF2919BE445DA16ACD36482ACE99DD" author="Parmesan, Camille" journalOrPublisher="Journal of Insect Conservation" pageId="0" pageNumber="115845" refId="B10788372" refString="Phillips S. J. Dudik M. Schapire R. E. Maxent software for modeling species niches and distributions https://biodiversityinformatics.amnh.org/open_source/maxent/" year="2014">Phillips et al. 2023</bibRefCitation>
+). The selection of 10,000 background points ensured a representative coverage of the study area while maintaining computational feasibility (
+<bibRefCitation id="294B55ECBD1653A59EB580E1D2228434" author="Hosni, Eslam M." journalOrPublisher="Insects" pageId="0" pageNumber="115845" pagination=": 484" refId="B10782911" refString="Hosni, Eslam M., Al-Khalaf, Areej A., Nasser, Mohamed G., Abou-Shaara, Hossam F., Radwan, Marwa H., 2022. Modeling the Potential Global Distribution of Honeybee Pest, Galleria mellonel la under Changing Climate. Insects 13 (5): 484" title="Modeling the Potential Global Distribution of Honeybee Pest, Galleria mellonel la under Changing Climate" volume="13" year="2022">Hosni et al. 2022</bibRefCitation>
+). To improve the model's performance, we used 10-fold cross-validation (
+<bibRefCitation id="8433E80FFFACB8F678517B85AE9D6003" author="Hosni, E. M" journalOrPublisher="Diversity" pageId="0" pageNumber="115845" pagination=": 99" refId="B10788758" refString="Hosni, E. M, Nasser, M., Al-Khalaf, A. A., Al-Shammery, K. A., Al-Ashaal, S., Soliman, D., 2022. Invasion of the Land of Samurai: Potential Spread of Old-World Screwworm to Japan under Climate Change. Diversity 14 (2): 99" title="Invasion of the Land of Samurai: Potential Spread of Old-World Screwworm to Japan under Climate Change." volume="14" year="2022">Hosni et al. 2022</bibRefCitation>
+). Cross-validation partitions the data into multiple subsets, training the model on a subset and evaluating it on the remaining data. By performing this process iteratively, we obtained an estimate of the model's performance across different subsets of data (
+<bibRefCitation id="EED91B5B18A0933BFECF4121CEF994AF" author="Hosni, Eslam M." journalOrPublisher="Insects" pageId="0" pageNumber="115845" pagination=": 484" refId="B10782911" refString="Hosni, Eslam M., Al-Khalaf, Areej A., Nasser, Mohamed G., Abou-Shaara, Hossam F., Radwan, Marwa H., 2022. Modeling the Potential Global Distribution of Honeybee Pest, Galleria mellonel la under Changing Climate. Insects 13 (5): 484" title="Modeling the Potential Global Distribution of Honeybee Pest, Galleria mellonel la under Changing Climate" volume="13" year="2022">Hosni et al. 2022</bibRefCitation>
+). Using ArcGIS v. 10.3, regions were classified into five classifications based on habitat suitability (unsuitable, low, medium, high and extremely high) (
+<bibRefCitation id="E5A58DD785D873ACC82074A00F0BC600" author="Al-Khalaf, Areej A." journalOrPublisher="Diversity" pageId="0" pageNumber="115845" pagination=": 903" refId="B10782810" refString="Al-Khalaf, Areej A., Nasser, Mohamed G., Hosni, Eslam M., 2023. Global Potential Distribution of Sarcophaga dux and Sarcophaga haemorrhoidalis under Climate Change. Diversity 15 (8): 903" title="Global Potential Distribution of Sarcophaga dux and Sarcophaga haemorrhoidalis under Climate Change" volume="15" year="2023">Al-Khalaf et al. 2023</bibRefCitation>
+). This classification allowed us to interpret and communicate the model outputs in a meaningful and easily understandable manner.
+</paragraph>
+<paragraph id="BFFAEC4DBFA2AEB4316D953B97B48F25" pageId="0" pageNumber="115845">Model evaluation</paragraph>
+<paragraph id="09B7748378A24ACE3FA45D0136F55E51" pageId="0" pageNumber="115845">
+The Area Under the Curve (AUC) of the Receiver Operating Characteristics (ROCs) and the True Skill Statistics (TSS) were used to evaluate the resulting models (
+<bibRefCitation id="55266101F7A1A894CDF36FEFC72E765A" author="Salinas-Ramos, Valeria B" journalOrPublisher="Environmental Pollution" pageId="0" pageNumber="115845" refId="B10991048" refString="Salinas-Ramos, Valeria B, Ancillotto, Leonardo, Cistrone, Luca, Nastasi, Chiara, Bosso, Luciano, Smeraldo, Sonia, Sanchez Cordero, Victor, Russo, Danilo, 2021. Artificial illumination influences niche segregation in bats. Environmental Pollution 284" title="Artificial illumination influences niche segregation in bats" volume="284" year="2021">Salinas-Ramos et al. 2021</bibRefCitation>
+; 
+<bibRefCitation id="765E4159D2868702D838455FDF019115" author="ElShahed, Sara M." journalOrPublisher="Scientific Reports" pageId="0" pageNumber="115845" pagination=": 17314" refId="B10782861" refString="ElShahed, Sara M., Mostafa, Zahia K., Radwan, Marwa H., Hosni, Eslam M., 2023. Modeling the potential global distribution of the Egyptian cotton leafworm, Spodoptera littoralis under climate change. Scientific Reports 13 (1): 17314" title="Modeling the potential global distribution of the Egyptian cotton leafworm, Spodoptera littoralis under climate change" volume="13" year="2023">ElShahed et al. 2023</bibRefCitation>
+). AUC values less than 0.5 were judged as poor fit, whilst values more than 0.75 were regarded as good fit (
+<bibRefCitation id="853DD94137E090539FC100950D687A7E" author="Parmesan, Camille" journalOrPublisher="Journal of Insect Conservation" pageId="0" pageNumber="115845" refId="B10788372" refString="Phillips S. J. Dudik M. Schapire R. E. Maxent software for modeling species niches and distributions https://biodiversityinformatics.amnh.org/open_source/maxent/" year="2014">Phillips et al. 2023</bibRefCitation>
+). TSS was calculated to assess model accuracy further (
+<bibRefCitation id="B770601062E60D0E20E8E0B6F7F041C5" author="Hosni, E. M" journalOrPublisher="Diversity" pageId="0" pageNumber="115845" pagination=": 99" refId="B10788758" refString="Hosni, E. M, Nasser, M., Al-Khalaf, A. A., Al-Shammery, K. A., Al-Ashaal, S., Soliman, D., 2022. Invasion of the Land of Samurai: Potential Spread of Old-World Screwworm to Japan under Climate Change. Diversity 14 (2): 99" title="Invasion of the Land of Samurai: Potential Spread of Old-World Screwworm to Japan under Climate Change." volume="14" year="2022">Hosni et al. 2022</bibRefCitation>
+). Values near 0 indicated a weak association between the model and the distribution, whereas values near 1 indicated a high relationship (
+<bibRefCitation id="203DE15CCBD4B423D0650B74CB2F4AD6" author="Hosni, Eslam M." journalOrPublisher="Insects" pageId="0" pageNumber="115845" pagination=": 484" refId="B10782911" refString="Hosni, Eslam M., Al-Khalaf, Areej A., Nasser, Mohamed G., Abou-Shaara, Hossam F., Radwan, Marwa H., 2022. Modeling the Potential Global Distribution of Honeybee Pest, Galleria mellonel la under Changing Climate. Insects 13 (5): 484" title="Modeling the Potential Global Distribution of Honeybee Pest, Galleria mellonel la under Changing Climate" volume="13" year="2022">Hosni et al. 2022</bibRefCitation>
+).
+</paragraph>
+<paragraph id="A7FA0ECA24EFD027DF63B9328FDAA008" pageId="0" pageNumber="115845">Two-dimensional niche analysis and the most limiting factors</paragraph>
+<paragraph id="19710A593ABD1B1455A2347E212560F2" pageId="0" pageNumber="115845">
+To analyse the two-dimensional niche of 
+<taxonomicName id="EA346A54056304831C2AC18E132ED283" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="F7948FB55C1FC31F2948B209B343109A" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+, we utilised Diva-GIS software. The Envelope test was applied, focusing on two key climatic variables: annual mean temperature (bio_1) and annual precipitation (bio_12) (
+<bibRefCitation id="E5473F0E7C5A48B22EA8DCBD38AA8AED" author="Hosni, E. M" journalOrPublisher="Diversity" pageId="0" pageNumber="115845" pagination=": 99" refId="B10788758" refString="Hosni, E. M, Nasser, M., Al-Khalaf, A. A., Al-Shammery, K. A., Al-Ashaal, S., Soliman, D., 2022. Invasion of the Land of Samurai: Potential Spread of Old-World Screwworm to Japan under Climate Change. Diversity 14 (2): 99" title="Invasion of the Land of Samurai: Potential Spread of Old-World Screwworm to Japan under Climate Change." volume="14" year="2022">Hosni et al. 2022</bibRefCitation>
+). This test allowed us to assess the range and suitability of these variables for the species. Additionally, we employed the bioclimatic statistical modelling feature within Diva-GIS to generate a limitation factor map, based on the selected variables (
+<bibRefCitation id="F9E744E9260DBFDA24998221F6966C45" author="Zhang, Yanru" journalOrPublisher="Forests" pageId="0" pageNumber="115845" pagination=": 482" refId="B10788491" refString="Zhang, Yanru, Liu, Guan, Lu, Qi, Xiong, Dongyang, Li, Guoqing, Du, Sheng, 2022. Understanding the Limiting Climatic Factors on the Suitable Habitat of Chinese Alfalfa. Forests 13 (3): 482" title="Understanding the Limiting Climatic Factors on the Suitable Habitat of Chinese Alfalfa" volume="13" year="2022">Zhang et al. 2022</bibRefCitation>
+). This approach enabled us to identify and map the factors that most significantly limit the distribution of 
+<taxonomicName id="4D791F7ED2D873A81A39EB1F10534CD5" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="75A038EBB9DE2CFDCFE8FC6230472CB5" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+, providing valuable insights into the ecological constraints affecting the species.
+</paragraph>
+</subSection>
+<subSection id="EE68BE8EE59444D22396DA724F7A42B9" pageId="0" pageNumber="115845" type="results">
+<paragraph id="EAAF2A8BE708C3D151F5F75B122E393E" pageId="0" pageNumber="115845">Results</paragraph>
+<paragraph id="D1D5F207BF1F0CBD6183A4A7F4B30BB5" pageId="0" pageNumber="115845">Model assessment and contribution of environmental variables</paragraph>
+<paragraph id="C6782B8EDA094F4A4AF73533C4C9F19A" pageId="0" pageNumber="115845">
+The TSS and the AUC were used as a measure for the accuracy and performance of our MaxEnt model. The model for 
+<taxonomicName id="B3814DD2923F87FE3F6E3280F1AE6426" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="DAF2579A3B691E730E9F85CD9D105822" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+showed a high AUC value of 0.89 which is an indicator of the 
+<normalizedToken id="6E9BBD6EB2910E2B76F524BC85A1BDB4" originalValue="model’s">model's</normalizedToken>
+excellent performance (Suppl. material 1). We also calculated the TSS of the model which further confirmed its accuracy at a value of 0.75. The Jackknife test was conducted on the five most significant bioclimatic variables: bio 1 (Annual Mean Temperature), bio 2 (Mean Diurnal Range), bio 7 (Temperature Annual Range), bio 12 (Annual Precipitation) and bio 14 (Precipitation of the Driest Month) (Fig. 
+<figureCitation id="FD58589019F7109D19F722F61E4B012B" captionStart="Figure 2" captionStartId="F10788517" captionText="Figure 2. Maxent modelling outcomes. a) The Jackknife test of the most important variables for L. migratoria; b) Response curves of the most effective bioclimatic factor (bio 1) in the migratory locust's distribution." figureDoi="10.3897/BDJ.12.e115845.figure2" httpUri="https://binary.pensoft.net/fig/931743" pageId="0" pageNumber="115845">2</figureCitation>
+). The test showed that bio1 (Annual Mean Temperature) is the most contributing variable at 56% and bio 2 is the second at 24.9%. Bio 12 and 14 followed with contribution percentages of 7.9 and 7.1, respectively. Moreover, the response curve indicated that the favourable temperature for 
+<taxonomicName id="DE8460F11D1411F2373C58B0ACDFB995" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="2A9D54FE6A0C7291F426AE7FBFA2FA32" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+ranges between 10°C and 15°C (Table 
+<tableCitation id="531B485B2C9BF249ABA6ECA68AAB03B1" captionStart="Table 1" captionStartId="T10788529" captionText="Table 1. Relative percentages of bioclimatic covariates used in Maxent to model the current and future habitat suitability of L. migratoria." httpUri="http://table.plazi.org/id/17C5A2902E6F6D5301D537E7600F45BF" pageId="0" pageNumber="115845" tableUuid="17C5A2902E6F6D5301D537E7600F45BF">1</tableCitation>
+, Fig. 
+<figureCitation id="82D67755BDF0925730B52AA3519791F2" captionStart="Figure 2" captionStartId="F10788517" captionText="Figure 2. Maxent modelling outcomes. a) The Jackknife test of the most important variables for L. migratoria; b) Response curves of the most effective bioclimatic factor (bio 1) in the migratory locust's distribution." figureDoi="10.3897/BDJ.12.e115845.figure2" httpUri="https://binary.pensoft.net/fig/931743" pageId="0" pageNumber="115845">2</figureCitation>
+b).
+</paragraph>
+<paragraph id="998CF1C796FDC85D2A4419C84508C3E6" pageId="0" pageNumber="115845">
+The two-dimensional niche analysis indicates the high adaptability of this species towards the evaluated factors. It can live in a very harsh environment of the desert area and, on the other hand, in highly rainy and cold ones (Fig. 
+<figureCitation id="278E9B38F6C2AE51BC1B4029BFDD0F04" captionStart="Figure 3" captionStartId="F10788519" captionText="Figure 3. DIVA-GIS analysis of climatological variables and its effects on L. migratoria. a) Two-dimensional niche between Annual Temperature (bio 1) and Annual Precipitation (bio 12) for L. migratoria; b) Limitation factor map of the selected variables for L. migratoria." figureDoi="10.3897/BDJ.12.e115845.figure3" httpUri="https://binary.pensoft.net/fig/957888" pageId="0" pageNumber="115845">3</figureCitation>
+), but through this huge range some climatological factors form a limitation for the life of migratory locusts by its fluctuation: the very low precipitation throughout the Middle East, very low temperature through most of Europe and very high diurnal temperature in Australian desert (Fig. 
+<figureCitation id="D4E95D6527723EDF85100CCC302560D8" captionStart="Figure 3" captionStartId="F10788519" captionText="Figure 3. DIVA-GIS analysis of climatological variables and its effects on L. migratoria. a) Two-dimensional niche between Annual Temperature (bio 1) and Annual Precipitation (bio 12) for L. migratoria; b) Limitation factor map of the selected variables for L. migratoria." figureDoi="10.3897/BDJ.12.e115845.figure3" httpUri="https://binary.pensoft.net/fig/957888" pageId="0" pageNumber="115845">3</figureCitation>
+).
+</paragraph>
+<paragraph id="D04BD7FBD71F543CD5A5417D732A4E81" pageId="0" pageNumber="115845">
+Predicted Current Potential Distribution of 
+<taxonomicName id="1DF53EAC5107B3508C9B5891ABF9C7DE" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">L. migratoria</taxonomicName>
+</paragraph>
+<paragraph id="781672D811BF1D36B7F7EB31C75729D3" pageId="0" pageNumber="115845">
+The current prediction model agrees with the natural distribution of the species in Europe, Africa, Asia and Australia. In Europe. It is mostly concentrated in the west and is found in the coastal areas surrounding the Baltic Sea, Black Sea, Mediterranean Sea, North Sea, Adriatic Sea and the Caspian Sea. The model is in accordance with the ecology and behaviour of 
+<taxonomicName id="D543F36E5348D91D361975B296D73296" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="7719B3D685DD5DC5F05196E4AAE963E7" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+as most outbreaks happen in the deltas of rivers flowing into these seas. This is clearly depicted in Africa in the northern regions of the Mediterranean coasts that have no occurrence records, but are predicted to be of very high suitability currently especially north of Egypt, Libya and Morocco. Additionally, low to medium habitat suitability is seen in southern Africa (Fig. 
+<figureCitation id="2405105AB90B49D09DF3E09414E6DD41" captionStart="Figure 4" captionStartId="F10788521" captionText="Figure 4. Predicted current global distribution for L. migratoria." figureDoi="10.3897/BDJ.12.e115845.figure4" httpUri="https://binary.pensoft.net/fig/957897" pageId="0" pageNumber="115845">4</figureCitation>
+).
+</paragraph>
+<paragraph id="5EE645568168C3B6A272DE383A1FA940" pageId="0" pageNumber="115845">
+In Asia, the model shows very high suitability in Japan and the southern regions of North Korea. Further, all of China is predicted to be at very high risk. Notably, the regions surrounding the Brahmaputra River are of very high suitability as well. Low to medium suitability is found in most of India, Singapore, and Indonesia. In Australia, the pest is found in the southeast and New Zealand and the model forecasts low to medium habitat suitability in some regions (Fig. 
+<figureCitation id="438A4A4C41313A28FEFB4C06DFE39375" captionStart="Figure 4" captionStartId="F10788521" captionText="Figure 4. Predicted current global distribution for L. migratoria." figureDoi="10.3897/BDJ.12.e115845.figure4" httpUri="https://binary.pensoft.net/fig/957897" pageId="0" pageNumber="115845">4</figureCitation>
+).
+</paragraph>
+<paragraph id="B3B332611831771781AF86BFFC2FEFF5" pageId="0" pageNumber="115845">
+Predicted future distribution of 
+<taxonomicName id="B410B8C16403B3FB1506B96E73AAFF3A" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">L. migratoria</taxonomicName>
+</paragraph>
+<paragraph id="CE373BB58FA5931489A0CD9081676742" pageId="0" pageNumber="115845">
+We used three GCMs in the data of the future model considering the RCPs 2.6 and 8.5 in the time periods 2050 and 2070 (Fig. 
+<figureCitation id="6FC7120AB5584E5C1218DEE738FF2DEE" captionStart="Figure 5" captionStartId="F10788523" captionText="Figure 5. Predicted future distribution of L. migratoria in 2050 and 2070 under the RCPs 2.6 and 8.5 for the GCMs. BCC: Beijing Climate Center (BCC-CSM 1 _ 1); CC: National Center for Atmospheric Research (CCSM 4); MG: Meteorological Research Institute (MRI-CGCM 3)." figureDoi="10.3897/BDJ.12.e115845.figure5" httpUri="https://binary.pensoft.net/fig/957891" pageId="0" pageNumber="115845">5</figureCitation>
+). The mean of the three GCMs was calculated to estimate the overall future changes in the habitat suitability of 
+<taxonomicName id="A47B77AB1BD53E84C5EA1FB9524F47D2" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="5D6B943E3D8869A844938D012709BA87" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+(Fig. 
+<figureCitation id="CCBE3969E463922D284741B14CE17560" captionStart="Figure 6" captionStartId="F10788525" captionText="Figure 6. Calibration maps showing the mean of the three GCMs for the RCPs 2.6 and 8.5 in 2050 and 2070." figureDoi="10.3897/BDJ.12.e115845.figure6" httpUri="https://binary.pensoft.net/fig/957890" pageId="0" pageNumber="115845">6</figureCitation>
+). Additionally, the loss and gain in suitability were calculated to account for the differences between the current and future models (Fig. 
+<figureCitation id="8025CB8F8FF6C06D53C198EAE1CDC9E8" captionStart="Figure 7" captionStartId="F10788527" captionText="Figure 7. Map showing gain and loss in habitat suitability for the time periods 2050 and 2070 in comparison to the current prediction map." figureDoi="10.3897/BDJ.12.e115845.figure7" httpUri="https://binary.pensoft.net/fig/957889" pageId="0" pageNumber="115845">7</figureCitation>
+).
+</paragraph>
+<paragraph id="CE4569146D4ADC89EF67737879674EB4" pageId="0" pageNumber="115845">
+The majority of western Europe is predicted to be unsuitable for 
+<taxonomicName id="334AD6B90DA551751E3A6C4888AB79DF" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="473F2AE309B01D727D11FAB65E1C713D" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+. However, a significant gain in suitability is visible in Norway, Sweden, European Russia and Finland. Moreover, we see a loss in suitability in China along with noticeable unsuitability in most of the country and some gain in certain regions. The majority of Japan is also forecast to be unsuitable, except for a region in the north where a gain is depicted. Furthermore, some regions in New Zealand become unsuitable while others show gain. In Africa, a loss in habitat suitability is found in Morocco. As for the Americas, a clear gain is found in the U.S. in the region of the Great Lakes which reaches a maximum at the RCP 8.5 2070 scenario. Further, a loss in eastern Brazil can be seen along with a gain in the south of Chile and the Falkland Islands (Fig. 
+<figureCitation id="D0BD2030AAE8BC00F9E5F127C434788A" captionStart="Figure 7" captionStartId="F10788527" captionText="Figure 7. Map showing gain and loss in habitat suitability for the time periods 2050 and 2070 in comparison to the current prediction map." figureDoi="10.3897/BDJ.12.e115845.figure7" httpUri="https://binary.pensoft.net/fig/957889" pageId="0" pageNumber="115845">7</figureCitation>
+).
+</paragraph>
+</subSection>
+<subSection id="FA656E0503EE780BCDAA307E5B433022" pageId="0" pageNumber="115845" type="discussion">
+<paragraph id="9DE45E4C47E4610C9F186BEC1B7ACB35" pageId="0" pageNumber="115845">Discussion</paragraph>
+<paragraph id="E7C0B270C5D5136252CA8DEBC822E2E8" pageId="0" pageNumber="115845">
+The present study focuses on modelling the current and future potential distribution of 
+<taxonomicName id="2FC91E92F948A47B3C56D54B73607272" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="DA4682EDAC6967A6BDBA02BFEF435A6A" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+, commonly known as the migratory locust, using MaxEnt software and environmental variables. Understanding the ecological consequences of climate change on locust distribution is crucial, as it has broader implications for ecosystems and agriculture (
+<bibRefCitation id="F3B61713F65DF3C1045CDD22691D5ECF" author="Despland, E." journalOrPublisher="Oikos" pageId="0" pageNumber="115845" pagination="652 - 662" refId="B10991061" refString="Despland, E., Collett, M., Simpson, S. J., 2003. Small-scale processes in desert locust swarm formation: how vegetation patterns influence gregarization. Oikos 88 (3): 652 - 662" title="Small-scale processes in desert locust swarm formation: how vegetation patterns influence gregarization" volume="88" year="2003">Despland et al. 2003</bibRefCitation>
+). The research seeks to elucidate the complex relationship between locust distribution and environmental factors, shedding light on how changes in climate can impact species interactions, biodiversity and ecosystem functioning. This knowledge is vital for the development of effective strategies for locust management and the establishment of early warning systems to mitigate the potential detrimental effects on agriculture and ecosystems (
+<bibRefCitation id="1FCBB85A39A190B299CC02D2462F1636" author="Al-Ajlan, Abdulaziz M" journalOrPublisher="Pakistan journal of biological sciences: PJBS" pageId="0" pageNumber="115845" pagination="3507 - 15" refId="B10991070" refString="Al-Ajlan, Abdulaziz M, 2007. Relationship between desert locust, Schistocerca gregaria (Forskal), infestation, environmental factors and control measures in Gazan and Makkah Regions, Saudi Arabia. Pakistan journal of biological sciences : PJBS 10 (20): 3507 - 15" title="Relationship between desert locust, Schistocerca gregaria (Forskal), infestation, environmental factors and control measures in Gazan and Makkah Regions, Saudi Arabia." volume="10" year="2007">Al-Ajlan 2007</bibRefCitation>
+). The results provide valuable insights into the factors influencing the distribution of this economically significant locust species and its potential response to climate change.
+</paragraph>
+<paragraph id="80B34DEB9E8B4C6B6CB70E50F0B88670" pageId="0" pageNumber="115845">
+The evaluation of the MaxEnt model demonstrated its high accuracy and performance in predicting the distribution of 
+<taxonomicName id="D0CB94509EA2C4D8300BD29498F01FD5" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="2F1AC3CB590BCC1A9BAC8665C52AC908" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+. The high AUC value of 0.89 indicates excellent model performance, suggesting that the chosen environmental variables were effective in capturing the species' habitat preferences. Additionally, the TSS value of 0.75 further confirms the model's accuracy, indicating a strong relationship between the model and the actual distribution of 
+<taxonomicName id="191E9C12A7051EB56691E6A4E3A75F75" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="741DBCDC2B579324523159AAAE74CC80" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+. Such tests are accepted through several previous modelling works (
+<bibRefCitation id="01D364DD573621D617809E5012B86635" author="Sarikaya, O" journalOrPublisher="Applied Ecology and Environmental Research" pageId="0" pageNumber="115845" pagination="2527 - 2535" refId="B10788426" refString="Sarikaya, O, Karaceylan, I. B, Sen, I, 2018. Maximum entropy modeling (Maxent) of current and future distributions of Ips mannsfeldi (Wachtl, 1879) (Curculionidae: Scolytinae) in Turkey. Applied Ecology and Environmental Research 16 (3): 2527 - 2535" title="Maximum entropy modeling (Maxent) of current and future distributions of Ips mannsfeldi (Wachtl, 1879) (Curculionidae: Scolytinae) in Turkey" volume="16" year="2018">Sarikaya et al. 2018</bibRefCitation>
+; 
+<bibRefCitation id="190F7C92048B877D1F5177D9A54E4245" author="Hosni, Eslam M." journalOrPublisher="Scientific Reports" pageId="0" pageNumber="115845" pagination=": 17314" refId="B10782890" refString="Hosni, Eslam M., Nasser, Mohamed G., Al-Ashaal, Sara A., Rady, Magda H., Kenawy, Mohamed A., 2020. Modeling current and future global distribution of Chrysomya bezziana under changing climate. Scientific Reports 10 (1): 17314" title="Modeling current and future global distribution of Chrysomya bezziana under changing climate" volume="10" year="2020">Hosni et al. 2020</bibRefCitation>
+).
+</paragraph>
+<paragraph id="B7C278A9D938D6072358C2AE15111FF6" pageId="0" pageNumber="115845">
+The contribution analysis of bioclimatic variables revealed the significant role of certain variables in shaping the species distribution. The Annual Mean Temperature (bio1) emerged as the most influential variable, accounting for 56% of the model's contribution. This finding suggests that temperature plays a crucial role in determining the suitable habitat for 
+<taxonomicName id="575FB2DF3FF44F376F1547CD5DBAE06D" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="8DEE9B585E5E2EFBDB09AA45387415D0" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+. The response curve further indicated that the species favours temperatures ranging between 10°C and 15°C. Other important variables include Mean Diurnal Range (bio2), Temperature Annual Range (bio7), Annual Precipitation (bio12) and Precipitation of the Driest Month (bio14), which collectively contribute to the species' distribution patterns. On the other hand, the study of closely-related species 
+<taxonomicName id="8CB82256F167A1A2238BEC3FF1F23ED3" baseAuthorityName="Forskal" baseAuthorityYear="1775" class="Insecta" family="Acrididae" genus="Schistocerca" kingdom="Animalia" lsidName="Schistocerca gregaria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="gregaria">
+<emphasis id="B7E2A4625DDC287562DD11CA752E847E" italics="true" pageId="0" pageNumber="115845">Schistocerca gregaria</emphasis>
+</taxonomicName>
+has different significant influencing variables (mean temperature of coldest quarter (Bio 11); precipitation of warmest quarter (Bio 18); mean diurnal range (Bio 2); precipitation of wettest period (Bio 13) (
+<bibRefCitation id="9A5170EADAE5E3EA2EDD74491644DB75" author="Saha, Arnob" journalOrPublisher="Journal of Asia-Pacific Biodiversity" pageId="0" pageNumber="115845" pagination="399 - 409" refId="B10788417" refString="Saha, Arnob, Rahman, Sadniman, Alam, Shofiul, 2021. Modeling current and future potential distributions of desert locust Schistocerca gregaria (Forskal) under climate change scenarios using MaxEnt. Journal of Asia-Pacific Biodiversity 14 (3): 399 - 409" title="Modeling current and future potential distributions of desert locust Schistocerca gregaria (Forskal) under climate change scenarios using MaxEnt" volume="14" year="2021">Saha et al. 2021</bibRefCitation>
+).
+</paragraph>
+<paragraph id="22630DE343FD6F9C1F73C1D34AAA52F6" pageId="0" pageNumber="115845">
+The predicted current potential distribution of 
+<taxonomicName id="26EDA07874D2C3502F2CED5D775B11E1" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="2A03CC5A8297A976CC3C36CEF828CFED" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+aligns well with its known distribution in Europe, Africa, Asia and Australia. In Europe, the model accurately captures the species' concentration in the western regions and coastal areas surrounding the Baltic Sea, Black Sea, Mediterranean Sea, North Sea, Adriatic Sea and the Caspian Sea. This agreement with the natural distribution of the species suggests the reliability of the modelling approach (
+<bibRefCitation id="4D032027BCF5DF43BC2F13290CCD80C7" author="Chapuis, M. P." journalOrPublisher="Molecular Ecology" pageId="0" pageNumber="115845" pagination="3640 - 3653" refId="B10782849" refString="Chapuis, M. P., Lecoq, M., Michalakis, Y., Loiseau, A., Sword, G. A., Piry, S., Estoup, A., 2008. Do outbreaks affect genetic population structure? A worldwide survey in Locusta migratoria, a pest plagued by microsatellite null alleles. Molecular Ecology 17 (16): 3640 - 3653" title="Do outbreaks affect genetic population structure? A worldwide survey in Locusta migratoria, a pest plagued by microsatellite null alleles" volume="17" year="2008">Chapuis et al. 2008</bibRefCitation>
+).
+</paragraph>
+<paragraph id="5F2FDEE67CDF58337729FD43E90181F5" pageId="0" pageNumber="115845">
+In Africa, the model predicts very high suitability in the northern regions of the Mediterranean coasts, which lack occurrence records, but are identified as potential high-risk areas. This finding highlights the importance of considering both occurrence data and environmental variables in predicting species distributions, as the model can provide valuable insights beyond the known occurrence records. Additionally, low to medium suitability is observed in southern Africa, indicating areas of relatively lower risk. Adding the generated distribution maps to the remote sensing and satellite images of desert swarms could help to avoid economic losses caused by this species throughout the continent (
+<bibRefCitation id="5A14462EBA28B1208B901A31E76AAC65" author="Gomez, D." journalOrPublisher="Journal of Arid Environments" pageId="0" pageNumber="115845" pagination="29 - 37" refId="B10782879" refString="Gomez, D., Salvador, P., Sanz, J., Casanova, C., Taratiel, D., Casanova, J. L., 2019. Desert locust detection using Earth observation satellite data in Mauritania. Journal of Arid Environments 164: 29 - 37" title="Desert locust detection using Earth observation satellite data in Mauritania" volume="164" year="2019">
+<normalizedToken id="B683F3D22C286AB30CFD3576100ED498" originalValue="Gómez">Gomez</normalizedToken>
+et al. 2019
+</bibRefCitation>
+).
+</paragraph>
+<paragraph id="20A0FB61A4246157838154E90EC145EF" pageId="0" pageNumber="115845">
+The model predicts high-risk regions in Asia, particularly in Japan, southern regions of North Korea and the entirety of China. Notably, the regions surrounding the Brahmaputra River are also identified as areas of very high suitability. These findings are consistent with the known distribution and ecological behaviour of 
+<taxonomicName id="1371ECBEDADEE98D440D287C2DDDF6E3" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="0465ABFD49A9F0BF9DBEB9DB4DD1F831" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+, as outbreaks often occur in the deltas of rivers flowing into seas. Medium to low suitability is observed in most parts of India, Singapore and Indonesia (
+<bibRefCitation id="351BA2A2615CAB62315EEE1DCF02939F" author="Lecoq, M." journalOrPublisher="China Agricultural University Press, Beijing" pageId="0" pageNumber="115845" refId="B10783011" refString="Lecoq, M., Long, Z., 2019. Migratory locust Locusta migratoria (Linnaeus, 1758) (Acrididae). Encyclopedia of pest Orthoptera of the World. China Agricultural University Press, Beijing" title="Migratory locust Locusta migratoria (Linnaeus, 1758) (Acrididae). Encyclopedia of pest Orthoptera of the World" year="2019">Lecoq and Long 2019</bibRefCitation>
+; 
+<bibRefCitation id="8328F56851BB6967F021B4C406DF6742" author="Lecoq, Michel" journalOrPublisher="China Agricultural University Press, Beijing" pageId="0" pageNumber="115845" refId="B10783002" refString="Lecoq, Michel, 2022. Locusta migratoria (migratory locust). In: CABI Compendium." title="Locusta migratoria (migratory locust)" volumeTitle="CABI Compendium." year="2022">Lecoq 2022</bibRefCitation>
+).
+</paragraph>
+<paragraph id="35F35C43333D6DDB10DA05212D3096C1" pageId="0" pageNumber="115845">
+In Australia, the model identifies the southeast region as a suitable habitat for 
+<taxonomicName id="DB7FA4ED5EBE20B4C79B9DBE28FFBA38" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="5478CCED0E8247748CE294878D06608D" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+, which aligns with the occurrence of the Australian plague locust, a major agricultural pest. The model also suggests low to medium habitat suitability in certain regions of New Zealand (
+<bibRefCitation id="671CF0CB339F98D7320F3FBABE12FDF1" author="Piou, Cyril" journalOrPublisher="Current Opinion in Insect Science" pageId="0" pageNumber="115845" refId="B10788380" refString="Piou, Cyril, Marescot, Lucile, 2023. Spatiotemporal risk forecasting to improve locust management. Current Opinion in Insect Science 56" title="Spatiotemporal risk forecasting to improve locust management" volume="56" year="2023">Piou and Marescot 2023</bibRefCitation>
+).
+</paragraph>
+<paragraph id="C445ECCE0DC1B16E572D72D53A923F8B" pageId="0" pageNumber="115845">
+The study provides valuable insights into the potential impacts of climate change on the distribution of 
+<taxonomicName id="139132F5A15C7FB9DD5AD0A308A033E0" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="A1AC361E7529247A9F5C68DAEFB8DC23" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+. By utilising future climate projections, researchers can assess how changes in temperature, precipitation patterns and other climatic variables may influence the range and abundance of the species. This information is crucial for developing effective strategies for locust management and implementing early warning systems to mitigate the impact on agriculture and ecosystems (
+<bibRefCitation id="CEE38A2310825D914B6F514AD3FCDA3A" author="Ceccato, Pietro" journalOrPublisher="International Journal of Pest Management" pageId="0" pageNumber="115845" pagination="7 - 13" refId="B10782828" refString="Ceccato, Pietro, Cressman, Keith, Giannini, Alessandra, Trzaska, Sylwia, 2007. The desert locust upsurge in West Africa (2003 - 2005): Information on the desert locust early warning system and the prospects for seasonal climate forecasting. International Journal of Pest Management 53 (1): 7 - 13" title="The desert locust upsurge in West Africa (2003 - 2005): Information on the desert locust early warning system and the prospects for seasonal climate forecasting" volume="53" year="2007">Ceccato et al. 2007</bibRefCitation>
+).
+</paragraph>
+<paragraph id="E413997BC10817234F126E07188F105D" pageId="0" pageNumber="115845">
+The study found that climate factors, particularly temperature and precipitation, play a crucial role in determining the distribution of 
+<taxonomicName id="1E27CFCDC159097297659817D5E5E609" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="1F5D25D3F0C95362A6A28EA75E7B66A5" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+. By analysing occurrence data and environmental variables, the MaxEnt models accurately predicted the potential habitat suitability of the species, demonstrating high-performance indicators. Specific bioclimatic variables, such as mean temperature and annual precipitation, were identified as significant influencers of the locusts' presence (
+<bibRefCitation id="9EA38E6AE2C10EB4EAE3F6362D64FFCE" author="Nasser, M" journalOrPublisher="Journal of the Entomological Research Society" pageId="0" pageNumber="115845" pagination="439 - 453" refId="B10782781" refString="Nasser, M, AlAhmed, A, Kheir, S, Sallam, M, Dawah, H, AlAshaal, S, Hosni, E, 2023. Spatial distribution and abundance of Chrysomya bezziana in Jazan province, Saudi Arabia using GIS. Journal of the Entomological Research Society 25 (2): 439 - 453" title="Spatial distribution and abundance of Chrysomya bezziana in Jazan province, Saudi Arabia using GIS" volume="25" year="2023">Nasser et al. 2023</bibRefCitation>
+). Such outcomes are very compatible with work done on the desert locust 
+<taxonomicName id="6175808C3A7548840327E904748DFEED" baseAuthorityName="Forskal" baseAuthorityYear="1775" class="Insecta" family="Acrididae" genus="Schistocerca" kingdom="Animalia" lsidName="Schistocerca gregaria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="gregaria">
+<emphasis id="08EA95A65B7FA7F568EA9EC32699CAF2" italics="true" pageId="0" pageNumber="115845">Schistocerca gregaria</emphasis>
+</taxonomicName>
+(
+<bibRefCitation id="C23DE79F6FEBB98838A6A63B2E941E81" author="Saha, Arnob" journalOrPublisher="Journal of Asia-Pacific Biodiversity" pageId="0" pageNumber="115845" pagination="399 - 409" refId="B10788417" refString="Saha, Arnob, Rahman, Sadniman, Alam, Shofiul, 2021. Modeling current and future potential distributions of desert locust Schistocerca gregaria (Forskal) under climate change scenarios using MaxEnt. Journal of Asia-Pacific Biodiversity 14 (3): 399 - 409" title="Modeling current and future potential distributions of desert locust Schistocerca gregaria (Forskal) under climate change scenarios using MaxEnt" volume="14" year="2021">Saha et al. 2021</bibRefCitation>
+). On the other hand, Saha et al. (2021) found that the desert locust distribution range will be shrunk due to climate change. This is different from what will happen to the migratory locust. 
+<taxonomicName id="D087E2512FA594C58E84F2ED6CFFEF4B" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="D49A339B4C663BEB3589CCF5D562DF0A" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+has a broad distribution range, extending from Africa to Europe, Asia and Australia and has the ability to form large swarms, causing extensive damage to crops and vegetation (
+<bibRefCitation id="AB948062ED951A61FF7247C03CD9329C" author="Hunter, D. M." journalOrPublisher="Crop Protection" pageId="0" pageNumber="115845" pagination="699 - 704" refId="B10788858" refString="Hunter, D. M., Milner, R. J., Scanlan, J. C., Spurgin, P. A., 1999. Aerial treatment of the migratory locust, Locusta migratoria (L.) (Orthoptera: Acrididae) with Metarhizium anisopliae (Deuteromycotina: Hyphomycetes) in Australia. Crop Protection 18 (10): 699 - 704" title="Aerial treatment of the migratory locust, Locusta migratoria (L.) (Orthoptera: Acrididae) with Metarhizium anisopliae (Deuteromycotina: Hyphomycetes) in Australia" volume="18" year="1999">Hunter et al. 1999</bibRefCitation>
+). The expansion of its distribution to different continents, especially through northern Europe, highlights its adaptability and migratory behaviour. This emphasises the importance of understanding the species' distribution dynamics and its response to climate change (
+<bibRefCitation id="DAB3866FCBC4F138CE9668D4B3BCF918" author="Hunter, D. M." journalOrPublisher="Crop Protection" pageId="0" pageNumber="115845" pagination="699 - 704" refId="B10788858" refString="Hunter, D. M., Milner, R. J., Scanlan, J. C., Spurgin, P. A., 1999. Aerial treatment of the migratory locust, Locusta migratoria (L.) (Orthoptera: Acrididae) with Metarhizium anisopliae (Deuteromycotina: Hyphomycetes) in Australia. Crop Protection 18 (10): 699 - 704" title="Aerial treatment of the migratory locust, Locusta migratoria (L.) (Orthoptera: Acrididae) with Metarhizium anisopliae (Deuteromycotina: Hyphomycetes) in Australia" volume="18" year="1999">Hunter et al. 1999</bibRefCitation>
+).
+</paragraph>
+<paragraph id="64D3BADDF734127486A7D4ED06CBCB29" pageId="0" pageNumber="115845">
+Several previous studies discussed the impact of climate change on insect distribution especially for medical, veterinary and agricultural pests. In most cases, many of this species increase their distribution and invade new areas (
+<bibRefCitation id="1A17AC68DA09491D90A71C6CF5AC3D7D" author="Hosni, Eslam M." journalOrPublisher="Scientific Reports" pageId="0" pageNumber="115845" pagination=": 17314" refId="B10782890" refString="Hosni, Eslam M., Nasser, Mohamed G., Al-Ashaal, Sara A., Rady, Magda H., Kenawy, Mohamed A., 2020. Modeling current and future global distribution of Chrysomya bezziana under changing climate. Scientific Reports 10 (1): 17314" title="Modeling current and future global distribution of Chrysomya bezziana under changing climate" volume="10" year="2020">Hosni et al. 2020</bibRefCitation>
+, 
+<bibRefCitation id="4BAD8F33C302C6D334425B28080746C8" author="Hosni, E. M" journalOrPublisher="Diversity" pageId="0" pageNumber="115845" pagination=": 99" refId="B10788758" refString="Hosni, E. M, Nasser, M., Al-Khalaf, A. A., Al-Shammery, K. A., Al-Ashaal, S., Soliman, D., 2022. Invasion of the Land of Samurai: Potential Spread of Old-World Screwworm to Japan under Climate Change. Diversity 14 (2): 99" title="Invasion of the Land of Samurai: Potential Spread of Old-World Screwworm to Japan under Climate Change." volume="14" year="2022">Hosni et al. 2022</bibRefCitation>
+). The Asian tiger mosquito (
+<taxonomicName id="CBEF503C36F781F6E8E1180204487917" baseAuthorityName="Skuse" baseAuthorityYear="1894" class="? insecta" family="? culicidae" genus="Aedes" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Aedes albopictus" order="? diptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="albopictus">
+<emphasis id="3BD99F422512E855BF369BF62511498E" italics="true" pageId="0" pageNumber="115845">Aedes albopictus</emphasis>
+</taxonomicName>
+) is an example showing the spread of insects into new regions). This invasive mosquito species is a known vector for several diseases, including dengue fever and chikungunya. SDM studies using MaxEnt have indicated that climate change could facilitate the further expansion of 
+<taxonomicName id="84C19A0D48E9012E107645E2C322A117" genus="A." lsidName="A. albopictus" pageId="0" pageNumber="115845" rank="species" species="albopictus">
+<emphasis id="4C5A7A0C6ACF35334DBE3BAB7CAEADF3" italics="true" pageId="0" pageNumber="115845">A. albopictus</emphasis>
+</taxonomicName>
+into new geographical areas. Warmer temperatures and altered precipitation patterns are expected to create more suitable conditions for the mosquito's survival and reproduction (
+<bibRefCitation id="3D5BE7DDCA90385293AD74946996BD04" author="Proestos, Y." journalOrPublisher="Philosophical Transactions of the Royal Society B: Biological Sciences" pageId="0" pageNumber="115845" refId="B10991088" refString="Proestos, Y., Christophides, G. K., Ergueler, K., Tanarhte, M., Waldock, J., Lelieveld, J., 2015. Correction to 'Present and future projections of habitat suitability of the Asian tiger mosquito, a vector of viral pathogens, from global climate simulation'. Philosophical Transactions of the Royal Society B: Biological Sciences 370 (1678)" title="Correction to ' Present and future projections of habitat suitability of the Asian tiger mosquito, a vector of viral pathogens, from global climate simulation'" volume="370" year="2015">Proestos et al. 2015</bibRefCitation>
+). Additionally, the same thing occurs to agriculture and forest pests, such as the Pine Processionary Moth 
+<emphasis id="2766D449AA4AB27AC563B61FCA39AD1C" italics="true" pageId="0" pageNumber="115845">haumetopoea pityocampa</emphasis>
+(
+<bibRefCitation id="0DA9ADFF2DB9AE1204B0AD6FA3842F28" author="Roques, Lionel" journalOrPublisher="Genetics and Molecular Research" pageId="0" pageNumber="115845" pagination="227 - 263" refId="B10991099" refString="Roques, Lionel, Rossi, Jean-Pierre, Berestycki, Henri, Rousselet, Jerome, Garnier, Jimmy, Roquejoffre, Jean-Michel, Rossi, Luca, Soubeyrand, Samuel, Robinet, Christelle, 2014. Modeling the Spatio-temporal Dynamics of the Pine Processionary Moth. In: Processionary Moths and Climate Change : An Update.: 227 - 263" title="Modeling the Spatio-temporal Dynamics of the Pine Processionary Moth" volumeTitle="Processionary Moths and Climate Change: An Update." year="2014">Roques et al. 2014</bibRefCitation>
+). In many other cases, the climate change impact could threaten the insect species diversity and decrease their range as has occurred to the checkerspot butterfly 
+<taxonomicName id="9B35341E65027A35CE3785C9CCFAA92E" authorityName="Sternitzky" authorityYear="1937" class="Insecta" family="Nymphalidae" genus="Euphydryas" kingdom="Animalia" lsidName="Euphydryas editha subsp. bayensis" order="Lepidoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="subSpecies" species="editha" subSpecies="bayensis">
+<emphasis id="385A19961F6354C8357344444A70C6DC" italics="true" pageId="0" pageNumber="115845">Euphydryas editha bayensis</emphasis>
+</taxonomicName>
+in the United States (
+<bibRefCitation id="F0E6281BCBAC830086D432FF1224B7CC" author="Parmesan, Camille" journalOrPublisher="Journal of Insect Conservation" pageId="0" pageNumber="115845" pagination="185 - 204" refId="B10991113" refString="Parmesan, Camille, Williams-Anderson, Alison, Moskwik, Matthew, Mikheyev, Alexander S., Singer, Michael C., 2014. Endangered Quino checkerspot butterfly and climate change: Short-term success but long-term vulnerability? Journal of Insect Conservation 19 (2): 185 - 204" title="Endangered Quino checkerspot butterfly and climate change: Short-term success but long-term vulnerability?" volume="19" year="2014">Parmesan et al. 2014</bibRefCitation>
+) and dung beetle 
+<taxonomicName id="053BDAB26156BFF7CFD55049277F2FBE" baseAuthorityName="Forster" baseAuthorityYear="1771" class="Insecta" family="Scarabaeidae" genus="Phyllognathus" kingdom="Animalia" lsidName="Phyllognathus excavatus" order="Coleoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="excavatus">
+<emphasis id="A62AA1B9A7C78E6CDD4ADFC292D83A99" italics="true" pageId="0" pageNumber="115845">Phyllognathus excavatus</emphasis>
+</taxonomicName>
+in the Mediterranean Region (
+<bibRefCitation id="2E26F215DADC1EF841C9D155F7C1A405" author="Fatah, Adel Mamoun A." journalOrPublisher="Applied Sciences" pageId="0" pageNumber="115845" refId="B10991123" refString="Fatah, Adel Mamoun A., Zalat, Samy, Elbanna, Shereen M., Al-Khalaf, Areej A., Nasser, Mohamed, 2023. Climate Change and the Dung Beetle: Evaluation of Global Warming Impact on the Distribution of Phyllognathus excavatus (Forster, 1771) through the Mediterranean Region. Applied Sciences 13 (22)" title="Climate Change and the Dung Beetle: Evaluation of Global Warming Impact on the Distribution of Phyllognathus excavatus (Forster, 1771) through the Mediterranean Region" volume="13" year="2023">Fatah et al. 2023</bibRefCitation>
+).
+</paragraph>
+<paragraph id="DA4809DFC0C627143C09EBA230D67C66" pageId="0" pageNumber="115845">
+The integration of GIS and MaxEnt modeling techniques provides valuable tools for predicting species distributions and assessing the potential impacts of climate change (
+<bibRefCitation id="521EF8D4CFECE66EBC45FF4778733149" author="Sabour, Amal" journalOrPublisher="Microorganisms" pageId="0" pageNumber="115845" pagination=": 2174" refId="B10788408" refString="Sabour, Amal, 2023. Global risk maps of climate change impacts on the distribution of Acinetobacter baumannii using GIS. Microorganisms 11 (9): 2174" title="Global risk maps of climate change impacts on the distribution of Acinetobacter baumannii using GIS" volume="11" year="2023">Sabour 2023</bibRefCitation>
+). By comparing current distribution models with future climate scenarios, researchers can evaluate how changes in temperature, precipitation patterns and other climatic variables may affect the abundance and range of 
+<taxonomicName id="7A1409C1EE536E19FB4C8773FAF1594F" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="64B51225299068855FFABF545F96FEBC" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+. This information is crucial for identifying areas at higher risk of locust outbreaks and implementing proactive measures for effective locust management of any other agriculture pest that is studied by this methodology (
+<bibRefCitation id="1F12E61361ED8E052BF8D66D65C45765" author="Abutaleb, K." journalOrPublisher="The Egyptian Journal of Remote Sensing and Space Science" pageId="0" pageNumber="115845" pagination="311 - 319" refId="B10782756" refString="Abutaleb, K., Yones, M. S., El-Shirbeny, M., Ma'mon, S. A.M., AlAshal, Sarah, 2020. Modelling and monitoring house fly M. domestica using remote sensing data and geographic information system. The Egyptian Journal of Remote Sensing and Space Science 23 (3): 311 - 319" title="Modelling and monitoring house fly M. domestica using remote sensing data and geographic information system" volume="23" year="2020">Abutaleb et al. 2020</bibRefCitation>
+).
+</paragraph>
+</subSection>
+<subSection id="24DF7FA824F2017291491832E6B7A053" pageId="0" pageNumber="115845" type="conclusions">
+<paragraph id="DD23C1F72FB4BAFAD4E199FC3DBAC789" pageId="0" pageNumber="115845">Conclusions</paragraph>
+<paragraph id="5B3A6FAB8FC5E9AD5CFCC2283AF4FB6E" pageId="0" pageNumber="115845">
+In conclusion, our study utilised Geographic Information System (GIS) and MaxEnt ecological modelling techniques to assess the ecological consequences of climate change on the distribution patterns of 
+<taxonomicName id="BDE8CBAC0037B9D80D9090038ADEC05A" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="37A87F93A3480E2A7519E8D1A84784A2" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+, a significant grasshopper species known for its destructive impact on crops and vegetation. Through comprehensive data analysis and predictive modelling, we identified the crucial role of climate factors, particularly temperature and precipitation, in determining the locust's distribution. Our high-performance MaxEnt models accurately predicted the potential habitat suitability of 
+<taxonomicName id="6DB25271C1608D30FA1EB0188BD43F8C" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="49631976CCC9B03355C338C0D60AB5C9" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+, highlighting the importance of mean temperature and annual precipitation as significant factors influencing the species' presence. Furthermore, our research generated future distribution maps that provide insights into the potential invasion of 
+<taxonomicName id="DB981E1F93653548AFED29D0EAC26573" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="778292AB5DFB41982D125B194456817B" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+into new regions, particularly in Europe, as a direct consequence of a warming world. These findings have significant implications for agricultural communities, as they predict the risk posed by this destructive species. By shedding light on the complex relationship between locust distribution and environmental factors, our study contributes to the development of effective strategies for locust management and early warning systems. The identification of limiting factors and the mapping of ecological constraints using Diva-GIS software offer valuable tools for understanding and mitigating the impact of locust outbreaks on agriculture and ecosystems. Overall, our research provides valuable insights into the ecological consequences of climate change on 
+<taxonomicName id="D47DC437DE0253AF76CCD72246B9826F" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="F807CCCDB394C0A61E64B47AF5B9DFDA" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+and emphasises the need for proactive measures to address the challenges posed by this species. By integrating climate change considerations into locust management strategies, we can develop more effective approaches to mitigate the impact on agriculture and ensure the sustainability of ecosystems in the face of a changing climate.
+</paragraph>
+</subSection>
+<subSection id="BF2C17A5CD30DC18C1EFD372B9E3C9C0" pageId="0" pageNumber="115845" type="ethics statement">
+<paragraph id="3280F85441B38A92F62A700356CA7C32" pageId="0" pageNumber="115845">Ethics statement</paragraph>
+<paragraph id="EB02B95DAE10EB33391EE5E6650F89B6" pageId="0" pageNumber="115845">The present work did not need any ethical statement as it only dealt with Data Science.</paragraph>
+</subSection>
+<subSection id="3EF385B8D753207D8DDC6DE3971E07ED" pageId="0" pageNumber="115845" type="acknowledgements">
+<paragraph id="CBD129BD1C1B47B1865027A9E68CFD00" pageId="0" pageNumber="115845">Acknowledgements</paragraph>
+<paragraph id="85AC4BFABCB90A9476ED3CD61D301F3A" pageId="0" pageNumber="115845">The authors acknowledge the support from Princess Nourah bint Abdulrahman University Researchers Supporting Project number (PNURSP2024R37), Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia.</paragraph>
+</subSection>
+<subSection id="89B616ADB943E9C82784264AA2114881" pageId="0" pageNumber="115845" type="conflicts of interest">
+<paragraph id="361111F005C067C570698A60CC63ED89" pageId="0" pageNumber="115845">Conflicts of interest</paragraph>
+<paragraph id="94F325E5DB0B65D6432196062951659B" pageId="0" pageNumber="115845">No conflict of interest to declare</paragraph>
+<paragraph id="FDAB9B5E791D15A8763F45D0536DB54B" pageId="0" pageNumber="115845">Disclaimer: This article is (co-)authored by any of the Editors-in-Chief, Managing Editors or their deputies in this journal.</paragraph>
+</subSection>
+<subSection id="EA2878D7C5C4DB574C37CF7D34E4DB79" pageId="0" pageNumber="115845" type="reference_group">
+<paragraph id="6400C8D0D10F5CFA153E3F8FCFDB556D" pageId="0" pageNumber="115845">References</paragraph>
+<paragraph id="18182DBD6EEAC6287C8669DFF29DABFA" pageId="0" pageNumber="115845">
+<bibRef id="1476A72FC3AEF6EE09667F668F6F60E8" author="Abutaleb, K." journalOrPublisher="The Egyptian Journal of Remote Sensing and Space Science" pageId="0" pageNumber="115845" pagination="311 - 319" refId="B10782756" title="Modelling and monitoring house fly M. domestica using remote sensing data and geographic information system" volume="23" year="2020">
+<author id="6FE092E9D7ABEF281D49F68BCA3B8122" pageId="0" pageNumber="115845">Abutaleb, K.</author>
+, 
+<author id="9F35C40103E548513F6CF6BA3067755D" pageId="0" pageNumber="115845">Yones, M. S.</author>
+, 
+<author id="08C60141508FF91FD7C32320F984682C" pageId="0" pageNumber="115845">El-Shirbeny, M.</author>
+, 
+<author id="7A0D5B64AC07EF86929273B6A1AEBDCF" pageId="0" pageNumber="115845">Ma'mon, S. A.M.</author>
+, 
+<author id="807E92F0374447078694C709A8C5A722" pageId="0" pageNumber="115845">AlAshal, Sarah</author>
+, 
+<year id="4A6334B8C3120250DFB7FA6DC3E3CE6E" pageId="0" pageNumber="115845">2020</year>
+. 
+<title id="A0F52B51FF8A38A140CCA17458AB7A1A" pageId="0" pageNumber="115845">
+Modelling and monitoring house fly 
+<taxonomicName id="54AA8503984FFA5E97CACCC4CA91C4F7" genus="M." lsidName="M. domestica" pageId="0" pageNumber="115845" rank="species" species="domestica">
+<emphasis id="C1204302CD8F987446B0E8EFAC534671" italics="true" pageId="0" pageNumber="115845">M. domestica</emphasis>
+</taxonomicName>
+using remote sensing data and geographic information system
+</title>
+. 
+<journalOrPublisher id="4CCAA8E8C17A3970043C04C07357FE6E" pageId="0" pageNumber="115845">The Egyptian Journal of Remote Sensing and Space Science</journalOrPublisher>
+<volume id="2A09034B0A43AE4CA38B5A654F711BB6" pageId="0" pageNumber="115845">23</volume>
+(
+<issue id="28C37BFA769B95197123B23C8CDE7DE7" pageId="0" pageNumber="115845">3</issue>
+): 
+<pagination id="99898B4BD4C6DAB205F0D8C158569A89" pageId="0" pageNumber="115845">311 - 319</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="FF3AE598B9D094C8FB146CBA65A6E20B" pageId="0" pageNumber="115845">
+<bibRef id="562EB312319042C34F728D20C858DAC0" author="Aidoo, Owusu F." journalOrPublisher="Science of The Total Environment" pageId="0" pageNumber="115845" pagination=": 160962" refId="B10782766" title="Modeling climate change impacts on potential global distribution of Tamarixia radiata Waterston (Hymenoptera: Eulophidae)" volume="864" year="2023">
+<author id="0A45183BFE0268B20E334EDBEEBCDFFA" pageId="0" pageNumber="115845">Aidoo, Owusu F.</author>
+, 
+<author id="300D144A227793A99B88CA4B81DBF03C" pageId="0" pageNumber="115845">Souza, Philipe G. C.</author>
+, 
+<author id="296E5A02C567A834A546E3C3DF3F9AB3" pageId="0" pageNumber="115845">Silva, Ricardo S.</author>
+, 
+<author id="BA880EC849E214A0152B6D5DDBBE2980" pageId="0" pageNumber="115845">
+<normalizedToken id="59BDB56A2E92E2B654F1DAAAD492D94F" originalValue="Júnior">Junior</normalizedToken>
+, Paulo A. S.
+</author>
+, 
+<author id="B7C34B04DFDC22468AE2E3D8808E9B7D" pageId="0" pageNumber="115845">
+<normalizedToken id="2E67E483B60ED9734E0A2B07236FB334" originalValue="Picanço">Picanco</normalizedToken>
+, Marcelo C.
+</author>
+, 
+<author id="E236CE10B0E22A32D40AD3617E61DD84" pageId="0" pageNumber="115845">Heve, William K.</author>
+, 
+<author id="3BDF974C3CECE2B590E8E479245BF869" pageId="0" pageNumber="115845">Duker, Rahmat Q.</author>
+, 
+<author id="195AFD10716054C3B484AC5FC3049621" pageId="0" pageNumber="115845">Ablormeti, Fred K.</author>
+, 
+<author id="7B0669938271493BD7449FA785A255DF" pageId="0" pageNumber="115845">
+<normalizedToken id="F093DECF1A35C468E243AE11E44E607E" originalValue="Sétamou">Setamou</normalizedToken>
+, Mamoudou
+</author>
+, 
+<author id="C3D71D0D9576276A6369F0E4F692E406" pageId="0" pageNumber="115845">Borgemeister, Christian</author>
+, 
+<year id="B83633A0D8E24F697AE7B8A09587B047" pageId="0" pageNumber="115845">2023</year>
+. 
+<title id="CBAAB4C8BCF0F42C167C7EF320D2694E" pageId="0" pageNumber="115845">
+Modeling climate change impacts on potential global distribution of 
+<taxonomicName id="86E4CCD159E32A7CAAB7237430F1E79F" baseAuthorityName="Waterston" baseAuthorityYear="1922" class="? insecta" genus="Tamarixia" higherTaxonomySource="GBIF" kingdom="? animalia" lsidName="Tamarixia radiata" order="Hymenoptera" pageId="0" pageNumber="115845" phylum="arthropodo" rank="species" species="radiata">
+<emphasis id="2842A16D9E3F5A634611227575111AC3" italics="true" pageId="0" pageNumber="115845">Tamarixia radiata</emphasis>
+</taxonomicName>
+Waterston (
+<taxonomicName id="E14200A8417F125710F081167360B1FA" class="? insecta" genus="Tamarixia" higherTaxonomySource="GBIF" kingdom="? animalia" lsidName="" order="Hymenoptera" pageId="0" pageNumber="115845" phylum="arthropodo" rank="order">Hymenoptera</taxonomicName>
+: 
+<taxonomicName id="BC46B2C86269ACB0FFC80585D3DAD632" baseAuthorityName="Haliday" baseAuthorityYear="1833" class="Hexapoda" family="Eulophidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hymenoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="family">Eulophidae</taxonomicName>
+)
+</title>
+. 
+<journalOrPublisher id="599E6B33BCA4ECD46DCF04E6451F7A79" pageId="0" pageNumber="115845">Science of The Total Environment</journalOrPublisher>
+<volume id="7D3F3AD021CEE7A8E3607EDF7BCCA900" pageId="0" pageNumber="115845">864</volume>
+<pagination id="AA7DCC10A440A7CF5E17C63BE30CA02A" pageId="0" pageNumber="115845">: 160962</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="B00B8D9763AE640C4CA84CE4D95BF83A" pageId="0" pageNumber="115845">
+<bibRef id="1BEAFD24F7DF5910B52F28BE3A904A59" author="Al-Ajlan, Abdulaziz M" journalOrPublisher="Pakistan journal of biological sciences: PJBS" pageId="0" pageNumber="115845" pagination="3507 - 15" refId="B10991070" title="Relationship between desert locust, Schistocerca gregaria (Forskal), infestation, environmental factors and control measures in Gazan and Makkah Regions, Saudi Arabia." volume="10" year="2007">
+<author id="C30118AAEABA4FBECE8D741D568287AB" pageId="0" pageNumber="115845">Al-Ajlan, Abdulaziz M</author>
+, 
+<year id="79F415D97E1DF2F1AE42842799ABDC17" pageId="0" pageNumber="115845">2007</year>
+. 
+<title id="09DFD9CE147DCC92CEA2017D6D015851" pageId="0" pageNumber="115845">
+Relationship between desert locust, 
+<taxonomicName id="A2F8669DAEE239D4D37454861C9B14A5" baseAuthorityName="Forskal" baseAuthorityYear="1775" class="Insecta" family="Acrididae" genus="Schistocerca" kingdom="Animalia" lsidName="Schistocerca gregaria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="gregaria">
+<emphasis id="4FED59FCB1A02317197B52D69448D3CC" italics="true" pageId="0" pageNumber="115845">Schistocerca gregaria</emphasis>
+</taxonomicName>
+(
+<normalizedToken id="560665146FFBB969599E014C2BE57381" originalValue="Forskål">Forskal</normalizedToken>
+), infestation, environmental factors and control measures in Gazan and Makkah Regions, Saudi Arabia.
+</title>
+<journalOrPublisher id="81CC68F8261A92276F58CBB3E0CB0F19" pageId="0" pageNumber="115845">Pakistan journal of biological sciences: PJBS</journalOrPublisher>
+<volume id="3951E8F55B901557D540A3DA101CDB50" pageId="0" pageNumber="115845">10</volume>
+(
+<issue id="5CFDA5C7AE0795A0CA9EC30B1C7BC977" pageId="0" pageNumber="115845">20</issue>
+): 
+<pagination id="A85977512B4218760C9F67B31A4424FE" pageId="0" pageNumber="115845">3507 - 15</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="EA44FE549FC0BC0486F6720ED3382997" pageId="0" pageNumber="115845">
+<bibRef id="FC013B5903DFC85BAEAAA193CF2B17A1" author="Al-Khalaf, Areej A." journalOrPublisher="Diversity" pageId="0" pageNumber="115845" pagination=": 903" refId="B10782810" title="Global Potential Distribution of Sarcophaga dux and Sarcophaga haemorrhoidalis under Climate Change" volume="15" year="2023">
+<author id="2251AFF9F55F20CFDFC533B140CDB895" pageId="0" pageNumber="115845">Al-Khalaf, Areej A.</author>
+, 
+<author id="26460B500F594C64F4B2E74F86ACDDD2" pageId="0" pageNumber="115845">Nasser, Mohamed G.</author>
+, 
+<author id="B7D3F19C70CF8D589662ABC112E179A3" pageId="0" pageNumber="115845">Hosni, Eslam M.</author>
+, 
+<year id="383AA658C873A936D481AD0EB5FC6F60" pageId="0" pageNumber="115845">2023</year>
+. 
+<title id="DECD3F5DCA5613F96D5502BE7C131CF0" pageId="0" pageNumber="115845">
+Global Potential Distribution of 
+<taxonomicName id="D8F320EFD5C7070B34DD13AF83F6F7A0" authorityName="Thomson" authorityYear="1869" class="Hexapoda" family="Sarcophagidae" genus="Sarcophaga" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Sarcophaga dux" order="Diptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="dux">
+<emphasis id="46C28ED10A812A2BCD1A018A851DED23" italics="true" pageId="0" pageNumber="115845">Sarcophaga dux</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="C746E14F40F4309A672564B0891EBBEC" baseAuthorityName="Fallen" baseAuthorityYear="1817" class="Hexapoda" family="Sarcophagidae" genus="Sarcophaga" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Sarcophaga haemorrhoidalis" order="Diptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="haemorrhoidalis">
+<emphasis id="B03A41907AF06D7630CF2BD4F80DFAAD" italics="true" pageId="0" pageNumber="115845">Sarcophaga haemorrhoidalis</emphasis>
+</taxonomicName>
+under Climate Change
+</title>
+. 
+<journalOrPublisher id="925226EAAF31CE1209B324C6AA0EE0E9" pageId="0" pageNumber="115845">Diversity</journalOrPublisher>
+<volume id="D3C85BE88EEC3F753CD02178BE2101DD" pageId="0" pageNumber="115845">15</volume>
+(
+<issue id="4CB06267D08B17B55A461D58D8E605D2" pageId="0" pageNumber="115845">8</issue>
+)
+<pagination id="E178852682806957B87C890C18AAB45A" pageId="0" pageNumber="115845">: 903</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="86D638E49D6153094EA30DCDF731D7CC" pageId="0" pageNumber="115845">
+<bibRef id="74065859A41473597E997984AB852FB9" author="Blank, Lior" journalOrPublisher="Hydrobiologia" pageId="0" pageNumber="115845" pagination="157 - 167" refId="B10782819" title="Using ecological niche modeling to predict the distributions of two endangered amphibian species in aquatic breeding sites" volume="693" year="2012">
+<author id="A206915003508C853E03A0DEAB31F424" pageId="0" pageNumber="115845">Blank, Lior</author>
+, 
+<author id="0E4FDD67391F5F08CA2EF082DDB37FBA" pageId="0" pageNumber="115845">Blaustein, Leon</author>
+, 
+<year id="D3B1E83963763ABC3284A1D9CF69847E" pageId="0" pageNumber="115845">2012</year>
+. 
+<title id="104BF401F32027A6EDB1EB03F33463B0" pageId="0" pageNumber="115845">Using ecological niche modeling to predict the distributions of two endangered amphibian species in aquatic breeding sites</title>
+. 
+<journalOrPublisher id="BBD32505E670D0C85DC50CF2CC93DED6" pageId="0" pageNumber="115845">Hydrobiologia</journalOrPublisher>
+<volume id="05911B4B1D968C9C9FE6D5CBAE085D32" pageId="0" pageNumber="115845">693</volume>
+(
+<issue id="8DD7695F107FF7FF445B08FF91ED6E18" pageId="0" pageNumber="115845">1</issue>
+): 
+<pagination id="D2D4C6466C9399BD941521BD761805D9" pageId="0" pageNumber="115845">157 - 167</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="74FCCFD1E6CFEE05D8F60FAF8CF9304C" pageId="0" pageNumber="115845">
+<bibRef id="8B75D1E8DCF50A64B674E12789029919" author="Ceccato, Pietro" journalOrPublisher="International Journal of Pest Management" pageId="0" pageNumber="115845" pagination="7 - 13" refId="B10782828" title="The desert locust upsurge in West Africa (2003 - 2005): Information on the desert locust early warning system and the prospects for seasonal climate forecasting" volume="53" year="2007">
+<author id="1D3E4E9836E4C42E005CC92B41965758" pageId="0" pageNumber="115845">Ceccato, Pietro</author>
+, 
+<author id="F802F1E35747E459A5DE9303F2C4DF29" pageId="0" pageNumber="115845">Cressman, Keith</author>
+, 
+<author id="89C333AAD12B7D37371960396384D950" pageId="0" pageNumber="115845">Giannini, Alessandra</author>
+, 
+<author id="16D1292D063EE79A43CC812F5053E601" pageId="0" pageNumber="115845">Trzaska, Sylwia</author>
+, 
+<year id="A1CDEEF4C7AC464C51FC53C49247FD60" pageId="0" pageNumber="115845">2007</year>
+. 
+<title id="1F8CA32D91E8AFE8739256949D10356C" pageId="0" pageNumber="115845">The desert locust upsurge in West Africa (2003 - 2005): Information on the desert locust early warning system and the prospects for seasonal climate forecasting</title>
+. 
+<journalOrPublisher id="1D301FC001E3486D92590AE518713249" pageId="0" pageNumber="115845">International Journal of Pest Management</journalOrPublisher>
+<volume id="D2CA82A9B06BA53761DDD2448C256B30" pageId="0" pageNumber="115845">53</volume>
+(
+<issue id="B94C1A61B6BCCF1C8705B0584F4CBB6F" pageId="0" pageNumber="115845">1</issue>
+): 
+<pagination id="1EAF7B60BD7C17E5ED78BC8A2EC06C43" pageId="0" pageNumber="115845">7 - 13</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="DF8A5B029DB3C16473211A6687F2017B" pageId="0" pageNumber="115845">
+<bibRef id="61854B59496C25CF0A5A82F1E83B981E" author="Chapuis, M. - P." journalOrPublisher="Bulletin of Entomological Research" pageId="0" pageNumber="115845" pagination="9 - 17" refId="B10782837" title="Parental crowding influences life history traits in Locusta migratoria females" volume="100" year="2009">
+<author id="265C9AB4E819AA3733A4C4489ABB9398" pageId="0" pageNumber="115845">Chapuis, M. - P.</author>
+, 
+<author id="D36468E9D0E1453337E92040F121AB1C" pageId="0" pageNumber="115845">Crespin, L.</author>
+, 
+<author id="55C57BAA537ACD1ADCA81DF47E19263B" pageId="0" pageNumber="115845">Estoup, A.</author>
+, 
+<author id="DFD87A6C0E2E926A6394355FEA183CEE" pageId="0" pageNumber="115845">
+<normalizedToken id="034020080E0E877F82FD471D332F3C07" originalValue="Augé-Sabatier">Auge-Sabatier</normalizedToken>
+, A.
+</author>
+, 
+<author id="D86201AFE62C042B877FB76D85D61C81" pageId="0" pageNumber="115845">Foucart, A.</author>
+, 
+<author id="788E6CB095523D77D0A178413FB10829" pageId="0" pageNumber="115845">Lecoq, M.</author>
+, 
+<author id="C1F64BC826FC64730A870C782BB4692B" pageId="0" pageNumber="115845">Michalakis, Y.</author>
+, 
+<year id="AA023D13AB99B461DE49DDB5601B67E3" pageId="0" pageNumber="115845">2009</year>
+. 
+<title id="D47D4411E104E59493C6F5CA8271D41A" pageId="0" pageNumber="115845">
+Parental crowding influences life history traits in 
+<taxonomicName id="2CC33ACAC4A189C95F4904B3B433F175" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="FB30CC5F8BE56771C512232F03BAB861" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+females
+</title>
+. 
+<journalOrPublisher id="D09B31B1BC10445779B871AFA8FAC472" pageId="0" pageNumber="115845">Bulletin of Entomological Research</journalOrPublisher>
+<volume id="0FD85C07DE3B138B03FD6A6D5486DF05" pageId="0" pageNumber="115845">100</volume>
+(
+<issue id="B2EB81973905AD62D9249C49F83553E2" pageId="0" pageNumber="115845">1</issue>
+): 
+<pagination id="C8BE5A1CC3FA230EBD72ADDFF18AFEE3" pageId="0" pageNumber="115845">9 - 17</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="CDA236B8EB2DDE2F82676D500B43C2C1" pageId="0" pageNumber="115845">
+<bibRef id="2157724A10C2CBD7B8CAE09BA30489C2" author="Chapuis, M. P." journalOrPublisher="Molecular Ecology" pageId="0" pageNumber="115845" pagination="3640 - 3653" refId="B10782849" title="Do outbreaks affect genetic population structure? A worldwide survey in Locusta migratoria, a pest plagued by microsatellite null alleles" volume="17" year="2008">
+<author id="5F5EEBEB99D5C74D29495CA02998F774" pageId="0" pageNumber="115845">Chapuis, M. P.</author>
+, 
+<author id="B643AF7B3FBED67F0987F94B04EA60F1" pageId="0" pageNumber="115845">Lecoq, M.</author>
+, 
+<author id="7ECCDF2ABCF66B280BA05C77DD1A1662" pageId="0" pageNumber="115845">Michalakis, Y.</author>
+, 
+<author id="C0488859D31F6512567DA0896846E5C8" pageId="0" pageNumber="115845">Loiseau, A.</author>
+, 
+<author id="03714D5615F4030A2D880EE8DAF9042F" pageId="0" pageNumber="115845">Sword, G. A.</author>
+, 
+<author id="D180B4C3DD16495B8E8D81AB3D5537D9" pageId="0" pageNumber="115845">Piry, S.</author>
+, 
+<author id="81857EA83D0BA5F354E18348075F3310" pageId="0" pageNumber="115845">Estoup, A.</author>
+, 
+<year id="82119683EDE6C3848120AE0991128CA2" pageId="0" pageNumber="115845">2008</year>
+. 
+<title id="21C518DB94558E3F1D0E608C1510A831" pageId="0" pageNumber="115845">
+Do outbreaks affect genetic population structure? A worldwide survey in 
+<taxonomicName id="5E528C0A51765B22BBF9A19481E8662B" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="F5626A29F8256605D37097B03F252DE4" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+, a pest plagued by microsatellite null alleles
+</title>
+. 
+<journalOrPublisher id="FD39A6178B418E88AA14BB2A84930E03" pageId="0" pageNumber="115845">Molecular Ecology</journalOrPublisher>
+<volume id="6402E1A79627AB7CD959ADBB252BA4AE" pageId="0" pageNumber="115845">17</volume>
+(
+<issue id="0B255C3E74F367308BEAF97DCF661688" pageId="0" pageNumber="115845">16</issue>
+): 
+<pagination id="564245B6D2D97C971B2E507F17B3A6FB" pageId="0" pageNumber="115845">3640 - 3653</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="D4AE4B392D322AB20C62E7B7BE14D984" pageId="0" pageNumber="115845">
+<bibRef id="03DDEAA4217C835A2D664C9FF4D7DE2B" author="Despland, E." journalOrPublisher="Oikos" pageId="0" pageNumber="115845" pagination="652 - 662" refId="B10991061" title="Small-scale processes in desert locust swarm formation: how vegetation patterns influence gregarization" volume="88" year="2003">
+<author id="D3FF2FE8BE9AAACEA16A1F175230C0E2" pageId="0" pageNumber="115845">Despland, E.</author>
+, 
+<author id="D44BF9E4691689846826DBC9F6891CE8" pageId="0" pageNumber="115845">Collett, M.</author>
+, 
+<author id="68B34B8558744B2EEA5E7E680BBA42D0" pageId="0" pageNumber="115845">Simpson, S. J.</author>
+, 
+<year id="2EDD3D37B1BFC702DECA8686637E54C7" pageId="0" pageNumber="115845">2003</year>
+. 
+<title id="C4AED9F3C9EF969E6AAED4DDA5CBDA1E" pageId="0" pageNumber="115845">Small-scale processes in desert locust swarm formation: how vegetation patterns influence gregarization</title>
+. 
+<journalOrPublisher id="76BB927128CF3230B9C5EA3831EFB057" pageId="0" pageNumber="115845">Oikos</journalOrPublisher>
+<volume id="F974F8437B7BE1A169384C6E8F9C0D27" pageId="0" pageNumber="115845">88</volume>
+(
+<issue id="33D921F6C3AAB3FD09C8390A0F337A30" pageId="0" pageNumber="115845">3</issue>
+): 
+<pagination id="4F077066B74AF758AD73589F0300505B" pageId="0" pageNumber="115845">652 - 662</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="B1FC6CEC7234DCD8ED28D8D7CD453E29" pageId="0" pageNumber="115845">
+<bibRef id="4D4B1F1B51F30DBD135B2EC4D931D155" author="Di Febbraro, Mirko" journalOrPublisher="Global Change Biology" pageId="0" pageNumber="115845" pagination="5509 - 5523" refId="B10991023" title="Different facets of the same niche: Integrating citizen science and scientific survey data to predict biological invasion risk under multiple global change drivers" volume="29" year="2023">
+<author id="9EB9881F11E7F776208DC602772BD198" pageId="0" pageNumber="115845">Di Febbraro, Mirko</author>
+, 
+<author id="20E7E90A043C7E312F1B0CAD7F0F7783" pageId="0" pageNumber="115845">Bosso, Luciano</author>
+, 
+<author id="6F821895928A966953E09F418D402FA3" pageId="0" pageNumber="115845">Fasola, Mauro</author>
+, 
+<author id="44B2741B0705FF607983D2D7A9B7A76D" pageId="0" pageNumber="115845">Santicchia, Francesca</author>
+, 
+<author id="98ACE6E2FD95F990DC817F662A6356B1" pageId="0" pageNumber="115845">Aloise, Gaetano</author>
+, 
+<author id="98A119F7C2555D78BE3FB6FEAC8B9584" pageId="0" pageNumber="115845">Lioy, Simone</author>
+, 
+<author id="DE801E22512BE8569DC20A0C130B93E3" pageId="0" pageNumber="115845">Tricarico, Elena</author>
+, 
+<author id="4F34C8C5A093EDB0C4CF143291913589" pageId="0" pageNumber="115845">Ruggieri, Luciano</author>
+, 
+<author id="49538BAE5FC8DDC4409C5043EF3DE9A7" pageId="0" pageNumber="115845">Bovero, Stefano</author>
+, 
+<author id="5A73C71A56DE3A2D6D479D595541138B" pageId="0" pageNumber="115845">Mori, Emiliano</author>
+, 
+<author id="859674882586A37013BA723030697E5E" pageId="0" pageNumber="115845">Bertolino, Sandro</author>
+, 
+<year id="415F90163383A32FB9D07727E6AEA37A" pageId="0" pageNumber="115845">2023</year>
+. 
+<title id="B8F9D575440CB8342CB5229C64274016" pageId="0" pageNumber="115845">Different facets of the same niche: Integrating citizen science and scientific survey data to predict biological invasion risk under multiple global change drivers</title>
+. 
+<journalOrPublisher id="86F73CC143A3F29C7DF2FE85CD18D441" pageId="0" pageNumber="115845">Global Change Biology</journalOrPublisher>
+<volume id="158622CB96221FC5A39F7177F4DB2A59" pageId="0" pageNumber="115845">29</volume>
+(
+<issue id="0BB52F9060F71ED9AC9B407993E5F38A" pageId="0" pageNumber="115845">19</issue>
+): 
+<pagination id="B3C4DCFB0BE5780F01D38259993ADB0A" pageId="0" pageNumber="115845">5509 - 5523</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="1297F72778B3B9F87DF1686E5DF32F00" pageId="0" pageNumber="115845">
+<bibRef id="7CE28EC240A171773D0113E4F3BA6362" author="ElShahed, Sara M." journalOrPublisher="Scientific Reports" pageId="0" pageNumber="115845" pagination=": 17314" refId="B10782861" title="Modeling the potential global distribution of the Egyptian cotton leafworm, Spodoptera littoralis under climate change" volume="13" year="2023">
+<author id="D2A29D479C97CA3DE5E1AA06415D4034" pageId="0" pageNumber="115845">ElShahed, Sara M.</author>
+, 
+<author id="2DE20A1E7B5206E1D785FD3022DC81F3" pageId="0" pageNumber="115845">Mostafa, Zahia K.</author>
+, 
+<author id="BDFAD6FAAF1D08F214766B4E4C941010" pageId="0" pageNumber="115845">Radwan, Marwa H.</author>
+, 
+<author id="BCC4F8E60AC31296FEFE06194361B2CB" pageId="0" pageNumber="115845">Hosni, Eslam M.</author>
+, 
+<year id="E769CAE7BBCEC497F8F7B47255EA5EDD" pageId="0" pageNumber="115845">2023</year>
+. 
+<title id="A8C216232E531CF5C22DBF8E2563C2A4" pageId="0" pageNumber="115845">
+Modeling the potential global distribution of the Egyptian cotton leafworm, 
+<taxonomicName id="FE7CA516FC6381FCB71240C8B54BD226" baseAuthorityName="Boisduval" baseAuthorityYear="1833" class="Hexapoda" genus="Spodoptera" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Spodoptera littoralis" order="Lepidoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="littoralis">
+<emphasis id="2F7D62E74CB9E35800C229DCF67ABDE0" italics="true" pageId="0" pageNumber="115845">Spodoptera littoralis</emphasis>
+</taxonomicName>
+under climate change
+</title>
+. 
+<journalOrPublisher id="AD9E962550E7F2AAC9BE467288CAC341" pageId="0" pageNumber="115845">Scientific Reports</journalOrPublisher>
+<volume id="6A423068427F572430EBB11AC734E2BA" pageId="0" pageNumber="115845">13</volume>
+(
+<issue id="1C7F33D43E18051C0AB0C54A0051A1A9" pageId="0" pageNumber="115845">1</issue>
+)
+<pagination id="CEDF4F8BA6FFB6CC35033EA90AF24B64" pageId="0" pageNumber="115845">: 17314</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="FA73BBFECA4EF5B79E88AD37D02C7E9F" pageId="0" pageNumber="115845">
+<bibRef id="3EE993ECDB374B07D7395E15CD3FEA00" author="Escobar, Luis E." journalOrPublisher="Geospatial health" pageId="0" pageNumber="115845" refId="B10782870" title="Potential for spread of the white-nose fungus (Pseudogymnoascus destructans) in the Americas: use of Maxent and NicheA to assure strict model transference" volume="9" year="2014">
+<author id="CE1635D73C2DE00BD9F4A3D207B255B3" pageId="0" pageNumber="115845">Escobar, Luis E.</author>
+, 
+<author id="DBEF9105BC2B11F63D0848100D0654C5" pageId="0" pageNumber="115845">
+Lira-Noriega, 
+<normalizedToken id="5E81462CCC914C71686415C8975E9225" originalValue="Andrés">Andres</normalizedToken>
+</author>
+, 
+<author id="D01AD85855A40535E807BB4EA1ACD63B" pageId="0" pageNumber="115845">Medina-Vogel, Gonzalo</author>
+, 
+<author id="AA90547D6ACFB5F325838B0DD514131F" pageId="0" pageNumber="115845">Townsend Peterson, A.</author>
+, 
+<year id="08FAF64171625CAB6770C1C34AFB03FC" pageId="0" pageNumber="115845">2014</year>
+. 
+<title id="7ECAD9207DEE3EE45D52172AAC5B9D87" pageId="0" pageNumber="115845">
+Potential for spread of the white-nose fungus (
+<taxonomicName id="E4565F84B9B202676AF4570BC2053562" class="Dothideomycetes" family="Pseudeurotiaceae" genus="Pseudogymnoascus" higherTaxonomySource="GBIF" kingdom="Fungi" lsidName="Pseudogymnoascus destructans" order="Dothideomycetes incertae sedis" pageId="0" pageNumber="115845" phylum="Ascomycota" rank="species" species="destructans">
+<emphasis id="7E2C1D41256C2D5D0B7C42F75CA19166" italics="true" pageId="0" pageNumber="115845">Pseudogymnoascus destructans</emphasis>
+</taxonomicName>
+) in the Americas: use of Maxent and NicheA to assure strict model transference
+</title>
+. 
+<journalOrPublisher id="282DED7612B7DC84DE14ECC3058AD6BA" pageId="0" pageNumber="115845">Geospatial health</journalOrPublisher>
+<volume id="070B14C95B7194EE5E335934222C1FB5" pageId="0" pageNumber="115845">9</volume>
+(
+<issue id="BCF3A238B40730DAEBF6D76F993E730B" pageId="0" pageNumber="115845">1</issue>
+)
+</bibRef>
+</paragraph>
+<paragraph id="D98E3394837878C6C7F58E8EBB8F8DD7" pageId="0" pageNumber="115845">
+<bibRef id="24FFEBF136EBA6B5497D75B679F44F54" author="Fatah, Adel Mamoun A." journalOrPublisher="Applied Sciences" pageId="0" pageNumber="115845" refId="B10991123" title="Climate Change and the Dung Beetle: Evaluation of Global Warming Impact on the Distribution of Phyllognathus excavatus (Forster, 1771) through the Mediterranean Region" volume="13" year="2023">
+<author id="2CE1FD36FECBA8F60231BA383C93291C" pageId="0" pageNumber="115845">Fatah, Adel Mamoun A.</author>
+, 
+<author id="D1E8D0D8BAF0DCA419BDE5FF1087BE18" pageId="0" pageNumber="115845">Zalat, Samy</author>
+, 
+<author id="AB08E6B8E0FB170ED3A403D229479ECF" pageId="0" pageNumber="115845">Elbanna, Shereen M.</author>
+, 
+<author id="FF5698708E7FDE4BA1724A753D596F0F" pageId="0" pageNumber="115845">Al-Khalaf, Areej A.</author>
+, 
+<author id="4C1FAEA6E6A9A2AC5BFA4AB9D8508631" pageId="0" pageNumber="115845">Nasser, Mohamed</author>
+, 
+<year id="C8D41D1F5170A3CD3E5A37F5561F486B" pageId="0" pageNumber="115845">2023</year>
+. 
+<title id="1ED249A3308EED7405E8A58EDE370CED" pageId="0" pageNumber="115845">
+Climate Change and the Dung Beetle: Evaluation of Global Warming Impact on the Distribution of 
+<taxonomicName id="54D15CAF0C2355D6798D16B53CABE39A" baseAuthorityName="Forster" baseAuthorityYear="1771" class="Insecta" family="Scarabaeidae" genus="Phyllognathus" kingdom="Animalia" lsidName="Phyllognathus excavatus" order="Coleoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="excavatus">
+<emphasis id="9727F90024C2818B2A54FF715F0361BC" italics="true" pageId="0" pageNumber="115845">Phyllognathus excavatus</emphasis>
+</taxonomicName>
+(Forster, 1771) through the Mediterranean Region
+</title>
+. 
+<journalOrPublisher id="E41BD088489BFD3E50B6260CF8EF1D5F" pageId="0" pageNumber="115845">Applied Sciences</journalOrPublisher>
+<volume id="0F8096676982C1AC49A6F5F2EA3FC587" pageId="0" pageNumber="115845">13</volume>
+(
+<issue id="4B9E32FFDA56A77B804E7E509097515D" pageId="0" pageNumber="115845">22</issue>
+)
+</bibRef>
+</paragraph>
+<paragraph id="4318E94EC6F526AA6688E55B91F6D66C" pageId="0" pageNumber="115845">
+<bibRef id="D902E2514A48444C11F2FEC9C7AD1967" author="Gomez, D." journalOrPublisher="Journal of Arid Environments" pageId="0" pageNumber="115845" pagination="29 - 37" refId="B10782879" title="Desert locust detection using Earth observation satellite data in Mauritania" volume="164" year="2019">
+<author id="3CDBB135EE3FC1B3C49799658D1A2C27" pageId="0" pageNumber="115845">
+<normalizedToken id="61AED5B4F77B1A018CBB402BCBE2AD5E" originalValue="Gómez">Gomez</normalizedToken>
+, D.
+</author>
+, 
+<author id="8C394D4D7CEC0AF5ECBE2D8288D15BE7" pageId="0" pageNumber="115845">Salvador, P.</author>
+, 
+<author id="5B23CCCB12000FFA51F99DF351ABF28D" pageId="0" pageNumber="115845">Sanz, J.</author>
+, 
+<author id="E844C2904227BC5415BB88725B452AE7" pageId="0" pageNumber="115845">Casanova, C.</author>
+, 
+<author id="767160959C0B3397E61495A0A7E2FD27" pageId="0" pageNumber="115845">Taratiel, D.</author>
+, 
+<author id="412667BFBCFE50ED4159540CD7D11601" pageId="0" pageNumber="115845">Casanova, J. L.</author>
+, 
+<year id="C6007D1FB18B2A1DF1CF6CE450AA6046" pageId="0" pageNumber="115845">2019</year>
+. 
+<title id="A954B3F360707F47F8AF6C43611405D4" pageId="0" pageNumber="115845">Desert locust detection using Earth observation satellite data in Mauritania</title>
+. 
+<journalOrPublisher id="505EFAE64CCB1203F80CEA3777F6B229" pageId="0" pageNumber="115845">Journal of Arid Environments</journalOrPublisher>
+<volume id="67B7A260126ED7A5CB7A9D01C0272E15" pageId="0" pageNumber="115845">164</volume>
+: 
+<pagination id="F10660F49DA8DBE06773C01EB4082133" pageId="0" pageNumber="115845">29 - 37</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="1F20122845FE720347E7471486B4E338" pageId="0" pageNumber="115845">
+<bibRef id="3C00EB31A19D047EAE748630928ECC3F" author="Hosni, Eslam M." journalOrPublisher="Scientific Reports" pageId="0" pageNumber="115845" pagination=": 17314" refId="B10782890" title="Modeling current and future global distribution of Chrysomya bezziana under changing climate" volume="10" year="2020">
+<author id="105308641D7E6B7BB11E568A576C60A1" pageId="0" pageNumber="115845">Hosni, Eslam M.</author>
+, 
+<author id="C8860566248134BAA29C3E13F4AB09FC" pageId="0" pageNumber="115845">Nasser, Mohamed G.</author>
+, 
+<author id="1F86C967E60CAFECAD8CCF8575DBCC75" pageId="0" pageNumber="115845">Al-Ashaal, Sara A.</author>
+, 
+<author id="ABA8CFF59ADAE443941D4966BAE08C65" pageId="0" pageNumber="115845">Rady, Magda H.</author>
+, 
+<author id="866BFE2C7D12CD0065FC76863EA905F5" pageId="0" pageNumber="115845">Kenawy, Mohamed A.</author>
+, 
+<year id="2BFC834986DD5C21A6A8F5A581E18D4E" pageId="0" pageNumber="115845">2020</year>
+. 
+<title id="5BC15AFE70F9CB84CE685924693B0B77" pageId="0" pageNumber="115845">
+Modeling current and future global distribution of 
+<taxonomicName id="59647C54EDF64C1111953C3E33B604EA" authorityName="Villeneuve" authorityYear="1914" class="Insecta" family="Calliphoridae" genus="Chrysomya" kingdom="Animalia" lsidName="Chrysomya bezziana" order="Diptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="bezziana">
+<emphasis id="F74AC6F25915B61C488402FA714070FB" italics="true" pageId="0" pageNumber="115845">Chrysomya bezziana</emphasis>
+</taxonomicName>
+under changing climate
+</title>
+. 
+<journalOrPublisher id="823265EF8723993B0EA7ECB7BB43F83E" pageId="0" pageNumber="115845">Scientific Reports</journalOrPublisher>
+<volume id="C69497BC331BF7F26643EF06FB9AAA9E" pageId="0" pageNumber="115845">10</volume>
+(
+<issue id="14C2041FA84E3B9A0FFEA1C32E3CA947" pageId="0" pageNumber="115845">1</issue>
+)
+<pagination id="2F3CF212FA2F9010C2726CD7C8B8999F" pageId="0" pageNumber="115845">: 17314</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="A1B4E087ED162B152CD32381A4E027C3" pageId="0" pageNumber="115845">
+<bibRef id="0429D69346D9E46A694F39EF25F1E72D" author="Hosni, Eslam M." journalOrPublisher="Insects" pageId="0" pageNumber="115845" pagination=": 484" refId="B10782911" title="Modeling the Potential Global Distribution of Honeybee Pest, Galleria mellonel la under Changing Climate" volume="13" year="2022">
+<author id="3CA878FAE4898ACB3C18C36F51D8A637" pageId="0" pageNumber="115845">Hosni, Eslam M.</author>
+, 
+<author id="8BDAC26D49BC9D153C7761321925B76C" pageId="0" pageNumber="115845">Al-Khalaf, Areej A.</author>
+, 
+<author id="C4E1DAF5AC45E03C9D7A9CBCFA9458F1" pageId="0" pageNumber="115845">Nasser, Mohamed G.</author>
+, 
+<author id="ED25D25E553703D9AC03A46A294B6F6D" pageId="0" pageNumber="115845">Abou-Shaara, Hossam F.</author>
+, 
+<author id="A513F0AF8E9A287E405903CD5F3B3F36" pageId="0" pageNumber="115845">Radwan, Marwa H.</author>
+, 
+<year id="26ECE6F23B36A4225183BCA28F2EABC1" pageId="0" pageNumber="115845">2022</year>
+. 
+<title id="5D3369D8A44AD238910118B4BC80CA7C" pageId="0" pageNumber="115845">
+Modeling the Potential Global Distribution of Honeybee Pest, 
+<taxonomicName id="5F48950DAAEF797865222198A85810BD" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" family="Pyralidae" genus="Galleria" kingdom="Animalia" lsidName="Galleria mellonel" order="Lepidoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="mellonel">
+<emphasis id="8E48A705FF26165475B8A7F8589143A4" italics="true" pageId="0" pageNumber="115845">Galleria mellonel</emphasis>
+</taxonomicName>
+la under Changing Climate
+</title>
+. 
+<journalOrPublisher id="1407AEDC66C62DC05EEBE2CE31631B45" pageId="0" pageNumber="115845">Insects</journalOrPublisher>
+<volume id="BDE5EC5BF89CEF9D8B60E475325B0023" pageId="0" pageNumber="115845">13</volume>
+(
+<issue id="4AB044FAF8614CB6DFA2248256FFBF43" pageId="0" pageNumber="115845">5</issue>
+)
+<pagination id="7A850341F1A111BA91FCAA2D499EAFCA" pageId="0" pageNumber="115845">: 484</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="997A0BAD84A946ECDD50E785837D35AA" pageId="0" pageNumber="115845">
+<bibRef id="5010B9A0ECDEEC4668E577DCA74CA99F" author="Hosni, E. M" journalOrPublisher="Diversity" pageId="0" pageNumber="115845" pagination=": 99" refId="B10788758" title="Invasion of the Land of Samurai: Potential Spread of Old-World Screwworm to Japan under Climate Change." volume="14" year="2022">
+<author id="03910D941AC7F9609160C74DA6587092" pageId="0" pageNumber="115845">Hosni, E. M</author>
+, 
+<author id="AADFDD2788906DCB0C6892984187FEB8" pageId="0" pageNumber="115845">Nasser, M.</author>
+, 
+<author id="58547CC1461377A840E129C1F1190FCE" pageId="0" pageNumber="115845">Al-Khalaf, A. A.</author>
+, 
+<author id="5DABC9ED97A1D79E55B78306C0B1533E" pageId="0" pageNumber="115845">Al-Shammery, K. A.</author>
+, 
+<author id="DB2A9498E903B28A699D773437332820" pageId="0" pageNumber="115845">Al-Ashaal, S.</author>
+, 
+<author id="BF7724D7C491F27B9E45F36FF45FCA4C" pageId="0" pageNumber="115845">Soliman, D.</author>
+, 
+<year id="B9CE01EDF43E31E3A1F287D8484E7F04" pageId="0" pageNumber="115845">2022</year>
+. 
+<title id="64872EA8F0F9ECFE2A617DCFAB2FE4DF" pageId="0" pageNumber="115845">Invasion of the Land of Samurai: Potential Spread of Old-World Screwworm to Japan under Climate Change.</title>
+<journalOrPublisher id="FA26C6524AD45EEA64728B9CA5EB8805" pageId="0" pageNumber="115845">Diversity</journalOrPublisher>
+<volume id="3B5744CCC2B400E9B4124ECB6E8740DC" pageId="0" pageNumber="115845">14</volume>
+(
+<issue id="C89DCB98649A1BC14043F1853575B0B4" pageId="0" pageNumber="115845">2</issue>
+)
+<pagination id="169464D40FAF3C42AF45C2A7E32E652A" pageId="0" pageNumber="115845">: 99</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="50019C867FACA55B274A137ACFB0C828" pageId="0" pageNumber="115845">
+<bibRef id="ED21C7A619580B46202C612CCFD407E1" author="Hunter, D. M." journalOrPublisher="Crop Protection" pageId="0" pageNumber="115845" pagination="699 - 704" refId="B10788858" title="Aerial treatment of the migratory locust, Locusta migratoria (L.) (Orthoptera: Acrididae) with Metarhizium anisopliae (Deuteromycotina: Hyphomycetes) in Australia" volume="18" year="1999">
+<author id="83E5F7C77210FCB9D311AB86CE8D8F17" pageId="0" pageNumber="115845">Hunter, D. M.</author>
+, 
+<author id="5914E960C8B860281CF2DD7B0A787B8C" pageId="0" pageNumber="115845">Milner, R. J.</author>
+, 
+<author id="868131FF6C7B547679785784FA65BD7F" pageId="0" pageNumber="115845">Scanlan, J. C.</author>
+, 
+<author id="1EC392F15C2C95B053A5FEE4CDB0307B" pageId="0" pageNumber="115845">Spurgin, P. A.</author>
+, 
+<year id="93269C283F433FAC4A28B05077960AEA" pageId="0" pageNumber="115845">1999</year>
+. 
+<title id="C4CCBA6937C069A42D70979C36DD7732" pageId="0" pageNumber="115845">
+Aerial treatment of the migratory locust, 
+<taxonomicName id="86274EF2C937AC0B6811EE7EEE3AF0E2" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="96226311F26A9F2A6DC7B95895820641" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+(L.) (
+<taxonomicName id="7B897B28CEA2AE5BBD0E6FA413FADB28" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="order">Orthoptera</taxonomicName>
+: 
+<taxonomicName id="7428D1BB16A6E7BC5C9F1F8BD8E8BBE8" class="Insecta" family="Acrididae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="family">Acrididae</taxonomicName>
+) with 
+<taxonomicName id="D4FAB1759AB74928D6A5A22D35368768" genus="Metarhizium" higherTaxonomySource="GBIF" kingdom="Fungi" lsidName="Metarhizium anisopliae" pageId="0" pageNumber="115845" phylum="Deuteromycotina" rank="species" species="anisopliae">
+<emphasis id="8DFA6F51830B0778D1BD9F555F1605A5" italics="true" pageId="0" pageNumber="115845">Metarhizium anisopliae</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="F6C725C5C80D4815047651BD625F7B1E" genus="Metarhizium" higherTaxonomySource="GBIF" kingdom="Fungi" lsidName="" pageId="0" pageNumber="115845" phylum="Deuteromycotina" rank="phylum">Deuteromycotina</taxonomicName>
+: 
+<taxonomicName id="640FE358E7482A34D8EFC1125F6C18E9" genus="Hyphomycetes" lsidName="" pageId="0" pageNumber="115845" rank="genus">Hyphomycetes</taxonomicName>
+) in Australia
+</title>
+. 
+<journalOrPublisher id="C9BF4A710758B687899AC7BD307A1D25" pageId="0" pageNumber="115845">Crop Protection</journalOrPublisher>
+<volume id="3217E2A291E926A147284BEA72176688" pageId="0" pageNumber="115845">18</volume>
+(
+<issue id="DF03A6925565DB02F6FD74911FC486A7" pageId="0" pageNumber="115845">10</issue>
+): 
+<pagination id="2D56696E7C48029D59B8C6DC0C330AB6" pageId="0" pageNumber="115845">699 - 704</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="3EA830805F9E277E8FDCA9F3410E1EB3" pageId="0" pageNumber="115845">
+<bibRef id="E139547C3A6C0ADED7C0D429DE2B0B7E" author="Jyoti, Bhandari" journalOrPublisher="Pakistan Journal of Zoology" pageId="0" pageNumber="115845" refId="B10782930" title="Population dynamics and life history of Locusta migratoria tibetensis Chen in Lhasa river" volume="52" year="2020">
+<author id="85BDCD06A1DCA28B15D7A47571F49630" pageId="0" pageNumber="115845">Jyoti, Bhandari</author>
+, 
+<author id="72030F6D778BB0B9136017E2524BF163" pageId="0" pageNumber="115845">Shali, Yasen</author>
+, 
+<author id="8BA940E8B15CB89B0FD595DF47A18E65" pageId="0" pageNumber="115845">Zehua, Zhang</author>
+, 
+<author id="8A467BE080A14363B9AB8193AE182194" pageId="0" pageNumber="115845">Xiaoho, Yao</author>
+, 
+<author id="1CD28F1218A68277E32D59AF0ADA9A57" pageId="0" pageNumber="115845">Jiang, Deng</author>
+, 
+<author id="9221EC9092C25CFB50923356F5F6A471" pageId="0" pageNumber="115845">Yaling, Zhang</author>
+, 
+<author id="E0BF75F13496E011CC94880F237F85B0" pageId="0" pageNumber="115845">Cuiling, Wang</author>
+, 
+<author id="7E8A7230AB17DA5C4918A1E748B4D01E" pageId="0" pageNumber="115845">Yang, Li</author>
+, 
+<author id="54C6410BA38524A731D06C3694676E44" pageId="0" pageNumber="115845">Xueping, Lei</author>
+, 
+<author id="419B4EF3897ABACE3EC2129F73FA042D" pageId="0" pageNumber="115845">Wenfeng, Wang</author>
+, 
+<author id="043363C0179D5138052FA34A689C7D20" pageId="0" pageNumber="115845">Hassan, Mohammad Farooque</author>
+, 
+<author id="24DEA5D1D6BC84883D4FDC6FC29DE35C" pageId="0" pageNumber="115845">Can, Li</author>
+, 
+<year id="66FF92489D4A1A5233C268AC33064C35" pageId="0" pageNumber="115845">2020</year>
+. 
+<title id="96A3BA7B9F870B0025BD10C445D4B869" pageId="0" pageNumber="115845">
+Population dynamics and life history of 
+<taxonomicName id="335856FF94E9B41A8B7D716A1A57F2F4" authorityName="Chen" authorityYear="1963" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria subsp. tibetensis" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="subSpecies" species="migratoria" subSpecies="tibetensis">
+<emphasis id="10034DE0A6D2362D5759D4BB01714591" italics="true" pageId="0" pageNumber="115845">Locusta migratoria tibetensis</emphasis>
+</taxonomicName>
+Chen in Lhasa river
+</title>
+. 
+<journalOrPublisher id="AA00418CB25B208E1A8776732D744D6D" pageId="0" pageNumber="115845">Pakistan Journal of Zoology</journalOrPublisher>
+<volume id="80E5AC317090D73CE8FF864FB4C2B5C9" pageId="0" pageNumber="115845">52</volume>
+(
+<issue id="B3ABCA561A53EDCAF6168E57E760FE3C" pageId="0" pageNumber="115845">3</issue>
+)
+</bibRef>
+</paragraph>
+<paragraph id="430E6E843F10024F3E8F06C60322A0C9" pageId="0" pageNumber="115845">
+<bibRef id="0E80F3B4A73E4386C7E08FF2E6B028A5" author="Kalra, Naveen" journalOrPublisher="Outlook on Agriculture" pageId="0" pageNumber="115845" pagination="109 - 118" refId="B10782947" title="Impacts of Climate Change on Agriculture" volume="36" year="2016">
+<author id="7A4607EFA044A37C14E9F11ED378A3CB" pageId="0" pageNumber="115845">Kalra, Naveen</author>
+, 
+<author id="742C820F73A6361ADDCCBA2BC455DEF0" pageId="0" pageNumber="115845">Chander, Subhash</author>
+, 
+<author id="B7F010FB5AEF3BE98D26B117008C57DD" pageId="0" pageNumber="115845">Pathak, H.</author>
+, 
+<author id="68D951E030274AA13D54A77E25169751" pageId="0" pageNumber="115845">Aggarwal, P. K.</author>
+, 
+<author id="9235422990C7DE6FF083EF747838D0FF" pageId="0" pageNumber="115845">Gupta, N. C.</author>
+, 
+<author id="E4A3114F277A5FEF869F6A7BFDE83D55" pageId="0" pageNumber="115845">Sehgal, Mukesh</author>
+, 
+<author id="12600DC2572B5459848318616D929DFF" pageId="0" pageNumber="115845">Chakraborty, Debashis</author>
+, 
+<year id="8110C773901BFE5817E21F4CDC24C371" pageId="0" pageNumber="115845">2016</year>
+. 
+<title id="A3AD89D72E062F79E3D3814BA77CB6E6" pageId="0" pageNumber="115845">Impacts of Climate Change on Agriculture</title>
+. 
+<journalOrPublisher id="338BFE53DC9B6B4E0A041721F2AB6191" pageId="0" pageNumber="115845">Outlook on Agriculture</journalOrPublisher>
+<volume id="ABB01F7B25C6C68C94ECF32CCC9426FD" pageId="0" pageNumber="115845">36</volume>
+(
+<issue id="DDE4A493FB8F1DD4DF880299ECE7EDCF" pageId="0" pageNumber="115845">2</issue>
+): 
+<pagination id="3533B42CC58958F4D7809E48CD857F69" pageId="0" pageNumber="115845">109 - 118</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="3DD3FBDDB82770BEFEB8C016C8B3FC2E" pageId="0" pageNumber="115845">
+<bibRef id="569A426F025DD6CBE1AABC62CEC65F51" author="Kumar, Sunil" journalOrPublisher="Journal of Economic Entomology" pageId="0" pageNumber="115845" pagination="1708 - 1719" refId="B10782959" title="Assessing the global risk of establishment of Cydia pomonella (Lepidoptera: Tortricidae) using CLIMEX and MaxEnt niche models" volume="108" year="2015">
+<author id="047F28F5AC69AFCE5017B3103824B276" pageId="0" pageNumber="115845">Kumar, Sunil</author>
+, 
+<author id="3CCF16A6D8B20A4205DE666232B59E9F" pageId="0" pageNumber="115845">Neven, Lisa G.</author>
+, 
+<author id="1F0C3A85760EDC9D9A14C9554C3A7D16" pageId="0" pageNumber="115845">Zhu, Hongyu</author>
+, 
+<author id="03AE251358E81F587AA16272A515E857" pageId="0" pageNumber="115845">Zhang, Runzhi</author>
+, 
+<year id="7928BBA31F06C8627305933A6973122C" pageId="0" pageNumber="115845">2015</year>
+. 
+<title id="C4F72E143801C6E9BD04EF8D48F8D17D" pageId="0" pageNumber="115845">
+Assessing the global risk of establishment of 
+<taxonomicName id="86C6A591357D7208C6E0D3806A03B990" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Hexapoda" genus="Cydia" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Cydia pomonella" order="Lepidoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="pomonella">
+<emphasis id="C29F26FDEA995F80E26013CAC7436F8C" italics="true" pageId="0" pageNumber="115845">Cydia pomonella</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="F5F9155F6CE413867224D33D52395B25" authorityName="Hubner" authorityYear="1825" class="Hexapoda" genus="Cydia" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Lepidoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="order">Lepidoptera</taxonomicName>
+: 
+<taxonomicName id="A476F6831448F6F3CBFD5A81F4B3396A" class="Hexapoda" family="Tortricidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Lepidoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="family">Tortricidae</taxonomicName>
+) using CLIMEX and MaxEnt niche models
+</title>
+. 
+<journalOrPublisher id="7BC55973AA6856B74C79A1361D94A9C3" pageId="0" pageNumber="115845">Journal of Economic Entomology</journalOrPublisher>
+<volume id="568E339C2F402F929FAA2197E4110B83" pageId="0" pageNumber="115845">108</volume>
+(
+<issue id="F37B9D9B3EFDD2D5EF90DEAEDE3A1575" pageId="0" pageNumber="115845">4</issue>
+): 
+<pagination id="1FE4FFC61EDF139893D461CBA9557838" pageId="0" pageNumber="115845">1708 - 1719</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="A0174BFF6376DA5D425D4CED3479128F" pageId="0" pageNumber="115845">
+<bibRef id="7A690BEBF103E85A1B49DCDB75235AE1" author="Lecoq, M." journalOrPublisher="China Agricultural University Press, Beijing" pageId="0" pageNumber="115845" refId="B10783011" title="Migratory locust Locusta migratoria (Linnaeus, 1758) (Acrididae). Encyclopedia of pest Orthoptera of the World" year="2019">
+<author id="09AFFB6014977FD38B350C7C72482B89" pageId="0" pageNumber="115845">Lecoq, M.</author>
+, 
+<author id="70D98BDBB402E468468D78CE4207F87B" pageId="0" pageNumber="115845">Long, Z.</author>
+, 
+<year id="CDA2BD0B90C0675E6903E831385C09F3" pageId="0" pageNumber="115845">2019</year>
+. 
+<title id="94836DB1207C5D50547742E62F7B5529" pageId="0" pageNumber="115845">Migratory locust Locusta migratoria (Linnaeus, 1758) (Acrididae). Encyclopedia of pest Orthoptera of the World</title>
+. 
+<journalOrPublisher id="D455A7688BD6EBD442EADDEF84A5F13E" pageId="0" pageNumber="115845">China Agricultural University Press, Beijing</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="BC696F19FA7C16F39F4A34BD1EB4F3EA" pageId="0" pageNumber="115845">
+<bibRef id="A3E9532E71D4D7952127915395A5B693" author="Lecoq, Michel" journalOrPublisher="China Agricultural University Press, Beijing" pageId="0" pageNumber="115845" refId="B10783002" title="Locusta migratoria (migratory locust)" volumeTitle="CABI Compendium." year="2022">
+<author id="FDD747C231B54D2957A5ADCC5CD421DA" pageId="0" pageNumber="115845">Lecoq, Michel</author>
+, 
+<year id="18FC605DA8FA4E3DC83D0D60A3BDA2C4" pageId="0" pageNumber="115845">2022</year>
+. 
+<title id="478C9E0CD1E6B4C10625A66D7B7CDA0C" pageId="0" pageNumber="115845">
+<taxonomicName id="4859BAE41462F0C80CDAE14EB8CB8EF1" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="0E6F57D804A4C42B2F5F7A10B14DEB4A" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+(migratory locust)
+</title>
+. In: 
+<volumeTitle id="DCED709A660468F4656DAB7A8F84A61E" pageId="0" pageNumber="115845">CABI Compendium.</volumeTitle>
+</bibRef>
+</paragraph>
+<paragraph id="EB62F25D62A32FD6F946A20889C7B51F" pageId="0" pageNumber="115845">
+<bibRef id="CF1694D47A7F8D91FBBBAED0BCCAEAD5" author="Malakhov, D. V." journalOrPublisher="Russian Journal of Ecosystem Ecology" pageId="0" pageNumber="115845" refId="B10783019" title="Ecological modeling of Locusta migratoria L. breeding conditions in South-Eastern Kazakhstan." volume="3" year="2018">
+<author id="DCB2774646B720A59FE96C43CB4BC717" pageId="0" pageNumber="115845">Malakhov, D. V.</author>
+, 
+<author id="5C7FC5749B2E3CCA5C8F06E373519442" pageId="0" pageNumber="115845">Tsychuyeva, N. Yu.</author>
+, 
+<author id="1128097718C42A6031D32995D2D34104" pageId="0" pageNumber="115845">Kambulin, V. E.</author>
+, 
+<year id="CF51BB2503F3D1823D3908EE40F60401" pageId="0" pageNumber="115845">2018</year>
+. 
+<title id="84BA4AC52AEA0C7CF38C9DEBF523A8CF" pageId="0" pageNumber="115845">
+Ecological modeling of 
+<taxonomicName id="052B7E0E5603976FFEB7F7BE1E85E16A" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="71DC14194443BEDFC0D703C5F7361B09" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+L. breeding conditions in South-Eastern Kazakhstan.
+</title>
+<journalOrPublisher id="B484303FB7CEF922AD74AAB21ECE65E4" pageId="0" pageNumber="115845">Russian Journal of Ecosystem Ecology</journalOrPublisher>
+<volume id="C3ADB019A64F78A2B00780A262E15A7E" pageId="0" pageNumber="115845">3</volume>
+(
+<issue id="5A09C309F5F03696C6A51C97902E7BBA" pageId="0" pageNumber="115845">1</issue>
+)
+</bibRef>
+</paragraph>
+<paragraph id="8E131F5C7F2C1BDFACF3AE3B4F57A335" pageId="0" pageNumber="115845">
+<bibRef id="0AF070E7074337919A0F4D36E173F95B" author="Merow, Cory" journalOrPublisher="Ecography" pageId="0" pageNumber="115845" pagination="1058 - 1069" refId="B10783030" title="A practical guide to MaxEnt for modeling species' distributions: what it does, and why inputs and settings matter" volume="36" year="2013">
+<author id="2A1BEE34550CA2C7234A37E17E37BE0B" pageId="0" pageNumber="115845">Merow, Cory</author>
+, 
+<author id="46C99F2EBAC410CD4B73EC77E8D76F54" pageId="0" pageNumber="115845">Smith, Matthew J.</author>
+, 
+<author id="EC9F1A0F5AF2A66F8968242B9FCE7CC5" pageId="0" pageNumber="115845">Silander, John A.</author>
+, 
+<year id="47C98AA46C88749559117AC5ADE14B06" pageId="0" pageNumber="115845">2013</year>
+. 
+<title id="48898F2B48D19B777A0678C2CD0948B1" pageId="0" pageNumber="115845">A practical guide to MaxEnt for modeling species' distributions: what it does, and why inputs and settings matter</title>
+. 
+<journalOrPublisher id="40C1D54F1BF0AD105789C90B3E223AB0" pageId="0" pageNumber="115845">Ecography</journalOrPublisher>
+<volume id="5E2A691CA6E55EA035909EBD7280B391" pageId="0" pageNumber="115845">36</volume>
+(
+<issue id="481956E9A06EFA5EA6FFB2A766D2DE88" pageId="0" pageNumber="115845">10</issue>
+): 
+<pagination id="541C9880E8314BB08158CB6558EA6424" pageId="0" pageNumber="115845">1058 - 1069</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="38CE451AEDFFF185FA85764B545733E6" pageId="0" pageNumber="115845">
+<bibRef id="E29FA2E9652A1BACDD78727AEBEF6B3A" author="Miller, Jennifer" journalOrPublisher="Geography Compass" pageId="0" pageNumber="115845" pagination="490 - 509" refId="B10783039" title="Species Distribution Modeling" volume="4" year="2010">
+<author id="127908529A3AB93BCAC652DC58A6678A" pageId="0" pageNumber="115845">Miller, Jennifer</author>
+, 
+<year id="BA8171FC8776076B4A8406E420614E63" pageId="0" pageNumber="115845">2010</year>
+. 
+<title id="A155526A130F417B0CF94D3D5994FBEE" pageId="0" pageNumber="115845">Species Distribution Modeling</title>
+. 
+<journalOrPublisher id="B08866C2B7E2EB7617FD8EDB9ADF552B" pageId="0" pageNumber="115845">Geography Compass</journalOrPublisher>
+<volume id="77484BEB3823D2F5C711440EA80170B2" pageId="0" pageNumber="115845">4</volume>
+(
+<issue id="D65D2631DF676A3D7485D083F7CCE5F1" pageId="0" pageNumber="115845">6</issue>
+): 
+<pagination id="7EF8ED1247D2934A5A3BB66540EED81A" pageId="0" pageNumber="115845">490 - 509</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="EA01D3E58C6949A6B8DE1BF955BFFF4E" pageId="0" pageNumber="115845">
+<bibRef id="B1D9D77F50D5DB279C97E274B97007A0" author="Nasser, M" journalOrPublisher="Journal of the Entomological Research Society" pageId="0" pageNumber="115845" pagination="439 - 453" refId="B10782781" title="Spatial distribution and abundance of Chrysomya bezziana in Jazan province, Saudi Arabia using GIS" volume="25" year="2023">
+<author id="C4BFB00B0D0888EAA6A2F7D983411B10" pageId="0" pageNumber="115845">Nasser, M</author>
+, 
+<author id="BA4945A5998F7B291B3A212956915097" pageId="0" pageNumber="115845">AlAhmed, A</author>
+, 
+<author id="B2A94D8B0F9DEBC613CC3533710407CC" pageId="0" pageNumber="115845">Kheir, S</author>
+, 
+<author id="8AA8E4DFADF64C9D1D70A3BE1209EDE7" pageId="0" pageNumber="115845">Sallam, M</author>
+, 
+<author id="DB92D5559A5DF804BBFC2FF7C96F85FF" pageId="0" pageNumber="115845">Dawah, H</author>
+, 
+<author id="327BAF440529AB0C424BF8408CE593DC" pageId="0" pageNumber="115845">AlAshaal, S</author>
+, 
+<author id="26940BF46B1AA256308140D8CE92B5C5" pageId="0" pageNumber="115845">Hosni, E</author>
+, 
+<year id="7A8B1A2B6FA3B3A6D166FA03310ECF06" pageId="0" pageNumber="115845">2023</year>
+. 
+<title id="41110E46102D27822026A597DF82A22B" pageId="0" pageNumber="115845">
+Spatial distribution and abundance of 
+<taxonomicName id="B23EFA714B81CEE96FCA64D346157707" authorityName="Villeneuve" authorityYear="1914" class="Insecta" family="Calliphoridae" genus="Chrysomya" kingdom="Animalia" lsidName="Chrysomya bezziana" order="Diptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="bezziana">
+<emphasis id="11112E63BF1967781800131802AF1F2E" italics="true" pageId="0" pageNumber="115845">Chrysomya bezziana</emphasis>
+</taxonomicName>
+in Jazan province, Saudi Arabia using GIS
+</title>
+. 
+<journalOrPublisher id="DE973497A4787163A8F8244242322C14" pageId="0" pageNumber="115845">Journal of the Entomological Research Society</journalOrPublisher>
+<volume id="4B7B626BAFB5EF4221A09857E66DC2CC" pageId="0" pageNumber="115845">25</volume>
+(
+<issue id="CECC1F5B8582DC7C4F36183D8B062845" pageId="0" pageNumber="115845">2</issue>
+): 
+<pagination id="1627E049FBAD4921D7C0EC77CEC03259" pageId="0" pageNumber="115845">439 - 453</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="D84D095D54FBE50B84B0A4DCB95062D3" pageId="0" pageNumber="115845">
+<bibRef id="0B6CE3708124BD698C39D2819009E171" author="Parmesan, Camille" journalOrPublisher="Journal of Insect Conservation" pageId="0" pageNumber="115845" pagination="185 - 204" refId="B10991113" title="Endangered Quino checkerspot butterfly and climate change: Short-term success but long-term vulnerability?" volume="19" year="2014">
+<author id="E15879AD07E071BCAA000289EC0BB4CF" pageId="0" pageNumber="115845">Parmesan, Camille</author>
+, 
+<author id="04BDBFBA1A84429AC39DD4E183A22845" pageId="0" pageNumber="115845">Williams-Anderson, Alison</author>
+, 
+<author id="06DB5FE775F88DD14D58BCFCEAB051E9" pageId="0" pageNumber="115845">Moskwik, Matthew</author>
+, 
+<author id="A96E383C750264C6E414D60B68491933" pageId="0" pageNumber="115845">Mikheyev, Alexander S.</author>
+, 
+<author id="B4B6DC5CF127EB29996B3750E1DEF3F6" pageId="0" pageNumber="115845">Singer, Michael C.</author>
+, 
+<year id="55DA69A156AB15593F476074C69ACCB6" pageId="0" pageNumber="115845">2014</year>
+. 
+<title id="960699E49E692F1298A0A915D7DE2A84" pageId="0" pageNumber="115845">Endangered Quino checkerspot butterfly and climate change: Short-term success but long-term vulnerability?</title>
+<journalOrPublisher id="570D48C2B68E4C3EB51419F2A5E7BFE5" pageId="0" pageNumber="115845">Journal of Insect Conservation</journalOrPublisher>
+<volume id="666C8E7141716700E587B94F9A19FB81" pageId="0" pageNumber="115845">19</volume>
+(
+<issue id="A3EE2A63780E7759A8061F9D727F1284" pageId="0" pageNumber="115845">2</issue>
+): 
+<pagination id="ED5F374A6BEA4203A1901C6A246A41FE" pageId="0" pageNumber="115845">185 - 204</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="7CF70938DA55F54C3C8C4F1E3650B1AF" pageId="0" pageNumber="115845">
+<bibRef id="AC81A602415EEC23CB06DA24C35077FE" author="Parmesan, Camille" journalOrPublisher="Journal of Insect Conservation" pageId="0" pageNumber="115845" refId="B10788372" year="2014">
+Phillips S. J. 
+<normalizedToken id="F85C6CBCD115C748A1559D37B2334FFC" originalValue="Dudík">Dudik</normalizedToken>
+M. Schapire R. E. Maxent software for modeling species niches and distributions https://biodiversityinformatics.amnh.org/open_source/maxent/
+</bibRef>
+</paragraph>
+<paragraph id="9B637F0AECEA18991BFCC26D84F0BC14" pageId="0" pageNumber="115845">
+<bibRef id="09F5F32040BEA8864B54206E720FD85A" author="Piou, Cyril" journalOrPublisher="Current Opinion in Insect Science" pageId="0" pageNumber="115845" refId="B10788380" title="Spatiotemporal risk forecasting to improve locust management" volume="56" year="2023">
+<author id="D8EDA6209A72701734510310BC0CACC4" pageId="0" pageNumber="115845">Piou, Cyril</author>
+, 
+<author id="FFB9EB7AC495876F5687C83635AC05BE" pageId="0" pageNumber="115845">Marescot, Lucile</author>
+, 
+<year id="790D57D11A8A51B32DB7B9BF79361995" pageId="0" pageNumber="115845">2023</year>
+. 
+<title id="99090D492AD3D50CF515F13475D1A3B6" pageId="0" pageNumber="115845">Spatiotemporal risk forecasting to improve locust management</title>
+. 
+<journalOrPublisher id="7CB67D51DBD1E4918ED0DF8A661E121D" pageId="0" pageNumber="115845">Current Opinion in Insect Science</journalOrPublisher>
+<volume id="C6BF29E8D5481E1CD0EC599F94948ECE" pageId="0" pageNumber="115845">56</volume>
+</bibRef>
+</paragraph>
+<paragraph id="A9A067AE370C2776C8C6B566BC266C39" pageId="0" pageNumber="115845">
+<bibRef id="53BE414F73BDE7689EC356DA4622A0CD" author="Proestos, Y." journalOrPublisher="Philosophical Transactions of the Royal Society B: Biological Sciences" pageId="0" pageNumber="115845" refId="B10991088" title="Correction to ' Present and future projections of habitat suitability of the Asian tiger mosquito, a vector of viral pathogens, from global climate simulation'" volume="370" year="2015">
+<author id="2E0F64037C72B08FA41B073920658B33" pageId="0" pageNumber="115845">Proestos, Y.</author>
+, 
+<author id="025A6C4148B17510BCAC9418694E2DF5" pageId="0" pageNumber="115845">Christophides, G. K.</author>
+, 
+<author id="0A2100DD2C202383C7457F53B9036E70" pageId="0" pageNumber="115845">
+<normalizedToken id="2B600961F0627BBF59DDE6375D33D3E1" originalValue="Ergüler">Ergueler</normalizedToken>
+, K.
+</author>
+, 
+<author id="1BCBEA2959BF3EABDEEEFBEE6202A86C" pageId="0" pageNumber="115845">Tanarhte, M.</author>
+, 
+<author id="A7A0B9D76AA99AE250000F5E9D0114BC" pageId="0" pageNumber="115845">Waldock, J.</author>
+, 
+<author id="FA9EA7B1BC9CED3EE42271E0369C16A7" pageId="0" pageNumber="115845">Lelieveld, J.</author>
+, 
+<year id="4956FE6802CF81E3B875B3C3FF618121" pageId="0" pageNumber="115845">2015</year>
+. 
+<title id="592FD30971CB0001299240DBF12249F1" pageId="0" pageNumber="115845">
+Correction to 'Present and future projections of habitat suitability of the Asian tiger mosquito, a vector of viral pathogens, from global climate 
+<normalizedToken id="F2441904CB9BF82ADC00414D2CCA3D2A" originalValue="simulation’">simulation'</normalizedToken>
+</title>
+. 
+<journalOrPublisher id="3AE9C8E385609B748117167CB6B2EE5E" pageId="0" pageNumber="115845">Philosophical Transactions of the Royal Society B: Biological Sciences</journalOrPublisher>
+<volume id="6D2252E37DE17500F8E263A905660206" pageId="0" pageNumber="115845">370</volume>
+(
+<issue id="EA383AB1583633A5584BD6670204FDE4" pageId="0" pageNumber="115845">1678</issue>
+)
+</bibRef>
+</paragraph>
+<paragraph id="18E3352332811287E7F00C55BD056ABE" pageId="0" pageNumber="115845">
+<bibRef id="533BF2BAC55BB85EB8D577FDAC3BEF71" author="Raffini, Francesca" journalOrPublisher="Sustainability" pageId="0" pageNumber="115845" refId="B10988270" title="From Nucleotides to Satellite Imagery: Approaches to Identify and Manage the Invasive Pathogen Xylella fastidiosa and Its Insect Vectors in Europe" volume="12" year="2020">
+<author id="BC2B6A47D7EA2E6D440A0F82EA53A0D5" pageId="0" pageNumber="115845">Raffini, Francesca</author>
+, 
+<author id="676A13005B5036743803448DEEC72E3C" pageId="0" pageNumber="115845">Bertorelle, Giorgio</author>
+, 
+<author id="6C87627B28361027E15818BD63232ABA" pageId="0" pageNumber="115845">Biello, Roberto</author>
+, 
+<author id="59A52A772F7A7806FCA19CDFB4C4C0B4" pageId="0" pageNumber="115845">
+<normalizedToken id="E7C5398DD91165C9FF3F455629BB225E" originalValue="D’Urso">D'Urso</normalizedToken>
+, Guido
+</author>
+, 
+<author id="9EE461654D364AB8E794CCBC0474927A" pageId="0" pageNumber="115845">Russo, Danilo</author>
+, 
+<author id="F7A47807D3B1C13717B0844E1F7A67D3" pageId="0" pageNumber="115845">Bosso, Luciano</author>
+, 
+<year id="8B1B9DA951F2AB7175013E92400A8DC4" pageId="0" pageNumber="115845">2020</year>
+. 
+<title id="79E63BC70FF76836B7E0695C6D3E7B08" pageId="0" pageNumber="115845">From Nucleotides to Satellite Imagery: Approaches to Identify and Manage the Invasive Pathogen Xylella fastidiosa and Its Insect Vectors in Europe</title>
+. 
+<journalOrPublisher id="D28C811C38D69A8630A95CDA74E060F2" pageId="0" pageNumber="115845">Sustainability</journalOrPublisher>
+<volume id="73290B6FB14CC5A270D070B1A3C3CDB1" pageId="0" pageNumber="115845">12</volume>
+(
+<issue id="32AD9EAA27740A7624DA3BD693836A35" pageId="0" pageNumber="115845">11</issue>
+)
+</bibRef>
+</paragraph>
+<paragraph id="C8625EF5FEAD3A370F0EC7979EC12B2B" pageId="0" pageNumber="115845">
+<bibRef id="4CAC32F458F6534A7AF0617BCF5501CC" author="Rieger, T T" journalOrPublisher="Genetics and Molecular Research" pageId="0" pageNumber="115845" pagination="643 - 649" refId="B10788389" title="Localization of HSP single-copy genes by inexpensive, permanent non-fluorescent in situ hybridization on meiotic chromosomes of the grasshopper S Chistocerca pallens (Acrididae)." volume="6" year="2007">
+<author id="DA39CA65A53446D8B1DFC2DE64063677" pageId="0" pageNumber="115845">Rieger, T T</author>
+, 
+<author id="CB0B44A3C83196A2F159787A5DAE1C54" pageId="0" pageNumber="115845">Oliveira-Silva, S V</author>
+, 
+<author id="491099EE2C58F3EA23CACF43DDF0BA71" pageId="0" pageNumber="115845">
+<normalizedToken id="798B641EC6F8BEFC06C249E265C46D76" originalValue="Pachêco">Pacheco</normalizedToken>
+, I A
+</author>
+, 
+<author id="6E45B967C25A899E24E40F3C83E15C25" pageId="0" pageNumber="115845">Chagas, B S</author>
+, 
+<author id="FC82C51E435C0502AAE6783F5D41B79B" pageId="0" pageNumber="115845">Santos, J F</author>
+, 
+<year id="C976F4B2D35DC194065047C9752A7ED0" pageId="0" pageNumber="115845">2007</year>
+. 
+<title id="57716E5378D6B5E7C9EB0A4F835DBC7E" pageId="0" pageNumber="115845">
+Localization of HSP single-copy genes by inexpensive, permanent non-fluorescent in situ hybridization on meiotic chromosomes of the grasshopper S 
+<taxonomicName id="C19263642D5EFDE9AB0E95B075EF559E" genus="Chistocerca" lsidName="Chistocerca pallens" pageId="0" pageNumber="115845" rank="species" species="pallens">
+<emphasis id="B805D526BCE0E09F15229DADC17D53A1" italics="true" pageId="0" pageNumber="115845">Chistocerca pallens</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="7F76D7680906EE4550C0F43351B2D863" class="Insecta" family="Acrididae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="family">Acrididae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="2DE39907D3723372D5A077C32ACDED95" pageId="0" pageNumber="115845">Genetics and Molecular Research</journalOrPublisher>
+<volume id="579C83855DFD122AEA3FE4647823D06D" pageId="0" pageNumber="115845">6</volume>
+(
+<issue id="2534A1330E68D4BC229813F6ED3B7C0C" pageId="0" pageNumber="115845">3</issue>
+): 
+<pagination id="634D55EAEF11A1CB017B5F605B5CC9EB" pageId="0" pageNumber="115845">643 - 649</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="D0E7C06B5B75D84E41C63A788BD1A99A" pageId="0" pageNumber="115845">
+<bibRef id="AB8B865BE863900512D7D26CE5B11EB3" author="Roques, Lionel" journalOrPublisher="Genetics and Molecular Research" pageId="0" pageNumber="115845" pagination="227 - 263" refId="B10991099" title="Modeling the Spatio-temporal Dynamics of the Pine Processionary Moth" volumeTitle="Processionary Moths and Climate Change: An Update." year="2014">
+<author id="4C1C0FA6734390C353A1BEC889A70BAE" pageId="0" pageNumber="115845">Roques, Lionel</author>
+, 
+<author id="E0784E834CF8A7E229D72D015E7B8C86" pageId="0" pageNumber="115845">Rossi, Jean-Pierre</author>
+, 
+<author id="E261D0B3C31A1487EAA241BE7B27496A" pageId="0" pageNumber="115845">Berestycki, Henri</author>
+, 
+<author id="C85C1DC0209A7C85AAC6E62755AD36FC" pageId="0" pageNumber="115845">
+Rousselet, 
+<normalizedToken id="97887875F6960B928F10BF2E7B82050C" originalValue="Jérôme">Jerome</normalizedToken>
+</author>
+, 
+<author id="917D55409CF87CFFF43EDB121FFAAECD" pageId="0" pageNumber="115845">Garnier, Jimmy</author>
+, 
+<author id="394C976E97A973210FAAB6CDC695A816" pageId="0" pageNumber="115845">Roquejoffre, Jean-Michel</author>
+, 
+<author id="D53E019EEB568A8B081A65CF16DB1DEE" pageId="0" pageNumber="115845">Rossi, Luca</author>
+, 
+<author id="1961EF5A1B0D78441006E1A0AD065D65" pageId="0" pageNumber="115845">Soubeyrand, Samuel</author>
+, 
+<author id="464EC02F998E8A5A368E14BD6C500B54" pageId="0" pageNumber="115845">Robinet, Christelle</author>
+, 
+<year id="0E699975714EDD776C4F4D466DDB2EC8" pageId="0" pageNumber="115845">2014</year>
+. 
+<title id="D50A7A9921E29B16AF5D33BC85417254" pageId="0" pageNumber="115845">Modeling the Spatio-temporal Dynamics of the Pine Processionary Moth</title>
+. In: 
+<volumeTitle id="C62181B89DD41C2DD636F61CB3E81BB7" pageId="0" pageNumber="115845">Processionary Moths and Climate Change: An Update.</volumeTitle>
+: 
+<pagination id="A95D6D96F231AD5DD9C13B1A267EEE91" pageId="0" pageNumber="115845">227 - 263</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="FFF6413447427B0FAEAB7C5BA2484C2E" pageId="0" pageNumber="115845">
+<bibRef id="F0A16C8F9840DD12B6B199D49A196789" author="Royle, J. Andrew" journalOrPublisher="Methods in Ecology and Evolution" pageId="0" pageNumber="115845" pagination="545 - 554" refId="B10788399" title="Likelihood analysis of species occurrence probability from presence-only data for modelling species distributions" volume="3" year="2012">
+<author id="C1450562B5FCD29292AAD3BF7D16521F" pageId="0" pageNumber="115845">Royle, J. Andrew</author>
+, 
+<author id="228169D9E6B90086A66BDBD133B4FB31" pageId="0" pageNumber="115845">Chandler, Richard B.</author>
+, 
+<author id="5D1D1E9FBBCFEDEAEFC659922983F880" pageId="0" pageNumber="115845">Yackulic, Charles</author>
+, 
+<author id="85E3D8B183BD8A6BEA48110EB4AC14B4" pageId="0" pageNumber="115845">Nichols, James D.</author>
+, 
+<year id="388F6ADE15C0454A197ED63A26532CEC" pageId="0" pageNumber="115845">2012</year>
+. 
+<title id="FECFBDE692291BA67BD09AC35123DC35" pageId="0" pageNumber="115845">Likelihood analysis of species occurrence probability from presence-only data for modelling species distributions</title>
+. 
+<journalOrPublisher id="7476119118F60E7A98542F30DDC1D0D4" pageId="0" pageNumber="115845">Methods in Ecology and Evolution</journalOrPublisher>
+<volume id="6E64843D667161EC1212C37456F76CB1" pageId="0" pageNumber="115845">3</volume>
+(
+<issue id="E5CB45BEBBD3E0C7ABA6CE7271C17F49" pageId="0" pageNumber="115845">3</issue>
+): 
+<pagination id="2DC7E981782F203A6E3EC6FDB7997CF0" pageId="0" pageNumber="115845">545 - 554</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="057B03534C2B693A374E046463A99456" pageId="0" pageNumber="115845">
+<bibRef id="6D1F994C01447E1A488C2F8EF5C46889" author="Sabour, Amal" journalOrPublisher="Microorganisms" pageId="0" pageNumber="115845" pagination=": 2174" refId="B10788408" title="Global risk maps of climate change impacts on the distribution of Acinetobacter baumannii using GIS" volume="11" year="2023">
+<author id="C0BFFCA5639FEC339604E92BB84102F2" pageId="0" pageNumber="115845">Sabour, Amal</author>
+, 
+<year id="7F8B4A89FBACFAC37659AC9C3824C600" pageId="0" pageNumber="115845">2023</year>
+. 
+<title id="52FA2D28EB1D9149098282747932C683" pageId="0" pageNumber="115845">
+Global risk maps of climate change impacts on the distribution of 
+<taxonomicName id="921EC6573E86B68AC17532B5B4DAFCF4" authorityName="Bouvet &amp; Grimont" authorityYear="1986" class="Gammaproteobacteria" family="Moraxellaceae" genus="Acinetobacter" kingdom="Bacteria" lsidName="Acinetobacter baumannii" order="Pseudomonadales" pageId="0" pageNumber="115845" phylum="Proteobacteria" rank="species" species="baumannii">
+<emphasis id="5D27749B6EEEA10A2295C8C881D1F6ED" italics="true" pageId="0" pageNumber="115845">Acinetobacter baumannii</emphasis>
+</taxonomicName>
+using GIS
+</title>
+. 
+<journalOrPublisher id="A15B2052E7F87540284014E229F030B0" pageId="0" pageNumber="115845">Microorganisms</journalOrPublisher>
+<volume id="E77BF3BE762458B2B3E6378EA916C762" pageId="0" pageNumber="115845">11</volume>
+(
+<issue id="2B4361BDE880D5F632C9DC50BFD3F6E6" pageId="0" pageNumber="115845">9</issue>
+)
+<pagination id="94F7202D678F79A4A45D3294D1ED2AC6" pageId="0" pageNumber="115845">: 2174</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="5517FBD4AFC143861EA4C653D6295240" pageId="0" pageNumber="115845">
+<bibRef id="E83B06F7F7938C97826842175A67C014" author="Saha, Arnob" journalOrPublisher="Journal of Asia-Pacific Biodiversity" pageId="0" pageNumber="115845" pagination="399 - 409" refId="B10788417" title="Modeling current and future potential distributions of desert locust Schistocerca gregaria (Forskal) under climate change scenarios using MaxEnt" volume="14" year="2021">
+<author id="C65BC1DE5C13D8EA6602E73102118D39" pageId="0" pageNumber="115845">Saha, Arnob</author>
+, 
+<author id="13B81C9862520ECDBDE7060C339AF378" pageId="0" pageNumber="115845">Rahman, Sadniman</author>
+, 
+<author id="BDE31082AA7D9DC5A2AE53BADBDFFA21" pageId="0" pageNumber="115845">Alam, Shofiul</author>
+, 
+<year id="8B86175907AC1942343DB53368871C5B" pageId="0" pageNumber="115845">2021</year>
+. 
+<title id="09E8F4EACD9CAC1B0250FBE35CDD45CC" pageId="0" pageNumber="115845">
+Modeling current and future potential distributions of desert locust 
+<taxonomicName id="7E2C938B1C3B7EE394F58C446AED2C68" baseAuthorityName="Forskal" baseAuthorityYear="1775" class="Insecta" family="Acrididae" genus="Schistocerca" kingdom="Animalia" lsidName="Schistocerca gregaria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="gregaria">
+<emphasis id="EF631FA14BDE933492941A802EA69F81" italics="true" pageId="0" pageNumber="115845">Schistocerca gregaria</emphasis>
+</taxonomicName>
+(
+<normalizedToken id="1985D39C13F438B4ABC47024842F8D1B" originalValue="Forskål">Forskal</normalizedToken>
+) under climate change scenarios using MaxEnt
+</title>
+. 
+<journalOrPublisher id="13185B7D8556B132E8E5681089DF185A" pageId="0" pageNumber="115845">Journal of Asia-Pacific Biodiversity</journalOrPublisher>
+<volume id="08ED14B210E15F9AD68DA91433CC9B33" pageId="0" pageNumber="115845">14</volume>
+(
+<issue id="8FD3EA669686364F8356C65FD2DD43C3" pageId="0" pageNumber="115845">3</issue>
+): 
+<pagination id="61E531DD9B714AE6781B30F89889E4C0" pageId="0" pageNumber="115845">399 - 409</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="90FA8A97F1A08262E79E88EB8BB4E22C" pageId="0" pageNumber="115845">
+<bibRef id="D66ADA1AED33C050D6D35BB4C6B4B423" author="Salinas-Ramos, Valeria B" journalOrPublisher="Environmental Pollution" pageId="0" pageNumber="115845" refId="B10991048" title="Artificial illumination influences niche segregation in bats" volume="284" year="2021">
+<author id="217780478A05894B93C36AD69969A680" pageId="0" pageNumber="115845">Salinas-Ramos, Valeria B</author>
+, 
+<author id="F246A03C2DC6BD07B60BCD457DE06104" pageId="0" pageNumber="115845">Ancillotto, Leonardo</author>
+, 
+<author id="1B9F11163928B5387451297B7815C104" pageId="0" pageNumber="115845">Cistrone, Luca</author>
+, 
+<author id="D9DCE90FA8D5A7F7724659762BBDF2D9" pageId="0" pageNumber="115845">Nastasi, Chiara</author>
+, 
+<author id="C9CC9CD39D2DA5764AF90508AD348683" pageId="0" pageNumber="115845">Bosso, Luciano</author>
+, 
+<author id="2E635C0CBE25EA25039A220BD4F87041" pageId="0" pageNumber="115845">Smeraldo, Sonia</author>
+, 
+<author id="207EAB6E16A4879B42FAD58CA7528314" pageId="0" pageNumber="115845">
+<normalizedToken id="E70D031C7DBCADA14D0546303E0B1966" originalValue="Sánchez">Sanchez</normalizedToken>
+Cordero, 
+<normalizedToken id="118051642805B3E8A0F4DA45DE73A81C" originalValue="Víctor">Victor</normalizedToken>
+</author>
+, 
+<author id="B8243BD1314897E1A256E3E83401F86C" pageId="0" pageNumber="115845">Russo, Danilo</author>
+, 
+<year id="FAF7A525F67147FDAC4AB9732C240571" pageId="0" pageNumber="115845">2021</year>
+. 
+<title id="5FC3FB4109F207C926EF182A4EAB53A7" pageId="0" pageNumber="115845">Artificial illumination influences niche segregation in bats</title>
+. 
+<journalOrPublisher id="036729E32CD216821687A27AB6006FE6" pageId="0" pageNumber="115845">Environmental Pollution</journalOrPublisher>
+<volume id="3F7FA45E75F274A07E34CE3403C0E7E6" pageId="0" pageNumber="115845">284</volume>
+</bibRef>
+</paragraph>
+<paragraph id="2F8E3CCF0A8CFCC644A7461961B6DBCB" pageId="0" pageNumber="115845">
+<bibRef id="D584E5D45DD30700CABD63B451673E77" author="Sarikaya, O" journalOrPublisher="Applied Ecology and Environmental Research" pageId="0" pageNumber="115845" pagination="2527 - 2535" refId="B10788426" title="Maximum entropy modeling (Maxent) of current and future distributions of Ips mannsfeldi (Wachtl, 1879) (Curculionidae: Scolytinae) in Turkey" volume="16" year="2018">
+<author id="FAF1B917E53B828CB270365B4DDADC9B" pageId="0" pageNumber="115845">Sarikaya, O</author>
+, 
+<author id="A037DC3A9D1CE3D80CA77F92558087BB" pageId="0" pageNumber="115845">Karaceylan, I. B</author>
+, 
+<author id="C787C4E5AFC79D8DA4B3282C8C5E6F9F" pageId="0" pageNumber="115845">Sen, I</author>
+, 
+<year id="AD89EC080F371CBF6892F4DD48D2C9FA" pageId="0" pageNumber="115845">2018</year>
+. 
+<title id="0DEE3793D7F86997FD49AC2307A36524" pageId="0" pageNumber="115845">
+Maximum entropy modeling (Maxent) of current and future distributions of 
+<taxonomicName id="462B2807FA3A65FE4BD6DEB1FBE5D04E" authorityName="Wood &amp; Bright" authorityYear="1992" class="Insecta" family="Curculionidae" genus="Ips" kingdom="Animalia" lsidName="Ips mannsfeldi" order="Coleoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="mannsfeldi">
+<emphasis id="E653413BE1F79F2066DE72ABF62FA847" italics="true" pageId="0" pageNumber="115845">Ips mannsfeldi</emphasis>
+</taxonomicName>
+(Wachtl, 1879) (
+<taxonomicName id="344CBF539B9B3BDBAC40B20CFA474F44" class="Insecta" family="Curculionidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Coleoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="family">Curculionidae</taxonomicName>
+: 
+<taxonomicName id="C3EF169FC41AD82E77DC25F98B2F0143" lsidName="" pageId="0" pageNumber="115845" rank="subFamily" subFamily="Scolytinae">Scolytinae</taxonomicName>
+) in Turkey
+</title>
+. 
+<journalOrPublisher id="3EBD675AED0AE80E4740D1852BEE2847" pageId="0" pageNumber="115845">Applied Ecology and Environmental Research</journalOrPublisher>
+<volume id="CFE7BCE8ACBDD1CFB037296164D2AD87" pageId="0" pageNumber="115845">16</volume>
+(
+<issue id="68B423A2A1E1EC6211A8212B32363792" pageId="0" pageNumber="115845">3</issue>
+): 
+<pagination id="C98EDCE93855C80C39B3233B3D42A0FD" pageId="0" pageNumber="115845">2527 - 2535</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="891832D49E349C3E032BE49E3217BA39" pageId="0" pageNumber="115845">
+<bibRef id="0DB6D5FD2E5AB11B87B7B2C843FEF6D4" author="Schoofs, Liliane" journalOrPublisher="Insect Biochemistry and Molecular Biology" pageId="0" pageNumber="115845" pagination="859 - 881" refId="B10788435" title="The myotropic peptides of Locusta migratoria: Structures, distribution, functions and receptors" volume="23" year="1993">
+<author id="D5E8451D63B9F7D641D3A551F4582E97" pageId="0" pageNumber="115845">Schoofs, Liliane</author>
+, 
+<author id="B1AC39C7CFF0C71C720ED9AA7CF32356" pageId="0" pageNumber="115845">Broeck, Jozef Vanden</author>
+, 
+<author id="E35474C49DF642477302F1F7F0AAE1D0" pageId="0" pageNumber="115845">De Loof, Arnold</author>
+, 
+<year id="BA7F4BDEBFCC6B1CC7F34B6DDF5FE0F4" pageId="0" pageNumber="115845">1993</year>
+. 
+<title id="20380A2704883F359A11C3F20CD0F86D" pageId="0" pageNumber="115845">
+The myotropic peptides of 
+<taxonomicName id="A89F776BAD1D513B294263B9A19C110A" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="B7568AFFFA2F8B7C08B971CF93C5E447" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+: Structures, distribution, functions and receptors
+</title>
+. 
+<journalOrPublisher id="C515B6D7E166343D44E1D360B434F25E" pageId="0" pageNumber="115845">Insect Biochemistry and Molecular Biology</journalOrPublisher>
+<volume id="3F16C71BB26C5E3440BEF4FF271CD3A7" pageId="0" pageNumber="115845">23</volume>
+(
+<issue id="4D5F4893A6874A38C1EA3A0DC484A35B" pageId="0" pageNumber="115845">8</issue>
+): 
+<pagination id="75CCA7BEA13A9ABEE3DD9FBCDC5F866D" pageId="0" pageNumber="115845">859 - 881</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="1FCA183FB0C8FCE4DECAC419E8F63F8F" pageId="0" pageNumber="115845">
+<bibRef id="586FA9FD37952236B66E9C3C16AB18A3" author="Sergeev, Michael G." journalOrPublisher="Insects" pageId="0" pageNumber="115845" pagination=": 77" refId="B10788444" title="Distribution Patterns of Grasshoppers and Their Kin over the Eurasian Steppes" volume="12" year="2021">
+<author id="EC95CAAD5C2534C764D2448C0C299DD6" pageId="0" pageNumber="115845">Sergeev, Michael G.</author>
+, 
+<year id="F2ECABCFD80665A2080E99A90D84722C" pageId="0" pageNumber="115845">2021</year>
+. 
+<title id="6C223C6044225F0AAA63B3EBBED7026C" pageId="0" pageNumber="115845">Distribution Patterns of Grasshoppers and Their Kin over the Eurasian Steppes</title>
+. 
+<journalOrPublisher id="73B044D98F4475051440F2A9FD46C0B0" pageId="0" pageNumber="115845">Insects</journalOrPublisher>
+<volume id="97EABB3261C26827B7F5FFAB7F88E003" pageId="0" pageNumber="115845">12</volume>
+(
+<issue id="54429409CFA16FA02F3B166B31613CDD" pageId="0" pageNumber="115845">1</issue>
+)
+<pagination id="55032D25E0A608F5F2D8E621879E3C62" pageId="0" pageNumber="115845">: 77</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="1FE1ECE6241DBCFFECEC98AE5C83F1AF" pageId="0" pageNumber="115845">
+<bibRef id="F91DD970BC55A2FD46C4E3E23ECBC5A0" author="van Vuuren, Detlef P." journalOrPublisher="Climatic Change" pageId="0" pageNumber="115845" pagination="5 - 31" refId="B10788453" title="The representative concentration pathways: an overview" volume="109" year="2011">
+<author id="612AB9940C1BEBE35B418DBA7F9632D7" pageId="0" pageNumber="115845">van Vuuren, Detlef P.</author>
+, 
+<author id="5306C8C076A3292F0722778FB5EDE4F0" pageId="0" pageNumber="115845">Edmonds, Jae</author>
+, 
+<author id="7FBC268E70BD53F6A8C2174CE0B5AF2B" pageId="0" pageNumber="115845">Kainuma, Mikiko</author>
+, 
+<author id="1FB7F1A5783BD1E101254126CA465BFC" pageId="0" pageNumber="115845">Riahi, Keywan</author>
+, 
+<author id="96E86D1064E0D75AD05D4779D2F14C37" pageId="0" pageNumber="115845">Thomson, Allison</author>
+, 
+<author id="14E0A63CEC4F8F25779CC1B6D22439E2" pageId="0" pageNumber="115845">Hibbard, Kathy</author>
+, 
+<author id="8E5ED13A20BF610B2384BE85500E37D4" pageId="0" pageNumber="115845">Hurtt, George C.</author>
+, 
+<author id="E9FAF80828718A77018CC092F3DF34B1" pageId="0" pageNumber="115845">Kram, Tom</author>
+, 
+<author id="FDE1A8E36A39FD10CB85A8A6A510DCDE" pageId="0" pageNumber="115845">Krey, Volker</author>
+, 
+<author id="08DB0701F18520BA84929AF38846B48D" pageId="0" pageNumber="115845">Lamarque, Jean-Francois</author>
+, 
+<author id="A4FE0020DABBA7899B2F00C9B2C0A7F7" pageId="0" pageNumber="115845">Masui, Toshihiko</author>
+, 
+<author id="CED170D42EDF1B8BC405030F296B1D5B" pageId="0" pageNumber="115845">Meinshausen, Malte</author>
+, 
+<author id="7FC8B082B3CE2F85C9B43D3D8302C964" pageId="0" pageNumber="115845">Nakicenovic, Nebojsa</author>
+, 
+<author id="8742555FDC8624E93DD7F3A74ED52406" pageId="0" pageNumber="115845">Smith, Steven J.</author>
+, 
+<author id="C1980005334ACABB6FD3CB5E342060F8" pageId="0" pageNumber="115845">Rose, Steven K.</author>
+, 
+<year id="88C8A5544D95B22C4E49DD0198133C56" pageId="0" pageNumber="115845">2011</year>
+. 
+<title id="3ED11CB8982A3708E042FF297AEAC118" pageId="0" pageNumber="115845">The representative concentration pathways: an overview</title>
+. 
+<journalOrPublisher id="1DDBB01C0FC1E358D352506126B86C5E" pageId="0" pageNumber="115845">Climatic Change</journalOrPublisher>
+<volume id="0EA70A0F490886CB34615BCC3CC7B5CE" pageId="0" pageNumber="115845">109</volume>
+: 
+<pagination id="21F825E9010C13C0C8D4AEECA8B51277" pageId="0" pageNumber="115845">5 - 31</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="6DE7D4F5CD3AF511A6305A2802A1FCF6" pageId="0" pageNumber="115845">
+<bibRef id="7C5002F9688D18F89693A107F41D6ADA" author="Wei, Xinju" journalOrPublisher="Insects" pageId="0" pageNumber="115845" pagination=": 77" refId="B10788473" title="Predicting the Impact of Climate Change on the Geographical Distribution of Leafhopper, Cicadella viridis in China through the MaxEnt Model" volume="14" year="2023">
+<author id="2BCF238989955E989083124445B75C7B" pageId="0" pageNumber="115845">Wei, Xinju</author>
+, 
+<author id="E0FB1915236B6D2508F15B245547E1C4" pageId="0" pageNumber="115845">Xu, Danping</author>
+, 
+<author id="29D8759571D13C9F2E816CBAD75703A6" pageId="0" pageNumber="115845">Zhuo, Zhihang</author>
+, 
+<year id="81A82C3D36F1C1992D67F505F0597F31" pageId="0" pageNumber="115845">2023</year>
+. 
+<title id="B795AAB11F963E927365C10EE4782488" pageId="0" pageNumber="115845">
+Predicting the Impact of Climate Change on the Geographical Distribution of Leafhopper, 
+<taxonomicName id="D38AA3280029DF8A938406075636F270" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" family="Cicadellidae" genus="Cicadella" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Cicadella viridis" order="Hemiptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="viridis">
+<emphasis id="96DED78958CAB6C78BCE5873D736F930" italics="true" pageId="0" pageNumber="115845">Cicadella viridis</emphasis>
+</taxonomicName>
+in China through the MaxEnt Model
+</title>
+. 
+<journalOrPublisher id="CE165529C46F2DBC629061C62ECD6554" pageId="0" pageNumber="115845">Insects</journalOrPublisher>
+<volume id="6B2DCAC2A96570E4932CE0CBCE04CB3A" pageId="0" pageNumber="115845">14</volume>
+(
+<issue id="218773FB3F8CA22D987EC6305EC2AECC" pageId="0" pageNumber="115845">7</issue>
+)
+<pagination id="90913F73DABC5CBF57B6D292A006005B" pageId="0" pageNumber="115845">: 77</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="5A6DD71B871361DD8F6442D103918629" pageId="0" pageNumber="115845">
+<bibRef id="6C6ECF3F9A143C52BC609B4249C54781" author="Zacarias, Daniel Augusta" journalOrPublisher="Climatic Change" pageId="0" pageNumber="115845" pagination="555 - 566" refId="B10788482" title="Global bioclimatic suitability for the fall armyworm, Spodoptera frugiperda (Lepidoptera: Noctuidae), and potential co-occurrence with major host crops under climate change scenarios" volume="161" year="2020">
+<author id="ADDF13828B07C897D2A06B364C55EEB2" pageId="0" pageNumber="115845">Zacarias, Daniel Augusta</author>
+, 
+<year id="7A6D2F59225FA34ED487B4FB01C36319" pageId="0" pageNumber="115845">2020</year>
+. 
+<title id="C9F576CF862658DE538F41C25DA909C3" pageId="0" pageNumber="115845">
+Global bioclimatic suitability for the fall armyworm, 
+<taxonomicName id="C69F319E1D2625266830D696F24F2328" class="Hexapoda" genus="Spodoptera" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Spodoptera frugiperda" order="Lepidoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="species" species="frugiperda">
+<emphasis id="ABA52391A7B3F261AD4DEC0C5459B051" italics="true" pageId="0" pageNumber="115845">Spodoptera frugiperda</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="B40ED207E72D89E6E2B8941C35283B44" class="Hexapoda" genus="Spodoptera" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Lepidoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="order">Lepidoptera</taxonomicName>
+: 
+<taxonomicName id="6250257E5AE96B487EC24939BF47C5AA" class="Hexapoda" family="Noctuidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Lepidoptera" pageId="0" pageNumber="115845" phylum="Arthropoda" rank="family">Noctuidae</taxonomicName>
+), and potential co-occurrence with major host crops under climate change scenarios
+</title>
+. 
+<journalOrPublisher id="26F3F099AC60D655984E8DA325B86C76" pageId="0" pageNumber="115845">Climatic Change</journalOrPublisher>
+<volume id="3440225FC6B307390039438D5E5DC1B4" pageId="0" pageNumber="115845">161</volume>
+(
+<issue id="08FB06004BAA4C728DDF206677C7AD75" pageId="0" pageNumber="115845">4</issue>
+): 
+<pagination id="C2A4A2EFBF4E1D552EC8B37C77BFE2C5" pageId="0" pageNumber="115845">555 - 566</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="9BE20233729C531D39FCF7F50057FD83" pageId="0" pageNumber="115845">
+<bibRef id="4D934DD7A925C8540F33559E62670AF5" author="Zhang, Yanru" journalOrPublisher="Forests" pageId="0" pageNumber="115845" pagination=": 482" refId="B10788491" title="Understanding the Limiting Climatic Factors on the Suitable Habitat of Chinese Alfalfa" volume="13" year="2022">
+<author id="D4A8BE8D23C7A2329FAEC2DEB8F0A806" pageId="0" pageNumber="115845">Zhang, Yanru</author>
+, 
+<author id="828910253A96F2C52F7A4320957537B6" pageId="0" pageNumber="115845">Liu, Guan</author>
+, 
+<author id="81E2C4FA2E26A3FDE63A4076E7BBC980" pageId="0" pageNumber="115845">Lu, Qi</author>
+, 
+<author id="8619B7A35EC5C4F8D6C2AA51F58AC494" pageId="0" pageNumber="115845">Xiong, Dongyang</author>
+, 
+<author id="2FD95959A6616425FD1F567469585239" pageId="0" pageNumber="115845">Li, Guoqing</author>
+, 
+<author id="CD6382FA28171A2452D4DCA0B8F5CEC9" pageId="0" pageNumber="115845">Du, Sheng</author>
+, 
+<year id="819EED9D86BD4A668160088567A33DF5" pageId="0" pageNumber="115845">2022</year>
+. 
+<title id="89103F0A99D3E7FBEB680904F13FDC61" pageId="0" pageNumber="115845">Understanding the Limiting Climatic Factors on the Suitable Habitat of Chinese Alfalfa</title>
+. 
+<journalOrPublisher id="4831159E66B03E23BD08B6CD7E506DC0" pageId="0" pageNumber="115845">Forests</journalOrPublisher>
+<volume id="0AD7A66D59E6D578742DA7DADB28D3F0" pageId="0" pageNumber="115845">13</volume>
+(
+<issue id="E09D4F9A7B160FCDD9FA48648E79D0D5" pageId="0" pageNumber="115845">3</issue>
+)
+<pagination id="CE81F8409BCC7E19B698DD3D55FA91E1" pageId="0" pageNumber="115845">: 482</pagination>
+</bibRef>
+</paragraph>
+</subSection>
+<subSection id="A226366F500A4517A0FD26C3C205C991" pageId="0" pageNumber="115845" type="multiple">
+<caption id="6571F289ED65A50A5E162F227FF7FB7D" doi="10.3897/BDJ.12.e115845.figure1" httpUri="https://binary.pensoft.net/fig/957887" pageId="0" pageNumber="115845" start="Figure 1" startId="F10788506">
+<paragraph id="0F72FB0BD59C1E5A2C7756C72348A851" pageId="0" pageNumber="115845">
+<emphasis id="13B8E0EE1035A690C44569D2D00F1686" bold="true" pageId="0" pageNumber="115845">Figure 1.</emphasis>
+Natural distribution of 
+<taxonomicName id="959AC1F9E3967111A84A7724683B04F8" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">
+<emphasis id="6DB4FE7E56DF20DCC31DFED452A3EF6A" italics="true" pageId="0" pageNumber="115845">Locusta migratoria</emphasis>
+</taxonomicName>
+.
+</paragraph>
+</caption>
+<caption id="17803504E73B2CA8EEFDE11D0AFA029A" doi="10.3897/BDJ.12.e115845.figure2" httpUri="https://binary.pensoft.net/fig/931743" pageId="0" pageNumber="115845" start="Figure 2" startId="F10788517">
+<paragraph id="1C0B58E5D2BD2B1694E6D88C5A761645" pageId="0" pageNumber="115845">
+<emphasis id="604818DFF01DB66AF59229FD7B19936C" bold="true" pageId="0" pageNumber="115845">Figure 2.</emphasis>
+Maxent modelling outcomes.a) The Jackknife test of the most important variables for 
+<taxonomicName id="B647AEF201540308AF09B6EC810ED9D3" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="2690DCD97000BE922BCFA9F45D35D107" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+; b) Response curves of the most effective bioclimatic factor (bio 1) in the migratory 
+<normalizedToken id="1FEB36210E1F0405B9D88071A1CAA94C" originalValue="locust’s">locust's</normalizedToken>
+distribution.
+</paragraph>
+</caption>
+<caption id="751B6AF132761677F238ABD7955F36F8" doi="10.3897/BDJ.12.e115845.figure3" httpUri="https://binary.pensoft.net/fig/957888" pageId="0" pageNumber="115845" start="Figure 3" startId="F10788519">
+<paragraph id="D3098989F34EA482B236FA372E34CB73" pageId="0" pageNumber="115845">
+<emphasis id="78EE4D0774C21C31016AC9C12D599328" bold="true" pageId="0" pageNumber="115845">Figure 3.</emphasis>
+DIVA-GIS analysis of climatological variables and its effects on 
+<taxonomicName id="94DFDCAE0D68BDC346512D96C92F6199" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="5A0A2B6F9866CB42C7C67961ABE810C2" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+.a) Two-dimensional niche between Annual Temperature (bio 1) and Annual Precipitation (bio 12) for 
+<taxonomicName id="954B3E4E8841FE1ADF2471EFEA0DF0F5" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="C6DF1CE1F4D5174859C622843A5FDC10" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+; b) Limitation factor map of the selected variables for 
+<taxonomicName id="4A73CC21755E4865EC9FA06AA2E09349" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="FFDC11322FF544E6C9650CF4CA9FBB68" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+.
+</paragraph>
+</caption>
+<caption id="56DCE91B4796B2387C30FBA60FC7C1DE" doi="10.3897/BDJ.12.e115845.figure4" httpUri="https://binary.pensoft.net/fig/957897" pageId="0" pageNumber="115845" start="Figure 4" startId="F10788521">
+<paragraph id="9C5F94CE36902A764A4868FAD335574E" pageId="0" pageNumber="115845">
+<emphasis id="51A32728DBEBD8EDC1B90287A91695C8" bold="true" pageId="0" pageNumber="115845">Figure 4.</emphasis>
+Predicted current global distribution for 
+<taxonomicName id="FA60668700F9F484BE2530FA7911E77A" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="82732A72CE6A1531622198AC4E4283F9" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+.
+</paragraph>
+</caption>
+<caption id="2BA461E7D095222903182E61E31F5AD7" doi="10.3897/BDJ.12.e115845.figure5" httpUri="https://binary.pensoft.net/fig/957891" pageId="0" pageNumber="115845" start="Figure 5" startId="F10788523">
+<paragraph id="091D286E6B1F390E028B34C42CB39A7D" pageId="0" pageNumber="115845">
+<emphasis id="01086EB3A6D520F89D31D22B8ECEDCD3" bold="true" pageId="0" pageNumber="115845">Figure 5.</emphasis>
+Predicted future distribution of 
+<taxonomicName id="89121E9B5E8DC065654B9531F3095BDD" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="65A0E1F84160EC9DF894E9328FBF35C0" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+in 2050 and 2070 under the RCPs 2.6 and 8.5 for the GCMs.BCC: Beijing Climate Center (BCC-CSM 1_1); CC: National Center for Atmospheric Research (CCSM4); MG: Meteorological Research Institute (MRI-CGCM3).
+</paragraph>
+</caption>
+<caption id="8F33FF480FEF70D6157AD4EC1D0FB244" doi="10.3897/BDJ.12.e115845.figure6" httpUri="https://binary.pensoft.net/fig/957890" pageId="0" pageNumber="115845" start="Figure 6" startId="F10788525">
+<paragraph id="B53DDABE4A27CB61A9E2995A21B1F565" pageId="0" pageNumber="115845">
+<emphasis id="68404BFD423A1E6EB3A2C2BC6E4F4DA1" bold="true" pageId="0" pageNumber="115845">Figure 6.</emphasis>
+Calibration maps showing the mean of the three GCMs for the RCPs 2.6 and 8.5 in 2050 and 2070.
+</paragraph>
+</caption>
+<caption id="864F002ADBCD556876AEB26ADD122BF2" doi="10.3897/BDJ.12.e115845.figure7" httpUri="https://binary.pensoft.net/fig/957889" pageId="0" pageNumber="115845" start="Figure 7" startId="F10788527">
+<paragraph id="693FD0C860E3E1187828E4ECEB9157EB" pageId="0" pageNumber="115845">
+<emphasis id="C2A070CFA31FB6CA869EE6FF577867C6" bold="true" pageId="0" pageNumber="115845">Figure 7.</emphasis>
+Map showing gain and loss in habitat suitability for the time periods 2050 and 2070 in comparison to the current prediction map.
+</paragraph>
+</caption>
+<caption id="17C5A2902E6F6D5301D537E7600F45BF" ID-Table-UUID="17C5A2902E6F6D5301D537E7600F45BF" httpUri="http://table.plazi.org/id/17C5A2902E6F6D5301D537E7600F45BF" pageId="0" pageNumber="115845" start="Table 1" startId="T10788529">
+<paragraph id="7EEAB3E5BBDF4D22785379EB75FCECA1" pageId="0" pageNumber="115845">
+<emphasis id="CD46C3F112B1B22741B0F0CC18599B7D" bold="true" pageId="0" pageNumber="115845">Table 1.</emphasis>
+Relative percentages of bioclimatic covariates used in Maxent to model the current and future habitat suitability of 
+<taxonomicName id="60E2076A43ED8B4AD3F25BCA853520ED" genus="L." lsidName="L. migratoria" pageId="0" pageNumber="115845" rank="species" species="migratoria">
+<emphasis id="E9AA549973CF6C9036BD44332D3C051B" italics="true" pageId="0" pageNumber="115845">L. migratoria</emphasis>
+</taxonomicName>
+.
+</paragraph>
+</caption>
+<paragraph id="4FC49B2C59D536784175B5B50DFC9553" pageId="0" pageNumber="115845">
+<table id="ABE052F17EA97CFC7C6ADDA3BE62740B" pageId="0" pageNumber="115845">
+<tr id="531E469FCECE837ECD18B3B2C0367631" pageId="0" pageNumber="115845">
+<td id="0C79E5363663F3E8E405BCC72D67CE99" colspan="1" pageId="0" pageNumber="115845" rowspan="1">Bioclimatic variables</td>
+<td id="55972E4E676FDBF95EF56243A8B87F8B" colspan="1" pageId="0" pageNumber="115845" rowspan="1">Description</td>
+<td id="DBBDC9575D5AD50E2C44039D0299E7B5" colspan="1" pageId="0" pageNumber="115845" rowspan="1">Contribution percentages</td>
+</tr>
+<tr id="A871C4826FE16D6DE74A1FCBC1DDCD3A" pageId="0" pageNumber="115845">
+<td id="AB5971914A52C57A72661765BB941FE6" colspan="1" pageId="0" pageNumber="115845" rowspan="1">Bio 1</td>
+<td id="9FE5A2136D3867036572E9E652DA3807" colspan="1" pageId="0" pageNumber="115845" rowspan="1">Annual Mean Temperature</td>
+<td id="97F7594734195F02BAD6DF02304685E0" colspan="1" pageId="0" pageNumber="115845" rowspan="1">56%</td>
+</tr>
+<tr id="A8F1C94F46EC93735DEB8034D2D46AFA" pageId="0" pageNumber="115845">
+<td id="B4EED855D55D28163D5BE1EEF66F23BE" colspan="1" pageId="0" pageNumber="115845" rowspan="1">Bio 2</td>
+<td id="0E0779D1F81A86354CB6FF1D6E7B3D17" colspan="1" pageId="0" pageNumber="115845" rowspan="1">Mean Diurnal Range (Mean of monthly max temp - min temp)</td>
+<td id="BDD9DF211AA444C67074D4DDBD070F23" colspan="1" pageId="0" pageNumber="115845" rowspan="1">24.9 %</td>
+</tr>
+<tr id="8FCAE2075E74BF8CA7F9FF9361811B18" pageId="0" pageNumber="115845">
+<td id="98AD12DB7E68A50BE980D5D49410F7E8" colspan="1" pageId="0" pageNumber="115845" rowspan="1">Bio 12</td>
+<td id="DAC7836ED7C924620BE060BEE4FDAE50" colspan="1" pageId="0" pageNumber="115845" rowspan="1">Annual Precipitation</td>
+<td id="D15ABEF5E459AD77CA9E1CB501C3025E" colspan="1" pageId="0" pageNumber="115845" rowspan="1">7.9%</td>
+</tr>
+<tr id="23345E819F3E66F968C620A6B3AD2D93" pageId="0" pageNumber="115845">
+<td id="77EA50CB04BF9728B760253F0626FA2A" colspan="1" pageId="0" pageNumber="115845" rowspan="1">Bio 14</td>
+<td id="6FB53B621B1D3D6D4CA5E8C86519053B" colspan="1" pageId="0" pageNumber="115845" rowspan="1">Precipitation of Driest Month</td>
+<td id="0A265285B902041E892F977F6E062AAD" colspan="1" pageId="0" pageNumber="115845" rowspan="1">7.1%</td>
+</tr>
+<tr id="5C21A42F8C538313A0C333A920A6C33C" pageId="0" pageNumber="115845">
+<td id="51C51A25BA5884D83C8673BB16536A04" colspan="1" pageId="0" pageNumber="115845" rowspan="1">Bio 7</td>
+<td id="5D50660DD08EA1A074A93051697D744F" colspan="1" pageId="0" pageNumber="115845" rowspan="1">Temperature Annual Range</td>
+<td id="6012A1D1A3930C4ECFE646CA00E2239F" colspan="1" pageId="0" pageNumber="115845" rowspan="1">4.2 %</td>
+</tr>
+</table>
+</paragraph>
+<supplement id="CEEDADEB27FEDF2DAF59C8C50462DF30" ID-arpha="5E5000C9-65EF-5DC2-A9A3-06A8A2309A53" ID-doi="10.3897/BDJ.12.e115845.suppl1" httpUri="https://binary.pensoft.net/file/931750" pageId="0" pageNumber="115845">
+<paragraph id="9F1B9A0F5E07EB16E57233E6CCB34FBA" pageId="0" pageNumber="115845">
+Supplementary material 1 The receiver operating characteristic (ROC) curve for 
+<taxonomicName id="10223E4B47178F3A0D8E6BE35B916F66" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Insecta" genus="Locusta" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Locusta migratoria" order="Orthoptera" pageId="0" pageNumber="115845" phylum="? arthropoda" rank="species" species="migratoria">Locusta migratoria</taxonomicName>
+Data type
+</paragraph>
+<paragraph id="551638C281D35B6AA5B69F78EB9DBD52" pageId="0" pageNumber="115845">Graph</paragraph>
+<paragraph id="F597100B350F763ED93772060892066E" pageId="0" pageNumber="115845">File: oo_931750.pdf</paragraph>
+<paragraph id="9F879F21ABEEB9DAEB82201F5C64DE5A" pageId="0" pageNumber="115845">Authors of Manuscript</paragraph>
+</supplement>
+</subSection>
+</document>

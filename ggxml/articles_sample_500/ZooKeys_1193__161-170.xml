@@ -1,0 +1,1447 @@
+<document ID-CLB-Dataset="290098" ID-DOI="http://dx.doi.org/10.3897/zookeys.1193.113398" ID-GBIF-Dataset="b68fb2cf-6c0e-4bfb-aee6-918d9738e479" ID-Pensoft-Pub="1313-2970-1193-161" ID-Pensoft-UUID="00C3E1220C46535B9A81BC0962CF7EB9" ID-ZooBank="635F0E858F6F43F5BD6800766A406D61" ModsDocID="1313-2970-1193-161" checkinTime="1709803712105" checkinUser="pensoft" docAuthor="Nawanetiwong, Wasin &amp; Košulič, Ondřej &amp; Warrit, Natapot &amp; Lourenço, Wilson R. &amp; Ythier, Eric" docDate="2024" docId="00C3E1220C46535B9A81BC0962CF7EB9" docName="ZooKeys 1193: 161-170" docOrigin="ZooKeys 1193" docPubDate="2024-03-06" docSource="https://zookeys.pensoft.net/article/113398/download/xml/" docTitle="A new species of the genus Scorpiops Peters, 1861, subgenus Euscorpiops Vachon, 1980 from Thailand (Scorpiones, Scorpiopidae)" docVersion="3" id="00C3E1220C46535B9A81BC0962CF7EB9" lastPageNumber="170" pageNumber="161" updateTime="1709807915024" updateUser="ExternalLinkService">
+<mods:mods id="A7A2D638A37813C6C932820E00F93B60" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="0D71D89B29F0E496009FC42657C5AA0B">
+<mods:title id="FCD2EB2A91EF05A2CA9DE0BE134D8B85">A new species of the genus Scorpiops Peters, 1861, subgenus Euscorpiops Vachon, 1980 from Thailand (Scorpiones, Scorpiopidae)</mods:title>
+</mods:titleInfo>
+<mods:name id="041B5BDDC3207A775072A810EB11F9F1" type="personal">
+<mods:role id="0DA0608DC7CBF4CCDB403E8E76437D45">
+<mods:roleTerm id="83B72E024A787E0664BD019B457A0245">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="FE122D27EC65F424565ADC2B17712D41">Nawanetiwong, Wasin</mods:namePart>
+<mods:affiliation id="90BDF56D586658EF315ABE9C364E1024">Department of Biology, Faculty of Science, Chulalongkorn University, Bangkok, 103303, Thailand</mods:affiliation>
+</mods:name>
+<mods:name id="AE99AD766EE246A9929308A217DAEC0A" type="personal">
+<mods:role id="6613C1242056F32A369E1173C06185D9">
+<mods:roleTerm id="D6930F83A7254FE512124F4CA319AC1E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="5956BA6D67BF4ED3B194DACB7529599C">
+<normalizedToken id="0F16574CC05E8FE5B5623E3DFAD7570E" originalValue="Košulič">Kosulic</normalizedToken>
+, 
+<normalizedToken id="C411D8AE0012C94F3C41CF9D65AC1903" originalValue="Ondřej">Ondrej</normalizedToken>
+</mods:namePart>
+<mods:nameIdentifier id="BC9F70DCDC48B53EFDDA6DB42AC4154C" type="email">ondra.kosulic@seznam.cz</mods:nameIdentifier>
+<mods:nameIdentifier id="1C74644997662ED62FE188221FE8CDD6" type="ORCID">https://orcid.org/0000-0003-2199-1694</mods:nameIdentifier>
+<mods:affiliation id="585D188B97CF84AC39F91A3940AF739D">
+Department of Forest Protection and Wildlife Management, Faculty of Forestry and Wood Technology, Mendel University in Brno, 
+<normalizedToken id="7E410FFAA987EAEDF41E1845A86A7CE8" originalValue="Zemědělská">Zemedelska</normalizedToken>
+3, Brno, Czech Republic
+</mods:affiliation>
+</mods:name>
+<mods:name id="E1CCE51BDCC0F4E42A6FEBCDDF4A01FC" type="personal">
+<mods:role id="A3324DB1697FA93B14EFFEABC8147D55">
+<mods:roleTerm id="0BD94F8AAC7C33C5DFDF53660E56A8F7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E1125FE88CD5CA65EB63CBD6FE9DDD0E">Warrit, Natapot</mods:namePart>
+<mods:nameIdentifier id="51541F8F372DB2FAE7B861B69DD07224" type="email">ich108@hotmail.com</mods:nameIdentifier>
+<mods:nameIdentifier id="EA47B649212AF33C59178B041E54ACDB" type="ORCID">https://orcid.org/0000-0002-6338-1782</mods:nameIdentifier>
+<mods:affiliation id="7EE960BFA11AE0B6375E7113BEF7F1EA">Department of Biology, Faculty of Science, Chulalongkorn University, Bangkok, 103303, Thailand</mods:affiliation>
+</mods:name>
+<mods:name id="BF44FA2DE56F9E6FD01D927399734F8C" type="personal">
+<mods:role id="3F6332C10E33EF2491CE832700AE16E2">
+<mods:roleTerm id="EF78B2A5A896041DAF57C1BC312154FD">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9365A104D32C1A0C9B1C033F4001788F">
+<normalizedToken id="A3F0736C60F0CA76810B86BEF4A2AF31" originalValue="Lourenço">Lourenco</normalizedToken>
+, Wilson R.
+</mods:namePart>
+<mods:nameIdentifier id="9C23E59CDF9AC67D3137EB346809567A" type="ORCID">https://orcid.org/0000-0002-2386-363X</mods:nameIdentifier>
+<mods:affiliation id="E1A302975CB1D1C008B4DFF80D130CB3">
+<normalizedToken id="F7991C558410A89D4528B11F4DAA81BF" originalValue="Muséum">Museum</normalizedToken>
+national 
+<normalizedToken id="DE467504C0A8845D8E28BF78FF433AE9" originalValue="d’Histoire">d'Histoire</normalizedToken>
+naturelle, Sorbonne 
+<normalizedToken id="952D12D27C96E4A6BEB26FC004825814" originalValue="Universités">Universites</normalizedToken>
+, Institut de 
+<normalizedToken id="E9D8EFD7FD6DA00F8C2C556826F26B17" originalValue="Systématique">Systematique</normalizedToken>
+, Evolution, 
+<normalizedToken id="44AE5F19737BC36229CD5207F7FB26D7" originalValue="Biodiversité">Biodiversite</normalizedToken>
+(ISYEB), UMR7205-CNRS, MNHN, UPMC, EPHE, CP 53, 57 rue Cuvier, 75005 Paris, France
+</mods:affiliation>
+</mods:name>
+<mods:name id="203693BC12325A5CCBC48F3911D7F83E" type="personal">
+<mods:role id="C89D57489DD0C867A763C16F6572102F">
+<mods:roleTerm id="A63023F40F1DC86BDADE4E7B00A17CFA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1AE256EB16751E96302160E1E4C8307B">Ythier, Eric</mods:namePart>
+<mods:nameIdentifier id="34FF13C6191BA46AADD2B834112A987D" type="ORCID">https://orcid.org/0000-0002-3194-5184</mods:nameIdentifier>
+<mods:affiliation id="AEDA27D6C3162C3D249D46BBCCF642B4">
+BYG Taxa, 382 rue des Guillates, 71570 
+<normalizedToken id="59AFE53DCA93391EC202C7BF290304E0" originalValue="Romanèche-Thorins">Romaneche-Thorins</normalizedToken>
+, France
+</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="FCED81397D87571A51265955170C6E66">text</mods:typeOfResource>
+<mods:relatedItem id="EB07F1988680A2EE2C9574268693153B" type="host">
+<mods:titleInfo id="ED8863864596180DADAE31A669CCE9F0">
+<mods:title id="37DAC0DBDEC20671ACE5BCFD7AC728E8">ZooKeys</mods:title>
+</mods:titleInfo>
+<mods:part id="DD93877DF3373448D5E4F3DF13C8DBCE">
+<mods:detail id="C0007182F648B8B09169D74167985ED1" type="volume">
+<mods:number id="CDF8A4937A987EB69A86B5ADE4118B1F">1193</mods:number>
+</mods:detail>
+<mods:detail id="283B93F5620D15F4829764F98F8EE7AA" type="pubDate">
+<mods:number id="10C21FAEE956076FBF78F4B3E424A670">2024-03-06</mods:number>
+</mods:detail>
+<mods:date id="27B882A21DFB5E7BFFE27D8B65C001AF">2024</mods:date>
+<mods:extent id="5D1450A16C4476D969E4157AF28CC1DA" unit="page">
+<mods:start id="29F01CB998696A5A17E37B879746522D">161</mods:start>
+<mods:end id="192F5F5CA4E1A998A0A6C1558361CF2F">170</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="6307DB10DDBF64BCB74213E69312E795">
+<mods:url id="63720DCE7F6E6A4EF7F9C83BC7B43D39">http://dx.doi.org/10.3897/zookeys.1193.113398</mods:url>
+</mods:location>
+<mods:identifier id="FFB3344335410B72C762FBBDF121312C" type="DOI">http://dx.doi.org/10.3897/zookeys.1193.113398</mods:identifier>
+<mods:identifier id="A35F0384FAA6663AC1646B95BCD6AB13" type="Pensoft-Pub">1313-2970-1193-161</mods:identifier>
+<mods:identifier id="59A38509BFF52FD095DAA1655A1E794A" type="ZooBank">635F0E858F6F43F5BD6800766A406D61</mods:identifier>
+<mods:identifier id="ABAD6FEB921EB9A258F43701E4885C91" type="Pensoft-UUID">00C3E1220C46535B9A81BC0962CF7EB9</mods:identifier>
+<mods:classification id="5973F1B7EABB75E83DA4BE19D063AF2B">journal article</mods:classification>
+</mods:mods>
+<subSection id="B650185B3C47B11468AECC02A710DCBE" pageId="0" pageNumber="161" type="﻿introduction">
+<paragraph id="6F15F5FDC47A8F150B1EC4FD7B5A8D5A" pageId="0" pageNumber="161">
+<pageBreakToken id="F753344C2DB4DF0A6127DE36E90AA7AD" origin="extrapolated" pageId="0" pageNumber="161" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph id="C39426C42D129C7A3B5145AEA02C7B70" pageId="0" pageNumber="161">
+As already discussed in several previous papers (e.g. 
+<bibRefCitation id="C9CD97D3897D6CD713C374AB564A69AB" DOI="https://doi.org/10.3897/zookeys.775.24248" author="Lourenco, WR" journalOrPublisher="ZooKeys" pageId="0" pageNumber="161" pagination="47 - 58" refId="B11" refString="Lourenco, WR, Kosulic, O, 2018. A new remarkable species of Alloscorpiops Vachon, 1980 from Myanmar (Burma) (Scorpiones, Scorpiopidae). ZooKeys 775: 47 - 58, DOI: https://doi.org/10.3897/zookeys.775.24248" title="A new remarkable species of Alloscorpiops Vachon, 1980 from Myanmar (Burma) (Scorpiones, Scorpiopidae)." url="https://doi.org/10.3897/zookeys.775.24248" volume="775" year="2018">
+<normalizedToken id="9FB396FF69093D44EF74B14D30DAAAF7" originalValue="Lourenço">Lourenco</normalizedToken>
+and 
+<normalizedToken id="C27FBE00D3ACFA17FF459EED9F655CD3" originalValue="Košulič">Kosulic</normalizedToken>
+2018
+</bibRefCitation>
+; 
+<bibRefCitation id="25304E18CE3DD1037754194C57F392E9" author="Lourenco, WR" journalOrPublisher="Revista Iberica de Aracnologia" pageId="0" pageNumber="161" pagination="51 - 54" refId="B10" refString="Lourenco, WR, 2019. A new species of Euscorpiops Vachon, 1980 from Doi Pha Hom Pok National Park in Thailand (Scorpiones: Scorpiopidae). Revista Iberica de Aracnologia 34: 51 - 54" title="A new species of Euscorpiops Vachon, 1980 from Doi Pha Hom Pok National Park in Thailand (Scorpiones: Scorpiopidae)." volume="34" year="2019">
+<normalizedToken id="A0844BB883C3E395A65F9271FA975382" originalValue="Lourenço">Lourenco</normalizedToken>
+2019
+</bibRefCitation>
+; 
+<bibRefCitation id="B8A8729BF4EC29097AB4102563843BCB" author="Lourenco, WR" journalOrPublisher="Faunitaxys: Revue de Faunistique, Taxonomie et Systematique Morphologique et Moleculaire" pageId="0" pageNumber="161" pagination="1 - 9" refId="B12" refString="Lourenco, WR, Ythier, E, 2022. A new species of the genus Scorpiops Peters, 1861, subgenus Euscorpiops Vachon, 1980 from Laos (Scorpiones: Scorpiopidae). Faunitaxys: Revue de Faunistique, Taxonomie et Systematique Morphologique et Moleculaire 10 (27): 1 - 9" title="A new species of the genus Scorpiops Peters, 1861, subgenus Euscorpiops Vachon, 1980 from Laos (Scorpiones: Scorpiopidae)." volume="10" year="2022">
+<normalizedToken id="091411871A4488D47BCED847822EC932" originalValue="Lourenço">Lourenco</normalizedToken>
+and Ythier 2022
+</bibRefCitation>
+), the generic composition of the now accepted family 
+<taxonomicName id="3E61196B9E3E36E4DB2C98DF288FC297" authorityName="Kraepelin" authorityYear="1905" class="Arachnida" family="Scorpiopidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Scorpiopidae</taxonomicName>
+was mainly due to 
+<bibRefCitation id="C20E7ABEE6D9FFE1D3D27CB451E18BDC" DOI="https://doi.org/10.5962/p.297422" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B21" refString="Vachon, M, 1980. https://doi.org/10.5962/p.297422" url="https://doi.org/10.5962/p.297422" year="1980">Vachon (1980)</bibRefCitation>
+, who revised the genus 
+<taxonomicName id="F7E6EE857C5163B9069418D37C0AFDF4" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="145D3FD341E7FC649088FE8A5B0716DB" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+Peters, 1861 and described three new subgenera (
+<taxonomicName id="A0DC20E8294D763105DF0AAF0E5B48B7" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Alloscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Alloscorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="D18BC8E3F6477F5A271F237329D55DE9" italics="true" pageId="0" pageNumber="161">Alloscorpiops</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="3F8E137E378F22CB6A7D4D25E68D84E6" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Euscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Euscorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="62DF0FA76431D9DEB673E155E9675DF6" italics="true" pageId="0" pageNumber="161">Euscorpiops</emphasis>
+</taxonomicName>
+, and 
+<taxonomicName id="6398AD727FE162BC5BDA2E93EF9DA068" authorityName="Vachon" authorityYear="1980" genus="Neoscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Neoscorpiops" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="9B88C52D398E2304A2E94EAF389BD7C5" italics="true" pageId="0" pageNumber="161">Neoscorpiops</emphasis>
+</taxonomicName>
+) in addition to the nominotypical subgenus 
+<taxonomicName id="80C7B280E5B5D086EC42A79BEFDC4698" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Scorpiops)" order="Scorpiones" pageId="0" pageNumber="161" rank="subGenus" subGenus="Scorpiops">Scorpiops Scorpiops</taxonomicName>
+. These four subgenera were later elevated to generic rank by 
+<bibRefCitation id="AE41DD8DB726698941E8C53AABB5F076" author="Lourenco, WR" journalOrPublisher="Entomologische Mitteilungen aus dem Zoologischen Museum Hamburg" pageId="0" pageNumber="161" pagination="245 - 254" refId="B9" refString="Lourenco, WR, 1998. New rank to the scorpion subfamily Scorpiopsinae Kraepelin, 1905 as family Scorpiopsidae Kraepelin, 1905; its generical composition and description of a new species of Scorpiops from Pakistan (Scorpiones, Scorpiopsidae). Entomologische Mitteilungen aus dem Zoologischen Museum Hamburg 12 (157): 245 - 254" title="New rank to the scorpion subfamily Scorpiopsinae Kraepelin, 1905 as family Scorpiopsidae Kraepelin, 1905; its generical composition and description of a new species of Scorpiops from Pakistan (Scorpiones, Scorpiopsidae)." volume="12" year="1998">
+<normalizedToken id="5C67CC4181D49B92FA9A464DC1C2E554" originalValue="Lourenço">Lourenco</normalizedToken>
+(1998)
+</bibRefCitation>
+, and new taxa of the generic level were subsequently added to the family (
+<taxonomicName id="7179E51B25028D0FBAD9E3C5662525EE" authorityName="Banks" authorityYear="1928" class="Arachnida" family="Scorpiopidae" genus="Parascorpiops" kingdom="Animalia" lsidName="Parascorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="DA4A05704F199FAD2E2E77AE14ADF034" italics="true" pageId="0" pageNumber="161">Parascorpiops</emphasis>
+</taxonomicName>
+Banks, 1928, 
+<taxonomicName id="07A8C830472E31B7127DD87262552A3E" authorityName="Vachon" authorityYear="1974" genus="Dasyscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Dasyscorpiops" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="335834E5B8E5CAA1C45D467C7089E792" italics="true" pageId="0" pageNumber="161">Dasyscorpiops</emphasis>
+</taxonomicName>
+Vachon, 1974, 
+<taxonomicName id="D0252B12B46211FAE65AB844602716A4" authorityName="Lourenço" authorityYear="2013" class="Arachnida" family="Scorpiopidae" genus="Laoscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Laoscorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="6F8FD7F4AA35692980ACCFD84996C7DC" italics="true" pageId="0" pageNumber="161">Laoscorpiops</emphasis>
+</taxonomicName>
+<normalizedToken id="62BED0B67F45DF9A058FBC996B167A55" originalValue="Lourenço">Lourenco</normalizedToken>
+, 2013, 
+<taxonomicName id="EF5E0095FD8361C09697F522F310210C" authorityName="Lourenço &amp; Pham" authorityYear="2015" class="Arachnida" family="Scorpiopidae" genus="Vietscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Vietscorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="3AD31C3952FD1F855489D1536C29FEC8" italics="true" pageId="0" pageNumber="161">Vietscorpiops</emphasis>
+</taxonomicName>
+<normalizedToken id="2C718DF9A6A18CD2E7E15FAD8CC8B366" originalValue="Lourenço">Lourenco</normalizedToken>
+&amp; Pham, 2015, and 
+<taxonomicName id="75C6BA6FE1E4DA32F7099D37A7674D6E" authorityName="Lourenço" authorityYear="2017" genus="Plethoscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Plethoscorpiops" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="93AFF245B76EC7229F29AEF481661DFB" italics="true" pageId="0" pageNumber="161">Plethoscorpiops</emphasis>
+</taxonomicName>
+<normalizedToken id="90C92983A8FA700E95AFC6B0DBC56616" originalValue="Lourenço">Lourenco</normalizedToken>
+, 2017). Later, 
+<bibRefCitation id="B003CEAE544DB367856FC23E0F183E45" author="Kovarik, F" journalOrPublisher="Acta Societatis Zoologicae Bohemoslovenicae" pageId="0" pageNumber="161" pagination="153 - 201" refId="B3" refString="Kovarik, F, 2000. Revision of the family Scorpiopidae (Scorpiones), with descriptions of six new species. Acta Societatis Zoologicae Bohemoslovenicae 64: 153 - 201" title="Revision of the family Scorpiopidae (Scorpiones), with descriptions of six new species." volume="64" year="2000">
+<normalizedToken id="EDDF306B7584C0057FBD43AB701BB8A4" originalValue="Kovařík">Kovarik</normalizedToken>
+(2000)
+</bibRefCitation>
+rejected the validity of the genus 
+<taxonomicName id="CD0EC534CC24DE4B0C015A8FEDA3A138" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Euscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Euscorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="797A861A1663F5CBEBF0DB688729CFD9" italics="true" pageId="0" pageNumber="161">Euscorpiops</emphasis>
+</taxonomicName>
+, which was subsequently reestablished by 
+<bibRefCitation id="EB71548EE95E78CA7A28E6F60412268C" DOI="https://doi.org/10.1017/S1752756200004075" author="Soleglad, ME" editor="Fet, V" journalOrPublisher="In Memoriam Gary A. Polis. British Arachnological Society, Burnham Beeches, Bucks" pageId="0" pageNumber="161" pagination="25 - 111" refId="B16" refString="Soleglad, ME, Sissom, WD, 2001. Phylogeny of the family Euscorpiidae Laurie, 1896 (Scorpiones): a major revision. In: Fet, V, Selden, PA, Eds., Scorpions 2001. In Memoriam Gary A. Polis. British Arachnological Society, Burnham Beeches, Bucks: 25 - 111, DOI: https://doi.org/10.1017/S1752756200004075" title="Phylogeny of the family Euscorpiidae Laurie, 1896 (Scorpiones): a major revision." url="https://doi.org/10.1017/S1752756200004075" volumeTitle="Scorpions 2001." year="2001">Soleglad and Sissom (2001)</bibRefCitation>
+, mainly based on the position of chelal trichobothrium 
+<emphasis id="E04361CDE51E25194D14E250663FA8EB" italics="true" pageId="0" pageNumber="161">Eb3</emphasis>
+and the presence of an annular ring on the telson. The generic composition of the family 
+<taxonomicName id="9EAF554281CB2E7BBA6C267F6F79D899" authorityName="Kraepelin" authorityYear="1905" class="Arachnida" family="Scorpiopidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Scorpiopidae</taxonomicName>
+was then globally well accepted for about 20 years until 
+<bibRefCitation id="E7B284B7E277E9C158500510246ACC2B" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 140" refId="B8" refString="Kovarik, F, Lowe, G, Stockmann, M, Stahlavsky, F, 2020. Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones). Euscorpius 325: 1 - 140" title="Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones)." volume="325" year="2020">
+<normalizedToken id="1FF3B840B6BD2CFEA5EE7ED70814335B" originalValue="Kovařík">Kovarik</normalizedToken>
+et al. (2020)
+</bibRefCitation>
+simply decided to place all the known and accepted genera of the family in the synonymy of 
+<taxonomicName id="683C00C56DB34EBF8D6A99EF6D47E3F4" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="47200233DF740E95ED1806C925D07D84" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+, with the single exception of 
+<taxonomicName id="F43DD9D4FC12BA1EFD89946DA3E4162C" authorityName="Banks" authorityYear="1928" class="Arachnida" family="Scorpiopidae" genus="Parascorpiops" kingdom="Animalia" lsidName="Parascorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="9A6110FE06BA1D1F0EC91B42EC87940E" italics="true" pageId="0" pageNumber="161">Parascorpiops</emphasis>
+</taxonomicName>
+. This drastic decision was not accepted by 
+<bibRefCitation id="6FB1B6456B9FC99553350BB2CC7E5E4D" author="Lourenco, WR" journalOrPublisher="Faunitaxys: Revue de Faunistique, Taxonomie et Systematique Morphologique et Moleculaire" pageId="0" pageNumber="161" pagination="1 - 9" refId="B12" refString="Lourenco, WR, Ythier, E, 2022. A new species of the genus Scorpiops Peters, 1861, subgenus Euscorpiops Vachon, 1980 from Laos (Scorpiones: Scorpiopidae). Faunitaxys: Revue de Faunistique, Taxonomie et Systematique Morphologique et Moleculaire 10 (27): 1 - 9" title="A new species of the genus Scorpiops Peters, 1861, subgenus Euscorpiops Vachon, 1980 from Laos (Scorpiones: Scorpiopidae)." volume="10" year="2022">
+<normalizedToken id="42EA5158CAA42B0BB465D98B9EBC205F" originalValue="Lourenço">Lourenco</normalizedToken>
+and Ythier (2022)
+</bibRefCitation>
+, who restored some division of the family 
+<taxonomicName id="26539C7B613840E54DF625CAC0E7A266" authorityName="Kraepelin" authorityYear="1905" class="Arachnida" family="Scorpiopidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Scorpiopidae</taxonomicName>
+by revalidating, as subgenera of the genus 
+<taxonomicName id="6A93465F8AFD0ABC9FB4045AF9DF0FB6" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="4D4C2EE909BCB2F84F4C4E6131C6E4BB" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+, several previously defined genera: 
+<taxonomicName id="4679E3C63D26AA86D8100E5836A1226D" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Alloscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Alloscorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="502DE0A31D8C82258A865721036C1C22" italics="true" pageId="0" pageNumber="161">Alloscorpiops</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="8E65F7C0364404FFE3094FDE46C8730F" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Euscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Euscorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="F694E18059EB5FD7F56D89EC4E85BF81" italics="true" pageId="0" pageNumber="161">Euscorpiops</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="24EA99A2A3080BB0EA64995B594AD45B" authorityName="Vachon" authorityYear="1980" genus="Neoscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Neoscorpiops" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="BB2DD543291F51FB6B852105F3328552" italics="true" pageId="0" pageNumber="161">Neoscorpiops</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="1CC145C7D26ABED942B9D56CB7C0C6ED" authorityName="Vachon" authorityYear="1974" genus="Dasyscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Dasyscorpiops" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="7B00C6D10EFA753AF731218F6C995503" italics="true" pageId="0" pageNumber="161">Dasyscorpiops</emphasis>
+</taxonomicName>
+, and 
+<taxonomicName id="429CB6C5C333323A7FF9D8209175D630" authorityName="Lourenço" authorityYear="2017" genus="Plethoscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Plethoscorpiops" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="849A53185FF468B97652DCF98EFA5690" italics="true" pageId="0" pageNumber="161">Plethoscorpiops</emphasis>
+</taxonomicName>
+. In the same paper, 
+<taxonomicName id="18286B8761C751BD2B3964EE84568F9A" authorityName="Banks" authorityYear="1928" class="Arachnida" family="Scorpiopidae" genus="Parascorpiops" kingdom="Animalia" lsidName="Parascorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="EB07221F37515B977EA358C8F1672389" italics="true" pageId="0" pageNumber="161">Parascorpiops</emphasis>
+</taxonomicName>
+was maintained as a distinct genus, while the synonymy of 
+<taxonomicName id="25F0C5F5233CDC82F3C5A3F28C4BD281" authorityName="Lourenço" authorityYear="2013" class="Arachnida" family="Scorpiopidae" genus="Laoscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Laoscorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="4B8D4A28E49FFCA7F9204986AAC705F6" italics="true" pageId="0" pageNumber="161">Laoscorpiops</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="3E0DED1D19217DD0EDC2324013AB7BEE" authorityName="Lourenço &amp; Pham" authorityYear="2015" class="Arachnida" family="Scorpiopidae" genus="Vietscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Vietscorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="A149D01DEF35164FDBF618F314270EE2" italics="true" pageId="0" pageNumber="161">Vietscorpiops</emphasis>
+</taxonomicName>
+with 
+<taxonomicName id="D5B8D5049F7814D680E5645709B2EF47" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Alloscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Alloscorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="061507AE4C75E1AAB2C9B2B6647EE37F" italics="true" pageId="0" pageNumber="161">Alloscorpiops</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="0035FD9364CF1D55120134FF2653B1BA" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="5C641CC57BF31553454C8E2934726D30" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+, respectively, was maintained. In the present study, a new species belonging to the subgenus 
+<taxonomicName id="D1E78F59EAD76560A4829F014AB61DEB" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops)" order="Scorpiones" pageId="0" pageNumber="161" rank="subGenus" subGenus="Euscorpiops">Scorpiops Euscorpiops</taxonomicName>
+is described from Kaeng Krachan National Park located in Phetchaburi Province of Central Thailand. This new taxon may represent an endemic element of the scorpion fauna of Thailand.
+</paragraph>
+</subSection>
+<subSection id="F739E1B046089387371A81F07C1537B1" pageId="0" pageNumber="161" type="materials_methods">
+<paragraph id="04F92BCB2958874638E0ACA5EFFB48B0" pageId="0" pageNumber="161">Methods</paragraph>
+<paragraph id="1FADA212BF4EE2A0D26F5EEDA63596D8" pageId="0" pageNumber="161">
+Illustrations and measurements were made using a Wild M5 stereomicroscope with a drawing tube and an ocular micrometer, a Canon EOS 7D camera, and Adobe Photoshop software. The map was made using QGIS and Adobe Photoshop. Measurements follow 
+<bibRefCitation id="CCE9289541014F7905BA5D83EC487B25" author="Stahnke, HL" journalOrPublisher="Entomological News" pageId="0" pageNumber="161" pagination="297 - 316" refId="B17" refString="Stahnke, HL, 1970. Scorpion nomenclature and mensuration. Entomological News 81: 297 - 316" title="Scorpion nomenclature and mensuration." volume="81" year="1970">Stahnke (1970)</bibRefCitation>
+and are given in millimeters. Trichobothrial notations follow 
+<bibRefCitation id="AB4AE6E9CD9E3E10962C4A8C28FC4BC1" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B20" refString="Vachon, M, 1974. Etude des caracteres utilises pour classer les familles et les genres de scorpions (arachnides). 1. La trichobothriotaxie en arachnologie. Sigles trichobothriaux et types de trichobothriotaxie chez les scorpions. Bulletin du Museum national d'Histoire naturelle, Paris (3e serie) 140: 857-958." title="Etude des caracteres utilises pour classer les familles et les genres de scorpions (arachnides). 1. La trichobothriotaxie en arachnologie. Sigles trichobothriaux et types de trichobothriotaxie chez les scorpions. Bulletin du Museum national d'Histoire naturelle, Paris (3 e serie) 140: 857 - 958." year="1974">Vachon (1974)</bibRefCitation>
+and morphological terminology mostly follows 
+<bibRefCitation id="C892BF1A2472F7FDC2BDF7F3F5D4B260" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B18" refString="Vachon, M, 1952. Etudes sur les scorpions. Publications de l'Institut Pasteur d'Algerie, Alger" title="Etudes sur les scorpions." year="1952">Vachon (1952)</bibRefCitation>
+and 
+<bibRefCitation id="A287941BCD5800D2883A8AC7971FCE73" author="Hjelle, JT" editor="Polis, GA" journalOrPublisher="Stanford University Press, Stanford" pageId="0" pageNumber="161" pagination="9 - 63" refId="B1" refString="Hjelle, JT, 1990. Anatomy and morphology. In: Polis, GA, Ed., The Biology of Scorpions. Stanford University Press, Stanford: 9 - 63" title="Anatomy and morphology." volumeTitle="The Biology of Scorpions." year="1990">Hjelle (1990)</bibRefCitation>
+. A collecting permit was provided by the Department of National Parks, Wildlife and Plant Conservation, Ministry of Natural Resources and Environment in Thailand.
+</paragraph>
+</subSection>
+<subSection id="FB5D2CD0E07835054FB3D6EA7AB9B964" _chop="before" pageId="0" pageNumber="161" type="multiple">
+<paragraph id="BEED35DA0D98522BF3B98675309C02D3" pageId="0" pageNumber="161">Taxonomic treatment</paragraph>
+<paragraph id="F8A966F2CD5E25468D152C95BBA5D30E" pageId="0" pageNumber="161">
+<emphasis id="A1F7F9380D8ABBFBC4499493291EF137" bold="true" pageId="0" pageNumber="161">
+Family 
+<taxonomicName id="04626F6538E9845EFBEA3BF98A8A4B5E" authorityName="Kraepelin" authorityYear="1905" class="Arachnida" family="Scorpiopidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Scorpiopidae</taxonomicName>
+Kraepelin, 1905
+</emphasis>
+</paragraph>
+<paragraph id="80725F9B448897F8B1426F0976BD90B1" pageId="0" pageNumber="161">
+<emphasis id="DCF7C6BBA6E2C9305931F91447B78D5B" bold="true" pageId="0" pageNumber="161">
+Genus 
+<taxonomicName id="E5B30C4655C215C690931CEE076C3FFC" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="6BB43494B55D0F758190EFAC70F49BCB" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+Peters, 1861
+</emphasis>
+</paragraph>
+<paragraph id="D678F9462F6877A2A1861D5D075E3609" pageId="0" pageNumber="161">
+<emphasis id="299B91DFA02E149068174DDDFA3EF2C4" bold="true" pageId="0" pageNumber="161">
+Subgenus 
+<taxonomicName id="D0233337AC85875FB0BB0881F9890506" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops)" order="Scorpiones" pageId="0" pageNumber="161" rank="subGenus" subGenus="Euscorpiops">Scorpiops Euscorpiops</taxonomicName>
+Vachon, 1980
+</emphasis>
+</paragraph>
+</subSection>
+<treatment id="1582763A3DFB57E189DEA9C1C154D5FA" ID-GBIF-Taxon="222727646" LSID="urn:lsid:zoobank.org:act:53269528-C6AC-44AE-AB99-FF60D486DF8E" pageId="0" pageNumber="161">
+<subSubSection id="042504609CD774739EB9B03E8C7F1FE9" pageId="0" pageNumber="161" type="nomenclature">
+<paragraph id="DB0976B3D090C6E559CCC055B333C302" pageId="0" pageNumber="161">
+<taxonomicName id="3CA425396BAD65A530228934BB1C50E0" LSID="https://zoobank.org/53269528-C6AC-44AE-AB99-FF60D486DF8E" authority="Nawanetiwong, Košulič, Warrit, Lourenço &amp; Ythier" authorityName="Nawanetiwong, Kosulic, Warrit, Lourenco &amp; Ythier" authorityYear="2024" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops) krachan" order="Scorpiones" pageId="0" pageNumber="161" rank="species" species="krachan" status="sp. nov." subGenus="Euscorpiops">
+Scorpiops (Euscorpiops) krachan Nawanetiwong, 
+<normalizedToken id="B4E5DB937341D7FEDF43704AE52A52AE" originalValue="Košulič">Kosulic</normalizedToken>
+, Warrit, 
+<normalizedToken id="FD28A5E622FB2756E16A1F05F8350A51" originalValue="Lourenço">Lourenco</normalizedToken>
+&amp; Ythier
+</taxonomicName>
+<taxonomicNameLabel id="89202C2EA1CDEABB3995ACB51F4FF994" pageId="0" pageNumber="161">sp. nov.</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection id="48DB3B7BC01EB0AA40BFD863FBEE6402" pageId="0" pageNumber="161" type="description">
+<paragraph id="9F601D2D6BB94D5282818E281E52CE5A" pageId="0" pageNumber="161">
+<figureCitation id="CA23834B33F3A3FAE09B156371214484" captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Scorpiops (Euscorpiops) krachan sp. nov. A, B male holotype, habitus, dorsal A and ventral B aspects C, D female paratype, habitus, dorsal C and ventral D aspects. Scale bar 1 cm." figureDoi="10.3897/zookeys.1193.113398.figure1" httpUri="https://binary.pensoft.net/fig/997429" pageId="0" pageNumber="161">Figs 1</figureCitation>
+<figureCitation id="4DC18A76FD368B8C4A2940784585596B" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Scorpiops (Euscorpiops) krachan sp. nov. Male holotype, trichobotrial pattern A-C chela, dorso-external A ventral B and external C aspects D femur, dorsal aspect E-G patella, dorsal E external F and ventral G aspects. Scale bars 2 mm." figureDoi="10.3897/zookeys.1193.113398.figure2" httpUri="https://binary.pensoft.net/fig/997430" pageId="0" pageNumber="161">, 2</figureCitation>
+<figureCitation id="9657B9AC2435396062BA93C5C889A009" captionStart="Figure 3" captionStartId="F3" captionText="Figure 3. Scorpiops (Scorpiops Euscorpiops) Scorpiops Euscorpiops krachan sp. nov., alive with pre-juveniles (instar I)." figureDoi="10.3897/zookeys.1193.113398.figure3" httpUri="https://binary.pensoft.net/fig/997431" pageId="0" pageNumber="161">, 3</figureCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F76CFC283F3234E342F2F1AEF271AE50" pageId="0" pageNumber="161" type="type locality">
+<paragraph id="9723169525DC6F79B4B0DCCE5C58F955" pageId="0" pageNumber="161">Type locality.</paragraph>
+<paragraph id="6D0712BD0F722DE42F479A2F171402EE" pageId="0" pageNumber="161">
+Thailand, Phetchaburi Province: Kaeng Krachan National Park, Ban Krang Campsite, 
+<geoCoordinate id="251E1F4109E6128AC943A906510B1C76" degrees="12" direction="north" minutes="47.970" orientation="latitude" precision="1" value="12.7995">12°47.970'N</geoCoordinate>
+, 
+<geoCoordinate id="6ED16402A85E3BDF027A45539E83B852" degrees="99" direction="east" minutes="27.236" orientation="longitude" precision="1" value="99.45393">99°27.236'E</geoCoordinate>
+, 324 m a.s.l., wet secondary forest (cloud-forest), 14 Nov. 2022, O. 
+<normalizedToken id="AEB7402BF6892FDAFACB9D987E7EB0EC" originalValue="Košulič">Kosulic</normalizedToken>
+leg.
+</paragraph>
+<caption id="F87C7CE28815DD39184E58C0600042BA" doi="10.3897/zookeys.1193.113398.figure1" httpUri="https://binary.pensoft.net/fig/997429" pageId="0" pageNumber="161" start="Figure 1" startId="F1">
+<paragraph id="6EA9A6147C15D47944F707B88629ED9E" pageId="0" pageNumber="161">
+<emphasis id="3475FF8CD789EED632F90E237D65BCA5" bold="true" pageId="0" pageNumber="161">Figure 1.</emphasis>
+<taxonomicName id="5BB342D709CD492BE13584638425F3DF" authorityName="Nawanetiwong, Kosulic, Warrit, Lourenco &amp; Ythier" authorityYear="2024" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops) krachan" order="Scorpiones" pageId="0" pageNumber="161" rank="species" species="krachan" subGenus="Euscorpiops">Scorpiops (Euscorpiops) krachan</taxonomicName>
+sp. nov. 
+<emphasis id="B253F2B46435E2D8E99CD2EE46B2B1C0" bold="true" pageId="0" pageNumber="161">A, B</emphasis>
+male holotype, habitus, dorsal 
+<emphasis id="F2DEA90A2CB00CCA7FB37832D43A8D41" bold="true" pageId="0" pageNumber="161">A</emphasis>
+and ventral 
+<emphasis id="4435481DFE8CA8C1D600A3F1506BF40E" bold="true" pageId="0" pageNumber="161">B</emphasis>
+aspects 
+<emphasis id="61BC77F842C760F7D67DD025A90E1228" bold="true" pageId="0" pageNumber="161">C, D</emphasis>
+female paratype, habitus, dorsal 
+<emphasis id="670111DEE0F0111E5A392C2343BC0950" bold="true" pageId="0" pageNumber="161">C</emphasis>
+and ventral 
+<emphasis id="9A80B153AA50A8D8CE2660A023FEC016" bold="true" pageId="0" pageNumber="161">D</emphasis>
+aspects. Scale bar 1 cm.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection id="D025CA02AD1E18046DD3197D259AF770" pageId="0" pageNumber="161" type="type specimen">
+<paragraph id="7208D508D074C38B57B54664B5E73512" pageId="0" pageNumber="161">Type specimen.</paragraph>
+<paragraph id="DA152F72B0267A7EDEC53EC03140DDF5" pageId="0" pageNumber="161">
+<emphasis id="8B87F2E9CD98449E658658A1CC0911DD" bold="true" italics="true" pageId="0" pageNumber="161">Holotype</emphasis>
+, ♂. Original label: almost same as designation in type locality, deposited at the 
+<normalizedToken id="1A6D0E0F24758FA70B1AA60434E39735" originalValue="Muséum">Museum</normalizedToken>
+national 
+<normalizedToken id="A86FF91FE879DCD8EDF01900D1C2B104" originalValue="d’Histoire">d'Histoire</normalizedToken>
+naturelle, Paris, France. • 
+<emphasis id="6BCAB81DC6105A3988F27B180FC72061" bold="true" italics="true" pageId="0" pageNumber="161">Paratypes</emphasis>
+: 1 ♀. same data as holotype; 2 ♂. Original label: Thailand: Phetchaburi Province, Kaeng Krachan National Park, Ban Krang Campsite, 
+<geoCoordinate id="95B8D487936CACCC6112AFC44DAD48FB" degrees="12" direction="north" minutes="47.948" orientation="latitude" precision="1" value="12.799133">12°47.948'N</geoCoordinate>
+, 
+<geoCoordinate id="47383E6BF69CC7CF90F377DB21210C19" degrees="99" direction="east" minutes="27.250" orientation="longitude" precision="1" value="99.45417">99°27.250'E</geoCoordinate>
+, 317 m a.s.l., wet secondary forest (cloud-forest), 14 Nov. 2022, O. 
+<normalizedToken id="FD32973EB739021B0DB540DA11B78AF2" originalValue="Košulič">Kosulic</normalizedToken>
+leg., deposited at Department of Biology, Faculty of Science, Chulalongkorn University, Bangkok, Thailand (SCO-2022-005, SCO-2022-006).
+</paragraph>
+</subSubSection>
+<subSubSection id="2CF7287C0699C998FF469B514170F34B" pageId="0" pageNumber="161" type="etymology">
+<paragraph id="215B4E55DFB0C3B65AC91C36F2259D2F" pageId="0" pageNumber="161">Etymology.</paragraph>
+<paragraph id="68640AC3985A4C11E3A264640F48EDAA" pageId="0" pageNumber="161">The specific name refers to the National Park of Kaeng Krachan where the new species was collected.</paragraph>
+</subSubSection>
+<subSubSection id="DDAB95203A6E0050E58439F09495980F" pageId="0" pageNumber="161" type="diagnosis">
+<paragraph id="569903DE4A4C026B2A367E3C01F8C32C" pageId="0" pageNumber="161">Diagnosis.</paragraph>
+<paragraph id="8F606F98B28EF510B9A72300B500C13E" pageId="0" pageNumber="161">
+The new species exhibits the general characteristics of the subgenus 
+<taxonomicName id="64C3124CAB1CE814B8B10511C38BAB48" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops)" order="Scorpiones" pageId="0" pageNumber="161" rank="subGenus" subGenus="Euscorpiops">Scorpiops Euscorpiops</taxonomicName>
+(
+<bibRefCitation id="7680FB5EAB0A2C83D09DF36C68FFF577" DOI="https://doi.org/10.5962/p.297422" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B21" refString="Vachon, M, 1980. https://doi.org/10.5962/p.297422" url="https://doi.org/10.5962/p.297422" year="1980">Vachon 1980</bibRefCitation>
+; 
+<bibRefCitation id="3CB336EA336BFA05F05022CB138C3D8A" DOI="https://doi.org/10.1017/S1752756200004075" author="Soleglad, ME" editor="Fet, V" journalOrPublisher="In Memoriam Gary A. Polis. British Arachnological Society, Burnham Beeches, Bucks" pageId="0" pageNumber="161" pagination="25 - 111" refId="B16" refString="Soleglad, ME, Sissom, WD, 2001. Phylogeny of the family Euscorpiidae Laurie, 1896 (Scorpiones): a major revision. In: Fet, V, Selden, PA, Eds., Scorpions 2001. In Memoriam Gary A. Polis. British Arachnological Society, Burnham Beeches, Bucks: 25 - 111, DOI: https://doi.org/10.1017/S1752756200004075" title="Phylogeny of the family Euscorpiidae Laurie, 1896 (Scorpiones): a major revision." url="https://doi.org/10.1017/S1752756200004075" volumeTitle="Scorpions 2001." year="2001">Soleglad and Sissom 2001</bibRefCitation>
+). Total length of male and female 21.7-26.9 and 25.9 mm, respectively, defining the new species as very small in comparison to most other species of the subgenus. General coloration brownish yellow; female darker than male; chelicerae yellow without any variegated spots. Pectines with 6-7 and 5-5 teeth in male and female, respectively; two marginal and two middle lamellae present; fulcra present. Sexual dimorphism strongly marked, with male pedipalps markedly elongated; chela length/width ratio 4.5-5.1 in male, 3.0 in female. Chelal fingers straight in both sexes; movable fingers with two parallel longitudinal rows of granules almost fused, formed by a row of about 50 median granules and a row of 19-20 inner granules (4-5) and inner accessory granules (15); 7-8 outer granules are present. Annular ring conspicuous in both sexes; telson length/depth ratio 2.6-2.8 in male, 2.6 in female. Trichobothriotaxy of type C (
+<bibRefCitation id="73905D47AF0878D58380BC66DA361963" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B20" refString="Vachon, M, 1974. Etude des caracteres utilises pour classer les familles et les genres de scorpions (arachnides). 1. La trichobothriotaxie en arachnologie. Sigles trichobothriaux et types de trichobothriotaxie chez les scorpions. Bulletin du Museum national d'Histoire naturelle, Paris (3e serie) 140: 857-958." title="Etude des caracteres utilises pour classer les familles et les genres de scorpions (arachnides). 1. La trichobothriotaxie en arachnologie. Sigles trichobothriaux et types de trichobothriotaxie chez les scorpions. Bulletin du Museum national d'Histoire naturelle, Paris (3 e serie) 140: 857 - 958." year="1974">Vachon 1974</bibRefCitation>
+, 
+<bibRefCitation id="7E9A1F3C0CFA79CF441BC67612BCECF8" DOI="https://doi.org/10.5962/p.297422" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B21" refString="Vachon, M, 1980. https://doi.org/10.5962/p.297422" url="https://doi.org/10.5962/p.297422" year="1980">1980</bibRefCitation>
+); three trichobothria on femur (dorsal, internal, and external); patella with two dorsal, one internal, six ventral, and 16(15) external trichobothria; chelal manus with four ventral, two dorsal (
+<emphasis id="B60E627D33AD59581D37788E2C94C165" italics="true" pageId="0" pageNumber="161">Dt</emphasis>
+, 
+<emphasis id="81B1D485896F88CF22ED9574785B3AF1" italics="true" pageId="0" pageNumber="161">Db</emphasis>
+), two internal (
+<emphasis id="DAD98EED6BC04DFAA9827BAC06FEED0F" italics="true" pageId="0" pageNumber="161">ib</emphasis>
+, 
+<emphasis id="75EB0E8CDDD963BC4D35B8B3AF31D357" italics="true" pageId="0" pageNumber="161">it</emphasis>
+), one 
+<emphasis id="E7C2DDEC852B78BBD44DBE03BA1CDBAB" italics="true" pageId="0" pageNumber="161">Est</emphasis>
+, five 
+<emphasis id="77AE1AE760E4C1BFB523525A3263FB00" italics="true" pageId="0" pageNumber="161">Et</emphasis>
+, one 
+<emphasis id="F2F76E5D87B3F6FBB24E7CE752E33B91" italics="true" pageId="0" pageNumber="161">Esb</emphasis>
+, and three trichobothria in the 
+<emphasis id="C323246B9D481C826F3EF3401CCF9068" italics="true" pageId="0" pageNumber="161">Eb</emphasis>
+series; trichobothrium 
+<emphasis id="BC6BD2969F62679717D2865BAF07FF7F" italics="true" pageId="0" pageNumber="161">Eb3</emphasis>
+located in distal half of manus, between trichobothria 
+<emphasis id="960760C1205C6BA135C2A5E092D2E0F6" italics="true" pageId="0" pageNumber="161">Dt</emphasis>
+and 
+<emphasis id="C25458F303877AE496E5D496D455870A" italics="true" pageId="0" pageNumber="161">Est</emphasis>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="68FE193555CED063B7BAD3BA67749FDB" pageId="0" pageNumber="161" type="description">
+<paragraph id="999BE21DEB62A9717DA95E830BF00726" pageId="0" pageNumber="161">Description.</paragraph>
+<paragraph id="6972C3BA017EEED52CE78A2A9DF48B82" pageId="0" pageNumber="161">Based on male holotype and female and male paratypes.</paragraph>
+</subSubSection>
+<subSubSection id="935B1A0941726EA76E01422E82695FC1" pageId="0" pageNumber="161" type="coloration">
+<paragraph id="5CEBA11E2884F128E764E3B3A8B58E91" pageId="0" pageNumber="161">Coloration.</paragraph>
+<paragraph id="F85F28A60668A43D6776AE2E6DC8CB6E" pageId="0" pageNumber="161">Basically yellowish to brownish yellow. Carapace brownish yellow, with paler zones posteriorly and on furrows. Tergites brownish yellow. Metasomal segments brownish yellow, darker in female; telson yellow; base of aculeus blackish and tip reddish. Chelicerae yellow, without any variegated spots; one blackish spot at the base of fixed finger; fingers brownish yellow, with reddish teeth. Pedipalps reddish brown to brownish, darker in female; fingers darker than chela manus, almost blackish. Legs yellow, intensely spotted with brownish. Venter yellow; coxapophysis, sternum and sternites markedly infuscated.</paragraph>
+</subSubSection>
+<subSubSection id="56F495767A4C7270DC0F9AC186996984" pageId="0" pageNumber="161" type="morphology">
+<paragraph id="63A72F4394BCDB765C642EFCFA731626" pageId="0" pageNumber="161">Morphology.</paragraph>
+<paragraph id="EA802FBD8AE3CDB45ABB0ADA1FB731D7" pageId="0" pageNumber="161">
+Carapace weakly granular, rather shagreened; furrows weakly deep. Median eyes anterior to the middle of carapace; three pairs of lateral eyes, the posterior one small in female and relictual in male. Sternum pentagonal, slightly longer than wide. Tergites weakly granulated, mostly shagreened; VII with five carinae, moderately marked; median carinae vestigial. Pectines large in male and reduced in female with a pectinal tooth count of 6-6 and 5-5, respectively; two marginal and two middle lamellae present; fulcra present. Sternites almost smooth and slightly punctated, with round spiracles; sternite VII with four vestigial carinae and some granulations, better marked in male. Metasomal segments I to V with 10-8-8-8-7 carinae; dorsal carinae on segments II-IV with several spinoid granules and one larger posterior spinoid granule; metasomal tegument weakly granulated; ventral carina on segment V with weakly marked spinoid granules. Telson vesicle with minute granulations, but largely smooth; annular ring conspicuous; telson length/depth ratio 2.6-2.8 in male, 2.6 in female. Setation moderate on metasomal segments and telson. Pedipalps: femur with dorsal internal, dorsal external, ventral internal and ventral external carinae moderately marked; tegument weakly granular. Patella with dorsal internal, dorsal external, ventral internal, ventral external, and external carinae weakly marked; one moderately to weakly marked spinoid granule present on internal aspect; tegument weakly granular. Chela with dorsal marginal, external secondary, ventral internal, and ventral carinae moderately marked; other carinae weak; tegument weakly granulated. Sexual dimorphism strongly marked with male pedipalps markedly elongated; chela length/width ratio 4.5-5.1 in male, 3.0 in female. Chelal fingers straight in both sexes; movable fingers with two parallel longitudinal rows of granules almost fused, formed by a row of about 50 median granules and a row of 19-20 inner granules (4-5) and inner accessory granules (15); 7-8 outer granules present. Cheliceral dentition as defined for the family (
+<bibRefCitation id="04EE27A635E6D140AB6F45407FF54824" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B19" refString="Vachon, M, 1963. De l'utilite, en systematique, d'une nomenclature des dents des cheliceres chez les scorpions. Bulletin du Museum national d'Histoire naturelle, Paris (2e serie) 35: 161-166." title="De l'utilite, en systematique, d'une nomenclature des dents des cheliceres chez les scorpions. Bulletin du Museum national d'Histoire naturelle, Paris (2 e serie) 35: 161 - 166." year="1963">Vachon 1963</bibRefCitation>
+); a few teeth on ventro-internal face of movable finger. Trichobothriotaxy of type C, as shown in Fig. 
+<figureCitation id="BFD115A26F618E4F6F222546827833C5" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Scorpiops (Euscorpiops) krachan sp. nov. Male holotype, trichobotrial pattern A-C chela, dorso-external A ventral B and external C aspects D femur, dorsal aspect E-G patella, dorsal E external F and ventral G aspects. Scale bars 2 mm." figureDoi="10.3897/zookeys.1193.113398.figure2" httpUri="https://binary.pensoft.net/fig/997430" pageId="0" pageNumber="161">2</figureCitation>
+(
+<bibRefCitation id="D437F9D7BA3F5A1C162E6A14BEB1F1C6" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B20" refString="Vachon, M, 1974. Etude des caracteres utilises pour classer les familles et les genres de scorpions (arachnides). 1. La trichobothriotaxie en arachnologie. Sigles trichobothriaux et types de trichobothriotaxie chez les scorpions. Bulletin du Museum national d'Histoire naturelle, Paris (3e serie) 140: 857-958." title="Etude des caracteres utilises pour classer les familles et les genres de scorpions (arachnides). 1. La trichobothriotaxie en arachnologie. Sigles trichobothriaux et types de trichobothriotaxie chez les scorpions. Bulletin du Museum national d'Histoire naturelle, Paris (3 e serie) 140: 857 - 958." year="1974">Vachon 1974</bibRefCitation>
+, 
+<bibRefCitation id="B7EB48958D7BFEA6A3991E29E218039F" DOI="https://doi.org/10.5962/p.297422" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B21" refString="Vachon, M, 1980. https://doi.org/10.5962/p.297422" url="https://doi.org/10.5962/p.297422" year="1980">1980</bibRefCitation>
+); three trichobothria on femur (dorsal, internal, and external); patella with two dorsal, one internal, six ventral, and 16(15) external trichobothria; chelal manus with four ventral, two dorsal (
+<emphasis id="FF5CDDA6048062E20E30E63827728592" italics="true" pageId="0" pageNumber="161">Dt</emphasis>
+, 
+<emphasis id="067EF8FCAF3512351E8DD714778CCBAF" italics="true" pageId="0" pageNumber="161">Db</emphasis>
+), two internal (
+<emphasis id="1AA05CD8B9EBE356712C213B6DE56D46" italics="true" pageId="0" pageNumber="161">ib</emphasis>
+, 
+<emphasis id="EB64DCA3ABBC27ED53C14C08A5CC23BA" italics="true" pageId="0" pageNumber="161">it</emphasis>
+), one 
+<emphasis id="DD4B8B148812DF8E0D8C4D9AE6F3C6FA" italics="true" pageId="0" pageNumber="161">Est</emphasis>
+, five 
+<emphasis id="F4933D5E366061E5C25087EE027CFF09" italics="true" pageId="0" pageNumber="161">Et</emphasis>
+, one 
+<emphasis id="7340487DB148D531882A96CE73FDF75F" italics="true" pageId="0" pageNumber="161">Esb</emphasis>
+, and three trichobothria in the 
+<emphasis id="F1A034E1A4B68F647873E57F24037E13" italics="true" pageId="0" pageNumber="161">Eb</emphasis>
+series. Trichobothrium 
+<emphasis id="ACA0A406D0B031887C5E3656FC077E0B" italics="true" pageId="0" pageNumber="161">Eb3</emphasis>
+distal in relation to 
+<emphasis id="01BDCAC8BCDBE63A560FA1A855F9B0AF" italics="true" pageId="0" pageNumber="161">Eb2</emphasis>
+(
+<bibRefCitation id="946DB27106F7AD60EF4814AEB3B3B8D8" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B20" refString="Vachon, M, 1974. Etude des caracteres utilises pour classer les familles et les genres de scorpions (arachnides). 1. La trichobothriotaxie en arachnologie. Sigles trichobothriaux et types de trichobothriotaxie chez les scorpions. Bulletin du Museum national d'Histoire naturelle, Paris (3e serie) 140: 857-958." title="Etude des caracteres utilises pour classer les familles et les genres de scorpions (arachnides). 1. La trichobothriotaxie en arachnologie. Sigles trichobothriaux et types de trichobothriotaxie chez les scorpions. Bulletin du Museum national d'Histoire naturelle, Paris (3 e serie) 140: 857 - 958." year="1974">Vachon 1974</bibRefCitation>
+, 
+<bibRefCitation id="6541E9D7DCDB086D46FE045A950795E7" DOI="https://doi.org/10.5962/p.297422" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B21" refString="Vachon, M, 1980. https://doi.org/10.5962/p.297422" url="https://doi.org/10.5962/p.297422" year="1980">1980</bibRefCitation>
+), located in distal half of manus, between trichobothria 
+<emphasis id="37306F0B00A9ABC96F5FDB3AB539835E" italics="true" pageId="0" pageNumber="161">Dt</emphasis>
+and 
+<emphasis id="FBB1616B0C401342EE26A4D3731FE650" italics="true" pageId="0" pageNumber="161">Est</emphasis>
+. Legs tarsi with 4-5 long setae; tibial spurs absent.
+</paragraph>
+<caption id="974C6821C8C0B48A7A4F8E57C5217602" doi="10.3897/zookeys.1193.113398.figure2" httpUri="https://binary.pensoft.net/fig/997430" pageId="0" pageNumber="161" start="Figure 2" startId="F2">
+<paragraph id="A2A87B178733F89A79499C2AA92DDF7B" pageId="0" pageNumber="161">
+<emphasis id="6776D0EF8D8683D9FAF17551813413F2" bold="true" pageId="0" pageNumber="161">Figure 2.</emphasis>
+<taxonomicName id="8F1D54B09F1083589DBC4A633ADD3B21" authorityName="Nawanetiwong, Kosulic, Warrit, Lourenco &amp; Ythier" authorityYear="2024" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops) krachan" order="Scorpiones" pageId="0" pageNumber="161" rank="species" species="krachan" subGenus="Euscorpiops">Scorpiops (Euscorpiops) krachan</taxonomicName>
+sp. nov. Male holotype, trichobotrial pattern 
+<emphasis id="319B934608F2A740CDD2C25BD85137A1" bold="true" pageId="0" pageNumber="161">A-C</emphasis>
+chela, dorso-external 
+<emphasis id="7F5D1A683E5D75221120ACD3C3F69176" bold="true" pageId="0" pageNumber="161">A</emphasis>
+ventral 
+<emphasis id="A4358DC39E5F09429F93145524040459" bold="true" pageId="0" pageNumber="161">B</emphasis>
+and external 
+<emphasis id="A977057FD9569E6A55A7461A169414A0" bold="true" pageId="0" pageNumber="161">C</emphasis>
+aspects 
+<emphasis id="ECA17C28A7F68B3C85578F7A042D0E48" bold="true" pageId="0" pageNumber="161">D</emphasis>
+femur, dorsal aspect 
+<emphasis id="61794D19C85E5B0DDB9252FCB6697A51" bold="true" pageId="0" pageNumber="161">E-G</emphasis>
+patella, dorsal 
+<emphasis id="4AFD919600C9E6EB9BA709FBE947E5F7" bold="true" pageId="0" pageNumber="161">E</emphasis>
+external 
+<emphasis id="4BA0591CAA9D676D66552DEF0417A3F3" bold="true" pageId="0" pageNumber="161">F</emphasis>
+and ventral 
+<emphasis id="897400AB1ED6312C223A7FDFA1163D4A" bold="true" pageId="0" pageNumber="161">G</emphasis>
+aspects. Scale bars 2 mm.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection id="C74ADC1BBB186EEFC3C4C78F8D2ABC56" pageId="0" pageNumber="161" type="morphometric values">
+<paragraph id="BFE6FBC61CD9B5F6A2EBEF60F35CDA17" pageId="0" pageNumber="161">Morphometric values.</paragraph>
+<paragraph id="C4C3180D9E78C1F8C54E551179E75AEC" pageId="0" pageNumber="161">
+Male holotype and female paratype of 
+<taxonomicName id="9E1C9384183BFFA3037942B9310A954B" authorityName="Nawanetiwong, Kosulic, Warrit, Lourenco &amp; Ythier" authorityYear="2024" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops) krachan" order="Scorpiones" pageId="0" pageNumber="161" rank="species" species="krachan" subGenus="Euscorpiops">Scorpiops (Euscorpiops) krachan</taxonomicName>
+sp. nov. Total length including the telson 26.9/25.9. Carapace: length 4.2/4.1; anterior width 2.7/2.5; posterior width 4.2/4.2. Mesosoma length 8.6/9.8. Metasomal segments. I: length 1.3/1.2, width 1.7/1.5; II: length 1.6/1.4, width 1.5/1.3; III: length 1.8/1.6, width 1.4/1.2; IV: length 2.2/2.0, width 1.3/1.1; V: length, 3.6/2.9, width 1.1/1.0, depth 1.2/1.1. Telson length 3.6/2.9; vesicle: width 1.6/1.2, depth 1.3/1.1. Pedipalp: femur length 5.8/3.9, width 1.4/1.4; patella length 6.1/4.2, width 1.5/1.4; chela length 9.5/6.9, width 2.1/2.3, depth 1.8/1.9. Movable finger length 3.1/2.9.
+</paragraph>
+<caption id="CF94FC0043EC98BE6C0A647D74F66613" doi="10.3897/zookeys.1193.113398.figure3" httpUri="https://binary.pensoft.net/fig/997431" pageId="0" pageNumber="161" start="Figure 3" startId="F3">
+<paragraph id="FB5464D5D2FBC604A43A1AEBA3C1251D" pageId="0" pageNumber="161">
+<emphasis id="BC6DF3F6D631B393258F28E4C63D7792" bold="true" pageId="0" pageNumber="161">Figure 3.</emphasis>
+<taxonomicName id="EA4D3D67238E96AB1A07D53F9B5AAE67" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">Scorpiops</taxonomicName>
+(
+<taxonomicName id="9CDDB84D7C44576610ACE7D415E18096" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops)" order="Scorpiones" pageId="0" pageNumber="161" rank="subGenus" subGenus="Euscorpiops">Scorpiops Euscorpiops</taxonomicName>
+) 
+<taxonomicName id="3286B9C0355DAFB756EAF47E5A3C27B3" authorityName="Nawanetiwong, Kosulic, Warrit, Lourenco &amp; Ythier" authorityYear="2024" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops) krachan" order="Scorpiones" pageId="0" pageNumber="161" rank="species" species="krachan" subGenus="Euscorpiops">Scorpiops Euscorpiops krachan</taxonomicName>
+sp. nov., alive with pre-juveniles (instar I).
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection id="FEF8A3132BE8C8C40D743C35C17DBE80" pageId="0" pageNumber="161" type="relationships">
+<paragraph id="BF720303A3320F9ED6558560ED2ED6B8" pageId="0" pageNumber="161">Relationships.</paragraph>
+<paragraph id="BD5E2228CE95C1D11092FC731FF6D545" pageId="0" pageNumber="161">
+The most similar species seem to be 
+<taxonomicName id="30BF1F3FCDD7B9F0AE5238D92036C74E" authorityName="Kovarik, Lowe, Stockmann &amp; Stahlawsky" authorityYear="2020" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops) phatoensis" order="Scorpiones" pageId="0" pageNumber="161" rank="species" species="phatoensis" subGenus="Euscorpiops">Scorpiops (Euscorpiops) phatoensis</taxonomicName>
+and 
+<taxonomicName id="5751238676F33CA5653E46408EE5366C" authorityName="Kovarik, Lowe, Stockmann &amp; Stahlawsky" authorityYear="2020" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops) dunlopi" order="Scorpiones" pageId="0" pageNumber="161" rank="species" species="dunlopi" subGenus="Euscorpiops">Scorpiops (Euscorpiops) dunlopi</taxonomicName>
+, both described by 
+<bibRefCitation id="493A807F70B8F14C493D490FE28FACB9" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 140" refId="B8" refString="Kovarik, F, Lowe, G, Stockmann, M, Stahlavsky, F, 2020. Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones). Euscorpius 325: 1 - 140" title="Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones)." volume="325" year="2020">
+<normalizedToken id="A28CBA0ED51337D3BADFA5BDB2A959D0" originalValue="Kovařík">Kovarik</normalizedToken>
+et al. (2020)
+</bibRefCitation>
+from South Thailand (Fig. 
+<figureCitation id="F3963EFC8CF0A5A07B4B77F4259740DD" captionStart="Figure 4" captionStartId="F4" captionText="Figure 4. Distribution map showing the type localities of the new species and its most relative Scorpiops species: S. (Euscorpiops) krachan sp. nov. (red triangle), S. phatoensis Kovarik et al., 2020 (green square), S. dunlopi Kovarik et al., 2020 (purple square)." figureDoi="10.3897/zookeys.1193.113398.figure4" httpUri="https://binary.pensoft.net/fig/997432" pageId="0" pageNumber="161">4</figureCitation>
+), notably based on size, number of pectine teeth, marginal and middle lamellae, shape of fingers, and number of external trichobothria on patella. 
+<taxonomicName id="0499D70315FF06E84694AF5CB9DFB00C" authorityName="Nawanetiwong, Kosulic, Warrit, Lourenco &amp; Ythier" authorityYear="2024" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops krachan" order="Scorpiones" pageId="0" pageNumber="161" rank="species" species="krachan">
+<emphasis id="CDF115A42EC1C8EADF8A4C5DAD29702F" italics="true" pageId="0" pageNumber="161">Scorpiops krachan</emphasis>
+</taxonomicName>
+sp. nov. can, however, be separated from these two species by the following main features:
+</paragraph>
+<caption id="89A49C48CAC7F1F7313646B6079FB687" doi="10.3897/zookeys.1193.113398.figure4" httpUri="https://binary.pensoft.net/fig/997432" pageId="0" pageNumber="161" start="Figure 4" startId="F4">
+<paragraph id="EF8C783FC10B5BB12EE6EB6AB4E5D632" pageId="0" pageNumber="161">
+<emphasis id="197C4850E5815C9D50BD996EC2859CD5" bold="true" pageId="0" pageNumber="161">Figure 4.</emphasis>
+Distribution map showing the type localities of the new species and its most relative 
+<taxonomicName id="A6AAB359DE4B8BEF8877CE42D8D8B13D" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="F451583F93029BAACA82C457FE61DFBB" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+species: 
+<taxonomicName id="8D759F1B67829147900C0E4BA4694B8E" genus="S." lsidName="S. (Euscorpiops) krachan" pageId="0" pageNumber="161" rank="species" species="krachan" subGenus="Euscorpiops">S. (Euscorpiops) krachan</taxonomicName>
+sp. nov. (red triangle), 
+<taxonomicName id="C49756A51991E0B869F35EBE4B4FB86F" genus="S." lsidName="S. phatoensis" pageId="0" pageNumber="161" rank="species" species="phatoensis">
+<emphasis id="1E655711EF27A89ADCB0ECFBA9BB3740" italics="true" pageId="0" pageNumber="161">S. phatoensis</emphasis>
+</taxonomicName>
+<bibRefCitation id="6FA4EC475ED3ACD64D6FEB08FD207BF5" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 140" refId="B8" refString="Kovarik, F, Lowe, G, Stockmann, M, Stahlavsky, F, 2020. Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones). Euscorpius 325: 1 - 140" title="Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones)." volume="325" year="2020">
+<normalizedToken id="C97AA32041160393355C61E51C50115B" originalValue="Kovařík">Kovarik</normalizedToken>
+et al., 2020
+</bibRefCitation>
+(green square), 
+<taxonomicName id="A5E6C6B68EC4B0DE33A1D100FA8F6F9F" genus="S." lsidName="S. dunlopi" pageId="0" pageNumber="161" rank="species" species="dunlopi">
+<emphasis id="6688E0902402BDA5D8763126DE8EF6FF" italics="true" pageId="0" pageNumber="161">S. dunlopi</emphasis>
+</taxonomicName>
+<bibRefCitation id="857B90A53300882E618EE829FFE3462A" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 140" refId="B8" refString="Kovarik, F, Lowe, G, Stockmann, M, Stahlavsky, F, 2020. Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones). Euscorpius 325: 1 - 140" title="Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones)." volume="325" year="2020">
+<normalizedToken id="DD9107E3435449277E3887457799E4FD" originalValue="Kovařík">Kovarik</normalizedToken>
+et al., 2020
+</bibRefCitation>
+(purple square).
+</paragraph>
+</caption>
+<paragraph id="C020EDCCFA811FF04C5ECD61FD386209" pageId="0" pageNumber="161">
+lighter coloration pattern (reddish brown to reddish black in 
+<taxonomicName id="A66FCED75D9CDC14F8365D42C5B92883" genus="S." lsidName="S. phatoensis" pageId="0" pageNumber="161" rank="species" species="phatoensis">
+<emphasis id="C0724ABCBC010E93986D5AC82D728CB4" italics="true" pageId="0" pageNumber="161">S. phatoensis</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="3DC352D2215AE32A822A54A909A2BBD0" genus="S." lsidName="S. dunlopi" pageId="0" pageNumber="161" rank="species" species="dunlopi">
+<emphasis id="972F9B01DEF0BB7613A1568247CC2776" italics="true" pageId="0" pageNumber="161">S. dunlopi</emphasis>
+</taxonomicName>
+);
+</paragraph>
+<paragraph id="E052A31F94C79146753CDED35BF98437" pageId="0" pageNumber="161">
+chelicerae without any variegated spots (variegated in 
+<taxonomicName id="DE8B5778FF471A24C06F2ADC61B46E94" genus="S." lsidName="S. phatoensis" pageId="0" pageNumber="161" rank="species" species="phatoensis">
+<emphasis id="295B93DDF766560822B2F9B2864AFCF9" italics="true" pageId="0" pageNumber="161">S. phatoensis</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="F724C1CA2E78895FE1DA2007EBA26418" genus="S." lsidName="S. dunlopi" pageId="0" pageNumber="161" rank="species" species="dunlopi">
+<emphasis id="08D3A442750E5A9C0AE2B18AC78DF543" italics="true" pageId="0" pageNumber="161">S. dunlopi</emphasis>
+</taxonomicName>
+);
+</paragraph>
+<paragraph id="00B930E19E0613224885C5BB9B508BD3" pageId="0" pageNumber="161">
+pectines with fulcra present (absent in 
+<taxonomicName id="5527DC13CBE31AF25403B0A418E89ECF" genus="S." lsidName="S. phatoensis" pageId="0" pageNumber="161" rank="species" species="phatoensis">
+<emphasis id="BFD2DD33561E5142557E82B5ED1079DA" italics="true" pageId="0" pageNumber="161">S. phatoensis</emphasis>
+</taxonomicName>
+and reduced in 
+<taxonomicName id="F5D30EF012672F5EF5339D3EBD63812A" genus="S." lsidName="S. dunlopi" pageId="0" pageNumber="161" rank="species" species="dunlopi">
+<emphasis id="0E90AA1A6470611B5A03F43ABC2FD709" italics="true" pageId="0" pageNumber="161">S. dunlopi</emphasis>
+</taxonomicName>
+);
+</paragraph>
+<paragraph id="1B02810F72BBF4FA2A8C723F7C2F55CB" pageId="0" pageNumber="161">
+male chela slenderer than in 
+<taxonomicName id="D5A46C75EA30DAEB1CCAA4C2D284E7BD" genus="S." lsidName="S. phatoensis" pageId="0" pageNumber="161" rank="species" species="phatoensis">
+<emphasis id="0C2336721FFEBFDA09775611D79334C5" italics="true" pageId="0" pageNumber="161">S. phatoensis</emphasis>
+</taxonomicName>
+with length to width ratio 4.5-5.1 (3.7 in 
+<taxonomicName id="BC230457AA9A6C021A88A3AAE964375A" genus="S." lsidName="S. phatoensis" pageId="0" pageNumber="161" rank="species" species="phatoensis">
+<emphasis id="0999C66354E8C7A757A9CB66E0DEB2E5" italics="true" pageId="0" pageNumber="161">S. phatoensis</emphasis>
+</taxonomicName>
+);
+</paragraph>
+<paragraph id="092A3E1482BBD18CCEEB44A33D304432" pageId="0" pageNumber="161">
+chelal movable fingers with about 50 median granules (about 40 in 
+<taxonomicName id="55859C5BBBE6BA96AF5C5A07F1D387D1" genus="S." lsidName="S. phatoensis" pageId="0" pageNumber="161" rank="species" species="phatoensis">
+<emphasis id="6EB073A901937B53922FCBCA2724D637" italics="true" pageId="0" pageNumber="161">S. phatoensis</emphasis>
+</taxonomicName>
+and 35 in 
+<taxonomicName id="53EBF061AC73B32D954A5D9E4D9124F2" genus="S." lsidName="S. dunlopi" pageId="0" pageNumber="161" rank="species" species="dunlopi">
+<emphasis id="71A1382EB349B61EDDC9C1BFA246EA91" italics="true" pageId="0" pageNumber="161">S. dunlopi</emphasis>
+</taxonomicName>
+), 4-5 inner granules (5-7 in 
+<taxonomicName id="895E041D645874FEC867177F476DD4D6" genus="S." lsidName="S. phatoensis" pageId="0" pageNumber="161" rank="species" species="phatoensis">
+<emphasis id="8798BE5E77075834B989D8DBDDE2B7C3" italics="true" pageId="0" pageNumber="161">S. phatoensis</emphasis>
+</taxonomicName>
+and absent in 
+<taxonomicName id="FAF951B58ED6F7427DCD0B13EE6CE2C7" genus="S." lsidName="S. dunlopi" pageId="0" pageNumber="161" rank="species" species="dunlopi">
+<emphasis id="97F1EBF5EFFB6294DF607C4A4C8E6484" italics="true" pageId="0" pageNumber="161">S. dunlopi</emphasis>
+</taxonomicName>
+), 15 inner accessory granules (about 10 in 
+<taxonomicName id="F00CCF0579A98524D6B538DBB6CD603B" genus="S." lsidName="S. phatoensis" pageId="0" pageNumber="161" rank="species" species="phatoensis">
+<emphasis id="B637B7782EF22702D38D7541EC37661A" italics="true" pageId="0" pageNumber="161">S. phatoensis</emphasis>
+</taxonomicName>
+and 10-12 in 
+<taxonomicName id="76CA59697606D79DBE423CDCA930C248" genus="S." lsidName="S. dunlopi" pageId="0" pageNumber="161" rank="species" species="dunlopi">
+<emphasis id="CA974CC23D1DA8A262308E227B0D109C" italics="true" pageId="0" pageNumber="161">S. dunlopi</emphasis>
+</taxonomicName>
+) and 7-8 outer granules (absent in 
+<taxonomicName id="29FDCE84E2A524511858EA07CAB3C426" genus="S." lsidName="S. dunlopi" pageId="0" pageNumber="161" rank="species" species="dunlopi">
+<emphasis id="5B4E3E8A2FD651924DD912AAC55CCC28" italics="true" pageId="0" pageNumber="161">S. dunlopi</emphasis>
+</taxonomicName>
+);
+</paragraph>
+<paragraph id="F71E44F5455B7D84AF20AD1D8C766F1B" pageId="0" pageNumber="161">
+female telson less elongated with length to depth ratio 2.6 in female (2.8-3.0 in 
+<taxonomicName id="7FB4F6B0E97AFA8DC3569A522C5B1EDB" genus="S." lsidName="S. phatoensis" pageId="0" pageNumber="161" rank="species" species="phatoensis">
+<emphasis id="B7B8520F5EBBA166C16CE2A23E180EA1" italics="true" pageId="0" pageNumber="161">S. phatoensis</emphasis>
+</taxonomicName>
+and 3.1 in 
+<taxonomicName id="D3A1A19C42E778F5A604F787F0CCD91C" genus="S." lsidName="S. dunlopi" pageId="0" pageNumber="161" rank="species" species="dunlopi">
+<emphasis id="A90940A0A600FE5CDF55ADB59DE6249A" italics="true" pageId="0" pageNumber="161">S. dunlopi</emphasis>
+</taxonomicName>
+);
+</paragraph>
+<paragraph id="EAAB4F7395B151ED031FC9750F8A147B" pageId="0" pageNumber="161">
+chelal manus trichobothrium 
+<emphasis id="CFA2FD62BB27CF964DEF05DDA67AC08A" italics="true" pageId="0" pageNumber="161">Eb 3</emphasis>
+located in distal half of manus, between trichobothria 
+<emphasis id="4513A99FBBCB0DBF51A5D7C57C3B15BB" italics="true" pageId="0" pageNumber="161">Dt</emphasis>
+and 
+<emphasis id="77D643D082B67AB0C7C680B2634B0CA5" italics="true" pageId="0" pageNumber="161">Est</emphasis>
+(located in middle of manus, at same level or distal to 
+<emphasis id="96B75936DA92FCE19BDD3AA88F7B6EB7" italics="true" pageId="0" pageNumber="161">Dt</emphasis>
+in 
+<taxonomicName id="4151108332F2D289721C24E5F4E919B1" genus="S." lsidName="S. phatoensis" pageId="0" pageNumber="161" rank="species" species="phatoensis">
+<emphasis id="BDF99C43BF0B3D55EFCCDDC1FE60B91F" italics="true" pageId="0" pageNumber="161">S. phatoensis</emphasis>
+</taxonomicName>
+);
+</paragraph>
+<paragraph id="60CEC8355D18F6417AC540403AD59CFD" pageId="0" pageNumber="161">
+an allopatric geographic distribution (type localities of 
+<taxonomicName id="F77D73D6F690900F976A3DDE51946438" genus="S." lsidName="S. phatoensis" pageId="0" pageNumber="161" rank="species" species="phatoensis">
+<emphasis id="13DBA4C96693F46E11738ED0131501EF" italics="true" pageId="0" pageNumber="161">S. phatoensis</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="48DDD3BDEE520FE1D59466CAB8B1FC2B" genus="S." lsidName="S. dunlopi" pageId="0" pageNumber="161" rank="species" species="dunlopi">
+<emphasis id="20345D00EB9CBCAA2EB7B18152EE261A" italics="true" pageId="0" pageNumber="161">S. dunlopi</emphasis>
+</taxonomicName>
+about 350 km and 500 km to the south, respectively).
+</paragraph>
+<paragraph id="B1096C4A726399E7CEB935DCCB05B5E9" pageId="0" pageNumber="161">
+Another species, 
+<taxonomicName id="7A8597F807A435502BDF7FA9F62D5C48" baseAuthorityName="Pocock" baseAuthorityYear="1893" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops) binghamii" order="Scorpiones" pageId="0" pageNumber="161" rank="species" species="binghamii" subGenus="Euscorpiops">Scorpiops (Euscorpiops) binghamii</taxonomicName>
+Pocock, 1893, described from southern Myanmar, is geographically close to 
+<taxonomicName id="C0241670D5278FD44CDE068470DBA44D" genus="S." lsidName="S. krachan" pageId="0" pageNumber="161" rank="species" species="krachan">
+<emphasis id="CF61875A0B4D3E56CB8DD8C8A331D520" italics="true" pageId="0" pageNumber="161">S. krachan</emphasis>
+</taxonomicName>
+sp. nov. but can easily be distinguished from the new species, notably by the number of external trichobothria on patella (20-21), whereas 
+<taxonomicName id="3D163A65AB8A3E8B90D6EF7D9AE00343" genus="S." lsidName="S. krachan" pageId="0" pageNumber="161" rank="species" species="krachan">
+<emphasis id="1DE489F702CD2AED3509C071D0DB528E" italics="true" pageId="0" pageNumber="161">S. krachan</emphasis>
+</taxonomicName>
+sp. nov. has 15-16.
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection id="047969B12F2119A601738215691EA7F5" pageId="0" pageNumber="161" type="﻿distribution and ecological affinities of scorpiops species in thailand">
+<paragraph id="51E988C0FDCC6D7EBAF8A069FC847258" pageId="0" pageNumber="161">
+Distribution and ecological affinities of 
+<taxonomicName id="4918DB5C8E60BB57CA90A4763B8950CA" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="C003578EA3A79F6142786948558B5CAD" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+species in Thailand
+</paragraph>
+<paragraph id="58B5EC24A52E8CA24817159EB74A9353" pageId="0" pageNumber="161">
+The members of this genus can be found in altitudes ranging from 40 to 1800 m a.s.l. (
+<bibRefCitation id="F66F5DCF0B7146E6990DF7B5F1A90E73" author="Kovarik, F" journalOrPublisher="Acta Societatis Zoologicae Bohemicae" pageId="0" pageNumber="161" pagination="109 - 115" refId="B2" refString="Kovarik, F, 1993. Two new species of the genus Scorpiops (Arachnida: Scorpiones: Vaejovidae). Acta Societatis Zoologicae Bohemicae 57: 109 - 115" title="Two new species of the genus Scorpiops (Arachnida: Scorpiones: Vaejovidae)." volume="57" year="1993">
+<normalizedToken id="0F47A7ADD4150164F7CBF3AE007D7283" originalValue="Kovařík">Kovarik</normalizedToken>
+1993
+</bibRefCitation>
+, 
+<bibRefCitation id="E5893B8FD2A451B9F310B811C6A25526" author="Kovarik, F" journalOrPublisher="Acta Societatis Zoologicae Bohemoslovenicae" pageId="0" pageNumber="161" pagination="153 - 201" refId="B3" refString="Kovarik, F, 2000. Revision of the family Scorpiopidae (Scorpiones), with descriptions of six new species. Acta Societatis Zoologicae Bohemoslovenicae 64: 153 - 201" title="Revision of the family Scorpiopidae (Scorpiones), with descriptions of six new species." volume="64" year="2000">2000</bibRefCitation>
+, 
+<bibRefCitation id="9D07AF3F47300F5733A138DB31B87A28" DOI="https://doi.org/10.18590/euscorpius.2013.vol2013.iss157.1" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 9" refId="B4" refString="Kovarik, F, 2013. Alloscorpiops citadelle sp. n. from Thailand (Scorpiones: Euscorpiidae: Scorpiopinae). Euscorpius 157: 1 - 9, DOI: https://doi.org/10.18590/euscorpius.2013.vol2013.iss157.1" title="Alloscorpiops citadelle sp. n. from Thailand (Scorpiones: Euscorpiidae: Scorpiopinae)." url="https://doi.org/10.18590/euscorpius.2013.vol2013.iss157.1" volume="157" year="2013">2013</bibRefCitation>
+; 
+<bibRefCitation id="DD3190BE9D86E0A8596F55C1F5F1D54C" DOI="https://doi.org/10.18590/euscorpius.2013.vol2013.iss158.1" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 8" refId="B5" refString="Kovarik, F, Pliskova, J, Stahlavsky, F, 2013a. Euscorpiops neradi sp. n. from Thailand (Scorpiones: Euscorpiidae: Scorpiopinae). Euscorpius 158: 1 - 8, DOI: https://doi.org/10.18590/euscorpius.2013.vol2013.iss158.1" title="Euscorpiops neradi sp. n. from Thailand (Scorpiones: Euscorpiidae: Scorpiopinae)." url="https://doi.org/10.18590/euscorpius.2013.vol2013.iss158.1" volume="158" year="2013 a">
+<normalizedToken id="AE92755B7FB69C73930AE382703F1C0A" originalValue="Kovařík">Kovarik</normalizedToken>
+et al. 2013a
+</bibRefCitation>
+, 
+<bibRefCitation id="DA48951B4F532A01DD00897B25CC2327" DOI="https://doi.org/10.18590/euscorpius.2013.vol2013.iss160.2" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 12" refId="B6" refString="Kovarik, F, Soleglad, ME, Kosulic, O, 2013b. Alloscorpiops wongpromi sp. n. from Thailand and Laos (Scorpiones: Euscorpiidae: Scorpiopinae). Euscorpius 160: 1 - 12, DOI: https://doi.org/10.18590/euscorpius.2013.vol2013.iss160.2" title="Alloscorpiops wongpromi sp. n. from Thailand and Laos (Scorpiones: Euscorpiidae: Scorpiopinae)." url="https://doi.org/10.18590/euscorpius.2013.vol2013.iss160.2" volume="160" year="2013 b">2013b</bibRefCitation>
+, 
+<bibRefCitation id="9E4084011D28708E3467CAD814A1517E" DOI="https://doi.org/10.3161/00034541ANZ2015.65.1.009" author="Kovarik, F" journalOrPublisher="Annales Zoologici" pageId="0" pageNumber="161" pagination="109 - 122" refId="B7" refString="Kovarik, F, Kosulic, O, Stahlavsky, F, Pliskova, J, Dongkhamfu, W, Wongprom, P, 2015. Two new species of Euscorpiops Vachon, 1980 from Thailand and Myanmar (Scorpiones: Euscorpiidae: Scorpiopinae). Annales Zoologici 65 (1): 109 - 122, DOI: https://doi.org/10.3161/00034541ANZ2015.65.1.009" title="Two new species of Euscorpiops Vachon, 1980 from Thailand and Myanmar (Scorpiones: Euscorpiidae: Scorpiopinae)." url="https://doi.org/10.3161/00034541ANZ2015.65.1.009" volume="65" year="2015">2015</bibRefCitation>
+, 
+<bibRefCitation id="19B28CB2F521D3D30B64C5253816D75E" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 140" refId="B8" refString="Kovarik, F, Lowe, G, Stockmann, M, Stahlavsky, F, 2020. Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones). Euscorpius 325: 1 - 140" title="Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones)." volume="325" year="2020">2020</bibRefCitation>
+; 
+<bibRefCitation id="7069F311CD4577D5D178632CF2929D24" author="Lourenco, WR" journalOrPublisher="Revista Iberica de Aracnologia" pageId="0" pageNumber="161" pagination="51 - 54" refId="B10" refString="Lourenco, WR, 2019. A new species of Euscorpiops Vachon, 1980 from Doi Pha Hom Pok National Park in Thailand (Scorpiones: Scorpiopidae). Revista Iberica de Aracnologia 34: 51 - 54" title="A new species of Euscorpiops Vachon, 1980 from Doi Pha Hom Pok National Park in Thailand (Scorpiones: Scorpiopidae)." volume="34" year="2019">
+<normalizedToken id="2B823D5E61286E65C8CCAE767821C3A4" originalValue="Lourenço">Lourenco</normalizedToken>
+2019
+</bibRefCitation>
+). Habitats are mostly covered with various forest types from deciduous forest to lower mountain forest (
+<bibRefCitation id="6A4F148ED6A5ADC51FC69F34B9B705F7" author="Maxwell, JF" journalOrPublisher="Tropical Natural History" pageId="0" pageNumber="161" pagination="19 - 29" refId="B13" refString="Maxwell, JF, 2004. A synopsis of the vegetation of Thailand. Tropical Natural History 4 (2): 19 - 29" title="A synopsis of the vegetation of Thailand." volume="4" year="2004">Maxwell 2004</bibRefCitation>
+). 
+<taxonomicName id="93B4929388D8A1AE9439E30B45E268CF" authorityName="Nawanetiwong, Kosulic, Warrit, Lourenco &amp; Ythier" authorityYear="2024" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops krachan" order="Scorpiones" pageId="0" pageNumber="161" rank="species" species="krachan">
+<emphasis id="95A533FB4C7DCA4520C8AD9B8E6AA157" italics="true" pageId="0" pageNumber="161">Scorpiops krachan</emphasis>
+</taxonomicName>
+sp. nov. is the second species reported from Phetchaburi province; the other species is 
+<taxonomicName id="A70082DA091BBC78E56B7A3E197A0DE0" genus="S." lsidName="S. anthracinus" pageId="0" pageNumber="161" rank="species" species="anthracinus">
+<emphasis id="E2DD2DA98AAE0D8CA6BF79635852EC14" italics="true" pageId="0" pageNumber="161">S. anthracinus</emphasis>
+</taxonomicName>
+(
+<bibRefCitation id="37FB656A6BC7AEA5A87BA95996C2E9F7" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 140" refId="B8" refString="Kovarik, F, Lowe, G, Stockmann, M, Stahlavsky, F, 2020. Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones). Euscorpius 325: 1 - 140" title="Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones)." volume="325" year="2020">
+<normalizedToken id="D6CB40364B59C62CE60C5CFA67033059" originalValue="Kovařík">Kovarik</normalizedToken>
+et al. 2020
+</bibRefCitation>
+). 
+<taxonomicName id="F65541114C8B108D0616AC4C44904D90" authorityName="Nawanetiwong, Kosulic, Warrit, Lourenco &amp; Ythier" authorityYear="2024" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops krachan" order="Scorpiones" pageId="0" pageNumber="161" rank="species" species="krachan">
+<emphasis id="272C158839B82AF36D670B951C615FD2" italics="true" pageId="0" pageNumber="161">Scorpiops krachan</emphasis>
+</taxonomicName>
+sp. nov. inhabits the Tenasserim Mountain Range, which is covered with rainforest (wet forest including secondary and primary forests), similar to other 
+<taxonomicName id="02B69BB0FEA71470B2E20A670004F229" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="BAE59433D146E6B292553B32F31E0107" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+species found in the country.
+</paragraph>
+<paragraph id="351B52378EEAE25CED43D39FEDF2754C" pageId="0" pageNumber="161">
+The microhabitats of 
+<taxonomicName id="FA382B37B5B0EA559BE130ECEF09E28A" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="185F028CB7E9E0AF03A0B7B0A61E1130" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+species in Thailand include soil walls, dead logs, piled stones, and buffalo feces (
+<bibRefCitation id="2DB76A7EDB9A3394F6DCEE25578BFA50" author="Kovarik, F" journalOrPublisher="Acta Societatis Zoologicae Bohemicae" pageId="0" pageNumber="161" pagination="109 - 115" refId="B2" refString="Kovarik, F, 1993. Two new species of the genus Scorpiops (Arachnida: Scorpiones: Vaejovidae). Acta Societatis Zoologicae Bohemicae 57: 109 - 115" title="Two new species of the genus Scorpiops (Arachnida: Scorpiones: Vaejovidae)." volume="57" year="1993">
+<normalizedToken id="087A70A3400778504281303A3E7CE19D" originalValue="Kovařík">Kovarik</normalizedToken>
+1993
+</bibRefCitation>
+). These microhabitats can often be found near caves. 
+<taxonomicName id="23725CBB37E107DF40252E3DA0AFB053" authorityName="Nawanetiwong, Kosulic, Warrit, Lourenco &amp; Ythier" authorityYear="2024" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops krachan" order="Scorpiones" pageId="0" pageNumber="161" rank="species" species="krachan">
+<emphasis id="62CA53EACF145AE53C91FE4DE3944693" italics="true" pageId="0" pageNumber="161">Scorpiops krachan</emphasis>
+</taxonomicName>
+sp. nov. was collected underneath a rock in transitional habitat between secondary to primary forests (Fig. 
+<figureCitation id="28C12DD8C24716ECB7DE7C14DA612C3D" captionStart="Figure 5" captionStartId="F5" captionText="Figure 5. Natural habitat of Scorpiops (Euscorpiops) krachan sp. nov. in Kaeng Krachan National Park, Phetchaburi Province, Thailand." figureDoi="10.3897/zookeys.1193.113398.figure5" httpUri="https://binary.pensoft.net/fig/997433" pageId="0" pageNumber="161">5</figureCitation>
+). In the same habitat, several subadult specimens of 
+<taxonomicName id="B482BDF7A7B4D317EA864A4000CDDBC8" authorityName="Ehrenberg" authorityYear="1828" class="Arachnida" genus="Heterometrus" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Heterometrus" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="B02A412E2A1C2A3A85BC525B1A528A41" italics="true" pageId="0" pageNumber="161">Heterometrus</emphasis>
+</taxonomicName>
+scorpions, most likely belonging to 
+<taxonomicName id="990804251FEDF2F75E7E0851A5B88CAE" genus="H." lsidName="H. minotaurus" pageId="0" pageNumber="161" rank="species" species="minotaurus">
+<emphasis id="83BFB79960D6D99254398C042DEF053D" italics="true" pageId="0" pageNumber="161">H. minotaurus</emphasis>
+</taxonomicName>
+<normalizedToken id="2737E423E0C7B806D122C9E9AE64FB55" originalValue="Plíšková">Pliskova</normalizedToken>
+, 
+<normalizedToken id="26D78B7A9D2A12711A5D5C2AA7DA4200" originalValue="Kovařík">Kovarik</normalizedToken>
+, 
+<normalizedToken id="79277857FF674133181D2D597B3BD3AB" originalValue="Košulič">Kosulic</normalizedToken>
+&amp; 
+<normalizedToken id="181CCC519EE852AD9BEDC693BEA367B5" originalValue="Šťáhlavský">Stahlavsky</normalizedToken>
+, 2016, were found.
+</paragraph>
+<caption id="3A4C8FA8D48CF9E83DDFAC9B5839D704" doi="10.3897/zookeys.1193.113398.figure5" httpUri="https://binary.pensoft.net/fig/997433" pageId="0" pageNumber="161" start="Figure 5" startId="F5">
+<paragraph id="D88CF6B700A9C37569E7D23D8317D4E1" pageId="0" pageNumber="161">
+<emphasis id="9AB674F0E5D64295B65C46F9216D7F39" bold="true" pageId="0" pageNumber="161">Figure 5.</emphasis>
+Natural habitat of 
+<taxonomicName id="7ACB9197F6DB4013C885C7F3A30442D9" authorityName="Nawanetiwong, Kosulic, Warrit, Lourenco &amp; Ythier" authorityYear="2024" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops) krachan" order="Scorpiones" pageId="0" pageNumber="161" rank="species" species="krachan" subGenus="Euscorpiops">Scorpiops (Euscorpiops) krachan</taxonomicName>
+sp. nov. in Kaeng Krachan National Park, Phetchaburi Province, Thailand.
+</paragraph>
+</caption>
+<paragraph id="0EE2CA0D9C2B4D2755EF8ABB7D2F0BB7" pageId="0" pageNumber="161">
+<taxonomicName id="FC0D724FA2828EF8E04FDADABB74B45D" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="64FD08C4CC2541171A86ADAB490F5ADB" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+microhabitats suggest that these predators have an ambush or sit-and-wait type of foraging (
+<bibRefCitation id="36FAC7B06B7C4BAD8E43ECEBCA009893" author="McCormick, SJ" editor="Polis, GA" journalOrPublisher="Stanford University Press, Standford" pageId="0" pageNumber="161" pagination="145 - 157" refId="B14" refString="McCormick, SJ, Polis, GA, 1990. Prey, predators, and parasites. In: Polis, GA, Ed., The Biology of Scorpions. Stanford University Press, Standford: 145 - 157" title="Prey, predators, and parasites." volumeTitle="The Biology of Scorpions." year="1990">McCormick and Polis 1990</bibRefCitation>
+). It is predicted that scorpions in this genus have limited distribution ranges with high degree of endemism, as it has been reported for 
+<taxonomicName id="D7308DC737BA229AA4BA34C06ED61CE5" genus="S." lsidName="S. dunlopi" pageId="0" pageNumber="161" rank="species" species="dunlopi">
+<emphasis id="70C734F83B53A48D35F4433C5CA92909" italics="true" pageId="0" pageNumber="161">S. dunlopi</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="60677D051487562A1522B4B26BE50655" genus="S." lsidName="S. phatoensis" pageId="0" pageNumber="161" rank="species" species="phatoensis">
+<emphasis id="06945D27375052E0CDD05120003830FE" italics="true" pageId="0" pageNumber="161">S. phatoensis</emphasis>
+</taxonomicName>
+(
+<bibRefCitation id="4D6D9149BB4687C610C0F7920BF9C1A2" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 140" refId="B8" refString="Kovarik, F, Lowe, G, Stockmann, M, Stahlavsky, F, 2020. Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones). Euscorpius 325: 1 - 140" title="Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones)." volume="325" year="2020">
+<normalizedToken id="44E9ECE3EE8F5772DFC757218CD86499" originalValue="Kovařík">Kovarik</normalizedToken>
+et al. 2020
+</bibRefCitation>
+), and 
+<taxonomicName id="7746A211AC9E9B76A759959FF7BED0A2" genus="S." lsidName="S. (Alloscorpiops) viktoriae" pageId="0" pageNumber="161" rank="species" species="viktoriae" subGenus="Alloscorpiops">S. (Alloscorpiops) viktoriae</taxonomicName>
+(
+<bibRefCitation id="E021A5214E6A5EA73ABECB667AD888B2" DOI="https://doi.org/10.3897/zookeys.775.24248" author="Lourenco, WR" journalOrPublisher="ZooKeys" pageId="0" pageNumber="161" pagination="47 - 58" refId="B11" refString="Lourenco, WR, Kosulic, O, 2018. A new remarkable species of Alloscorpiops Vachon, 1980 from Myanmar (Burma) (Scorpiones, Scorpiopidae). ZooKeys 775: 47 - 58, DOI: https://doi.org/10.3897/zookeys.775.24248" title="A new remarkable species of Alloscorpiops Vachon, 1980 from Myanmar (Burma) (Scorpiones, Scorpiopidae)." url="https://doi.org/10.3897/zookeys.775.24248" volume="775" year="2018">
+<normalizedToken id="D3A4BF0952BC5DE2A266324106CD0835" originalValue="Lourenço">Lourenco</normalizedToken>
+and 
+<normalizedToken id="5F667CB4A93805F4B82DCFE2640C3451" originalValue="Košulič">Kosulic</normalizedToken>
+2018
+</bibRefCitation>
+).
+</paragraph>
+<paragraph id="1CDFE323DD481E72FA514F0A4CA780FC" pageId="0" pageNumber="161">
+Until now, all 
+<taxonomicName id="C0C99956CE2029D0BEEAB6ACC390A8C6" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="219821A309A7EAD379D91D1CBDE5A8E0" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+species reported in Thailand were believed to be endemic to their habitats (
+<bibRefCitation id="3BC8DF3179B90CD85006320387513BAD" author="Kovarik, F" journalOrPublisher="Acta Societatis Zoologicae Bohemicae" pageId="0" pageNumber="161" pagination="109 - 115" refId="B2" refString="Kovarik, F, 1993. Two new species of the genus Scorpiops (Arachnida: Scorpiones: Vaejovidae). Acta Societatis Zoologicae Bohemicae 57: 109 - 115" title="Two new species of the genus Scorpiops (Arachnida: Scorpiones: Vaejovidae)." volume="57" year="1993">
+<normalizedToken id="8F2B2D36B3AE608F49EF645148BB2E53" originalValue="Kovařík">Kovarik</normalizedToken>
+1993
+</bibRefCitation>
+, 
+<bibRefCitation id="6D2879D343915C6DCCC779173A777FE4" author="Kovarik, F" journalOrPublisher="Acta Societatis Zoologicae Bohemoslovenicae" pageId="0" pageNumber="161" pagination="153 - 201" refId="B3" refString="Kovarik, F, 2000. Revision of the family Scorpiopidae (Scorpiones), with descriptions of six new species. Acta Societatis Zoologicae Bohemoslovenicae 64: 153 - 201" title="Revision of the family Scorpiopidae (Scorpiones), with descriptions of six new species." volume="64" year="2000">2000</bibRefCitation>
+, 
+<bibRefCitation id="8913FCDEC7FC1BE36AA446FAF30CD3F9" DOI="https://doi.org/10.18590/euscorpius.2013.vol2013.iss157.1" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 9" refId="B4" refString="Kovarik, F, 2013. Alloscorpiops citadelle sp. n. from Thailand (Scorpiones: Euscorpiidae: Scorpiopinae). Euscorpius 157: 1 - 9, DOI: https://doi.org/10.18590/euscorpius.2013.vol2013.iss157.1" title="Alloscorpiops citadelle sp. n. from Thailand (Scorpiones: Euscorpiidae: Scorpiopinae)." url="https://doi.org/10.18590/euscorpius.2013.vol2013.iss157.1" volume="157" year="2013">2013</bibRefCitation>
+; 
+<bibRefCitation id="480DAAB567810543D01C2728F741EE38" DOI="https://doi.org/10.18590/euscorpius.2013.vol2013.iss158.1" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 8" refId="B5" refString="Kovarik, F, Pliskova, J, Stahlavsky, F, 2013a. Euscorpiops neradi sp. n. from Thailand (Scorpiones: Euscorpiidae: Scorpiopinae). Euscorpius 158: 1 - 8, DOI: https://doi.org/10.18590/euscorpius.2013.vol2013.iss158.1" title="Euscorpiops neradi sp. n. from Thailand (Scorpiones: Euscorpiidae: Scorpiopinae)." url="https://doi.org/10.18590/euscorpius.2013.vol2013.iss158.1" volume="158" year="2013 a">
+<normalizedToken id="A7CCE94EA3561F131333F5F28A14C66A" originalValue="Kovařík">Kovarik</normalizedToken>
+et al. 2013a
+</bibRefCitation>
+, 
+<bibRefCitation id="D27354C622DBBEECCD876E5AD86096E4" DOI="https://doi.org/10.18590/euscorpius.2013.vol2013.iss160.2" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 12" refId="B6" refString="Kovarik, F, Soleglad, ME, Kosulic, O, 2013b. Alloscorpiops wongpromi sp. n. from Thailand and Laos (Scorpiones: Euscorpiidae: Scorpiopinae). Euscorpius 160: 1 - 12, DOI: https://doi.org/10.18590/euscorpius.2013.vol2013.iss160.2" title="Alloscorpiops wongpromi sp. n. from Thailand and Laos (Scorpiones: Euscorpiidae: Scorpiopinae)." url="https://doi.org/10.18590/euscorpius.2013.vol2013.iss160.2" volume="160" year="2013 b">2013b</bibRefCitation>
+, 
+<bibRefCitation id="390A67D49A1BF4E638F96A13F828B870" DOI="https://doi.org/10.3161/00034541ANZ2015.65.1.009" author="Kovarik, F" journalOrPublisher="Annales Zoologici" pageId="0" pageNumber="161" pagination="109 - 122" refId="B7" refString="Kovarik, F, Kosulic, O, Stahlavsky, F, Pliskova, J, Dongkhamfu, W, Wongprom, P, 2015. Two new species of Euscorpiops Vachon, 1980 from Thailand and Myanmar (Scorpiones: Euscorpiidae: Scorpiopinae). Annales Zoologici 65 (1): 109 - 122, DOI: https://doi.org/10.3161/00034541ANZ2015.65.1.009" title="Two new species of Euscorpiops Vachon, 1980 from Thailand and Myanmar (Scorpiones: Euscorpiidae: Scorpiopinae)." url="https://doi.org/10.3161/00034541ANZ2015.65.1.009" volume="65" year="2015">2015</bibRefCitation>
+, 
+<bibRefCitation id="EBDD21A6FE48F496AE94C26F54CC36B5" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 140" refId="B8" refString="Kovarik, F, Lowe, G, Stockmann, M, Stahlavsky, F, 2020. Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones). Euscorpius 325: 1 - 140" title="Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones)." volume="325" year="2020">2020</bibRefCitation>
+; 
+<bibRefCitation id="8DCE92962651D96FC8DD0F44D678AB71" author="Lourenco, WR" journalOrPublisher="Revista Iberica de Aracnologia" pageId="0" pageNumber="161" pagination="51 - 54" refId="B10" refString="Lourenco, WR, 2019. A new species of Euscorpiops Vachon, 1980 from Doi Pha Hom Pok National Park in Thailand (Scorpiones: Scorpiopidae). Revista Iberica de Aracnologia 34: 51 - 54" title="A new species of Euscorpiops Vachon, 1980 from Doi Pha Hom Pok National Park in Thailand (Scorpiones: Scorpiopidae)." volume="34" year="2019">
+<normalizedToken id="03D7DA915ADF50DAD1B8D3780476E79B" originalValue="Lourenço">Lourenco</normalizedToken>
+2019
+</bibRefCitation>
+). They can be found mainly in mountain areas, particularly in places with numerous rock crevices. Despite several studies on 
+<taxonomicName id="60DD923A265969A96EB3C1A84289AD3E" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="1F8914CC8E50D27584F5DD1F137EF372" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+in Thailand, additional areas of the country are still unexplored and needed investigation. We suggest that future studies focus on cavernous mountainous habitats.
+</paragraph>
+</subSection>
+<subSection id="3F4CC1C7FAE6DFBA1F01445242023FE6" pageId="0" pageNumber="161" type="acknowledgements">
+<paragraph id="D21342FDAC9E673C4AE0349C92632AA7" pageId="0" pageNumber="161">Acknowledgements</paragraph>
+<paragraph id="FD847AB132FCC1B04750E116C4FFDB83" pageId="0" pageNumber="161">We are immensely grateful to Chaowalit Songsangchote for his invaluable companionship during numerous expeditions in Thailand. Furthermore, we are indebted to the 90th Anniversary of Chulalongkorn University Scholarship (no. GCUGR1125631074M) for the financial supporting of our research.</paragraph>
+</subSection>
+<subSection id="BCD2E8AF64859DA06106AE5FFF0DA025" pageId="0" pageNumber="161" type="﻿additional information">
+<paragraph id="840E512E556714D735DFF012131C0C52" pageId="0" pageNumber="161">Additional information</paragraph>
+<paragraph id="7567B7E9637BB924AF59410011407009" pageId="0" pageNumber="161">Conflict of interest</paragraph>
+<paragraph id="9D5757473CDD58E10E979D33D16381DE" pageId="0" pageNumber="161">The authors have declared that no competing interests exist.</paragraph>
+<paragraph id="C2E89DD5BEAF9785F82D629F6B468597" pageId="0" pageNumber="161">Ethical statement</paragraph>
+<paragraph id="0D877B96F7BDE7F1264550ABA2257C3B" pageId="0" pageNumber="161">No ethical statement was reported.</paragraph>
+<paragraph id="BE1D30039107CF47E7FFBA04641C9814" pageId="0" pageNumber="161">Funding</paragraph>
+<paragraph id="7D5158B85C779864DD115F579FA8445A" pageId="0" pageNumber="161">This work was supported by Chulalongkorn University Scholarship (no. GCUGR1125631074M).</paragraph>
+<paragraph id="4D353818D03CC95A6CF4D4E5DBF68D81" pageId="0" pageNumber="161">Author contributions</paragraph>
+<paragraph id="00C90A7BC396BD845146E81D32CA9C6C" pageId="0" pageNumber="161">Conceptualization: OK, WL, EY. Data curation: WN, NW, WL. Formal analysis: EY, WL, WN. Funding acquisition: NW, OK. Investigation: OK, WN, WL, EY. Methodology: WL, EY, WN. Visualization: WL, EY, WN. Writing - original draft: EY, WL, WN, Writing - review and editing: WN, EY, NW.</paragraph>
+<paragraph id="3800C7ABD811C00B2B18359B853543ED" pageId="0" pageNumber="161">Author ORCIDs</paragraph>
+<paragraph id="4345DDB5986EE3FE8351034106795561" pageId="0" pageNumber="161">
+<normalizedToken id="AE375536D9DE0DE3C0637040A86A8771" originalValue="Ondřej">Ondrej</normalizedToken>
+<normalizedToken id="48C682A0AB3876E867CBF7BF6E4E494B" originalValue="Košulič">Kosulic</normalizedToken>
+https://orcid.org/0000-0003-2199-1694
+</paragraph>
+<paragraph id="FDAB49617CBBA049C6687D4F82AF8E56" pageId="0" pageNumber="161">Natapot Warrit https://orcid.org/0000-0002-6338-1782</paragraph>
+<paragraph id="A137EFD6B16CE737C40FA8A4191E7671" pageId="0" pageNumber="161">
+Wilson R. 
+<normalizedToken id="9C64D2161E5E6490470C5C277274EE80" originalValue="Lourenço">Lourenco</normalizedToken>
+https://orcid.org/0000-0002-2386-363X
+</paragraph>
+<paragraph id="D5024434B55B0A43FB9DB7977C687221" pageId="0" pageNumber="161">Eric Ythier https://orcid.org/0000-0002-3194-5184</paragraph>
+<paragraph id="B913132FA10F3C6D8652F2052CDDA3BF" pageId="0" pageNumber="161">Data availability</paragraph>
+<paragraph id="8037C5F42FAFEE52C0B60C8F8BACF22A" pageId="0" pageNumber="161">All of the data that support the findings of this study are available in the main text.</paragraph>
+</subSection>
+<subSection id="3C368CE5708090B3ECB89E2617C4B110" pageId="0" pageNumber="161" type="reference_group">
+<paragraph id="DD29A9F45DD78341E6505E579F8CF45D" pageId="0" pageNumber="161">References</paragraph>
+<paragraph id="08D381A374D216BEACBEF9F5B4D98D93" pageId="0" pageNumber="161">
+<bibRef id="5B3730F9CF4C92E2F2B997193ABB0EF1" author="Hjelle, JT" editor="Polis, GA" journalOrPublisher="Stanford University Press, Stanford" pageId="0" pageNumber="161" pagination="9 - 63" refId="B1" title="Anatomy and morphology." volumeTitle="The Biology of Scorpions." year="1990">
+<author id="D5E025F52FE221832017949B770CF5C1" pageId="0" pageNumber="161">Hjelle, JT</author>
+, 
+<year id="BF889F4AE5EE59F72FCCAC6EABD84A29" pageId="0" pageNumber="161">1990</year>
+. 
+<title id="FA0C07626DDDE8AE9D49638ADF10984D" pageId="0" pageNumber="161">Anatomy and morphology.</title>
+In: 
+<editor id="E0EBD607383F787424909D4A211623B5" pageId="0" pageNumber="161">Polis, GA</editor>
+, Ed., 
+<volumeTitle id="16B6032E106E93E9708F3B7755169B2C" pageId="0" pageNumber="161">The Biology of Scorpions.</volumeTitle>
+<journalOrPublisher id="442A1CA831BFAF0EF398EF4F3846609F" pageId="0" pageNumber="161">Stanford University Press, Stanford</journalOrPublisher>
+: 
+<pagination id="AFE7BFDB3886E9FB0DFDC34E276AADAA" pageId="0" pageNumber="161">9 - 63</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="C1EA8FB0C26B6725572E7096EC4C7AD1" pageId="0" pageNumber="161">
+<bibRef id="FA52BE58BFD340B855E64617AEF8149F" author="Kovarik, F" journalOrPublisher="Acta Societatis Zoologicae Bohemicae" pageId="0" pageNumber="161" pagination="109 - 115" refId="B2" title="Two new species of the genus Scorpiops (Arachnida: Scorpiones: Vaejovidae)." volume="57" year="1993">
+<author id="9F0AE99E2E6241FD343842F500F1B72A" pageId="0" pageNumber="161">
+<normalizedToken id="AC1CCC90893DF885D7AC3FB215E2D9D3" originalValue="Kovařík">Kovarik</normalizedToken>
+, F
+</author>
+, 
+<year id="685A57E532D48AC6048D08CADAB05DAB" pageId="0" pageNumber="161">1993</year>
+. 
+<title id="C08D9B064EAD2C50FCEC75AC4E1E312D" pageId="0" pageNumber="161">
+Two new species of the genus 
+<taxonomicName id="E3FF66E6D42AB32B5C3FB28F8B78693D" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="BF183DABBC91A033A6130926A2D7A68C" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="0568F82A5D9E9729E31CC3A47D632274" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" rank="class">Arachnida</taxonomicName>
+: 
+<taxonomicName id="5BB5256971E7DAFFB062F62BA4659D0A" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" rank="order">Scorpiones</taxonomicName>
+: 
+<taxonomicName id="94B8D7D2AF56CA574C9CA029CFEE7A52" authorityName="Thorell" authorityYear="1876" class="Arachnida" family="Vaejovidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Vaejovidae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="3999CA4FC128B603328B4D5A3588D745" pageId="0" pageNumber="161">Acta Societatis Zoologicae Bohemicae</journalOrPublisher>
+<volume id="6A6A790BA6E45A4C1226D0B9358A610F" pageId="0" pageNumber="161">57</volume>
+: 
+<pagination id="64D895D8EC2A6289BD6558A1ED676AAC" pageId="0" pageNumber="161">109 - 115</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="73CD4BC9C05B166E3D87FD17E1013691" pageId="0" pageNumber="161">
+<bibRef id="32CDC003437B65F875E6F6E3F55DB3D3" author="Kovarik, F" journalOrPublisher="Acta Societatis Zoologicae Bohemoslovenicae" pageId="0" pageNumber="161" pagination="153 - 201" refId="B3" title="Revision of the family Scorpiopidae (Scorpiones), with descriptions of six new species." volume="64" year="2000">
+<author id="0D340A0FF4A5080D15B385FAD34F3631" pageId="0" pageNumber="161">
+<normalizedToken id="E964F78CCF4A0493379BDB39A21C81F3" originalValue="Kovařík">Kovarik</normalizedToken>
+, F
+</author>
+, 
+<year id="95AFC0BED675F219F71DF85A1B3586DA" pageId="0" pageNumber="161">2000</year>
+. 
+<title id="6255F41B78315D69AD70686B82B1F21E" pageId="0" pageNumber="161">
+Revision of the family 
+<taxonomicName id="761C344268B5C7F3E3FBC5636F6E838D" authorityName="Kraepelin" authorityYear="1905" class="Arachnida" family="Scorpiopidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Scorpiopidae</taxonomicName>
+(
+<taxonomicName id="4926AE3C8552519FA6AD5BB2215D43E1" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" rank="order">Scorpiones</taxonomicName>
+), with descriptions of six new species.
+</title>
+<journalOrPublisher id="84E8E323FE2B1F75F2B85102E5B34EF4" pageId="0" pageNumber="161">Acta Societatis Zoologicae Bohemoslovenicae</journalOrPublisher>
+<volume id="B6884E8281D0D1553AE2735C194C7B2A" pageId="0" pageNumber="161">64</volume>
+: 
+<pagination id="9C981CCA2864458B42D1203E48641DAE" pageId="0" pageNumber="161">153 - 201</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="9B2B5FF164CD475F92CC3266D4692979" pageId="0" pageNumber="161">
+<bibRef id="6D212F2066FD5687CB8746128AF5BDEF" DOI="https://doi.org/10.18590/euscorpius.2013.vol2013.iss157.1" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 9" refId="B4" title="Alloscorpiops citadelle sp. n. from Thailand (Scorpiones: Euscorpiidae: Scorpiopinae)." url="https://doi.org/10.18590/euscorpius.2013.vol2013.iss157.1" volume="157" year="2013">
+<author id="BA3C7C18372B4D310F42601DC6A9D95A" pageId="0" pageNumber="161">
+<normalizedToken id="339D2A42F009E52654B4F0039885ABF9" originalValue="Kovařík">Kovarik</normalizedToken>
+, F
+</author>
+, 
+<year id="43436227D496F8C59BA6F1FBF02FE150" pageId="0" pageNumber="161">2013</year>
+. 
+<title id="33A06E1DA1A4591968F8E8C9434F143B" pageId="0" pageNumber="161">
+<taxonomicName id="5F40675D2841A327DB7919DEC3331311" authorityName="Kovařík" authorityYear="2013" class="Arachnida" genus="Alloscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Alloscorpiops citadelle" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="species" species="citadelle">
+<emphasis id="E43206201D5252D3E36250C296326482" italics="true" pageId="0" pageNumber="161">Alloscorpiops citadelle</emphasis>
+</taxonomicName>
+sp. n. from Thailand (
+<taxonomicName id="C2F61385FC9BDFBE03DF25C2AEFAF48A" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Alloscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="order">Scorpiones</taxonomicName>
+: 
+<taxonomicName id="4A63AEF821F8FB99B7470EE76EE9B04D" authorityName="Laurie" authorityYear="1896" class="Arachnida" family="Euscorpiidae" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Euscorpiidae</taxonomicName>
+: 
+<taxonomicName id="62AABF2FD4D8AD82454827EF32D8D476" lsidName="" pageId="0" pageNumber="161" rank="subFamily" subFamily="Scorpiopinae">Scorpiopinae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="3ACCAF34183596AE9369C67C26828D75" pageId="0" pageNumber="161">Euscorpius</journalOrPublisher>
+<volume id="448132201848F3BF2CCB781A216BE95A" pageId="0" pageNumber="161">157</volume>
+: 
+<pagination id="5ADD798FC6D7E54879AB2AFFD3AD9B02" pageId="0" pageNumber="161">1 - 9</pagination>
+, DOI: 
+<DOI id="3290964AF8657C7D48C9B3C8FE3D2729" pageId="0" pageNumber="161">https://doi.org/10.18590/euscorpius.2013.vol2013.iss157.1</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="3A3DAFE09A33503A551089637CF98F7F" pageId="0" pageNumber="161">
+<bibRef id="2484DAB8AEB4281293410701A89DE965" DOI="https://doi.org/10.18590/euscorpius.2013.vol2013.iss158.1" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 8" refId="B5" title="Euscorpiops neradi sp. n. from Thailand (Scorpiones: Euscorpiidae: Scorpiopinae)." url="https://doi.org/10.18590/euscorpius.2013.vol2013.iss158.1" volume="158" year="2013 a">
+<author id="2063D4A6E976D24388E8D3290F16EFEF" pageId="0" pageNumber="161">
+<normalizedToken id="A15017B76DE6FDBCCD3BE5F98850AC2E" originalValue="Kovařík">Kovarik</normalizedToken>
+, F
+</author>
+, 
+<author id="93E051F44CCA468D8D996C73867A7ADD" pageId="0" pageNumber="161">
+<normalizedToken id="ADC6D78CF4647F37D93772A1000FB882" originalValue="Plíšková">Pliskova</normalizedToken>
+, J
+</author>
+, 
+<author id="F919FC4071A2A16C27DE8801095D8186" pageId="0" pageNumber="161">
+<normalizedToken id="4A09E671C2CF810D78BB8891F2598D78" originalValue="Šťáhlavský">Stahlavsky</normalizedToken>
+, F
+</author>
+, 
+<year id="924563A8F06BD42BCF51C0BB3D5275F9" pageId="0" pageNumber="161">2013a</year>
+. 
+<title id="054AEA1AB7E61FC63DCA11CDFECE51C1" pageId="0" pageNumber="161">
+<taxonomicName id="91501F1BD706C2857348711D906D4622" authorityName="Kovařík, Plíšková &amp; Šťáhlavský" authorityYear="2013" class="Arachnida" genus="Euscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Euscorpiops neradi" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="species" species="neradi">
+<emphasis id="93DA1FCBFD4591A4219BBA0ACFBAA309" italics="true" pageId="0" pageNumber="161">Euscorpiops neradi</emphasis>
+</taxonomicName>
+sp. n. from Thailand (
+<taxonomicName id="8372A2B6FBE35E05F77213D1A2AC46FB" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Euscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="order">Scorpiones</taxonomicName>
+: 
+<taxonomicName id="9665B156E33F010F1BC4CC8C2462E7A4" authorityName="Laurie" authorityYear="1896" class="Arachnida" family="Euscorpiidae" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Euscorpiidae</taxonomicName>
+: 
+<taxonomicName id="7A5B175CBCFEAB9B0E38C3C0155FE9ED" lsidName="" pageId="0" pageNumber="161" rank="subFamily" subFamily="Scorpiopinae">Scorpiopinae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="BDF74E7596F339438C70E04CAA46DDAC" pageId="0" pageNumber="161">Euscorpius</journalOrPublisher>
+<volume id="35CF463AE25A030EA43AADE002D58F2A" pageId="0" pageNumber="161">158</volume>
+: 
+<pagination id="263B786C26C5404DC1D1C569B0E77CFC" pageId="0" pageNumber="161">1 - 8</pagination>
+, DOI: 
+<DOI id="AA69D67CC4651A5575EDAD444CCA9681" pageId="0" pageNumber="161">https://doi.org/10.18590/euscorpius.2013.vol2013.iss158.1</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="5411653DFA2684C253EDFFFF10034611" pageId="0" pageNumber="161">
+<bibRef id="4B16A96511831C57571E1EDBECBDFD15" DOI="https://doi.org/10.18590/euscorpius.2013.vol2013.iss160.2" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 12" refId="B6" title="Alloscorpiops wongpromi sp. n. from Thailand and Laos (Scorpiones: Euscorpiidae: Scorpiopinae)." url="https://doi.org/10.18590/euscorpius.2013.vol2013.iss160.2" volume="160" year="2013 b">
+<author id="1AD98FE769B6A35EAC3E61E20FFF7624" pageId="0" pageNumber="161">
+<normalizedToken id="7C676EB3070ABFC9D365DA44AF0B437B" originalValue="Kovařík">Kovarik</normalizedToken>
+, F
+</author>
+, 
+<author id="D267145417D42FE16594A2611A726D1C" pageId="0" pageNumber="161">Soleglad, ME</author>
+, 
+<author id="D0F326E53F82914E5819F0086D74D26F" pageId="0" pageNumber="161">
+<normalizedToken id="ADF5A8408231846C2DB5EE75652537E3" originalValue="Košulič">Kosulic</normalizedToken>
+, O
+</author>
+, 
+<year id="944D3ADE3E57CC70E09E5BFD04B22C23" pageId="0" pageNumber="161">2013b</year>
+. 
+<title id="2356756B4228CDC597EE08B376A7EC3C" pageId="0" pageNumber="161">
+<taxonomicName id="3527424515A7626776C8A68DB4E8CD13" authorityName="Kovařík, Soleglad &amp; Košulič" authorityYear="2013" class="Arachnida" genus="Alloscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Alloscorpiops wongpromi" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="species" species="wongpromi">
+<emphasis id="3A88AC37E8BC9B950D4A1840E094018B" italics="true" pageId="0" pageNumber="161">Alloscorpiops wongpromi</emphasis>
+</taxonomicName>
+sp. n. from Thailand and Laos (
+<taxonomicName id="177A355CBA800CB65861A65B1C8DA817" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Alloscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="order">Scorpiones</taxonomicName>
+: 
+<taxonomicName id="1C279F755757C112EC9D65E6135F7592" authorityName="Laurie" authorityYear="1896" class="Arachnida" family="Euscorpiidae" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Euscorpiidae</taxonomicName>
+: 
+<taxonomicName id="C69ADA440EA909CC40F86CB1EF96721F" lsidName="" pageId="0" pageNumber="161" rank="subFamily" subFamily="Scorpiopinae">Scorpiopinae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="3D9E76BBD74140D3A0C1E17767C00CBD" pageId="0" pageNumber="161">Euscorpius</journalOrPublisher>
+<volume id="A64FBA95B5069F7BDE0B4E3D178A64AE" pageId="0" pageNumber="161">160</volume>
+: 
+<pagination id="B664BD492FA191408D91F6F493A5FE4D" pageId="0" pageNumber="161">1 - 12</pagination>
+, DOI: 
+<DOI id="0F66502A2CBA7A3E02E2A0C99E6DE875" pageId="0" pageNumber="161">https://doi.org/10.18590/euscorpius.2013.vol2013.iss160.2</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="4994EDB231D8AF0929EDED1AAF479F11" pageId="0" pageNumber="161">
+<bibRef id="91FDF0BE1844372858E67A70B13F2EF9" DOI="https://doi.org/10.3161/00034541ANZ2015.65.1.009" author="Kovarik, F" journalOrPublisher="Annales Zoologici" pageId="0" pageNumber="161" pagination="109 - 122" refId="B7" title="Two new species of Euscorpiops Vachon, 1980 from Thailand and Myanmar (Scorpiones: Euscorpiidae: Scorpiopinae)." url="https://doi.org/10.3161/00034541ANZ2015.65.1.009" volume="65" year="2015">
+<author id="6FE66A2084790EF6BF9EFCAEE951EDD2" pageId="0" pageNumber="161">
+<normalizedToken id="81C7C714870A518518FB9F6EFB4E5A0C" originalValue="Kovařík">Kovarik</normalizedToken>
+, F
+</author>
+, 
+<author id="2FDCD71271D9977727E9EDA35F388437" pageId="0" pageNumber="161">
+<normalizedToken id="15C43DFAA09CF4278B00E1FBEF6C0256" originalValue="Košulič">Kosulic</normalizedToken>
+, O
+</author>
+, 
+<author id="0F3A0262B9B85BFEDAD6B266DDDFD589" pageId="0" pageNumber="161">
+<normalizedToken id="D94D1301F55180025AAEDBDBD7EFB5E9" originalValue="Šťáhlavský">Stahlavsky</normalizedToken>
+, F
+</author>
+, 
+<author id="26FF094F9AF7B6CB66D4752962E28641" pageId="0" pageNumber="161">
+<normalizedToken id="BA35A21EC9818F4F3756A4EB13B7DF9C" originalValue="Plíšková">Pliskova</normalizedToken>
+, J
+</author>
+, 
+<author id="4135D468EDAA26E5B3177E6E9EB47EA4" pageId="0" pageNumber="161">Dongkhamfu, W</author>
+, 
+<author id="385653FCDC9D5ADB44C88BC1F958CD24" pageId="0" pageNumber="161">Wongprom, P</author>
+, 
+<year id="3C6276E4B4A70D3DDADC7D6C69C8B8DF" pageId="0" pageNumber="161">2015</year>
+. 
+<title id="5D8E21A1981DD0F28D92B7C0506DA9F2" pageId="0" pageNumber="161">
+Two new species of 
+<taxonomicName id="B6D3C41C999876514257EF980CBCE9D1" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Euscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Euscorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="08D96333AAD6D4B26F09BFF06F4ACAAF" italics="true" pageId="0" pageNumber="161">Euscorpiops</emphasis>
+</taxonomicName>
+Vachon, 1980 from Thailand and Myanmar (
+<taxonomicName id="B99B04B23D1A4855FF8A7C62A88FCA29" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Euscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="order">Scorpiones</taxonomicName>
+: 
+<taxonomicName id="E97C0FCB575F19790924BF49ACBB8ADF" authorityName="Laurie" authorityYear="1896" class="Arachnida" family="Euscorpiidae" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Euscorpiidae</taxonomicName>
+: 
+<taxonomicName id="A3FA116A1337482D16217EFC044E4BA8" lsidName="" pageId="0" pageNumber="161" rank="subFamily" subFamily="Scorpiopinae">Scorpiopinae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="C85E1754348F147E3442A206EC332172" pageId="0" pageNumber="161">Annales Zoologici</journalOrPublisher>
+<volume id="280F6AE0B753A81ADB018F8CA1C34ABD" pageId="0" pageNumber="161">65</volume>
+(
+<issue id="44970DEB7224F1935D0F7B243FAA90D8" pageId="0" pageNumber="161">1</issue>
+): 
+<pagination id="9A6D136FBEF93C9B9A904992998F34FE" pageId="0" pageNumber="161">109 - 122</pagination>
+, DOI: 
+<DOI id="D013ECBFD6CD6FFB95200C8522AFDAB3" pageId="0" pageNumber="161">https://doi.org/10.3161/00034541ANZ2015.65.1.009</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="38BADD088B6C7595F1421BD73E483919" pageId="0" pageNumber="161">
+<bibRef id="5DA967D35B7A9DD6AEACE7064B3EC7BC" author="Kovarik, F" journalOrPublisher="Euscorpius" pageId="0" pageNumber="161" pagination="1 - 140" refId="B8" title="Revision of genus-group taxa in the family Scorpiopidae Kraepelin, 1905, with description of 15 new species (Arachnida: Scorpiones)." volume="325" year="2020">
+<author id="3E99ABD71939D9FF58ACFADD69925DD6" pageId="0" pageNumber="161">
+<normalizedToken id="44A271D45A53D860905B89692FA5934E" originalValue="Kovařík">Kovarik</normalizedToken>
+, F
+</author>
+, 
+<author id="0D79BA972AC7F9CC08568A616A84E040" pageId="0" pageNumber="161">Lowe, G</author>
+, 
+<author id="8643C4A5C0D952707223C587D69CA788" pageId="0" pageNumber="161">Stockmann, M</author>
+, 
+<author id="A7E1618F3F3F55D9E1446B4976E53CED" pageId="0" pageNumber="161">
+<normalizedToken id="76E5ACDEA849CBE30B5546FD8B55E692" originalValue="Šťáhlavský">Stahlavsky</normalizedToken>
+, F
+</author>
+, 
+<year id="7F4E51B9789DAABD72D0500E58FE6A3A" pageId="0" pageNumber="161">2020</year>
+. 
+<title id="EA63D7B94D3946EE1B790487D7F75DAE" pageId="0" pageNumber="161">
+Revision of genus-group taxa in the family 
+<taxonomicName id="B4042DF6B2C1E6DE028F6476CDFDD07D" authorityName="Kraepelin" authorityYear="1905" class="Arachnida" family="Scorpiopidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Scorpiopidae</taxonomicName>
+Kraepelin, 1905, with description of 15 new species (
+<taxonomicName id="8635EB2A28ABE831C68AFD6B2935E3BE" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Euscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="class">Arachnida</taxonomicName>
+: 
+<taxonomicName id="0C91488C243F200B109D409E3DA7A33D" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Euscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="order">Scorpiones</taxonomicName>
+).
+</title>
+<journalOrPublisher id="398A8E7818644C9C6C7EFD8C2428F689" pageId="0" pageNumber="161">Euscorpius</journalOrPublisher>
+<volume id="0E00EA91F5BBA0C666BAF58CB040FC18" pageId="0" pageNumber="161">325</volume>
+: 
+<pagination id="B4AE845599A77D3103A3B5C16039889E" pageId="0" pageNumber="161">1 - 140</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="01C0C0CF3C49FD11F4FB9879C8A535BB" pageId="0" pageNumber="161">
+<bibRef id="0F92F5B50802DABB10F57387243ED88C" author="Lourenco, WR" journalOrPublisher="Entomologische Mitteilungen aus dem Zoologischen Museum Hamburg" pageId="0" pageNumber="161" pagination="245 - 254" refId="B9" title="New rank to the scorpion subfamily Scorpiopsinae Kraepelin, 1905 as family Scorpiopsidae Kraepelin, 1905; its generical composition and description of a new species of Scorpiops from Pakistan (Scorpiones, Scorpiopsidae)." volume="12" year="1998">
+<author id="B96293A6149231B87156609E337B7549" pageId="0" pageNumber="161">
+<normalizedToken id="76646B34AEDF784717068975D0874692" originalValue="Lourenço">Lourenco</normalizedToken>
+, WR
+</author>
+, 
+<year id="3F3BFBA97AC9F1B8DD43F413561A0CBB" pageId="0" pageNumber="161">1998</year>
+. 
+<title id="5C087AF2E022DD8A23C9C3A2B0067627" pageId="0" pageNumber="161">
+New rank to the scorpion subfamily 
+<taxonomicName id="83087F41BFBA7A65FD74EA1C353355BD" lsidName="" pageId="0" pageNumber="161" rank="subFamily" subFamily="Scorpiopsinae">Scorpiopsinae</taxonomicName>
+Kraepelin, 1905 as family 
+<taxonomicName id="222AAA507E31DC4BCB845DE9C2D6EDB5" class="Arachnida" family="Scorpiopsidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Scorpiopsidae</taxonomicName>
+Kraepelin, 1905; its generical composition and description of a new species of 
+<taxonomicName id="8800B3E27473EE62AA0CBF2030E0A0E2" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops" order="Scorpiones" pageId="0" pageNumber="161" rank="genus">
+<emphasis id="A8933B52CF80EA2153456FDB4DFD0153" italics="true" pageId="0" pageNumber="161">Scorpiops</emphasis>
+</taxonomicName>
+from Pakistan (
+<taxonomicName id="B470E61FE8CF1A1BB31D63CE4B949CAC" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" rank="order">Scorpiones</taxonomicName>
+, 
+<taxonomicName id="E16E879156C4AC0B2AB85CE3149D8C13" class="Arachnida" family="Scorpiopsidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Scorpiopsidae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="D9CF3170D203469304530A4EEA97477D" pageId="0" pageNumber="161">Entomologische Mitteilungen aus dem Zoologischen Museum Hamburg</journalOrPublisher>
+<volume id="C5BEB1445B456207AD792A331543BF1C" pageId="0" pageNumber="161">12</volume>
+(
+<issue id="664F4B8528AF9CC860FC2F4CDB1CBCE2" pageId="0" pageNumber="161">157</issue>
+): 
+<pagination id="FAA3FD97DD05ED36CF74426089F85A65" pageId="0" pageNumber="161">245 - 254</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="20BCD91333D7BA7E7FABFFCD831139D6" pageId="0" pageNumber="161">
+<bibRef id="F73F349F19B23D26E88C228430B49D03" author="Lourenco, WR" journalOrPublisher="Revista Iberica de Aracnologia" pageId="0" pageNumber="161" pagination="51 - 54" refId="B10" title="A new species of Euscorpiops Vachon, 1980 from Doi Pha Hom Pok National Park in Thailand (Scorpiones: Scorpiopidae)." volume="34" year="2019">
+<author id="A925997D839BA930ABDE88C7E0DE8BA9" pageId="0" pageNumber="161">
+<normalizedToken id="071C33E4F51E5FCFE1ADDF54E32C7864" originalValue="Lourenço">Lourenco</normalizedToken>
+, WR
+</author>
+, 
+<year id="CD095AAD53C924A604854203710E1FA2" pageId="0" pageNumber="161">2019</year>
+. 
+<title id="C60DD19397F04EAD437018805980A293" pageId="0" pageNumber="161">
+A new species of 
+<taxonomicName id="607CF382F38FC475C679F4C250A52627" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Euscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Euscorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">Euscorpiops</taxonomicName>
+Vachon, 1980 from Doi Pha Hom Pok National Park in Thailand (
+<taxonomicName id="16A9A40FBAA97B18AC7E04BB8A6D87E7" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Euscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="order">Scorpiones</taxonomicName>
+: 
+<taxonomicName id="5C5B096C56E1AEFDC10E200E53614362" authorityName="Kraepelin" authorityYear="1905" class="Arachnida" family="Scorpiopidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Scorpiopidae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="6FB67A046507AFF9B32B207BED97CAA4" pageId="0" pageNumber="161">Revista Iberica de Aracnologia</journalOrPublisher>
+<volume id="6B947B072987A5E28E890A6CBAAF495E" pageId="0" pageNumber="161">34</volume>
+: 
+<pagination id="155BA5EF34FA2D148E53715A6AB85528" pageId="0" pageNumber="161">51 - 54</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="AEC89FE1CF389A4351EC981AED85A0D3" pageId="0" pageNumber="161">
+<bibRef id="22154B8ADFD3FBAF8B3118FB3EE1C45F" DOI="https://doi.org/10.3897/zookeys.775.24248" author="Lourenco, WR" journalOrPublisher="ZooKeys" pageId="0" pageNumber="161" pagination="47 - 58" refId="B11" title="A new remarkable species of Alloscorpiops Vachon, 1980 from Myanmar (Burma) (Scorpiones, Scorpiopidae)." url="https://doi.org/10.3897/zookeys.775.24248" volume="775" year="2018">
+<author id="686C0AA145D5F5600D8113E1A8CB3ECF" pageId="0" pageNumber="161">
+<normalizedToken id="A3580895590E482C798B79AB0A329E54" originalValue="Lourenço">Lourenco</normalizedToken>
+, WR
+</author>
+, 
+<author id="0202753981362CF9B2152A8D84E0E7C1" pageId="0" pageNumber="161">
+<normalizedToken id="55A3DAC0764F4BC526A44DE0336EB1DC" originalValue="Košulič">Kosulic</normalizedToken>
+, O
+</author>
+, 
+<year id="F12C4077A9A6C2C2E838D34C32F54DFE" pageId="0" pageNumber="161">2018</year>
+. 
+<title id="A649F563A4C7AEB8482CA56014DB2D73" pageId="0" pageNumber="161">
+A new remarkable species of 
+<taxonomicName id="824F159F38C1F46C407F06B2CE570C87" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Alloscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Alloscorpiops" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="8E52A7F70C0C19C3C7D685D481D83C5A" italics="true" pageId="0" pageNumber="161">Alloscorpiops</emphasis>
+</taxonomicName>
+Vachon, 1980 from Myanmar (Burma) (
+<taxonomicName id="816CAE1A96AF65BF29B812E3B6A9B5C6" authorityName="Vachon" authorityYear="1980" class="Arachnida" genus="Alloscorpiops" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="order">Scorpiones</taxonomicName>
+, 
+<taxonomicName id="1E2F1A2973548F4C51A69B21CCC4D81B" authorityName="Kraepelin" authorityYear="1905" class="Arachnida" family="Scorpiopidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Scorpiopidae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="041BBF13C6A652B917894483B36E8584" pageId="0" pageNumber="161">ZooKeys</journalOrPublisher>
+<volume id="FA924357CD1782189B769E72B22A6893" pageId="0" pageNumber="161">775</volume>
+: 
+<pagination id="E4ED1A16FCFD9329A61F95A692DB85A2" pageId="0" pageNumber="161">47 - 58</pagination>
+, DOI: 
+<DOI id="E41837DE0EACD2079DD1C96B9779C8BB" pageId="0" pageNumber="161">https://doi.org/10.3897/zookeys.775.24248</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="6A6A8A90025A1AFD8E78CFA8D2A8A2D9" pageId="0" pageNumber="161">
+<bibRef id="954DCCBB20F62C6D8DE615A6EB9816B8" author="Lourenco, WR" journalOrPublisher="Faunitaxys: Revue de Faunistique, Taxonomie et Systematique Morphologique et Moleculaire" pageId="0" pageNumber="161" pagination="1 - 9" refId="B12" title="A new species of the genus Scorpiops Peters, 1861, subgenus Euscorpiops Vachon, 1980 from Laos (Scorpiones: Scorpiopidae)." volume="10" year="2022">
+<author id="6DA44D6DF8DBB7E8FC8D57AE8D3FBF00" pageId="0" pageNumber="161">
+<normalizedToken id="031B81DE0E619DF31D219B465F505F33" originalValue="Lourenço">Lourenco</normalizedToken>
+, WR
+</author>
+, 
+<author id="045B9A0375EB041A3D3BAB9A9AD0DF0A" pageId="0" pageNumber="161">Ythier, E</author>
+, 
+<year id="DCD65EBDAB4DCA607E9AB5CEDD97BCAD" pageId="0" pageNumber="161">2022</year>
+. 
+<title id="DB3BE222E2D9BC23F9A2633F828F16DE" pageId="0" pageNumber="161">
+A new species of the genus 
+<taxonomicName id="F8B236840CE4C55698396E7268628A0E" authority="Euscorpiops" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="Scorpiops (Euscorpiops) subsp. subgenus" order="Scorpiones" pageId="0" pageNumber="161" rank="subGenus" species="wongpromi" subGenus="Euscorpiops" subSpecies="subgenus">Scorpiops Peters, 1861, subgenus Euscorpiops</taxonomicName>
+Vachon, 1980 from Laos (
+<taxonomicName id="7572CE970E023371CB9085EA67C6307A" authorityName="Peters" authorityYear="1861" class="Arachnida" family="Scorpiopidae" genus="Scorpiops" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" rank="order">Scorpiones</taxonomicName>
+: 
+<taxonomicName id="500F3C9ACC58E5E0D0F8ABAF41EA9B21" authorityName="Kraepelin" authorityYear="1905" class="Arachnida" family="Scorpiopidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Scorpiopidae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="D64ECC1293EE9C82C55A26562E5E820B" pageId="0" pageNumber="161">
+Faunitaxys: Revue de Faunistique, Taxonomie et 
+<normalizedToken id="A8982917675784E27FD169C0733614CB" originalValue="Systématique">Systematique</normalizedToken>
+Morphologique et 
+<normalizedToken id="295FB250ABF804DE4AA051C8EB89661C" originalValue="Moléculaire">Moleculaire</normalizedToken>
+</journalOrPublisher>
+<volume id="9BC2ABAB52A7F80BDACC555CBC415A55" pageId="0" pageNumber="161">10</volume>
+(
+<issue id="C15532F7D77AFB78B178E49CAF86160D" pageId="0" pageNumber="161">27</issue>
+): 
+<pagination id="70BFFA8B9319E814D6F8CB964F78751E" pageId="0" pageNumber="161">1 - 9</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="91B3D1577026EA0D689554337D4071F3" pageId="0" pageNumber="161">
+<bibRef id="A4E1D0FB725F908F2571E25175BF3927" author="Maxwell, JF" journalOrPublisher="Tropical Natural History" pageId="0" pageNumber="161" pagination="19 - 29" refId="B13" title="A synopsis of the vegetation of Thailand." volume="4" year="2004">
+<author id="43EFE78771B0D94508B424EF7B5A438E" pageId="0" pageNumber="161">Maxwell, JF</author>
+, 
+<year id="8C8DA5FDAFACB897A30BEAFB4C3877B1" pageId="0" pageNumber="161">2004</year>
+. 
+<title id="9125020D94391947431568DE7BF01CDD" pageId="0" pageNumber="161">A synopsis of the vegetation of Thailand.</title>
+<journalOrPublisher id="05D540EDF466473C9C81773601C1B753" pageId="0" pageNumber="161">Tropical Natural History</journalOrPublisher>
+<volume id="C49D703CE4B29A9D05FC365F8EA79A46" pageId="0" pageNumber="161">4</volume>
+(
+<issue id="6FFBA9563E48018F963D8DC8890A19A2" pageId="0" pageNumber="161">2</issue>
+): 
+<pagination id="6F6BDA86ACEDB83F60B93123DDD1CAE2" pageId="0" pageNumber="161">19 - 29</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="BD6DF8FB51A617F9D2E230F831083162" pageId="0" pageNumber="161">
+<bibRef id="83164D7AC454E77EBAF29F295A7687E4" author="McCormick, SJ" editor="Polis, GA" journalOrPublisher="Stanford University Press, Standford" pageId="0" pageNumber="161" pagination="145 - 157" refId="B14" title="Prey, predators, and parasites." volumeTitle="The Biology of Scorpions." year="1990">
+<author id="494F051884D1FFE9D19C7B6384CC1659" pageId="0" pageNumber="161">McCormick, SJ</author>
+, 
+<author id="9C3C4E87BA426AB8B838EEA7B83FA807" pageId="0" pageNumber="161">Polis, GA</author>
+, 
+<year id="598013D075AB56DC3D32D84213C543A9" pageId="0" pageNumber="161">1990</year>
+. 
+<title id="8640CF5F8B0463E760D9D1F47A423C20" pageId="0" pageNumber="161">Prey, predators, and parasites.</title>
+In: 
+<editor id="762D12D87A4FCBAF04DB1C24035A0DCA" pageId="0" pageNumber="161">Polis, GA</editor>
+, Ed., 
+<volumeTitle id="40F6151AD075E40368FA565211B741B4" pageId="0" pageNumber="161">The Biology of Scorpions.</volumeTitle>
+<journalOrPublisher id="FFDE044EDDE94B4C97DA83228AF7BD0C" pageId="0" pageNumber="161">Stanford University Press, Standford</journalOrPublisher>
+: 
+<pagination id="115CE80C9F4DD433AEEF9AC14F9278B0" pageId="0" pageNumber="161">145 - 157</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="AD0D96CB3AAEEDA77CDCD97CBB6F99B4" pageId="0" pageNumber="161">
+<bibRef id="664DA14C8201D5DB49E20BB7A9F6492C" DOI="https://doi.org/10.3161/00034541ANZ2016.66.3.011" author="Pliskova, J" journalOrPublisher="Annales Zoologici" pageId="0" pageNumber="161" pagination="467 - 476" refId="B15" title="Description of a new species of Heterometrus Ehrenberg, 1828 (Scorpiones: Scorpionidae) from Thailand with remarks about the utilization of cytogenetic data in taxonomy of the genus." url="https://doi.org/10.3161/00034541ANZ2016.66.3.011" volume="66" year="2016">
+<author id="D8411DA081F76015BE1D53B532CE76AF" pageId="0" pageNumber="161">
+<normalizedToken id="B24CBB7BF6909A2F2524C19229079683" originalValue="Plíšková">Pliskova</normalizedToken>
+, J
+</author>
+, 
+<author id="9A3DEAF1425A7672C1B448D3169FE647" pageId="0" pageNumber="161">
+<normalizedToken id="60AACA9DD5F627DA4D7FFE295ED23E32" originalValue="Kovařík">Kovarik</normalizedToken>
+, F
+</author>
+, 
+<author id="C7AB5E4F8384C9ECE348DB1F9D8887D3" pageId="0" pageNumber="161">
+<normalizedToken id="D025A3FACA82F2ECC43052BA79308061" originalValue="Košulič">Kosulic</normalizedToken>
+, O
+</author>
+, 
+<author id="DAFC480272A2543C492719817B1B1B0F" pageId="0" pageNumber="161">
+<normalizedToken id="6F93F5316F011B14A1A73B73AF1E3744" originalValue="Št’áhlavský">St'ahlavsky</normalizedToken>
+, F
+</author>
+, 
+<year id="5744E83904D96884722BD3D4260E90B7" pageId="0" pageNumber="161">2016</year>
+. 
+<title id="C076B919E77910C513481597F3F86E8B" pageId="0" pageNumber="161">
+Description of a new species of 
+<taxonomicName id="5B7B12BE93552E411D22E6DD73CB8BCA" authorityName="Ehrenberg" authorityYear="1828" class="Arachnida" genus="Heterometrus" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Heterometrus" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="AE78EB76B9CF5F842F1DA13133C8B921" italics="true" pageId="0" pageNumber="161">Heterometrus</emphasis>
+</taxonomicName>
+Ehrenberg, 1828 (
+<taxonomicName id="C58EDA6F749934B404B248937B201B13" authorityName="Ehrenberg" authorityYear="1828" class="Arachnida" genus="Heterometrus" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="order">Scorpiones</taxonomicName>
+: 
+<taxonomicName id="7AAFBF66875DBBF8C62029E1EA4F791A" authorityName="Latreille" authorityYear="1802" class="Arachnida" family="Scorpionidae" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Scorpionidae</taxonomicName>
+) from Thailand with remarks about the utilization of cytogenetic data in taxonomy of the genus.
+</title>
+<journalOrPublisher id="0633040AEBCF378D783A98482E31F95C" pageId="0" pageNumber="161">Annales Zoologici</journalOrPublisher>
+<volume id="37A346A5A9638A14D019DD5693C187B2" pageId="0" pageNumber="161">66</volume>
+(
+<issue id="CB996D16B242A144613756F748BBA07E" pageId="0" pageNumber="161">3</issue>
+): 
+<pagination id="8CC949B736148F76C46C98A8FD8F92C3" pageId="0" pageNumber="161">467 - 476</pagination>
+, DOI: 
+<DOI id="F4698B79FDD85FBBFCB84824768083C9" pageId="0" pageNumber="161">https://doi.org/10.3161/00034541ANZ2016.66.3.011</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="09775E28238D862BB90F8F502EE6261B" pageId="0" pageNumber="161">
+<bibRef id="CC0F75E36ED605AFCC140D4A720E3AB8" DOI="https://doi.org/10.1017/S1752756200004075" author="Soleglad, ME" editor="Fet, V" journalOrPublisher="In Memoriam Gary A. Polis. British Arachnological Society, Burnham Beeches, Bucks" pageId="0" pageNumber="161" pagination="25 - 111" refId="B16" title="Phylogeny of the family Euscorpiidae Laurie, 1896 (Scorpiones): a major revision." url="https://doi.org/10.1017/S1752756200004075" volumeTitle="Scorpions 2001." year="2001">
+<author id="AC9AD083AA8DDC2C629834123BF96117" pageId="0" pageNumber="161">Soleglad, ME</author>
+, 
+<author id="12C0470B0599C71F09E48368963D0F98" pageId="0" pageNumber="161">Sissom, WD</author>
+, 
+<year id="C4498055D774DC0AE731BCDD8FC94B70" pageId="0" pageNumber="161">2001</year>
+. 
+<title id="1065F5A7EF34C14899D1002C6053DC41" pageId="0" pageNumber="161">
+Phylogeny of the family 
+<taxonomicName id="001280D5EA0F8D2B21E6BA53C2A244DB" authorityName="Laurie" authorityYear="1896" class="Arachnida" family="Euscorpiidae" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="family">Euscorpiidae</taxonomicName>
+Laurie, 1896 (
+<taxonomicName id="E8C78AD280886A669FBCDFBF49FFDC3B" authorityName="Ehrenberg" authorityYear="1828" class="Arachnida" genus="Heterometrus" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Scorpiones" pageId="0" pageNumber="161" phylum="Arthropoda" rank="order">Scorpiones</taxonomicName>
+): a major revision.
+</title>
+In: 
+<editor id="26D2F4C89E7A2BE94F91008B22CB1B6B" pageId="0" pageNumber="161">Fet, V</editor>
+, 
+<editor id="26E7745078BB1D870A839CCB19D87D80" pageId="0" pageNumber="161">Selden, PA</editor>
+, Eds., 
+<volumeTitle id="40052633E12B217D1DB18820D70E9499" pageId="0" pageNumber="161">Scorpions 2001.</volumeTitle>
+<journalOrPublisher id="F3C87618173BD0FA2951B12D2AE477AA" pageId="0" pageNumber="161">In Memoriam Gary A. Polis. British Arachnological Society, Burnham Beeches, Bucks</journalOrPublisher>
+: 
+<pagination id="B5F8BB0C71E7DA13F441F13B7FF5BE37" pageId="0" pageNumber="161">25 - 111</pagination>
+, DOI: 
+<DOI id="5747EEFE82473CCF86B4E0C75B127430" pageId="0" pageNumber="161">https://doi.org/10.1017/S1752756200004075</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="ADE6CC85877C15B1D96201BEA54A6A7C" pageId="0" pageNumber="161">
+<bibRef id="4352AA7075A24172A5BE45781BB80F6A" author="Stahnke, HL" journalOrPublisher="Entomological News" pageId="0" pageNumber="161" pagination="297 - 316" refId="B17" title="Scorpion nomenclature and mensuration." volume="81" year="1970">
+<author id="8B0F13EF87E63EA8241BCFEB1B44677F" pageId="0" pageNumber="161">Stahnke, HL</author>
+, 
+<year id="2A4C6B5693EBB38A8CB5DCBCE0B89463" pageId="0" pageNumber="161">1970</year>
+. 
+<title id="2499DCD91B10E724010AD6173FC194DF" pageId="0" pageNumber="161">Scorpion nomenclature and mensuration.</title>
+<journalOrPublisher id="561985AA64514E8E1B05007AC5CE8E2D" pageId="0" pageNumber="161">Entomological News</journalOrPublisher>
+<volume id="8000FB65BFC40810BFD499D637E2FC09" pageId="0" pageNumber="161">81</volume>
+: 
+<pagination id="50244EC172F8BF37FC76EDC35CC09A4D" pageId="0" pageNumber="161">297 - 316</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="38FF3BCCB3B9FE4CA25DAB910F11B804" pageId="0" pageNumber="161">
+<bibRef id="A371795184F562BB12A4BE88A56EE936" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B18" title="Etudes sur les scorpions." year="1952">
+<author id="000600183FC9833A26C20397D860B9E0" pageId="0" pageNumber="161">Vachon, M</author>
+, 
+<year id="81B2B22110F897E76DB87B4470CB19DC" pageId="0" pageNumber="161">1952</year>
+. 
+<title id="D82A0113B9481D97051801A33356B6AB" pageId="0" pageNumber="161">
+<normalizedToken id="007A4F67BFD982BB06B1DC99D30FCF75" originalValue="Études">Etudes</normalizedToken>
+sur les scorpions.
+</title>
+<journalOrPublisher id="145A12736D92BF052D6F299AAFB95D5B" pageId="0" pageNumber="161">
+Publications de 
+<normalizedToken id="718BE1B038EE81E968FDC1D4E18049DA" originalValue="l’Institut">l'Institut</normalizedToken>
+Pasteur 
+<normalizedToken id="58838451510110941565B4BBBE420031" originalValue="d’Algérie">d'Algerie</normalizedToken>
+, Alger
+</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="FDA16769C97EC7B359EE93CED518CC08" pageId="0" pageNumber="161">
+<bibRef id="82C03D206629459AE359FCE46EC40FB0" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B19" title="De l'utilite, en systematique, d'une nomenclature des dents des cheliceres chez les scorpions. Bulletin du Museum national d'Histoire naturelle, Paris (2 e serie) 35: 161 - 166." year="1963">
+<author id="9DC2B202CC4CC7F9B6954A00F701A84E" pageId="0" pageNumber="161">Vachon, M</author>
+, 
+<year id="F6373B6927855AF54F650DB87FC93285" pageId="0" pageNumber="161">1963</year>
+. 
+<title id="C9841E8456EAF8C310285ACCCB904340" pageId="0" pageNumber="161">
+De 
+<normalizedToken id="AC256CA72F8B4E2DA1B6752A8B9F55D0" originalValue="l’utilité">l'utilite</normalizedToken>
+, en 
+<normalizedToken id="033F50AC58606D95B01940F788B17338" originalValue="systématique">systematique</normalizedToken>
+, 
+<normalizedToken id="89E6D8766E8E15BCD66B63FAEE9D8891" originalValue="d’une">d'une</normalizedToken>
+nomenclature des dents des 
+<normalizedToken id="1266FB331E3F38A0B4087C89D684D838" originalValue="chélicères">cheliceres</normalizedToken>
+chez les scorpions. Bulletin du 
+<normalizedToken id="23924C68B3AC3B6840F8BBE1CC59F7DB" originalValue="Muséum">Museum</normalizedToken>
+national 
+<normalizedToken id="AA5E4D80E34A0BD229722D1554F84BE0" originalValue="d’Histoire">d'Histoire</normalizedToken>
+naturelle, Paris (2e 
+<normalizedToken id="01068F00CDCF68389918F879581BBE18" originalValue="série">serie</normalizedToken>
+) 35: 161-166.
+</title>
+</bibRef>
+</paragraph>
+<paragraph id="25356E79B5062A968FAB3D67127E7715" pageId="0" pageNumber="161">
+<bibRef id="4B82891937D6FC90C65DDEC45AC3745A" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B20" title="Etude des caracteres utilises pour classer les familles et les genres de scorpions (arachnides). 1. La trichobothriotaxie en arachnologie. Sigles trichobothriaux et types de trichobothriotaxie chez les scorpions. Bulletin du Museum national d'Histoire naturelle, Paris (3 e serie) 140: 857 - 958." year="1974">
+<author id="2E7B2AA15784B9661C7F2A63BCD7C423" pageId="0" pageNumber="161">Vachon, M</author>
+, 
+<year id="4A89F86080DA1B823B17C73E66D8F3B2" pageId="0" pageNumber="161">1974</year>
+. 
+<title id="CD3FD141B6C3C2C429C35AA3B45D6500" pageId="0" pageNumber="161">
+<normalizedToken id="522CCBCF58BA30CD317FACAB111C15E2" originalValue="Étude">Etude</normalizedToken>
+des 
+<normalizedToken id="FA90307F8A7211F907C8D1ACE39C2554" originalValue="caractères">caracteres</normalizedToken>
+<normalizedToken id="7077AF7DB72938D16D676DB03370340E" originalValue="utilisés">utilises</normalizedToken>
+pour classer les familles et les genres de scorpions (arachnides). 1. La trichobothriotaxie en arachnologie. Sigles trichobothriaux et types de trichobothriotaxie chez les scorpions. Bulletin du 
+<normalizedToken id="63CB9A96F2230C27F86CAE84297DADBD" originalValue="Muséum">Museum</normalizedToken>
+national 
+<normalizedToken id="3E86B93864FE15AFB7D39DCC21651F81" originalValue="d’Histoire">d'Histoire</normalizedToken>
+naturelle, Paris (3e 
+<normalizedToken id="E904BA55E5246026C0BBA1675619FCBB" originalValue="série">serie</normalizedToken>
+) 140: 857-958.
+</title>
+</bibRef>
+</paragraph>
+<paragraph id="E1A24A8F6C3EC739B3BA55973A699269" pageId="0" pageNumber="161">
+<bibRef id="2F5F7E6A8EA13265468300FC39594EAC" DOI="https://doi.org/10.5962/p.297422" author="Vachon, M" journalOrPublisher="Publications de l'Institut Pasteur d'Algerie, Alger" pageId="0" pageNumber="161" refId="B21" url="https://doi.org/10.5962/p.297422" year="1980">
+<author id="16A6B8D12E1E01F87D4A17D780F3B7B6" pageId="0" pageNumber="161">Vachon, M</author>
+, 
+<year id="F68F9F3230D2180853CD026374F32805" pageId="0" pageNumber="161">1980</year>
+. 
+<publicationUrl id="D84F25D602DF262A8C46AFDE8AC06F7E" pageId="0" pageNumber="161">https://doi.org/10.5962/p.297422</publicationUrl>
+</bibRef>
+</paragraph>
+</subSection>
+</document>

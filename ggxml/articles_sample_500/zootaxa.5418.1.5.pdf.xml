@@ -1,0 +1,1465 @@
+<document id="D49E0A7F81E17D5011568B8993080C9F" ID-CLB-Dataset="289469" ID-DOI="10.11646/zootaxa.5418.1.5" ID-GBIF-Dataset="5c59c6f1-40fb-4662-bb4b-116ae10cae32" ID-ISSN="1175-5326" ID-Zenodo-Dep="10718164" ID-ZooBank="462A0C16-841B-4B01-AE44-8CBE8E87D37B" IM.bibliography_approvedBy="karina" IM.illustrations_approvedBy="karina" IM.materialsCitations_approvedBy="felipe" IM.metadata_approvedBy="felipe" IM.tables_approvedBy="karina" IM.taxonomicNames_approvedBy="felipe" IM.treatments_approvedBy="karina" checkinTime="1709045530051" checkinUser="plazi" docAuthor="Zhang, Zi-Heng &amp; Tian, Hao-Hu &amp; Long, Xiao-Yu &amp; Yin, Zi-Xu &amp; Li, Kai &amp; He, Zhu-Qing" docDate="2024" docId="870BFFA4FF838E5F5460FFA42947551A" docName="zootaxa.5418.1.5.pdf" docOrigin="Zootaxa 5418 (1)" docSource="http://dx.doi.org/10.11646/zootaxa.5418.1.5" docStyle="DocumentStyle:647186512141C8FC8976D5BCC54AEB7D.9:Zootaxa.2013-.journal_article" docStyleId="647186512141C8FC8976D5BCC54AEB7D" docStyleName="Zootaxa.2013-.journal_article" docStyleVersion="9" docTitle="Description of a new species of the genus Woznessenskia from Xizang, China (Orthoptera: Gryllacrididae)" docVersion="6" lastPageNumber="88" pageNumber="83" updateTime="1709247739211" updateUser="ExternalLinkService" zenodo-license-document="CLOSED">
+<mods:mods id="3699F4515A57712D8DADC98BB1DE277E" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E510198E7A8BB4472C6A021BD133E25B">
+<mods:title id="3E6A58BB5E209E511874DD6CE08BD9A6">Description of a new species of the genus Woznessenskia from Xizang, China (Orthoptera: Gryllacrididae)</mods:title>
+</mods:titleInfo>
+<mods:name id="3AD4390F9AB98C5258B0269DF490ABF8" type="personal">
+<mods:role id="C8CE163192B925E046D233CB734BAC74">
+<mods:roleTerm id="2514E3A6C7085D25549E2F4BE358BFB8">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C909133DFDFF6F7D034D3A095C116089">Zhang, Zi-Heng</mods:namePart>
+<mods:affiliation id="A765280132175AC73EE8B032E0541904">School of Life Sciences, East China Normal University, Shanghai 200241, China.</mods:affiliation>
+</mods:name>
+<mods:name id="E52B58A73B26D6D7E9C606B7B1DFCC63" type="personal">
+<mods:role id="3B2C656FED42A5BE06904D56B76AE49C">
+<mods:roleTerm id="B2886EF5F895F8C699615E2B6400D665">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="7D0B2C6C2DBFBB4A0AEC28FA2A377562">Tian, Hao-Hu</mods:namePart>
+<mods:affiliation id="404F593CEA89CFE792D355B56A454194">School of Life Sciences, East China Normal University, Shanghai 200241, China.</mods:affiliation>
+</mods:name>
+<mods:name id="48F092FD5B09AF94F07BAEF6F6292E47" type="personal">
+<mods:role id="C1512A49EB7F65A684146260BB416208">
+<mods:roleTerm id="35C199E1BF8496D6ABAD2A2ADD25167B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="65E1711A435A1CBD2274E04B918F0E0C">Long, Xiao-Yu</mods:namePart>
+<mods:affiliation id="A1B97F95F46BC272028CD0FB59A90CCB">School of Life Sciences, Nanjing University, Nanjing 210023, China.</mods:affiliation>
+</mods:name>
+<mods:name id="B6DAF9AE4E54DA28F4135F93C91760FD" type="personal">
+<mods:role id="C0601E2E6200B703064135EBE779CF2F">
+<mods:roleTerm id="02D29F26FCB1918AA9BD43D45D5D24D0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="5B26B1046D01005B4589494309C84B98">Yin, Zi-Xu</mods:namePart>
+<mods:affiliation id="AE632C3FE432FA0DEA2F834151CFF757">College of Fisheries, Ocean University of China, Five Yushan Road, Qingdao 266003, China.</mods:affiliation>
+</mods:name>
+<mods:name id="35A99F362A5F4877B90458D077EFEEE1" type="personal">
+<mods:role id="78A2871ADC5670ACAFB692418D198032">
+<mods:roleTerm id="469827FCB240566FAA6EBAB4199EE705">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="04B9A55B5E534CFB9940C8B870794C79">Li, Kai</mods:namePart>
+<mods:affiliation id="36410DCF6B36DA4C17BA1050BB988D7E">School of Life Sciences, East China Normal University, Shanghai 200241, China.</mods:affiliation>
+</mods:name>
+<mods:name id="399E059F21D82D58CFC1CDCD3422251A" type="personal">
+<mods:role id="D3BA9D6BE6CE2ADB53104E39A5EF6EDA">
+<mods:roleTerm id="48FAAB3DAF9AFFA0610AD7525194F4E5">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="71B7AD9928525A78E0B3F6477CC7A48A">He, Zhu-Qing</mods:namePart>
+<mods:affiliation id="6E26D967E297CB4430FBC9BA85039353">School of Life Sciences, East China Normal University, Shanghai 200241, China. &amp; Yangtze Delta Estuarine Wetland Ecosystem Observation and Research Station, Ministry of Education &amp; Shanghai Science and Technology Committee, Shanghai, China.</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="5BFE74D86ED647BED3C230B7149D75DB">text</mods:typeOfResource>
+<mods:relatedItem id="B6570A94912C81E4E21E85A72EC008FE" type="host">
+<mods:titleInfo id="D68351D6DB8B8F3D2AEAB165230A752A">
+<mods:title id="62EBE147D6DF5B5256A0F0091DA222CF">Zootaxa</mods:title>
+</mods:titleInfo>
+<mods:part id="5724E3BB8D528314EDF1960DF51A8E4D">
+<mods:date id="B6D40F22B7FD820EAAB781D00B7568DA">2024</mods:date>
+<mods:detail id="EB0C0F4B0A968D8E0D2AAAB19415BB2B" type="pubDate">
+<mods:number id="40336F5317F11538C9676C385472CDF6">2024-02-27</mods:number>
+</mods:detail>
+<mods:detail id="F8B8CDD91266A3A343CCC10801DB5389" type="volume">
+<mods:number id="EF0AD1513B64C4EEFCA69E9EB2B0AD06">5418</mods:number>
+</mods:detail>
+<mods:detail id="CFA3E3122DD8AC7B7E2E080175B92D10" type="issue">
+<mods:number id="8A1C30F24F1E8E2B19EC3AF706A6E8F0">1</mods:number>
+</mods:detail>
+<mods:extent id="B694D6999AAC02DF84E49061C2CA007E" unit="page">
+<mods:start id="52EB58CFACAD5B0B2C2845CF75A64454">83</mods:start>
+<mods:end id="698DCE786835759BEDC46B7050D5C917">88</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="E9DC2C00D5D18C8CBC0E9EE5676345EA">
+<mods:url id="38662765DF886BDB93CD10B750B5133E">http://dx.doi.org/10.11646/zootaxa.5418.1.5</mods:url>
+</mods:location>
+<mods:classification id="C382142A5FA9B2C617D38F522B783EA2">journal article</mods:classification>
+<mods:identifier id="8ADA5745E437AFEA688EEDB0E98BF6D4" type="CLB-Dataset">289469</mods:identifier>
+<mods:identifier id="3701E7D98FE7127616EFF7DB15446F4A" type="DOI">10.11646/zootaxa.5418.1.5</mods:identifier>
+<mods:identifier id="C563F9691C9F300DE68026A5760F4EC8" type="GBIF-Dataset">5c59c6f1-40fb-4662-bb4b-116ae10cae32</mods:identifier>
+<mods:identifier id="C00550E246A6F88C3B4E7A4B4FF24667" type="ISSN">1175-5326</mods:identifier>
+<mods:identifier id="39C33E3B027F27A6272863DD54EEC9C3" type="Zenodo-Dep">10718164</mods:identifier>
+<mods:identifier id="302E6AFF987BB73024BF9385B9C57D8A" type="ZooBank">462A0C16-841B-4B01-AE44-8CBE8E87D37B</mods:identifier>
+</mods:mods>
+<subSection id="9A142F21FF838E5F54F7FEC7283956B5" _generate="added" pageId="0" pageNumber="83" type="multiple">
+<paragraph id="F32436CAFF838E5F54F7FEC72B2054A8" blockId="0.[151,1362,354,434]" pageId="0" pageNumber="83">
+<emphasis id="C1EFEAD8FF838E5F54F7FEC72B2054A8" bold="true" pageId="0" pageNumber="83">
+<docTitle id="B681CFA4FF838E5F54F7FEC72B2054A8" pageId="0" pageNumber="83">
+Description of a new species of the genus 
+<taxonomicName id="349B4D49FF838E5F5747FEC62D4A549E" _evidence="catalogs" _step="genera" authorityName="Gorochov" authorityYear="2002" box="[807,1037,354,388]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="genus">
+<emphasis id="C1EFEAD8FF838E5F5747FEC62D4A549E" bold="true" box="[807,1037,354,388]" italics="true" pageId="0" pageNumber="83">Woznessenskia</emphasis>
+</taxonomicName>
+from 
+<collectingRegion id="315FF828FF838E5F500DFEC72D98549F" box="[1133,1247,355,389]" country="China" name="Xizang" pageId="0" pageNumber="83">Xizang</collectingRegion>
+, 
+<collectingCountry id="8B8C765AFF838E5F5090FEC72C15549E" box="[1264,1362,355,388]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+(
+<taxonomicName id="349B4D49FF838E5F54C1FE34281854A8" _evidence="catalogs" _step="order" authorityName="Latreille" authorityYear="1810" box="[161,351,400,434]" class="Magnoliopsida" higherTaxonomySource="GBIF" kingdom="Plantae" order="Orthoptera" pageId="0" pageNumber="83" phylum="Tracheophyta" rank="order">Orthoptera</taxonomicName>
+: 
+<taxonomicName id="349B4D49FF838E5F5510FE342B1A54A8" _evidence="catalogs" _step="family" authorityName="Blanchard" authorityYear="1845" box="[368,605,400,434]" class="Insecta" family="Gryllacrididae" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="family">Gryllacrididae</taxonomicName>
+)
+</docTitle>
+</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54F7FE7A2C6E54F6" blockId="0.[151,1436,478,943]" box="[151,1321,478,504]" pageId="0" pageNumber="83">
+<docAuthor id="58F33747FF838E5F54F7FE7A283554E2" box="[151,370,478,504]" pageId="0" pageNumber="83">ZI-HENG ZHANG</docAuthor>
+<superScript id="04EE9B82FF838E5F5512FE7A283D54F6" attach="left" box="[370,378,478,492]" fontSize="6" pageId="0" pageNumber="83">1</superScript>
+, 
+<docAuthor id="58F33747FF838E5F55E8FE7A2B0754E2" box="[392,576,478,504]" pageId="0" pageNumber="83">HAO-HU TIAN</docAuthor>
+<superScript id="04EE9B82FF838E5F5620FE7A2B0F54F6" attach="left" box="[576,584,478,492]" fontSize="6" pageId="0" pageNumber="83">2</superScript>
+, 
+<docAuthor id="58F33747FF838E5F5636FE7A2A6454E2" box="[598,803,478,504]" pageId="0" pageNumber="83">XIAO-YU LONG</docAuthor>
+<superScript id="04EE9B82FF838E5F5742FE7A2A6D54F6" attach="left" box="[802,810,478,492]" fontSize="6" pageId="0" pageNumber="83">3</superScript>
+, 
+<docAuthor id="58F33747FF838E5F5758FE7A2AFA54E2" box="[824,957,478,504]" pageId="0" pageNumber="83">ZI-XU YIN</docAuthor>
+<superScript id="04EE9B82FF838E5F57DCFE7A2A8354F6" attach="left" box="[956,964,478,492]" fontSize="6" pageId="0" pageNumber="83">4</superScript>
+, 
+<docAuthor id="58F33747FF838E5F57B3FE7A2D6254E2" box="[979,1061,478,504]" pageId="0" pageNumber="83">KAI LI</docAuthor>
+<superScript id="04EE9B82FF838E5F5046FE7A2D7154F6" attach="left" box="[1062,1078,478,492]" fontSize="6" pageId="0" pageNumber="83">5*</superScript>
+&amp; 
+<docAuthor id="58F33747FF838E5F5037FE7A2C4B54E2" box="[1111,1292,478,504]" pageId="0" pageNumber="83">ZHU-QING HE</docAuthor>
+<superScript id="04EE9B82FF838E5F516CFE7A2C6E54F6" attach="left" box="[1292,1321,478,492]" fontSize="6" pageId="0" pageNumber="83">6,7*</superScript>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54F7FE5A2AE9570E" blockId="0.[151,1436,478,943]" box="[151,942,510,533]" pageId="0" pageNumber="83">
+<emphasis id="C1EFEAD8FF838E5F54F7FE5A2AE9570E" box="[151,942,510,533]" italics="true" pageId="0" pageNumber="83">
+<superScript id="04EE9B82FF838E5F54F7FE5A29D95710" attach="right" box="[151,158,510,522]" fontSize="5" pageId="0" pageNumber="83">1</superScript>
+<docAuthorAffiliation id="EB84F9A9FF838E5F54FEFE5B2AE9570E" box="[158,942,511,533]" pageId="0" pageNumber="83">
+School of Life Sciences, East 
+<collectingCountry id="8B8C765AFF838E5F55D9FE5B28B3570E" box="[441,500,511,532]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+Normal University, 
+<collectingRegion id="315FF828FF838E5F56D7FE5B2A55570E" box="[695,786,511,532]" country="China" name="Shanghai" pageId="0" pageNumber="83">Shanghai</collectingRegion>
+200241, 
+<collectingCountry id="8B8C765AFF838E5F570CFE5B2AED570E" box="[876,938,511,532]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54FAFDB92A58572B" blockId="0.[151,1436,478,943]" box="[154,799,540,562]" pageId="0" pageNumber="83">
+� 
+<emphasis id="C1EFEAD8FF838E5F54D6FDB82A58572B" box="[182,799,540,562]" italics="true" pageId="0" pageNumber="83">963501921@qq.com; https://orcid.org/0009-0002-1944-2776</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54F7FD9D2AE95755" blockId="0.[151,1436,478,943]" box="[151,942,569,591]" pageId="0" pageNumber="83">
+<emphasis id="C1EFEAD8FF838E5F54F7FD9D2AE95755" box="[151,942,569,591]" italics="true" pageId="0" pageNumber="83">
+<superScript id="04EE9B82FF838E5F54F7FD9D29D9575F" attach="right" box="[151,158,569,581]" fontSize="5" pageId="0" pageNumber="83">2</superScript>
+<docAuthorAffiliation id="EB84F9A9FF838E5F54FEFD9E2AE95755" box="[158,942,570,591]" pageId="0" pageNumber="83">
+School of Life Sciences, East 
+<collectingCountry id="8B8C765AFF838E5F55D9FD9E28B35755" box="[441,500,570,591]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+Normal University, 
+<collectingRegion id="315FF828FF838E5F56D7FD9E2A555755" box="[695,786,570,591]" country="China" name="Shanghai" pageId="0" pageNumber="83">Shanghai</collectingRegion>
+200241, 
+<collectingCountry id="8B8C765AFF838E5F570CFD9E2AED5755" box="[876,938,570,591]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54FAFDF32A5A5777" blockId="0.[151,1436,478,943]" box="[154,797,599,621]" pageId="0" pageNumber="83">
+� 
+<emphasis id="C1EFEAD8FF838E5F54D6FDF32A5A5777" box="[182,797,599,621]" italics="true" pageId="0" pageNumber="83">huth8899@126.com; https://orcid.org/0000-0003-3210-961X</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54F7FDD02A745793" blockId="0.[151,1436,478,943]" box="[151,819,628,650]" pageId="0" pageNumber="83">
+<emphasis id="C1EFEAD8FF838E5F54F7FDD02A745793" box="[151,819,628,650]" italics="true" pageId="0" pageNumber="83">
+<superScript id="04EE9B82FF838E5F54F7FDD029D9579A" attach="right" box="[151,158,628,640]" fontSize="5" pageId="0" pageNumber="83">3</superScript>
+<docAuthorAffiliation id="EB84F9A9FF838E5F54FEFDD02A745793" box="[158,819,628,650]" pageId="0" pageNumber="83">
+School of Life Sciences, Nanjing University, Nanjing 210023, 
+<collectingCountry id="8B8C765AFF838E5F5691FDD02A685793" box="[753,815,628,649]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54FAFD362ADC57BD" blockId="0.[151,1436,478,943]" box="[154,923,657,679]" pageId="0" pageNumber="83">
+� 
+<emphasis id="C1EFEAD8FF838E5F54D6FD352ADC57BD" box="[182,923,657,679]" italics="true" pageId="0" pageNumber="83">502022300065@smail.nju.edu.cn; https://orcid.org/0009-0009-2140-9183</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54F7FD0A2D6357DE" blockId="0.[151,1436,478,943]" box="[151,1060,686,709]" pageId="0" pageNumber="83">
+<emphasis id="C1EFEAD8FF838E5F54F7FD0A2D6357DE" box="[151,1060,686,709]" italics="true" pageId="0" pageNumber="83">
+<superScript id="04EE9B82FF838E5F54F7FD0A29D957A0" attach="right" box="[151,158,686,698]" fontSize="5" pageId="0" pageNumber="83">4</superScript>
+<docAuthorAffiliation id="EB84F9A9FF838E5F54FEFD0B2D6357DE" box="[158,1060,687,709]" pageId="0" pageNumber="83">
+College of Fisheries, Ocean University of 
+<collectingCountry id="8B8C765AFF838E5F5654FD0B2B3657DE" box="[564,625,687,708]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+, Five Yushan Road, Qingdao 266003, 
+<collectingCountry id="8B8C765AFF838E5F5783FD0B2D6657DE" box="[995,1057,687,708]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54FAFD692A6A57FB" blockId="0.[151,1436,478,943]" box="[154,813,716,738]" pageId="0" pageNumber="83">
+� 
+<emphasis id="C1EFEAD8FF838E5F54D6FD682A6A57FB" box="[182,813,716,738]" italics="true" pageId="0" pageNumber="83">yinzixu03@gmail.com; https://orcid.org/0000-0003-3203-9586</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54F7FD4D2AE957E5" blockId="0.[151,1436,478,943]" box="[151,942,745,767]" pageId="0" pageNumber="83">
+<emphasis id="C1EFEAD8FF838E5F54F7FD4D2AE957E5" box="[151,942,745,767]" italics="true" pageId="0" pageNumber="83">
+<superScript id="04EE9B82FF838E5F54F7FD4D29D957EF" attach="right" box="[151,158,745,757]" fontSize="5" pageId="0" pageNumber="83">5</superScript>
+<docAuthorAffiliation id="EB84F9A9FF838E5F54FEFD4E2AE957E5" box="[158,942,746,767]" pageId="0" pageNumber="83">
+School of Life Sciences, East 
+<collectingCountry id="8B8C765AFF838E5F55D9FD4E28B357E5" box="[441,500,746,767]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+Normal University, 
+<collectingRegion id="315FF828FF838E5F56D7FD4E2A5557E5" box="[695,786,746,767]" country="China" name="Shanghai" pageId="0" pageNumber="83">Shanghai</collectingRegion>
+200241, 
+<collectingCountry id="8B8C765AFF838E5F570CFD4E2AED57E5" box="[876,938,746,767]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54FAFCA32A695606" blockId="0.[151,1436,478,943]" box="[154,814,775,797]" pageId="0" pageNumber="83">
+� 
+<emphasis id="C1EFEAD8FF838E5F54D6FCA32A695606" box="[182,814,775,797]" italics="true" pageId="0" pageNumber="83">kaili@bio.ecnu.edu.cn; https://orcid.org/0000-0001-8704-6244</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54F7FC872AE95623" blockId="0.[151,1436,478,943]" box="[151,942,803,826]" pageId="0" pageNumber="83">
+<emphasis id="C1EFEAD8FF838E5F54F7FC872AE95623" box="[151,942,803,826]" italics="true" pageId="0" pageNumber="83">
+<superScript id="04EE9B82FF838E5F54F7FC8729D95635" attach="right" box="[151,158,803,815]" fontSize="5" pageId="0" pageNumber="83">6</superScript>
+<docAuthorAffiliation id="EB84F9A9FF838E5F54FEFC802AE95623" box="[158,942,804,826]" pageId="0" pageNumber="83">
+School of Life Sciences, East 
+<collectingCountry id="8B8C765AFF838E5F55D9FC8028B35623" box="[441,500,804,825]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+Normal University, 
+<collectingRegion id="315FF828FF838E5F56D7FC802A555623" box="[695,786,804,825]" country="China" name="Shanghai" pageId="0" pageNumber="83">Shanghai</collectingRegion>
+200241, 
+<collectingCountry id="8B8C765AFF838E5F570CFC802AED5623" box="[876,938,804,825]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54FAFCE62A74564D" blockId="0.[151,1436,478,943]" box="[154,819,833,855]" pageId="0" pageNumber="83">
+� 
+<emphasis id="C1EFEAD8FF838E5F54D6FCE62A74564D" box="[182,819,833,855]" italics="true" pageId="0" pageNumber="83">zqhe@bio.ecnu.edu.cn; https://orcid.org/0000-0003-4304-767X</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54F7FCFA2B60568B" blockId="0.[151,1436,478,943]" pageId="0" pageNumber="83">
+<emphasis id="C1EFEAD8FF838E5F54F7FCFA2B60568B" italics="true" pageId="0" pageNumber="83">
+<superScript id="04EE9B82FF838E5F54F7FCFA29D95670" attach="right" box="[151,158,862,874]" fontSize="5" pageId="0" pageNumber="83">7</superScript>
+<docAuthorAffiliation id="EB84F9A9FF838E5F54FEFCC42DDC566E" box="[158,1179,863,885]" pageId="0" pageNumber="83">Yangtze Delta Estuarine Wetland Ecosystem Observation and Research Station, Ministry of Education</docAuthorAffiliation>
+&amp; 
+<docAuthorAffiliation id="EB84F9A9FF838E5F50A1FCFB2B60568B" pageId="0" pageNumber="83">
+<collectingRegion id="315FF828FF838E5F50A1FCFB2C5B566E" box="[1217,1308,863,884]" country="China" name="Shanghai" pageId="0" pageNumber="83">Shanghai</collectingRegion>
+Science and Technology Committee, 
+<collectingRegion id="315FF828FF838E5F551FFCD8289B568B" box="[383,476,892,913]" country="China" name="Shanghai" pageId="0" pageNumber="83">Shanghai</collectingRegion>
+, 
+<collectingCountry id="8B8C765AFF838E5F5586FCD82B63568B" box="[486,548,892,913]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54F7FC3E283956B5" blockId="0.[151,1436,478,943]" box="[151,382,922,943]" pageId="0" pageNumber="83">
+<emphasis id="C1EFEAD8FF838E5F54F7FC3E283956B5" box="[151,382,922,943]" italics="true" pageId="0" pageNumber="83">*Corresponding author.</emphasis>
+</paragraph>
+</subSection>
+<subSection id="9A142F21FF838E5F54F7FBA628C65185" _generate="added" pageId="0" pageNumber="83" type="abstract">
+<paragraph id="F32436CAFF838E5F54F7FBA628435106" blockId="0.[151,260,1026,1052]" box="[151,260,1026,1052]" pageId="0" pageNumber="83">
+<heading id="A86C81A6FF838E5F54F7FBA628435106" bold="true" box="[151,260,1026,1052]" fontSize="11" level="1" pageId="0" pageNumber="83" reason="1">
+<emphasis id="C1EFEAD8FF838E5F54F7FBA628435106" bold="true" box="[151,260,1026,1052]" pageId="0" pageNumber="83">Abstract</emphasis>
+</heading>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54F7FBEC28C65185" blockId="0.[151,1436,1096,1184]" pageId="0" pageNumber="83">
+The gryllacridid genus 
+<taxonomicName id="349B4D49FF838E5F55F4FBEC2BA0517A" _authorityPlausibility="0.9987213" _evidence="catalogs" _step="genera" authority="Gorochov, 2002" authorityName="Gorochov" authorityYear="2002" box="[404,743,1096,1120]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="genus">
+<emphasis id="C1EFEAD8FF838E5F55F4FBEC2B75517A" box="[404,562,1096,1120]" italics="true" pageId="0" pageNumber="83">Woznessenskia</emphasis>
+<bibRefCitation id="970A4B3BFF838E5F565AFBEC2BA0517A" author="Gorochov, A. V." box="[570,743,1096,1120]" pageId="0" pageNumber="83" pagination="765 - 781" refId="ref2728" refString="Gorochov, A. V. (2002) Contribution to the knowledge of the fauna and systematics of the Stenopelmatoidea (Orthoptera) of Indochina and some other territories. III. Entomologicheskoe Obozrenie, 81, 318 - 337. [2003, Russian; English translation in: Entomological Review, 82 (7), 765 - 781 (Data on fauna and taxonomy of Stenopelmatoidea (Orthoptera) from Indochina and other territories: III)]" type="journal article" year="2002">Gorochov, 2002</bibRefCitation>
+</taxonomicName>
+comprises 13 extant species from Asia, with 8 species reported from 
+<collectingCountry id="8B8C765AFF838E5F54B2FBCC2855519A" box="[210,274,1128,1152]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+and 5 species reported from 
+<collectingCountry id="8B8C765AFF838E5F5626FBCC2BE3519A" box="[582,676,1128,1152]" name="Vietnam" pageId="0" pageNumber="83">Vietnam</collectingCountry>
+. A new species from 
+<collectingRegion id="315FF828FF838E5F57E5FBCC2A92519A" box="[901,981,1128,1152]" country="China" name="Xizang" pageId="0" pageNumber="83">Xizang</collectingRegion>
+, 
+<collectingCountry id="8B8C765AFF838E5F57BFFBCC2D66519A" box="[991,1057,1128,1152]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+, 
+<taxonomicName id="349B4D49FF838E5F504CFBCC2C66519A" _evidence="statusLabel" _step="newLabel1" authority="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He, 2024" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[1068,1313,1128,1152]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="lianhua" status="sp. nov.">
+<emphasis id="C1EFEAD8FF838E5F504CFBCC2C66519A" box="[1068,1313,1128,1152]" italics="true" pageId="0" pageNumber="83">Woznessenskia lianhua</emphasis>
+</taxonomicName>
+<emphasis id="C1EFEAD8FF838E5F5148FBCC2C39519A" bold="true" box="[1320,1406,1128,1152]" pageId="0" pageNumber="83">
+<taxonomicNameLabel id="DADC57A3FF838E5F5148FBCC2C39519A" box="[1320,1406,1128,1152]" pageId="0" pageNumber="83" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+, is reported in this paper.
+</paragraph>
+</subSection>
+<subSection id="9A142F21FF838E5F54F7FB6C2A8251FA" _generate="added" box="[151,965,1224,1248]" pageId="0" pageNumber="83" type="key_words">
+<paragraph id="F32436CAFF838E5F54F7FB6C2A8251FA" blockId="0.[151,965,1224,1248]" box="[151,965,1224,1248]" pageId="0" pageNumber="83">
+<emphasis id="C1EFEAD8FF838E5F54F7FB6C285D51FA" bold="true" box="[151,282,1224,1248]" pageId="0" pageNumber="83">Key words:</emphasis>
+<taxonomicName id="349B4D49FF838E5F5541FB6C28F851FA" _evidence="catalogs" _step="genera" authority="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He, 2024" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[289,447,1224,1248]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="genus" status="new species">
+<emphasis id="C1EFEAD8FF838E5F5541FB6C28F851FA" box="[289,447,1224,1248]" italics="true" pageId="0" pageNumber="83">
+<keyWord id="486D6DADFF838E5F5541FB6C28F851FA" box="[289,447,1224,1248]" pageId="0" pageNumber="83">Woznessenskia</keyWord>
+</emphasis>
+</taxonomicName>
+, 
+<taxonomicNameLabel id="DADC57A3FF838E5F55ACFB6C2B0851FA" box="[460,591,1224,1248]" pageId="0" pageNumber="83" rank="species">
+<keyWord id="486D6DADFF838E5F55ACFB6C2B0851FA" box="[460,591,1224,1248]" pageId="0" pageNumber="83">new species</keyWord>
+</taxonomicNameLabel>
+, 
+<keyWord id="486D6DADFF838E5F5639FB6C2BE051FA" box="[601,679,1224,1248]" pageId="0" pageNumber="83">Medog</keyWord>
+, 
+<collectingRegion id="315FF828FF838E5F56D2FB6C2A4551FA" box="[690,770,1224,1248]" country="China" name="Xizang" pageId="0" pageNumber="83">
+<keyWord id="486D6DADFF838E5F56D2FB6C2A4551FA" box="[690,770,1224,1248]" pageId="0" pageNumber="83">Xizang</keyWord>
+</collectingRegion>
+, 
+<collectingCountry id="8B8C765AFF838E5F576CFB6C2A0951FA" box="[780,846,1224,1248]" name="China" pageId="0" pageNumber="83">
+<keyWord id="486D6DADFF838E5F576CFB6C2A0951FA" box="[780,846,1224,1248]" pageId="0" pageNumber="83">China</keyWord>
+</collectingCountry>
+, 
+<keyWord id="486D6DADFF838E5F573AFB6C2A8251FA" box="[858,965,1224,1248]" pageId="0" pageNumber="83">taxonomy</keyWord>
+</paragraph>
+</subSection>
+<subSection id="9A142F21FF838E5F54F7FA962DCE523A" _generate="added" pageId="0" pageNumber="83" type="introduction">
+<paragraph id="F32436CAFF838E5F54F7FA9628715056" blockId="0.[151,310,1330,1356]" box="[151,310,1330,1356]" pageId="0" pageNumber="83">
+<heading id="A86C81A6FF838E5F54F7FA9628715056" bold="true" box="[151,310,1330,1356]" fontSize="11" level="1" pageId="0" pageNumber="83" reason="1">
+<emphasis id="C1EFEAD8FF838E5F54F7FA9628715056" bold="true" box="[151,310,1330,1356]" pageId="0" pageNumber="83">Introduction</emphasis>
+</heading>
+</paragraph>
+<paragraph id="F32436CAFF838E5F54F7FADE2A4953AE" blockId="0.[151,1437,1402,1824]" pageId="0" pageNumber="83">
+<bibRefCitation id="970A4B3BFF838E5F54F7FADE281D508E" author="Gorochov, A. V." box="[151,346,1402,1428]" pageId="0" pageNumber="83" pagination="765 - 781" refId="ref2728" refString="Gorochov, A. V. (2002) Contribution to the knowledge of the fauna and systematics of the Stenopelmatoidea (Orthoptera) of Indochina and some other territories. III. Entomologicheskoe Obozrenie, 81, 318 - 337. [2003, Russian; English translation in: Entomological Review, 82 (7), 765 - 781 (Data on fauna and taxonomy of Stenopelmatoidea (Orthoptera) from Indochina and other territories: III)]" type="journal article" year="2002">Gorochov (2002)</bibRefCitation>
+proposed the genus 
+<taxonomicName id="349B4D49FF838E5F5623FADE2BAF508E" _evidence="catalogs" _step="genera" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[579,744,1402,1428]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="genus">
+<emphasis id="C1EFEAD8FF838E5F5623FADE2BAF508E" box="[579,744,1402,1428]" italics="true" pageId="0" pageNumber="83">Woznessenskia</emphasis>
+</taxonomicName>
+with description of three new species, 
+<taxonomicName id="349B4D49FF838E5F50C2FADF298850A2" _authorityPlausibility="0.9987213" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Gorochov, 2002" authorityName="Gorochov" authorityYear="2002" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="finitima">
+<emphasis id="C1EFEAD8FF838E5F50C2FADF2DFE508E" box="[1186,1209,1403,1428]" italics="true" pageId="0" pageNumber="83">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF838E5F50A8FADE2C58508E" box="[1224,1311,1402,1428]" italics="true" pageId="0" pageNumber="83">finitima</emphasis>
+<bibRefCitation id="970A4B3BFF838E5F5147FADE298850A2" author="Gorochov, A. V." pageId="0" pageNumber="83" pagination="765 - 781" refId="ref2728" refString="Gorochov, A. V. (2002) Contribution to the knowledge of the fauna and systematics of the Stenopelmatoidea (Orthoptera) of Indochina and some other territories. III. Entomologicheskoe Obozrenie, 81, 318 - 337. [2003, Russian; English translation in: Entomological Review, 82 (7), 765 - 781 (Data on fauna and taxonomy of Stenopelmatoidea (Orthoptera) from Indochina and other territories: III)]" type="journal article" year="2002">Gorochov, 2002</bibRefCitation>
+</taxonomicName>
+(
+<typeStatus id="2C208868FF838E5F54BEFA3A285750A2" box="[222,272,1438,1464]" pageId="0" pageNumber="83">type</typeStatus>
+species), 
+<taxonomicName id="349B4D49FF838E5F551FFA3B2BFF50A2" _authorityPlausibility="0.9987213" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Gorochov, 2002" authorityName="Gorochov" authorityYear="2002" box="[383,696,1438,1464]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="arcuate">
+<emphasis id="C1EFEAD8FF838E5F551FFA3B28D150A2" box="[383,406,1439,1464]" italics="true" pageId="0" pageNumber="83">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF838E5F55C5FA3B28BD50A2" box="[421,506,1439,1464]" italics="true" pageId="0" pageNumber="83">arcuate</emphasis>
+<bibRefCitation id="970A4B3BFF838E5F5661FA3A2BFF50A2" author="Gorochov, A. V." box="[513,696,1438,1464]" pageId="0" pageNumber="83" pagination="765 - 781" refId="ref2728" refString="Gorochov, A. V. (2002) Contribution to the knowledge of the fauna and systematics of the Stenopelmatoidea (Orthoptera) of Indochina and some other territories. III. Entomologicheskoe Obozrenie, 81, 318 - 337. [2003, Russian; English translation in: Entomological Review, 82 (7), 765 - 781 (Data on fauna and taxonomy of Stenopelmatoidea (Orthoptera) from Indochina and other territories: III)]" type="journal article" year="2002">Gorochov, 2002</bibRefCitation>
+</taxonomicName>
+, and 
+<taxonomicName id="349B4D49FF838E5F5693FA3B2D7B50A2" _authorityPlausibility="0.9987213" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Gorochov, 2002" authorityName="Gorochov" authorityYear="2002" box="[755,1084,1438,1464]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="deminuta">
+<emphasis id="C1EFEAD8FF838E5F5693FA3B2A4D50A2" box="[755,778,1439,1464]" italics="true" pageId="0" pageNumber="83">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF838E5F5778FA3A2AC750A2" box="[792,896,1438,1464]" italics="true" pageId="0" pageNumber="83">deminuta</emphasis>
+<bibRefCitation id="970A4B3BFF838E5F57E8FA3A2D7B50A2" author="Gorochov, A. V." box="[904,1084,1438,1464]" pageId="0" pageNumber="83" pagination="765 - 781" refId="ref2728" refString="Gorochov, A. V. (2002) Contribution to the knowledge of the fauna and systematics of the Stenopelmatoidea (Orthoptera) of Indochina and some other territories. III. Entomologicheskoe Obozrenie, 81, 318 - 337. [2003, Russian; English translation in: Entomological Review, 82 (7), 765 - 781 (Data on fauna and taxonomy of Stenopelmatoidea (Orthoptera) from Indochina and other territories: III)]" type="journal article" year="2002">Gorochov, 2002</bibRefCitation>
+</taxonomicName>
+from 
+<collectingCountry id="8B8C765AFF838E5F50E0FA3A2DA550A2" box="[1152,1250,1438,1464]" name="Vietnam" pageId="0" pageNumber="83">Vietnam</collectingCountry>
+, and reclassified 
+<taxonomicName id="349B4D49FF838E5F54F7FA662BF050C6" _authorityPlausibility="0.93901706" _evidence="catalogs" _step="species1" authority="Bey-Bienko, 1962" authorityName="Bey-Bienko" authorityYear="1962" box="[151,695,1474,1500]" class="Insecta" family="Gryllacrididae" genus="Borneogryllacris" higherTaxonomySource="GBIF" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="curvicauda">
+<emphasis id="C1EFEAD8FF838E5F54F7FA66289950C6" box="[151,478,1474,1500]" italics="true" pageId="0" pageNumber="83">Borneogryllacris curvicauda</emphasis>
+<bibRefCitation id="970A4B3BFF838E5F5587FA662BF050C6" author="Bey-Bienko, G. Y." box="[487,695,1474,1500]" pageId="0" pageNumber="83" pagination="110 - 138" refId="ref2497" refString="Bey-Bienko, G. Y. (1962) Results of the Chinese-Soviet zoological-botanical expeditions to south western China 1955 - 1957. New or less known Tettigonioidea (Orthoptera) from Szechuan and Yunnan. Trudy Zoologitscheskogo Instituta, Akademiia Nauk SSSR, Leningrad [Proceedings of the Zoological Institute, USSR Academy of Sciences, Leningrad], 30, 110 - 138." type="journal article" year="1962">Bey-Bienko, 1962</bibRefCitation>
+</taxonomicName>
+into the genus 
+<taxonomicName id="349B4D49FF838E5F570CFA662D5650C6" _evidence="catalogs" _step="genera" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[876,1041,1474,1500]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="genus">
+<emphasis id="C1EFEAD8FF838E5F570CFA662D5650C6" box="[876,1041,1474,1500]" italics="true" pageId="0" pageNumber="83">Woznessenskia</emphasis>
+</taxonomicName>
+. 
+<bibRefCitation id="970A4B3BFF838E5F5042FA662DB350C6" author="Guo, L. Y. &amp; Shi, F. M." box="[1058,1268,1474,1500]" pageId="0" pageNumber="83" pagination="62 - 68" refId="ref2810" refString="Guo, L. Y. &amp; Shi, F. M. (2011) Descriptions of new species of the genus Woznessenskia (Orthoptera: Gryllacrididae: Gryllacridinae) from China. Zootaxa, 2784 (1), 62 - 68. https: // doi. org / 10.11646 / zootaxa. 2784.1.6" type="journal article" year="2011">Guo &amp; Shi (2011)</bibRefCitation>
+reported three new species, 
+<taxonomicName id="349B4D49FF838E5F554EFA432BCD531A" _authorityPlausibility="0.9161083" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Guo &amp; Shi, 2011" authorityName="Guo &amp; Shi" authorityYear="2011" box="[302,650,1510,1536]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="bimacula">
+<emphasis id="C1EFEAD8FF838E5F554EFA432802531A" box="[302,325,1511,1536]" italics="true" pageId="0" pageNumber="83">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF838E5F5534FA4228FB531A" box="[340,444,1510,1536]" italics="true" pageId="0" pageNumber="83">bimacula</emphasis>
+<bibRefCitation id="970A4B3BFF838E5F55A5FA422BCD531A" author="Guo, L. Y. &amp; Shi, F. M." box="[453,650,1510,1536]" pageId="0" pageNumber="83" pagination="62 - 68" refId="ref2810" refString="Guo, L. Y. &amp; Shi, F. M. (2011) Descriptions of new species of the genus Woznessenskia (Orthoptera: Gryllacrididae: Gryllacridinae) from China. Zootaxa, 2784 (1), 62 - 68. https: // doi. org / 10.11646 / zootaxa. 2784.1.6" type="journal article" year="2011">Guo &amp; Shi, 2011</bibRefCitation>
+</taxonomicName>
+, 
+<taxonomicName id="349B4D49FF838E5F56F6FA432A9C531A" _authorityPlausibility="0.9161083" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Guo &amp; Shi, 2011" authorityName="Guo &amp; Shi" authorityYear="2011" box="[662,987,1510,1536]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="brevisa">
+<emphasis id="C1EFEAD8FF838E5F56F6FA432BEA531A" box="[662,685,1511,1536]" italics="true" pageId="0" pageNumber="83">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF838E5F56DCFA422A4A531A" box="[700,781,1510,1536]" italics="true" pageId="0" pageNumber="83">brevisa</emphasis>
+<bibRefCitation id="970A4B3BFF838E5F5776FA422A9C531A" author="Guo, L. Y. &amp; Shi, F. M." box="[790,987,1510,1536]" pageId="0" pageNumber="83" pagination="62 - 68" refId="ref2810" refString="Guo, L. Y. &amp; Shi, F. M. (2011) Descriptions of new species of the genus Woznessenskia (Orthoptera: Gryllacrididae: Gryllacridinae) from China. Zootaxa, 2784 (1), 62 - 68. https: // doi. org / 10.11646 / zootaxa. 2784.1.6" type="journal article" year="2011">Guo &amp; Shi, 2011</bibRefCitation>
+</taxonomicName>
+, and 
+<taxonomicName id="349B4D49FF838E5F5077FA432C19531A" _authorityPlausibility="0.9161083" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Guo &amp; Shi, 2011" authorityName="Guo &amp; Shi" authorityYear="2011" box="[1047,1374,1510,1536]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="arcoida">
+<emphasis id="C1EFEAD8FF838E5F5077FA432D69531A" box="[1047,1070,1511,1536]" italics="true" pageId="0" pageNumber="83">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF838E5F505EFA422DD3531A" box="[1086,1172,1510,1536]" italics="true" pageId="0" pageNumber="83">arcoida</emphasis>
+<bibRefCitation id="970A4B3BFF838E5F50FCFA422C19531A" author="Guo, L. Y. &amp; Shi, F. M." box="[1180,1374,1510,1536]" pageId="0" pageNumber="83" pagination="62 - 68" refId="ref2810" refString="Guo, L. Y. &amp; Shi, F. M. (2011) Descriptions of new species of the genus Woznessenskia (Orthoptera: Gryllacrididae: Gryllacridinae) from China. Zootaxa, 2784 (1), 62 - 68. https: // doi. org / 10.11646 / zootaxa. 2784.1.6" type="journal article" year="2011">Guo &amp; Shi, 2011</bibRefCitation>
+</taxonomicName>
+from 
+<collectingCountry id="8B8C765AFF838E5F54F7F9AE2999533E" box="[151,222,1546,1572]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+. Additional species 
+<taxonomicName id="349B4D49FF838E5F55A8F9AF2A43533E" _authorityPlausibility="0.9993593" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Ingrisch, 2018" authorityName="Ingrisch" authorityYear="2018" box="[456,772,1546,1572]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="ampliata">
+<emphasis id="C1EFEAD8FF838E5F55A8F9AF2898533E" box="[456,479,1547,1572]" italics="true" pageId="0" pageNumber="83">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF838E5F5590F9AE2B13533E" box="[496,596,1546,1572]" italics="true" pageId="0" pageNumber="83">ampliata</emphasis>
+<bibRefCitation id="970A4B3BFF838E5F563FF9AE2A43533E" author="Ingrisch, S." box="[607,772,1546,1572]" pageId="0" pageNumber="83" pagination="1 - 278" refId="ref2867" refString="Ingrisch, S. (2018) New taxa and records of Gryllacrididae (Orthoptera, Stenopelmatoidea) from South East Asia and New Guinea with a key to the genera. Zootaxa, 4510 (1), 1 - 278. https: // doi. org / 10.11646 / zootaxa. 4510.1.1" type="journal article" year="2018">Ingrisch, 2018</bibRefCitation>
+</taxonomicName>
+and 
+<taxonomicName id="349B4D49FF838E5F5721F9AF2D0A533E" _authorityPlausibility="0.9993593" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Ingrisch, 2018" authorityName="Ingrisch" authorityYear="2018" box="[833,1101,1546,1572]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="bavi">
+<emphasis id="C1EFEAD8FF838E5F5721F9AF2A1F533E" box="[833,856,1547,1572]" italics="true" pageId="0" pageNumber="83">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF838E5F570AF9AE2ADD533E" box="[874,922,1546,1572]" italics="true" pageId="0" pageNumber="83">bavi</emphasis>
+<bibRefCitation id="970A4B3BFF838E5F57C5F9AE2D0A533E" author="Ingrisch, S." box="[933,1101,1546,1572]" pageId="0" pageNumber="83" pagination="1 - 278" refId="ref2867" refString="Ingrisch, S. (2018) New taxa and records of Gryllacrididae (Orthoptera, Stenopelmatoidea) from South East Asia and New Guinea with a key to the genera. Zootaxa, 4510 (1), 1 - 278. https: // doi. org / 10.11646 / zootaxa. 4510.1.1" type="journal article" year="2018">Ingrisch, 2018</bibRefCitation>
+</taxonomicName>
+, were delineated by 
+<bibRefCitation id="970A4B3BFF838E5F5120F9AE29A55352" author="Ingrisch, S." pageId="0" pageNumber="83" pagination="1 - 278" refId="ref2867" refString="Ingrisch, S. (2018) New taxa and records of Gryllacrididae (Orthoptera, Stenopelmatoidea) from South East Asia and New Guinea with a key to the genera. Zootaxa, 4510 (1), 1 - 278. https: // doi. org / 10.11646 / zootaxa. 4510.1.1" type="journal article" year="2018">Ingrisch (2018)</bibRefCitation>
+from 
+<collectingCountry id="8B8C765AFF838E5F5549F98A28CB5352" box="[297,396,1582,1608]" name="Vietnam" pageId="0" pageNumber="83">Vietnam</collectingCountry>
+. Subsequently, 
+<bibRefCitation id="970A4B3BFF838E5F565BF98A2BB15352" author="Shi, F. M. &amp; Zhu, Q. D. &amp; Wang, H. J." box="[571,758,1582,1608]" pageId="0" pageNumber="83" pagination="191 - 200" refId="ref3125" refString="Shi, F. M., Zhu, Q. D. &amp; Wang, H. J. (2022) Review of the genus Woznessenskia Gorochov, 2002 (Orthoptera: Gryllacrididae) from China. Zootaxa, 5087 (1), 191 - 200. https: // doi. org / 10.11646 / zootaxa. 5087.1.9" type="journal article" year="2022">
+Shi 
+<emphasis id="C1EFEAD8FF838E5F5609F98B2BDB5352" box="[617,668,1582,1608]" italics="true" pageId="0" pageNumber="83">et al</emphasis>
+. (2022)
+</bibRefCitation>
+identified four new species, 
+<taxonomicName id="349B4D49FF838E5F5021F98B29955376" _authorityPlausibility="0.9850159" _evidence="catalog+fontStyle" _step="styledSpecies" authority=", Shi, Zhu &amp; Wang, 2022" authorityName="Shi, Zhu &amp; Wang" authorityYear="2022" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="incurva">
+<emphasis id="C1EFEAD8FF838E5F5021F98B2D1F5352" box="[1089,1112,1583,1608]" italics="true" pageId="0" pageNumber="83">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF838E5F5007F98B2DFA5352" box="[1127,1213,1583,1608]" italics="true" pageId="0" pageNumber="83">incurva</emphasis>
+, 
+<bibRefCitation id="970A4B3BFF838E5F50ACF98A29955376" author="Shi, F. M. &amp; Zhu, Q. D. &amp; Wang, H. J." pageId="0" pageNumber="83" pagination="191 - 200" refId="ref3125" refString="Shi, F. M., Zhu, Q. D. &amp; Wang, H. J. (2022) Review of the genus Woznessenskia Gorochov, 2002 (Orthoptera: Gryllacrididae) from China. Zootaxa, 5087 (1), 191 - 200. https: // doi. org / 10.11646 / zootaxa. 5087.1.9" type="journal article" year="2022">Shi, Zhu &amp; Wang, 2022</bibRefCitation>
+</taxonomicName>
+, 
+<taxonomicName id="349B4D49FF838E5F54BCF9F72B295376" _authorityPlausibility="0.9850159" _evidence="catalog+fontStyle" _step="styledSpecies" authority=", Shi, Zhu &amp; Wang, 2022" authorityName=", Shi, Zhu &amp; Wang" authorityYear="2022" box="[220,622,1618,1644]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="procera">
+<emphasis id="C1EFEAD8FF838E5F54BCF9F729B45376" box="[220,243,1619,1644]" italics="true" pageId="0" pageNumber="83">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF838E5F5560F9F7281F5376" box="[256,344,1619,1644]" italics="true" pageId="0" pageNumber="83">procera</emphasis>
+, 
+<bibRefCitation id="970A4B3BFF838E5F5505F9F62B295376" author="Shi, F. M. &amp; Zhu, Q. D. &amp; Wang, H. J." box="[357,622,1618,1644]" pageId="0" pageNumber="83" pagination="191 - 200" refId="ref3125" refString="Shi, F. M., Zhu, Q. D. &amp; Wang, H. J. (2022) Review of the genus Woznessenskia Gorochov, 2002 (Orthoptera: Gryllacrididae) from China. Zootaxa, 5087 (1), 191 - 200. https: // doi. org / 10.11646 / zootaxa. 5087.1.9" type="journal article" year="2022">Shi, Zhu &amp; Wang, 2022</bibRefCitation>
+</taxonomicName>
+, 
+<taxonomicName id="349B4D49FF838E5F5618F9F72D495376" _authorityPlausibility="0.9850159" _evidence="catalog+fontStyle" _step="styledSpecies" authority=", Shi, Zhu &amp; Wang, 2022" authorityName="Shi, Zhu &amp; Wang" authorityYear="2022" box="[632,1038,1618,1644]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="truncata">
+<emphasis id="C1EFEAD8FF838E5F5618F9F72BC85376" box="[632,655,1619,1644]" italics="true" pageId="0" pageNumber="83">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF838E5F56FCF9F72BBC5376" box="[668,763,1619,1644]" italics="true" pageId="0" pageNumber="83">truncata</emphasis>
+, 
+<bibRefCitation id="970A4B3BFF838E5F5768F9F62D495376" author="Shi, F. M. &amp; Zhu, Q. D. &amp; Wang, H. J." box="[776,1038,1618,1644]" pageId="0" pageNumber="83" pagination="191 - 200" refId="ref3125" refString="Shi, F. M., Zhu, Q. D. &amp; Wang, H. J. (2022) Review of the genus Woznessenskia Gorochov, 2002 (Orthoptera: Gryllacrididae) from China. Zootaxa, 5087 (1), 191 - 200. https: // doi. org / 10.11646 / zootaxa. 5087.1.9" type="journal article" year="2022">Shi, Zhu &amp; Wang, 2022</bibRefCitation>
+</taxonomicName>
+and 
+<taxonomicName id="349B4D49FF838E5F5022F9F72988538A" _authorityPlausibility="0.9850159" _evidence="catalog+fontStyle" _step="styledSpecies" authority=", Shi, Zhu &amp; Wang, 2022" authorityName=", Shi, Zhu &amp; Wang" authorityYear="2022" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="combina">
+<emphasis id="C1EFEAD8FF838E5F5022F9F72D1E5376" box="[1090,1113,1619,1644]" italics="true" pageId="0" pageNumber="83">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF838E5F5007F9F62D805376" box="[1127,1223,1618,1644]" italics="true" pageId="0" pageNumber="83">combina</emphasis>
+, 
+<bibRefCitation id="970A4B3BFF838E5F50B4F9F62988538A" author="Shi, F. M. &amp; Zhu, Q. D. &amp; Wang, H. J." pageId="0" pageNumber="83" pagination="191 - 200" refId="ref3125" refString="Shi, F. M., Zhu, Q. D. &amp; Wang, H. J. (2022) Review of the genus Woznessenskia Gorochov, 2002 (Orthoptera: Gryllacrididae) from China. Zootaxa, 5087 (1), 191 - 200. https: // doi. org / 10.11646 / zootaxa. 5087.1.9" type="journal article" year="2022">Shi, Zhu &amp; Wang, 2022</bibRefCitation>
+</taxonomicName>
+from 
+<collectingCountry id="8B8C765AFF838E5F5576F9D2281A538A" box="[278,349,1654,1680]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+. As of now, the genus 
+<taxonomicName id="349B4D49FF838E5F563EF9D22A44538A" _evidence="catalogs" _step="genera" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[606,771,1654,1680]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="genus">
+<emphasis id="C1EFEAD8FF838E5F563EF9D22A44538A" box="[606,771,1654,1680]" italics="true" pageId="0" pageNumber="83">Woznessenskia</emphasis>
+</taxonomicName>
+includes thirteen species, with eight species reported from 
+<collectingCountry id="8B8C765AFF838E5F54F7F93E299D53AE" box="[151,218,1690,1716]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+and five species reported from 
+<collectingCountry id="8B8C765AFF838E5F565CF93E2BDC53AE" box="[572,667,1690,1716]" name="Vietnam" pageId="0" pageNumber="83">Vietnam</collectingCountry>
+(
+<tableCitation id="BE190371FF838E5F56C9F93E2BBA53AE" box="[681,765,1690,1716]" captionStart="TABLE 1" captionStartId="1.[151,239,151,175]" captionTargetPageId="1" captionText="TABLE 1. Type localities of Woznessenskia species." httpUri="http://table.plazi.org/id/A7E46642FF828E5E54F7FF332B9155B5" pageId="0" pageNumber="83" tableUuid="A7E46642FF828E5E54F7FF332B9155B5">Table 1</tableCitation>
+).
+</paragraph>
+<paragraph id="F32436CAFF838E5F54A7F91A2DCE523A" blockId="0.[151,1437,1402,1824]" pageId="0" pageNumber="83">
+In this paper, 
+<taxonomicName id="349B4D49FF838E5F5507F91B28A353C2" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He, 2024" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[359,484,1726,1752]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="83" phylum="Arthropoda" rank="species" species="lianhua" status="sp. nov.">
+<emphasis id="C1EFEAD8FF838E5F5507F91B283953C2" box="[359,382,1727,1752]" italics="true" pageId="0" pageNumber="83">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF838E5F55EEF91A28A353C2" box="[398,484,1726,1752]" italics="true" pageId="0" pageNumber="83">lianhua</emphasis>
+</taxonomicName>
+<emphasis id="C1EFEAD8FF838E5F558DF91A2B0F53C2" bold="true" box="[493,584,1726,1752]" pageId="0" pageNumber="83">
+<taxonomicNameLabel id="DADC57A3FF838E5F558DF91A2B0F53C2" box="[493,584,1726,1752]" pageId="0" pageNumber="83" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+, a new species from 
+<collectingRegion id="315FF828FF838E5F5720F91A2AD353C2" box="[832,916,1726,1752]" country="China" name="Xizang" pageId="0" pageNumber="83">Xizang</collectingRegion>
+, 
+<collectingCountry id="8B8C765AFF838E5F57C1F91A2AA353C2" box="[929,996,1726,1752]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+is described. It is different from other species in its spotless pronotum and needle-like apex of the processes on male tenth abdominal tergite. The 
+<typeStatus id="2C208868FF838E5F510CF9462CDB53E6" box="[1388,1436,1762,1788]" pageId="0" pageNumber="83">type</typeStatus>
+specimen is deposited in the Museum of Biology, East 
+<collectingCountry id="8B8C765AFF838E5F569FF8A22A05523A" box="[767,834,1798,1824]" name="China" pageId="0" pageNumber="83">China</collectingCountry>
+Normal University (ECNU).
+</paragraph>
+</subSection>
+<caption id="A7E46642FF828E5E54F7FF332B9155B5" ID-Table-UUID="A7E46642FF828E5E54F7FF332B9155B5" box="[151,726,151,175]" httpUri="http://table.plazi.org/id/A7E46642FF828E5E54F7FF332B9155B5" pageId="1" pageNumber="84" startId="1.[151,239,151,175]" targetBox="[163,1372,191,770]" targetIsTable="true" targetPageId="1" targetType="table">
+<paragraph id="F32436CAFF828E5E54F7FF332B9155B5" blockId="1.[151,726,151,175]" box="[151,726,151,175]" pageId="1" pageNumber="84">
+TABLE 1. Type localities of 
+<taxonomicName id="349B4D49FF828E5E55B6FF332B9155B5" box="[470,726,151,175]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="C1EFEAD8FF828E5E55B6FF332B3D55B5" bold="true" box="[470,634,151,175]" italics="true" pageId="1" pageNumber="84">Woznessenskia</emphasis>
+species.
+</taxonomicName>
+</paragraph>
+</caption>
+<paragraph id="F32436CAFF828E5E54C3FF1B2DCF561B" pageId="1" pageNumber="84">
+<table id="819BC46AFF8271A054C3FF1B2C1B5618" box="[163,1372,191,770]" gridcols="2" gridrows="14" pageId="1" pageNumber="84">
+<tr id="4DAB3488FF8271A054C3FF1B2C1B55C2" box="[163,1372,191,216]" gridrow="0" pageId="1" pageNumber="84">
+<th id="0E7A5DF4FF8271A054C3FF1B2B7E55C2" box="[163,569,191,216]" gridcol="0" gridrow="0" pageId="1" pageNumber="84">species</th>
+<th id="0E7A5DF4FF8271A05745FF1B2C1B55C2" box="[805,1372,191,216]" gridcol="1" gridrow="0" pageId="1" pageNumber="84">type specimen locality</th>
+</tr>
+<tr id="4DAB3488FF8271A054C3FF432C1B541A" box="[163,1372,231,256]" gridrow="1" pageId="1" pageNumber="84">
+<td id="0E7A5DF4FF8271A054C3FF432B7E541A" box="[163,569,231,256]" gridcol="0" gridrow="1" pageId="1" pageNumber="84">
+1. 
+<taxonomicName id="349B4D49FF828E5E54DCFF4C2B6755E5" _authorityPlausibility="0.93901706" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Bey-Bienko, 1962)" baseAuthorityName="Bey-Bienko" baseAuthorityYear="1962" box="[188,544,231,256]" class="Insecta" family="Gryllacrididae" genus="Borneogryllacris" higherTaxonomySource="GBIF" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="curvicauda">
+<emphasis id="C1EFEAD8FF828E5E54DCFF4C299655E5" box="[188,209,232,255]" italics="true" pageId="1" pageNumber="84">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF828E5E54BEFF4C2817541A" box="[222,336,232,256]" italics="true" pageId="1" pageNumber="84">curvicauda</emphasis>
+(
+<bibRefCitation id="970A4B3BFF828E5E553DFF4C2B5E55E5" author="Bey-Bienko, G. Y." box="[349,537,231,256]" pageId="1" pageNumber="84" pagination="110 - 138" refId="ref2497" refString="Bey-Bienko, G. Y. (1962) Results of the Chinese-Soviet zoological-botanical expeditions to south western China 1955 - 1957. New or less known Tettigonioidea (Orthoptera) from Szechuan and Yunnan. Trudy Zoologitscheskogo Instituta, Akademiia Nauk SSSR, Leningrad [Proceedings of the Zoological Institute, USSR Academy of Sciences, Leningrad], 30, 110 - 138." type="journal article" year="1962">Bey-Bienko, 1962</bibRefCitation>
+)
+</taxonomicName>
+</td>
+<td id="0E7A5DF4FF8271A05745FF432C1B541A" box="[805,1372,231,256]" gridcol="1" gridrow="1" pageId="1" pageNumber="84">Mount Emei, Sichuan, China</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FEB42C1B5432" box="[163,1372,272,296]" gridrow="2" pageId="1" pageNumber="84">
+<td id="0E7A5DF4FF8271A054C3FEB42B7E5432" box="[163,569,272,296]" gridcol="0" gridrow="2" pageId="1" pageNumber="84">
+2. 
+<taxonomicName id="349B4D49FF828E5E54DCFEB528915432" _authorityPlausibility="0.9987213" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Gorochov, 2002" authorityName="Gorochov" authorityYear="2002" box="[188,470,272,296]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="finitima">
+<emphasis id="C1EFEAD8FF828E5E54DCFEB529965432" box="[188,209,273,296]" italics="true" pageId="1" pageNumber="84">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF828E5E54BEFEB4286A5432" box="[222,301,272,296]" italics="true" pageId="1" pageNumber="84">finitima</emphasis>
+<bibRefCitation id="970A4B3BFF828E5E5553FEB428915432" author="Gorochov, A. V." box="[307,470,272,296]" pageId="1" pageNumber="84" pagination="765 - 781" refId="ref2728" refString="Gorochov, A. V. (2002) Contribution to the knowledge of the fauna and systematics of the Stenopelmatoidea (Orthoptera) of Indochina and some other territories. III. Entomologicheskoe Obozrenie, 81, 318 - 337. [2003, Russian; English translation in: Entomological Review, 82 (7), 765 - 781 (Data on fauna and taxonomy of Stenopelmatoidea (Orthoptera) from Indochina and other territories: III)]" type="journal article" year="2002">Gorochov, 2002</bibRefCitation>
+</taxonomicName>
+</td>
+<td id="0E7A5DF4FF8271A05745FEB42C1B5432" box="[805,1372,272,296]" gridcol="1" gridrow="2" pageId="1" pageNumber="84">Near village Tam Dao, Vinh Phu Province, Vietnam</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FE9C2C1B544A" box="[163,1372,312,336]" gridrow="3" pageId="1" pageNumber="84">
+<td id="0E7A5DF4FF8271A054C3FE9C2B7E544A" box="[163,569,312,336]" gridcol="0" gridrow="3" pageId="1" pageNumber="84">
+3. 
+<taxonomicName id="349B4D49FF828E5E54DCFE9D2893544A" _authorityPlausibility="0.9987213" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Gorochov, 2002" authorityName="Gorochov" authorityYear="2002" box="[188,468,312,336]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="arcuate">
+<emphasis id="C1EFEAD8FF828E5E54DCFE9D2996544A" box="[188,209,313,336]" italics="true" pageId="1" pageNumber="84">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF828E5E54BEFE9D286D544A" box="[222,298,313,336]" italics="true" pageId="1" pageNumber="84">arcuate</emphasis>
+<bibRefCitation id="970A4B3BFF828E5E5550FE9C2893544A" author="Gorochov, A. V." box="[304,468,312,336]" pageId="1" pageNumber="84" pagination="765 - 781" refId="ref2728" refString="Gorochov, A. V. (2002) Contribution to the knowledge of the fauna and systematics of the Stenopelmatoidea (Orthoptera) of Indochina and some other territories. III. Entomologicheskoe Obozrenie, 81, 318 - 337. [2003, Russian; English translation in: Entomological Review, 82 (7), 765 - 781 (Data on fauna and taxonomy of Stenopelmatoidea (Orthoptera) from Indochina and other territories: III)]" type="journal article" year="2002">Gorochov, 2002</bibRefCitation>
+</taxonomicName>
+</td>
+<td id="0E7A5DF4FF8271A05745FE9C2C1B544A" box="[805,1372,312,336]" gridcol="1" gridrow="3" pageId="1" pageNumber="84">Near village Buon Luoi, Gia Lai Province, Vietnam</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FEC42C1B5463" box="[163,1372,352,377]" gridrow="4" pageId="1" pageNumber="84">
+<td id="0E7A5DF4FF8271A054C3FEC42B7E5463" box="[163,569,352,377]" gridcol="0" gridrow="4" pageId="1" pageNumber="84">
+4. 
+<taxonomicName id="349B4D49FF828E5E54DCFEC528A15463" _authorityPlausibility="0.9987213" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Gorochov, 2002" authorityName="Gorochov" authorityYear="2002" box="[188,486,352,377]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="deminuta">
+<emphasis id="C1EFEAD8FF828E5E54DCFEC529965462" box="[188,209,353,376]" italics="true" pageId="1" pageNumber="84">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF828E5E54BEFEC4287B5462" box="[222,316,352,376]" italics="true" pageId="1" pageNumber="84">deminuta</emphasis>
+<bibRefCitation id="970A4B3BFF828E5E5522FEC428A15463" author="Gorochov, A. V." box="[322,486,352,377]" pageId="1" pageNumber="84" pagination="765 - 781" refId="ref2728" refString="Gorochov, A. V. (2002) Contribution to the knowledge of the fauna and systematics of the Stenopelmatoidea (Orthoptera) of Indochina and some other territories. III. Entomologicheskoe Obozrenie, 81, 318 - 337. [2003, Russian; English translation in: Entomological Review, 82 (7), 765 - 781 (Data on fauna and taxonomy of Stenopelmatoidea (Orthoptera) from Indochina and other territories: III)]" type="journal article" year="2002">Gorochov, 2002</bibRefCitation>
+</taxonomicName>
+</td>
+<td id="0E7A5DF4FF8271A05745FEC42C1B5463" box="[805,1372,352,377]" gridcol="1" gridrow="4" pageId="1" pageNumber="84">Tam Dao National Park, Vinh Phu Province, Vietnam</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FE2C2C1B54BB" box="[163,1372,392,417]" gridrow="5" pageId="1" pageNumber="84">
+<td id="0E7A5DF4FF8271A054C3FE2C2B7E54BB" box="[163,569,392,417]" gridcol="0" gridrow="5" pageId="1" pageNumber="84">
+5. 
+<taxonomicName id="349B4D49FF828E5E54DCFE2D289954BB" _authorityPlausibility="0.9161083" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Guo &amp; Shi, 2011" authorityName="Guo &amp; Shi" authorityYear="2011" box="[188,478,393,417]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="arcoida">
+<emphasis id="C1EFEAD8FF828E5E54DCFE2D299654BA" box="[188,209,393,416]" italics="true" pageId="1" pageNumber="84">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF828E5E54BEFE2D286B54BB" box="[222,300,393,417]" italics="true" pageId="1" pageNumber="84">arcoida</emphasis>
+<bibRefCitation id="970A4B3BFF828E5E5552FE2D289954BB" author="Guo, L. Y. &amp; Shi, F. M." box="[306,478,393,417]" pageId="1" pageNumber="84" pagination="62 - 68" refId="ref2810" refString="Guo, L. Y. &amp; Shi, F. M. (2011) Descriptions of new species of the genus Woznessenskia (Orthoptera: Gryllacrididae: Gryllacridinae) from China. Zootaxa, 2784 (1), 62 - 68. https: // doi. org / 10.11646 / zootaxa. 2784.1.6" type="journal article" year="2011">Guo &amp; Shi, 2011</bibRefCitation>
+</taxonomicName>
+</td>
+<td id="0E7A5DF4FF8271A05745FE2C2C1B54BB" box="[805,1372,392,417]" gridcol="1" gridrow="5" pageId="1" pageNumber="84">Jiuwandashan, Rongshui, Guangxi, China</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FE152C1B54D3" box="[163,1372,433,457]" gridrow="6" pageId="1" pageNumber="84">
+<td id="0E7A5DF4FF8271A054C3FE152B7E54D3" box="[163,569,433,457]" gridcol="0" gridrow="6" pageId="1" pageNumber="84">
+6. 
+<taxonomicName id="349B4D49FF828E5E54DCFE16289D54D3" _authorityPlausibility="0.9161083" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Guo &amp; Shi, 2011" authorityName="Guo &amp; Shi" authorityYear="2011" box="[188,474,433,457]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="brevisa">
+<emphasis id="C1EFEAD8FF828E5E54DCFE16299654D3" box="[188,209,434,457]" italics="true" pageId="1" pageNumber="84">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF828E5E54BEFE15286F54D3" box="[222,296,433,457]" italics="true" pageId="1" pageNumber="84">brevisa</emphasis>
+<bibRefCitation id="970A4B3BFF828E5E554EFE15289D54D3" author="Guo, L. Y. &amp; Shi, F. M." box="[302,474,433,457]" pageId="1" pageNumber="84" pagination="62 - 68" refId="ref2810" refString="Guo, L. Y. &amp; Shi, F. M. (2011) Descriptions of new species of the genus Woznessenskia (Orthoptera: Gryllacrididae: Gryllacridinae) from China. Zootaxa, 2784 (1), 62 - 68. https: // doi. org / 10.11646 / zootaxa. 2784.1.6" type="journal article" year="2011">Guo &amp; Shi, 2011</bibRefCitation>
+</taxonomicName>
+</td>
+<td id="0E7A5DF4FF8271A05745FE152C1B54D3" box="[805,1372,433,457]" gridcol="1" gridrow="6" pageId="1" pageNumber="84">Bawangling, Changjiang, Hainan, China</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FE7D2C1B54E8" box="[163,1372,473,498]" gridrow="7" pageId="1" pageNumber="84">
+<td id="0E7A5DF4FF8271A054C3FE7D2B7E54E8" box="[163,569,473,498]" gridcol="0" gridrow="7" pageId="1" pageNumber="84">
+7. 
+<taxonomicName id="349B4D49FF828E5E54DCFE7E28A854EB" _authorityPlausibility="0.9161083" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Guo &amp; Shi, 2011" authorityName="Guo &amp; Shi" authorityYear="2011" box="[188,495,473,497]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="bimacula">
+<emphasis id="C1EFEAD8FF828E5E54DCFE7E299654EB" box="[188,209,474,497]" italics="true" pageId="1" pageNumber="84">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF828E5E54BEFE7D287B54EB" box="[222,316,473,497]" italics="true" pageId="1" pageNumber="84">bimacula</emphasis>
+<bibRefCitation id="970A4B3BFF828E5E5522FE7D28A854EB" author="Guo, L. Y. &amp; Shi, F. M." box="[322,495,473,497]" pageId="1" pageNumber="84" pagination="62 - 68" refId="ref2810" refString="Guo, L. Y. &amp; Shi, F. M. (2011) Descriptions of new species of the genus Woznessenskia (Orthoptera: Gryllacrididae: Gryllacridinae) from China. Zootaxa, 2784 (1), 62 - 68. https: // doi. org / 10.11646 / zootaxa. 2784.1.6" type="journal article" year="2011">Guo &amp; Shi, 2011</bibRefCitation>
+</taxonomicName>
+</td>
+<td id="0E7A5DF4FF8271A05745FE7D2C1B54E8" box="[805,1372,473,498]" gridcol="1" gridrow="7" pageId="1" pageNumber="84">Gulinjing, Maguan, Yunnan, China</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FDA52C1B5700" box="[163,1372,513,538]" gridrow="8" pageId="1" pageNumber="84">
+<td id="0E7A5DF4FF8271A054C3FDA52B7E5700" box="[163,569,513,538]" gridcol="0" gridrow="8" pageId="1" pageNumber="84">
+8. 
+<taxonomicName id="349B4D49FF828E5E54DCFDA628965700" _authorityPlausibility="0.9993593" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Ingrisch, 2018" authorityName="Ingrisch" authorityYear="2018" box="[188,465,513,538]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="ampliata">
+<emphasis id="C1EFEAD8FF828E5E54DCFDA629965703" box="[188,209,514,537]" italics="true" pageId="1" pageNumber="84">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF828E5E54BEFDA5287F5703" box="[222,312,513,537]" italics="true" pageId="1" pageNumber="84">ampliata</emphasis>
+<bibRefCitation id="970A4B3BFF828E5E555EFDA528965700" author="Ingrisch, S." box="[318,465,513,538]" pageId="1" pageNumber="84" pagination="1 - 278" refId="ref2867" refString="Ingrisch, S. (2018) New taxa and records of Gryllacrididae (Orthoptera, Stenopelmatoidea) from South East Asia and New Guinea with a key to the genera. Zootaxa, 4510 (1), 1 - 278. https: // doi. org / 10.11646 / zootaxa. 4510.1.1" type="journal article" year="2018">Ingrisch, 2018</bibRefCitation>
+</taxonomicName>
+</td>
+<td id="0E7A5DF4FF8271A05745FDA52C1B5700" box="[805,1372,513,538]" gridcol="1" gridrow="8" pageId="1" pageNumber="84">Cuc Phuong National Park, Hanoi Province, Vietnam</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FD8E2C1B5758" box="[163,1372,554,578]" gridrow="9" pageId="1" pageNumber="84">
+<td id="0E7A5DF4FF8271A054C3FD8E2B7E5758" box="[163,569,554,578]" gridcol="0" gridrow="9" pageId="1" pageNumber="84">
+9. 
+<taxonomicName id="349B4D49FF828E5E54DCFD8E28E55758" _authorityPlausibility="0.9993593" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Ingrisch, 2018" authorityName="Ingrisch" authorityYear="2018" box="[188,418,554,578]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="bavi">
+<emphasis id="C1EFEAD8FF828E5E54DCFD8E2996575B" box="[188,209,554,577]" italics="true" pageId="1" pageNumber="84">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF828E5E54BEFD8E284D5758" box="[222,266,554,578]" italics="true" pageId="1" pageNumber="84">bavi</emphasis>
+<bibRefCitation id="970A4B3BFF828E5E5570FD8E28E55758" author="Ingrisch, S." box="[272,418,554,578]" pageId="1" pageNumber="84" pagination="1 - 278" refId="ref2867" refString="Ingrisch, S. (2018) New taxa and records of Gryllacrididae (Orthoptera, Stenopelmatoidea) from South East Asia and New Guinea with a key to the genera. Zootaxa, 4510 (1), 1 - 278. https: // doi. org / 10.11646 / zootaxa. 4510.1.1" type="journal article" year="2018">Ingrisch, 2018</bibRefCitation>
+</taxonomicName>
+</td>
+<td id="0E7A5DF4FF8271A05745FD8E2C1B5758" box="[805,1372,554,578]" gridcol="1" gridrow="9" pageId="1" pageNumber="84">Ba Vi National Park, Hanoi Province, Vietnam</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FDF62C1B5770" box="[163,1372,594,618]" gridrow="10" pageId="1" pageNumber="84">
+<td id="0E7A5DF4FF8271A054C3FDF62B7E5770" box="[163,569,594,618]" gridcol="0" gridrow="10" pageId="1" pageNumber="84">
+10. 
+<taxonomicName id="349B4D49FF828E5E54A9FDF72B695770" _authorityPlausibility="0.9850159" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Shi, Zhu &amp; Wang, 2022" authorityName="Shi, Zhu &amp; Wang" authorityYear="2022" box="[201,558,594,618]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="incurve">
+<emphasis id="C1EFEAD8FF828E5E54A9FDF729995770" box="[201,222,595,618]" italics="true" pageId="1" pageNumber="84">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF828E5E548AFDF728715770" box="[234,310,595,618]" italics="true" pageId="1" pageNumber="84">incurve</emphasis>
+<bibRefCitation id="970A4B3BFF828E5E555DFDF62B695770" author="Shi, F. M. &amp; Zhu, Q. D. &amp; Wang, H. J." box="[317,558,594,618]" pageId="1" pageNumber="84" pagination="191 - 200" refId="ref3125" refString="Shi, F. M., Zhu, Q. D. &amp; Wang, H. J. (2022) Review of the genus Woznessenskia Gorochov, 2002 (Orthoptera: Gryllacrididae) from China. Zootaxa, 5087 (1), 191 - 200. https: // doi. org / 10.11646 / zootaxa. 5087.1.9" type="journal article" year="2022">Shi, Zhu &amp; Wang, 2022</bibRefCitation>
+</taxonomicName>
+</td>
+<td id="0E7A5DF4FF8271A05745FDF62C1B5770" box="[805,1372,594,618]" gridcol="1" gridrow="10" pageId="1" pageNumber="84">Meizihu, Puer, Yunnan, China</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FDDE2C1B57AB" box="[163,1372,634,689]" gridrow="11" pageId="1" pageNumber="84">
+<td id="0E7A5DF4FF8271A054C3FDDE2B7E57AB" box="[163,569,634,689]" gridcol="0" gridrow="11" pageId="1" pageNumber="84">
+11. 
+<taxonomicName id="349B4D49FF828E5E54A8FDDF2B775788" _authorityPlausibility="0.9850159" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Shi, Zhu &amp; Wang, 2022" authorityName=", Shi, Zhu &amp; Wang" authorityYear="2022" box="[200,560,634,659]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="procera">
+<emphasis id="C1EFEAD8FF828E5E54A8FDDF299A5788" box="[200,221,635,658]" italics="true" pageId="1" pageNumber="84">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF828E5E5489FDDF287F5788" box="[233,312,635,658]" italics="true" pageId="1" pageNumber="84">procera</emphasis>
+<bibRefCitation id="970A4B3BFF828E5E555FFDDE2B775788" author="Shi, F. M. &amp; Zhu, Q. D. &amp; Wang, H. J." box="[319,560,634,659]" pageId="1" pageNumber="84" pagination="191 - 200" refId="ref3125" refString="Shi, F. M., Zhu, Q. D. &amp; Wang, H. J. (2022) Review of the genus Woznessenskia Gorochov, 2002 (Orthoptera: Gryllacrididae) from China. Zootaxa, 5087 (1), 191 - 200. https: // doi. org / 10.11646 / zootaxa. 5087.1.9" type="journal article" year="2022">Shi, Zhu &amp; Wang, 2022</bibRefCitation>
+</taxonomicName>
+</td>
+<td id="0E7A5DF4FF8271A05745FDDE2C1B57AB" box="[805,1372,634,689]" gridcol="1" gridrow="11" pageId="1" pageNumber="84">Nanling National Nature Reserve, Ruyuan, Guangdong, China</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FD652C1B57C0" box="[163,1372,705,730]" gridrow="12" pageId="1" pageNumber="84">
+<td id="0E7A5DF4FF8271A054C3FD652B7E57C0" box="[163,569,705,730]" gridcol="0" gridrow="12" pageId="1" pageNumber="84">
+12. 
+<taxonomicName id="349B4D49FF828E5E54A9FD662B7157C3" _authorityPlausibility="0.9850159" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Shi, Zhu &amp; Wang, 2022" authorityName="Shi, Zhu &amp; Wang" authorityYear="2022" box="[201,566,705,730]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="truncate">
+<emphasis id="C1EFEAD8FF828E5E54A9FD66299957C3" box="[201,222,706,729]" italics="true" pageId="1" pageNumber="84">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF828E5E548AFD66287957C3" box="[234,318,706,729]" italics="true" pageId="1" pageNumber="84">truncate</emphasis>
+<bibRefCitation id="970A4B3BFF828E5E5525FD652B7157C3" author="Shi, F. M. &amp; Zhu, Q. D. &amp; Wang, H. J." box="[325,566,705,730]" pageId="1" pageNumber="84" pagination="191 - 200" refId="ref3125" refString="Shi, F. M., Zhu, Q. D. &amp; Wang, H. J. (2022) Review of the genus Woznessenskia Gorochov, 2002 (Orthoptera: Gryllacrididae) from China. Zootaxa, 5087 (1), 191 - 200. https: // doi. org / 10.11646 / zootaxa. 5087.1.9" type="journal article" year="2022">Shi, Zhu &amp; Wang, 2022</bibRefCitation>
+</taxonomicName>
+</td>
+<td id="0E7A5DF4FF8271A05745FD652C1B57C0" box="[805,1372,705,730]" gridcol="1" gridrow="12" pageId="1" pageNumber="84">Babaoshan, Ruyuan, Guangdong, China</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FD4D2C1B5618" box="[163,1372,745,770]" gridrow="13" pageId="1" pageNumber="84">
+<td id="0E7A5DF4FF8271A054C3FD4D2B7E5618" box="[163,569,745,770]" gridcol="0" gridrow="13" pageId="1" pageNumber="84">
+13. 
+<taxonomicName id="349B4D49FF828E5E54A9FD4E2B7E5618" _authorityPlausibility="0.9850159" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Shi, Zhu &amp; Wang, 2022" authorityName=", Shi, Zhu &amp; Wang" authorityYear="2022" box="[201,569,745,770]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="species" species="combina">
+<emphasis id="C1EFEAD8FF828E5E54A9FD4E2999561B" box="[201,222,746,769]" italics="true" pageId="1" pageNumber="84">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF828E5E548AFD4D2806561B" box="[234,321,745,769]" italics="true" pageId="1" pageNumber="84">combina</emphasis>
+<bibRefCitation id="970A4B3BFF828E5E5528FD4D2B7E5618" author="Shi, F. M. &amp; Zhu, Q. D. &amp; Wang, H. J." box="[328,569,745,770]" pageId="1" pageNumber="84" pagination="191 - 200" refId="ref3125" refString="Shi, F. M., Zhu, Q. D. &amp; Wang, H. J. (2022) Review of the genus Woznessenskia Gorochov, 2002 (Orthoptera: Gryllacrididae) from China. Zootaxa, 5087 (1), 191 - 200. https: // doi. org / 10.11646 / zootaxa. 5087.1.9" type="journal article" year="2022">Shi, Zhu &amp; Wang, 2022</bibRefCitation>
+</taxonomicName>
+</td>
+<td id="0E7A5DF4FF8271A05745FD4D2C1B5618" box="[805,1372,745,770]" gridcol="1" gridrow="13" pageId="1" pageNumber="84">Huangsha, Lingui, Guangxi, China</td>
+</tr>
+</table>
+</paragraph>
+<subSection id="9A142F21FF828E5E54F7FCF12B7C5005" _generate="added" pageId="1" pageNumber="84" type="materials_methods">
+<paragraph id="F32436CAFF828E5E54F7FCF128EB5675" blockId="1.[151,428,853,879]" box="[151,428,853,879]" pageId="1" pageNumber="84">
+<heading id="A86C81A6FF828E5E54F7FCF128EB5675" bold="true" box="[151,428,853,879]" fontSize="11" level="1" pageId="1" pageNumber="84" reason="1">
+<emphasis id="C1EFEAD8FF828E5E54F7FCF128EB5675" bold="true" box="[151,428,853,879]" pageId="1" pageNumber="84">Material and methods</emphasis>
+</heading>
+</paragraph>
+<paragraph id="F32436CAFF828E5E54F7FC392B7C5005" blockId="1.[151,1437,925,1312]" pageId="1" pageNumber="84">
+Living individuals were photographed by Canon G7X3.Abdominal features were photographed just after individuals killed by ethanol. Fore wing venation was photographed with Nikon D3100 equipped with TAMRON SP 
+<quantity id="34639B2FFF828E5E5135FC652CDB56C1" box="[1365,1436,961,987]" metricMagnitude="-2" metricUnit="m" metricValue="9.0" pageId="1" pageNumber="84" unit="mm" value="90.0">90mm</quantity>
+F/2.8 Di MACRO 1:1 VC USD. All other diagnostic characteristics were photographed by a Leica M125 stereo microscope, and micro-graphs were captured with SC2000 digital CMOS camera and arranged using a combination of Adobe Photoshop 
+<date id="8725100AFF828E5E55ECFB89289C515D" box="[396,475,1069,1095]" pageId="1" pageNumber="84" value="2023-05">2023 v</date>
+24.3.0 and Adobe Illustrator 2022. Measurements conform to the standards of 
+<bibRefCitation id="970A4B3BFF828E5E510CFB89287E5171" author="Guo, L. Y. &amp; Shi, F. M." pageId="1" pageNumber="84" pagination="62 - 68" refId="ref2810" refString="Guo, L. Y. &amp; Shi, F. M. (2011) Descriptions of new species of the genus Woznessenskia (Orthoptera: Gryllacrididae: Gryllacridinae) from China. Zootaxa, 2784 (1), 62 - 68. https: // doi. org / 10.11646 / zootaxa. 2784.1.6" type="journal article" year="2011">Guo &amp; Shi (2011)</bibRefCitation>
+. The measurements were conducted in accordance with the conventions outlined below: body length—distance from apex of fastigium verticis to posterior margin of ninth abdominal tergite in the midline; pronotum length—distance from anterior to posterior margins of pronotum; fore wings length—distance from base of fore wings to apex; postfemur length—distance from base of postfemur to apex of genicular lobe of postfemur; ovipositor—distance from basal margin of subgenital plate to apex of ovipositor. Nomenclature of fore wings veins follows 
+<bibRefCitation id="970A4B3BFF828E5E5492FAA128E75005" author="Ingrisch, S." box="[242,416,1285,1311]" pageId="1" pageNumber="84" pagination="1 - 278" refId="ref2867" refString="Ingrisch, S. (2018) New taxa and records of Gryllacrididae (Orthoptera, Stenopelmatoidea) from South East Asia and New Guinea with a key to the genera. Zootaxa, 4510 (1), 1 - 278. https: // doi. org / 10.11646 / zootaxa. 4510.1.1" type="journal article" year="2018">Ingrisch (2018)</bibRefCitation>
+as in 
+<tableCitation id="BE190371FF828E5E5581FAA12B705005" box="[481,567,1285,1311]" captionStart="TABLE 2" captionStartId="1.[151,239,1359,1383]" captionTargetPageId="1" captionText="TABLE 2. Abbreviations for wing venation." httpUri="http://table.plazi.org/id/A7E46642FF828E5E54F7FAEB2BC1507D" pageId="1" pageNumber="84" tableUuid="A7E46642FF828E5E54F7FAEB2BC1507D">Table 2</tableCitation>
+.
+</paragraph>
+</subSection>
+<caption id="A7E46642FF828E5E54F7FAEB2BC1507D" ID-Table-UUID="A7E46642FF828E5E54F7FAEB2BC1507D" box="[151,646,1359,1383]" httpUri="http://table.plazi.org/id/A7E46642FF828E5E54F7FAEB2BC1507D" pageId="1" pageNumber="84" startId="1.[151,239,1359,1383]" targetBox="[163,1310,1399,1624]" targetIsTable="true" targetPageId="1" targetType="table">
+<paragraph id="F32436CAFF828E5E54F7FAEB2BC1507D" blockId="1.[151,646,1359,1383]" box="[151,646,1359,1383]" pageId="1" pageNumber="84">TABLE 2. Abbreviations for wing venation.</paragraph>
+</caption>
+<paragraph id="F32436CAFF828E5E54C3FAD32DE05342" pageId="1" pageNumber="84">
+<table id="819BC46AFF8271A054C3FAD32C595342" box="[163,1310,1399,1624]" gridcols="4" gridrows="6" pageId="1" pageNumber="84">
+<tr id="4DAB3488FF8271A054C3FAD32C595095" box="[163,1310,1399,1423]" gridrow="0" pageId="1" pageNumber="84">
+<th id="0E7A5DF4FF8271A054C3FAD328745095" box="[163,307,1399,1423]" gridcol="0" gridrow="0" pageId="1" pageNumber="84">Abbreviations</th>
+<th id="0E7A5DF4FF8271A05584FAD32BD45095" box="[484,659,1399,1423]" gridcol="1" gridrow="0" pageId="1" pageNumber="84">full name</th>
+<th id="0E7A5DF4FF8271A05745FAD32AF25095" box="[805,949,1399,1423]" gridcol="2" gridrow="0" pageId="1" pageNumber="84">Abbreviations</th>
+<th id="0E7A5DF4FF8271A05006FAD32C595095" box="[1126,1310,1399,1423]" gridcol="3" gridrow="0" pageId="1" pageNumber="84">full name</th>
+</tr>
+<tr id="4DAB3488FF8271A054C3FA3B2C5950AD" box="[163,1310,1439,1463]" gridrow="1" pageId="1" pageNumber="84">
+<th id="0E7A5DF4FF8271A054C3FA3B287450AD" box="[163,307,1439,1463]" gridcol="0" gridrow="1" pageId="1" pageNumber="84">MA</th>
+<td id="0E7A5DF4FF8271A05584FA3B2BD450AD" box="[484,659,1439,1463]" gridcol="1" gridrow="1" pageId="1" pageNumber="84">Media anterior</td>
+<td id="0E7A5DF4FF8271A05745FA3B2AF250AD" box="[805,949,1439,1463]" gridcol="2" gridrow="1" pageId="1" pageNumber="84">R</td>
+<td id="0E7A5DF4FF8271A05006FA3B2C5950AD" box="[1126,1310,1439,1463]" gridcol="3" gridrow="1" pageId="1" pageNumber="84">Radius</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FA632C5950C5" box="[163,1310,1479,1503]" gridrow="2" pageId="1" pageNumber="84">
+<th id="0E7A5DF4FF8271A054C3FA63287450C5" box="[163,307,1479,1503]" gridcol="0" gridrow="2" pageId="1" pageNumber="84">MP</th>
+<td id="0E7A5DF4FF8271A05584FA632BD450C5" box="[484,659,1479,1503]" gridcol="1" gridrow="2" pageId="1" pageNumber="84">Media posterior</td>
+<td id="0E7A5DF4FF8271A05745FA632AF250C5" box="[805,949,1479,1503]" gridcol="2" gridrow="2" pageId="1" pageNumber="84">R-M</td>
+<td id="0E7A5DF4FF8271A05006FA632C5950C5" box="[1126,1310,1479,1503]" gridcol="3" gridrow="2" pageId="1" pageNumber="84">Radius-Media</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3FA542C595312" box="[163,1310,1520,1544]" gridrow="3" pageId="1" pageNumber="84">
+<th id="0E7A5DF4FF8271A054C3FA5428745312" box="[163,307,1520,1544]" gridcol="0" gridrow="3" pageId="1" pageNumber="84">Cu</th>
+<td id="0E7A5DF4FF8271A05584FA542BD45312" box="[484,659,1520,1544]" gridcol="1" gridrow="3" pageId="1" pageNumber="84">Cubitus</td>
+<td id="0E7A5DF4FF8271A05745FA542AF25312" box="[805,949,1520,1544]" gridcol="2" gridrow="3" pageId="1" pageNumber="84">CuA1</td>
+<td id="0E7A5DF4FF8271A05006FA542C595312" box="[1126,1310,1520,1544]" gridcol="3" gridrow="3" pageId="1" pageNumber="84">Cubitus anterior 1</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3F9BC2C59532A" box="[163,1310,1560,1584]" gridrow="4" pageId="1" pageNumber="84">
+<th id="0E7A5DF4FF8271A054C3F9BC2874532A" box="[163,307,1560,1584]" gridcol="0" gridrow="4" pageId="1" pageNumber="84">CuA</th>
+<td id="0E7A5DF4FF8271A05584F9BC2BD4532A" box="[484,659,1560,1584]" gridcol="1" gridrow="4" pageId="1" pageNumber="84">Cubitus anterior</td>
+<td id="0E7A5DF4FF8271A05745F9BC2AF2532A" box="[805,949,1560,1584]" gridcol="2" gridrow="4" pageId="1" pageNumber="84">CuA2</td>
+<td id="0E7A5DF4FF8271A05006F9BC2C59532A" box="[1126,1310,1560,1584]" gridcol="3" gridrow="4" pageId="1" pageNumber="84">Cubitus anterior 2</td>
+</tr>
+<tr id="4DAB3488FF8271A054C3F9E42C595342" box="[163,1310,1600,1624]" gridrow="5" pageId="1" pageNumber="84">
+<th id="0E7A5DF4FF8271A054C3F9E428745342" box="[163,307,1600,1624]" gridcol="0" gridrow="5" pageId="1" pageNumber="84">CuP</th>
+<td id="0E7A5DF4FF8271A05584F9E42BD45342" box="[484,659,1600,1624]" gridcol="1" gridrow="5" pageId="1" pageNumber="84">Cubitus posterior</td>
+<td id="0E7A5DF4FF8271A05745F9E42AF25342" box="[805,949,1600,1624]" gridcol="2" gridrow="5" pageId="1" pageNumber="84">M</td>
+<td id="0E7A5DF4FF8271A05006F9E42C595342" box="[1126,1310,1600,1624]" gridcol="3" gridrow="5" pageId="1" pageNumber="84">Media</td>
+</tr>
+</table>
+</paragraph>
+<subSection id="9A142F21FF828E5E54F7F908285D53DC" _generate="added" box="[151,282,1708,1734]" pageId="1" pageNumber="84" type="multiple">
+<paragraph id="F32436CAFF828E5E54F7F908285D53DC" blockId="1.[151,282,1708,1734]" box="[151,282,1708,1734]" pageId="1" pageNumber="84">
+<heading id="A86C81A6FF828E5E54F7F908285D53DC" bold="true" box="[151,282,1708,1734]" fontSize="11" level="1" pageId="1" pageNumber="84" reason="1">
+<emphasis id="C1EFEAD8FF828E5E54F7F908285D53DC" bold="true" box="[151,282,1708,1734]" pageId="1" pageNumber="84">Taxonomy</emphasis>
+</heading>
+</paragraph>
+</subSection>
+<subSection id="9A142F21FF828E5E54F7F9572B7F5214" _generate="added" _reason="heading_only_treatment" box="[151,568,1779,1806]" pageId="1" pageNumber="84" type="multiple">
+<paragraph id="F32436CAFF828E5E54F7F9572B7F5214" blockId="1.[151,568,1779,1806]" box="[151,568,1779,1806]" pageId="1" pageNumber="84">
+<heading id="A86C81A6FF828E5E54F7F9572B7F5214" bold="true" box="[151,568,1779,1806]" fontSize="11" level="1" pageId="1" pageNumber="84" reason="1">
+<emphasis id="C1EFEAD8FF828E5E54F7F9572B7F5214" bold="true" box="[151,568,1779,1806]" pageId="1" pageNumber="84">
+Order 
+<taxonomicName id="349B4D49FF828E5E548CF9572B7F5214" _authorityPlausibility="0.6088009" _evidence="catalogs" _step="order" authority="Latreille, 1810" authorityName="Latreille" authorityYear="1810" box="[236,568,1779,1806]" class="Magnoliopsida" higherTaxonomySource="GBIF" kingdom="Plantae" order="Orthoptera" pageId="1" pageNumber="84" phylum="Tracheophyta" rank="order">Orthoptera Latreille, 1810</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSection>
+<subSection id="9A142F21FF828E5E54F7F89F2BC3524C" _generate="added" _reason="heading_only_treatment" box="[151,644,1851,1878]" pageId="1" pageNumber="84" type="multiple">
+<paragraph id="F32436CAFF828E5E54F7F89F2BC3524C" blockId="1.[151,644,1851,1878]" box="[151,644,1851,1878]" pageId="1" pageNumber="84">
+<heading id="A86C81A6FF828E5E54F7F89F2BC3524C" bold="true" box="[151,644,1851,1878]" fontSize="11" level="1" pageId="1" pageNumber="84" reason="1">
+<emphasis id="C1EFEAD8FF828E5E54F7F89F2BC3524C" bold="true" box="[151,644,1851,1878]" pageId="1" pageNumber="84">
+Family 
+<taxonomicName id="349B4D49FF828E5E5497F89F2BC3524C" _authorityPlausibility="0.9999483" _evidence="catalogs" _step="family" authority="Blanchard, 1845" authorityName="Blanchard" authorityYear="1845" box="[247,644,1851,1878]" class="Insecta" family="Gryllacrididae" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="family">Gryllacrididae Blanchard, 1845</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSection>
+<subSection id="9A142F21FF828E5E54F7F8272A585284" _generate="added" _reason="heading_only_treatment" box="[151,799,1923,1950]" pageId="1" pageNumber="84" type="multiple">
+<paragraph id="F32436CAFF828E5E54F7F8272A585284" blockId="1.[151,799,1923,1950]" box="[151,799,1923,1950]" pageId="1" pageNumber="84">
+<heading id="A86C81A6FF828E5E54F7F8272A585284" bold="true" box="[151,799,1923,1950]" fontSize="11" level="1" pageId="1" pageNumber="84" reason="1">
+<emphasis id="C1EFEAD8FF828E5E54F7F8272A585284" bold="true" box="[151,799,1923,1950]" pageId="1" pageNumber="84">
+Subfamily 
+<taxonomicName id="349B4D49FF828E5E557FF8272A585284" _authorityPlausibility="0.7698494" _evidence="label" _plausibility="0.976669" _step="labeledHigher" authority="Cadena-Castaneda, 2019" authorityName="Cadena-Castaneda" authorityYear="2019" box="[287,799,1923,1950]" class="Insecta" family="Gryllacrididae" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="84" phylum="Arthropoda" rank="subFamily" subFamily="Hyperbaeninae">
+Hyperbaeninae 
+<bibRefCitation id="970A4B3BFF828E5E5587F8272A585284" author="Cadena-Castaneda, O. J." box="[487,799,1923,1950]" pageId="1" pageNumber="84" pagination="1 - 100" refId="ref2612" refString="Cadena-Castaneda, O. J. (2019) A proposal towards classification of the raspy crickets (Orthoptera: Stenopelmatoidea: Gryllacrididae) with zoogeographical comments: An initial contribution to the higher classification of the Gryllacridines. Zootaxa, 4605 (1), 1 - 100. https: // doi. org / 10.11646 / zootaxa. 4605.1.1" type="journal article" year="2019">Cadena-Castañeda, 2019</bibRefCitation>
+</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSection>
+<treatment id="7B3287DCFF818E5D54F7FF322DA9540B" ID-DOI="http://doi.org/10.5281/zenodo.10718382" ID-GBIF-Taxon="221749704" ID-Zenodo-Dep="10718382" _generate="added" pageId="2" pageNumber="85">
+<subSubSection id="BB816541FF818E5D54F7FF322B1055AA" _generate="retained" box="[151,599,150,177]" pageId="2" pageNumber="85" type="nomenclature">
+<paragraph id="F32436CAFF818E5D54F7FF322B1055AA" blockId="2.[151,599,150,177]" box="[151,599,150,177]" pageId="2" pageNumber="85">
+<heading id="A86C81A6FF818E5D54F7FF322B1055AA" bold="true" box="[151,599,150,177]" fontSize="11" level="1" pageId="2" pageNumber="85" reason="1">
+<emphasis id="C1EFEAD8FF818E5D54F7FF322B1055AA" bold="true" box="[151,599,150,177]" pageId="2" pageNumber="85">
+Genus 
+<taxonomicName id="349B4D49FF818E5D548AFF322B1055AA" ID-CoL="8P2TC" _authorityPlausibility="0.9987213" _evidence="catalogs" _step="genera" authority="Gorochov, 2002" authorityName="Gorochov" authorityYear="2002" box="[234,599,150,177]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="2" pageNumber="85" phylum="Arthropoda" rank="genus">
+<emphasis id="C1EFEAD8FF818E5D548AFF3228D155AB" bold="true" box="[234,406,150,177]" italics="true" pageId="2" pageNumber="85">Woznessenskia</emphasis>
+<bibRefCitation id="970A4B3BFF818E5D55FDFF322B1055AA" author="Gorochov, A. V." box="[413,599,150,176]" pageId="2" pageNumber="85" pagination="765 - 781" refId="ref2728" refString="Gorochov, A. V. (2002) Contribution to the knowledge of the fauna and systematics of the Stenopelmatoidea (Orthoptera) of Indochina and some other territories. III. Entomologicheskoe Obozrenie, 81, 318 - 337. [2003, Russian; English translation in: Entomological Review, 82 (7), 765 - 781 (Data on fauna and taxonomy of Stenopelmatoidea (Orthoptera) from Indochina and other territories: III)]" type="journal article" year="2002">Gorochov, 2002</bibRefCitation>
+</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="BB816541FF818E5D54F7FF7F2BFC55E9" _generate="retained" box="[151,699,219,243]" pageId="2" pageNumber="85" type="type_taxon">
+<paragraph id="F32436CAFF818E5D54F7FF7F2BFC55E9" blockId="2.[151,1262,219,273]" box="[151,699,219,243]" pageId="2" pageNumber="85">
+<typeStatus id="2C208868FF818E5D54F7FF7F298E55E9" box="[151,201,219,243]" pageId="2" pageNumber="85">Type</typeStatus>
+species: 
+<taxonomicName id="349B4D49FF818E5D5546FF7F2BFC55E9" _authorityPlausibility="0.9987213" _evidence="catalogs" _step="species1" authority="Gorochov, 2002" authorityName="Gorochov" authorityYear="2002" box="[294,699,219,243]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="2" pageNumber="85" phylum="Arthropoda" rank="species" species="finitima">
+<emphasis id="C1EFEAD8FF818E5D5546FF7F2B5655E9" box="[294,529,219,243]" italics="true" pageId="2" pageNumber="85">Woznessenskia finitima</emphasis>
+<bibRefCitation id="970A4B3BFF818E5D5677FF7F2BFC55E9" author="Gorochov, A. V." box="[535,699,219,243]" pageId="2" pageNumber="85" pagination="765 - 781" refId="ref2728" refString="Gorochov, A. V. (2002) Contribution to the knowledge of the fauna and systematics of the Stenopelmatoidea (Orthoptera) of Indochina and some other territories. III. Entomologicheskoe Obozrenie, 81, 318 - 337. [2003, Russian; English translation in: Entomological Review, 82 (7), 765 - 781 (Data on fauna and taxonomy of Stenopelmatoidea (Orthoptera) from Indochina and other territories: III)]" type="journal article" year="2002">Gorochov, 2002</bibRefCitation>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="BB816541FF818E5D54F7FF5D2DA9540B" _generate="retained" box="[151,1262,249,273]" pageId="2" pageNumber="85" type="reference_group">
+<paragraph id="F32436CAFF818E5D54F7FF5D2DA9540B" blockId="2.[151,1262,219,273]" box="[151,1262,249,273]" pageId="2" pageNumber="85">
+<taxonomicName id="349B4D49FF818E5D54F7FF5D28A7540B" ID-CoL="8P2TC" _authorityPlausibility="0.9987213" _evidence="catalogs" _step="genera" authority="Gorochov, 2002" authorityName="Gorochov" authorityYear="2002" box="[151,480,249,273]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="2" pageNumber="85" phylum="Arthropoda" rank="genus">
+<emphasis id="C1EFEAD8FF818E5D54F7FF5D2874540B" bold="true" box="[151,307,249,273]" italics="true" pageId="2" pageNumber="85">Woznessenskia</emphasis>
+<bibRefCitation id="970A4B3BFF818E5D5559FF5D28A7540B" author="Gorochov, A. V." box="[313,480,249,273]" pageId="2" pageNumber="85" pagination="765 - 781" refId="ref2728" refString="Gorochov, A. V. (2002) Contribution to the knowledge of the fauna and systematics of the Stenopelmatoidea (Orthoptera) of Indochina and some other territories. III. Entomologicheskoe Obozrenie, 81, 318 - 337. [2003, Russian; English translation in: Entomological Review, 82 (7), 765 - 781 (Data on fauna and taxonomy of Stenopelmatoidea (Orthoptera) from Indochina and other territories: III)]" type="journal article" year="2002">Gorochov, 2002</bibRefCitation>
+</taxonomicName>
+; 
+<bibRefCitation id="970A4B3BFF818E5D558AFF5D2BDE540B" author="Guo, L. Y. &amp; Shi, F. M." box="[490,665,249,273]" pageId="2" pageNumber="85" pagination="62 - 68" refId="ref2810" refString="Guo, L. Y. &amp; Shi, F. M. (2011) Descriptions of new species of the genus Woznessenskia (Orthoptera: Gryllacrididae: Gryllacridinae) from China. Zootaxa, 2784 (1), 62 - 68. https: // doi. org / 10.11646 / zootaxa. 2784.1.6" type="journal article" year="2011">Guo &amp; Shi, 2011</bibRefCitation>
+; 
+<bibRefCitation id="970A4B3BFF818E5D56C3FF5D2A7E540B" author="Ingrisch, S." box="[675,825,249,273]" pageId="2" pageNumber="85" pagination="1 - 278" refId="ref2867" refString="Ingrisch, S. (2018) New taxa and records of Gryllacrididae (Orthoptera, Stenopelmatoidea) from South East Asia and New Guinea with a key to the genera. Zootaxa, 4510 (1), 1 - 278. https: // doi. org / 10.11646 / zootaxa. 4510.1.1" type="journal article" year="2018">Ingrisch, 2018</bibRefCitation>
+; 
+<bibRefCitation id="970A4B3BFF818E5D5723FF5D2D05540B" author="Cadena-Castaneda, O. J." box="[835,1090,249,273]" pageId="2" pageNumber="85" pagination="1 - 100" refId="ref2612" refString="Cadena-Castaneda, O. J. (2019) A proposal towards classification of the raspy crickets (Orthoptera: Stenopelmatoidea: Gryllacrididae) with zoogeographical comments: An initial contribution to the higher classification of the Gryllacridines. Zootaxa, 4605 (1), 1 - 100. https: // doi. org / 10.11646 / zootaxa. 4605.1.1" type="journal article" year="2019">Cadena-Castañeda, 2019</bibRefCitation>
+; 
+<bibRefCitation id="970A4B3BFF818E5D502CFF5D2DAD540B" author="Shi, F. M. &amp; Zhu, Q. D. &amp; Wang, H. J." box="[1100,1258,249,273]" pageId="2" pageNumber="85" pagination="191 - 200" refId="ref3125" refString="Shi, F. M., Zhu, Q. D. &amp; Wang, H. J. (2022) Review of the genus Woznessenskia Gorochov, 2002 (Orthoptera: Gryllacrididae) from China. Zootaxa, 5087 (1), 191 - 200. https: // doi. org / 10.11646 / zootaxa. 5087.1.9" type="journal article" year="2022">
+Shi 
+<emphasis id="C1EFEAD8FF818E5D5014FF5E2DE6540B" box="[1140,1185,249,273]" italics="true" pageId="2" pageNumber="85">et al</emphasis>
+., 2022
+</bibRefCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment id="7B3287DCFF818E5D54F7FEC728975292" ID-DOI="http://doi.org/10.5281/zenodo.10718384" ID-GBIF-Taxon="221749706" ID-Zenodo-Dep="10718384" _generate="added" pageId="2" pageNumber="85">
+<subSubSection id="BB816541FF818E5D54F7FEC72ACD5466" _generate="retained" box="[151,906,355,382]" pageId="2" pageNumber="85" type="nomenclature">
+<paragraph id="F32436CAFF818E5D54F7FEC72ACD5466" blockId="2.[151,906,355,418]" box="[151,906,355,382]" pageId="2" pageNumber="85">
+<heading id="A86C81A6FF818E5D54F7FEC72ACD5466" bold="true" box="[151,906,355,382]" fontSize="11" level="1" pageId="2" pageNumber="85" reason="1">
+<emphasis id="C1EFEAD8FF818E5D54F7FEC72ACD5466" bold="true" box="[151,906,355,382]" pageId="2" pageNumber="85">
+<taxonomicName id="349B4D49FF818E5D54F7FEC728F55464" _evidence="statusLabel" _step="newLabel1" authority="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He, 2024" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[151,434,355,382]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="2" pageNumber="85" phylum="Arthropoda" rank="species" species="lianhua" status="sp. nov.">
+<emphasis id="C1EFEAD8FF818E5D54F7FEC728F55464" bold="true" box="[151,434,355,382]" italics="true" pageId="2" pageNumber="85">Woznessenskia lianhua</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="DADC57A3FF818E5D55D9FEC02B515464" box="[441,534,356,382]" pageId="2" pageNumber="85" rank="species">sp. nov.</taxonomicNameLabel>
+Zhang, Hu &amp; He NJa沃DZẽ
+</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="BB816541FF818E5D54F7FE2328B954B8" _generate="retained" box="[151,510,391,418]" pageId="2" pageNumber="85" type="description">
+<paragraph id="F32436CAFF818E5D54F7FE2328B954B8" blockId="2.[151,906,355,418]" box="[151,510,391,418]" pageId="2" pageNumber="85">
+<figureCitation id="6BA02A4FFF818E5D54F7FE23285654B8" box="[151,273,391,418]" captionStart="FIGURE 1" captionStartId="3.[151,250,998,1022]" captionTargetBox="[344,1245,183,971]" captionTargetId="figure-17@3.[340,1247,179,971]" captionTargetPageId="3" captionText="FIGURE 1. Photographs of male Woznessenskia lianhua sp. nov. (holotype, ECNU-4948). A face in frontal view B–C head and pronotum in lateral and dorsal view respectively D–G apex of abdomen in ventral, dorsal, lateral and posterior view respectively H apex of projections of the tenth abdominal tergite in lateral view I posttibiae in dorsal view." figureDoi="http://doi.org/10.5281/zenodo.10718166" httpUri="https://zenodo.org/record/10718166/files/figure.png" pageId="2" pageNumber="85">Figs. 1A–I</figureCitation>
+, 
+<figureCitation id="6BA02A4FFF818E5D557DFE2C281954B8" box="[285,350,392,418]" captionStart="FIGURE 2" captionStartId="3.[151,250,1759,1783]" captionTargetBox="[345,1243,1158,1731]" captionTargetId="figure-80@3.[340,1247,1154,1736]" captionTargetPageId="3" captionText="FIGURE 2. Photographs of female Woznessenskia lianhua sp. nov. (paratype, ECNU-5053). A face in front view B–C head and pronotum in lateral and dorsal view respectively D–E end of abdomen in ventral and dorsal view respectively F ovipositor in lateral view." figureDoi="http://doi.org/10.5281/zenodo.10718168" httpUri="https://zenodo.org/record/10718168/files/figure.png" pageId="2" pageNumber="85">2A–F</figureCitation>
+, 
+<figureCitation id="6BA02A4FFF818E5D5509FE2C28E854B8" box="[361,431,392,418]" captionStart="FIGURE 3" captionStartId="4.[151,250,1142,1166]" captionTargetBox="[348,1243,187,1112]" captionTargetId="figure-17@4.[340,1247,181,1117]" captionTargetPageId="4" captionText="FIGURE 3. Venations of Woznessenskia lianhua sp. nov. A male left fore wing (holotype, ECNU-4948) B female left fore wing (paratype, ECNU-5053) C the enlarged image of red-bordered area in A, blue-shaded areas representing the areas between R-M and CuA1-CuA2 D the enlarged image of red-bordered area in B, blue-shaded areas representing the areas between R-M and CuA1-CuA2." figureDoi="http://doi.org/10.5281/zenodo.10718170" httpUri="https://zenodo.org/record/10718170/files/figure.png" pageId="2" pageNumber="85">3A–D</figureCitation>
+, 
+<figureCitation id="6BA02A4FFF818E5D55DBFE2C28B954B8" box="[443,510,392,418]" captionStart="FIGURE 4" captionStartId="4.[151,250,1634,1658]" captionTargetBox="[348,1241,1306,1598]" captionTargetId="figure-82@4.[340,1247,1298,1610]" captionTargetPageId="4" captionText="FIGURE 4. Photographs of living Woznessenskia lianhua sp. nov. of male (A) and female (B)." figureDoi="http://doi.org/10.5281/zenodo.10718173" httpUri="https://zenodo.org/record/10718173/files/figure.png" pageId="2" pageNumber="85">4A–B</figureCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="BB816541FF818E5D54F7FE6B28B75717" _generate="added" pageId="2" pageNumber="85" type="diagnosis">
+<paragraph id="F32436CAFF818E5D54F7FE6B28B75717" blockId="2.[151,1437,463,1930]" pageId="2" pageNumber="85">
+<emphasis id="C1EFEAD8FF818E5D54F7FE6B285554F3" bold="true" box="[151,274,463,489]" pageId="2" pageNumber="85">Diagnosis.</emphasis>
+Pronotum without darkish spots, apex of processes on male tenth abdominal tergite needle-like, while those of other species serrated.
+</paragraph>
+</subSubSection>
+<subSubSection id="BB816541FF818E5D54A7FDB32A055760" _generate="added" pageId="2" pageNumber="85" type="materials_examined">
+<paragraph id="F32436CAFF818E5D54A7FDB32AF0574C" blockId="2.[151,1437,463,1930]" pageId="2" pageNumber="85">
+<emphasis id="C1EFEAD8FF818E5D54A7FDB32882572B" bold="true" box="[199,453,535,561]" pageId="2" pageNumber="85">Specimens examined.</emphasis>
+<materialsCitation id="43F33C97FF818E5D55ABFDBC2AF0574C" ID-GBIF-Occurrence="4526337301" collectingDate="2023-07-27" collectorName="Zhu-Qing He" country="China" county="Medog County" elevation="805" latitude="29.264166" location="Beibeng Township" longLatPrecision="12" longitude="95.22317" pageId="2" pageNumber="85" specimenCount="1" specimenCount-male="1" stateProvince="Xizang" typeStatus="holotype">
+<emphasis id="C1EFEAD8FF818E5D55ABFDBC2B065728" bold="true" box="[459,577,536,562]" pageId="2" pageNumber="85">
+<typeStatus id="2C208868FF818E5D55ABFDBC2B7B5728" box="[459,572,536,562]" pageId="2" pageNumber="85" type="holotype">Holotype</typeStatus>
+:
+</emphasis>
+<specimenCount id="E59DFD43FF818E5D5627FDBC2B1B5728" box="[583,604,536,562]" count="1" pageId="2" pageNumber="85" type="male">♂</specimenCount>
+<location id="F6446011FF818E5D5602FDB32A72572B" box="[610,821,535,561]" country="China" county="Medog County" latitude="29.264166" longLatPrecision="12" longitude="95.22317" name="Beibeng Township" pageId="2" pageNumber="85" stateProvince="Xizang">Beibeng Township</location>
+, 
+<collectingCounty id="1A454E46FF818E5D575FFDB32AAF5728" box="[831,1000,535,562]" pageId="2" pageNumber="85">Medog County</collectingCounty>
+, 
+<collectingRegion id="315FF828FF818E5D5791FDB32D02572B" box="[1009,1093,535,561]" country="China" name="Xizang" pageId="2" pageNumber="85">Xizang</collectingRegion>
+, 
+<collectingCountry id="8B8C765AFF818E5D502FFDB32DD5572B" box="[1103,1170,535,561]" name="China" pageId="2" pageNumber="85">China</collectingCountry>
+(
+<geoCoordinate id="96AF500DFF818E5D50C4FDBD2C6D5728" box="[1188,1322,536,564]" degrees="29" direction="north" minutes="15.85" orientation="latitude" pageId="2" pageNumber="85" precision="9" value="29.264166">29°15.85′ N</geoCoordinate>
+<geoCoordinate id="96AF500DFF818E5D5150FDBD29ED574C" degrees="95" direction="east" minutes="13.39" orientation="longitude" pageId="2" pageNumber="85" precision="9" value="95.22317">95°13.39′ E</geoCoordinate>
+, Alt. 
+<quantity id="34639B2FFF818E5D5487FD9F2876574C" box="[231,305,571,598]" metricMagnitude="2" metricUnit="m" metricValue="8.05" pageId="2" pageNumber="85" unit="m" value="805.0">
+<elevation id="78B6D1F9FF818E5D5487FD9F2876574C" box="[231,305,571,598]" metricMagnitude="2" metricUnit="m" metricValue="8.05" pageId="2" pageNumber="85" unit="m" value="805.0">805 m</elevation>
+</quantity>
+), 
+<date id="8725100AFF818E5D5525FD98289F574C" box="[325,472,571,598]" pageId="2" pageNumber="85" value="2023-07-27">
+<collectingDate id="9761E9E2FF818E5D5525FD98289F574C" box="[325,472,571,598]" pageId="2" pageNumber="85" value="2023-07-27">27 July 2023</collectingDate>
+</date>
+, collected by 
+<collectorName id="5E6E531CFF818E5D5612FD9F2A4E574C" box="[626,777,571,598]" pageId="2" pageNumber="85">Zhu-Qing He</collectorName>
+(ECNU-4948).
+</materialsCitation>
+</paragraph>
+<paragraph id="F32436CAFF818E5D54A7FDC42A055760" blockId="2.[151,1437,463,1930]" box="[199,834,607,634]" pageId="2" pageNumber="85">
+<materialsCitation id="43F33C97FF818E5D54A7FDC42A7C5760" ID-GBIF-Occurrence="4526337302" box="[199,827,607,634]" collectingDate="2023-07-27" collectorName="Zhu-Qing He" country="China" county="Medog County" elevation="805" latitude="29.264166" location="Beibeng Township" longLatPrecision="12" longitude="95.22317" pageId="2" pageNumber="85" specimenCount="1" specimenCount-female="1" stateProvince="Xizang" typeStatus="paratype">
+<emphasis id="C1EFEAD8FF818E5D54A7FDC4287A5760" bold="true" box="[199,317,608,634]" pageId="2" pageNumber="85">
+<typeStatus id="2C208868FF818E5D54A7FDC4287F5760" box="[199,312,608,634]" pageId="2" pageNumber="85" type="paratype">Paratype</typeStatus>
+:
+</emphasis>
+<specimenCount id="E59DFD43FF818E5D5524FDC428205760" box="[324,359,608,634]" count="1" pageId="2" pageNumber="85" type="female">1♀</specimenCount>
+, same data as for holotype (ECNU-5053)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="BB816541FF818E5D54A7FD272B425204" _generate="retained" pageId="2" pageNumber="85" type="description">
+<paragraph id="F32436CAFF818E5D54A7FD272BE25784" blockId="2.[151,1437,463,1930]" box="[199,677,643,670]" pageId="2" pageNumber="85">
+<emphasis id="C1EFEAD8FF818E5D54A7FD2728E45784" bold="true" box="[199,419,643,670]" pageId="2" pageNumber="85">Description. Male.</emphasis>
+Body large (&gt; 
+<quantity id="34639B2FFF818E5D5624FD202BDE5784" box="[580,665,644,670]" metricMagnitude="-2" metricUnit="m" metricValue="2.0" pageId="2" pageNumber="85" unit="mm" value="20.0">20 mm</quantity>
+).
+</paragraph>
+<paragraph id="F32436CAFF818E5D54A7FD0C2A3A57FC" blockId="2.[151,1437,463,1930]" pageId="2" pageNumber="85">
+<emphasis id="C1EFEAD8FF818E5D54A7FD0C284957D8" bold="true" box="[199,270,680,706]" pageId="2" pageNumber="85">Head.</emphasis>
+Face narrow and oval; fastigium verticis almost as broad as antennal scape; vertex obtusely rounded (
+<figureCitation id="6BA02A4FFF818E5D54FFFD6F285C57FC" box="[159,283,715,742]" captionStart="FIGURE 1" captionStartId="3.[151,250,998,1022]" captionTargetBox="[344,1245,183,971]" captionTargetId="figure-17@3.[340,1247,179,971]" captionTargetPageId="3" captionText="FIGURE 1. Photographs of male Woznessenskia lianhua sp. nov. (holotype, ECNU-4948). A face in frontal view B–C head and pronotum in lateral and dorsal view respectively D–G apex of abdomen in ventral, dorsal, lateral and posterior view respectively H apex of projections of the tenth abdominal tergite in lateral view I posttibiae in dorsal view." figureDoi="http://doi.org/10.5281/zenodo.10718166" httpUri="https://zenodo.org/record/10718166/files/figure.png" pageId="2" pageNumber="85">Fig. 1A–B</figureCitation>
+); compound eyes ovate, protruding outward (
+<figureCitation id="6BA02A4FFF818E5D5778FD6F2A2857FC" box="[792,879,715,742]" captionStart="FIGURE 1" captionStartId="3.[151,250,998,1022]" captionTargetBox="[344,1245,183,971]" captionTargetId="figure-17@3.[340,1247,179,971]" captionTargetPageId="3" captionText="FIGURE 1. Photographs of male Woznessenskia lianhua sp. nov. (holotype, ECNU-4948). A face in frontal view B–C head and pronotum in lateral and dorsal view respectively D–G apex of abdomen in ventral, dorsal, lateral and posterior view respectively H apex of projections of the tenth abdominal tergite in lateral view I posttibiae in dorsal view." figureDoi="http://doi.org/10.5281/zenodo.10718166" httpUri="https://zenodo.org/record/10718166/files/figure.png" pageId="2" pageNumber="85">Fig. 1C</figureCitation>
+).
+</paragraph>
+<paragraph id="F32436CAFF818E5D54A7FD542DDC5610" blockId="2.[151,1437,463,1930]" box="[199,1179,751,778]" pageId="2" pageNumber="85">
+<emphasis id="C1EFEAD8FF818E5D54A7FD5428005610" bold="true" box="[199,327,752,778]" pageId="2" pageNumber="85">Pronotum.</emphasis>
+Anterior margin slightly protruding; posterior margin rounded (
+<figureCitation id="6BA02A4FFF818E5D5074FD4B2DC85610" box="[1044,1167,751,778]" captionStart="FIGURE 1" captionStartId="3.[151,250,998,1022]" captionTargetBox="[344,1245,183,971]" captionTargetId="figure-17@3.[340,1247,179,971]" captionTargetPageId="3" captionText="FIGURE 1. Photographs of male Woznessenskia lianhua sp. nov. (holotype, ECNU-4948). A face in frontal view B–C head and pronotum in lateral and dorsal view respectively D–G apex of abdomen in ventral, dorsal, lateral and posterior view respectively H apex of projections of the tenth abdominal tergite in lateral view I posttibiae in dorsal view." figureDoi="http://doi.org/10.5281/zenodo.10718166" httpUri="https://zenodo.org/record/10718166/files/figure.png" pageId="2" pageNumber="85">Fig. 1A–C</figureCitation>
+).
+</paragraph>
+<paragraph id="F32436CAFF818E5D54A7FCB02B7856A7" blockId="2.[151,1437,463,1930]" pageId="2" pageNumber="85">
+<emphasis id="C1EFEAD8FF818E5D54A7FCB028415634" bold="true" box="[199,262,788,814]" pageId="2" pageNumber="85">Legs.</emphasis>
+Procoxa with a spine along anterior margin; profemur and mesofemur without spine; protibiae and mesotibiae with four pairs of lengthy ventral spines and one pair of short ventral spurs; mesotibiae with a subapical spur on inner dorsal side; postfemora with ten inner spines and eight outer spines on ventral margin (
+<figureCitation id="6BA02A4FFF818E5D515CFCFF2CCB566C" box="[1340,1420,859,886]" captionStart="FIGURE 1" captionStartId="3.[151,250,998,1022]" captionTargetBox="[344,1245,183,971]" captionTargetId="figure-17@3.[340,1247,179,971]" captionTargetPageId="3" captionText="FIGURE 1. Photographs of male Woznessenskia lianhua sp. nov. (holotype, ECNU-4948). A face in frontal view B–C head and pronotum in lateral and dorsal view respectively D–G apex of abdomen in ventral, dorsal, lateral and posterior view respectively H apex of projections of the tenth abdominal tergite in lateral view I posttibiae in dorsal view." figureDoi="http://doi.org/10.5281/zenodo.10718166" httpUri="https://zenodo.org/record/10718166/files/figure.png" pageId="2" pageNumber="85">Fig. 1I</figureCitation>
+); posttibiae with six inner spines and seven outer spines on dorsal margin, ventral margins with one pre-apical spine each, three apical spurs on both sides.
+</paragraph>
+<paragraph id="F32436CAFF818E5D54A7FC6329A5518F" blockId="2.[151,1437,463,1930]" pageId="2" pageNumber="85">
+<emphasis id="C1EFEAD8FF818E5D54A7FC63285D56FB" bold="true" box="[199,282,967,993]" pageId="2" pageNumber="85">Wings.</emphasis>
+Fore wings obviously surpassing abdomen, close to three times as long as postfemora; R with two branches, both forked near tip; M bifurcated into MA and MP, MA without further branch and free; MP extending downwards for a distance, and intersecting with CuA1 to form MP+CuA1, which extending forwards for a distance and then bifurcated again for two parallel veins; CuA bifurcated into CuA1 and CuA2, CuA1 connecting with MP, CuA2 without further branch and free; CuP free throughout (
+<figureCitation id="6BA02A4FFF818E5D573DFBF32A995168" box="[861,990,1111,1138]" captionStart="FIGURE 3" captionStartId="4.[151,250,1142,1166]" captionTargetBox="[348,1243,187,1112]" captionTargetId="figure-17@4.[340,1247,181,1117]" captionTargetPageId="4" captionText="FIGURE 3. Venations of Woznessenskia lianhua sp. nov. A male left fore wing (holotype, ECNU-4948) B female left fore wing (paratype, ECNU-5053) C the enlarged image of red-bordered area in A, blue-shaded areas representing the areas between R-M and CuA1-CuA2 D the enlarged image of red-bordered area in B, blue-shaded areas representing the areas between R-M and CuA1-CuA2." figureDoi="http://doi.org/10.5281/zenodo.10718170" httpUri="https://zenodo.org/record/10718170/files/figure.png" pageId="2" pageNumber="85">Fig. 3A, C</figureCitation>
+). Hind wings slightly longer than fore wings.
+</paragraph>
+<paragraph id="F32436CAFF818E5D54A7FB3B2B9C5077" blockId="2.[151,1437,463,1930]" pageId="2" pageNumber="85">
+<emphasis id="C1EFEAD8FF818E5D54A7FB3B280451A3" bold="true" box="[199,323,1183,1209]" pageId="2" pageNumber="85">Abdomen.</emphasis>
+The second and third abdominal tergites each with two rows of stridulatory pegs; processes of the tenth abdominal tergite relatively long and slightly upwards curved, covered with short setae, its apex beyond apex of cerci (
+<figureCitation id="6BA02A4FFF818E5D549FFB43283E5018" box="[255,377,1255,1282]" captionStart="FIGURE 1" captionStartId="3.[151,250,998,1022]" captionTargetBox="[344,1245,183,971]" captionTargetId="figure-17@3.[340,1247,179,971]" captionTargetPageId="3" captionText="FIGURE 1. Photographs of male Woznessenskia lianhua sp. nov. (holotype, ECNU-4948). A face in frontal view B–C head and pronotum in lateral and dorsal view respectively D–G apex of abdomen in ventral, dorsal, lateral and posterior view respectively H apex of projections of the tenth abdominal tergite in lateral view I posttibiae in dorsal view." figureDoi="http://doi.org/10.5281/zenodo.10718166" httpUri="https://zenodo.org/record/10718166/files/figure.png" pageId="2" pageNumber="85">Fig. 1D–F</figureCitation>
+); projections of the processes gradually compressed with needle-like tip (
+<figureCitation id="6BA02A4FFF818E5D50A5FB432C675018" box="[1221,1312,1255,1282]" captionStart="FIGURE 1" captionStartId="3.[151,250,998,1022]" captionTargetBox="[344,1245,183,971]" captionTargetId="figure-17@3.[340,1247,179,971]" captionTargetPageId="3" captionText="FIGURE 1. Photographs of male Woznessenskia lianhua sp. nov. (holotype, ECNU-4948). A face in frontal view B–C head and pronotum in lateral and dorsal view respectively D–G apex of abdomen in ventral, dorsal, lateral and posterior view respectively H apex of projections of the tenth abdominal tergite in lateral view I posttibiae in dorsal view." figureDoi="http://doi.org/10.5281/zenodo.10718166" httpUri="https://zenodo.org/record/10718166/files/figure.png" pageId="2" pageNumber="85">Fig. 1H</figureCitation>
+); the ninth abdominal tergite with a pair of S-shaped and sclerotized processes (
+<figureCitation id="6BA02A4FFF818E5D57CAFAAF2D42503C" box="[938,1029,1291,1318]" captionStart="FIGURE 1" captionStartId="3.[151,250,998,1022]" captionTargetBox="[344,1245,183,971]" captionTargetId="figure-17@3.[340,1247,179,971]" captionTargetPageId="3" captionText="FIGURE 1. Photographs of male Woznessenskia lianhua sp. nov. (holotype, ECNU-4948). A face in frontal view B–C head and pronotum in lateral and dorsal view respectively D–G apex of abdomen in ventral, dorsal, lateral and posterior view respectively H apex of projections of the tenth abdominal tergite in lateral view I posttibiae in dorsal view." figureDoi="http://doi.org/10.5281/zenodo.10718166" httpUri="https://zenodo.org/record/10718166/files/figure.png" pageId="2" pageNumber="85">Fig. 1G</figureCitation>
+); cerci covered with relatively long setae; subgenital plate with convex latero-apical margins, slightly separated by a concave excision in the middle of apical margin; styli cylindrical and extremely short.
+</paragraph>
+<paragraph id="F32436CAFF818E5D54A7FAD32A4A533B" blockId="2.[151,1437,463,1930]" pageId="2" pageNumber="85">
+<emphasis id="C1EFEAD8FF818E5D54A7FAD32808508B" bold="true" box="[199,335,1399,1425]" pageId="2" pageNumber="85">Coloration.</emphasis>
+Body orange-yellow (
+<figureCitation id="6BA02A4FFF818E5D5632FAD32B975088" box="[594,720,1399,1426]" captionStart="FIGURE 4" captionStartId="4.[151,250,1634,1658]" captionTargetBox="[348,1241,1306,1598]" captionTargetId="figure-82@4.[340,1247,1298,1610]" captionTargetPageId="4" captionText="FIGURE 4. Photographs of living Woznessenskia lianhua sp. nov. of male (A) and female (B)." figureDoi="http://doi.org/10.5281/zenodo.10718173" httpUri="https://zenodo.org/record/10718173/files/figure.png" pageId="2" pageNumber="85">Fig. 4A–B</figureCitation>
+); compound eyes blackish brown; ocelli orange-yellow; genae beneath eyes with a thin black stripe separately; fastigium verticis blackish brown; pronotum spotless, with thin black stripe along entire margin and the central portion orange-yellow; spines and spurs on all femora and tibiae blackish-brown with basal parts orange-yellow; fore wings semi-transparent, veins dark brown; hind wing semi-transparent, veins dark brown; abdominal tergites black.
+</paragraph>
+<paragraph id="F32436CAFF818E5D54A7F9882AF453CC" blockId="2.[151,1437,463,1930]" pageId="2" pageNumber="85">
+<emphasis id="C1EFEAD8FF818E5D54A7F9882862535C" bold="true" box="[199,293,1580,1606]" pageId="2" pageNumber="85">Female.</emphasis>
+Similar to male (
+<figureCitation id="6BA02A4FFF818E5D5595F98F2B34535C" box="[501,627,1579,1606]" captionStart="FIGURE 2" captionStartId="3.[151,250,1759,1783]" captionTargetBox="[345,1243,1158,1731]" captionTargetId="figure-80@3.[340,1247,1154,1736]" captionTargetPageId="3" captionText="FIGURE 2. Photographs of female Woznessenskia lianhua sp. nov. (paratype, ECNU-5053). A face in front view B–C head and pronotum in lateral and dorsal view respectively D–E end of abdomen in ventral and dorsal view respectively F ovipositor in lateral view." figureDoi="http://doi.org/10.5281/zenodo.10718168" httpUri="https://zenodo.org/record/10718168/files/figure.png" pageId="2" pageNumber="85">Fig. 2A–C</figureCitation>
+). Venation of fore wings little different, before M branch divides into MA and MP, M directly intersects with CuA1 (
+<figureCitation id="6BA02A4FFF818E5D56CFF9EB2A6C5370" box="[687,811,1615,1642]" captionStart="FIGURE 3" captionStartId="4.[151,250,1142,1166]" captionTargetBox="[348,1243,187,1112]" captionTargetId="figure-17@4.[340,1247,181,1117]" captionTargetPageId="4" captionText="FIGURE 3. Venations of Woznessenskia lianhua sp. nov. A male left fore wing (holotype, ECNU-4948) B female left fore wing (paratype, ECNU-5053) C the enlarged image of red-bordered area in A, blue-shaded areas representing the areas between R-M and CuA1-CuA2 D the enlarged image of red-bordered area in B, blue-shaded areas representing the areas between R-M and CuA1-CuA2." figureDoi="http://doi.org/10.5281/zenodo.10718170" httpUri="https://zenodo.org/record/10718170/files/figure.png" pageId="2" pageNumber="85">Fig. 3B, D</figureCitation>
+); the seventh abdominal sternite with length and width almost equal, lateral margins subparallel, apical margin little stiffened with narrow rim, convex on both sides with protrusion, and concave in middle; cercus conical, apex acute; subgenital plate short, with numerous wrinkles (
+<figureCitation id="6BA02A4FFF818E5D510FF933299A53CC" captionStart="FIGURE 2" captionStartId="3.[151,250,1759,1783]" captionTargetBox="[345,1243,1158,1731]" captionTargetId="figure-80@3.[340,1247,1154,1736]" captionTargetPageId="3" captionText="FIGURE 2. Photographs of female Woznessenskia lianhua sp. nov. (paratype, ECNU-5053). A face in front view B–C head and pronotum in lateral and dorsal view respectively D–E end of abdomen in ventral and dorsal view respectively F ovipositor in lateral view." figureDoi="http://doi.org/10.5281/zenodo.10718168" httpUri="https://zenodo.org/record/10718168/files/figure.png" pageId="2" pageNumber="85">Fig. 2D–E</figureCitation>
+); ovipositor moderately upcurved with a rounded apex (
+<figureCitation id="6BA02A4FFF818E5D5730F91F2AE153CC" box="[848,934,1723,1750]" captionStart="FIGURE 2" captionStartId="3.[151,250,1759,1783]" captionTargetBox="[345,1243,1158,1731]" captionTargetId="figure-80@3.[340,1247,1154,1736]" captionTargetPageId="3" captionText="FIGURE 2. Photographs of female Woznessenskia lianhua sp. nov. (paratype, ECNU-5053). A face in front view B–C head and pronotum in lateral and dorsal view respectively D–E end of abdomen in ventral and dorsal view respectively F ovipositor in lateral view." figureDoi="http://doi.org/10.5281/zenodo.10718168" httpUri="https://zenodo.org/record/10718168/files/figure.png" pageId="2" pageNumber="85">Fig. 2F</figureCitation>
+).
+</paragraph>
+<paragraph id="F32436CAFF818E5D54A7F9442B425204" blockId="2.[151,1437,463,1930]" pageId="2" pageNumber="85">
+<emphasis id="C1EFEAD8FF818E5D54A7F944288253E3" bold="true" box="[199,453,1759,1786]" pageId="2" pageNumber="85">Measurements (mm).</emphasis>
+Body: 
+<specimenCount id="E59DFD43FF818E5D5678F9442B6A53E0" box="[536,557,1760,1786]" count="1" pageId="2" pageNumber="85" type="male">♂</specimenCount>
+22.1, 
+<specimenCount id="E59DFD43FF818E5D5613F9442BCF53E0" box="[627,648,1760,1786]" count="1" pageId="2" pageNumber="85" type="female">♀</specimenCount>
+22.2; pronotum: 
+<specimenCount id="E59DFD43FF818E5D572BF9442A2753E0" box="[843,864,1760,1786]" count="1" pageId="2" pageNumber="85" type="male">♂</specimenCount>
+4.0, 
+<specimenCount id="E59DFD43FF818E5D57F8F9442AEA53E0" box="[920,941,1760,1786]" count="1" pageId="2" pageNumber="85" type="female">♀</specimenCount>
+5.1; fore wings: 
+<specimenCount id="E59DFD43FF818E5D500CF9442DC653E0" box="[1132,1153,1760,1786]" count="1" pageId="2" pageNumber="85" type="male">♂</specimenCount>
+36.0, 
+<specimenCount id="E59DFD43FF818E5D50A7F9442D9B53E0" box="[1223,1244,1760,1786]" count="1" pageId="2" pageNumber="85" type="female">♀</specimenCount>
+37.0; postfemur: 
+<specimenCount id="E59DFD43FF818E5D54F7F8A029EB5204" box="[151,172,1796,1822]" count="1" pageId="2" pageNumber="85" type="male">♂</specimenCount>
+13.5, 
+<specimenCount id="E59DFD43FF818E5D5492F8A028405204" box="[242,263,1796,1822]" count="1" pageId="2" pageNumber="85" type="female">♀</specimenCount>
+14.8; ovipositor: 11.3.
+</paragraph>
+</subSubSection>
+<subSubSection id="BB816541FF818E5D54A7F8832B5B525B" _generate="retained" box="[199,540,1831,1857]" pageId="2" pageNumber="85" type="distribution">
+<paragraph id="F32436CAFF818E5D54A7F8832B5B525B" blockId="2.[151,1437,463,1930]" box="[199,540,1831,1857]" pageId="2" pageNumber="85">
+<emphasis id="C1EFEAD8FF818E5D54A7F8832826525B" bold="true" box="[199,353,1831,1857]" pageId="2" pageNumber="85">Distribution.</emphasis>
+<collectingCountry id="8B8C765AFF818E5D5507F88328ED525B" box="[359,426,1831,1857]" name="China" pageId="2" pageNumber="85">China</collectingCountry>
+(
+<collectingRegion id="315FF828FF818E5D55D9F8832B57525B" box="[441,528,1831,1857]" country="China" name="Xizang" pageId="2" pageNumber="85">Xizang</collectingRegion>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="BB816541FF818E5D54A7F8E828975292" _generate="retained" pageId="2" pageNumber="85" type="etymology">
+<paragraph id="F32436CAFF818E5D54A7F8E828975292" blockId="2.[151,1437,463,1930]" pageId="2" pageNumber="85">
+<emphasis id="C1EFEAD8FF818E5D54A7F8E82809527C" bold="true" box="[199,334,1868,1894]" pageId="2" pageNumber="85">Etymology.</emphasis>
+The name 
+<taxonomicName id="349B4D49FF818E5D55B4F8EF2B7F527F" _evidence="document" _step="nonLabeled1" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[468,568,1867,1893]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="2" pageNumber="85" phylum="Arthropoda" rank="species" species="lianhua">“lianhua</taxonomicName>
+”, means “lotus flowers” in Chinese and is an alternative name for Medog. Chinese name: 
+<emphasis id="C1EFEAD8FF818E5D5524F8D528975292" bold="true" box="[324,464,1905,1928]" pageId="2" pageNumber="85">NJa沃DZẽ</emphasis>
+</paragraph>
+</subSubSection>
+</treatment>
+<caption id="A7E46642FF808E5C54F7FC422D16515C" ID-DOI="http://doi.org/10.5281/zenodo.10718166" ID-Zenodo-Dep="10718166" httpUri="https://zenodo.org/record/10718166/files/figure.png" pageId="3" pageNumber="86" startId="3.[151,250,998,1022]" targetBox="[344,1245,183,971]" targetPageId="3" targetType="figure">
+<paragraph id="F32436CAFF808E5C54F7FC422D16515C" blockId="3.[151,1437,998,1094]" pageId="3" pageNumber="86">
+<emphasis id="C1EFEAD8FF808E5C54F7FC42285556E4" bold="true" box="[151,274,998,1022]" pageId="3" pageNumber="86">FIGURE 1.</emphasis>
+Photographs of male 
+<taxonomicName id="349B4D49FF808E5C558CFC422B9456E4" _evidence="statusLabel" _step="newLabel1" authority="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He, 2024" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[492,723,998,1022]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="3" pageNumber="86" phylum="Arthropoda" rank="species" species="lianhua" status="sp. nov.">
+<emphasis id="C1EFEAD8FF808E5C558CFC422B9456E4" box="[492,723,998,1022]" italics="true" pageId="3" pageNumber="86">Woznessenskia lianhua</emphasis>
+</taxonomicName>
+<emphasis id="C1EFEAD8FF808E5C56B9FC422A6F56E4" bold="true" box="[729,808,998,1022]" pageId="3" pageNumber="86">
+<taxonomicNameLabel id="DADC57A3FF808E5C56B9FC422A6F56E4" box="[729,808,998,1022]" pageId="3" pageNumber="86" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+(holotype, ECNU-4948). 
+<emphasis id="C1EFEAD8FF808E5C504FFC422D0656E4" bold="true" box="[1071,1089,998,1022]" pageId="3" pageNumber="86">A</emphasis>
+face in frontal view 
+<emphasis id="C1EFEAD8FF808E5C516EFC422C7A56E4" bold="true" box="[1294,1341,998,1022]" pageId="3" pageNumber="86">B–C</emphasis>
+head and pronotum in lateral and dorsal view respectively 
+<emphasis id="C1EFEAD8FF808E5C56E0FBAE2BF45138" bold="true" box="[640,691,1034,1058]" pageId="3" pageNumber="86">D–G</emphasis>
+apex of abdomen in ventral, dorsal, lateral and posterior view respectively 
+<emphasis id="C1EFEAD8FF808E5C54F7FB8A29EC515C" bold="true" box="[151,171,1070,1094]" pageId="3" pageNumber="86">H</emphasis>
+apex of projections of the tenth abdominal tergite in lateral view 
+<emphasis id="C1EFEAD8FF808E5C5723FB8A2A0A515C" bold="true" box="[835,845,1070,1094]" pageId="3" pageNumber="86">I</emphasis>
+posttibiae in dorsal view.
+</paragraph>
+</caption>
+<caption id="A7E46642FF808E5C54F7F97B2869525A" ID-DOI="http://doi.org/10.5281/zenodo.10718168" ID-Zenodo-Dep="10718168" httpUri="https://zenodo.org/record/10718168/files/figure.png" pageId="3" pageNumber="86" startId="3.[151,250,1759,1783]" targetBox="[345,1243,1158,1731]" targetPageId="3" targetType="figure">
+<paragraph id="F32436CAFF808E5C54F7F97B2869525A" blockId="3.[151,1436,1759,1856]" pageId="3" pageNumber="86">
+<emphasis id="C1EFEAD8FF808E5C54F7F97B285353E2" bold="true" box="[151,276,1759,1784]" pageId="3" pageNumber="86">FIGURE 2.</emphasis>
+Photographs of female 
+<taxonomicName id="349B4D49FF808E5C566CF9442BB153E2" _evidence="statusLabel" _step="newLabel1" authority="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He, 2024" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[524,758,1760,1784]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="3" pageNumber="86" phylum="Arthropoda" rank="species" species="lianhua" status="sp. nov.">
+<emphasis id="C1EFEAD8FF808E5C566CF9442BB153E2" box="[524,758,1760,1784]" italics="true" pageId="3" pageNumber="86">Woznessenskia lianhua</emphasis>
+</taxonomicName>
+<emphasis id="C1EFEAD8FF808E5C569EF9442A1753E2" bold="true" box="[766,848,1760,1784]" pageId="3" pageNumber="86">
+<taxonomicNameLabel id="DADC57A3FF808E5C569EF9442A1753E2" box="[766,848,1760,1784]" pageId="3" pageNumber="86" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+(paratype, ECNU-5053). 
+<emphasis id="C1EFEAD8FF808E5C503CF97B2D2953ED" bold="true" box="[1116,1134,1759,1783]" pageId="3" pageNumber="86">A</emphasis>
+face in front view 
+<emphasis id="C1EFEAD8FF808E5C5155F9442C2353ED" bold="true" box="[1333,1380,1759,1784]" pageId="3" pageNumber="86">B–C</emphasis>
+head and pronotum in lateral and dorsal view respectively 
+<emphasis id="C1EFEAD8FF808E5C56D2F8A02BA55206" bold="true" box="[690,738,1796,1820]" pageId="3" pageNumber="86">D–E</emphasis>
+end of abdomen in ventral and dorsal view respectively 
+<emphasis id="C1EFEAD8FF808E5C5141F8A02C775206" bold="true" box="[1313,1328,1796,1820]" pageId="3" pageNumber="86">F</emphasis>
+ovipositor in lateral view.
+</paragraph>
+</caption>
+<caption id="A7E46642FF878E5B54F7FBD2286751E0" ID-DOI="http://doi.org/10.5281/zenodo.10718170" ID-Zenodo-Dep="10718170" httpUri="https://zenodo.org/record/10718170/files/figure.png" pageId="4" pageNumber="87" startId="4.[151,250,1142,1166]" targetBox="[348,1243,187,1112]" targetPageId="4" targetType="figure">
+<paragraph id="F32436CAFF878E5B54F7FBD2286751E0" blockId="4.[151,1437,1142,1274]" pageId="4" pageNumber="87">
+<emphasis id="C1EFEAD8FF878E5B54F7FBD228555194" bold="true" box="[151,274,1142,1166]" pageId="4" pageNumber="87">FIGURE 3.</emphasis>
+Venations of 
+<taxonomicName id="349B4D49FF878E5B55FBFBD22BC45194" _evidence="statusLabel" _step="newLabel1" authority="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He, 2024" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[411,643,1142,1166]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="4" pageNumber="87" phylum="Arthropoda" rank="species" species="lianhua" status="sp. nov.">
+<emphasis id="C1EFEAD8FF878E5B55FBFBD22BC45194" box="[411,643,1142,1166]" italics="true" pageId="4" pageNumber="87">Woznessenskia lianhua</emphasis>
+</taxonomicName>
+<emphasis id="C1EFEAD8FF878E5B56E9FBD22BA85194" bold="true" box="[649,751,1142,1166]" pageId="4" pageNumber="87">
+<taxonomicNameLabel id="DADC57A3FF878E5B56E9FBD22B9F5194" box="[649,728,1142,1166]" pageId="4" pageNumber="87" rank="species">sp. nov.</taxonomicNameLabel>
+A
+</emphasis>
+male left fore wing (holotype, ECNU-4948) 
+<emphasis id="C1EFEAD8FF878E5B50D4FBD22D825194" bold="true" box="[1204,1221,1142,1166]" pageId="4" pageNumber="87">B</emphasis>
+female left fore wing (paratype, ECNU-5053) 
+<emphasis id="C1EFEAD8FF878E5B55F1FB3E28E451A8" bold="true" box="[401,419,1178,1202]" pageId="4" pageNumber="87">C</emphasis>
+the enlarged image of red-bordered area in A, blue-shaded areas representing the areas between R-M and CuA1-CuA2 
+<emphasis id="C1EFEAD8FF878E5B552CFB1A281951CC" bold="true" box="[332,350,1214,1238]" pageId="4" pageNumber="87">D</emphasis>
+the enlarged image of red-bordered area in B, blue-shaded areas representing the areas between R-M and CuA1-CuA2.
+</paragraph>
+</caption>
+<caption id="A7E46642FF878E5B54F7F9C62D1A5360" ID-DOI="http://doi.org/10.5281/zenodo.10718173" ID-Zenodo-Dep="10718173" box="[151,1117,1634,1658]" httpUri="https://zenodo.org/record/10718173/files/figure.png" pageId="4" pageNumber="87" startId="4.[151,250,1634,1658]" targetBox="[348,1241,1306,1598]" targetPageId="4" targetType="figure">
+<paragraph id="F32436CAFF878E5B54F7F9C62D1A5360" blockId="4.[151,1117,1634,1658]" box="[151,1117,1634,1658]" pageId="4" pageNumber="87">
+<emphasis id="C1EFEAD8FF878E5B54F7F9C6284A5360" bold="true" box="[151,269,1634,1658]" pageId="4" pageNumber="87">FIGURE 4</emphasis>
+. Photographs of living 
+<taxonomicName id="349B4D49FF878E5B559BF9C62BA35360" _evidence="statusLabel" _step="newLabel1" authority="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He, 2024" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[507,740,1634,1658]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="4" pageNumber="87" phylum="Arthropoda" rank="species" species="lianhua" status="sp. nov.">
+<emphasis id="C1EFEAD8FF878E5B559BF9C62BA35360" box="[507,740,1634,1658]" italics="true" pageId="4" pageNumber="87">Woznessenskia lianhua</emphasis>
+</taxonomicName>
+<emphasis id="C1EFEAD8FF878E5B568BF9C62A7C5360" bold="true" box="[747,827,1634,1658]" pageId="4" pageNumber="87">
+<taxonomicNameLabel id="DADC57A3FF878E5B568BF9C62A7C5360" box="[747,827,1634,1658]" pageId="4" pageNumber="87" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+of male (
+<emphasis id="C1EFEAD8FF878E5B57FEF9C62AF75360" bold="true" box="[926,944,1634,1658]" pageId="4" pageNumber="87">A</emphasis>
+) and female (
+<emphasis id="C1EFEAD8FF878E5B505DF9C62D095360" bold="true" box="[1085,1102,1634,1658]" pageId="4" pageNumber="87">B</emphasis>
+).
+</paragraph>
+</caption>
+<subSection id="9A142F21FF878E5A54F7F9682DFC5493" _generate="added" lastPageId="5" lastPageNumber="88" pageId="4" pageNumber="87" type="discussion">
+<paragraph id="F32436CAFF878E5B54F7F968285C53FC" blockId="4.[151,283,1740,1766]" box="[151,283,1740,1766]" pageId="4" pageNumber="87">
+<heading id="A86C81A6FF878E5B54F7F968285C53FC" bold="true" box="[151,283,1740,1766]" fontSize="11" level="1" pageId="4" pageNumber="87" reason="1">
+<emphasis id="C1EFEAD8FF878E5B54F7F968285C53FC" bold="true" box="[151,283,1740,1766]" pageId="4" pageNumber="87">Discussion</emphasis>
+</heading>
+</paragraph>
+<paragraph id="F32436CAFF878E5B54F7F8B0289F52F8" blockId="4.[151,1436,1812,2019]" pageId="4" pageNumber="87">
+The separation or fusion of R-M and CuA1-CuA2 areas was considered as a distinguishing feature between 
+<taxonomicName id="349B4D49FF878E5B511EF8B129AA5248" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Guo &amp; Shi" authorityYear="2011" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="4" pageNumber="87" phylum="Arthropoda" rank="species" species="arcoida">
+<emphasis id="C1EFEAD8FF878E5B511EF8B12CD25234" box="[1406,1429,1813,1838]" italics="true" pageId="4" pageNumber="87">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF878E5B54F7F89C29AA5248" box="[151,237,1848,1874]" italics="true" pageId="4" pageNumber="87">arcoida</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="349B4D49FF878E5B5543F89D2B345249" _authorityPlausibility="0.9161083" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Guo &amp; Shi 2011)" baseAuthorityName="Guo &amp; Shi" baseAuthorityYear="2011" box="[291,627,1848,1875]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="4" pageNumber="87" phylum="Arthropoda" rank="species" species="arcuata">
+<emphasis id="C1EFEAD8FF878E5B5543F89D287D5248" box="[291,314,1849,1874]" italics="true" pageId="4" pageNumber="87">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF878E5B5529F89D28D85248" box="[329,415,1849,1874]" italics="true" pageId="4" pageNumber="87">arcuata</emphasis>
+(
+<bibRefCitation id="970A4B3BFF878E5B55CDF89D2B2C5249" author="Guo, L. Y. &amp; Shi, F. M." box="[429,619,1848,1875]" pageId="4" pageNumber="87" pagination="62 - 68" refId="ref2810" refString="Guo, L. Y. &amp; Shi, F. M. (2011) Descriptions of new species of the genus Woznessenskia (Orthoptera: Gryllacrididae: Gryllacridinae) from China. Zootaxa, 2784 (1), 62 - 68. https: // doi. org / 10.11646 / zootaxa. 2784.1.6" type="journal article" year="2011">Guo &amp; Shi 2011</bibRefCitation>
+)
+</taxonomicName>
+. However, we observed both instances of separation and fusion between R-M and CuA1-CuA2 areas in 
+<taxonomicName id="349B4D49FF878E5B5668F8F82A49526C" _evidence="statusLabel" _step="newLabel1" authority="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He, 2024" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[520,782,1884,1910]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="4" pageNumber="87" phylum="Arthropoda" rank="species" species="lianhua" status="sp. nov.">
+<emphasis id="C1EFEAD8FF878E5B5668F8F82A49526C" box="[520,782,1884,1910]" italics="true" pageId="4" pageNumber="87">Woznessenskia lianhua</emphasis>
+</taxonomicName>
+<emphasis id="C1EFEAD8FF878E5B5779F8F92A31526D" bold="true" box="[793,886,1885,1911]" pageId="4" pageNumber="87">
+<taxonomicNameLabel id="DADC57A3FF878E5B5779F8F92A31526D" box="[793,886,1885,1911]" pageId="4" pageNumber="87" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+(
+<figureCitation id="6BA02A4FFF878E5B57E9F8F82A96526D" box="[905,977,1884,1911]" captionStart="FIGURE 3" captionStartId="4.[151,250,1142,1166]" captionTargetBox="[348,1243,187,1112]" captionTargetId="figure-17@4.[340,1247,181,1117]" captionTargetPageId="4" captionText="FIGURE 3. Venations of Woznessenskia lianhua sp. nov. A male left fore wing (holotype, ECNU-4948) B female left fore wing (paratype, ECNU-5053) C the enlarged image of red-bordered area in A, blue-shaded areas representing the areas between R-M and CuA1-CuA2 D the enlarged image of red-bordered area in B, blue-shaded areas representing the areas between R-M and CuA1-CuA2." figureDoi="http://doi.org/10.5281/zenodo.10718170" httpUri="https://zenodo.org/record/10718170/files/figure.png" pageId="4" pageNumber="87">Fig. 3</figureCitation>
+). We only examined 
+<specimenCount id="E59DFD43FF878E5B50ACF8F92C71526C" box="[1228,1334,1884,1911]" count="1" pageId="4" pageNumber="87" type="male">one male</specimenCount>
+and 
+<specimenCount id="E59DFD43FF878E5B5114F8F929A45280" count="1" pageId="4" pageNumber="87" type="female">one female</specimenCount>
+specimen and cannot fully confirm whether the differences in wing venation are due to sexual dimorphism or individual variation within this species. In subsequent classification study for this genus, attention should be paid to these veins on fore wings.
+</paragraph>
+<paragraph id="F32436CAFF868E5A54A7FF332DFC5493" blockId="5.[151,1436,151,393]" pageId="5" pageNumber="88">
+Medog County, located in the southeastern region of 
+<collectingRegion id="315FF828FF868E5A5761FF332A1255AB" box="[769,853,151,177]" country="China" name="Xizang" pageId="5" pageNumber="88">Xizang</collectingRegion>
+, belongs to one significant biodiversity hotspots—the Indo-Burma hotspots (
+<bibRefCitation id="970A4B3BFF868E5A55F1FF1F2B1D55CF" author="Myers, N. &amp; Mittermeier, R. A. &amp; Mittermeier, C. G. &amp; da Fonseca, G. A. B. &amp; Kent, J." box="[401,602,187,213]" pageId="5" pageNumber="88" pagination="853 - 858" refId="ref3062" refString="Myers, N., Mittermeier, R. A., Mittermeier, C. G., da Fonseca, G. A. B. &amp; Kent, J. (2000) Biodiversity hotspots for conservation priorities. Nature, 403 (6772), 853 - 858. https: // doi. org / 10.1038 / 35002501" type="journal article" year="2000">
+Myers 
+<emphasis id="C1EFEAD8FF868E5A5580FF1F2B5655CF" box="[480,529,187,213]" italics="true" pageId="5" pageNumber="88">et al</emphasis>
+. 2000
+</bibRefCitation>
+; 
+<bibRefCitation id="970A4B3BFF868E5A5603FF1F2BBB55CF" author="Li, S. &amp; Zhang, Y. &amp; Guo, Y. &amp; Yang, L. &amp; Wang, Y." box="[611,764,187,213]" pageId="5" pageNumber="88" pagination="5" refId="ref2986" refString="Li, S., Zhang, Y., Guo, Y., Yang, L. &amp; Wang, Y. (2020) Monpa, memory, and change: an ethnobotanical study of plant use in Medog County, South-east Tibet, China. Journal of Ethnobiology and Ethnomedicine, 16, 5. https: // doi. org / 10.1186 / s 13002 - 020 - 0355 - 7" type="journal article" year="2020">
+Li 
+<emphasis id="C1EFEAD8FF868E5A56E2FF1F2BF455CF" box="[642,691,187,213]" italics="true" pageId="5" pageNumber="88">et al</emphasis>
+. 2020
+</bibRefCitation>
+). Thanks to its distinctive bio-geography, varied topography, and an impressive altitudinal range that spans 7,500 meters within a mere 40 kilometers, the southeastern area of 
+<collectingRegion id="315FF828FF868E5A54F7FEA729AF5407" box="[151,232,259,285]" country="China" name="Xizang" pageId="5" pageNumber="88">Xizang</collectingRegion>
+proudly stands as a biodiversity hotspot with exceptionally rich ecological diversity (
+<bibRefCitation id="970A4B3BFF868E5A50F8FEA72C775407" author="Li, J. &amp; Liu, H. &amp; Wu, Y. &amp; Zeng, L. &amp; Huang, X." box="[1176,1328,259,285]" pageId="5" pageNumber="88" pagination="165" refId="ref2922" refString="Li, J., Liu, H., Wu, Y., Zeng, L. &amp; Huang, X. (2019) Spatial patterns and determinants of the diversity of Hemipteran insects in the Qinghai-Tibetan Plateau. Frontiers in Ecology and Evolution, 7, 165. https: // doi. org / 10.3389 / fevo. 2019.00165" type="journal article" year="2019">
+Li 
+<emphasis id="C1EFEAD8FF868E5A50D8FEA72DAF5407" box="[1208,1256,259,285]" italics="true" pageId="5" pageNumber="88">et al</emphasis>
+. 2019
+</bibRefCitation>
+; 
+<bibRefCitation id="970A4B3BFF868E5A515BFEA729B0545B" author="Zhang, Y. &amp; Yang, L. - X. &amp; Li, M. - X. &amp; Guo, Y. - J. &amp; Li, S. &amp; Wang, Y. - H." pageId="5" pageNumber="88" pagination="50" refId="ref3187" refString="Zhang, Y., Yang, L. - X., Li, M. - X., Guo, Y. - J., Li, S. &amp; Wang, Y. - H. (2020) The best choices: the diversity and functions of the plants in the home gardens of the Tsang-la (Motuo Menba) communities in Yarlung Tsangpo Grand Canyon, Southwest China. Journal of Ethnobiology and Ethnomedicine, 16, 50. https: // doi. org / 10.1186 / s 13002 - 020 - 00395 - z" type="journal article" year="2020">
+Zhang 
+<emphasis id="C1EFEAD8FF868E5A51E8FEA729EA545B" italics="true" pageId="5" pageNumber="88">et al</emphasis>
+. 2020
+</bibRefCitation>
+). 
+<taxonomicName id="349B4D49FF868E5A5569FE8328C3545B" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He, 2024" authorityName="Zhang &amp; Tian &amp; Long &amp; Yin &amp; Li &amp; He" authorityYear="2024" box="[265,388,295,321]" class="Insecta" family="Gryllacrididae" genus="Woznessenskia" kingdom="Animalia" order="Orthoptera" pageId="5" pageNumber="88" phylum="Arthropoda" rank="species" species="lianhua" status="sp. nov.">
+<emphasis id="C1EFEAD8FF868E5A5569FE832867545A" box="[265,288,295,320]" italics="true" pageId="5" pageNumber="88">W</emphasis>
+. 
+<emphasis id="C1EFEAD8FF868E5A554EFE8328C3545B" box="[302,388,295,321]" italics="true" pageId="5" pageNumber="88">lianhua</emphasis>
+</taxonomicName>
+<emphasis id="C1EFEAD8FF868E5A55EAFE8328A4545B" bold="true" box="[394,483,295,321]" pageId="5" pageNumber="88">
+<taxonomicNameLabel id="DADC57A3FF868E5A55EAFE8328A4545B" box="[394,483,295,321]" pageId="5" pageNumber="88" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+is the first record of 
+<taxonomicName id="349B4D49FF868E5A56AAFE832A2B545B" _evidence="catalogs" _step="family" authorityName="Blanchard" authorityYear="1845" box="[714,876,295,321]" class="Insecta" family="Gryllacrididae" kingdom="Animalia" order="Orthoptera" pageId="5" pageNumber="88" phylum="Arthropoda" rank="family">Gryllacrididae</taxonomicName>
+for 
+<collectingRegion id="315FF828FF868E5A57F9FE832AAA545B" box="[921,1005,295,321]" country="China" name="Xizang" pageId="5" pageNumber="88">Xizang</collectingRegion>
+. Southeastern region including Medog is highly worthwhile for taxonomists to delve deeper, enabling a better understanding of its ecological and species diversity through further exploration, ultimately contributing to enhanced conservation efforts.
+</paragraph>
+</subSection>
+<subSection id="9A142F21FF868E5A54F7FE7E2BCE53BC" _generate="added" pageId="5" pageNumber="88" type="reference_group">
+<paragraph id="F32436CAFF868E5A54F7FE7E285854EE" blockId="5.[151,287,474,500]" box="[151,287,474,500]" pageId="5" pageNumber="88">
+<heading id="A86C81A6FF868E5A54F7FE7E285854EE" bold="true" box="[151,287,474,500]" fontSize="11" level="1" pageId="5" pageNumber="88" reason="1">
+<emphasis id="C1EFEAD8FF868E5A54F7FE7E285854EE" bold="true" box="[151,287,474,500]" pageId="5" pageNumber="88">References</emphasis>
+</heading>
+</paragraph>
+<paragraph id="F32436CAFF868E5A54F7FDBB2C3A576F" blockId="5.[151,1437,543,1702]" pageId="5" pageNumber="88">
+<bibRef id="2A3BA23CFF868E5A54F7FDBB2C3A576F" _evidence="authorList|year" pageId="5" pageNumber="88" refId="ref2497" type="journal article">
+<author id="2B26DE2FFF868E5A54F7FDBB2808572D" box="[151,335,543,567]" case="TC" fns="I" in="G.Y." ins="D" ln="Bey-Bienko" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Bey-Bienko, G.Y.</author>
+(
+<year id="87337799FF868E5A553DFDBB28D5572D" box="[349,402,543,567]" pageId="5" pageNumber="88">1962</year>
+) 
+<title id="819FDDFCFF868E5A55C1FDBB2A85574F" jopScore="0.16539943" pageId="5" pageNumber="88">Results of the Chinese-Soviet zoological-botanical expeditions to south western China 1955–1957. New or less known Tettigonioidea (Orthoptera) from Szechuan and Yunnan</title>
+. 
+<journalOrPublisher id="295A3C06FF868E5A57ABFD9A2DAB576E" jopScore="2.8012226" pageId="5" pageNumber="88">
+<emphasis id="C1EFEAD8FF868E5A57ABFD9A2C63574F" box="[971,1316,574,598]" italics="true" pageId="5" pageNumber="88">Trudy Zoologitscheskogo Instituta</emphasis>
+, 
+<emphasis id="C1EFEAD8FF868E5A5150FD9A287F576E" italics="true" pageId="5" pageNumber="88">Akademiia Nauk SSSR</emphasis>
+, 
+<emphasis id="C1EFEAD8FF868E5A5525FDF82DAB576E" box="[325,1260,604,629]" italics="true" pageId="5" pageNumber="88">Leningrad [Proceedings of the Zoological Institute, USSR Academy of Sciences, Leningrad]</emphasis>
+</journalOrPublisher>
+, 
+<part id="873F9C57FF868E5A5098FDF92C53576F" box="[1272,1300,605,629]" pageId="5" pageNumber="88" type="volume">30</part>
+, 
+<pagination id="CA52C83EFF868E5A517EFDF92C3E576F" box="[1310,1401,605,629]" pageId="5" pageNumber="88" type="pagination">110–138</pagination>
+.
+</bibRef>
+</paragraph>
+<bibRef id="2A3BA23CFF868E5A54F7FDDF2B2857A8" _evidence="authorList|year" pageId="5" pageNumber="88" refId="ref2563" type="journal article">
+<paragraph id="F32436CAFF868E5A54F7FDDF2CCB5789" blockId="5.[151,1437,543,1702]" box="[151,1420,635,660]" pageId="5" pageNumber="88">
+<author id="2B26DE2FFF868E5A54F7FDDF29A95789" box="[151,238,635,659]" case="TC" fns="I" in="X." ins="D" ln="Bian" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Bian, X.</author>
+, 
+<author id="2B26DE2FFF868E5A5499FDDF287E5789" box="[249,313,635,659]" case="TC" fns="I" in="J." ins="D" ln="Liu" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Liu, J.</author>
+&amp; 
+<author id="2B26DE2FFF868E5A5538FDD828F75789" box="[344,432,636,660]" case="TC" fns="I" in="Z." ins="D" ln="Yang" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Yang, Z.</author>
+(
+<year id="87337799FF868E5A55DDFDDF28B55789" box="[445,498,635,659]" pageId="5" pageNumber="88">2021</year>
+) 
+<title id="819FDDFCFF868E5A559EFDDF2D275789" box="[510,1120,635,659]" pageId="5" pageNumber="88">Anotated Checklist of Chinese Ensifera: The Gryllacrididae</title>
+. 
+<journalOrPublisher id="295A3C06FF868E5A5009FDD82DFB5789" box="[1129,1212,636,659]" pageId="5" pageNumber="88">
+<emphasis id="C1EFEAD8FF868E5A5009FDD82DFB5789" box="[1129,1212,636,659]" italics="true" pageId="5" pageNumber="88">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="873F9C57FF868E5A50A8FDDF2DBC5789" box="[1224,1275,635,659]" pageId="5" pageNumber="88" type="volume">4969</part>
+(
+<part id="873F9C57FF868E5A516AFDDF2C5E5789" box="[1290,1305,635,659]" pageId="5" pageNumber="88" type="issue">2</part>
+), 
+<pagination id="CA52C83EFF868E5A514CFDDF2CC05789" box="[1324,1415,635,659]" pageId="5" pageNumber="88" type="pagination">201–254</pagination>
+.
+</paragraph>
+<paragraph id="F32436CAFF868E5A54A7FD3E2B2857A8" blockId="5.[151,1437,543,1702]" box="[199,623,666,690]" pageId="5" pageNumber="88">
+<DOI id="870AF6BAFF868E5A54A7FD3E2B2857A8" box="[199,623,666,690]" pageId="5" pageNumber="88">https://doi.org/10.11646/zootaxa.4969.2.1</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="2A3BA23CFF868E5A54F7FD1C2B285636" _evidence="authorList|year" pageId="5" pageNumber="88" refId="ref2612" type="journal article">
+<paragraph id="F32436CAFF868E5A54F7FD1C28975614" blockId="5.[151,1437,543,1702]" pageId="5" pageNumber="88">
+<author id="2B26DE2FFF868E5A54F7FD1C28D657CB" box="[151,401,696,721]" case="TC" fns="I" in="O.J." ins="D" ln="Cadena-Castaneda" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Cadena-Castañeda, O.J.</author>
+(
+<year id="87337799FF868E5A55C6FD1D289C57CB" box="[422,475,697,721]" pageId="5" pageNumber="88">2019</year>
+) 
+<title id="819FDDFCFF868E5A558EFD1D2CDE57F5" pageId="5" pageNumber="88">A proposal towards classification of the raspy crickets (Orthoptera: Stenopelmatoidea: Gryllacrididae) with zoogeographical comments: An initial contribution to the higher classification of the Gryllacridines</title>
+. 
+<journalOrPublisher id="295A3C06FF868E5A54A7FD53285D5614" box="[199,282,759,782]" pageId="5" pageNumber="88">
+<emphasis id="C1EFEAD8FF868E5A54A7FD53285D5614" box="[199,282,759,782]" italics="true" pageId="5" pageNumber="88">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="873F9C57FF868E5A5547FD52281D5614" box="[295,346,758,782]" pageId="5" pageNumber="88" type="volume">4605</part>
+(
+<part id="873F9C57FF868E5A550AFD5228325614" box="[362,373,758,782]" pageId="5" pageNumber="88" type="issue">1</part>
+), 
+<pagination id="CA52C83EFF868E5A55EAFD52288B5614" box="[394,460,758,782]" pageId="5" pageNumber="88" type="pagination">1–100</pagination>
+.
+</paragraph>
+<paragraph id="F32436CAFF868E5A54A7FCB02B285636" blockId="5.[151,1437,543,1702]" box="[199,623,788,812]" pageId="5" pageNumber="88">
+<DOI id="870AF6BAFF868E5A54A7FCB02B285636" box="[199,623,788,812]" pageId="5" pageNumber="88">https://doi.org/10.11646/zootaxa.4605.1.1</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="2A3BA23CFF868E5A54F7FC902B285692" _evidence="authorList|year" pageId="5" pageNumber="88" refId="ref2674" type="journal article">
+<paragraph id="F32436CAFF868E5A54F7FC9028965670" blockId="5.[151,1437,543,1702]" pageId="5" pageNumber="88">
+<author id="2B26DE2FFF868E5A54F7FC9029995651" box="[151,222,820,843]" case="TC" fns="I" in="B." ins="D" ln="Du" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Du, B.</author>
+, 
+<author id="2B26DE2FFF868E5A548CFC9728025651" box="[236,325,819,843]" case="TC" fns="I" in="X." ins="D" ln="Bian" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Bian, X.</author>
+&amp; 
+<author id="2B26DE2FFF868E5A550AFC9728E95651" box="[362,430,819,843]" case="TC" fns="I" in="F." ins="D" ln="Shi" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Shi, F.</author>
+(
+<year id="87337799FF868E5A55DEFC9728B45651" box="[446,499,819,843]" pageId="5" pageNumber="88">2016</year>
+) 
+<title id="819FDDFCFF868E5A5662FC972CDE5651" box="[514,1433,819,844]" pageId="5" pageNumber="88">
+A supplement of the genus 
+<emphasis id="C1EFEAD8FF868E5A5744FC972AAB5651" box="[804,1004,819,843]" italics="true" pageId="5" pageNumber="88">Diaphanogryllacris</emphasis>
+(Orthoptera: Gryllacridinae) from China
+</title>
+. 
+<journalOrPublisher id="295A3C06FF868E5A54A7FCF7285D5670" box="[199,282,851,874]" pageId="5" pageNumber="88">
+<emphasis id="C1EFEAD8FF868E5A54A7FCF7285D5670" box="[199,282,851,874]" italics="true" pageId="5" pageNumber="88">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="873F9C57FF868E5A5547FCF6281D5670" box="[295,346,850,874]" pageId="5" pageNumber="88" type="volume">4175</part>
+(
+<part id="873F9C57FF868E5A550AFCF628325670" box="[362,373,850,874]" pageId="5" pageNumber="88" type="issue">1</part>
+), 
+<pagination id="CA52C83EFF868E5A55EAFCF6288A5670" box="[394,461,850,874]" pageId="5" pageNumber="88" type="pagination">90–93</pagination>
+.
+</paragraph>
+<paragraph id="F32436CAFF868E5A54A7FCD42B285692" blockId="5.[151,1437,543,1702]" box="[199,623,880,904]" pageId="5" pageNumber="88">
+<DOI id="870AF6BAFF868E5A54A7FCD42B285692" box="[199,623,880,904]" pageId="5" pageNumber="88">https://doi.org/10.11646/zootaxa.4175.1.8</DOI>
+</paragraph>
+</bibRef>
+<paragraph id="F32436CAFF868E5A54F7FC2B28815119" blockId="5.[151,1437,543,1702]" pageId="5" pageNumber="88">
+<bibRef id="2A3BA23CFF868E5A54F7FC2B28815119" _evidence="authorList|year" author="Gorochov, A. V." bookContentInfo="Data on fauna and taxonomy of Stenopelmatoidea (Orthoptera) from Indochina and other territories: III)" journalOrPublisher="Entomologicheskoe Obozrenie" pageId="5" pageNumber="88" pagination="318 - 337" part="81" refId="ref2728" title="Contribution to the knowledge of the fauna and systematics of the Stenopelmatoidea (Orthoptera) of Indochina and some other territories" type="journal article" year="2002">
+<author id="2B26DE2FFF868E5A54F7FC2B287056BD" box="[151,311,911,935]" case="TC" fns="I" in="A.V." ins="D" ln="Gorochov" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Gorochov, A.V.</author>
+(
+<year id="87337799FF868E5A5525FC2B283D56BD" box="[325,378,911,935]" pageId="5" pageNumber="88">2002</year>
+) 
+<title id="819FDDFCFF868E5A55EAFC2B2B7D56DC" pageId="5" pageNumber="88">Contribution to the knowledge of the fauna and systematics of the Stenopelmatoidea (Orthoptera) of Indochina and some other territories</title>
+. III. 
+<journalOrPublisher id="295A3C06FF868E5A560AFC0A2AE756DC" box="[618,928,942,966]" pageId="5" pageNumber="88">
+<emphasis id="C1EFEAD8FF868E5A560AFC0A2AE756DC" box="[618,928,942,966]" italics="true" pageId="5" pageNumber="88">Entomologicheskoe Obozrenie</emphasis>
+</journalOrPublisher>
+, 
+<part id="873F9C57FF868E5A57CCFC0A2A8056DC" box="[940,967,942,966]" pageId="5" pageNumber="88">81</part>
+, 
+<pagination id="CA52C83EFF868E5A57B2FC0A2D6956DC" box="[978,1070,942,966]" pageId="5" pageNumber="88">318–337</pagination>
+. [2003, Russian; English translation in: 
+<journalOrPublisher id="295A3C06FF868E5A5487FC68288D56FE" box="[231,458,972,996]" pageId="5" pageNumber="88">
+<emphasis id="C1EFEAD8FF868E5A5487FC68288D56FE" box="[231,458,972,996]" italics="true" pageId="5" pageNumber="88">Entomological Review</emphasis>
+</journalOrPublisher>
+, 
+<part id="873F9C57FF868E5A55B6FC6928A856FF" box="[470,495,973,997]" pageId="5" pageNumber="88" type="volume">82</part>
+(
+<part id="873F9C57FF868E5A559DFC692B4C56FF" box="[509,523,973,997]" pageId="5" pageNumber="88" type="issue">7</part>
+), 
+<pagination id="CA52C83EFF868E5A567DFC682B3156FE" box="[541,630,972,996]" pageId="5" pageNumber="88" type="pageRange">765–781</pagination>
+(
+<bookContentInfo id="C46025BAFF868E5A56E2FC6928865119" pageId="5" pageNumber="88">Data on fauna and taxonomy of Stenopelmatoidea (Orthoptera) from Indochina and other territories: III)</bookContentInfo>
+]
+</bibRef>
+</paragraph>
+<bibRef id="2A3BA23CFF868E5A54F7FBAE2B285145" _evidence="authorList|year" pageId="5" pageNumber="88" refId="ref2810" type="journal article">
+<paragraph id="F32436CAFF868E5A54F7FBAE2B16515A" blockId="5.[151,1437,543,1702]" pageId="5" pageNumber="88">
+<author id="2B26DE2FFF868E5A54F7FBAE29BE513B" box="[151,249,1034,1058]" case="TC" fns="I" in="L.Y." ins="D" ln="Guo" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Guo, L.Y.</author>
+&amp; 
+<author id="2B26DE2FFF868E5A5573FBAE2828513B" box="[275,367,1034,1058]" case="TC" fns="I" in="F.M." ins="D" ln="Shi" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Shi, F.M.</author>
+(
+<year id="87337799FF868E5A5519FBAE28EA5138" box="[377,429,1034,1058]" pageId="5" pageNumber="88">2011</year>
+) 
+<title id="819FDDFCFF868E5A55D8FBAE2878515A" pageId="5" pageNumber="88">
+Descriptions of new species of the genus 
+<emphasis id="C1EFEAD8FF868E5A572AFBAE2AA75138" box="[842,992,1034,1058]" italics="true" pageId="5" pageNumber="88">Woznessenskia</emphasis>
+(Orthoptera:Gryllacrididae:Gryllacridinae) from China
+</title>
+. 
+<journalOrPublisher id="295A3C06FF868E5A5528FB8D28DC515A" box="[328,411,1065,1088]" pageId="5" pageNumber="88">
+<emphasis id="C1EFEAD8FF868E5A5528FB8D28DC515A" box="[328,411,1065,1088]" italics="true" pageId="5" pageNumber="88">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="873F9C57FF868E5A55C8FB8D289C515B" box="[424,475,1065,1089]" pageId="5" pageNumber="88" type="volume">2784</part>
+(
+<part id="873F9C57FF868E5A558AFB8D28B2515B" box="[490,501,1065,1089]" pageId="5" pageNumber="88" type="issue">1</part>
+), 
+<pagination id="CA52C83EFF868E5A566BFB8C2B09515A" box="[523,590,1064,1088]" pageId="5" pageNumber="88" type="pagination">62–68</pagination>
+.
+</paragraph>
+<paragraph id="F32436CAFF868E5A54A7FBE32B285145" blockId="5.[151,1437,543,1702]" box="[199,623,1095,1119]" pageId="5" pageNumber="88">
+<DOI id="870AF6BAFF868E5A54A7FBE32B285145" box="[199,623,1095,1119]" pageId="5" pageNumber="88">https://doi.org/10.11646/zootaxa.2784.1.6</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="2A3BA23CFF868E5A54F7FBC22B2851A1" _evidence="authorList|year" pageId="5" pageNumber="88" refId="ref2867" type="journal article">
+<paragraph id="F32436CAFF868E5A54F7FBC22A585187" blockId="5.[151,1437,543,1702]" pageId="5" pageNumber="88">
+<author id="2B26DE2FFF868E5A54F7FBC228495164" box="[151,270,1126,1150]" case="TC" fns="I" in="S." ins="D" ln="Ingrisch" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Ingrisch, S.</author>
+(
+<year id="87337799FF868E5A557EFBC228145164" box="[286,339,1126,1150]" pageId="5" pageNumber="88">2018</year>
+) 
+<title id="819FDDFCFF868E5A5503FBC22B4A5187" pageId="5" pageNumber="88">New taxa and records of Gryllacrididae (Orthoptera, Stenopelmatoidea) from South East Asia and New Guinea with a key to the genera</title>
+. 
+<journalOrPublisher id="295A3C06FF868E5A5676FB212B2E5186" box="[534,617,1157,1180]" pageId="5" pageNumber="88">
+<emphasis id="C1EFEAD8FF868E5A5676FB212B2E5186" box="[534,617,1157,1180]" italics="true" pageId="5" pageNumber="88">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="873F9C57FF868E5A5616FB202BEE5186" box="[630,681,1156,1180]" pageId="5" pageNumber="88" type="volume">4510</part>
+(
+<part id="873F9C57FF868E5A56D9FB212B835187" box="[697,708,1157,1181]" pageId="5" pageNumber="88" type="issue">1</part>
+), 
+<pagination id="CA52C83EFF868E5A56B9FB212A5B5187" box="[729,796,1157,1181]" pageId="5" pageNumber="88" type="pagination">1–278</pagination>
+.
+</paragraph>
+<paragraph id="F32436CAFF868E5A54A7FB072B2851A1" blockId="5.[151,1437,543,1702]" box="[199,623,1187,1211]" pageId="5" pageNumber="88">
+<DOI id="870AF6BAFF868E5A54A7FB072B2851A1" box="[199,623,1187,1211]" pageId="5" pageNumber="88">https://doi.org/10.11646/zootaxa.4510.1.1</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="2A3BA23CFF868E5A54F7FB662B26500D" _evidence="authorList|year" pageId="5" pageNumber="88" refId="ref2922" type="journal article">
+<paragraph id="F32436CAFF868E5A54F7FB662AEC51E2" blockId="5.[151,1437,543,1702]" pageId="5" pageNumber="88">
+<author id="2B26DE2FFF868E5A54F7FB66298B51C3" box="[151,204,1218,1242]" case="TC" fns="I" in="J." ins="D" ln="Li" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Li, J.</author>
+, 
+<author id="2B26DE2FFF868E5A54B7FB66286551C3" box="[215,290,1218,1242]" case="TC" fns="I" in="H." ins="D" ln="Liu" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Liu, H.</author>
+, 
+<author id="2B26DE2FFF868E5A554CFB66283451C3" box="[300,371,1218,1241]" case="TC" fns="I" in="Y." ins="D" ln="Wu" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Wu, Y.</author>
+, 
+<author id="2B26DE2FFF868E5A551DFB66289351C3" box="[381,468,1218,1242]" case="TC" fns="I" in="L." ins="D" ln="Zeng" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Zeng, L.</author>
+&amp; 
+<author id="2B26DE2FFF868E5A5594FB662B1A51C3" box="[500,605,1218,1242]" case="TC" fns="I" in="X." ins="D" ln="Huang" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Huang, X.</author>
+(
+<year id="87337799FF868E5A560AFB662BD851C0" box="[618,671,1218,1242]" pageId="5" pageNumber="88">2019</year>
+) 
+<title id="819FDDFCFF868E5A56CDFB6628A051E2" pageId="5" pageNumber="88">Spatial patterns and determinants of the diversity of Hemipteran insects in the Qinghai-Tibetan Plateau</title>
+. 
+<journalOrPublisher id="295A3C06FF868E5A5591FB452A1051E2" box="[497,855,1248,1272]" pageId="5" pageNumber="88">
+<emphasis id="C1EFEAD8FF868E5A5591FB452A1051E2" box="[497,855,1248,1272]" italics="true" pageId="5" pageNumber="88">Frontiers in Ecology and Evolution</emphasis>
+</journalOrPublisher>
+, 
+<part id="873F9C57FF868E5A5705FB452A3451E2" box="[869,883,1249,1272]" pageId="5" pageNumber="88" type="volume">7</part>
+, 
+<pagination id="CA52C83EFF868E5A571EFB442AE051E2" box="[894,935,1248,1272]" pageId="5" pageNumber="88" type="pagination">165</pagination>
+.
+</paragraph>
+<paragraph id="F32436CAFF868E5A54A7FB5B2B26500D" blockId="5.[151,1437,543,1702]" box="[199,609,1279,1303]" pageId="5" pageNumber="88">
+<DOI id="870AF6BAFF868E5A54A7FB5B2B26500D" box="[199,609,1279,1303]" pageId="5" pageNumber="88">https://doi.org/10.3389/fevo.2019.00165</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="2A3BA23CFF868E5A54F7FABA2B3A5069" _evidence="authorList|year" pageId="5" pageNumber="88" refId="ref2986" type="journal article">
+<paragraph id="F32436CAFF868E5A54F7FABA2D29504E" blockId="5.[151,1437,543,1702]" pageId="5" pageNumber="88">
+<author id="2B26DE2FFF868E5A54F7FABA2996502C" box="[151,209,1310,1334]" case="TC" fns="I" in="S." ins="D" ln="Li" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Li, S.</author>
+, 
+<author id="2B26DE2FFF868E5A54BEFABA2803502F" box="[222,324,1310,1334]" case="TC" fns="I" in="Y." ins="D" ln="Zhang" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Zhang, Y.</author>
+, 
+<author id="2B26DE2FFF868E5A552FFABA28E7502F" box="[335,416,1310,1334]" case="TC" fns="I" in="Y." ins="D" ln="Guo" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Guo, Y.</author>
+, 
+<author id="2B26DE2FFF868E5A55CAFABA2B44502F" box="[426,515,1310,1334]" case="TC" fns="I" in="L." ins="D" ln="Yang" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Yang, L.</author>
+&amp; 
+<author id="2B26DE2FFF868E5A5645FABA2BC4502F" box="[549,643,1310,1334]" case="TC" fns="I" in="Y." ins="D" ln="Wang" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Wang, Y.</author>
+(
+<year id="87337799FF868E5A56F0FABA2B82502C" box="[656,709,1310,1334]" pageId="5" pageNumber="88">2020</year>
+) 
+<title id="819FDDFCFF868E5A56B4FABA2B1A504E" jopScore="0.40936914" pageId="5" pageNumber="88">Monpa, memory, and change: an ethnobotanical study of plant use in Mêdog County, South-east Tibet, China</title>
+. 
+<journalOrPublisher id="295A3C06FF868E5A5606FA982D6E504E" box="[614,1065,1340,1365]" jopScore="0.9855835" pageId="5" pageNumber="88">
+<emphasis id="C1EFEAD8FF868E5A5606FA982D6E504E" box="[614,1065,1340,1365]" italics="true" pageId="5" pageNumber="88">Journal of Ethnobiology and Ethnomedicine</emphasis>
+</journalOrPublisher>
+, 
+<part id="873F9C57FF868E5A5055FA982D17504E" box="[1077,1104,1340,1364]" pageId="5" pageNumber="88" type="volume">16</part>
+, 
+<pagination id="CA52C83EFF868E5A503BFA982D2D504E" box="[1115,1130,1340,1364]" pageId="5" pageNumber="88" type="pagination">5</pagination>
+.
+</paragraph>
+<paragraph id="F32436CAFF868E5A54A7FAFF2B3A5069" blockId="5.[151,1437,543,1702]" box="[199,637,1371,1395]" pageId="5" pageNumber="88">
+<DOI id="870AF6BAFF868E5A54A7FAFF2B3A5069" box="[199,637,1371,1395]" pageId="5" pageNumber="88">https://doi.org/10.1186/s13002-020-0355-7</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="2A3BA23CFF868E5A54F7FADE2B5C50D5" _evidence="authorList|year" pageId="5" pageNumber="88" refId="ref3062" type="journal article">
+<paragraph id="F32436CAFF868E5A54F7FADE2B1950AA" blockId="5.[151,1437,543,1702]" pageId="5" pageNumber="88">
+<author id="2B26DE2FFF868E5A54F7FADE2847508B" box="[151,256,1402,1426]" case="TC" fns="I" in="N." ins="D" ln="Myers" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Myers, N.</author>
+, 
+<author id="2B26DE2FFF868E5A556BFADE28855088" box="[267,450,1402,1426]" case="TC" fns="I" in="R.A." ins="D" ln="Mittermeier" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Mittermeier, R.A.</author>
+, 
+<author id="2B26DE2FFF868E5A55ADFADE2BC35088" box="[461,644,1402,1426]" case="TC" fns="I" in="C.G." ins="D" ln="Mittermeier" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Mittermeier, C.G.</author>
+, 
+<author id="2B26DE2FFF868E5A56EFFADE2A105088" box="[655,855,1402,1426]" case="TC" fns="I" in="G.A.B." ins="D" ln="Fonseca" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">da Fonseca, G.A.B.</author>
+&amp; 
+<author id="2B26DE2FFF868E5A5718FADE2A81508B" box="[888,966,1402,1425]" case="TC" fns="I" in="J." ins="D" ln="Kent" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Kent, J.</author>
+(
+<year id="87337799FF868E5A57B4FADE2D4E5088" box="[980,1033,1402,1426]" pageId="5" pageNumber="88">2000</year>
+) 
+<title id="819FDDFCFF868E5A5077FADE286150AA" pageId="5" pageNumber="88">Biodiversity hotspots for conservation priorities</title>
+. 
+<journalOrPublisher id="295A3C06FF868E5A554FFA3D283350AA" box="[303,372,1433,1456]" pageId="5" pageNumber="88">
+<emphasis id="C1EFEAD8FF868E5A554FFA3D283350AA" box="[303,372,1433,1456]" italics="true" pageId="5" pageNumber="88">Nature</emphasis>
+</journalOrPublisher>
+, 
+<part id="873F9C57FF868E5A55E1FA3D28E050AB" box="[385,423,1433,1457]" pageId="5" pageNumber="88" type="volume">403</part>
+(
+<part id="873F9C57FF868E5A55D5FA3C28AB50AA" box="[437,492,1432,1456]" pageId="5" pageNumber="88" type="issue">6772</part>
+), 
+<pagination id="CA52C83EFF868E5A559EFA3C2B1D50AA" box="[510,602,1432,1456]" pageId="5" pageNumber="88" type="pagination">853–858</pagination>
+.
+</paragraph>
+<paragraph id="F32436CAFF868E5A54A7FA132B5C50D5" blockId="5.[151,1437,543,1702]" box="[199,539,1463,1487]" pageId="5" pageNumber="88">
+<DOI id="870AF6BAFF868E5A54A7FA132B5C50D5" box="[199,539,1463,1487]" pageId="5" pageNumber="88">https://doi.org/10.1038/35002501</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="2A3BA23CFF868E5A54F7FA722B285331" _evidence="authorList|year" pageId="5" pageNumber="88" refId="ref3125" type="journal article">
+<paragraph id="F32436CAFF868E5A54F7FA722B2C5317" blockId="5.[151,1437,543,1702]" pageId="5" pageNumber="88">
+<author id="2B26DE2FFF868E5A54F7FA7229BE50F7" box="[151,249,1494,1518]" case="TC" fns="I" in="F.M." ins="D" ln="Shi" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Shi, F.M.</author>
+, 
+<author id="2B26DE2FFF868E5A5565FA72282950F4" box="[261,366,1494,1518]" case="TC" fns="I" in="Q.D." ins="D" ln="Zhu" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Zhu, Q.D.</author>
+&amp; 
+<author id="2B26DE2FFF868E5A55F0FA722B4550F7" box="[400,514,1494,1518]" case="TC" fns="I" in="H.J." ins="D" ln="Wang" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Wang, H.J.</author>
+(
+<year id="87337799FF868E5A5671FA722B0150F4" box="[529,582,1494,1518]" pageId="5" pageNumber="88">2022</year>
+) 
+<title id="819FDDFCFF868E5A5636FA7228785316" jopScore="0.16763267" pageId="5" pageNumber="88">
+Review of the genus 
+<emphasis id="C1EFEAD8FF868E5A5752FA722A8F50F4" box="[818,968,1494,1518]" italics="true" pageId="5" pageNumber="88">Woznessenskia</emphasis>
+Gorochov, 2002 (Orthoptera: Gryllacrididae) from China
+</title>
+. 
+<journalOrPublisher id="295A3C06FF868E5A5528FA5128DC5316" box="[328,411,1525,1548]" jopScore="2.8902953" pageId="5" pageNumber="88">
+<emphasis id="C1EFEAD8FF868E5A5528FA5128DC5316" box="[328,411,1525,1548]" italics="true" pageId="5" pageNumber="88">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="873F9C57FF868E5A55C8FA50289C5316" box="[424,475,1524,1548]" pageId="5" pageNumber="88" type="volume">5087</part>
+(
+<part id="873F9C57FF868E5A558AFA5128B25317" box="[490,501,1525,1549]" pageId="5" pageNumber="88" type="issue">1</part>
+), 
+<pagination id="CA52C83EFF868E5A566BFA512B205317" box="[523,615,1525,1549]" pageId="5" pageNumber="88" type="pagination">191–200</pagination>
+.
+</paragraph>
+<paragraph id="F32436CAFF868E5A54A7F9B72B285331" blockId="5.[151,1437,543,1702]" box="[199,623,1555,1579]" pageId="5" pageNumber="88">
+<DOI id="870AF6BAFF868E5A54A7F9B72B285331" box="[199,623,1555,1579]" pageId="5" pageNumber="88">https://doi.org/10.11646/zootaxa.5087.1.9</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="2A3BA23CFF868E5A54F7F9962BCE53BC" _evidence="authorList|year" pageId="5" pageNumber="88" refId="ref3187" type="journal article">
+<paragraph id="F32436CAFF868E5A54F7F9962A61539D" blockId="5.[151,1437,543,1702]" pageId="5" pageNumber="88">
+<author id="2B26DE2FFF868E5A54F7F99629BB5353" box="[151,252,1586,1610]" case="TC" fns="I" in="Y." ins="D" ln="Zhang" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Zhang, Y.</author>
+, 
+<author id="2B26DE2FFF868E5A5566F99628C75353" box="[262,384,1586,1610]" case="TC" fns="I" in="L.-X." ins="D" ln="Yang" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Yang, L.-X.</author>
+, 
+<author id="2B26DE2FFF868E5A55EBF99628A85353" box="[395,495,1586,1610]" case="TC" fns="I" in="M.-X." ins="D" ln="Li" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Li, M.-X.</author>
+, 
+<author id="2B26DE2FFF868E5A559AF9962B255353" box="[506,610,1586,1610]" case="TC" fns="I" in="Y.-J." ins="D" ln="Guo" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Guo, Y.-J.</author>
+, 
+<author id="2B26DE2FFF868E5A560DF9962BE25350" box="[621,677,1586,1610]" case="TC" fns="I" in="S." ins="D" ln="Li" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Li, S.</author>
+&amp; 
+<author id="2B26DE2FFF868E5A56A6F9962A035353" box="[710,836,1586,1610]" case="TC" fns="I" in="Y.-H." ins="D" ln="Wang" lnc="TC" npo="LnFn" pageId="5" pageNumber="88">Wang, Y.-H.</author>
+(
+<year id="87337799FF868E5A5731F9962AC15350" box="[849,902,1586,1610]" pageId="5" pageNumber="88">2020</year>
+) 
+<title id="819FDDFCFF868E5A57F4F9962840539D" jopScore="0.23518036" pageId="5" pageNumber="88">The best choices: the diversity and functions of the plants in the home gardens of the Tsang-la (Motuo Menba) communities in Yarlung Tsangpo Grand Canyon, Southwest China</title>
+. 
+<journalOrPublisher id="295A3C06FF868E5A5570F9CB2B94539D" box="[272,723,1647,1671]" jopScore="0.9855835" pageId="5" pageNumber="88">
+<emphasis id="C1EFEAD8FF868E5A5570F9CB2B94539D" box="[272,723,1647,1671]" italics="true" pageId="5" pageNumber="88">Journal of Ethnobiology and Ethnomedicine</emphasis>
+</journalOrPublisher>
+, 
+<part id="873F9C57FF868E5A56BFF9CB2BBD539D" box="[735,762,1647,1671]" pageId="5" pageNumber="88" type="volume">16</part>
+, 
+<pagination id="CA52C83EFF868E5A5765F9CB2A66539D" box="[773,801,1647,1671]" pageId="5" pageNumber="88" type="pagination">50</pagination>
+.
+</paragraph>
+<paragraph id="F32436CAFF868E5A54A7F92A2BCE53BC" blockId="5.[151,1437,543,1702]" box="[199,649,1678,1702]" pageId="5" pageNumber="88">
+<DOI id="870AF6BAFF868E5A54A7F92A2BCE53BC" box="[199,649,1678,1702]" pageId="5" pageNumber="88">https://doi.org/10.1186/s13002-020-00395-z</DOI>
+</paragraph>
+</bibRef>
+</subSection>
+</document>

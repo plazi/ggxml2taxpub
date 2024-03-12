@@ -1,0 +1,1641 @@
+<document ID-DOI="http://dx.doi.org/10.3897/BDJ.12.e115019" ID-Pensoft-Pub="1314-2828-12-e115019" ID-Pensoft-UUID="1CC10F6AA20353A4B7DBD393C3A138D0" ModsDocID="1314-2828-12-e115019" checkinTime="1709025555916" checkinUser="pensoft" docAuthor="Liu, Qian &amp; Guo, Yuepeng &amp; Yang, Yanzhuo &amp; Mao, Junxia &amp; Wang, Xubo &amp; Liu, Haijiao &amp; Tian, Ying &amp; Hao, Zhenlin" docDate="2024" docId="1CC10F6AA20353A4B7DBD393C3A138D0" docName="BiodivDatJour 12: e115019" docOrigin="Biodiversity Data Journal 12" docPubDate="2024-02-26" docSource="https://bdj.pensoft.net/article/115019/download/xml/" docTitle="Geometric morphometric methods for identification of oyster species based on morphology" docVersion="2" id="1CC10F6AA20353A4B7DBD393C3A138D0" pageNumber="115019" updateTime="1709025856653" updateUser="ExternalLinkService">
+<mods:mods id="458A6E14331D4A33EEB5C66906B7138B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="9D2A439D42B779717D17263680C4467B">
+<mods:title id="DCD8DBA49DA56683F5B71FC3927D5264">Geometric morphometric methods for identification of oyster species based on morphology</mods:title>
+</mods:titleInfo>
+<mods:name id="C0FBAD78A891963A527145393AC92ACC" type="personal">
+<mods:role id="1F373A9BC64ED1C493474DC4CC5141A6">
+<mods:roleTerm id="A86B32733275D57FEB2B26CC333DCE88">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8E53E98D372A5A4D6E342A2FF17A5F5C">Liu, Qian</mods:namePart>
+<mods:nameIdentifier id="D8F87A5AEFC1F8A4675C71F5E71C104C" type="ORCID">https://orcid.org/0009-0009-3822-4249</mods:nameIdentifier>
+<mods:affiliation id="3CC03D8D3A8806E0BF1A050AEE81E8A5">Dalian Ocean University, Dalian, China</mods:affiliation>
+</mods:name>
+<mods:name id="9B62459FD46399F7994F593CA69629F4" type="personal">
+<mods:role id="FEB16697F37C4191B69FFA3292AD621A">
+<mods:roleTerm id="087AAA4F5C8061E9D588B0458178AE42">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="46D810C51C343F17C7CB355EFF14A208">Guo, Yuepeng</mods:namePart>
+<mods:affiliation id="98C22344C55EE68830EF614D7044B337">Dalian Ocean University, Dalian, China</mods:affiliation>
+</mods:name>
+<mods:name id="D2AD3071514B24D8EAFDBA3A573DDFEC" type="personal">
+<mods:role id="1F92FE7E87699F50DEBF81202CA78201">
+<mods:roleTerm id="2EAE60141EC5F9B9B515A57729AFE80F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1AC25FB9A260AA492736867D5A585977">Yang, Yanzhuo</mods:namePart>
+<mods:affiliation id="1BB5A4C87FACBED1DBEA0BC7515EA02A">Dalian Ocean University, Dalian, China</mods:affiliation>
+</mods:name>
+<mods:name id="7FD94C2F8CA45F84B01169F6E15A1031" type="personal">
+<mods:role id="1E3DAE92C1524CEA0107DBD750FE4A28">
+<mods:roleTerm id="6FBB7495D6AFEFE40FC1B3399A9CA32D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C0BDE952FB38D3D1DBA16837693C31F5">Mao, Junxia</mods:namePart>
+<mods:affiliation id="79E3B24CD3A78C38E46CB8D9B009FE0A">Dalian Ocean University, Dalian, China</mods:affiliation>
+</mods:name>
+<mods:name id="51FDF36A8C9918821ADB7E36EAD5B365" type="personal">
+<mods:role id="58176CBCD821D1B4E7B0978250F089DD">
+<mods:roleTerm id="28724F1D5092CF27994B2EB4859BC52F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4BAE5BF3DFF878B5B828A5A69BD74F8E">Wang, Xubo</mods:namePart>
+<mods:affiliation id="B39A63A079FFADE2BAC1ADE8955375F8">Dalian Ocean University, Dalian, China</mods:affiliation>
+</mods:name>
+<mods:name id="85485D68AC5B82DD51B9689CDEB1BAD3" type="personal">
+<mods:role id="E46722D947E4157A0D54EF1AAD7D0878">
+<mods:roleTerm id="40194FFDAAED657F6D9C50328E744ABF">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B5A1E8DE03946CCF86B4E14DE5029BAE">Liu, Haijiao</mods:namePart>
+<mods:affiliation id="79B32C313717ED654338BDB79719BCDB">Dalian Changhaiyide Aquaculture Company,Dalian,China, Dalian, China</mods:affiliation>
+</mods:name>
+<mods:name id="DD506A1EF9658C26F6BC71E3A2C08C28" type="personal">
+<mods:role id="6F52CD860673D8E762B11B72E4FD7FE0">
+<mods:roleTerm id="F032C5405D16D54D884EBA34EBFEFB66">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="49AB221CD1636551A246099648A27AFB">Tian, Ying</mods:namePart>
+<mods:nameIdentifier id="802A0DBA4AD7D58E696AFD1275C22A46" type="email">tianying@dlou.edu.cn</mods:nameIdentifier>
+<mods:nameIdentifier id="A048B57C88CA4CA95771E5A215DE76AA" type="ORCID">https://orcid.org/0000-0002-0250-3790</mods:nameIdentifier>
+<mods:affiliation id="FEB8E41855EF8E79F395594CFA10938F">Dalian Shell Museum, Dalian, China</mods:affiliation>
+<mods:affiliation id="BD5CCB9FA9E4F0BB54C5313C1F65B42D">Dalian Ocean University, Dalian, China</mods:affiliation>
+</mods:name>
+<mods:name id="6C75F0F9560EC27EED7A561A9203F385" type="personal">
+<mods:role id="CB218122814BB08665999D77EFB98087">
+<mods:roleTerm id="1E9357BD643BE261BED3AE8815D6A99D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="53BEA5B16E18A4F04073BF976080D019">Hao, Zhenlin</mods:namePart>
+<mods:nameIdentifier id="236175EE386E787FAF9600CBC3C7213C" type="email">zhenlinhao@dlou.edu.cn</mods:nameIdentifier>
+<mods:affiliation id="BCA745A2762A41DB2931B441F13F2FCD">Dalian Ocean University, Dalian, China</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="0ED0845458C72EE38B64468FAEE32E89">text</mods:typeOfResource>
+<mods:relatedItem id="A68B17CEBC979886BC0136257E7598D2" type="host">
+<mods:titleInfo id="3802EEC2CB6FCD3742413B39B6B68C60">
+<mods:title id="5ABE4490AB3638409A15ED193A1BF3F6">Biodiversity Data Journal</mods:title>
+</mods:titleInfo>
+<mods:part id="B0D777993C16CB815F89151F08DEE846">
+<mods:detail id="AF2C3B05E057EA79F11FFAA5068D598A" type="volume">
+<mods:number id="80837BF8C61D56BB702D36AB6D812982">12</mods:number>
+</mods:detail>
+<mods:detail id="09D28978319AC71C168E090B94CF5ADD" type="pubDate">
+<mods:number id="EA21EDA8D460E43CB138BC7DDFA9E03D">2024-02-26</mods:number>
+</mods:detail>
+<mods:date id="6CB0EE0354EC5E45AF9261BAE73CE250">2024</mods:date>
+<mods:extent id="C855D7B8C79FB0F29F8D0D7D328209C2" unit="page">
+<mods:start id="B34D146700A5F4451EE1D03E199776F6">115019</mods:start>
+<mods:end id="46E682CB5496C97441F4D1DCC48096C7">115019</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="6AB7B61893CC0CFE3144569A8F80F0CC">
+<mods:url id="83648E1ECAB177E84664F612816160D0">http://dx.doi.org/10.3897/BDJ.12.e115019</mods:url>
+</mods:location>
+<mods:identifier id="ED0711769784C39341E1F81FEA4CEA87" type="DOI">http://dx.doi.org/10.3897/BDJ.12.e115019</mods:identifier>
+<mods:identifier id="DDD09240B46434BA4B979EC9B41B7BA7" type="Pensoft-Pub">1314-2828-12-e115019</mods:identifier>
+<mods:identifier id="A96DED45AA90AB6B4F551FB467437DF2" type="Pensoft-UUID">1CC10F6AA20353A4B7DBD393C3A138D0</mods:identifier>
+<mods:classification id="0247227E822C772BEFDB32BB69AF0FE1">journal article</mods:classification>
+</mods:mods>
+<subSection id="C1B99D50A80A3784BA83668E874217E4" pageId="0" pageNumber="115019" type="introduction">
+<paragraph id="F4B04204313102AF7E2CDF9065D22B83" pageId="0" pageNumber="115019">
+<pageBreakToken id="16CCF37EE42024E1E86E3FA312580482" origin="extrapolated" pageId="0" pageNumber="115019" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph id="6673BD451A33E521A832C06020BF70C5" pageId="0" pageNumber="115019">
+Oysters belong to the Phylum 
+<taxonomicName id="A773A1B11E888E2452903E9FEA9035AC" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" pageId="0" pageNumber="115019" phylum="Mollusca" rank="phylum">Mollusca</taxonomicName>
+, Class 
+<taxonomicName id="E62E3B9F7823E1DC4EB9FEAFD3BDF260" authorityName="Linnaeus" authorityYear="1758" class="Bivalvia" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" pageId="0" pageNumber="115019" phylum="Mollusca" rank="class">Bivalvia</taxonomicName>
+, Order 
+<taxonomicName id="9D6E215FFC5BC974F7E8B7A7C75A4360" lsidName="" order="Pterioida" pageId="0" pageNumber="115019" rank="order">Pterioida</taxonomicName>
+and Family 
+<taxonomicName id="C87791EBF922768D17174D367BD5131A" authorityName="Rafinesque" authorityYear="1815" class="Bivalvia" family="Ostreidae" kingdom="Animalia" lsidName="" order="Ostreida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="family">Ostreidae</taxonomicName>
+(
+<bibRefCitation id="8DFEAC47BBDB3149F4658569553416A5" author="Zhang, Xi" journalOrPublisher="Current Zoology" pageId="0" pageNumber="115019" pagination="65 - 94" refId="B10376302" refString="Zhang, Xi, Lou, Zi Kang, 1956. A study of Chinese oysters. Current Zoology 8 (1): 65 - 94" title="A study of Chinese oysters" volume="8" year="1956">Zhang and Lou 1956</bibRefCitation>
+, 
+<bibRefCitation id="33485C739B42CBEAD298D8D66702139D" author="Ruppert, E. E" journalOrPublisher="Israel Journal of Zoology" pageId="0" pageNumber="115019" pagination="161 - 182" refId="B10376637" refString="Ruppert, E. E, 2013. Morphology of Hatschek's nephridium in larval and juvenile stages of Branchiostoma virginiae (Cephalochordata). Israel Journal of Zoology 42 (Suppl 1): 161 - 182" title="Morphology of Hatschek's nephridium in larval and juvenile stages of Branchiostoma virginiae (Cephalochordata)" volume="42" year="2013">Ruppert 2013</bibRefCitation>
+, 
+<bibRefCitation id="54F753E0E2D573AA86C3B839DA1B53DF" author="Bayne, B. L." journalOrPublisher="Journal of Shellfish Research" pageId="0" pageNumber="115019" pagination="545 - 547" refId="B10376400" refString="Bayne, B. L., Ahrens, M., Allen, S. K., D'auriac, M. Angles, Backeljau, T., Beninger, P., Bohn, R., Boudry, P., Davis, J., Green, T., Guo, X., Hedgecock, D., Ibarra, A., Kingsley-Smith, P., Krause, M., Langdon, C., Lapegue, S., Li, C., Manahan, D., Mann, R., Perez-Paralle, L., Powell, E. N., Rawson, P. D., Speiser, D., Sanchez, J. -L., Shumway, S., Wang, H., 2017. The proposed dropping of the genus Crassostrea for all Pacific cupped oysters and its replacement by a new genus Magallana: a dissenting view. Journal of Shellfish Research 36 (3): 545 - 547" title="The proposed dropping of the genus Crassostrea for all Pacific cupped oysters and its replacement by a new genus Magallana: a dissenting view" volume="36" year="2017">Bayne et al. 2017</bibRefCitation>
+). Over 100 species of oysters have been discovered to date (
+<bibRefCitation id="ADBF9340979724EA4E81118251815927" author="Lindberg, David R." journalOrPublisher="University of California Press" pageId="0" pageNumber="115019" refId="B10376663" refString="Lindberg, David R., Ponder, Winston F., 2008. Phylogeny and evolution of the Mollusca. University of California Press" title="Phylogeny and evolution of the Mollusca" year="2008">Lindberg and Ponder 2008</bibRefCitation>
+, 
+<bibRefCitation id="DA5E1B8D4164CCBC30F1BD0FC1BD9890" author="Bayne, B. L." journalOrPublisher="Journal of Shellfish Research" pageId="0" pageNumber="115019" pagination="545 - 547" refId="B10376400" refString="Bayne, B. L., Ahrens, M., Allen, S. K., D'auriac, M. Angles, Backeljau, T., Beninger, P., Bohn, R., Boudry, P., Davis, J., Green, T., Guo, X., Hedgecock, D., Ibarra, A., Kingsley-Smith, P., Krause, M., Langdon, C., Lapegue, S., Li, C., Manahan, D., Mann, R., Perez-Paralle, L., Powell, E. N., Rawson, P. D., Speiser, D., Sanchez, J. -L., Shumway, S., Wang, H., 2017. The proposed dropping of the genus Crassostrea for all Pacific cupped oysters and its replacement by a new genus Magallana: a dissenting view. Journal of Shellfish Research 36 (3): 545 - 547" title="The proposed dropping of the genus Crassostrea for all Pacific cupped oysters and its replacement by a new genus Magallana: a dissenting view" volume="36" year="2017">Bayne et al. 2017</bibRefCitation>
+). They have a worldwide distribution and are an important marine biological resource (
+<bibRefCitation id="A023C4BFC9F17CB9A4C7ABA4AD23B070" author="Bieler, Ruediger" journalOrPublisher="Malacologia" pageId="0" pageNumber="115019" pagination="113 - 133" refId="B10376707" refString="Bieler, Ruediger, Carter, Joseph G., Coan, Eugene V., 2010. Classification of bivalve families. Malacologia 52 (2): 113 - 133" title="Classification of bivalve families" volume="52" year="2010">Bieler et al. 2010</bibRefCitation>
+, 
+<bibRefCitation id="91054C5D47AA2893E4AE7B359BB34FAA" author="Wu, Qi Sheng" journalOrPublisher="Journal of Fujian Fisheries" pageId="0" pageNumber="115019" pagination="67 - 72" refId="B10376253" refString="Wu, Qi Sheng, Wang, Xiao Qing, Zeng, Zhi Nan, Ning, Yue, 2011. Advance in taxonomic of oysters in China. Journal of Fujian Fisheries 33 (01): 67 - 72" title="Advance in taxonomic of oysters in China" volume="33" year="2011">Wu et al. 2011</bibRefCitation>
+, 
+<bibRefCitation id="4AF7CCC2F687D42318EBA5F1EEBE08EC" author="Salvi, Daniele" journalOrPublisher="PLOS One" pageId="0" pageNumber="115019" pagination=": e 116014" refId="B10376448" refString="Salvi, Daniele, Macali, Armando, Mariottini, Paolo, 2014. Molecular phylogenetics and systematics of the bivalve family Ostreidae based on rRNA sequence structure models and multilocus species tree. PLOS One 9 (12): e116014" title="Molecular phylogenetics and systematics of the bivalve family Ostreidae based on rRNA sequence structure models and multilocus species tree" volume="9" year="2014">Salvi et al. 2014</bibRefCitation>
+). They are also important aquaculture species both domestically and internationally (
+<bibRefCitation id="D46D5D001EF75A28C538C24352AB619D" author="Dong, Xiao Wei" journalOrPublisher="Marine Sciences" pageId="0" pageNumber="115019" pagination="62 - 65" refId="B10365928" refString="Dong, Xiao Wei, Jiang, Guo Liang, Li, Li De, Wang, Ning, 2004. Research developmentsin the general utilization of oyster. Marine Sciences 28 (4): 62 - 65" title="Research developmentsin the general utilization of oyster" volume="28" year="2004">Dong et al. 2004</bibRefCitation>
+, 
+<bibRefCitation id="2447D0CFB1821CFFFA37B5A63B80E96B" author="Wijsman, J. W. M." journalOrPublisher="Springer" pageId="0" pageNumber="115019" refId="B10376526" refString="Wijsman, J. W. M., Troost, K., Fang, J, Roncarati, A, 2018. Goods and Services of Marine Bivalves. Springer" title="Goods and Services of Marine Bivalves" year="2018">Wijsman et al. 2018</bibRefCitation>
+, 
+<bibRefCitation id="B7966EF4EBD503F8A20F4F7B0B0C0CBA" author="Bayne, B." journalOrPublisher="Aquaculture" pageId="0" pageNumber="115019" pagination="373 - 373" refId="B10376471" refString="Bayne, B., Angles d'Auriac, M., Backeljau, T., Beninger, P., Boudry, P., Carnegie, R., Davis, J., Guo, X., Hedgecock, D., Krause, M., Langdon, C., Lapegue, S., Manahan, D., Mann, R., Powell, E., Shumway, S., 2019. A scientific name for Pacific oysters. Aquaculture 499: 373 - 373" title="A scientific name for Pacific oysters" volume="499" year="2019">Bayne et al. 2019</bibRefCitation>
+). In coastal areas of China, 30 species of oysters had been reported by 
+<bibRefCitation id="33E0FC017238211EDFFC7C49B9E0A169" author="Xu, Feng Shan" journalOrPublisher="Beijing Science and Technology Press" pageId="0" pageNumber="115019" refId="B10376286" refString="Xu, Feng Shan, 1997. Bivalve mollusca of China seas. Beijing Science and Technology Press" title="Bivalve mollusca of China seas" year="1997">Xu (1997)</bibRefCitation>
+and the report in 2008 listed 23 species (
+<bibRefCitation id="78E3A664E6BA3C88E2F4251A1E6EE2AD" author="Xu, Feng Shan" journalOrPublisher="Beijing Science and Technology Press" pageId="0" pageNumber="115019" refId="B10376294" refString="Xu, Feng Shan, Zhang, Su Ping, 2008. An illustrated Bivalvia Mollusca fauna of China Seas. Beijing Science and Technology Press" title="An illustrated Bivalvia Mollusca fauna of China Seas" year="2008">Xu and Zhang 2008</bibRefCitation>
+). Recent research indicates that a total of 37 species of oysters have been discovered in China to date (
+<bibRefCitation id="310A38202D8C4B97BB9CD9CD37EFADF3" author="Li, Cui" journalOrPublisher="Journal of Shellfish Research" pageId="0" pageNumber="115019" pagination="359 - 364" refId="B11140769" refString="Li, Cui, Wang, Haiyan, Guo, Ximing, 2017. Classification and Taxonomic Revision of Two Oyster Species from Peru: Ostrea megodon (Hanley, 1846) and Crassostrea talonata (Li &amp; Qi, 1994). Journal of Shellfish Research 36 (2): 359 - 364" title="Classification and Taxonomic Revision of Two Oyster Species from Peru: Ostrea megodon (Hanley, 1846) and Crassostrea talonata (Li &amp; Qi, 1994)" volume="36" year="2017">Li et al. 2017</bibRefCitation>
+, 
+<bibRefCitation id="E3F271B13C538BB2BE37989D3500580E" author="Guo, Ximing" journalOrPublisher="Journal of Shellfish Research" pageId="0" pageNumber="115019" pagination="755 - 771" refId="B11140739" refString="Guo, Ximing, Li, Cui, Wang, Haiyan, Xu, Zhe, 2018. Diversity and Evolution of Living Oysters. Journal of Shellfish Research 37 (4): 755 - 771" title="Diversity and Evolution of Living Oysters" volume="37" year="2018">Guo et al. 2018</bibRefCitation>
+, 
+<bibRefCitation id="CACE98E88870915EB952603348085F1F" author="Hu, Lisha" journalOrPublisher="Journal of Shellfish Research" pageId="0" pageNumber="115019" pagination="295 - 308" refId="B11140748" refString="Hu, Lisha, Wang, Haiyan, Zhang, Zhen, Li, Cui, Guo, Ximing, 2019. Classification of Small Flat Oysters of Ostrea stentina Species Complex and a New Species Ostrea neostentina sp. nov. (Bivalvia: Ostreidae). Journal of Shellfish Research 38 (2): 295 - 308" title="Classification of Small Flat Oysters of Ostrea stentina Species Complex and a New Species Ostrea neostentina sp. nov. (Bivalvia: Ostreidae)" volume="38" year="2019">Hu et al. 2019</bibRefCitation>
+, 
+<bibRefCitation id="2A8315BFE67F1DCCD241BCFCBDCF92FE" author="Cui, Zongmei" journalOrPublisher="Journal of Shellfish Research" pageId="0" pageNumber="115019" pagination="63 - 75" refId="B11140758" refString="Cui, Zongmei, Hu, Lisha, Li, Cui, Zhang, Zhen, Guo, Ximing, Wang, Haiyan, 2021. Identification of Saccostrea mordax and a New Species Saccostrea mordoides sp. nov. (Bivalvia: Ostreidae) from China. Journal of Shellfish Research 40 (1): 63 - 75" title="Identification of Saccostrea mordax and a New Species Saccostrea mordoides sp. nov. (Bivalvia: Ostreidae) from China" volume="40" year="2021">Cui et al. 2021</bibRefCitation>
+).
+</paragraph>
+<paragraph id="C3BC6E8AF392F63528C42DA034F00B14" pageId="0" pageNumber="115019">
+Due to the susceptibility of oyster shells to environmental changes, oyster classification has always been controversial. The continuous study of oyster classification has resulted in a relatively mature oyster classification system (
+<bibRefCitation id="FD6113E6EEE849A07B630DD446F365E0" author="Que, Hua Yong" journalOrPublisher="Chinese Journal of Zoology" pageId="0" pageNumber="115019" pagination="110 - 113" refId="B10377645" refString="Que, Hua Yong, Liu, Xiao, Wang, Hai Yan, Zhang, Su Ping, Zhang, Guo Fan, Zhang, Fu Sui, 2003. Systematics of oysters along the coast of China: Status and countermeasures. Chinese Journal of Zoology 38 (4): 110 - 113" title="Systematics of oysters along the coast of China: Status and countermeasures" volume="38" year="2003">Que et al. 2003</bibRefCitation>
+). By sequencing and analysing the oyster genome, the classification position and relationship of oysters has become more accurate, providing new means for oyster classification research (
+<bibRefCitation id="CA2E345E41246AEDE651B1E06E4F5BAE" author="Wang, Hai Yan" journalOrPublisher="Acta Hydrobiologica Sinica" pageId="0" pageNumber="115019" refId="B10377679" refString="Wang, Hai Yan, Guo, Xi Min, Liu, Xiao, Zhang, Su Ping, Xu, Feng Shan, Zhang, Guo Fan, 2007. Classification study of common oysters in northern coastal China. In: 13th Symposium of Chinese Society of Malacology, Chinese Society for Oceanology and Limnology." title="Classification study of common oysters in northern coastal China" volumeTitle="13 th Symposium of Chinese Society of Malacology, Chinese Society for Oceanology and Limnology." year="2007">Wang et al. 2007</bibRefCitation>
+). However, during practical production and aquaculture processes, the application of molecular techniques is not feasible for non-destructive classification of large numbers of specimens.
+</paragraph>
+<paragraph id="EE4A3EA3CC42C6387EEE808D7699A323" pageId="0" pageNumber="115019">
+Morphometrics is a method for studying trait variation and its covariance with other variables (
+<bibRefCitation id="361FD0C885CF01FDFE2E24664E9383B2" author="Rohlf, F. James" journalOrPublisher="Systematic Zoology" pageId="0" pageNumber="115019" pagination="40 - 59" refId="B10376196" refString="Rohlf, F. James, Slice, Dennis, 1990. Extensions of the procrustes method for the optimal superimposition of landmarks. Systematic Zoology 39 (1): 40 - 59" title="Extensions of the procrustes method for the optimal superimposition of landmarks" volume="39" year="1990">Rohlf and Slice 1990</bibRefCitation>
+). Currently, geometric morphometric (GM) methods are widely used in medicine (
+<bibRefCitation id="63E291F4CB292D80E48B606CA5FB371E" author="Du, Xin Ru" journalOrPublisher="Chinese Journal of Cllinical Anatomy" pageId="0" pageNumber="115019" pagination="506 - 509" refId="B10375927" refString="Du, Xin Ru, Lu, Shi Bi, 2006. Anatomical study of the proxim alfemoral canal. Chinese Journal of Cllinical Anatomy 24 (05): 506 - 509" title="Anatomical study of the proxim alfemoral canal" volume="24" year="2006">Du and Lu 2006</bibRefCitation>
+), botany (
+<bibRefCitation id="1575DB5655C3B76E823AAFB75B336893" author="Su, Wei" journalOrPublisher="Chinese Journal of Applied Ecology" pageId="0" pageNumber="115019" pagination="2309 - 2315" refId="B10376214" refString="Su, Wei, Song, Yi Gang, Qi, Min, Du, Fang, 2021. Leaf morphological characteristics of section Quercus based on geometric morphometric analysis. Chinese Journal of Applied Ecology 32 (07): 2309 - 2315" title="Leaf morphological characteristics of section Quercus based on geometric morphometric analysis" volume="32" year="2021">Su et al. 2021</bibRefCitation>
+) and biological classification (
+<bibRefCitation id="A8A32473B3ADA8BA16D39A9C5F33B502" author="Minton, Russell L." journalOrPublisher="Hydrobiologia" pageId="0" pageNumber="115019" pagination="173 - 182" refId="B10376112" refString="Minton, Russell L., Norwood, Andrew P., Hayes, David M., 2008. Quantifying phenotypic gradients in freshwater snails: a case study in Lithasia (Gastropoda: Pleuroceridae). Hydrobiologia 605 (1): 173 - 182" title="Quantifying phenotypic gradients in freshwater snails: a case study in Lithasia (Gastropoda: Pleuroceridae)" volume="605" year="2008">Minton et al. 2008</bibRefCitation>
+, 
+<bibRefCitation id="2FD9DE08AEF2491BCB9F975160590DCD" author="Perez, Kathryn E." journalOrPublisher="Nautilus" pageId="0" pageNumber="115019" pagination="113 - 126" refId="B10376171" refString="Perez, Kathryn E., 2011. A new species of Praticolella (Gastropoda: Polygyridae) from northeastern Mexico and revision of several species of this genus. Nautilus 125 (3): 113 - 126" title="A new species of Praticolella (Gastropoda: Polygyridae) from northeastern Mexico and revision of several species of this genus" volume="125" year="2011">Perez 2011</bibRefCitation>
+, 
+<bibRefCitation id="DDD9C6161C77E3C7A4375F2E3EFB43E2" author="Miller, Jonathan P." journalOrPublisher="Folia Malacologica" pageId="0" pageNumber="115019" pagination="239 - 250" refId="B10376146" refString="Miller, Jonathan P., 2016. Geometric morphometric analysis of the shell of Cerion mumia (Pulmonata: Cerionidae) and related species. Folia Malacologica 24 (4): 239 - 250" title="Geometric morphometric analysis of the shell of Cerion mumia (Pulmonata: Cerionidae) and related species" volume="24" year="2016">Miller 2016</bibRefCitation>
+). 
+<bibRefCitation id="EB13C6D7216EDC3FA136DD0008EFCEDB" author="Shu, Yu" journalOrPublisher="Marine Sciences" pageId="0" pageNumber="115019" pagination="61 - 69" refId="B10376223" refString="Shu, Yu, Shi, Ling, Hao, Zhen Lin, Mao, Jun Xia, Wang, Xu Bo, Tian, Ying, Chang, Ya Qing, 2022. Application of geometric morphology to the morphological classification and phylogeny of eight of scallop species. Marine Sciences 46 (06): 61 - 69" title="Application of geometric morphology to the morphological classification and phylogeny of eight of scallop species" volume="46" year="2022">Shu et al. (2022)</bibRefCitation>
+used GM to analyse the morphological differences of eight scallop species in China. 
+<bibRefCitation id="DB9921B21C9AA445391E3C08FB4818CB" author="Jiang, Xiao Dong" journalOrPublisher="Journal of Fishery Sciences of China" pageId="0" pageNumber="115019" pagination="1116 - 1125" refId="B10376060" refString="Jiang, Xiao Dong, Cheng, Yong Xu, Pan, Jian Lin, LI, Xiao Dong, Wu, Xu Gan, 2019. Landmark-based morphometric identification of wild Eriocheir sinensis with geographically different origins. Journal of Fishery Sciences of China 26 (06): 1116 - 1125" title="Landmark-based morphometric identification of wild Eriocheir sinensis with geographically different origins" volume="26" year="2019">Jiang et al. (2019)</bibRefCitation>
+successfully used GM to identify different geographic populations of the Chinese mitten crab (
+<taxonomicName id="46C4762A4D03A17FAC5016CA8FCDEAF0" class="Crustacea" family="Grapsidae" genus="Eriocheir" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Eriocheir sinensis" order="Decapoda" pageId="0" pageNumber="115019" phylum="Arthropoda" rank="species" species="sinensis">
+<emphasis id="38E2FE6C06E36D61FBAD2AA8D41134B4" italics="true" pageId="0" pageNumber="115019">Eriocheir sinensis</emphasis>
+</taxonomicName>
+). 
+<bibRefCitation id="6CF9569D0083FFDF0C558FEE89C4E043" author="Al-Kandari, Manal" journalOrPublisher="ZooKeys" pageId="0" pageNumber="115019" pagination="1 - 20" refId="B10365910" refString="Al-Kandari, Manal, Oliver, P. Graham, Salvi, Daniele, 2021. Molecular and morphological systematics of a new, reef forming, cupped oyster from the northern Arabian Gulf: Talonostrea salpinx new species. ZooKeys 1043: 1 - 20" title="Molecular and morphological systematics of a new, reef forming, cupped oyster from the northern Arabian Gulf: Talonostrea salpinx new species" volume="1043" year="2021">Al-Kandari et al. (2021)</bibRefCitation>
+stated that the current understanding of oyster evolutionary diversity is incomplete and that molecular data are crucial for oyster classification and identification. Molecular identification is currently the primary means of species identification, while it is inconvenient and costly. Comparing GM and molecular identification results is important for improving the accuracy of species classification, which would be highly valuable for oyster species classification.
+</paragraph>
+<paragraph id="7EEC4E7B29D1E51B2EF36F40E95B262C" pageId="0" pageNumber="115019">
+The methods used in this study are traditional morphometric measurements, as well as multivariate linear analysis, principle component analysis (PCA), thin-plate spline analysis (TPS) and canonical variable analysis (CVA) to analyse the morphological differences between two oyster species (
+<taxonomicName id="C3D466E38D547982E3410D45799D8F28" baseAuthorityName="Thunberg" baseAuthorityYear="1793" class="Bivalvia" family="Ostreidae" genus="Crassostrea" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Crassostrea gigas" order="Pterioida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="species" species="gigas">
+<emphasis id="C8A9672F9395B26F671A5E56A7F3E31B" italics="true" pageId="0" pageNumber="115019">Crassostrea gigas</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="4F0F2F0CF253DF6178107467A52B145D" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="23EDD0D1893D7803589243476BECBCA0" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+).
+</paragraph>
+</subSection>
+<subSection id="BB0263A633CA8186B76311C4E9E2091C" pageId="0" pageNumber="115019" type="material and methods">
+<paragraph id="023958AADF3B6C5906D5A05A9F15EDAF" pageId="0" pageNumber="115019">Material and Methods</paragraph>
+<paragraph id="1E03EE8025D6878890D0FA9DA587DD4F" pageId="0" pageNumber="115019">Sample collection</paragraph>
+<paragraph id="D32082D0A670AF219364BD2D5AAE84E0" pageId="0" pageNumber="115019">
+In November 2022, oysters were randomly collected from two sites: Erjiegou (
+<geoCoordinate id="73D94DD7F91F2300844BEE1D89C6E13A" degrees="40.81" direction="north" orientation="latitude" precision="555" value="40.81">40.81°N</geoCoordinate>
+, 
+<geoCoordinate id="27FD5AA6C442ECB1A54AC0329BB89AC0" degrees="121.97" direction="east" orientation="longitude" precision="555" value="121.97">121.97°E</geoCoordinate>
+) and Laohutan (
+<geoCoordinate id="0188EF0D509567455AF02EAC35105BBF" degrees="38.90" direction="north" orientation="latitude" precision="555" value="38.9">38.90°N</geoCoordinate>
+, 
+<geoCoordinate id="307F4663C714A29DCF91525FBDFE1383" degrees="121.67" direction="east" orientation="longitude" precision="555" value="121.67">121.67°E</geoCoordinate>
+) in Liaoning Province, China (Fig. 
+<figureCitation id="5FDC12841809306707C203648B5339D6" captionStart="Figure 1" captionStartId="F10377701" captionText="Figure 1. Location of sampling." figureDoi="10.3897/BDJ.12.e115019.figure1" httpUri="https://binary.pensoft.net/fig/889653" pageId="0" pageNumber="115019">1</figureCitation>
+). A total of 57 (31 samples from Erjiegou and 26 samples from Laohutan) oysters were transported to the Key Laboratory of Mariculture and Stock Enhancement in the Northern Sea Area, Ministry of Agriculture and Rural Affairs, Dalian Ocean University for temporary culture. After removing surface attachments, the oysters were dissected and measured.
+</paragraph>
+<paragraph id="683CD9383325AD2FB5F8A8D900AEB716" pageId="0" pageNumber="115019">DNA identification</paragraph>
+<paragraph id="EE63563BB22A67828CB0D39E29D56153" pageId="0" pageNumber="115019">
+Genomic DNA was extracted from the tissues of six different oyster specimens, with three samples randomly selected from each locality, using the Ezup Column Animal Tissue Genomic DNA kit (Sangon Biotech, Shanghai, China) and the quality of the extracted DNA was checked using 1% agarose gel electrophoresis (
+<bibRefCitation id="00860DE69E8D82103F5B84F77DC886FE" author="Hu, Lisha" journalOrPublisher="Journal of Shellfish Research" pageId="0" pageNumber="115019" pagination="295 - 308" refId="B11140748" refString="Hu, Lisha, Wang, Haiyan, Zhang, Zhen, Li, Cui, Guo, Ximing, 2019. Classification of Small Flat Oysters of Ostrea stentina Species Complex and a New Species Ostrea neostentina sp. nov. (Bivalvia: Ostreidae). Journal of Shellfish Research 38 (2): 295 - 308" title="Classification of Small Flat Oysters of Ostrea stentina Species Complex and a New Species Ostrea neostentina sp. nov. (Bivalvia: Ostreidae)" volume="38" year="2019">Hu et al. 2019</bibRefCitation>
+, 
+<bibRefCitation id="8EB3AB23167CC97D1A3B96128A2A6962" author="Cui, Zongmei" journalOrPublisher="Journal of Shellfish Research" pageId="0" pageNumber="115019" pagination="63 - 75" refId="B11140758" refString="Cui, Zongmei, Hu, Lisha, Li, Cui, Zhang, Zhen, Guo, Ximing, Wang, Haiyan, 2021. Identification of Saccostrea mordax and a New Species Saccostrea mordoides sp. nov. (Bivalvia: Ostreidae) from China. Journal of Shellfish Research 40 (1): 63 - 75" title="Identification of Saccostrea mordax and a New Species Saccostrea mordoides sp. nov. (Bivalvia: Ostreidae) from China" volume="40" year="2021">Cui et al. 2021</bibRefCitation>
+). The primers for the 16S rRNA gene were designed using Primer Premier 5 software. The primer sequences were as follows: 16SF (5′-CGCCTGTTTATCAAAAACAT-3′) and 16SR (5′-CCGGTCTGAACTCAGATCACGT-3′). PCR amplification was performed using the following reaction system: 1.0 
+<normalizedToken id="6A3D345EE61BDF46BAE7CB881AD641C3" originalValue="µl">µl</normalizedToken>
+of DNA template (50 ng/µl), 1.0 
+<normalizedToken id="E6BB53397603B09391B198011854F249" originalValue="µl">µl</normalizedToken>
+of 16SF primer (10 
+<normalizedToken id="95B8FF461D614904BE115D99C807AAA9" originalValue="µmol">µmol</normalizedToken>
+/l), 1.0 
+<normalizedToken id="718FC64B6707756F3B241A2B6ABE4F6E" originalValue="µl">µl</normalizedToken>
+of 16SR primer (10 
+<normalizedToken id="C6A70685EF0181F702D044F7B83C3503" originalValue="µmol">µmol</normalizedToken>
+/l), 2.0 
+<normalizedToken id="ED37CF79CF81B5286209A594A86A7C41" originalValue="µl">µl</normalizedToken>
+of dNTP (2.5 mmol/l), 2.0 
+<normalizedToken id="AB37E75813D1341F8A77DB3F5D8DD7B8" originalValue="µl">µl</normalizedToken>
+of 10
+<normalizedToken id="EAFECD735FFB8456230E2BC748815DDA" originalValue="×">x</normalizedToken>
+buffer, 1.0 
+<normalizedToken id="CF39598B522E18FC797C2C6D1A04999E" originalValue="µl">µl</normalizedToken>
+of Mg2+ (25 mmol/l) and 0.1 
+<normalizedToken id="D11F0714012A7AE19E64FA6C96780039" originalValue="µl">µl</normalizedToken>
+of Taq (5 U/µl) and ultrapure water was added to adjust the final volume to 20 
+<normalizedToken id="8236129B612AA36126D20415EBC64FF4" originalValue="µl">µl</normalizedToken>
+.
+</paragraph>
+<paragraph id="0137CD5EB9CB52963B544A9A42E3009B" pageId="0" pageNumber="115019">The PCR programme was as follows: pre-denaturation at 94°C for 3 min; denaturation at 94°C for 30 s, annealing at 52°C for 30 s and extension at 72°C for 1 min, repeated for 35 cycles; and a final extension at 72°C for 10 min, followed by storage at 4°C. PCR products were checked by electrophoresis. The PCR product was preliminarily detected using a gel imaging system. The DNA sequence was obtained using sequence analysis software and it was manually corrected, based on the sequence and peak charts. Amplicon purification and cycle sequencing were conducted by Sangon Biotechnology Co., Ltd., Shanghai, China.</paragraph>
+<paragraph id="41A432F65B2E4FF88DEACF68C9DB0051" pageId="0" pageNumber="115019">Traditional morphological measurements</paragraph>
+<paragraph id="446E9C4121F5433943A278101D3C2902" pageId="0" pageNumber="115019">
+After removing surface attachments, electronic calipers (accurate to 0.01 mm) were used to measure the shell height (SH), shell length (SL) and shell width (SW) of each oyster shell. An electronic scale (accurate to 0.01 g) was used to measure the wet weight (WW), shell weight (SM) and soft tissue weight (ST) of each oyster. The data obtained from Laohutan and Erjiegou were analysed for correlation between each trait using the Pearson correlation coefficient in SPSS 26.0 software (IBM, Armonk, NY, USA). Multiple linear regression analyses were performed using oyster individual SL, SW and SH to establish the optimal multiple linear regression equation between morphological traits and quality traits in order to identify differences in oyster population morphology between the two sampling sites (Suppl. material 1).For this study, we examined 31 specimens of 
+<taxonomicName id="7CB3DCB3E47E4039F801F0044980E422" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="2D467A69CED556EF16987914C4D5EED4" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+and 26 specimens of 
+<taxonomicName id="67FB3298183A725DAA78BBE71AB9FAD2" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="D63933A926022D58469E7B37E77E282E" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+.
+</paragraph>
+<paragraph id="F783B70A8DFDC15FB0069DDAD7953DCE" pageId="0" pageNumber="115019">GM measurements</paragraph>
+<paragraph id="F6B80B2B00DFA9847BF62BAEA4E9D0C9" pageId="0" pageNumber="115019">
+GM image acquisition was conducted as follows: After dissecting the oysters to remove the soft tissue, the right shell of each oyster was photographed with a digital camera (Canon G12, Tokyo, Japan) to capture a two-dimensional image from which data were collected. The shells were photographed in the same orientation such that the vertical line of the umbo was on the Y-axis and the disc on the same plane was parallel to the camera at the same distance. To reduce accidental errors, the photography and subsequent digitisation work were completed by one person (
+<bibRefCitation id="C3D3E7FBFF07954AC66FD5A7E8814492" author="Bai, Ming" journalOrPublisher="Chinese Science Bulletin" pageId="0" pageNumber="115019" pagination="887 - 894" refId="B10365919" refString="Bai, Ming, Yang, XingKe, Wang, WenCheng, Li, Jing, 2014. Geometric Morphometrics, a super scientific computing tool in morphology comparison. Chinese Science Bulletin 59 (10): 887 - 894" title="Geometric Morphometrics, a super scientific computing tool in morphology comparison" volume="59" year="2014">Bai et al. 2014</bibRefCitation>
+).
+</paragraph>
+<paragraph id="31B173BBD14568EC94B4431A7FBC67D8" pageId="0" pageNumber="115019">Normalisation of data processing</paragraph>
+<paragraph id="2EE7DA1164884C5586119C14FCAF36A6" pageId="0" pageNumber="115019">
+We used landmarks and semi-landmarks to mark and collect data from the two-dimensional images of oyster shells from two different regions. The selection of landmarks is required to reflect the morphological differences of the research objects as well as homology amongst the samples. Semi-landmarks are used to determine the overall outline of the research object more precisely. We selected 18 points, consisting of 1-6 landmarks as biological feature points of oysters and 7-18 semi-landmarks as semi-landmarks along the contour of the oyster shell. These landmarks are as follows: (1) shell apex; (2) posterior margin; (3) the widest point on the left side of the adductor muscle; (4) the widest point on the right side of the adductor muscle; (5) the widest point on the left side of the shell; (6) the widest point on the right side of the shell; (7-8) three equal points from the shell apex to the widest point on the right side of adductor muscle; (9-10) three equal points from the widest point on the right side of the adductor muscle to the widest point on the right side of the shell; (11-12) three equal points from the widest point on the right side of the shell to the posterior margin; (13-14) three equal points from the posterior margin to the widest point on the left side of the shell; (15-16) three equal points from the widest point on the left side of the shell to the widest point on the left side of the shell adductor muscle; and (17-18) three equal points from the widest point on the left side of the shell adductor muscle to the shell apex. The figure below shows the landmarks and semi-landmarks (
+<bibRefCitation id="BB9B431546304846524B99D481AE868D" author="Valladares, Alejandro" journalOrPublisher="Marine Biology" pageId="0" pageNumber="115019" pagination="2731 - 2738" refId="B10376235" refString="Valladares, Alejandro, Manriquez, German, Suarez-Isla, Benjamin A., 2010. Shell shape variation in populations of Mytilus chilensis (Hupe 1854) from southern Chile: a geometric morphometric approach. Marine Biology 157 (12): 2731 - 2738" title="Shell shape variation in populations of Mytilus chilensis (Hupe 1854) from southern Chile: a geometric morphometric approach" volume="157" year="2010">Valladares et al. 2010</bibRefCitation>
+) (Fig. 
+<figureCitation id="6F214D7C16B53278D9BD74164915E533" captionStart="Figure 2" captionStartId="F10377703" captionText="Figure 2. Landmarks and semi-landmarks on the oyster shell. Red dots to represent landmarks and blue dots to represent semi-landmark." figureDoi="10.3897/BDJ.12.e115019.figure2" httpUri="https://binary.pensoft.net/fig/978339" pageId="0" pageNumber="115019">2</figureCitation>
+).
+</paragraph>
+<paragraph id="1F3F9BFCC30260F04641F1BCABB14919" pageId="0" pageNumber="115019">
+The morphological data for the two oyster species were analysed using Generalised Procrustes Analysis (GPA) in the software Past v.3.24 (
+<bibRefCitation id="C7603D28DAF7C5CDCC1E4EDBA269B179" author="Hammer, O." journalOrPublisher="Palaeontologia Electronica" pageId="0" pageNumber="115019" pagination="1 - 9" refId="B10376086" refString="Hammer, O., Harper, D. A., D., Ryan P., 2001. PAST: Paleontological statistics software package for education and data analysis. Palaeontologia Electronica 4 (1): 1 - 9" title="PAST: Paleontological statistics software package for education and data analysis" volume="4" year="2001">Hammer et al. 2001</bibRefCitation>
+). The analysis removed the effects of non-shell morphological differences caused by differences in shooting angles and landmark selection positions, sizes and orientations (
+<bibRefCitation id="A218944CE9D8262B72B03D45F212B78B" author="Wang, He Kun Yuan" journalOrPublisher="Acta Hydrobiologica Sinica" pageId="0" pageNumber="115019" pagination="182 - 193" refId="B10376262" refString="Wang, He Kun Yuan, Tang, Yong Tao, Li, Guo Gang, Zhang, Ren Yi, Feng, Chen Guang, Tong, Chao, Liu, Si Jia, Zhang, Cun Fang, Tian, Fei, Zhao, Kai, 2017. Geometric morphometrics of the cephalic contour and its morphological variations among schizopygopsis stoliczkai (teleostei: cyprinidae). Acta Hydrobiologica Sinica 41 (1): 182 - 193" title="Geometric morphometrics of the cephalic contour and its morphological variations among schizopygopsis stoliczkai (teleostei: cyprinidae)" volume="41" year="2017">Wang et al. 2017</bibRefCitation>
+). Subsequently, the data transformed by GPA were subjected to PCA and CVA.
+</paragraph>
+</subSection>
+<subSection id="83B2F121CBA71806EC78FFFF6A88609E" pageId="0" pageNumber="115019" type="results">
+<paragraph id="E8B4335398B85419EEC7854AE47035C5" pageId="0" pageNumber="115019">Results</paragraph>
+<paragraph id="D796AE2AE6ECB233A9356E35F34AC312" pageId="0" pageNumber="115019">DNA indentification</paragraph>
+<paragraph id="A910FFE5CE68D789F59525CE93A72590" pageId="0" pageNumber="115019">
+The 16SrRNA gene sequences of six samples from the two sampling sites were determined and the sequencing results were aligned and compared using MEGA v.7.0.26. The obtained haplotype sequences were compared with the relevant sequences downloaded from NCBI. Haplotypes for 16S rRNA sequences were 
+<normalizedToken id="BEF04EFD471013DE8561D69CBB3D2163" originalValue="identiﬁed">identiﬁed</normalizedToken>
+using DnaSP 5software (
+<bibRefCitation id="06BEB78555C037DC9927856C77BA3C87" author="Librado, P." journalOrPublisher="Bioinformatics" pageId="0" pageNumber="115019" pagination="1451 - 1452" refId="B11140798" refString="Librado, P., Rozas, J., 2009. DnaSP v5: a software for comprehensive analysis of DNA polymorphism data. Bioinformatics 25 (11): 1451 - 1452" title="DnaSP v 5: a software for comprehensive analysis of DNA polymorphism data" volume="25" year="2009">Librado and Rozas 2009</bibRefCitation>
+). The Erjiegou oyster population was identified as 
+<taxonomicName id="815097F0BC1A466EEC9D2F5C0CA7797F" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="F3FE731DA7DD8BA1781406B8F69067B7" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+(accession number: OR598760/OR598761/OR598762) and the Laohutan oyster population was identified as 
+<taxonomicName id="D1E4FED44F09607143703FECAB80844D" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="9468C6E2B6350CB44CC784D84DC2A9BF" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+(accession number: OR598763/OR598764/OR598765) (Suppl. material 2).
+</paragraph>
+<paragraph id="57C8969C974F74CA06A9F940A87B5FA0" pageId="0" pageNumber="115019">Traditional morphological measurements</paragraph>
+<paragraph id="C3AB8A4160D7D4DB9F289E08F26881C0" pageId="0" pageNumber="115019">
+The morphological data for the two oyster species are shown in Table 
+<tableCitation id="05F3AFEC980A6C6F7E4931AB4B3E4C68" captionStart="Table 1" captionStartId="T10377718" captionText="Table 1. Morphological measurements of the two species of oysters using traditional morphometry." httpUri="http://table.plazi.org/id/EF2E53D8FE5469767C080C48A14BEC2A" pageId="0" pageNumber="115019" tableUuid="EF2E53D8FE5469767C080C48A14BEC2A">1</tableCitation>
+and Fig. 
+<figureCitation id="15E800AA6539C7B1731FC9BA779B5CFC" captionStart="Figure 3" captionStartId="F10377705" captionText="Figure 3. Box plot of morphometric measurements for the two oyster species." figureDoi="10.3897/BDJ.12.e115019.figure3" httpUri="https://binary.pensoft.net/fig/889655" pageId="0" pageNumber="115019">3</figureCitation>
+. For 
+<taxonomicName id="E0711B3A93FA918F4D34CD8BC863710C" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="D4B5FE08B30A0B01ADF6EA3D448D1307" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+, SH ranged from 56.19 to 159.78 mm (mean, 94.92 
+<normalizedToken id="9BFDFF1037E10CA0EE010015A38E215F" originalValue="±">+/-</normalizedToken>
+27.91 mm), SL ranged from 23.19 to 68.55 mm (mean, 43.96 
+<normalizedToken id="1C1A0FEE30C007457F54D830B951FF96" originalValue="±">+/-</normalizedToken>
+11.15 mm) and SW ranged from 16.79 to 55.29 mm (mean, 29.33 
+<normalizedToken id="C8B8C70E19F54206FD06EDB906A01A92" originalValue="±">+/-</normalizedToken>
+9.60 mm). The coefficients of variation were 29%, 25% and 33% for SH, SL and SW, respectively. For 
+<taxonomicName id="04EB6FE80A01154E3F8BEA2B50C8C991" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="79BAF0E7F518867409B849B204D10587" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+, SH ranged from 78.49 to 205.64 mm (mean, 136.89 
+<normalizedToken id="9BCC56CBA5C8BA7CBEAAE9F5DCC6578D" originalValue="±">+/-</normalizedToken>
+32.95 mm), SL ranged from 26.28 to 114.53 mm (mean, 69.01 
+<normalizedToken id="458AD315F2226FB396F3F64D7D0C6174" originalValue="±">+/-</normalizedToken>
+18.63 mm) and SW ranged from 11.12 to 39.57 mm (mean, 27.85 
+<normalizedToken id="BCFCAF5B624124B05F5313E86018BFDC" originalValue="±">+/-</normalizedToken>
+8.17 mm). The coefficients of variation were 24.07%, 26.99% and 29.32% for SH, SL and SW, respectively (Suppl. material 1).
+</paragraph>
+<paragraph id="DD824C50A57D099B8113110D0FC4478E" pageId="0" pageNumber="115019">GM measurements</paragraph>
+<paragraph id="C523541C0A57BC4F063A16A8FC27B714" pageId="0" pageNumber="115019">GPA</paragraph>
+<paragraph id="E5654422A33897119B168482962C5552" pageId="0" pageNumber="115019">
+GPA was performed on the data using the software Past v.3.24 and the resulting morphological traits of the two groups were quantified and projected on to a coordinate system to obtain a GPA overlay plot (Fig. 
+<figureCitation id="B5E6A8482B6DF1211E5AED0803785872" captionStart="Figure 4" captionStartId="F10377711" captionText="Figure 4. Superimposed map of the GPA of the two oyster species." figureDoi="10.3897/BDJ.12.e115019.figure4" httpUri="https://binary.pensoft.net/fig/889659" pageId="0" pageNumber="115019">4</figureCitation>
+) for the two oyster species. 
+<taxonomicName id="F1F0DEE1320661DFF9FAC8F5B225FAFB" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="101154F3AA12D29F0D991A29672CD468" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+is concentrated in the widest part of the adductor muscle and the widest part of the shell, with the widest part of the shell more prominent compared to that of 
+<taxonomicName id="BF633D03AC77D6F517C2735F9463F284" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="6CF0226AB10920B8BE9EB53AF8B83330" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+. Some points in 
+<taxonomicName id="0C3E8899F535ADCD0D540AB9DA5E41FF" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="6E63777CC46CCE854D867BB9A7A21CCF" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+are dispersed at overlapping points. Most of the shell contour points of 
+<taxonomicName id="4A602D8DA2B0DA84F6D5E98A4650A50C" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="019C876EC6A021664319E04DCF51A6F6" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+are located inside those of 
+<taxonomicName id="883C5B2AB9FBA8B24D5D902FB31563D1" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="DBE6284757E94DD92DD6FBB4BEFF7415" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+, with few scattered points and a more even distribution overall. The non-morphological factors that may have influenced the results were removed during the analysis (Suppl. material 3).
+</paragraph>
+<paragraph id="50E0F21CA4EA30CE694416ADAE536858" pageId="0" pageNumber="115019">PCA and TPS</paragraph>
+<paragraph id="1B4A02A30B9386028686C20C3B0AED35" pageId="0" pageNumber="115019">
+In the PCA analysis, the first three PCs together account for 78.29% of the total variance and explain the major morphological differences between 
+<taxonomicName id="1738CB3BC76E9AE7D0E76B0919B64741" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="CA6A40B7555650B722BAB381CCA09BC7" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="9253FDE5055A6227751E68119E0B9FE0" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="15359B21AAFCF2B415B82D28F53A2EA3" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+. PC1 contributes 45.22%, PC2 contributes 22.09% and PC3 contributes 10.98% to the total variance. PC1 and PC2, which together account for 85.98% of the total variance, were used as the x and y axes to create the scatter plot (Fig. 
+<figureCitation id="1B850F23653CDCAFCB2B00480850EBE7" captionStart="Figure 5" captionStartId="F10377713" captionText="Figure 5. PCA and TPS analysis of the two oyster species. The four deformation maps depicted by a thin-plate spline show the differences between the average shape and the extreme case of each PC." figureDoi="10.3897/BDJ.12.e115019.figure5" httpUri="https://binary.pensoft.net/fig/889660" pageId="0" pageNumber="115019">5</figureCitation>
+). Along the positive half-axis of PC1, the shell is elongated outwards at its widest point, forming a spindle shape. Along the negative half-axis of PC1, the shell narrows inwards at its widest point, exhibiting the opposite morphology. Along the positive half-axis of PC2, the shell is elongated outwards at its widest point, whereas the ventral margin of the shell contracts inwards. Along the negative half-axis of PC2, the shell narrows inwards at its widest point, but the ventral margin expands outwards. 
+<taxonomicName id="88D9125156D3A177CC2708D492CE5820" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="D5CEA5FE622232DE0094760BCA935169" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+is mainly distributed in the first and third quadrants, displaying a more elongated spindle-shaped morphology. 
+<taxonomicName id="8BC9B9367C451868DA70ECB7C064CB6D" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="2562AA982D953FABA3C0DE4446161621" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+is predominantly distributed in the second and third quadrants, exhibiting a more oval-shaped morphology. These results indicate significant morphological differences between 
+<taxonomicName id="A0FEF57D67F84AC7ECBA95032ABFD0D9" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="1B2B66F99BB400D490139729333776F3" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="9C0E54A57976D4A83E7512B5057CC771" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="B79DE0AAC2F4C264D50190F390D9E12A" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+. The oysters in both species are mainly concentrated between PC1 axis -0.15 to 0.15 and PC2 axis -0.07 to 0.15, but the distribution of 
+<taxonomicName id="E63DED41BE34D80E275718305919CED6" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="5277CA7AE37C47422E1A9F507379212D" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+is more concentrated, with lower variability (Fig. 
+<figureCitation id="ECB1D491776D014E421A800D979AC235" captionStart="Figure 5" captionStartId="F10377713" captionText="Figure 5. PCA and TPS analysis of the two oyster species. The four deformation maps depicted by a thin-plate spline show the differences between the average shape and the extreme case of each PC." figureDoi="10.3897/BDJ.12.e115019.figure5" httpUri="https://binary.pensoft.net/fig/889660" pageId="0" pageNumber="115019">5</figureCitation>
+). 
+<taxonomicName id="CEC306A805D877EEF1EC7C6265FDCFD3" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="5CAFE64308185E3E6AB06B2ABF92A432" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+exhibits a larger distribution and greater variability.
+</paragraph>
+<paragraph id="2F986B456CF96E1E97B893941A0C8433" pageId="0" pageNumber="115019">
+TPS are deformations of a square grid, based on the differences in landmark positions between two shapes. Combining the TPS function images (A-D) revealed that the main variable points along the PC1 axis were 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 and 16, while the main variable points along the PC2 axis were 2, 3, 4, 5, 6, 9, 10, 12, 13, 15 and 16. When the abscissa of the variable points changes in the positive direction along the PC1 axis, there is a tendency for the outermost edge of the shell to grow outwards and the widest part of the shell body expands outwards. When the PC1 axis changes in the negative direction, the shell body becomes shorter and the posterior edge of the shell contracts inwards. When the ordinate of the variable points changes in the positive direction along the PC2 axis, the posterior edge of the shell contracts inwards and the widest part of the shell body expands outwards. When the ordinate of the variable points changes in the negative direction along the PC2 axis, the posterior edge of the shell expands outwards, the widest part of the shell body contracts inwards and the part between the widest part of the shell body and the widest part of the oyster adductor muscle grows narrower. The distribution of the 
+<taxonomicName id="2D3810B22391F25783BB6A89CDC50AD5" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="A5B0DFDD3E2C2E4472CF8C7B51DDAB3D" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+in the positive direction of PC1 and the negative direction of PC2 in the figure is wider than that of the 
+<taxonomicName id="EC4A5DC410E80658FB537257E266C310" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="8F59D59362B892172B56FEA6C2BDDAB1" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+population, indicating that 
+<taxonomicName id="E504E86D60D2F44E99C9910229659B23" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="3DC8D395797239A1CC73624901D7105A" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+has a greater degree of variation in the posterior edge of the shell and the widest part of the shell body.
+</paragraph>
+<paragraph id="B5636C0C6AD2426A6C733DC5087CA5DA" pageId="0" pageNumber="115019">CVA</paragraph>
+<paragraph id="D9755D0BAA027F05A6FC7F70192CA8CD" pageId="0" pageNumber="115019">
+The results of the CVA, based on Mahalanobis distances and Procrustes distances that were calculated using the within-group covariance matrix and the between-group covariance matrix, respectively, were used to test for significant differences between predefined groups (developmental stage, sex, species) and to evaluate the reliability of classification. The Mahalanobis distance is used to represent the morphological differences between an individual and other individuals within the same population, while the Procrustes distance is used to represent the morphological differences between different groups (Fig. 
+<figureCitation id="35CFD4078C9400FD6FEF4098E6EEC53A" captionStart="Figure 6" captionStartId="F10377715" captionText="Figure 6. Canonical Variate Analysis (CVA) diagram of shell shapes in the two oyster species." figureDoi="10.3897/BDJ.12.e115019.figure6" httpUri="https://binary.pensoft.net/fig/889661" pageId="0" pageNumber="115019">6</figureCitation>
+).
+</paragraph>
+<paragraph id="5E72369165A28D00240EFFCDCBE8AE3A" pageId="0" pageNumber="115019">
+Figure 6 shows the results of the CVA for 
+<taxonomicName id="5F7CA4D120463359628C26BF9203801A" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="A4607F0F53926CE3A39364A2EBFD9788" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="B57D6193C588121831A0CEADDD3160D8" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="5B326F28DF6E0CF7598FAAB7E286A4A9" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+. The data were imported into PAST software and the typical variable analysis histogram was plotted using morphological discriminant variables as the abscissa and sample frequency as the ordinate 
+<taxonomicName id="D815168E43D22ED51DC1C90AE51BA913" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="E60162E02CE94FB1C4367457610414A7" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="58C77E32F04DC3CA24AA1A17266B0C90" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="C719134ABA1055CD16FDA376D207A14F" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+are completely separated, with a discrimination rate of 100%, indicating that they can be completely separated and are two different species.
+</paragraph>
+</subSection>
+<subSection id="D25AA78CDA36A355638D61DA65A20609" pageId="0" pageNumber="115019" type="discussion">
+<paragraph id="75B48CEC77443AA9D9179DFADA2E1143" pageId="0" pageNumber="115019">Discussion</paragraph>
+<paragraph id="929368F8BB380640C4AA91E114CE4336" pageId="0" pageNumber="115019">
+Oysters have high morphological plasticity and easily change their shell characteristics, based on the environment. Traditional classification is mainly based on shell morphology and anatomical structure, which can lead to confusion about taxonomic identification (
+<bibRefCitation id="DBEA0F76645D205801221D46599D28EB" author="Littlewood, D. T. J." journalOrPublisher="Molecular Phylogenetics and Evolution" pageId="0" pageNumber="115019" pagination="221 - 229" refId="B10376103" refString="Littlewood, D. T.J., 1994. Molecular phylogenetics of cupped oysters based on partial 28S rRNA gene sequences. Molecular Phylogenetics and Evolution 3 (3): 221 - 229" title="Molecular phylogenetics of cupped oysters based on partial 28 S rRNA gene sequences" volume="3" year="1994">Littlewood 1994</bibRefCitation>
+). 
+<bibRefCitation id="A9B01D6734BC643C2B59483F7A4FB412" author="Zhang, Xi" journalOrPublisher="Current Zoology" pageId="0" pageNumber="115019" pagination="65 - 94" refId="B10376302" refString="Zhang, Xi, Lou, Zi Kang, 1956. A study of Chinese oysters. Current Zoology 8 (1): 65 - 94" title="A study of Chinese oysters" volume="8" year="1956">Zhang and Lou (1956)</bibRefCitation>
+used the classification system proposed by 
+<bibRefCitation id="F245A0F3B127AA7FD49A2B22D8FA50CF" author="Hirase, S" journalOrPublisher="Japanese Journal of Zoology" pageId="0" pageNumber="115019" pagination="1 - 65" refId="B10375945" refString="Hirase, S, 1930. Transactions: 1. On the classification of Japanese oysters. Japanese Journal of Zoology 3: 1 - 65" title="Transactions: 1. On the classification of Japanese oysters" volume="3" year="1930">Hirase (1930)</bibRefCitation>
+to categorise 25 oyster species collected along the Chinese coast into four subgenera and they provided detailed descriptions of their morphological characteristics. 
+<bibRefCitation id="BC937983E7B61157BFCB3833B826BAF4" author="Harry, H. W." journalOrPublisher="Veliger" pageId="0" pageNumber="115019" pagination="121 - 158" refId="B10428669" refString="Harry, H. W., 1985. Synopsis of the supraspecific classification of living oysters (Bivalvia: Gryphaeidae and Ostreidae). Veliger 28 (2): 121 - 158" title="Synopsis of the supraspecific classification of living oysters (Bivalvia: Gryphaeidae and Ostreidae)" volume="28" year="1985">Harry (1985)</bibRefCitation>
+reported that, amongst the over 100 extant oyster species recorded worldwide, nearly two-thirds have synonymous names, suggesting the existence of taxonomic inconsistencies. Naming errors and synonymous names have frequently occurred in oyster taxonomy (
+<bibRefCitation id="BCDEA00AADE2690DC857CDBECA81D268" author="Que, Hua Yong" journalOrPublisher="Chinese Journal of Zoology" pageId="0" pageNumber="115019" pagination="110 - 113" refId="B10377645" refString="Que, Hua Yong, Liu, Xiao, Wang, Hai Yan, Zhang, Su Ping, Zhang, Guo Fan, Zhang, Fu Sui, 2003. Systematics of oysters along the coast of China: Status and countermeasures. Chinese Journal of Zoology 38 (4): 110 - 113" title="Systematics of oysters along the coast of China: Status and countermeasures" volume="38" year="2003">Que et al. 2003</bibRefCitation>
+), which has severely impacted the conservation of oyster genetic resources and the breeding of improved varieties. Molecular identification methods have significant advantages in taxonomy, as they can improve classification efficiency and accuracy. However, in practical production, their high cost prohibits non-destructive testing of large oyster populations.
+</paragraph>
+<paragraph id="5A7DBEC6CCD105F6222E62841ED02BB8" pageId="0" pageNumber="115019">
+In this study, we applied both traditional morphometrics and GM to analyse the morphology of 
+<taxonomicName id="3AC57ADEC52B354B207106BC53BB649A" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="30E75F0D208E4A867A6A31B2B70BFEFC" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="2E2A4900C5B58AC5C0F3884E63F28648" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="0DB4BC5C99365A048B3B57EE99693530" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+. Traditional morphometrics revealed differences in morphology between the two species. However, there was overlap between them, making it difficult to accurately identify them. GM can eliminate the effects of size, position and measurement angles by using TPS function analysis and PCA. It is a quantitative approach widely used to describe the shape of biological specimens and its covariation with other biological and environmental factors (
+<bibRefCitation id="FA2BB5279009FD240A08939F440882ED" author="Zelditch, M. L." journalOrPublisher="Elsevier Academic Press" pageId="0" pageNumber="115019" refId="B10376380" refString="Zelditch, M. L., Swiderski, D. L., Sheets, H. D., 2004. Geometric morphometrics for biologists. Elsevier Academic Press" title="Geometric morphometrics for biologists" year="2004">Zelditch et al. 2004</bibRefCitation>
+, 
+<bibRefCitation id="A53BB2BEEA0607D132D074228F8D4E21" author="Webster, Mark" journalOrPublisher="The Paleontological Society Papers" pageId="0" pageNumber="115019" pagination="163 - 188" refId="B10376244" refString="Webster, Mark, Sheets, H. David, 2010. A practical introduction to landmark-based geometric morphometrics. The Paleontological Society Papers 16: 163 - 188" title="A practical introduction to landmark-based geometric morphometrics" volume="16" year="2010">Webster and Sheets 2010</bibRefCitation>
+). Morphological variables are quantified using a set of Cartesian landmarks located on distinct homologous anatomical points and observed body shape variations are then displayed through user-friendly graphical representations (
+<bibRefCitation id="95A1ADB83C3D2723362372171F08F7B1" author="Adams, Dean C." journalOrPublisher="Italian Journal of Zoology" pageId="0" pageNumber="115019" pagination="5 - 16" refId="B10365901" refString="Adams, Dean C., Rohlf, F. James, Slice, Dennis E., 2004. Geometric morphometrics: Ten years of progress following the 'revolution'. Italian Journal of Zoology 71 (1): 5 - 16" title="Geometric morphometrics: Ten years of progress following the ' revolution'" volume="71" year="2004">Adams et al. 2004</bibRefCitation>
+, 
+<bibRefCitation id="DE2611AF263732EF6C32A1B7B69F8EF8" author="Zelditch, M. L." journalOrPublisher="Elsevier Academic Press" pageId="0" pageNumber="115019" refId="B10376380" refString="Zelditch, M. L., Swiderski, D. L., Sheets, H. D., 2004. Geometric morphometrics for biologists. Elsevier Academic Press" title="Geometric morphometrics for biologists" year="2004">Zelditch et al. 2004</bibRefCitation>
+, 
+<bibRefCitation id="D9DE30A6941D8ECFF1EC4085E0EC4348" author="Mitteroecker, Philipp" journalOrPublisher="Evolutionary Biology" pageId="0" pageNumber="115019" pagination="235 - 247" refId="B10376137" refString="Mitteroecker, Philipp, Gunz, Philipp, 2009. Advances in geometric morphometrics. Evolutionary Biology 36 (2): 235 - 247" title="Advances in geometric morphometrics" volume="36" year="2009">Mitteroecker and Gunz 2009</bibRefCitation>
+). GM is a powerful technique capable of detecting even tiny morphological differences amongst groups of specimens (
+<bibRefCitation id="9CD94CD998A672F79CC0678C71109CFD" author="Mitteroecker, Philipp" journalOrPublisher="Evolutionary Biology" pageId="0" pageNumber="115019" pagination="235 - 247" refId="B10376137" refString="Mitteroecker, Philipp, Gunz, Philipp, 2009. Advances in geometric morphometrics. Evolutionary Biology 36 (2): 235 - 247" title="Advances in geometric morphometrics" volume="36" year="2009">Mitteroecker and Gunz 2009</bibRefCitation>
+, 
+<bibRefCitation id="70A7256C54D504D36B4BAA9E1C8E7B5B" author="Webster, Mark" journalOrPublisher="The Paleontological Society Papers" pageId="0" pageNumber="115019" pagination="163 - 188" refId="B10376244" refString="Webster, Mark, Sheets, H. David, 2010. A practical introduction to landmark-based geometric morphometrics. The Paleontological Society Papers 16: 163 - 188" title="A practical introduction to landmark-based geometric morphometrics" volume="16" year="2010">Webster and Sheets 2010</bibRefCitation>
+).
+</paragraph>
+<paragraph id="9EE2212207F754C1663AEA972D8AA82D" pageId="0" pageNumber="115019">
+Use of these techniques revealed the presence of shell shape differences between 
+<taxonomicName id="624292073E33EB5709C5BC9BB91DB62D" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="202791C870B5E7863CEFB3BA00493763" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="D600CFF836A285C3A941FDC929DA542F" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="AED975037846193FBBDBCC1F51A4E5EA" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+. Discriminant analysis, based on the typical variables, resulted in a classification accuracy of 100% for the two oyster species. This demonstrates the feasibility of using GM for oyster morphology analysis and classification. Compared to molecular methods, GM offers advantages such as speed, non-destructive sampling and the ability to analyse large sample sizes in batches. Our results provide a theoretical foundation for the future application of GM in oyster classification and seedling breeding.
+</paragraph>
+<paragraph id="F5F01B17787820393F0DFFC695F83F89" pageId="0" pageNumber="115019">GM analysis of oysters needs to be based on a large number of specimens. It can be applied to analyse and compare the shape of oyster shells or other relevant structures and to assess the effects of environmental factors or genetic variations on shell shape. By collecting landmark coordinates on the shell, researchers can quantify and compare shape differences amongst different oyster populations or individuals. This information can provide insights into the genetic diversity and adaptive strategies of oysters in different environments. GM can also be used to study the ontogenetic changes in oyster shell shape. By capturing and analysing the shape variation at different growth stages, researchers can understand how the shell shape develops and changes during an oyster's lifespan. Overall, the application of GM in oysters can contribute to our understanding of the biology, evolution and ecological interactions of oysters, as it provides a quantitative and objective approach to studying shape variations, which can lead to valuable insights in oyster research and management.</paragraph>
+</subSection>
+<subSection id="0FDE61677F877ED6800476A2EB54A268" pageId="0" pageNumber="115019" type="acknowledgements">
+<paragraph id="74088E3BA97CD16E33E1659F72D61F0E" pageId="0" pageNumber="115019">Acknowledgements</paragraph>
+<paragraph id="C82CAE508759B031541E4DCB6E1F84B6" pageId="0" pageNumber="115019">
+The authors wish to express thanks to the staff of Key Laboratory of Mariculture &amp; Stock Enhancement in North 
+<normalizedToken id="36A545F9CC0525BC845A602F2D69D3E9" originalValue="China’s">China's</normalizedToken>
+Sea, Ministry of Agriculture, P.R. China for their help with the experiment. The authors are also grateful to the anonymous reviewers for the great elaboration of the manuscript through their critical reviewing and comments. In addition, the author would like to thank the International Science Editing Company for helping to improve the language content of this article.
+</paragraph>
+</subSection>
+<subSection id="D44800DDD72408DC9047665B4AD80868" pageId="0" pageNumber="115019" type="conflicts of interest">
+<paragraph id="E3D5B521B35082110A5F6171B8DB9BE1" pageId="0" pageNumber="115019">Conflicts of interest</paragraph>
+<paragraph id="54050567A60E9A1DA3550289F0340EE5" pageId="0" pageNumber="115019">No conflict of interest to declare</paragraph>
+<paragraph id="95177EC15F0D6A750EBEC08B0BA3DFF7" pageId="0" pageNumber="115019">Disclaimer: This article is (co-)authored by any of the Editors-in-Chief, Managing Editors or their deputies in this journal.</paragraph>
+</subSection>
+<subSection id="B9472410585D0A90BD8140928E8D86A5" pageId="0" pageNumber="115019" type="reference_group">
+<paragraph id="C804A20ECD8985F54F3931E6676D4EFE" pageId="0" pageNumber="115019">References</paragraph>
+<paragraph id="7062F97E06203A94A262F6CD023292CA" pageId="0" pageNumber="115019">
+<bibRef id="61F8DBB51B2F3DC7CBA1911448233A99" author="Adams, Dean C." journalOrPublisher="Italian Journal of Zoology" pageId="0" pageNumber="115019" pagination="5 - 16" refId="B10365901" title="Geometric morphometrics: Ten years of progress following the ' revolution'" volume="71" year="2004">
+<author id="879875150D6C179834BD7C88BD3DF5CF" pageId="0" pageNumber="115019">Adams, Dean C.</author>
+, 
+<author id="9B9F883C3822BD1BE41C7CC54511863B" pageId="0" pageNumber="115019">Rohlf, F. James</author>
+, 
+<author id="11BC8BF8EB0A340375CDE6FB7B9FD0E1" pageId="0" pageNumber="115019">Slice, Dennis E.</author>
+, 
+<year id="1E77F5413BA6B2C79F7C9BA1F8C122F8" pageId="0" pageNumber="115019">2004</year>
+. 
+<title id="B8D8F5C7ECD661EB30D8B73847083F5C" pageId="0" pageNumber="115019">
+Geometric morphometrics: Ten years of progress following the 
+<normalizedToken id="10A1E8B44282C40A6767F45346F5CE58" originalValue="‘revolution’">'revolution'</normalizedToken>
+</title>
+. 
+<journalOrPublisher id="CEE0BEE9A1AC1C4F624BFC8AD13955E2" pageId="0" pageNumber="115019">Italian Journal of Zoology</journalOrPublisher>
+<volume id="89DAC8076EBDAD9FEC001E0E8BB8FB53" pageId="0" pageNumber="115019">71</volume>
+(
+<issue id="6B9FAE8D437F1735CFA4575DA99B95FE" pageId="0" pageNumber="115019">1</issue>
+): 
+<pagination id="42460542935C550EF75C3ADD3F30782A" pageId="0" pageNumber="115019">5 - 16</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="6BFBCF8E1C9CF5ABCCD033194E2A0ECA" pageId="0" pageNumber="115019">
+<bibRef id="A8E474DFA94A98F6B359FA5D59CA204C" author="Al-Kandari, Manal" journalOrPublisher="ZooKeys" pageId="0" pageNumber="115019" pagination="1 - 20" refId="B10365910" title="Molecular and morphological systematics of a new, reef forming, cupped oyster from the northern Arabian Gulf: Talonostrea salpinx new species" volume="1043" year="2021">
+<author id="C54AAF642CAA138BE0A1368C4BB1145C" pageId="0" pageNumber="115019">Al-Kandari, Manal</author>
+, 
+<author id="BA7B58A9ADFD84F167537A5F2435A2F0" pageId="0" pageNumber="115019">Oliver, P. Graham</author>
+, 
+<author id="8110FDE5079128AF67952863AB57160D" pageId="0" pageNumber="115019">Salvi, Daniele</author>
+, 
+<year id="B38ED5079F5F0B4D417F177C19D27EF3" pageId="0" pageNumber="115019">2021</year>
+. 
+<title id="4C9802B7E4C0159655BF63B97BC6DCC2" pageId="0" pageNumber="115019">
+Molecular and morphological systematics of a new, reef forming, cupped oyster from the northern Arabian Gulf: 
+<taxonomicName id="6B1B9CFA3E8F675D7F6EC61448C821C2" authorityName="P. G. Oliver, Salvi &amp; Al-Kandari" authorityYear="2021" class="Bivalvia" family="Ostreidae" genus="Talonostrea" kingdom="Animalia" lsidName="Talonostrea salpinx" order="Ostreida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="species" species="salpinx">
+<emphasis id="401820F38CF811C3591589BC60FA37C2" italics="true" pageId="0" pageNumber="115019">Talonostrea salpinx</emphasis>
+</taxonomicName>
+new species
+</title>
+. 
+<journalOrPublisher id="A177DDB75FD000D24F1F137606E7F081" pageId="0" pageNumber="115019">ZooKeys</journalOrPublisher>
+<volume id="81E8B12F15481052A32F503A137A5ABB" pageId="0" pageNumber="115019">1043</volume>
+: 
+<pagination id="3198189A660717B1D026DB4C4A007BA2" pageId="0" pageNumber="115019">1 - 20</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="C89E4EA065E90F43C7CEE5812C055CD5" pageId="0" pageNumber="115019">
+<bibRef id="45615CEF9A490A63F7E44AF6410C5A5C" author="Bai, Ming" journalOrPublisher="Chinese Science Bulletin" pageId="0" pageNumber="115019" pagination="887 - 894" refId="B10365919" title="Geometric Morphometrics, a super scientific computing tool in morphology comparison" volume="59" year="2014">
+<author id="A5045F469A5A1DDFCDBF7AF07AC0E33A" pageId="0" pageNumber="115019">Bai, Ming</author>
+, 
+<author id="2AF49930FFA798FEB03EBAACB94CCFA8" pageId="0" pageNumber="115019">Yang, XingKe</author>
+, 
+<author id="25EC95C1AD4722902F51E4FE1C7059F6" pageId="0" pageNumber="115019">Wang, WenCheng</author>
+, 
+<author id="54BD67CB02735C8A009D5BFA003FAC49" pageId="0" pageNumber="115019">Li, Jing</author>
+, 
+<year id="29AFA870A391AA2501269D0ABEA842AE" pageId="0" pageNumber="115019">2014</year>
+. 
+<title id="8F4F010122EE957CDBF9CB0F911F1647" pageId="0" pageNumber="115019">Geometric Morphometrics, a super scientific computing tool in morphology comparison</title>
+. 
+<journalOrPublisher id="7DEEE486F8AD1B1926398D8F381DA37D" pageId="0" pageNumber="115019">Chinese Science Bulletin</journalOrPublisher>
+<volume id="A5429C74E7A0D306B91CD7026044627C" pageId="0" pageNumber="115019">59</volume>
+(
+<issue id="A9CFF353232A882ED2A57FBB1759366E" pageId="0" pageNumber="115019">10</issue>
+): 
+<pagination id="FA1A976E484650400E33260B056CAD33" pageId="0" pageNumber="115019">887 - 894</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="0BC8C6C482589F5996376F8988D5A689" pageId="0" pageNumber="115019">
+<bibRef id="E52BF4D80271241B089D9AB345E71EE3" author="Bayne, B." journalOrPublisher="Aquaculture" pageId="0" pageNumber="115019" pagination="373 - 373" refId="B10376471" title="A scientific name for Pacific oysters" volume="499" year="2019">
+<author id="33E2E2154616720767C04B433578676F" pageId="0" pageNumber="115019">Bayne, B.</author>
+, 
+<author id="D5850BE588C4A13319FE9EF2BFA509F5" pageId="0" pageNumber="115019">
+<normalizedToken id="FFF3A10B7DFE54A7AA72E94AA6E31F29" originalValue="Anglès">Angles</normalizedToken>
+d'Auriac, M.
+</author>
+, 
+<author id="A38C73B521BD13B66A2CE381FA73F495" pageId="0" pageNumber="115019">Backeljau, T.</author>
+, 
+<author id="87E67A757DD2826B339ABA46B6284EA1" pageId="0" pageNumber="115019">Beninger, P.</author>
+, 
+<author id="5BECF564DB3A4BDB645A10969B8A8502" pageId="0" pageNumber="115019">Boudry, P.</author>
+, 
+<author id="D7ABB028EBABC168C8F117BE425CB1E5" pageId="0" pageNumber="115019">Carnegie, R.</author>
+, 
+<author id="E3B147810743D82324BC5275D0BD80B4" pageId="0" pageNumber="115019">Davis, J.</author>
+, 
+<author id="F3CAA724A8FD33D2F29DE0F266531486" pageId="0" pageNumber="115019">Guo, X.</author>
+, 
+<author id="AD6F7C8683B3FC0949BC70075054448B" pageId="0" pageNumber="115019">Hedgecock, D.</author>
+, 
+<author id="00C99F979CED4C784A7B92FBC5E2B72A" pageId="0" pageNumber="115019">Krause, M.</author>
+, 
+<author id="077FC9C8810B5AB727DFDAF8B64F01CC" pageId="0" pageNumber="115019">Langdon, C.</author>
+, 
+<author id="70C5F2E0D27D9D3C5A0FB2530529F889" pageId="0" pageNumber="115019">
+<normalizedToken id="CEFC16651F7280AF83150CEAAFE3B4A1" originalValue="Lapègue">Lapegue</normalizedToken>
+, S.
+</author>
+, 
+<author id="FE5B525B2C155845C6B1DCF46A3EC63D" pageId="0" pageNumber="115019">Manahan, D.</author>
+, 
+<author id="9A6D537A8CADF6DCB43682B10DF13AAD" pageId="0" pageNumber="115019">Mann, R.</author>
+, 
+<author id="DA87C13148AE7F462D73D35CE478F9CC" pageId="0" pageNumber="115019">Powell, E.</author>
+, 
+<author id="58110E91CC2E4385130FA7D6BCFFDC45" pageId="0" pageNumber="115019">Shumway, S.</author>
+, 
+<year id="22FCE76E4EB1A7AC7890FE6DF3B7DED3" pageId="0" pageNumber="115019">2019</year>
+. 
+<title id="B7A8244DF7C479451336D44DB8427315" pageId="0" pageNumber="115019">A scientific name for Pacific oysters</title>
+. 
+<journalOrPublisher id="4D12D3ECDA04DBFD70D0A8DAE41DE1E9" pageId="0" pageNumber="115019">Aquaculture</journalOrPublisher>
+<volume id="04E34BD79843414B653CEB236EE2B46F" pageId="0" pageNumber="115019">499</volume>
+: 
+<pagination id="82F318F87ED239E09D55ACDEA893C64B" pageId="0" pageNumber="115019">373 - 373</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="B6413808593C30FA8E60398C843BB8C6" pageId="0" pageNumber="115019">
+<bibRef id="2992354152E04AFA09579BBD679AFBD8" author="Bayne, B. L." journalOrPublisher="Journal of Shellfish Research" pageId="0" pageNumber="115019" pagination="545 - 547" refId="B10376400" title="The proposed dropping of the genus Crassostrea for all Pacific cupped oysters and its replacement by a new genus Magallana: a dissenting view" volume="36" year="2017">
+<author id="0622B1D4BF42B1D29192AD8726B68753" pageId="0" pageNumber="115019">Bayne, B. L.</author>
+, 
+<author id="0F2154F3BD06932336AC0CBC0C71AB9F" pageId="0" pageNumber="115019">Ahrens, M.</author>
+, 
+<author id="40E85D6844DAF52E19B62E66138916D1" pageId="0" pageNumber="115019">Allen, S. K.</author>
+, 
+<author id="6B15E0195BD650E9F607D88DBDA84806" pageId="0" pageNumber="115019">
+D'auriac, M. 
+<normalizedToken id="49390777D4369E3D020C000A7AB69CAA" originalValue="Anglès">Angles</normalizedToken>
+</author>
+, 
+<author id="11123EF6CF0D90D4FE317C5D485A304B" pageId="0" pageNumber="115019">Backeljau, T.</author>
+, 
+<author id="189F8B1C1459AD6F1E08462C5A18AD7F" pageId="0" pageNumber="115019">Beninger, P.</author>
+, 
+<author id="5265543CAA9CA15C3AAF3BF4A3C5E0F9" pageId="0" pageNumber="115019">Bohn, R.</author>
+, 
+<author id="B4B9DE8999FCD8995A0B6E385D3A20D5" pageId="0" pageNumber="115019">Boudry, P.</author>
+, 
+<author id="350CD7BD82DD8F63B337127AF5CA683C" pageId="0" pageNumber="115019">Davis, J.</author>
+, 
+<author id="88AB6AFF0099CE9289B559B1CBE1B80C" pageId="0" pageNumber="115019">Green, T.</author>
+, 
+<author id="B9CD02AC0339D49F5D82F85F4116CEA5" pageId="0" pageNumber="115019">Guo, X.</author>
+, 
+<author id="6A1B1E5929ABC39D6A52A13C0A60FAD4" pageId="0" pageNumber="115019">Hedgecock, D.</author>
+, 
+<author id="D02E628D144A5DBCA88E26932E3F9311" pageId="0" pageNumber="115019">Ibarra, A.</author>
+, 
+<author id="F99E6F051D9D734682E791CFBD0FC790" pageId="0" pageNumber="115019">Kingsley-Smith, P.</author>
+, 
+<author id="9FB21787E5A766113B8043C7F1D31ADD" pageId="0" pageNumber="115019">Krause, M.</author>
+, 
+<author id="E8CC5292A244CFDE8C1A1BD2142EC9F7" pageId="0" pageNumber="115019">Langdon, C.</author>
+, 
+<author id="C50B90703549EA2864C0B6AE2657D22E" pageId="0" pageNumber="115019">
+<normalizedToken id="84DA634BAC839A9ED4D6C8D71DC940B2" originalValue="Lapègue">Lapegue</normalizedToken>
+, S.
+</author>
+, 
+<author id="30DB34789F7ECF4DCCCD11BC243A103C" pageId="0" pageNumber="115019">Li, C.</author>
+, 
+<author id="8C579988859C0E1ED260422D5B242946" pageId="0" pageNumber="115019">Manahan, D.</author>
+, 
+<author id="62BE620522ED523C24897B172B978BD7" pageId="0" pageNumber="115019">Mann, R.</author>
+, 
+<author id="7160D2E6333014D16CC65083592DDBF4" pageId="0" pageNumber="115019">Perez-Paralle, L.</author>
+, 
+<author id="79C3A09213E1628BBCA50106E6AB8ADB" pageId="0" pageNumber="115019">Powell, E. N.</author>
+, 
+<author id="6EDFE3A39B0FC4E56C94925F5EA43017" pageId="0" pageNumber="115019">Rawson, P. D.</author>
+, 
+<author id="D9BCE2D6E85946249938B934535376E5" pageId="0" pageNumber="115019">Speiser, D.</author>
+, 
+<author id="E5C5FEABC2B7589D04DDD6EED2851832" pageId="0" pageNumber="115019">Sanchez, J. -L.</author>
+, 
+<author id="61A65283EC35231C82CAD43E84C16695" pageId="0" pageNumber="115019">Shumway, S.</author>
+, 
+<author id="25838E4F32BA558B3A9841DF31056717" pageId="0" pageNumber="115019">Wang, H.</author>
+, 
+<year id="BBD82306EB83322B01CBF48D68BF4EAA" pageId="0" pageNumber="115019">2017</year>
+. 
+<title id="DE5E1B82F4FBE90AC258445531E781A4" pageId="0" pageNumber="115019">
+The proposed dropping of the genus 
+<taxonomicName id="06BFC5CFE79CA69BFD48FDD169B03B96" authorityName="Sacco" authorityYear="1897" class="Bivalvia" family="Ostreidae" genus="Crassostrea" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Crassostrea" order="Pterioida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="genus">
+<emphasis id="54B5E28050F6BC7564CC32A59F52DFA2" italics="true" pageId="0" pageNumber="115019">Crassostrea</emphasis>
+</taxonomicName>
+for all Pacific cupped oysters and its replacement by a new genus 
+<taxonomicName id="9BF56DC7BDEF6377687DF8CFD60EFB05" authorityName="Salvi &amp; Mariottini" authorityYear="2016" class="Bivalvia" family="Ostreidae" genus="Magallana" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Magallana" order="Ostreida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="genus">
+<emphasis id="FC8EE101D57FC5066E6FEA11E6C5CC6C" italics="true" pageId="0" pageNumber="115019">Magallana</emphasis>
+</taxonomicName>
+: a dissenting view
+</title>
+. 
+<journalOrPublisher id="A8CBBF113414F35187C2C7957BAF903C" pageId="0" pageNumber="115019">Journal of Shellfish Research</journalOrPublisher>
+<volume id="C1A96058312D3EC9BA16ACDC259B518D" pageId="0" pageNumber="115019">36</volume>
+(
+<issue id="3C30EFAEE77CBF8DF003D8557EDDA74B" pageId="0" pageNumber="115019">3</issue>
+): 
+<pagination id="3A807013146A5230AADE3E2D85EBD8D9" pageId="0" pageNumber="115019">545 - 547</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="FB3251192BC13CCD3AB8679DA71F3E8F" pageId="0" pageNumber="115019">
+<bibRef id="CAA65B1D065C78B042C9BE3716133F63" author="Bieler, Ruediger" journalOrPublisher="Malacologia" pageId="0" pageNumber="115019" pagination="113 - 133" refId="B10376707" title="Classification of bivalve families" volume="52" year="2010">
+<author id="35E7E7A868CB68C6C6ED1478B649C23D" pageId="0" pageNumber="115019">
+Bieler, 
+<normalizedToken id="96BD55D9CDD0B7A9673E5FC4660C81A2" originalValue="Rüdiger">Ruediger</normalizedToken>
+</author>
+, 
+<author id="741F1CF64D4273E6D4324936B095A1B3" pageId="0" pageNumber="115019">Carter, Joseph G.</author>
+, 
+<author id="E7BCFAED4242035546DC2EE75CDE0E14" pageId="0" pageNumber="115019">Coan, Eugene V.</author>
+, 
+<year id="CCCFC7161DCE5716686352D7BA248F1B" pageId="0" pageNumber="115019">2010</year>
+. 
+<title id="A644CC56BB217AEC2044DBD048D783A2" pageId="0" pageNumber="115019">Classification of bivalve families</title>
+. 
+<journalOrPublisher id="BFED727E772E681B3AB57AC0BE01932B" pageId="0" pageNumber="115019">Malacologia</journalOrPublisher>
+<volume id="279268F5A66D094ED88B5364AFC78225" pageId="0" pageNumber="115019">52</volume>
+(
+<issue id="D378FF024CB3673173EDD60D0E353F34" pageId="0" pageNumber="115019">2</issue>
+): 
+<pagination id="490DCB8AF616BDA3059CBEF4F56FCCF4" pageId="0" pageNumber="115019">113 - 133</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="FAB47544AE259A92BEE5D2C328AEE0E5" pageId="0" pageNumber="115019">
+<bibRef id="BFD3C3B1B8F170DF7C937B3C4FA7AD8B" author="Cui, Zongmei" journalOrPublisher="Journal of Shellfish Research" pageId="0" pageNumber="115019" pagination="63 - 75" refId="B11140758" title="Identification of Saccostrea mordax and a New Species Saccostrea mordoides sp. nov. (Bivalvia: Ostreidae) from China" volume="40" year="2021">
+<author id="3EAB2063DFAD3AE68F701A31E24352F4" pageId="0" pageNumber="115019">Cui, Zongmei</author>
+, 
+<author id="DB955755D8DFE17EB725C42488BCDE1B" pageId="0" pageNumber="115019">Hu, Lisha</author>
+, 
+<author id="C5ADB46692711D8C348C1750989B94E6" pageId="0" pageNumber="115019">Li, Cui</author>
+, 
+<author id="05039345EA16738EA8CD0EF3412089BB" pageId="0" pageNumber="115019">Zhang, Zhen</author>
+, 
+<author id="02DD164AAECEB9AA0ECC060BEBFB16E0" pageId="0" pageNumber="115019">Guo, Ximing</author>
+, 
+<author id="E0AE000F9C8A521A7CC197F4518DEF27" pageId="0" pageNumber="115019">Wang, Haiyan</author>
+, 
+<year id="16B79AD76130E5248410B082C1F0E695" pageId="0" pageNumber="115019">2021</year>
+. 
+<title id="3F7E3001A080EED9F5A7E8952E877310" pageId="0" pageNumber="115019">
+Identification of 
+<taxonomicName id="459C1B650F421D3D68125AF36E3B2F0A" baseAuthorityName="Gould" baseAuthorityYear="1850" class="Bivalvia" genus="Saccostrea" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Saccostrea mordax" pageId="0" pageNumber="115019" phylum="Mollusca" rank="species" species="mordax">
+<emphasis id="A9A2D11D5A9EE65589803F3F91E62A3D" italics="true" pageId="0" pageNumber="115019">Saccostrea mordax</emphasis>
+</taxonomicName>
+and a New Species 
+<taxonomicName id="935A2B65321B9A03458851B4EF80CD82" authorityName="Dollfus &amp; Dautzenberg" authorityYear="1920" class="Bivalvia" genus="Saccostrea" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Saccostrea" pageId="0" pageNumber="115019" phylum="Mollusca" rank="genus">Saccostrea</taxonomicName>
+mordoides sp. nov. (
+<taxonomicName id="B1D0B74AB4A952FA783DFDCCD4F3D046" authorityName="Dollfus &amp; Dautzenberg" authorityYear="1920" class="Bivalvia" genus="Saccostrea" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" pageId="0" pageNumber="115019" phylum="Mollusca" rank="class">Bivalvia</taxonomicName>
+: 
+<taxonomicName id="F9E7FB9741BCB3E97325D4019264F5D8" authorityName="Rafinesque" authorityYear="1815" class="Bivalvia" family="Ostreidae" kingdom="Animalia" lsidName="" order="Ostreida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="family">Ostreidae</taxonomicName>
+) from China
+</title>
+. 
+<journalOrPublisher id="AE91DFE65E5046D86E9FBD6CD55C0EB9" pageId="0" pageNumber="115019">Journal of Shellfish Research</journalOrPublisher>
+<volume id="E55922413F1A4B77B03DCEE999F821A6" pageId="0" pageNumber="115019">40</volume>
+(
+<issue id="345FD2DD0B723E30B9B508D67068A591" pageId="0" pageNumber="115019">1</issue>
+): 
+<pagination id="587F254F8481E8BBD66C5B7D28C745C8" pageId="0" pageNumber="115019">63 - 75</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="3E27B29BCC48044A1BF4CB94C8E788AC" pageId="0" pageNumber="115019">
+<bibRef id="891BE525D0BBF08CBED46E1997A6A8EF" author="Dong, Xiao Wei" journalOrPublisher="Marine Sciences" pageId="0" pageNumber="115019" pagination="62 - 65" refId="B10365928" title="Research developmentsin the general utilization of oyster" volume="28" year="2004">
+<author id="BBBAE8DE67AA07D095827D6496C009A3" pageId="0" pageNumber="115019">Dong, Xiao Wei</author>
+, 
+<author id="97517C7F1963830E0C7DA6E607404BA5" pageId="0" pageNumber="115019">Jiang, Guo Liang</author>
+, 
+<author id="13910FCF966EA1F1967C742F36F5A006" pageId="0" pageNumber="115019">Li, Li De</author>
+, 
+<author id="573A52445AC07448341D9D2B7F8BF07F" pageId="0" pageNumber="115019">Wang, Ning</author>
+, 
+<year id="7089B48F0F4F336A069524CA1222DC23" pageId="0" pageNumber="115019">2004</year>
+. 
+<title id="280166CBD0E19372013C5C65E49953CA" pageId="0" pageNumber="115019">Research developmentsin the general utilization of oyster</title>
+. 
+<journalOrPublisher id="2C9C0C73A17DD564B5FE4DA9D7D9D6E6" pageId="0" pageNumber="115019">Marine Sciences</journalOrPublisher>
+<volume id="047DB64FEFDFAC9DE91695D1F8CBEED2" pageId="0" pageNumber="115019">28</volume>
+(
+<issue id="A1A5B1F54ECD3B23108A707E8FE68BBD" pageId="0" pageNumber="115019">4</issue>
+): 
+<pagination id="3655659C2C3E81AD244E8B6D8D5F53B8" pageId="0" pageNumber="115019">62 - 65</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="E91BBE549692A18A2C1D3FDAC277C9A2" pageId="0" pageNumber="115019">
+<bibRef id="54A3ADE9E47737A9C852F96942716EE0" author="Du, Xin Ru" journalOrPublisher="Chinese Journal of Cllinical Anatomy" pageId="0" pageNumber="115019" pagination="506 - 509" refId="B10375927" title="Anatomical study of the proxim alfemoral canal" volume="24" year="2006">
+<author id="53E1D4F36214E9798B5CE5B63827A82D" pageId="0" pageNumber="115019">Du, Xin Ru</author>
+, 
+<author id="7721BCF1FCA5F55E5998831177533AEC" pageId="0" pageNumber="115019">Lu, Shi Bi</author>
+, 
+<year id="A30FF56043AF39F22DA547F312ECADBE" pageId="0" pageNumber="115019">2006</year>
+. 
+<title id="C6D3FE32FD54B0538F8C68284C4EB456" pageId="0" pageNumber="115019">Anatomical study of the proxim alfemoral canal</title>
+. 
+<journalOrPublisher id="4ABF2916F995C723C540AFD340EB13BD" pageId="0" pageNumber="115019">Chinese Journal of Cllinical Anatomy</journalOrPublisher>
+<volume id="D53B826DC6736518435087B4D6CC1992" pageId="0" pageNumber="115019">24</volume>
+(
+<issue id="47E461F165379B312CE2795F8A2CD5E8" pageId="0" pageNumber="115019">05</issue>
+): 
+<pagination id="630D7A51276F37E3C23AF546E8DAC4D0" pageId="0" pageNumber="115019">506 - 509</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="521E1E58684B7DE8756DAFC9BA3C79BD" pageId="0" pageNumber="115019">
+<bibRef id="7F6BF95EED6F3A80FD12A5AF0D1C2C45" author="Guo, Ximing" journalOrPublisher="Journal of Shellfish Research" pageId="0" pageNumber="115019" pagination="755 - 771" refId="B11140739" title="Diversity and Evolution of Living Oysters" volume="37" year="2018">
+<author id="729AA817587A583624F1BBB8A6A3BAF0" pageId="0" pageNumber="115019">Guo, Ximing</author>
+, 
+<author id="289F75FE38B2D49D4D1EF82A9818D614" pageId="0" pageNumber="115019">Li, Cui</author>
+, 
+<author id="48ED02F2FAB5B07B7FF7888F135089FB" pageId="0" pageNumber="115019">Wang, Haiyan</author>
+, 
+<author id="D760BBCA2A140B61C7EB20FDEFF04CC4" pageId="0" pageNumber="115019">Xu, Zhe</author>
+, 
+<year id="86FCDFE5372C1CACF60FC5A7B5DA09C2" pageId="0" pageNumber="115019">2018</year>
+. 
+<title id="9D95450C39B8255C5ADABA8D6B77614C" pageId="0" pageNumber="115019">Diversity and Evolution of Living Oysters</title>
+. 
+<journalOrPublisher id="6CE02A21F6E2C7510A9C287FD8AC7942" pageId="0" pageNumber="115019">Journal of Shellfish Research</journalOrPublisher>
+<volume id="C19F3073C7CF67CB277401E369B147B1" pageId="0" pageNumber="115019">37</volume>
+(
+<issue id="4DD302B6DBF0644C52EDD4D85F173661" pageId="0" pageNumber="115019">4</issue>
+): 
+<pagination id="FF2947F4B88FEA2BD97F83AB82B35B3D" pageId="0" pageNumber="115019">755 - 771</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="671E3FF3C568327F62944FCB2B4146CC" pageId="0" pageNumber="115019">
+<bibRef id="D677CDE82C42BD2AEFDC3E9DF2E89745" author="Hammer, O." journalOrPublisher="Palaeontologia Electronica" pageId="0" pageNumber="115019" pagination="1 - 9" refId="B10376086" title="PAST: Paleontological statistics software package for education and data analysis" volume="4" year="2001">
+<author id="9211C57A4FD6E73CBF03A2D9270013E4" pageId="0" pageNumber="115019">Hammer, O.</author>
+, 
+<author id="933B055BA47EE1E031228068A1BA1185" pageId="0" pageNumber="115019">Harper, D. A.</author>
+, 
+<author id="99F64A0CC36FA092336B93DF709146C6" pageId="0" pageNumber="115019">D., Ryan P.</author>
+, 
+<year id="F3F1AA8C2785CE63C5000204649F0310" pageId="0" pageNumber="115019">2001</year>
+. 
+<title id="3F0D600120DC3B681DE2170E6C3CF167" pageId="0" pageNumber="115019">PAST: Paleontological statistics software package for education and data analysis</title>
+. 
+<journalOrPublisher id="9ABBD0A332C07CB2AB6A087F5F8B2CD4" pageId="0" pageNumber="115019">Palaeontologia Electronica</journalOrPublisher>
+<volume id="2F8FD5783DAEAA6C8ECB5FCDBBD271C1" pageId="0" pageNumber="115019">4</volume>
+(
+<issue id="B0C5D99E8D6940EA8A7A8F3BA3C3A4B0" pageId="0" pageNumber="115019">1</issue>
+): 
+<pagination id="7FACC14021722ADA538335945D17BC10" pageId="0" pageNumber="115019">1 - 9</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="65247D6E4C4DE3D90C27C0A66E195823" pageId="0" pageNumber="115019">
+<bibRef id="699AD16D146E7417455171B9700DF931" author="Harry, H. W." journalOrPublisher="Veliger" pageId="0" pageNumber="115019" pagination="121 - 158" refId="B10428669" title="Synopsis of the supraspecific classification of living oysters (Bivalvia: Gryphaeidae and Ostreidae)" volume="28" year="1985">
+<author id="3049154797BCBEDF44B2425AA587D18A" pageId="0" pageNumber="115019">Harry, H. W.</author>
+, 
+<year id="5E99B0A210FC3F18759BCB306621A602" pageId="0" pageNumber="115019">1985</year>
+. 
+<title id="04E5A02B0497D624DAE019BF7B2E0CF2" pageId="0" pageNumber="115019">
+Synopsis of the supraspecific classification of living oysters (
+<taxonomicName id="B2079719888DC2A8105F55429B42A0E7" authorityName="Dollfus &amp; Dautzenberg" authorityYear="1920" class="Bivalvia" genus="Saccostrea" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" pageId="0" pageNumber="115019" phylum="Mollusca" rank="class">Bivalvia</taxonomicName>
+: 
+<taxonomicName id="67735C4EAD52017A0DEF563699D4D258" authorityName="Vialov" authorityYear="1936" class="Bivalvia" family="Gryphaeidae" kingdom="Animalia" lsidName="" order="Ostreida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="family">Gryphaeidae</taxonomicName>
+and 
+<taxonomicName id="ECB39E6DB18007120CF05AEC8A8B5D89" authorityName="Rafinesque" authorityYear="1815" class="Bivalvia" family="Ostreidae" kingdom="Animalia" lsidName="" order="Ostreida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="family">Ostreidae</taxonomicName>
+)
+</title>
+. 
+<journalOrPublisher id="C901D46EAD457085EDA2AC7291308621" pageId="0" pageNumber="115019">Veliger</journalOrPublisher>
+<volume id="7EBBBB797B2541F7436EF506A78ECE07" pageId="0" pageNumber="115019">28</volume>
+(
+<issue id="8A1C5FE51C53DE0407668C87173CB80C" pageId="0" pageNumber="115019">2</issue>
+): 
+<pagination id="DC857FC2D86380B61A908835DA99AA6C" pageId="0" pageNumber="115019">121 - 158</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="7866F382241E2A47118BDE1545645E59" pageId="0" pageNumber="115019">
+<bibRef id="728C9BC5DF8B8C7F030EE438538D09F1" author="Hirase, S" journalOrPublisher="Japanese Journal of Zoology" pageId="0" pageNumber="115019" pagination="1 - 65" refId="B10375945" title="Transactions: 1. On the classification of Japanese oysters" volume="3" year="1930">
+<author id="DB13E35013AE84C0185E1E9F2D047630" pageId="0" pageNumber="115019">Hirase, S</author>
+, 
+<year id="F6B154D3150B708BE189CE10D19D123D" pageId="0" pageNumber="115019">1930</year>
+. 
+<title id="D54E339FCE23CBAE1782D59F626B0AE0" pageId="0" pageNumber="115019">Transactions: 1. On the classification of Japanese oysters</title>
+. 
+<journalOrPublisher id="3F141D8C5B789061E667D7B5083ECA17" pageId="0" pageNumber="115019">Japanese Journal of Zoology</journalOrPublisher>
+<volume id="256D7BA010D4C2F81284DEE0091207F8" pageId="0" pageNumber="115019">3</volume>
+: 
+<pagination id="41A8EE3875D96C024AEE81C138ADC36F" pageId="0" pageNumber="115019">1 - 65</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="4F24F0C1C61604E6C4B934C592B00E7C" pageId="0" pageNumber="115019">
+<bibRef id="5B4AA85507280469CA27679A76D796F9" author="Hu, Lisha" journalOrPublisher="Journal of Shellfish Research" pageId="0" pageNumber="115019" pagination="295 - 308" refId="B11140748" title="Classification of Small Flat Oysters of Ostrea stentina Species Complex and a New Species Ostrea neostentina sp. nov. (Bivalvia: Ostreidae)" volume="38" year="2019">
+<author id="F9B92FAFD5A7C9A641601F85B2373A26" pageId="0" pageNumber="115019">Hu, Lisha</author>
+, 
+<author id="C757BA5B9FE59D5D4E7DFB043AA6BE5D" pageId="0" pageNumber="115019">Wang, Haiyan</author>
+, 
+<author id="8B43981423B9E2AE1D06EE6043B003C8" pageId="0" pageNumber="115019">Zhang, Zhen</author>
+, 
+<author id="70CC78AFAADED9998D25942C1EB299FA" pageId="0" pageNumber="115019">Li, Cui</author>
+, 
+<author id="49EA500AAFA886E7F92E9FBF2A04ADB3" pageId="0" pageNumber="115019">Guo, Ximing</author>
+, 
+<year id="85E6E0D34A0F6E448846DB2CED56AF3F" pageId="0" pageNumber="115019">2019</year>
+. 
+<title id="8C27443A034FCCB68B3C1D53639BE739" pageId="0" pageNumber="115019">
+Classification of Small Flat Oysters of 
+<taxonomicName id="774BBBBE74A9EAC130EBCFFB5D2A6C96" authorityName="Linnaeus" authorityYear="1758" class="Bivalvia" genus="Ostrea" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Ostrea" pageId="0" pageNumber="115019" phylum="Mollusca" rank="genus">Ostrea</taxonomicName>
+stentina Species Complex and a New Species 
+<taxonomicName id="59A14698761EB8F79A79987997F7E610" authorityName="L. -S. Hu, H. -Y. Wang, Z. Zhang, C. Li &amp; X. -M. Guo" authorityYear="2019" class="Bivalvia" genus="Ostrea" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Ostrea neostentina" pageId="0" pageNumber="115019" phylum="Mollusca" rank="species" species="neostentina">
+<emphasis id="4BAF5471E74351D5A1B4F5D41DDFFFE5" italics="true" pageId="0" pageNumber="115019">Ostrea neostentina</emphasis>
+</taxonomicName>
+sp. nov. (
+<taxonomicName id="742BB24699B9A3C7ABA7D680F61E4E72" authorityName="Linnaeus" authorityYear="1758" class="Bivalvia" genus="Ostrea" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" pageId="0" pageNumber="115019" phylum="Mollusca" rank="class">Bivalvia</taxonomicName>
+: 
+<taxonomicName id="482A019B31332DD9E8F9C31B77C57578" authorityName="Rafinesque" authorityYear="1815" class="Bivalvia" family="Ostreidae" kingdom="Animalia" lsidName="" order="Ostreida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="family">Ostreidae</taxonomicName>
+)
+</title>
+. 
+<journalOrPublisher id="05E66DB0EF391C7EE981634CFB04C914" pageId="0" pageNumber="115019">Journal of Shellfish Research</journalOrPublisher>
+<volume id="0C64581925A1DE97B8E61D08FF925BDA" pageId="0" pageNumber="115019">38</volume>
+(
+<issue id="4D60BF685ED078DA810A0C8F51A95E4B" pageId="0" pageNumber="115019">2</issue>
+): 
+<pagination id="E513F32D2D12CF4A008BCD2CF743675C" pageId="0" pageNumber="115019">295 - 308</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="B174C962E65B5A278D391C96E401EEC2" pageId="0" pageNumber="115019">
+<bibRef id="13B3E56D80857F81F1B1092C9C3BAE25" author="Jiang, Xiao Dong" journalOrPublisher="Journal of Fishery Sciences of China" pageId="0" pageNumber="115019" pagination="1116 - 1125" refId="B10376060" title="Landmark-based morphometric identification of wild Eriocheir sinensis with geographically different origins" volume="26" year="2019">
+<author id="D725F7F752C4E425999AA8DC8C6D9D46" pageId="0" pageNumber="115019">Jiang, Xiao Dong</author>
+, 
+<author id="521F180F931B706CB61FB7DE55D33557" pageId="0" pageNumber="115019">Cheng, Yong Xu</author>
+, 
+<author id="315F1D6FBCCAFED5E47079A8CB6034F1" pageId="0" pageNumber="115019">Pan, Jian Lin</author>
+, 
+<author id="030552EFEB07CB72885A59C8DC6C1378" pageId="0" pageNumber="115019">LI, Xiao Dong</author>
+, 
+<author id="8249EF62996DC4977D52158F34C1AFD6" pageId="0" pageNumber="115019">Wu, Xu Gan</author>
+, 
+<year id="D958827529F9CE52F87AAAB5EBE08BCB" pageId="0" pageNumber="115019">2019</year>
+. 
+<title id="8B18EA560687E393767EE25F37AD1250" pageId="0" pageNumber="115019">
+Landmark-based morphometric identification of wild 
+<taxonomicName id="935F908DA47E6F7761FEA082A1A5E7DC" class="Crustacea" family="Grapsidae" genus="Eriocheir" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Eriocheir sinensis" order="Decapoda" pageId="0" pageNumber="115019" phylum="Arthropoda" rank="species" species="sinensis">
+<emphasis id="7ABD7626321DC118584A133AB8D7FCC5" italics="true" pageId="0" pageNumber="115019">Eriocheir sinensis</emphasis>
+</taxonomicName>
+with geographically different origins
+</title>
+. 
+<journalOrPublisher id="A6BA0418D7CB7A889A20EE4E164ECEA8" pageId="0" pageNumber="115019">Journal of Fishery Sciences of China</journalOrPublisher>
+<volume id="F92DE3B83FC13D0EE01F7D02334ABDEE" pageId="0" pageNumber="115019">26</volume>
+(
+<issue id="1E765E08EE5937FA8EEC933808B7A585" pageId="0" pageNumber="115019">06</issue>
+): 
+<pagination id="04FDC7F27E1CAA09D48C4E1CFDC576E2" pageId="0" pageNumber="115019">1116 - 1125</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="6D8F959462A8D3969407172F4B645362" pageId="0" pageNumber="115019">
+<bibRef id="702092058EDDE0459B7DB5F92AF5C88A" author="Librado, P." journalOrPublisher="Bioinformatics" pageId="0" pageNumber="115019" pagination="1451 - 1452" refId="B11140798" title="DnaSP v 5: a software for comprehensive analysis of DNA polymorphism data" volume="25" year="2009">
+<author id="C38C53235527F83BCDABF6323A54610D" pageId="0" pageNumber="115019">Librado, P.</author>
+, 
+<author id="3D1F850F52EF42B80C8130C3B453D822" pageId="0" pageNumber="115019">Rozas, J.</author>
+, 
+<year id="20B3987A965D4531DB04A94B1F16B1D5" pageId="0" pageNumber="115019">2009</year>
+. 
+<title id="46BCF6031410933C9CB87D1A1BE3D856" pageId="0" pageNumber="115019">DnaSP v5: a software for comprehensive analysis of DNA polymorphism data</title>
+. 
+<journalOrPublisher id="D1981836F06934F21126D3C016592385" pageId="0" pageNumber="115019">Bioinformatics</journalOrPublisher>
+<volume id="27E0D4E61688829A2A561CA3AB1B5D23" pageId="0" pageNumber="115019">25</volume>
+(
+<issue id="2DB2AE07152B75B9A54C6841C0666978" pageId="0" pageNumber="115019">11</issue>
+): 
+<pagination id="431239383FFC98E6DBDA570A7528B956" pageId="0" pageNumber="115019">1451 - 1452</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="61F28C96A20AD0ED1F57AB013D790FBF" pageId="0" pageNumber="115019">
+<bibRef id="D270269D646E33348C13447CBDA0F29E" author="Li, Cui" journalOrPublisher="Journal of Shellfish Research" pageId="0" pageNumber="115019" pagination="359 - 364" refId="B11140769" title="Classification and Taxonomic Revision of Two Oyster Species from Peru: Ostrea megodon (Hanley, 1846) and Crassostrea talonata (Li &amp; Qi, 1994)" volume="36" year="2017">
+<author id="505EF620EA66FE5EAD9335CA3701D358" pageId="0" pageNumber="115019">Li, Cui</author>
+, 
+<author id="292DFEAC0A5D93A07BE9A48CA4911928" pageId="0" pageNumber="115019">Wang, Haiyan</author>
+, 
+<author id="CDB494C879AB005432C06301F6C2BC7F" pageId="0" pageNumber="115019">Guo, Ximing</author>
+, 
+<year id="8F9254FEB70840A642E4869C38F30FE2" pageId="0" pageNumber="115019">2017</year>
+. 
+<title id="C607C7997E00E576275FC4A1CCDEA80D" pageId="0" pageNumber="115019">
+Classification and Taxonomic Revision of Two Oyster Species from Peru: 
+<taxonomicName id="116D79438CAA0D82A7408C2745BE2CF1" authorityName="Hanley" authorityYear="1846" class="Bivalvia" genus="Ostrea" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Ostrea megodon" pageId="0" pageNumber="115019" phylum="Mollusca" rank="species" species="megodon">
+<emphasis id="62861A6F13D630D0377C08A75288123D" italics="true" pageId="0" pageNumber="115019">Ostrea megodon</emphasis>
+</taxonomicName>
+(Hanley, 1846) and 
+<taxonomicName id="4678D628D0A9A97B7E472BD336F7DC12" authorityName="Sacco" authorityYear="1897" class="Bivalvia" family="Ostreidae" genus="Crassostrea" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Crassostrea" order="Pterioida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="genus">Crassostrea</taxonomicName>
+talonata (Li &amp; Qi, 1994)
+</title>
+. 
+<journalOrPublisher id="3938AE697CE78920A39765C38147AB55" pageId="0" pageNumber="115019">Journal of Shellfish Research</journalOrPublisher>
+<volume id="6111C169E319DB3DCAA3E2BD128598F5" pageId="0" pageNumber="115019">36</volume>
+(
+<issue id="83B0429F3C8297DEC3B55C210725206E" pageId="0" pageNumber="115019">2</issue>
+): 
+<pagination id="6160E07B85E9A9C90DACB5B37536398D" pageId="0" pageNumber="115019">359 - 364</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="B3B148A0F4B0294C822F14389891819D" pageId="0" pageNumber="115019">
+<bibRef id="632F1AB5A1094B893C258CC6F66CFFE4" author="Lindberg, David R." journalOrPublisher="University of California Press" pageId="0" pageNumber="115019" refId="B10376663" title="Phylogeny and evolution of the Mollusca" year="2008">
+<author id="2A9D16409733A20D7E718A69FC9D7597" pageId="0" pageNumber="115019">Lindberg, David R.</author>
+, 
+<author id="A734B30F89998E4BDF7E4859F0687C6C" pageId="0" pageNumber="115019">Ponder, Winston F.</author>
+, 
+<year id="918BFAF313BDE5CC3E699A27DAFF2457" pageId="0" pageNumber="115019">2008</year>
+. 
+<title id="DF29CADEBC3CC5360EDF3E7C04119613" pageId="0" pageNumber="115019">Phylogeny and evolution of the Mollusca</title>
+. 
+<journalOrPublisher id="D8E898AFAA78798958FE246F750E7D8F" pageId="0" pageNumber="115019">University of California Press</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="C6977A2B528D381B62D45E7CF1FEA45B" pageId="0" pageNumber="115019">
+<bibRef id="ACA370FF30B51740593CF9AACF1831A7" author="Littlewood, D. T. J." journalOrPublisher="Molecular Phylogenetics and Evolution" pageId="0" pageNumber="115019" pagination="221 - 229" refId="B10376103" title="Molecular phylogenetics of cupped oysters based on partial 28 S rRNA gene sequences" volume="3" year="1994">
+<author id="BC9DEEC10B405AA7764192640C667A81" pageId="0" pageNumber="115019">Littlewood, D. T.J.</author>
+, 
+<year id="85DE1B4918B9AFDA134A4C0F2B2C2A4F" pageId="0" pageNumber="115019">1994</year>
+. 
+<title id="A7C2A6EAD5E46862CDA0C37242F0D0BE" pageId="0" pageNumber="115019">Molecular phylogenetics of cupped oysters based on partial 28S rRNA gene sequences</title>
+. 
+<journalOrPublisher id="C318D9474DB1187F642DAF6AF6388FA7" pageId="0" pageNumber="115019">Molecular Phylogenetics and Evolution</journalOrPublisher>
+<volume id="ACCA1CE6134742833D7726820971B895" pageId="0" pageNumber="115019">3</volume>
+(
+<issue id="6FEA7EB534CBE02D953BEB688896A6FC" pageId="0" pageNumber="115019">3</issue>
+): 
+<pagination id="818C7815FB84AC9A291DB5689A7E093E" pageId="0" pageNumber="115019">221 - 229</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="A53AE13664750AAFDC6725485AF51819" pageId="0" pageNumber="115019">
+<bibRef id="64CD18CEDAAB450C32BDFA4456F4F11B" author="Miller, Jonathan P." journalOrPublisher="Folia Malacologica" pageId="0" pageNumber="115019" pagination="239 - 250" refId="B10376146" title="Geometric morphometric analysis of the shell of Cerion mumia (Pulmonata: Cerionidae) and related species" volume="24" year="2016">
+<author id="AB004569E2B6ADE7B243260790B16628" pageId="0" pageNumber="115019">Miller, Jonathan P.</author>
+, 
+<year id="041F13F3151AD666359E91C843541946" pageId="0" pageNumber="115019">2016</year>
+. 
+<title id="44817E30FBB8AE60F6CAC203F880A92A" pageId="0" pageNumber="115019">
+Geometric morphometric analysis of the shell of 
+<taxonomicName id="D017B336017018461DF4A70BE492D505" baseAuthorityName="Bruguiere" baseAuthorityYear="1792" class="Gastropoda" family="Cerionidae" genus="Cerion" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Cerion mumia" order="Stylommatophora" pageId="0" pageNumber="115019" phylum="Mollusca" rank="species" species="mumia">
+<emphasis id="D8C8F337246EDE7FA3B2096DE40D0838" italics="true" pageId="0" pageNumber="115019">Cerion mumia</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="F81B176C94BF96676AA6A3FBDDD6586C" class="Gastropoda" family="Cerionidae" genus="Cerion" higherTaxonomySource="GBIF" infraClass="Pulmonata" kingdom="Animalia" lsidName="" order="Stylommatophora" pageId="0" pageNumber="115019" phylum="Mollusca" rank="infraClass">Pulmonata</taxonomicName>
+: 
+<taxonomicName id="6A00A00864D97840046111268262482E" authorityName="Pilsbry" authorityYear="1901" class="Gastropoda" family="Cerionidae" kingdom="Animalia" lsidName="" order="Stylommatophora" pageId="0" pageNumber="115019" phylum="Mollusca" rank="family">Cerionidae</taxonomicName>
+) and related species
+</title>
+. 
+<journalOrPublisher id="6A94C58C3E7A0BFE0CF403165309EA85" pageId="0" pageNumber="115019">Folia Malacologica</journalOrPublisher>
+<volume id="D8B472652D76D3B2229CAEB6CE991230" pageId="0" pageNumber="115019">24</volume>
+(
+<issue id="1A75C04FBC5A85144B27F0EE7B374DE9" pageId="0" pageNumber="115019">4</issue>
+): 
+<pagination id="C6DA8A768426BA5100CBCB164600EAFA" pageId="0" pageNumber="115019">239 - 250</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="CE9E79D519AA37816A4A9AF750A3329D" pageId="0" pageNumber="115019">
+<bibRef id="801CE40B153D84D2CA7007093C35F31E" author="Minton, Russell L." journalOrPublisher="Hydrobiologia" pageId="0" pageNumber="115019" pagination="173 - 182" refId="B10376112" title="Quantifying phenotypic gradients in freshwater snails: a case study in Lithasia (Gastropoda: Pleuroceridae)" volume="605" year="2008">
+<author id="AA6479FD5786C3C0CA9F7886E3D312D9" pageId="0" pageNumber="115019">Minton, Russell L.</author>
+, 
+<author id="A353050CC35F645AAD3944A9FD320599" pageId="0" pageNumber="115019">Norwood, Andrew P.</author>
+, 
+<author id="F87AC0EBE30B608E7D04A9D3F783D213" pageId="0" pageNumber="115019">Hayes, David M.</author>
+, 
+<year id="DF2AD766B54D8CF11ECDF06D5B459277" pageId="0" pageNumber="115019">2008</year>
+. 
+<title id="0BF922992D135F83C2E652C8DFF2004C" pageId="0" pageNumber="115019">
+Quantifying phenotypic gradients in freshwater snails: a case study in 
+<taxonomicName id="B26AF927E48E497CAB7783C30B0EDE83" authorityName="Haldeman" authorityYear="1840" class="Gastropoda" genus="Lithasia" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Lithasia" pageId="0" pageNumber="115019" phylum="Mollusca" rank="genus">
+<emphasis id="7686A162C4CB46649449CA4F66A4A918" italics="true" pageId="0" pageNumber="115019">Lithasia</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="7FD942DEC48B2FE2A721154A328A912C" authorityName="Haldeman" authorityYear="1840" class="Gastropoda" genus="Lithasia" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" pageId="0" pageNumber="115019" phylum="Mollusca" rank="class">Gastropoda</taxonomicName>
+: 
+<taxonomicName id="7DE580DE26D80FB62A481BB378D22DC5" authorityName="P. Fischer" authorityYear="1885" class="Gastropoda" family="Pleuroceridae" kingdom="Animalia" lsidName="" pageId="0" pageNumber="115019" phylum="Mollusca" rank="family">Pleuroceridae</taxonomicName>
+)
+</title>
+. 
+<journalOrPublisher id="06DBEB8BCC506383B848D7C5F1E9907A" pageId="0" pageNumber="115019">Hydrobiologia</journalOrPublisher>
+<volume id="CFA05E6CD7121E379CEF64441809CF7C" pageId="0" pageNumber="115019">605</volume>
+(
+<issue id="D5CDD1AA8BC64114EFBB4946592526E1" pageId="0" pageNumber="115019">1</issue>
+): 
+<pagination id="6FF9AF028B02E489AA8EFD47E8B38212" pageId="0" pageNumber="115019">173 - 182</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="94B5372CD89AA0087100C882F4D61CC6" pageId="0" pageNumber="115019">
+<bibRef id="32233FCEB3F8EEC6FC691DC733F5FB35" author="Mitteroecker, Philipp" journalOrPublisher="Evolutionary Biology" pageId="0" pageNumber="115019" pagination="235 - 247" refId="B10376137" title="Advances in geometric morphometrics" volume="36" year="2009">
+<author id="719A08B751EEA635B8074BC3E8C9980D" pageId="0" pageNumber="115019">Mitteroecker, Philipp</author>
+, 
+<author id="FF7C61985883E189B681CAB8837BC710" pageId="0" pageNumber="115019">Gunz, Philipp</author>
+, 
+<year id="83B278DECB7E16E542653DC178B6F0AA" pageId="0" pageNumber="115019">2009</year>
+. 
+<title id="D37C73636EAA44162B6E3A1961D757EB" pageId="0" pageNumber="115019">Advances in geometric morphometrics</title>
+. 
+<journalOrPublisher id="09935C0B812141DC9AA60A00FB8E11A6" pageId="0" pageNumber="115019">Evolutionary Biology</journalOrPublisher>
+<volume id="9DBF11941B185638A7B2EC3522A2B0A7" pageId="0" pageNumber="115019">36</volume>
+(
+<issue id="C95F982165EA0F3F21E4C42780AD7044" pageId="0" pageNumber="115019">2</issue>
+): 
+<pagination id="02969B4E5C744966FFD5CA4E34FED3BD" pageId="0" pageNumber="115019">235 - 247</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="1BFBFCD1BFEF0546B0A88F4A67F4462A" pageId="0" pageNumber="115019">
+<bibRef id="A32002FC73D95A461A428FC3618343E2" author="Perez, Kathryn E." journalOrPublisher="Nautilus" pageId="0" pageNumber="115019" pagination="113 - 126" refId="B10376171" title="A new species of Praticolella (Gastropoda: Polygyridae) from northeastern Mexico and revision of several species of this genus" volume="125" year="2011">
+<author id="6C42199E81AF64C36806AA246DBFFBAF" pageId="0" pageNumber="115019">Perez, Kathryn E.</author>
+, 
+<year id="D5E31F179B6D877EEDED02A6948A2330" pageId="0" pageNumber="115019">2011</year>
+. 
+<title id="3345E6A01225B9844C06454EEBCBEF30" pageId="0" pageNumber="115019">
+A new species of 
+<taxonomicName id="BA8854F074797B7F8047885F4FF30680" authorityName="E. von Martens" authorityYear="1892" class="Gastropoda" genus="Praticolella" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Praticolella" pageId="0" pageNumber="115019" phylum="Mollusca" rank="genus">
+<emphasis id="F8E7F01CDC27E2D8AEB6C0CB15DCBDEE" italics="true" pageId="0" pageNumber="115019">Praticolella</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="2D461BCB00549DD93FF26B0809D9B767" authorityName="E. von Martens" authorityYear="1892" class="Gastropoda" genus="Praticolella" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" pageId="0" pageNumber="115019" phylum="Mollusca" rank="class">Gastropoda</taxonomicName>
+: 
+<taxonomicName id="C1BA57701BDB28BFE9E447207073743B" authorityName="Pilsbry" authorityYear="1895" class="Gastropoda" family="Polygyridae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Pulmonata" pageId="0" pageNumber="115019" phylum="Mollusca" rank="family">Polygyridae</taxonomicName>
+) from northeastern Mexico and revision of several species of this genus
+</title>
+. 
+<journalOrPublisher id="0367CEA6A84E3B12BA2A48A76078A98A" pageId="0" pageNumber="115019">Nautilus</journalOrPublisher>
+<volume id="14D6E86905DE5BF709C1A5E1121C3429" pageId="0" pageNumber="115019">125</volume>
+(
+<issue id="876CF3FF124A10E609B220BA94B3B9D2" pageId="0" pageNumber="115019">3</issue>
+): 
+<pagination id="979852A949437740B73ED6D7F40C4297" pageId="0" pageNumber="115019">113 - 126</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="93D6F7CF36ADEBDC2D4BA07BF93AA45D" pageId="0" pageNumber="115019">
+<bibRef id="3E0190792442FF7B617C1031555BE561" author="Que, Hua Yong" journalOrPublisher="Chinese Journal of Zoology" pageId="0" pageNumber="115019" pagination="110 - 113" refId="B10377645" title="Systematics of oysters along the coast of China: Status and countermeasures" volume="38" year="2003">
+<author id="82F47FD08D22FA464CE920F37A8C441C" pageId="0" pageNumber="115019">Que, Hua Yong</author>
+, 
+<author id="173C5E6CD24C1A53086013450C21B3FB" pageId="0" pageNumber="115019">Liu, Xiao</author>
+, 
+<author id="EBB9D97F494F9A26CC22DCDE118B53A9" pageId="0" pageNumber="115019">Wang, Hai Yan</author>
+, 
+<author id="1976A61BE4AC55A2F38499D461827EF0" pageId="0" pageNumber="115019">Zhang, Su Ping</author>
+, 
+<author id="D816BC2F63A794FD1CFEA1730D64A350" pageId="0" pageNumber="115019">Zhang, Guo Fan</author>
+, 
+<author id="4E9B33F02D951E883F7B3C25EEDFEBE2" pageId="0" pageNumber="115019">Zhang, Fu Sui</author>
+, 
+<year id="9261EFCCBADF317315FD7B1DDC522E33" pageId="0" pageNumber="115019">2003</year>
+. 
+<title id="F49EB421B44274DD92E45D9E72763F0E" pageId="0" pageNumber="115019">Systematics of oysters along the coast of China: Status and countermeasures</title>
+. 
+<journalOrPublisher id="D2BA6D51BF0837CD246E4327D44CFB7E" pageId="0" pageNumber="115019">Chinese Journal of Zoology</journalOrPublisher>
+<volume id="7A452BE7434697F2743DA4C73C57DF6F" pageId="0" pageNumber="115019">38</volume>
+(
+<issue id="5579CDF75751463AF3FE3361BC94F8B5" pageId="0" pageNumber="115019">4</issue>
+): 
+<pagination id="817263E161FDA9A9F976C3C514CB6271" pageId="0" pageNumber="115019">110 - 113</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="239C1E17F36111F76495E4B219263A0B" pageId="0" pageNumber="115019">
+<bibRef id="4FF8F8AECA1C84E0CA50964DBD182C3A" author="Rohlf, F. James" journalOrPublisher="Systematic Zoology" pageId="0" pageNumber="115019" pagination="40 - 59" refId="B10376196" title="Extensions of the procrustes method for the optimal superimposition of landmarks" volume="39" year="1990">
+<author id="163B68B8F966723DE76E5D9F79154DDB" pageId="0" pageNumber="115019">Rohlf, F. James</author>
+, 
+<author id="57ED06BEAA6D442FAE78DA066BA6F186" pageId="0" pageNumber="115019">Slice, Dennis</author>
+, 
+<year id="5DFF90DD01BA52139C7D15D048C29029" pageId="0" pageNumber="115019">1990</year>
+. 
+<title id="C088A65347AA35FB206A065EE492A814" pageId="0" pageNumber="115019">Extensions of the procrustes method for the optimal superimposition of landmarks</title>
+. 
+<journalOrPublisher id="179F4D819132E5E2C90D137AE8FDAB3D" pageId="0" pageNumber="115019">Systematic Zoology</journalOrPublisher>
+<volume id="187DACB7CC7A3ADC9E1908D60F9CB2AD" pageId="0" pageNumber="115019">39</volume>
+(
+<issue id="365F5D44430EC1ED80B187C80C05B253" pageId="0" pageNumber="115019">1</issue>
+): 
+<pagination id="9ADB67A5599CCB5AB05BEAC52C7B55BA" pageId="0" pageNumber="115019">40 - 59</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="4D9246D19395AE9199678F3299748357" pageId="0" pageNumber="115019">
+<bibRef id="AF7747ECA72621FAE213A5850697C16F" author="Ruppert, E. E" journalOrPublisher="Israel Journal of Zoology" pageId="0" pageNumber="115019" pagination="161 - 182" refId="B10376637" title="Morphology of Hatschek's nephridium in larval and juvenile stages of Branchiostoma virginiae (Cephalochordata)" volume="42" year="2013">
+<author id="02233AF7BC49575E4410FACE9A075CC4" pageId="0" pageNumber="115019">Ruppert, E. E</author>
+, 
+<year id="8FD3B03AC7F946A22027AA22C9293E90" pageId="0" pageNumber="115019">2013</year>
+. 
+<title id="2D21ED7652C73209E220478DEC4BD483" pageId="0" pageNumber="115019">
+Morphology of Hatschek's nephridium in larval and juvenile stages of 
+<taxonomicName id="F84E797B9B4B3A25F19C2873C3369CF4" authorityName="Hubbs" authorityYear="1922" class="Chilopoda" family="Scolopendridae" genus="Branchiostoma" kingdom="Animalia" lsidName="Branchiostoma virginiae" order="Scolopendromorpha" pageId="0" pageNumber="115019" phylum="Arthropoda" rank="species" species="virginiae">
+<emphasis id="398A5D2AE04DF84D3B35E16E54B84ABC" italics="true" pageId="0" pageNumber="115019">Branchiostoma virginiae</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="092EC177946C48A9BBFA961CA637EE23" class="Chilopoda" family="Scolopendridae" genus="Branchiostoma" kingdom="Animalia" lsidName="" order="Scolopendromorpha" pageId="0" pageNumber="115019" phylum="Arthropoda" rank="subPhylum" subPhylum="Cephalochordata">Cephalochordata</taxonomicName>
+)
+</title>
+. 
+<journalOrPublisher id="B5E9A0A79A66DCCCD1ADF76020C4660A" pageId="0" pageNumber="115019">Israel Journal of Zoology</journalOrPublisher>
+<volume id="AB309056151D1135EFC84A5A2E5EC3B3" pageId="0" pageNumber="115019">42</volume>
+(
+<issue id="4D15E4980F5C208F241B6E779246440B" pageId="0" pageNumber="115019">Suppl 1</issue>
+): 
+<pagination id="732357FB1BFBD64D41F2E21C7959C678" pageId="0" pageNumber="115019">161 - 182</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="244B93ED049C2B9643FB129A1F0E064D" pageId="0" pageNumber="115019">
+<bibRef id="1942D766E9E02E53CF71022EBA27AE90" author="Salvi, Daniele" journalOrPublisher="PLOS One" pageId="0" pageNumber="115019" pagination=": e 116014" refId="B10376448" title="Molecular phylogenetics and systematics of the bivalve family Ostreidae based on rRNA sequence structure models and multilocus species tree" volume="9" year="2014">
+<author id="D7A3289D0E1C5BC76D1CECEEF6F508F1" pageId="0" pageNumber="115019">Salvi, Daniele</author>
+, 
+<author id="A2273A4D89427357C9DCD3C0280EBC31" pageId="0" pageNumber="115019">Macali, Armando</author>
+, 
+<author id="D6C0F4647B0FFF4E306ECFD4D09D9B72" pageId="0" pageNumber="115019">Mariottini, Paolo</author>
+, 
+<year id="F77AFF0A2EB5F2C41694343CADAE7D26" pageId="0" pageNumber="115019">2014</year>
+. 
+<title id="875AC66B098CC4F707E4CE9EEE106D9C" pageId="0" pageNumber="115019">
+Molecular phylogenetics and systematics of the bivalve family 
+<taxonomicName id="18A72CB50C8863BB70DC0B17DAB75667" authorityName="Rafinesque" authorityYear="1815" class="Bivalvia" family="Ostreidae" kingdom="Animalia" lsidName="" order="Ostreida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="family">Ostreidae</taxonomicName>
+based on rRNA sequence structure models and multilocus species tree
+</title>
+. 
+<journalOrPublisher id="168892029310F74E8333FF9DE87DF0CF" pageId="0" pageNumber="115019">PLOS One</journalOrPublisher>
+<volume id="D050BF470A348B404B4C4B81DB040C5D" pageId="0" pageNumber="115019">9</volume>
+(
+<issue id="A324A1C28E901F8150FB73AC527475E2" pageId="0" pageNumber="115019">12</issue>
+)
+<pagination id="5AC33F3944421C30675454F0E8C17CBC" pageId="0" pageNumber="115019">: e116014</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="3E6AC220D3C66A2E8956E86AC38FC9A3" pageId="0" pageNumber="115019">
+<bibRef id="E69C5B5E85018CD993B2B39311C00346" author="Shu, Yu" journalOrPublisher="Marine Sciences" pageId="0" pageNumber="115019" pagination="61 - 69" refId="B10376223" title="Application of geometric morphology to the morphological classification and phylogeny of eight of scallop species" volume="46" year="2022">
+<author id="48EA23966C200CB09C5531E359852E84" pageId="0" pageNumber="115019">Shu, Yu</author>
+, 
+<author id="D56072D4B850CFAC8CA61157652C1AD2" pageId="0" pageNumber="115019">Shi, Ling</author>
+, 
+<author id="85A2748C728EFD6EAB601EA87EF4006A" pageId="0" pageNumber="115019">Hao, Zhen Lin</author>
+, 
+<author id="09D0B550C10DF6A49389E9009697B362" pageId="0" pageNumber="115019">Mao, Jun Xia</author>
+, 
+<author id="D3BD06B311FFB82EADE9785DDD7073C0" pageId="0" pageNumber="115019">Wang, Xu Bo</author>
+, 
+<author id="9D125D2F66BCBBEBA2FFED19604F7021" pageId="0" pageNumber="115019">Tian, Ying</author>
+, 
+<author id="29643B1056800A4463608234286F859F" pageId="0" pageNumber="115019">Chang, Ya Qing</author>
+, 
+<year id="7162D2BB465BB8CD54EE374A7724A4F5" pageId="0" pageNumber="115019">2022</year>
+. 
+<title id="188E49C0C1FA8395EB6A5A69C2218A13" pageId="0" pageNumber="115019">Application of geometric morphology to the morphological classification and phylogeny of eight of scallop species</title>
+. 
+<journalOrPublisher id="0B3F6DA8D757880773374527308A20AB" pageId="0" pageNumber="115019">Marine Sciences</journalOrPublisher>
+<volume id="66CDBA65D59B69691D61E3A87B1E0563" pageId="0" pageNumber="115019">46</volume>
+(
+<issue id="5A24C9C2D5A050626C3807773C2610AF" pageId="0" pageNumber="115019">06</issue>
+): 
+<pagination id="812D225600E24813F8121B6AEE0CBD81" pageId="0" pageNumber="115019">61 - 69</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="59C0E3CCA1E674A8240A88E711B88B5F" pageId="0" pageNumber="115019">
+<bibRef id="D50DFD78A7468072C2C202483816307C" author="Su, Wei" journalOrPublisher="Chinese Journal of Applied Ecology" pageId="0" pageNumber="115019" pagination="2309 - 2315" refId="B10376214" title="Leaf morphological characteristics of section Quercus based on geometric morphometric analysis" volume="32" year="2021">
+<author id="B4B5739B68FC65EBDB8BF139F46B8DEB" pageId="0" pageNumber="115019">Su, Wei</author>
+, 
+<author id="56FDB6CC2D926E3DB8757B410F52DD10" pageId="0" pageNumber="115019">Song, Yi Gang</author>
+, 
+<author id="D1D6385C2359D51F2627E9E0AC8E7AD2" pageId="0" pageNumber="115019">Qi, Min</author>
+, 
+<author id="C0A235B73FD0042D5680C6EE78090A4B" pageId="0" pageNumber="115019">Du, Fang</author>
+, 
+<year id="F4F12C15BDC4C1092768A91758AA65E8" pageId="0" pageNumber="115019">2021</year>
+. 
+<title id="4EA084FAC0EEFAF0A7517FB799DFFB3D" pageId="0" pageNumber="115019">Leaf morphological characteristics of section Quercus based on geometric morphometric analysis</title>
+. 
+<journalOrPublisher id="5C16D358FC181D8291462865F700BAFA" pageId="0" pageNumber="115019">Chinese Journal of Applied Ecology</journalOrPublisher>
+<volume id="0783685B14F4EFFA228E3BEF75E6BBC8" pageId="0" pageNumber="115019">32</volume>
+(
+<issue id="82651E26E740110C1C424B9A88690C00" pageId="0" pageNumber="115019">07</issue>
+): 
+<pagination id="D4B0F60BB6E91124FB633AEA7E8EF37A" pageId="0" pageNumber="115019">2309 - 2315</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="F1608F0DD73E05C1723AFD3EED9E13E6" pageId="0" pageNumber="115019">
+<bibRef id="F65688B24B5A3223F625C209527C6B7E" author="Valladares, Alejandro" journalOrPublisher="Marine Biology" pageId="0" pageNumber="115019" pagination="2731 - 2738" refId="B10376235" title="Shell shape variation in populations of Mytilus chilensis (Hupe 1854) from southern Chile: a geometric morphometric approach" volume="157" year="2010">
+<author id="49BF9D726A6E0A8EC50E8574DFDE3AE7" pageId="0" pageNumber="115019">Valladares, Alejandro</author>
+, 
+<author id="9B6B9F41A08268CD1E330EB31B4934A5" pageId="0" pageNumber="115019">
+<normalizedToken id="E1E48B1C0855FF5872DB60BE7A5F6E8D" originalValue="Manríquez">Manriquez</normalizedToken>
+, 
+<normalizedToken id="9F7A8300BD32D9F0FAE1D593ED3E2E1B" originalValue="Germán">German</normalizedToken>
+</author>
+, 
+<author id="6CCE8818FADB41C689FFA052A5FC297B" pageId="0" pageNumber="115019">
+<normalizedToken id="F0EE0FAAF0F2A4646ACD01AFD284F7F7" originalValue="Suárez-Isla">Suarez-Isla</normalizedToken>
+, 
+<normalizedToken id="C9CCFEEA5C7F7DBB0EC732A28978A899" originalValue="Benjamín">Benjamin</normalizedToken>
+A.
+</author>
+, 
+<year id="A6A17F674D1A8D39F516024B511B9A80" pageId="0" pageNumber="115019">2010</year>
+. 
+<title id="EF440CD562C35A0B12D718AB66D036E0" pageId="0" pageNumber="115019">
+Shell shape variation in populations of 
+<taxonomicName id="3EAABA79213A4E89FDD0EC513A0FC02B" authorityName="Hupe" authorityYear="1854" class="Bivalvia" family="Mytilidae" genus="Mytilus" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Mytilus chilensis" order="Mytilida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="species" species="chilensis">
+<emphasis id="E96AAFC5DECA3AAFF3EEED11E42F5088" italics="true" pageId="0" pageNumber="115019">Mytilus chilensis</emphasis>
+</taxonomicName>
+(Hupe 1854) from southern Chile: a geometric morphometric approach
+</title>
+. 
+<journalOrPublisher id="29500B6986E2213C7433159645B3D04A" pageId="0" pageNumber="115019">Marine Biology</journalOrPublisher>
+<volume id="805AEB921B22D43078379F5F0C94E6B1" pageId="0" pageNumber="115019">157</volume>
+(
+<issue id="6E3E04309C4078E57E2D959A290D104C" pageId="0" pageNumber="115019">12</issue>
+): 
+<pagination id="916BD5AE2CA20703A45367EC4479E74B" pageId="0" pageNumber="115019">2731 - 2738</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="3A7C927A6F016E6C13E5CFCE3FBECDF2" pageId="0" pageNumber="115019">
+<bibRef id="E957613CBB131D253B2038BCE66C84C9" author="Wang, He Kun Yuan" journalOrPublisher="Acta Hydrobiologica Sinica" pageId="0" pageNumber="115019" pagination="182 - 193" refId="B10376262" title="Geometric morphometrics of the cephalic contour and its morphological variations among schizopygopsis stoliczkai (teleostei: cyprinidae)" volume="41" year="2017">
+<author id="16BC660C219486232ECF7B99F53AA8BF" pageId="0" pageNumber="115019">Wang, He Kun Yuan</author>
+, 
+<author id="007B11D4EE3FC258DAA3D722488B2E27" pageId="0" pageNumber="115019">Tang, Yong Tao</author>
+, 
+<author id="02BE1683E47676987FFEA2A839D2D2D9" pageId="0" pageNumber="115019">Li, Guo Gang</author>
+, 
+<author id="251EE5CA89902230A2E9F3716D03CEEE" pageId="0" pageNumber="115019">Zhang, Ren Yi</author>
+, 
+<author id="E66ECF6E6E23DB4FED655078916CC0C4" pageId="0" pageNumber="115019">Feng, Chen Guang</author>
+, 
+<author id="FE74AB878DB34792C14B9B61E39BEE5A" pageId="0" pageNumber="115019">Tong, Chao</author>
+, 
+<author id="C1037C1F8AA55053296288E2902C7B2C" pageId="0" pageNumber="115019">Liu, Si Jia</author>
+, 
+<author id="0A1E9914C25BAB949A785DF671AF1F0F" pageId="0" pageNumber="115019">Zhang, Cun Fang</author>
+, 
+<author id="1F25C830F3CFD39C7D882A9305F83FCB" pageId="0" pageNumber="115019">Tian, Fei</author>
+, 
+<author id="BD2E1AD6792970A9CC4865CBE1870C65" pageId="0" pageNumber="115019">Zhao, Kai</author>
+, 
+<year id="A10F89BBE310894621B0A27659E55E5D" pageId="0" pageNumber="115019">2017</year>
+. 
+<title id="31B20E831AB8072680480EE09A14B24C" pageId="0" pageNumber="115019">Geometric morphometrics of the cephalic contour and its morphological variations among schizopygopsis stoliczkai (teleostei: cyprinidae)</title>
+. 
+<journalOrPublisher id="99C06A460DF63F9EB8519518D6837EAB" pageId="0" pageNumber="115019">Acta Hydrobiologica Sinica</journalOrPublisher>
+<volume id="89C0DF464ECF3816C818BCD1E0118CB7" pageId="0" pageNumber="115019">41</volume>
+(
+<issue id="1028E364FE515006C913E2FDE815BCA6" pageId="0" pageNumber="115019">1</issue>
+): 
+<pagination id="710A381AD0B2D368FC80F688E186CBAF" pageId="0" pageNumber="115019">182 - 193</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="AB5BE409F6F5B9A552B1ACE98DA2479D" pageId="0" pageNumber="115019">
+<bibRef id="65F2415A409C7E6B584F0C5FECB6D8E5" author="Wang, Hai Yan" journalOrPublisher="Acta Hydrobiologica Sinica" pageId="0" pageNumber="115019" refId="B10377679" title="Classification study of common oysters in northern coastal China" volumeTitle="13 th Symposium of Chinese Society of Malacology, Chinese Society for Oceanology and Limnology." year="2007">
+<author id="52CBB391D62592F3CD163D1E7DF4717D" pageId="0" pageNumber="115019">Wang, Hai Yan</author>
+, 
+<author id="B3249E8183595FA24800CDB87368BBE8" pageId="0" pageNumber="115019">Guo, Xi Min</author>
+, 
+<author id="8B81E780A6A52F1534C3FA8BC1795B32" pageId="0" pageNumber="115019">Liu, Xiao</author>
+, 
+<author id="42B3A11F810BA4EE27201306BB9929E5" pageId="0" pageNumber="115019">Zhang, Su Ping</author>
+, 
+<author id="DB5F80EDD066940EF875CAF6C1FFAB10" pageId="0" pageNumber="115019">Xu, Feng Shan</author>
+, 
+<author id="B3BA660A54072101647721515E914E02" pageId="0" pageNumber="115019">Zhang, Guo Fan</author>
+, 
+<year id="BB6086AB19E31EC3E21889101162FA54" pageId="0" pageNumber="115019">2007</year>
+. 
+<title id="5B85D1B538E47D3545F82C23F75E9749" pageId="0" pageNumber="115019">Classification study of common oysters in northern coastal China</title>
+. In: 
+<volumeTitle id="E1E5B11FEB1371D653EF73856814E6BF" pageId="0" pageNumber="115019">13th Symposium of Chinese Society of Malacology, Chinese Society for Oceanology and Limnology.</volumeTitle>
+</bibRef>
+</paragraph>
+<paragraph id="1B35A0C5D0A1BCA9C5747AF7A1AE1925" pageId="0" pageNumber="115019">
+<bibRef id="EDFAFCCC830E0C4E730FB9FE9C8CF539" author="Webster, Mark" journalOrPublisher="The Paleontological Society Papers" pageId="0" pageNumber="115019" pagination="163 - 188" refId="B10376244" title="A practical introduction to landmark-based geometric morphometrics" volume="16" year="2010">
+<author id="32F401D785F90DBB3F0DF70E2A124B79" pageId="0" pageNumber="115019">Webster, Mark</author>
+, 
+<author id="BCAA3896114D251F18168D13949AB295" pageId="0" pageNumber="115019">Sheets, H. David</author>
+, 
+<year id="7BA16D7E26D726D4EA7526BF10A23747" pageId="0" pageNumber="115019">2010</year>
+. 
+<title id="F154E4B2E38CA8779F25563A719EBF5F" pageId="0" pageNumber="115019">A practical introduction to landmark-based geometric morphometrics</title>
+. 
+<journalOrPublisher id="B008B16A02ECAB8157ECDB3EBF085CEB" pageId="0" pageNumber="115019">The Paleontological Society Papers</journalOrPublisher>
+<volume id="79FCF753195C73EFF025FC9F78A1B3C4" pageId="0" pageNumber="115019">16</volume>
+: 
+<pagination id="AE9B63D0206B56EC6A0015D092EAE0EC" pageId="0" pageNumber="115019">163 - 188</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="18AD5C038E492E7E58485BF677570889" pageId="0" pageNumber="115019">
+<bibRef id="DCB2340157EDE8A08513E9799DBECC60" author="Wijsman, J. W. M." journalOrPublisher="Springer" pageId="0" pageNumber="115019" refId="B10376526" title="Goods and Services of Marine Bivalves" year="2018">
+<author id="3AD742B3EBB259550DD25244A701721D" pageId="0" pageNumber="115019">Wijsman, J. W. M.</author>
+, 
+<author id="1447CD2D686E10A4EDAB5E163AFE6DE0" pageId="0" pageNumber="115019">Troost, K.</author>
+, 
+<author id="A7AF9383133B767A772609944E345AB7" pageId="0" pageNumber="115019">Fang, J</author>
+, 
+<author id="C542406B547DD7EA8E7B99F9DDBF281A" pageId="0" pageNumber="115019">Roncarati, A</author>
+, 
+<year id="CE9C1C3652EA62478E1962A7A282688C" pageId="0" pageNumber="115019">2018</year>
+. 
+<title id="333F2AE4998442119F38D6E8B6B23AEC" pageId="0" pageNumber="115019">Goods and Services of Marine Bivalves</title>
+. 
+<journalOrPublisher id="BE9E4C6313E23CB3F882A596AB0E3D1D" pageId="0" pageNumber="115019">Springer</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="F8DB0D3E1235257FE52FE79B1382541A" pageId="0" pageNumber="115019">
+<bibRef id="0FC0954FF4CB7F77AF17DD6224F9DA90" author="Wu, Qi Sheng" journalOrPublisher="Journal of Fujian Fisheries" pageId="0" pageNumber="115019" pagination="67 - 72" refId="B10376253" title="Advance in taxonomic of oysters in China" volume="33" year="2011">
+<author id="39888931952576C786A052AF989AF495" pageId="0" pageNumber="115019">Wu, Qi Sheng</author>
+, 
+<author id="478BC28780CE1DFE4B868384AABE5C23" pageId="0" pageNumber="115019">Wang, Xiao Qing</author>
+, 
+<author id="2AE07A5CA07F846BA9DC4803B64FF758" pageId="0" pageNumber="115019">Zeng, Zhi Nan</author>
+, 
+<author id="817DE026F44BCC3156D760689F6BEEB5" pageId="0" pageNumber="115019">Ning, Yue</author>
+, 
+<year id="DE801F41A3E2DFEF5929F596FA6CC6D5" pageId="0" pageNumber="115019">2011</year>
+. 
+<title id="648883D2C01DC9143111C5DB9EBF365A" pageId="0" pageNumber="115019">Advance in taxonomic of oysters in China</title>
+. 
+<journalOrPublisher id="7567C781B960F13D646500CC1F220DFD" pageId="0" pageNumber="115019">Journal of Fujian Fisheries</journalOrPublisher>
+<volume id="AE8A8D6BBC91CA346B24887473318E10" pageId="0" pageNumber="115019">33</volume>
+(
+<issue id="25D4BC41DEA3716439752931F860F1D4" pageId="0" pageNumber="115019">01</issue>
+): 
+<pagination id="DED9B4713CFDE4EEAC105CEFD2D0CE79" pageId="0" pageNumber="115019">67 - 72</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="BCAE57CCFF3649A3EC7159ADA089209F" pageId="0" pageNumber="115019">
+<bibRef id="C8C4771974F692897A5D7E74641788B7" author="Xu, Feng Shan" journalOrPublisher="Beijing Science and Technology Press" pageId="0" pageNumber="115019" refId="B10376286" title="Bivalve mollusca of China seas" year="1997">
+<author id="836F816560ED93CDE897AD27859443A2" pageId="0" pageNumber="115019">Xu, Feng Shan</author>
+, 
+<year id="1724401FE0322C2082CAC2DDCB94E254" pageId="0" pageNumber="115019">1997</year>
+. 
+<title id="B38D024A437BB90103022BA63789A076" pageId="0" pageNumber="115019">Bivalve mollusca of China seas</title>
+. 
+<journalOrPublisher id="09E8D8429E077B64354781ECC3817F3D" pageId="0" pageNumber="115019">Beijing Science and Technology Press</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="E06F68F3C420EBB3E82344DC196BF6F0" pageId="0" pageNumber="115019">
+<bibRef id="F6A87879F1933D30D133F4727E3826DA" author="Xu, Feng Shan" journalOrPublisher="Beijing Science and Technology Press" pageId="0" pageNumber="115019" refId="B10376294" title="An illustrated Bivalvia Mollusca fauna of China Seas" year="2008">
+<author id="00E26F7D56867A0F1D024D2A557EE89D" pageId="0" pageNumber="115019">Xu, Feng Shan</author>
+, 
+<author id="554111DB5787B2F539DBF06AD48C112B" pageId="0" pageNumber="115019">Zhang, Su Ping</author>
+, 
+<year id="01141A4E63BBB5A30D40821AB5F576CF" pageId="0" pageNumber="115019">2008</year>
+. 
+<title id="616AA03EE2919FF22C402711010F090B" pageId="0" pageNumber="115019">An illustrated Bivalvia Mollusca fauna of China Seas</title>
+. 
+<journalOrPublisher id="060C03EAE0506D70DEDB5B4743006445" pageId="0" pageNumber="115019">Beijing Science and Technology Press</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="9A599C84CF724F49AF1E49E7E92FD077" pageId="0" pageNumber="115019">
+<bibRef id="CBB28AFEEA9F373E04BB2CBEC7498762" author="Zelditch, M. L." journalOrPublisher="Elsevier Academic Press" pageId="0" pageNumber="115019" refId="B10376380" title="Geometric morphometrics for biologists" year="2004">
+<author id="A966E3A081B37FE1D639BBA6353D73F5" pageId="0" pageNumber="115019">Zelditch, M. L.</author>
+, 
+<author id="C653D79FC232054EC9015FD29BC259F5" pageId="0" pageNumber="115019">Swiderski, D. L.</author>
+, 
+<author id="78B0A75159FF532131EEB235B85C7A05" pageId="0" pageNumber="115019">Sheets, H. D.</author>
+, 
+<year id="F0A8ECBBA94FC55C4818C7615BED539F" pageId="0" pageNumber="115019">2004</year>
+. 
+<title id="82C93D8B171F9B7B8408EE86E94E1BAD" pageId="0" pageNumber="115019">Geometric morphometrics for biologists</title>
+. 
+<journalOrPublisher id="6F653AC181A905F4958DD4906375DBC0" pageId="0" pageNumber="115019">Elsevier Academic Press</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="A468E398B2A027CD92D86F6B6D26F319" pageId="0" pageNumber="115019">
+<bibRef id="734B68773533DF1F03A6B0FD3638E005" author="Zhang, Xi" journalOrPublisher="Current Zoology" pageId="0" pageNumber="115019" pagination="65 - 94" refId="B10376302" title="A study of Chinese oysters" volume="8" year="1956">
+<author id="F91AC9EEEA16E898338FC461F4E2CD48" pageId="0" pageNumber="115019">Zhang, Xi</author>
+, 
+<author id="02BD47113C199B63C6C7836033AB5C80" pageId="0" pageNumber="115019">Lou, Zi Kang</author>
+, 
+<year id="8BFBFDB7E6070C06E4E6E54BEEE18BD6" pageId="0" pageNumber="115019">1956</year>
+. 
+<title id="93DC2669D0DADE136D8E63A036AE6259" pageId="0" pageNumber="115019">A study of Chinese oysters</title>
+. 
+<journalOrPublisher id="E5710509AF796DC892F8B426CD4843D5" pageId="0" pageNumber="115019">Current Zoology</journalOrPublisher>
+<volume id="A01EFE7CA38C43F5E6BDC36502B86A12" pageId="0" pageNumber="115019">8</volume>
+(
+<issue id="BEEB42DE6525F7C65D748DADE24106B9" pageId="0" pageNumber="115019">1</issue>
+): 
+<pagination id="9A7923131D3DBB420DE6500F9F6BFE5E" pageId="0" pageNumber="115019">65 - 94</pagination>
+</bibRef>
+</paragraph>
+</subSection>
+<subSection id="65A777B2614BD0A779048DF21323025B" pageId="0" pageNumber="115019" type="multiple">
+<caption id="9576F3DEC12E752585016DECE380E50F" doi="10.3897/BDJ.12.e115019.figure1" httpUri="https://binary.pensoft.net/fig/889653" pageId="0" pageNumber="115019" start="Figure 1" startId="F10377701">
+<paragraph id="F10076A084790FEFF7D5933103920C8C" pageId="0" pageNumber="115019">
+<emphasis id="0312515293FD695477C6D672B07B678C" bold="true" pageId="0" pageNumber="115019">Figure 1.</emphasis>
+Location of sampling.
+</paragraph>
+</caption>
+<caption id="3503915A5480B620965A0FEE1EB84A7C" doi="10.3897/BDJ.12.e115019.figure2" httpUri="https://binary.pensoft.net/fig/978339" pageId="0" pageNumber="115019" start="Figure 2" startId="F10377703">
+<paragraph id="D48B50A3FF31193DEE641EF7990EB2CC" pageId="0" pageNumber="115019">
+<emphasis id="9947C4EC909AEE313901894B7980786F" bold="true" pageId="0" pageNumber="115019">Figure 2.</emphasis>
+Landmarks and semi-landmarks on the oyster shell.Red dots to represent landmarks and blue dots to represent semi-landmark.
+</paragraph>
+</caption>
+<caption id="C30F6AC1B7F72A564804126563398A06" doi="10.3897/BDJ.12.e115019.figure3" httpUri="https://binary.pensoft.net/fig/889655" pageId="0" pageNumber="115019" start="Figure 3" startId="F10377705">
+<paragraph id="8A5389644AAB43A4F355DBFF1D45E7D3" pageId="0" pageNumber="115019">
+<emphasis id="6F61C24B4A30FD764B15C9878410521D" bold="true" pageId="0" pageNumber="115019">Figure 3.</emphasis>
+Box plot of morphometric measurements for the two oyster species.
+</paragraph>
+</caption>
+<caption id="9BA1C4F47F05125D98DE7DA2DAE84B4A" doi="10.3897/BDJ.12.e115019.figure4" httpUri="https://binary.pensoft.net/fig/889659" pageId="0" pageNumber="115019" start="Figure 4" startId="F10377711">
+<paragraph id="2F240A71FD29EFC8FEAFD06441E9393A" pageId="0" pageNumber="115019">
+<emphasis id="727E406AFC106EDAD2628F59200D30C8" bold="true" pageId="0" pageNumber="115019">Figure 4.</emphasis>
+Superimposed map of the GPA of the two oyster species.
+</paragraph>
+</caption>
+<caption id="01AA12D07AE0E17326DF0D8ED650E20D" doi="10.3897/BDJ.12.e115019.figure5" httpUri="https://binary.pensoft.net/fig/889660" pageId="0" pageNumber="115019" start="Figure 5" startId="F10377713">
+<paragraph id="356161687DC8FB9F8EDA73D5D5CBC793" pageId="0" pageNumber="115019">
+<emphasis id="A003281F6C3C23945CE45FAAC79E30F2" bold="true" pageId="0" pageNumber="115019">Figure 5.</emphasis>
+PCA and TPS analysis of the two oyster species.The four deformation maps depicted by a thin-plate spline show the differences between the average shape and the extreme case of each PC.
+</paragraph>
+</caption>
+<caption id="9DC80A7E92F8A89CFF1A74C66C44B829" doi="10.3897/BDJ.12.e115019.figure6" httpUri="https://binary.pensoft.net/fig/889661" pageId="0" pageNumber="115019" start="Figure 6" startId="F10377715">
+<paragraph id="4FAE4BBAF9173C2A8DDD13C099D2B1AD" pageId="0" pageNumber="115019">
+<emphasis id="ACF32D312813B24142D04E4AEA56D042" bold="true" pageId="0" pageNumber="115019">Figure 6.</emphasis>
+Canonical Variate Analysis (CVA) diagram of shell shapes in the two oyster species.
+</paragraph>
+</caption>
+<caption id="EF2E53D8FE5469767C080C48A14BEC2A" ID-Table-UUID="EF2E53D8FE5469767C080C48A14BEC2A" httpUri="http://table.plazi.org/id/EF2E53D8FE5469767C080C48A14BEC2A" pageId="0" pageNumber="115019" start="Table 1" startId="T10377718">
+<paragraph id="AE175787E930F95E8D2E1A6FAB1E406A" pageId="0" pageNumber="115019">
+<emphasis id="D14B89C26BA54760437ACF8932E6B283" bold="true" pageId="0" pageNumber="115019">Table 1.</emphasis>
+Morphological measurements of the two species of oysters using traditional morphometry.
+</paragraph>
+</caption>
+<paragraph id="2B51DD4D565DFA9E69FE49AC22C92964" pageId="0" pageNumber="115019">
+<table id="1B059B554FBA0CF03EDE44010FFDC4AD" pageId="0" pageNumber="115019">
+<tr id="BC02D55663AA2367245EECB69E0C83DF" pageId="0" pageNumber="115019">
+<td id="82FBBC37BCAC132FD0F443C225CA45AD" colspan="1" pageId="0" pageNumber="115019" rowspan="1">Species</td>
+<td id="6C724F472CE726B62D8296CC76152BC9" colspan="1" pageId="0" pageNumber="115019" rowspan="1">Statistic</td>
+<td id="FE38430DC0F1C902C3AB709D8BA988C3" colspan="1" pageId="0" pageNumber="115019" rowspan="1">Shell Height (mm)</td>
+<td id="5FD993D4959923515281BF7A39E21A4C" colspan="1" pageId="0" pageNumber="115019" rowspan="1">Shell Length (mm)</td>
+<td id="34C38622D23DA0AB311EEE0463EBDF80" colspan="1" pageId="0" pageNumber="115019" rowspan="1">Shell Width (mm)</td>
+</tr>
+<tr id="2B6D1FB83A40CB6B8B26B5475DDEEB9B" pageId="0" pageNumber="115019">
+<td id="4951E7400BCC6AE7CC300CB10E3C22C2" colspan="1" pageId="0" pageNumber="115019" rowspan="1">
+<taxonomicName id="EBC4D532D29E14B6819BC4B81A5387E0" genus="C." lsidName="C. gigas" pageId="0" pageNumber="115019" rank="species" species="gigas">
+<emphasis id="4801AFDDA87EB07E5F83C7C1524A0BE3" italics="true" pageId="0" pageNumber="115019">C. gigas</emphasis>
+</taxonomicName>
+</td>
+<td id="9D65789AA6A173A4677E715D33B94303" colspan="1" pageId="0" pageNumber="115019" rowspan="1">Maximum</td>
+<td id="EE160940EAB3A3BB810F69610DE1DFED" colspan="1" pageId="0" pageNumber="115019" rowspan="1">159.78</td>
+<td id="402163D9807597C523764856EAEE933A" colspan="1" pageId="0" pageNumber="115019" rowspan="1">68.55</td>
+<td id="8F1C0C2D3949CF35A6E7A77B231160FB" colspan="1" pageId="0" pageNumber="115019" rowspan="1">55.29</td>
+</tr>
+<tr id="5C1ACF4E5D49666AEB94503585204F8B" pageId="0" pageNumber="115019">
+<td id="CE80DCA90EB62FC690757A267F4B175C" colspan="1" isEmpty="true" pageId="0" pageNumber="115019" rowspan="1">-</td>
+<td id="719F1EAFCC0F7263914E00FED8CB1E53" colspan="1" pageId="0" pageNumber="115019" rowspan="1">Minimum</td>
+<td id="BA088810221EF3ABF4044D9AA0095B7E" colspan="1" pageId="0" pageNumber="115019" rowspan="1">56.19</td>
+<td id="29D0E1DCC57BBA075D87B96B3AC8DD13" colspan="1" pageId="0" pageNumber="115019" rowspan="1">23.19</td>
+<td id="DF2A2613F939A85B5EF1663CD8422FF2" colspan="1" pageId="0" pageNumber="115019" rowspan="1">16.79</td>
+</tr>
+<tr id="951B99675ED0AB130BA1DFD5DF4CD52C" pageId="0" pageNumber="115019">
+<td id="A22BA6410985B0EFF170601954F54745" colspan="1" isEmpty="true" pageId="0" pageNumber="115019" rowspan="2">-</td>
+<td id="4D46F253F5C012D5DC453985A236CE26" colspan="1" pageId="0" pageNumber="115019" rowspan="1">
+Mean 
+<normalizedToken id="43467ED8CCB6C3A364C4DC0F0D718F4D" originalValue="±">+/-</normalizedToken>
+SD
+</td>
+<td id="E54D473BD3285F56E6A2BF51919385FE" colspan="1" pageId="0" pageNumber="115019" rowspan="1">
+94.92 
+<normalizedToken id="77A804F2272DDF79D5BBB0F6C9C39354" originalValue="±">+/-</normalizedToken>
+27.91
+</td>
+<td id="63F6AE07667BB7AF38FBFD78D7D88A92" colspan="1" pageId="0" pageNumber="115019" rowspan="1">
+43.96 
+<normalizedToken id="D8135E3EF8DC16783E89FF7B1FD4B267" originalValue="±">+/-</normalizedToken>
+11.15
+</td>
+<td id="08F98CA3A6670D6881E7B67AFD4F2DA2" colspan="1" pageId="0" pageNumber="115019" rowspan="1">
+29.33 
+<normalizedToken id="0B56163489C108CE50434FA00872280F" originalValue="±">+/-</normalizedToken>
+9.60
+</td>
+</tr>
+<tr id="46BDAB751CE298EFA17D679D070E7C7C" pageId="0" pageNumber="115019">
+<td id="8DEBC8BC04CDD2C03A7587F5D24C1DD4" colspan="1" pageId="0" pageNumber="115019" rowspan="1">Coefficient of Variation</td>
+<td id="01AAC67211D611FADBD3D185ADC9BE78" colspan="1" pageId="0" pageNumber="115019" rowspan="1">29％</td>
+<td id="E2688EBECEECB4773E3927375FBED887" colspan="1" pageId="0" pageNumber="115019" rowspan="1">25％</td>
+<td id="8965824505B45DC9A031958570F49E36" colspan="1" pageId="0" pageNumber="115019" rowspan="1">33％</td>
+</tr>
+<tr id="2378A2DCAFCE6BAAA4F5FF0747DA3644" pageId="0" pageNumber="115019">
+<td id="F5BEB46B88EE37C0399A414C58C545B8" colspan="1" pageId="0" pageNumber="115019" rowspan="1">
+<taxonomicName id="D5D4A48DA3CE96CED446DCF3FA6D5014" genus="C." lsidName="C. ariakensis" pageId="0" pageNumber="115019" rank="species" species="ariakensis">
+<emphasis id="DB1C3D0776FC1FD5ECA101AC72BDF782" italics="true" pageId="0" pageNumber="115019">C. ariakensis</emphasis>
+</taxonomicName>
+</td>
+<td id="DF9AE12C17BF75E80912C5017A3949B5" colspan="1" pageId="0" pageNumber="115019" rowspan="1">Maximum</td>
+<td id="B577F46C29562CF3C31B09AC40C3C4B3" colspan="1" pageId="0" pageNumber="115019" rowspan="1">205.64</td>
+<td id="5BB6E01B126A758AEE2D50E3C6D55A86" colspan="1" pageId="0" pageNumber="115019" rowspan="1">114.53</td>
+<td id="75FB8AD2A97904AC4C12D0AD97667B7D" colspan="1" pageId="0" pageNumber="115019" rowspan="1">39.57</td>
+</tr>
+<tr id="247DE75F00229D21DE8B94119E364CD1" pageId="0" pageNumber="115019">
+<td id="970290DD25B82159AD13E0AD6CE718C4" colspan="1" isEmpty="true" pageId="0" pageNumber="115019" rowspan="1">-</td>
+<td id="97E7672D343C6B79FB79D3A28232F4B9" colspan="1" pageId="0" pageNumber="115019" rowspan="1">Minimum</td>
+<td id="1CEAEC9739BBE277E831F94B0363E7B4" colspan="1" pageId="0" pageNumber="115019" rowspan="1">78.49</td>
+<td id="2FA3B49D0E560454B16AE65B7A70F10F" colspan="1" pageId="0" pageNumber="115019" rowspan="1">26.28</td>
+<td id="0BE36B412D7446E0F02F44565550CC4A" colspan="1" pageId="0" pageNumber="115019" rowspan="1">11.12</td>
+</tr>
+<tr id="266CDB5936E1C18CF13C568C1586343B" pageId="0" pageNumber="115019">
+<td id="EAA7E1B0D2DC0C3BF342B80058E3B51E" colspan="1" isEmpty="true" pageId="0" pageNumber="115019" rowspan="2">-</td>
+<td id="626469F85253A0147ABCF5E426FAD22E" colspan="1" pageId="0" pageNumber="115019" rowspan="1">
+Mean 
+<normalizedToken id="C8AA918A0EA86CC7381D28917BD54293" originalValue="±">+/-</normalizedToken>
+SD
+</td>
+<td id="A6B769EB8AD5D0C61B9BB59138E260CD" colspan="1" pageId="0" pageNumber="115019" rowspan="1">
+136.89 
+<normalizedToken id="CDAE111EB8AE5C5C2F27EB6C95F10773" originalValue="±">+/-</normalizedToken>
+32.95
+</td>
+<td id="ED794E0C1BF625C6116B483343208077" colspan="1" pageId="0" pageNumber="115019" rowspan="1">
+69.01 
+<normalizedToken id="02F1508E10393CC38A7FE5BBBEF04EA3" originalValue="±">+/-</normalizedToken>
+18.63
+</td>
+<td id="431E72EC822A746EBEAEE97DA3E083EE" colspan="1" pageId="0" pageNumber="115019" rowspan="1">
+27.85 
+<normalizedToken id="1ED99B423F5CE0DDA4BC18FD79FEE90E" originalValue="±">+/-</normalizedToken>
+8.17
+</td>
+</tr>
+<tr id="84C214E7195D9D0AB4906A2639E57565" pageId="0" pageNumber="115019">
+<td id="FAB597A977BB363E3442B20092CB9C9D" colspan="1" pageId="0" pageNumber="115019" rowspan="1">Coefficient of Variation</td>
+<td id="07E826145782C34D338558F2117A9335" colspan="1" pageId="0" pageNumber="115019" rowspan="1">24.07％</td>
+<td id="BEF1723B9CC64B27CE44911F27F4009B" colspan="1" pageId="0" pageNumber="115019" rowspan="1">26.99％</td>
+<td id="D198CC85E2804751B74BBFF941DF0C65" colspan="1" pageId="0" pageNumber="115019" rowspan="1">29.32％</td>
+</tr>
+</table>
+</paragraph>
+<supplement id="3C28E04D6059EB0DAA5F6F268768F304" ID-arpha="4BE54287-38B2-59D7-8D86-88F19DF9B4BF" ID-doi="10.3897/fmj.4.99103.suppl1" httpUri="https://binary.pensoft.net/file/923793" pageId="0" pageNumber="115019">
+<paragraph id="916852E2C28CE100BE5E09FB3A0C4085" pageId="0" pageNumber="115019">Supplementary material 1 Morph data of two oysters Data type</paragraph>
+<paragraph id="41E72371E8F9B4481A65B15A325DEE0D" pageId="0" pageNumber="115019">Morphological data</paragraph>
+<paragraph id="CC6C6DB436E5113B5651B297C9B8CE94" pageId="0" pageNumber="115019">File: oo_923793.xlsx</paragraph>
+<paragraph id="03D13BE8BC19A6CF27F5EE7D39D63D50" pageId="0" pageNumber="115019">Ying Tian</paragraph>
+</supplement>
+<supplement id="01DBDA3AAEF76D1F800F728E6A249184" ID-arpha="19588EB0-0677-5C1F-BB23-1313144E6906" ID-doi="10.3897/fmj.4.99103.suppl2" httpUri="https://binary.pensoft.net/file/923780" pageId="0" pageNumber="115019">
+<paragraph id="429122B1548A5C8A01A046E520C66E41" pageId="0" pageNumber="115019">Supplementary material 2 The entire sequence of two groups of oysters Data type</paragraph>
+<paragraph id="D6A9101D1D3F68B41B18A593A30594E6" pageId="0" pageNumber="115019">16S rDNA sequence</paragraph>
+<paragraph id="FCEC19C3DF3693A5EE6BF6F6B8A789F1" pageId="0" pageNumber="115019">Brief description</paragraph>
+<paragraph id="B179EFA5641440582AA84896D12657FC" pageId="0" pageNumber="115019">
+No1-No.3 are 
+<taxonomicName id="A78F1CEAA0B6272620E686F8DC619212" baseAuthorityName="Fujita" baseAuthorityYear="1913" class="Bivalvia" family="Ostreidae" genus="Crassostrea" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Crassostrea ariakensis" order="Pterioida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="species" species="ariakensis">
+<emphasis id="E49719608A515091F790C903759A6FB2" italics="true" pageId="0" pageNumber="115019">Crassostrea ariakensis</emphasis>
+</taxonomicName>
+sequence No.4-No.6 are 
+<taxonomicName id="D169A47BA351A8326A7C8E83054FD24D" baseAuthorityName="Thunberg" baseAuthorityYear="1793" class="Bivalvia" family="Ostreidae" genus="Crassostrea" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Crassostrea gigas" order="Pterioida" pageId="0" pageNumber="115019" phylum="Mollusca" rank="species" species="gigas">
+<emphasis id="DA880AC8B6A4ED2373689DF8877B1E7B" italics="true" pageId="0" pageNumber="115019">Crassostrea gigas</emphasis>
+</taxonomicName>
+sequence.
+</paragraph>
+<paragraph id="F9E176CBC861F3EAE66492CF9EF5AEFA" pageId="0" pageNumber="115019">File: oo_923780.zip</paragraph>
+<paragraph id="9068C237BBDEB04B6603B1D562DAEFB8" pageId="0" pageNumber="115019">Ying Tian</paragraph>
+</supplement>
+<supplement id="328A57DE7B60BE21268964C0823EF316" ID-arpha="5520EF6D-F61E-53F4-8C9B-16DE493AE1DC" ID-doi="10.3897/BDJ.12.e115019.suppl3" httpUri="https://binary.pensoft.net/file/923794" pageId="0" pageNumber="115019">
+<paragraph id="1A623176BC3733AD48CCEDBAB9F43A40" pageId="0" pageNumber="115019">Supplementary material 3 GM data Data type</paragraph>
+<paragraph id="9002772758FAAF590974718C99E4390D" pageId="0" pageNumber="115019">morphological data</paragraph>
+<paragraph id="5858DAF5EB941BB7CDC44AAD9E1FDE2A" pageId="0" pageNumber="115019">Brief description</paragraph>
+<paragraph id="15BAC332662E1B7F4B5A3CE9E0464CDA" pageId="0" pageNumber="115019">Landmark data for two groups of oysters.</paragraph>
+<paragraph id="A7D51A1F7690920A32D56C48B382E8F8" pageId="0" pageNumber="115019">File: oo_923794.xlsx</paragraph>
+<paragraph id="5640B097C69D3CFAD35859AF57AFB5C2" pageId="0" pageNumber="115019">Ying Tian</paragraph>
+</supplement>
+</subSection>
+</document>

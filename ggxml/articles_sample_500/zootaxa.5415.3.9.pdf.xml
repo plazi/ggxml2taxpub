@@ -1,0 +1,1633 @@
+<document id="CD1AF88BE3ACE760397BF3ACF5918852" ID-CLB-Dataset="289254" ID-DOI="10.11646/zootaxa.5415.3.9" ID-GBIF-Dataset="003b9cc4-15b7-444a-a58a-e4f3f76fc4a5" ID-ISSN="1175-5326" ID-Zenodo-Dep="10693447" ID-ZooBank="CD0B45D9-6AB4-4359-9E30-F3955B51A88F" IM.bibliography_approvedBy="tatiana" IM.illustrations_approvedBy="felipe" IM.materialsCitations_approvedBy="tatiana" IM.metadata_approvedBy="felipe" IM.taxonomicNames_approvedBy="felipe" IM.treatments_approvedBy="tatiana" checkinTime="1708606136625" checkinUser="plazi" docAuthor="Simonsen, Sj. &amp; S.Brucearchibald &amp; Na.Rasmussen &amp; Él.Sylvestersen &amp; Olsen, Kent &amp; Ware, Jessica L." docDate="2024" docId="2627FF912643FF823A2CBA17FFCCFFD7" docName="zootaxa.5415.3.9.pdf" docOrigin="Zootaxa 5415 (3)" docSource="http://dx.doi.org/10.11646/zootaxa.5415.3.9" docStyle="DocumentStyle:647186512141C8FC8976D5BCC54AEB7D.9:Zootaxa.2013-.journal_article" docStyleId="647186512141C8FC8976D5BCC54AEB7D" docStyleName="Zootaxa.2013-.journal_article" docStyleVersion="9" docTitle="Stolleagrion foghnielseni (Odonata, Cephalozygoptera, Dysagrionidae) gen. et sp. nov.: a new odonatan from the PETM recovery phase of the earliest Ypresian Fur Formation, Denmark" docVersion="5" lastPageNumber="498" pageNumber="493" updateTime="1708962152856" updateUser="ExternalLinkService" zenodo-license-document="CLOSED">
+<mods:mods id="23398521FD15144095F4426113C4F6D9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B57540F2F371488C361145EF1460488B">
+<mods:title id="D376723ED6DE019C952EA4F5539492A4">Stolleagrion foghnielseni (Odonata, Cephalozygoptera, Dysagrionidae) gen. et sp. nov.: a new odonatan from the PETM recovery phase of the earliest Ypresian Fur Formation, Denmark</mods:title>
+</mods:titleInfo>
+<mods:name id="75C17AD0219C539381C72E34719AABFD" type="personal">
+<mods:role id="C6938AE1C452063ACA2BE8D9CC8ACE73">
+<mods:roleTerm id="9E296C8E18185BEDE71BAC5D0E7AEB06">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C87BF5A6D55A13568C5A3437280BFE55">Simonsen, Sj.</mods:namePart>
+</mods:name>
+<mods:name id="FBDF7E1917D0DAEDBCC25951B2D4E107" type="personal">
+<mods:role id="16726AAE7024A05B51CDA08CF36036ED">
+<mods:roleTerm id="6E2574CFC421813D40AC3AC136A7EEDF">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="BDCFD98C466DA5D74947E7FD13423CAC">S.Brucearchibald</mods:namePart>
+<mods:affiliation id="7FB5032E1F2BF9B825E1ECF42AC1159A">Beaty Biodiversity Museum, University of British Columbia, Vancouver, British Columbia, Canada. &amp; Museum of Comparative Zoology, 26 Oxford Street, Cambridge, Massachusetts, 02138, United States of America.</mods:affiliation>
+</mods:name>
+<mods:name id="544F91F67714896BC4206ED963DCFF45" type="personal">
+<mods:role id="6A4DE1D876DC47A98ABA172A3A6B6FE6">
+<mods:roleTerm id="BB194C5974EC1FAB3116D619AE5D1652">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="55606EE7FBCE858E3886F78D8F1B1F2E">Na.Rasmussen</mods:namePart>
+</mods:name>
+<mods:name id="DD5DAF368BD628F4A90584035D0BF431" type="personal">
+<mods:role id="E0EA109AFADE09434D8C13B8BF260170">
+<mods:roleTerm id="9B9B2E551D20EE364E76CFDC96D3C40F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4D66D853F28B32A5B2755AD41076C4C7">Él.Sylvestersen</mods:namePart>
+</mods:name>
+<mods:name id="548E60D3EC1FE2AE0120BDABAB68282C" type="personal">
+<mods:role id="D1EC22EBFD1A69ABFC1A464918492DA2">
+<mods:roleTerm id="BCB82AFA141B6F9C26477714F8DE4D53">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F1723358487A10F39AB2C60100EEA4BB">Olsen, Kent</mods:namePart>
+<mods:affiliation id="F59558F580734EE686FAEE48B3CC0881">Department of Research and Collections, Natural History Museum Aarhus, Wilhelm Meyers Allé 10, Aarhus, DK-8000 Aarhus C, Denmark.</mods:affiliation>
+</mods:name>
+<mods:name id="E02C04A694F071BC776D053EFE8861B7" type="personal">
+<mods:role id="15738753000A19B0853E58033AF0F3C3">
+<mods:roleTerm id="4A1AD049F387E66061665509BBD8C77F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="90E776614CFAEFEC291B69A5DF5CBF4F">Ware, Jessica L.</mods:namePart>
+<mods:affiliation id="0BAE05BE3D40C834EB05C92EC808C74D">Division of Invertebrate Zoology, American Museum of Natural History, NY, NY, 10024USA.</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="36F22555A1855DD8C686885A4A212BC0">text</mods:typeOfResource>
+<mods:relatedItem id="ADA1B081FC09E5EA98BF54D54E785F6D" type="host">
+<mods:titleInfo id="B0BD5251B351E4773D375658E8816299">
+<mods:title id="B4E3895ABE7A875C823973A4A1968AB0">Zootaxa</mods:title>
+</mods:titleInfo>
+<mods:part id="B6023C372DE2C9FA135F4B3207A5A1EF">
+<mods:date id="17B62FFC0F5143D2C6D5AC7F61B03593">2024</mods:date>
+<mods:detail id="6716C351055C1718EC47443C88D6704E" type="pubDate">
+<mods:number id="68EA49F489B42FB676997AD548D50E20">2024-02-22</mods:number>
+</mods:detail>
+<mods:detail id="7D9745D03A87E6661BC73A07573CCDCC" type="volume">
+<mods:number id="8A3A83F4C33A26C5D0886B88E4B2437A">5415</mods:number>
+</mods:detail>
+<mods:detail id="44BBD518E9176A9957B087ED081C1754" type="issue">
+<mods:number id="F6D4B26C04B637A7F7507A5EC7748A21">3</mods:number>
+</mods:detail>
+<mods:extent id="8A4DA0ECB93C50C1C81372B44EA39128" unit="page">
+<mods:start id="F6FE8E790AC276077D67FD16F8B4F9EE">493</mods:start>
+<mods:end id="F93FB5600D6C6372F765DB412C2ACD8E">498</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="4DE4CC264713B81B6986A8FDAF5C9ABD">
+<mods:url id="8EEE68AB857E93EB63984A68060964BC">http://dx.doi.org/10.11646/zootaxa.5415.3.9</mods:url>
+</mods:location>
+<mods:classification id="328787085B93049B948C802B9D9FB4CD">journal article</mods:classification>
+<mods:identifier id="E4384217F4559870B48E17B9669C4DD0" type="CLB-Dataset">289254</mods:identifier>
+<mods:identifier id="1C0015C3AFFFCE29B106C2C109E3B2EC" type="DOI">10.11646/zootaxa.5415.3.9</mods:identifier>
+<mods:identifier id="A2F808D34617E2EDB6929AEE46C716EA" type="GBIF-Dataset">003b9cc4-15b7-444a-a58a-e4f3f76fc4a5</mods:identifier>
+<mods:identifier id="A4D24223C836B63681C2B34857E539D6" type="ISSN">1175-5326</mods:identifier>
+<mods:identifier id="06D2C94E7F31DBE4EAA3743E075B7460" type="Zenodo-Dep">10693447</mods:identifier>
+<mods:identifier id="01EE00D602CF3CEFC04B05A3897F91B0" type="ZooBank">CD0B45D9-6AB4-4359-9E30-F3955B51A88F</mods:identifier>
+</mods:mods>
+<subSection id="3B382F142643FF823ABBBB75FCC8FB8F" _generate="added" pageId="0" pageNumber="493" type="multiple">
+<paragraph id="520836FF2643FF823ABBBB75FDFCFE08" blockId="0.[151,1429,354,479]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823ABBBB75FDFCFE08" bold="true" pageId="0" pageNumber="493">
+<docTitle id="17ADCF912643FF823ABBBB75FDFCFE08" pageId="0" pageNumber="493">
+<taxonomicName id="95B74D7C2643FF823ABBBB75FDD0FE53" _evidence="document" _step="nonLabeled1" authorityName="Simonsen &amp; S.Brucearchibald &amp; Na.Rasmussen &amp; Él.Sylvestersen &amp; Olsen &amp; Ware" authorityYear="2024" box="[151,540,354,388]" class="Insecta" family="Dysagrionidae" genus="Stolleagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="0" pageNumber="493" phylum="Arthropoda" rank="species" species="foghnielseni">
+<emphasis id="60C3EAED2643FF823ABBBB75FDD0FE53" bold="true" box="[151,540,354,388]" italics="true" pageId="0" pageNumber="493">Stolleagrion foghnielseni</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="95B74D7C2643FF82381CBB74FC39FE52" _authorityPlausibility="0.9043041" _evidence="catalogs" _step="order" authority=", Cephalozygoptera" authorityName="Cephalozygoptera" box="[560,1013,355,389]" class="Magnoliopsida" higherTaxonomySource="GBIF" kingdom="Plantae" order="Odonata" pageId="0" pageNumber="493" phylum="Tracheophyta" rank="order">Odonata, Cephalozygoptera</taxonomicName>
+, 
+<taxonomicName id="95B74D7C2643FF823E29BB74FB22FE52" _evidence="catalogs" _step="family" box="[1029,1262,355,389]" class="Insecta" family="Dysagrionidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="0" pageNumber="493" phylum="Arthropoda" rank="family">Dysagrionidae</taxonomicName>
+) gen. et sp. nov.: a new odonatan from the PETM recovery phase of the earliest Ypresian Fur Formation, 
+<collectingCountry id="2AA0766F2643FF823BB5BBA9FDFCFE08" box="[409,560,446,479]" name="Denmark" pageId="0" pageNumber="493">Denmark</collectingCountry>
+</docTitle>
+</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823AB4B81CFDA9FDEA" blockId="0.[151,1436,523,1112]" pageId="0" pageNumber="493">
+<docAuthor id="F9DF37722643FF823AB4B81CFE71FDF2" box="[152,445,523,550]" pageId="0" pageNumber="493">THOMAS J.SIMONSEN</docAuthor>
+<superScript id="A5C29BB72643FF823B92B81CFE1EFDCE" attach="right" box="[446,466,523,537]" fontSize="6" pageId="0" pageNumber="493">
+1, 
+<emphasis id="60C3EAED2643FF823BE6B81CFE1EFDCE" bold="true" box="[458,466,523,537]" pageId="0" pageNumber="493">*</emphasis>
+</superScript>
+, 
+<docAuthor id="F9DF37722643FF823BF0B81CFCCCFDF2" box="[476,768,523,549]" pageId="0" pageNumber="493">S.BRUCEARCHIBALD</docAuthor>
+<superScript id="A5C29BB72643FF82392CB81CFCEDFDCE" attach="left" box="[768,801,523,537]" fontSize="6" pageId="0" pageNumber="493">2,3,*</superScript>
+, 
+<docAuthor id="F9DF37722643FF823906B81CFBE0FDF2" box="[810,1068,523,549]" pageId="0" pageNumber="493">JANA.RASMUSSEN</docAuthor>
+<superScript id="A5C29BB72643FF823E01B81CFB8DFDCE" attach="right" box="[1069,1089,523,537]" fontSize="6" pageId="0" pageNumber="493">4,5</superScript>
+, 
+<docAuthor id="F9DF37722643FF823E66B81AFA41FDF2" box="[1098,1421,523,552]" pageId="0" pageNumber="493">RENÉ L.SYLVESTERSEN</docAuthor>
+<superScript id="A5C29BB72643FF823FA1B81CFA59FDCE" attach="left" box="[1421,1429,523,537]" fontSize="6" pageId="0" pageNumber="493">6</superScript>
+, 
+<docAuthor id="F9DF37722643FF823AB4B827FE85FD9E" box="[152,329,559,586]" pageId="0" pageNumber="493">KENT OLSEN</docAuthor>
+<superScript id="A5C29BB72643FF823B66B838FE9EFDEA" attach="left" box="[330,338,559,573]" fontSize="6" pageId="0" pageNumber="493">7</superScript>
+&amp; 
+<docAuthor id="F9DF37722643FF823B5AB838FD90FD9E" box="[374,604,559,586]" pageId="0" pageNumber="493">JESSICA L. WARE</docAuthor>
+<superScript id="A5C29BB72643FF823871B838FDA9FDEA" attach="left" box="[605,613,559,573]" fontSize="6" pageId="0" pageNumber="493">8</superScript>
+</paragraph>
+<paragraph id="520836FF2643FF823ABBB847FF34FD54" blockId="0.[151,1436,523,1112]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823ABBB847FF34FD54" italics="true" pageId="0" pageNumber="493">
+<superScript id="A5C29BB72643FF823ABBB847FF52FD8B" attach="right" box="[151,158,592,604]" fontSize="5" pageId="0" pageNumber="493">1</superScript>
+<docAuthorAffiliation id="4AA8F99C2643FF823AB2B846FF34FD54" pageId="0" pageNumber="493">
+Department of Research and Collections, Natural History Museum Aarhus, Wilhelm Meyers Allé 10, Aarhus, DK-8000 Aarhus C, 
+<collectingCountry id="2AA0766F2643FF823ABBB879FF38FD54" box="[151,244,622,643]" name="Denmark" pageId="0" pageNumber="493">Denmark</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823ABBB89DFBDEFD77" blockId="0.[151,1436,523,1112]" box="[151,1042,650,672]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823ABBB89DFEBFFD77" box="[151,371,650,672]" italics="true" pageId="0" pageNumber="493">
+<superScript id="A5C29BB72643FF823ABBB89DFF52FD41" attach="right" box="[151,158,650,662]" fontSize="5" pageId="0" pageNumber="493">*</superScript>
+corresponding author,
+</emphasis>
+Ễ 
+<emphasis id="60C3EAED2643FF823BBBB89CFBDEFD77" box="[407,1042,651,672]" italics="true" pageId="0" pageNumber="493">t.simonsen@nathist.dk; https://orcid.org/0000-0001-9857-9564</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823ABBB8BFFB97FD6A" blockId="0.[151,1436,523,1112]" box="[151,1115,680,702]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823ABBB8BFFB97FD6A" box="[151,1115,680,702]" italics="true" pageId="0" pageNumber="493">
+<superScript id="A5C29BB72643FF823ABBB8BFFF52FD63" attach="right" box="[151,158,680,692]" fontSize="5" pageId="0" pageNumber="493">2</superScript>
+<docAuthorAffiliation id="4AA8F99C2643FF823AB2B8BEFB97FD6A" box="[158,1115,680,702]" pageId="0" pageNumber="493">
+Beaty Biodiversity Museum, University of 
+<collectingRegion id="9073F81D2643FF823819B8BFFD11FD6A" box="[565,733,680,701]" country="Canada" name="British Columbia" pageId="0" pageNumber="493">British Columbia</collectingRegion>
+, Vancouver, 
+<collectingRegion id="9073F81D2643FF823979B8BFFC32FD6A" box="[853,1022,680,701]" country="Canada" name="British Columbia" pageId="0" pageNumber="493">British Columbia</collectingRegion>
+, 
+<collectingCountry id="2AA0766F2643FF823E2BB8BFFB9AFD6A" box="[1031,1110,680,701]" name="Canada" pageId="0" pageNumber="493">Canada</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823A99B8D1FDFDFD0C" blockId="0.[151,1436,523,1112]" box="[181,561,710,731]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823A99B8D1FDFDFD0C" box="[181,561,710,731]" italics="true" pageId="0" pageNumber="493">https://orcid.org/0000-0002-4397-2497</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823ABBB8F5FB28FD2F" blockId="0.[151,1436,523,1112]" box="[151,1252,738,761]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823ABBB8F5FB28FD2F" box="[151,1252,738,761]" italics="true" pageId="0" pageNumber="493">
+<superScript id="A5C29BB72643FF823ABBB8F5FF52FD39" attach="right" box="[151,158,738,750]" fontSize="5" pageId="0" pageNumber="493">3</superScript>
+<docAuthorAffiliation id="4AA8F99C2643FF823AB2B8F3FB28FD2F" box="[158,1252,739,761]" pageId="0" pageNumber="493">
+Museum of Comparative Zoology, 26 Oxford Street, Cambridge, 
+<collectingRegion id="9073F81D2643FF823921B8F4FC57FD2F" box="[781,923,739,760]" country="United States of America" name="Massachusetts" pageId="0" pageNumber="493">Massachusetts</collectingRegion>
+, 02138, 
+<collectingCountry id="2AA0766F2643FF8239C1B8F4FB2CFD2F" box="[1005,1248,739,760]" name="United States of America" pageId="0" pageNumber="493">United States of America</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823ABBB917FDE8FCC2" blockId="0.[151,1436,523,1112]" box="[151,548,768,789]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823ABBB917FEB4FCC2" box="[151,376,768,789]" italics="true" pageId="0" pageNumber="493">*corresponding author,</emphasis>
+Ễ 
+<emphasis id="60C3EAED2643FF823BB0B917FDE8FCC2" box="[412,548,768,789]" italics="true" pageId="0" pageNumber="493">sba48@sfu.ca</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823ABBB90AFCF0FCE4" blockId="0.[151,1436,523,1112]" box="[151,828,797,819]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823ABBB90AFCF0FCE4" box="[151,828,797,819]" italics="true" pageId="0" pageNumber="493">
+<superScript id="A5C29BB72643FF823ABBB90AFF52FCFE" attach="right" box="[151,158,797,809]" fontSize="5" pageId="0" pageNumber="493">4</superScript>
+Museum Mors, Skarrehagevej 8, DK-7950 NykØbing Mors, 
+<collectingCountry id="2AA0766F2643FF8238F0B909FCF5FCE4" box="[732,825,798,819]" name="Denmark" pageId="0" pageNumber="493">Denmark</collectingCountry>
+.
+</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823A99B92CFDFDFC87" blockId="0.[151,1436,523,1112]" box="[181,561,827,848]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823A99B92CFDFDFC87" box="[181,561,827,848]" italics="true" pageId="0" pageNumber="493">https://orcid.org/0000-0003-0520-9148</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823ABBB94FFBF8FCBA" blockId="0.[151,1436,523,1112]" box="[151,1076,855,878]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823ABBB94FFBF8FCBA" box="[151,1076,855,878]" italics="true" pageId="0" pageNumber="493">
+<superScript id="A5C29BB72643FF823ABBB94FFF52FCB3" attach="right" box="[151,158,856,868]" fontSize="5" pageId="0" pageNumber="493">5</superScript>
+Natural History Museum of 
+<collectingCountry id="2AA0766F2643FF823B81B94FFDC5FCBA" box="[429,521,856,877]" name="Denmark" pageId="0" pageNumber="493">Denmark</collectingCountry>
+, Øster Voldgade 5-7, DK-1350 Copenhagen K, 
+<collectingCountry id="2AA0766F2643FF8239FFB94FFBFCFCBA" box="[979,1072,856,877]" name="Denmark" pageId="0" pageNumber="493">Denmark</collectingCountry>
+.
+</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823A8CB961FE3BFC5C" blockId="0.[151,1436,523,1112]" box="[160,503,886,907]" pageId="0" pageNumber="493">
+Ễ 
+<emphasis id="60C3EAED2643FF823A90B961FE3BFC5C" box="[188,503,886,907]" italics="true" pageId="0" pageNumber="493">jan.rasmussen@museummors.dk</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823ABBB985FD42FC7F" blockId="0.[151,1436,523,1112]" box="[151,654,914,937]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823ABBB985FD42FC7F" box="[151,654,914,937]" italics="true" pageId="0" pageNumber="493">
+<superScript id="A5C29BB72643FF823ABBB985FF52FC49" attach="right" box="[151,158,914,926]" fontSize="5" pageId="0" pageNumber="493">6</superScript>
+Fur Museum, Nederby 28, DK-7884 Fur, 
+<collectingCountry id="2AA0766F2643FF823801B984FD46FC7F" box="[557,650,915,936]" name="Denmark" pageId="0" pageNumber="493">Denmark</collectingCountry>
+.
+</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823A8CB9A6FC99FC12" blockId="0.[151,1436,523,1112]" box="[160,853,944,965]" pageId="0" pageNumber="493">
+Ễ 
+<emphasis id="60C3EAED2643FF823A90B9A7FC99FC12" box="[188,853,944,965]" italics="true" pageId="0" pageNumber="493">RLSY@museumsalling.dk; https://orcid.org/0000-0002-1946-4716</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823ABBB9DAFF34FBD7" blockId="0.[151,1436,523,1112]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823ABBB9DAFF34FBD7" italics="true" pageId="0" pageNumber="493">
+<superScript id="A5C29BB72643FF823ABBB9DAFF52FC0E" attach="right" box="[151,158,973,985]" fontSize="5" pageId="0" pageNumber="493">7</superScript>
+Department of Research and Collections, Natural History Museum Aarhus, Wilhelm Meyers Allé 10, Aarhus, DK-8000 Aarhus C, 
+<collectingCountry id="2AA0766F2643FF823ABBB9FCFF38FBD7" box="[151,244,1003,1024]" name="Denmark" pageId="0" pageNumber="493">Denmark</collectingCountry>
+.
+</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823A8CBE1EFCCAFBCA" blockId="0.[151,1436,523,1112]" box="[160,774,1032,1053]" pageId="0" pageNumber="493">
+Ễ 
+<emphasis id="60C3EAED2643FF823A90BE1FFCCAFBCA" box="[188,774,1032,1053]" italics="true" pageId="0" pageNumber="493">kent@molslab.dk; https://orcid.org/0000-0002-5624-128X</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823ABBBE32FBD4FBEC" blockId="0.[151,1436,523,1112]" box="[151,1048,1061,1083]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823ABBBE32FBD4FBEC" box="[151,1048,1061,1083]" italics="true" pageId="0" pageNumber="493">
+<superScript id="A5C29BB72643FF823ABBBE32FF52FBE6" attach="right" box="[151,158,1061,1073]" fontSize="5" pageId="0" pageNumber="493">8</superScript>
+<docAuthorAffiliation id="4AA8F99C2643FF823AB2BE31FBD4FBEC" box="[158,1048,1062,1083]" pageId="0" pageNumber="493">
+Division of Invertebrate Zoology, American Museum of Natural History, NY, NY, 10024 
+<collectingCountry id="2AA0766F2643FF8239C4BE31FBD8FBEC" box="[1000,1044,1062,1083]" name="United States of America" pageId="0" pageNumber="493">USA</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="520836FF2643FF823A8CBE54FCC8FB8F" blockId="0.[151,1436,523,1112]" box="[160,772,1091,1112]" pageId="0" pageNumber="493">
+Ễ 
+<emphasis id="60C3EAED2643FF823A90BE54FCC8FB8F" box="[188,772,1091,1112]" italics="true" pageId="0" pageNumber="493">jware@amnh.org; https://orcid.org/0000-0002-4066-7681</emphasis>
+</paragraph>
+</subSection>
+<subSection id="3B382F142643FF823ABBBEB7FC97FA49" _generate="added" pageId="0" pageNumber="493" type="abstract">
+<paragraph id="520836FF2643FF823ABBBEB7FEC8FB6D" blockId="0.[151,260,1184,1210]" box="[151,260,1184,1210]" pageId="0" pageNumber="493">
+<heading id="094081932643FF823ABBBEB7FEC8FB6D" bold="true" box="[151,260,1184,1210]" fontSize="11" level="1" pageId="0" pageNumber="493" reason="1">
+<emphasis id="60C3EAED2643FF823ABBBEB7FEC8FB6D" bold="true" box="[151,260,1184,1210]" pageId="0" pageNumber="493">Abstract</emphasis>
+</heading>
+</paragraph>
+<paragraph id="520836FF2643FF823ABBBEF0FC97FA49" blockId="0.[151,1437,1254,1438]" pageId="0" pageNumber="493">
+We describe the new genus and species 
+<taxonomicName id="95B74D7C2643FF823869BEF1FC9EFB29" _evidence="statusLabel+fontStyle" _step="newSpecies" authority="Simonsen &amp; S.Brucearchibald &amp; Na.Rasmussen &amp; Él.Sylvestersen &amp; Olsen &amp; Ware, 2024" authorityName="Simonsen &amp; S.Brucearchibald &amp; Na.Rasmussen &amp; Él.Sylvestersen &amp; Olsen &amp; Ware" authorityYear="2024" box="[581,850,1254,1278]" class="Insecta" family="Dysagrionidae" genus="Stolleagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="0" pageNumber="493" phylum="Arthropoda" rank="species" species="foghnielseni" status="n. gen. et sp.">
+<emphasis id="60C3EAED2643FF823869BEF1FC9EFB29" box="[581,850,1254,1278]" italics="true" pageId="0" pageNumber="493">Stolleagrion foghnielseni</emphasis>
+</taxonomicName>
+<emphasis id="60C3EAED2643FF823975BEF0FC24FB28" bold="true" box="[857,1000,1255,1279]" pageId="0" pageNumber="493">
+<taxonomicNameLabel id="7BF057962643FF823975BEF0FC24FB28" box="[857,1000,1255,1279]" pageId="0" pageNumber="493" rank="species">n. gen. et sp.</taxonomicNameLabel>
+</emphasis>
+from the Fur Formation in northwestern 
+<collectingCountry id="2AA0766F2643FF823ABBBF11FF36FAC9" box="[151,250,1286,1310]" name="Denmark" pageId="0" pageNumber="493">Denmark</collectingCountry>
+based on a single fossil wing. This is the first odonatan described from the earliest part of the PETM recovery phase of the early Eocene.A combination of nine wing character states are considered to be diagnostic of the 
+<taxonomicName id="95B74D7C2643FF823F2DBF31FF3FFA89" _authorityPlausibility="0.99844134" _evidence="catalogs" _step="family" authority="Cockrell" authorityName="Cockrell" class="Insecta" family="Dysagrionidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="0" pageNumber="493" phylum="Arthropoda" rank="family">Dysagrionidae Cockrell</taxonomicName>
+only together with the cephalozygopteran head; however, the combination of these nine plus the presence of Ax0 is also diagnostic without the head. By this, we assign 
+<taxonomicName id="95B74D7C2643FF8238C2BF71FC30FAA9" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Simonsen &amp; S.Brucearchibald &amp; Na.Rasmussen &amp; Él.Sylvestersen &amp; Olsen &amp; Ware" authorityYear="2024" box="[750,1020,1382,1406]" class="Insecta" family="Dysagrionidae" genus="Stolleagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="0" pageNumber="493" phylum="Arthropoda" rank="species" species="foghnielseni">
+<emphasis id="60C3EAED2643FF8238C2BF71FC30FAA9" box="[750,1020,1382,1406]" italics="true" pageId="0" pageNumber="493">Stolleagrion foghnielseni</emphasis>
+</taxonomicName>
+to the 
+<taxonomicName id="95B74D7C2643FF823E67BF71FB2BFAA9" _evidence="catalogs" _step="family" box="[1099,1255,1382,1406]" class="Insecta" family="Dysagrionidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="0" pageNumber="493" phylum="Arthropoda" rank="family">Dysagrionidae</taxonomicName>
+and reassess the position of other odonates previously treated as 
+<emphasis id="60C3EAED2643FF8238BBBF91FD66FA49" box="[663,682,1414,1438]" italics="true" pageId="0" pageNumber="493">cf</emphasis>
+. 
+<taxonomicName id="95B74D7C2643FF82389BBF91FC9AFA49" _evidence="catalogs" _step="family" box="[695,854,1414,1438]" class="Insecta" family="Dysagrionidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="0" pageNumber="493" phylum="Arthropoda" rank="family">Dysagrionidae</taxonomicName>
+.
+</paragraph>
+</subSection>
+<subSection id="3B382F142643FF823ABBBFD0FB1DFA08" _generate="added" box="[151,1233,1478,1503]" pageId="0" pageNumber="493" type="key_words">
+<paragraph id="520836FF2643FF823ABBBFD0FB1DFA08" blockId="0.[151,1233,1478,1503]" box="[151,1233,1478,1503]" pageId="0" pageNumber="493">
+<emphasis id="60C3EAED2643FF823ABBBFD0FED6FA08" bold="true" box="[151,282,1479,1503]" pageId="0" pageNumber="493">Key words:</emphasis>
+<taxonomicName id="95B74D7C2643FF823B0DBFD1FD82FA09" _authorityPlausibility="0.9043041" _evidence="catalogs" _step="order" authority=", Cephalozygoptera" authorityName="Cephalozygoptera" box="[289,590,1478,1502]" class="Magnoliopsida" higherTaxonomySource="GBIF" kingdom="Plantae" order="Odonata" pageId="0" pageNumber="493" phylum="Tracheophyta" rank="order">
+<keyWord id="E9416D982643FF823B0DBFD1FEB2FA09" box="[289,382,1478,1502]" pageId="0" pageNumber="493">Odonata</keyWord>
+, 
+<keyWord id="E9416D982643FF823BA5BFD1FD82FA09" box="[393,590,1478,1502]" pageId="0" pageNumber="493">Cephalozygoptera</keyWord>
+</taxonomicName>
+, 
+<taxonomicName id="95B74D7C2643FF823874BFD1FC3CFA09" _authorityPlausibility="0.7372219" _evidence="catalogs" _step="family" authority=", Fur Formation, PETM" authorityName="Fur Formation, PETM" box="[600,1008,1478,1502]" class="Insecta" family="Dysagrionidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="0" pageNumber="493" phylum="Arthropoda" rank="family">
+<keyWord id="E9416D982643FF823874BFD1FD3AFA09" box="[600,758,1478,1502]" pageId="0" pageNumber="493">Dysagrionidae</keyWord>
+, 
+<keyWord id="E9416D982643FF82392DBFD0FC53FA09" box="[769,927,1478,1502]" pageId="0" pageNumber="493">Fur Formation</keyWord>
+, 
+<keyWord id="E9416D982643FF823985BFD0FC3CFA09" box="[937,1008,1479,1502]" pageId="0" pageNumber="493">PETM</keyWord>
+</taxonomicName>
+recovery phase, 
+<keyWord id="E9416D982643FF823E8FBFD0FB08FA08" box="[1187,1220,1479,1503]" pageId="0" pageNumber="493">Ax</keyWord>
+0
+</paragraph>
+</subSection>
+<subSection id="3B382F142643FF833ABBBC27FB13FF2E" _generate="added" lastPageId="1" lastPageNumber="494" pageId="0" pageNumber="493" type="introduction">
+<paragraph id="520836FF2643FF823ABBBC27FEFAF99D" blockId="0.[151,310,1584,1610]" box="[151,310,1584,1610]" pageId="0" pageNumber="493">
+<heading id="094081932643FF823ABBBC27FEFAF99D" bold="true" box="[151,310,1584,1610]" fontSize="11" level="1" pageId="0" pageNumber="493" reason="1">
+<emphasis id="60C3EAED2643FF823ABBBC27FEFAF99D" bold="true" box="[151,310,1584,1610]" pageId="0" pageNumber="493">Introduction</emphasis>
+</heading>
+</paragraph>
+<paragraph id="520836FF2643FF823ABBBC6EFB2EF8F4" blockId="0.[151,1437,1657,2043]" pageId="0" pageNumber="493">
+In the western part of the Limfjord area northwestern 
+<collectingCountry id="2AA0766F2643FF823923BC6EFCB6F944" box="[783,890,1657,1683]" name="Denmark" pageId="0" pageNumber="493">Denmark</collectingCountry>
+, the lowermost part of the Ypresian succession consists of the Fur Formation and the underlying Stolleklint clay of the Ølst Formation. Both formations are well known for their rich record of insect fossils (
+<emphasis id="60C3EAED2643FF8238A3BCD6FD7CF90D" box="[655,688,1729,1754]" italics="true" pageId="0" pageNumber="493">e.g</emphasis>
+., 
+<bibRefCitation id="36264B0E2643FF8238E9BCD6FCB7F90C" author="Henriksen, K." box="[709,891,1729,1755]" pageId="0" pageNumber="493" pagination="1 - 36" refId="ref3480" refString="Henriksen, K. (1922) Eocene insects from Denmark. Danmarks Geologiske UndersOgelser, II, Raekke 37, 1 - 36. https: // doi. org / 10.34194 / raekke 2. v 37.6823" type="journal article" year="1922">Henriksen 1922</bibRefCitation>
+, 
+<bibRefCitation id="36264B0E2643FF8239AABCD6FC30F90C" author="Rust, J." box="[902,1020,1729,1755]" pageId="0" pageNumber="493" refId="ref4257" refString="Rust, J. (1999) Biologie der Insekten aus dem altesten Tertiar Nordeuropas. Habilitationsschrift zur Erlangung der venia legendi fu ¨ r das Fach Zoologie. Postdoctoral thesis, Biologische Fakultat der Georg-August-Universitat Gottingen, Gottingen, Lower Saxony, 482 pp." type="book" year="1999">Rust 1999</bibRefCitation>
+, 
+<bibRefCitation id="36264B0E2643FF823E2BBCD6FAD7F90C" author="Petrulevicius, J. F. &amp; Wappler, T. &amp; Wedmann, S. &amp; Rust, J. &amp; Nel, A." box="[1031,1307,1729,1755]" pageId="0" pageNumber="493" pagination="1173 - 1181" refId="ref4126" refString="Petrulevicius, J. F., Wappler, T., Wedmann, S., Rust, J. &amp; Nel, A. (2008) New Megapodagrionid Damselflies (Odonata: Zygoptera) from the Paleogene of Europe. Journal of Paleontology, 82, 1173 - 1181. https: // doi. org / 10.1666 / 07 - 091.1" type="journal article" year="2008">
+Petrulevičius 
+<emphasis id="60C3EAED2643FF823E8DBCD6FB1EF90C" box="[1185,1234,1729,1755]" italics="true" pageId="0" pageNumber="493">et al</emphasis>
+. 2008
+</bibRefCitation>
+, 
+<bibRefCitation id="36264B0E2643FF823F0ABCD6FE9BF928" author="Madsen, H. &amp; Rasmussen, J. A." pageId="0" pageNumber="493" pagination="91 - 5" refId="ref3831" refString="Madsen, H. &amp; Rasmussen, J. A. (2021) Geologien fortaeller: Moler og Fossiler / What geology tells: The mo-clay and its fossils. Museum Mors, 103 pp. ISBN 87 - 87566 - 91 - 5." type="book chapter" year="2021">Madsen &amp; Rasmussen 2021</bibRefCitation>
+). Its 
+<taxonomicName id="95B74D7C2643FF823BA7BCF2FE26F928" _evidence="catalogs" _step="order" box="[395,490,1765,1791]" class="Magnoliopsida" higherTaxonomySource="GBIF" kingdom="Plantae" order="Odonata" pageId="0" pageNumber="493" phylum="Tracheophyta" rank="order">Odonata</taxonomicName>
+fauna has especially received attention in recent years (
+<emphasis id="60C3EAED2643FF823E7FBCF2FBB8F929" box="[1107,1140,1765,1790]" italics="true" pageId="0" pageNumber="493">e.g</emphasis>
+., 
+<bibRefCitation id="36264B0E2643FF823EA4BCF2FA54F928" author="Petrulevicius, J. F. &amp; Wappler, T. &amp; Wedmann, S. &amp; Rust, J. &amp; Nel, A." box="[1160,1432,1765,1791]" pageId="0" pageNumber="493" pagination="1173 - 1181" refId="ref4126" refString="Petrulevicius, J. F., Wappler, T., Wedmann, S., Rust, J. &amp; Nel, A. (2008) New Megapodagrionid Damselflies (Odonata: Zygoptera) from the Paleogene of Europe. Journal of Paleontology, 82, 1173 - 1181. https: // doi. org / 10.1666 / 07 - 091.1" type="journal article" year="2008">
+Petrulevičius 
+<emphasis id="60C3EAED2643FF823F0CBCF2FA9CF928" box="[1312,1360,1765,1791]" italics="true" pageId="0" pageNumber="493">et al</emphasis>
+. 2008
+</bibRefCitation>
+, 
+<bibRefCitation id="36264B0E2643FF823ABBBD1EFE80F8F4" author="Rust, J &amp; Petrulevicius, J. F. &amp; Nel, A." box="[151,332,1801,1827]" pageId="0" pageNumber="493" pagination="709 - 713" refId="ref4303" refString="Rust, J, Petrulevicius, J. F. &amp; Nel, A. (2008) The first damselflies from the lowermost Eocene of Denmark, with a description of a new subfamily (Odonata, Zygoptera, Dysagrionidae). Palaeontology, 51, 709 - 713. https: // doi. org / 10.1111 / j. 1475 - 4983.2008.00780. x" type="journal article" year="2008">
+Rust 
+<emphasis id="60C3EAED2643FF823AFEBD1EFECFF8F4" box="[210,259,1801,1827]" italics="true" pageId="0" pageNumber="493">et al</emphasis>
+. 2008
+</bibRefCitation>
+, 
+<bibRefCitation id="36264B0E2643FF823B7BBD1EFE2DF8F4" author="Zessin, W." box="[343,481,1801,1827]" pageId="0" pageNumber="493" pagination="64 - 73" refId="ref4667" refString="Zessin, W. (2011) Neue Insekten aus dem Moler (Palaozan / Eozan) von Danemark Teil 1 (Odonata: Epallagidae, Megapodagrioniidae), Virgo, Mitteilungsblatt des Entomologischen Vereins Mecklenburg, 14, 64 - 73." type="journal article" year="2011">Zessin 2011</bibRefCitation>
+, 
+<bibRefCitation id="36264B0E2643FF823BC0BD1EFD17F8F4" author="Simonsen, T. J. &amp; Archibald, S. B. &amp; Rasmussen, J. A. &amp; Sylvestersen, R. L. &amp; Olsen, K. &amp; Ware, J. L." box="[492,731,1801,1827]" pageId="0" pageNumber="493" pagination="586 - 592" refId="ref4430" refString="Simonsen, T. J., Archibald, S. B., Rasmussen, J. A., Sylvestersen, R. L., Olsen, K. &amp; Ware, J. L. (2022) Danowhetaksa gen. nov. with two species from the early Eocene Olst Formation from Denmark, the first Palearctic Whetwhetaksidae (Odonata: Cephalozygoptera). Zootaxa, 5099 (5), 586 - 592. https: // doi. org / 10.11646 / zootaxa. 5099.5.5" type="journal article" year="2022">
+Simonsen 
+<emphasis id="60C3EAED2643FF82384DBD1EFD5EF8F4" box="[609,658,1801,1827]" italics="true" pageId="0" pageNumber="493">et al</emphasis>
+. 2022
+</bibRefCitation>
+, 
+<bibRefCitation id="36264B0E2643FF8238C8BD1EFC1EF8F4" author="Archibald, S. B. &amp; Ware, J. L. &amp; Rasmussen, J. A. &amp; Sylvestersen, R. L. &amp; Olsen, K. &amp; Simonsen, T. J." box="[740,978,1801,1827]" pageId="0" pageNumber="493" pagination="289 - 317" refId="ref3135" refString="Archibald, S. B., Ware, J. L., Rasmussen, J. A., Sylvestersen, R. L., Olsen, K. &amp; Simonsen, T. J. (2023) The damselfly genus Furagrion Petrulevicius et al. (Odonata, Zygoptera) from the early Eocene Fur Formation of Denmark and the dysagrionid grade. Zootaxa, 5278 (2), 289 - 317. https: // doi. org / 10.11646 / zootaxa. 5278.2.4" type="journal article" year="2023">
+Archibald 
+<emphasis id="60C3EAED2643FF823977BD1EFC41F8F4" box="[859,909,1801,1827]" italics="true" pageId="0" pageNumber="493">et al</emphasis>
+. 2023
+</bibRefCitation>
+and references therein).
+</paragraph>
+<paragraph id="520836FF2643FF823AEBBD3AFD66F82C" blockId="0.[151,1437,1657,2043]" pageId="0" pageNumber="493">
+The Stolleklint clay and the Fur Formation not only represent slightly different times, but also very different paleoclimatic conditions (
+<bibRefCitation id="36264B0E2643FF823B93BD46FD7DF8BC" author="Pedersen, G. K. &amp; Pedersen, S. A. S. &amp; Bonde, N. &amp; Heilmann-Clausen, C. &amp; Larsen, L. M. &amp; Lindow, B. &amp; Madsen, H. &amp; Pedersen, A. K. &amp; Rust, J. &amp; Schultz, P. B. &amp; Storey, M. &amp; Willumsen, P. S." box="[447,689,1873,1899]" pageId="0" pageNumber="493" pagination="41 - 135" refId="ref4026" refString="Pedersen, G. K., Pedersen, S. A. S., Bonde, N., Heilmann-Clausen, C., Larsen, L. M., Lindow, B., Madsen, H., Pedersen, A. K., Rust, J., Schultz, P. B., Storey, M. &amp; Willumsen, P. S. (2012) Moleromradets geologi - sedimenter, fossiler, askelag og glacialtektonik. Geologisk Tidsskrift, 2011, 41 - 135. [in Danish]" type="journal article" year="2012">
+Pedersen 
+<emphasis id="60C3EAED2643FF82381CBD46FDA8F8BC" box="[560,612,1873,1899]" italics="true" pageId="0" pageNumber="493">et al</emphasis>
+. 2012
+</bibRefCitation>
+, 
+<bibRefCitation id="36264B0E2643FF823893BD46FBCAF8BC" author="Madsen, H. &amp; Rasmussen, J. A." box="[703,1030,1873,1899]" pageId="0" pageNumber="493" pagination="91 - 5" refId="ref3831" refString="Madsen, H. &amp; Rasmussen, J. A. (2021) Geologien fortaeller: Moler og Fossiler / What geology tells: The mo-clay and its fossils. Museum Mors, 103 pp. ISBN 87 - 87566 - 91 - 5." type="book chapter" year="2021">Madsen &amp; Rasmussen 2021</bibRefCitation>
+). Therefore, it seems reasonable to assume that these units preserved different communities. Within 
+<taxonomicName id="95B74D7C2643FF823976BD62FC70F858" _evidence="catalogs" _step="order" box="[858,956,1909,1935]" class="Magnoliopsida" higherTaxonomySource="GBIF" kingdom="Plantae" order="Odonata" pageId="0" pageNumber="493" phylum="Tracheophyta" rank="order">Odonata</taxonomicName>
+, the two fossils of 
+<taxonomicName id="95B74D7C2643FF823EAFBD62FF1CF864" _authorityPlausibility="0.99538726" _evidence="catalogs" _step="genera" authority="Simonsen et al." authorityName="Simonsen" class="Insecta" family="Whetwhetaksidae" genus="Danowhetaksa" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="0" pageNumber="493" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2643FF823EAFBD62FAE5F858" box="[1155,1321,1909,1935]" italics="true" pageId="0" pageNumber="493">Danowhetaksa</emphasis>
+Simonsen 
+<emphasis id="60C3EAED2643FF823ABBBD8EFF05F864" box="[151,201,1945,1971]" italics="true" pageId="0" pageNumber="493">et al</emphasis>
+.
+</taxonomicName>
+(two species: 
+<bibRefCitation id="36264B0E2643FF823B58BD8EFDA9F864" author="Simonsen, T. J. &amp; Archibald, S. B. &amp; Rasmussen, J. A. &amp; Sylvestersen, R. L. &amp; Olsen, K. &amp; Ware, J. L." box="[372,613,1945,1971]" pageId="0" pageNumber="493" pagination="586 - 592" refId="ref4430" refString="Simonsen, T. J., Archibald, S. B., Rasmussen, J. A., Sylvestersen, R. L., Olsen, K. &amp; Ware, J. L. (2022) Danowhetaksa gen. nov. with two species from the early Eocene Olst Formation from Denmark, the first Palearctic Whetwhetaksidae (Odonata: Cephalozygoptera). Zootaxa, 5099 (5), 586 - 592. https: // doi. org / 10.11646 / zootaxa. 5099.5.5" type="journal article" year="2022">
+Simonsen 
+<emphasis id="60C3EAED2643FF823BC6BD8EFDD0F864" box="[490,540,1945,1971]" italics="true" pageId="0" pageNumber="493">et al</emphasis>
+. 2022
+</bibRefCitation>
+) were found below ash layer - 
+<quantity id="954F9B1A2643FF823990BD8EFC34F864" box="[956,1016,1945,1971]" metricMagnitude="-1" metricUnit="m" metricValue="8.382" pageId="0" pageNumber="493" unit="in" value="33.0">33 in</quantity>
+the Stolleklint clay, while 
+<taxonomicName id="95B74D7C2643FF823F04BD8EFEA5F800" _authorityPlausibility="0.9947646" _evidence="catalogs" _step="genera" authority="Petrulevicius et al." authorityName="Petrulevicius" class="Insecta" family="Megapodagrionidae" genus="Furagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="0" pageNumber="493" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2643FF823F04BD8EFA51F865" box="[1320,1437,1945,1970]" italics="true" pageId="0" pageNumber="493">Furagrion</emphasis>
+Petrulevičius 
+<emphasis id="60C3EAED2643FF823B1CBDAAFEAEF800" box="[304,354,1981,2007]" italics="true" pageId="0" pageNumber="493">et al</emphasis>
+.
+</taxonomicName>
+is known from about twenty fossils (two species: 
+<bibRefCitation id="36264B0E2643FF8239B6BDAAFB47F800" author="Archibald, S. B. &amp; Ware, J. L. &amp; Rasmussen, J. A. &amp; Sylvestersen, R. L. &amp; Olsen, K. &amp; Simonsen, T. J." box="[922,1163,1981,2007]" pageId="0" pageNumber="493" pagination="289 - 317" refId="ref3135" refString="Archibald, S. B., Ware, J. L., Rasmussen, J. A., Sylvestersen, R. L., Olsen, K. &amp; Simonsen, T. J. (2023) The damselfly genus Furagrion Petrulevicius et al. (Odonata, Zygoptera) from the early Eocene Fur Formation of Denmark and the dysagrionid grade. Zootaxa, 5278 (2), 289 - 317. https: // doi. org / 10.11646 / zootaxa. 5278.2.4" type="journal article" year="2023">
+Archibald 
+<emphasis id="60C3EAED2643FF823E3DBDAAFB8FF800" box="[1041,1091,1981,2007]" italics="true" pageId="0" pageNumber="493">et al</emphasis>
+. 2023
+</bibRefCitation>
+) restricted to the middle Fur Formation between ash layers -15 and +30.
+</paragraph>
+<paragraph id="520836FF2642FF833AEBBA80FB13FF2E" blockId="1.[151,1436,151,249]" pageId="1" pageNumber="494">
+Here, we describe a new genus and species of 
+<taxonomicName id="95B74D7C2642FF8338E4BA80FCEBFF66" _evidence="catalogs" _step="order" box="[712,807,151,177]" class="Magnoliopsida" higherTaxonomySource="GBIF" kingdom="Plantae" order="Odonata" pageId="1" pageNumber="494" phylum="Tracheophyta" rank="order">Odonata</taxonomicName>
+from the PETM recovery phase in the lowermost part of the Fur Formation (
+<bibRefCitation id="36264B0E2642FF833B5FBAACFD8FFF02" author="Stokke, E. W. &amp; Jones, M. T. &amp; Tierney, J. E. &amp; Svensen, H. H. &amp; Whiteside, J. H." box="[371,579,187,213]" pageId="1" pageNumber="494" pagination="1 - 10" refId="ref4522" refString="Stokke, E. W., Jones, M. T., Tierney, J. E., Svensen, H. H. &amp; Whiteside, J. H. (2020) Temperature changes across the Paleocene-Eocene Thermal Maximum - anew high-resolution TEX 86 temperature record from the Eastern North Sea Basin. Earth and Planetary Science Letters, 544, 1 - 10. https: // doi. org / 10.1016 / j. epsl. 2020.116388" type="journal article" year="2020">
+Stokke 
+<emphasis id="60C3EAED2642FF833BE6BAACFE37FF02" box="[458,507,187,213]" italics="true" pageId="1" pageNumber="494">et al</emphasis>
+. 2020
+</bibRefCitation>
+) between ash layers -29 and -24 and treat it at the family and suborder level based on a reassessment of the diagnostic usefulness of the wing character states that it possesses.
+</paragraph>
+</subSection>
+<subSection id="3B382F142642FF833ABBBB5DFDF0FD7E" _generate="added" pageId="1" pageNumber="494" type="materials_methods">
+<paragraph id="520836FF2642FF833ABBBB5DFE60FEB2" blockId="1.[151,428,330,357]" box="[151,428,330,357]" pageId="1" pageNumber="494">
+<heading id="094081932642FF833ABBBB5DFE60FEB2" bold="true" box="[151,428,330,357]" fontSize="11" level="1" pageId="1" pageNumber="494" reason="1">
+<emphasis id="60C3EAED2642FF833ABBBB5DFE60FEB2" bold="true" box="[151,428,330,357]" pageId="1" pageNumber="494">Material and methods</emphasis>
+</heading>
+</paragraph>
+<paragraph id="520836FF2642FF833ABBBB84FCA6FE22" blockId="1.[151,1436,403,681]" pageId="1" pageNumber="494">
+We examine a single, nearly complete wing, part and counterpart, from a striated concretion block from the Fur Formation in northwest 
+<collectingCountry id="2AA0766F2642FF833B80BBA0FDD8FE06" box="[428,532,439,465]" name="Denmark" pageId="1" pageNumber="494">Denmark</collectingCountry>
+using a Wild Heerbrugg M5A stereomicroscope. The fossil was photographed with a Canon 5DII camera and a Canon EF 
+<quantity id="954F9B1A2642FF8338AEBBCCFD13FE22" box="[642,735,475,501]" metricMagnitude="-1" metricUnit="m" metricValue="1.0" pageId="1" pageNumber="494" unit="mm" value="100.0">100 mm</quantity>
+Macro lens.
+</paragraph>
+<paragraph id="520836FF2642FF833AEBBBE8FDF0FD7E" blockId="1.[151,1436,403,681]" pageId="1" pageNumber="494">
+Wing venation terminology follows 
+<bibRefCitation id="36264B0E2642FF833876BBE8FC82FDCE" author="Garrison, R. W. &amp; von Ellenrieder, N. &amp; Louton, J. A." box="[602,846,511,537]" pageId="1" pageNumber="494" refId="ref3279" refString="Garrison, R. W., von Ellenrieder, N. &amp; Louton, J. A. (2010) Damselfly genera of the New World: an illustrated and annotated key to the Zygoptera. Johns Hopkins University Press, Baltimore, Maryland, 490 pp." type="book" year="2010">
+Garrison 
+<emphasis id="60C3EAED2642FF8338EEBBE8FD36FDCE" box="[706,762,511,537]" italics="true" pageId="1" pageNumber="494">et al.</emphasis>
+(2010)
+</bibRefCitation>
+. We use the following abbreviations: A, anal vein; ar, arculus; Ax0, antenodal crossvein 0; Ax1, antenodal crossvein 1; Ax2, antenodal crossvein 2; 
+<collectionCodeDefinition id="96C976CF2642FF833E89B834FD50FDB6" pageId="1" pageNumber="494">
+<collectionCode id="34A6AE3A2642FF833E89B834FB11FDEA" box="[1189,1245,547,573]" pageId="1" pageNumber="494">CuA</collectionCode>
+, cubitus anterior; IR1, intercalary vein 1; IR2, intercalary vein 2
+</collectionCodeDefinition>
+; 
+<collectionCodeDefinition id="96C976CF2642FF83388BB850FC4BFDB6" box="[679,903,583,609]" pageId="1" pageNumber="494">
+<collectionCode id="34A6AE3A2642FF83388BB850FD1BFDB6" box="[679,727,583,609]" pageId="1" pageNumber="494">MA</collectionCode>
+, media anterior
+</collectionCodeDefinition>
+; 
+<collectionCodeDefinition id="96C976CF2642FF8339BEB850FDF4FD7E" pageId="1" pageNumber="494">
+<collectionCode id="34A6AE3A2642FF8339BEB850FC76FDB6" box="[914,954,583,609]" country="0" name="Mohonk Preserve, Inc." pageId="1" pageNumber="494">MP</collectionCode>
+, media posterior; n, nodus; pt, pterostigma; Q, quadrangle; RP1, radius posterior 1; RP2, radius posterior 2; RP3-4, radius posterior 3+4; sn, subnodus. By linear we mean that a vein is not zigzagged
+</collectionCodeDefinition>
+.
+</paragraph>
+</subSection>
+<subSection id="3B382F142642FF833ABBB8EDFD9FF936" _generate="added" pageId="1" pageNumber="494" type="multiple">
+<paragraph id="520836FF2642FF833ABBB8EDFEBAFCC3" blockId="1.[151,374,762,788]" box="[151,374,762,788]" pageId="1" pageNumber="494">
+<heading id="094081932642FF833ABBB8EDFEBAFCC3" bold="true" box="[151,374,762,788]" fontSize="11" level="1" pageId="1" pageNumber="494" reason="1">
+<emphasis id="60C3EAED2642FF833ABBB8EDFEBAFCC3" bold="true" box="[151,374,762,788]" pageId="1" pageNumber="494">Geological setting</emphasis>
+</heading>
+</paragraph>
+<paragraph id="520836FF2642FF833ABBB954FE44FB3E" blockId="1.[151,1437,835,1761]" pageId="1" pageNumber="494">
+The fossil was found at the Stolleklint outcrop situated on the north coast of Fur Island in the western Limfjord area of 
+<collectingCountry id="2AA0766F2642FF833A99B970FEEDFC56" box="[181,289,871,897]" name="Denmark" pageId="1" pageNumber="494">Denmark</collectingCountry>
+. This locality is dominated by the early Eocene (Ypresian) Stolleklint clay, an informal unit comprised of the lowermost Ølst Formation and the overlying clayey marine diatomite of the Fur Formation together spanning approximately 1.0–1.4 million years (
+<bibRefCitation id="36264B0E2642FF833819B9B8FD3FFC1E" author="Jones, M. T. &amp; Stokke, E. W. &amp; Rooney, A. D. &amp; Frieling, J. &amp; Pogge von Strandmann, P. A. E. &amp; Wilson, D. J. &amp; Svensen, H. H. &amp; Planke, S. &amp; Adatte, T. &amp; Thibault, N. &amp; Vickers, M. L. &amp; Mather, T. A. &amp; Tegner, C. &amp; Zuchuat, V. &amp; Schultz, B. P." box="[565,755,943,969]" pageId="1" pageNumber="494" pagination="1623 - 1652" refId="ref3624" refString="Jones, M. T., Stokke, E. W., Rooney, A. D., Frieling, J., Pogge von Strandmann, P. A. E., Wilson, D. J., Svensen, H. H., Planke, S., Adatte, T., Thibault, N., Vickers, M. L., Mather, T. A., Tegner, C., Zuchuat, V. &amp; Schultz, B. P. (2023) Tracing North Atlantic volcanism and seaway connectivity across the Paleocene - Eocene Thermal Maximum (PETM). Climate of the Past, 19, 1623 - 1652. https: // doi. org / 10.5194 / cp- 19 - 1623 - 2023" type="journal article" year="2023">
+Jones 
+<emphasis id="60C3EAED2642FF833856B9B8FD66FC1E" box="[634,682,943,969]" italics="true" pageId="1" pageNumber="494">et al</emphasis>
+. 2023
+</bibRefCitation>
+). Both units crop out in the western Limfjord area of 
+<collectingCountry id="2AA0766F2642FF833F18B9B8FA50FC1E" box="[1332,1436,943,969]" name="Denmark" pageId="1" pageNumber="494">Denmark</collectingCountry>
+and are especially common in beautifully exposed coastal cliffs on the islands of Fur and Mors (
+<bibRefCitation id="36264B0E2642FF833EEBB9C4FF1EFBC6" author="Pedersen, G. K. &amp; Surlyk, F." pageId="1" pageNumber="494" pagination="43 - 65" refId="ref3970" refString="Pedersen, G. K. &amp; Surlyk, F. (1983) The Fur Formation, a late Paleocene ash-bearing diatomite from northern Denmark. Bulletin of the Geological Society of Denmark, 32, 43 - 65. https: // doi. org / 10.37570 / bgsd- 1983 - 32 - 03" type="journal article" year="1983">Pedersen &amp; Surlyk 1983</bibRefCitation>
+, 
+<bibRefCitation id="36264B0E2642FF833AF1B9E0FE3FFBC6" author="Heilmann-Clausen, C." box="[221,499,1014,1041]" pageId="1" pageNumber="494" pagination="69 - 114" refId="ref3364" refString="Heilmann-Clausen, C. (1995) Palaeogene aflejringer over Danskekalken. In: Nielsen, O. B. (Ed.), Danmarks geologi fra Kridt til i dag. Aarhus Geokompendier 1. Geologisk Institut, Aarhus Universitet, Aarhus, pp. 69 - 114. [in Danish]" type="book chapter" year="1995">Heilmann-Clausen 1995</bibRefCitation>
+). The 
+<quantity id="954F9B1A2642FF833814B9E0FDBEFBC6" box="[568,626,1015,1041]" metricMagnitude="1" metricUnit="m" metricValue="6.0" pageId="1" pageNumber="494" unit="m" value="60.0">60 m</quantity>
+thick Fur Formation contains more than 200 distinct ash layers up to 
+<quantity id="954F9B1A2642FF833FACB9E0FF75FBE2" metricMagnitude="-1" metricUnit="m" metricValue="1.8" pageId="1" pageNumber="494" unit="cm" value="18.0">18 cm</quantity>
+thick, divided into a ‘negative’ (layers -39 to -1) and ‘positive’ ash series (layers +1 to +140) by 
+<bibRefCitation id="36264B0E2642FF833EC6BE0CFA55FBE2" author="Boggild, O. B." box="[1258,1433,1051,1077]" pageId="1" pageNumber="494" pagination="1 - 159" refId="ref3226" refString="Boggild, O. B. (1918) Den vulkanske aske i Moleret samt en oversigt over Danmarks aeldre Tertiaerbjergarter. Danmarks Geologiske UndersOgelser, II, Raekke, 33 (1), 1 - 159. https: // doi. org / 10.34194 / raekke 2. v 33.6818" type="journal article" year="1918">Bøggild (1918)</bibRefCitation>
+. They are interpreted as derived from explosive North Atlantic Igneous Province (NAIP) volcanism (
+<bibRefCitation id="36264B0E2642FF833F22BE28FF18FBAA" author="Larsen, L. &amp; Fitton, J. G. &amp; Pedersen, A. K." pageId="1" pageNumber="494" pagination="47 - 80" refId="ref3767" refString="Larsen, L. M, Fitton, J. G. &amp; Pedersen, A. K. (2003) Paleogene volcanic ash layers in the Danish Basin: composition and source areas in the North Atlantic Igneous Province. Lithos, 71, 47 - 80. https: // doi. org / 10.1016 / j. lithos. 2003.07.001" type="journal article" year="2003">
+Larsen 
+<emphasis id="60C3EAED2642FF833F4FBE28FA59FB8E" box="[1379,1429,1087,1113]" italics="true" pageId="1" pageNumber="494">et al</emphasis>
+. 2003
+</bibRefCitation>
+). The distinct 
+<emphasis id="60C3EAED2642FF833B5ABE74FE45FBAB" box="[374,393,1123,1148]" italics="true" pageId="1" pageNumber="494">c.</emphasis>
+<quantity id="954F9B1A2642FF833BBDBE74FE1BFBAA" box="[401,471,1123,1149]" metricMagnitude="-1" metricUnit="m" metricValue="1.4" pageId="1" pageNumber="494" unit="cm" value="14.0">14 cm</quantity>
+thick ash layer -33 is usually regarded as situated close to the boundary between the Fur and Ølst Formations in the Limfjord area (
+<bibRefCitation id="36264B0E2642FF83389CBE90FBC5FB76" author="Heilmann-Clausen, C. &amp; Nielsen, O. B. &amp; Gersner, P." box="[688,1033,1158,1185]" pageId="1" pageNumber="494" pagination="287 - 323" refId="ref3419" refString="Heilmann-Clausen, C., Nielsen, O. B. &amp; Gersner, P. (1985) Lithostratigraphy and depositional environments in the Upper Paleocene and Eocene of Denmark. Bulletin of the Geological Society of Denmark, 33, 287 - 323. https: // doi. org / 10.37570 / bgsd- 1984 - 33 - 26" type="journal article" year="1985">
+Heilmann-Clausen 
+<emphasis id="60C3EAED2642FF8339A7BE90FC09FB76" box="[907,965,1159,1185]" italics="true" pageId="1" pageNumber="494">et al.</emphasis>
+1985
+</bibRefCitation>
+, 
+<bibRefCitation id="36264B0E2642FF833E39BE90FAE5FB76" author="Heilmann-Clausen, C." box="[1045,1321,1158,1185]" pageId="1" pageNumber="494" pagination="69 - 114" refId="ref3364" refString="Heilmann-Clausen, C. (1995) Palaeogene aflejringer over Danskekalken. In: Nielsen, O. B. (Ed.), Danmarks geologi fra Kridt til i dag. Aarhus Geokompendier 1. Geologisk Institut, Aarhus Universitet, Aarhus, pp. 69 - 114. [in Danish]" type="book chapter" year="1995">Heilmann-Clausen 1995</bibRefCitation>
+) although 
+<bibRefCitation id="36264B0E2642FF833ABBBEBCFE75FB12" author="Pedersen, G. K. &amp; Surlyk, F." box="[151,441,1195,1221]" pageId="1" pageNumber="494" pagination="43 - 65" refId="ref3970" refString="Pedersen, G. K. &amp; Surlyk, F. (1983) The Fur Formation, a late Paleocene ash-bearing diatomite from northern Denmark. Bulletin of the Geological Society of Denmark, 32, 43 - 65. https: // doi. org / 10.37570 / bgsd- 1983 - 32 - 03" type="journal article" year="1983">Pedersen &amp; Surlyk (1983)</bibRefCitation>
+also included the diatom-poor sedimentary succession between the ash layers -39 and - 
+<quantity id="954F9B1A2642FF833F53BEBCFF61FB3E" metricMagnitude="-1" metricUnit="m" metricValue="8.382" pageId="1" pageNumber="494" unit="in" value="33.0">33 in</quantity>
+the Fur Formation.
+</paragraph>
+<paragraph id="520836FF2642FF833AEBBEE4FD94F9DE" blockId="1.[151,1437,835,1761]" pageId="1" pageNumber="494">
+The vast majority of the Stolleklint clay was deposited during the Paleocene-Eocene Thermal Maximum (PETM) and reaches an estimated thickness of 
+<quantity id="954F9B1A2642FF833897BF00FD3BFAE6" box="[699,759,1303,1329]" metricMagnitude="1" metricUnit="m" metricValue="2.4" pageId="1" pageNumber="494" unit="m" value="24.0">24 m</quantity>
+at Fur (
+<bibRefCitation id="36264B0E2642FF83397BBF00FBFCFAE6" author="Stokke, E. W. &amp; Jones, M. T. &amp; Tierney, J. E. &amp; Svensen, H. H. &amp; Whiteside, J. H." box="[855,1072,1303,1329]" pageId="1" pageNumber="494" pagination="1 - 10" refId="ref4522" refString="Stokke, E. W., Jones, M. T., Tierney, J. E., Svensen, H. H. &amp; Whiteside, J. H. (2020) Temperature changes across the Paleocene-Eocene Thermal Maximum - anew high-resolution TEX 86 temperature record from the Eastern North Sea Basin. Earth and Planetary Science Letters, 544, 1 - 10. https: // doi. org / 10.1016 / j. epsl. 2020.116388" type="journal article" year="2020">
+Stokke 
+<emphasis id="60C3EAED2642FF83399CBF00FC28FAE6" box="[944,996,1303,1329]" italics="true" pageId="1" pageNumber="494">et al</emphasis>
+. 2020
+</bibRefCitation>
+, 
+<bibRefCitation id="36264B0E2642FF833E12BF00FAC4FAE6" author="Jones, M. T. &amp; Stokke, E. W. &amp; Rooney, A. D. &amp; Frieling, J. &amp; Pogge von Strandmann, P. A. E. &amp; Wilson, D. J. &amp; Svensen, H. H. &amp; Planke, S. &amp; Adatte, T. &amp; Thibault, N. &amp; Vickers, M. L. &amp; Mather, T. A. &amp; Tegner, C. &amp; Zuchuat, V. &amp; Schultz, B. P." box="[1086,1288,1303,1329]" pageId="1" pageNumber="494" pagination="1623 - 1652" refId="ref3624" refString="Jones, M. T., Stokke, E. W., Rooney, A. D., Frieling, J., Pogge von Strandmann, P. A. E., Wilson, D. J., Svensen, H. H., Planke, S., Adatte, T., Thibault, N., Vickers, M. L., Mather, T. A., Tegner, C., Zuchuat, V. &amp; Schultz, B. P. (2023) Tracing North Atlantic volcanism and seaway connectivity across the Paleocene - Eocene Thermal Maximum (PETM). Climate of the Past, 19, 1623 - 1652. https: // doi. org / 10.5194 / cp- 19 - 1623 - 2023" type="journal article" year="2023">
+Jones 
+<emphasis id="60C3EAED2642FF833EAABF00FB76FAE6" box="[1158,1210,1303,1329]" italics="true" pageId="1" pageNumber="494">et al</emphasis>
+. 2023
+</bibRefCitation>
+). The PETM was initiated by a rapid global warming where the temperature increased by 5–8 °C in less than 10 kyr (
+<bibRefCitation id="36264B0E2642FF833F02BF2CFF39FAAE" author="Zachos, J. &amp; Pagani, M. &amp; Sloan, L. &amp; Thomas, E. &amp; Billups, K." pageId="1" pageNumber="494" pagination="686 - 693" refId="ref4606" refString="Zachos, J., Pagani, M., Sloan, L., Thomas, E. &amp; Billups, K. (2001) Trends, Rhythms, and Aberrations in Global Climate 65 Ma to Present. Science, 292, 686 - 693. https: // doi. org / 10.1126 / science. 1059412" type="journal article" year="2001">
+Zachos 
+<emphasis id="60C3EAED2642FF833FA4BF2CFF61FAAE" italics="true" pageId="1" pageNumber="494">et al</emphasis>
+. 2001
+</bibRefCitation>
+) and is estimated to have lasted 170 kyr (
+<bibRefCitation id="36264B0E2642FF8338E2BF48FC45FAAE" author="Rohl, U. &amp; Westerhold, T. &amp; Bralower, T. &amp; Zachos, J." box="[718,905,1375,1401]" pageId="1" pageNumber="494" pagination="1 - 13" refId="ref4370" refString="Rohl, U., Westerhold, T., Bralower, T. &amp; Zachos, J. (2007) On the duration of the Paleocene-Eocene Thermal Maximum (PETM). Geochemistry Geophysics Geosystems, 8 (Q 12002), 1 - 13. https: // doi. org / 10.1029 / 2007 GC 001784" type="journal article" year="2007">
+Röhl 
+<emphasis id="60C3EAED2642FF833920BF48FCF2FAAE" box="[780,830,1375,1401]" italics="true" pageId="1" pageNumber="494">et al</emphasis>
+. 2007
+</bibRefCitation>
+). 
+<bibRefCitation id="36264B0E2642FF8339B0BF48FBB1FAAE" author="Stokke, E. W. &amp; Jones, M. T. &amp; Tierney, J. E. &amp; Svensen, H. H. &amp; Whiteside, J. H." box="[924,1149,1375,1401]" pageId="1" pageNumber="494" pagination="1 - 10" refId="ref4522" refString="Stokke, E. W., Jones, M. T., Tierney, J. E., Svensen, H. H. &amp; Whiteside, J. H. (2020) Temperature changes across the Paleocene-Eocene Thermal Maximum - anew high-resolution TEX 86 temperature record from the Eastern North Sea Basin. Earth and Planetary Science Letters, 544, 1 - 10. https: // doi. org / 10.1016 / j. epsl. 2020.116388" type="journal article" year="2020">
+Stokke 
+<emphasis id="60C3EAED2642FF8339DEBF48FBE8FAAE" box="[1010,1060,1375,1401]" italics="true" pageId="1" pageNumber="494">et al</emphasis>
+. (2020)
+</bibRefCitation>
+estimated that during the PETM the sea surface temperature (SST) in the western Limfjord area of 
+<collectingCountry id="2AA0766F2642FF8339F6BF94FB8EFA4A" box="[986,1090,1411,1437]" name="Denmark" pageId="1" pageNumber="494">Denmark</collectingCountry>
+reached close to 30 °C for the upper part of the Stolleklint clay after an increase in temperature of minimum 7–10 °C. At the end of the PETM main phase, the North Sea was isolated from the North Atlantic in less than 12 kyr by NAIP thermal uplift closing the English Channel (
+<bibRefCitation id="36264B0E2642FF833BA5BFF8FD80F9DE" author="Jones, M. T. &amp; Stokke, E. W. &amp; Rooney, A. D. &amp; Frieling, J. &amp; Pogge von Strandmann, P. A. E. &amp; Wilson, D. J. &amp; Svensen, H. H. &amp; Planke, S. &amp; Adatte, T. &amp; Thibault, N. &amp; Vickers, M. L. &amp; Mather, T. A. &amp; Tegner, C. &amp; Zuchuat, V. &amp; Schultz, B. P." box="[393,588,1519,1545]" pageId="1" pageNumber="494" pagination="1623 - 1652" refId="ref3624" refString="Jones, M. T., Stokke, E. W., Rooney, A. D., Frieling, J., Pogge von Strandmann, P. A. E., Wilson, D. J., Svensen, H. H., Planke, S., Adatte, T., Thibault, N., Vickers, M. L., Mather, T. A., Tegner, C., Zuchuat, V. &amp; Schultz, B. P. (2023) Tracing North Atlantic volcanism and seaway connectivity across the Paleocene - Eocene Thermal Maximum (PETM). Climate of the Past, 19, 1623 - 1652. https: // doi. org / 10.5194 / cp- 19 - 1623 - 2023" type="journal article" year="2023">
+Jones 
+<emphasis id="60C3EAED2642FF833BFCBFF8FDCDF9DE" box="[464,513,1519,1545]" italics="true" pageId="1" pageNumber="494">et al</emphasis>
+. 2023
+</bibRefCitation>
+).
+</paragraph>
+<paragraph id="520836FF2642FF833AEBBC04FD9FF936" blockId="1.[151,1437,835,1761]" pageId="1" pageNumber="494">
+Based on dinoflagellate cyst assemblages (
+<bibRefCitation id="36264B0E2642FF83389CBC04FC0AF9FA" author="Heilmann-Clausen, C." box="[688,966,1555,1581]" pageId="1" pageNumber="494" pagination="51 - 53" refId="ref3329" refString="Heilmann-Clausen, C. (1994) Review of Paleocene dinoflagellates from the North Sea region. GFF, 116, 51 - 53. https: // doi. org / 10.1080 / 11035899409546149" type="journal article" year="1994">Heilmann-Clausen 1994</bibRefCitation>
+), delta 
+<superScript id="A5C29BB72642FF833E37BC05FBE7F9F7" attach="right" box="[1051,1067,1554,1568]" fontSize="6" pageId="1" pageNumber="494">13</superScript>
+C values (
+<bibRefCitation id="36264B0E2642FF833EB3BC04FAA8F9FA" author="Jones, M. T. &amp; Percival, L. M. E. &amp; Stokke, E. W. &amp; Frieling, J. &amp; Mather, T. A. &amp; Riber, L. &amp; Schubert, B. A. &amp; Schultz, B. &amp; Tegner, C. &amp; Planke, S. &amp; Svensen, H. H." box="[1183,1380,1555,1581]" pageId="1" pageNumber="494" pagination="217 - 236" refId="ref3519" refString="Jones, M. T., Percival, L. M. E., Stokke, E. W., Frieling, J., Mather, T. A., Riber, L., Schubert, B. A., Schultz, B., Tegner, C., Planke, S. &amp; Svensen, H. H. (2019) Mercury anomalies across the Palaeocene-Eocene Thermal Maximum. Climate of the Past, 15, 217 - 236. https: // doi. org / 10.5194 / cp- 15 - 217 - 2019" type="journal article" year="2019">
+Jones 
+<emphasis id="60C3EAED2642FF833ECBBC04FAD6F9FA" box="[1255,1306,1555,1581]" italics="true" pageId="1" pageNumber="494">et al</emphasis>
+. 2019
+</bibRefCitation>
+) and TEX 
+<subScript id="CE3334BA2642FF833AE2BC5EFF12F980" attach="left" box="[206,222,1609,1623]" fontSize="6" pageId="1" pageNumber="494">86</subScript>
+data (
+<bibRefCitation id="36264B0E2642FF833B33BC20FE21F986" author="Stokke, E. W. &amp; Jones, M. T. &amp; Tierney, J. E. &amp; Svensen, H. H. &amp; Whiteside, J. H." box="[287,493,1591,1617]" pageId="1" pageNumber="494" pagination="1 - 10" refId="ref4522" refString="Stokke, E. W., Jones, M. T., Tierney, J. E., Svensen, H. H. &amp; Whiteside, J. H. (2020) Temperature changes across the Paleocene-Eocene Thermal Maximum - anew high-resolution TEX 86 temperature record from the Eastern North Sea Basin. Earth and Planetary Science Letters, 544, 1 - 10. https: // doi. org / 10.1016 / j. epsl. 2020.116388" type="journal article" year="2020">
+Stokke 
+<emphasis id="60C3EAED2642FF833B59BC20FE69F986" box="[373,421,1591,1617]" italics="true" pageId="1" pageNumber="494">et al</emphasis>
+. 2020
+</bibRefCitation>
+), it has been suggested that the earliest part of the succeeding clayey diatomites of the Fur Formation represent the succeeding PETM recovery phase, when SST decreased by more than 10 °C (
+<bibRefCitation id="36264B0E2642FF833F60BC4CFEC3F94E" author="Stokke, E. W. &amp; Jones, M. T. &amp; Tierney, J. E. &amp; Svensen, H. H. &amp; Whiteside, J. H." pageId="1" pageNumber="494" pagination="1 - 10" refId="ref4522" refString="Stokke, E. W., Jones, M. T., Tierney, J. E., Svensen, H. H. &amp; Whiteside, J. H. (2020) Temperature changes across the Paleocene-Eocene Thermal Maximum - anew high-resolution TEX 86 temperature record from the Eastern North Sea Basin. Earth and Planetary Science Letters, 544, 1 - 10. https: // doi. org / 10.1016 / j. epsl. 2020.116388" type="journal article" year="2020">
+Stokke 
+<emphasis id="60C3EAED2642FF833ABBBC68FF04F94E" box="[151,200,1663,1689]" italics="true" pageId="1" pageNumber="494">et al</emphasis>
+. 2020
+</bibRefCitation>
+) over an estimated 160 kyr (
+<bibRefCitation id="36264B0E2642FF833860BC68FCC2F94E" author="Jones, M. T. &amp; Stokke, E. W. &amp; Rooney, A. D. &amp; Frieling, J. &amp; Pogge von Strandmann, P. A. E. &amp; Wilson, D. J. &amp; Svensen, H. H. &amp; Planke, S. &amp; Adatte, T. &amp; Thibault, N. &amp; Vickers, M. L. &amp; Mather, T. A. &amp; Tegner, C. &amp; Zuchuat, V. &amp; Schultz, B. P." box="[588,782,1663,1689]" pageId="1" pageNumber="494" pagination="1623 - 1652" refId="ref3624" refString="Jones, M. T., Stokke, E. W., Rooney, A. D., Frieling, J., Pogge von Strandmann, P. A. E., Wilson, D. J., Svensen, H. H., Planke, S., Adatte, T., Thibault, N., Vickers, M. L., Mather, T. A., Tegner, C., Zuchuat, V. &amp; Schultz, B. P. (2023) Tracing North Atlantic volcanism and seaway connectivity across the Paleocene - Eocene Thermal Maximum (PETM). Climate of the Past, 19, 1623 - 1652. https: // doi. org / 10.5194 / cp- 19 - 1623 - 2023" type="journal article" year="2023">
+Jones 
+<emphasis id="60C3EAED2642FF8338BFBC68FD0FF94E" box="[659,707,1663,1689]" italics="true" pageId="1" pageNumber="494">et al</emphasis>
+. 2023
+</bibRefCitation>
+). Thus, the recovery phase largely covers the slightly more than 
+<quantity id="954F9B1A2642FF833AE2BCB5FF35F96A" box="[206,249,1698,1725]" metricMagnitude="0" metricUnit="m" metricValue="5.0" pageId="1" pageNumber="494" unit="m" value="5.0">5 m</quantity>
+thick succession from ash layer -33 to a level between ash layer -21a and -19 and includes the level where the odonatan described here was found.
+</paragraph>
+</subSection>
+<subSection id="3B382F142642FF833ABBBD25FE0AF89A" _generate="added" box="[151,454,1842,1869]" pageId="1" pageNumber="494" type="multiple">
+<paragraph id="520836FF2642FF833ABBBD25FE0AF89A" blockId="1.[151,454,1842,1869]" box="[151,454,1842,1869]" pageId="1" pageNumber="494">
+<heading id="094081932642FF833ABBBD25FE0AF89A" bold="true" box="[151,454,1842,1869]" fontSize="11" level="1" pageId="1" pageNumber="494" reason="1">
+<emphasis id="60C3EAED2642FF833ABBBD25FE0AF89A" bold="true" box="[151,454,1842,1869]" pageId="1" pageNumber="494">Systematic paleontology</emphasis>
+</heading>
+</paragraph>
+</subSection>
+<subSection id="3B382F142642FF833ABBBD6DFE95F843" _generate="added" _reason="heading_only_treatment" box="[151,345,1914,1940]" pageId="1" pageNumber="494" type="multiple">
+<paragraph id="520836FF2642FF833ABBBD6DFE95F843" blockId="1.[151,345,1914,1940]" box="[151,345,1914,1940]" pageId="1" pageNumber="494">
+<heading id="094081932642FF833ABBBD6DFE95F843" bold="true" box="[151,345,1914,1940]" fontSize="11" level="1" pageId="1" pageNumber="494" reason="1">
+<emphasis id="60C3EAED2642FF833ABBBD6DFE95F843" bold="true" box="[151,345,1914,1940]" pageId="1" pageNumber="494">
+Order 
+<taxonomicName id="95B74D7C2642FF833AC0BD6DFE95F843" _evidence="catalogs" _step="order" box="[236,345,1914,1940]" class="Magnoliopsida" higherTaxonomySource="GBIF" kingdom="Plantae" order="Odonata" pageId="1" pageNumber="494" phylum="Tracheophyta" rank="order">Odonata</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSection>
+<subSection id="3B382F142642FF833ABBBDD5FC66F80B" _generate="added" _reason="heading_only_treatment" box="[151,938,1986,2012]" pageId="1" pageNumber="494" type="multiple">
+<paragraph id="520836FF2642FF833ABBBDD5FC66F80B" blockId="1.[151,938,1986,2012]" box="[151,938,1986,2012]" pageId="1" pageNumber="494">
+<heading id="094081932642FF833ABBBDD5FC66F80B" bold="true" box="[151,938,1986,2012]" fontSize="11" level="1" pageId="1" pageNumber="494" reason="1">
+<emphasis id="60C3EAED2642FF833ABBBDD5FC66F80B" bold="true" box="[151,938,1986,2012]" pageId="1" pageNumber="494">
+Suborder 
+<taxonomicName id="95B74D7C2642FF833B39BDD5FC66F80B" _authorityPlausibility="0.9488678" _evidence="label" _plausibility="0.9244004" _step="labeledHigher" authority="Archibald, Cannings &amp; Erickson" authorityName="Archibald, Cannings &amp; Erickson" box="[277,938,1986,2012]" class="Magnoliopsida" higherTaxonomySource="GBIF" kingdom="Plantae" order="Malvales" pageId="1" pageNumber="494" phylum="Tracheophyta" rank="subOrder" subOrder="Chephalozygoptera">Chephalozygoptera Archibald, Cannings &amp; Erickson</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSection>
+<subSection id="3B382F142641FF803ABBBA80FDD2FF66" _generate="added" _reason="heading_only_treatment" box="[151,542,151,177]" pageId="2" pageNumber="495" type="multiple">
+<paragraph id="520836FF2641FF803ABBBA80FDD2FF66" blockId="2.[151,542,151,177]" box="[151,542,151,177]" pageId="2" pageNumber="495">
+<heading id="094081932641FF803ABBBA80FDD2FF66" bold="true" box="[151,542,151,177]" fontSize="11" level="1" pageId="2" pageNumber="495" reason="1">
+<emphasis id="60C3EAED2641FF803ABBBA80FDD2FF66" bold="true" box="[151,542,151,177]" pageId="2" pageNumber="495">
+Family 
+<taxonomicName id="95B74D7C2641FF803ADBBA80FDD2FF66" _authorityPlausibility="0.99844134" _evidence="catalogs" _step="family" authority="Cockrell" authorityName="Cockrell" box="[247,542,151,177]" class="Insecta" family="Dysagrionidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="495" phylum="Arthropoda" rank="family">Dysagrionidae Cockrell</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSection>
+<treatment id="DA1E87E92641FF803ABBBAC8FB3BFDCE" ID-DOI="http://doi.org/10.5281/zenodo.10708607" ID-GBIF-Taxon="221744806" ID-Zenodo-Dep="10708607" LSID="urn:lsid:zoobank.org:act:05FF5100-D81B-4F29-88CA-2B1FAC1115C2" _generate="added" pageId="2" pageNumber="495">
+<subSubSection id="1AAD65742641FF803ABBBAC8FC0DFEC9" _generate="added" pageId="2" pageNumber="495" type="nomenclature">
+<paragraph id="520836FF2641FF803ABBBAC8FCAAFF2E" blockId="2.[151,961,223,286]" box="[151,870,223,250]" pageId="2" pageNumber="495">
+<heading id="094081932641FF803ABBBAC8FCAAFF2E" bold="true" box="[151,870,223,250]" fontSize="11" level="1" pageId="2" pageNumber="495" reason="1">
+<emphasis id="60C3EAED2641FF803ABBBAC8FCAAFF2E" bold="true" box="[151,870,223,250]" pageId="2" pageNumber="495">
+Genus 
+<taxonomicName id="95B74D7C2641FF803AC6BAC8FD13FF2E" _authorityPlausibility="0.85776776" _evidence="label" _plausibility="0.32083133" _step="labeledHigher" authority="Simonsen, Archibald &amp; Ware" authorityName="Simonsen, Archibald &amp; Ware" authorityYear="2024" box="[234,735,223,250]" class="Insecta" family="Dysagrionidae" genus="Stolleagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="495" phylum="Arthropoda" rank="genus" status="new genus">
+<emphasis id="60C3EAED2641FF803AC6BAC8FEB4FF2D" bold="true" box="[234,376,223,250]" italics="true" pageId="2" pageNumber="495">Stolleagrion</emphasis>
+Simonsen, Archibald &amp; Ware
+</taxonomicName>
+, 
+<taxonomicNameLabel id="7BF057962641FF8038C7BAC8FCAAFF2E" box="[747,870,223,249]" pageId="2" pageNumber="495" rank="genus">new genus</taxonomicNameLabel>
+</emphasis>
+</heading>
+</paragraph>
+<paragraph id="520836FF2641FF803ABBBB14FC0DFEC9" blockId="2.[151,961,223,286]" box="[151,961,259,286]" pageId="2" pageNumber="495">
+<uri id="26263AFD2641FF803ABBBB14FC0DFEC9" box="[151,961,259,286]" pageId="2" pageNumber="495">
+urn:lsid:zoobank.org:act: 
+<uuid id="26110C2A2641FF803B87BB14FC0DFEC9" box="[427,961,259,286]" pageId="2" pageNumber="495">05FF5100-D81B-4F29-88CA-2B1FAC1115C2</uuid>
+</uri>
+</paragraph>
+</subSubSection>
+<subSubSection id="1AAD65742641FF803ABBBB5CFB88FE5E" _generate="added" pageId="2" pageNumber="495" type="diagnosis">
+<paragraph id="520836FF2641FF803ABBBB5CFB88FE5E" blockId="2.[151,1436,331,538]" pageId="2" pageNumber="495">
+<emphasis id="60C3EAED2641FF803ABBBB5CFEDEFEB2" bold="true" box="[151,274,331,357]" pageId="2" pageNumber="495">Diagnosis.</emphasis>
+<taxonomicName id="95B74D7C2641FF803B35BB5CFE6FFEB2" _evidence="document" _step="docGenera" authorityName="Simonsen, Archibald &amp; Ware" authorityYear="2024" box="[281,419,331,357]" class="Insecta" family="Dysagrionidae" genus="Stolleagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="495" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2641FF803B35BB5CFE6FFEB2" box="[281,419,331,357]" italics="true" pageId="2" pageNumber="495">Stolleagrion</emphasis>
+</taxonomicName>
+is most easily distinguished from other 
+<taxonomicName id="95B74D7C2641FF80394BBB5CFBC6FEB2" _evidence="catalogs" _step="family" box="[871,1034,331,357]" class="Insecta" family="Dysagrionidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="495" phylum="Arthropoda" rank="family">Dysagrionidae</taxonomicName>
+by the combination of: pterostigma long, narrow (&gt; 5.5x longer than wide) and RP1 strongly curved distad pterostigma.
+</paragraph>
+</subSubSection>
+<subSubSection id="1AAD65742641FF803AEBBB84FE8FFE06" _generate="added" pageId="2" pageNumber="495" type="type_taxon">
+<paragraph id="520836FF2641FF803AEBBB84FE8FFE06" blockId="2.[151,1436,331,538]" pageId="2" pageNumber="495">
+<emphasis id="60C3EAED2641FF803AEBBB84FDC5FE7A" bold="true" box="[199,521,403,429]" pageId="2" pageNumber="495">
+<typeStatus id="8D0C885D2641FF803AEBBB84FECEFE7A" box="[199,258,403,429]" pageId="2" pageNumber="495">Type</typeStatus>
+and included species.
+</emphasis>
+The 
+<typeStatus id="8D0C885D2641FF803869BB83FDB9FE79" box="[581,629,404,430]" pageId="2" pageNumber="495">type</typeStatus>
+species 
+<taxonomicName id="95B74D7C2641FF8038F4BB84FC38FE7A" _evidence="statusLabel+fontStyle" _step="newSpecies" authority="Simonsen &amp; S.Brucearchibald &amp; Na.Rasmussen &amp; Él.Sylvestersen &amp; Olsen &amp; Ware, 2024" authorityName="Simonsen &amp; S.Brucearchibald &amp; Na.Rasmussen &amp; Él.Sylvestersen &amp; Olsen &amp; Ware" authorityYear="2024" box="[728,1012,403,429]" class="Insecta" family="Dysagrionidae" genus="Stolleagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="495" phylum="Arthropoda" rank="species" species="foghnielseni" status="sp. nov.">
+<emphasis id="60C3EAED2641FF8038F4BB84FC38FE7A" box="[728,1012,403,429]" italics="true" pageId="2" pageNumber="495">Stolleagrion foghnielseni</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="7BF057962641FF8039D1BB83FB9BFE79" box="[1021,1111,404,430]" pageId="2" pageNumber="495" rank="species">sp. nov.</taxonomicNameLabel>
+, here designated, is the only known species.
+</paragraph>
+</subSubSection>
+<subSubSection id="1AAD65742641FF803AEBBBCCFB3BFDCE" _generate="added" pageId="2" pageNumber="495" type="etymology">
+<paragraph id="520836FF2641FF803AEBBBCCFB3BFDCE" blockId="2.[151,1436,331,538]" pageId="2" pageNumber="495">
+<emphasis id="60C3EAED2641FF803AEBBBCCFE82FE22" bold="true" box="[199,334,475,501]" pageId="2" pageNumber="495">Etymology.</emphasis>
+The genus name is formed from the prefix ‘Stolle-’ referring to the 
+<typeStatus id="8D0C885D2641FF803E16BBCBFBA6FE21" box="[1082,1130,476,502]" pageId="2" pageNumber="495">type</typeStatus>
+locality Stolleklint, and the suffix ‘-agrion’, commonly used in Zygoptera and Cephalozygoptera genus names. Gender: neutral.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment id="DA1E87E92641FF813ABBB87CFE5FFB4E" ID-DOI="http://doi.org/10.5281/zenodo.10693451" ID-GBIF-Taxon="221744807" ID-Zenodo-Dep="10693451" LSID="urn:lsid:zoobank.org:act:C88668B8-9E60-478D-B63F-D394596C78F0" _generate="added" lastPageId="3" lastPageNumber="496" pageId="2" pageNumber="495">
+<subSubSection id="1AAD65742641FF803ABBB87CFC11FD52" _generate="retained" box="[151,989,619,646]" pageId="2" pageNumber="495" type="nomenclature">
+<paragraph id="520836FF2641FF803ABBB87CFC11FD52" blockId="2.[151,989,619,718]" box="[151,989,619,646]" pageId="2" pageNumber="495">
+<heading id="094081932641FF803ABBB87CFC11FD52" bold="true" box="[151,989,619,646]" fontSize="11" level="1" pageId="2" pageNumber="495" reason="1">
+<emphasis id="60C3EAED2641FF803ABBB87CFC11FD52" bold="true" box="[151,989,619,646]" pageId="2" pageNumber="495">
+<taxonomicName id="95B74D7C2641FF803ABBB87CFC8DFD52" _authorityPlausibility="0.85776776" _evidence="statusLabel+fontStyle" _step="newSpecies" authority="Simonsen, Archibald &amp; Ware" authorityName="Simonsen, Archibald &amp; Ware" authorityYear="2024" box="[151,833,619,646]" class="Insecta" family="Dysagrionidae" genus="Stolleagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="495" phylum="Arthropoda" rank="species" species="foghnielseni" status="sp. nov.">
+<emphasis id="60C3EAED2641FF803ABBB87CFE05FD51" bold="true" box="[151,457,619,646]" italics="true" pageId="2" pageNumber="495">Stolleagrion foghnielseni</emphasis>
+Simonsen, Archibald &amp; Ware
+</taxonomicName>
+, 
+<taxonomicNameLabel id="7BF057962641FF803962B87CFC11FD52" box="[846,989,619,645]" pageId="2" pageNumber="495" rank="species">new species</taxonomicNameLabel>
+</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="1AAD65742641FF803ABBB898FC76FD19" _generate="retained" pageId="2" pageNumber="495" type="description">
+<paragraph id="520836FF2641FF803ABBB898FED0FD7E" blockId="2.[151,989,619,718]" box="[151,284,655,681]" pageId="2" pageNumber="495">
+<figureCitation id="CA8C2A7A2641FF803ABBB898FED0FD7E" box="[151,284,655,681]" captionStart-0="FIGURE 1" captionStart-1="FIGURE 2" captionStartId-0="2.[151,250,1491,1515]" captionStartId-1="3.[151,250,864,888]" captionTargetBox-0="[151,1423,847,1460]" captionTargetBox-1="[416,1172,417,841]" captionTargetId-0="figure-173@2.[151,1435,847,1465]" captionTargetId-1="figure-158@3.[416,1172,417,841]" captionTargetPageId-0="2" captionTargetPageId-1="3" captionText-0="FIGURE 1. Stolleagrion foghnielseni n. sp. holotype wing (FUM-N-14257). A, photograph of the part; B, drawing from the part. See text for abbreviations. Scalebar is 5 mm." captionText-1="FIGURE 2. Stolleagrion foghnielseni n. sp. holotype wing (FUM-N-14257). Detail of wing base showing Ax0 (red arrow). Scalebar is 0.5 mm." figureDoi-0="http://doi.org/10.5281/zenodo.10693449" figureDoi-1="http://doi.org/10.5281/zenodo.10693453" httpUri-0="https://zenodo.org/record/10693449/files/figure.png" httpUri-1="https://zenodo.org/record/10693453/files/figure.png" pageId="2" pageNumber="495">Figures 1–2</figureCitation>
+</paragraph>
+<paragraph id="520836FF2641FF803ABBB8A4FC76FD19" blockId="2.[151,989,619,718]" box="[151,954,691,718]" pageId="2" pageNumber="495">
+<uri id="26263AFD2641FF803ABBB8A4FC76FD19" box="[151,954,691,718]" pageId="2" pageNumber="495">
+urn:lsid:zoobank.org:act: 
+<uuid id="26110C2A2641FF803B84B8A4FC76FD19" box="[424,954,691,718]" pageId="2" pageNumber="495">C88668B8-9E60-478D-B63F-D394596C78F0</uuid>
+</uri>
+</paragraph>
+</subSubSection>
+<subSubSection id="1AAD65742641FF803ABBB8ECFAE1FCED" _generate="retained" pageId="2" pageNumber="495" type="materials_examined">
+<paragraph id="520836FF2641FF803ABBB8ECFAE1FCED" blockId="2.[151,1436,763,826]" pageId="2" pageNumber="495">
+<emphasis id="60C3EAED2641FF803ABBB8ECFECAFCC2" bold="true" box="[151,262,763,789]" pageId="2" pageNumber="495">Material.</emphasis>
+<materialsCitation id="E2DF3CA22641FF803B22B8ECFAE1FCED" ID-GBIF-Occurrence="4526006301" collectorName="Rene L. Sylvestersen" pageId="2" pageNumber="495" specimenCount="1" typeStatus="holotype">
+<typeStatus id="8D0C885D2641FF803B22B8ECFEBAFCC2" box="[270,374,763,789]" pageId="2" pageNumber="495" type="holotype">Holotype</typeStatus>
+wing FUM-M 14257a, b, part and counterpart: the part is almost complete, with few sections missing; collected by 
+<collectorName id="FF4253292641FF803BA0B908FDB0FCEE" box="[396,636,799,826]" pageId="2" pageNumber="495">René L. Sylvestersen</collectorName>
+, 
+<date id="2609103F2641FF8038ABB937FCECFCEE" box="[647,800,799,826]" pageId="2" pageNumber="495" value="2017-01">January 2017</date>
+, Fur Stolleklint; deposited in the Fur Museum.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<caption id="06C866772641FF803ABBBFC4FD5EF9D8" ID-DOI="http://doi.org/10.5281/zenodo.10693449" ID-Zenodo-Dep="10693449" httpUri="https://zenodo.org/record/10693449/files/figure.png" pageId="2" pageNumber="495" startId="2.[151,250,1491,1515]" targetBox="[151,1423,847,1460]" targetPageId="2" targetType="figure">
+<paragraph id="520836FF2641FF803ABBBFC4FD5EF9D8" blockId="2.[151,1436,1491,1551]" pageId="2" pageNumber="495">
+<emphasis id="60C3EAED2641FF803ABBBFC4FED9FA3C" bold="true" box="[151,277,1491,1515]" pageId="2" pageNumber="495">FIGURE 1.</emphasis>
+<taxonomicName id="95B74D7C2641FF803B30BFC4FDD1FA3C" _evidence="statusLabel+fontStyle" _step="newSpecies" authority="Simonsen &amp; S.Brucearchibald &amp; Na.Rasmussen &amp; Él.Sylvestersen &amp; Olsen &amp; Ware, 2024" authorityName="Simonsen &amp; S.Brucearchibald &amp; Na.Rasmussen &amp; Él.Sylvestersen &amp; Olsen &amp; Ware" authorityYear="2024" box="[284,541,1491,1515]" class="Insecta" family="Dysagrionidae" genus="Stolleagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="495" phylum="Arthropoda" rank="species" species="foghnielseni" status="sp. nov.">
+<emphasis id="60C3EAED2641FF803B30BFC4FDD1FA3C" box="[284,541,1491,1515]" italics="true" pageId="2" pageNumber="495">Stolleagrion foghnielseni</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="7BF057962641FF803809BFC3FD91FA3C" box="[549,605,1492,1515]" pageId="2" pageNumber="495" rank="species">n. sp.</taxonomicNameLabel>
+holotype wing (FUM-N-14257). A, photograph of the part; B, drawing from the part. See text for abbreviations. Scalebar is 5 mm.
+</paragraph>
+</caption>
+<subSubSection id="1AAD65742641FF813AEBBC2AFA8AFE5E" _generate="retained" lastPageId="3" lastPageNumber="496" pageId="2" pageNumber="495" type="description">
+<paragraph id="520836FF2641FF813AEBBC2AFA8AFE5E" blockId="2.[151,1437,1597,2020]" lastBlockId="3.[151,1436,151,393]" lastPageId="3" lastPageNumber="496" pageId="2" pageNumber="495">
+<emphasis id="60C3EAED2641FF803AEBBC2AFE95F980" bold="true" box="[199,345,1597,1623]" pageId="2" pageNumber="495">Description.</emphasis>
+<typeStatus id="8D0C885D2641FF803B73BC2AFE0BF980" box="[351,455,1597,1623]" pageId="2" pageNumber="495" type="holotype">Holotype</typeStatus>
+wing (
+<figureCitation id="CA8C2A7A2641FF80383FBC2AFDBBF980" box="[531,631,1597,1623]" captionStart-0="FIGURE 1" captionStart-1="FIGURE 2" captionStartId-0="2.[151,250,1491,1515]" captionStartId-1="3.[151,250,864,888]" captionTargetBox-0="[151,1423,847,1460]" captionTargetBox-1="[416,1172,417,841]" captionTargetId-0="figure-173@2.[151,1435,847,1465]" captionTargetId-1="figure-158@3.[416,1172,417,841]" captionTargetPageId-0="2" captionTargetPageId-1="3" captionText-0="FIGURE 1. Stolleagrion foghnielseni n. sp. holotype wing (FUM-N-14257). A, photograph of the part; B, drawing from the part. See text for abbreviations. Scalebar is 5 mm." captionText-1="FIGURE 2. Stolleagrion foghnielseni n. sp. holotype wing (FUM-N-14257). Detail of wing base showing Ax0 (red arrow). Scalebar is 0.5 mm." figureDoi-0="http://doi.org/10.5281/zenodo.10693449" figureDoi-1="http://doi.org/10.5281/zenodo.10693453" httpUri-0="https://zenodo.org/record/10693449/files/figure.png" httpUri-1="https://zenodo.org/record/10693453/files/figure.png" pageId="2" pageNumber="495">Figs 1–2</figureCitation>
+). Length, 
+<quantity id="954F9B1A2641FF8038CBBC2AFC81F98F" box="[743,845,1597,1624]" metricMagnitude="-2" metricUnit="m" metricValue="3.28" pageId="2" pageNumber="495" unit="mm" value="32.8">32.8 mm</quantity>
+; arculus to distal end of pterostigma, 
+<quantity id="954F9B1A2641FF803EC5BC2AFA83F98F" box="[1257,1359,1597,1624]" metricMagnitude="-2" metricUnit="m" metricValue="2.4899999999999998" pageId="2" pageNumber="495" unit="mm" value="24.9">24.9 mm</quantity>
+; nodus to distal end of pterostigma, 
+<quantity id="954F9B1A2641FF803BF4BC76FDF3F9AB" box="[472,575,1633,1660]" metricMagnitude="-2" metricUnit="m" metricValue="1.76" pageId="2" pageNumber="495" unit="mm" value="17.6">17.6 mm</quantity>
+; arculus to base of pterostigma, 
+<quantity id="954F9B1A2641FF803985BC76FBDCF9AB" box="[937,1040,1633,1660]" metricMagnitude="-2" metricUnit="m" metricValue="2.03" pageId="2" pageNumber="495" unit="mm" value="20.3">20.3 mm</quantity>
+; nodus to base of pterostigma, 13.0 mm; maximum width, 
+<quantity id="954F9B1A2641FF803BB5BC92FE3FF977" box="[409,499,1669,1696]" metricMagnitude="-3" metricUnit="m" metricValue="6.6" pageId="2" pageNumber="495" unit="mm" value="6.6">6.6 mm</quantity>
+. Pterostigma dark, elongate: 
+<quantity id="954F9B1A2641FF803915BC92FC5CF977" box="[825,912,1669,1696]" metricMagnitude="-3" metricUnit="m" metricValue="4.7" pageId="2" pageNumber="495" unit="mm" value="4.7">4.7 mm</quantity>
+long, 
+<emphasis id="60C3EAED2641FF8039FBBC91FC3DF948" box="[983,1009,1670,1695]" italics="true" pageId="2" pageNumber="495">ca</emphasis>
+. 5.6 times longer than wide, subtends 7.5 cells. Membrane hyaline. Ax0, Ax1 poorly preserved but confidently present (
+<figureCitation id="CA8C2A7A2641FF803E08BCBEFBA4F914" box="[1060,1128,1705,1731]" captionStart="FIGURE 2" captionStartId="3.[151,250,864,888]" captionTargetBox="[416,1172,417,841]" captionTargetId="figure-158@3.[416,1172,417,841]" captionTargetPageId="3" captionText="FIGURE 2. Stolleagrion foghnielseni n. sp. holotype wing (FUM-N-14257). Detail of wing base showing Ax0 (red arrow). Scalebar is 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.10693453" httpUri="https://zenodo.org/record/10693453/files/figure.png" pageId="2" pageNumber="495">Fig. 2</figureCitation>
+), Ax2 distinct, Ax0 appears not synsclerotised with wing base. Ax1 
+<emphasis id="60C3EAED2641FF80387DBCD9FDA7F930" box="[593,619,1742,1767]" italics="true" pageId="2" pageNumber="495">ca</emphasis>
+. 2/3 distance wing base to arculus; arculus aligned with Ax2. Quadrangle dysagrionoid in shape, 
+<emphasis id="60C3EAED2641FF803BB2BCE5FE0CF8DC" box="[414,448,1778,1803]" italics="true" pageId="2" pageNumber="495">i.e.</emphasis>
+, not more rectangular as in Eodysagrioninae Rust, Petrulevičius &amp; Nel (
+<emphasis id="60C3EAED2641FF803EDBBCE5FAECF8DC" box="[1271,1312,1778,1803]" italics="true" pageId="2" pageNumber="495">e.g.</emphasis>
+<bibRefCitation id="36264B0E2641FF803F04BCE5FF1EF8F8" author="Rust, J &amp; Petrulevicius, J. F. &amp; Nel, A." pageId="2" pageNumber="495" pagination="709 - 713" refId="ref4303" refString="Rust, J, Petrulevicius, J. F. &amp; Nel, A. (2008) The first damselflies from the lowermost Eocene of Denmark, with a description of a new subfamily (Odonata, Zygoptera, Dysagrionidae). Palaeontology, 51, 709 - 713. https: // doi. org / 10.1111 / j. 1475 - 4983.2008.00780. x" type="journal article" year="2008">
+Rust 
+<emphasis id="60C3EAED2641FF803F4FBCE5FA51F8DC" box="[1379,1437,1777,1803]" italics="true" pageId="2" pageNumber="495">et al.</emphasis>
+2008
+</bibRefCitation>
+, fig. 1). Fourteen crossveins preserved in postnodal space (basal quarter not well preserved), 
+<quantity id="954F9B1A2641FF803EE0BD02FAC8F8F8" box="[1228,1284,1813,1839]" metricMagnitude="-1" metricUnit="m" metricValue="4.064" pageId="2" pageNumber="495" unit="in" value="16.0">16 in</quantity>
+postsubnodal space to pterostigma, at least three pairs aligned. Brace vein present, very weakly angled. RA only well-preserved distad pterostigma, strongly curved there, C-RA space two cells wide. RP1 well preserved, strongly curved distad pterostigma, RA–RP1 space two cells wide near apex. IR1 well preserved, zigzagged origin six cells distad origin of RP2, RP1–IR1 space three cells wide at margin. RP2 origin five cells distad nodus, abnormally small first cell basad RP2 origin formed by Y-branch of RP2–IR2 crossvein, IR1–RP2 space three cells wide at margin. IR2 origin half cell basad subnodus, linear, slightly curving distally, RP2–IR2 space at least 10 cells wide at margin. RP3-4 origin 
+<emphasis id="60C3EAED2640FF813ABBBAACFF7DFF03" box="[151,177,187,212]" italics="true" pageId="3" pageNumber="496">ca</emphasis>
+. 2/3 the distance from arculus to subnodus, linear, slightly curving distally, IR2–RP3-4 space at least 10 cells wide at margin. MA linear, slightly curving distally, RP3-4–MA space 16 cells wide at margin. MP linear, slightly curving distally, basal 1/3 subparallel to MA, then curving away gently, terminating beyond mid-wing, MA–MP space basally one cell wide, 15 cells wide at margin. CuA linear, basal 4/5 subparallel to MP, then curving away to wing margin, terminates 
+<emphasis id="60C3EAED2640FF813B87BB5CFE09FEB3" box="[427,453,331,356]" italics="true" pageId="3" pageNumber="496">ca</emphasis>
+. mid-wing, 3rd MP-CuA cross vein slightly oblique, MP-CuA space two cells wide from 
+<emphasis id="60C3EAED2640FF813ABBBB78FF7DFE5F" box="[151,177,367,392]" italics="true" pageId="3" pageNumber="496">ca</emphasis>
+. 2/3 its length, widening to 12 cells at wing margin. CuA-A space well preserved, broad, 4–5 cells wide.
+</paragraph>
+</subSubSection>
+<caption id="06C866772640FF813ABBB977FEADFC4B" ID-DOI="http://doi.org/10.5281/zenodo.10693453" ID-Zenodo-Dep="10693453" httpUri="https://zenodo.org/record/10693453/files/figure.png" pageId="3" pageNumber="496" startId="3.[151,250,864,888]" targetBox="[416,1172,417,841]" targetPageId="3" targetType="figure">
+<paragraph id="520836FF2640FF813ABBB977FEADFC4B" blockId="3.[151,1437,864,925]" pageId="3" pageNumber="496">
+<emphasis id="60C3EAED2640FF813ABBB977FED9FCAE" bold="true" box="[151,277,864,889]" pageId="3" pageNumber="496">FIGURE 2.</emphasis>
+<taxonomicName id="95B74D7C2640FF813B31B976FDD3FCAE" _evidence="statusLabel+fontStyle" _step="newSpecies" authority="Simonsen &amp; S.Brucearchibald &amp; Na.Rasmussen &amp; Él.Sylvestersen &amp; Olsen &amp; Ware, 2024" authorityName="Simonsen &amp; S.Brucearchibald &amp; Na.Rasmussen &amp; Él.Sylvestersen &amp; Olsen &amp; Ware" authorityYear="2024" box="[285,543,865,889]" class="Insecta" family="Dysagrionidae" genus="Stolleagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="species" species="foghnielseni" status="sp. nov.">
+<emphasis id="60C3EAED2640FF813B31B976FDD3FCAE" box="[285,543,865,889]" italics="true" pageId="3" pageNumber="496">Stolleagrion foghnielseni</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="7BF057962640FF81380BB976FDACFCAF" box="[551,608,865,888]" pageId="3" pageNumber="496" rank="species">n. sp.</taxonomicNameLabel>
+holotype wing (FUM-N-14257). Detail of wing base showing Ax0 (red arrow). Scalebar is 0.5 mm.
+</paragraph>
+</caption>
+<subSubSection id="1AAD65742640FF813AEBB9DCFE94FBFA" _generate="retained" pageId="3" pageNumber="496" type="diagnosis">
+<paragraph id="520836FF2640FF813AEBB9DCFDCBFC32" blockId="3.[151,1436,971,1177]" box="[199,519,971,997]" pageId="3" pageNumber="496">
+<emphasis id="60C3EAED2640FF813AEBB9DCFE8EFC32" bold="true" box="[199,322,971,997]" pageId="3" pageNumber="496">Diagnosis.</emphasis>
+As for the genus.
+</paragraph>
+<paragraph id="520836FF2640FF813AEBB9F8FE94FBFA" blockId="3.[151,1436,971,1177]" pageId="3" pageNumber="496">
+<emphasis id="60C3EAED2640FF813AEBB9F8FE45FBDE" bold="true" box="[199,393,1007,1033]" pageId="3" pageNumber="496">Deposit and age.</emphasis>
+Striated concretion between ash layers -29 and -24, Fur Formation, Stolleklint, Fur, 
+<collectingCountry id="2AA0766F2640FF813F00B9F8FA54FBDE" box="[1324,1432,1007,1033]" name="Denmark" pageId="3" pageNumber="496">Denmark</collectingCountry>
+; earliest Ypresian.
+</paragraph>
+</subSubSection>
+<subSubSection id="1AAD65742640FF813AEBBE20FE5FFB4E" _generate="retained" pageId="3" pageNumber="496" type="etymology">
+<paragraph id="520836FF2640FF813AEBBE20FE5FFB4E" blockId="3.[151,1436,971,1177]" pageId="3" pageNumber="496">
+<emphasis id="60C3EAED2640FF813AEBBE20FE82FB86" bold="true" box="[199,334,1079,1105]" pageId="3" pageNumber="496">Etymology.</emphasis>
+The specific epithet is an eponym formed from the middle and surnames of Ole Fogh Nielsen, a Danish amateur entomologist and paleontologist, whose work (especially his books) have inspired Danish natural historians for decades.
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection id="3B382F142640FF863ABBBEFCFBFBFF2E" _generate="added" lastPageId="4" lastPageNumber="497" pageId="3" pageNumber="496" type="multiple">
+<paragraph id="520836FF2640FF813ABBBEFCFDB4FAD2" blockId="3.[151,632,1258,1285]" box="[151,632,1258,1285]" pageId="3" pageNumber="496">
+<heading id="094081932640FF813ABBBEFCFDB4FAD2" bold="true" box="[151,632,1258,1285]" fontSize="11" level="1" pageId="3" pageNumber="496" reason="1">
+<emphasis id="60C3EAED2640FF813ABBBEFCFDB4FAD2" bold="true" box="[151,632,1258,1285]" pageId="3" pageNumber="496">
+The systematic position of 
+<taxonomicName id="95B74D7C2640FF813BC8BEFDFDB4FAD2" _evidence="document" _step="docGenera" authorityName="Simonsen, Archibald &amp; Ware" authorityYear="2024" box="[484,632,1258,1285]" class="Insecta" family="Dysagrionidae" genus="Stolleagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2640FF813BC8BEFDFDB4FAD2" bold="true" box="[484,632,1258,1285]" italics="true" pageId="3" pageNumber="496">Stolleagrion</emphasis>
+</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+<paragraph id="520836FF2640FF813ABBBF24FA51F946" blockId="3.[151,1437,1331,2041]" pageId="3" pageNumber="496">
+“Cephalozygoptera bearing a normal nodus [
+<taxonomicName id="95B74D7C2640FF8138A1BF24FCD1FA9A" _evidence="catalogs" _step="family" authorityName="Handlirsch" authorityYear="1907" box="[653,797,1331,1357]" class="Insecta" family="Sieblosiidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="family">Sieblosiidae</taxonomicName>
+: highly modified]” would be the most succinct diagnosis defining the 
+<taxonomicName id="95B74D7C2640FF813B05BF40FE00FAA6" _evidence="catalogs" _step="family" box="[297,460,1367,1393]" class="Insecta" family="Dysagrionidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="family">Dysagrionidae</taxonomicName>
+concept. If the 
+<taxonomicName id="95B74D7C2640FF8138AFBF40FB98FAA6" _authorityPlausibility="0.99957913" _evidence="catalogs" _step="family" authority="Archibald &amp; Cannings" authorityName="Archibald &amp; Cannings" authorityYear="2021" box="[643,1108,1367,1393]" class="Insecta" family="Whetwhetaksidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="family">Whetwhetaksidae Archibald &amp; Cannings</taxonomicName>
+are cephalozygopteran, then adding “and with an arculus positioned near Ax2 [
+<taxonomicName id="95B74D7C2640FF8138FCBF6CFC53FA42" _evidence="catalogs" _step="family" authorityName="Archibald &amp; Cannings" authorityYear="2021" box="[720,927,1403,1429]" class="Insecta" family="Whetwhetaksidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="family">Whetwhetaksidae</taxonomicName>
+: near Ax1]” would be all that is necessary to delimit the family. However, the great majority of fossil odonates are disarticulated wings, leaving assignment to Cephalozygoptera impossible without its defining head. This is further complicated by many or even all of the nine wing character states characteristic of the 
+<taxonomicName id="95B74D7C2640FF813899BFF0FBA6F9D6" _authorityPlausibility="0.99864507" _evidence="catalogs" _step="family" authority="(Archibald et al. 2021)" baseAuthorityName="Archibald" baseAuthorityYear="2021" box="[693,1130,1511,1537]" class="Insecta" family="Dysagrionidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="family">
+Dysagrionidae (Archibald 
+<emphasis id="60C3EAED2640FF8139C9BFFFFBD3F9D6" box="[997,1055,1511,1537]" italics="true" pageId="3" pageNumber="496">et al.</emphasis>
+2021)
+</taxonomicName>
+appearing convergently in Zygoptera and perhaps beyond (
+<bibRefCitation id="36264B0E2640FF81382CBC1CFD3AF9F2" author="Archibald, S. B. &amp; Ware, J. L. &amp; Rasmussen, J. A. &amp; Sylvestersen, R. L. &amp; Olsen, K. &amp; Simonsen, T. J." box="[512,758,1547,1573]" pageId="3" pageNumber="496" pagination="289 - 317" refId="ref3135" refString="Archibald, S. B., Ware, J. L., Rasmussen, J. A., Sylvestersen, R. L., Olsen, K. &amp; Simonsen, T. J. (2023) The damselfly genus Furagrion Petrulevicius et al. (Odonata, Zygoptera) from the early Eocene Fur Formation of Denmark and the dysagrionid grade. Zootaxa, 5278 (2), 289 - 317. https: // doi. org / 10.11646 / zootaxa. 5278.2.4" type="journal article" year="2023">
+Archibald 
+<emphasis id="60C3EAED2640FF813856BC1BFD67F9F2" box="[634,683,1547,1573]" italics="true" pageId="3" pageNumber="496">et al</emphasis>
+. 2023
+</bibRefCitation>
+). 
+<bibRefCitation id="36264B0E2640FF81392BBC1CFBC4F9F2" author="Archibald, S. B. &amp; Ware, J. L. &amp; Rasmussen, J. A. &amp; Sylvestersen, R. L. &amp; Olsen, K. &amp; Simonsen, T. J." box="[775,1032,1547,1573]" pageId="3" pageNumber="496" pagination="289 - 317" refId="ref3135" refString="Archibald, S. B., Ware, J. L., Rasmussen, J. A., Sylvestersen, R. L., Olsen, K. &amp; Simonsen, T. J. (2023) The damselfly genus Furagrion Petrulevicius et al. (Odonata, Zygoptera) from the early Eocene Fur Formation of Denmark and the dysagrionid grade. Zootaxa, 5278 (2), 289 - 317. https: // doi. org / 10.11646 / zootaxa. 5278.2.4" type="journal article" year="2023">
+Archibald 
+<emphasis id="60C3EAED2640FF813952BC1BFC7CF9F2" box="[894,944,1547,1573]" italics="true" pageId="3" pageNumber="496">et al</emphasis>
+. (2023)
+</bibRefCitation>
+believed that this creates a problem that cannot be overcome, that these nine dysagrionoid character states can be only suggestive—even if at times strongly so—that a fossil wing belongs to the 
+<taxonomicName id="95B74D7C2640FF8138B8BC44FCF7F9BA" _evidence="catalogs" _step="family" box="[660,827,1619,1645]" class="Insecta" family="Dysagrionidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="family">Dysagrionidae</taxonomicName>
+. They raised the possibility, however, that the presence of Ax0 as a tenth character state in combination with these might constitute a reliable wing diagnosis of the family.
+</paragraph>
+<paragraph id="520836FF2640FF813AEBBC8CFAD0F8BE" blockId="3.[151,1437,1331,2041]" pageId="3" pageNumber="496">
+We consider this to be the case, and, therefore, propose that the wings of 
+<taxonomicName id="95B74D7C2640FF813E3BBC8CFB7BF962" _evidence="catalogs" _step="family" box="[1047,1207,1691,1717]" class="Insecta" family="Dysagrionidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="family">Dysagrionidae</taxonomicName>
+may be confidently distinguished from those of other odonates by a combination of these ten wing character states: crossvein O is absent, the arculus is close to Ax2, it has a dysagrionoid quadrangle (see Archibald 
+<emphasis id="60C3EAED2640FF8139E9BCF3FC38F92A" box="[965,1012,1763,1789]" italics="true" pageId="3" pageNumber="496">et al</emphasis>
+. 2021, 2023), the nodus is at more than a quarter wing length, CuP and AA are briefly free distad the petiole, RP3-4 originates 
+<emphasis id="60C3EAED2640FF813E6FBD1FFB91F8F6" box="[1091,1117,1800,1825]" italics="true" pageId="3" pageNumber="496">ca</emphasis>
+. one to usually two thirds the length from arculus to subnodus, the antesubnodal space is without crossveins, the 
+<collectionCode id="34A6AE3A2640FF813E1EBD3CFBA9F892" box="[1074,1125,1835,1861]" pageId="3" pageNumber="496">CuA</collectionCode>
+–A space is expanded in the middle at least two cells wide, 
+<collectionCode id="34A6AE3A2640FF813BC6BD58FDD0F8BE" box="[490,540,1871,1897]" pageId="3" pageNumber="496">CuA</collectionCode>
+ends on the posterior margin at or beyond mid-wing, and has an Ax0.
+</paragraph>
+<paragraph id="520836FF2640FF813AEBBD64FD40F82E" blockId="3.[151,1437,1331,2041]" pageId="3" pageNumber="496">
+As the 
+<taxonomicName id="95B74D7C2640FF813B35BD64FE0CF85A" _evidence="document" _step="nonLabeled1" authorityName="Simonsen &amp; S.Brucearchibald &amp; Na.Rasmussen &amp; Él.Sylvestersen &amp; Olsen &amp; Ware" authorityYear="2024" box="[281,448,1907,1933]" class="Insecta" family="Dysagrionidae" genus="Stolleagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="species" species="foghnielseni">
+<emphasis id="60C3EAED2640FF813B35BD64FE0CF85A" box="[281,448,1907,1933]" italics="true" pageId="3" pageNumber="496">S. foghnielseni</emphasis>
+</taxonomicName>
+wing possesses all ten of these, we assign it to the 
+<taxonomicName id="95B74D7C2640FF813E20BD64FB7EF85A" _evidence="catalogs" _step="family" box="[1036,1202,1907,1933]" class="Insecta" family="Dysagrionidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="family">Dysagrionidae</taxonomicName>
+, which then consists of 
+<taxonomicName id="95B74D7C2640FF813A99BD80FE46F866" _authorityPlausibility="0.9976722" _evidence="catalogs" _step="genera" authority="Zhang" authorityName="Zhang" authorityYear="1992" box="[181,394,1943,1969]" class="Insecta" family="Dysagrionidae" genus="Congqingia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2640FF813A99BD80FEF5F866" box="[181,313,1943,1969]" italics="true" pageId="3" pageNumber="496">Congqingia</emphasis>
+Zhang
+</taxonomicName>
+, 
+<taxonomicName id="95B74D7C2640FF813BBABD8FFDBDF866" _authorityPlausibility="0.99832606" _evidence="catalogs" _step="genera" authority="Scudder" authorityName="Scudder" authorityYear="1878" box="[406,625,1943,1969]" class="Insecta" family="Dysagrionidae" genus="Dysagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2640FF813BBABD8FFDC0F866" box="[406,524,1944,1969]" italics="true" pageId="3" pageNumber="496">Dysagrion</emphasis>
+Scudder
+</taxonomicName>
+, 
+<taxonomicName id="95B74D7C2640FF813857BD80FBCDF866" _authorityPlausibility="0.8981564" _evidence="catalogs" _step="genera" authority="Nel &amp; Arillo" authorityName="Nel &amp; Arillo" authorityYear="2006" box="[635,1025,1943,1969]" class="Insecta" family="Dysagrionidae" genus="Electrophenacolestes" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2640FF813857BD80FCA5F866" box="[635,873,1943,1969]" italics="true" pageId="3" pageNumber="496">Electrophenacolestes</emphasis>
+Nel &amp; Arillo
+</taxonomicName>
+, 
+<taxonomicName id="95B74D7C2640FF813E27BD80FA54F866" _authorityPlausibility="0.99957913" _evidence="catalogs" _step="genera" authority="Archibald &amp; Cannings" authorityName="Archibald &amp; Cannings" authorityYear="2021" box="[1035,1432,1943,1969]" class="Insecta" family="Dysagrionidae" genus="Okanagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2640FF813E27BD80FB5EF866" box="[1035,1170,1943,1969]" italics="true" pageId="3" pageNumber="496">Okanagrion</emphasis>
+Archibald &amp; Cannings
+</taxonomicName>
+, 
+<taxonomicName id="95B74D7C2640FF813ABBBDACFDF1F802" _authorityPlausibility="0.99957913" _evidence="catalogs" _step="genera" authority="Archibald &amp; Cannings" authorityName="Archibald &amp; Cannings" authorityYear="2021" box="[151,573,1979,2005]" class="Insecta" family="Thaumatoneuridae" genus="Okanopteryx" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2640FF813ABBBDACFEE4F802" box="[151,296,1979,2005]" italics="true" pageId="3" pageNumber="496">Okanopteryx</emphasis>
+Archibald &amp; Cannings
+</taxonomicName>
+, 
+<taxonomicName id="95B74D7C2640FF813861BDACFCADF802" _authorityPlausibility="0.99768883" _evidence="catalogs" _step="genera" authority="Nel et al." authorityName="Nel" box="[589,865,1979,2005]" class="Insecta" family="Dysagrionidae" genus="Primorilestes" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2640FF813861BDACFD28F802" box="[589,740,1979,2005]" italics="true" pageId="3" pageNumber="496">Primorilestes</emphasis>
+Nel 
+<emphasis id="60C3EAED2640FF813909BDABFC97F802" box="[805,859,1979,2005]" italics="true" pageId="3" pageNumber="496">et al</emphasis>
+.
+</taxonomicName>
+, 
+<taxonomicName id="95B74D7C2640FF813959BDACFB5DF802" _authorityPlausibility="0.9985107" _evidence="catalogs" _step="genera" authority="Cockerell" authorityName="Cockerell" authorityYear="1908" box="[885,1169,1979,2005]" class="Insecta" family="Dysagrionidae" genus="Phenacolestes" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2640FF813959BDACFBD9F802" box="[885,1045,1979,2005]" italics="true" pageId="3" pageNumber="496">Phenacolestes</emphasis>
+Cockerell
+</taxonomicName>
+, 
+<taxonomicName id="95B74D7C2640FF813E8DBDACFA54F802" _authorityPlausibility="0.9985107" _evidence="catalogs" _step="genera" authority="Cockerell" authorityName="Cockerell" authorityYear="1927" box="[1185,1432,1979,2005]" class="Insecta" family="Odonata" genus="Petrolestes" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2640FF813E8DBDACFAD0F802" box="[1185,1308,1979,2005]" italics="true" pageId="3" pageNumber="496">Petrolestes</emphasis>
+Cockerell
+</taxonomicName>
+, 
+<taxonomicName id="95B74D7C2640FF813ABBBDC8FEEDF82E" _evidence="document" _step="docGenera" authorityName="Simonsen, Archibald &amp; Ware" authorityYear="2024" box="[151,289,2015,2041]" class="Insecta" family="Dysagrionidae" genus="Stolleagrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2640FF813ABBBDC8FEEDF82E" box="[151,289,2015,2041]" italics="true" pageId="3" pageNumber="496">Stolleagrion</emphasis>
+</taxonomicName>
+, and 
+<taxonomicName id="95B74D7C2640FF813B73BDC8FD40F82E" _authorityPlausibility="0.9981482" _evidence="catalogs" _step="genera" authority="Bechly et al." authorityName="Bechly" box="[351,652,2015,2041]" class="Insecta" family="Dysagrionidae" genus="Tenebragrion" higherTaxonomySource="GBIF" kingdom="Animalia" order="Odonata" pageId="3" pageNumber="496" phylum="Arthropoda" rank="genus">
+<emphasis id="60C3EAED2640FF813B73BDC8FE3AF82E" box="[351,502,2015,2041]" italics="true" pageId="3" pageNumber="496">Tenebragrion</emphasis>
+Bechly 
+<emphasis id="60C3EAED2640FF813878BDF7FD49F82E" box="[596,645,2015,2041]" italics="true" pageId="3" pageNumber="496">et al</emphasis>
+.
+</taxonomicName>
+</paragraph>
+<paragraph id="520836FF2647FF863AEBBA80FBFBFF2E" blockId="4.[151,1436,151,249]" pageId="4" pageNumber="497">
+Challenges to the validity of Cephalozygoptera suggesting that its characteristic head shape is an artefact of preservation (
+<bibRefCitation id="36264B0E2647FF863B1FBAACFDDFFF02" author="Nel, A. &amp; Zheng, D." box="[307,531,187,213]" pageId="4" pageNumber="497" pagination="165 - 170" refId="ref3877" refString="Nel, A. &amp; Zheng, D. (2021) The recently proposed odonatan ' suborder' Cephalozygoptera: fact or fiction. Palaeoentomology, 4 (2), 165 - 170. https: // doi. org / 10.11646 / palaeoentomology. 4.2.5" type="journal article" year="2021">Nel &amp; Zheng 2021</bibRefCitation>
+, 
+<bibRefCitation id="36264B0E2647FF86380DBAACFCC4FF02" author="Nel, A. &amp; Jouault, C." box="[545,776,187,213]" pageId="4" pageNumber="497" pagination="631 - 648" refId="ref3924" refString="Nel, A. &amp; Jouault, C. (2022) The odonatan insects from the Paleocene of Menat, central France. Acta Palaeontologica Polonica, 67, 631 - 648. https: // doi. org / 10.4202 / app. 00960.2021" type="journal article" year="2022">Nel &amp; Jouault 2022</bibRefCitation>
+) have been addressed previously (Archibald &amp; Cannings 2021, 
+<bibRefCitation id="36264B0E2647FF863AF0BAC8FE06FF2E" author="Archibald, S. B. &amp; Ware, J. L. &amp; Rasmussen, J. A. &amp; Sylvestersen, R. L. &amp; Olsen, K. &amp; Simonsen, T. J." box="[220,458,223,249]" pageId="4" pageNumber="497" pagination="289 - 317" refId="ref3135" refString="Archibald, S. B., Ware, J. L., Rasmussen, J. A., Sylvestersen, R. L., Olsen, K. &amp; Simonsen, T. J. (2023) The damselfly genus Furagrion Petrulevicius et al. (Odonata, Zygoptera) from the early Eocene Fur Formation of Denmark and the dysagrionid grade. Zootaxa, 5278 (2), 289 - 317. https: // doi. org / 10.11646 / zootaxa. 5278.2.4" type="journal article" year="2023">
+Archibald 
+<emphasis id="60C3EAED2647FF863B7FBAC8FE48FF2E" box="[339,388,223,249]" italics="true" pageId="4" pageNumber="497">et al</emphasis>
+. 2023
+</bibRefCitation>
+)—we refer to these publications for further discussion.
+</paragraph>
+</subSection>
+<subSection id="3B382F142647FF863ABBBB5DFEEEFDEA" _generate="added" pageId="4" pageNumber="497" type="acknowledgments">
+<paragraph id="520836FF2647FF863ABBBB5DFE46FEB3" blockId="4.[151,394,330,356]" box="[151,394,330,356]" pageId="4" pageNumber="497">
+<heading id="094081932647FF863ABBBB5DFE46FEB3" bold="true" box="[151,394,330,356]" fontSize="11" level="1" pageId="4" pageNumber="497" reason="1">
+<emphasis id="60C3EAED2647FF863ABBBB5DFE46FEB3" bold="true" box="[151,394,330,356]" pageId="4" pageNumber="497">Acknowledgements</emphasis>
+</heading>
+</paragraph>
+<paragraph id="520836FF2647FF863ABBBB84FEEEFDEA" blockId="4.[151,1437,403,573]" pageId="4" pageNumber="497">
+We are grateful to Dan Hall and Benjamin Price (Natural History Museum London) for high resolution images of 
+<taxonomicName id="95B74D7C2647FF863ABBBBA0FE86FE06" _evidence="catalogs" _step="species1" authorityName="Ris" authorityYear="1917" box="[151,330,439,465]" class="Insecta" family="Megapodagrionidae" genus="Philosina" kingdom="Animalia" order="Odonata" pageId="4" pageNumber="497" phylum="Arthropoda" rank="species" species="buchi">
+<emphasis id="60C3EAED2647FF863ABBBBA0FE86FE06" box="[151,330,439,465]" italics="true" pageId="4" pageNumber="497">Philosina buchi</emphasis>
+</taxonomicName>
+. Financial support was provided to TJS, JAR, RLS and KO by the Danish Ministry for Culture (grant: FORM.2019-0006), 15 June Foundation (grant: 2018-N-146), and Augustinus Foundation (grant: 19-1419). SBA thanks Rolf Mathewes (Simon Fraser University) for support. We thank two reviewers for their comments and suggestions.
+</paragraph>
+</subSection>
+<subSection id="3B382F142647FF873ABBB899FB0AFB37" _generate="added" lastPageId="5" lastPageNumber="498" pageId="4" pageNumber="497" type="reference_group">
+<paragraph id="520836FF2647FF863ABBB899FED3FD7F" blockId="4.[151,287,654,680]" box="[151,287,654,680]" pageId="4" pageNumber="497">
+<heading id="094081932647FF863ABBB899FED3FD7F" bold="true" box="[151,287,654,680]" fontSize="11" level="1" pageId="4" pageNumber="497" reason="1">
+<emphasis id="60C3EAED2647FF863ABBB899FED3FD7F" bold="true" box="[151,287,654,680]" pageId="4" pageNumber="497">References</emphasis>
+</heading>
+</paragraph>
+<bibRef id="8B17A2092647FF863ABBB8C4FDB0FCDD" _evidence="authorList|year" pageId="4" pageNumber="497" refId="ref3004" type="journal article">
+<paragraph id="520836FF2647FF863ABBB8C4FAC5FD3C" blockId="4.[151,1437,723,2035]" box="[151,1289,723,747]" pageId="4" pageNumber="497">
+<author id="8A0ADE1A2647FF863ABBB8C4FEF9FD3C" box="[151,309,723,747]" case="TC" fns="I" in="S.B." ins="D" ln="Archibald" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Archibald, S.B.</author>
+&amp; 
+<author id="8A0ADE1A2647FF863B79B8C4FE3EFD3C" box="[341,498,723,747]" case="TC" fns="I" in="R.A." ins="D" ln="Cannings" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Cannings, R.A.</author>
+(
+<year id="261F77AC2647FF863BD3B8C4FDF8FD3C" box="[511,564,723,747]" pageId="4" pageNumber="497">2021</year>
+) 
+<title id="20B3DDC92647FF86386DB8C4FC25FD3C" box="[577,1001,723,747]" pageId="4" pageNumber="497">The head of Cephalozygoptera (Odonata)</title>
+. 
+<journalOrPublisher id="88763C332647FF8639DEB8C3FB89FD3C" box="[1010,1093,724,747]" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF8639DEB8C3FB89FD3C" box="[1010,1093,724,747]" italics="true" pageId="4" pageNumber="497">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622647FF863E7EB8C4FB49FD3C" box="[1106,1157,723,747]" pageId="4" pageNumber="497" type="volume">5047</part>
+(
+<part id="26139C622647FF863EB9B8C4FB6CFD3C" box="[1173,1184,723,747]" pageId="4" pageNumber="497" type="issue">1</part>
+), 
+<pagination id="6B7EC80B2647FF863E99B8C4FAC9FD3C" box="[1205,1285,723,747]" pageId="4" pageNumber="497" type="pagination">97–100</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2647FF863AEBB8E5FDB0FCDD" blockId="4.[151,1437,723,2035]" box="[199,636,754,778]" pageId="4" pageNumber="497">
+<DOI id="2626F68F2647FF863AEBB8E5FDB0FCDD" box="[199,636,754,778]" pageId="4" pageNumber="497">https://doi.org/10.11646/zootaxa.5047.1.10</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092647FF863ABBB907FDA3FC53" _evidence="authorList|year" pageId="4" pageNumber="497" refId="ref3051" type="journal article">
+<paragraph id="520836FF2647FF863ABBB907FEF4FCB1" blockId="4.[151,1437,723,2035]" pageId="4" pageNumber="497">
+<author id="8A0ADE1A2647FF863ABBB907FEFAFCFE" box="[151,310,784,809]" case="TC" fns="I" in="S.B." ins="D" ln="Archibald" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Archibald, S.B.</author>
+, 
+<author id="8A0ADE1A2647FF863B6EB907FE2CFCFE" box="[322,480,784,809]" case="TC" fns="I" in="R.A." ins="D" ln="Cannings" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Cannings, R.A.</author>
+, 
+<author id="8A0ADE1A2647FF863BC7B907FDB5FCFF" box="[491,633,784,808]" case="TC" fns="I" in="R.J." ins="D" ln="Erickson" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Erickson, R.J.</author>
+, 
+<author id="8A0ADE1A2647FF8638AAB907FCC9FCFE" box="[646,773,784,809]" case="TC" fns="I" in="S.M." ins="D" ln="Bybee" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Bybee, S.M.</author>
+&amp; 
+<author id="8A0ADE1A2647FF863909B907FC02FCFF" box="[805,974,784,808]" case="TC" fns="I" in="R.W." ins="D" ln="Mathewes" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Mathewes, R.W.</author>
+(
+<year id="261F77AC2647FF8639F7B906FBDCFCFE" box="[987,1040,785,809]" pageId="4" pageNumber="497">2021</year>
+) 
+<title id="20B3DDC92647FF863E31B907FB32FC90" jopScore="0.41865993" pageId="4" pageNumber="497">The Cephalozygoptera, a new, extinct suborder of Odonata with new taxa from the early Eocene Okanagan Highlands, western North America</title>
+. 
+<journalOrPublisher id="88763C332647FF863F24B927FA97FC90" box="[1288,1371,816,839]" jopScore="2.8902953" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF863F24B927FA97FC90" box="[1288,1371,816,839]" italics="true" pageId="4" pageNumber="497">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622647FF863F46B938FA51FC90" box="[1386,1437,815,839]" pageId="4" pageNumber="497" type="volume">4934</part>
+(
+<part id="26139C622647FF863AFDB959FF10FCB1" box="[209,220,846,870]" pageId="4" pageNumber="497" type="issue">1</part>
+), 
+<pagination id="6B7EC80B2647FF863ADDB959FEF8FCB1" box="[241,308,846,870]" pageId="4" pageNumber="497" type="pagination">1–133</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2647FF863AEBB97BFDA3FC53" blockId="4.[151,1437,723,2035]" box="[199,623,876,900]" pageId="4" pageNumber="497">
+<DOI id="2626F68F2647FF863AEBB97BFDA3FC53" box="[199,623,876,900]" pageId="4" pageNumber="497">https://doi.org/10.11646/zootaxa.4934.1.1</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092647FF863ABBB99CFDBCFC28" _evidence="authorList|year" pageId="4" pageNumber="497" refId="ref3135" type="journal article">
+<paragraph id="520836FF2647FF863ABBB99CFDE3FC36" blockId="4.[151,1437,723,2035]" pageId="4" pageNumber="497">
+<author id="8A0ADE1A2647FF863ABBB99CFEF5FC74" box="[151,313,907,931]" case="TC" fns="I" in="S.B." ins="D" ln="Archibald" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Archibald, S.B.</author>
+, 
+<author id="8A0ADE1A2647FF863B64B99BFE7EFC74" box="[328,434,908,931]" case="TC" fns="I" in="J.L." ins="D" ln="Ware" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Ware, J.L.</author>
+, 
+<author id="8A0ADE1A2647FF863BEEB99BFDA3FC74" box="[450,623,907,931]" case="TC" fns="I" in="J.A." ins="D" ln="Rasmussen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Rasmussen, J.A.</author>
+, 
+<author id="8A0ADE1A2647FF863851B99CFCF6FC74" box="[637,826,907,931]" case="TC" fns="I" in="R.L." ins="D" ln="Sylvestersen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Sylvestersen, R.L.</author>
+, 
+<author id="8A0ADE1A2647FF863966B99CFC62FC74" box="[842,942,907,931]" case="TC" fns="I" in="K." ins="D" ln="Olsen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Olsen, K.</author>
+&amp; 
+<author id="8A0ADE1A2647FF8639F9B99CFBA1FC74" box="[981,1133,907,931]" case="TC" fns="I" in="T.J." ins="D" ln="Simonsen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Simonsen, T.J.</author>
+(
+<year id="261F77AC2647FF863E51B99CFB7EFC74" box="[1149,1202,907,931]" pageId="4" pageNumber="497">2023</year>
+) 
+<title id="20B3DDC92647FF863EEFB99CFECFFC37" jopScore="0.19227324" pageId="4" pageNumber="497">
+The damselfly genus 
+<emphasis id="60C3EAED2647FF863AEBB9BDFEFDFC16" box="[199,305,938,961]" italics="true" pageId="4" pageNumber="497">Furagrion</emphasis>
+Petrulevičius 
+<emphasis id="60C3EAED2647FF863BEDB9BCFE3FFC15" box="[449,499,938,962]" italics="true" pageId="4" pageNumber="497">et al.</emphasis>
+(Odonata, Zygoptera) from the early Eocene Fur Formation of Denmark and the dysagrionid grade
+</title>
+. 
+<journalOrPublisher id="88763C332647FF863B20B9DEFE93FC37" box="[268,351,969,992]" jopScore="2.8902953" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF863B20B9DEFE93FC37" box="[268,351,969,992]" italics="true" pageId="4" pageNumber="497">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622647FF863B40B9DFFE53FC37" box="[364,415,968,992]" pageId="4" pageNumber="497" type="volume">5278</part>
+(
+<part id="26139C622647FF863B81B9DEFE70FC36" box="[429,444,969,993]" pageId="4" pageNumber="497" type="issue">2</part>
+), 
+<pagination id="6B7EC80B2647FF863BE3B9DEFDE7FC36" box="[463,555,969,993]" pageId="4" pageNumber="497" type="pagination">289–317</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2647FF863AEBB9F0FDBCFC28" blockId="4.[151,1437,723,2035]" box="[199,624,999,1023]" pageId="4" pageNumber="497">
+<DOI id="2626F68F2647FF863AEBB9F0FDBCFC28" box="[199,624,999,1023]" pageId="4" pageNumber="497">https://doi.org/10.11646/zootaxa.5278.2.4</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092647FF863ABBBE11FDB4FB8C" _evidence="authorList|year" pageId="4" pageNumber="497" refId="ref3226" type="journal article">
+<paragraph id="520836FF2647FF863ABBBE11FD2EFBEB" blockId="4.[151,1437,723,2035]" pageId="4" pageNumber="497">
+<author id="8A0ADE1A2647FF863ABBBE11FEE6FBCA" box="[151,298,1030,1054]" case="TC" fns="I" in="O.B." ins="D" ln="Boggild" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Bøggild, O.B.</author>
+(
+<year id="261F77AC2647FF863B10BE11FEBDFBC9" box="[316,369,1030,1054]" pageId="4" pageNumber="497">1918</year>
+) 
+<title id="20B3DDC92647FF863BA8BE11FAE9FBC9" box="[388,1317,1030,1054]" jopScore="0.13214707" pageId="4" pageNumber="497">Den vulkanske aske i Moleret samt en oversigt over Danmarks aeldre Tertiaerbjergarter</title>
+. 
+<journalOrPublisher id="88763C332647FF863F1FBE11FD84FBEB" jopScore="4.1198044" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF863F1FBE11FE18FBE8" italics="true" pageId="4" pageNumber="497">Danmarks Geologiske UndersØgelser</emphasis>
+, II, Raekke
+</journalOrPublisher>
+, 
+<part id="26139C622647FF86387EBE32FDA7FBEA" box="[594,619,1061,1085]" pageId="4" pageNumber="497" type="volume">33</part>
+(
+<part id="26139C622647FF863857BE32FD4AFBEA" box="[635,646,1061,1085]" pageId="4" pageNumber="497" type="issue">1</part>
+), 
+<pagination id="6B7EC80B2647FF8638B0BE33FD12FBEB" box="[668,734,1060,1084]" pageId="4" pageNumber="497" type="pagination">1–159</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2647FF863AEBBE54FDB4FB8C" blockId="4.[151,1437,723,2035]" box="[199,632,1091,1115]" pageId="4" pageNumber="497">
+<DOI id="2626F68F2647FF863AEBBE54FDB4FB8C" box="[199,632,1091,1115]" pageId="4" pageNumber="497">https://doi.org/10.34194/raekke2.v33.6818</DOI>
+</paragraph>
+</bibRef>
+<paragraph id="520836FF2647FF863ABBBE75FC35FB4F" blockId="4.[151,1437,723,2035]" pageId="4" pageNumber="497">
+<bibRef id="8B17A2092647FF863ABBBE75FC35FB4F" _evidence="authorList|year" pageId="4" pageNumber="497" refId="ref3279" type="book">
+<author id="8A0ADE1A2647FF863ABBBE75FEFDFBAE" box="[151,305,1122,1146]" case="TC" fns="I" in="R.W." ins="D" ln="Garrison" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Garrison, R.W.</author>
+, 
+<author id="8A0ADE1A2647FF863B17BE75FE37FBAE" box="[315,507,1122,1146]" case="TC" fns="I" in="N." ins="D" ln="Ellenrieder" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">von Ellenrieder, N.</author>
+&amp; 
+<author id="8A0ADE1A2647FF863835BE75FD5BFBAD" box="[537,663,1122,1146]" case="TC" fns="I" in="J.A." ins="D" ln="Louton" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Louton, J.A.</author>
+(
+<year id="261F77AC2647FF86388FBE75FD14FBAD" box="[675,728,1122,1146]" pageId="4" pageNumber="497">2010</year>
+) 
+<title id="20B3DDC92647FF8638C9BE75FEA3FB4F" jopScore="0.08080727" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF8638C9BE75FEA3FB4F" italics="true" pageId="4" pageNumber="497">Damselfly genera of the New World: an illustrated and annotated key to the Zygoptera</emphasis>
+</title>
+. 
+<journalOrPublisher id="88763C332647FF863B57BE97FC6EFB4F" box="[379,930,1152,1176]" jopScore="3.4838896" pageId="4" pageNumber="497">Johns Hopkins University Press, Baltimore, Maryland</journalOrPublisher>
+, 
+<bookContentInfo id="654C258F2647FF863980BE96FC35FB4F" box="[940,1017,1153,1177]" pageId="4" pageNumber="497">490 pp.</bookContentInfo>
+</bibRef>
+</paragraph>
+<bibRef id="8B17A2092647FF863ABBBE88FD40FB01" _evidence="authorList|year" pageId="4" pageNumber="497" refId="ref3329" type="journal article">
+<paragraph id="520836FF2647FF863ABBBE88FAC2FB60" blockId="4.[151,1437,723,2035]" box="[151,1294,1183,1207]" pageId="4" pageNumber="497">
+<author id="8A0ADE1A2647FF863ABBBE88FEB5FB60" box="[151,377,1183,1207]" case="TC" fns="I" in="C." ins="D" ln="Heilmann-Clausen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Heilmann-Clausen, C.</author>
+(
+<year id="261F77AC2647FF863BABBE88FE70FB60" box="[391,444,1183,1207]" pageId="4" pageNumber="497">1994</year>
+) 
+<title id="20B3DDC92647FF863BE5BE88FB82FB60" box="[457,1102,1183,1207]" pageId="4" pageNumber="497">Review of Paleocene dinoflagellates from the North Sea region</title>
+. 
+<journalOrPublisher id="88763C332647FF863E7BBEB7FB44FB60" box="[1111,1160,1184,1207]" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF863E7BBEB7FB44FB60" box="[1111,1160,1184,1207]" italics="true" pageId="4" pageNumber="497">GFF</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622647FF863EB9BE88FB70FB60" box="[1173,1212,1183,1207]" pageId="4" pageNumber="497" type="volume">116</part>
+, 
+<pagination id="6B7EC80B2647FF863EEBBE88FAC5FB60" box="[1223,1289,1183,1207]" pageId="4" pageNumber="497" type="pagination">51–53</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2647FF863AEBBEA9FD40FB01" blockId="4.[151,1437,723,2035]" box="[199,652,1214,1238]" pageId="4" pageNumber="497">
+<DOI id="2626F68F2647FF863AEBBEA9FD40FB01" box="[199,652,1214,1238]" pageId="4" pageNumber="497">https://doi.org/10.1080/11035899409546149</DOI>
+</paragraph>
+</bibRef>
+<paragraph id="520836FF2647FF863ABBBECBFB27FAC4" blockId="4.[151,1437,723,2035]" pageId="4" pageNumber="497">
+<bibRef id="8B17A2092647FF863ABBBECBFB27FAC4" _evidence="authorList|year" author="Heilmann-Clausen, C." editor="Nielsen, O. B." journalOrPublisher="Geologisk Institut, Aarhus Universitet, Aarhus" pageId="4" pageNumber="497" pagination="69 - 114" refId="ref3364" title="Palaeogene aflejringer over Danskekalken" type="book chapter" volumeTitle="Danmarks geologi fra Kridt til i dag. Aarhus Geokompendier 1." year="1995">
+<author id="8A0ADE1A2647FF863ABBBECBFEB4FB22" box="[151,376,1244,1269]" case="TC" fns="I" in="C." ins="D" ln="Heilmann-Clausen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Heilmann-Clausen, C.</author>
+(
+<year id="261F77AC2647FF863BA9BECBFE76FB23" box="[389,442,1244,1268]" pageId="4" pageNumber="497">1995</year>
+) 
+<title id="20B3DDC92647FF863BEABECBFCA2FB23" box="[454,878,1244,1268]" jopScore="0.2218347" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF863BEABECBFCA2FB23" box="[454,878,1244,1268]" italics="true" pageId="4" pageNumber="497">Palaeogene aflejringer over Danskekalken</emphasis>
+</title>
+. 
+<emphasis id="60C3EAED2647FF863956BECAFC43FB23" box="[890,911,1245,1268]" italics="true" pageId="4" pageNumber="497">In</emphasis>
+: 
+<editor id="942BDEFC2647FF8639B0BECBFBE8FB23" box="[924,1060,1244,1269]" case="TC" fns="I" in="O.B." ins="D" ln="Nielsen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Nielsen, O.B.</editor>
+(Ed.), 
+<volumeTitle id="ED1B54CF2647FF863E45BECBFDDDFAC4" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF863E45BECBFDC7FAC4" italics="true" pageId="4" pageNumber="497">Danmarks geologi fra Kridt til i dag. Aarhus Geokompendier 1</emphasis>
+.
+</volumeTitle>
+<journalOrPublisher id="88763C332647FF863834BEECFC3DFAC4" box="[536,1009,1275,1299]" pageId="4" pageNumber="497">Geologisk Institut, Aarhus Universitet, Aarhus</journalOrPublisher>
+, pp. 
+<pagination id="6B7EC80B2647FF863E0CBEECFBA2FAC4" box="[1056,1134,1275,1299]" pageId="4" pageNumber="497" type="pageRange">69–114</pagination>
+. [in Danish]
+</bibRef>
+</paragraph>
+<bibRef id="8B17A2092647FF863ABBBF0DFDBEFAB8" _evidence="authorList|year" pageId="4" pageNumber="497" refId="ref3419" type="journal article">
+<paragraph id="520836FF2647FF863ABBBF0DFB51FA86" blockId="4.[151,1437,723,2035]" pageId="4" pageNumber="497">
+<author id="8A0ADE1A2647FF863ABBBF0DFEB3FAE5" box="[151,383,1306,1330]" case="TC" fns="I" in="C." ins="D" ln="Heilmann-Clausen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Heilmann-Clausen, C.</author>
+, 
+<author id="8A0ADE1A2647FF863BA2BF0DFDD0FAE6" box="[398,540,1306,1330]" case="TC" fns="I" in="O.B." ins="D" ln="Nielsen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Nielsen, O.B.</author>
+&amp; 
+<author id="8A0ADE1A2647FF86386ABF0DFD74FAE6" box="[582,696,1306,1330]" case="TC" fns="I" in="P." ins="D" ln="Gersner" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Gersner, P.</author>
+(
+<year id="261F77AC2647FF8638E5BF0DFD32FAE5" box="[713,766,1306,1330]" pageId="4" pageNumber="497">1985</year>
+) 
+<title id="20B3DDC92647FF86393CBF0DFDE1FA87" pageId="4" pageNumber="497">Lithostratigraphy and depositional environments in the Upper Paleocene and Eocene of Denmark</title>
+. 
+<journalOrPublisher id="88763C332647FF86381ABF2FFBC7FA87" box="[566,1035,1336,1361]" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF86381ABF2FFBC7FA87" box="[566,1035,1336,1361]" italics="true" pageId="4" pageNumber="497">Bulletin of the Geological Society of Denmark</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622647FF863E34BF2EFBFFFA86" box="[1048,1075,1337,1361]" pageId="4" pageNumber="497" type="volume">33</part>
+, 
+<pagination id="6B7EC80B2647FF863E12BF2EFB56FA86" box="[1086,1178,1337,1361]" pageId="4" pageNumber="497" type="pagination">287–323</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2647FF863AEBBF40FDBEFAB8" blockId="4.[151,1437,723,2035]" box="[199,626,1367,1391]" pageId="4" pageNumber="497">
+<DOI id="2626F68F2647FF863AEBBF40FDBEFAB8" box="[199,626,1367,1391]" pageId="4" pageNumber="497">https://doi.org/10.37570/bgsd-1984-33-26</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092647FF863ABBBF61FDB4FA7B" _evidence="authorList|year" pageId="4" pageNumber="497" refId="ref3480" type="journal article">
+<paragraph id="520836FF2647FF863ABBBF61FACBFA59" blockId="4.[151,1437,723,2035]" box="[151,1287,1398,1424]" pageId="4" pageNumber="497">
+<author id="8A0ADE1A2647FF863ABBBF61FEE9FA5A" box="[151,293,1398,1422]" case="TC" fns="I" in="K." ins="D" ln="Henriksen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Henriksen, K.</author>
+(
+<year id="261F77AC2647FF863B1EBF61FEABFA59" box="[306,359,1398,1422]" pageId="4" pageNumber="497">1922</year>
+) 
+<title id="20B3DDC92647FF863B59BF61FD67FA59" box="[373,683,1398,1422]" jopScore="0.11977564" pageId="4" pageNumber="497">Eocene insects from Denmark</title>
+. 
+<journalOrPublisher id="88763C332647FF86389FBF61FB6DFA59" box="[691,1185,1398,1424]" jopScore="4.1198044" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF86389FBF61FBFDFA47" box="[691,1073,1398,1424]" italics="true" pageId="4" pageNumber="497">Danmarks Geologiske UndersØgelser</emphasis>
+, II, Raekke
+</journalOrPublisher>
+<part id="26139C622647FF863E84BF61FB0FFA59" box="[1192,1219,1398,1422]" pageId="4" pageNumber="497" type="volume">37</part>
+, 
+<pagination id="6B7EC80B2647FF863EE2BF61FACFFA59" box="[1230,1283,1398,1422]" pageId="4" pageNumber="497" type="pagination">1–36</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2647FF863AEBBF83FDB4FA7B" blockId="4.[151,1437,723,2035]" box="[199,632,1428,1452]" pageId="4" pageNumber="497">
+<DOI id="2626F68F2647FF863AEBBF83FDB4FA7B" box="[199,632,1428,1452]" pageId="4" pageNumber="497">https://doi.org/10.34194/raekke2.v37.6823</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092647FF863ABBBFA3FD96F9F0" _evidence="authorList|year" pageId="4" pageNumber="497" refId="ref3519" type="journal article">
+<paragraph id="520836FF2647FF863ABBBFA3FEEBF9DF" blockId="4.[151,1437,723,2035]" pageId="4" pageNumber="497">
+<author id="8A0ADE1A2647FF863ABBBFA3FEC3FA1C" box="[151,271,1460,1483]" case="TC" fns="I" in="M.T." ins="D" ln="Jones" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Jones, M.T.</author>
+, 
+<author id="8A0ADE1A2647FF863B34BFA4FE0DFA1C" box="[280,449,1459,1483]" case="TC" fns="I" in="L.M.E." ins="D" ln="Percival" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Percival, L.M.E.</author>
+, 
+<author id="8A0ADE1A2647FF863BE6BFA4FD9DFA1C" box="[458,593,1459,1483]" case="TC" fns="I" in="E.W." ins="D" ln="Stokke" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Stokke, E.W.</author>
+, 
+<author id="8A0ADE1A2647FF863876BFA4FD0BFA1C" box="[602,711,1459,1483]" case="TC" fns="I" in="J." ins="D" ln="Frieling" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Frieling, J.</author>
+, 
+<author id="8A0ADE1A2647FF8638FEBFA4FC98FA1C" box="[722,852,1459,1483]" case="TC" fns="I" in="T.A." ins="D" ln="Mather" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Mather, T.A.</author>
+, 
+<author id="8A0ADE1A2647FF863971BFA4FC7AFA1C" box="[861,950,1459,1483]" case="TC" fns="I" in="L." ins="D" ln="Riber" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Riber, L.</author>
+, 
+<author id="8A0ADE1A2647FF8639EEBFA4FB95FA1C" box="[962,1113,1459,1483]" case="TC" fns="I" in="B.A." ins="D" ln="Schubert" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Schubert, B.A.</author>
+, 
+<author id="8A0ADE1A2647FF863E4FBFA4FB1FFA1C" box="[1123,1235,1459,1483]" case="TC" fns="I" in="B." ins="D" ln="Schultz" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Schultz, B.</author>
+, 
+<author id="8A0ADE1A2647FF863EF1BFA3FA8BFA1C" box="[1245,1351,1459,1484]" case="TC" fns="I" in="C." ins="D" ln="Tegner" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Tegner, C.</author>
+, 
+<author id="8A0ADE1A2647FF863F7DBFA4FF10FA3D" case="TC" fns="I" in="S." ins="D" ln="Planke" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Planke, S.</author>
+&amp; 
+<author id="8A0ADE1A2647FF863AD7BFC5FE41FA3E" box="[251,397,1490,1514]" case="TC" fns="I" in="H.H." ins="D" ln="Svensen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Svensen, H.H.</author>
+(
+<year id="261F77AC2647FF863BB7BFC5FE1CFA3D" box="[411,464,1490,1514]" pageId="4" pageNumber="497">2019</year>
+) 
+<title id="20B3DDC92647FF863BF1BFC5FB69FA3D" box="[477,1189,1490,1514]" pageId="4" pageNumber="497">Mercury anomalies across the Palaeocene-Eocene Thermal Maximum</title>
+. 
+<journalOrPublisher id="88763C332647FF863E82BFC5FABCFA3D" box="[1198,1392,1490,1514]" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF863E82BFC5FABCFA3D" box="[1198,1392,1490,1514]" italics="true" pageId="4" pageNumber="497">Climate of the Past</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622647FF863F51BFC5FA54FA3D" box="[1405,1432,1490,1514]" pageId="4" pageNumber="497" type="volume">15</part>
+, 
+<pagination id="6B7EC80B2647FF863AEBBFE7FEEFF9DF" box="[199,291,1520,1544]" pageId="4" pageNumber="497" type="pagination">217–236</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2647FF863AEBBC18FD96F9F0" blockId="4.[151,1437,723,2035]" box="[199,602,1551,1575]" pageId="4" pageNumber="497">
+<DOI id="2626F68F2647FF863AEBBC18FD96F9F0" box="[199,602,1551,1575]" pageId="4" pageNumber="497">https://doi.org/10.5194/cp-15-217-2019</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092647FF863ABBBC39FDAAF917" _evidence="authorList|year" pageId="4" pageNumber="497" refId="ref3624" type="journal article">
+<paragraph id="520836FF2647FF863ABBBC39FE8CF975" blockId="4.[151,1437,723,2035]" pageId="4" pageNumber="497">
+<author id="8A0ADE1A2647FF863ABBBC39FEDCF992" box="[151,272,1582,1605]" case="TC" fns="I" in="M.T." ins="D" ln="Jones" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Jones, M.T.</author>
+, 
+<author id="8A0ADE1A2647FF863B36BC39FE6EF992" box="[282,418,1582,1606]" case="TC" fns="I" in="E.W." ins="D" ln="Stokke" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Stokke, E.W.</author>
+, 
+<author id="8A0ADE1A2647FF863B80BC39FDF5F991" box="[428,569,1582,1606]" case="TC" fns="I" in="A.D." ins="D" ln="Rooney" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Rooney, A.D.</author>
+, 
+<author id="8A0ADE1A2647FF863868BC39FD7EF992" box="[580,690,1582,1606]" case="TC" fns="I" in="J." ins="D" ln="Frieling" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Frieling, J.</author>
+, 
+<author id="8A0ADE1A2647FF863892BC39FC37F991" box="[702,1019,1582,1606]" case="TC" fns="I" in="P.A.E." ins="D" ln="Pogge von Strandmann" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Pogge von Strandmann, P.A.E.</author>
+, 
+<author id="8A0ADE1A2647FF863E29BC39FB49F992" box="[1029,1157,1582,1606]" case="TC" fns="I" in="D.J." ins="D" ln="Wilson" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Wilson, D.J.</author>
+, 
+<author id="8A0ADE1A2647FF863EBCBC39FAEEF992" box="[1168,1314,1582,1606]" case="TC" fns="I" in="H.H." ins="D" ln="Svensen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Svensen, H.H.</author>
+, 
+<author id="8A0ADE1A2647FF863F03BC39FA5BF991" box="[1327,1431,1582,1606]" case="TC" fns="I" in="S." ins="D" ln="Planke" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Planke, S.</author>
+, 
+<author id="8A0ADE1A2647FF863AEBBC5BFEE1F9B3" box="[199,301,1612,1636]" case="TC" fns="I" in="T." ins="D" ln="Adatte" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Adatte, T.</author>
+, 
+<author id="8A0ADE1A2647FF863B1ABC5BFE7FF9B3" box="[310,435,1612,1636]" case="TC" fns="I" in="N." ins="D" ln="Thibault" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Thibault, N.</author>
+, 
+<author id="8A0ADE1A2647FF863B90BC5BFD84F9B3" box="[444,584,1612,1636]" case="TC" fns="I" in="M.L." ins="D" ln="Vickers" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Vickers, M.L.</author>
+, 
+<author id="8A0ADE1A2647FF863878BC5BFD1BF9B2" box="[596,727,1612,1637]" case="TC" fns="I" in="T.A." ins="D" ln="Mather" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Mather, T.A.</author>
+, 
+<author id="8A0ADE1A2647FF8638CCBC5AFC86F9B2" box="[736,842,1613,1637]" case="TC" fns="I" in="C." ins="D" ln="Tegner" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Tegner, C.</author>
+, 
+<author id="8A0ADE1A2647FF863979BC5BFC04F9B3" box="[853,968,1612,1636]" case="TC" fns="I" in="V." ins="D" ln="Zuchuat" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Zuchuat, V.</author>
+&amp; 
+<author id="8A0ADE1A2647FF8639C4BC5BFBA5F9B3" box="[1000,1129,1612,1636]" case="TC" fns="I" in="B.P." ins="D" ln="Schultz" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Schultz, B.P.</author>
+(
+<year id="261F77AC2647FF863E5ABC5AFB67F9B2" box="[1142,1195,1613,1637]" pageId="4" pageNumber="497">2023</year>
+) 
+<title id="20B3DDC92647FF863E9BBC5BFB55F954" jopScore="0.069577225" pageId="4" pageNumber="497">Tracing North Atlantic volcanism and seaway connectivity across the Paleocene–Eocene Thermal Maximum (PETM)</title>
+. 
+<journalOrPublisher id="88763C332647FF863E89BC7CFAA2F954" box="[1189,1390,1643,1667]" jopScore="0.14041224" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF863E89BC7CFAA2F954" box="[1189,1390,1643,1667]" italics="true" pageId="4" pageNumber="497">Climate of the Past</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622647FF863F51BC7CFA54F954" box="[1405,1432,1643,1667]" pageId="4" pageNumber="497" type="volume">19</part>
+, 
+<pagination id="6B7EC80B2647FF863AEBBC9DFEF0F975" box="[199,316,1674,1698]" pageId="4" pageNumber="497" type="pagination">1623–1652</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2647FF863AEBBCBFFDAAF917" blockId="4.[151,1437,723,2035]" box="[199,614,1704,1728]" pageId="4" pageNumber="497">
+<DOI id="2626F68F2647FF863AEBBCBFFDAAF917" box="[199,614,1704,1728]" pageId="4" pageNumber="497">https://doi.org/10.5194/cp-19-1623-2023</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092647FF863ABBBCDFFD4CF8CB" _evidence="authorList" pageId="4" pageNumber="497" refId="ref3767" type="journal article">
+<paragraph id="520836FF2647FF863ABBBCDFFC83F929" blockId="4.[151,1437,723,2035]" pageId="4" pageNumber="497">
+<author id="8A0ADE1A2647FF863ABBBCDFFF31F908" box="[151,253,1736,1759]" case="TC" fns="I" in="L." ins="D" ln="Larsen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Larsen, L.</author>
+M, 
+<author id="8A0ADE1A2647FF863B0EBCD0FE59F908" box="[290,405,1735,1759]" case="TC" fns="I" in="J.G." ins="D" ln="Fitton" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Fitton, J.G.</author>
+&amp; 
+<author id="8A0ADE1A2647FF863B9ABCD0FD82F908" box="[438,590,1735,1759]" case="TC" fns="I" in="A.K." ins="D" ln="Pedersen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Pedersen, A.K.</author>
+(
+<year id="261F77AC2647FF863870BCD0FD5DF908" box="[604,657,1735,1759]" pageId="4" pageNumber="497">2003</year>
+) 
+<title id="20B3DDC92647FF8638B3BCD0FD40F929" pageId="4" pageNumber="497">Paleogene volcanic ash layers in the Danish Basin: composition and source areas in the North Atlantic Igneous Province</title>
+. 
+<journalOrPublisher id="88763C332647FF8638BABCF1FD19F929" box="[662,725,1766,1790]" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF8638BABCF1FD19F929" box="[662,725,1766,1790]" italics="true" pageId="4" pageNumber="497">Lithos</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622647FF8638CEBCF1FD31F929" box="[738,765,1766,1790]" pageId="4" pageNumber="497" type="volume">71</part>
+, 
+<pagination id="6B7EC80B2647FF863924BCF1FC87F929" box="[776,843,1766,1790]" pageId="4" pageNumber="497" type="pagination">47–80</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2647FF863AEBBD13FD4CF8CB" blockId="4.[151,1437,723,2035]" box="[199,640,1796,1820]" pageId="4" pageNumber="497">
+<DOI id="2626F68F2647FF863AEBBD13FD4CF8CB" box="[199,640,1796,1820]" pageId="4" pageNumber="497">https://doi.org/10.1016/j.lithos.2003.07.001</DOI>
+</paragraph>
+</bibRef>
+<paragraph id="520836FF2647FF863ABBBD34FD56F88D" blockId="4.[151,1437,723,2035]" pageId="4" pageNumber="497">
+<bibRef id="8B17A2092647FF863ABBBD34FD56F88D" _evidence="authorList|year" pageId="4" pageNumber="497" refId="ref3831" type="book chapter">
+<author id="8A0ADE1A2647FF863ABBBD34FEC0F8EC" box="[151,268,1827,1851]" case="TC" fns="I" in="H." ins="D" ln="Madsen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Madsen, H.</author>
+&amp; 
+<author id="8A0ADE1A2647FF863B07BD33FE1FF8EC" box="[299,467,1827,1851]" case="TC" fns="I" in="J.A." ins="D" ln="Rasmussen" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Rasmussen, J.A.</author>
+(
+<year id="261F77AC2647FF863BF3BD34FDD8F8EC" box="[479,532,1827,1851]" pageId="4" pageNumber="497">2021</year>
+) 
+<emphasis id="60C3EAED2647FF86380DBD34FA51F8EC" box="[545,1437,1827,1851]" italics="true" pageId="4" pageNumber="497">
+<title id="20B3DDC92647FF86380DBD34FA55F8EC" box="[545,1433,1827,1851]" jopScore="0.094098814" pageId="4" pageNumber="497">Geologien fortaeller: Moler og Fossiler / What geology tells: The mo-clay and its fossils</title>
+.
+</emphasis>
+<journalOrPublisher id="88763C332647FF863AEBBD55FE92F88E" box="[199,350,1858,1881]" jopScore="0.41761827" pageId="4" pageNumber="497">Museum Mors</journalOrPublisher>
+, 
+<bookContentInfo id="654C258F2647FF863B44BD55FE79F88E" box="[360,437,1858,1882]" pageId="4" pageNumber="497">103 pp.</bookContentInfo>
+ISBN 87-87566- 
+<pagination id="6B7EC80B2647FF863846BD55FD5AF88D" box="[618,662,1858,1882]" pageId="4" pageNumber="497" type="pagination">91-5</pagination>
+.
+</bibRef>
+</paragraph>
+<bibRef id="8B17A2092647FF863ABBBD77FD78F861" _evidence="authorList|year" pageId="4" pageNumber="497" refId="ref3877" type="journal article">
+<paragraph id="520836FF2647FF863ABBBD77FEA8F840" blockId="4.[151,1437,723,2035]" pageId="4" pageNumber="497">
+<author id="8A0ADE1A2647FF863ABBBD77FF2DF8AE" box="[151,225,1888,1913]" case="TC" fns="I" in="A." ins="D" ln="Nel" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Nel, A.</author>
+&amp; 
+<author id="8A0ADE1A2647FF863B2EBD77FEA5F8AF" box="[258,361,1888,1912]" case="TC" fns="I" in="D." ins="D" ln="Zheng" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Zheng, D.</author>
+(
+<year id="261F77AC2647FF863B5BBD76FE60F8AE" box="[375,428,1889,1913]" pageId="4" pageNumber="497">2021</year>
+) 
+<title id="20B3DDC92647FF863B96BD77FB02F8AF" box="[442,1230,1888,1912]" jopScore="0.057673518" pageId="4" pageNumber="497">The recently proposed odonatan ‘suborder’ Cephalozygoptera: fact or fiction</title>
+. 
+<journalOrPublisher id="88763C332647FF863EF4BD77FA5AF8AF" box="[1240,1430,1888,1912]" jopScore="0.005243047" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF863EF4BD77FA5AF8AF" box="[1240,1430,1888,1912]" italics="true" pageId="4" pageNumber="497">Palaeoentomology</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622647FF863AEBBD68FF18F840" box="[199,212,1919,1943]" pageId="4" pageNumber="497" type="volume">4</part>
+(
+<part id="26139C622647FF863ACFBD68FF3EF840" box="[227,242,1919,1943]" pageId="4" pageNumber="497" type="issue">2</part>
+), 
+<pagination id="6B7EC80B2647FF863B28BD68FEACF840" box="[260,352,1919,1943]" pageId="4" pageNumber="497" type="pagination">165–170</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2647FF863AEBBD89FD78F861" blockId="4.[151,1437,723,2035]" box="[199,692,1950,1974]" pageId="4" pageNumber="497">
+<DOI id="2626F68F2647FF863AEBBD89FD78F861" box="[199,692,1950,1974]" pageId="4" pageNumber="497">https://doi.org/10.11646/palaeoentomology.4.2.5</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092647FF873ABBBDABFD95FF79" _evidence="authorList|year" lastPageId="5" lastPageNumber="498" pageId="4" pageNumber="497" refId="ref3924" type="journal article">
+<paragraph id="520836FF2647FF863ABBBDABFE81F824" blockId="4.[151,1437,723,2035]" pageId="4" pageNumber="497">
+<author id="8A0ADE1A2647FF863ABBBDABFF13F802" box="[151,223,1980,2005]" case="TC" fns="I" in="A." ins="D" ln="Nel" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Nel, A.</author>
+&amp; 
+<author id="8A0ADE1A2647FF863AD1BDABFEA6F802" box="[253,362,1980,2005]" case="TC" fns="I" in="C." ins="D" ln="Jouault" lnc="TC" npo="LnFn" pageId="4" pageNumber="497">Jouault, C.</author>
+(
+<year id="261F77AC2647FF863B5ABDAAFE67F802" box="[374,427,1981,2005]" pageId="4" pageNumber="497">2022</year>
+) 
+<title id="20B3DDC92647FF863B9BBDABFB9DF803" box="[439,1105,1980,2004]" jopScore="0.8626809" pageId="4" pageNumber="497">The odonatan insects from the Paleocene of Menat, central France</title>
+. 
+<journalOrPublisher id="88763C332647FF863E76BDAAFA59F803" box="[1114,1429,1980,2004]" jopScore="1.5447845" pageId="4" pageNumber="497">
+<emphasis id="60C3EAED2647FF863E76BDAAFA59F803" box="[1114,1429,1980,2004]" italics="true" pageId="4" pageNumber="497">Acta Palaeontologica Polonica</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622647FF863AEBBDCCFF2EF824" box="[199,226,2011,2035]" pageId="4" pageNumber="497" type="volume">67</part>
+, 
+<pagination id="6B7EC80B2647FF863AC1BDCCFE85F824" box="[237,329,2011,2035]" pageId="4" pageNumber="497" type="pagination">631–648</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2646FF873AEBBA81FD95FF79" blockId="5.[151,1437,150,1248]" box="[199,601,150,174]" pageId="5" pageNumber="498">
+<DOI id="2626F68F2646FF873AEBBA81FD95FF79" box="[199,601,150,174]" pageId="5" pageNumber="498">https://doi.org/10.4202/app.00960.2021</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092646FF873ABBBAA2FDBDFEDD" _evidence="authorList|year" pageId="5" pageNumber="498" refId="ref3970" type="journal article">
+<paragraph id="520836FF2646FF873ABBBAA2FD72FF3B" blockId="5.[151,1437,150,1248]" pageId="5" pageNumber="498">
+<author id="8A0ADE1A2646FF873ABBBAA2FEFCFF1A" box="[151,304,181,205]" case="TC" fns="I" in="G.K." ins="D" ln="Pedersen" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Pedersen, G.K.</author>
+&amp; 
+<author id="8A0ADE1A2646FF873B62BAA2FE7DFF1A" box="[334,433,181,205]" case="TC" fns="I" in="F." ins="D" ln="Surlyk" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Surlyk, F.</author>
+(
+<year id="261F77AC2646FF873B91BAA2FE3EFF1A" box="[445,498,181,205]" pageId="5" pageNumber="498">1983</year>
+) 
+<title id="20B3DDC92646FF873BD2BAA2FA88FF1A" box="[510,1348,181,205]" jopScore="0.39939654" pageId="5" pageNumber="498">The Fur Formation, a late Paleocene ash-bearing diatomite from northern Denmark</title>
+. 
+<journalOrPublisher id="88763C332646FF873F60BAA2FD89FF3B" jopScore="0.6006622" pageId="5" pageNumber="498">
+<emphasis id="60C3EAED2646FF873F60BAA2FD89FF3B" italics="true" pageId="5" pageNumber="498">Bulletin of the Geological Society of Denmark</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622646FF87387EBAC3FDA2FF3B" box="[594,622,212,236]" pageId="5" pageNumber="498" type="volume">32</part>
+, 
+<pagination id="6B7EC80B2646FF873854BAC3FD76FF3B" box="[632,698,212,236]" pageId="5" pageNumber="498" type="pagination">43–65</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2646FF873AEBBAE5FDBDFEDD" blockId="5.[151,1437,150,1248]" box="[199,625,242,266]" pageId="5" pageNumber="498">
+<DOI id="2626F68F2646FF873AEBBAE5FDBDFEDD" box="[199,625,242,266]" pageId="5" pageNumber="498">https://doi.org/10.37570/bgsd-1983-32-03</DOI>
+</paragraph>
+</bibRef>
+<paragraph id="520836FF2646FF873ABBBB06FC80FEB0" blockId="5.[151,1437,150,1248]" pageId="5" pageNumber="498">
+<bibRef id="8B17A2092646FF873ABBBB06FC80FEB0" _evidence="authorList|year" pageId="5" pageNumber="498" refId="ref4026" type="journal article">
+<author id="8A0ADE1A2646FF873ABBBB06FEF8FEFE" box="[151,308,273,297]" case="TC" fns="I" in="G.K." ins="D" ln="Pedersen" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Pedersen, G.K.</author>
+, 
+<author id="8A0ADE1A2646FF873B6CBB06FE21FEFE" box="[320,493,273,297]" case="TC" fns="I" in="S.A.S." ins="D" ln="Pedersen" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Pedersen, S.A.S.</author>
+, 
+<author id="8A0ADE1A2646FF873BD6BB06FDA9FEFE" box="[506,613,273,297]" case="TC" fns="I" in="N." ins="D" ln="Bonde" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Bonde, N.</author>
+, 
+<author id="8A0ADE1A2646FF87385DBB06FC9AFEFE" box="[625,854,273,297]" case="TC" fns="I" in="C." ins="D" ln="Heilmann-Clausen" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Heilmann-Clausen, C.</author>
+, 
+<author id="8A0ADE1A2646FF87394EBB05FC26FEFE" box="[866,1002,274,297]" case="TC" fns="I" in="L.M." ins="D" ln="Larsen" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Larsen, L.M.</author>
+, 
+<author id="8A0ADE1A2646FF8739DABB06FBA6FEFE" box="[1014,1130,273,297]" case="TC" fns="I" in="B." ins="D" ln="Lindow" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Lindow, B.</author>
+, 
+<author id="8A0ADE1A2646FF873E5BBB06FB22FEFE" box="[1143,1262,273,297]" case="TC" fns="I" in="H." ins="D" ln="Madsen" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Madsen, H.</author>
+, 
+<author id="8A0ADE1A2646FF873ED0BB06FA54FEFE" box="[1276,1432,273,297]" case="TC" fns="I" in="A.K." ins="D" ln="Pedersen" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Pedersen, A.K.</author>
+, 
+<author id="8A0ADE1A2646FF873AEBBB27FEDBFE90" box="[199,279,304,327]" case="TC" fns="I" in="J." ins="D" ln="Rust" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Rust, J.</author>
+, 
+<author id="8A0ADE1A2646FF873B0ABB27FE61FE90" box="[294,429,304,328]" case="TC" fns="I" in="P.B." ins="D" ln="Schultz" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Schultz, P.B.</author>
+, 
+<author id="8A0ADE1A2646FF873B97BB27FDE5FE90" box="[443,553,304,328]" case="TC" fns="I" in="M." ins="D" ln="Storey" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Storey, M.</author>
+&amp; 
+<author id="8A0ADE1A2646FF87387CBB27FD39FE9F" box="[592,757,304,328]" case="TC" fns="I" in="P.S." ins="D" ln="Willumsen" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Willumsen, P.S.</author>
+(
+<year id="261F77AC2646FF873929BB27FCF6FE9F" box="[773,826,304,328]" pageId="5" pageNumber="498">2012</year>
+) 
+<title id="20B3DDC92646FF873967BB27FEADFEB0" jopScore="0.3432651" pageId="5" pageNumber="498">Molerområdets geologi—sedimenter, fossiler, askelag og glacialtektonik</title>
+. 
+<journalOrPublisher id="88763C332646FF873B46BB58FDF9FEB0" box="[362,565,335,359]" jopScore="0.6666667" pageId="5" pageNumber="498">
+<emphasis id="60C3EAED2646FF873B46BB58FDF9FEB0" box="[362,565,335,359]" italics="true" pageId="5" pageNumber="498">Geologisk Tidsskrift</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622646FF87386EBB58FDBAFEB0" box="[578,630,335,359]" pageId="5" pageNumber="498" type="volume">2011</part>
+, 
+<pagination id="6B7EC80B2646FF8738ADBB59FD1CFEB1" box="[641,720,334,358]" pageId="5" pageNumber="498" type="pagination">41–135</pagination>
+. [in Danish]
+</bibRef>
+</paragraph>
+<bibRef id="8B17A2092646FF873ABBBB7AFDDCFE14" _evidence="authorList|year" pageId="5" pageNumber="498" refId="ref4126" type="journal article">
+<paragraph id="520836FF2646FF873ABBBB7AFC68FE73" blockId="5.[151,1437,150,1248]" pageId="5" pageNumber="498">
+<author id="8A0ADE1A2646FF873ABBBB7AFE87FE52" box="[151,331,365,389]" case="TC" fns="I" in="J.F." ins="D" ln="Petrulevicius" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Petrulevičius, J.F.</author>
+, 
+<author id="8A0ADE1A2646FF873B7FBB7AFE04FE52" box="[339,456,365,389]" case="TC" fns="I" in="T." ins="D" ln="Wappler" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Wappler, T.</author>
+, 
+<author id="8A0ADE1A2646FF873BFCBB7AFD99FE52" box="[464,597,365,389]" case="TC" fns="I" in="S." ins="D" ln="Wedmann" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Wedmann, S.</author>
+, 
+<author id="8A0ADE1A2646FF873873BB79FD65FE52" box="[607,681,366,389]" case="TC" fns="I" in="J." ins="D" ln="Rust" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Rust, J.</author>
+&amp; 
+<author id="8A0ADE1A2646FF8738E9BB7AFCC0FE52" box="[709,780,365,389]" case="TC" fns="I" in="A." ins="D" ln="Nel" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Nel, A.</author>
+(
+<year id="261F77AC2646FF87393BBB7AFC80FE52" box="[791,844,365,389]" pageId="5" pageNumber="498">2008</year>
+) 
+<title id="20B3DDC92646FF873974BB79FE37FE74" pageId="5" pageNumber="498">New Megapodagrionid Damselflies (Odonata: Zygoptera) from the Paleogene of Europe</title>
+. 
+<journalOrPublisher id="88763C332646FF873828BB9BFD36FE73" box="[516,762,396,420]" pageId="5" pageNumber="498">
+<emphasis id="60C3EAED2646FF873828BB9BFD36FE73" box="[516,762,396,420]" italics="true" pageId="5" pageNumber="498">Journal of Paleontology</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622646FF87392BBB9BFCEFFE73" box="[775,803,396,420]" pageId="5" pageNumber="498" type="volume">82</part>
+, 
+<pagination id="6B7EC80B2646FF873901BB9BFC6CFE73" box="[813,928,396,420]" pageId="5" pageNumber="498" type="pagination">1173–1181</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2646FF873AEBBBBCFDDCFE14" blockId="5.[151,1437,150,1248]" box="[199,528,427,451]" pageId="5" pageNumber="498">
+<DOI id="2626F68F2646FF873AEBBBBCFDDCFE14" box="[199,528,427,451]" pageId="5" pageNumber="498">https://doi.org/10.1666/07-091.1</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092646FF873ABBBBDEFDC4FDEA" _evidence="authorList|year" pageId="5" pageNumber="498" refId="ref4191" type="journal article">
+<paragraph id="520836FF2646FF873ABBBBDEFEA9FDC9" blockId="5.[151,1437,150,1248]" pageId="5" pageNumber="498">
+<author id="8A0ADE1A2646FF873ABBBBDEFF30FE36" box="[151,252,457,481]" case="TC" fns="I" in="E.F." ins="D" ln="Riek" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Riek, E.F.</author>
+&amp; 
+<author id="8A0ADE1A2646FF873B37BBDEFE18FE36" box="[283,468,457,481]" case="TC" fns="I" in="J." ins="D" ln="Kukalova-Peck" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Kukalová-Peck, J.</author>
+(
+<year id="261F77AC2646FF873BCDBBDEFDDAFE36" box="[481,534,457,481]" pageId="5" pageNumber="498">1984</year>
+) 
+<title id="20B3DDC92646FF87380EBBDEFBADFDD7" pageId="5" pageNumber="498">A new interpretation of dragonfly wing venation based upon Early Upper Carboniferous fossils from Argentina (Insecta: Odonatoidea) and basic character states in pterygote wings</title>
+. 
+<journalOrPublisher id="88763C332646FF873E46BBFFFA5AFDD7" box="[1130,1430,488,512]" pageId="5" pageNumber="498">
+<emphasis id="60C3EAED2646FF873E46BBFFFA5AFDD7" box="[1130,1430,488,512]" italics="true" pageId="5" pageNumber="498">Canadian Journal of Zoology</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622646FF873AEBB811FF2FFDC9" box="[199,227,518,542]" pageId="5" pageNumber="498" type="volume">62</part>
+, 
+<pagination id="6B7EC80B2646FF873AC1B811FEADFDC9" box="[237,353,518,542]" pageId="5" pageNumber="498" type="pagination">1150–1166</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2646FF873AEBB832FDC4FDEA" blockId="5.[151,1437,150,1248]" box="[199,520,549,573]" pageId="5" pageNumber="498">
+<DOI id="2626F68F2646FF873AEBB832FDC4FDEA" box="[199,520,549,573]" pageId="5" pageNumber="498">https://doi.org/10.1139/z84-166</DOI>
+</paragraph>
+</bibRef>
+<paragraph id="520836FF2646FF873ABBB853FE7FFD4E" blockId="5.[151,1437,150,1248]" pageId="5" pageNumber="498">
+<bibRef id="8B17A2092646FF873ABBB853FE7FFD4E" _evidence="authorList|year" pageId="5" pageNumber="498" refId="ref4257" type="book">
+<author id="8A0ADE1A2646FF873ABBB853FF2DFD8C" box="[151,225,580,603]" case="TC" fns="I" in="J." ins="D" ln="Rust" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Rust, J.</author>
+(
+<year id="261F77AC2646FF873AC1B853FEEEFD8B" box="[237,290,580,604]" pageId="5" pageNumber="498">1999</year>
+) 
+<title id="20B3DDC92646FF873B02B853FE7AFDAC" jopScore="0.25635365" pageId="5" pageNumber="498">
+<emphasis id="60C3EAED2646FF873B02B853FE7AFDAC" italics="true" pageId="5" pageNumber="498">Biologie der Insekten aus dem ältesten Tertiär Nordeuropas. Habilitationsschrift zur Erlangung der venia legendi für das Fach Zoologie</emphasis>
+</title>
+. 
+<journalOrPublisher id="88763C332646FF873BEBB874FE91FD4E" jopScore="2.9970143" pageId="5" pageNumber="498">Postdoctoral thesis, Biologische Fakultät der Georg-August-Universität Göttingen, Göttingen, Lower Saxony</journalOrPublisher>
+, 
+<bookContentInfo id="654C258F2646FF873B4BB896FE7FFD4E" box="[359,435,641,665]" pageId="5" pageNumber="498">482 pp.</bookContentInfo>
+</bibRef>
+</paragraph>
+<bibRef id="8B17A2092646FF873ABBB8B7FD0CFD22" _evidence="authorList|year" pageId="5" pageNumber="498" refId="ref4303" type="journal article">
+<paragraph id="520836FF2646FF873ABBB8B7FBE8FD00" blockId="5.[151,1437,150,1248]" pageId="5" pageNumber="498">
+<author id="8A0ADE1A2646FF873ABBB8B7FF12FD60" box="[151,222,672,695]" case="TC" fns="I" in="J" ins="U" ln="Rust" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Rust, J</author>
+, 
+<author id="8A0ADE1A2646FF873AC4B8B7FE50FD60" box="[232,412,672,696]" case="TC" fns="I" in="J.F." ins="D" ln="Petrulevicius" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Petrulevičius, J.F.</author>
+&amp; 
+<author id="8A0ADE1A2646FF873B97B8B7FDC8FD6F" box="[443,516,672,696]" case="TC" fns="I" in="A." ins="D" ln="Nel" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Nel, A.</author>
+(
+<year id="261F77AC2646FF87383DB8B7FD8AFD6F" box="[529,582,672,696]" pageId="5" pageNumber="498">2008</year>
+) 
+<title id="20B3DDC92646FF87387FB8B7FD38FD00" jopScore="0.14416191" pageId="5" pageNumber="498">The first damselflies from the lowermost Eocene of Denmark, with a description of a new subfamily (Odonata, Zygoptera, Dysagrionidae)</title>
+. 
+<journalOrPublisher id="88763C332646FF8738D1B8A8FC5DFD00" box="[765,913,703,727]" jopScore="2.5" pageId="5" pageNumber="498">
+<emphasis id="60C3EAED2646FF8738D1B8A8FC5DFD00" box="[765,913,703,727]" italics="true" pageId="5" pageNumber="498">Palaeontology</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622646FF8739B2B8A9FC75FD01" box="[926,953,702,726]" pageId="5" pageNumber="498" type="volume">51</part>
+, 
+<pagination id="6B7EC80B2646FF8739E8B8A8FBECFD00" box="[964,1056,703,727]" pageId="5" pageNumber="498" type="pagination">709–713</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2646FF873AEBB8CAFD0CFD22" blockId="5.[151,1437,150,1248]" box="[199,704,733,757]" pageId="5" pageNumber="498">
+<DOI id="2626F68F2646FF873AEBB8CAFD0CFD22" box="[199,704,733,757]" pageId="5" pageNumber="498">https://doi.org/10.1111/j.1475-4983.2008.00780.x</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092646FF873ABBB8EBFD9BFC86" _evidence="authorList|year" author="Rohl, U. &amp; Westerhold, T. &amp; Bralower, T. &amp; Zachos, J." journalOrPublisher="Geochemistry Geophysics Geosystems" pageId="5" pageNumber="498" pagination="1 - 13" part="8" refId="ref4370" title="On the duration of the Paleocene-Eocene Thermal Maximum (PETM)" type="journal article" year="2007">
+<paragraph id="520836FF2646FF873ABBB8EBFCD9FCE4" blockId="5.[151,1437,150,1248]" pageId="5" pageNumber="498">
+<author id="8A0ADE1A2646FF873ABBB8EBFF20FCC4" box="[151,236,764,788]" case="TC" fns="I" in="U." ins="D" ln="Rohl" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Röhl, U.</author>
+, 
+<author id="8A0ADE1A2646FF873ADBB8EBFE46FCC4" box="[247,394,764,788]" case="TC" fns="I" in="T." ins="D" ln="Westerhold" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Westerhold, T.</author>
+, 
+<author id="8A0ADE1A2646FF873BBFB8EBFDC3FCC4" box="[403,527,764,788]" case="TC" fns="I" in="T." ins="D" ln="Bralower" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Bralower, T.</author>
+&amp; 
+<author id="8A0ADE1A2646FF873800B8EBFD5CFCC4" box="[556,656,764,788]" case="TC" fns="I" in="J." ins="D" ln="Zachos" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Zachos, J.</author>
+(
+<year id="261F77AC2646FF8738B0B8EBFD1DFCC3" box="[668,721,764,788]" pageId="5" pageNumber="498">2007</year>
+) 
+<title id="20B3DDC92646FF8738F1B8EBFA55FCC3" box="[733,1433,764,788]" jopScore="0.08987218" pageId="5" pageNumber="498">On the duration of the Paleocene-Eocene Thermal Maximum (PETM)</title>
+. 
+<journalOrPublisher id="88763C332646FF873AEBB90CFD81FCE5" box="[199,589,795,819]" pageId="5" pageNumber="498">
+<emphasis id="60C3EAED2646FF873AEBB90CFD81FCE5" box="[199,589,795,819]" italics="true" pageId="5" pageNumber="498">Geochemistry Geophysics Geosystems</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622646FF873876B90CFDABFCE4" box="[602,615,795,819]" pageId="5" pageNumber="498">8</part>
+(Q12002), 
+<pagination id="6B7EC80B2646FF8738F0B90CFCDDFCE4" box="[732,785,795,819]" pageId="5" pageNumber="498" type="pageRange">1–13</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2646FF873AEBB92EFD9BFC86" blockId="5.[151,1437,150,1248]" box="[199,599,825,849]" pageId="5" pageNumber="498">
+<DOI id="2626F68F2646FF873AEBB92EFD9BFC86" box="[199,599,825,849]" pageId="5" pageNumber="498">https://doi.org/10.1029/2007GC001784</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092646FF873ABBB94FFDBCFC1B" _evidence="authorList|year" pageId="5" pageNumber="498" refId="ref4430" type="journal article">
+<paragraph id="520836FF2646FF873ABBB94FFD7BFC7A" blockId="5.[151,1437,150,1248]" pageId="5" pageNumber="498">
+<author id="8A0ADE1A2646FF873ABBB94FFEE3FCB8" box="[151,303,856,880]" case="TC" fns="I" in="T.J." ins="D" ln="Simonsen" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Simonsen, T.J.</author>
+, 
+<author id="8A0ADE1A2646FF873B15B94FFE15FCA7" box="[313,473,856,880]" case="TC" fns="I" in="S.B." ins="D" ln="Archibald" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Archibald, S.B.</author>
+, 
+<author id="8A0ADE1A2646FF873BC9B94FFD43FCA7" box="[485,655,856,880]" case="TC" fns="I" in="J.A." ins="D" ln="Rasmussen" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Rasmussen, J.A.</author>
+, 
+<author id="8A0ADE1A2646FF8738B7B94FFC9AFCB8" box="[667,854,856,880]" case="TC" fns="I" in="R.L." ins="D" ln="Sylvestersen" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Sylvestersen, R.L.</author>
+, 
+<author id="8A0ADE1A2646FF87394FB94FFC09FCB8" box="[867,965,856,880]" case="TC" fns="I" in="K." ins="D" ln="Olsen" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Olsen, K.</author>
+&amp; 
+<author id="8A0ADE1A2646FF8739CBB94FFB83FCB8" box="[999,1103,856,879]" case="TC" fns="I" in="J.L." ins="D" ln="Ware" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Ware, J.L.</author>
+(
+<year id="261F77AC2646FF873E72B94FFB5FFCA7" box="[1118,1171,856,880]" pageId="5" pageNumber="498">2022</year>
+) 
+<title id="20B3DDC92646FF873E8DB94FFE47FC7A" jopScore="0.25069574" pageId="5" pageNumber="498">
+<emphasis id="60C3EAED2646FF873E8DB94FFAF4FCA7" box="[1185,1336,856,880]" italics="true" pageId="5" pageNumber="498">Danowhetaksa</emphasis>
+gen. nov. with two species from the early Eocene Ølst Formation from Denmark, the first Palearctic Whetwhetaksidae (Odonata: Cephalozygoptera)
+</title>
+. 
+<journalOrPublisher id="88763C332646FF873BB9B981FE24FC7A" box="[405,488,918,941]" jopScore="2.8902953" pageId="5" pageNumber="498">
+<emphasis id="60C3EAED2646FF873BB9B981FE24FC7A" box="[405,488,918,941]" italics="true" pageId="5" pageNumber="498">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622646FF873BD8B982FDEBFC7A" box="[500,551,917,941]" pageId="5" pageNumber="498" type="volume">5099</part>
+(
+<part id="26139C622646FF87381AB982FD88FC7A" box="[566,580,917,941]" pageId="5" pageNumber="498" type="issue">5</part>
+), 
+<pagination id="6B7EC80B2646FF87387BB982FD7FFC7A" box="[599,691,917,941]" pageId="5" pageNumber="498" type="pagination">586–592</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2646FF873AEBB9A3FDBCFC1B" blockId="5.[151,1437,150,1248]" box="[199,624,948,972]" pageId="5" pageNumber="498">
+<DOI id="2626F68F2646FF873AEBB9A3FDBCFC1B" box="[199,624,948,972]" pageId="5" pageNumber="498">https://doi.org/10.11646/zootaxa.5099.5.5</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092646FF873ABBB9C4FDBBFB90" _evidence="authorList|year" pageId="5" pageNumber="498" refId="ref4522" type="journal article">
+<paragraph id="520836FF2646FF873ABBB9C4FD88FBFF" blockId="5.[151,1437,150,1248]" pageId="5" pageNumber="498">
+<author id="8A0ADE1A2646FF873ABBB9C4FEECFC3D" box="[151,288,979,1003]" case="TC" fns="I" in="E.W." ins="D" ln="Stokke" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Stokke, E.W.</author>
+, 
+<author id="8A0ADE1A2646FF873B07B9C4FE68FC3D" box="[299,420,979,1002]" case="TC" fns="I" in="M.T." ins="D" ln="Jones" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Jones, M.T.</author>
+, 
+<author id="8A0ADE1A2646FF873B83B9C4FDFCFC3D" box="[431,560,979,1003]" case="TC" fns="I" in="J.E." ins="D" ln="Tierney" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Tierney, J.E.</author>
+, 
+<author id="8A0ADE1A2646FF873810B9C4FD03FC3D" box="[572,719,979,1003]" case="TC" fns="I" in="H.H." ins="D" ln="Svensen" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Svensen, H.H.</author>
+&amp; 
+<author id="8A0ADE1A2646FF8738DDB9C4FC42FC3D" box="[753,910,979,1003]" case="TC" fns="I" in="J.H." ins="D" ln="Whiteside" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Whiteside, J.H.</author>
+(
+<year id="261F77AC2646FF8739B1B9C4FC1EFC3C" box="[925,978,979,1003]" pageId="5" pageNumber="498">2020</year>
+) 
+<title id="20B3DDC92646FF8739CCB9C4FAE3FBDE" jopScore="0.111112885" pageId="5" pageNumber="498">Temperature changes across the Paleocene-Eocene Thermal Maximum—anew high-resolution TEX86temperature record from the Eastern North Sea Basin</title>
+. 
+<journalOrPublisher id="88763C332646FF873F1BB9E6FE07FBFF" jopScore="0.9892477" pageId="5" pageNumber="498">
+<emphasis id="60C3EAED2646FF873F1BB9E6FE07FBFF" italics="true" pageId="5" pageNumber="498">Earth and Planetary Science Letters</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622646FF873BF4BE07FDCCFBFF" box="[472,512,1040,1064]" pageId="5" pageNumber="498" type="volume">544</part>
+, 
+<pagination id="6B7EC80B2646FF873827BE07FD8CFBFF" box="[523,576,1040,1064]" pageId="5" pageNumber="498" type="pagination">1–10</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2646FF873AEBBE38FDBBFB90" blockId="5.[151,1437,150,1248]" box="[199,631,1071,1095]" pageId="5" pageNumber="498">
+<DOI id="2626F68F2646FF873AEBBE38FDBBFB90" box="[199,631,1071,1095]" pageId="5" pageNumber="498">https://doi.org/10.1016/j.epsl.2020.116388</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="8B17A2092646FF873ABBBE5AFD93FB75" _evidence="authorList|year" pageId="5" pageNumber="498" refId="ref4606" type="journal article">
+<paragraph id="520836FF2646FF873ABBBE5AFDE9FB53" blockId="5.[151,1437,150,1248]" pageId="5" pageNumber="498">
+<author id="8A0ADE1A2646FF873ABBBE5AFF32FBB2" box="[151,254,1101,1125]" case="TC" fns="I" in="J." ins="D" ln="Zachos" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Zachos, J.</author>
+, 
+<author id="8A0ADE1A2646FF873B26BE5AFEB6FBB2" box="[266,378,1101,1125]" case="TC" fns="I" in="M." ins="D" ln="Pagani" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Pagani, M.</author>
+, 
+<author id="8A0ADE1A2646FF873BA8BE5AFE2CFBB2" box="[388,480,1101,1125]" case="TC" fns="I" in="L." ins="D" ln="Sloan" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Sloan, L.</author>
+, 
+<author id="8A0ADE1A2646FF873BC1BE5AFDADFBB2" box="[493,609,1101,1125]" case="TC" fns="I" in="E." ins="D" ln="Thomas" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Thomas, E.</author>
+&amp; 
+<author id="8A0ADE1A2646FF8738ADBE5AFD23FBB2" box="[641,751,1101,1125]" case="TC" fns="I" in="K." ins="D" ln="Billups" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Billups, K.</author>
+(
+<year id="261F77AC2646FF8738D0BE5AFCFDFBB2" box="[764,817,1101,1125]" pageId="5" pageNumber="498">2001</year>
+) 
+<title id="20B3DDC92646FF873912BE5AFEE3FB54" jopScore="1.5657028" pageId="5" pageNumber="498">Trends, Rhythms, and Aberrations in Global Climate 65 Ma to Present</title>
+. 
+<journalOrPublisher id="88763C332646FF873B14BE7BFE49FB54" box="[312,389,1132,1155]" jopScore="1.640625" pageId="5" pageNumber="498">
+<emphasis id="60C3EAED2646FF873B14BE7BFE49FB54" box="[312,389,1132,1155]" italics="true" pageId="5" pageNumber="498">Science</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622646FF873BBEBE7BFE76FB53" box="[402,442,1132,1156]" pageId="5" pageNumber="498" type="volume">292</part>
+, 
+<pagination id="6B7EC80B2646FF873BE9BE7BFDEEFB53" box="[453,546,1132,1156]" pageId="5" pageNumber="498" type="pagination">686–693</pagination>
+.
+</paragraph>
+<paragraph id="520836FF2646FF873AEBBE9DFD93FB75" blockId="5.[151,1437,150,1248]" box="[199,607,1162,1186]" pageId="5" pageNumber="498">
+<DOI id="2626F68F2646FF873AEBBE9DFD93FB75" box="[199,607,1162,1186]" pageId="5" pageNumber="498">https://doi.org/10.1126/science.1059412</DOI>
+</paragraph>
+</bibRef>
+<paragraph id="520836FF2646FF873ABBBEBEFB0AFB37" blockId="5.[151,1437,150,1248]" pageId="5" pageNumber="498">
+<bibRef id="8B17A2092646FF873ABBBEBEFB0AFB37" _evidence="authorList|year" pageId="5" pageNumber="498" refId="ref4667" type="journal article">
+<author id="8A0ADE1A2646FF873ABBBEBEFEC1FB16" box="[151,269,1193,1217]" case="TC" fns="I" in="W." ins="D" ln="Zessin" lnc="TC" npo="LnFn" pageId="5" pageNumber="498">Zessin, W.</author>
+(
+<year id="261F77AC2646FF873B08BEBEFE94FB16" box="[292,344,1193,1217]" pageId="5" pageNumber="498">2011</year>
+) 
+<title id="20B3DDC92646FF873B5DBEBDFE68FB37" pageId="5" pageNumber="498">Neue Insekten aus dem Moler (Paläozän/Eozän) von Dänemark Teil 1 (Odonata: Epallagidae, Megapodagrioniidae)</title>
+, 
+<journalOrPublisher id="88763C332646FF873B82BEDEFB81FB37" box="[430,1101,1224,1248]" pageId="5" pageNumber="498">
+<emphasis id="60C3EAED2646FF873B82BEDEFB81FB37" box="[430,1101,1224,1248]" italics="true" pageId="5" pageNumber="498">Virgo, Mitteilungsblatt des Entomologischen Vereins Mecklenburg</emphasis>
+</journalOrPublisher>
+, 
+<part id="26139C622646FF873E75BEDFFBB8FB37" box="[1113,1140,1224,1248]" pageId="5" pageNumber="498" type="volume">14</part>
+, 
+<pagination id="6B7EC80B2646FF873E53BEDFFB0EFB37" box="[1151,1218,1224,1248]" pageId="5" pageNumber="498" type="pagination">64–73</pagination>
+.
+</bibRef>
+</paragraph>
+</subSection>
+</document>

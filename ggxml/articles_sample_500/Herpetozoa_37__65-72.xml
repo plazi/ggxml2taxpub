@@ -1,0 +1,1930 @@
+<document ID-CLB-Dataset="290342" ID-DOI="http://dx.doi.org/10.3897/herpetozoa.37.e119492" ID-GBIF-Dataset="412e2828-fbe1-4cd9-aadb-a01577f2ef8c" ID-Pensoft-Pub="2682-955X-37-65" ID-Pensoft-UUID="4A35544FA79854CD8D2F629AE71F1DFD" ID-ZooBank="B09AB19DEE934F499F27AA6AED129B48" ModsDocID="2682-955X-37-65" checkinTime="1709976586453" checkinUser="pensoft" docAuthor="Zhang, Dongru &amp; Wu, Yunhe &amp; Zuo, Changsheng &amp; Yin, Fawang &amp; Liu, Shuo" docDate="2024" docId="4A35544FA79854CD8D2F629AE71F1DFD" docName="Herpetozoa 37: 65-72" docOrigin="Herpetozoa 37" docPubDate="2024-03-08" docSource="https://herpetozoa.pensoft.net/article/119492/download/xml/" docTitle="First description of the female of Cyrtodactylus dianxiensis Liu &amp; Rao, 2021, with extended diagnosis of this species (Squamata, Gekkonidae)" docVersion="4" id="4A35544FA79854CD8D2F629AE71F1DFD" lastPageNumber="72" pageNumber="65" updateTime="1709980789721" updateUser="ExternalLinkService">
+<mods:mods id="26558CF499868D95AFED4AADC8C52261" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="1DADDE940099F65096C7EB2EACD5E874">
+<mods:title id="635304BED9F7AB73D3E5CBBFE44468B9">First description of the female of Cyrtodactylus dianxiensis Liu &amp; Rao, 2021, with extended diagnosis of this species (Squamata, Gekkonidae)</mods:title>
+</mods:titleInfo>
+<mods:name id="09D212171BF391ACB19AE2C72AA2DD62" type="personal">
+<mods:role id="96054F5B4A91CA327690A3D726089E1D">
+<mods:roleTerm id="D377BC36F4368AA601E57E07E87D7B94">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C5B56F47CF8C1EDDD64BEF07BD6C7810">Zhang, Dongru</mods:namePart>
+<mods:nameIdentifier id="0305A4F33CDC619368950684106CEC46" type="ORCID">https://orcid.org/0000-0001-5105-9860</mods:nameIdentifier>
+<mods:affiliation id="26C732DDD790AC0D1EC47433FEF4927A">State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, Yunnan 650201, China</mods:affiliation>
+<mods:affiliation id="907AF67A62BAF97D931472152C5D3C4F">School of Biological Science and Technology, Liupanshui Normal University, Liupanshui, Guizhou 553004, China</mods:affiliation>
+</mods:name>
+<mods:name id="C43FD5D25BCF95458D2848A255A0A1F2" type="personal">
+<mods:role id="AE1B00AFE533B47093A475C4AC7616AB">
+<mods:roleTerm id="3D6EDFCEA83B4C0330C2F2C993AEB3F8">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4A3E86CEC4C64EEA04BBB0BDF0E2B9C5">Wu, Yunhe</mods:namePart>
+<mods:nameIdentifier id="7A618CFEE28D3FBE891425D0E9F57764" type="email">yunhe2009@163.com</mods:nameIdentifier>
+<mods:affiliation id="E8A1E836FECDAB96F81EB1B28EF00E51">State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, Yunnan 650201, China</mods:affiliation>
+</mods:name>
+<mods:name id="A45DC45F9EF0B4A6243CB214A322C4ED" type="personal">
+<mods:role id="BC49596AA7524C602AC75BB272AA6CBA">
+<mods:roleTerm id="6B5570B7334C1E4AD696CF9463CF94C1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2AD6A24B721675DC368B6F72BDBDDE29">Zuo, Changsheng</mods:namePart>
+<mods:affiliation id="E1705148BA3D9AFE64A62759F091CE35">Yingjiang sub-office, Tongbiguan Provincial Natural Reserve Management and Protection Bureau, Yingjiang, Yunnan 679399, China</mods:affiliation>
+</mods:name>
+<mods:name id="226F1681BBAF3A01BA843E0F84D5E61D" type="personal">
+<mods:role id="75879731F6A36D2BB84340CDBAD49E86">
+<mods:roleTerm id="EB1FBD1663D5E737B33DCA42CC532191">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D5AFE48A88E38F5EFA08380BB5AF43AF">Yin, Fawang</mods:namePart>
+<mods:affiliation id="5CC5DC4F09C998BB7BABDD04656948C5">Yingjiang sub-office, Tongbiguan Provincial Natural Reserve Management and Protection Bureau, Yingjiang, Yunnan 679399, China</mods:affiliation>
+</mods:name>
+<mods:name id="C2C5823026BDC03B2809E21E338F7851" type="personal">
+<mods:role id="A27B5EAC7BEBE5552FDCD2AB8C9F608A">
+<mods:roleTerm id="1DFDE142C6D7A33D02CCC439CDCAEDB4">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F48FC6246B68E9626A79257B6AB3282D">Liu, Shuo</mods:namePart>
+<mods:nameIdentifier id="B975BD58F0DAD349698582DC971580D7" type="email">liushuo@mail.kiz.ac.cn</mods:nameIdentifier>
+<mods:nameIdentifier id="F1F2A296B517293595FCFAA7D8E610F4" type="ORCID">https://orcid.org/0000-0001-7825-3006</mods:nameIdentifier>
+<mods:affiliation id="B4CE746BA34404187E96ADF719E41796">State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, Yunnan 650201, China</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="8235C069D07308C74ABC36C909A84C2C">text</mods:typeOfResource>
+<mods:relatedItem id="6EC569717FD18F722D550EF4E3A352E2" type="host">
+<mods:titleInfo id="6908846235BBD5C272ADDECEF6A7BCCC">
+<mods:title id="54D486AD2F8F0B41EA12DDC69DDD8314">Herpetozoa</mods:title>
+</mods:titleInfo>
+<mods:part id="F43629AECC34A0D62BEBCA52B548D9AF">
+<mods:detail id="19D934B52F94C578C56681D8F6418B47" type="volume">
+<mods:number id="6D30D725B196636EA30CEC7A127DCD5E">37</mods:number>
+</mods:detail>
+<mods:detail id="1CB75B26775642C32BC5C401D690A0D7" type="pubDate">
+<mods:number id="3715C0B4EB952EAE5E31B83517036072">2024-03-08</mods:number>
+</mods:detail>
+<mods:date id="08064016A9AE1D20EA4E9665AD6713E3">2024</mods:date>
+<mods:extent id="C23ECA0CD49060CCB1D964FA55027B86" unit="page">
+<mods:start id="F3C15B32C174DF3651E5D747C8F78DEE">65</mods:start>
+<mods:end id="BE515F7554661DB9588418F720144DBF">72</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="91FA718E6ACAB98D9194B3D4049A7393">
+<mods:url id="33D779E13672882566063DB510AF64E7">http://dx.doi.org/10.3897/herpetozoa.37.e119492</mods:url>
+</mods:location>
+<mods:identifier id="2F938F367A022E98A1248FE14A4E5645" type="DOI">http://dx.doi.org/10.3897/herpetozoa.37.e119492</mods:identifier>
+<mods:identifier id="6E53032E2D9F77CB0FB5842D73EB4420" type="Pensoft-Pub">2682-955X-37-65</mods:identifier>
+<mods:identifier id="91F6B36331301293550A979BA913A32E" type="ZooBank">B09AB19DEE934F499F27AA6AED129B48</mods:identifier>
+<mods:identifier id="DFE40F9957B0AA1B02485D5588BF4624" type="Pensoft-UUID">4A35544FA79854CD8D2F629AE71F1DFD</mods:identifier>
+<mods:classification id="FAD9446E45597C2E748660300132FC1D">journal article</mods:classification>
+</mods:mods>
+<subSection id="6762A16C50A0AA373E84EC22AB8AD820" pageId="0" pageNumber="65" type="﻿introduction">
+<paragraph id="DAFCA074D44B8319EB1A3C60875EE783" pageId="0" pageNumber="65">
+<pageBreakToken id="C0BFAE811216CA4985EB46824F1E6C52" origin="extrapolated" pageId="0" pageNumber="65" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph id="A206EBDA2728ED3CB5ACB5F5D1135A1D" pageId="0" pageNumber="65">
+<taxonomicName id="31934A12C372DFEB1EB09688F1E53202" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus" order="Squamata" pageId="0" pageNumber="65" rank="genus">
+<emphasis id="FCF75FAFBC16E9576E322A159FC4C48D" italics="true" pageId="0" pageNumber="65">Cyrtodactylus</emphasis>
+</taxonomicName>
+Gray, 1827 (bent-toed geckos) is the most speciose and ecologically diverse gekkonid genus, with more than 350 recognized species distributed from the Western Himalayas through southeast Asia to the Western Pacific (
+<bibRefCitation id="20045F8790E2E29CBD26BC464710DE26" DOI="https://doi.org/10.1016/j.ympev.2012.08.025" author="Wood, PL" journalOrPublisher="Molecular Phylogenetics and Evolution" pageId="0" pageNumber="65" pagination="992 - 1003" refId="B16" refString="Wood, PL, Heinicke, MP, Jackman, TR, Bauer, AM, 2012. Phylogeny of bent-toed geckos (Cyrtodactylus) reveals a west to east pattern of diversification. Molecular Phylogenetics and Evolution 65: 992 - 1003, DOI: https://doi.org/10.1016/j.ympev.2012.08.025" title="Phylogeny of bent-toed geckos (Cyrtodactylus) reveals a west to east pattern of diversification." url="https://doi.org/10.1016/j.ympev.2012.08.025" volume="65" year="2012">Wood et al. 2012</bibRefCitation>
+; 
+<bibRefCitation id="C2C0DD385018BB697944B15ED6CE48F5" author="Uetz, P" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" publicationUrl="http://www.reptile-database.org" refId="B14" refString="Uetz, P, Freed, P, Hosek, J, 2024. The Reptile Database. http://www.reptile-database.org" title="The Reptile Database." url="http://www.reptile-database.org" year="2024">Uetz et al. 2024</bibRefCitation>
+). Most species of 
+<taxonomicName id="42205F7B77FDCEA740A7F9C901017C2F" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus" order="Squamata" pageId="0" pageNumber="65" rank="genus">
+<emphasis id="C9BE16677C0F708B1307B21D794C147A" italics="true" pageId="0" pageNumber="65">Cyrtodactylus</emphasis>
+</taxonomicName>
+are karst-adapted or granite-adapted species (
+<bibRefCitation id="6825FD7ADA869E8A1C9E8B2C81E1CD7D" DOI="https://doi.org/10.1002/ece3.6961" author="Grismer, LL" journalOrPublisher="Ecology and Evolution" pageId="0" pageNumber="65" pagination="13717 - 13730" refId="B3" refString="Grismer, LL, Wood Jr., PL, Le, MD, Quah, ESH, Grismer, JL, 2020. Evolution of habitat preference in 243 species of Bent-toed geckos (Genus Cyrtodactylus Gray, 1827) with a discussion of karst habitat conservation. Ecology and Evolution 10: 13717 - 13730, DOI: https://doi.org/10.1002/ece3.6961" title="Evolution of habitat preference in 243 species of Bent-toed geckos (Genus Cyrtodactylus Gray, 1827) with a discussion of karst habitat conservation." url="https://doi.org/10.1002/ece3.6961" volume="10" year="2020">Grismer et al. 2020</bibRefCitation>
+). With the in-depth investigation of karst areas, the underestimated biodiversity of 
+<taxonomicName id="20CCDEC5F6A2B5F224DEADC94AC7C1B3" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus" order="Squamata" pageId="0" pageNumber="65" rank="genus">
+<emphasis id="0F6C651CEC9CE48BC27E095449C4C86B" italics="true" pageId="0" pageNumber="65">Cyrtodactylus</emphasis>
+</taxonomicName>
+has been gradually revealed (
+<bibRefCitation id="02E79EDF52D05D8C9EBE0A5D8C795C8A" DOI="https://doi.org/10.1093/zoolinnean/zlx057" author="Grismer, LL" journalOrPublisher="Zoological Journal of the Linnean Society" pageId="0" pageNumber="65" pagination="862 - 959" refId="B4" refString="Grismer, LL, Wood Jr, PL, Thura, MK, Zin, T, Quah, ESH, Murdoch, ML, Grismer, MS, Lin, A, Kyaw, H, Lwin, N, 2018. Twelve new species of Cyrtodactylus Gray (Squamata: Gekkonidae) from isolated limestone habitats in east-central and southern Myanmar demonstrate high localized diversity and unprecedented microendemism. Zoological Journal of the Linnean Society 182: 862 - 959, DOI: https://doi.org/10.1093/zoolinnean/zlx057" title="Twelve new species of Cyrtodactylus Gray (Squamata: Gekkonidae) from isolated limestone habitats in east-central and southern Myanmar demonstrate high localized diversity and unprecedented microendemism." url="https://doi.org/10.1093/zoolinnean/zlx057" volume="182" year="2018">Grismer et al. 2018</bibRefCitation>
+; 
+<bibRefCitation id="13CEE35AD8B10E45243D5205E8716D9B" DOI="https://doi.org/10.30906/1026-2296-2021-28-4-185-196" author="Liu, S" journalOrPublisher="Russian Journal of Herpetology" pageId="0" pageNumber="65" pagination="185 - 196" refId="B7" refString="Liu, S, Li, QS, Hou, M, Orlov, NL, Ananjeva, NB, 2021. A New Species of Cyrtodactylus Gray, 1827 (Squamata, Gekkonidae) from Southern Yunnan, China. Russian Journal of Herpetology 28: 185 - 196, DOI: https://doi.org/10.30906/1026-2296-2021-28-4-185-196" title="A New Species of Cyrtodactylus Gray, 1827 (Squamata, Gekkonidae) from Southern Yunnan, China." url="https://doi.org/10.30906/1026-2296-2021-28-4-185-196" volume="28" year="2021">Liu et al. 2021</bibRefCitation>
+, 
+<bibRefCitation id="BF02B782DC1BDCF88CC8D2541577DD3C" DOI="https://doi.org/10.30906/1026-2296-2023-30-6-529-538" author="Liu, S" journalOrPublisher="Russian Journal of Herpetology" pageId="0" pageNumber="65" pagination="529 - 538" refId="B8" refString="Liu, S, Rao, DQ, Hou, M, Wang, QY, Ananjeva, NB, 2023. A new species of Cyrtodactylus Gray, 1827 (Squamata, Gekkonidae), previously confused with C. wayakonei Nguyen, Kingsada, Roesler, Auer et Ziegler, 2010. Russian Journal of Herpetology 30: 529 - 538, DOI: https://doi.org/10.30906/1026-2296-2023-30-6-529-538" title="A new species of Cyrtodactylus Gray, 1827 (Squamata, Gekkonidae), previously confused with C. wayakonei Nguyen, Kingsada, Roesler, Auer et Ziegler, 2010." url="https://doi.org/10.30906/1026-2296-2023-30-6-529-538" volume="30" year="2023">2023</bibRefCitation>
+).
+</paragraph>
+<paragraph id="F4B312E52B76D5B61B4A09AF56607992" pageId="0" pageNumber="65">
+So far, ten species of 
+<taxonomicName id="C9AAE2C7F399B81AFCB69A0F57F13072" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus" order="Squamata" pageId="0" pageNumber="65" rank="genus">
+<emphasis id="4E4A44982EAF8EC47A89A8FA101F273D" italics="true" pageId="0" pageNumber="65">Cyrtodactylus</emphasis>
+</taxonomicName>
+have been recognized in China, and all are distributed in southwestern China, namely Yunnan Province and Tibet Autonomous Region. Four of them were recorded in Tibet: 
+<taxonomicName id="17C84A66EB29B5E7A5236EA02B8AAAEB" genus="C." lsidName="C. tibetanus" pageId="0" pageNumber="65" rank="species" species="tibetanus">
+<emphasis id="92B1E4CB7A88FAA239D22C59E65E8043" italics="true" pageId="0" pageNumber="65">C. tibetanus</emphasis>
+</taxonomicName>
+(Boulenger, 1905), 
+<taxonomicName id="ECC1C5623E915AE224C1D3E512C21B95" genus="C." lsidName="C. cayuensis" pageId="0" pageNumber="65" rank="species" species="cayuensis">
+<emphasis id="BB67BF00D022F444AACFA3D522C58078" italics="true" pageId="0" pageNumber="65">C. cayuensis</emphasis>
+</taxonomicName>
+Li, 2007, 
+<taxonomicName id="892D91CA738E95B57875A2C8D8419366" genus="C." lsidName="C. zhaoermii" pageId="0" pageNumber="65" rank="species" species="zhaoermii">
+<emphasis id="0EE98F28B53E1B8377A412D984AAB708" italics="true" pageId="0" pageNumber="65">C. zhaoermii</emphasis>
+</taxonomicName>
+Shi &amp; Zhao, 2010 and 
+<taxonomicName id="874F0DC76D158F4A510754186F178729" genus="C." lsidName="C. kamengensis" pageId="0" pageNumber="65" rank="species" species="kamengensis">
+<emphasis id="EA8FAAE993511006FE990CD8D8D60CD6" italics="true" pageId="0" pageNumber="65">C. kamengensis</emphasis>
+</taxonomicName>
+Mirza, Bhosale, Thackeray, Phansalkar, Sawant, Gowande, Patel &amp; Kamengensis, 2022. The other six were recorded in Yunnan: 
+<taxonomicName id="D069013DD37277561AC369E0660AFFC6" genus="C." lsidName="C. dianxiensis" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="7D6EF0768B0B74CD9C6F752E80A6C308" italics="true" pageId="0" pageNumber="65">C. dianxiensis</emphasis>
+</taxonomicName>
+Liu &amp; Rao, 2021, 
+<taxonomicName id="4E68328FEA476F2BD84B46CDDBB818BA" authorityName="Liu, Li, Hou, Orlov &amp; Ananjeva" authorityYear="2021" genus="C." lsidName="C. gulinqingensis" pageId="0" pageNumber="65" rank="species" species="gulinqingensis">
+<emphasis id="FDC0F41BD41901C686F2BB47CBF4C446" italics="true" pageId="0" pageNumber="65">C. gulinqingensis</emphasis>
+</taxonomicName>
+Liu, Li, Hou, Orlov &amp; Ananjeva, 2021, 
+<taxonomicName id="5E9D286C8F8FE997CE6D029E2BBA4392" genus="C." lsidName="C. hekouensis" pageId="0" pageNumber="65" rank="species" species="hekouensis">
+<emphasis id="7F60BAC025E96A70588A73CFEBF01AEE" italics="true" pageId="0" pageNumber="65">C. hekouensis</emphasis>
+</taxonomicName>
+Zhang, Liu, Bernstein, Wang &amp; Yuan, 2021, 
+<taxonomicName id="85699898E39DFFBD80EFBB89D4C7D066" authorityName="Liu &amp; Rao" authorityYear="2021" genus="C." lsidName="C. zhenkangensis" pageId="0" pageNumber="65" rank="species" species="zhenkangensis">
+<emphasis id="EB34817EA96D996DCCCECED4FF070C54" italics="true" pageId="0" pageNumber="65">C. zhenkangensis</emphasis>
+</taxonomicName>
+Liu &amp; Rao, 2021, 
+<taxonomicName id="E2F503B71A233AEE8065E4A617D23B50" genus="C." lsidName="C. menglianensis" pageId="0" pageNumber="65" rank="species" species="menglianensis">
+<emphasis id="97A4121FF3D6C1202E156AF7B5C658F9" italics="true" pageId="0" pageNumber="65">C. menglianensis</emphasis>
+</taxonomicName>
+Liu &amp; Rao, 2022 and 
+<taxonomicName id="E8DFFE17F43153828903115BD030BEEA" genus="C." lsidName="C. caixitaoi" pageId="0" pageNumber="65" rank="species" species="caixitaoi">
+<emphasis id="020924AD8A5FC145F408059210B721C4" italics="true" pageId="0" pageNumber="65">C. caixitaoi</emphasis>
+</taxonomicName>
+Liu, Rao, Hou, Wang &amp; Ananjeva, 2023, among which, 
+<taxonomicName id="D0ECA578633564B7726CBDC304BBABC3" genus="C." lsidName="C. dianxiensis" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="29224DFC6F0A618F133687E4B749F23E" italics="true" pageId="0" pageNumber="65">C. dianxiensis</emphasis>
+</taxonomicName>
+belong to the 
+<taxonomicName id="54BFC3D8D50315857087941DB1EC04DE" genus="C." lsidName="C. khasiensis" pageId="0" pageNumber="65" rank="species" species="khasiensis">
+<emphasis id="0882FB303661E13B7DA4F13A67AE6FCC" italics="true" pageId="0" pageNumber="65">C. khasiensis</emphasis>
+</taxonomicName>
+species group, and the remaining belong to the 
+<taxonomicName id="26871F3EA8D0367B2552AF2F4D09E129" authorityName="Quang, Orlov, Ananjeva, Johns, Ngoc Thao &amp; Quang Vinh" authorityYear="2007" genus="C." lsidName="C. chauquangensis" pageId="0" pageNumber="65" rank="species" species="chauquangensis">
+<emphasis id="B505FA4D263C5BB2545E9E19FFBD2DE9" italics="true" pageId="0" pageNumber="65">C. chauquangensis</emphasis>
+</taxonomicName>
+species group.
+</paragraph>
+<paragraph id="9A440FBEDD80821D4A0D6C679ED8275C" pageId="0" pageNumber="65">
+<taxonomicName id="0BA036A2D36C9B07DEC59123E70D1D12" authorityName="Liu &amp; Rao" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus dianxiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="AAAF76814D3A549903AF59B6803C11F8" italics="true" pageId="0" pageNumber="65">Cyrtodactylus dianxiensis</emphasis>
+</taxonomicName>
+is similar to 
+<taxonomicName id="3353EDE9E39E55DFADF74AD24156C69C" genus="C." lsidName="C. khasiensis" pageId="0" pageNumber="65" rank="species" species="khasiensis">
+<emphasis id="7296AB128746C12A833ACACD9FBB8E80" italics="true" pageId="0" pageNumber="65">C. khasiensis</emphasis>
+</taxonomicName>
+and previously the species have been confused with one another (
+<bibRefCitation id="F83D97CB62648E9CA51A5F5757EB244D" DOI="https://doi.org/10.1080/00222933.2021.1921871" author="Liu, S" journalOrPublisher="Journal of Natural History" pageId="0" pageNumber="65" pagination="713 - 731" refId="B6" refString="Liu, S, Rao, DQ, 2021. A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China. Journal of Natural History 55: 713 - 731, DOI: https://doi.org/10.1080/00222933.2021.1921871" title="A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China." url="https://doi.org/10.1080/00222933.2021.1921871" volume="55" year="2021">Liu and Rao 2021</bibRefCitation>
+; 
+<bibRefCitation id="88ABB8B564B3DF43D64A19C2FD407E59" DOI="https://doi.org/10.17520/biods.2021326" author="Wang, K" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" refId="B15" refString="Wang, K, Lyu, ZT, Wang, J, Qi, S, Che, J, 2022. The updated checklist and zoogeographic division of the reptilian fauna of Yunnan Province, China. Biodiversity Science 30: 21326. https://doi.org/10.17520/biods.2021326" title="The updated checklist and zoogeographic division of the reptilian fauna of Yunnan Province, China. Biodiversity Science 30: 21326." url="https://doi.org/10.17520/biods.2021326" year="2022">Wang et al. 2022</bibRefCitation>
+). 
+<bibRefCitation id="DC5F66BE466EE44B4CA81027E3854856" DOI="https://doi.org/10.1080/00222933.2021.1921871" author="Liu, S" journalOrPublisher="Journal of Natural History" pageId="0" pageNumber="65" pagination="713 - 731" refId="B6" refString="Liu, S, Rao, DQ, 2021. A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China. Journal of Natural History 55: 713 - 731, DOI: https://doi.org/10.1080/00222933.2021.1921871" title="A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China." url="https://doi.org/10.1080/00222933.2021.1921871" volume="55" year="2021">Liu and Rao (2021)</bibRefCitation>
+describe the population of 
+<taxonomicName id="1AF814B34970025E49D4D06B147BECC2" genus="C." lsidName="C. khasiensis" pageId="0" pageNumber="65" rank="species" species="khasiensis">
+<emphasis id="8D85A27DDB7234B0D96A032D3AB34F01" italics="true" pageId="0" pageNumber="65">C. khasiensis</emphasis>
+</taxonomicName>
+distributed in Western Yunnan as a new species, 
+<taxonomicName id="DD25A7CAC8B4FBB6D81CE6BDA08E078D" genus="C." lsidName="C. dianxiensis" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="EEB44745C1EAA1BED78167AD6846BECC" italics="true" pageId="0" pageNumber="65">C. dianxiensis</emphasis>
+</taxonomicName>
+. 
+<taxonomicName id="E2D862D678EBCF9BB4A42B057FDA1A26" authorityName="Liu &amp; Rao" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus dianxiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="240F4857279B94FAD9D737A088A60E6F" italics="true" pageId="0" pageNumber="65">Cyrtodactylus dianxiensis</emphasis>
+</taxonomicName>
+, currently the only forest-dwelling 
+<taxonomicName id="31906E28934319940AF5136F80C81446" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus" order="Squamata" pageId="0" pageNumber="65" rank="genus">
+<emphasis id="E3E44CDA7CA913BECAACA8AC83EDAE51" italics="true" pageId="0" pageNumber="65">Cyrtodactylus</emphasis>
+</taxonomicName>
+species recorded in Yunnan Province, China, was described based on one adult male holotype (KIZL2019044) from Tongbiguan Township, Yingjiang County, and one adult male paratype (KIZ2003170) from Longchuan County, both in Tongbiguan Nature Reserve, Dehong Autonomous Prefecture, western Yunnan, China (
+<bibRefCitation id="5F90406D6E155477A7C37A7A4BAC1C9B" DOI="https://doi.org/10.1080/00222933.2021.1921871" author="Liu, S" journalOrPublisher="Journal of Natural History" pageId="0" pageNumber="65" pagination="713 - 731" refId="B6" refString="Liu, S, Rao, DQ, 2021. A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China. Journal of Natural History 55: 713 - 731, DOI: https://doi.org/10.1080/00222933.2021.1921871" title="A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China." url="https://doi.org/10.1080/00222933.2021.1921871" volume="55" year="2021">Liu and Rao 2021</bibRefCitation>
+); no female information about this species was available. Identification verification of 
+<taxonomicName id="B0EBC069AE5D018D673C2DFF0797B962" genus="C." lsidName="C. khasiensis" pageId="0" pageNumber="65" rank="species" species="khasiensis">
+<emphasis id="855B751F1C90185933DB9B012CEED2C0" italics="true" pageId="0" pageNumber="65">C. khasiensis</emphasis>
+</taxonomicName>
+voucher specimens deposited in museums could potentially yield additional specimens of 
+<taxonomicName id="EC538364245276B1A11AC80092816F23" genus="C." lsidName="C. dianxiensis" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="45E358303DEEF3AC2967A57E2B121526" italics="true" pageId="0" pageNumber="65">C. dianxiensis</emphasis>
+</taxonomicName>
+. However, we have not yet been given the opportunity to examine the relevant specimens in other museums.
+</paragraph>
+<paragraph id="2FAA8E58EB3F83C6E5117EE07D3C3A49" pageId="0" pageNumber="65">
+During a comprehensive herpetofaunal survey of Tongbiguan Nature Reserve in 2022, one female specimen of 
+<taxonomicName id="97C6263B4FE86EA9D315A7A5246F70AB" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus" order="Squamata" pageId="0" pageNumber="65" rank="genus">
+<emphasis id="95B4A5D0A1B1DF49977D926AF6D9D0E6" italics="true" pageId="0" pageNumber="65">Cyrtodactylus</emphasis>
+</taxonomicName>
+was collected from Tongbiguan Nature Reserve, Xueli Village, Taiping Town, Yingjiang County, Dehong Prefecture, Yunnan Province, China (Fig. 
+<figureCitation id="210B48AC84A0BF7B92E743EC15AB9D82" captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Sampling sites of Cyrtodactylus dianxiensis: solid black star, the locality of the holotype; solid black triangle, the locality of the paratype; solid green circle, the locality of the newly collected female specimen." figureDoi="10.3897/herpetozoa.37.e119492.figure1" httpUri="https://binary.pensoft.net/fig/998622" pageId="0" pageNumber="65">1</figureCitation>
+). Morphological and molecular phylogenetic analyses revealed that the specimen is 
+<taxonomicName id="62AECFCFD331A3F06F1E0C239F8DFE8A" genus="C." lsidName="C. dianxiensis" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="492D1A185D87BD903D6CC34FD72F882D" italics="true" pageId="0" pageNumber="65">C. dianxiensis</emphasis>
+</taxonomicName>
+. Here, we provide morphological data for the newly collected female specimen of 
+<taxonomicName id="E48ED9A820C7CE929E5312949FA1ECF4" genus="C." lsidName="C. dianxiensis" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="11C242277A59C98F77DB3443D271EA22" italics="true" pageId="0" pageNumber="65">C. dianxiensis</emphasis>
+</taxonomicName>
+, and extend the diagnosis of this species.
+</paragraph>
+<caption id="025A1E22EC9CDAE506155313D85F56A0" doi="10.3897/herpetozoa.37.e119492.figure1" httpUri="https://binary.pensoft.net/fig/998622" pageId="0" pageNumber="65" start="Figure 1" startId="F1">
+<paragraph id="2F0C0832102DFFFA4C7DFDC5EC10DA0A" pageId="0" pageNumber="65">
+<emphasis id="8B582BDBF5815E134BBA565B9C9C23F8" bold="true" pageId="0" pageNumber="65">Figure 1.</emphasis>
+Sampling sites of 
+<taxonomicName id="9BF024815F8A2607E1980FAFAD1C70C3" authorityName="Liu &amp; Rao" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus dianxiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="796E49BE3FBC4FC2589D2075C30A7783" italics="true" pageId="0" pageNumber="65">Cyrtodactylus dianxiensis</emphasis>
+</taxonomicName>
+: solid black star, the locality of the holotype; solid black triangle, the locality of the paratype; solid green circle, the locality of the newly collected female specimen.
+</paragraph>
+</caption>
+</subSection>
+<subSection id="08FD7F51B0B97BB225D29BFFB627E8F5" pageId="0" pageNumber="65" type="materials_methods">
+<paragraph id="D64A103AAD794247CED346987E6EE93D" pageId="0" pageNumber="65">Materials and methods</paragraph>
+<paragraph id="43FF923C7E60F5CE26BF9B2D38238687" pageId="0" pageNumber="65">Sampling</paragraph>
+<paragraph id="598857CD7A8917B9D55A3E20593D2BF0" pageId="0" pageNumber="65">The specimen was sampled by hand at night. Sex was further determined based on whether the ventral side of the tail base is swollen. After euthanasia, liver tissues were taken and preserved in 95% alcohol. The specimen was then directly preserved in 75% ethanol without formalin fixation. The voucher specimen was deposited in Kunming Natural History Museum of Zoology, Kunming Institute of Zoology, Chinese Academy of Sciences (KIZ).</paragraph>
+<paragraph id="713C683E2660ED0C520E931D1314FAC7" pageId="0" pageNumber="65">Morphological analyses</paragraph>
+<paragraph id="67A6252948858A823F097E42BBC151F2" pageId="0" pageNumber="65">
+The adult female specimen preserved in 75% ethanol was measured with digital calipers to the nearest 0.1 mm. Morphological terminology followed 
+<bibRefCitation id="95165B82738B8C3DB896F2834A372C4F" DOI="https://doi.org/10.1080/00222933.2021.1921871" author="Liu, S" journalOrPublisher="Journal of Natural History" pageId="0" pageNumber="65" pagination="713 - 731" refId="B6" refString="Liu, S, Rao, DQ, 2021. A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China. Journal of Natural History 55: 713 - 731, DOI: https://doi.org/10.1080/00222933.2021.1921871" title="A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China." url="https://doi.org/10.1080/00222933.2021.1921871" volume="55" year="2021">Liu and Rao (2021)</bibRefCitation>
+. Measurements included the following: snout-vent length (SVL), from tip of snout to anterior margin of cloaca; trunk length (TRL), axilla to groin distance; body width (BW), maximum width of body; tail length (TL), from posterior margin of cloaca to tip of tail; tail width (TW), maximum width of tail; head length (HL), from tip of snout to posterior margin of jaw; head width (HW), maximum width of head; head height (HH), from occiput to underside of jaws; forearm length (FL), from the base of the palm to the elbow; crus length (CL), from the base of heel to the knee; eye diameter (ED), greatest diameter of eye; nostril to eye distance (NE), from nostril to anterior corner of eye orbit; snout to eye distance (SE), from tip of snout to anterior corner of eye orbit; orbit to ear distance (EE), from posterior corner of eye orbit to anterior margin of ear opening; ear length (EL), greatest diameter of ear; internarial distance (IN), measured between inner borders of nostrils; interorbital distance (IO), measured across narrowest point of frontal bone. The counting of the following characteristics also followed 
+<bibRefCitation id="F35EE05DA4E70113E7B023FD078205B0" DOI="https://doi.org/10.1080/00222933.2021.1921871" author="Liu, S" journalOrPublisher="Journal of Natural History" pageId="0" pageNumber="65" pagination="713 - 731" refId="B6" refString="Liu, S, Rao, DQ, 2021. A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China. Journal of Natural History 55: 713 - 731, DOI: https://doi.org/10.1080/00222933.2021.1921871" title="A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China." url="https://doi.org/10.1080/00222933.2021.1921871" volume="55" year="2021">Liu and Rao (2021)</bibRefCitation>
+: dorsal tubercle rows (DTR); ventral scale rows (MVSR); paravertebral tubercles (PVT); supralabials (SL); infralabials (IL); precloacal pores (PcP); precloacofemoral pores (PcFP); femoral pores on each thigh (FP); subdigital lamellae under the fourth finger (LF4) and under the fourth toe (LT4).
+</paragraph>
+<paragraph id="5DF410AE9F833AE83731A02AC1C47386" pageId="0" pageNumber="65">DNA extraction, PCR amplification, and sequencing</paragraph>
+<paragraph id="AEEC6A8E36C24692631F2106FFDC8365" pageId="0" pageNumber="65">
+Total genomic DNA was extracted from tissue samples preserved in 95% ethanol. The tissue sample was then digested using proteinase K, and subsequently purified using DNeasy Tissue Kit (QIAGEN). A fragment of NADH Dehydrogenase subunit 2 (ND2) was amplified and sequenced using the primers L4437b and H5934 (
+<bibRefCitation id="9778FDCBD4F1C73E39FDABB0EED33EE7" DOI="https://doi.org/10.1093/oxfordjournals.molbev.a025706" author="Macey, JR" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" pagination="91 - 104" refId="B9" refString="Macey, JR, Larson, A, Ananjeva, NB, Fang, Z, Papenfuss, TJ, 1997. Two novel gene orders and the role of light-strand replication in rearrangement of the vertebrate mitochondrial genome. Molecular Biology and Evolution 14: 91 - 104, DOI: https://doi.org/10.1093/oxfordjournals.molbev.a025706" title="Two novel gene orders and the role of light-strand replication in rearrangement of the vertebrate mitochondrial genome." url="https://doi.org/10.1093/oxfordjournals.molbev.a025706" volume="14" year="1997">Macey et al. 1997</bibRefCitation>
+). The experiment protocols are the same as 
+<bibRefCitation id="76E4A0D8266AD25750226E1704766995" DOI="https://doi.org/10.1080/00222933.2021.1921871" author="Liu, S" journalOrPublisher="Journal of Natural History" pageId="0" pageNumber="65" pagination="713 - 731" refId="B6" refString="Liu, S, Rao, DQ, 2021. A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China. Journal of Natural History 55: 713 - 731, DOI: https://doi.org/10.1080/00222933.2021.1921871" title="A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China." url="https://doi.org/10.1080/00222933.2021.1921871" volume="55" year="2021">Liu and Rao (2021)</bibRefCitation>
+. New sequence was assembled and edited using SEQMAN in Lasergene 7.1 (DNASTAR Inc., Madison, WI, USA).
+</paragraph>
+<paragraph id="1F3DAE5AF8E7325E1567DAAC9CB4AAEA" pageId="0" pageNumber="65">Molecular analysis</paragraph>
+<paragraph id="6B168EE10CCC283BB5D0B43929AFDB97" pageId="0" pageNumber="65">
+Phylogenetic relationships within the 
+<taxonomicName id="3E70A6139B602EBF841611FA6FDBA33C" genus="C." lsidName="C. khasiensis" pageId="0" pageNumber="65" rank="species" species="khasiensis">
+<emphasis id="C41D799DCC655BF1EDEE1752E89E1A7E" italics="true" pageId="0" pageNumber="65">C. khasiensis</emphasis>
+</taxonomicName>
+species group were inferred from ND2. The homologous sequences of the 
+<taxonomicName id="1652672BB607BA99A869A5326832065C" genus="C." lsidName="C. khasiensis" pageId="0" pageNumber="65" rank="species" species="khasiensis">
+<emphasis id="83D4053FCBAE0AB796EA434F13FA2F2A" italics="true" pageId="0" pageNumber="65">C. khasiensis</emphasis>
+</taxonomicName>
+species group, and the outgroups species 
+<taxonomicName id="5A0A1FD32C07079B0FBDD2310E5A06BB" genus="C." lsidName="C. slowinskii" pageId="0" pageNumber="65" rank="species" species="slowinskii">
+<emphasis id="E036CFC093C8024F050CA486606B3B95" italics="true" pageId="0" pageNumber="65">C. slowinskii</emphasis>
+</taxonomicName>
+, were downloaded from GenBank (
+<bibRefCitation id="959811050527D7EE1519DD7122F56CC2" DOI="https://doi.org/10.1093/nar/gkv1276" author="Clark, K" pageId="0" pageNumber="65" refId="B1" refString="Clark, K, Karsch-Mizrachi, I, Lipman, DJ, Ostell, J, Sayers, EW, 2016. GenBank. Nucleic Acids Research 44(D1): D67-72. https://doi.org/10.1093/nar/gkv1276" title="GenBank. Nucleic Acids Research 44 (D 1): D 67 - 72." url="https://doi.org/10.1093/nar/gkv1276" year="2016">Clark et al. 2016</bibRefCitation>
+) (Table 
+<tableCitation id="9276179A8CF9B64349CB8A3C0234D52A" captionStart="Table 1" captionStartId="T1" captionText="Table 1. Locality, voucher ID, and GenBank accession (ND 2) for all samples used in this study. * denotes the holotype of Cyrtodactylus dianxiensis." httpUri="http://table.plazi.org/id/1506563A81E84C2E43B77452D8470180" pageId="0" pageNumber="65" tableUuid="1506563A81E84C2E43B77452D8470180">1</tableCitation>
+). Sequences were aligned using MUSCLE 3.6 (
+<bibRefCitation id="273EECF3D675AD20A4E0C40A9300EEA3" DOI="https://doi.org/10.1093/nar/gkh340" author="Edgar, RC" journalOrPublisher="Nucleic Acids Research" pageId="0" pageNumber="65" pagination="1792 - 1797" refId="B2" refString="Edgar, RC, 2004. MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Research 32: 1792 - 1797, DOI: https://doi.org/10.1093/nar/gkh340" title="MUSCLE: multiple sequence alignment with high accuracy and high throughput." url="https://doi.org/10.1093/nar/gkh340" volume="32" year="2004">Edgar 2004</bibRefCitation>
+), then checked by eye for accuracy and trimmed to minimize missing characters in MEGA 6.0.6 (
+<bibRefCitation id="A575BC57082E20E0EC013C245A3DFF0C" DOI="https://doi.org/10.1093/molbev/mst197" author="Tamura, K" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" pagination="2725 - 2729" refId="B13" refString="Tamura, K, Stecher, G, Peterson, D, Filipski, A, Kumar, S, 2013. MEGA6: Molecular Evolutionary Genetics Analysis Version 6.0. Molecular Biology and Evolution 30: 2725 - 2729, DOI: https://doi.org/10.1093/molbev/mst197" title="MEGA 6: Molecular Evolutionary Genetics Analysis Version 6.0." url="https://doi.org/10.1093/molbev/mst197" volume="30" year="2013">Tamura et al. 2013</bibRefCitation>
+).
+</paragraph>
+<caption id="1506563A81E84C2E43B77452D8470180" ID-Table-UUID="1506563A81E84C2E43B77452D8470180" httpUri="http://table.plazi.org/id/1506563A81E84C2E43B77452D8470180" pageId="0" pageNumber="65" start="Table 1" startId="T1">
+<paragraph id="05F9E6D038F4945BA09521D7417FE2BF" pageId="0" pageNumber="65">
+<emphasis id="A853E143FB640E7C77745741092B3589" bold="true" pageId="0" pageNumber="65">Table 1.</emphasis>
+Locality, voucher ID, and GenBank accession (ND2) for all samples used in this study. * denotes the holotype of 
+<taxonomicName id="8CFB7ECA63585607DED4B770B7351A64" authorityName="Liu &amp; Rao" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus dianxiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="E7B6C4D58F863FAADAE0ED62D7E214DD" italics="true" pageId="0" pageNumber="65">Cyrtodactylus dianxiensis</emphasis>
+</taxonomicName>
+.
+</paragraph>
+</caption>
+<paragraph id="4F08452E61F12C909B84232A39D2719E" pageId="0" pageNumber="65">
+<table id="B4D00D91FEB4082BB7091392F1EBBC0C" pageId="0" pageNumber="65">
+<tr id="240E2BB2CAA09D846DD8F94D76505D9C" pageId="0" pageNumber="65">
+<th id="BA539493F1FD7E99AC8E7F627FE03F29" colspan="1" pageId="0" pageNumber="65" rowspan="1">Species</th>
+<th id="CC2C12BBBFECAEDB835D15D8887C4F4D" colspan="1" pageId="0" pageNumber="65" rowspan="1">Locality</th>
+<th id="D79700DEA2517FE3F0065011ACE3BF0F" colspan="1" pageId="0" pageNumber="65" rowspan="1">Voucher</th>
+<th id="47D95B448C04F1A380FDF345FCDB7A24" colspan="1" pageId="0" pageNumber="65" rowspan="1">Accession</th>
+</tr>
+<tr id="E21ED3C3BCD06986590DB63C1B19BCA5" pageId="0" pageNumber="65">
+<td id="5D3969E8D3A2C827C4FEDFD3CA3153B4" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="70E9280A97BA76B8F65392469AF9856E" authorityName="Purkayastha, Lalremsanga, Bohra, Biakzuala, Decemson, Muansanga, Vabeiryureilai &amp; Rathee" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus aaronbaueri" order="Squamata" pageId="0" pageNumber="65" rank="species" species="aaronbaueri">
+<emphasis id="D05529652537B7C39C4F3D0182F7AAEA" italics="true" pageId="0" pageNumber="65">Cyrtodactylus aaronbaueri</emphasis>
+</taxonomicName>
+</td>
+<td id="C4C975E06BB7AC2034951CFCA29BD850" colspan="1" pageId="0" pageNumber="65" rowspan="1">Mizoram, India</td>
+<td id="70CC2F0E9B9374C94D62AD95B71CFD42" colspan="1" pageId="0" pageNumber="65" rowspan="1">MZMU 2015</td>
+<td id="40AA19EB056C1AC92C9285AF2936E67B" colspan="1" pageId="0" pageNumber="65" rowspan="1">MW596520</td>
+</tr>
+<tr id="2F074A186A6886473F64F3CE7188DD51" pageId="0" pageNumber="65">
+<td id="1CE7110DE52D6EB635324A997A7272B6" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="DEE038330790BCF08021CFF3088D40FD" authorityName="Purkayastha, Lalremsanga, Bohra, Biakzuala, Decemson, Muansanga, Vabeiryureilai &amp; Rathee" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus agarwali" order="Squamata" pageId="0" pageNumber="65" rank="species" species="agarwali">
+<emphasis id="7E46FCD83DA6E4761544107453F4B715" italics="true" pageId="0" pageNumber="65">Cyrtodactylus agarwali</emphasis>
+</taxonomicName>
+</td>
+<td id="AFBD9BFAC91049935C38274987528A39" colspan="1" pageId="0" pageNumber="65" rowspan="1">Meghalaya, India</td>
+<td id="74E87375AA31E24D16D92C05BF38D1B5" colspan="1" pageId="0" pageNumber="65" rowspan="1">MZMU 2158</td>
+<td id="27A2B60391FB4F5545C229067A163B24" colspan="1" pageId="0" pageNumber="65" rowspan="1">MW596515</td>
+</tr>
+<tr id="8DDBFDA54FEBE7C4937462AF53482298" pageId="0" pageNumber="65">
+<td id="96AD309963B9E2C0503289C50A0E9F1D" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="96D4A906ED2498B7943D134DF2214E10" authorityName="Mirza, Bhosale, Ansari, Phansalkar, Swant, Gowande &amp; Patel" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus arunachalensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="arunachalensis">
+<emphasis id="F6DCBDFF0B90CB0CBE2012D844698580" italics="true" pageId="0" pageNumber="65">Cyrtodactylus arunachalensis</emphasis>
+</taxonomicName>
+</td>
+<td id="77A2CF646B8EEC2DFBB58B2AFC56DC68" colspan="1" pageId="0" pageNumber="65" rowspan="1">Arunachal Pradesh, India</td>
+<td id="6044406BCDE1DE2D94796A953D374553" colspan="1" pageId="0" pageNumber="65" rowspan="1">BNHS 2777</td>
+<td id="661548F2AE6E95D40FC76C1EC8665DE4" colspan="1" pageId="0" pageNumber="65" rowspan="1">MT341522</td>
+</tr>
+<tr id="BE064AF7A5E7C275B00EB1071E5823C9" pageId="0" pageNumber="65">
+<td id="02A0C14A69B62265907B88EE94613019" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="DF83D22F06CEE453938BD270C979D141" authorityName="Grismer, Wood, Thura, Win, Grismer, Trueblood &amp; Quah" authorityYear="2018" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus aunglini" order="Squamata" pageId="0" pageNumber="65" rank="species" species="aunglini">
+<emphasis id="84C8FD134E54766E9EC4389E9846408E" italics="true" pageId="0" pageNumber="65">Cyrtodactylus aunglini</emphasis>
+</taxonomicName>
+</td>
+<td id="9C3E18322E6E2EFAB7009A66F7B75129" colspan="1" pageId="0" pageNumber="65" rowspan="1">Mandalay, Myanmar</td>
+<td id="A8DA157FCA070E0804BF93BA1C354C7E" colspan="1" pageId="0" pageNumber="65" rowspan="1">LSUHC 13948</td>
+<td id="4FE2B60FFCFF0C99036F8B2C96653C4D" colspan="1" pageId="0" pageNumber="65" rowspan="1">MH764589</td>
+</tr>
+<tr id="2081FF46AFF32B6C32D52E1A3FE6FEB0" pageId="0" pageNumber="65">
+<td id="B578495E2234EA3439B59CDAB7CFA00A" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="DBB6A1112721B9DC65CCC4A069E2EF0D" authorityName="Bauer" authorityYear="2003" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus ayeyarwadyensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="ayeyarwadyensis">
+<emphasis id="D8B8ADF61E1D202BC31069B02106A98D" italics="true" pageId="0" pageNumber="65">Cyrtodactylus ayeyarwadyensis</emphasis>
+</taxonomicName>
+</td>
+<td id="700887DECC9E02FB4910D992BCD50A13" colspan="1" pageId="0" pageNumber="65" rowspan="1">Ayeyarwady, Myanmar</td>
+<td id="DDB3DFA966F2A59160D7648A088B0816" colspan="1" pageId="0" pageNumber="65" rowspan="1">CAS 212459</td>
+<td id="64FEC7771EDFBCDCA58616CE1D3130C7" colspan="1" pageId="0" pageNumber="65" rowspan="1">JX440526</td>
+</tr>
+<tr id="6208034F2DC72246D1645E0163AC3720" pageId="0" pageNumber="65">
+<td id="0834F7FFA92AEB1F4B89360E65AEC45E" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="4C0A0A38C32FF5B3F55806367E4AB2AF" authorityName="Kamei &amp; Mahony" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus bapme" order="Squamata" pageId="0" pageNumber="65" rank="species" species="bapme">
+<emphasis id="196A9017B31542D4A47CD259910AB5ED" italics="true" pageId="0" pageNumber="65">Cyrtodactylus bapme</emphasis>
+</taxonomicName>
+</td>
+<td id="4D109A7FCF0B3060E8EC061AC8202604" colspan="1" pageId="0" pageNumber="65" rowspan="1">Meghalaya, India</td>
+<td id="810544FB59F7A6FA77D40D44058686C3" colspan="1" pageId="0" pageNumber="65" rowspan="1">BNHS 2756</td>
+<td id="69531F8E377BF654B6DD8607B0DD17AF" colspan="1" pageId="0" pageNumber="65" rowspan="1">MW367435</td>
+</tr>
+<tr id="3779FF40333637196F11394C2724D7B0" pageId="0" pageNumber="65">
+<td id="75F64173D1EFE527C83257A2098220F2" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="A7C4D499CC906EE2C9D2D739F85B40F0" authorityName="Purkayastha, Lalremsanga, Bohra, Biakzuala, Decemson, Muansanga, Vabeiryureilai &amp; Rathee" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus bengkhuaiai" order="Squamata" pageId="0" pageNumber="65" rank="species" species="bengkhuaiai">
+<emphasis id="FE4429F85C86770F6EE70FF3281A5392" italics="true" pageId="0" pageNumber="65">Cyrtodactylus bengkhuaiai</emphasis>
+</taxonomicName>
+</td>
+<td id="A82C07C857E07ED2D2356EC489748121" colspan="1" pageId="0" pageNumber="65" rowspan="1">Mizoram, India</td>
+<td id="BE288340BF6DDABF32265014B2B8821D" colspan="1" pageId="0" pageNumber="65" rowspan="1">MZMU 1985</td>
+<td id="B6435BD6B0B97F99B585E18413719B6A" colspan="1" pageId="0" pageNumber="65" rowspan="1">MW596516</td>
+</tr>
+<tr id="D9E2719DF28097E4190CF840E11D8DC6" pageId="0" pageNumber="65">
+<td id="EFE1FB309BC2997B2AEA4B26585B6C66" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="49240052EF701EA9A24457DAC2149ADF" authorityName="Bauer" authorityYear="2003" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus chrysopylos" order="Squamata" pageId="0" pageNumber="65" rank="species" species="chrysopylos">
+<emphasis id="4E8E44D2F3D4DD5BBAEF338791FEECF9" italics="true" pageId="0" pageNumber="65">Cyrtodactylus chrysopylos</emphasis>
+</taxonomicName>
+</td>
+<td id="158AB54CF7A813D9D47BADC0B7230C95" colspan="1" pageId="0" pageNumber="65" rowspan="1">Shan State, Myanmar</td>
+<td id="90CD88453FA024FA46C1F66E7B3A98A3" colspan="1" pageId="0" pageNumber="65" rowspan="1">LSUHC 13937</td>
+<td id="E5776D1E8D9B00DCE6ED91BC2950ABA6" colspan="1" pageId="0" pageNumber="65" rowspan="1">MH764604</td>
+</tr>
+<tr id="F433026F42B7524A96D94C7FF0825070" pageId="0" pageNumber="65">
+<td id="B32DEE64E234702ABA6135D1036F980E" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="45B951EC231029C54F77217ECD494196" authorityName="Liu &amp; Rao" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus dianxiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="B3A07406658AA7D3F044E7A2C294EB09" italics="true" pageId="0" pageNumber="65">Cyrtodactylus dianxiensis</emphasis>
+</taxonomicName>
+</td>
+<td id="060EBAB8279007B084E2C69D160138DE" colspan="1" pageId="0" pageNumber="65" rowspan="1">Yunnan, China</td>
+<td id="EF03D1CBEE4E37E02BC4D0A3037232A7" colspan="1" pageId="0" pageNumber="65" rowspan="1">KIZ059201</td>
+<td id="38DAB83D17024FB86AF99CD8A3EE292E" colspan="1" pageId="0" pageNumber="65" rowspan="1">MW971927</td>
+</tr>
+<tr id="40AA132AB21ABFA34D7057372F679E9C" pageId="0" pageNumber="65">
+<td id="C1C8B69865B6BE9A3BC5C62EBB359364" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="EFB9BA5019609F42777D7E30E6FEC17F" authorityName="Liu &amp; Rao" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus dianxiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="E8C5BB6000EA508122C2C210D4F4BFCC" italics="true" pageId="0" pageNumber="65">Cyrtodactylus dianxiensis</emphasis>
+</taxonomicName>
+</td>
+<td id="4118900C3A27CA036DC605C4ECFDDAF0" colspan="1" pageId="0" pageNumber="65" rowspan="1">Yunnan, China</td>
+<td id="0C007258B245242B94A3F6798C2A959F" colspan="1" pageId="0" pageNumber="65" rowspan="1">KIZL2019044*</td>
+<td id="EFE409E0F47DAC2B283F4C6BA1D48CF0" colspan="1" pageId="0" pageNumber="65" rowspan="1">MW971926</td>
+</tr>
+<tr id="2863AB03C2A262AF4B7A7D3199B886AE" pageId="0" pageNumber="65">
+<td id="7A3089749EB4D5626B222D006AA5902B" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="E9666AF380BDC9D65BB64B8F3E9788B0" authorityName="Liu &amp; Rao" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus dianxiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="F790D6621CAE29FEE54FED40756DFA6C" italics="true" pageId="0" pageNumber="65">Cyrtodactylus dianxiensis</emphasis>
+</taxonomicName>
+</td>
+<td id="E29D8CF69266B172607EC252FD2B897F" colspan="1" pageId="0" pageNumber="65" rowspan="1">Yunnan, China</td>
+<td id="D5CB4F618921F1796008EAF2AC14A681" colspan="1" pageId="0" pageNumber="65" rowspan="1">KIZ2022159</td>
+<td id="0E98C70FD1528FFEB9FB465AF554B634" colspan="1" pageId="0" pageNumber="65" rowspan="1">PP394340</td>
+</tr>
+<tr id="53ADE6BC8531F7757572755CF1027692" pageId="0" pageNumber="65">
+<td id="AF5B33E1EBFE5D408618F7255457C1AE" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="27F564E838E7221032CB499463417160" authorityName="Purkayastha, Lalremsanga, Litho, Rathee, Bohra, Mathipi, Biakzuala &amp; Muansanga" authorityYear="2022" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus exercitus" order="Squamata" pageId="0" pageNumber="65" rank="species" species="exercitus">
+<emphasis id="5BEBFA0D45EE41783DC7E08328708222" italics="true" pageId="0" pageNumber="65">Cyrtodactylus exercitus</emphasis>
+</taxonomicName>
+</td>
+<td id="F1A7D7E7B6DBF9D4DD5D4E66C136AD29" colspan="1" pageId="0" pageNumber="65" rowspan="1">Meghalaya, India</td>
+<td id="64254C88495F39E96FFC9891B2FE810F" colspan="1" pageId="0" pageNumber="65" rowspan="1">MZMU 2545</td>
+<td id="F6CF0B7D84436B27E8749F93BD711918" colspan="1" pageId="0" pageNumber="65" rowspan="1">OK247679</td>
+</tr>
+<tr id="3DFC020F2619170DF0AF91AB294748B6" pageId="0" pageNumber="65">
+<td id="0DDA2FF1935814462621299CC5AC6EC2" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="3F8738DC92C348F32867B0CF94141691" authorityName="Bauer" authorityYear="2003" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus gansi" order="Squamata" pageId="0" pageNumber="65" rank="species" species="gansi">
+<emphasis id="9F1E29ED9C5EFA599D68D16DD2C15B0B" italics="true" pageId="0" pageNumber="65">Cyrtodactylus gansi</emphasis>
+</taxonomicName>
+</td>
+<td id="77AAC281653A868F5E94F53DE9A36365" colspan="1" pageId="0" pageNumber="65" rowspan="1">Chin State, Myanmar</td>
+<td id="2B509EE99B27BD878712D6B8445B5748" colspan="1" pageId="0" pageNumber="65" rowspan="1">CAS 222412</td>
+<td id="98C195C44EAE88F39CDD52673ED43BCF" colspan="1" pageId="0" pageNumber="65" rowspan="1">JX440537</td>
+</tr>
+<tr id="8CB0E84123DC9A781C954D66B4DD1F9A" pageId="0" pageNumber="65">
+<td id="8F93365CB97FAD759FFF33FF6644B36E" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="D6257D327074F3B89CB36EEDA1D15E53" authorityName="Agarwal, Mahony, Giri, Chaitanya &amp; Bauer" authorityYear="2018" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus guwahatiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="guwahatiensis">
+<emphasis id="358E6053355865268196E3F4416F44FA" italics="true" pageId="0" pageNumber="65">Cyrtodactylus guwahatiensis</emphasis>
+</taxonomicName>
+</td>
+<td id="5D4E586320BDF78632A0E1C0856EE161" colspan="1" pageId="0" pageNumber="65" rowspan="1">Assam, India</td>
+<td id="69A4F2ADBE940348ED9B4BFB38DF0163" colspan="1" pageId="0" pageNumber="65" rowspan="1">BNHS 2146</td>
+<td id="EBDD791B2E0862FAB1E8CDA374EACE3A" colspan="1" pageId="0" pageNumber="65" rowspan="1">KM255194</td>
+</tr>
+<tr id="1BF4F88BD773D8B0A16F9F3F57A766DB" pageId="0" pageNumber="65">
+<td id="3BBA157FECFD6E691DF8E912C4547C74" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="27D936B5A1E45AC4CDC653A44B46A25F" authorityName="Agarwal, Mahony, Giri, Chaitanya &amp; Bauer" authorityYear="2018" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus jaintiaensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="jaintiaensis">
+<emphasis id="2F01D9025D60145828E1E23B128019C0" italics="true" pageId="0" pageNumber="65">Cyrtodactylus jaintiaensis</emphasis>
+</taxonomicName>
+</td>
+<td id="358D9492D407006E7B502B5208D23937" colspan="1" pageId="0" pageNumber="65" rowspan="1">Meghalaya, India</td>
+<td id="730564615C5B66A8521B0C87A14D43F6" colspan="1" pageId="0" pageNumber="65" rowspan="1">BNHS 2248</td>
+<td id="D55C8B3768DAD82E7A9504C0A562ACD4" colspan="1" pageId="0" pageNumber="65" rowspan="1">KM255195</td>
+</tr>
+<tr id="71775262AB74F5965CB668CB044ABDE8" pageId="0" pageNumber="65">
+<td id="74E2E71D1D9227C0B2FAB043A0B31C18" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="1A4B0FA327CD8F26ADA5CB64EFA484DB" authorityName="Purkayastha, Lalremsanga, Bohra, Biakzuala, Decemson, Muansanga, Vabeiryureilai &amp; Rathee" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus karsticola" order="Squamata" pageId="0" pageNumber="65" rank="species" species="karsticola">
+<emphasis id="9594C4C856151B3998A6700249470D92" italics="true" pageId="0" pageNumber="65">Cyrtodactylus karsticola</emphasis>
+</taxonomicName>
+</td>
+<td id="8C4348F1057F7B90D6A411F96E4F4128" colspan="1" pageId="0" pageNumber="65" rowspan="1">Meghalaya, India</td>
+<td id="31A38EC70C0B622D109246ECD6C71744" colspan="1" pageId="0" pageNumber="65" rowspan="1">MZMU 2156</td>
+<td id="9E356C4C76BE178858FE84C65ABACD13" colspan="1" pageId="0" pageNumber="65" rowspan="1">MW596513</td>
+</tr>
+<tr id="88C98CC5DDD6B8763AC7A03B681EA5C6" pageId="0" pageNumber="65">
+<td id="A34FF557E0124E65B4DA8E29A7B054CE" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="7A7AC0031DD41315477D8061AC69CC88" authorityName="Agarwal, Mahony, Giri, Chaitanya &amp; Bauer" authorityYear="2018" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus kazirangaensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="kazirangaensis">
+<emphasis id="2BC38BB7BCBEF41807B941340BCAD96D" italics="true" pageId="0" pageNumber="65">Cyrtodactylus kazirangaensis</emphasis>
+</taxonomicName>
+</td>
+<td id="419E4287CB5262442F04A64D0041E1C6" colspan="1" pageId="0" pageNumber="65" rowspan="1">Assam, India</td>
+<td id="6FA7151D715C805DCC48ACECDF3127C8" colspan="1" pageId="0" pageNumber="65" rowspan="1">BNHS 2147</td>
+<td id="9E44D67121018F2A472094C28C9D66B0" colspan="1" pageId="0" pageNumber="65" rowspan="1">KM255170</td>
+</tr>
+<tr id="B98A331AEE47CA365E457C6634FF888D" pageId="0" pageNumber="65">
+<td id="1DECBE9BACFA4CF4C4377569B5F8DBC4" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="A381797FEA44334EBF295DCF7E9F98B2" baseAuthorityName="Jerdon" baseAuthorityYear="1870" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus khasiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="khasiensis">
+<emphasis id="96268B001BF4444EA2E9D61980BB64B2" italics="true" pageId="0" pageNumber="65">Cyrtodactylus khasiensis</emphasis>
+</taxonomicName>
+</td>
+<td id="F8089C84228AAEB23095B4A9F39C3D2E" colspan="1" pageId="0" pageNumber="65" rowspan="1">Meghalaya, India</td>
+<td id="41AC2112D02C1DF4102E09230E755D7D" colspan="1" pageId="0" pageNumber="65" rowspan="1">BNHS 2249</td>
+<td id="CEDA98E53FE8D9ECC3E453D86723AA6E" colspan="1" pageId="0" pageNumber="65" rowspan="1">KM255188</td>
+</tr>
+<tr id="CBCCC14FE938CC6D4DB5FE8DEA3A1695" pageId="0" pageNumber="65">
+<td id="D0818F7C5E1E9DCB08BF8C9483312266" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="F9838047F884E842A63BFC70C98EDA96" authorityName="Lalremsanga, Chinliansiama, Bohra, Biakzuala, Vabeiryureilai, Muansanga, Malsawmdawngliana, Hmar, Decemson, Siammawii, Das &amp; Purkayastha" authorityYear="2022" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus lungleiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="lungleiensis">
+<emphasis id="E1B7EAA04901D5F08859A31087EAB855" italics="true" pageId="0" pageNumber="65">Cyrtodactylus lungleiensis</emphasis>
+</taxonomicName>
+</td>
+<td id="9E68834D8AF92B96E9ADCE97DE99F6CF" colspan="1" pageId="0" pageNumber="65" rowspan="1">Mizoram, India</td>
+<td id="362642ECBD3D11597A099DB2B7C17476" colspan="1" pageId="0" pageNumber="65" rowspan="1">MZMU 2428</td>
+<td id="8B0642DBC6C476B42EEC1A621456FC64" colspan="1" pageId="0" pageNumber="65" rowspan="1">MZ645742</td>
+</tr>
+<tr id="2B432036962874034003B05CD8440263" pageId="0" pageNumber="65">
+<td id="420C18B88E36DF8F50E0B8DA8E0CAB4F" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="581959B0B14F777E1A1472CAB72B4727" authorityName="Agarwal, Mahony, Giri, Chaitanya &amp; Bauer" authorityYear="2018" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus montanus" order="Squamata" pageId="0" pageNumber="65" rank="species" species="montanus">
+<emphasis id="C3E4BE651402A82BC6ED54E61126E34E" italics="true" pageId="0" pageNumber="65">Cyrtodactylus montanus</emphasis>
+</taxonomicName>
+</td>
+<td id="ACEAE003CFD960212CA3B87A406C604E" colspan="1" pageId="0" pageNumber="65" rowspan="1">Tripura, India</td>
+<td id="C21A018B1FBF5CAECCF37B29F40A96C2" colspan="1" pageId="0" pageNumber="65" rowspan="1">BNHS 2231</td>
+<td id="E04808DAE7410E103DE21E9E256FF4DD" colspan="1" pageId="0" pageNumber="65" rowspan="1">KM255200</td>
+</tr>
+<tr id="8E30D2592DC3B3030908501E5CEED9D9" pageId="0" pageNumber="65">
+<td id="4A663EDDA322DF32F416C8B06FE54C4C" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="CFF2207B9A4AA6B4DEC5DEA240DEE154" authorityName="Grismer, Wood, Quah, Thura, Herr &amp; Lin" authorityYear="2019" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus mombergi" order="Squamata" pageId="0" pageNumber="65" rank="species" species="mombergi">
+<emphasis id="E5A324FD7FE3A8972758162727FCFD42" italics="true" pageId="0" pageNumber="65">Cyrtodactylus mombergi</emphasis>
+</taxonomicName>
+</td>
+<td id="BEA28434B362173E618354DBC151758C" colspan="1" pageId="0" pageNumber="65" rowspan="1">Kachin State, Myanmar</td>
+<td id="BFCD2F470E3948ED27EFFA6AFD6F74BE" colspan="1" pageId="0" pageNumber="65" rowspan="1">LSUHC 14734</td>
+<td id="767FDEECF2B22BECDE4B80D7BBC16044" colspan="1" pageId="0" pageNumber="65" rowspan="1">MN059875</td>
+</tr>
+<tr id="511D18C7A2E606CB9740702AE043184B" pageId="0" pageNumber="65">
+<td id="FA8E20453A3883B68F710CB65046845A" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="D3819E238484134B72BFC08D5167D249" authorityName="Agarwal, Mahony, Giri, Chaitanya &amp; Bauer" authorityYear="2018" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus nagalandensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="nagalandensis">
+<emphasis id="07557F042DC28110848054FF64CFA176" italics="true" pageId="0" pageNumber="65">Cyrtodactylus nagalandensis</emphasis>
+</taxonomicName>
+</td>
+<td id="CEB874C6C9BE7AB5966961F38C855EE7" colspan="1" pageId="0" pageNumber="65" rowspan="1">Nagaland, India</td>
+<td id="B843C7F12F70A9F58595E74B61438E41" colspan="1" pageId="0" pageNumber="65" rowspan="1">BNHS 2253</td>
+<td id="424F18FF463D9C5D872B6E215B4B13C8" colspan="1" pageId="0" pageNumber="65" rowspan="1">KM255199</td>
+</tr>
+<tr id="3CD85681B79F30CB6C40C1E3EC539258" pageId="0" pageNumber="65">
+<td id="F741F57463E6A156F3F908850ADA79CE" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="3ED0BF7D77F22A74E7916DC25B018242" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus namtiram" order="Squamata" pageId="0" pageNumber="65" rank="species" species="namtiram">
+<emphasis id="CF3A2760E554E6DA81448C90562C118A" italics="true" pageId="0" pageNumber="65">Cyrtodactylus namtiram</emphasis>
+</taxonomicName>
+</td>
+<td id="83F0E2402E115C12C57F014A27FBA61F" colspan="1" pageId="0" pageNumber="65" rowspan="1">Manipur, India</td>
+<td id="1CB7B35D2E45947F9A11B51754D93C48" colspan="1" pageId="0" pageNumber="65" rowspan="1">BNHS 2751</td>
+<td id="E93B224FFD200BDDB5E5FBF46346B194" colspan="1" pageId="0" pageNumber="65" rowspan="1">MW367433</td>
+</tr>
+<tr id="6847E0960DA9F96BF9A2DFF4D47B09C5" pageId="0" pageNumber="65">
+<td id="C9BAFEF69A85FAB6E70D283FBCAA4A12" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="7AF2DA8D97FC4F0B243E6F72EF04C9EB" authorityName="Bohra, Zonunsanga, Das, Purkayastha, Biakzuala &amp; Lalremsanga" authorityYear="2022" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus ngopensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="ngopensis">
+<emphasis id="A0A44D462A4C011A79DDFFC09F60ACA2" italics="true" pageId="0" pageNumber="65">Cyrtodactylus ngopensis</emphasis>
+</taxonomicName>
+</td>
+<td id="A1C533F8E2890E3A77E40C8077DC6794" colspan="1" pageId="0" pageNumber="65" rowspan="1">Mizoram, India</td>
+<td id="896E47367DB9804E1D02494ACB5D9011" colspan="1" pageId="0" pageNumber="65" rowspan="1">MZMU 2360</td>
+<td id="FB3E03C35A7C24751234BA4F835064D6" colspan="1" pageId="0" pageNumber="65" rowspan="1">OM912605</td>
+</tr>
+<tr id="6BF33819201B1DD85477EE97C30E0CB1" pageId="0" pageNumber="65">
+<td id="76CC2B55A627204BA4E812EAD7A71191" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="599B027393ADF3D715E0A2535EABA166" authorityName="Agarwal, Mahony, Giri, Chaitanya &amp; Bauer" authorityYear="2018" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus septentrionalis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="septentrionalis">
+<emphasis id="EE55AFC39CF0CDEFA76926F8FBA68CDD" italics="true" pageId="0" pageNumber="65">Cyrtodactylus septentrionalis</emphasis>
+</taxonomicName>
+</td>
+<td id="EA624AE49AA0241724F9ADA32E308EC3" colspan="1" pageId="0" pageNumber="65" rowspan="1">Assam, India</td>
+<td id="A780CA24208FAA1E8CF1841D855749D4" colspan="1" pageId="0" pageNumber="65" rowspan="1">BNHS 1989</td>
+<td id="E99F8072DA6422A37D2BBD3B25F232F6" colspan="1" pageId="0" pageNumber="65" rowspan="1">MH971164</td>
+</tr>
+<tr id="297E62799A2B32D1416F53FBAE5740D7" pageId="0" pageNumber="65">
+<td id="009D7ECAADB36F266DDB45058DE777D8" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="29D955AB5215D1EA3BA54C2C2EC1E778" authorityName="Purkayastha, Lalremsanga, Litho, Rathee, Bohra, Mathipi, Biakzuala &amp; Muansanga" authorityYear="2022" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus siahaensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="siahaensis">
+<emphasis id="169401A77A4FE6BA8C54CD550F85EA4F" italics="true" pageId="0" pageNumber="65">Cyrtodactylus siahaensis</emphasis>
+</taxonomicName>
+</td>
+<td id="792EC7F3651081CDEDE48CA7C1349A25" colspan="1" pageId="0" pageNumber="65" rowspan="1">Mizoram, India</td>
+<td id="4786896266308A238267B1BE3499FE6E" colspan="1" pageId="0" pageNumber="65" rowspan="1">MZMU 2445</td>
+<td id="EF4586E0A00FC6091F8909BFB3A6BCA3" colspan="1" pageId="0" pageNumber="65" rowspan="1">OK247677</td>
+</tr>
+<tr id="FD50B3E1CD4417A9344C1E37A85CE0CA" pageId="0" pageNumber="65">
+<td id="53C58DAE8BA929C4C70119E7601598FA" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="F2F8CA2671EDEC35EB642881324CB86A" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus tripuraensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="tripuraensis">
+<emphasis id="FBF2AC1BEECFA552E8A67D2EF42157E9" italics="true" pageId="0" pageNumber="65">Cyrtodactylus tripuraensis</emphasis>
+</taxonomicName>
+</td>
+<td id="E1BDB140291A6F4D9D3626DC253077E2" colspan="1" pageId="0" pageNumber="65" rowspan="1">Tripura, India</td>
+<td id="DB3F495894DB5D1FB8E47A57F9BA00C9" colspan="1" pageId="0" pageNumber="65" rowspan="1">BNHS 2238</td>
+<td id="F2CF94918576932A63D8E5A7C3982EAE" colspan="1" pageId="0" pageNumber="65" rowspan="1">KM255183</td>
+</tr>
+<tr id="4D2BE6AF1EDF8E1A7D57674E36EA7E48" pageId="0" pageNumber="65">
+<td id="849589E61B4F86997F614DBCDCF3DAB6" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="B70C79EDE19CC28CA448A0B6728D51A3" authorityName="Purkayastha, Das, Bohra, Bauer &amp; Agarwal" authorityYear="2020" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus urbanus" order="Squamata" pageId="0" pageNumber="65" rank="species" species="urbanus">
+<emphasis id="39CA7D5C13F8753FA57FE708B2A60BEB" italics="true" pageId="0" pageNumber="65">Cyrtodactylus urbanus</emphasis>
+</taxonomicName>
+</td>
+<td id="2B5D488D3120C45123089076F0EDCA01" colspan="1" pageId="0" pageNumber="65" rowspan="1">Assam, India</td>
+<td id="8898F8E947340F520C38BA28F267C8CB" colspan="1" pageId="0" pageNumber="65" rowspan="1">VR/ERS/ZSI/688</td>
+<td id="C726710166B394C0A92C84B6C9D2AFCB" colspan="1" pageId="0" pageNumber="65" rowspan="1">MN911174</td>
+</tr>
+<tr id="0A81CA3024D2ACAC87D42B2CE3BB121B" pageId="0" pageNumber="65">
+<td id="2DBE7ABE99309970FACA4D4A29F398F5" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="1AA8DA474B19EFB7C560FF4AA4DFAC11" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus vairengtensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="vairengtensis">
+<emphasis id="07F6905160C00D3A5F38615A780D2ADB" italics="true" pageId="0" pageNumber="65">Cyrtodactylus vairengtensis</emphasis>
+</taxonomicName>
+</td>
+<td id="158344C00ABED7071E08F38C460F45F7" colspan="1" pageId="0" pageNumber="65" rowspan="1">Mizoram, India</td>
+<td id="ACBE9669D9C451DCC900E66B4A215F0D" colspan="1" pageId="0" pageNumber="65" rowspan="1">MZMU 2903</td>
+<td id="1361543361F52C7E636CF11F9488CDB4" colspan="1" pageId="0" pageNumber="65" rowspan="1">OP874800</td>
+</tr>
+<tr id="EBBC2A1FCCF82AB6BCC98EB1FECEFF30" pageId="0" pageNumber="65">
+<td id="35A735ED60252DDFBBED5BCABF4C9AA6" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="D3C096A14D586F46060170F6D14CCCDD" authorityName="Bauer" authorityYear="2002" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus slowinskii" order="Squamata" pageId="0" pageNumber="65" rank="species" species="slowinskii">
+<emphasis id="9D4960EF09BB667A75F47AAD23D2791F" italics="true" pageId="0" pageNumber="65">Cyrtodactylus slowinskii</emphasis>
+</taxonomicName>
+</td>
+<td id="EDDBE75EDAD08FF462399B1ED0EAF0CE" colspan="1" pageId="0" pageNumber="65" rowspan="1">Sagaing, Myanmar</td>
+<td id="CA0B2480A301444DD74446BF4133C9B9" colspan="1" pageId="0" pageNumber="65" rowspan="1">CAS 210205</td>
+<td id="97212451AAE00C334E78D857F4A6494B" colspan="1" pageId="0" pageNumber="65" rowspan="1">JX440559</td>
+</tr>
+</table>
+</paragraph>
+<paragraph id="D3BBCF9A5B86F64F55888A259F3EF3C5" pageId="0" pageNumber="65">
+Phylogenetic reconstruction was conducted using Bayesian inference (BI) and maximum likelihood (ML) methods based on the ND2 gene. The best-fit substitution model was selected under the Bayesian Information Criterion by the program MODELFINDER (
+<bibRefCitation id="3C2E97C442570265A76DB270DC05ED02" DOI="https://doi.org/10.1038/nmeth.4285" author="Kalyaanamoorthy, S" journalOrPublisher="Nature Methods" pageId="0" pageNumber="65" pagination="587 - 589" refId="B5" refString="Kalyaanamoorthy, S, Minh, BQ, Wong, TKF, von Haeseler, A, Jermiin, LS, 2017. ModelFinder: fast model selection for accurate phylogenetic estimates. Nature Methods 14: 587 - 589, DOI: https://doi.org/10.1038/nmeth.4285" title="ModelFinder: fast model selection for accurate phylogenetic estimates." url="https://doi.org/10.1038/nmeth.4285" volume="14" year="2017">Kalyaanamoorthy et al. 2017</bibRefCitation>
+) implemented in IQ-TREE 1.6.12 (
+<bibRefCitation id="24B290BC4CE788A6D49ADAF8F671ECA9" DOI="https://doi.org/10.1093/molbev/msu300" author="Nguyen, LT" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" pagination="268 - 274" refId="B10" refString="Nguyen, LT, Schmidt, HA, von Haeseler, A, Minh, BQ, 2015. IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies. Molecular Biology and Evolution 32: 268 - 274, DOI: https://doi.org/10.1093/molbev/msu300" title="IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies." url="https://doi.org/10.1093/molbev/msu300" volume="32" year="2015">Nguyen et al. 2015</bibRefCitation>
+). Bayesian inference analyses were performed in MRBAYES 3.2.7 (
+<bibRefCitation id="CDBDFFB08331F1401E5511DCF6E848FE" DOI="https://doi.org/10.1093/sysbio/sys029" author="Ronquist, F" journalOrPublisher="Systematic Biology" pageId="0" pageNumber="65" pagination="539 - 542" refId="B12" refString="Ronquist, F, Teslenko, M, van der Mark, P, Ayres, DL, Darling, A, Hohna, S, Larget, B, Liu, L, Suchard, MA, Huelsenbeck, JP, 2012. MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space. Systematic Biology 61: 539 - 542, DOI: https://doi.org/10.1093/sysbio/sys029" title="MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space." url="https://doi.org/10.1093/sysbio/sys029" volume="61" year="2012">Ronquist et al. 2012</bibRefCitation>
+) based on the model GTR+F+I+G4. Two independent runs were initiated, each with four simultaneous Markov Chain Monte Carlo (MCMC) chains for one million generations and sampled every 100 generations with a burn-in of 25%. The convergence was examined with an average standard deviation of split frequencies less than 0.01 and effective sample size (ESS) values greater than 200 in TRACER 1.5 (
+<bibRefCitation id="227774A69E6A2A43C23FA09CB2E60E12" author="Rambaut, A" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" publicationUrl="http://tree.bio.ed.ac.uk/software/tracer/" refId="B11" refString="Rambaut, A, Drummond, AJ, 2009. Tracer. Version 1.5. http://tree.bio.ed.ac.uk/software/tracer/" title="Tracer. Version 1.5." url="http://tree.bio.ed.ac.uk/software/tracer/" year="2009">Rambaut and Drummond 2009</bibRefCitation>
+). Maximum likelihood analyses were conducted using IQ-TREE 1.6.12 (
+<bibRefCitation id="9D8D7C42A0F43331C36781238B435440" DOI="https://doi.org/10.1093/molbev/msu300" author="Nguyen, LT" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" pagination="268 - 274" refId="B10" refString="Nguyen, LT, Schmidt, HA, von Haeseler, A, Minh, BQ, 2015. IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies. Molecular Biology and Evolution 32: 268 - 274, DOI: https://doi.org/10.1093/molbev/msu300" title="IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies." url="https://doi.org/10.1093/molbev/msu300" volume="32" year="2015">Nguyen et al. 2015</bibRefCitation>
+), based on the model TIM+F+I+G4. Nodal support was estimated by 1,000 bootstrap replicates using the ultrafast bootstrap feature. Pairwise divergences were calculated using uncorrected 
+<emphasis id="A4C2963FE222E6E1D66B3C03759FAE3E" italics="true" pageId="0" pageNumber="65">p</emphasis>
+-distances implemented in MEGA 6.0.6 (
+<bibRefCitation id="88006468D6E4E579768A564BE7FC9438" DOI="https://doi.org/10.1093/molbev/mst197" author="Tamura, K" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" pagination="2725 - 2729" refId="B13" refString="Tamura, K, Stecher, G, Peterson, D, Filipski, A, Kumar, S, 2013. MEGA6: Molecular Evolutionary Genetics Analysis Version 6.0. Molecular Biology and Evolution 30: 2725 - 2729, DOI: https://doi.org/10.1093/molbev/mst197" title="MEGA 6: Molecular Evolutionary Genetics Analysis Version 6.0." url="https://doi.org/10.1093/molbev/mst197" volume="30" year="2013">Tamura et al. 2013</bibRefCitation>
+).
+</paragraph>
+</subSection>
+<subSection id="6B4D215BD77D5F7D17EA9F14AC20CA5F" _chop="before" pageId="0" pageNumber="65" type="﻿results">
+<paragraph id="1B4FA39841511DA929C644B0492A80E0" pageId="0" pageNumber="65">Results</paragraph>
+<paragraph id="769147BB7BEC54E401F5408A98E018B7" pageId="0" pageNumber="65">
+Bayesian inference and ML trees showed consistent topology. The newly collected female specimen clustered with the specimens (including the holotype) of 
+<taxonomicName id="05411E8725FCF2F1267E1811ED449DAE" genus="C." lsidName="C. dianxiensis" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="253D55CBEB07AA6AEE825C588EBD5561" italics="true" pageId="0" pageNumber="65">C. dianxiensis</emphasis>
+</taxonomicName>
+with strong support by both BI and ML (BI/ML=1/100, Fig. 
+<figureCitation id="B95DB8F455B215CD71AB78CFCAA3F670" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Bayesian phylogram of the Cyrtodactylus khasiensis species group inferred from ND 2 sequences. Numbers before slashes indicate Bayesian posterior probabilities and numbers after slashes indicate the ML ultrafast bootstrap. Values below 0.90 / 90 are not shown." figureDoi="10.3897/herpetozoa.37.e119492.figure2" httpUri="https://binary.pensoft.net/fig/998623" pageId="0" pageNumber="65">2</figureCitation>
+). The genetic distance (uncorrected 
+<emphasis id="A0A7CA54E52F6FCF7AC312E9DED550A3" italics="true" pageId="0" pageNumber="65">p</emphasis>
+-distance) between the newly collected female specimen and the specimens (including the holotype) of 
+<taxonomicName id="347A0A01C9E5D6AE4D4131AC4184D580" genus="C." lsidName="C. dianxiensis" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="A72B5B0F3BCA18F8B183870FF5501337" italics="true" pageId="0" pageNumber="65">C. dianxiensis</emphasis>
+</taxonomicName>
+was only 0.9% (Table 
+<tableCitation id="BA1B8299B04CCD60532C68247C8DCCD3" captionStart="Table 2" captionStartId="T2" captionText="Table 2. Uncorrected pairwise divergence (%) between Cyrtodactylus khasiensis species group members based on ND 2 sequences." httpUri="http://table.plazi.org/id/7772754684E4E76344BF7998E001A731" pageId="0" pageNumber="65" tableUuid="7772754684E4E76344BF7998E001A731">2</tableCitation>
+).
+</paragraph>
+<caption id="7772754684E4E76344BF7998E001A731" ID-Table-UUID="7772754684E4E76344BF7998E001A731" httpUri="http://table.plazi.org/id/7772754684E4E76344BF7998E001A731" pageId="0" pageNumber="65" start="Table 2" startId="T2">
+<paragraph id="BE041B2EF653219DA609C0CC40FC27F0" pageId="0" pageNumber="65">
+<emphasis id="0AA59897DBBB00439A2A511B52E88B46" bold="true" pageId="0" pageNumber="65">Table 2.</emphasis>
+Uncorrected pairwise divergence (%) between 
+<taxonomicName id="CC9573AAE0D5195A353C6849ADF20979" baseAuthorityName="Jerdon" baseAuthorityYear="1870" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus khasiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="khasiensis">
+<emphasis id="5300C7DCD7E1DEC739F1DBEF452D5F15" italics="true" pageId="0" pageNumber="65">Cyrtodactylus khasiensis</emphasis>
+</taxonomicName>
+species group members based on ND2 sequences.
+</paragraph>
+</caption>
+<paragraph id="8D08B7C037D00A0960EA93377FF505E7" pageId="0" pageNumber="65">
+<table id="BA73D0E3437C8B42DE8C8377A82521DA" pageId="0" pageNumber="65">
+<tr id="07D0A7D95F49EDC41286A54AD10BFB87" pageId="0" pageNumber="65">
+<th id="9715E800F4F7A688A76447B88457B363" colspan="1" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</th>
+<th id="365A17C7B5881C26A272C57624A95C58" colspan="1" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</th>
+<th id="FD63BB06373B8BCEF709832CB09996C0" colspan="1" pageId="0" pageNumber="65" rowspan="1">1</th>
+<th id="5EEE871FEF584ED156315E69784E3E5F" colspan="1" pageId="0" pageNumber="65" rowspan="1">2</th>
+<th id="972E3AC0918DBDC4396F6E4C685DC710" colspan="1" pageId="0" pageNumber="65" rowspan="1">3</th>
+<th id="6336BF969F6BF923C6F54692E0038C3C" colspan="1" pageId="0" pageNumber="65" rowspan="1">4</th>
+<th id="3630F1BBB90421601CEACB8F71D1209E" colspan="1" pageId="0" pageNumber="65" rowspan="1">5</th>
+<th id="453357F79DE12963B9FC489FF0372107" colspan="1" pageId="0" pageNumber="65" rowspan="1">6</th>
+<th id="2EF3AF0DB3E6F7F3A97846153186EA1A" colspan="1" pageId="0" pageNumber="65" rowspan="1">7</th>
+<th id="B8CC69A257CDFD7CD1838EB50952D64B" colspan="1" pageId="0" pageNumber="65" rowspan="1">8</th>
+<th id="16BD2D963157BD344242F03E0F55567E" colspan="1" pageId="0" pageNumber="65" rowspan="1">9</th>
+<th id="7864E6BE43580994AD078599EE2D4D1E" colspan="1" pageId="0" pageNumber="65" rowspan="1">10</th>
+<th id="210E3E6B7634DD9F3AD4C4A81EA8908D" colspan="1" pageId="0" pageNumber="65" rowspan="1">11</th>
+<th id="256F2624E98CCD75D1C11CCC266C5F3F" colspan="1" pageId="0" pageNumber="65" rowspan="1">12</th>
+<th id="0593AB7B700E02277923AEA7AB2BDCE0" colspan="1" pageId="0" pageNumber="65" rowspan="1">13</th>
+<th id="BE1179F736C495CAF470889FEDBF6557" colspan="1" pageId="0" pageNumber="65" rowspan="1">14</th>
+<th id="97A74761BF4AEE3DDD53DF348AD59F8D" colspan="1" pageId="0" pageNumber="65" rowspan="1">15</th>
+<th id="F0B7E5FC02BD662D7D5DEB34B102BF42" colspan="1" pageId="0" pageNumber="65" rowspan="1">16</th>
+<th id="7852DF74C9642D2D684373475666525B" colspan="1" pageId="0" pageNumber="65" rowspan="1">17</th>
+<th id="D6C34A95014AC9115FAA897B5A474B72" colspan="1" pageId="0" pageNumber="65" rowspan="1">18</th>
+<th id="8BD1050024590BCA59D8B0B1E939B892" colspan="1" pageId="0" pageNumber="65" rowspan="1">19</th>
+<th id="DF2B99818CB1A2779CE07120ECC1BA67" colspan="1" pageId="0" pageNumber="65" rowspan="1">20</th>
+<th id="1BA0E2BCEC359B70C0125E59C987DD56" colspan="1" pageId="0" pageNumber="65" rowspan="1">21</th>
+<th id="F22DE945FAA7627A0DC8B468318FEB35" colspan="1" pageId="0" pageNumber="65" rowspan="1">22</th>
+<th id="CE03936ED3BBBB602FE2FD055A01A9A1" colspan="1" pageId="0" pageNumber="65" rowspan="1">23</th>
+<th id="16F87C4B6CF434B4497FA1097675BE26" colspan="1" pageId="0" pageNumber="65" rowspan="1">24</th>
+<th id="DC1DAEC601436565A0C7E57CF5DC1EC3" colspan="1" pageId="0" pageNumber="65" rowspan="1">25</th>
+<th id="246310BA4EB7096EC3D696F49F6E0A68" colspan="1" pageId="0" pageNumber="65" rowspan="1">26</th>
+<th id="2F83016E08ACBAD6A426913258378286" colspan="1" pageId="0" pageNumber="65" rowspan="1">27</th>
+</tr>
+<tr id="45A20DFAEF5295AF7BF064120C2CA3D6" pageId="0" pageNumber="65">
+<td id="5055A54B93798EE87175925CEFE709D8" colspan="1" pageId="0" pageNumber="65" rowspan="1">1</td>
+<td id="5C0664F3EBF6A710D42849F4126F9DCD" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="86B6380058D668756C3812780E543822" genus="C." lsidName="C. aaronbaueri" pageId="0" pageNumber="65" rank="species" species="aaronbaueri">
+<emphasis id="4CDEEEF088126B55801B007C00A9CF11" italics="true" pageId="0" pageNumber="65">C. aaronbaueri</emphasis>
+</taxonomicName>
+</td>
+<td id="79543894A63B90F602903E9971C97649" colspan="27" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="8B7A206F23CED32F428168F539E2078A" pageId="0" pageNumber="65">
+<td id="2267ED34364BDCAA02C22B573C5E9683" colspan="1" pageId="0" pageNumber="65" rowspan="1">2</td>
+<td id="2714A8FD7F133E8072356359DA427FF7" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="83A329C064CD4CFD98E87B2F1B71EFD9" genus="C." lsidName="C. agarwali" pageId="0" pageNumber="65" rank="species" species="agarwali">
+<emphasis id="4B51303755A3E757813B96D2C48FBEAE" italics="true" pageId="0" pageNumber="65">C. agarwali</emphasis>
+</taxonomicName>
+</td>
+<td id="49D8E27FBEB20B3C3B4E80371E5BF76C" colspan="1" pageId="0" pageNumber="65" rowspan="1">24.3</td>
+<td id="47049F9DD8AB60D04E512323BB64F6A1" colspan="26" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="257C1202C7C9D685F1657826C450EAFA" pageId="0" pageNumber="65">
+<td id="2610C7841A96E25B895564090A433B77" colspan="1" pageId="0" pageNumber="65" rowspan="1">3</td>
+<td id="3AFBE960E0823922DD08CEC15BD7469D" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="DFD9F0BACAC6C3EE9906197FAAEC58B4" genus="C." lsidName="C. arunachalensis" pageId="0" pageNumber="65" rank="species" species="arunachalensis">
+<emphasis id="404090AA1B88E5442A3C6D890309E4B0" italics="true" pageId="0" pageNumber="65">C. arunachalensis</emphasis>
+</taxonomicName>
+</td>
+<td id="987E555388D22977D19283445ABB2693" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.4</td>
+<td id="B0717A00560053361507BB1AD0B6C9A4" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.6</td>
+<td id="092CC211D78F86068BEDE60FDF48F042" colspan="25" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="8640E9967FC20E3296106DC7B947CB9A" pageId="0" pageNumber="65">
+<td id="24194391443F96E98C778FC901027207" colspan="1" pageId="0" pageNumber="65" rowspan="1">4</td>
+<td id="3DB60E7FFEA91EE25674D1A617402D38" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="37C2F64651A5A670753B074E86F3C62E" genus="C." lsidName="C. aunglini" pageId="0" pageNumber="65" rank="species" species="aunglini">
+<emphasis id="FAB06E328B79E350E0122CB7BA779BA0" italics="true" pageId="0" pageNumber="65">C. aunglini</emphasis>
+</taxonomicName>
+</td>
+<td id="D45762D481C3F20357A4E752160243B7" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.6</td>
+<td id="8E85FE5605B27B08A9EA856618860035" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.8</td>
+<td id="52055A4372EE1576E7A799607C2EAE7A" colspan="1" pageId="0" pageNumber="65" rowspan="1">24.2</td>
+<td id="8E6A07C6FF62A3ACAEEE06DAFB794318" colspan="24" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="1F9C58BE1A5E4872DAE8C323D62BAD0C" pageId="0" pageNumber="65">
+<td id="2786FB6972D0312BEA27251ACD5AF6BC" colspan="1" pageId="0" pageNumber="65" rowspan="1">5</td>
+<td id="D557EA91A62E9410AAD0E9F42B401043" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="957C55E6D7EC9F2C0FA036D5EF3CAFE4" genus="C." lsidName="C. ayeyarwadyensis" pageId="0" pageNumber="65" rank="species" species="ayeyarwadyensis">
+<emphasis id="5EEEDDF2B8EFBC51CA75CD68C616A08C" italics="true" pageId="0" pageNumber="65">C. ayeyarwadyensis</emphasis>
+</taxonomicName>
+</td>
+<td id="4F2C8331206AE99E277FB705AD133F62" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.9</td>
+<td id="9FAA9BBF514671527B5ACB60AD23443B" colspan="1" pageId="0" pageNumber="65" rowspan="1">14.8</td>
+<td id="BF3AAC606CC53A27E56232415401690C" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.2</td>
+<td id="8B0ED87139796A37A79FDB8A9D766406" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.2</td>
+<td id="A072AB786AA93C2F32E711E2E11AC4B3" colspan="23" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="5AC282840BFCD1F436C721F6741A12C3" pageId="0" pageNumber="65">
+<td id="E446DA6EE89DC4814D1820004101D32F" colspan="1" pageId="0" pageNumber="65" rowspan="1">6</td>
+<td id="A5760E895383107991B845AD157532DF" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="9979C17EBFD7F669B20636EF7A470AD7" genus="C." lsidName="C. bapme" pageId="0" pageNumber="65" rank="species" species="bapme">
+<emphasis id="9A463A7FED05985B374ABDE0BFFF0348" italics="true" pageId="0" pageNumber="65">C. bapme</emphasis>
+</taxonomicName>
+</td>
+<td id="C25081D0839B8C4CE221013D1D26D960" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.9</td>
+<td id="68CFA454835CF5A809FF61AEFA5C7D7C" colspan="1" pageId="0" pageNumber="65" rowspan="1">7.2</td>
+<td id="37E57F8ADCAE2A68F301014FDC384D1A" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.8</td>
+<td id="F16893CABF823ED0580B145B4E06297D" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.7</td>
+<td id="F5574BCF40893B19B9CBFA3A62DE7361" colspan="1" pageId="0" pageNumber="65" rowspan="1">14.2</td>
+<td id="9542AD4E614B3CA76EAC91905F3C3D55" colspan="22" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="6C7CF761B53BB22985BA4B0E7BABE59D" pageId="0" pageNumber="65">
+<td id="6B7BE158A49C512460100C19CB85C5CB" colspan="1" pageId="0" pageNumber="65" rowspan="1">7</td>
+<td id="E12833C3E439DCDE04A42DC80CCC7396" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="114B37363621811B2569025CF5B75C38" genus="C." lsidName="C. bengkhuaiai" pageId="0" pageNumber="65" rank="species" species="bengkhuaiai">
+<emphasis id="B10024A5D72837AF1A7047D2E89B43A4" italics="true" pageId="0" pageNumber="65">C. bengkhuaiai</emphasis>
+</taxonomicName>
+</td>
+<td id="1B1B14C8BCB4B0B85A6ACE7D48A15A3B" colspan="1" pageId="0" pageNumber="65" rowspan="1">12.0</td>
+<td id="298A782B695D440763D5781F2321D279" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.6</td>
+<td id="E4D46701C3AF6417D1E45B9BE662F3C2" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.9</td>
+<td id="32500A559966568C4EA77CC61FB2AE9C" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.3</td>
+<td id="87B433AA147562C627C22C50BA8C4A7D" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.9</td>
+<td id="4AB6D93BAB3A10DE0ACF2F78AD52B504" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.9</td>
+<td id="1CAE76946F15B2D1669A4318FC23CB2F" colspan="21" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="9FFF9250CB66AEBDE8143D7F01F76703" pageId="0" pageNumber="65">
+<td id="8937390B45384240D20055AB12501157" colspan="1" pageId="0" pageNumber="65" rowspan="1">8</td>
+<td id="5A0974CBD20FA054FEBE81E6B03CB4CC" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="7210360D94B10DAD0E5A6BAE9ECE133E" genus="C." lsidName="C. chrysopylos" pageId="0" pageNumber="65" rank="species" species="chrysopylos">
+<emphasis id="F8A4A777EAAA5C4833BD72DEC976941A" italics="true" pageId="0" pageNumber="65">C. chrysopylos</emphasis>
+</taxonomicName>
+</td>
+<td id="EEF85B56B0278D92C1EA2BE3B063D41F" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.7</td>
+<td id="D3B954DBA3EFF523C4CBE0A61F2E45F5" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.4</td>
+<td id="2A24DFFEFA551F1A200D510AEB9A730A" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.1</td>
+<td id="BE538A3937CCC44E8A9971F046FC7FC8" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.5</td>
+<td id="778B9244C0ACE1E7CC4AC9E4BC1E6437" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.9</td>
+<td id="91E7802EA49A358A7E249567E8ABBF0F" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.9</td>
+<td id="2681F8A805339564FDA3BE253B522330" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.2</td>
+<td id="E36199BC697AA46E157DCDF45E50CB7A" colspan="20" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="08966E813DC7547F166579D1882C662D" pageId="0" pageNumber="65">
+<td id="3C31EE9F364181081A98FC4486D6D66C" colspan="1" pageId="0" pageNumber="65" rowspan="1">9</td>
+<td id="8B0E8D91481FAE9EF75139C7FB8D5F7E" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="5456654AAB76276992F06D3860807F1A" genus="C." lsidName="C. dianxiensis" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="F8A6951A742FA497EF709530E821AAD6" italics="true" pageId="0" pageNumber="65">C. dianxiensis</emphasis>
+</taxonomicName>
+</td>
+<td id="0EAE89D39FE6AA4B7B6E268724484DC3" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.2</td>
+<td id="47C29C9D5B243F695BA00AAD1AA1D6DF" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.3</td>
+<td id="4D6AF65519B970382C6F6D4694CA7AB9" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.9</td>
+<td id="11FBFCFA2780CCDB2CECA587453135EC" colspan="1" pageId="0" pageNumber="65" rowspan="1">16.6</td>
+<td id="AB671304DA33906E8B7AB1399D7088D2" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.8</td>
+<td id="4A3BF6047FB274CFF9FF9B3427CA5CA1" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.4</td>
+<td id="175777FC1E6332D2A23C77B6EC26F5DA" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.0</td>
+<td id="714C7E8316F579F35060484A61DB16B1" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.8</td>
+<td id="6E9BC9FB9D07B3D89A2FE41079FE5178" colspan="19" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="3E4146656A74594F813CF4AB600FD03C" pageId="0" pageNumber="65">
+<td id="FC3D8E9A0741F78D8F1C332DA91A8414" colspan="1" pageId="0" pageNumber="65" rowspan="1">10</td>
+<td id="D410D9F57E7845DAB29F53AECBC9C3DB" colspan="1" pageId="0" pageNumber="65" rowspan="1">KIZ2022159</td>
+<td id="D75DC3BB5E6FD4F635537985E5EEDF4D" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.0</td>
+<td id="C3213AC37132F2E1F8FBA138067910C7" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.6</td>
+<td id="0A306F2FB02856C6CCB2289E6CF28512" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.8</td>
+<td id="DFEFC34094220A4711E780D371E0E615" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.8</td>
+<td id="AA7B9B89095ACE60196920F115B4F23F" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.7</td>
+<td id="37A86A0FFD30EB95992B03AD862E3005" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.7</td>
+<td id="4C977726B190F6365B85554E4447B9D7" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.0</td>
+<td id="ABCBBA07C05F90DCD10A7A99F70F745C" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.0</td>
+<td id="79F38A73FF58A0747E4144AF6222BDD1" colspan="1" pageId="0" pageNumber="65" rowspan="1">0.9</td>
+<td id="FDD713EE432AB67256D5F8F56890CAE4" colspan="18" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="14213A5756D2AF07F814CF7D7F5B7274" pageId="0" pageNumber="65">
+<td id="53F00EE55A7CA27A5CBEAD9174F31EEF" colspan="1" pageId="0" pageNumber="65" rowspan="1">11</td>
+<td id="CD620BDF235E51F0148C2D4EFD49F952" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="1FB85E14DD6EC8F1A0E70811638420C6" genus="C." lsidName="C. exercitus" pageId="0" pageNumber="65" rank="species" species="exercitus">
+<emphasis id="7F930C86245A294A41F0767F046026F8" italics="true" pageId="0" pageNumber="65">C. exercitus</emphasis>
+</taxonomicName>
+</td>
+<td id="745A5546B8770B9D3431A5A465DF94EF" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.5</td>
+<td id="266EC1347D48CA538DA2293E3586D02C" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.8</td>
+<td id="C590C4F9A9D555BB150E4432F1824D3F" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.4</td>
+<td id="446BB5B087CCA494BD132450928094BE" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.7</td>
+<td id="E7F0E2AE00BA1A6850DFFC16EFF19813" colspan="1" pageId="0" pageNumber="65" rowspan="1">16.2</td>
+<td id="4275711CB9EF5D4E171712311CF80245" colspan="1" pageId="0" pageNumber="65" rowspan="1">13.6</td>
+<td id="268201E61681F593CA6CEE99EA7CD8A8" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.5</td>
+<td id="7D649F61F3E3FE8425356D39E8DA8E56" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.9</td>
+<td id="82150F2043DC0107D5A2D148363E52BB" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.3</td>
+<td id="BD0EEBC77CDCC9DC10576FBC60A970A9" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.4</td>
+<td id="420ED9EB37F2AE931F812A7FA51008AF" colspan="17" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="1CF5C23E39E03D9C3CBEC162DF404EAA" pageId="0" pageNumber="65">
+<td id="8F353AA1931DC70EBC5AF0D79057B7CE" colspan="1" pageId="0" pageNumber="65" rowspan="1">12</td>
+<td id="BB792ED578B684EE10C471FC7BFB33A1" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="D88CD06BA007D0831F5086C06A382271" genus="C." lsidName="C. gansi" pageId="0" pageNumber="65" rank="species" species="gansi">
+<emphasis id="A18A68DFF6586B2A754632907EBE9F9C" italics="true" pageId="0" pageNumber="65">C. gansi</emphasis>
+</taxonomicName>
+</td>
+<td id="E1E32C50B0CFCA257B81639FC87E83DA" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.2</td>
+<td id="82E12A9BEB90E8D8D7D9757421D1448E" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.0</td>
+<td id="E6A524F1CC98A2C8C615DBCE3372EB62" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.0</td>
+<td id="598077F7263688C4ADB242949D579D4C" colspan="1" pageId="0" pageNumber="65" rowspan="1">15.8</td>
+<td id="CED283CA58D7A1098D1C3792D866CDF4" colspan="1" pageId="0" pageNumber="65" rowspan="1">16.9</td>
+<td id="9B6E5F9DAA602ED3352645F32584F146" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.9</td>
+<td id="DD70D42CB8F8D75BA8407F00494735B2" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.2</td>
+<td id="F228B4CBA65ACA1C1733FAA33F8E3097" colspan="1" pageId="0" pageNumber="65" rowspan="1">17.6</td>
+<td id="FF081E2576DFB36C9D76FD5094475B88" colspan="1" pageId="0" pageNumber="65" rowspan="1">15.5</td>
+<td id="7ED838E685D249D94F75BC36991B9E7B" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.4</td>
+<td id="F891DDE5DEC537C965542BF541CFE802" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.1</td>
+<td id="819DE097C1ECFC534D02E12D0B88021B" colspan="16" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="7167D3CE97C21F5136B2CDA4F5546746" pageId="0" pageNumber="65">
+<td id="B86AD4191E79BE1C3F068FDD3A8FD8E6" colspan="1" pageId="0" pageNumber="65" rowspan="1">13</td>
+<td id="A141423FA9F3077CB2851E553217DD16" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="AB2F6E10A34BFE7E090B3D2E04BFA5EB" genus="C." lsidName="C. guwahatiensis" pageId="0" pageNumber="65" rank="species" species="guwahatiensis">
+<emphasis id="5E575FB9E552B6A90627D2C76F5A1783" italics="true" pageId="0" pageNumber="65">C. guwahatiensis</emphasis>
+</taxonomicName>
+</td>
+<td id="3D76416C96A8D0EF3F6952505AFD0689" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.6</td>
+<td id="D732DB5C9BB6BCDB8B284B47D1606835" colspan="1" pageId="0" pageNumber="65" rowspan="1">12.5</td>
+<td id="14065FECC33E97AC9D666C2E34304CD8" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.3</td>
+<td id="F5294119E00F4CCD878F71A3E2C23B2C" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.6</td>
+<td id="06BFE9D5D80785A21C5B899B44B0DEAF" colspan="1" pageId="0" pageNumber="65" rowspan="1">15.4</td>
+<td id="6607509A4633A3C82B6A0DF0DE5441E5" colspan="1" pageId="0" pageNumber="65" rowspan="1">13.6</td>
+<td id="E0D2CC971C5EC5B655E4E5E6AE32DF11" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.1</td>
+<td id="D7D8BEF637BDEB420ABE6ECC01471CA8" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.9</td>
+<td id="8985890AD2C5A900B976E718065877F9" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.4</td>
+<td id="AF39D76B3C661A7A92429AB78AA0B5B2" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.7</td>
+<td id="E32C81564339ECAD3B257A77747EED58" colspan="1" pageId="0" pageNumber="65" rowspan="1">4.5</td>
+<td id="196D1AC4514F6B60B9605BA9C31529D7" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.1</td>
+<td id="929FDF1C4BB5752C6F22D87D13E4A6A6" colspan="15" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="137CC978E6EC1B52757EACA7F1D06645" pageId="0" pageNumber="65">
+<td id="D83986CA47CB7BBACB0475497B3EFC03" colspan="1" pageId="0" pageNumber="65" rowspan="1">14</td>
+<td id="AF516D79769C14B0C782EE483F0CE84A" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="1FDDB8B9E0DA5E3A7CA1872CC5A04C38" genus="C." lsidName="C. jaintiaensis" pageId="0" pageNumber="65" rank="species" species="jaintiaensis">
+<emphasis id="E359CD24606D6B3D05CF22748AACD3EF" italics="true" pageId="0" pageNumber="65">C. jaintiaensis</emphasis>
+</taxonomicName>
+</td>
+<td id="8967334A0D85C95F5B06553E99D87BBA" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.2</td>
+<td id="31F644C24441B7FDB6319601A0967108" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.1</td>
+<td id="C4F013068A91E4566DC05AC43402980E" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.9</td>
+<td id="A1FF89ECDED423D11B7B2706E9E4A2AD" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.1</td>
+<td id="17D59BCFFDD915EDF776DE64C3BE0F58" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.8</td>
+<td id="1D1D5D0B5FB12EA11E094A1851AAAF13" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.5</td>
+<td id="37308253A28FD89C61C4222ACF4C5FFF" colspan="1" pageId="0" pageNumber="65" rowspan="1">17.3</td>
+<td id="5D04946D847DEE06ACDF4B8665DB4A9A" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.0</td>
+<td id="40FB331922CE3F86160B375F7845BD3F" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.1</td>
+<td id="5098703B54B542C2B4AEB386A0E3F694" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.3</td>
+<td id="E532A3779C5D4A9FF0D5069CD255CCEA" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.4</td>
+<td id="953015EE5860DCE9837FE65ADF6B25B8" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.0</td>
+<td id="51708CBD9591D22C9C00B14088479DC3" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.4</td>
+<td id="FED2086F1F5FEDECA79D586A0CFF979A" colspan="14" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="881606913355868A08AB916930852367" pageId="0" pageNumber="65">
+<td id="F88031F58A6FA56FA2C63B4F8899D84D" colspan="1" pageId="0" pageNumber="65" rowspan="1">15</td>
+<td id="0BF6B5854158C15A81ED5D59F1F3C4D1" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="098102DADD5B24F0114633555A2DCA66" genus="C." lsidName="C. karsticola" pageId="0" pageNumber="65" rank="species" species="karsticola">
+<emphasis id="C584548A86C0D5F40AA0C8D9020F1103" italics="true" pageId="0" pageNumber="65">C. karsticola</emphasis>
+</taxonomicName>
+</td>
+<td id="56F21E7976713554A2206FCA091EE473" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.9</td>
+<td id="61156C3712A5E468EF8088C9FE61E463" colspan="1" pageId="0" pageNumber="65" rowspan="1">6.4</td>
+<td id="E92E77E3F40A3342326A1034C417EC51" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.1</td>
+<td id="A7E48D05879558473E6091D5E6FDCD90" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.2</td>
+<td id="A416AE814111F8813E7420FA70CDEF55" colspan="1" pageId="0" pageNumber="65" rowspan="1">12.6</td>
+<td id="12E0D5BA9E755823B89FFAF865E40DA6" colspan="1" pageId="0" pageNumber="65" rowspan="1">6.7</td>
+<td id="914C1C6419B68C13EC8BA05C1A174610" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.8</td>
+<td id="67448BC60D032D504698C22A5ED5E69E" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.1</td>
+<td id="07D21B844BC8904A2836E3DDEEFCC8D0" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.0</td>
+<td id="CECDE13278E2EB8896EA3E0DE702BF79" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.1</td>
+<td id="10719136F0D02A417B8040EA8A56C3DC" colspan="1" pageId="0" pageNumber="65" rowspan="1">13.4</td>
+<td id="EB8838D274E960AAFB5010F111111B63" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.1</td>
+<td id="F3268854A2CBF92D1D947B82BB68A4BE" colspan="1" pageId="0" pageNumber="65" rowspan="1">13.1</td>
+<td id="B1191BB1A993BAD15F352C51F277D863" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.0</td>
+<td id="368EEF279C92BA780F8F5FC5D04BCD9C" colspan="13" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="6C9194A3399221C0510DE9C30346C2AA" pageId="0" pageNumber="65">
+<td id="9A5FCDF3F6DC77B760A22B82A34C3BAF" colspan="1" pageId="0" pageNumber="65" rowspan="1">16</td>
+<td id="A3C1E71AB389C0A057797E5A394EC964" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="B517D62621E3FD120B214D7C7FAE6233" genus="C." lsidName="C. kazirangaensis" pageId="0" pageNumber="65" rank="species" species="kazirangaensis">
+<emphasis id="D5DA8B4372E75B78F26EACB2EC1FEDC4" italics="true" pageId="0" pageNumber="65">C. kazirangaensis</emphasis>
+</taxonomicName>
+</td>
+<td id="E183F496876799F89F14E9B91BCE70CF" colspan="1" pageId="0" pageNumber="65" rowspan="1">24.7</td>
+<td id="A5A497C56A97B9523BB885DC5083036F" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.0</td>
+<td id="D465CF705FFA8D403889AE162AB8A71E" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.5</td>
+<td id="9698B47A0D79170323E6E379112B6656" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.5</td>
+<td id="CD639EFADF5E61792A8B38960D4749BB" colspan="1" pageId="0" pageNumber="65" rowspan="1">16.7</td>
+<td id="187D5176B884C97E34F0F63A54666D32" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.6</td>
+<td id="C512BEF5B4E09ABA53EACCBA9EE9F1F6" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.9</td>
+<td id="AA908E1A13F0F55862CE4EA6F8CB6DA3" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.7</td>
+<td id="AEB3BAE1CECC62257DC0651FC991BB80" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.0</td>
+<td id="A6999FBC53DED3F66AE88929EBBFC278" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.3</td>
+<td id="8ECA3E2C608816825DAFD0ADCE28D777" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.3</td>
+<td id="A05DD60BF72DD3E88B524917C3C4E133" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.7</td>
+<td id="9DB7BA1EFE686BA3E05BACAFD8EC478F" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.8</td>
+<td id="CD96D7B92C78CE9EC6D23B23BF1F0615" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.0</td>
+<td id="7F4D9674801475A3553860E6A2ACEE49" colspan="1" pageId="0" pageNumber="65" rowspan="1">17.1</td>
+<td id="9F758C4EAE38506D6EA4E44A07EF43C1" colspan="12" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="D87601B09AA03CF7548B828E1FF06146" pageId="0" pageNumber="65">
+<td id="F6A2683427042FEEEB0642335EA00376" colspan="1" pageId="0" pageNumber="65" rowspan="1">17</td>
+<td id="CBD4B61E6340B85178B8435A7EFB2AA1" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="266A488C2B9F495A43D8D15EF5B6666D" genus="C." lsidName="C. khasiensis" pageId="0" pageNumber="65" rank="species" species="khasiensis">
+<emphasis id="9AC00FF26EFEF1A8FB8682038BC342D9" italics="true" pageId="0" pageNumber="65">C. khasiensis</emphasis>
+</taxonomicName>
+</td>
+<td id="9902639BD911A7F85BDA97751B356715" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.7</td>
+<td id="FD2F2365964AF213FCF93985F2F15CB3" colspan="1" pageId="0" pageNumber="65" rowspan="1">17.2</td>
+<td id="DE43AF3BABB53D0CE2D58096737D7B7D" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.0</td>
+<td id="0D628A48447371FEA76A8E697B4AFF51" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.5</td>
+<td id="1E557F09A966A2FA43344D6F75996957" colspan="1" pageId="0" pageNumber="65" rowspan="1">15.6</td>
+<td id="E63C3D78C645B55082A6CC92FA19F420" colspan="1" pageId="0" pageNumber="65" rowspan="1">16.9</td>
+<td id="95A562ED7CF538B52B7C3ED0073A2C76" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.5</td>
+<td id="CCFFC4B42C82D453EDFCBE410E804F9C" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.1</td>
+<td id="36942DA8771CFC1BEE6D7D82D484AD01" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.9</td>
+<td id="A58DBE5580F4D2032B64C5AEF8844E98" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.6</td>
+<td id="7595C67E97E72FF345ADFA41D1A09849" colspan="1" pageId="0" pageNumber="65" rowspan="1">17.0</td>
+<td id="EB2F3DF07247D89136E9DFA3322C6447" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.0</td>
+<td id="A0D4FA15F93BB63954358C318BB45F33" colspan="1" pageId="0" pageNumber="65" rowspan="1">16.9</td>
+<td id="A15B5CACE17FE0BC925DBF02E0910C4E" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.5</td>
+<td id="AC5D7F872B80DBC46187D2C2EA41E739" colspan="1" pageId="0" pageNumber="65" rowspan="1">15.2</td>
+<td id="457DD053021A20F99E4B2650DDCB8DEE" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.5</td>
+<td id="9BCFA6AB5576923906A3A01241E7BAFF" colspan="11" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="0ACB9E10FDD1E17E5931E4215CC31D43" pageId="0" pageNumber="65">
+<td id="F28664882824555AC5BFF0B7D985C779" colspan="1" pageId="0" pageNumber="65" rowspan="1">18</td>
+<td id="E9163DE34CFA920D9DFB178967EF0794" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="47A1C3CA349B3EA03AC6A174BBE7D7BC" genus="C." lsidName="C. lungleiensis" pageId="0" pageNumber="65" rank="species" species="lungleiensis">
+<emphasis id="D35AB30BF7F038A145CAB60242C7F2A9" italics="true" pageId="0" pageNumber="65">C. lungleiensis</emphasis>
+</taxonomicName>
+</td>
+<td id="EED76EA973FB3835C34A124769C83DDC" colspan="1" pageId="0" pageNumber="65" rowspan="1">12.1</td>
+<td id="1CF1E49BA45744A2EF1950A09633D3BF" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.6</td>
+<td id="3718B604F7BFA5460658164CC11BFDD3" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.9</td>
+<td id="8D49D9B8C72110ABB746169C9A5C65D4" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.3</td>
+<td id="40A71851EDDA598E96DF8EBF26088CE8" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.2</td>
+<td id="1AD3B38B4B4B8F09601661F5AB6B0B8B" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.7</td>
+<td id="DC5C213E0DEF5CF5C9973272BCE3D099" colspan="1" pageId="0" pageNumber="65" rowspan="1">7.2</td>
+<td id="273F00FF633113B53429C4AE25F4DE4B" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.4</td>
+<td id="16998AB68D85C7B6E3F84608173560FB" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.3</td>
+<td id="C91273B25087EA38AF6382D67A02C113" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.7</td>
+<td id="9F9FAEFD191D964F0E17B36AF0017E80" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.2</td>
+<td id="B69A7D0B45E48E203B8E4A94A4F6396F" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.5</td>
+<td id="2B61F5FA7A698DBFB0451BA8C36D4957" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.1</td>
+<td id="14E39900F5EA2A4B8D3741210F3AA879" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.0</td>
+<td id="B1DF72BE7CA9ED16B5716851E2D0C75B" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.0</td>
+<td id="33B41B958112BC0339D289C18EE910F7" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.8</td>
+<td id="B9042637E02CE9616B4CA13CE6208594" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.8</td>
+<td id="7F90960AB32376F06028AB9D904AD786" colspan="10" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="11079C1C6DEF30DEF9390BCC9BCCE250" pageId="0" pageNumber="65">
+<td id="32B728C0C14446D97BFB7BA6A53B29DD" colspan="1" pageId="0" pageNumber="65" rowspan="1">19</td>
+<td id="AC50D70B7C6CF292A6F7D89FD7F14CD1" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="7BE3C0D9768227256C16E4B5C3F8078A" genus="C." lsidName="C. mombergi" pageId="0" pageNumber="65" rank="species" species="mombergi">
+<emphasis id="8E3056D1F9B68C43BE006F5EFC7BFA24" italics="true" pageId="0" pageNumber="65">C. mombergi</emphasis>
+</taxonomicName>
+</td>
+<td id="FA56E88E21F870A5B58FF237A84E4BD9" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.0</td>
+<td id="470EF3EA3F76626DEBD003C3A43F5EF8" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.4</td>
+<td id="94682C412457F53F5C53D9C31EE2BAE2" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.4</td>
+<td id="10A3A6B43A52F1473E582D6ABBCE5CE5" colspan="1" pageId="0" pageNumber="65" rowspan="1">17.4</td>
+<td id="23C3CE7C01161F98697AEA1DF19CD643" colspan="1" pageId="0" pageNumber="65" rowspan="1">17.3</td>
+<td id="92E8297F2599AE5B04609E317BD4D405" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.9</td>
+<td id="71479F803F521DC9A8C20D01D735AD18" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.4</td>
+<td id="7624902E2AE9E45795086938761970C0" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.2</td>
+<td id="431C83A1A815A99A7C11F193ACBB748E" colspan="1" pageId="0" pageNumber="65" rowspan="1">17.2</td>
+<td id="6286680F16BF90C844060570AF934E52" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.3</td>
+<td id="49D41EC3ED8A8CF08D3C49D7601F7BCE" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.4</td>
+<td id="782A9199CA6522412A7422F30EC2B718" colspan="1" pageId="0" pageNumber="65" rowspan="1">15.9</td>
+<td id="DD95A998CBD648FCCC1D9919CA9A1BEF" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.8</td>
+<td id="13A4466037FB5FE4005CBBC8526ACF71" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.7</td>
+<td id="9441C58A549A3D5151E6B8563BFED0FE" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.6</td>
+<td id="080EC037B9A77736C016252271B2F82E" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.0</td>
+<td id="F9A9645C5613EBBD02B7758CB7EAE920" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.3</td>
+<td id="B7973692D4E86D4B0C60260986B1F59D" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.4</td>
+<td id="F2BD187D0EDF3605067DF30725DD76C1" colspan="9" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="B39C270ABB117042923C5886A44F2827" pageId="0" pageNumber="65">
+<td id="94C763129F68B2677213AB9AF53972DA" colspan="1" pageId="0" pageNumber="65" rowspan="1">20</td>
+<td id="CD3F1E2917E5C61EDF915A3238956378" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="BF86755BFF5255E667979145DC61314B" genus="C." lsidName="C. montanus" pageId="0" pageNumber="65" rank="species" species="montanus">
+<emphasis id="79A7D4B0E9F373FCB9A540D5F61A3C4B" italics="true" pageId="0" pageNumber="65">C. montanus</emphasis>
+</taxonomicName>
+</td>
+<td id="F6C02BF10E308852C13D0BF68004DFE6" colspan="1" pageId="0" pageNumber="65" rowspan="1">10.3</td>
+<td id="62D3BA48FB1E7BAFD1CE3914AFF5633F" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.9</td>
+<td id="99EA906EF725D65D017435B4E5484A95" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.6</td>
+<td id="6F9755CB63FFCBD8F141911884436809" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.6</td>
+<td id="B95DEE0F0F386BB093AF15D7E8827DE9" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.0</td>
+<td id="A352AD4945F964D41F11565DDE3F073B" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.5</td>
+<td id="82E39A47292D4D0F56E25ED273BDD446" colspan="1" pageId="0" pageNumber="65" rowspan="1">12.1</td>
+<td id="F542402A94112391E2C50FB952EC8580" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.5</td>
+<td id="5B981F27656D06A2B244E802F5B204B6" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.5</td>
+<td id="530E03C101F23DCD7CAC706F317A9948" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.1</td>
+<td id="9B386B0A748DCB29448A0D84C8E119D0" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.0</td>
+<td id="F97EA1B1A7A2AF9166A2B85AECB30A99" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.6</td>
+<td id="0C837AECD07CEEF02473020DD78D2DB0" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.9</td>
+<td id="AEBB53814C692AEFCA95D0A4F9CB2676" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.8</td>
+<td id="7B99947FDD565BA58B8B77AB7DA55806" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.0</td>
+<td id="4710106B69D2C724E7CF29DC459812D0" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.3</td>
+<td id="DB5B64EF22DAD9FA04384482E9857B37" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.7</td>
+<td id="1D2F025637D2EC03A003A08DA125501A" colspan="1" pageId="0" pageNumber="65" rowspan="1">10.9</td>
+<td id="CAD999570F834E21740FE8737CA7DD94" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.6</td>
+<td id="66F87708531536B9A525ED49C6B6F561" colspan="8" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="83B8C5F0F64844139B6118C7ED2CBBA3" pageId="0" pageNumber="65">
+<td id="8FCDC291CE7054E500FC651CD8267407" colspan="1" pageId="0" pageNumber="65" rowspan="1">21</td>
+<td id="7AA2B0F037FB68B9E31DB6B92954407D" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="3ABE561FC953CCD991E3D60A3DD2913D" genus="C." lsidName="C. nagalandensis" pageId="0" pageNumber="65" rank="species" species="nagalandensis">
+<emphasis id="015DC7E0C07312FEEF7C0F8277AAF003" italics="true" pageId="0" pageNumber="65">C. nagalandensis</emphasis>
+</taxonomicName>
+</td>
+<td id="9F81FCFDF3CC20F5D8B3D7E880F0B6A1" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.5</td>
+<td id="FD53D46E05DAC88EAD29E32C7D297F37" colspan="1" pageId="0" pageNumber="65" rowspan="1">24.8</td>
+<td id="A59985564D177867AE2516C75550C4D1" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.3</td>
+<td id="EBC14F07D913DD463332B32D6F35FEDA" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.8</td>
+<td id="4EB4E52B5D185312D3C81C0387486813" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.7</td>
+<td id="DF4EAAD5708C8675A06C15AA38E7FBA8" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.8</td>
+<td id="126481F7B7A12277329741205012CBD0" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.2</td>
+<td id="B6D223C90F313A9720FB494EA97D923E" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.7</td>
+<td id="A4463DFAACABDB55C5EBB030601767DC" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.0</td>
+<td id="DBAA7FA08169CC2B6DFCCD8309680689" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.4</td>
+<td id="3E75583E16E71767F5395BECCC70D4CD" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.6</td>
+<td id="B6456A69879A5D719175E4A530DD40CB" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.0</td>
+<td id="A2779AD02E735264088975479EC99CDF" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.6</td>
+<td id="A5B833B7254B0600D99B4E2BA94FC5A7" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.0</td>
+<td id="79B2CC2DB0B1BF68F0B4A37168AE5673" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.0</td>
+<td id="4357818845F2472F54481DC45AC8164B" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.1</td>
+<td id="FE6A98EBEE4273A1DC67834B7B33951C" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.0</td>
+<td id="FB4FCDE76860AC516BC9D46B8629A5A7" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.1</td>
+<td id="163A6A859026E35752EA3354A40B7E46" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.6</td>
+<td id="4347C43441D433C77DE1206A0D4DCFB9" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.6</td>
+<td id="4719E0702505EE49CDACF10C90F60E6A" colspan="7" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="F802D33089B05DE48619E9534A0E7FF5" pageId="0" pageNumber="65">
+<td id="2FDCE052C790F858098E0CC03AA15BDE" colspan="1" pageId="0" pageNumber="65" rowspan="1">22</td>
+<td id="AB0888AF5ED5FEA5344C8CEFF53673B6" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="E94F8C0AF79F2F3F0881721FDE4545C9" genus="C." lsidName="C. namtiram" pageId="0" pageNumber="65" rank="species" species="namtiram">
+<emphasis id="6D4472776F11CB8D88F8B8D7F7DF6430" italics="true" pageId="0" pageNumber="65">C. namtiram</emphasis>
+</taxonomicName>
+</td>
+<td id="2C64C40E4B5CE9A9A1753A20354B621E" colspan="1" pageId="0" pageNumber="65" rowspan="1">15.7</td>
+<td id="23D2B6B4B56FAF0407AEFD2366E3B01A" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.6</td>
+<td id="CDBA1031F49940158C584C73707F6775" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.5</td>
+<td id="B16B8BE4957FCA3B3BB21F71CDDD7C1C" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.4</td>
+<td id="D49F264963C50C01C7E8D8278687FBEB" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.9</td>
+<td id="59752679A9C01F4B1455CBB5B76F7499" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.3</td>
+<td id="4AFC8FAC004608DF920E7E28513AAA0E" colspan="1" pageId="0" pageNumber="65" rowspan="1">14.2</td>
+<td id="B7B1CA49084990BBD22C8FD4FF128066" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.7</td>
+<td id="F5B5FB491E54003AF2C235A704356A0A" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.9</td>
+<td id="F0A7CFFE561463FC93851917C0857FAC" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.0</td>
+<td id="AD487B84D286D90BCF72A79476DAA513" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.3</td>
+<td id="C3714267DD7B3DC051172CB7E1DEC2F8" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.3</td>
+<td id="6AF93848F77B5855F7378D7F1EAA2B67" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.3</td>
+<td id="DC87C28A77512628A7F71E5F7676B369" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.0</td>
+<td id="33810A5136AB9021E0CDD8F79B06E9E2" colspan="1" pageId="0" pageNumber="65" rowspan="1">24.1</td>
+<td id="B28AC76137AB31C249D229A3FBBA18EC" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.7</td>
+<td id="483DB4A2255A39C7134AA858F3556C21" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.9</td>
+<td id="761D8E510F41AC632C665365B0E9AB8E" colspan="1" pageId="0" pageNumber="65" rowspan="1">13.9</td>
+<td id="47E6B134C6B1788B72A14E11E88B7847" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.5</td>
+<td id="DDB8514DD278E2CAD144B8388AA6DCE2" colspan="1" pageId="0" pageNumber="65" rowspan="1">15.4</td>
+<td id="27C8C5DC03FDC193E8E1EF56FB1A5143" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.4</td>
+<td id="D68797BB5715E81F3ED86CAA8380067B" colspan="6" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="2E81D65EEC09E62D253E7F5106406CBA" pageId="0" pageNumber="65">
+<td id="6348B6FC998AF44883AD54924A4E6A7B" colspan="1" pageId="0" pageNumber="65" rowspan="1">23</td>
+<td id="5943A8B6CAA57D6869D91BBC91BCA97D" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="D499909A69512A05A1520FFA3AEA5395" genus="C." lsidName="C. ngopensis" pageId="0" pageNumber="65" rank="species" species="ngopensis">
+<emphasis id="322ED7B51AEB3807DCFA96418F7AB330" italics="true" pageId="0" pageNumber="65">C. ngopensis</emphasis>
+</taxonomicName>
+</td>
+<td id="B4F588F2FE495F55116A6BBECE51C43F" colspan="1" pageId="0" pageNumber="65" rowspan="1">9.9</td>
+<td id="4129F3DBED1E5ABD5D7C19502A19A14E" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.6</td>
+<td id="D9C1604BF4486BA94D08D1016CA19DEF" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.0</td>
+<td id="BC5F6B85737F64CBE498036F6431259B" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.3</td>
+<td id="5F6E423B29A23231320C2D19556147CF" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.7</td>
+<td id="264A6ABF2DBA724B94DD52C2AA11CFB6" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.1</td>
+<td id="115BA950DC7E382FD199A384C72A1D54" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.2</td>
+<td id="0CD3305C697446EBCC8484E46640F3AB" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.3</td>
+<td id="650BFDB9E0DC7706AF5EB09E9285A490" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.2</td>
+<td id="13AD9D200DE64089EEAA971232A6A02B" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.9</td>
+<td id="0D1B8776E70E95291B00EC7DDB6F7362" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.0</td>
+<td id="71C0FDACD87C4F6CAB4322638169ADA0" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.4</td>
+<td id="8B4E8D3C82CA7CE2F4C691D481BFFBB7" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.6</td>
+<td id="CA07639A4A9FB2D056C04680651F02DA" colspan="1" pageId="0" pageNumber="65" rowspan="1">17.8</td>
+<td id="8A90350D63E66DE63689ADB8B16F2BDF" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.7</td>
+<td id="48FBC2D3D9A536CECA8AE7CB19739C50" colspan="1" pageId="0" pageNumber="65" rowspan="1">24.2</td>
+<td id="0A00FB8671B6E6C8D9E71D685BD30FF8" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.2</td>
+<td id="2F85481531DCF08F873305F62D1D22F2" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.5</td>
+<td id="A205D6DDBA0A0338F4C1BEFD9AA0E16B" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.6</td>
+<td id="34699DA79DC0B5D9117130196E4D1F94" colspan="1" pageId="0" pageNumber="65" rowspan="1">10.5</td>
+<td id="6C5D5A9664DD2C1424F27A173DEF317F" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.7</td>
+<td id="65401350E253CCE9C2E25B2FFA7417E4" colspan="1" pageId="0" pageNumber="65" rowspan="1">14.8</td>
+<td id="583570EE1D933656A451057806101BFE" colspan="5" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="6FF1DE75219A91AF8784A011126E2202" pageId="0" pageNumber="65">
+<td id="F3497EF2A2F44DCC9DF88E974A4BAEED" colspan="1" pageId="0" pageNumber="65" rowspan="1">24</td>
+<td id="7DACE76E94390D4C4108A5E29416BB9A" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="0870D9132B3FBCF1C8D3BDE93A39F1A5" genus="C." lsidName="C. septentrionalis" pageId="0" pageNumber="65" rank="species" species="septentrionalis">
+<emphasis id="F0FC08556EB348AD9DC8A8250D86F45E" italics="true" pageId="0" pageNumber="65">C. septentrionalis</emphasis>
+</taxonomicName>
+</td>
+<td id="830771FCC1B590C32070C1353BA9FC9B" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.2</td>
+<td id="73AB02E510420DCEEB06A5F0645EFDBA" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.1</td>
+<td id="D2D41500A62B8E18AE82C84196993913" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.6</td>
+<td id="04E26BF2503405FD03E63E7B1BCD4BAE" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.8</td>
+<td id="4C894E6D1003A40900210C800B1CED8B" colspan="1" pageId="0" pageNumber="65" rowspan="1">14.6</td>
+<td id="0940DDEBC4F90925536F5C3DDB3BF967" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.6</td>
+<td id="BB4687F7929BA5497B6BE5F1F7DC1A13" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.5</td>
+<td id="8764C4595705260FF306663713394649" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.7</td>
+<td id="48EBB29B922275BBA41112EA9EA4993F" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.3</td>
+<td id="DC9730C7B4BF429BFE1B3B538F40E376" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.0</td>
+<td id="334FB459ECA367D0FEBAA3545642847C" colspan="1" pageId="0" pageNumber="65" rowspan="1">10.9</td>
+<td id="E7EB85B62941D9E32791B46CBE60BB91" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.8</td>
+<td id="8780FDAA42BBEAB6D6A952CA3248A281" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.3</td>
+<td id="77D80BC9E33CD1B7B5E5FFD1CA517312" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.4</td>
+<td id="6C099BA110EB665FFEADF6B761B28CD1" colspan="1" pageId="0" pageNumber="65" rowspan="1">10.7</td>
+<td id="A3676624FCFDE46A1F1F1B34DDF4EE35" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.7</td>
+<td id="C3365BC10A976255E652E55DC574794D" colspan="1" pageId="0" pageNumber="65" rowspan="1">15.7</td>
+<td id="F7D71AFBD69E5BF9BD86F1183C27697A" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.1</td>
+<td id="2E61D68D679F546F9C517ADD7FE7D4E5" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.6</td>
+<td id="A3CFA55C93551B7E5613DEA3080DF1B8" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.6</td>
+<td id="BB4575C915A4B448974D21277E1B1C4C" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.6</td>
+<td id="090CC527CAE533FA69ACA6F6DFB048C3" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.5</td>
+<td id="C44ACB69FDEE309E5DCE7FE73C129FD3" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.1</td>
+<td id="5D97023EC03881788A2618EBAA0A83AD" colspan="4" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="CCE6CE3FD0F623716680B96144D81F4A" pageId="0" pageNumber="65">
+<td id="458097E4AE1C0D7D2C04EC513975EF8E" colspan="1" pageId="0" pageNumber="65" rowspan="1">25</td>
+<td id="62EFD1550893A208C9BCD9422F816AFA" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="4E034AFC11CBC5BC9D4CDA651A0F76B5" genus="C." lsidName="C. siahaensis" pageId="0" pageNumber="65" rank="species" species="siahaensis">
+<emphasis id="8E1C3D59FB2233D0AE019B90A37609EF" italics="true" pageId="0" pageNumber="65">C. siahaensis</emphasis>
+</taxonomicName>
+</td>
+<td id="1B1BA87A78E0AEB20DC9AD86F9E735DF" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.4</td>
+<td id="28E86BFDE589E0F8B65AC313A4158813" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.9</td>
+<td id="26DC52A3DC63C5ABA4896B83B71FC63F" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.0</td>
+<td id="2B5B6FCF816CCE8A586F65862AA45394" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.7</td>
+<td id="9321432F4E56E59C24B6266725E0CC98" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.1</td>
+<td id="38F5AF2F8AC5BCB693725B40764AFF81" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.9</td>
+<td id="3F3A1A285A276CB560C7C894A38681AE" colspan="1" pageId="0" pageNumber="65" rowspan="1">8.6</td>
+<td id="214F9E6973495076EE7762F1772335DC" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.8</td>
+<td id="CEFEE4591C3BB0F5A3A2669378B7142E" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.3</td>
+<td id="E853A1381340691E044C471C913FEA27" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.1</td>
+<td id="CCA8BC57A3CB21386C818BE8C2EF9621" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.8</td>
+<td id="13BFCBC144CF22FB431D1086A4BF76FA" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.9</td>
+<td id="3434F0B0C3E110A72899AC601B7165E8" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.1</td>
+<td id="8EA21B432EECFAC81E5EF79E9BD995B5" colspan="1" pageId="0" pageNumber="65" rowspan="1">17.5</td>
+<td id="D13F64596481696BE384BECE1C9D1FDC" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.4</td>
+<td id="ABDC7B7E70F8EEEDCBF8B9D7BFC1DD3F" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.5</td>
+<td id="186E1E4EA4F0C3BD2770464126A96575" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.4</td>
+<td id="10AC2DC79FEFBB9CE5B537EF5571B4DE" colspan="1" pageId="0" pageNumber="65" rowspan="1">6.1</td>
+<td id="65573D5F601B9E4E86104EAA04BC070B" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.1</td>
+<td id="903866D9C6538EBC87FA823B435BE81E" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.0</td>
+<td id="C5EFC53BE42FB4F7835421F453715D2B" colspan="1" pageId="0" pageNumber="65" rowspan="1">17.2</td>
+<td id="411A3853D7A2D0A8C6BFB7D1C0F748D1" colspan="1" pageId="0" pageNumber="65" rowspan="1">14.2</td>
+<td id="BC79F9AAEE45B2CADAE4BA9BC9BBDE7D" colspan="1" pageId="0" pageNumber="65" rowspan="1">10.3</td>
+<td id="55FC1AEA4885DEC991C65DBB51420C20" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.3</td>
+<td id="A1013CF83B41BC6A595D38A7C5303F40" colspan="3" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="8223AE573C94D4FA6123130C8913CFB1" pageId="0" pageNumber="65">
+<td id="8B50A6993ECA8FC4C254DE28BAB4A75C" colspan="1" pageId="0" pageNumber="65" rowspan="1">26</td>
+<td id="F31983EDFAC8C2C642FCC6F8625A73E1" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="283E08EE998DE97A2392D5D51D473812" genus="C." lsidName="C. tripuraensis" pageId="0" pageNumber="65" rank="species" species="tripuraensis">
+<emphasis id="EE6EC703D16A36147C1E58236C8BCC02" italics="true" pageId="0" pageNumber="65">C. tripuraensis</emphasis>
+</taxonomicName>
+</td>
+<td id="BAED86679D50ED7A203AC8FA83405D13" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.8</td>
+<td id="1DD665AB358FB9C53896FE3C08141973" colspan="1" pageId="0" pageNumber="65" rowspan="1">13.2</td>
+<td id="F32EE2A43739506513A31336F5961335" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.4</td>
+<td id="A334C03718758CEB08163CAD983A7051" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.8</td>
+<td id="63940445CFBDDE4439F451ACA10CD5A3" colspan="1" pageId="0" pageNumber="65" rowspan="1">7.5</td>
+<td id="47F8525D14DAF60744667A92FE17B1B5" colspan="1" pageId="0" pageNumber="65" rowspan="1">12.3</td>
+<td id="5EBEFE62DBA736BD57AB5FC2F87147DD" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.4</td>
+<td id="97BD235264DC7523361F9AA23648F762" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.6</td>
+<td id="3F4EC15BC75E49D00BC016D5E98D37A8" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.9</td>
+<td id="2C0C45DFE2EAC1D473BB24D6262F2797" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.8</td>
+<td id="59FFE71C42FCB62B1FC83A5714F15BBF" colspan="1" pageId="0" pageNumber="65" rowspan="1">14.7</td>
+<td id="9218EC9B975473197D7EC0237A53CBEA" colspan="1" pageId="0" pageNumber="65" rowspan="1">16.7</td>
+<td id="E94754920D8DA1D265DAD854D3245E19" colspan="1" pageId="0" pageNumber="65" rowspan="1">12.9</td>
+<td id="567F45DE057D98045B9BBB1C1A9E9231" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.6</td>
+<td id="5B786553507A4A171D3D2377283B3EBC" colspan="1" pageId="0" pageNumber="65" rowspan="1">13.1</td>
+<td id="C00B746469AE1E4757A34889758B248A" colspan="1" pageId="0" pageNumber="65" rowspan="1">14.5</td>
+<td id="AC649682DC0AC7EC16D20B7706D25C2B" colspan="1" pageId="0" pageNumber="65" rowspan="1">12.5</td>
+<td id="027C39A6589323892A3254F9232B456C" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.1</td>
+<td id="B386E5DED611C584124B19058369AE68" colspan="1" pageId="0" pageNumber="65" rowspan="1">17.1</td>
+<td id="F25026E471598E9335E91A41A1165CD3" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.2</td>
+<td id="8FB15A05ABC122490D1F5223D9230185" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.0</td>
+<td id="829769E813708D4FA8A0D5F02840E37C" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.1</td>
+<td id="994268F7579CC2297C472BF460ED3CCD" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.8</td>
+<td id="95C48A7B48EFD4A19BE947B9DDAF593C" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.5</td>
+<td id="83D531B94C8E0533A9B7CF01DC080380" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.6</td>
+<td id="EA86AD8A569FBF0E8DCBDCD3DF15B35D" colspan="2" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="987CBE439727A48CAEA832EDB2F33C20" pageId="0" pageNumber="65">
+<td id="2DA03303A2ACA738CACCAD47EC4F7021" colspan="1" pageId="0" pageNumber="65" rowspan="1">27</td>
+<td id="3181C28E05FCF1B4C399D6A409BE4B5C" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="E0A68DE06A2DB51FDF1C19F8CAC00F7E" genus="C." lsidName="C. urbanus" pageId="0" pageNumber="65" rank="species" species="urbanus">
+<emphasis id="79CEC369E2F31B2DA234B038AEC9BC4A" italics="true" pageId="0" pageNumber="65">C. urbanus</emphasis>
+</taxonomicName>
+</td>
+<td id="4779592B7989299634C5A7DACE882636" colspan="1" pageId="0" pageNumber="65" rowspan="1">23.8</td>
+<td id="F4CCAE6957DBCE54A2974F2C591760A1" colspan="1" pageId="0" pageNumber="65" rowspan="1">15.6</td>
+<td id="1B4E1452E9EB8EBF369D621207649919" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.8</td>
+<td id="322AC9283AE115E105E68423084B2DA9" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.3</td>
+<td id="AEC23F0564CCB99060A793091CAF5F49" colspan="1" pageId="0" pageNumber="65" rowspan="1">13.7</td>
+<td id="3C81480280561FBB5B67CC52479ABAA1" colspan="1" pageId="0" pageNumber="65" rowspan="1">15.1</td>
+<td id="41053BB316C14DF89D903EC7D299081B" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.5</td>
+<td id="7ECB813B40AF08B4F8B21D3FB6FF6436" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.5</td>
+<td id="FCCE4883AA73F89DA4109C112EE9865B" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.8</td>
+<td id="F5D644674CF7861B18453D95EB2D09A7" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.1</td>
+<td id="7656E6D0C86CBBFB6F12D5592D96C06A" colspan="1" pageId="0" pageNumber="65" rowspan="1">14.9</td>
+<td id="7C22F71FF44FCB9FDBAD14F3D102B84E" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.0</td>
+<td id="DF5A5A586688FE50481928A41B549A68" colspan="1" pageId="0" pageNumber="65" rowspan="1">15.2</td>
+<td id="08468BEE6992F88C6469C5280F577FAE" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.8</td>
+<td id="7A1C9525180D35677CED0B65D6F02778" colspan="1" pageId="0" pageNumber="65" rowspan="1">14.3</td>
+<td id="86CF486D1A1B895C3CA3D1E6C840BB27" colspan="1" pageId="0" pageNumber="65" rowspan="1">17.3</td>
+<td id="146C2522CF644D2A198C37467AA4EF12" colspan="1" pageId="0" pageNumber="65" rowspan="1">14.2</td>
+<td id="38AE8F9786B48A93889ADBEF5AA35E35" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.1</td>
+<td id="93B6F865C27926143F62C4EE2E407371" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.5</td>
+<td id="BF26254D6FA689FDB9DBB4A8053D103E" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.8</td>
+<td id="DB0A0D3662B9C870F2BAB9B423436612" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.9</td>
+<td id="3E3BA01464E98336BD3FCF2F8C052501" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.6</td>
+<td id="943962BD99BB296E7783AD48FBCA373F" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.4</td>
+<td id="3EA9FDFE0B824488DCA453DA40F4BE8C" colspan="1" pageId="0" pageNumber="65" rowspan="1">13.4</td>
+<td id="A4E6BF6DBB8B9F0B964A6C511D73EDBB" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.1</td>
+<td id="385D91D2A8FA091ECD745B321137A5D1" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.5</td>
+<td id="58A32221DF955FCF6282BCFFB117737A" colspan="1" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</td>
+</tr>
+<tr id="EE74BD5EC601458CA4E9155A77BAA6C5" pageId="0" pageNumber="65">
+<td id="8914F2EA9139AB5C5B0CAA8F5071C46E" colspan="1" pageId="0" pageNumber="65" rowspan="1">28</td>
+<td id="05BB2E04F932E3ABAB1AE2F376217D1C" colspan="1" pageId="0" pageNumber="65" rowspan="1">
+<taxonomicName id="7EB390782AF86AC245C6A46CF5209E91" genus="C." lsidName="C. vairengtensis" pageId="0" pageNumber="65" rank="species" species="vairengtensis">
+<emphasis id="4D0B4895090178D6FE02FCC4A2A0AC69" italics="true" pageId="0" pageNumber="65">C. vairengtensis</emphasis>
+</taxonomicName>
+</td>
+<td id="70D361786AB6F2C7DD6A0556BA6A84FB" colspan="1" pageId="0" pageNumber="65" rowspan="1">4.0</td>
+<td id="FF113B0A747DF3A09315C4E4F8D7B0C3" colspan="1" pageId="0" pageNumber="65" rowspan="1">24.4</td>
+<td id="2EC3B37437669A28461D3877767EE0A1" colspan="1" pageId="0" pageNumber="65" rowspan="1">24.2</td>
+<td id="817493AF0D50F17067864C1230DF2DE7" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.9</td>
+<td id="5BDC93CF4EA90EE01037BC6923A85EBD" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.1</td>
+<td id="982C79140EAEE6F6A0050350748E0299" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.2</td>
+<td id="EF92285C396F4F76773DA808C71F587D" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.2</td>
+<td id="05A8E6C52AA2C6F04E8CBFD7FDCAFA6D" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.1</td>
+<td id="C4B6B189F28CFAB39950CE966F627EDA" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.8</td>
+<td id="E605ED5B24714D8A0EA8C22462D6DDEE" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.5</td>
+<td id="F5B2ACCF3868D2D3EDD176DA74F56E0E" colspan="1" pageId="0" pageNumber="65" rowspan="1">21.9</td>
+<td id="DDAB74A140774ADAD2A70E7C6661B7EF" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.5</td>
+<td id="07D2B3D3EF54AE85F7526640B210380F" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.2</td>
+<td id="73751CF9B535C1AF908523DF3706607B" colspan="1" pageId="0" pageNumber="65" rowspan="1">18.8</td>
+<td id="AE87AD410587F4CC89C424DE3221D32A" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.3</td>
+<td id="7F5A74EAAE7B97B347A1966BBF21DA57" colspan="1" pageId="0" pageNumber="65" rowspan="1">24.5</td>
+<td id="2FB6245889B900A33DEB9F7F1A4399A9" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.8</td>
+<td id="D69CF7E7B3B6D3E0182F523BE61A500F" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.7</td>
+<td id="B205DC2AE5680984EB178C90CB8A4794" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.4</td>
+<td id="9E758B498268A85265788BB7E3FFBDA4" colspan="1" pageId="0" pageNumber="65" rowspan="1">10.2</td>
+<td id="FE2FF3926BBA6DBB4023390E8041237F" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.1</td>
+<td id="EE546E81ADBDC45B3BD2A253089693C6" colspan="1" pageId="0" pageNumber="65" rowspan="1">15.9</td>
+<td id="7C5C2ED7AE0B7B8FD4B1A260E4FF3F74" colspan="1" pageId="0" pageNumber="65" rowspan="1">10.3</td>
+<td id="AA8FD3749447AC00736A7ACC96C6E1A2" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.5</td>
+<td id="767E3C10471A163D4BB4022D6EABFEE9" colspan="1" pageId="0" pageNumber="65" rowspan="1">10.6</td>
+<td id="C0A694177CE211B948C515CF9568D247" colspan="1" pageId="0" pageNumber="65" rowspan="1">20.0</td>
+<td id="E8AF072E0DD9D3CC6032311D6E5B4ED1" colspan="1" pageId="0" pageNumber="65" rowspan="1">22.3</td>
+</tr>
+</table>
+</paragraph>
+<caption id="689272C3E0E870AEF5588593241E3CBC" doi="10.3897/herpetozoa.37.e119492.figure2" httpUri="https://binary.pensoft.net/fig/998623" pageId="0" pageNumber="65" start="Figure 2" startId="F2">
+<paragraph id="2E00BA35EBB26F8F640D6819B67F8A9F" pageId="0" pageNumber="65">
+<emphasis id="7A35CE7180515C89881FB90BB5CCB4FB" bold="true" pageId="0" pageNumber="65">Figure 2.</emphasis>
+Bayesian phylogram of the 
+<taxonomicName id="8DD62377EE155B72625E0CB4CFD0472F" baseAuthorityName="Jerdon" baseAuthorityYear="1870" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus khasiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="khasiensis">
+<emphasis id="ECC10A7A7BA7B63D82C5135E51A4DA0D" italics="true" pageId="0" pageNumber="65">Cyrtodactylus khasiensis</emphasis>
+</taxonomicName>
+species group inferred from ND2 sequences. Numbers before slashes indicate Bayesian posterior probabilities and numbers after slashes indicate the ML ultrafast bootstrap. Values below 0.90/90 are not shown.
+</paragraph>
+</caption>
+</subSection>
+<treatment id="0A3EE62478B65F3A8D4CEB2CA019142C" ID-GBIF-Taxon="222864564" pageId="0" pageNumber="65">
+<subSubSection id="AACA5D4FD5F386DB4FD4B00D865EDADC" pageId="0" pageNumber="65" type="nomenclature">
+<paragraph id="43365F25E882E50419C33BCD3B443F41" pageId="0" pageNumber="65">
+<taxonomicName id="F952EE5F3C69F994350875415522E445" ID-CoL="8SKGS" LSID="0A3EE624-78B6-5F3A-8D4C-EB2CA019142C" authority="Liu &amp; Rao, 2021" authorityName="Liu &amp; Rao" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Cyrtodactylus dianxiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="dianxiensis">Cyrtodactylus dianxiensis Liu &amp; Rao, 2021</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="A46D1B88087B684F0BA2C30F38A98DA3" pageId="0" pageNumber="65" type="description">
+<paragraph id="BB35C4C0AB6848CA128EDF79104E4A3F" pageId="0" pageNumber="65">
+<figureCitation id="324808A0A7B823F1A6FD87A068BF8A13" captionStart="Figure 3" captionStartId="F3" captionText="Figure 3. The female specimen (KIZ 2022159) of Cyrtodactylus dianxiensis in life. A. Dorsal view; B. Close-up dorsal view of the head; C. Close-up dorsolateral view of the head." figureDoi="10.3897/herpetozoa.37.e119492.figure3" httpUri="https://binary.pensoft.net/fig/998624" pageId="0" pageNumber="65">Figs 3</figureCitation>
+<figureCitation id="F5E9DB243416685099CF3D523407E1FC" captionStart="Figure 4" captionStartId="F4" captionText="Figure 4. The female specimen (KIZ 2022159) of Cyrtodactylus dianxiensis in preservative. A. Dorsal view; B. Ventral view; C. Close-up view of the precloacal and femoral regions." figureDoi="10.3897/herpetozoa.37.e119492.figure4" httpUri="https://binary.pensoft.net/fig/998625" pageId="0" pageNumber="65">, 4</figureCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F3326DBDB9023D1D6292B8304F4B3597" pageId="0" pageNumber="65" type="specimen examined">
+<paragraph id="E25C6C53E1A94BCAB256AEF1A1751F78" pageId="0" pageNumber="65">Specimen examined.</paragraph>
+<paragraph id="2515A648625EDFFDC11CAF0EAA277050" pageId="0" pageNumber="65">
+KIZ2022159, adult female, collected on 13 September 2022 by Shuo Liu from Tongbiguan Nature Reserve, Xueli Village, Taiping Town, Yingjiang County, Dehong Prefecture, Yunnan Province, China (
+<geoCoordinate id="E3B1404338B3348A67220CACBDA889E1" degrees="24" direction="north" minutes="26" orientation="latitude" precision="15" seconds="35" value="24.443054">24°26'35&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="E73E1CFB0F365844E08017F3EB1DE01C" degrees="97" direction="east" minutes="33" orientation="longitude" precision="15" seconds="1" value="97.55028">97°33'1&quot;E</geoCoordinate>
+; at an elevation of 380 m) (Fig. 
+<figureCitation id="FDDF5AF40D61A2E0CB4A62742EC56A69" captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Sampling sites of Cyrtodactylus dianxiensis: solid black star, the locality of the holotype; solid black triangle, the locality of the paratype; solid green circle, the locality of the newly collected female specimen." figureDoi="10.3897/herpetozoa.37.e119492.figure1" httpUri="https://binary.pensoft.net/fig/998622" pageId="0" pageNumber="65">1</figureCitation>
+).
+</paragraph>
+<caption id="7B5847F241A8813F68016337E4E3FC45" doi="10.3897/herpetozoa.37.e119492.figure3" httpUri="https://binary.pensoft.net/fig/998624" pageId="0" pageNumber="65" start="Figure 3" startId="F3">
+<paragraph id="1CA0B1E5FA0BA8FF7F04F6D42C521CF1" pageId="0" pageNumber="65">
+<emphasis id="0144761F2A96751C94DD5C38B41A9285" bold="true" pageId="0" pageNumber="65">Figure 3.</emphasis>
+The female specimen (KIZ2022159) of 
+<taxonomicName id="93EDFF3E871F2FE2F931F8CC09CFDBCF" authorityName="Liu &amp; Rao" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus dianxiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="1CBA941A85F9AB513196D0F1FA056893" italics="true" pageId="0" pageNumber="65">Cyrtodactylus dianxiensis</emphasis>
+</taxonomicName>
+in life. 
+<emphasis id="45CE12D925120D750836641FBD4300AD" bold="true" pageId="0" pageNumber="65">A.</emphasis>
+Dorsal view; 
+<emphasis id="47B4729AD4473795E025DCCA23F4972A" bold="true" pageId="0" pageNumber="65">B.</emphasis>
+Close-up dorsal view of the head; 
+<emphasis id="778067328890B7829401DB645EE49706" bold="true" pageId="0" pageNumber="65">C.</emphasis>
+Close-up dorsolateral view of the head.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection id="5DD85DC8E7BB88BBA7F2B0E52BA82525" pageId="0" pageNumber="65" type="description">
+<paragraph id="B95D018F204DDD34CF7F233B49BE8E9A" pageId="0" pageNumber="65">Description of the female specimen.</paragraph>
+<paragraph id="FD95CD05C4844A02F770DAC5BA23DAAE" pageId="0" pageNumber="65">SVL 75.0 mm; head relatively large (HL/SVL 0.26, HW/HL 0.68), depressed (HH/HL 0.45), distinct from neck; loreal and interorbital region concave, canthus rostralis slightly swollen; snout moderately long (SE/HL 0.40); eye large (ED/HL 0.24); pupil vertical with crenulated margins; ear opening oval, obliquely oriented (EL/HL 0.08); rostral with midrostral suture dorsally; two large supranasals, separated by one small internasal; dorsal head scales heterogeneous, rounded, granules; mental triangular with a pair of enlarged postmentals followed by some gradually decreasing chin-shields; scales on other region of the ventral head almost homogeneous, small, rounded, granules; supralabials seven to midorbital position on both sides, nine to angle of the jaw on right side and ten to angle of the jaw on the left side; infralabials nine on right side and seven on left side.</paragraph>
+<caption id="E2D80000F918E19000F8B2CFB0F5329A" doi="10.3897/herpetozoa.37.e119492.figure4" httpUri="https://binary.pensoft.net/fig/998625" pageId="0" pageNumber="65" start="Figure 4" startId="F4">
+<paragraph id="50F7B0D348919E2FA11937D90F54BE58" pageId="0" pageNumber="65">
+<emphasis id="161740901D281ABAFAA90C2E7868E486" bold="true" pageId="0" pageNumber="65">Figure 4.</emphasis>
+The female specimen (KIZ2022159) of 
+<taxonomicName id="3D6E411E7701CC1B359291C240B33264" authorityName="Liu &amp; Rao" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus dianxiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="E9CE96DC5D3C846F8487DDE595FF12D6" italics="true" pageId="0" pageNumber="65">Cyrtodactylus dianxiensis</emphasis>
+</taxonomicName>
+in preservative. 
+<emphasis id="78B3515CD9FC4D20FD5004AA5949C222" bold="true" pageId="0" pageNumber="65">A.</emphasis>
+Dorsal view; 
+<emphasis id="EC43B0BBAB49538E7F24A35388143145" bold="true" pageId="0" pageNumber="65">B.</emphasis>
+Ventral view; 
+<emphasis id="DC69C13B6BDDE9283002EA7453FCA927" bold="true" pageId="0" pageNumber="65">C.</emphasis>
+Close-up view of the precloacal and femoral regions.
+</paragraph>
+</caption>
+<paragraph id="DE0C596EAB024C2F5EDA2F1E252FA542" pageId="0" pageNumber="65">Body slender (TRL/SVL 0.45); dorsal scales heterogeneous, primarily small rounded granules, intermixed with irregularly arranged large circular tubercles, tubercles on nape and occipital region smaller than those on dorsum; ventrolateral folds present; ventral scales larger than dorsal; enlarged femoral scales and femoral pores absent; precloacal scales enlarged, precloacal pores absent; no precloacal groove; cloacal spurs indistinct.</paragraph>
+<caption id="FA1DB068275369511E16E819A22D28AD" ID-Table-UUID="FA1DB068275369511E16E819A22D28AD" httpUri="http://table.plazi.org/id/FA1DB068275369511E16E819A22D28AD" pageId="0" pageNumber="65" start="Table 3" startId="T3">
+<paragraph id="B919352BC936DDEA67B57E1C64C7DB56" pageId="0" pageNumber="65">
+<emphasis id="7F839A6E719CC97E03FF62C4F1361D92" bold="true" pageId="0" pageNumber="65">Table 3.</emphasis>
+Measurements (mm) and meristic data for the female specimen of 
+<taxonomicName id="E7CDFDE4B20923D1EA3743EED81FC0AE" authorityName="Liu &amp; Rao" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus dianxiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="2281277794D7CDE73AA85B8D71428C96" italics="true" pageId="0" pageNumber="65">Cyrtodactylus dianxiensis</emphasis>
+</taxonomicName>
+. See Materials and methods for abbreviations.
+</paragraph>
+</caption>
+<paragraph id="B1FAB3B409F86AAD8184618ACFAEADDF" pageId="0" pageNumber="65">
+<table id="9C03429BC2FD73A40D7F31AC2AC1681D" pageId="0" pageNumber="65">
+<tr id="02390B5BE630BE74C39A4E9FF9D494B0" pageId="0" pageNumber="65">
+<th id="D52FA2B745C8653BA7E99618B2471E53" colspan="1" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</th>
+<th id="14CADB6F09CB938F2EF2F8E5DDC32487" colspan="1" pageId="0" pageNumber="65" rowspan="1">KIZ2022159</th>
+<th id="8C2E05D285D3B2E2CCBF3DDA86373DE2" colspan="1" isEmpty="true" pageId="0" pageNumber="65" rowspan="1">-</th>
+<th id="498F65F05EA45D1700E5AF92381DDEB8" colspan="1" pageId="0" pageNumber="65" rowspan="1">KIZ2022159</th>
+</tr>
+<tr id="416EDFC67B95A1A75A20A5650F56D446" pageId="0" pageNumber="65">
+<td id="277ED40DB41A99BDA4407254C6C693F6" colspan="1" pageId="0" pageNumber="65" rowspan="1">SVL</td>
+<td id="60A87135F75762C5A9136C2662A615E0" colspan="1" pageId="0" pageNumber="65" rowspan="1">75.0</td>
+<td id="2DE5E357E199305FAD04181467A9DF0A" colspan="1" pageId="0" pageNumber="65" rowspan="1">EE</td>
+<td id="B3D19D2A7210A7C158940DB3F342352B" colspan="1" pageId="0" pageNumber="65" rowspan="1">5.9</td>
+</tr>
+<tr id="4F376B3FD9431FF00FF8CC0973D632DB" pageId="0" pageNumber="65">
+<td id="BB04221426FCB35CD2678FF2318A9870" colspan="1" pageId="0" pageNumber="65" rowspan="1">TRL</td>
+<td id="E84F7EC8F4BA48C29AFB364052FDC30E" colspan="1" pageId="0" pageNumber="65" rowspan="1">33.8</td>
+<td id="0D6D417307DCDA68E52757408B30288D" colspan="1" pageId="0" pageNumber="65" rowspan="1">EL</td>
+<td id="5D419F714D134C18671A1495284E1440" colspan="1" pageId="0" pageNumber="65" rowspan="1">1.6</td>
+</tr>
+<tr id="0C38EB337CD811624CA48583CD3025D6" pageId="0" pageNumber="65">
+<td id="C4AAB6492EE7BF133D694926B9C140C5" colspan="1" pageId="0" pageNumber="65" rowspan="1">BW</td>
+<td id="7085C1C7210463E9417C893428A33005" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.6</td>
+<td id="4A86C842FB8D2DEF27A7A334F2BB3F0A" colspan="1" pageId="0" pageNumber="65" rowspan="1">IN</td>
+<td id="7D608BEEEC8E73096900C15C5B7B6E42" colspan="1" pageId="0" pageNumber="65" rowspan="1">2.5</td>
+</tr>
+<tr id="338C9AB10875AC9AA599E778A31DB683" pageId="0" pageNumber="65">
+<td id="DEBBE92D7D865755BE535B87BE210439" colspan="1" pageId="0" pageNumber="65" rowspan="1">TL</td>
+<td id="AA08BD074DABF1964037DCF55BB8302F" colspan="1" pageId="0" pageNumber="65" rowspan="1">73.7</td>
+<td id="7E705E04705583D94DD6D0A636FC414C" colspan="1" pageId="0" pageNumber="65" rowspan="1">IO</td>
+<td id="BD3CACB7F47638347392632F891CAFAD" colspan="1" pageId="0" pageNumber="65" rowspan="1">2.6</td>
+</tr>
+<tr id="D8440CD0F8D086DEDBD3A5EC54D336D3" pageId="0" pageNumber="65">
+<td id="3C4C0859172467282886D6E52DD701ED" colspan="1" pageId="0" pageNumber="65" rowspan="1">TW</td>
+<td id="95EAB0632CF4C583CF6F569A111CA26F" colspan="1" pageId="0" pageNumber="65" rowspan="1">6.8</td>
+<td id="559E06F842F33866372A4A36DD0E4E6D" colspan="1" pageId="0" pageNumber="65" rowspan="1">FP</td>
+<td id="7C17AD51B2438F2DFADF8BBFFB28597B" colspan="1" pageId="0" pageNumber="65" rowspan="1">0</td>
+</tr>
+<tr id="23D1A89D8D265F5BAB0A553BD680B80C" pageId="0" pageNumber="65">
+<td id="F1894EEFBEC725C119DE06EECD39A281" colspan="1" pageId="0" pageNumber="65" rowspan="1">HL</td>
+<td id="912855054C34EA7AC21C841864EB1A72" colspan="1" pageId="0" pageNumber="65" rowspan="1">19.3</td>
+<td id="A922850B9EB797C11F6AE4E8AC7629D4" colspan="1" pageId="0" pageNumber="65" rowspan="1">PcP</td>
+<td id="3A81DD91C6225D16DF83A77FDFD3310F" colspan="1" pageId="0" pageNumber="65" rowspan="1">0</td>
+</tr>
+<tr id="37FAB74E2FC0892DABC81D3A94C97E2E" pageId="0" pageNumber="65">
+<td id="3AD2176964FE3E9AEB128CA6F1B2B4A7" colspan="1" pageId="0" pageNumber="65" rowspan="1">HW</td>
+<td id="A07C836102F9484643C563CCB19D4272" colspan="1" pageId="0" pageNumber="65" rowspan="1">13.2</td>
+<td id="082182D242841C0DD68EE1B503883C76" colspan="1" pageId="0" pageNumber="65" rowspan="1">MVSR</td>
+<td id="1B887AB3166BCB1B2240D166A4808172" colspan="1" pageId="0" pageNumber="65" rowspan="1">35</td>
+</tr>
+<tr id="CB0BB4B71BDA38EA41BE4BA2EED0EFEB" pageId="0" pageNumber="65">
+<td id="A8933506575072EFBCF5F82FFAAAD0D6" colspan="1" pageId="0" pageNumber="65" rowspan="1">HH</td>
+<td id="D9C57769FE7E6C587636F28756D755F1" colspan="1" pageId="0" pageNumber="65" rowspan="1">8.6</td>
+<td id="2DD24CA35DEBB27455904913526A3011" colspan="1" pageId="0" pageNumber="65" rowspan="1">PVT</td>
+<td id="3FA8D7913F51E7A033EA09694A7DCED1" colspan="1" pageId="0" pageNumber="65" rowspan="1">32</td>
+</tr>
+<tr id="316319471401F3D23000EF29F175D069" pageId="0" pageNumber="65">
+<td id="7A3F92548CC4E311078716710F5485A1" colspan="1" pageId="0" pageNumber="65" rowspan="1">FL</td>
+<td id="747C3EC537035B8E47118605CD153316" colspan="1" pageId="0" pageNumber="65" rowspan="1">11.5</td>
+<td id="D4D899B12D326E1F2389009D3722E653" colspan="1" pageId="0" pageNumber="65" rowspan="1">DTR</td>
+<td id="F9A36457E6CC453E9846500445474A74" colspan="1" pageId="0" pageNumber="65" rowspan="1">17</td>
+</tr>
+<tr id="0B98A40EBA50DFEBF51E27E660D1E54B" pageId="0" pageNumber="65">
+<td id="3EE1A9A9B212970C5FFBD18A13AF8B48" colspan="1" pageId="0" pageNumber="65" rowspan="1">CL</td>
+<td id="1F15FBF9EAD2A511EDC80CD145B7A592" colspan="1" pageId="0" pageNumber="65" rowspan="1">13.3</td>
+<td id="B4FEAE95D1704919DECBF62F2F7B1B1A" colspan="1" pageId="0" pageNumber="65" rowspan="1">SL (R/L)</td>
+<td id="8178051E3B2467CF3ABF4C80F4474A97" colspan="1" pageId="0" pageNumber="65" rowspan="1">9(7)/10(7)</td>
+</tr>
+<tr id="BCC442928219BDAE813624EAA72788A5" pageId="0" pageNumber="65">
+<td id="06172B758651CF826323F62F5928028A" colspan="1" pageId="0" pageNumber="65" rowspan="1">ED</td>
+<td id="B33E10DBB12EC73B8290E824B120BB55" colspan="1" pageId="0" pageNumber="65" rowspan="1">4.6</td>
+<td id="3CA1319CE00C547205E37F2777AF9648" colspan="1" pageId="0" pageNumber="65" rowspan="1">IL (R/L)</td>
+<td id="D603DE4268BA7935642F0ECC745306DF" colspan="1" pageId="0" pageNumber="65" rowspan="1">9/8</td>
+</tr>
+<tr id="20C3136C40D8E4F73075DA26F2B70BD4" pageId="0" pageNumber="65">
+<td id="08802DC3AF4C20C1D1E16B5349998FEB" colspan="1" pageId="0" pageNumber="65" rowspan="1">NE</td>
+<td id="475BF1BDD55F58F1074B773AC6EA2875" colspan="1" pageId="0" pageNumber="65" rowspan="1">6.1</td>
+<td id="C34960C0CB3D0235CCA595A3770E6ED2" colspan="1" pageId="0" pageNumber="65" rowspan="1">LF4</td>
+<td id="F222BC6501DEF08DB90C3110575DDF57" colspan="1" pageId="0" pageNumber="65" rowspan="1">17/16</td>
+</tr>
+<tr id="B669A7F61A93B86E34A75509A6423D6E" pageId="0" pageNumber="65">
+<td id="B2EA8F5F6AC35B6CF5946CBA2DA1F9C8" colspan="1" pageId="0" pageNumber="65" rowspan="1">SE</td>
+<td id="E7BF5A26F08F52F60B809714965CFD01" colspan="1" pageId="0" pageNumber="65" rowspan="1">7.8</td>
+<td id="8750F8339367050E61B7F0E10E2A8609" colspan="1" pageId="0" pageNumber="65" rowspan="1">LT4</td>
+<td id="5654857129D5900407BD1862CB108130" colspan="1" pageId="0" pageNumber="65" rowspan="1">20/20</td>
+</tr>
+</table>
+</paragraph>
+<paragraph id="95FD988DE3EEA39FC0C739764226D9B1" pageId="0" pageNumber="65">Limbs slender (FL/SVL 0.15, CL/SVL 0.18); digits strongly inflected at each joint, all bearing robust, recurved claws; relative length of digits: I&lt;II&lt;V&lt;III&lt;IV (manus) and I&lt;II&lt;III&lt;V&lt;IV (pes); scales on dorsal forelimbs heterogeneous, granules, with small tubercles interspersed, scales on dorsal hind limbs heterogeneous, granular, with large conical tubercles interspersed; ventral scales of limbs almost homogeneous, granular, smaller than those on ventral body.</paragraph>
+<paragraph id="6BBFD0696845CF4952A22467398CCD0E" pageId="0" pageNumber="65">Original tail broken but exists, subequal to body length (TL/SVL 0.98); dorsal tail scales heterogeneous, with small tubercles interspersed; two rows of subcaudal scales slightly enlarged.</paragraph>
+</subSubSection>
+<subSubSection id="F66BDB01274B460ECCDD4CCC37AC34A5" pageId="0" pageNumber="65" type="coloration in life">
+<paragraph id="C487FFD3276C9A99893E112834340F41" pageId="0" pageNumber="65">Coloration in life.</paragraph>
+<paragraph id="2C23AF10D2675E7CF6EA5731D95A51A4" pageId="0" pageNumber="65">Dorsal surface of head almost uniform brownish gray; upper lip brownish gray with many white spots, an indistinct black postorbital streak that extends backwards above ear opening on each side; a disconnected W-shaped black stripe on the occiput; dorsal surface of body brownish gray with many short black and white streaks roughly forming longitudinal rows; dorsal surface of limbs gray with indistinct white bands and spots; dorsal surface of tail grayish black with ten white bands; ventral surfaces of head, body, and limbs white, ventral surface of tail checkered with brownish gray and white; iris bronze with dark reticulations, edge of pupil orange red.</paragraph>
+</subSubSection>
+<subSubSection id="1888B6241AA0E16259B65BE816592A35" pageId="0" pageNumber="65" type="extended diagnosis">
+<paragraph id="3E8C8158A5728603878A91F03E4D7166" pageId="0" pageNumber="65">Extended diagnosis.</paragraph>
+<paragraph id="4C6341A685BF43F855DB8BC770BDF569" pageId="0" pageNumber="65">Body size moderate (SVL 73.8-79.9 mm in adults); 9-12 supralabials; 8-11 infralabials; 17-19 longitudinal rows of rounded, conical dorsal tubercles; 31-32 paravertebral tubercles; 35-41 ventral scales between ventrolateral folds; no precloacal groove; femoral scales not enlarged, no femoral pores; 7-8 precloacals in males, no precloacal in female; 16-17 total subdigital lamellae beneath finger IV, 19-20 total subdigital lamellae beneath toe IV; subcaudal scales not transversely enlarged or two median rows slightly enlarged. Dorsum with light and dark blotches roughly forming longitudinal markings; a W-shaped black stripe present on occipital region; tail with 8-10 alternating dark and light bands; iris blueish gray or bronze with orange red edge.</paragraph>
+</subSubSection>
+</treatment>
+<subSection id="9638E4F7784AF6C6D9963AD09388AD52" pageId="0" pageNumber="65" type="﻿discussion">
+<paragraph id="F4EB8E60818D0BB7D4043F59B80EA4C7" pageId="0" pageNumber="65">Discussion</paragraph>
+<paragraph id="08B4A32B431AF961A785A1015FB59EC3" pageId="0" pageNumber="65">
+The female specimen agrees well with the original description (
+<bibRefCitation id="D59790A65CC1ACF6F72A0A30B638031E" DOI="https://doi.org/10.1080/00222933.2021.1921871" author="Liu, S" journalOrPublisher="Journal of Natural History" pageId="0" pageNumber="65" pagination="713 - 731" refId="B6" refString="Liu, S, Rao, DQ, 2021. A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China. Journal of Natural History 55: 713 - 731, DOI: https://doi.org/10.1080/00222933.2021.1921871" title="A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China." url="https://doi.org/10.1080/00222933.2021.1921871" volume="55" year="2021">Liu and Rao 2021</bibRefCitation>
+) of 
+<taxonomicName id="22FFBD628AA7EFD3374507573FA46CA1" genus="C." lsidName="C. dianxiensis" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="BBDD261CB408C2A8A4858C81824FA7E5" italics="true" pageId="0" pageNumber="65">C. dianxiensis</emphasis>
+</taxonomicName>
+in measurements and meristic counts, however, there are some slight differences in coloration between them. The female specimen has a relatively lighter body color; the dorsal head of the holotype of 
+<taxonomicName id="7ED80670A239CA36537173C7DCEB70A9" genus="C." lsidName="C. dianxiensis" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="CDE82EB5F52986528526BCE8677E3E37" italics="true" pageId="0" pageNumber="65">C. dianxiensis</emphasis>
+</taxonomicName>
+is mixed with brown and grayish white, while it is almost uniform brownish gray in the female specimen; the iris of the holotype is blueish gray with no orange red edge, while the iris is bronze with orange red edge in the female specimen. Therefore, in this species, the coloration of dorsal head is not always mottled, but may also be uniform; in addition, the iris of this species has two color types, blueish gray and bronze with orange red edge.
+</paragraph>
+<paragraph id="E9D18EDABA124B93C32E77440CF8260E" pageId="0" pageNumber="65">
+The holotype of 
+<taxonomicName id="71E1B416D9EA4F71976A1D7D2EF3F7C9" genus="C." lsidName="C. dianxiensis" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="7E31B69E6740E32C3B94993E80A2C347" italics="true" pageId="0" pageNumber="65">C. dianxiensis</emphasis>
+</taxonomicName>
+was collected at an altitude of 1170 m and the paratype was collected at an altitude of 1200 m (
+<bibRefCitation id="D122FC99887074A8FF9EAB6B47A4C3DD" DOI="https://doi.org/10.1080/00222933.2021.1921871" author="Liu, S" journalOrPublisher="Journal of Natural History" pageId="0" pageNumber="65" pagination="713 - 731" refId="B6" refString="Liu, S, Rao, DQ, 2021. A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China. Journal of Natural History 55: 713 - 731, DOI: https://doi.org/10.1080/00222933.2021.1921871" title="A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China." url="https://doi.org/10.1080/00222933.2021.1921871" volume="55" year="2021">Liu and Rao 2021</bibRefCitation>
+). However, the female specimen was collected at a much lower altitude. This record extends the lowest elevational distribution of this species to 380 m.
+</paragraph>
+<paragraph id="BD7C0A01BAAB594E29579D33E568042D" pageId="0" pageNumber="65">
+<taxonomicName id="101A29D3C491BEC4441513F6A70FAC53" authorityName="Liu &amp; Rao" authorityYear="2021" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus dianxiensis" order="Squamata" pageId="0" pageNumber="65" rank="species" species="dianxiensis">
+<emphasis id="B7177F9AD96DB60CA46DB961179CD8B7" italics="true" pageId="0" pageNumber="65">Cyrtodactylus dianxiensis</emphasis>
+</taxonomicName>
+was previously known based on only two adult males and one juvenile (
+<bibRefCitation id="12931501150120D228DC17765CE733BE" DOI="https://doi.org/10.1080/00222933.2021.1921871" author="Liu, S" journalOrPublisher="Journal of Natural History" pageId="0" pageNumber="65" pagination="713 - 731" refId="B6" refString="Liu, S, Rao, DQ, 2021. A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China. Journal of Natural History 55: 713 - 731, DOI: https://doi.org/10.1080/00222933.2021.1921871" title="A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China." url="https://doi.org/10.1080/00222933.2021.1921871" volume="55" year="2021">Liu and Rao 2021</bibRefCitation>
+). This study reported the female specimen of this species for the first time, and provided a detailed description and photos of the female of this species. However, we have only collected one female specimen of this species, and it is unknown whether some differences between male and female are permanent. In addition, the range and population status of this species will need to be determined by collecting more specimens in the future.
+</paragraph>
+</subSection>
+<subSection id="81B17E203B0116D1B4E18B5ECCC989F0" pageId="0" pageNumber="65" type="acknowledgements">
+<paragraph id="6130B65535A137555D93A9A921262948" pageId="0" pageNumber="65">Acknowledgements</paragraph>
+<paragraph id="0568FE8CE2F8CCB94D5B700EAB0B2F54" pageId="0" pageNumber="65">
+Thanks to the editors and reviewers for their work on the manuscript. We also would like to thank Yunnan key laboratory of biodiversity and ecological conservation of Gaoligong Mountain for its support. This study was supported by the Science-Technology Basic Condition Platform from the Ministry of Science and Technology of the 
+<normalizedToken id="4970564851C96C524E200BE78C804B1B" originalValue="People’s">People's</normalizedToken>
+Republic of China (No. 2005DKA21402) and Yunnan Applied Basic Research Projects (No. 202301AT070312).
+</paragraph>
+</subSection>
+<subSection id="10D27B84100333D8AA4E02536E63AB53" pageId="0" pageNumber="65" type="reference_group">
+<paragraph id="F978BEFF516FC6E28714A63573CFA8E2" pageId="0" pageNumber="65">References</paragraph>
+<paragraph id="568F7B7D70A00F56FE3A8C592BFA0918" pageId="0" pageNumber="65">
+<bibRef id="EEE6325D61F15D0209DD28B9E7810B93" DOI="https://doi.org/10.1093/nar/gkv1276" author="Clark, K" pageId="0" pageNumber="65" refId="B1" title="GenBank. Nucleic Acids Research 44 (D 1): D 67 - 72." url="https://doi.org/10.1093/nar/gkv1276" year="2016">
+<author id="251B1B69977C011D519D0038E8D15E1B" pageId="0" pageNumber="65">Clark, K</author>
+, 
+<author id="4AD99C0DE9DD75E399501C4B1FA6E6EB" pageId="0" pageNumber="65">Karsch-Mizrachi, I</author>
+, 
+<author id="987463D33EC3AC31B2E7C8D2300542CD" pageId="0" pageNumber="65">Lipman, DJ</author>
+, 
+<author id="02AFAADC8B3C9219D66ADB9E00D81D81" pageId="0" pageNumber="65">Ostell, J</author>
+, 
+<author id="EC951E77CE13A67C0B15883DB086203C" pageId="0" pageNumber="65">Sayers, EW</author>
+, 
+<year id="BF8EBF0624B416F8DCEBAE0678362F19" pageId="0" pageNumber="65">2016</year>
+. 
+<title id="C83351CE2B6176DDF250A17EB89013DA" pageId="0" pageNumber="65">GenBank. Nucleic Acids Research 44(D1): D67-72.</title>
+<publicationUrl id="528210796FAC96EB3579AD91252C8155" pageId="0" pageNumber="65">https://doi.org/10.1093/nar/gkv1276</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph id="E473EF47DA8D67022DCEEC3BC6079057" pageId="0" pageNumber="65">
+<bibRef id="A2162A4E9D841419D582A19350A773F8" DOI="https://doi.org/10.1093/nar/gkh340" author="Edgar, RC" journalOrPublisher="Nucleic Acids Research" pageId="0" pageNumber="65" pagination="1792 - 1797" refId="B2" title="MUSCLE: multiple sequence alignment with high accuracy and high throughput." url="https://doi.org/10.1093/nar/gkh340" volume="32" year="2004">
+<author id="5AADC93A5C90C617AFFFF7602CC3288D" pageId="0" pageNumber="65">Edgar, RC</author>
+, 
+<year id="7A7A707004FF7A6325EED2A252AA4DC0" pageId="0" pageNumber="65">2004</year>
+. 
+<title id="212D2589FF53794F33F77FB713AC3183" pageId="0" pageNumber="65">MUSCLE: multiple sequence alignment with high accuracy and high throughput.</title>
+<journalOrPublisher id="E925A47D30C7CDAE49861D0DC7454ED0" pageId="0" pageNumber="65">Nucleic Acids Research</journalOrPublisher>
+<volume id="7FFC81FD8F2AF738CD20FF7A49CF2882" pageId="0" pageNumber="65">32</volume>
+: 
+<pagination id="0D029ED6E01CC98A1C2CC6C133F675AF" pageId="0" pageNumber="65">1792 - 1797</pagination>
+, DOI: 
+<DOI id="86AC5F4F9AF00AEC042D7BCDB4440A43" pageId="0" pageNumber="65">https://doi.org/10.1093/nar/gkh340</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="8419B0E7CAA3EF26A3D0DDA6FE64C3DF" pageId="0" pageNumber="65">
+<bibRef id="CC2727E83BCBFC0E5A54F53A56090825" DOI="https://doi.org/10.1002/ece3.6961" author="Grismer, LL" journalOrPublisher="Ecology and Evolution" pageId="0" pageNumber="65" pagination="13717 - 13730" refId="B3" title="Evolution of habitat preference in 243 species of Bent-toed geckos (Genus Cyrtodactylus Gray, 1827) with a discussion of karst habitat conservation." url="https://doi.org/10.1002/ece3.6961" volume="10" year="2020">
+<author id="DFC665A238593E9CEC29236DD58B0F00" pageId="0" pageNumber="65">Grismer, LL</author>
+, 
+<author id="018187589192F8A44BCA201632B34886" pageId="0" pageNumber="65">Wood Jr., PL</author>
+, 
+<author id="C869952ABEAC18918635CBD3EE3FAB91" pageId="0" pageNumber="65">Le, MD</author>
+, 
+<author id="20D4C77C64D7DDBA2A8349E18D0F9F25" pageId="0" pageNumber="65">Quah, ESH</author>
+, 
+<author id="B9A500B7B3B80525247C925BB41D7E3C" pageId="0" pageNumber="65">Grismer, JL</author>
+, 
+<year id="4115085A9F93BBE26A379096429A6A9D" pageId="0" pageNumber="65">2020</year>
+. 
+<title id="8019EBB028A65D3D0D16EC76CFDB40BD" pageId="0" pageNumber="65">
+Evolution of habitat preference in 243 species of Bent-toed geckos (Genus 
+<taxonomicName id="E1A566EE7C2F131B5A745D23A3FB0755" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus" order="Squamata" pageId="0" pageNumber="65" rank="genus">
+<emphasis id="57F967B48D7BB48536ADD0F144EB03F1" italics="true" pageId="0" pageNumber="65">Cyrtodactylus</emphasis>
+</taxonomicName>
+Gray, 1827) with a discussion of karst habitat conservation.
+</title>
+<journalOrPublisher id="192B4341D646174D43F22F06A0E853DC" pageId="0" pageNumber="65">Ecology and Evolution</journalOrPublisher>
+<volume id="2F9050D359AC94BD52BF69924C322C34" pageId="0" pageNumber="65">10</volume>
+: 
+<pagination id="0EE0E01F1DE416F4E72719E81171435C" pageId="0" pageNumber="65">13717 - 13730</pagination>
+, DOI: 
+<DOI id="7E78EEA979DFBAC39E6B3ADB53B97E4E" pageId="0" pageNumber="65">https://doi.org/10.1002/ece3.6961</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="76124B8B39F790544AFB98BA40A8A346" pageId="0" pageNumber="65">
+<bibRef id="F648802A572FF092B362A50201295249" DOI="https://doi.org/10.1093/zoolinnean/zlx057" author="Grismer, LL" journalOrPublisher="Zoological Journal of the Linnean Society" pageId="0" pageNumber="65" pagination="862 - 959" refId="B4" title="Twelve new species of Cyrtodactylus Gray (Squamata: Gekkonidae) from isolated limestone habitats in east-central and southern Myanmar demonstrate high localized diversity and unprecedented microendemism." url="https://doi.org/10.1093/zoolinnean/zlx057" volume="182" year="2018">
+<author id="397D682EAE757AC69583F4FF1A2AFB3C" pageId="0" pageNumber="65">Grismer, LL</author>
+, 
+<author id="43116CCB9C303679213655F2A383B543" pageId="0" pageNumber="65">Wood Jr, PL</author>
+, 
+<author id="DF210EA8E697FEF0ADA14CB4A5C8D868" pageId="0" pageNumber="65">Thura, MK</author>
+, 
+<author id="7934C8E36F93EEE7C4CDE9F9A1E49FBD" pageId="0" pageNumber="65">Zin, T</author>
+, 
+<author id="CC9A5F10BD33FC5DC16317A1FF93E773" pageId="0" pageNumber="65">Quah, ESH</author>
+, 
+<author id="555D572485F0558A2284E6BBE2294FB1" pageId="0" pageNumber="65">Murdoch, ML</author>
+, 
+<author id="9501B7AD143E59626A2CF12AAD4CAA02" pageId="0" pageNumber="65">Grismer, MS</author>
+, 
+<author id="B28321CE833B3737D29B9516556C9CC2" pageId="0" pageNumber="65">Lin, A</author>
+, 
+<author id="B94705DB8C6C5A57679FAB8C723BD4D2" pageId="0" pageNumber="65">Kyaw, H</author>
+, 
+<author id="BEEA0090DCD9C7BA18DD5EFFEB6CF37C" pageId="0" pageNumber="65">Lwin, N</author>
+, 
+<year id="84226630ADFD7D292A4BF1910268A35F" pageId="0" pageNumber="65">2018</year>
+. 
+<title id="B92DA024AD5AB2660096964B6DDCE4AD" pageId="0" pageNumber="65">
+Twelve new species of 
+<taxonomicName id="3E47E09B2AD9C28795C3C970048D75C9" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus" order="Squamata" pageId="0" pageNumber="65" rank="genus">
+<emphasis id="EA7048CB13A6963BA71FFBB53637AE2C" italics="true" pageId="0" pageNumber="65">Cyrtodactylus</emphasis>
+</taxonomicName>
+Gray (
+<taxonomicName id="71A79F5BB0FAC09F148F0B4063869F6E" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="" order="Squamata" pageId="0" pageNumber="65" rank="order">Squamata</taxonomicName>
+: 
+<taxonomicName id="883C41D28F936180280BD28DE3F8A6F3" class="Lepidosauria" family="Gekkonidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Squamata" pageId="0" pageNumber="65" phylum="Chordata" rank="family">Gekkonidae</taxonomicName>
+) from isolated limestone habitats in east-central and southern Myanmar demonstrate high localized diversity and unprecedented microendemism.
+</title>
+<journalOrPublisher id="7F9595E50EF86430913056C80918400C" pageId="0" pageNumber="65">Zoological Journal of the Linnean Society</journalOrPublisher>
+<volume id="05F283103EEB9C19354231836D64E3B7" pageId="0" pageNumber="65">182</volume>
+: 
+<pagination id="09F6DD055AE33BA6CF268E9131E1A389" pageId="0" pageNumber="65">862 - 959</pagination>
+, DOI: 
+<DOI id="4A56E89FCC065FC02BDB75075A05C6E0" pageId="0" pageNumber="65">https://doi.org/10.1093/zoolinnean/zlx057</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="F87C1704450DE15EA1C9353F78B7081E" pageId="0" pageNumber="65">
+<bibRef id="0904FB006E7D30A423A40F0A6FC98946" DOI="https://doi.org/10.1038/nmeth.4285" author="Kalyaanamoorthy, S" journalOrPublisher="Nature Methods" pageId="0" pageNumber="65" pagination="587 - 589" refId="B5" title="ModelFinder: fast model selection for accurate phylogenetic estimates." url="https://doi.org/10.1038/nmeth.4285" volume="14" year="2017">
+<author id="AC3EE196105DADBC7F787C5801E92A48" pageId="0" pageNumber="65">Kalyaanamoorthy, S</author>
+, 
+<author id="86E3C72219DE62C07306E452DD99C005" pageId="0" pageNumber="65">Minh, BQ</author>
+, 
+<author id="5774818CB5C9534557254DFD3A25D043" pageId="0" pageNumber="65">Wong, TKF</author>
+, 
+<author id="10E6BF5EF0A1CF7103ECA4E199B10407" pageId="0" pageNumber="65">von Haeseler, A</author>
+, 
+<author id="17A6EAC053D059AC37AA454EC5BE7712" pageId="0" pageNumber="65">Jermiin, LS</author>
+, 
+<year id="3A1016A33F50B7453B1FD135A5C7687B" pageId="0" pageNumber="65">2017</year>
+. 
+<title id="31D8DBB3B99BB5B0B560C1BC21E4959F" pageId="0" pageNumber="65">ModelFinder: fast model selection for accurate phylogenetic estimates.</title>
+<journalOrPublisher id="F80F71C6E3E20728A25CC4F3DD88B5DE" pageId="0" pageNumber="65">Nature Methods</journalOrPublisher>
+<volume id="F9C061E43EC85AD726FBBA5638BC22EA" pageId="0" pageNumber="65">14</volume>
+: 
+<pagination id="474BE41D72307DE48E350C0CB088B693" pageId="0" pageNumber="65">587 - 589</pagination>
+, DOI: 
+<DOI id="2CFC5BD658CFE3F012AF360369574C54" pageId="0" pageNumber="65">https://doi.org/10.1038/nmeth.4285</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="3F836C36A6926EF338B38756688B2217" pageId="0" pageNumber="65">
+<bibRef id="CB4ECDD09F13AF7664908DB4C49488F0" DOI="https://doi.org/10.1080/00222933.2021.1921871" author="Liu, S" journalOrPublisher="Journal of Natural History" pageId="0" pageNumber="65" pagination="713 - 731" refId="B6" title="A new species of Cyrtodactylus Gray, 1827 (Squamata: Gekkonidae) from Western Yunnan, China." url="https://doi.org/10.1080/00222933.2021.1921871" volume="55" year="2021">
+<author id="C1E865D4F79F1FA709BB2596DD37F3BF" pageId="0" pageNumber="65">Liu, S</author>
+, 
+<author id="B4DB1E482E930CBC473DDD8D7FE176FB" pageId="0" pageNumber="65">Rao, DQ</author>
+, 
+<year id="29C0A619580EFBA1063D35FEB62A3A19" pageId="0" pageNumber="65">2021</year>
+. 
+<title id="97718F0D9E3E56F2B7CA49F9DEE73056" pageId="0" pageNumber="65">
+A new species of 
+<taxonomicName id="F3CC8819F4F41B042DF5FDBA150D0320" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus" order="Squamata" pageId="0" pageNumber="65" rank="genus">
+<emphasis id="A88F36E079C41DA69F1C99219C73ABCD" italics="true" pageId="0" pageNumber="65">Cyrtodactylus</emphasis>
+</taxonomicName>
+Gray, 1827 (
+<taxonomicName id="43E28923521BA53DF19605EBDFEFBB5E" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="" order="Squamata" pageId="0" pageNumber="65" rank="order">Squamata</taxonomicName>
+: 
+<taxonomicName id="8B33D6DD39E793D0F65A70F2DBAAEABA" class="Lepidosauria" family="Gekkonidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Squamata" pageId="0" pageNumber="65" phylum="Chordata" rank="family">Gekkonidae</taxonomicName>
+) from Western Yunnan, China.
+</title>
+<journalOrPublisher id="DA1D38E9B63F4B2B56BE556FD21BDB53" pageId="0" pageNumber="65">Journal of Natural History</journalOrPublisher>
+<volume id="98FCEBABD78FDB9D5B51183439AF25E7" pageId="0" pageNumber="65">55</volume>
+: 
+<pagination id="8D315D7FBD45691BC752A61285F11AA6" pageId="0" pageNumber="65">713 - 731</pagination>
+, DOI: 
+<DOI id="7A65E9F624C0D29B5BD01BA3E926C1F8" pageId="0" pageNumber="65">https://doi.org/10.1080/00222933.2021.1921871</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="5194B7CC8E8893D09B3CF774BAB5C983" pageId="0" pageNumber="65">
+<bibRef id="9DC6CB90828B08767BEA40985C33BA61" DOI="https://doi.org/10.30906/1026-2296-2021-28-4-185-196" author="Liu, S" journalOrPublisher="Russian Journal of Herpetology" pageId="0" pageNumber="65" pagination="185 - 196" refId="B7" title="A New Species of Cyrtodactylus Gray, 1827 (Squamata, Gekkonidae) from Southern Yunnan, China." url="https://doi.org/10.30906/1026-2296-2021-28-4-185-196" volume="28" year="2021">
+<author id="375AEE01F7D241A733009CD77AA51E20" pageId="0" pageNumber="65">Liu, S</author>
+, 
+<author id="8DA840D883AF0E0470A7D3FD4E052703" pageId="0" pageNumber="65">Li, QS</author>
+, 
+<author id="5AE82C19B29F56D5EE8DC0DFDB82C538" pageId="0" pageNumber="65">Hou, M</author>
+, 
+<author id="6286C52C33685D80820D5C0AA912D00C" pageId="0" pageNumber="65">Orlov, NL</author>
+, 
+<author id="EE62F04D4B39B5DCFB8F5F44C3360F41" pageId="0" pageNumber="65">Ananjeva, NB</author>
+, 
+<year id="1BA1441A5FBB1352FCEFFC4A70197E17" pageId="0" pageNumber="65">2021</year>
+. 
+<title id="AC11264642751FD8990144706D6616B4" pageId="0" pageNumber="65">
+A New Species of 
+<taxonomicName id="FAD4A5FB5B1401A1A9097812B2E34C71" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus" order="Squamata" pageId="0" pageNumber="65" rank="genus">
+<emphasis id="FD43AFC84EE19D21FE832A15207ED1E3" italics="true" pageId="0" pageNumber="65">Cyrtodactylus</emphasis>
+</taxonomicName>
+Gray, 1827 (
+<taxonomicName id="4D976B4143CA0AC0AA10B7AE54031729" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="" order="Squamata" pageId="0" pageNumber="65" rank="order">Squamata</taxonomicName>
+, 
+<taxonomicName id="86C21B1C0EEAAB367026E615C6DB72EA" class="Lepidosauria" family="Gekkonidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Squamata" pageId="0" pageNumber="65" phylum="Chordata" rank="family">Gekkonidae</taxonomicName>
+) from Southern Yunnan, China.
+</title>
+<journalOrPublisher id="68C0ABB428AFD51A37A694D64A5EBDB4" pageId="0" pageNumber="65">Russian Journal of Herpetology</journalOrPublisher>
+<volume id="C8489309A431B1A403073BFFA272B9D8" pageId="0" pageNumber="65">28</volume>
+: 
+<pagination id="5C764408BD339F0BEA1F0CA63F601E2B" pageId="0" pageNumber="65">185 - 196</pagination>
+, DOI: 
+<DOI id="882806E138D30F92F5A349D2B725A212" pageId="0" pageNumber="65">https://doi.org/10.30906/1026-2296-2021-28-4-185-196</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="16C8A852BF04A472AE7E79BB087E3157" pageId="0" pageNumber="65">
+<bibRef id="E872E8B7BA6D940A89DADB4EF5B8E569" DOI="https://doi.org/10.30906/1026-2296-2023-30-6-529-538" author="Liu, S" journalOrPublisher="Russian Journal of Herpetology" pageId="0" pageNumber="65" pagination="529 - 538" refId="B8" title="A new species of Cyrtodactylus Gray, 1827 (Squamata, Gekkonidae), previously confused with C. wayakonei Nguyen, Kingsada, Roesler, Auer et Ziegler, 2010." url="https://doi.org/10.30906/1026-2296-2023-30-6-529-538" volume="30" year="2023">
+<author id="E623C81FFF5A409F1D812113F1E7EC77" pageId="0" pageNumber="65">Liu, S</author>
+, 
+<author id="52A16B11AAD0E9838A67DFFFDF8CCBBF" pageId="0" pageNumber="65">Rao, DQ</author>
+, 
+<author id="B109431F08FC01B0B36BC3BBE210DFF1" pageId="0" pageNumber="65">Hou, M</author>
+, 
+<author id="E63CBD8F38924040C6AE656A8DC6DB86" pageId="0" pageNumber="65">Wang, QY</author>
+, 
+<author id="EE9CF99EAEBDF05757FD9501D440484B" pageId="0" pageNumber="65">Ananjeva, NB</author>
+, 
+<year id="7DC4EF26B5C85F55CB37009F252BBEA7" pageId="0" pageNumber="65">2023</year>
+. 
+<title id="2237FDBE7EA3896D15B068A05E0B9A3E" pageId="0" pageNumber="65">
+A new species of 
+<taxonomicName id="A3017A5F8AB28659593BFDDBC0AE76DC" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus" order="Squamata" pageId="0" pageNumber="65" rank="genus">
+<emphasis id="132D138C63D94E04EDEBFA374D727101" italics="true" pageId="0" pageNumber="65">Cyrtodactylus</emphasis>
+</taxonomicName>
+Gray, 1827 (
+<taxonomicName id="B88B64B83859D15152508C8F474C34C9" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="" order="Squamata" pageId="0" pageNumber="65" rank="order">Squamata</taxonomicName>
+, 
+<taxonomicName id="55720DAA078542654EACF93AF3126B8B" class="Lepidosauria" family="Gekkonidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Squamata" pageId="0" pageNumber="65" phylum="Chordata" rank="family">Gekkonidae</taxonomicName>
+), previously confused with 
+<taxonomicName id="F03BA72A98555D100709CF5F84C7DBE2" authorityName="Nguyen, Kingsada, Rösler, Auer &amp; Ziegler" authorityYear="2010" genus="C." lsidName="C. wayakonei" pageId="0" pageNumber="65" rank="species" species="wayakonei">
+<emphasis id="F8FBE7C48257026B285F54F2B63F2DEB" italics="true" pageId="0" pageNumber="65">C. wayakonei</emphasis>
+</taxonomicName>
+Nguyen, Kingsada, 
+<normalizedToken id="9A394593F36AE24BF4463A1D6348BACB" originalValue="Rösler">Roesler</normalizedToken>
+, Auer et Ziegler, 2010.
+</title>
+<journalOrPublisher id="F3669F165935A88BBE56785E937BD8C5" pageId="0" pageNumber="65">Russian Journal of Herpetology</journalOrPublisher>
+<volume id="6A5958AE3BE4359472304AF3A4869017" pageId="0" pageNumber="65">30</volume>
+: 
+<pagination id="8D2E45CF36E303BB8EC88C56FF1233A3" pageId="0" pageNumber="65">529 - 538</pagination>
+, DOI: 
+<DOI id="5D8D20AA290DB049D4BAC800252133D0" pageId="0" pageNumber="65">https://doi.org/10.30906/1026-2296-2023-30-6-529-538</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="97C97DA64F65369ED8630B8213688D36" pageId="0" pageNumber="65">
+<bibRef id="9983492EDFCDB44D6676EAFC3ED7E6C0" DOI="https://doi.org/10.1093/oxfordjournals.molbev.a025706" author="Macey, JR" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" pagination="91 - 104" refId="B9" title="Two novel gene orders and the role of light-strand replication in rearrangement of the vertebrate mitochondrial genome." url="https://doi.org/10.1093/oxfordjournals.molbev.a025706" volume="14" year="1997">
+<author id="D601EE6BDFF56335A1A465EABCA58A0A" pageId="0" pageNumber="65">Macey, JR</author>
+, 
+<author id="F2ED70AA1FAEF168AD1188C3AA04C17E" pageId="0" pageNumber="65">Larson, A</author>
+, 
+<author id="8C73707A5BBAC0069FBD0B0DAAE05CDB" pageId="0" pageNumber="65">Ananjeva, NB</author>
+, 
+<author id="CBE26CCD34BCDB552D27B4CD2148BA34" pageId="0" pageNumber="65">Fang, Z</author>
+, 
+<author id="70548FA9D3F8AFCAE7BC09849163B686" pageId="0" pageNumber="65">Papenfuss, TJ</author>
+, 
+<year id="A500FD2BCDE798BA41ED9225801B567B" pageId="0" pageNumber="65">1997</year>
+. 
+<title id="0531EAF010E866F37AF5229CFCD0CD05" pageId="0" pageNumber="65">Two novel gene orders and the role of light-strand replication in rearrangement of the vertebrate mitochondrial genome.</title>
+<journalOrPublisher id="7A12BD21748AE67774A3A2E7F0C8C2C6" pageId="0" pageNumber="65">Molecular Biology and Evolution</journalOrPublisher>
+<volume id="32BA05BECC303C0607BA36E0412F668D" pageId="0" pageNumber="65">14</volume>
+: 
+<pagination id="D33989E1361AAC4ACCC21B1DCACCDC5E" pageId="0" pageNumber="65">91 - 104</pagination>
+, DOI: 
+<DOI id="1B886009BE05FFC27748309F40DA15B2" pageId="0" pageNumber="65">https://doi.org/10.1093/oxfordjournals.molbev.a025706</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="B399D1BD50F73FC4D1F6FC230291FAFD" pageId="0" pageNumber="65">
+<bibRef id="7DF2EA096DE9FA2A2202D15F0D5313A6" DOI="https://doi.org/10.1093/molbev/msu300" author="Nguyen, LT" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" pagination="268 - 274" refId="B10" title="IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies." url="https://doi.org/10.1093/molbev/msu300" volume="32" year="2015">
+<author id="CE8C81A1F55B929638D5FD714B9886EF" pageId="0" pageNumber="65">Nguyen, LT</author>
+, 
+<author id="27DF28B3F8106951C2F00747A2F8658B" pageId="0" pageNumber="65">Schmidt, HA</author>
+, 
+<author id="AC5785BC6B75C92F736487DE4E00A8D1" pageId="0" pageNumber="65">von Haeseler, A</author>
+, 
+<author id="469C9FDA38719F09837BAF7B40A239D9" pageId="0" pageNumber="65">Minh, BQ</author>
+, 
+<year id="A762126C2FA8F6AD9E50485B90769FE2" pageId="0" pageNumber="65">2015</year>
+. 
+<title id="9BB857110C6C1A5CB877EA6F1C20AADA" pageId="0" pageNumber="65">IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies.</title>
+<journalOrPublisher id="EAF92A49D5E4FB2883FF1F1EF7818BE4" pageId="0" pageNumber="65">Molecular Biology and Evolution</journalOrPublisher>
+<volume id="DFE58E3B9C2239DF2967672C749B5332" pageId="0" pageNumber="65">32</volume>
+: 
+<pagination id="DC88167AC532C147AE51703BFB3BB794" pageId="0" pageNumber="65">268 - 274</pagination>
+, DOI: 
+<DOI id="DCDCF6C9DC6663D6FB0B4A8643DF6187" pageId="0" pageNumber="65">https://doi.org/10.1093/molbev/msu300</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="9868C62A1C565834C0371AC1F468B0B8" pageId="0" pageNumber="65">
+<bibRef id="074106BCBA5EC12D963297500F861834" author="Rambaut, A" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" publicationUrl="http://tree.bio.ed.ac.uk/software/tracer/" refId="B11" title="Tracer. Version 1.5." url="http://tree.bio.ed.ac.uk/software/tracer/" year="2009">
+<author id="6B224A41509EA6DE8FFF9B3921F6BABF" pageId="0" pageNumber="65">Rambaut, A</author>
+, 
+<author id="A1923A48A1B8E84523CD3C779B04E611" pageId="0" pageNumber="65">Drummond, AJ</author>
+, 
+<year id="7040E24957D1B58BBB6D1EA547DB68F0" pageId="0" pageNumber="65">2009</year>
+. 
+<title id="B115593D4E95149477462E1B7B9D8556" pageId="0" pageNumber="65">Tracer. Version 1.5.</title>
+<publicationUrl id="BF9E4F846E44CAC9AE988AF208596D38" pageId="0" pageNumber="65">http://tree.bio.ed.ac.uk/software/tracer/</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph id="4DCD15131C08C81A80222E96CF3BCD88" pageId="0" pageNumber="65">
+<bibRef id="D23E6341CA11D8AA5683C1D458ACE883" DOI="https://doi.org/10.1093/sysbio/sys029" author="Ronquist, F" journalOrPublisher="Systematic Biology" pageId="0" pageNumber="65" pagination="539 - 542" refId="B12" title="MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space." url="https://doi.org/10.1093/sysbio/sys029" volume="61" year="2012">
+<author id="166F94B84045F3AC9BDB2C7C97292580" pageId="0" pageNumber="65">Ronquist, F</author>
+, 
+<author id="07A4FD57CC74F757F887A323B212C9AB" pageId="0" pageNumber="65">Teslenko, M</author>
+, 
+<author id="D161C30AA76B030C610A5A8977B3C285" pageId="0" pageNumber="65">van der Mark, P</author>
+, 
+<author id="74B2EFE4824BE9F7E77293A8E04207FD" pageId="0" pageNumber="65">Ayres, DL</author>
+, 
+<author id="83B575095DFB69DFBCCB668ADDA7217D" pageId="0" pageNumber="65">Darling, A</author>
+, 
+<author id="650B7D2E84B7EAE80F768D548E38C650" pageId="0" pageNumber="65">Hohna, S</author>
+, 
+<author id="8732BCB8BBE98E707B6E7431CABE6728" pageId="0" pageNumber="65">Larget, B</author>
+, 
+<author id="37F564C88AEB3C5391D7FDFDF277ABB2" pageId="0" pageNumber="65">Liu, L</author>
+, 
+<author id="6858FDBAC1592F469563C0EAC9E7947D" pageId="0" pageNumber="65">Suchard, MA</author>
+, 
+<author id="81C8B4E33E103A07E95DF97E3BA2FEA7" pageId="0" pageNumber="65">Huelsenbeck, JP</author>
+, 
+<year id="956C989A55FDA095D9721595CC74BC0F" pageId="0" pageNumber="65">2012</year>
+. 
+<title id="9AD6D4D1205BE9B8508984569E7D4FFD" pageId="0" pageNumber="65">MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space.</title>
+<journalOrPublisher id="278641CD5C147E7ECD336B3FF130A58B" pageId="0" pageNumber="65">Systematic Biology</journalOrPublisher>
+<volume id="04E27DC4983F46846294FBB62652C234" pageId="0" pageNumber="65">61</volume>
+: 
+<pagination id="4EAB5968C815B121DCCA67CB76548C4F" pageId="0" pageNumber="65">539 - 542</pagination>
+, DOI: 
+<DOI id="501096B870C4C4D33029E007A8BB3A78" pageId="0" pageNumber="65">https://doi.org/10.1093/sysbio/sys029</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="29DBD8862DF6DF8732E5978E5763E609" pageId="0" pageNumber="65">
+<bibRef id="686328996004CB8D40EA86DC7DD00835" DOI="https://doi.org/10.1093/molbev/mst197" author="Tamura, K" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" pagination="2725 - 2729" refId="B13" title="MEGA 6: Molecular Evolutionary Genetics Analysis Version 6.0." url="https://doi.org/10.1093/molbev/mst197" volume="30" year="2013">
+<author id="1436A9637519AE62D20788E357E85E74" pageId="0" pageNumber="65">Tamura, K</author>
+, 
+<author id="74B8DF9764CB1F9C3AB57963DDB5D037" pageId="0" pageNumber="65">Stecher, G</author>
+, 
+<author id="B0157F31A3E36799C80A2EAD7C1A7526" pageId="0" pageNumber="65">Peterson, D</author>
+, 
+<author id="B04ACEB10C5E7ECA27B1843F0491C861" pageId="0" pageNumber="65">Filipski, A</author>
+, 
+<author id="392F8299F3EBE7B194EF2ED230636A73" pageId="0" pageNumber="65">Kumar, S</author>
+, 
+<year id="E7B46A75F15CE6F19419BDE07DE990FF" pageId="0" pageNumber="65">2013</year>
+. 
+<title id="E6C367F49FD9EE031DEF01A9A0CC685E" pageId="0" pageNumber="65">MEGA6: Molecular Evolutionary Genetics Analysis Version 6.0.</title>
+<journalOrPublisher id="827DEFEC04D14678FCD208473858389E" pageId="0" pageNumber="65">Molecular Biology and Evolution</journalOrPublisher>
+<volume id="66C1C4371BE52CC9C5CB075A014914A9" pageId="0" pageNumber="65">30</volume>
+: 
+<pagination id="4228ACCB7262933047C1D34642B53786" pageId="0" pageNumber="65">2725 - 2729</pagination>
+, DOI: 
+<DOI id="BAFAB592A9F4B601836DF833C7F0F8EF" pageId="0" pageNumber="65">https://doi.org/10.1093/molbev/mst197</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="1FBDDDC230A4847D3EE3242653956FBD" pageId="0" pageNumber="65">
+<bibRef id="015534C97A62A21F0FBA54F31A0C6DD5" author="Uetz, P" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" publicationUrl="http://www.reptile-database.org" refId="B14" title="The Reptile Database." url="http://www.reptile-database.org" year="2024">
+<author id="F0EB18148E926DD2472D27D77C357EA6" pageId="0" pageNumber="65">Uetz, P</author>
+, 
+<author id="F006A438CA6B0D9883BDBC06ED1BF655" pageId="0" pageNumber="65">Freed, P</author>
+, 
+<author id="BD9573504F27F689CC31D47AA7C9ED31" pageId="0" pageNumber="65">
+<normalizedToken id="9266C6E2A5FAC2BF159D4844F6219FDE" originalValue="Hošek">Hosek</normalizedToken>
+, J
+</author>
+, 
+<year id="0EC7718FB13ACA3E000248B89CAE3810" pageId="0" pageNumber="65">2024</year>
+. 
+<title id="EEF9E8512425AC0419815F79C82A0B9C" pageId="0" pageNumber="65">The Reptile Database.</title>
+<publicationUrl id="F61BDF458C99617036486158F628FDC3" pageId="0" pageNumber="65">http://www.reptile-database.org</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph id="C14C9A6198F1AB2D9ADA8CFBD0EB85CE" pageId="0" pageNumber="65">
+<bibRef id="1D904ABD3E484420EE659952FB68F0C7" DOI="https://doi.org/10.17520/biods.2021326" author="Wang, K" journalOrPublisher="Molecular Biology and Evolution" pageId="0" pageNumber="65" refId="B15" title="The updated checklist and zoogeographic division of the reptilian fauna of Yunnan Province, China. Biodiversity Science 30: 21326." url="https://doi.org/10.17520/biods.2021326" year="2022">
+<author id="A0E3FF99BEA1DE40BC161DE0E1D6FD40" pageId="0" pageNumber="65">Wang, K</author>
+, 
+<author id="02088419AAF845ADDF7C8C3DDD54F6A1" pageId="0" pageNumber="65">Lyu, ZT</author>
+, 
+<author id="5BDA1D772A258BF3E1DAE12441C5357F" pageId="0" pageNumber="65">Wang, J</author>
+, 
+<author id="AD010CCC2BE9BE8B766FD6DBEF465FB6" pageId="0" pageNumber="65">Qi, S</author>
+, 
+<author id="51434E9E159734E934102DBA0AE4A03F" pageId="0" pageNumber="65">Che, J</author>
+, 
+<year id="E5E951D7E429F3CA629A9313946353FF" pageId="0" pageNumber="65">2022</year>
+. 
+<title id="06D846D7B5B2FC7E331FC9DDA9575603" pageId="0" pageNumber="65">The updated checklist and zoogeographic division of the reptilian fauna of Yunnan Province, China. Biodiversity Science 30: 21326.</title>
+<publicationUrl id="966E36C02A80A06501CCFBD167CE2AE3" pageId="0" pageNumber="65">https://doi.org/10.17520/biods.2021326</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph id="CE2F4A39146619E450EB84D48D44C856" pageId="0" pageNumber="65">
+<bibRef id="2AD8863778F3BD71048A1DEE20C39B16" DOI="https://doi.org/10.1016/j.ympev.2012.08.025" author="Wood, PL" journalOrPublisher="Molecular Phylogenetics and Evolution" pageId="0" pageNumber="65" pagination="992 - 1003" refId="B16" title="Phylogeny of bent-toed geckos (Cyrtodactylus) reveals a west to east pattern of diversification." url="https://doi.org/10.1016/j.ympev.2012.08.025" volume="65" year="2012">
+<author id="6273CC9101970E9B06990826B13DBAA2" pageId="0" pageNumber="65">Wood, PL</author>
+, 
+<author id="F7631D7592F7E615E395BAF9F39CEF97" pageId="0" pageNumber="65">Heinicke, MP</author>
+, 
+<author id="A7A5EDF5EAFB9F312012A54AD6144E8C" pageId="0" pageNumber="65">Jackman, TR</author>
+, 
+<author id="EBA1E74BD343F45AFFAFC30170ACAEBC" pageId="0" pageNumber="65">Bauer, AM</author>
+, 
+<year id="F45B898DAC22CB64365024C0950D30EE" pageId="0" pageNumber="65">2012</year>
+. 
+<title id="1CD9FBE6D243B3D684A90A4D220B6056" pageId="0" pageNumber="65">
+Phylogeny of bent-toed geckos (
+<taxonomicName id="F0727A4AD634C71F68B5200869415FE3" family="Gekkonidae" genus="Cyrtodactylus" kingdom="Animalia" lsidName="Cyrtodactylus" order="Squamata" pageId="0" pageNumber="65" rank="genus">
+<emphasis id="8F05CB96A7984288916DDBACA97B3468" italics="true" pageId="0" pageNumber="65">Cyrtodactylus</emphasis>
+</taxonomicName>
+) reveals a west to east pattern of diversification.
+</title>
+<journalOrPublisher id="EF5FF07ABDE31D1920F86AE45DD3E7DC" pageId="0" pageNumber="65">Molecular Phylogenetics and Evolution</journalOrPublisher>
+<volume id="577EA7A8D99085F0CCF4DA2CEF8FEC32" pageId="0" pageNumber="65">65</volume>
+: 
+<pagination id="8B8E675C570B9318E466F0AFADB6C30F" pageId="0" pageNumber="65">992 - 1003</pagination>
+, DOI: 
+<DOI id="EE1FBE4C6E8A87657C674BAA33F33389" pageId="0" pageNumber="65">https://doi.org/10.1016/j.ympev.2012.08.025</DOI>
+</bibRef>
+</paragraph>
+</subSection>
+</document>

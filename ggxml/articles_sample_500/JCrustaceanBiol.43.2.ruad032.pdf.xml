@@ -1,0 +1,1892 @@
+<document id="DDEFD8D5C5000E979B560191CB4C56B4" ID-DOI="10.1093/jcbiol/ruad032" ID-ISSN="1937-240X" ID-Zenodo-Dep="10798482" checkinTime="1709923407341" checkinUser="felipe" docAuthor="Arslan, Kaan &amp; Saglam, Berk &amp; Beyatli, Nazli Coskun &amp; Taskiran, Ekim Z. &amp; Bastug, Turgut &amp; Purali, Nuhan" docDate="2023" docId="FF91FFD8FFA5FFDBFFC04F25FFFCBF3D" docName="JCrustaceanBiol.43.2.ruad032.pdf" docOrigin="Journal of Crustacean Biology 43 (2)" docSource="http://dx.doi.org/10.1093/jcbiol/ruad032" docStyle="DocumentStyle:B340F6BFEDE6502C59A7807722A65DF9:JCrustaceanBiol.2023-.journal_article" docStyleId="B340F6BFEDE6502C59A7807722A65DF9" docStyleName="JCrustaceanBiol.2023-.journal_article" docTitle="Cloning and functional characterization of a TMC-like channel gene and protein in the crayfish Astacus leptodactylus (Eschscholtz, 1823) (Decapoda: Astacidea: Astacidae)" docVersion="2" lastPageNumber="8" pageNumber="1" updateTime="1709923727038" updateUser="ExternalLinkService">
+<mods:mods id="CD8F73D67E0A4ACA9E7B0FC16942AF0F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="36FA04300EF20EA76D090398360442C5">
+<mods:title id="D19F313558E505F946E48EE83195288F">Cloning and functional characterization of a TMC-like channel gene and protein in the crayfish Astacus leptodactylus (Eschscholtz, 1823) (Decapoda: Astacidea: Astacidae)</mods:title>
+</mods:titleInfo>
+<mods:name id="DE619E00EDB1F8C6728B09A3C2B925DF" type="personal">
+<mods:role id="CF2B18A2E27DDDCEDF5379BC08FE6675">
+<mods:roleTerm id="CC29D240E0729036703230AC61C69F88">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="14BD1CB9C83869435593C15B098988D1">Arslan, Kaan</mods:namePart>
+<mods:affiliation id="DF797CE6723EB3B0CBB2B52DB2AA11C9">Department of Biophysics, Faculty of Medicine, Hacettepe University, 06100 Ankara, Turkey</mods:affiliation>
+</mods:name>
+<mods:name id="C29AE9D2864139941D09C42F1F2778A6" type="personal">
+<mods:role id="9CC702829C84A1075AC3199046F3CFDE">
+<mods:roleTerm id="6C19DD2BDBA1E6EAD7425AF758E18E3A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="7FA6D3EC0DF90A751138BE5BF0517CC6">Saglam, Berk</mods:namePart>
+<mods:affiliation id="F61E5C66BA1BE78767D477632E13B522">Department of Biophysics, Faculty of Medicine, Hacettepe University, 06100 Ankara, Turkey</mods:affiliation>
+</mods:name>
+<mods:name id="8A2C88D221B550D2A2FB2A7EFF346A05" type="personal">
+<mods:role id="43B14A602AD4B65614AEE140C0A3E2FA">
+<mods:roleTerm id="C302EE121F9C07CCDAEB30A59AE56B9A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="81C39651E0B30DF993CADF436543F5DA">Beyatli, Nazli Coskun</mods:namePart>
+<mods:affiliation id="9313A4ED9F032905A79D5EAA9C2CD62A">Department of Biophysics, Faculty of Medicine, Hacettepe University, 06100 Ankara, Turkey</mods:affiliation>
+</mods:name>
+<mods:name id="230E224F71923D492742D859FAB64F78" type="personal">
+<mods:role id="33E73009249D9B351F09641693749C5E">
+<mods:roleTerm id="DD1F7E146F28DA4828C83A97D914C200">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9F978B4E54AFF22FFA0E5CB7E372C073">Taskiran, Ekim Z.</mods:namePart>
+<mods:affiliation id="37823329D8BD5889A58334BA6217A3A0">Department of Medical Genetics, Faculty of Medicine, Hacettepe University, 06100 Ankara, Turkey</mods:affiliation>
+</mods:name>
+<mods:name id="B373AB8E527E8CE848E72C4A19558F05" type="personal">
+<mods:role id="7E139F589EA1480BEB500F397B6D1DCB">
+<mods:roleTerm id="763A8308260F7669617C5836EB785807">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="276E9A7730664189286A31F07C070D29">Bastug, Turgut</mods:namePart>
+<mods:affiliation id="B30967BD411FAEBC48940C6487989AED">Department of Biophysics, Faculty of Medicine, Hacettepe University, 06100 Ankara, Turkey</mods:affiliation>
+</mods:name>
+<mods:name id="008D64894EDFC53C7E6D235655750744" type="personal">
+<mods:role id="59E2F89A7C62C0C316FB381E1989DB18">
+<mods:roleTerm id="AE81992E9AE2911329CA0E53023E5AE1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="56D6DE73260DCA101B76F00CB37B9162">Purali, Nuhan</mods:namePart>
+<mods:affiliation id="574E256D99D1335F9E929BA182442011">Department of Biophysics, Faculty of Medicine, Hacettepe University, 06100 Ankara, Turkey</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D0DE05D3FA9C59A8BAAD824200B3EFF0">text</mods:typeOfResource>
+<mods:relatedItem id="82F97CCD28DEDEF2BBB12BC3EE21ACF5" type="host">
+<mods:titleInfo id="014C2EA420DCCABA4DEFE9646BD86D2C">
+<mods:title id="85A68AC39823C5B17581BE926A95043A">Journal of Crustacean Biology</mods:title>
+</mods:titleInfo>
+<mods:part id="14E8EEA3823F004E81DE8BD5A1B94AF9">
+<mods:date id="03EB1D77E66D7E9D98CB155E04EE123F">2023</mods:date>
+<mods:detail id="C7AC83B41870A6EAF5FF7407999B8F17" type="pubDate">
+<mods:number id="623AC6D8D6D43C4D8728DC9FC178CDF9">2023-06-23</mods:number>
+</mods:detail>
+<mods:detail id="AC2712FA092A611F1E2A6ED88C0B21C4" type="volume">
+<mods:number id="307D710AD919D8DF0DC3EA3F64F1928A">43</mods:number>
+</mods:detail>
+<mods:detail id="4F8331D4A955841AA6E6BD0181320780" type="issue">
+<mods:number id="E2C52323FDC2FC59B786DD74C2024683">2</mods:number>
+</mods:detail>
+<mods:extent id="AB2ED59FC069491FDD9E449D5FB2EB18" unit="page">
+<mods:start id="682EB33D6EFCE2833BA4AD3293B725E3">1</mods:start>
+<mods:end id="952C075AA50E98F7DDC56FC6A4FF6CDA">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="70D962E02743852FE98BF22E2E0243CC">
+<mods:url id="2004F80E0C0BD65983D7253E3045EBFC">http://dx.doi.org/10.1093/jcbiol/ruad032</mods:url>
+</mods:location>
+<mods:classification id="7415A2B8DECA2FFD333CF9748D3E18DE">journal article</mods:classification>
+<mods:identifier id="1B57531CA26A4C4567408833C8CABF3E" type="DOI">10.1093/jcbiol/ruad032</mods:identifier>
+<mods:identifier id="C7A27AA968B0C289B6FEEC978DB3B359" type="ISSN">1937-240X</mods:identifier>
+<mods:identifier id="7DA7784A1346957274A5B9B2C4E71847" type="Zenodo-Dep">10798482</mods:identifier>
+</mods:mods>
+<subSection id="E28E2F5DFFA5FFDBFF0B4E17FBE8BD8B" _generate="added" pageId="0" pageNumber="1" type="multiple">
+<paragraph id="8BBE36B6FFA5FFDBFF0B4E17FA86BEDA" blockId="0.[140,1463,306,487]" pageId="0" pageNumber="1">
+<docTitle id="CE1BCFD8FFA5FFDBFF0B4E17FA86BEDA" pageId="0" pageNumber="1">
+Cloning and functional characterization of a TMC-like channel gene and protein in the crayfish 
+<taxonomicName id="4C014D35FFA5FFDBFC3C4E56FD78BEDB" _authorityPlausibility="0.99941236" _evidence="catalogs" _step="species1" authority="(Eschscholtz, 1823)" baseAuthorityName="Eschscholtz" baseAuthorityYear="1823" class="Malacostraca" family="Astacidae" genus="Astacus" kingdom="Animalia" order="Decapoda" pageId="0" pageNumber="1" phylum="Arthropoda" rank="species" species="leptodactylus">
+<emphasis id="B975EAA4FFA5FFDBFC3C4E56FA4BBE9B" box="[1020,1463,370,422]" italics="true" pageId="0" pageNumber="1">Astacus leptodactylus</emphasis>
+(
+<bibRefCitation id="EF904B47FFA5FFDBFF184E97FD8FBEDB" author="Eschscholtz, F. F." box="[216,627,434,487]" pageId="0" pageNumber="1" pagination="109 - 110" refId="ref4714" refString="Eschscholtz, F. F. 1823. Descriptio novae Astacorum speciei Rossicae. Memoires de la Societe Imperiale des Naturalistes du Moscu, 6: 109 - 110." type="journal article" year="1823">Eschscholtz, 1823</bibRefCitation>
+)
+</taxonomicName>
+(
+<taxonomicName id="4C014D35FFA5FFDBFD5E4E97FC72BEDA" _evidence="catalogs" _step="order" box="[670,910,434,487]" class="Malacostraca" kingdom="Animalia" order="Decapoda" pageId="0" pageNumber="1" phylum="Arthropoda" rank="order">Decapoda</taxonomicName>
+: Astacidea: 
+<taxonomicName id="4C014D35FFA5FFDBFB4F4E97FA97BEDA" _evidence="catalogs" _step="family" authorityName="Latreille" authorityYear="1802" box="[1167,1387,434,487]" class="Malacostraca" family="Astacidae" kingdom="Animalia" order="Decapoda" pageId="0" pageNumber="1" phylum="Arthropoda" rank="family">Astacidae</taxonomicName>
+)
+</docTitle>
+</paragraph>
+<paragraph id="8BBE36B6FFA5FFDBFF554EDAFC84BD05" blockId="0.[149,1453,508,584]" pageId="0" pageNumber="1">
+<docAuthor id="2069373BFFA5FFDBFF554EDAFEC3BD1D" box="[149,319,510,544]" pageId="0" pageNumber="1">Kaan Arslan</docAuthor>
+<superScript id="7C749BFEFFA5FFDBFE804ED9FEB2BD2D" attach="left" box="[320,334,508,528]" fontSize="8" pageId="0" pageNumber="1">1,</superScript>
+, 
+<docAuthor id="2069373BFFA5FFDBFEB84EDBFDD9BD1D" box="[376,549,510,544]" pageId="0" pageNumber="1">Berk Saglam</docAuthor>
+<superScript id="7C749BFEFFA5FFDBFDE54ED9FDCFBD2D" attach="left" box="[549,563,508,528]" fontSize="8" pageId="0" pageNumber="1">1,</superScript>
+, 
+<docAuthor id="2069373BFFA5FFDBFD9D4EDBFC7DBD1D" box="[605,897,510,544]" pageId="0" pageNumber="1">Nazli Coskun Beyatli</docAuthor>
+<superScript id="7C749BFEFFA5FFDBFC424ED9FC70BD32" attach="right" box="[898,908,508,527]" fontSize="8" pageId="0" pageNumber="1">1</superScript>
+, 
+<docAuthor id="2069373BFFA5FFDBFC5B4EDBFB74BD1D" box="[923,1160,510,544]" pageId="0" pageNumber="1">Ekim Z. Taskiran</docAuthor>
+<superScript id="7C749BFEFFA5FFDBFB494ED9FB6FBD32" attach="right" box="[1161,1171,508,527]" fontSize="8" pageId="0" pageNumber="1">
+<docIssue id="CF624959FFA5FFDBFB494ED9FB6FBD32" box="[1161,1171,508,527]" pageId="0" pageNumber="1">2</docIssue>
+</superScript>
+, 
+<docAuthor id="2069373BFFA5FFDBFB624EDAFA94BD1D" box="[1186,1384,511,544]" pageId="0" pageNumber="1">Turgut Bastug</docAuthor>
+<superScript id="7C749BFEFFA5FFDBFAA84ED9FA8EBD32" attach="left" box="[1384,1394,508,527]" fontSize="8" pageId="0" pageNumber="1">1</superScript>
+and 
+<docAuthor id="2069373BFFA5FFDBFD6F4D03FC96BD75" box="[687,874,550,584]" pageId="0" pageNumber="1">Nuhan Purali</docAuthor>
+<superScript id="7C749BFEFFA5FFDBFCAA4D01FC84BD05" attach="left" box="[874,888,548,568]" fontSize="8" pageId="0" pageNumber="1">1,</superScript>
+</paragraph>
+<paragraph id="8BBE36B6FFA5FFDBFEBF4D7BFB3FBD48" blockId="0.[353,1249,606,656]" box="[383,1219,606,629]" pageId="0" pageNumber="1">
+<superScript id="7C749BFEFFA5FFDBFEBF4D7BFE7ABD57" attach="right" box="[383,390,606,618]" fontSize="5" pageId="0" pageNumber="1">1</superScript>
+<docAuthorAffiliation id="931EF9D5FFA5FFDBFE464D7AFB3FBD48" box="[390,1219,607,629]" pageId="0" pageNumber="1">
+Department of Biophysics, Faculty of Medicine, Hacettepe University, 06100 
+<collectingRegion id="49C5F854FFA5FFDBFBF94D7AFB80BD48" box="[1081,1148,607,629]" country="Turkey" name="Ankara" pageId="0" pageNumber="1">Ankara</collectingRegion>
+, 
+<collectingCountry id="F3167626FFA5FFDBFB434D7AFB3FBD48" box="[1155,1219,607,629]" name="Turkey" pageId="0" pageNumber="1">Turkey</collectingCountry>
+</docAuthorAffiliation>
+</paragraph>
+<paragraph id="8BBE36B6FFA5FFDBFEA14D5CFB1DBDAD" blockId="0.[353,1249,606,656]" box="[353,1249,633,656]" pageId="0" pageNumber="1">
+<superScript id="7C749BFEFFA5FFDBFEA14D5CFE94BDB8" attach="right" box="[353,360,633,645]" fontSize="5" pageId="0" pageNumber="1">2</superScript>
+<docAuthorAffiliation id="931EF9D5FFA5FFDBFEA84D5FFB1DBDAD" box="[360,1249,633,656]" pageId="0" pageNumber="1">
+Department of Medical Genetics, Faculty of Medicine, Hacettepe University, 06100 
+<collectingRegion id="49C5F854FFA5FFDBFB974D5FFB66BDAD" box="[1111,1178,634,656]" country="Turkey" name="Ankara" pageId="0" pageNumber="1">Ankara</collectingRegion>
+, 
+<collectingCountry id="F3167626FFA5FFDBFB614D5FFB1DBDAD" box="[1185,1249,634,656]" name="Turkey" pageId="0" pageNumber="1">Turkey</collectingCountry>
+</docAuthorAffiliation>
+</paragraph>
+<paragraph id="8BBE36B6FFA5FFDBFDEF4D86FBE8BD8B" blockId="0.[559,1044,675,695]" box="[559,1044,675,695]" pageId="0" pageNumber="1">Correspondance: N. Purali:e-mail:npurali@hacettepe.edu.tr</paragraph>
+</subSection>
+<subSection id="E28E2F5DFFA5FFDBFD1B4C28FA5FBB3D" _generate="added" pageId="0" pageNumber="1" type="multiple">
+<paragraph id="8BBE36B6FFA5FFDBFD1B4C28FC99BC18" blockId="0.[731,869,781,805]" box="[731,869,781,805]" pageId="0" pageNumber="1">
+<heading id="D0F681DAFFA5FFDBFD1B4C28FC99BC18" box="[731,869,781,805]" centered="true" fontSize="36" level="1" pageId="0" pageNumber="1" reason="2">
+<emphasis id="B975EAA4FFA5FFDBFD1B4C28FC99BC18" bold="true" box="[731,869,781,805]" pageId="0" pageNumber="1">A B ST R A CT</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BBE36B6FFA5FFDBFF414C1DFA5FBB3D" blockId="0.[129,1474,824,1024]" pageId="0" pageNumber="1">
+Ion channels gated selectively by mechanical stimulus are the key elements of mechanosensation. Several genes have been associated with putative mechanosensitive ion channels or mechanosensitive channel complexes. Transmembrane channel (TMC)-like protein is one of those candidate proteins that have been explored in mammals and several invertebrates. The presence and possible function of TMC related genes has not been investigated yet in crustaceans. In the present work an mRNA coding TMC-like protein was firstly cloned in 
+<taxonomicName id="4C014D35FFA5FFDBFAC04CB5FEBCBCF8" _authorityPlausibility="0.99941236" _evidence="catalogs" _step="species1" authority="(Eschscholtz, 1823)" baseAuthorityName="Eschscholtz" baseAuthorityYear="1823" class="Malacostraca" family="Astacidae" genus="Astacus" kingdom="Animalia" order="Decapoda" pageId="0" pageNumber="1" phylum="Arthropoda" rank="species" species="leptodactylus">
+<emphasis id="B975EAA4FFA5FFDBFAC04CB5FA3EBC95" box="[1280,1474,912,936]" italics="true" pageId="0" pageNumber="1">Astacus leptodactylus</emphasis>
+(
+<bibRefCitation id="EF904B47FFA5FFDBFF4A4C88FEC9BCF8" author="Eschscholtz, F. F." box="[138,309,941,965]" pageId="0" pageNumber="1" pagination="109 - 110" refId="ref4714" refString="Eschscholtz, F. F. 1823. Descriptio novae Astacorum speciei Rossicae. Memoires de la Societe Imperiale des Naturalistes du Moscu, 6: 109 - 110." type="journal article" year="1823">Eschscholtz, 1823</bibRefCitation>
+)
+</taxonomicName>
+(
+<taxonomicName id="4C014D35FFA5FFDBFE8C4C88FE4FBCF8" _evidence="catalogs" _step="order" box="[332,435,941,965]" class="Malacostraca" kingdom="Animalia" order="Decapoda" pageId="0" pageNumber="1" phylum="Arthropoda" rank="order">Decapoda</taxonomicName>
+: Astacidea: 
+<taxonomicName id="4C014D35FFA5FFDBFDE34C88FD7EBCF8" _evidence="catalogs" _step="family" authorityName="Latreille" authorityYear="1802" box="[547,642,941,965]" class="Malacostraca" family="Astacidae" kingdom="Animalia" order="Decapoda" pageId="0" pageNumber="1" phylum="Arthropoda" rank="family">Astacidae</taxonomicName>
+) and expressed in HEK293T cells. Three-dimensional structural calculations of the protein predicted a channel. Functional studies, however, indicated that the mechanosensitivity of the transfected HEK293T cells is similar to that in the control cells. It was concluded that a TMC-like protein is present in the crayfish but future studies are necessary to define its function.
+</paragraph>
+</subSection>
+<subSection id="E28E2F5DFFA5FFDBFF414B05FC80BB0B" _generate="added" box="[129,892,1054,1079]" pageId="0" pageNumber="1" type="key_words">
+<paragraph id="8BBE36B6FFA5FFDBFF414B05FC80BB0B" blockId="0.[129,892,1054,1079]" box="[129,892,1054,1079]" pageId="0" pageNumber="1">
+<heading id="D0F681DAFFA5FFDBFF414B05FC80BB0B" box="[129,892,1054,1079]" fontSize="36" level="1" pageId="0" pageNumber="1" reason="2">
+<emphasis id="B975EAA4FFA5FFDBFF414B05FEE5BB0B" bold="true" box="[129,281,1056,1078]" pageId="0" pageNumber="1">KEY WORDS:</emphasis>
+<keyWord id="30F76DD1FFA5FFDBFEE24B3BFE97BB0B" box="[290,363,1054,1078]" pageId="0" pageNumber="1">cloning</keyWord>
+, 
+<keyWord id="30F76DD1FFA5FFDBFEB44B3AFE29BB0A" box="[372,469,1055,1079]" pageId="0" pageNumber="1">Crustacea</keyWord>
+, 
+<keyWord id="30F76DD1FFA5FFDBFE1C4B3BFD72BB0B" box="[476,654,1054,1078]" pageId="0" pageNumber="1">mechanosensation</keyWord>
+, 
+<keyWord id="30F76DD1FFA5FFDBFD574B3BFC80BB0B" box="[663,892,1054,1078]" pageId="0" pageNumber="1">transmembrane channel</keyWord>
+</heading>
+</paragraph>
+</subSection>
+<subSection id="E28E2F5DFFA5FFDAFE8E4BB9FE51BC07" _generate="added" lastPageId="1" lastPageNumber="2" pageId="0" pageNumber="1" type="introduction">
+<paragraph id="8BBE36B6FFA5FFDBFE8E4BB9FDC1BB8B" blockId="0.[334,573,1180,1206]" box="[334,573,1180,1206]" pageId="0" pageNumber="1">
+<heading id="D0F681DAFFA5FFDBFE8E4BB9FDC1BB8B" allCaps="true" box="[334,573,1180,1206]" centered="true" fontSize="11" level="1" pageId="0" pageNumber="1" reason="1">INTRODUCTION</heading>
+</paragraph>
+<paragraph id="8BBE36B6FFA5FFDBFF414BEDFD8FBA86" blockId="0.[129,778,1224,1812]" pageId="0" pageNumber="1">
+Cells are susceptible to many different kinds of stimuli, one of which is mechanical force. Some cells have evolved to sense mechanical force specifically, and it has been shown that the mechanical stimulus evokes ionic currents in some cells due to an increase in the membrane conductance. The change in the conductance is generated by a unique 
+<typeStatus id="54BA8814FFA5FFDBFDC34A40FDCDBA40" box="[515,561,1381,1405]" pageId="0" pageNumber="1">type</typeStatus>
+of ion channel, gated preferably by the mechanical force only, classified as mechanically activated or mechanosensitive ion channels.
+</paragraph>
+<paragraph id="8BBE36B6FFA5FFDAFF5C4AE7FE51BC07" blockId="0.[129,778,1224,1812]" lastBlockId="1.[113,763,144,826]" lastPageId="1" lastPageNumber="2" pageId="0" pageNumber="1">
+Although the mechanosensation might be the earliest among all the senses (
+<bibRefCitation id="EF904B47FFA5FFDBFED44AC7FE06BAC7" author="Naitoh, Y. &amp; Eckert, R." box="[276,506,1506,1530]" pageId="0" pageNumber="1" pagination="963 - 965" refId="ref5912" refString="Naitoh, Y. &amp; Eckert, R. 1969. Ionic mechanisms controlling behavioral responses of paramecium to mechanical stimulation. Science, 164: 963 - 965." type="journal article" year="1969">Naitoh &amp; Eckert, 1969</bibRefCitation>
+), the molecular properties of some mechanosensitive ion channels and their related structures is yet to be determined. A substantial amount of information has been reported for mechanosensitive channels (
+<bibRefCitation id="EF904B47FFA5FFDBFD014965FF0DB94A" author="Walker, R. G. &amp; Willingham, A. T. &amp; Zuker, C. S." pageId="0" pageNumber="1" pagination="2229 - 2234" refId="ref6387" refString="Walker, R. G., Willingham, A. T. &amp; Zuker, C. S. 2000. A Drosophila mechanosensory transduction channel. Science, 287: 2229 - 2234." type="journal article" year="2000">
+Walker 
+<emphasis id="B975EAA4FFA5FFDBFF414945FF4AB94A" box="[129,182,1631,1655]" italics="true" pageId="0" pageNumber="1">et al.,</emphasis>
+2000
+</bibRefCitation>
+); however, the absence of appropriate preparations to perform experiments at the cell level, difficulty in generation and application of a calibrated mechanical stimulus, polymorphic nature of the mechanosensation, and a limited number of specific pharmacological agents make the functional characterization of novel mechanosensitive ion channels difficult. The presence of a mechanosensitive channel has been reported in various functional studies in crayfishes (
+<bibRefCitation id="EF904B47FFA5FFDBFB6D4B98FA47BBE8" author="Eyzaguirre, C. &amp; Kuffler, S. W." box="[1197,1467,1213,1237]" pageId="0" pageNumber="1" pagination="87 - 119" refId="ref4744" refString="Eyzaguirre, C. &amp; Kuffler, S. W. 1955. Processes of excitation in the dendrites and in the soma of single isolated sensory nerve cells of the lobster and crayfish. Journal of General Physiology, 39: 87 - 119." type="journal article" year="1955">Eyzaguirre &amp; Kuffler, 1955</bibRefCitation>
+; 
+<bibRefCitation id="EF904B47FFA5FFDBFCF94BF9FBCCBBC9" author="Rydqvist, B. &amp; Purali, N." box="[825,1072,1244,1268]" pageId="0" pageNumber="1" pagination="193 - 211" refId="ref6024" refString="Rydqvist, B. &amp; Purali, N. 1993. Transducer properties of the rapidly adapting stretch receptor neuron in the crayfish (Pacifastacus leniusculus). Journal of Physiology, 469: 193 - 211." type="journal article" year="1993">Rydqvist &amp; Purali, 1993</bibRefCitation>
+). There is no information, however, on the genetic and molecular properties of such mechanosensitive channels in the crayfish. A set of mechanically activated channels have been reported in prokaryotes (
+<bibRefCitation id="EF904B47FFA5FFDBFB224A1FFA4DBA6F" author="Sukharev, S. I. &amp; Martinac, B. &amp; Arshavsky, V. Y. &amp; Kung, C." box="[1250,1457,1338,1362]" pageId="0" pageNumber="1" pagination="177 - 183" refId="ref6126" refString="Sukharev, S. I., Martinac, B., Arshavsky, V. Y. &amp; Kung, C. 1993. Two types of mechanosensitive channels in the Escherichia coli cell envelope: solubilization and functional reconstitution. Biophysical Journal, 65: 177 - 183." type="journal article" year="1993">
+Sukharev 
+<emphasis id="B975EAA4FFA5FFDBFA884A1EFA81BA6F" box="[1352,1405,1338,1362]" italics="true" pageId="0" pageNumber="1">et al.,</emphasis>
+1993
+</bibRefCitation>
+). Recent improvements in the field have been achieved and for the first time a eukaryotic ion channel has been shown to be mechanosensitive (
+<bibRefCitation id="EF904B47FFA5FFDBFC074ABDFB88BA8D" author="Coste, B. &amp; Mathur, J. &amp; Schmidt, M. &amp; Earley, T. J. &amp; Ranade, S. &amp; Petrus, M. J. &amp; Dubin, A. E. &amp; Patapoutian, A." box="[967,1140,1432,1456]" pageId="0" pageNumber="1" pagination="55 - 60" refId="ref4362" refString="Coste, B., Mathur, J., Schmidt, M., Earley, T. J., Ranade, S., Petrus, M. J., Dubin, A. E. &amp; Patapoutian, A. 2010. Piezo 1 and Piezo 2 are essential components of distinct mechanically activated cation channels. Science, 330: 55 - 60." type="journal article" year="2010">
+Coste 
+<emphasis id="B975EAA4FFA5FFDBFBC84ABCFBC7BA8D" box="[1032,1083,1432,1456]" italics="true" pageId="0" pageNumber="1">et al.,</emphasis>
+2010
+</bibRefCitation>
+). The discovered Piezo channels fulfill all the criteria defined for a mechanosensitive ion channel (
+<bibRefCitation id="EF904B47FFA5FFDBFC844AF2FBABBAD2" author="Arnadottir, J. &amp; Chalfie, M." box="[836,1111,1495,1519]" pageId="0" pageNumber="1" pagination="111 - 137" refId="ref4252" refString="Arnadottir, J. &amp; Chalfie, M. 2010. Eukaryotic mechanosensitive channels. Annual Review of Biophysics, 39: 111 - 137." type="journal article" year="2010">Arnadóttir &amp; Chalfie, 2010</bibRefCitation>
+). The mechanical force, developing in the lipid bilayer membrane, specifically drives the channel into an open state (
+<bibRefCitation id="EF904B47FFA5FFDBFBC84930FA8DB913" author="Haselwandter, C. A. &amp; MacKinnon, R." box="[1032,1393,1557,1582]" pageId="0" pageNumber="1" pagination="41968" refId="ref4888" refString="Haselwandter, C. A. &amp; MacKinnon, R. 2018. Piezo's membrane footprint and its contribution to mechanosensitivity. Elife, 7: e 41968 [https: // doi. org / 10.7554 / elife. 41968]." type="journal article" year="2018">Haselwandter &amp; Mackinnon, 2018</bibRefCitation>
+). Piezo channels are specifically gated by the force from the lipid bilayer and they are the representative example of a distinct group of mechanosensitive channels. It has been reported that some other 
+<typeStatus id="54BA8814FFA5FFDBFCF949B6FC9BB996" box="[825,871,1683,1707]" pageId="0" pageNumber="1">type</typeStatus>
+of mechanosensitive channels require additional functional or structural elements for opening, as in the mechanosensor of 
+<taxonomicName id="4C014D35FFA5FFDBFCF949F4FC59B9D4" _evidence="catalogs" _step="genera" box="[825,933,1745,1769]" class="Insecta" family="Drosophilidae" genus="Drosophila" kingdom="Animalia" order="Diptera" pageId="0" pageNumber="1" phylum="Arthropoda" rank="genus">
+<emphasis id="B975EAA4FFA5FFDBFCF949F4FC59B9D4" box="[825,933,1745,1769]" italics="true" pageId="0" pageNumber="1">Drosophila</emphasis>
+</taxonomicName>
+and the vertebrate hair cells (
+<bibRefCitation id="EF904B47FFA5FFDBFB2F49F7FC91B834" author="Corey, D. P. &amp; Hudspeth, A. J." pageId="0" pageNumber="1" pagination="962 - 976" refId="ref4326" refString="Corey, D. P. &amp; Hudspeth, A. J. 1983. Kinetics of the receptor current in bullfrog saccular hair cells. Journal of Neuroscience, 3: 962 - 976." type="journal article" year="1983">Corey &amp; Hudspeth, 1983</bibRefCitation>
+; 
+<bibRefCitation id="EF904B47FFA5FFDBFCBA49D4FBCDB834" author="Effertz, T. &amp; Scharr, A. L. &amp; Ricci, A. J." box="[890,1073,1777,1801]" pageId="0" pageNumber="1" pagination="73 - 84" refId="ref4591" refString="Effertz, T., Scharr, A. L. &amp; Ricci, A. J. 2015. The how and why of identifying the hair cell mechano-electrical transduction channel. Pflugers Archiv, 467: 73 - 84." type="journal article" year="2015">
+Effertz 
+<emphasis id="B975EAA4FFA5FFDBFC0449D4FC0BB834" box="[964,1015,1777,1801]" italics="true" pageId="0" pageNumber="1">et al.,</emphasis>
+2015
+</bibRefCitation>
+; 
+<bibRefCitation id="EF904B47FFA5FFDBFBFE49D4FB11B834" author="Zhang, W. &amp; Cheng, L. E. &amp; Kittelmann, M. &amp; Li, J. &amp; Petkovic, M. &amp; Cheng, T. &amp; Jin, P. &amp; Guo, Z. &amp; Gopfert, M. C. &amp; Jan, Y. L. &amp; Jan, Y. N." box="[1086,1261,1777,1801]" pageId="0" pageNumber="1" pagination="1391 - 1403" refId="ref6620" refString="Zhang, W., Cheng, L. E., Kittelmann, M., Li, J., Petkovic, M., Cheng, T., Jin, P., Guo, Z., Gopfert, M. C., Jan, Y. L. &amp; Jan, Y. N. 2015. Ankyrin repeats convey force to gate the NOMPC mechanotransduction channel. Cell, 162: 1391 - 1403." type="journal article" year="2015">
+Zhang 
+<emphasis id="B975EAA4FFA5FFDBFB4549D4FB48B834" box="[1157,1204,1777,1801]" italics="true" pageId="0" pageNumber="1">et al.</emphasis>
+2015
+</bibRefCitation>
+). Protocadherin and cadherin (
+<bibRefCitation id="EF904B47FFA5FFDBFC684835FB50B815" author="Kazmierczak, P. &amp; Sakaguchi, H. &amp; Tokita, J. &amp; Wilson-Kubalek, E. M. &amp; Milligan, R. A. &amp; Muller, U. &amp; Kachar, B." box="[936,1196,1808,1832]" pageId="0" pageNumber="1" pagination="87 - 91" refId="ref5354" refString="Kazmierczak, P., Sakaguchi, H., Tokita, J., Wilson-Kubalek, E. M., Milligan, R. A., Muller, U. &amp; Kachar, B. 2007. Cadherin 23 and protocadherin 15 interact to form tip-link filaments in sensory hair cells. Nature, 449: 87 - 91." type="journal article" year="2007">
+Kazmierczak 
+<emphasis id="B975EAA4FFA5FFDBFBF64834FB91B815" box="[1078,1133,1808,1832]" italics="true" pageId="0" pageNumber="1">et al.,</emphasis>
+2007
+</bibRefCitation>
+), transmembrane channel (TMC)-like protein (
+<bibRefCitation id="EF904B47FFA4FFDAFE9B4FB5FDD1BF95" author="Kurima, K. &amp; Peters, L. M. &amp; Yang, Y. &amp; Riazuddin, S. &amp; Ahmed, Z. M. &amp; Naz, S. &amp; Arnaud, D. &amp; Drury, S. &amp; Mo, J. &amp; Makishima, T. &amp; Ghosh, M. &amp; Menon, P. S. &amp; Deshmukh, D. &amp; Oddoux, C. &amp; Ostrer, H. &amp; Khan, S. &amp; Riazuddin, S. &amp; Deininger, P. L. &amp; Hampton, L. L. &amp; Sullivan, S. L. &amp; Battey, J. F. Jr &amp; Keats, B. J. &amp; Wilcox, E. R. &amp; Friedman, T. B. &amp; Griffith, A. J." box="[347,557,144,168]" pageId="1" pageNumber="2" pagination="277 - 284" refId="ref5477" refString="Kurima, K., Peters, L. M., Yang, Y., Riazuddin, S., Ahmed, Z. M., Naz, S., Arnaud, D., Drury, S., Mo, J., Makishima, T., Ghosh, M., Menon, P. S., Deshmukh, D., Oddoux, C., Ostrer, H., Khan, S., Riazuddin, S., Deininger, P. L., Hampton, L. L., Sullivan, S. L., Battey, J. F. Jr, Keats, B. J., Wilcox, E. R., Friedman, T. B. &amp; Griffith, A. J. 2002. Dominant and recessive deafness caused by mutations of a novel gene, TMC 1, required for cochlear hair-cell function. Nature Genetics, 30: 277 - 284." type="journal article" year="2002">
+Kurima 
+<emphasis id="B975EAA4FFA4FFDAFE744FB4FE11BF95" box="[436,493,144,168]" italics="true" pageId="1" pageNumber="2">et al.,</emphasis>
+2002
+</bibRefCitation>
+; 
+<bibRefCitation id="EF904B47FFA4FFDAFDFF4FB5FF59BFFA" author="Kawashima, Y. &amp; Geleoc, G. S. &amp; Kurima, K. &amp; Labay, V. &amp; Lelli, A. &amp; Asai, Y. &amp; Makishima, T. &amp; Wu, D. K. &amp; Della Santina, C. C. &amp; Holt, J. R. &amp; Griffith, A. J." pageId="1" pageNumber="2" pagination="4796 - 4809" refId="ref5211" refString="Kawashima, Y., Geleoc, G. S., Kurima, K., Labay, V., Lelli, A., Asai, Y., Makishima, T., Wu, D. K., Della Santina, C. C., Holt, J. R. &amp; Griffith, A. J. 2011. Mechanotransduction in mouse inner ear hair cells requires transmembrane channel-like genes. Journal of Clinical Investigation, 121: 4796 - 4809." type="journal article" year="2011">
+Kawashima 
+<emphasis id="B975EAA4FFA4FFDAFD014FB4FD06BF95" box="[705,762,144,168]" italics="true" pageId="1" pageNumber="2">et al.,</emphasis>
+2011
+</bibRefCitation>
+), LHFPL5 (
+<bibRefCitation id="EF904B47FFA4FFDAFEEC4F8AFDD0BFFA" author="Longo-Guess, C. M. &amp; Gagnon, L. H. &amp; Cook, S. A. &amp; Wu, J. &amp; Zheng, Q. Y. &amp; Johnson, K. R." box="[300,556,175,199]" pageId="1" pageNumber="2" pagination="7894 - 7899" refId="ref5714" refString="Longo-Guess, C. M., Gagnon, L. H., Cook, S. A., Wu, J., Zheng, Q. Y. &amp; Johnson, K. R. 2005. A missense mutation in the previously undescribed gene Tmhs underlies deafness in hurry-scurry (hscy) mice. Proceedings of the National Academy of Sciences of the United States of America, 102: 7894 - 7899." type="journal article" year="2005">
+Longo-Guess 
+<emphasis id="B975EAA4FFA4FFDAFE7D4F95FE0DBFFA" box="[445,497,175,199]" italics="true" pageId="1" pageNumber="2">et al.,</emphasis>
+2005
+</bibRefCitation>
+), and TMIE (
+<bibRefCitation id="EF904B47FFA4FFDAFD034F8AFEE1BFDA" author="Gleason, M. R. &amp; Nagiel, A. &amp; Jamet, S. &amp; Vologodskaia, M. &amp; Lopez-Schier, H. &amp; Hudspeth, A. J." pageId="1" pageNumber="2" pagination="21347 - 21352" refId="ref4814" refString="Gleason, M. R., Nagiel, A., Jamet, S., Vologodskaia, M., Lopez-Schier, H. &amp; Hudspeth, A. J. 2009. The transmembrane inner ear (Tmie) protein is essential for normal hearing and balance in the zebrafish. Proceedings of the National Academy of Sciences of the United States of America, 106: 21347 - 21352." type="journal article" year="2009">
+Gleason 
+<emphasis id="B975EAA4FFA4FFDAFF624FEAFF20BFDA" box="[162,220,207,231]" italics="true" pageId="1" pageNumber="2">et al.,</emphasis>
+2009
+</bibRefCitation>
+) constitute a mechano-electrical transducer (MET) complex generating the primary mechanotransduction in the hair cells. An alternative gating mechanism, driven by the force from the filament has been proposed (
+<bibRefCitation id="EF904B47FFA4FFDAFDFF4E08FD15BE79" author="Teng, J. &amp; Loukin, S. &amp; Anishkin, A. &amp; Kung, C." box="[575,745,300,325]" pageId="1" pageNumber="2" pagination="27 - 37" refId="ref6177" refString="Teng, J., Loukin, S., Anishkin, A. &amp; Kung, C. 2015. The force-from-lipid (FFL) principle of mechanosensitivity, at large and in elements. Pflugers Archiv, 467: 27 - 37." type="journal article" year="2015">
+Teng 
+<emphasis id="B975EAA4FFA4FFDAFDB94E08FD52BE78" box="[633,686,301,325]" italics="true" pageId="1" pageNumber="2">et al.,</emphasis>
+2015
+</bibRefCitation>
+). Although there are some opposing reports, TMC has been proposed as a candidate mechanosensitive ion channel based on gene silencing and structural analysis studies (
+<bibRefCitation id="EF904B47FFA4FFDAFD8B4EAEFF59BEFF" author="Kawashima, Y. &amp; Kurima, K. &amp; Pan, B. &amp; Griffith, A. J. &amp; Holt, J. R." pageId="1" pageNumber="2" pagination="85 - 94" refId="ref5301" refString="Kawashima, Y., Kurima, K., Pan, B., Griffith, A. J. &amp; Holt, J. R. 2015. Transmembrane channel-like (TMC) genes are required for auditory and vestibular mechanosensation. Pflugers Archiv, 467: 85 - 94." type="journal article" year="2015">
+Kawashima 
+<emphasis id="B975EAA4FFA4FFDAFD074EAEFD06BE9E" box="[711,762,395,419]" italics="true" pageId="1" pageNumber="2">et al.,</emphasis>
+2015
+</bibRefCitation>
+; 
+<bibRefCitation id="EF904B47FFA4FFDAFF734E8FFE75BEFF" author="Fettiplace, R." box="[179,393,426,450]" pageId="1" pageNumber="2" pagination="3 - 9" refId="ref4790" refString="Fettiplace, R. 2016. Is TMC 1 the hair cell mechanotransducer channel? Biophysical Journal, 111: 3 - 9." type="journal article" year="2016">
+Fettiplace 
+<emphasis id="B975EAA4FFA4FFDAFEDC4E8EFEACBEFF" box="[284,336,426,450]" italics="true" pageId="1" pageNumber="2">et al.,</emphasis>
+2016
+</bibRefCitation>
+; 
+<bibRefCitation id="EF904B47FFA4FFDAFE564E8FFDBFBEFF" author="Jeong, H. &amp; Clark, S. &amp; Goehring, A. &amp; Dehghani-Ghahnaviyeh, S. &amp; Rasouli, A. &amp; Tajkhorshid, E. &amp; Gouaux, E." box="[406,579,426,450]" pageId="1" pageNumber="2" pagination="796 - 803" refId="ref4962" refString="Jeong, H., Clark, S., Goehring, A., Dehghani-Ghahnaviyeh, S., Rasouli, A., Tajkhorshid, E. &amp; Gouaux, E. 2022. Structures of the TMC- 1 complex illuminate mechanosensory transduction. Nature, 610: 796 - 803." type="journal article" year="2022">
+Jeong 
+<emphasis id="B975EAA4FFA4FFDAFE164E8EFDF6BEFF" box="[470,522,426,450]" italics="true" pageId="1" pageNumber="2">et al.,</emphasis>
+2022
+</bibRefCitation>
+). It has been proposed that an MET complex is necessary for mechanosensitivity in hair cells; however, TMC has been reported to independently function for salt chemosensation in the nematode C 
+<emphasis id="B975EAA4FFA4FFDAFD454D2DFF7BBD02" italics="true" pageId="1" pageNumber="2">aenorhabditis</emphasis>
+<taxonomicName id="4C014D35FFA4FFDAFF4F4D02FDF9BD02" _authorityPlausibility="0.98663217" _evidence="document" _step="nonLabeled1" authority="(Chatzigeorgiou et al., 2013)" baseAuthorityName="Chatzigeorgiou" baseAuthorityYear="2013" box="[143,517,551,575]" class="Chromadorea" family="Rhabditidae" genus="Caenorhabditis" kingdom="Animalia" order="Rhabditida" pageId="1" pageNumber="2" phylum="Nematoda" rank="species" species="elegans">
+<emphasis id="B975EAA4FFA4FFDAFF4F4D02FF2FBD02" box="[143,211,551,575]" italics="true" pageId="1" pageNumber="2">elegans</emphasis>
+(
+<bibRefCitation id="EF904B47FFA4FFDAFF244D02FE05BD02" author="Chatzigeorgiou, M. &amp; Bang, S. &amp; Hwang, S. W. &amp; Schafer, W. R." box="[228,505,551,575]" pageId="1" pageNumber="2" pagination="95 - 99" refId="ref4278" refString="Chatzigeorgiou, M., Bang, S., Hwang, S. W. &amp; Schafer, W. R. 2013. tmc- 1 encodes a sodium-sensitive channel required for salt chemosensation in C. elegans. Nature, 494: 95 - 99." type="journal article" year="2013">
+Chatzigeorgiou 
+<emphasis id="B975EAA4FFA4FFDAFE494D0DFE42BD02" box="[393,446,551,575]" italics="true" pageId="1" pageNumber="2">et al.,</emphasis>
+2013
+</bibRefCitation>
+)
+</taxonomicName>
+. Expression of TMC in heterologous cells may retain such a function. TMC genes have been reported in many species such as 
+<taxonomicName id="4C014D35FFA4FFDAFDCF4D43FD8EBD43" _evidence="catalog+fontStyle" _step="styledSpecies" box="[527,626,614,638]" class="Chromadorea" family="Rhabditidae" genus="Caenorhabditis" kingdom="Animalia" order="Rhabditida" pageId="1" pageNumber="2" phylum="Nematoda" rank="species" species="elegans">
+<emphasis id="B975EAA4FFA4FFDAFDCF4D43FD8EBD43" box="[527,626,614,638]" italics="true" pageId="1" pageNumber="2">C. elegans</emphasis>
+</taxonomicName>
+as well as in mammals. In crustaceans, however, out of a few genome drafts not much information is yet available for the genetic and structural properties of the TMC genes and related proteins (
+<bibRefCitation id="EF904B47FFA4FFDAFD044DE1FF35BDC6" author="Xu, Z. &amp; Gao, T. &amp; Xu, Y. &amp; Li, X. &amp; Li, J. &amp; Lin, H. &amp; Yan, W. &amp; Pan, J. &amp; Tang, J." pageId="1" pageNumber="2" pagination="3274 - 3284" refId="ref6513" refString="Xu, Z., Gao, T., Xu, Y., Li, X., Li, J., Lin, H., Yan, W., Pan, J. &amp; Tang, J. 2021. A chromosome-level reference genome of red swamp crayfish Procambarus clarkii provides insights into the gene families regarding growth or development in crustaceans. Genomics, 113: 3274 - 3284." type="journal article" year="2021">
+Xu 
+<emphasis id="B975EAA4FFA4FFDAFD294DE0FF7FBDC6" italics="true" pageId="1" pageNumber="2">et al</emphasis>
+., 2021
+</bibRefCitation>
+). We present 
+<emphasis id="B975EAA4FFA4FFDAFE9B4DC6FE5ABDC6" box="[347,422,739,763]" italics="true" pageId="1" pageNumber="2">de novo</emphasis>
+cloning and structural study of a TMC-like gene and its related protein in the crayfish 
+<taxonomicName id="4C014D35FFA4FFDAFD474C26FE54BC07" _authorityPlausibility="0.99941236" _evidence="catalogs" _step="species1" authority="(Eschscholtz, 1823)" baseAuthorityName="Eschscholtz" baseAuthorityYear="1823" class="Malacostraca" family="Astacidae" genus="Astacus" kingdom="Animalia" order="Decapoda" pageId="1" pageNumber="2" phylum="Arthropoda" rank="species" species="leptodactylus">
+<emphasis id="B975EAA4FFA4FFDAFD474C26FF2FBC07" italics="true" pageId="1" pageNumber="2">Astacus leptodactylus</emphasis>
+(
+<bibRefCitation id="EF904B47FFA4FFDAFF244C07FE60BC07" author="Eschscholtz, F. F." box="[228,412,802,826]" pageId="1" pageNumber="2" pagination="109 - 110" refId="ref4714" refString="Eschscholtz, F. F. 1823. Descriptio novae Astacorum speciei Rossicae. Memoires de la Societe Imperiale des Naturalistes du Moscu, 6: 109 - 110." type="journal article" year="1823">Eschscholtz, 1823</bibRefCitation>
+)
+</taxonomicName>
+.
+</paragraph>
+</subSection>
+<subSection id="E28E2F5DFFA4FFDAFF334C5FFC6DBA91" _generate="added" pageId="1" pageNumber="2" type="materials_methods">
+<paragraph id="8BBE36B6FFA4FFDAFF334C5FFD84BCA9" blockId="1.[243,632,890,916]" box="[243,632,890,916]" pageId="1" pageNumber="2">
+<heading id="D0F681DAFFA4FFDAFF334C5FFD84BCA9" allCaps="true" box="[243,632,890,916]" centered="true" fontSize="11" level="1" pageId="1" pageNumber="2" reason="1">MATERIALS AND METHODS</heading>
+</paragraph>
+<paragraph id="8BBE36B6FFA4FFDAFFB14C83FDDCBA48" blockId="1.[113,763,934,1961]" pageId="1" pageNumber="2">
+TMC mRNA sequences from neighboring species were aligned to previously assembled transcriptome drafts (
+<bibRefCitation id="EF904B47FFA4FFDAFDB74CE0FF59BCC0" author="Ergin, B. &amp; Saglam, B. &amp; Taskiran, E. Z. &amp; Bastug, T. &amp; Purali, N." pageId="1" pageNumber="2" refId="ref4633" refString="Ergin, B., Saglam, B., Taskiran, E. Z., Bastug, T. &amp; Purali, N. 2022. De novo cloning and functional characterization of potassium channel genes and proteins in the crayfish Astacus leptodactylus (Eschscholtz, 1823) (Decapoda: Astacidea: Astacidae). Journal of Crustacean Biology, 42: [https: // doi. org / 10.1093 / jcbiol / ruac 018]." type="book" year="2022">
+Ergin 
+<emphasis id="B975EAA4FFA4FFDAFD7D4CE3FD13BCE0" box="[701,751,965,989]" italics="true" pageId="1" pageNumber="2">et al</emphasis>
+., 2022
+</bibRefCitation>
+). Primers were designed in reference to the transcript sequence with the highest alignment score (
+<bibRefCitation id="EF904B47FFA4FFDAFDEF4B21FF59BB06" author="Smith, T. F. &amp; Waterman, M. S." pageId="1" pageNumber="2" pagination="195 - 197" refId="ref6062" refString="Smith, T. F. &amp; Waterman, M. S. 1981. Identification of common molecular subsequences. Journal of Molecular Biology, 147: 195 - 197." type="journal article" year="1981">Smith &amp; Waterman, 1981</bibRefCitation>
+). PCR experiments were conducted to amplify a gene fragment and the obtained product was sequenced for confirmation. Two pairs of nesting primers were designed for a pair of rapid amplification of cDNA ends polymerase chain reaction (RACE) in both directions. We used a commercially available kit (SMARTer 5 
+<emphasis id="B975EAA4FFA4FFDAFEDB4B9BFEDEBBEA" box="[283,290,1214,1239]" italics="true" pageId="1" pageNumber="2">ʹ</emphasis>
+/3 
+<emphasis id="B975EAA4FFA4FFDAFEFB4B9BFEBEBBEA" box="[315,322,1214,1239]" italics="true" pageId="1" pageNumber="2">ʹ</emphasis>
+kit; Clontech, Mountain View, CA, 
+<collectingCountry id="F3167626FFA4FFDAFD7E4BE5FD0FBBE5" box="[702,755,1216,1240]" name="United States of America" pageId="1" pageNumber="2">USA</collectingCountry>
+) for the RACE experiments. PCR products were run on gel electrophoresis for evaluation and selected samples were purified by using a kit (QIAquick; Qiagen, Hilden, 
+<collectingCountry id="F3167626FFA4FFDAFDF14A3BFD6BBA0B" box="[561,663,1310,1334]" name="Germany" pageId="1" pageNumber="2">Germany</collectingCountry>
+). Purified products were sequenced either in a Sanger sequencing or NGS platform (Illumina, San Diego, CA, 
+<collectingCountry id="F3167626FFA4FFDAFE1D4A78FDE8BA48" box="[477,532,1373,1397]" name="United States of America" pageId="1" pageNumber="2">USA</collectingCountry>
+).
+</paragraph>
+<paragraph id="8BBE36B6FFA4FFDAFF4D4A59FB5BBCEB" blockId="1.[113,763,934,1961]" lastBlockId="1.[810,1459,144,1452]" pageId="1" pageNumber="2">
+An 
+<emphasis id="B975EAA4FFA4FFDAFF764A59FEF7BAA9" box="[182,267,1404,1428]" italics="true" pageId="1" pageNumber="2">mScarlet</emphasis>
+backbone was used in plasmid synthesis. The original plasmid, containing an SCN1A fragment, a gift from Dr. Al George (Northwestern University Feinberg School of Medicine, Chicago, IL, 
+<collectingCountry id="F3167626FFA4FFDAFEA74AFFFE60BACF" box="[359,412,1498,1522]" name="United States of America" pageId="1" pageNumber="2">USA</collectingCountry>
+) (see 
+<bibRefCitation id="EF904B47FFA4FFDAFE1D4AFFFD40BACF" author="DeKeyser, J. M. &amp; Thompson, C. H. &amp; George, A." box="[477,700,1498,1522]" pageId="1" pageNumber="2" pagination="100298" refId="ref4501" refString="DeKeyser, J. M., Thompson, C. H. &amp; George, A. L Jr. 2021 Cryptic prokaryotic promoters explain instability of recombinant neuronal sodium channels in bacteria. Journal of Biological Chemistry, 296: 100298 [https: // doi. org / 10.1016 / j. jbc. 2021.100298]." type="journal article" year="2021">
+DeKeyser 
+<emphasis id="B975EAA4FFA4FFDAFD8A4AFEFD88BACF" box="[586,628,1498,1522]" italics="true" pageId="1" pageNumber="2">et al</emphasis>
+., 2021
+</bibRefCitation>
+), was modified by substituting the SCN1A fragment by the cloned TMC mRNA. ‘F1_tmc_mScarlet’ and ‘R1_tmc_mScarlet’ primers having matching tails for the plasmid were designed for the 
+<emphasis id="B975EAA4FFA4FFDAFF05497DFEDDB952" box="[197,289,1624,1647]" italics="true" pageId="1" pageNumber="2">In-Fusion</emphasis>
+assembly reaction. We used NotI and PvuI enzymes to linearize the plasmid and ‘F1_tmc_mScarlet’ and ‘R1_tmc_mScarlet’ primers to amplify the cDNA product. Using 
+<emphasis id="B975EAA4FFA4FFDAFF794993FEE9B9F0" box="[185,277,1718,1741]" italics="true" pageId="1" pageNumber="2">In-Fusion</emphasis>
+HD Cloning Kit (Takara Bio, 
+<collectingRegion id="49C5F854FFA4FFDAFDAF4990FD55B9F0" box="[623,681,1717,1741]" country="Japan" name="Shiga" pageId="1" pageNumber="2">Shiga</collectingRegion>
+, 
+<collectingCountry id="F3167626FFA4FFDAFD784990FD0FB9F0" box="[696,755,1717,1741]" name="Japan" pageId="1" pageNumber="2">Japan</collectingCountry>
+) the ‘tmc_mScarlet’ plasmid was generated and cloned in 
+<emphasis id="B975EAA4FFA4FFDAFD0649F1FD06B9D1" box="[710,762,1748,1772]" italics="true" pageId="1" pageNumber="2">E.coli</emphasis>
+bacterial cultures. HEK293T cells were cultured in a 
+<quantity id="4CF99B53FFA4FFDAFD6D49D1FD06B836" box="[685,762,1780,1804]" metricMagnitude="-2" metricUnit="m" metricValue="3.5" pageId="1" pageNumber="2" unit="mm" value="35.0">35 mm</quantity>
+Petri dish with high glucose Gibco Dulbecco’s Modified Eagle Medium (Thermo-Fisher Scientific, Waltham, MA, 
+<collectingCountry id="F3167626FFA4FFDAFD484816FD41B876" box="[648,701,1843,1867]" name="United States of America" pageId="1" pageNumber="2">USA</collectingCountry>
+) with 5% fetal bovine serum and kept in an incubator at 37 °C, 5% CO 2. HEK293T cells were transfected with the plasmid using a kit (Lipofectamine 3000, Thermo-Fisher Scientific). Dishes containing cells with a red fluorescent emission were considered as the transfected group. We discarded the culture medium and cells were washed with phosphate buffer saline solution (PBS). The cell solution was replaced with 1 ml PBS (137 mM NaCl, 2.7 mM KCl, 10 mM Na2HPO4, and 1.8 mM KH2PO4). We loaded 1 ml of the calcium indicator dye solution (Fluo-4 AM 2.5 µM in PBS) into the cells by incubation at room temperature for 20 min for a final dye concentration of 1.25 µM. Dishes were positioned under a confocal laser scanning microscope and calcium specific emission signal was recorded in response to mechanical stimulation. Cells were mechanically stimulated by either gently poking with a blunt electrode, pulses of fluid jets, or an osmotic shock. Osmotic shock was induced by increasing NaCl concentration, up to 167 mM, by adding a known volume of concentrated NaCl solution to develop shrinkage. A calcium-specific emission signal from the entire view field was recorded at a continuous 128 × 128 pixel per frame scanning mode at ~4 Hz. Excitation wavelength was 
+<quantity id="4CF99B53FFA4FFDAFB294D80FAC5BD81" box="[1257,1337,677,701]" metricMagnitude="-7" metricUnit="m" metricValue="4.88" pageId="1" pageNumber="2" unit="nm" value="488.0">488 nm</quantity>
+and a longpass filter of 
+<quantity id="4CF99B53FFA4FFDAFC664DE1FC0FBDE6" box="[934,1011,708,732]" metricMagnitude="-7" metricUnit="m" metricValue="5.05" pageId="1" pageNumber="2" unit="nm" value="505.0">505 nm</quantity>
+was used for collecting the emission. During acquisition, the confocal pinhole was set to a fully open configuration to collect the maximum signal. Designated region of interests (ROIs) encircling either a single transfected or untransfected cell were selected for data extraction from the recorded images. Peak amplitude of the emission signals was measured for calculations and statistical tests. Recordings were baseline corrected and peak amplitudes were compared in MATLAB environment by using a two sample t-test.
+</paragraph>
+<paragraph id="8BBE36B6FFA4FFDAFC854CFBFC6DBA91" blockId="1.[810,1459,144,1452]" pageId="1" pageNumber="2">
+We calculated the structure of the cloned channel protein by using different approaches. Firstly, the protein sequence was submitted to I-TASSER platform for calculation of the three-dimensional structure (
+<bibRefCitation id="EF904B47FFA4FFDAFBC54B19FB29BB69" author="Yang, J. &amp; Zhang, Y." box="[1029,1237,1084,1108]" pageId="1" pageNumber="2" refId="ref6590" refString="Yang, J. &amp; Zhang, Y. 2015. Protein structure and function prediction using I-TASSER. Current Protocols in Bioinformatics, 52: 5.8.1 - 5.8.15." type="journal volume" year="2015">Yang &amp; Zhang, 2015</bibRefCitation>
+); I-TASSER platform used the mouse TMEM16A chloride-channel crystallographic structure as the template (
+<bibRefCitation id="EF904B47FFA4FFDAFBF14B5EFB33BBAF" author="Lam, A. K. M. &amp; Rutz, S. &amp; Dutzler, R." box="[1073,1231,1146,1170]" pageId="1" pageNumber="2" pagination="2798" refId="ref5656" refString="Lam, A. K. M., Rutz, S. &amp; Dutzler, R. 2022. Inhibitionmechanismofthechloride channel TMEM 16 A by the pore blocker 1 PBC. Nature Communications, 13: 2798 [https: // doi. org / 10.1038 / s 41467 - 022 - 30479 - 1]." type="journal article" year="2022">
+Lam 
+<emphasis id="B975EAA4FFA4FFDAFBA44B5EFB6ABBAF" box="[1124,1174,1146,1170]" italics="true" pageId="1" pageNumber="2">et al.,</emphasis>
+2022
+</bibRefCitation>
+). An alternative calculation, with some success, was performed in AlphaFold platform (
+<bibRefCitation id="EF904B47FFA4FFDAFCF84B9FFBFDBBEC" author="Jumper, J. &amp; Evans, R. &amp; Pritzel, A. &amp; Green, T. &amp; Figurnov, M. &amp; Ronneberger, O. &amp; Tunyasuvunakool, K. &amp; Bates, R. &amp; Zidek, A. &amp; Potapenko, A. &amp; Bridgland, A. &amp; Meyer, C. &amp; Kohl, S. A. A. &amp; Ballard, A. J. &amp; Cowie, A. &amp; Romera-Paredes, B. &amp; Nikolov, S. &amp; Jain, R. &amp; Adler, J. &amp; Back, T. &amp; Petersen, S. &amp; Reiman, D. &amp; Clancy, E. &amp; Zielinski, M. &amp; Steinegger, M. &amp; Pacholska, M. &amp; Berghammer, T. &amp; Bodenstein, S. &amp; Silver, D. &amp; Vinyals, O. &amp; Senior, A. W. &amp; Kavukcuoglu, K. &amp; Kohli, P. &amp; Hassabis, D." box="[824,1025,1209,1233]" pageId="1" pageNumber="2" pagination="583 - 589" refId="ref5016" refString="Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., Tunyasuvunakool, K., Bates, R., Zidek, A., Potapenko, A., Bridgland, A., Meyer, C., Kohl, S. A. A., Ballard, A. J., Cowie, A., Romera-Paredes, B., Nikolov, S., Jain, R., Adler, J., Back, T., Petersen, S., Reiman, D., Clancy, E., Zielinski, M., Steinegger, M., Pacholska, M., Berghammer, T., Bodenstein, S., Silver, D., Vinyals, O., Senior, A. W., Kavukcuoglu, K., Kohli, P. &amp; Hassabis, D. 2021. Highly accurate protein structure prediction with AlphaFold. Nature, 596: 583 - 589." type="journal article" year="2021">
+Jumper 
+<emphasis id="B975EAA4FFA4FFDAFC4D4B9FFC44BBEC" box="[909,952,1209,1233]" italics="true" pageId="1" pageNumber="2">et al</emphasis>
+., 2021
+</bibRefCitation>
+; 
+<bibRefCitation id="EF904B47FFA4FFDAFBD14B9CFB33BBEC" author="Varadi, M. &amp; Anyango, S. &amp; Deshpande, M. &amp; Nair, S. &amp; Natassia, C. &amp; Yordanova, G. &amp; Yuan, D. &amp; Stroe, O. &amp; Wood, G. &amp; Laydon, A. &amp; Zidek, A. &amp; Green, T. &amp; Tunyasuvunakool, K. &amp; Petersen, S. &amp; Jumper, J. &amp; Clancy, E. &amp; Green, R. &amp; Vora, A. &amp; Lutfi, M. &amp; Figurnov, M. &amp; Cowie, A. &amp; Hobbs, N. &amp; Kohli, P. &amp; Kleywegt, G. &amp; Birney, E. &amp; Hassabis, D. &amp; Velankar, S." box="[1041,1231,1209,1233]" pageId="1" pageNumber="2" pagination="444" refId="ref6222" refString="Varadi, M., Anyango, S., Deshpande, M., Nair, S., Natassia, C., Yordanova, G., Yuan, D., Stroe, O., Wood, G., Laydon, A., Zidek, A., Green, T., Tunyasuvunakool, K., Petersen, S., Jumper, J., Clancy, E., Green, R., Vora, A., Lutfi, M., Figurnov, M., Cowie, A., Hobbs, N., Kohli, P., Kleywegt, G., Birney, E., Hassabis, D. &amp; Velankar, S. 2022. AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models. Nucleic Acids Research, 50: D 439 - D 444." type="journal article" year="2022">
+Varadi 
+<emphasis id="B975EAA4FFA4FFDAFB9B4B9FFB7BBBEC" box="[1115,1159,1209,1233]" italics="true" pageId="1" pageNumber="2">et al</emphasis>
+., 2022
+</bibRefCitation>
+). The best result was obtained in SWISS-MODEL, which is another platform for the structural calculations (
+<bibRefCitation id="EF904B47FFA4FFDAFBE04BDDFAEFBA2D" author="Waterhouse, A. &amp; Bertoni, M. &amp; Bienert, S. &amp; Studer, G. &amp; Tauriello, G. &amp; Gumienny, R. &amp; Heer, F. T. &amp; de Beer, T. A. P. &amp; Rempfer, C. &amp; Bordoli, L. &amp; Lepore, R. &amp; Schwede, T." box="[1056,1299,1272,1296]" pageId="1" pageNumber="2" pagination="303" refId="ref6423" refString="Waterhouse, A., Bertoni, M., Bienert, S., Studer, G., Tauriello, G., Gumienny, R., Heer, F. T., de Beer, T. A. P., Rempfer, C., Bordoli, L., Lepore, R. &amp; Schwede, T. 2018. SWISS-MODEL: homology modelling of protein structures and complexes. Nucleic Acids Research, 46: W 296 - W 303." type="journal article" year="2018">
+Waterhouse 
+<emphasis id="B975EAA4FFA4FFDAFB624BDDFB2BBA2D" box="[1186,1239,1272,1296]" italics="true" pageId="1" pageNumber="2">et al.,</emphasis>
+2018
+</bibRefCitation>
+). The platform used the recently published 
+<taxonomicName id="4C014D35FFA4FFDAFB854A32FB59BA12" _evidence="catalog+fontStyle" _step="styledSpecies" box="[1093,1189,1303,1327]" class="Chromadorea" family="Rhabditidae" genus="Caenorhabditis" kingdom="Animalia" order="Rhabditida" pageId="1" pageNumber="2" phylum="Nematoda" rank="species" species="elegans">
+<emphasis id="B975EAA4FFA4FFDAFB854A32FB59BA12" box="[1093,1189,1303,1327]" italics="true" pageId="1" pageNumber="2">C. elegans</emphasis>
+</taxonomicName>
+tmc-1 single particle cryoelectron microscopy data as the template for calculations (
+<bibRefCitation id="EF904B47FFA4FFDAFAB94A12FC69BA53" author="Jeong, H. &amp; Clark, S. &amp; Goehring, A. &amp; Dehghani-Ghahnaviyeh, S. &amp; Rasouli, A. &amp; Tajkhorshid, E. &amp; Gouaux, E." pageId="1" pageNumber="2" pagination="796 - 803" refId="ref4962" refString="Jeong, H., Clark, S., Goehring, A., Dehghani-Ghahnaviyeh, S., Rasouli, A., Tajkhorshid, E. &amp; Gouaux, E. 2022. Structures of the TMC- 1 complex illuminate mechanosensory transduction. Nature, 610: 796 - 803." type="journal article" year="2022">
+Jeong 
+<emphasis id="B975EAA4FFA4FFDAFCEA4A73FCA0BA53" box="[810,860,1366,1390]" italics="true" pageId="1" pageNumber="2">et al.,</emphasis>
+2022
+</bibRefCitation>
+). Figures of the structural calculations were produced in Visual Molecular Dynamics (VMD) platform (
+<bibRefCitation id="EF904B47FFA4FFDAFAEB4A50FC7CBA91" author="Humphrey, W. &amp; Dalke, A. &amp; Schulten, K." pageId="1" pageNumber="2" pagination="33 - 38" refId="ref4931" refString="Humphrey, W., Dalke, A. &amp; Schulten, K. 1996. VMD-visual molecular dynamics. Journal of Molecular Graphics, 14: 33 - 38." type="journal article" year="1996">
+Humphrey 
+<emphasis id="B975EAA4FFA4FFDAFA624A53FCBFBA91" italics="true" pageId="1" pageNumber="2">et al.</emphasis>
+, 1996
+</bibRefCitation>
+).
+</paragraph>
+</subSection>
+<subSection id="E28E2F5DFFA4FFDFFBF14AC8FE99B9B0" _generate="added" lastPageId="4" lastPageNumber="5" pageId="1" pageNumber="2" type="results">
+<paragraph id="8BBE36B6FFA4FFDAFBF14AC8FB50B93A" blockId="1.[1073,1196,1517,1543]" box="[1073,1196,1517,1543]" pageId="1" pageNumber="2">
+<heading id="D0F681DAFFA4FFDAFBF14AC8FB50B93A" allCaps="true" box="[1073,1196,1517,1543]" centered="true" fontSize="11" level="1" pageId="1" pageNumber="2" reason="1">RESULTS</heading>
+</paragraph>
+<paragraph id="8BBE36B6FFA4FFDAFCEA493CFB57B9D0" blockId="1.[810,1459,1561,1961]" pageId="1" pageNumber="2">
+Primers were designed in reference to the previously prepared ganglionic transcriptome draft. Different combinations of the primers resulted in various sizes of gene fragments in PCR experiments. ‘F1_tmc1’ and ‘R1_tmc1’ primers gave products with an approximately 350 base-pairs in size (
+<figureCitation id="133A2A33FFA4FFDAFB6D49B3FB0BB993" box="[1197,1271,1686,1710]" captionStart="Figure 1" captionStartId="2.[129,194,1423,1447]" captionTargetBox="[149,757,575,1395]" captionTargetId="figure-545@2.[149,757,575,1395]" captionTargetPageId="2" captionText="Figure 1. Gel photograph of the gene fragment amplified in a PCR by using F1_tmc1 and R1_tmc1 primers in ganglia cDNA template of Astacus leptodactylus (A). Gel photograph of the ORF of the cloned mRNA amplified in a PCR by using F1_tmc_mScarlet, R1_tmc_mScarlet primers in ganglia cDNA template (B). Ladders are 100 bp (A) and 1 kbp (B)." figureDoi="http://doi.org/10.5281/zenodo.10798484" httpUri="https://zenodo.org/record/10798484/files/figure.png" pageId="1" pageNumber="2">Fig. 1A</figureCitation>
+). Combination of ‘F2_tmc1’ and ‘R1_tmc1’ primers produced a PCR product in size of ~1,000 base pairs (not shown).
+</paragraph>
+<paragraph id="8BBE36B6FFA4FFD9FC8549D1FE23BE9E" blockId="1.[810,1459,1561,1961]" lastBlockId="2.[129,778,144,513]" lastPageId="2" lastPageNumber="3" pageId="1" pageNumber="2">
+The gene fragments were Sanger sequenced. Analysis of the sequence of the translated gene fragments revealed a sequence similar to that of the conserved domain of ‘transmembrane channel like protein’ (
+<bibRefCitation id="EF904B47FFA4FFDAFBDC4877FAFEB857" author="Keresztes, G. &amp; Mutai, H. &amp; Heller, S." box="[1052,1282,1874,1898]" pageId="1" pageNumber="2" pagination="24" refId="ref5417" refString="Keresztes, G., Mutai, H. &amp; Heller, S. 2003. TMC and EVER genes belong to a larger novel family, the TMC gene family encoding transmembrane proteins. BMC Genomics, 4: 24 [https: // doi. org / 10.1186 / 1471 - 2164 - 4 - 24]." type="journal article" year="2003">
+Keresztes 
+<emphasis id="B975EAA4FFA4FFDAFB494876FB3EB857" box="[1161,1218,1874,1898]" italics="true" pageId="1" pageNumber="2">et al.,</emphasis>
+2003
+</bibRefCitation>
+). The identified sequence was used to design new primers to explore the missing parts of the mRNA. ‘F3_tmc1’ and ‘R1_tmc1’ resulted in ~1.6 kbp-long PCR product. This product was sequenced in an NGS platform (Illumina, San Diego, CA, 
+<collectingCountry id="F3167626FFA7FFD9FD8C4F8AFD7FBFFA" box="[588,643,175,199]" name="United States of America" pageId="2" pageNumber="3">USA</collectingCountry>
+). Short reads were 
+<emphasis id="B975EAA4FFA7FFD9FF774FEAFEFDBFDB" box="[183,257,207,231]" italics="true" pageId="2" pageNumber="3">de novo</emphasis>
+assembled into a set of contigs in DNASTAR platform (SeqMan NGen®, Version 17.2; DNASTAR, Madison, WI, 
+<collectingCountry id="F3167626FFA7FFD9FF414E28FF44BE18" box="[129,184,269,293]" name="United States of America" pageId="2" pageNumber="3">USA</collectingCountry>
+). The calculated contigs were assembled to the identified gene fragment. The newly assembled sequence (1.6 kbp in size) was used to design the primers ‘tmc_3F’ and ‘tmc_5R’ for the subsequent rapid amplification of cDNA ends, polymerase chain reactions (RACE-PCR) (
+<tableCitation id="C683030DFFA7FFD9FE444EAEFE33BE9E" box="[388,463,395,419]" captionStart="Table 1" captionStartId="2.[129,184,1658,1682]" captionText="Table 1. Primer sequences (5ʹ–3ʹ) used for PCR, RACE-PCR and In-Fusion assembly reactions" pageId="2" pageNumber="3">Table 1</tableCitation>
+).
+</paragraph>
+<paragraph id="8BBE36B6FFA7FFD9FF5C4E8FFBDEBFDA" blockId="2.[129,778,144,513]" lastBlockId="2.[825,1475,144,1578]" pageId="2" pageNumber="3">
+The RACE-PCR experiments resulted in ~700 and ~1,500 base pairs of fragments in size for the 5 
+<emphasis id="B975EAA4FFA7FFD9FDE64EEDFDD1BEDC" box="[550,557,456,481]" italics="true" pageId="2" pageNumber="3">ʹ</emphasis>
+and 3 
+<emphasis id="B975EAA4FFA7FFD9FDB24EEDFD85BEDC" box="[626,633,456,481]" italics="true" pageId="2" pageNumber="3">ʹ</emphasis>
+ends, respectively. Sequencing of these fragments revealed the complete TMC mRNA including the open reading frame (ORF) and the untranslated regions in both ends (GenBank accession number: ON604003) (
+<figureCitation id="133A2A33FFA7FFD9FC0B4FEBFBEDBFDA" box="[971,1041,206,231]" captionStart="Figure 1" captionStartId="2.[129,194,1423,1447]" captionTargetBox="[149,757,575,1395]" captionTargetId="figure-545@2.[149,757,575,1395]" captionTargetPageId="2" captionText="Figure 1. Gel photograph of the gene fragment amplified in a PCR by using F1_tmc1 and R1_tmc1 primers in ganglia cDNA template of Astacus leptodactylus (A). Gel photograph of the ORF of the cloned mRNA amplified in a PCR by using F1_tmc_mScarlet, R1_tmc_mScarlet primers in ganglia cDNA template (B). Ladders are 100 bp (A) and 1 kbp (B)." figureDoi="http://doi.org/10.5281/zenodo.10798484" httpUri="https://zenodo.org/record/10798484/files/figure.png" pageId="2" pageNumber="3">Fig. 1B</figureCitation>
+).
+</paragraph>
+<paragraph id="8BBE36B6FFA7FFD9FC954FCBFC67BD62" blockId="2.[825,1475,144,1578]" pageId="2" pageNumber="3">
+The ORF was translated into a protein sequence of 832 amino acids (GenBank accession number WCO13212). The identified amino acid sequence was compared to a collection of 29 sequences available in several other species. MATLAB environment was used to generate a phylogenetic tree with the Jukes-Cantor distance calculation method. A distinction between TMC1, TMC2, and TMC7 channels was apparent in a graph (
+<figureCitation id="133A2A33FFA7FFD9FC574EECFC1EBEDC" box="[919,994,457,481]" captionStart="Figure 2" captionStartId="3.[113,178,1898,1922]" captionTargetBox="[150,1421,432,1867]" captionTargetId="figure-146@3.[146,1426,425,1872]" captionTargetPageId="3" captionText="Figure 2. Phylogenetic tree for a collection of 30 TMC and TMC-like proteins from different species (A). Local alignment scores of continuous set of kernels of the protein sequence of the cloned mRNA, with a size of 20 amino acids, to human tmc-1 (blue) and human tmc-7 (red) protein sequences (B). Black lines are the transmembrane segments in the 3D structure." figureDoi="http://doi.org/10.5281/zenodo.10798486" httpUri="https://zenodo.org/record/10798486/files/figure.png" pageId="2" pageNumber="3">Fig. 2A</figureCitation>
+). The calculations show a similarity to TMC7 group of channels for the cloned protein. The protein sequence was aligned against the human TMC proteins and an apparent similarity was observed. especially to human TMC7 protein. (
+<figureCitation id="133A2A33FFA7FFD9FC844D63FC76BD62" box="[836,906,582,607]" captionStart="Figure 2" captionStartId="3.[113,178,1898,1922]" captionTargetBox="[150,1421,432,1867]" captionTargetId="figure-146@3.[146,1426,425,1872]" captionTargetPageId="3" captionText="Figure 2. Phylogenetic tree for a collection of 30 TMC and TMC-like proteins from different species (A). Local alignment scores of continuous set of kernels of the protein sequence of the cloned mRNA, with a size of 20 amino acids, to human tmc-1 (blue) and human tmc-7 (red) protein sequences (B). Black lines are the transmembrane segments in the 3D structure." figureDoi="http://doi.org/10.5281/zenodo.10798486" httpUri="https://zenodo.org/record/10798486/files/figure.png" pageId="2" pageNumber="3">Fig. 2B</figureCitation>
+).
+</paragraph>
+<paragraph id="8BBE36B6FFA7FFD9FC954D43FAC2BC27" blockId="2.[825,1475,144,1578]" pageId="2" pageNumber="3">In order to compare the expression level of ganglia and muscle tissues we used available hundreds of millions of short reads of cDNA libraries. Equalized number of short reads were Bowtie mapped to TMC mRNA sequence in DNASTAR platform. Short read hits were compered. Calculations indicated a fourfold larger mRNA expression in the ganglia tissues.</paragraph>
+<paragraph id="8BBE36B6FFA7FFD9FC954C07FBE9BA91" blockId="2.[825,1475,144,1578]" pageId="2" pageNumber="3">
+The three-dimensional structure of the cloned channel protein was calculated by using various open access web based facilities. Results obtained in I-TASSER and AlphaFold were rather limited due to the size restrictions of the platforms, but we obtained a successful calculation of the complete structure in the SWISS-MODEL platform. The quaternary structure quality estimation (QSQE), sequence similarity, and coverage scores of the calculation were 0.33, 0.33, and 0.73, respectively (
+<figureCitation id="133A2A33FFA7FFD9FC094B39FBF8BB09" box="[969,1028,1052,1076]" captionStart="Figure 3" captionStartId="4.[128,193,1028,1052]" captionTargetBox="[354,1249,145,1000]" captionTargetId="figure-519@4.[353,1249,144,1001]" captionTargetPageId="4" captionText="Figure 3. Calculated three-dimensional structure of the cloned TMC protein of Astacus leptodactylus. Side (A), top (B),and bottom (C) views. Images of the monomer are in ‘ResID’ mode.Dimerised C. elegans tmc-1 protein (in ‘Cartoon/Chain’ mode) as cloned protein superimposed onto one of its monomers in ‘NewRibbons’ mode (green) (D)." figureDoi="http://doi.org/10.5281/zenodo.10798488" httpUri="https://zenodo.org/record/10798488/files/figure.png" pageId="2" pageNumber="3">Fig. 3</figureCitation>
+). The calculated three dimensional structure of the cloned protein is very similar to that of 
+<taxonomicName id="4C014D35FFA7FFD9FA8B4B19FC4FBB4E" _evidence="catalogs" _step="species1" class="Chromadorea" family="Rhabditidae" genus="Caenorhabditis" kingdom="Animalia" order="Rhabditida" pageId="2" pageNumber="3" phylum="Nematoda" rank="species" species="elegans">
+<emphasis id="B975EAA4FFA7FFD9FA8B4B19FC4FBB4E" italics="true" pageId="2" pageNumber="3">Caenorhabditis elegans</emphasis>
+</taxonomicName>
+tmc-1 protein NP_508221.3), but the 
+<taxonomicName id="4C014D35FFA7FFD9FA9C4B7EFA3EBB4E" _evidence="catalog+fontStyle" _step="styledSpecies" box="[1372,1474,1115,1139]" class="Chromadorea" family="Rhabditidae" genus="Caenorhabditis" kingdom="Animalia" order="Rhabditida" pageId="2" pageNumber="3" phylum="Nematoda" rank="species" species="elegans">
+<emphasis id="B975EAA4FFA7FFD9FA9C4B7EFA3EBB4E" box="[1372,1474,1115,1139]" italics="true" pageId="2" pageNumber="3">C. elegans</emphasis>
+</taxonomicName>
+tmc-1 protein is much larger in size compared to the other TMC sequences including the cloned protein in 
+<taxonomicName id="4C014D35FFA7FFD9FA884BBFFC63BBEC" _evidence="catalogs" _step="species1" baseAuthorityName="Eschscholtz" baseAuthorityYear="1823" class="Malacostraca" family="Astacidae" genus="Astacus" kingdom="Animalia" order="Decapoda" pageId="2" pageNumber="3" phylum="Arthropoda" rank="species" species="leptodactylus">
+<emphasis id="B975EAA4FFA7FFD9FA884BBFFC63BBEC" italics="true" pageId="2" pageNumber="3">Astacus leptodactylus</emphasis>
+</taxonomicName>
+. As shown in 
+<figureCitation id="133A2A33FFA7FFD9FBF14B9CFB81BBEC" box="[1073,1149,1209,1233]" captionStart="Figure 3" captionStartId="4.[128,193,1028,1052]" captionTargetBox="[354,1249,145,1000]" captionTargetId="figure-519@4.[353,1249,144,1001]" captionTargetPageId="4" captionText="Figure 3. Calculated three-dimensional structure of the cloned TMC protein of Astacus leptodactylus. Side (A), top (B),and bottom (C) views. Images of the monomer are in ‘ResID’ mode.Dimerised C. elegans tmc-1 protein (in ‘Cartoon/Chain’ mode) as cloned protein superimposed onto one of its monomers in ‘NewRibbons’ mode (green) (D)." figureDoi="http://doi.org/10.5281/zenodo.10798488" httpUri="https://zenodo.org/record/10798488/files/figure.png" pageId="2" pageNumber="3">Fig. 3D</figureCitation>
+, the calculated structure of the cloned sequence aligned well to the 
+<taxonomicName id="4C014D35FFA7FFD9FB014BFCFADBBBCD" _evidence="catalog+fontStyle" _step="styledSpecies" box="[1217,1319,1240,1264]" class="Chromadorea" family="Rhabditidae" genus="Caenorhabditis" kingdom="Animalia" order="Rhabditida" pageId="2" pageNumber="3" phylum="Nematoda" rank="species" species="elegans">
+<emphasis id="B975EAA4FFA7FFD9FB014BFCFADBBBCD" box="[1217,1319,1240,1264]" italics="true" pageId="2" pageNumber="3">C. elegans</emphasis>
+</taxonomicName>
+tmc-1 protein structure. The SWISS-Model homology calculation had ten transmembrane domains as in the 
+<taxonomicName id="4C014D35FFA7FFD9FB764A32FAE2BA12" _evidence="catalog+fontStyle" _step="styledSpecies" box="[1206,1310,1303,1327]" class="Chromadorea" family="Rhabditidae" genus="Caenorhabditis" kingdom="Animalia" order="Rhabditida" pageId="2" pageNumber="3" phylum="Nematoda" rank="species" species="elegans">
+<emphasis id="B975EAA4FFA7FFD9FB764A32FAE2BA12" box="[1206,1310,1303,1327]" italics="true" pageId="2" pageNumber="3">C. elegans</emphasis>
+</taxonomicName>
+tmc-1 protein. The calculated pore forming transmembrane segments of the 
+<taxonomicName id="4C014D35FFA7FFD9FCF94A73FC63BA50" _evidence="catalog+fontStyle" _step="styledSpecies" box="[825,927,1365,1389]" class="Chromadorea" family="Rhabditidae" genus="Caenorhabditis" kingdom="Animalia" order="Rhabditida" pageId="2" pageNumber="3" phylum="Nematoda" rank="species" species="elegans">
+<emphasis id="B975EAA4FFA7FFD9FCF94A73FC63BA50" box="[825,927,1365,1389]" italics="true" pageId="2" pageNumber="3">C. elegans</emphasis>
+</taxonomicName>
+tmc-1 protein, TM4, and TM8, aligned to the segments between 220–247 and 648–670 residues of the cloned protein, respectively.
+</paragraph>
+<caption id="DF7E663EFFA7FFD9FF414AAAFE66B90E" ID-DOI="http://doi.org/10.5281/zenodo.10798484" ID-Zenodo-Dep="10798484" httpUri="https://zenodo.org/record/10798484/files/figure.png" pageId="2" pageNumber="3" startId="2.[129,194,1423,1447]" targetBox="[149,757,575,1395]" targetPageId="2" targetType="figure">
+<paragraph id="8BBE36B6FFA7FFD9FF414AAAFE66B90E" blockId="2.[129,763,1423,1587]" pageId="2" pageNumber="3">
+<emphasis id="B975EAA4FFA7FFD9FF414AAAFF24BA9A" bold="true" box="[129,216,1423,1447]" pageId="2" pageNumber="3">Figure 1.</emphasis>
+Gel photograph of the gene fragment amplified in a PCR by using F1_tmc1 and R1_tmc1 primers in ganglia cDNA template of 
+<taxonomicName id="4C014D35FFA7FFD9FF584AEDFEABBAE2" _evidence="catalogs" _step="species1" baseAuthorityName="Eschscholtz" baseAuthorityYear="1823" box="[152,343,1479,1503]" class="Malacostraca" family="Astacidae" genus="Astacus" kingdom="Animalia" order="Decapoda" pageId="2" pageNumber="3" phylum="Arthropoda" rank="species" species="leptodactylus">
+<emphasis id="B975EAA4FFA7FFD9FF584AEDFEABBAE2" box="[152,343,1479,1503]" italics="true" pageId="2" pageNumber="3">Astacus leptodactylus</emphasis>
+</taxonomicName>
+(
+<emphasis id="B975EAA4FFA7FFD9FEA74AE2FE8BBAE2" bold="true" box="[359,375,1479,1503]" pageId="2" pageNumber="3">A</emphasis>
+). Gel photograph of the ORF of the cloned mRNA amplified in a PCR by using F1_tmc_mScarlet, R1_tmc_mScarlet primers in ganglia cDNA template (
+<emphasis id="B975EAA4FFA7FFD9FD474ADAFD6BB92A" bold="true" box="[647,663,1535,1559]" pageId="2" pageNumber="3">B</emphasis>
+). Ladders are 100 bp (A) and 1 kbp (B).
+</paragraph>
+</caption>
+<paragraph id="8BBE36B6FFA7FFD9FC954A96FA3EB914" blockId="2.[825,1475,144,1578]" pageId="2" pageNumber="3">Cultured HEK293T cells were transfected with ‘tmc_mScarlet’ plasmid using Lipofectamine 3000 Transfection Reagent (Thermo-Fisher Scientific) and observed under a confocal microscope after 48 h. The transfected cells emitted a red</paragraph>
+<caption id="DF7E663EFFA7FFD9FF41495FFBFAB9AF" box="[129,1030,1657,1682]" pageId="2" pageNumber="3" startId="2.[129,184,1658,1682]" targetType="table">
+<paragraph id="8BBE36B6FFA7FFD9FF41495FFBFAB9AF" blockId="2.[129,1030,1657,1682]" box="[129,1030,1657,1682]" pageId="2" pageNumber="3">
+<emphasis id="B975EAA4FFA7FFD9FF41495FFF33B9AC" bold="true" box="[129,207,1657,1682]" pageId="2" pageNumber="3">Table 1.</emphasis>
+Primer sequences (5 
+<emphasis id="B975EAA4FFA7FFD9FE55495FFE60B9AF" box="[405,412,1658,1682]" italics="true" pageId="2" pageNumber="3">ʹ</emphasis>
+–3 
+<emphasis id="B975EAA4FFA7FFD9FE74495FFE47B9AF" box="[436,443,1658,1682]" italics="true" pageId="2" pageNumber="3">ʹ</emphasis>
+) used for PCR, RACE-PCR and In-Fusion assembly reactions
+</paragraph>
+</caption>
+<paragraph id="8BBE36B6FFA7FFD9FF41498BFDB5B9FF" blockId="2.[129,888,1710,1961]" box="[129,585,1710,1730]" pageId="2" pageNumber="3">F1_tmc1 GTCGTCCTCCTCTTCTCCATCTATC</paragraph>
+<paragraph id="8BBE36B6FFA7FFD9FF4149EAFDABB9DE" blockId="2.[129,888,1710,1961]" box="[129,599,1743,1763]" pageId="2" pageNumber="3">F2_tmc1 TCCAAGACATACACTTACCCTGGTTC</paragraph>
+<paragraph id="8BBE36B6FFA7FFD9FF4149D5FDABB839" blockId="2.[129,888,1710,1961]" box="[129,599,1776,1796]" pageId="2" pageNumber="3">R1_tmc1 AGTCACTGCTGGAAGTATTGGAGAG</paragraph>
+<paragraph id="8BBE36B6FFA7FFD9FF414834FDADB818" blockId="2.[129,888,1710,1961]" box="[129,593,1809,1829]" pageId="2" pageNumber="3">F3_tmc1 CAGCAGAAGAGGGTCAGACACATAC</paragraph>
+<paragraph id="8BBE36B6FFA7FFD9FF414817FD8DB87B" blockId="2.[129,888,1710,1961]" box="[129,625,1842,1862]" pageId="2" pageNumber="3">tmc_3F ATCAGCCAGTGTTCACCTCCAGAGCCTG</paragraph>
+<paragraph id="8BBE36B6FFA7FFD9FF414876FD85B85A" blockId="2.[129,888,1710,1961]" box="[129,633,1875,1895]" pageId="2" pageNumber="3">tmc_5R TTGACAACTTGAAGGCTGCCAGACCACG</paragraph>
+<paragraph id="8BBE36B6FFA7FFD9FF414851FCA4B8B5" blockId="2.[129,888,1710,1961]" box="[129,856,1908,1928]" pageId="2" pageNumber="3">F1_tmc_mScarlet ACCGCGGTGGCGGCCAAGACGAGAGGAAGGAAATGG</paragraph>
+<paragraph id="8BBE36B6FFA7FFD9FF4148B0FC84B894" blockId="2.[129,888,1710,1961]" box="[129,888,1941,1961]" pageId="2" pageNumber="3">R1_tmc_mScarlet TGACTCCTGCAGGCGAAGTAGAAACAGCATTCACGTCTG</paragraph>
+<paragraph id="8BBE36B6FFA6FFD8FFAC4FB5FD5ABFDA" blockId="3.[108,762,144,356]" pageId="3" pageNumber="4">
+fluorescence (
+<figureCitation id="133A2A33FFA6FFD8FEC94FB5FEA6BF95" box="[265,346,144,168]" captionStart="Figure 4" captionStartId="5.[113,178,1125,1149]" captionTargetBox="[306,1266,144,1097]" captionTargetId="figure-397@5.[306,1266,144,1097]" captionTargetPageId="5" captionText="Figure 4. Fluorescent photo-micrograph of transfected HEK293T cells (A). Fluo-4 loaded image of the same cells (B) and transmitted-light image of the sample (C); superimposed image of those in A, B, and C (D)." figureDoi="http://doi.org/10.5281/zenodo.10798490" httpUri="https://zenodo.org/record/10798490/files/figure.png" pageId="3" pageNumber="4">Fig. 4A</figureCitation>
+). The HEK293T tmc_mScarlet-transfected cells were loaded with Fluo-4 AM cell permeant calcium indicator for mechanosensitivity experiments (
+<figureCitation id="133A2A33FFA6FFD8FD8F4FEAFD69BFDA" box="[591,661,207,231]" captionStart="Figure 4" captionStartId="5.[113,178,1125,1149]" captionTargetBox="[306,1266,144,1097]" captionTargetId="figure-397@5.[306,1266,144,1097]" captionTargetPageId="5" captionText="Figure 4. Fluorescent photo-micrograph of transfected HEK293T cells (A). Fluo-4 loaded image of the same cells (B) and transmitted-light image of the sample (C); superimposed image of those in A, B, and C (D)." figureDoi="http://doi.org/10.5281/zenodo.10798490" httpUri="https://zenodo.org/record/10798490/files/figure.png" pageId="3" pageNumber="4">Fig. 4B</figureCitation>
+).
+</paragraph>
+<paragraph id="8BBE36B6FFA6FFDFFF4D4FCBFE99B9B0" blockId="3.[108,762,144,356]" lastBlockId="4.[129,777,1183,1677]" lastPageId="4" lastPageNumber="5" pageId="3" pageNumber="4">
+The Fluo-4 AM-loaded HEK293T cells were poked with a blunt microelectrode to test if the cloned channel is sensitive to mechanical stimulus. A rise in calcium-specific emission signal in response to mechanical stimulation was considered as an indicator of a calcium influx through the mechanosensitive channels. The experiments were conducted on both transfected and control cells and results were compared. As shown in 
+<figureCitation id="133A2A33FFA6FFD8FC894FCBFC48BE3B" box="[841,948,238,262]" captionStart="Figure 5" captionStartId="6.[129,194,1775,1799]" captionTargetBox="[267,1335,144,1747]" captionTargetId="figure-64@6.[267,1335,144,1747]" captionTargetPageId="6" captionText="Figure 5. Calcium-specific emission signals under various stimulation conditions.Emission signals to mechanical poke (A), to fluid jets (B), and to 167 mM extracellular sodium exposure (C). Solid lines represent transfected cells, dotted lines control cells." figureDoi="http://doi.org/10.5281/zenodo.10798492" httpUri="https://zenodo.org/record/10798492/files/figure.png" pageId="3" pageNumber="4">Figure 5A</figureCitation>
+, the results were inconclusive as they failed to show any statistically significant difference between the transfected and control cells in these sample sizes. Peak amplitudes of the recorded calcium signals were statistically similar in both groups (control group 31.81 ± 12.86, mean ± SD, 
+<emphasis id="B975EAA4FFA1FFDFFD464B85FD65BB8A" box="[646,665,1184,1207]" italics="true" pageId="4" pageNumber="5">N</emphasis>
+= 5, transfected cells 21.36 ± 16.59, mean ± SD, 
+<emphasis id="B975EAA4FFA1FFDFFDD34B9AFDDABBEB" box="[531,550,1215,1238]" italics="true" pageId="4" pageNumber="5">N</emphasis>
+= 5, 
+<emphasis id="B975EAA4FFA1FFDFFD9A4B9AFD94BBEB" box="[602,616,1215,1238]" italics="true" pageId="4" pageNumber="5">P</emphasis>
+= 0.29). Transfected cells were mechanically stimulated by application of fluid jets from a micro-pipette that were produced by using a pneumatic injector. The maximum amplitudes of the evoked calcium response to fluid jets were similar when the results from test and control cells were compared (control group 6.57 ± 4.10, mean ± SD, 
+<emphasis id="B975EAA4FFA1FFDFFEC04A5EFEEFBAAF" box="[256,275,1403,1426]" italics="true" pageId="4" pageNumber="5">N</emphasis>
+= 6, transfected cells 11.99 ± 12.08, mean ± SD, 
+<emphasis id="B975EAA4FFA1FFDFFF414ABEFF68BA8F" box="[129,148,1435,1458]" italics="true" pageId="4" pageNumber="5">N</emphasis>
+= 6, 
+<emphasis id="B975EAA4FFA1FFDFFF094ABEFF2BBA8F" box="[201,215,1435,1458]" italics="true" pageId="4" pageNumber="5">P</emphasis>
+= 0.32) (
+<figureCitation id="133A2A33FFA1FFDFFEFE4ABFFE7ABA8F" box="[318,390,1434,1458]" captionStart="Figure 5" captionStartId="6.[129,194,1775,1799]" captionTargetBox="[267,1335,144,1747]" captionTargetId="figure-64@6.[267,1335,144,1747]" captionTargetPageId="6" captionText="Figure 5. Calcium-specific emission signals under various stimulation conditions.Emission signals to mechanical poke (A), to fluid jets (B), and to 167 mM extracellular sodium exposure (C). Solid lines represent transfected cells, dotted lines control cells." figureDoi="http://doi.org/10.5281/zenodo.10798492" httpUri="https://zenodo.org/record/10798492/files/figure.png" pageId="4" pageNumber="5">Fig. 5B</figureCitation>
+). The possible effects of extracellular sodium concentration were investigated in another experimental group. The bath solution was substituted with a solution containing 167 mM sodium while the calcium sensitive emission was acquired continuously. The amplitudes of the change in the signal were similar in both groups (control group 1.07 ± 1.07, mean ± SD, 
+<emphasis id="B975EAA4FFA1FFDFFF3C4972FEF3B953" box="[252,271,1623,1646]" italics="true" pageId="4" pageNumber="5">N</emphasis>
+= 4, transfected cells 3.76 ± 2.85, mean ± SD, 
+<emphasis id="B975EAA4FFA1FFDFFD224972FD09B953" box="[738,757,1623,1646]" italics="true" pageId="4" pageNumber="5">N</emphasis>
+= 4, 
+<emphasis id="B975EAA4FFA1FFDFFF594953FF5BB9B0" box="[153,167,1654,1677]" italics="true" pageId="4" pageNumber="5">P</emphasis>
+= 0.12) (
+<figureCitation id="133A2A33FFA1FFDFFECA4950FEA9B9B0" box="[266,341,1653,1677]" captionStart="Figure 5" captionStartId="6.[129,194,1775,1799]" captionTargetBox="[267,1335,144,1747]" captionTargetId="figure-64@6.[267,1335,144,1747]" captionTargetPageId="6" captionText="Figure 5. Calcium-specific emission signals under various stimulation conditions.Emission signals to mechanical poke (A), to fluid jets (B), and to 167 mM extracellular sodium exposure (C). Solid lines represent transfected cells, dotted lines control cells." figureDoi="http://doi.org/10.5281/zenodo.10798492" httpUri="https://zenodo.org/record/10798492/files/figure.png" pageId="4" pageNumber="5">Fig. 5C</figureCitation>
+).
+</paragraph>
+</subSection>
+<caption id="DF7E663EFFA6FFD8FFB1484FFC19B887" ID-DOI="http://doi.org/10.5281/zenodo.10798486" ID-Zenodo-Dep="10798486" httpUri="https://zenodo.org/record/10798486/files/figure.png" pageId="3" pageNumber="4" startId="3.[113,178,1898,1922]" targetBox="[150,1421,432,1867]" targetPageId="3" targetType="figure">
+<paragraph id="8BBE36B6FFA6FFD8FFB1484FFC19B887" blockId="3.[113,1457,1898,1979]" pageId="3" pageNumber="4">
+<emphasis id="B975EAA4FFA6FFD8FFB1484FFF35B8BE" bold="true" box="[113,201,1898,1923]" pageId="3" pageNumber="4">Figure 2.</emphasis>
+Phylogenetic tree for a collection of 30 TMC and TMC-like proteins from different species (
+<emphasis id="B975EAA4FFA6FFD8FBF5484FFBB9B8BF" bold="true" box="[1077,1093,1898,1922]" pageId="3" pageNumber="4">A</emphasis>
+). Local alignment scores of continuous set of kernels of the protein sequence of the cloned mRNA, with a size of 20 amino acids, to human tmc-1 (blue) and human tmc-7 (red) protein sequences (
+<emphasis id="B975EAA4FFA6FFD8FEA14886FE8DB886" bold="true" box="[353,369,1955,1979]" pageId="3" pageNumber="4">B</emphasis>
+). Black lines are the transmembrane segments in the 3D structure.
+</paragraph>
+</caption>
+<caption id="DF7E663EFFA1FFDFFF404B21FD2EBB68" ID-DOI="http://doi.org/10.5281/zenodo.10798488" ID-Zenodo-Dep="10798488" httpUri="https://zenodo.org/record/10798488/files/figure.png" pageId="4" pageNumber="5" startId="4.[128,193,1028,1052]" targetBox="[354,1249,145,1000]" targetPageId="4" targetType="figure">
+<paragraph id="8BBE36B6FFA1FFDFFF404B21FD2EBB68" blockId="4.[128,1469,1028,1109]" pageId="4" pageNumber="5">
+<emphasis id="B975EAA4FFA1FFDFFF404B21FF2BBB20" bold="true" box="[128,215,1028,1053]" pageId="4" pageNumber="5">Figure 3.</emphasis>
+Calculated three-dimensional structure of the cloned TMC protein of 
+<taxonomicName id="4C014D35FFA1FFDFFCB04B20FBD3BB20" _evidence="catalogs" _step="species1" baseAuthorityName="Eschscholtz" baseAuthorityYear="1823" box="[880,1071,1029,1053]" class="Malacostraca" family="Astacidae" genus="Astacus" kingdom="Animalia" order="Decapoda" pageId="4" pageNumber="5" phylum="Arthropoda" rank="species" species="leptodactylus">
+<emphasis id="B975EAA4FFA1FFDFFCB04B20FBD3BB20" box="[880,1071,1029,1053]" italics="true" pageId="4" pageNumber="5">Astacus leptodactylus</emphasis>
+</taxonomicName>
+. Side (
+<emphasis id="B975EAA4FFA1FFDFFBB24B21FB7EBB21" bold="true" box="[1138,1154,1028,1052]" pageId="4" pageNumber="5">A</emphasis>
+), top (
+<emphasis id="B975EAA4FFA1FFDFFB054B20FB29BB20" bold="true" box="[1221,1237,1029,1053]" pageId="4" pageNumber="5">B</emphasis>
+),and bottom (
+<emphasis id="B975EAA4FFA1FFDFFAA24B21FA8FBB21" bold="true" box="[1378,1395,1028,1052]" pageId="4" pageNumber="5">C</emphasis>
+) views. Images of the monomer are in ‘ResID’ mode. Dimerised 
+<taxonomicName id="4C014D35FFA1FFDFFD554B04FD12BB04" _evidence="catalog+fontStyle" _step="styledSpecies" box="[661,750,1057,1081]" class="Chromadorea" family="Rhabditidae" genus="Caenorhabditis" kingdom="Animalia" order="Rhabditida" pageId="4" pageNumber="5" phylum="Nematoda" rank="species" species="elegans">
+<emphasis id="B975EAA4FFA1FFDFFD554B04FD12BB04" box="[661,750,1057,1081]" italics="true" pageId="4" pageNumber="5">C. elegans</emphasis>
+</taxonomicName>
+tmc-1 protein (in ‘Cartoon/Chain’ mode) as cloned protein superimposed onto one of its monomers in ‘NewRibbons’ mode (green) (
+<emphasis id="B975EAA4FFA1FFDFFD704B18FD3EBB68" bold="true" box="[688,706,1085,1109]" pageId="4" pageNumber="5">D</emphasis>
+).
+</paragraph>
+</caption>
+<subSection id="E28E2F5DFFA1FFDEFEAB49EBFBB7B9D1" _generate="added" lastPageId="5" lastPageNumber="6" pageId="4" pageNumber="5" type="discussion">
+<paragraph id="8BBE36B6FFA1FFDFFEAB49EBFDE2B9D5" blockId="4.[363,542,1742,1768]" box="[363,542,1742,1768]" pageId="4" pageNumber="5">
+<heading id="D0F681DAFFA1FFDFFEAB49EBFDE2B9D5" allCaps="true" box="[363,542,1742,1768]" centered="true" fontSize="11" level="1" pageId="4" pageNumber="5" reason="1">DISCUSSION</heading>
+</paragraph>
+<paragraph id="8BBE36B6FFA1FFDFFF4149DCFC5BB855" blockId="4.[129,778,1785,1966]" lastBlockId="4.[825,1474,1183,1959]" pageId="4" pageNumber="5">
+The TMC family has received substantial interest for its potential role in mechano-electrical transduction, particularly in the hair cells of the inner ear of vertebrates (
+<bibRefCitation id="EF904B47FFA1FFDFFD98481DFD05B86D" author="Pan, B. &amp; Geleoc, G. S. &amp; Asai, Y. &amp; Horwitz, G. C. &amp; Kurima, K. &amp; Ishikawa, K. &amp; Kawashima, Y. &amp; Griffith, A. J. &amp; Holt, J. R." box="[600,761,1848,1872]" pageId="4" pageNumber="5" pagination="504 - 515" refId="ref5942" refString="Pan, B., Geleoc, G. S., Asai, Y., Horwitz, G. C., Kurima, K., Ishikawa, K., Kawashima, Y., Griffith, A. J. &amp; Holt, J. R. 2013. TMC 1 and TMC 2 are components of the mechanotransduction channel in hair cells of the mammalian inner ear. Neuron, 79: 504 - 515." type="journal article" year="2013">
+Pan 
+<emphasis id="B975EAA4FFA1FFDFFD46481CFD4DB86D" box="[646,689,1848,1872]" italics="true" pageId="4" pageNumber="5">et al</emphasis>
+., 2013
+</bibRefCitation>
+). Abolishment of mechanosensitivity in the hair cells of TMCknock-out animals is an important finding in support of TMC as a mechanosensitive channel candidate. (
+<bibRefCitation id="EF904B47FFA1FFDFFDE248B3FCFEB893" author="Deol, M. S. &amp; Kocher, W." box="[546,770,1942,1966]" pageId="4" pageNumber="5" pagination="463 - 466" refId="ref4561" refString="Deol, M. S. &amp; Kocher, W. 1958. A new gene for deafness in the mouse. Heredity, 12: 463 - 466." type="journal article" year="1958">Deol &amp; Kocher, 1958</bibRefCitation>
+; 
+<bibRefCitation id="EF904B47FFA1FFDFFCF94BBAFBFEBB8A" author="Steel, K. P. &amp; Bock, G. R." box="[825,1026,1183,1207]" pageId="4" pageNumber="5" pagination="159 - 161" refId="ref6094" refString="Steel, K. P. &amp; Bock, G. R. 1980. The nature of inherited deafness in deafness mice. Nature, 288: 159 - 161." type="journal article" year="1980">Steel &amp; Bock, 1980</bibRefCitation>
+). Hearing loss observed in human mutants of TMC1 and TMC2 supported the hypothesis (
+<bibRefCitation id="EF904B47FFA1FFDFFAF84B9BFC91BBCB" author="Kurima, K. &amp; Peters, L. M. &amp; Yang, Y. &amp; Riazuddin, S. &amp; Ahmed, Z. M. &amp; Naz, S. &amp; Arnaud, D. &amp; Drury, S. &amp; Mo, J. &amp; Makishima, T. &amp; Ghosh, M. &amp; Menon, P. S. &amp; Deshmukh, D. &amp; Oddoux, C. &amp; Ostrer, H. &amp; Khan, S. &amp; Riazuddin, S. &amp; Deininger, P. L. &amp; Hampton, L. L. &amp; Sullivan, S. L. &amp; Battey, J. F. Jr &amp; Keats, B. J. &amp; Wilcox, E. R. &amp; Friedman, T. B. &amp; Griffith, A. J." pageId="4" pageNumber="5" pagination="277 - 284" refId="ref5477" refString="Kurima, K., Peters, L. M., Yang, Y., Riazuddin, S., Ahmed, Z. M., Naz, S., Arnaud, D., Drury, S., Mo, J., Makishima, T., Ghosh, M., Menon, P. S., Deshmukh, D., Oddoux, C., Ostrer, H., Khan, S., Riazuddin, S., Deininger, P. L., Hampton, L. L., Sullivan, S. L., Battey, J. F. Jr, Keats, B. J., Wilcox, E. R., Friedman, T. B. &amp; Griffith, A. J. 2002. Dominant and recessive deafness caused by mutations of a novel gene, TMC 1, required for cochlear hair-cell function. Nature Genetics, 30: 277 - 284." type="journal article" year="2002">
+Kurima 
+<emphasis id="B975EAA4FFA1FFDFFA4D4B9AFA4BBBEB" box="[1421,1463,1214,1238]" italics="true" pageId="4" pageNumber="5">et al</emphasis>
+., 2002
+</bibRefCitation>
+). Observation of similar changes in TMIE protein knockout animals and human mutants, however, has challenged the hypothesis (
+<bibRefCitation id="EF904B47FFA1FFDFFC7A4A38FBA5BA08" author="Naz, S. &amp; Giguere, C. M. &amp; Kohrman, D. C. &amp; Mitchem, K. L. &amp; Riazuddin, S. &amp; Morell, R. J. &amp; Ramesh, A. &amp; Srisailpathy, S. &amp; Deshmukh, D. &amp; Riazuddin, S. &amp; Griffith, A. J. &amp; Friedman, T. B. &amp; Smith, R. J. &amp; Wilcox, E. R." box="[954,1113,1308,1333]" pageId="4" pageNumber="5" pagination="632 - 636" refId="ref5793" refString="Naz, S., Giguere, C. M., Kohrman, D. C., Mitchem, K. L., Riazuddin, S., Morell, R. J., Ramesh, A., Srisailpathy, S., Deshmukh, D., Riazuddin, S., Griffith, A. J., Friedman, T. B., Smith, R. J. &amp; Wilcox, E. R. 2002. Mutations in a novel gene, TMIE, are associated with hearing loss linked to the DFNB 6 locus. American Journal of Human Genetics, 71: 632 - 636." type="journal article" year="2002">
+Naz 
+<emphasis id="B975EAA4FFA1FFDFFC294A38FBEFBA09" box="[1001,1043,1308,1332]" italics="true" pageId="4" pageNumber="5">et al</emphasis>
+., 2002
+</bibRefCitation>
+; 
+<bibRefCitation id="EF904B47FFA1FFDFFBA74A39FAD1BA08" author="Gleason, M. R. &amp; Nagiel, A. &amp; Jamet, S. &amp; Vologodskaia, M. &amp; Lopez-Schier, H. &amp; Hudspeth, A. J." box="[1127,1325,1308,1333]" pageId="4" pageNumber="5" pagination="21347 - 21352" refId="ref4814" refString="Gleason, M. R., Nagiel, A., Jamet, S., Vologodskaia, M., Lopez-Schier, H. &amp; Hudspeth, A. J. 2009. The transmembrane inner ear (Tmie) protein is essential for normal hearing and balance in the zebrafish. Proceedings of the National Academy of Sciences of the United States of America, 106: 21347 - 21352." type="journal article" year="2009">
+Gleason 
+<emphasis id="B975EAA4FFA1FFDFFB024A38FB10BA09" box="[1218,1260,1308,1332]" italics="true" pageId="4" pageNumber="5">et al</emphasis>
+. 2009
+</bibRefCitation>
+; 
+<bibRefCitation id="EF904B47FFA1FFDFFAFB4A39FC4EBA69" author="Cunningham, C. L. &amp; Qiu, X. &amp; Wu, Z. &amp; Zhao, B. &amp; Peng, G. &amp; Kim, Y. H. &amp; Lauer, A. &amp; Muller, U." pageId="4" pageNumber="5" pagination="126 - 143" refId="ref4432" refString="Cunningham, C. L., Qiu, X., Wu, Z., Zhao, B., Peng, G., Kim, Y. H., Lauer, A. &amp; Muller, U. 2020. TMIE defines pore and gating properties of the mechanotransduction channel of mammalian cochlear hair cells. Neuron, 107: 126 - 143." type="journal article" year="2020">
+Cunningham 
+<emphasis id="B975EAA4FFA1FFDFFCF94A18FC9BBA69" box="[825,871,1340,1364]" italics="true" pageId="4" pageNumber="5">et al</emphasis>
+., 2020
+</bibRefCitation>
+). It has been proposed that the mechanical gating process in the hair cells would require a complex structure opposing to that reported in Piezo channels (
+<bibRefCitation id="EF904B47FFA1FFDFFAD94A5FFC0ABA8F" author="Haselwandter, C. A. &amp; MacKinnon, R." pageId="4" pageNumber="5" pagination="41968" refId="ref4888" refString="Haselwandter, C. A. &amp; MacKinnon, R. 2018. Piezo's membrane footprint and its contribution to mechanosensitivity. Elife, 7: e 41968 [https: // doi. org / 10.7554 / elife. 41968]." type="journal article" year="2018">Haselwandter &amp; MacKinnon, 2018</bibRefCitation>
+). A substantial amount of data conclusively indicates that the TMC protein is among the essential elements of the mechano-electrical transducer complex in the hair cells. A scientific debate nevertheless continues whether the TMC protein can form an independent mechanosensitive channel in the cell membrane (
+<bibRefCitation id="EF904B47FFA1FFDFFC234913FB7AB973" author="Fettiplace, R." box="[995,1158,1590,1614]" pageId="4" pageNumber="5" pagination="3 - 9" refId="ref4790" refString="Fettiplace, R. 2016. Is TMC 1 the hair cell mechanotransducer channel? Biophysical Journal, 111: 3 - 9." type="journal article" year="2016">Fettiplace, 2016</bibRefCitation>
+). The mRNA identified in our work was considered most similar to that of the TMC7 channel subgroup. We scanned through the transcriptome drafts, which we assembled in our model animal, and were not able to find any other transcript for a different subgroup of TMC-like gene family. The search for probable presence of any auxiliary proteins for a channel complex yielded no results. We were unable to find any transcript similar to human TMIE or protocadherin-15, and we hypothesize that the cloned TMC-like protein may function differently.
+</paragraph>
+<paragraph id="8BBE36B6FFA1FFDEFC954855FE49BA68" blockId="4.[825,1474,1183,1959]" lastBlockId="5.[113,763,1278,1960]" lastPageId="5" lastPageNumber="6" pageId="4" pageNumber="5">
+The TMC protein is present in many phyla, including some invertebrates (
+<figureCitation id="133A2A33FFA1FFDFFC0C48AAFBE8B89A" box="[972,1044,1935,1959]" captionStart="Figure 2" captionStartId="3.[113,178,1898,1922]" captionTargetBox="[150,1421,432,1867]" captionTargetId="figure-146@3.[146,1426,425,1872]" captionTargetPageId="3" captionText="Figure 2. Phylogenetic tree for a collection of 30 TMC and TMC-like proteins from different species (A). Local alignment scores of continuous set of kernels of the protein sequence of the cloned mRNA, with a size of 20 amino acids, to human tmc-1 (blue) and human tmc-7 (red) protein sequences (B). Black lines are the transmembrane segments in the 3D structure." figureDoi="http://doi.org/10.5281/zenodo.10798486" httpUri="https://zenodo.org/record/10798486/files/figure.png" pageId="4" pageNumber="5">Fig. 2A</figureCitation>
+). There are a few putative TMC sequences included in shotgun transcriptome assemblies and genome drafts (
+<bibRefCitation id="EF904B47FFA0FFDEFF7D4A3BFEAFBA08" author="Xu, Z. &amp; Gao, T. &amp; Xu, Y. &amp; Li, X. &amp; Li, J. &amp; Lin, H. &amp; Yan, W. &amp; Pan, J. &amp; Tang, J." box="[189,339,1309,1333]" pageId="5" pageNumber="6" pagination="3274 - 3284" refId="ref6513" refString="Xu, Z., Gao, T., Xu, Y., Li, X., Li, J., Lin, H., Yan, W., Pan, J. &amp; Tang, J. 2021. A chromosome-level reference genome of red swamp crayfish Procambarus clarkii provides insights into the gene families regarding growth or development in crustaceans. Genomics, 113: 3274 - 3284." type="journal article" year="2021">
+Xu 
+<emphasis id="B975EAA4FFA0FFDEFF224A3BFEF0BA08" box="[226,268,1309,1333]" italics="true" pageId="5" pageNumber="6">et al</emphasis>
+., 2021
+</bibRefCitation>
+). 
+<taxonomicName id="4C014D35FFA0FFDEFEAA4A3BFDC7BA08" _evidence="catalogs" _step="species1" baseAuthorityName="Eschscholtz" baseAuthorityYear="1823" box="[362,571,1309,1333]" class="Malacostraca" family="Astacidae" genus="Astacus" kingdom="Animalia" order="Decapoda" pageId="5" pageNumber="6" phylum="Arthropoda" rank="species" species="leptodactylus">
+<emphasis id="B975EAA4FFA0FFDEFEAA4A3BFDC7BA08" box="[362,571,1309,1333]" italics="true" pageId="5" pageNumber="6">Astacus leptodactylus</emphasis>
+</taxonomicName>
+mRNA is the first crustacean species to be cloned.
+</paragraph>
+<caption id="DF7E663EFFA0FFDEFFB14B40FCCCBBA4" ID-DOI="http://doi.org/10.5281/zenodo.10798490" ID-Zenodo-Dep="10798490" httpUri="https://zenodo.org/record/10798490/files/figure.png" pageId="5" pageNumber="6" startId="5.[113,178,1125,1149]" targetBox="[306,1266,144,1097]" targetPageId="5" targetType="figure">
+<paragraph id="8BBE36B6FFA0FFDEFFB14B40FCCCBBA4" blockId="5.[113,1432,1125,1177]" pageId="5" pageNumber="6">
+<emphasis id="B975EAA4FFA0FFDEFFB14B40FF35BB40" bold="true" box="[113,201,1125,1149]" pageId="5" pageNumber="6">Figure 4.</emphasis>
+Fluorescent photo-micrograph of transfected HEK293T cells (
+<emphasis id="B975EAA4FFA0FFDEFCDE4B40FCD2BB40" bold="true" box="[798,814,1125,1149]" pageId="5" pageNumber="6">A</emphasis>
+). Fluo-4 loaded image of the same cells (
+<emphasis id="B975EAA4FFA0FFDEFB714B40FB3DBB40" bold="true" box="[1201,1217,1125,1149]" pageId="5" pageNumber="6">B</emphasis>
+) and transmitted-light image of the sample (
+<emphasis id="B975EAA4FFA0FFDEFEFC4BA4FEB1BBA4" bold="true" box="[316,333,1153,1177]" pageId="5" pageNumber="6">C</emphasis>
+); superimposed image of those in A, B, and C (
+<emphasis id="B975EAA4FFA0FFDEFCCE4BA4FCDCBBA4" bold="true" box="[782,800,1153,1177]" pageId="5" pageNumber="6">D</emphasis>
+).
+</paragraph>
+</caption>
+<paragraph id="8BBE36B6FFA0FFDEFF4D4A79FC2CBA8F" blockId="5.[113,763,1278,1960]" lastBlockId="5.[810,1459,1278,1772]" pageId="5" pageNumber="6">
+Considering the strong similarity in sequence and structure, it is conceivable to propose that the cloned mRNA may code a TMC-like channel protein in the crayfish. It has been reported that TMC functions as a part of a mechanosensitive channel complex in the hair cells. The lack of any transcript, orthologues to TMIE and protocadherin, in the transcriptome draft raises the question that if the cloned channel protein may independently be mechanosensitive. Plasmid transfection and subsequent functional studies did not enable a significant mechanosensitive activity in HEK293T cells. This might be the result of unsuccessful expression of the cloned protein as a functional channel in the surface membrane. It may be interpreted, however, that mScarlet expression indicates only the successful function of the plasmid. A channel complex might be mandatory as it is in the inner ear for a mechanosensitive channel to activate. Further, functional studies indicate that the cloned protein may not possess sodium sensitivity as reported in 
+<taxonomicName id="4C014D35FFA0FFDEFF2A4854FEB7B8B5" _evidence="catalog+fontStyle" _step="styledSpecies" box="[234,331,1904,1928]" class="Chromadorea" family="Rhabditidae" genus="Caenorhabditis" kingdom="Animalia" order="Rhabditida" pageId="5" pageNumber="6" phylum="Nematoda" rank="species" species="elegans">
+<emphasis id="B975EAA4FFA0FFDEFF2A4854FEB7B8B5" box="[234,331,1904,1928]" italics="true" pageId="5" pageNumber="6">C. elegans</emphasis>
+</taxonomicName>
+tmc-1 channel. Cell shrinkage by osmotic changes due to increase in the sodium ion concentration might be the cause of the observed rise in the emission (
+<figureCitation id="133A2A33FFA0FFDEFAEC4BDBFA84BA2B" box="[1324,1400,1278,1302]" captionStart="Figure 5" captionStartId="6.[129,194,1775,1799]" captionTargetBox="[267,1335,144,1747]" captionTargetId="figure-64@6.[267,1335,144,1747]" captionTargetPageId="6" captionText="Figure 5. Calcium-specific emission signals under various stimulation conditions.Emission signals to mechanical poke (A), to fluid jets (B), and to 167 mM extracellular sodium exposure (C). Solid lines represent transfected cells, dotted lines control cells." figureDoi="http://doi.org/10.5281/zenodo.10798492" httpUri="https://zenodo.org/record/10798492/files/figure.png" pageId="5" pageNumber="6">Fig. 5C</figureCitation>
+) (see 
+<bibRefCitation id="EF904B47FFA0FFDEFCEA4A38FBC3BA08" author="Chatzigeorgiou, M. &amp; Bang, S. &amp; Hwang, S. W. &amp; Schafer, W. R." box="[810,1087,1309,1333]" pageId="5" pageNumber="6" pagination="95 - 99" refId="ref4278" refString="Chatzigeorgiou, M., Bang, S., Hwang, S. W. &amp; Schafer, W. R. 2013. tmc- 1 encodes a sodium-sensitive channel required for salt chemosensation in C. elegans. Nature, 494: 95 - 99." type="journal article" year="2013">
+Chatzigeorgiou 
+<emphasis id="B975EAA4FFA0FFDEFC104A3BFC06BA08" box="[976,1018,1309,1333]" italics="true" pageId="5" pageNumber="6">et al</emphasis>
+., 2013
+</bibRefCitation>
+). The large variance observed in the recorded emission signals may have limited the discriminative power of the statistical evaluation. The variance might stem from the limited precision of the mechanical stimulation at a single-cell level.
+</paragraph>
+<paragraph id="8BBE36B6FFA0FFDEFC854A9FFBB7B9D1" blockId="5.[810,1459,1278,1772]" pageId="5" pageNumber="6">Although an mRNA was cloned, coding a protein similar in sequence and structure to those of the mechanosensitive TMC family proteins, functional studies nevertheless do not indicate that the transfected HEK293T cells gained any additional statistically significant mechanosensitive component as compared to the control cells. The sample sizes, particularly for fluid jet and osmotic shock applications, might not have been enough for a statistically significant result. Additional research is needed to define the function of the cloned crayfish TMC-like protein.</paragraph>
+</subSection>
+<subSection id="E28E2F5DFFA0FFDDFC094806FB48B897" _generate="added" lastPageId="6" lastPageNumber="7" pageId="5" pageNumber="6" type="multiple">
+<paragraph id="8BBE36B6FFA0FFDEFC094806FAE9B800" blockId="5.[969,1301,1827,1853]" box="[969,1301,1827,1853]" pageId="5" pageNumber="6">
+<heading id="D0F681DAFFA0FFDEFC094806FAE9B800" allCaps="true" box="[969,1301,1827,1853]" centered="true" fontSize="11" level="1" pageId="5" pageNumber="6" reason="1">ACK N O W LE D G E M E N TS</heading>
+</paragraph>
+<paragraph id="8BBE36B6FFA0FFDDFCEA486AFB48B897" blockId="5.[810,1459,1871,1957]" lastBlockId="6.[825,1474,1875,1962]" lastPageId="6" lastPageNumber="7" pageId="5" pageNumber="6">
+The research was supported by grants from Hacettepe University Research Foundation (HU project 19942, 19692), The Scientific and Technological Research Council of 
+<collectingCountry id="F3167626FFA0FFDEFAAA48A8FA4FB898" box="[1386,1459,1933,1957]" name="Turkey" pageId="5" pageNumber="6">Turkey</collectingCountry>
+(TUBITAK project 218S553). KA received a stipend from the Higher Education Council of 
+<collectingCountry id="F3167626FFA3FFDDFE044857FDF1B8B7" box="[452,525,1906,1930]" name="Turkey" pageId="6" pageNumber="7">Turkey</collectingCountry>
+and The Scientific and Technological Research Council of 
+<collectingCountry id="F3167626FFA3FFDDFE3F48B7FDB4B897" box="[511,584,1938,1962]" name="Turkey" pageId="6" pageNumber="7">Turkey</collectingCountry>
+(YOK 100/2000, TUBITAK BIDEB 2211). The authors declare no conflict of interest and would like to thank the Associate Editor, Editor-in- Chief, and the anonymous reviewers.
+</paragraph>
+</subSection>
+<caption id="DF7E663EFFA3FFDDFF4149CAFB44B81E" ID-DOI="http://doi.org/10.5281/zenodo.10798492" ID-Zenodo-Dep="10798492" httpUri="https://zenodo.org/record/10798492/files/figure.png" pageId="6" pageNumber="7" startId="6.[129,194,1775,1799]" targetBox="[267,1335,144,1747]" targetPageId="6" targetType="figure">
+<paragraph id="8BBE36B6FFA3FFDDFF4149CAFB44B81E" blockId="6.[129,1447,1775,1827]" pageId="6" pageNumber="7">
+<emphasis id="B975EAA4FFA3FFDDFF4149CAFF24B83A" bold="true" box="[129,216,1775,1799]" pageId="6" pageNumber="7">Figure 5.</emphasis>
+Calcium-specific emission signals under various stimulation conditions. Emission signals to mechanical poke (
+<emphasis id="B975EAA4FFA3FFDDFB2C49CAFB00B83A" bold="true" box="[1260,1276,1775,1799]" pageId="6" pageNumber="7">A</emphasis>
+), to fluid jets (
+<emphasis id="B975EAA4FFA3FFDDFA4849CAFA64B83A" bold="true" box="[1416,1432,1775,1799]" pageId="6" pageNumber="7">B</emphasis>
+), and to 167 mM extracellular sodium exposure (
+<emphasis id="B975EAA4FFA3FFDDFD81482EFDAEB81E" bold="true" box="[577,594,1803,1827]" pageId="6" pageNumber="7">C</emphasis>
+). Solid lines represent transfected cells, dotted lines control cells.
+</paragraph>
+</caption>
+<subSection id="E28E2F5DFFA2FFDCFE994FB5FB9FB887" _generate="added" pageId="7" pageNumber="8" type="reference_group">
+<paragraph id="8BBE36B6FFA2FFDCFE994FB5FDEEBF97" blockId="7.[345,530,144,170]" box="[345,530,144,170]" pageId="7" pageNumber="8">
+<heading id="D0F681DAFFA2FFDCFE994FB5FDEEBF97" allCaps="true" box="[345,530,144,170]" centered="true" fontSize="11" level="1" pageId="7" pageNumber="8" reason="1">REFERENCES</heading>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14F9CFDFBBFD4" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14F9CFDFBBFD4" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4252" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14F9CFF1ABFF3" box="[113,230,185,207]" case="TC" fns="I" in="J." ins="D" ln="Arnadottir" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Arnadóttir, J.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFF3E4F9CFE9EBFF3" box="[254,354,185,207]" case="TC" fns="I" in="M." ins="D" ln="Chalfie" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Chalfie, M.</author>
+<year id="FFA977E5FFA2FFDCFEA54F9CFE69BFF3" box="[357,405,185,206]" pageId="7" pageNumber="8">2010</year>
+. 
+<title id="F905DD80FFA2FFDCFE5C4F9CFD0BBFF2" box="[412,759,185,207]" pageId="7" pageNumber="8">Eukaryotic mechanosensitive channels</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFF514FF6FE7FBFD5" box="[145,387,211,233]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFF514FF6FE7FBFD5" box="[145,387,211,233]" italics="true" pageId="7" pageNumber="8">Annual Review of Biophysics</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFE4D4FF6FE59BFD5" bold="true" box="[397,421,211,232]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFE4D4FF6FE59BFD5" box="[397,421,211,232]" pageId="7" pageNumber="8" type="volume">39</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFE714FF1FDFFBFD4" box="[433,515,212,233]" pageId="7" pageNumber="8" type="pagination">111–137</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14FCBFE3DBE04" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14FCBFE3DBE04" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4278" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14FCBFEDEBE39" box="[113,290,238,260]" case="TC" fns="I" in="M." ins="D" ln="Chatzigeorgiou" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Chatzigeorgiou, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEEB4FCAFE89BE3E" box="[299,373,238,260]" case="TC" fns="I" in="S." ins="D" ln="Bang" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Bang, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEBF4FCAFE0EBE3E" box="[383,498,238,260]" case="TC" fns="I" in="S.W." ins="D" ln="Hwang" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Hwang, S.W.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFDCE4FCBFD74BE39" box="[526,648,238,260]" case="TC" fns="I" in="W.R." ins="D" ln="Schafer" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Schafer, W.R.</author>
+<year id="FFA977E5FFA2FFDCFD4D4FCBFD41BE3E" box="[653,701,238,259]" pageId="7" pageNumber="8">2013</year>
+. 
+<title id="F905DD80FFA2FFDCFD054FCBFEF9BE04" jopScore="0.12916932" pageId="7" pageNumber="8">tmc-1 encodes a sodium-sensitive channel required for salt chemosensation in C. elegans</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFECC4E01FEB4BE04" box="[268,328,292,313]" jopScore="1.6363636" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFECC4E01FEB4BE04" box="[268,328,292,313]" italics="true" pageId="7" pageNumber="8">Nature</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFE924E06FE8BBE05" bold="true" box="[338,375,291,312]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFE924E06FE8BBE05" box="[338,375,291,312]" pageId="7" pageNumber="8" type="volume">494</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFE414E06FE41BE04" box="[385,445,291,313]" pageId="7" pageNumber="8" type="pagination">95–99</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14E1BFD43BE52" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14E1BFD43BE52" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4326" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14E1BFF25BE69" box="[113,217,318,340]" case="TC" fns="I" in="D.P." ins="D" ln="Corey" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Corey, D.P.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFF374E1BFE83BE6E" box="[247,383,318,340]" case="TC" fns="I" in="A.J." ins="D" ln="Hudspeth" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Hudspeth, A.J.</author>
+<year id="FFA977E5FFA2FFDCFE454E1BFE49BE6E" box="[389,437,318,339]" pageId="7" pageNumber="8">1983</year>
+. 
+<title id="F905DD80FFA2FFDCFE7F4E1BFE86BE52" pageId="7" pageNumber="8">Kinetics of the receptor current in bullfrog saccular hair cells</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFE424E7CFDBBBE53" box="[386,583,345,366]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFE424E7CFDBBBE53" box="[386,583,345,366]" italics="true" pageId="7" pageNumber="8">Journal of Neuroscience</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFD914E7CFDA1BE53" bold="true" box="[593,605,345,366]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFD914E7CFDA1BE53" box="[593,605,345,366]" pageId="7" pageNumber="8" type="volume">3</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFDA84E7CFD46BE52" box="[616,698,345,367]" pageId="7" pageNumber="8" type="pagination">962–976</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14E51FEBABEE4" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14E51FEBABEE4" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4362" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14E51FF39BEB4" box="[113,197,372,393]" case="TC" fns="I" in="B." ins="D" ln="Coste" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Coste, B.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF0F4E56FED0BEB4" box="[207,300,371,393]" case="TC" fns="I" in="J." ins="D" ln="Mathur" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Mathur, J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEF54E56FE55BEB4" box="[309,425,371,393]" case="TC" fns="I" in="M." ins="D" ln="Schmidt" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Schmidt, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE734E56FDE9BEB4" box="[435,533,371,393]" case="TC" fns="I" in="T.J." ins="D" ln="Earley" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Earley, T.J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFDDF4E56FD7CBEB4" box="[543,640,371,393]" case="TC" fns="I" in="S." ins="D" ln="Ranade" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Ranade, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFD4B4E51FD0BBEB4" box="[651,759,372,393]" case="TC" fns="I" in="M.J." ins="D" ln="Petrus" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Petrus, M.J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF514EABFEFCBE9E" box="[145,256,398,420]" case="TC" fns="I" in="A.E." ins="D" ln="Dubin" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Dubin, A.E.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFEDF4EABFE51BE9E" box="[287,429,398,420]" case="TC" fns="I" in="A." ins="D" ln="Patapoutian" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Patapoutian, A.</author>
+<year id="FFA977E5FFA2FFDCFE744EABFE18BE9E" box="[436,484,398,419]" pageId="7" pageNumber="8">2010</year>
+. 
+<title id="F905DD80FFA2FFDCFE2E4EABFD0BBE82" pageId="7" pageNumber="8">Piezo1 and Piezo2 are essential components of distinct mechanically activated cation channels</title>
+. 
+<emphasis id="B975EAA4FFA2FFDCFF514EE1FF2FBEE4" box="[145,211,452,473]" italics="true" pageId="7" pageNumber="8">
+<journalOrPublisher id="51C03C7AFFA2FFDCFF514EE1FF33BEE4" box="[145,207,452,473]" pageId="7" pageNumber="8">Science</journalOrPublisher>
+,
+</emphasis>
+<emphasis id="B975EAA4FFA2FFDCFF174EE6FF00BEE5" bold="true" box="[215,252,451,472]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFF174EE6FF00BEE5" box="[215,252,451,472]" pageId="7" pageNumber="8" type="volume">330</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFEC74EE6FEBFBEE4" box="[263,323,451,473]" pageId="7" pageNumber="8" type="pagination">55–60</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14EFBFE9DBD79" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14EFBFE9DBD79" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4432" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14EFBFEE7BECE" box="[113,283,478,500]" case="TC" fns="I" in="C.L." ins="D" ln="Cunningham" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Cunningham, C.L.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEE34EFBFE9BBEC9" box="[291,359,478,500]" case="TC" fns="I" in="X." ins="D" ln="Qiu" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Qiu, X.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEAE4EFAFE51BEC9" box="[366,429,479,500]" case="TC" fns="I" in="Z." ins="D" ln="Wu" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Wu, Z.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE754EFBFDFDBEC9" box="[437,513,478,500]" case="TC" fns="I" in="B." ins="D" ln="Zhao" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Zhao, B.</author>
+, 
+<author id="53BCDE53FFA2FFDCFDC94EFAFDA4BECE" box="[521,600,478,500]" case="TC" fns="I" in="G." ins="D" ln="Peng" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Peng, G.</author>
+, 
+<author id="53BCDE53FFA2FFDCFDA04EFBFD46BEC9" box="[608,698,478,500]" case="TC" fns="I" in="Y.H." ins="D" ln="Kim" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kim, Y.H.</author>
+, 
+<author id="53BCDE53FFA2FFDCFD024EFAFF5BBD33" case="TC" fns="I" in="A." ins="D" ln="Lauer" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Lauer, A.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFF064EDCFED8BD33" box="[198,292,505,527]" case="TC" fns="I" in="U." ins="D" ln="Muller" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Müller, U.</author>
+<year id="FFA977E5FFA2FFDCFEEA4EDCFEA6BD33" box="[298,346,505,526]" pageId="7" pageNumber="8">2020</year>
+. 
+<title id="F905DD80FFA2FFDCFEA44EDCFD0BBD14" pageId="7" pageNumber="8">TMIE defines pore and gating properties of the mechanotransduction channel of mammalian cochlear hair cells</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFF514D0AFF2DBD79" box="[145,209,559,580]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFF514D0AFF2DBD79" box="[145,209,559,580]" italics="true" pageId="7" pageNumber="8">Neuron</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFF1B4D0BFEFCBD7E" bold="true" box="[219,256,558,579]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFF1B4D0BFEFCBD7E" box="[219,256,558,579]" pageId="7" pageNumber="8" type="volume">107</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFECB4D0BFEA1BD79" box="[267,349,558,580]" pageId="7" pageNumber="8" type="pagination">126–143</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14D6CFD80BD93" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14D6CFD80BD93" _evidence="authorList" pageId="7" pageNumber="8" refId="ref4501" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14D6CFF01BD63" box="[113,253,585,606]" case="TC" fns="I" in="J.M." ins="D" ln="DeKeyser" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">DeKeyser, J.M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEC74D6CFE5EBD63" box="[263,418,585,607]" case="TC" fns="I" in="C.H." ins="D" ln="Thompson" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Thompson, C.H.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFE004D6CFDD8BD63" box="[448,548,585,606]" case="TC" fns="I" in="A." ins="D" ln="George" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">George, A.</author>
+L Jr. 
+<year id="FFA977E5FFA2FFDCFD924D6CFD7CBD63" box="[594,640,585,606]" pageId="7" pageNumber="8">2021</year>
+<title id="F905DD80FFA2FFDCFD474D6CFE60BDA9" jopScore="0.026043737" pageId="7" pageNumber="8" type="_" typeScore="73">Cryptic prokaryotic promoters explain instability of recombinant neuronal sodium channels in bacteria</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFE694D5BFD3CBDAE" box="[425,704,638,659]" jopScore="0.70280886" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFE694D5BFD3CBDAE" box="[425,704,638,659]" italics="true" pageId="7" pageNumber="8">Journal of Biological Chemistry</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFD0F4D5BFD08BDAE" bold="true" box="[719,756,638,659]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFD0F4D5BFD08BDAE" box="[719,756,638,659]" pageId="7" pageNumber="8" type="volume">296</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFF514DBCFF2ABD93" box="[145,214,665,686]" pageId="7" pageNumber="8" type="pagination">100298</pagination>
+[
+<DOI id="FF90F6C6FFA2FFDCFF244DBCFD8BBD93" box="[228,631,664,687]" pageId="7" pageNumber="8">https://doi.org/10.1016/j.jbc.2021.100298]</DOI>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14D96FEA3BDD9" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14D96FEA3BDD9" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4561" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14D96FF28BDF4" box="[113,212,691,713]" case="TC" fns="I" in="M.S." ins="D" ln="Deol" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Deol, M.S.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFF314D96FEA4BDF4" box="[241,344,691,713]" case="TC" fns="I" in="W." ins="D" ln="Kocher" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kocher, W.</author>
+<year id="FFA977E5FFA2FFDCFE9E4D96FE72BDF4" box="[350,398,691,713]" pageId="7" pageNumber="8">1958</year>
+. 
+<title id="F905DD80FFA2FFDCFE574D91FD04BDF4" box="[407,760,691,713]" pageId="7" pageNumber="8">A new gene for deafness in the mouse</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFF514DEBFF27BDDE" box="[145,219,718,739]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFF514DEBFF27BDDE" box="[145,219,718,739]" italics="true" pageId="7" pageNumber="8">Heredity</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFF254DEBFF01BDDE" bold="true" box="[229,253,718,739]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFF254DEBFF01BDDE" box="[229,253,718,739]" pageId="7" pageNumber="8" type="volume">12</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFEC84DEBFEA7BDD9" box="[264,347,718,740]" pageId="7" pageNumber="8" type="pagination">463–466</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14DCCFEFDBC0E" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14DCCFEFDBC0E" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4591" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14DCCFF36BDC3" box="[113,202,745,767]" case="TC" fns="I" in="T." ins="D" ln="Effertz" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Effertz,T.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF114DCCFEC7BDC3" box="[209,315,745,767]" case="TC" fns="I" in="A.L." ins="D" ln="Scharr" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Scharr, A.L.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFE924DCCFE56BDC3" box="[338,426,745,767]" case="TC" fns="I" in="A.J." ins="D" ln="Ricci" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Ricci,A.J.</author>
+<year id="FFA977E5FFA2FFDCFE6C4DCCFE20BDC2" box="[428,476,745,767]" pageId="7" pageNumber="8">2015</year>
+. 
+<title id="F905DD80FFA2FFDCFE234DCCFD92BC24" pageId="7" pageNumber="8">The how and why of identifying the hair cell mechano-electrical transduction channel</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFDB54C26FD0ABC25" box="[629,758,771,792]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFDB54C26FD0ABC25" box="[629,758,771,792]" italics="true" pageId="7" pageNumber="8">Pflugers Archiv</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFF514C3BFF4ABC0E" bold="true" box="[145,182,798,819]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFF514C3BFF4ABC0E" box="[145,182,798,819]" pageId="7" pageNumber="8" type="volume">467</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFF014C3BFF01BC0E" box="[193,253,798,819]" pageId="7" pageNumber="8" type="pagination">73–84</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14C1CFDE5BC84" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14C1CFDE5BC84" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4633" type="book">
+<author id="53BCDE53FFA2FFDCFFB14C1CFF43BC73" box="[113,191,825,847]" case="TC" fns="I" in="B." ins="D" ln="Ergin" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Ergin, B.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF064C1CFED8BC73" box="[198,292,825,847]" case="TC" fns="I" in="B." ins="D" ln="Saglam" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Saglam, B.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEEB4C1CFE54BC73" box="[299,424,825,847]" case="TC" fns="I" in="E.Z." ins="D" ln="Taskiran" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Taskiran, E.Z.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE6E4C1CFDF4BC73" box="[430,520,825,846]" case="TC" fns="I" in="T." ins="D" ln="Bastug" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Bastug, T.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFDDF4C1CFD88BC73" box="[543,628,825,847]" case="TC" fns="I" in="N." ins="D" ln="Purali" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Purali, N.</author>
+<year id="FFA977E5FFA2FFDCFDB74C1CFD5BBC73" box="[631,679,825,846]" pageId="7" pageNumber="8">2022</year>
+. 
+<title id="F905DD80FFA2FFDCFD6E4C1CFE34BCA2" pageId="7" pageNumber="8">
+De novo cloning and functional characterization of potassium channel genes and proteins in the crayfish 
+<emphasis id="B975EAA4FFA2FFDCFE4A4C4BFDBCBCBE" box="[394,576,878,899]" italics="true" pageId="7" pageNumber="8">Astacus leptodactylus</emphasis>
+(Eschscholtz, 1823) (Decapoda: Astacidea: Astacidae)
+</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFE104CACFD2CBCA3" box="[464,720,905,926]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFE104CACFD2CBCA3" box="[464,720,905,926]" italics="true" pageId="7" pageNumber="8">Journal of Crustacean Biology</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFD1B4CACFD0FBCA3" bold="true" box="[731,755,905,926]" pageId="7" pageNumber="8">42</emphasis>
+: [
+<DOI id="FF90F6C6FFA2FFDCFF5B4C86FDEFBC84" box="[155,531,931,953]" pageId="7" pageNumber="8">https://doi.org/10.1093/jcbiol/ruac018]</DOI>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14C9BFD12BCD3" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14C9BFD12BCD3" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4714" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14C9BFEF6BCE9" box="[113,266,958,980]" case="TC" fns="I" in="F.F." ins="D" ln="Eschscholtz" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Eschscholtz, F.F.</author>
+<year id="FFA977E5FFA2FFDCFED34C9BFEBEBCEE" box="[275,322,958,979]" pageId="7" pageNumber="8">1823</year>
+. 
+<title id="F905DD80FFA2FFDCFE904C9BFD04BCE9" box="[336,760,958,980]" pageId="7" pageNumber="8">Descriptio novae Astacorum speciei Rossicae</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFF514CFCFD85BCD3" box="[145,633,985,1006]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFF514CFCFD85BCD3" box="[145,633,985,1006]" italics="true" pageId="7" pageNumber="8">Mémoires de la Société Imperiale des Naturalistes du Moscu</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFD424CFCFD72BCD3" bold="true" box="[642,654,985,1006]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFD424CFCFD72BCD3" box="[642,654,985,1006]" pageId="7" pageNumber="8" type="volume">6</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFD594CFCFD15BCD3" box="[665,745,985,1006]" pageId="7" pageNumber="8" type="pagination">109–110</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14CD6FD62BB03" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14CD6FD62BB03" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4744" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14CD6FF0EBB34" box="[113,242,1011,1033]" case="TC" fns="I" in="C." ins="D" ln="Eyzaguirre" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Eyzaguirre, C.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFED04CD6FE7DBB34" box="[272,385,1011,1033]" case="TC" fns="I" in="S.W." ins="D" ln="Kuffler" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kuffler, S.W.</author>
+<year id="FFA977E5FFA2FFDCFE474CD6FE4BBB34" box="[391,439,1011,1033]" pageId="7" pageNumber="8">1955</year>
+. 
+<title id="F905DD80FFA2FFDCFE004CD1FED9BB02" pageId="7" pageNumber="8">Processes of excitation in the dendrites and in the soma of single isolated sensory nerve cells of the lobster and crayfish</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFEEC4B0CFDDABB03" box="[300,550,1065,1086]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFEEC4B0CFDDABB03" box="[300,550,1065,1086]" italics="true" pageId="7" pageNumber="8">Journal of General Physiology</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFDF04B0CFDB4BB03" bold="true" box="[560,584,1065,1086]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFDF04B0CFDB4BB03" box="[560,584,1065,1086]" pageId="7" pageNumber="8" type="volume">39</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFD934B0CFD66BB03" box="[595,666,1065,1086]" pageId="7" pageNumber="8" type="pagination">87–119</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14B66FE6BBB4E" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14B66FE6BBB4E" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4790" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14B66FF15BB64" box="[113,233,1091,1113]" case="TC" fns="I" in="R." ins="D" ln="Fettiplace" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Fettiplace, R.</author>
+<year id="FFA977E5FFA2FFDCFF2E4B66FEE2BB64" box="[238,286,1091,1113]" pageId="7" pageNumber="8">2016</year>
+. 
+<title id="F905DD80FFA2FFDCFEE74B61FD06BB64" box="[295,762,1091,1113]" pageId="7" pageNumber="8">Is TMC1 the hair cell mechanotransducer channel?</title>
+<journalOrPublisher id="51C03C7AFFA2FFDCFF514B7BFECABB4E" box="[145,310,1118,1139]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFF514B7BFECABB4E" box="[145,310,1118,1139]" italics="true" pageId="7" pageNumber="8">Biophysical Journal</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFEFF4B7BFE98BB4E" bold="true" box="[319,356,1118,1139]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFEFF4B7BFE98BB4E" box="[319,356,1118,1139]" pageId="7" pageNumber="8" type="volume">111</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFEAF4B7BFE6FBB4E" box="[367,403,1118,1139]" pageId="7" pageNumber="8" type="pagination">3–9</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14B5CFEEDBBC4" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14B5CFEEDBBC4" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4814" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14B5CFF0DBBB3" box="[113,241,1145,1167]" case="TC" fns="I" in="M.R." ins="D" ln="Gleason" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Gleason, M.R.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF3A4B5CFEAEBBB3" box="[250,338,1145,1167]" case="TC" fns="I" in="A." ins="D" ln="Nagiel" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Nagiel, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE9A4B5CFE5BBBB3" box="[346,423,1145,1166]" case="TC" fns="I" in="S." ins="D" ln="Jamet" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Jamet, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE704B5CFDB4BBB3" box="[432,584,1145,1167]" case="TC" fns="I" in="M." ins="D" ln="Vologodskaia" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Vologodskaia, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFD904B5CFD18BBB3" box="[592,740,1145,1167]" case="TC" fns="I" in="H." ins="D" ln="Lopez-Schier" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">López-Schier, H.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFF514BB6FEE8BB94" box="[145,276,1171,1193]" case="TC" fns="I" in="A.J." ins="D" ln="Hudspeth" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Hudspeth, A.J.</author>
+<year id="FFA977E5FFA2FFDCFEDA4BB6FEB4BB95" box="[282,328,1171,1192]" pageId="7" pageNumber="8">2009</year>
+. 
+<title id="F905DD80FFA2FFDCFE924BB6FD6DBBF9" pageId="7" pageNumber="8">The transmembrane inner ear (Tmie) protein is essential for normal hearing and balance in the zebrafish</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFD5C4B8BFD3ABBE3" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFD5C4B8BFD3ABBE3" italics="true" pageId="7" pageNumber="8">Proceedings of the National Academy of Sciences of the United States of America</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFD114BECFD08BBE3" bold="true" box="[721,756,1225,1246]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFD114BECFD08BBE3" box="[721,756,1225,1246]" pageId="7" pageNumber="8" type="volume">106</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFF514BC6FEF0BBC4" box="[145,268,1251,1273]" pageId="7" pageNumber="8" type="pagination">21347–21352</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14BDBFE5EBA74" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14BDBFE5EBA74" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4888" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14BDBFEDEBA2E" box="[113,290,1278,1300]" case="TC" fns="I" in="C.A." ins="D" ln="Haselwandter" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Haselwandter, C.A.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFEFB4BDBFE3BBA2E" box="[315,455,1278,1300]" case="TC" fns="I" in="R." ins="D" ln="MacKinnon" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">MacKinnon, R.</author>
+<year id="FFA977E5FFA2FFDCFE0B4BDBFE07BA2E" box="[459,507,1278,1299]" pageId="7" pageNumber="8">2018</year>
+. 
+<title id="F905DD80FFA2FFDCFDC24BDBFDECBA12" pageId="7" pageNumber="8">Piezo’s membrane footprint and its contribution to mechanosensitivity</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFDD74A3CFDC1BA13" box="[535,573,1305,1326]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFDD74A3CFDC1BA13" box="[535,573,1305,1326]" italics="true" pageId="7" pageNumber="8">Elife</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFD874A3CFDAFBA13" bold="true" box="[583,595,1305,1326]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFD874A3CFDAFBA13" box="[583,595,1305,1326]" pageId="7" pageNumber="8" type="volume">7</part>
+</emphasis>
+: e 
+<pagination id="B2C8C842FFA2FFDCFDA84A3CFD5EBA12" box="[616,674,1305,1327]" pageId="7" pageNumber="8" type="pagination">41968</pagination>
+[
+<DOI id="FF90F6C6FFA2FFDCFD704A3CFE61BA74" pageId="7" pageNumber="8">https:// doi.org/10.7554/elife.41968]</DOI>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14A6BFDA1BA43" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14A6BFDA1BA43" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4931" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14A6BFF05BA5E" box="[113,249,1358,1380]" case="TC" fns="I" in="W." ins="D" ln="Humphrey" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Humphrey, W.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEC34A6BFEA5BA5E" box="[259,345,1358,1380]" case="TC" fns="I" in="A." ins="D" ln="Dalke" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Dalke, A.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFEB84A6BFE16BA5E" box="[376,490,1358,1380]" case="TC" fns="I" in="K." ins="D" ln="Schulten" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Schulten, K.</author>
+<year id="FFA977E5FFA2FFDCFE304A6BFDDCBA59" box="[496,544,1358,1380]" pageId="7" pageNumber="8">1996</year>
+. 
+<title id="F905DD80FFA2FFDCFDEA4A6BFF15BA42" pageId="7" pageNumber="8">VMD-visual molecular dynamics</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFF314A4CFE0CBA43" box="[241,496,1385,1406]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFF314A4CFE0CBA43" box="[241,496,1385,1406]" italics="true" pageId="7" pageNumber="8">Journal of Molecular Graphics</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFE394A4CFDEDBA43" bold="true" box="[505,529,1385,1406]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFE394A4CFDEDBA43" box="[505,529,1385,1406]" pageId="7" pageNumber="8" type="volume">14</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFDDD4A4CFDA4BA43" box="[541,600,1385,1406]" pageId="7" pageNumber="8" type="pagination">33–38</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14AA1FD07BAF2" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14AA1FD07BAF2" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref4962" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14AA1FF36BAA4" box="[113,202,1412,1433]" case="TC" fns="I" in="H." ins="D" ln="Jeong" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Jeong, H.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF144AA6FED8BAA5" box="[212,292,1411,1433]" case="TC" fns="I" in="S." ins="D" ln="Clark" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Clark, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEEE4AA6FE54BAA4" box="[302,424,1411,1433]" case="TC" fns="I" in="A." ins="D" ln="Goehring" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Goehring, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE724AA6FD5ABAA5" box="[434,678,1411,1433]" case="TC" fns="I" in="S." ins="D" ln="Dehghani-Ghahnaviyeh" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Dehghani-Ghahnaviyeh, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFD714AA6FF54BA8E" case="TC" fns="I" in="A." ins="D" ln="Rasouli" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Rasouli, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF6E4ABBFECBBA8E" box="[174,311,1438,1460]" case="TC" fns="I" in="E." ins="D" ln="Tajkhorshid" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Tajkhorshid,E.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFE8E4ABBFE4EBA8E" box="[334,434,1438,1459]" case="TC" fns="I" in="E." ins="D" ln="Gouaux" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Gouaux, E.</author>
+<year id="FFA977E5FFA2FFDCFE754ABBFE19BA8E" box="[437,485,1438,1459]" pageId="7" pageNumber="8">2022</year>
+. 
+<title id="F905DD80FFA2FFDCFE2B4ABBFDD6BAF2" pageId="7" pageNumber="8">Structures of the TMC-1 complex illuminate mechanosensory transduction</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFDF04A9CFD90BAF3" box="[560,620,1465,1486]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFDF04A9CFD90BAF3" box="[560,620,1465,1486]" italics="true" pageId="7" pageNumber="8">Nature</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFDB64A9CFD67BAF3" bold="true" box="[630,667,1465,1486]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFDB64A9CFD67BAF3" box="[630,667,1465,1486]" pageId="7" pageNumber="8" type="volume">610</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFD654A9CFD0BBAF2" box="[677,759,1465,1487]" pageId="7" pageNumber="8" type="pagination">796–803</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB14AF1FDA9B999" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB14AF1FDA9B999" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref5016" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB14AF1FF35BAD4" box="[113,201,1492,1513]" case="TC" fns="I" in="J." ins="D" ln="Jumper" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Jumper, J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF104AF1FED8BAD4" box="[208,292,1492,1513]" case="TC" fns="I" in="R." ins="D" ln="Evans" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Evans, R.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEEB4AF6FE78BAD4" box="[299,388,1491,1513]" case="TC" fns="I" in="A." ins="D" ln="Pritzel" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Pritzel, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE4B4AF6FE1CBAD4" box="[395,480,1491,1513]" case="TC" fns="I" in="T." ins="D" ln="Green" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Green, T.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE264AF6FDA7BAD4" box="[486,603,1491,1513]" case="TC" fns="I" in="M." ins="D" ln="Figurnov" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Figurnov, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFDA24AF6FD0BBAD5" box="[610,759,1491,1513]" case="TC" fns="I" in="O." ins="D" ln="Ronneberger" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Ronneberger, O.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF514ACBFEAFB93E" box="[145,339,1518,1540]" case="TC" fns="I" in="K." ins="D" ln="Tunyasuvunakool" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Tunyasuvunakool, K.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE9C4ACBFE51B93E" box="[348,429,1518,1539]" case="TC" fns="I" in="R." ins="D" ln="Bates" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Bates, R.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE754AD5FDF0B93E" box="[437,524,1518,1544]" case="TC" fns="I" in="A." ins="D" ln="Zidek" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Žídek, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFDD44ACBFD68B93E" box="[532,660,1518,1540]" case="TC" fns="I" in="A." ins="D" ln="Potapenko" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Potapenko, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFD5C4ACBFF54B923" case="TC" fns="I" in="A." ins="D" ln="Bridgland" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Bridgland, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF70492CFEF4B923" box="[176,264,1545,1566]" case="TC" fns="I" in="C." ins="D" ln="Meyer" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Meyer, C.</author>
+, 
+<author id="53BCDE53FFA2FFDCFED1492CFE78B923" box="[273,388,1545,1567]" case="TC" fns="I" in="S.A.A." ins="D" ln="Kohl" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kohl, S.A.A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE4C492CFE04B923" box="[396,504,1545,1567]" case="TC" fns="I" in="A.J." ins="D" ln="Ballard" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Ballard, A.J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE3F492CFDA6B923" box="[511,602,1545,1567]" case="TC" fns="I" in="A." ins="D" ln="Cowie" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Cowie, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFDA1492CFF59B904" case="TC" fns="I" in="B." ins="D" ln="Romera-Paredes" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Romera-Paredes, B.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF6F4906FEE8B905" box="[175,276,1571,1593]" case="TC" fns="I" in="S." ins="D" ln="Nikolov" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Nikolov, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEDF4906FE98B904" box="[287,356,1571,1593]" case="TC" fns="I" in="R." ins="D" ln="Jain" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Jain, R.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEAE4906FE45B904" box="[366,441,1571,1593]" case="TC" fns="I" in="J." ins="D" ln="Adler" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Adler, J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE034906FDF3B904" box="[451,527,1571,1593]" case="TC" fns="I" in="T." ins="D" ln="Back" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Back, T.</author>
+, 
+<author id="53BCDE53FFA2FFDCFDD94901FD7FB905" box="[537,643,1571,1593]" case="TC" fns="I" in="S." ins="D" ln="Petersen" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Petersen, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFD4E4906FD0BB904" box="[654,759,1571,1593]" case="TC" fns="I" in="D." ins="D" ln="Reiman" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Reiman, D.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF51491BFF12B96E" box="[145,238,1598,1620]" case="TC" fns="I" in="E." ins="D" ln="Clancy" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Clancy, E.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF35491BFE95B96E" box="[245,361,1598,1620]" case="TC" fns="I" in="M." ins="D" ln="Zielinski" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Zielinski, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEB0491BFE0FB96E" box="[368,499,1598,1620]" case="TC" fns="I" in="M." ins="D" ln="Steinegger" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Steinegger, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE3A491BFD85B96E" box="[506,633,1598,1620]" case="TC" fns="I" in="M." ins="D" ln="Pacholska" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Pacholska, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFD41491BFF59B953" case="TC" fns="I" in="T." ins="D" ln="Berghammer" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Berghammer, T.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF6E497CFECCB953" box="[174,304,1625,1647]" case="TC" fns="I" in="S." ins="D" ln="Bodenstein" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Bodenstein, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEFA497CFE71B953" box="[314,397,1625,1647]" case="TC" fns="I" in="D." ins="D" ln="Silver" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Silver, D.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE56497CFE06B953" box="[406,506,1625,1647]" case="TC" fns="I" in="O." ins="D" ln="Vinyals" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Vinyals, O.</author>
+, 
+<author id="53BCDE53FFA2FFDCFDC3497CFD8AB953" box="[515,630,1625,1647]" case="TC" fns="I" in="A.W." ins="D" ln="Senior" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Senior, A.W.</author>
+, 
+<author id="53BCDE53FFA2FFDCFDBE497CFF55B9B4" case="TC" fns="I" in="K." ins="D" ln="Kavukcuoglu" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kavukcuoglu, K.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF724956FEFDB9B4" box="[178,257,1651,1673]" case="TC" fns="I" in="P." ins="D" ln="Kohli" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kohli, P.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFEDE4956FE72B9B4" box="[286,398,1651,1673]" case="TC" fns="I" in="D." ins="D" ln="Hassabis" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Hassabis, D.</author>
+<year id="FFA977E5FFA2FFDCFE534956FE3FB9B5" box="[403,451,1651,1672]" pageId="7" pageNumber="8">2021</year>
+. 
+<title id="F905DD80FFA2FFDCFE0C4956FE7DB999" pageId="7" pageNumber="8">Highly accurate protein structure prediction with AlphaFold</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFE4949AAFE39B999" box="[393,453,1679,1700]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFE4949AAFE39B999" box="[393,453,1679,1700]" italics="true" pageId="7" pageNumber="8">Nature</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFE0E49ABFE0FB99E" bold="true" box="[462,499,1678,1699]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFE0E49ABFE0FB99E" box="[462,499,1678,1699]" pageId="7" pageNumber="8" type="volume">596</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFE3E49ABFDACB999" box="[510,592,1678,1700]" pageId="7" pageNumber="8" type="pagination">583–589</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB1498CFED3B814" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB1498CFED3B814" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref5211" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB1498CFF06B983" box="[113,250,1705,1727]" case="TC" fns="I" in="Y." ins="D" ln="Kawashima" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kawashima, Y.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEC4498CFE85B983" box="[260,377,1705,1727]" case="TC" fns="I" in="G.S." ins="D" ln="Geleoc" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Géléoc, G.S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE44498CFE11B983" box="[388,493,1705,1727]" case="TC" fns="I" in="K." ins="D" ln="Kurima" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kurima, K.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE38498CFDB2B983" box="[504,590,1705,1727]" case="TC" fns="I" in="V." ins="D" ln="Labay" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Labay, V.</author>
+, 
+<author id="53BCDE53FFA2FFDCFD99498CFD59B983" box="[601,677,1705,1727]" case="TC" fns="I" in="A." ins="D" ln="Lelli" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Lelli, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFD70498CFD04B983" box="[688,760,1705,1727]" case="TC" fns="I" in="Y." ins="D" ln="Asai" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Asai, Y.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF5149E6FEEAB9E4" box="[145,278,1731,1753]" case="TC" fns="I" in="T." ins="D" ln="Makishima" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Makishima, T.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEE049E1FE84B9E4" box="[288,376,1732,1753]" case="TC" fns="I" in="D.K." ins="D" ln="Wu" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Wu, D.K.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE4249E6FDCEB9E5" box="[386,562,1731,1753]" case="TC" fns="I" in="C.C." ins="D" ln="Della Santina" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Della Santina, C.C.</author>
+, 
+<author id="53BCDE53FFA2FFDCFDFC49E6FD68B9E4" box="[572,660,1731,1753]" case="TC" fns="I" in="J.R." ins="D" ln="Holt" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Holt, J.R.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFD7249E6FF4FB9CE" case="TC" fns="I" in="A.J." ins="D" ln="Griffith" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Griffith, A.J.</author>
+<year id="FFA977E5FFA2FFDCFF7649FBFF1AB9CE" box="[182,230,1758,1779]" pageId="7" pageNumber="8">2011</year>
+. 
+<title id="F905DD80FFA2FFDCFF2C49FBFE2FB833" pageId="7" pageNumber="8">Mechanotransduction in mouse inner ear hair cells requires transmembrane channel-like genes</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFE1E49DCFD09B833" box="[478,757,1785,1806]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFE1E49DCFD09B833" box="[478,757,1785,1806]" italics="true" pageId="7" pageNumber="8">Journal of Clinical Investigation</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFF514836FF4AB815" bold="true" box="[145,182,1811,1832]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFF514836FF4AB815" box="[145,182,1811,1832]" pageId="7" pageNumber="8" type="volume">121</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFF014836FED7B814" box="[193,299,1811,1833]" pageId="7" pageNumber="8" type="pagination">4796–4809</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB1480BFD41B844" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB1480BFD41B844" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref5301" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB1480BFF07B87E" box="[113,251,1838,1860]" case="TC" fns="I" in="Y." ins="D" ln="Kawashima" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kawashima, Y.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEC7480BFE8DB87E" box="[263,369,1838,1860]" case="TC" fns="I" in="K." ins="D" ln="Kurima" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kurima, K.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEBE480BFE3EB87E" box="[382,450,1838,1859]" case="TC" fns="I" in="B." ins="D" ln="Pan" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Pan, B.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE0E480BFDBEB87E" box="[462,578,1838,1860]" case="TC" fns="I" in="A.J." ins="D" ln="Griffith" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Griffith, A.J.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFDA5480BFD43B87E" box="[613,703,1838,1860]" case="TC" fns="I" in="J.R." ins="D" ln="Holt" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Holt, J.R.</author>
+<year id="FFA977E5FFA2FFDCFD08480BFD04B879" box="[712,760,1838,1860]" pageId="7" pageNumber="8">2015</year>
+. 
+<title id="F905DD80FFA2FFDCFF51486CFE41B844" pageId="7" pageNumber="8">Transmembrane channel-like (TMC) genes are required for auditory and vestibular mechanosensation</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFE044846FDB8B845" box="[452,580,1891,1912]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFE044846FDB8B845" box="[452,580,1891,1912]" italics="true" pageId="7" pageNumber="8">Pflugers Archiv</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFD8E4846FD8FB845" bold="true" box="[590,627,1891,1912]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFD8E4846FD8FB845" box="[590,627,1891,1912]" pageId="7" pageNumber="8" type="volume">467</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFDBD4846FD45B844" box="[637,697,1891,1913]" pageId="7" pageNumber="8" type="pagination">85–94</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFFB1485BFD07B8F5" blockId="7.[113,764,185,1993]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFFB1485BFD07B8F5" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref5354" type="journal article">
+<author id="53BCDE53FFA2FFDCFFB1485BFF00B8AE" box="[113,252,1918,1940]" case="TC" fns="I" in="P." ins="D" ln="Kazmierczak" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kazmierczak, P.</author>
+, 
+<author id="53BCDE53FFA2FFDCFEC6485BFE83B8AE" box="[262,383,1918,1940]" case="TC" fns="I" in="H." ins="D" ln="Sakaguchi" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Sakaguchi, H.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE4A485BFE25B8AE" box="[394,473,1918,1940]" case="TC" fns="I" in="J." ins="D" ln="Tokita" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Tokita, J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFE23485BFD59B8AE" box="[483,677,1918,1940]" case="TC" fns="I" in="E.M." ins="D" ln="Wilson-Kubalek" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Wilson-Kubalek, E.M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFD6F485BFF40B893" case="TC" fns="I" in="R.A." ins="D" ln="Milligan" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Milligan, R.A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFF0448BCFEE0B893" box="[196,284,1945,1967]" case="TC" fns="I" in="U." ins="D" ln="Muller" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Müller, U.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFEF848BCFE6DB893" box="[312,401,1945,1967]" case="TC" fns="I" in="B." ins="D" ln="Kachar" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kachar, B.</author>
+<year id="FFA977E5FFA2FFDCFE5648BCFE38B893" box="[406,452,1945,1966]" pageId="7" pageNumber="8">2007</year>
+. 
+<title id="F905DD80FFA2FFDCFE0C48BCFDB0B8F4" pageId="7" pageNumber="8">Cadherin 23 and protocadherin 15 interact to form tip-link filaments in sensory hair cells</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFD924891FD77B8F4" box="[594,651,1972,1993]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFD924891FD77B8F4" box="[594,651,1972,1993]" italics="true" pageId="7" pageNumber="8">Nature</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFD524896FD49B8F5" bold="true" box="[658,693,1971,1992]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFD524896FD49B8F5" box="[658,693,1971,1992]" pageId="7" pageNumber="8" type="volume">449</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFD7F4896FD04B8F5" box="[703,760,1971,1992]" pageId="7" pageNumber="8" type="pagination">87–91</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4FB5FB94BFC8" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4FB5FB94BFC8" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref5417" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4FB5FC5ABF98" box="[810,934,144,165]" case="TC" fns="I" in="G." ins="D" ln="Keresztes" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Keresztes, G.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC734FAAFBECBF98" box="[947,1040,143,165]" case="TC" fns="I" in="H." ins="D" ln="Mutai" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Mutai, H.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFBF54FAAFB71BF98" box="[1077,1165,143,165]" case="TC" fns="I" in="S." ins="D" ln="Heller" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Heller, S.</author>
+<year id="FFA977E5FFA2FFDCFB574FB5FB3BBF98" box="[1175,1223,144,165]" pageId="7" pageNumber="8">2003</year>
+. 
+<title id="F905DD80FFA2FFDCFB134FB5FBA8BFE6" jopScore="0.4089371" pageId="7" pageNumber="8">TMC and EVER genes belong to a larger novel family, the TMC gene family encoding transmembrane proteins</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFBA14FE0FB13BFE7" box="[1121,1263,197,218]" jopScore="1.1502404" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFBA14FE0FB13BFE7" box="[1121,1263,197,218]" italics="true" pageId="7" pageNumber="8">BMC Genomics</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFB3F4FE0FAF7BFE7" bold="true" box="[1279,1291,197,218]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFB3F4FE0FAF7BFE7" box="[1279,1291,197,218]" pageId="7" pageNumber="8" type="volume">4</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFADC4FE0FACFBFE7" box="[1308,1331,197,218]" pageId="7" pageNumber="8" type="pagination">24</pagination>
+[
+<DOI id="FF90F6C6FFA2FFDCFA874FE0FB9FBFC8" pageId="7" pageNumber="8">
+https://doi. org/10.1186/1471- 
+<date id="FFBF1076FFA2FFDCFC394FFAFBA6BFC8" box="[1017,1114,223,245]" pageId="7" pageNumber="8" value="2164-04-24">2164-4-24</date>
+]
+</DOI>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4FDFFA48BE92" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4FDFFA48BE92" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref5477" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4FDFFC68BE32" box="[810,916,250,272]" case="TC" fns="I" in="K." ins="D" ln="Kurima" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kurima, K.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC604FDFFBEFBE32" box="[928,1043,250,271]" case="TC" fns="I" in="L.M." ins="D" ln="Peters" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Peters, L.M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBDE4FDFFB90BE32" box="[1054,1132,250,271]" case="TC" fns="I" in="Y." ins="D" ln="Yang" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Yang, Y.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBB74FDFFB0FBE32" box="[1143,1267,250,272]" case="TC" fns="I" in="S." ins="D" ln="Riazuddin" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Riazuddin, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB3F4FDFFA82BE32" box="[1279,1406,250,272]" case="TC" fns="I" in="Z.M." ins="D" ln="Ahmed" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Ahmed, Z.M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFA4A4FDFFCA0BE17" case="TC" fns="I" in="S." ins="D" ln="Naz" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Naz, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFCA54E30FC37BE17" box="[869,971,277,299]" case="TC" fns="I" in="D." ins="D" ln="Arnaud" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Arnaud, D.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC154E30FBD4BE17" box="[981,1064,277,298]" case="TC" fns="I" in="S." ins="D" ln="Drury" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Drury, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBF24E30FB95BE17" box="[1074,1129,277,298]" case="TC" fns="I" in="J." ins="D" ln="Mo" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Mo, J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBB34E30FB0ABE17" box="[1139,1270,277,299]" case="TC" fns="I" in="T." ins="D" ln="Makishima" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Makishima, T.</author>
+, 
+<author id="53BCDE53FFA2FFDCFAC04E30FA9FBE17" box="[1280,1379,277,299]" case="TC" fns="I" in="M." ins="D" ln="Ghosh" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Ghosh, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFAAC4E30FC90BE79" case="TC" fns="I" in="P.S." ins="D" ln="Menon" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Menon, P.S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFCB54E0AFC06BE78" box="[885,1018,303,325]" case="TC" fns="I" in="D." ins="D" ln="Deshmukh" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Deshmukh, D.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBC34E0AFB8CBE79" box="[1027,1136,303,325]" case="TC" fns="I" in="C." ins="D" ln="Oddoux" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Oddoux, C.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBB94E0AFB2ABE78" box="[1145,1238,303,325]" case="TC" fns="I" in="H." ins="D" ln="Ostrer" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Ostrer, H.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB1F4E0AFAD1BE79" box="[1247,1325,303,325]" case="TC" fns="I" in="S." ins="D" ln="Khan" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Khan, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFAF64E0AFA53BE79" box="[1334,1455,303,325]" case="TC" fns="I" in="S." ins="D" ln="Riazuddin" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Riazuddin, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC8A4E6FFC29BE62" box="[842,981,330,352]" case="TC" fns="I" in="P.L." ins="D" ln="Deininger" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Deininger, P.L.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC1F4E6FFB96BE62" box="[991,1130,330,351]" case="TC" fns="I" in="L.L." ins="D" ln="Hampton" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Hampton, L.L.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBB54E6FFB12BE62" box="[1141,1262,330,352]" case="TC" fns="I" in="S.L." ins="D" ln="Sullivan" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Sullivan, S.L.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB394E6FFA8DBE62" box="[1273,1393,330,351]" case="TC" fns="I" in="J.F." ins="D" ln="Battey" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Battey, J.F. Jr</author>
+, 
+<author id="53BCDE53FFA2FFDCFABC4E6FFC96BE47" case="TC" fns="I" in="B.J." ins="D" ln="Keats" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Keats, B.J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFCB54E40FC10BE47" box="[885,1004,357,379]" case="TC" fns="I" in="E.R." ins="D" ln="Wilcox" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Wilcox, E.R.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC374E40FB7DBE47" box="[1015,1153,357,379]" case="TC" fns="I" in="T.B." ins="D" ln="Friedman" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Friedman, T.B.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFB624E40FAE8BE47" box="[1186,1300,357,379]" case="TC" fns="I" in="A.J." ins="D" ln="Griffith" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Griffith, A.J.</author>
+<year id="FFA977E5FFA2FFDCFADB4E40FAB7BE47" box="[1307,1355,357,378]" pageId="7" pageNumber="8">2002</year>
+. 
+<title id="F905DD80FFA2FFDCFA964E40FB5FBE8D" jopScore="2.0593991" pageId="7" pageNumber="8">Dominant and recessive deafness caused by mutations of a novel gene, TMC1, required for cochlear hair-cell function</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFB6A4EBEFACDBE92" box="[1194,1329,410,432]" jopScore="1.1935047" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFB6A4EBEFACDBE92" box="[1194,1329,410,432]" italics="true" pageId="7" pageNumber="8">Nature Genetics</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFAFB4EBFFAAFBE92" bold="true" box="[1339,1363,410,431]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFAFB4EBFFAAFBE92" box="[1339,1363,410,431]" pageId="7" pageNumber="8" type="volume">30</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFA9D4EBFFA4CBE92" box="[1373,1456,410,431]" pageId="7" pageNumber="8" type="pagination">277–284</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4E90FAB9BEC2" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4E90FAB9BEC2" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref5656" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4E90FC67BEF7" box="[810,923,437,458]" case="TC" fns="I" in="A.K.M." ins="D" ln="Lam" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Lam,A.K.M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC5F4E90FC23BEF7" box="[927,991,437,458]" case="TC" fns="I" in="S." ins="D" ln="Rutz" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Rutz,S.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFC314E90FBB1BEF7" box="[1009,1101,437,459]" case="TC" fns="I" in="R." ins="D" ln="Dutzler" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Dutzler,R.</author>
+<year id="FFA977E5FFA2FFDCFB8D4E90FB87BEF7" box="[1101,1147,437,458]" pageId="7" pageNumber="8">2022</year>
+. 
+<title id="F905DD80FFA2FFDCFBBF4E90FB23BED9" pageId="7" pageNumber="8">Inhibitionmechanismofthechloride channel TMEM16A by the pore blocker 1PBC</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFB264EF5FA52BED8" box="[1254,1454,464,485]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFB264EF5FA52BED8" box="[1254,1454,464,485]" italics="true" pageId="7" pageNumber="8">Nature Communications</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFC8A4ECFFC9DBEC2" bold="true" box="[842,865,490,511]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFC8A4ECFFC9DBEC2" box="[842,865,490,511]" pageId="7" pageNumber="8" type="volume">13</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFCAC4ECFFC64BEC2" box="[876,920,490,511]" pageId="7" pageNumber="8" type="pagination">2798</pagination>
+[
+<DOI id="FF90F6C6FFA2FFDCFC644ECFFABCBEC2" box="[932,1344,489,512]" pageId="7" pageNumber="8">https://doi.org/10.1038/s41467-022-30479-1]</DOI>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4D20FBC5BDB9" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4D20FBC5BDB9" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref5714" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4D20FC1CBD27" box="[810,992,517,538]" case="TC" fns="I" in="C.M." ins="D" ln="Longo-Guess" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Longo-Guess, C.M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC2B4D20FB97BD27" box="[1003,1131,517,538]" case="TC" fns="I" in="L.H." ins="D" ln="Gagnon" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Gagnon, L.H.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBB64D20FB21BD27" box="[1142,1245,517,539]" case="TC" fns="I" in="S.A." ins="D" ln="Cook" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Cook, S.A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB284D20FADFBD27" box="[1256,1315,517,538]" case="TC" fns="I" in="J." ins="D" ln="Wu" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Wu, J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFAED4D20FA67BD27" box="[1325,1435,517,539]" case="TC" fns="I" in="Q.Y." ins="D" ln="Zheng" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Zheng, Q.Y.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFC8A4D3AFC31BD08" box="[842,973,543,565]" case="TC" fns="I" in="K.R." ins="D" ln="Johnson" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Johnson, K.R.</author>
+<year id="FFA977E5FFA2FFDCFC144D3AFBF8BD08" box="[980,1028,543,565]" pageId="7" pageNumber="8">2005</year>
+. 
+<title id="F905DD80FFA2FFDCFBCF4D05FA4CBD6D" pageId="7" pageNumber="8">A missense mutation in the previously undescribed gene Tmhs underlies deafness in hurry-scurry (hscy) mice</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFC8A4D70FC6EBDB8" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFC8A4D70FC6EBDB8" italics="true" pageId="7" pageNumber="8">Proceedings of the National Academy of Sciences of the United States of America</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFC5B4D4AFC3CBDB9" bold="true" box="[923,960,623,644]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFC5B4D4AFC3CBDB9" box="[923,960,623,644]" pageId="7" pageNumber="8" type="volume">102</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFC0B4D4AFBC9BDB9" box="[971,1077,623,644]" pageId="7" pageNumber="8" type="pagination">7894–7899</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4DAFFB09BC36" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4DAFFB09BC36" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref5793" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4DAFFC99BDA2" box="[810,869,650,671]" case="TC" fns="I" in="S." ins="D" ln="Naz" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Naz, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFCAC4DAFFC1BBDA2" box="[876,999,650,672]" case="TC" fns="I" in="C.M." ins="D" ln="Giguere" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Giguere, C.M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC2D4DAFFB8DBDA2" box="[1005,1137,650,672]" case="TC" fns="I" in="D.C." ins="D" ln="Kohrman" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kohrman,D.C.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBB74DAFFB0BBDA2" box="[1143,1271,650,672]" case="TC" fns="I" in="K.L." ins="D" ln="Mitchem" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Mitchem,K.L.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB3C4DAFFA92BDA2" box="[1276,1390,650,672]" case="TC" fns="I" in="S." ins="D" ln="Riazuddin" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Riazuddin,S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFAB44DAFFC97BD87" case="TC" fns="I" in="R.J." ins="D" ln="Morell" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Morell, R.J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFCB44D80FC27BD87" box="[884,987,677,699]" case="TC" fns="I" in="A." ins="D" ln="Ramesh" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Ramesh, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC234D80FBA3BD87" box="[995,1119,677,699]" case="TC" fns="I" in="S." ins="D" ln="Srisailpathy" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Srisailpathy, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBA84D80FB14BD87" box="[1128,1256,677,699]" case="TC" fns="I" in="D." ins="D" ln="Deshmukh" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Deshmukh, D.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB314D80FA99BD87" box="[1265,1381,677,699]" case="TC" fns="I" in="S." ins="D" ln="Riazuddin" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Riazuddin, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFAAD4D80FC97BDE9" case="TC" fns="I" in="A.J." ins="D" ln="Griffith" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Griffith, A.J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFCB04D9AFC0CBDE8" box="[880,1008,703,725]" case="TC" fns="I" in="T.B." ins="D" ln="Friedman" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Friedman,T.B.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC354D9AFBADBDE8" box="[1013,1105,703,725]" case="TC" fns="I" in="R.J." ins="D" ln="Smith" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Smith,R.J.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFBA64D9AFB2EBDE8" box="[1126,1234,703,725]" case="TC" fns="I" in="E.R." ins="D" ln="Wilcox" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Wilcox,E.R.</author>
+<year id="FFA977E5FFA2FFDCFB144D9AFAFEBDE9" box="[1236,1282,703,724]" pageId="7" pageNumber="8">2002</year>
+. 
+<title id="F905DD80FFA2FFDCFAC74D9AFA4CBDCD" jopScore="0.098096035" pageId="7" pageNumber="8">Mutations in a novel gene, TMIE, are associated with hearing loss linked to the DFNB6 locus</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFC8A4DD0FB8BBC37" box="[842,1143,757,778]" jopScore="0.68057716" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFC8A4DD0FB8BBC37" box="[842,1143,757,778]" italics="true" pageId="7" pageNumber="8">American Journal of Human Genetics</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFB404DD1FB6BBC34" bold="true" box="[1152,1175,756,777]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFB404DD1FB6BBC34" box="[1152,1175,756,777]" pageId="7" pageNumber="8" type="volume">71</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFB614DD0FB0DBC36" box="[1185,1265,757,779]" pageId="7" pageNumber="8" type="pagination">632–636</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4C2AFC5DBC67" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4C2AFC5DBC67" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref5912" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4C2AFC7BBC18" box="[810,903,783,805]" case="TC" fns="I" in="Y." ins="D" ln="Naitoh" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Naitoh, Y.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFC644C2AFBFCBC18" box="[932,1024,783,805]" case="TC" fns="I" in="R." ins="D" ln="Eckert" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Eckert, R.</author>
+<year id="FFA977E5FFA2FFDCFBC64C2AFBCABC18" box="[1030,1078,783,805]" pageId="7" pageNumber="8">1969</year>
+. 
+<title id="F905DD80FFA2FFDCFB804C2AFACDBC7D" pageId="7" pageNumber="8">Ionic mechanisms controlling behavioral responses of paramecium to mechanical stimulation</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFAFD4C0FFA86BC02" box="[1341,1402,810,831]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFAFD4C0FFA86BC02" box="[1341,1402,810,831]" italics="true" pageId="7" pageNumber="8">Science</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFA484C0FFA51BC02" bold="true" box="[1416,1453,810,831]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFA484C0FFA51BC02" box="[1416,1453,810,831]" pageId="7" pageNumber="8" type="volume">164</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFC8A4C61FC61BC67" box="[842,925,836,858]" pageId="7" pageNumber="8" type="pagination">963–965</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4C45FB2CBCF8" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4C45FB2CBCF8" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref5942" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4C45FC90BC48" box="[810,876,864,885]" case="TC" fns="I" in="B." ins="D" ln="Pan" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Pan, B.</author>
+, 
+<author id="53BCDE53FFA2FFDCFCB54C7AFC14BC49" box="[885,1000,863,885]" case="TC" fns="I" in="G.S." ins="D" ln="Geleoc" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Géléoc, G.S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC324C7AFBC4BC48" box="[1010,1080,863,885]" case="TC" fns="I" in="Y." ins="D" ln="Asai" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Asai, Y.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB804C7AFB3FBC49" box="[1088,1219,863,885]" case="TC" fns="I" in="G.C." ins="D" ln="Horwitz" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Horwitz, G.C.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB0D4C7AFAC8BC48" box="[1229,1332,863,885]" case="TC" fns="I" in="K." ins="D" ln="Kurima" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kurima, K.</author>
+, 
+<author id="53BCDE53FFA2FFDCFAFE4C7AFA4CBC48" box="[1342,1456,863,885]" case="TC" fns="I" in="K." ins="D" ln="Ishikawa" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Ishikawa, K.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC8A4C5FFC33BCB2" box="[842,975,890,912]" case="TC" fns="I" in="Y." ins="D" ln="Kawashima" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kawashima, Y.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC154C5FFBBFBCB2" box="[981,1091,890,912]" case="TC" fns="I" in="A.J." ins="D" ln="Griffith" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Griffith, A.J.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFB9C4C5FFB4DBCB2" box="[1116,1201,890,912]" case="TC" fns="I" in="J.R." ins="D" ln="Holt" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Holt, J.R.</author>
+<year id="FFA977E5FFA2FFDCFB744C5FFB18BCB2" box="[1204,1252,890,911]" pageId="7" pageNumber="8">2013</year>
+. 
+<title id="F905DD80FFA2FFDCFB2B4C5FFBF5BCF8" pageId="7" pageNumber="8">TMC1 and TMC2 are components of the mechanotransduction channel in hair cells of the mammalian inner ear</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFBD04C95FBACBCF8" box="[1040,1104,944,965]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFBD04C95FBACBCF8" box="[1040,1104,944,965]" italics="true" pageId="7" pageNumber="8">Neuron</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFB964C8AFB92BCF9" bold="true" box="[1110,1134,943,964]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFB964C8AFB92BCF9" box="[1110,1134,943,964]" pageId="7" pageNumber="8" type="volume">79</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFBB94C8AFB30BCF8" box="[1145,1228,943,965]" pageId="7" pageNumber="8" type="pagination">504–515</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4CEFFB44BB29" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4CEFFB44BB29" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref6024" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4CEFFC60BCE2" box="[810,924,970,992]" case="TC" fns="I" in="B." ins="D" ln="Rydqvist" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Rydqvist, B.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFC7F4CEFFBE5BCE2" box="[959,1049,970,992]" case="TC" fns="I" in="N." ins="D" ln="Purali" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Purali, N.</author>
+<year id="FFA977E5FFA2FFDCFBE24CEFFBAEBCE2" box="[1058,1106,970,991]" pageId="7" pageNumber="8">1993</year>
+. 
+<title id="F905DD80FFA2FFDCFB9E4CEFFC90BB28" pageId="7" pageNumber="8">
+Transducer properties of the rapidly adapting stretch receptor neuron in the crayfish (
+<emphasis id="B975EAA4FFA2FFDCFB3D4CC0FC9EBB29" italics="true" pageId="7" pageNumber="8">Pacifastacus leniusculus</emphasis>
+)
+</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFCB54CDAFBD4BB29" box="[885,1064,1023,1044]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFCB54CDAFBD4BB29" box="[885,1064,1023,1044]" italics="true" pageId="7" pageNumber="8">Journal of Physiology</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFBF14CDAFBAABB29" bold="true" box="[1073,1110,1023,1044]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFBF14CDAFBAABB29" box="[1073,1110,1023,1044]" pageId="7" pageNumber="8" type="volume">469</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFBA14CDAFB4FBB29" box="[1121,1203,1023,1044]" pageId="7" pageNumber="8" type="pagination">193–211</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4B3FFAACBB77" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4B3FFAACBB77" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref6062" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4B3FFC70BB12" box="[810,908,1050,1072]" case="TC" fns="I" in="T.F." ins="D" ln="Smith" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Smith, T.F.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFC654B3FFBC9BB12" box="[933,1077,1050,1071]" case="TC" fns="I" in="M.S." ins="D" ln="Waterman" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Waterman, M.S.</author>
+<year id="FFA977E5FFA2FFDCFBF94B3FFB95BB12" box="[1081,1129,1050,1071]" pageId="7" pageNumber="8">1981</year>
+. 
+<title id="F905DD80FFA2FFDCFBB04B3FFC3BBB76" pageId="7" pageNumber="8">Identification of common molecular subsequences</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFC0E4B10FB3CBB77" box="[974,1216,1077,1098]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFC0E4B10FB3CBB77" box="[974,1216,1077,1098]" italics="true" pageId="7" pageNumber="8">Journal of Molecular Biology</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFB0A4B11FB13BB74" bold="true" box="[1226,1263,1076,1097]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFB0A4B11FB13BB74" box="[1226,1263,1076,1097]" pageId="7" pageNumber="8" type="volume">147</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFB3A4B11FAB0BB77" box="[1274,1356,1076,1098]" pageId="7" pageNumber="8" type="pagination">195–197</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4B6AFB89BBBD" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4B6AFB89BBBD" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref6094" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4B6AFC7BBB58" box="[810,903,1103,1125]" case="TC" fns="I" in="K.P." ins="D" ln="Steel" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Steel, K.P.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFC624B6AFBFBBB59" box="[930,1031,1103,1125]" case="TC" fns="I" in="G.R." ins="D" ln="Bock" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Bock, G.R.</author>
+<year id="FFA977E5FFA2FFDCFBCC4B6AFBC0BB59" box="[1036,1084,1103,1124]" pageId="7" pageNumber="8">1980</year>
+. 
+<title id="F905DD80FFA2FFDCFB854B6AFC5EBBBD" pageId="7" pageNumber="8">The nature of inherited deafness in deafness mice</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFC6A4B4EFC1ABBBD" box="[938,998,1131,1152]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFC6A4B4EFC1ABBBD" box="[938,998,1131,1152]" italics="true" pageId="7" pageNumber="8">Nature</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFC2F4B4FFBE8BB42" bold="true" box="[1007,1044,1130,1151]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFC2F4B4FFBE8BB42" box="[1007,1044,1130,1151]" pageId="7" pageNumber="8" type="volume">288</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFBDF4B4FFB8EBBBD" box="[1055,1138,1130,1152]" pageId="7" pageNumber="8" type="pagination">159–161</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4BA0FC5DBBD7" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4BA0FC5DBBD7" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref6126" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4BA0FC58BBA7" box="[810,932,1157,1179]" case="TC" fns="I" in="S.I." ins="D" ln="Sukharev" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Sukharev, S.I.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC6D4BA0FBE1BBA7" box="[941,1053,1157,1179]" case="TC" fns="I" in="B." ins="D" ln="Martinac" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Martinac, B.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBE54BA0FB50BBA7" box="[1061,1196,1157,1179]" case="TC" fns="I" in="V.Y." ins="D" ln="Arshavsky" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Arshavsky, V.Y.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFB064BA0FAE4BBA7" box="[1222,1304,1157,1178]" case="TC" fns="I" in="C." ins="D" ln="Kung" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kung, C.</author>
+<year id="FFA977E5FFA2FFDCFADC4BA0FAB0BBA7" box="[1308,1356,1157,1178]" pageId="7" pageNumber="8">1993</year>
+. 
+<title id="F905DD80FFA2FFDCFA944BA0FB2BBBED" pageId="7" pageNumber="8">Two types of mechanosensitive channels in the Escherichia coli cell envelope: solubilization and functional reconstitution</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFB214B9FFA74BBF2" box="[1249,1416,1210,1231]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFB214B9FFA74BBF2" box="[1249,1416,1210,1231]" italics="true" pageId="7" pageNumber="8">Biophysical Journal</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFA544B9FFA50BBF2" bold="true" box="[1428,1452,1210,1231]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFA544B9FFA50BBF2" box="[1428,1452,1210,1231]" pageId="7" pageNumber="8" type="volume">65</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFC8A4BF0FC61BBD7" box="[842,925,1237,1258]" pageId="7" pageNumber="8" type="pagination">177–183</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4BD5FBBFBA07" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4BD5FBBFBA07" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref6177" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4BD5FC8CBA38" box="[810,880,1264,1285]" case="TC" fns="I" in="J." ins="D" ln="Teng" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Teng, J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFCB94BCAFC2ABA39" box="[889,982,1263,1285]" case="TC" fns="I" in="S." ins="D" ln="Loukin" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Loukin, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC1F4BCAFBADBA39" box="[991,1105,1263,1285]" case="TC" fns="I" in="A." ins="D" ln="Anishkin" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Anishkin, A.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFBAC4BD5FB42BA39" box="[1132,1214,1263,1285]" case="TC" fns="I" in="C." ins="D" ln="Kung" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kung, C.</author>
+<year id="FFA977E5FFA2FFDCFB034BCAFB0FBA38" box="[1219,1267,1263,1285]" pageId="7" pageNumber="8">2015</year>
+. 
+<title id="F905DD80FFA2FFDCFB3B4BCAFA4CBA1D" jopScore="0.1312296" pageId="7" pageNumber="8">The force-from-lipid (FFL) principle of mechanosensitivity, at large and in elements</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFC8A4A00FC36BA07" box="[842,970,1317,1338]" jopScore="0.5063291" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFC8A4A00FC36BA07" box="[842,970,1317,1338]" italics="true" pageId="7" pageNumber="8">Pflugers Archiv</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFC144A01FC05BA04" bold="true" box="[980,1017,1316,1337]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFC144A01FC05BA04" box="[980,1017,1316,1337]" pageId="7" pageNumber="8" type="volume">467</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFBC34A00FBC3BA07" box="[1027,1087,1317,1338]" pageId="7" pageNumber="8" type="pagination">27–37</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4A1AFB92B932" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4A1AFB92B932" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref6222" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4A1AFC74BA68" box="[810,904,1343,1365]" case="TC" fns="I" in="M." ins="D" ln="Varadi" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Varadi, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC4F4A1AFC05BA69" box="[911,1017,1343,1364]" case="TC" fns="I" in="S." ins="D" ln="Anyango" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Anyango, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBC14A1AFB70BA68" box="[1025,1164,1343,1365]" case="TC" fns="I" in="M." ins="D" ln="Deshpande" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Deshpande, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB534A1AFB28BA69" box="[1171,1236,1343,1365]" case="TC" fns="I" in="S." ins="D" ln="Nair" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Nair, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB1C4A1AFABBBA69" box="[1244,1351,1343,1365]" case="TC" fns="I" in="C." ins="D" ln="Natassia" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Natassia, C.</author>
+, 
+<author id="53BCDE53FFA2FFDCFA8E4A1AFC9DBA52" case="TC" fns="I" in="G." ins="D" ln="Yordanova" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Yordanova, G.</author>
+, 
+<author id="53BCDE53FFA2FFDCFCAB4A7FFC47BA52" box="[875,955,1370,1391]" case="TC" fns="I" in="D." ins="D" ln="Yuan" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Yuan, D.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC054A7FFBEBBA52" box="[965,1047,1370,1391]" case="TC" fns="I" in="O." ins="D" ln="Stroe" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Stroe, O.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBE24A7FFB80BA52" box="[1058,1148,1370,1392]" case="TC" fns="I" in="G." ins="D" ln="Wood" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Wood, G.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB464A7FFB11BA52" box="[1158,1261,1370,1392]" case="TC" fns="I" in="A." ins="D" ln="Laydon" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Laydon, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB364A7EFAB2BA52" box="[1270,1358,1370,1395]" case="TC" fns="I" in="A." ins="D" ln="Zidek" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Žídek, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFA984A7FFA4CBA52" box="[1368,1456,1370,1391]" case="TC" fns="I" in="T." ins="D" ln="Green" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Green, T.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC8A4A50FBF1BAB7" box="[842,1037,1397,1419]" case="TC" fns="I" in="K." ins="D" ln="Tunyasuvunakool" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Tunyasuvunakool, K.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBD74A50FB7CBAB7" box="[1047,1152,1397,1418]" case="TC" fns="I" in="S." ins="D" ln="Petersen" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Petersen, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB4A4A50FB19BAB7" box="[1162,1253,1397,1418]" case="TC" fns="I" in="J." ins="D" ln="Jumper" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Jumper, J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB2E4A50FAB0BAB7" box="[1262,1356,1397,1419]" case="TC" fns="I" in="E." ins="D" ln="Clancy" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Clancy, E.</author>
+, 
+<author id="53BCDE53FFA2FFDCFA954A50FA4CBAB7" box="[1365,1456,1397,1418]" case="TC" fns="I" in="R." ins="D" ln="Green" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Green, R.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC8A4AB5FC64BA99" box="[842,920,1423,1445]" case="TC" fns="I" in="A." ins="D" ln="Vora" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Vora, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC644AAAFC04BA98" box="[932,1016,1423,1445]" case="TC" fns="I" in="M." ins="D" ln="Lutfi" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Lutfi, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBC34AAAFB80BA98" box="[1027,1148,1423,1445]" case="TC" fns="I" in="M." ins="D" ln="Figurnov" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Figurnov, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB484AAAFB1ABA99" box="[1160,1254,1423,1445]" case="TC" fns="I" in="A." ins="D" ln="Cowie" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Cowie, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB324AAAFAAFBA98" box="[1266,1363,1423,1445]" case="TC" fns="I" in="N." ins="D" ln="Hobbs" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Hobbs, N.</author>
+, 
+<author id="53BCDE53FFA2FFDCFA9F4AAAFA4CBA98" box="[1375,1456,1423,1445]" case="TC" fns="I" in="P." ins="D" ln="Kohli" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kohli, P.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC8A4A8FFC3CBA82" box="[842,960,1450,1472]" case="TC" fns="I" in="G." ins="D" ln="Kleywegt" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kleywegt, G.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC084A8FFBDCBA82" box="[968,1056,1450,1472]" case="TC" fns="I" in="E." ins="D" ln="Birney" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Birney, E.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBE84A8FFB6BBA82" box="[1064,1175,1450,1472]" case="TC" fns="I" in="D." ins="D" ln="Hassabis" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Hassabis, D.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFB714A8FFAE5BA82" box="[1201,1305,1450,1472]" case="TC" fns="I" in="S." ins="D" ln="Velankar" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Velankar, S.</author>
+<year id="FFA977E5FFA2FFDCFADD4A8FFAB1BA82" box="[1309,1357,1450,1471]" pageId="7" pageNumber="8">2022</year>
+. 
+<title id="F905DD80FFA2FFDCFA944A8FFA97BAC8" jopScore="0.042698134" pageId="7" pageNumber="8">AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFAB44AFAFC34B932" jopScore="1.3060673" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFAB44AFAFC34B932" italics="true" pageId="7" pageNumber="8">Nucleic Acids Research</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFC124ADFFC16B932" bold="true" box="[978,1002,1530,1551]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFC124ADFFC16B932" box="[978,1002,1530,1551]" pageId="7" pageNumber="8" type="volume">50</part>
+</emphasis>
+: D439–D 
+<pagination id="B2C8C842FFA2FFDCFB864ADFFB96B932" box="[1094,1130,1530,1551]" pageId="7" pageNumber="8" type="pagination">444</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4930FAAAB979" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4930FAAAB979" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref6387" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4930FC61B917" box="[810,925,1557,1579]" case="TC" fns="I" in="R.G." ins="D" ln="Walker" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Walker, R.G.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC644930FBC1B917" box="[932,1085,1557,1579]" case="TC" fns="I" in="A.T." ins="D" ln="Willingham" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Willingham, A.T.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFB964930FB46B917" box="[1110,1210,1557,1579]" case="TC" fns="I" in="C.S." ins="D" ln="Zuker" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Zuker, C.S.</author>
+<year id="FFA977E5FFA2FFDCFB7D4930FB11B917" box="[1213,1261,1557,1578]" pageId="7" pageNumber="8">2000</year>
+. 
+<title id="F905DD80FFA2FFDCFB344930FB90B978" pageId="7" pageNumber="8">A Drosophila mechanosensory transduction channel</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFBB34915FB4CB978" box="[1139,1200,1584,1605]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFBB34915FB4CB978" box="[1139,1200,1584,1605]" italics="true" pageId="7" pageNumber="8">Science</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFB79490AFB22B979" bold="true" box="[1209,1246,1583,1604]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFB79490AFB22B979" box="[1209,1246,1583,1604]" pageId="7" pageNumber="8" type="volume">287</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFB28490AFAAEB979" box="[1256,1362,1583,1604]" pageId="7" pageNumber="8" type="pagination">2229–2234</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA496FFA7BB98D" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA496FFA7BB98D" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref6423" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA496FFC53B962" box="[810,943,1610,1632]" case="TC" fns="I" in="A." ins="D" ln="Waterhouse" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Waterhouse, A.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC76496FFBE7B962" box="[950,1051,1610,1632]" case="TC" fns="I" in="M." ins="D" ln="Bertoni" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Bertoni, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBE1496FFB87B962" box="[1057,1147,1610,1632]" case="TC" fns="I" in="S." ins="D" ln="Bienert" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Bienert, S.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB42496FFB26B962" box="[1154,1242,1610,1632]" case="TC" fns="I" in="G." ins="D" ln="Studer" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Studer, G.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB21496FFAB0B962" box="[1249,1356,1610,1632]" case="TC" fns="I" in="G." ins="D" ln="Tauriello" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Tauriello, G.</author>
+, 
+<author id="53BCDE53FFA2FFDCFA93496FFC9CB947" case="TC" fns="I" in="R." ins="D" ln="Gumienny" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Gumienny, R.</author>
+, 
+<author id="53BCDE53FFA2FFDCFCAA4940FC3EB947" box="[874,962,1637,1658]" case="TC" fns="I" in="F.T." ins="D" ln="Heer" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Heer, F.T.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC0B4940FBAEB947" box="[971,1106,1637,1659]" case="TC" fns="I" in="T.A.P." ins="D" ln="Beer" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">de Beer, T.A.P.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB9B4940FB3BB947" box="[1115,1223,1637,1659]" case="TC" fns="I" in="C." ins="D" ln="Rempfer" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Rempfer, C.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB124940FACFB947" box="[1234,1331,1637,1659]" case="TC" fns="I" in="L." ins="D" ln="Bordoli" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Bordoli, L.</author>
+, 
+<author id="53BCDE53FFA2FFDCFAFD4940FA67B947" box="[1341,1435,1637,1658]" case="TC" fns="I" in="R." ins="D" ln="Lepore" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Lepore, R.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFC8A495AFC4AB9A8" box="[842,950,1663,1685]" case="TC" fns="I" in="T." ins="D" ln="Schwede" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Schwede, T.</author>
+<year id="FFA977E5FFA2FFDCFC7D495AFC17B9A9" box="[957,1003,1663,1684]" pageId="7" pageNumber="8">2018</year>
+. 
+<title id="F905DD80FFA2FFDCFC36495AFBD8B98D" jopScore="0.11517551" pageId="7" pageNumber="8">SWISS-MODEL: homology modelling of protein structures and complexes</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFBEA49BFFB1DB992" box="[1066,1249,1690,1711]" jopScore="1.3060673" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFBEA49BFFB1DB992" box="[1066,1249,1690,1711]" italics="true" pageId="7" pageNumber="8">Nucleic Acids Research</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFB2949BFFAFCB992" bold="true" box="[1257,1280,1690,1711]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFB2949BFFAFCB992" box="[1257,1280,1690,1711]" pageId="7" pageNumber="8" type="volume">46</part>
+</emphasis>
+: W296–W 
+<pagination id="B2C8C842FFA2FFDCFAA349BFFA7FB98D" box="[1379,1411,1690,1712]" pageId="7" pageNumber="8" type="pagination">303</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4990FA5FB827" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4990FA5FB827" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref6513" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4990FC99B9F7" box="[810,869,1717,1738]" case="TC" fns="I" in="Z." ins="D" ln="Xu" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Xu, Z.</author>
+, 
+<author id="53BCDE53FFA2FFDCFCAF4990FC48B9F7" box="[879,948,1717,1738]" case="TC" fns="I" in="T." ins="D" ln="Gao" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Gao, T.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC7E4990FC04B9F7" box="[958,1016,1717,1738]" case="TC" fns="I" in="Y." ins="D" ln="Xu" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Xu, Y.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBC14990FBCBB9F7" box="[1025,1079,1717,1739]" case="TC" fns="I" in="X." ins="D" ln="Li" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Li, X.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB804990FB91B9F7" box="[1088,1133,1717,1739]" case="TC" fns="I" in="J." ins="D" ln="Li" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Li, J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBB74990FB46B9F7" box="[1143,1210,1717,1739]" case="TC" fns="I" in="H." ins="D" ln="Lin" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Lin, H.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB054990FAF0B9F7" box="[1221,1292,1717,1738]" case="TC" fns="I" in="W." ins="D" ln="Yan" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Yan, W.</author>
+, 
+<author id="53BCDE53FFA2FFDCFAD54990FAACB9F7" box="[1301,1360,1717,1738]" case="TC" fns="I" in="J." ins="D" ln="Pan" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Pan, J.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFAAE4990FA48B9F7" box="[1390,1460,1717,1738]" case="TC" fns="I" in="J." ins="D" ln="Tang" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Tang, J.</author>
+<year id="FFA977E5FFA2FFDCFC8A49EAFC86B9D9" box="[842,890,1743,1764]" pageId="7" pageNumber="8">2021</year>
+. 
+<title id="F905DD80FFA2FFDCFC4349EAFB5EB827" pageId="7" pageNumber="8">
+A chromosome-level reference genome of red swamp crayfish 
+<emphasis id="B975EAA4FFA2FFDCFC8A49CFFC0AB9C2" box="[842,1014,1770,1791]" italics="true" pageId="7" pageNumber="8">Procambarus clarkii</emphasis>
+provides insights into the gene families regarding growth or development in crustaceans
+</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFB694820FB00B827" box="[1193,1276,1797,1818]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFB694820FB00B827" box="[1193,1276,1797,1818]" italics="true" pageId="7" pageNumber="8">Genomics</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFAC54821FAD6B824" bold="true" box="[1285,1322,1796,1817]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFAC54821FAD6B824" box="[1285,1322,1796,1817]" pageId="7" pageNumber="8" type="volume">113</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFAF54820FA63B827" box="[1333,1439,1797,1818]" pageId="7" pageNumber="8" type="pagination">3274–3284</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4805FA83B86D" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4805FA83B86D" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref6590" type="journal volume">
+<author id="53BCDE53FFA2FFDCFCEA4805FC90B808" box="[810,876,1824,1845]" case="TC" fns="I" in="J." ins="D" ln="Yang" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Yang, J.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFC43483AFC25B808" box="[899,985,1823,1845]" case="TC" fns="I" in="Y." ins="D" ln="Zhang" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Zhang, Y.</author>
+<year id="FFA977E5FFA2FFDCFC1B483AFBF7B808" box="[987,1035,1823,1845]" pageId="7" pageNumber="8">2015</year>
+. 
+<title id="F905DD80FFA2FFDCFBD1483AFC56B872" pageId="7" pageNumber="8">Protein structure and function prediction using I-TASSER</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFC72481FFB20B872" box="[946,1244,1850,1872]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFC72481FFB20B872" box="[946,1244,1850,1872]" italics="true" pageId="7" pageNumber="8">Current Protocols in Bioinformatics</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFB26481FFB02B872" bold="true" box="[1254,1278,1850,1871]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFB26481FFB02B872" box="[1254,1278,1850,1871]" pageId="7" pageNumber="8" type="volume">52</part>
+</emphasis>
+: 5.8.1–5.8.15.
+</bibRef>
+</paragraph>
+<paragraph id="8BBE36B6FFA2FFDCFCEA4871FB9FB887" blockId="7.[810,1461,143,1978]" pageId="7" pageNumber="8">
+<bibRef id="52A1A240FFA2FFDCFCEA4871FB9FB887" _evidence="authorList|year" pageId="7" pageNumber="8" refId="ref6620" type="journal article">
+<author id="53BCDE53FFA2FFDCFCEA4871FC77B857" box="[810,907,1876,1898]" case="TC" fns="I" in="W." ins="D" ln="Zhang" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Zhang, W.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC534871FBFFB857" box="[915,1027,1876,1898]" case="TC" fns="I" in="L.E." ins="D" ln="Cheng" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Cheng, L.E.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBCC4871FB64B857" box="[1036,1176,1876,1898]" case="TC" fns="I" in="M." ins="D" ln="Kittelmann" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Kittelmann, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB614871FB31B857" box="[1185,1229,1876,1898]" case="TC" fns="I" in="J." ins="D" ln="Li" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Li, J.</author>
+, 
+<author id="53BCDE53FFA2FFDCFB174871FAB7B857" box="[1239,1355,1876,1898]" case="TC" fns="I" in="M." ins="D" ln="Petkovic" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Petkovic, M.</author>
+, 
+<author id="53BCDE53FFA2FFDCFA944871FA4CB857" box="[1364,1456,1876,1898]" case="TC" fns="I" in="T." ins="D" ln="Cheng" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Cheng, T.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC8A484AFC7DB8B8" box="[842,897,1903,1925]" case="TC" fns="I" in="P." ins="D" ln="Jin" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Jin, P.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC4B484AFC28B8B8" box="[907,980,1903,1925]" case="TC" fns="I" in="Z." ins="D" ln="Guo" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Guo, Z.</author>
+, 
+<author id="53BCDE53FFA2FFDCFC1E484AFB9EB8B9" box="[990,1122,1903,1925]" case="TC" fns="I" in="M.C." ins="D" ln="Gopfert" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Göpfert, M.C.</author>
+, 
+<author id="53BCDE53FFA2FFDCFBAD4855FB46B8B8" box="[1133,1210,1904,1925]" case="TC" fns="I" in="Y.L." ins="D" ln="Jan" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Jan, Y.L.</author>
+&amp; 
+<author id="53BCDE53FFA2FFDCFB184855FAD5B8B8" box="[1240,1321,1904,1925]" case="TC" fns="I" in="Y.N." ins="D" ln="Jan" lnc="TC" npo="LnFn" pageId="7" pageNumber="8">Jan, Y.N.</author>
+<year id="FFA977E5FFA2FFDCFAEF484AFAA3B8B8" box="[1327,1375,1903,1925]" pageId="7" pageNumber="8">2015</year>
+. 
+<title id="F905DD80FFA2FFDCFAA9484AFC6FB887" pageId="7" pageNumber="8">Ankyrin repeats convey force to gate the NOMPC mechanotransduction channel</title>
+. 
+<journalOrPublisher id="51C03C7AFFA2FFDCFC5A4881FC40B884" box="[922,956,1956,1977]" pageId="7" pageNumber="8">
+<emphasis id="B975EAA4FFA2FFDCFC5A4881FC40B884" box="[922,956,1956,1977]" italics="true" pageId="7" pageNumber="8">Cell</emphasis>
+</journalOrPublisher>
+, 
+<emphasis id="B975EAA4FFA2FFDCFC064881FC17B884" bold="true" box="[966,1003,1956,1977]" pageId="7" pageNumber="8">
+<part id="FFA59C2BFFA2FFDCFC064881FC17B884" box="[966,1003,1956,1977]" pageId="7" pageNumber="8" type="volume">162</part>
+</emphasis>
+: 
+<pagination id="B2C8C842FFA2FFDCFC354880FBA3B887" box="[1013,1119,1957,1978]" pageId="7" pageNumber="8" type="pagination">1391–1403</pagination>
+.
+</bibRef>
+</paragraph>
+</subSection>
+</document>

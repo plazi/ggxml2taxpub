@@ -1,0 +1,1474 @@
+<document id="5A3E3410CF886A87112DFCA7821BCF50" ID-DOI="10.11646/zootaxa.5419.3.8" ID-ISSN="1175-5326" ID-Zenodo-Dep="10791917" ID-ZooBank="73DC7131-2DB4-492D-8270-8C14E7A94DBC" IM.bibliography_approvedBy="felipe" IM.illustrations_approvedBy="felipe" IM.materialsCitations_approvedBy="felipe" IM.metadata_approvedBy="felipe" IM.taxonomicNames_approvedBy="felipe" IM.treatments_approvedBy="felipe" checkinTime="1709795249771" checkinUser="plazi" docAuthor="Kleman-Junior, Louri &amp; Barroso, Paulo Ricardo Ramires &amp; Pereira, Luana De Fátima Baraúna &amp; Asenjo, Angélico" docDate="2024" docId="122CFFED635A0548F04C1E60FF86FF96" docName="zootaxa.5419.3.8.pdf" docOrigin="Zootaxa 5419 (3)" docSource="http://dx.doi.org/10.11646/zootaxa.5419.3.8" docStyle="DocumentStyle:647186512141C8FC8976D5BCC54AEB7D.9:Zootaxa.2013-.journal_article" docStyleId="647186512141C8FC8976D5BCC54AEB7D" docStyleName="Zootaxa.2013-.journal_article" docStyleVersion="9" docTitle="A new Brazilian species of the genus Philothalpus Kraatz (Coleoptera: Staphylinidae)" docVersion="2" lastPageNumber="445" pageNumber="439" updateTime="1709795721243" updateUser="ExternalLinkService" zenodo-license-document="CLOSED">
+<mods:mods id="3E4FA0DC29ECD6A95681AEF250437AA7" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="6B0B950B5931EB9A92F644862BDDA350">
+<mods:title id="50FBE26F8722172406922C11BC19A9C6">A new Brazilian species of the genus Philothalpus Kraatz (Coleoptera: Staphylinidae)</mods:title>
+</mods:titleInfo>
+<mods:name id="C2B7C8AA82A4B9B6315A2CA8D3A34C49" type="personal">
+<mods:role id="76C07C1A05948DF73E6D48F996B1308F">
+<mods:roleTerm id="F61C9EFDA2861AFE749FE00DC5755ADE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="70F1EA71766E8247992D9A8ABAC9B280">Kleman-Junior, Louri</mods:namePart>
+<mods:affiliation id="99F645EDA1DA5A8A6F8472BC89C5ED77">Laboratório de Biodiversidade, Ecologia e Conservação de Ecossistemas Amazônicos, Universidade do Estado do Amazonas, Centro de Estudos Superiores de Itacoatiara, 69100-000 Itacoatiara, Amazonas, Brazil. &amp; Programa de Pós-Graduação em Ciência e Tecnologia para Recursos Amazônicos, Instituto de Ciências Exatas e Tecnologia, Universidade Federal do Amazonas, 69100-000 Itacoatiara, Amazonas, Brazil.</mods:affiliation>
+</mods:name>
+<mods:name id="3FAF0513AD7F83DA3B27F2D2892CEC55" type="personal">
+<mods:role id="78B664E7E63344BBEB20FA0DC7E6E6AB">
+<mods:roleTerm id="DEA1AAD36CA28B1E60A1F6DB59F8C777">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8133790E2D58DF5C14A8891B29ABC06C">Barroso, Paulo Ricardo Ramires</mods:namePart>
+<mods:nameIdentifier id="F1E3053335E372AF3AE3ECFDFCDA6A22" type="ORCID">0009-0009-1920-3872</mods:nameIdentifier>
+<mods:affiliation id="0604DF3FE433B5BF62136441AA8DBE63">Programa de Pós-Graduação em Ciência e Tecnologia para Recursos Amazônicos, Instituto de Ciências Exatas e Tecnologia, Universidade Federal do Amazonas, 69100-000 Itacoatiara, Amazonas, Brazil.</mods:affiliation>
+<mods:nameIdentifier id="B402E02F3D720F427CB210CA115DD93C" type="email">paulo.amt.am@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="BE78A8ED52029DC62EA658B73B55B482" type="personal">
+<mods:role id="B630D363F4556B16372DF991403200E3">
+<mods:roleTerm id="3A3598C830CB1AEAD0656533E34BD6CD">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="43933983E4DBE9C5E80CE0709E7E38AB">Pereira, Luana De Fátima Baraúna</mods:namePart>
+<mods:nameIdentifier id="B878E4438C14C42B276320AFC7E44751" type="ORCID">0000-0002-4383-2371</mods:nameIdentifier>
+<mods:affiliation id="78B73321D9DB599DDA48D2FBC4329893">Programa de Pós-Graduação em Ciência e Tecnologia para Recursos Amazônicos, Instituto de Ciências Exatas e Tecnologia, Universidade Federal do Amazonas, 69100-000 Itacoatiara, Amazonas, Brazil.</mods:affiliation>
+<mods:nameIdentifier id="93FD96E6FEE051FEE7FC8C35C3FD5757" type="email">luanabarauna13@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="602731D289B1375A3A221F785E5EB3AF" type="personal">
+<mods:role id="B489B479A9EF392520ED3CC8778FB0C0">
+<mods:roleTerm id="A527C89A3E00A9677D9087B046908D81">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B71776FC7B45F786BE570A5DF8EEDCA0">Asenjo, Angélico</mods:namePart>
+<mods:affiliation id="AD9BBEB83138F782021007536831DF0F">Instituto Tecnológico VALE. R. Boaventura da Silva 955, Nazaré, 66055-090 Belém, PA. Brazil. &amp; Departamento de Entomología, Museo de Historia Natural de la Universidad Nacional Mayor de San Marcos, Av. Arenales 1256, Jesús María, Lima 14, Perú.</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="BDAC45809FEF77EB0A9DB0E7908FDC09">text</mods:typeOfResource>
+<mods:relatedItem id="2C01A1C29AE383DC00DB3AEFFCEB009F" type="host">
+<mods:titleInfo id="17C940C4391131BF6E31107B2845C804">
+<mods:title id="7AA1540BA3B18AB23A7FB47AE90E0D37">Zootaxa</mods:title>
+</mods:titleInfo>
+<mods:part id="348A82B1AD37E9BCEF38F9885715ADC9">
+<mods:date id="50D75472BA4C2D4CFADCCA7440FF14C7">2024</mods:date>
+<mods:detail id="8F626DA82EEC38883222B21A327B1C21" type="pubDate">
+<mods:number id="A380BC6F01EF8D805686AE9E40A27205">2024-03-07</mods:number>
+</mods:detail>
+<mods:detail id="887BA8A1518D3C4DFC13A13F4E3E1704" type="volume">
+<mods:number id="C1923181D3BCFE9CC288D9393DD59908">5419</mods:number>
+</mods:detail>
+<mods:detail id="59C0A521C5691A437843CD7393C86665" type="issue">
+<mods:number id="FDD146F08BE490CD678E15EB5EDFF38C">3</mods:number>
+</mods:detail>
+<mods:extent id="9983CC009421352CC1321B2BD9FE7534" unit="page">
+<mods:start id="76AF0CDC1B7F7BF3D172BF291DF59FF1">439</mods:start>
+<mods:end id="FBCFAE0B764D3DC76ECD786A669C3597">445</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="CD49C9A2183B2EEFDC2EF53EE2B027E7">
+<mods:url id="4358D56F1B6582312A6C6273C21ABF51">http://dx.doi.org/10.11646/zootaxa.5419.3.8</mods:url>
+</mods:location>
+<mods:classification id="DC891A9F42BF085FFF31DDE03A9A83D8">journal article</mods:classification>
+<mods:identifier id="930F15027CEC214489BD7289870C9D62" type="DOI">10.11646/zootaxa.5419.3.8</mods:identifier>
+<mods:identifier id="C173F935BCE2FDD75816395E79ACFFFC" type="ISSN">1175-5326</mods:identifier>
+<mods:identifier id="69B4F7604A9C2D62FC03676B1AABF0AD" type="Zenodo-Dep">10791917</mods:identifier>
+<mods:identifier id="9161725B95E106E1B18EDEC21613FFDA" type="ZooBank">73DC7131-2DB4-492D-8270-8C14E7A94DBC</mods:identifier>
+</mods:mods>
+<subSection id="0F332F68635A0548F0DB1F03FEFCFCED" _generate="added" pageId="0" pageNumber="439" type="multiple">
+<paragraph id="66033683635A0548F0DB1F03FE06FE24" blockId="0.[151,1264,354,434]" pageId="0" pageNumber="439">
+<emphasis id="54C8EA91635A0548F0DB1F03FE06FE24" bold="true" pageId="0" pageNumber="439">
+<docTitle id="23A6CFED635A0548F0DB1F03FE06FE24" pageId="0" pageNumber="439">
+A new Brazilian species of the genus 
+<taxonomicName id="A1BC4D00635A0548F2931F02FB9BFE12" _authorityPlausibility="0.99943846" _evidence="catalogs" _step="genera" authority="Kraatz" authorityName="Kraatz" box="[735,1053,354,388]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="genus">
+<emphasis id="54C8EA91635A0548F2931F02FC22FE12" bold="true" box="[735,932,354,388]" italics="true" pageId="0" pageNumber="439">Philothalpus</emphasis>
+Kraatz
+</taxonomicName>
+(
+<taxonomicName id="A1BC4D00635A0548F47D1F03FB6FFE13" _evidence="catalogs" _step="order" authorityName="Linnaeus" authorityYear="1758" box="[1073,1257,355,389]" class="Insecta" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="order">Coleoptera</taxonomicName>
+: 
+<taxonomicName id="A1BC4D00635A0548F0DB1FF0FEF3FE24" _evidence="catalogs" _step="family" box="[151,373,400,434]" class="Insecta" family="Staphylinidae" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="family">Staphylinidae</taxonomicName>
+)
+</docTitle>
+</emphasis>
+</paragraph>
+<paragraph id="66033683635A0548F0DB1FBEFDB8FD86" blockId="0.[151,1437,478,891]" pageId="0" pageNumber="439">
+<docAuthor id="CDD4370E635A0548F0DB1FBEFE5EFE6E" box="[151,472,478,504]" pageId="0" pageNumber="439">LOURI KLEMAN-JUNIOR</docAuthor>
+<superScript id="91C99BCB635A0548F19B1FBEFE7EFE7A" attach="left" box="[471,504,478,492]" fontSize="6" pageId="0" pageNumber="439">1,2,*</superScript>
+, 
+<docAuthor id="CDD4370E635A0548F2491FBEFC76FE6E" box="[517,1008,478,504]" pageId="0" pageNumber="439">PAULO RICARDO RAMIRES BARROSO</docAuthor>
+<superScript id="91C99BCB635A0548F3BC1FBEFB83FE7A" attach="left" box="[1008,1029,478,492]" fontSize="6" pageId="0" pageNumber="439">2,3</superScript>
+, 
+<docAuthor id="CDD4370E635A0548F45E1FBEFE8AFD8A" pageId="0" pageNumber="439">LUANA DE FÁTIMA BARAÚNA PEREIRA</docAuthor>
+<superScript id="91C99BCB635A0548F1401C62FEA6FD86" attach="left" box="[268,288,514,528]" fontSize="6" pageId="0" pageNumber="439">2,4</superScript>
+, 
+<docAuthor id="CDD4370E635A0548F1611C63FDAFFD8A" box="[301,553,514,542]" pageId="0" pageNumber="439">ANGÉLICO ASENJO</docAuthor>
+<superScript id="91C99BCB635A0548F2651C62FDB8FD86" attach="left" box="[553,574,514,528]" fontSize="6" pageId="0" pageNumber="439">5,6</superScript>
+</paragraph>
+<paragraph id="66033683635A0548F0DB1C42FC18FDC3" blockId="0.[151,1437,478,891]" pageId="0" pageNumber="439">
+<emphasis id="54C8EA91635A0548F0DB1C42FC18FDC3" italics="true" pageId="0" pageNumber="439">
+<superScript id="91C99BCB635A0548F0DB1C42FF18FDB8" attach="right" box="[151,158,546,558]" fontSize="5" pageId="0" pageNumber="439">1</superScript>
+<docAuthorAffiliation id="7EA3F9E0635A0548F0D21C43FC18FDC3" pageId="0" pageNumber="439">
+Laboratório de Biodiversidade, Ecologia e Conservação de Ecossistemas Amazônicos, Universidade do 
+<collectingRegion id="A478F861635A0548F4CB1C43FAD7FDAE" box="[1159,1361,547,568]" country="Brazil" name="Amazonas" pageId="0" pageNumber="439">Estado do Amazonas</collectingRegion>
+, Centro de Estudos Superiores de Itacoatiara, 69100-000 Itacoatiara, Amazonas, 
+<collectingCountry id="1EAB7613635A0548F3101C20FC1CFDC3" box="[860,922,576,597]" name="Brazil" pageId="0" pageNumber="439">Brazil</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="66033683635A0548F0D61C3EFCD5FDE5" blockId="0.[151,1437,478,891]" box="[154,851,606,627]" pageId="0" pageNumber="439">
+� 
+<emphasis id="54C8EA91635A0548F0FA1C3EFCD5FDE5" box="[182,851,606,627]" italics="true" pageId="0" pageNumber="439">klemannjr@yahoo.com.br; https://orcid.org/0000-0002-3532-9805</emphasis>
+</paragraph>
+<paragraph id="66033683635A0548F0DB1C1AFC15FD3B" blockId="0.[151,1437,478,891]" pageId="0" pageNumber="439">
+<emphasis id="54C8EA91635A0548F0DB1C1AFC15FD3B" italics="true" pageId="0" pageNumber="439">
+<superScript id="91C99BCB635A0548F0DB1C1AFF18FD10" attach="right" box="[151,158,634,646]" fontSize="5" pageId="0" pageNumber="439">2</superScript>
+<docAuthorAffiliation id="7EA3F9E0635A0548F0D21C1CFC15FD3B" pageId="0" pageNumber="439">
+Programa de Pós-Graduação em Ciência e Tecnologia para Recursos Amazônicos, Instituto de Ciências Exatas e Tecnologia, Universidade Federal do Amazonas, 69100-000 Itacoatiara, Amazonas, 
+<collectingCountry id="1EAB7613635A0548F31D1CF8FC09FD3B" box="[849,911,664,685]" name="Brazil" pageId="0" pageNumber="439">Brazil</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="66033683635A0548F0DB1CD5FCDBFD5D" blockId="0.[151,1437,478,891]" box="[151,861,693,715]" pageId="0" pageNumber="439">
+<emphasis id="54C8EA91635A0548F0DB1CD5FF18FD57" box="[151,158,693,705]" italics="true" pageId="0" pageNumber="439">
+<superScript id="91C99BCB635A0548F0DB1CD5FF18FD57" attach="left" box="[151,158,693,705]" fontSize="5" pageId="0" pageNumber="439">3</superScript>
+</emphasis>
+� 
+<emphasis id="54C8EA91635A0548F0F11CD6FCDBFD5D" box="[189,861,694,715]" italics="true" pageId="0" pageNumber="439">
+<docAuthorEmail id="39B35794635A0548F0F11CD6FE3BFD5D" box="[189,445,694,715]" pageId="0" pageNumber="439">paulo.amt.am@gmail.com</docAuthorEmail>
+; https://orcid.org/ 
+<docAuthorORCID id="3E332735635A0548F2CA1CD6FCDBFD5D" box="[646,861,694,715]" pageId="0" pageNumber="439">0009-0009-1920-3872</docAuthorORCID>
+</emphasis>
+</paragraph>
+<paragraph id="66033683635A0548F0DB1CB2FCFFFD7E" blockId="0.[151,1437,478,891]" box="[151,889,722,744]" pageId="0" pageNumber="439">
+<emphasis id="54C8EA91635A0548F0DB1CB2FF18FD48" box="[151,158,722,734]" italics="true" pageId="0" pageNumber="439">
+<superScript id="91C99BCB635A0548F0DB1CB2FF18FD48" attach="left" box="[151,158,722,734]" fontSize="5" pageId="0" pageNumber="439">4</superScript>
+</emphasis>
+� 
+<emphasis id="54C8EA91635A0548F0F11CB3FCFFFD7E" box="[189,889,723,744]" italics="true" pageId="0" pageNumber="439">
+<docAuthorEmail id="39B35794635A0548F0F11CB3FE5FFD7E" box="[189,473,723,744]" pageId="0" pageNumber="439">luanabarauna13@gmail.com</docAuthorEmail>
+; https://orcid.org/ 
+<docAuthorORCID id="3E332735635A0548F2EF1CB3FCFFFD7E" box="[675,889,723,744]" pageId="0" pageNumber="439">0000-0002-4383-2371</docAuthorORCID>
+</emphasis>
+</paragraph>
+<paragraph id="66033683635A0548F0DB1C90FBB0FC93" blockId="0.[151,1437,478,891]" box="[151,1078,752,774]" pageId="0" pageNumber="439">
+<emphasis id="54C8EA91635A0548F0DB1C90FBB0FC93" box="[151,1078,752,774]" italics="true" pageId="0" pageNumber="439">
+<superScript id="91C99BCB635A0548F0DB1C90FF18FD6A" attach="right" box="[151,158,752,764]" fontSize="5" pageId="0" pageNumber="439">5</superScript>
+<docAuthorAffiliation id="7EA3F9E0635A0548F0D21C91FBB0FC93" box="[158,1078,752,774]" pageId="0" pageNumber="439">
+Instituto Tecnológico VALE. R. Boaventura da Silva 955, Nazaré, 66055-090 Belém, PA. 
+<collectingCountry id="1EAB7613635A0548F3B81C90FBB4FC93" box="[1012,1074,752,773]" name="Brazil" pageId="0" pageNumber="439">Brazil</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="66033683635A0548F0DB1D6DFE2CFCD6" blockId="0.[151,1437,478,891]" pageId="0" pageNumber="439">
+<emphasis id="54C8EA91635A0548F0DB1D6DFE2CFCD6" italics="true" pageId="0" pageNumber="439">
+<superScript id="91C99BCB635A0548F0DB1D6DFF18FC8F" attach="right" box="[151,158,781,793]" fontSize="5" pageId="0" pageNumber="439">6</superScript>
+<docAuthorAffiliation id="7EA3F9E0635A0548F0D21D6EFE2CFCD6" pageId="0" pageNumber="439">
+Departamento de Entomología, Museo de Historia Natural de la Universidad Nacional Mayor de San Marcos, Av. Arenales 1256, Jesús María, 
+<collectingRegion id="A478F861635A0548F1551D4CFECCFCD7" box="[281,330,812,833]" country="Peru" name="Lima" pageId="0" pageNumber="439">Lima</collectingRegion>
+14, 
+<collectingCountry id="1EAB7613635A0548F1391D4BFE21FCD6" box="[373,423,811,832]" name="Peru" pageId="0" pageNumber="439">Perú</collectingCountry>
+.
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="66033683635A0548F0EC1D29FCA8FCCB" blockId="0.[151,1437,478,891]" box="[160,814,840,861]" pageId="0" pageNumber="439">
+� 
+<emphasis id="54C8EA91635A0548F0F01D28FCA8FCCB" box="[188,814,840,861]" italics="true" pageId="0" pageNumber="439">pukara8@yahoo.com; https://orcid.org/0000-0002-4459-546X</emphasis>
+</paragraph>
+<paragraph id="66033683635A0548F0DB1D06FEFCFCED" blockId="0.[151,1437,478,891]" box="[151,378,870,891]" pageId="0" pageNumber="439">
+<emphasis id="54C8EA91635A0548F0DB1D06FEFCFCED" box="[151,378,870,891]" italics="true" pageId="0" pageNumber="439">*Corresponding author</emphasis>
+</paragraph>
+</subSection>
+<subSection id="0F332F68635A0548F0DB1DAEFB9AFBFA" _generate="added" pageId="0" pageNumber="439" type="abstract">
+<paragraph id="66033683635A0548F0DB1DAEFE82FC7E" blockId="0.[151,260,974,1000]" box="[151,260,974,1000]" pageId="0" pageNumber="439">
+<heading id="3D4B81EF635A0548F0DB1DAEFE82FC7E" bold="true" box="[151,260,974,1000]" fontSize="11" level="1" pageId="0" pageNumber="439" reason="1">
+<emphasis id="54C8EA91635A0548F0DB1DAEFE82FC7E" bold="true" box="[151,260,974,1000]" pageId="0" pageNumber="439">Abstract</emphasis>
+</heading>
+</paragraph>
+<paragraph id="66033683635A0548F0DB1A74FB9AFBFA" blockId="0.[151,1437,1044,1132]" pageId="0" pageNumber="439">
+A new species of the genus 
+<taxonomicName id="A1BC4D00635A0548F18D1A74FDCFFBBA" _evidence="catalogs" _step="genera" box="[449,585,1044,1068]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="genus">
+<emphasis id="54C8EA91635A0548F18D1A74FDCFFBBA" box="[449,585,1044,1068]" italics="true" pageId="0" pageNumber="439">Philothalpus</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="A1BC4D00635A0548F21B1A74FD54FBBA" _evidence="catalogs" _step="order" authorityName="Linnaeus" authorityYear="1758" box="[599,722,1044,1068]" class="Insecta" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="order">Coleoptera</taxonomicName>
+: 
+<taxonomicName id="A1BC4D00635A0548F2901A74FCF5FBBA" _evidence="catalogs" _step="family" box="[732,883,1044,1068]" class="Insecta" family="Staphylinidae" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="family">Staphylinidae</taxonomicName>
+: 
+<taxonomicName id="A1BC4D00635A0548F3311A74FB82FBBA" _evidence="catalogs" _step="nonPrimaryHigher" box="[893,1028,1044,1068]" class="Insecta" family="Staphylinidae" genus="Abemus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="tribe" tribe="Staphylinini">Staphylinini</taxonomicName>
+: 
+<taxonomicName id="A1BC4D00635A0548F4421A74FB27FBBA" _evidence="document" _plausibility="0.66069067" _step="document" authorityName="Chatzimanolis &amp; Brunke" authorityYear="2018" box="[1038,1185,1044,1068]" class="Insecta" family="Staphylinidae" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="440" phylum="Arthropoda" rank="subTribe" subTribe="Philothalpina">Philothalpina</taxonomicName>
+), 
+<taxonomicName id="A1BC4D00635A0548F4FE1A74FDE1FBDA" _authorityPlausibility="0.9109785" _evidence="statusLabel" _step="newLabel1" authority="Klemann-Junior, Barroso, Pereira &amp; Asenjo" authorityName="Klemann-Junior, Barroso, Pereira &amp; Asenjo" authorityYear="2024" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="species" species="precious" status="sp. nov.">
+<emphasis id="54C8EA91635A0548F4FE1A74FA1AFBBD" box="[1202,1436,1044,1068]" italics="true" pageId="0" pageNumber="439">Philothalpus precious</emphasis>
+Klemann-Junior, Barroso, Pereira &amp; Asenjo
+</taxonomicName>
+, 
+<emphasis id="54C8EA91635A0548F23C1A54FD42FBDA" bold="true" box="[624,708,1076,1100]" pageId="0" pageNumber="439">
+<taxonomicNameLabel id="4FFB57EA635A0548F23C1A54FD42FBDA" box="[624,708,1076,1100]" pageId="0" pageNumber="439" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+, is described from Amazonas state, northern 
+<collectingCountry id="1EAB7613635A0548F4D71A54FB66FBDA" box="[1179,1248,1076,1100]" name="Brazil" pageId="0" pageNumber="439">Brazil</collectingCountry>
+. Major diagnostic features are illustrated and the species is included in the key to 
+<taxonomicName id="A1BC4D00635A0548F3751A34FB9AFBFA" box="[825,1052,1108,1132]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="54C8EA91635A0548F3751A34FC47FBFA" box="[825,961,1108,1132]" italics="true" pageId="0" pageNumber="439">Philothalpus</emphasis>
+species.
+</taxonomicName>
+</paragraph>
+</subSection>
+<subSection id="0F332F68635A0548F0DB1AF4FC4CFA6A" _generate="added" pageId="0" pageNumber="439" type="key_words">
+<paragraph id="66033683635A0548F0DB1AF4FCF0FB3A" blockId="0.[151,886,1172,1196]" box="[151,886,1172,1196]" pageId="0" pageNumber="439">
+<emphasis id="54C8EA91635A0548F0DB1AF4FE9CFB3A" bold="true" box="[151,282,1172,1196]" pageId="0" pageNumber="439">Key words:</emphasis>
+<collectingCountry id="1EAB7613635A0548F16D1AF4FEE3FB3A" box="[289,357,1172,1196]" name="Brazil" pageId="0" pageNumber="439">
+<keyWord id="DD4A6DE4635A0548F16D1AF4FEE3FB3A" box="[289,357,1172,1196]" pageId="0" pageNumber="439">Brazil</keyWord>
+</collectingCountry>
+, 
+<keyWord id="DD4A6DE4635A0548F1221AF4FE4DFB3A" box="[366,459,1172,1196]" pageId="0" pageNumber="439">Amazon</keyWord>
+, 
+<taxonomicNameLabel id="4FFB57EA635A0548F19A1AF4FDD9FB3A" box="[470,607,1172,1196]" pageId="0" pageNumber="439" rank="species">
+<keyWord id="DD4A6DE4635A0548F19A1AF4FDD9FB3A" box="[470,607,1172,1196]" pageId="0" pageNumber="439">New species</keyWord>
+</taxonomicNameLabel>
+, 
+<taxonomicName id="A1BC4D00635A0548F2251AF4FD7CFB3A" _evidence="document" _plausibility="0.66069067" _step="document" authorityName="Chatzimanolis &amp; Brunke" authorityYear="2018" box="[617,762,1172,1196]" class="Insecta" family="Staphylinidae" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="440" phylum="Arthropoda" rank="subTribe" subTribe="Philothalpina">
+<keyWord id="DD4A6DE4635A0548F2251AF4FD7CFB3A" box="[617,762,1172,1196]" pageId="0" pageNumber="439">Philothalpina</keyWord>
+</taxonomicName>
+, 
+<keyWord id="DD4A6DE4635A0548F3481AF4FCF0FB3A" box="[772,886,1172,1196]" pageId="0" pageNumber="439">Taxonomy</keyWord>
+</paragraph>
+<paragraph id="66033683635A0548F0DB1A9EFF7AFA8E" blockId="0.[151,252,1278,1304]" box="[151,252,1278,1304]" pageId="0" pageNumber="439">
+<heading id="3D4B81EF635A0548F0DB1A9EFF7AFA8E" bold="true" box="[151,252,1278,1304]" fontSize="11" level="1" pageId="0" pageNumber="439" reason="1">
+<emphasis id="54C8EA91635A0548F0DB1A9EFF7AFA8E" bold="true" box="[151,252,1278,1304]" pageId="0" pageNumber="439">Resumo</emphasis>
+</heading>
+</paragraph>
+<paragraph id="66033683635A0548F0DB1B24FEC0FA2D" blockId="0.[151,1437,1348,1468]" pageId="0" pageNumber="439">
+Uma nova espécie do gênero 
+<taxonomicName id="A1BC4D00635A0548F1B71B24FD05FACA" _evidence="catalogs" _step="genera" box="[507,643,1348,1372]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="genus">
+<emphasis id="54C8EA91635A0548F1B71B24FD05FACA" box="[507,643,1348,1372]" italics="true" pageId="0" pageNumber="439">Philothalpus</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="A1BC4D00635A0548F2D51B24FC92FACA" _evidence="catalogs" _step="order" authorityName="Linnaeus" authorityYear="1758" box="[665,788,1348,1372]" class="Insecta" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="order">Coleoptera</taxonomicName>
+: 
+<taxonomicName id="A1BC4D00635A0548F36A1B24FC3BFACA" _evidence="catalogs" _step="family" box="[806,957,1348,1372]" class="Insecta" family="Staphylinidae" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="family">Staphylinidae</taxonomicName>
+: 
+<taxonomicName id="A1BC4D00635A0548F3831B24FBD0FACA" _evidence="catalogs" _step="nonPrimaryHigher" box="[975,1110,1348,1372]" class="Insecta" family="Staphylinidae" genus="Abemus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="tribe" tribe="Staphylinini">Staphylinini</taxonomicName>
+: 
+<taxonomicName id="A1BC4D00635A0548F42B1B24FB7CFACA" _evidence="document" _plausibility="0.66069067" _step="document" authorityName="Chatzimanolis &amp; Brunke" authorityYear="2018" box="[1127,1274,1348,1372]" class="Insecta" family="Staphylinidae" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="440" phylum="Arthropoda" rank="subTribe" subTribe="Philothalpina">Philothalpina</taxonomicName>
+), 
+<taxonomicName id="A1BC4D00635A0548F5581B24FD4BFAEA" _authorityPlausibility="0.9109785" _evidence="statusLabel" _step="newLabel1" authority="Klemann-Junior, Barroso, Pereira &amp; Asenjo" authorityName="Klemann-Junior, Barroso, Pereira &amp; Asenjo" authorityYear="2024" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="species" species="precious" status="sp. nov.">
+<emphasis id="54C8EA91635A0548F5581B24FF74FAED" italics="true" pageId="0" pageNumber="439">Philothalpus precious</emphasis>
+Klemann-Junior, Barroso, Pereira &amp; Asenjo
+</taxonomicName>
+, 
+<emphasis id="54C8EA91635A0548F2941B04FCABFAEA" bold="true" box="[728,813,1380,1404]" pageId="0" pageNumber="439">
+<taxonomicNameLabel id="4FFB57EA635A0548F2941B04FCABFAEA" box="[728,813,1380,1404]" pageId="0" pageNumber="439" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+, é descrita para o 
+<collectingRegion id="A478F861635A0548F3A11B04FB4CFAEA" box="[1005,1226,1380,1404]" country="Brazil" name="Amazonas" pageId="0" pageNumber="439">estado do Amazonas</collectingRegion>
+, norte do 
+<collectingCountry id="1EAB7613635A0548F57F1B04FAF0FAEA" box="[1331,1398,1380,1404]" name="Brazil" pageId="0" pageNumber="439">Brasil</collectingCountry>
+. As principais características de diagnóstico são ilustradas e a espécie incluída em uma chave de identificação das espécies de 
+<taxonomicName id="A1BC4D00635A0548F0FB1BC4FEB9FA2A" _evidence="catalogs" _step="genera" box="[183,319,1444,1468]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="genus">
+<emphasis id="54C8EA91635A0548F0FB1BC4FEB9FA2A" box="[183,319,1444,1468]" italics="true" pageId="0" pageNumber="439">Philothalpus</emphasis>
+</taxonomicName>
+.
+</paragraph>
+<paragraph id="66033683635A0548F0DB1B84FC4CFA6A" blockId="0.[151,970,1508,1532]" box="[151,970,1508,1532]" pageId="0" pageNumber="439">
+<emphasis id="54C8EA91635A0548F0DB1B84FEC8FA6A" bold="true" box="[151,334,1508,1532]" pageId="0" pageNumber="439">Palavras-chave:</emphasis>
+<collectingCountry id="1EAB7613635A0548F1181B84FE10FA6A" box="[340,406,1508,1532]" name="Brazil" pageId="0" pageNumber="439">Brasil</collectingCountry>
+, Amazônia, 
+<taxonomicNameLabel id="4FFB57EA635A0548F2571B84FD2AFA6A" box="[539,684,1508,1532]" pageId="0" pageNumber="439" rank="species">Nova espécie</taxonomicNameLabel>
+, 
+<taxonomicName id="A1BC4D00635A0548F2FB1B84FCCEFA6A" _evidence="document" _plausibility="0.66069067" _step="document" authorityName="Chatzimanolis &amp; Brunke" authorityYear="2018" box="[695,840,1508,1532]" class="Insecta" family="Staphylinidae" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="440" phylum="Arthropoda" rank="subTribe" subTribe="Philothalpina">Philothalpina</taxonomicName>
+, Taxonomia
+</paragraph>
+</subSection>
+<subSection id="0F332F68635A0548F0DB182EFE5BF83A" _generate="added" pageId="0" pageNumber="439" type="introduction">
+<paragraph id="66033683635A0548F0DB182EFEB0F9FE" blockId="0.[151,310,1614,1640]" box="[151,310,1614,1640]" pageId="0" pageNumber="439">
+<heading id="3D4B81EF635A0548F0DB182EFEB0F9FE" bold="true" box="[151,310,1614,1640]" fontSize="11" level="1" pageId="0" pageNumber="439" reason="1">
+<emphasis id="54C8EA91635A0548F0DB182EFEB0F9FE" bold="true" box="[151,310,1614,1640]" pageId="0" pageNumber="439">Introduction</emphasis>
+</heading>
+</paragraph>
+<paragraph id="66033683635A0548F0DB18F6FE5BF83A" blockId="0.[151,1437,1686,1964]" pageId="0" pageNumber="439">
+<taxonomicName id="A1BC4D00635A0548F0DB18F6FEA0F926" _evidence="catalogs" _step="genera" box="[151,294,1686,1712]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="genus">
+<emphasis id="54C8EA91635A0548F0DB18F6FEA0F926" box="[151,294,1686,1712]" italics="true" pageId="0" pageNumber="439">Philothalpus</emphasis>
+</taxonomicName>
+is a genus of Central and South American beetles that inhabit the leaf litter of tropical forests from sea level to 
+<quantity id="A1449B66635A0548F0BD18DAFECAF942" box="[241,332,1722,1748]" metricMagnitude="0" metricUnit="m" metricValue="1.6" pageId="0" pageNumber="439" unit="m" value="1.6">1,600 m</quantity>
+a.s.l (
+<bibRefCitation id="022D4B72635A0548F1C218DAFD48F943" author="Chatzimanolis, S. &amp; Ashe, J. S." box="[398,718,1722,1749]" pageId="0" pageNumber="439" pagination="63 - 119" refId="ref5586" refString="Chatzimanolis, S. &amp; Ashe, J. S. (2005) Revision and phylogeny of the neotropical genus Philothalpus (= Eugastus Sharp and Allostenopsis Bernhauer) (Coleoptera: Staphylinidae: Xanthopygina). Insect Systematics &amp; Evolution, 36, 63 - 119. https: // doi. org / 10.1163 / 187631205788912813" type="journal article" year="2005">Chatzimanolis &amp; Ashe 2005</bibRefCitation>
+; 
+<bibRefCitation id="022D4B72635A0548F29418DAFC2FF942" author="Asenjo, A. &amp; Irmler, U. &amp; Klimaszewski, J. &amp; Chandler, D. S. &amp; Fierros-Lopez, H. E. &amp; Vieira, J. S." box="[728,937,1722,1748]" pageId="0" pageNumber="439" pagination="1 - 406" refId="ref5381" refString="Asenjo, A., Irmler, U., Klimaszewski, J., Chandler, D. S., Fierros-Lopez, H. E. &amp; Vieira, J. S. 2019. Staphylinidae (Insecta: Coleoptera) in Latin America: synopsis, annotated catalog, diversity and distribution. Zootaxa, 4621 (1), 1 - 406. https: // doi. org / 10.11646 / zootaxa. 4621.1.1" type="journal article" year="2019">
+Asenjo 
+<emphasis id="54C8EA91635A0548F36218DBFCD9F942" box="[814,863,1722,1748]" italics="true" pageId="0" pageNumber="439">et al</emphasis>
+. 2019
+</bibRefCitation>
+). The taxon was revised by 
+<bibRefCitation id="022D4B72635A0548F49218DAFEA2F96F" author="Chatzimanolis, S. &amp; Ashe, J. S." pageId="0" pageNumber="439" pagination="63 - 119" refId="ref5586" refString="Chatzimanolis, S. &amp; Ashe, J. S. (2005) Revision and phylogeny of the neotropical genus Philothalpus (= Eugastus Sharp and Allostenopsis Bernhauer) (Coleoptera: Staphylinidae: Xanthopygina). Insect Systematics &amp; Evolution, 36, 63 - 119. https: // doi. org / 10.1163 / 187631205788912813" type="journal article" year="2005">Chatzimanolis &amp; Ashe (2005)</bibRefCitation>
+who described 17 new species and redescribed four species. Since the publication of this review, six more species have been described (
+<bibRefCitation id="022D4B72635A0548F26F1962FCFFF88A" author="Asenjo, A. &amp; Ribeiro-Costa, C. S." box="[547,889,1794,1820]" pageId="0" pageNumber="439" pagination="49 - 57" refId="ref5264" refString="Asenjo, A. &amp; Ribeiro-Costa, C. S. (2009) Two new species of the Neotropical genus Philothalpus Kraatz from Peru (Coleoptera, Staphylinidae, Xanthopygina). Zootaxa, 2286 (1), 49 - 57. https: // doi. org / 10.11646 / zootaxa. 2286.1.3" type="journal article" year="2009">Asenjo &amp; Ribeiro-Costa 2009</bibRefCitation>
+; 
+<bibRefCitation id="022D4B72635A0548F3C91962FACCF88A" author="Hoyos-Benjumea, D. &amp; Lopez-Garcia, M. M." box="[901,1354,1794,1820]" pageId="0" pageNumber="439" pagination="428 - 432" refId="ref5645" refString="Hoyos-Benjumea, D. &amp; Lopez-Garcia, M. M. (2019) A new species of Philothalpus Kraatz (Coleoptera: Staphylinidae) from the Andes of Colombia. The Coleopterists Bulletin, 73 (2), 428 - 432. https: // doi. org / 10.1649 / 0010 - 065 X- 73.2.428" type="journal article" year="2019">Hoyos-Benjumea &amp; López-García 2019</bibRefCitation>
+; 
+<bibRefCitation id="022D4B72635A0548F51A1962FF54F8D6" author="Irmler, U." pageId="0" pageNumber="439" pagination="115 - 121" refId="ref5703" refString="Irmler, U. (2019) A new species and new records of the genus Philothalpus Kraatz, 1857 from the Central Amazon with a revised key to the Brazilian species (Coleoptera: Staphylinidae: Philothalpina). Koleopterologische Rundschau, 89, 115 - 121." type="journal article" year="2019">Irmler 2019</bibRefCitation>
+; 
+<bibRefCitation id="022D4B72635A0548F0931946FE43F8D6" author="Chatzimanolis, S." box="[223,453,1830,1856]" pageId="0" pageNumber="439" pagination="129 - 138" refId="ref5533" refString="Chatzimanolis, S. (2020) Even more new species, additional records, and a revised key for Philothalpus Kraatz (Coleoptera: Staphylinidae: Staphylininae). Zootaxa, 4742 (1), 129 - 138. https: // doi. org / 10.11646 / zootaxa. 4742.1.8" type="journal article" year="2020">Chatzimanolis 2020</bibRefCitation>
+). From 27 known species, six occur in 
+<collectingCountry id="1EAB7613635A0548F3CC1946FC42F8D6" box="[896,964,1830,1856]" name="Brazil" pageId="0" pageNumber="439">Brazil</collectingCountry>
+(
+<taxonomicName id="A1BC4D00635A0548F39A1947FBEBF8D6" _evidence="catalog+fontStyle" _step="styledSpecies" baseAuthorityName="Bernhauer" baseAuthorityYear="1907" box="[982,1133,1831,1856]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="species" species="antennaria">
+<emphasis id="54C8EA91635A0548F39A1947FBEBF8D6" box="[982,1133,1831,1856]" italics="true" pageId="0" pageNumber="439">P. antennaria</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="A1BC4D00635A0548F4301947FB6FF8D6" _evidence="catalog+fontStyle" _step="styledSpecies" baseAuthorityName="Sharp" baseAuthorityYear="1876" box="[1148,1257,1830,1856]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="species" species="bicolor">
+<emphasis id="54C8EA91635A0548F4301947FB6FF8D6" box="[1148,1257,1830,1856]" italics="true" pageId="0" pageNumber="439">P. bicolor</emphasis>
+</taxonomicName>
+, 
+<emphasis id="54C8EA91635A0548F4B41947FE8DF8F2" italics="true" pageId="0" pageNumber="439">
+<taxonomicName id="A1BC4D00635A0548F4B41947FA1EF8D6" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Irmler" authorityYear="2019" box="[1272,1432,1830,1856]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="species" species="brasiliensis">P. brasiliensis</taxonomicName>
+, 
+<taxonomicName id="A1BC4D00635A0548F0DB192BFE8DF8F2" _evidence="catalog+fontStyle" _step="styledSpecies" baseAuthorityName="Sharp" baseAuthorityYear="1876" box="[151,267,1866,1892]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="species" species="mundus">P. mundus</taxonomicName>
+</emphasis>
+, 
+<taxonomicName id="A1BC4D00635A0548F156192BFE05F8F2" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[282,387,1866,1892]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="species" species="nitidus">
+<emphasis id="54C8EA91635A0548F156192BFE05F8F2" box="[282,387,1866,1892]" italics="true" pageId="0" pageNumber="439">P. nitidus</emphasis>
+</taxonomicName>
+, and 
+<taxonomicName id="A1BC4D00635A0548F18E192BFD98F8F2" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[450,542,1866,1892]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="species" species="pecki">
+<emphasis id="54C8EA91635A0548F18E192BFE55F8F2" box="[450,467,1867,1892]" italics="true" pageId="0" pageNumber="439">P</emphasis>
+. 
+<emphasis id="54C8EA91635A0548F1AF192AFD98F8F2" box="[483,542,1866,1892]" italics="true" pageId="0" pageNumber="439">pecki</emphasis>
+</taxonomicName>
+), in the Amazon region (
+<bibRefCitation id="022D4B72635A0548F377192AFB94F8F2" author="Asenjo, A. &amp; Irmler, U. &amp; Klimaszewski, J. &amp; Herman, L. H. &amp; Chandler, D. S." box="[827,1042,1866,1892]" pageId="0" pageNumber="439" pagination="1 - 419" refId="ref5320" refString="Asenjo, A., Irmler, U., Klimaszewski, J., Herman, L. H. &amp; Chandler, D. S. (2013) A complete checklist with new records and geographical distribution of the rove beetles (Coleoptera, Staphylinidae) of Brazil. Insecta Mundi, 0277, 1 - 419." type="book chapter" year="2013">
+Asenjo 
+<emphasis id="54C8EA91635A0548F3D8192BFC41F8F2" box="[916,967,1866,1892]" italics="true" pageId="0" pageNumber="439">et al</emphasis>
+. 2013
+</bibRefCitation>
+). In this article, we describe a new species of 
+<taxonomicName id="A1BC4D00635A0548F15F190EFE24F81E" _evidence="catalogs" _step="genera" box="[275,418,1902,1928]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="genus">
+<emphasis id="54C8EA91635A0548F15F190EFE24F81E" box="[275,418,1902,1928]" italics="true" pageId="0" pageNumber="439">Philothalpus</emphasis>
+</taxonomicName>
+from the Brazilian Amazon Rainforest, thus increasing the number of known species of 
+<taxonomicName id="A1BC4D00635A0548F0DB19F2FEA0F83A" _evidence="catalogs" _step="genera" box="[151,294,1938,1964]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="439" phylum="Arthropoda" rank="genus">
+<emphasis id="54C8EA91635A0548F0DB19F2FEA0F83A" box="[151,294,1938,1964]" italics="true" pageId="0" pageNumber="439">Philothalpus</emphasis>
+</taxonomicName>
+to twenty eight.
+</paragraph>
+</subSection>
+<subSection id="0F332F68635B0549F0DB1EF7FC52FAC3" _generate="added" pageId="1" pageNumber="440" type="materials_methods">
+<paragraph id="66033683635B0549F0DB1EF7FE2AFF27" blockId="1.[151,428,151,177]" box="[151,428,151,177]" pageId="1" pageNumber="440">
+<heading id="3D4B81EF635B0549F0DB1EF7FE2AFF27" bold="true" box="[151,428,151,177]" fontSize="11" level="1" pageId="1" pageNumber="440" reason="1">
+<emphasis id="54C8EA91635B0549F0DB1EF7FE2AFF27" bold="true" box="[151,428,151,177]" pageId="1" pageNumber="440">Material and methods</emphasis>
+</heading>
+</paragraph>
+<paragraph id="66033683635B0549F0DB1EBFFAF1FE3B" blockId="1.[151,1437,223,610]" pageId="1" pageNumber="440">The captured specimens were mounted on entomological pins. Some selected individuals were relaxed in warm soapy water and then, apical abdominal segments containing the aedeagus were dissected from the abdomen. The apical abdominal segments were cleared using 10% KOH, and the aedeagus was removed from the inside of the abdomen. The dissections and characters study were carried out under a stereoscopic microscope. The photographs were taken using a Leica DFC500 digital camera attached to a Leica M205C stereomicroscope, connected to a computer with the Leica Application Suite LAS V3.6 software, which includes an Auto-Montage module (Syncroscopy software).</paragraph>
+<paragraph id="66033683635B0549F08B1FD8FB3DFDF7" blockId="1.[151,1437,223,610]" pageId="1" pageNumber="440">
+Measures of relative width of the gula and relative size and density of punctures on the head, pronotum and elytra follows 
+<bibRefCitation id="022D4B72635B0549F1761FBBFD09FE60" author="Chatzimanolis, S. &amp; Ashe, J. S." box="[314,655,475,502]" pageId="1" pageNumber="440" pagination="63 - 119" refId="ref5586" refString="Chatzimanolis, S. &amp; Ashe, J. S. (2005) Revision and phylogeny of the neotropical genus Philothalpus (= Eugastus Sharp and Allostenopsis Bernhauer) (Coleoptera: Staphylinidae: Xanthopygina). Insect Systematics &amp; Evolution, 36, 63 - 119. https: // doi. org / 10.1163 / 187631205788912813" type="journal article" year="2005">Chatzimanolis &amp; Ashe (2005)</bibRefCitation>
+. The adopted terminology for the descriptions follows 
+<bibRefCitation id="022D4B72635B0549F4B61FBBFEBBFD8C" author="Chatzimanolis, S. &amp; Ashe, J. S." pageId="1" pageNumber="440" pagination="63 - 119" refId="ref5586" refString="Chatzimanolis, S. &amp; Ashe, J. S. (2005) Revision and phylogeny of the neotropical genus Philothalpus (= Eugastus Sharp and Allostenopsis Bernhauer) (Coleoptera: Staphylinidae: Xanthopygina). Insect Systematics &amp; Evolution, 36, 63 - 119. https: // doi. org / 10.1163 / 187631205788912813" type="journal article" year="2005">Chatzimanolis &amp; Ashe (2005)</bibRefCitation>
+and 
+<bibRefCitation id="022D4B72635B0549F13F1F9FFD92FD8F" author="Naomi, S. I." box="[371,532,511,537]" pageId="1" pageNumber="440" pagination="720 - 733" refId="ref5836" refString="Naomi, S. I. (1989) Comparative morphology of the Staphylinidae and the allied groups (Coleoptera, Staphylinoidea). X. Eighth to 10 th segments of abdomen. Japanese Journal of Entomology, 57 (4), 720 - 733." type="journal article" year="1989">Naomi (1989)</bibRefCitation>
+. All measurements are in millimeters and they are based on the 
+<typeStatus id="B9078821635B0549F4901F9FFAC4FD8F" box="[1244,1346,511,537]" pageId="1" pageNumber="440" type="holotype">holotype</typeStatus>
+. For the type label data, quotation marks (“”) separate different labels, and a vertical bar (|) separates different lines within a label. Text within square brackets [] is explanatory and it is not included in the original labels.
+</paragraph>
+<paragraph id="66033683635B0549F0DB1CF0FE50FD3F" blockId="1.[151,1271,655,1042]" box="[151,470,655,682]" pageId="1" pageNumber="440">Measurement abbreviations:</paragraph>
+<paragraph id="66033683635B0549F08B1CD4FB37FD5B" blockId="1.[151,1271,655,1042]" box="[199,1201,691,718]" pageId="1" pageNumber="440">BL body length (from margin of prolongation of head to posterior margin of tergite VIII)</paragraph>
+<paragraph id="66033683635B0549F08B1CB8FD90FD67" blockId="1.[151,1271,655,1042]" box="[199,534,727,754]" pageId="1" pageNumber="440">EL elytral length (maximum)</paragraph>
+<paragraph id="66033683635B0549F08B1C9CFD96FC83" blockId="1.[151,1271,655,1042]" box="[199,528,763,790]" pageId="1" pageNumber="440">EW elytral width (maximum)</paragraph>
+<paragraph id="66033683635B0549F08B1D40FD29FCCB" blockId="1.[151,1271,655,1042]" pageId="1" pageNumber="440">HL head length (from anterior margin of prolongation of head to posterior margin of head disc) HWhead width (maximum, including eyes)</paragraph>
+<paragraph id="66033683635B0549F08B1D07FDDFFC17" blockId="1.[151,1271,655,1042]" box="[199,601,871,897]" pageId="1" pageNumber="440">IO interocular distance (minimum)</paragraph>
+<paragraph id="66033683635B0549F08B1DEBFD1DFC33" blockId="1.[151,1271,655,1042]" box="[199,667,907,934]" pageId="1" pageNumber="440">OL eye length in dorsal view (maximum)</paragraph>
+<paragraph id="66033683635B0549F08B1DCFFD13FC5F" blockId="1.[151,1271,655,1042]" box="[199,661,943,969]" pageId="1" pageNumber="440">OWeye width in dorsal view (maximum)</paragraph>
+<paragraph id="66033683635B0549F08B1DB4FDBAFC7B" blockId="1.[151,1271,655,1042]" box="[199,572,979,1006]" pageId="1" pageNumber="440">PL pronotum length (maximum)</paragraph>
+<paragraph id="66033683635B0549F08B1D98FDB0FB87" blockId="1.[151,1271,655,1042]" box="[199,566,1015,1042]" pageId="1" pageNumber="440">PW pronotum width (maximum)</paragraph>
+<paragraph id="66033683635B0549F0DB1A5FFBACFBCF" blockId="1.[151,1437,1087,1365]" box="[151,1066,1087,1114]" pageId="1" pageNumber="440">All specimens are deposited in the following collections (curators in parenthesis):</paragraph>
+<paragraph id="66033683635B0549F08B1A03FBF5FB37" blockId="1.[151,1437,1087,1365]" pageId="1" pageNumber="440">
+<collectionCode id="00ADAE46635B0549F08B1A03FE93FBEB" box="[199,277,1123,1149]" pageId="1" pageNumber="440">CEMT</collectionCode>
+—Setor de Entomologia da Colecão Zoológica da Universidade Federal de 
+<collectingRegion id="A478F861635B0549F4131A04FB75FBEB" box="[1119,1267,1123,1150]" country="Brazil" name="Mato Grosso" pageId="1" pageNumber="440">Mato Grosso</collectingRegion>
+, Departamento de Biologia e Zoologia, Cuiabá, 
+<collectingRegion id="A478F861635B0549F2281AE8FD7EFB37" box="[612,760,1159,1186]" country="Brazil" name="Mato Grosso" pageId="1" pageNumber="440">Mato Grosso</collectingRegion>
+, 
+<collectingCountry id="1EAB7613635B0549F34F1AE7FCC1FB37" box="[771,839,1159,1185]" name="Brazil" pageId="1" pageNumber="440">Brazil</collectingCountry>
+(Fernando Vaz-de-Mello);
+</paragraph>
+<paragraph id="66033683635B0549F08B1ACBFAE1FB53" blockId="1.[151,1437,1087,1365]" box="[199,1383,1195,1222]" pageId="1" pageNumber="440">
+<collectionCode id="00ADAE46635B0549F08B1ACBFE8EFB53" box="[199,264,1195,1221]" country="Brazil" httpUri="http://grbio.org/cool/rm88-499z" name="Instituto Nacional de Pesquisas da Amazonia" pageId="1" pageNumber="440">INPA</collectionCode>
+—Instituto Nacional de Pesquisas da Amazônia, Manaus, Amazonas, 
+<collectingCountry id="1EAB7613635B0549F45E1ACBFBD3FB53" box="[1042,1109,1195,1221]" name="Brazil" pageId="1" pageNumber="440">Brasil</collectingCountry>
+(José Albertino Rafael);
+</paragraph>
+<paragraph id="66033683635B0549F08B1AAFFB25FB7F" blockId="1.[151,1437,1087,1365]" box="[199,1187,1231,1258]" pageId="1" pageNumber="440">
+<collectionCode id="00ADAE46635B0549F08B1AAFFE93FB7F" box="[199,277,1231,1257]" country="Brazil" httpUri="http://grbio.org/cool/90vz-swjg" name="Museu Paraense Emilio Goeldi" pageId="1" pageNumber="440">MPEG</collectionCode>
+—Museu Paraense Emilio Goeldi, Belém, 
+<collectingRegion id="A478F861635B0549F2BF1AAFFCAEFB7F" box="[755,808,1231,1257]" country="Brazil" name="Para" pageId="1" pageNumber="440">Pará</collectingRegion>
+, 
+<collectingCountry id="1EAB7613635B0549F37F1AAFFCF1FB7F" box="[819,887,1231,1257]" name="Brazil" pageId="1" pageNumber="440">Brazil</collectingCountry>
+(Orlando Tobias Silveira);
+</paragraph>
+<paragraph id="66033683635B0549F08B1A93FC1BFA9B" blockId="1.[151,1437,1087,1365]" box="[199,925,1267,1293]" pageId="1" pageNumber="440">
+<collectionCode id="00ADAE46635B0549F08B1A93FEA2FA9B" box="[199,292,1267,1293]" country="Brazil" httpUri="http://grbio.org/cool/6yx0-3nm7" name="Museu de Zoologia da Universidade de Sao Paulo" pageId="1" pageNumber="440">MZUSP</collectionCode>
+—Museu de Zoologia da USP (Sônia Aparecida Casari);
+</paragraph>
+<paragraph id="66033683635B0549F08B1B77FC52FAC3" blockId="1.[151,1437,1087,1365]" pageId="1" pageNumber="440">
+<collectionCode id="00ADAE46635B0549F08B1B77FE87FAA7" box="[199,257,1303,1329]" pageId="1" pageNumber="440">UEA</collectionCode>
+—Coleção entomológica do Centro de Estudos Superiores de Itacoatiara, Universidade do 
+<collectingRegion id="A478F861635B0549F5651B77FEF6FAC3" country="Brazil" name="Amazonas" pageId="1" pageNumber="440">Estado do Amazonas</collectingRegion>
+, Itacoatiara, Amazonas, 
+<collectingCountry id="1EAB7613635B0549F2CE1B5BFD43FAC3" box="[642,709,1339,1365]" name="Brazil" pageId="1" pageNumber="440">Brasil</collectingCountry>
+(Louri Kleman-Junior).
+</paragraph>
+</subSection>
+<subSection id="0F332F68635B0549F0DB1BC7FE9CF99F" _generate="added" box="[151,282,1447,1545]" pageId="1" pageNumber="440" type="results">
+<paragraph id="66033683635B0549F0DB1BC7FF74FA57" blockId="1.[151,242,1447,1473]" box="[151,242,1447,1473]" pageId="1" pageNumber="440">
+<heading id="3D4B81EF635B0549F0DB1BC7FF74FA57" bold="true" box="[151,242,1447,1473]" fontSize="11" level="1" pageId="1" pageNumber="440" reason="1">
+<emphasis id="54C8EA91635B0549F0DB1BC7FF74FA57" bold="true" box="[151,242,1447,1473]" pageId="1" pageNumber="440">Results</emphasis>
+</heading>
+</paragraph>
+<paragraph id="66033683635B0549F0DB1B8FFE9CF99F" blockId="1.[151,282,1519,1545]" box="[151,282,1519,1545]" pageId="1" pageNumber="440">
+<heading id="3D4B81EF635B0549F0DB1B8FFE9CF99F" bold="true" box="[151,282,1519,1545]" fontSize="11" level="1" pageId="1" pageNumber="440" reason="1">
+<emphasis id="54C8EA91635B0549F0DB1B8FFE9CF99F" bold="true" box="[151,282,1519,1545]" pageId="1" pageNumber="440">Taxonomy</emphasis>
+</heading>
+</paragraph>
+</subSection>
+<subSection id="0F332F68635B0549F0DB1857FD0EF9C7" _generate="added" _reason="heading_only_treatment" box="[151,648,1591,1617]" pageId="1" pageNumber="440" type="multiple">
+<paragraph id="66033683635B0549F0DB1857FD0EF9C7" blockId="1.[151,648,1591,1617]" box="[151,648,1591,1617]" pageId="1" pageNumber="440">
+<heading id="3D4B81EF635B0549F0DB1857FD0EF9C7" bold="true" box="[151,648,1591,1617]" fontSize="11" level="1" pageId="1" pageNumber="440" reason="1">
+<emphasis id="54C8EA91635B0549F0DB1857FD0EF9C7" bold="true" box="[151,648,1591,1617]" pageId="1" pageNumber="440">
+Subfamily 
+<taxonomicName id="A1BC4D00635B0549F1531857FD0EF9C7" _authorityPlausibility="0.6088009" _evidence="catalogs" _step="nonPrimaryHigher" authority="Latreille, 1802" authorityName="Latreille" authorityYear="1802" box="[287,648,1591,1617]" class="Insecta" family="Staphylinidae" genus="Abemus" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="440" phylum="Arthropoda" rank="subFamily" subFamily="Staphylininae">Staphylininae Latreille, 1802</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSection>
+<treatment id="EE158795635B0549F0DB181FFBBAF977" _generate="added" pageId="1" pageNumber="440">
+<subSubSection id="2EA66508635B0549F0DB181FFBBAF977" _generate="added" pageId="1" pageNumber="440" type="nomenclature">
+<paragraph id="66033683635B0549F0DB181FFDBEF90F" blockId="1.[151,568,1663,1689]" box="[151,568,1663,1689]" pageId="1" pageNumber="440">
+<heading id="3D4B81EF635B0549F0DB181FFDBEF90F" bold="true" box="[151,568,1663,1689]" fontSize="11" level="1" pageId="1" pageNumber="440" reason="1">
+<emphasis id="54C8EA91635B0549F0DB181FFDBEF90F" bold="true" box="[151,568,1663,1689]" pageId="1" pageNumber="440">
+Tribe 
+<taxonomicName id="A1BC4D00635B0549F0AE181FFDBEF90F" ID-CoL="8VRBD" _authorityPlausibility="0.6088009" _evidence="catalogs" _step="nonPrimaryHigher" authority="Latreille, 1802" authorityName="Latreille" authorityYear="1802" box="[226,568,1663,1689]" class="Insecta" family="Staphylinidae" genus="Abemus" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="440" phylum="Arthropoda" rank="tribe" tribe="Staphylinini">Staphylinini Latreille, 1802</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+<paragraph id="66033683635B0549F0DB18A7FBBAF977" blockId="1.[151,1084,1735,1761]" box="[151,1084,1735,1761]" pageId="1" pageNumber="440">
+<emphasis id="54C8EA91635B0549F0DB18A7FD7EF977" bold="true" box="[151,760,1735,1761]" pageId="1" pageNumber="440">
+Subtribe 
+<taxonomicName id="A1BC4D00635B0549F14018A7FD7EF977" _authorityPlausibility="0.4856964" _evidence="label" _plausibility="0.66069067" _step="labeledHigher" authority="Chatzimanolis &amp; Brunke" authorityName="Chatzimanolis &amp; Brunke" authorityYear="2018" box="[268,760,1735,1761]" class="Insecta" family="Staphylinidae" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="440" phylum="Arthropoda" rank="subTribe" subTribe="Philothalpina">Philothalpina Chatzimanolis &amp; Brunke</taxonomicName>
+</emphasis>
+<emphasis id="54C8EA91635B0549F2B218A8FC93F977" box="[766,789,1736,1761]" italics="true" pageId="1" pageNumber="440">in</emphasis>
+<bibRefCitation id="022D4B72635B0549F35118A7FBBAF977" author="Chani-Posse, M. R. &amp; Brunke, A. J. &amp; Chatzimanolis, S. &amp; Schillhammer, H. &amp; Solodovnikov, A." box="[797,1084,1735,1761]" pageId="1" pageNumber="440" pagination="1 - 40" refId="ref5460" refString="Chani-Posse, M. R., Brunke, A. J., Chatzimanolis, S., Schillhammer, H. &amp; Solodovnikov, A. (2018) Phylogeny of the hyper-diverse rove beetle subtribe Philonthina with implications for classification of the tribe Staphylinini (Coleoptera: Staphylinidae). Cladistics, 38, 1 - 40. https: // doi. org / 10.1111 / cla. 12188" type="journal article" year="2018">
+<emphasis id="54C8EA91635B0549F35118A7FC3EF977" bold="true" box="[797,952,1735,1761]" pageId="1" pageNumber="440">Chani-Posse</emphasis>
+<emphasis id="54C8EA91635B0549F3F318A8FC74F977" box="[959,1010,1735,1761]" italics="true" pageId="1" pageNumber="440">et al</emphasis>
+. 
+<emphasis id="54C8EA91635B0549F44D18A7FBBAF977" bold="true" box="[1025,1084,1735,1761]" pageId="1" pageNumber="440">2018</emphasis>
+</bibRefCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection id="0F332F68635B0549F0DB196FFDB4F8BF" _generate="added" _reason="heading_only_treatment" box="[151,562,1807,1834]" pageId="1" pageNumber="440" type="multiple">
+<paragraph id="66033683635B0549F0DB196FFDB4F8BF" blockId="1.[151,562,1807,1834]" box="[151,562,1807,1834]" pageId="1" pageNumber="440">
+<heading id="3D4B81EF635B0549F0DB196FFDB4F8BF" bold="true" box="[151,562,1807,1834]" fontSize="11" level="1" pageId="1" pageNumber="440" reason="1">
+<emphasis id="54C8EA91635B0549F0DB196FFDB4F8BF" bold="true" box="[151,562,1807,1834]" pageId="1" pageNumber="440">
+Genus 
+<taxonomicName id="A1BC4D00635B0549F0A2196FFDB4F8BF" _authorityPlausibility="0.99943846" _evidence="catalogs" _step="genera" authority="Kraatz, 1857" authorityName="Kraatz" authorityYear="1857" box="[238,562,1807,1834]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="440" phylum="Arthropoda" rank="genus">
+<emphasis id="54C8EA91635B0549F0A2196FFE0FF8BC" bold="true" box="[238,393,1807,1834]" italics="true" pageId="1" pageNumber="440">Philothalpus</emphasis>
+Kraatz, 1857
+</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSection>
+<treatment id="EE158795635B054DF0DB1937FBFEFD67" ID-DOI="http://doi.org/10.5281/zenodo.10791900" ID-Zenodo-Dep="10791900" _generate="added" lastPageId="5" lastPageNumber="444" pageId="1" pageNumber="440">
+<subSubSection id="2EA66508635B0549F0DB1937FBCAF819" _generate="added" pageId="1" pageNumber="440" type="nomenclature">
+<paragraph id="66033683635B0549F0DB1937FBBAF8E7" blockId="1.[151,1100,1879,1972]" box="[151,1084,1879,1906]" pageId="1" pageNumber="440">
+<heading id="3D4B81EF635B0549F0DB1937FBBAF8E7" bold="true" box="[151,1084,1879,1906]" fontSize="11" level="1" pageId="1" pageNumber="440" reason="1">
+<emphasis id="54C8EA91635B0549F0DB1937FBBAF8E7" bold="true" box="[151,1084,1879,1906]" pageId="1" pageNumber="440">
+<taxonomicName id="A1BC4D00635B0549F0DB1937FC57F8E7" _authorityPlausibility="0.9109785" _evidence="statusLabel" _step="newLabel1" authority="Klemann-Junior, Barroso, Pereira &amp; Asenjo" authorityName="Klemann-Junior, Barroso, Pereira &amp; Asenjo" authorityYear="2024" box="[151,977,1879,1906]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="440" phylum="Arthropoda" rank="species" species="precious" status="sp. nov.">
+<emphasis id="54C8EA91635B0549F0DB1937FE26F8E7" bold="true" box="[151,416,1879,1906]" italics="true" pageId="1" pageNumber="440">Philothalpus precious</emphasis>
+Klemann-Junior, Barroso, Pereira &amp; Asenjo
+</taxonomicName>
+, 
+<taxonomicNameLabel id="4FFB57EA635B0549F3921937FBBAF8E7" box="[990,1084,1879,1905]" pageId="1" pageNumber="440" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+</heading>
+</paragraph>
+<paragraph id="66033683635B0549F0DB1917FBCAF819" blockId="1.[151,1100,1879,1972]" box="[151,1100,1911,1935]" pageId="1" pageNumber="440">
+https://zoobank.org/ 
+<uri id="122D3A81635B0549F1241917FBCAF819" box="[360,1100,1911,1935]" pageId="1" pageNumber="440">
+urn:lsid:zoobank.org:act: 
+<uuid id="121A0C56635B0549F2131917FBCAF819" box="[607,1100,1911,1935]" pageId="1" pageNumber="440">A863B678-47DC-47B0-A4D0-8DD9B264882E</uuid>
+</uri>
+</paragraph>
+</subSubSection>
+<subSubSection id="2EA66508635B0549F0DB19FAFEF8F822" _generate="added" box="[151,382,1946,1972]" pageId="1" pageNumber="440" type="description">
+<paragraph id="66033683635B0549F0DB19FAFEF8F822" blockId="1.[151,1100,1879,1972]" box="[151,382,1946,1972]" pageId="1" pageNumber="440">
+(
+<figureCitation id="FE872A06635B0549F0D319FAFEA3F822" box="[159,293,1946,1972]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="1" pageNumber="440">Figs. 1A–D</figureCitation>
+, 
+<figureCitation id="FE872A06635B0549F17D19FAFEF3F822" box="[305,373,1946,1972]" captionStart="FIGURE 2" captionStartId="4.[151,250,1650,1674]" captionTargetBox="[157,1430,962,1621]" captionTargetId="figure-354@4.[151,1435,957,1626]" captionTargetPageId="4" captionText="FIGURE 2. Aedeagus of Philothalpus precious sp. nov. (Paratype). A. Parameral view. B. Lateral view. C. Antiparameral view. D. Detail of apex, lateral view (paramere removed). E. Detail of apex, antiparameral view. Scale bars = 1 mm (A–C), 0.5 mm (D–E)." figureDoi="http://doi.org/10.5281/zenodo.10791921" httpUri="https://zenodo.org/record/10791921/files/figure.png" pageId="1" pageNumber="440">2A–C</figureCitation>
+)
+</paragraph>
+</subSubSection>
+<subSubSection id="2EA665086358054AF0DB1EF7FDA8F9BE" _generate="added" pageId="2" pageNumber="441" type="materials_examined">
+<paragraph id="660336836358054AF0DB1EF7FDA8F9BE" blockId="2.[151,1437,150,2042]" pageId="2" pageNumber="441">
+<emphasis id="54C8EA916358054AF0DB1EF7FEBAFF26" bold="true" box="[151,316,150,177]" pageId="2" pageNumber="441">Type material</emphasis>
+(
+<specimenCount id="70BAFD0A6358054AF1061EF7FE15FF27" box="[330,403,151,177]" count="16" pageId="2" pageNumber="441" type="male">16♂♂</specimenCount>
+, 
+<specimenCount id="70BAFD0A6358054AF1D21EF7FE63FF27" box="[414,485,151,177]" count="13" pageId="2" pageNumber="441" type="female">13♀♀</specimenCount>
+). 
+<materialsCitation id="D6D43CDE6358054AF1B51EF7FB87FE8A" collectionCode="UEA, INPA" collectorName="L. Klemann-Junior" country="Brazil" county="May" latitude="-2.5473554" location="Brasil" longLatPrecision="1" longitude="-58.80643" municipality="April" pageId="2" pageNumber="441" specimenCount="1" specimenCount-male="1" typeStatus="holotype">
+<emphasis id="54C8EA916358054AF1B51EF7FD6CFF26" bold="true" box="[505,746,150,177]" pageId="2" pageNumber="441">
+<typeStatus id="B90788216358054AF1B51EF7FDECFF27" box="[505,618,151,177]" pageId="2" pageNumber="441" type="holotype">Holotype</typeStatus>
+: 
+<collectingCountry id="1EAB76136358054AF2391EF6FD63FF26" box="[629,741,150,176]" name="Brazil" pageId="2" pageNumber="441">BRAZIL</collectingCountry>
+:
+</emphasis>
+<specimenCount id="70BAFD0A6358054AF2A31EF7FC80FF27" box="[751,774,151,177]" count="1" pageId="2" pageNumber="441" type="male">♂</specimenCount>
+, labeled: “ 
+<location id="636360586358054AF3361EF7FC45FF27" box="[890,963,151,177]" country="Brazil" county="May" latitude="-2.5473554" longLatPrecision="1" longitude="-58.80643" municipality="April" name="Brasil" pageId="2" pageNumber="441">Brasil</location>
+:AM [
+<location id="636360586358054AF44F1EF7FBFAFF27" box="[1027,1148,151,177]" country="Brazil" county="May" latitude="-2.5473554" longLatPrecision="1" longitude="-58.80643" municipality="April" name="Amazonas" pageId="2" pageNumber="441">Amazonas</location>
+state], 
+<location id="636360586358054AF4871EF7FA89FF27" box="[1227,1295,151,177]" country="Brazil" county="May" latitude="-2.5473554" longLatPrecision="1" longitude="-58.80643" municipality="April" name="Silves" pageId="2" pageNumber="441">Silves</location>
+| Faz. [farm] 
+<location id="636360586358054AF0DB1EDAFF64FF42" box="[151,226,186,212]" country="Brazil" county="May" latitude="-2.5473554" longLatPrecision="1" longitude="-58.80643" municipality="April" name="Caribe" pageId="2" pageNumber="441">Caribe</location>
+- I. voo frango [
+<collectingMethod id="BFFD4E946358054AF1DD1EDAFD08FF43" box="[401,654,186,213]" pageId="2" pageNumber="441">flight interception trap</collectingMethod>
+baited with rotten chicken] | 28.iv[
+<collectingMunicipality id="8667ACF96358054AF4401EDAFBC9FF42" box="[1036,1103,186,212]" pageId="2" pageNumber="441">April</collectingMunicipality>
+]-01.v[
+<collectingCounty id="8F624E0F6358054AF4DE1EDAFB4DFF42" box="[1170,1227,186,212]" pageId="2" pageNumber="441">May</collectingCounty>
+].2022 T2/A1 [trap code] | 
+<geoCoordinate id="038850446358054AF0A61EBEFEFCFF6F" box="[234,378,222,249]" degrees="2" direction="south" minutes="32" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="50,48" value="-2.5473554">2°32'50,48''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF1CF1EBEFDB7FF6F" box="[387,561,222,249]" degrees="58" direction="west" minutes="48" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="23,16" value="-58.80643">58°48'23,16''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF2091EBEFC92FF6E" box="[581,788,222,248]" pageId="2" pageNumber="441">L.Klemann-Junior</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF3C21EBFFC40FF6F" box="[910,966,223,249]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]”, “ 
+<typeStatus id="B90788216358054AF4C51EBEFAA6FF6E" box="[1161,1312,222,248]" pageId="2" pageNumber="441" type="holotype">HOLOTYPE</typeStatus>
+[red label] | 
+<taxonomicName id="A1BC4D006358054AF0E81F62FEB5FE8A" _evidence="catalogs" _step="genera" box="[164,307,258,284]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="genus">
+<emphasis id="54C8EA916358054AF0E81F62FEB5FE8A" box="[164,307,258,284]" italics="true" pageId="2" pageNumber="441">Philothalpus</emphasis>
+</taxonomicName>
+| 
+<taxonomicName id="A1BC4D006358054AF10A1F63FE23FE8A" _evidence="statusLabel" _step="nonLabeled1" authority="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo, 2024" authorityName="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo" authorityYear="2024" box="[326,421,259,284]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="precious" status="sp. nov.">
+<emphasis id="54C8EA916358054AF10A1F63FE23FE8A" box="[326,421,259,284]" italics="true" pageId="2" pageNumber="441">precious</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="4FFB57EA6358054AF1E01F63FD85FE8B" box="[428,515,259,285]" pageId="2" pageNumber="441" rank="species">sp. nov.</taxonomicNameLabel>
+| Desig. Klemann-Junior 
+<emphasis id="54C8EA916358054AF36D1F63FCDCFE8A" box="[801,858,258,284]" italics="true" pageId="2" pageNumber="441">et al.</emphasis>
+2024” (
+<collectionCode id="00ADAE466358054AF3FF1F62FC7FFE8A" box="[947,1017,258,284]" country="Brazil" httpUri="http://grbio.org/cool/rm88-499z" name="Instituto Nacional de Pesquisas da Amazonia" pageId="2" pageNumber="441">INPA</collectionCode>
+)
+</materialsCitation>
+. 
+<materialsCitation id="D6D43CDE6358054AF4471F62FDADF9BE" collectingDate="2018-05" collectingDateMax="2019-01" collectingDateMin="2018-05" collectionCode="UEA, INPA, CEMT, MZUSP, MPEG" collectorName="R. S. Moura &amp; L. F. B. Pereira &amp; L. Klemann-Junior" country="Brazil" county="November" latitude="-2.7044084" location="Brasil" longLatPrecision="1" longitude="-58.531696" municipality="Itapiranga" pageId="2" pageNumber="441" specimenCount="56" specimenCount-female="27" specimenCount-male="29" typeStatus="paratype">
+<emphasis id="54C8EA916358054AF4471F62FAB0FEB6" bold="true" box="[1035,1334,258,288]" pageId="2" pageNumber="441">
+<typeStatus id="B90788216358054AF4471F62FB05FE8A" box="[1035,1155,258,284]" pageId="2" pageNumber="441" type="paratype">Paratypes</typeStatus>
+(
+<specimenCount id="70BAFD0A6358054AF4DE1F64FB5FFEB6" box="[1170,1241,260,288]" count="15" pageId="2" pageNumber="441" type="male">15♂♂</specimenCount>
+, 
+<specimenCount id="70BAFD0A6358054AF4AA1F64FAABFEB6" box="[1254,1325,260,288]" count="13" pageId="2" pageNumber="441" type="female">13♀♀</specimenCount>
+)
+</emphasis>
+, labeled: “ 
+<location id="636360586358054AF0EE1F46FF6DFED6" box="[162,235,294,320]" country="Brazil" county="November" latitude="-2.7044084" longLatPrecision="1" longitude="-58.531696" municipality="Itapiranga" name="Brasil" pageId="2" pageNumber="441">Brasil</location>
+: AM [
+<location id="636360586358054AF1611F46FE20FED6" box="[301,422,294,320]" country="Brazil" county="November" latitude="-2.7044084" longLatPrecision="1" longitude="-58.531696" municipality="Itapiranga" name="Amazonas" pageId="2" pageNumber="441">Amazonas</location>
+state], 
+<location id="636360586358054AF1BA1F46FDBCFED6" box="[502,570,294,320]" country="Brazil" county="November" latitude="-2.7044084" longLatPrecision="1" longitude="-58.531696" municipality="Itapiranga" name="Silves" pageId="2" pageNumber="441">Silves</location>
+| Faz. [farm] 
+<collectingMunicipality id="8667ACF96358054AF29D1F46FCC5FED6" box="[721,835,294,320]" pageId="2" pageNumber="441">Itapiranga</collectingMunicipality>
+- I.v. p+b+f [
+<collectingMethod id="BFFD4E946358054AF3981F46FB54FED7" box="[980,1234,294,321]" pageId="2" pageNumber="441">flight interception trap</collectingMethod>
+baited with rotten fish, fermented banana and dog feces] | 14-22.xi[
+<collectingCounty id="8F624E0F6358054AF2E11F2AFCA9FEF3" box="[685,815,330,357]" pageId="2" pageNumber="441">November</collectingCounty>
+].2015, T1/A2 [trap code] | 
+<geoCoordinate id="038850446358054AF41B1F2AFB6EFEF3" box="[1111,1256,330,357]" degrees="2" direction="south" minutes="42" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="15,87" value="-2.7044084">2°42'15,87''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF4BD1F2AFA1AFEF3" box="[1265,1436,330,357]" degrees="58" direction="west" minutes="31" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="54,11" value="-58.531696">58°31'54,11''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF0E91F0EFEA6FE1E" box="[165,288,366,392]" pageId="2" pageNumber="441">R.S.Moura</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF1D71F0EFE55FE1E" box="[411,467,366,392]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF2DE1F0EFD34FE1E" box="[658,690,366,392]" count="1" pageId="2" pageNumber="441" type="female">1♀</specimenCount>
+<collectionCode id="00ADAE466358054AF2F61F0EFD7EFE1E" box="[698,760,366,392]" pageId="2" pageNumber="441">UEA</collectionCode>
+); “Brasil: AM [Amazonas state], Silves | Faz. [farm] Caribe | 18-25.x[October]. 
+<date id="120210436358054AF1271FF1FE42FE3A" box="[363,452,401,428]" pageId="2" pageNumber="441" value="2018-05">
+<collectingDate id="0246E9AB6358054AF1271FF1FE42FE3A" box="[363,452,401,428]" pageId="2" pageNumber="441" value="2018-05">2018 V</collectingDate>
+</date>
+[dry season]09/10[abbreviated logging year]T1A2 [trap code] | 
+<geoCoordinate id="038850446358054AF4DA1FF1FAAFFE3A" box="[1174,1321,401,428]" degrees="2" direction="south" minutes="45" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="14,79" value="-2.7541084">2°45'14,79''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF57F1FF1FF5EFE46" degrees="58" direction="west" minutes="29" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="54, 52" value="-58.498478">58°29'54, 52''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF0A01FD6FE1EFE59" box="[236,408,437,464]" pageId="2" pageNumber="441">L. F. B. Pereira</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF25E1FD6FDCCFE46" box="[530,586,438,464]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF34A1FD6FCAFFE46" box="[774,809,438,464]" count="1" pageId="2" pageNumber="441" type="male">1♂</specimenCount>
+<collectionCode id="00ADAE466358054AF37C1FD6FCE8FE46" box="[816,878,438,464]" pageId="2" pageNumber="441">UEA</collectionCode>
+); “Brasil: AM [Amazonas state], Itapiranga | Faz. [farm] Caribe | 18-25.x[October]. 
+<date id="120210436358054AF2401FB9FDE2FE65" box="[524,612,473,500]" pageId="2" pageNumber="441" value="2018-05">
+<collectingDate id="0246E9AB6358054AF2401FB9FDE2FE65" box="[524,612,473,500]" pageId="2" pageNumber="441" value="2018-05">2018 V</collectingDate>
+</date>
+[dry season]09/10[abbreviated logging year]T2A4 [trap code] | 2°44'31,4 1''S/ 
+<geoCoordinate id="038850446358054AF08C1F9DFEF4FD8E" box="[192,370,509,536]" degrees="58" direction="west" minutes="30" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="48,04" value="-58.513344">58°30'48,04''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF1C41F9EFDB3FD81" box="[392,565,509,536]" pageId="2" pageNumber="441">L. F. B. Pereira</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF2FD1F9EFD6FFD8E" box="[689,745,510,536]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF3E91F9DFC59FD81" box="[933,991,509,535]" count="2" pageId="2" pageNumber="441" type="male">2♂♂</specimenCount>
+<collectionCode id="00ADAE466358054AF3AA1F9DFBACFD81" box="[998,1066,509,535]" country="Brazil" httpUri="http://grbio.org/cool/rm88-499z" name="Instituto Nacional de Pesquisas da Amazonia" pageId="2" pageNumber="441">INPA</collectionCode>
+); “Brasil: AM [Amazonas state], Silves | Faz. [farm] Saracá | 18-25.x[October]. 
+<date id="120210436358054AF2D81C41FD6DFDAD" box="[660,747,545,572]" pageId="2" pageNumber="441" value="2018-05">
+<collectingDate id="0246E9AB6358054AF2D81C41FD6DFDAD" box="[660,747,545,572]" pageId="2" pageNumber="441" value="2018-05">2018 V</collectingDate>
+</date>
+[dry season]05/06[abbreviated logging year]T5A3 [trap code] | 
+<geoCoordinate id="038850446358054AF0EB1C25FEBEFDF6" box="[167,312,581,608]" degrees="2" direction="south" minutes="45" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="27,17" value="-2.7575471">2°45'27,17''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF10D1C25FE6BFDF6" box="[321,493,581,608]" degrees="58" direction="west" minutes="29" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="12,55" value="-58.48682">58°29'12,55''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF24B1C26FD3CFDC9" box="[519,698,581,608]" pageId="2" pageNumber="441">L. F. B. Pereira</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF3721C25FCF0FDC9" box="[830,886,581,607]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF4761C25FBDBFDC9" box="[1082,1117,581,607]" count="1" pageId="2" pageNumber="441" type="male">1♂</specimenCount>
+<collectionCode id="00ADAE466358054AF42B1C25FB30FDC9" box="[1127,1206,581,607]" pageId="2" pageNumber="441">CEMT</collectionCode>
+, 
+<specimenCount id="70BAFD0A6358054AF48F1C25FB60FDC9" box="[1219,1254,581,607]" count="1" pageId="2" pageNumber="441" type="female">1♀</specimenCount>
+<collectionCode id="00ADAE466358054AF4BC1C25FAA8FDC9" box="[1264,1326,581,607]" pageId="2" pageNumber="441">UEA</collectionCode>
+); “Brasil: AM [Amazonas state], Itapiranga | Faz. [farm] Itapiranga | 03-10.v[May]. 
+<date id="120210436358054AF3931C09FBB6FD15" box="[991,1072,617,643]" pageId="2" pageNumber="441" value="2019-01">
+<collectingDate id="0246E9AB6358054AF3931C09FBB6FD15" box="[991,1072,617,643]" pageId="2" pageNumber="441" value="2019-01">2019 I</collectingDate>
+</date>
+[rainy season]14/15[abbreviated logging year]T3A1 [trap code] | 
+<geoCoordinate id="038850446358054AF24A1CEDFD11FD3E" box="[518,663,653,680]" degrees="2" direction="south" minutes="39" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="47,36" value="-2.6631556">2°39'47,36''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF2EC1CEDFCCAFD3E" box="[672,844,653,680]" degrees="58" direction="west" minutes="28" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="21,01" value="-58.472504">58°28'21,01''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF32C1CEDFB8AFD31" box="[864,1036,653,679]" pageId="2" pageNumber="441">L. F. B. Pereira</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF4CA1CEDFB38FD31" box="[1158,1214,653,679]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF5361CEDFA1BFD31" box="[1402,1437,653,679]" count="1" pageId="2" pageNumber="441" type="male">1♂</specimenCount>
+<collectionCode id="00ADAE466358054AF0DB1CD1FF72FD5D" box="[151,244,689,715]" country="Brazil" httpUri="http://grbio.org/cool/6yx0-3nm7" name="Museu de Zoologia da Universidade de Sao Paulo" pageId="2" pageNumber="441">MZUSP</collectionCode>
+, 
+<specimenCount id="70BAFD0A6358054AF14F1CD1FEA0FD5D" box="[259,294,689,715]" count="1" pageId="2" pageNumber="441" type="female">1♀</specimenCount>
+<collectionCode id="00ADAE466358054AF17D1CD1FE12FD5D" box="[305,404,689,715]" country="Brazil" httpUri="http://grbio.org/cool/6yx0-3nm7" name="Museu de Zoologia da Universidade de Sao Paulo" pageId="2" pageNumber="441">MZUSP</collectionCode>
+); “Brasil: AM [Amazonas state], Itapiranga | Faz. [farm] Itapiranga | 03-10.v[May]. 
+<date id="120210436358054AF5121CD1FF26FD78" pageId="2" pageNumber="441" value="2019-01">
+<collectingDate id="0246E9AB6358054AF5121CD1FF26FD78" pageId="2" pageNumber="441" value="2019-01">2019 I</collectingDate>
+</date>
+[rainy season]14/15[abbreviated logging year]T3A2 [trap code] | 
+<geoCoordinate id="038850446358054AF3C11CB4FB98FD79" box="[909,1054,724,751]" degrees="2" direction="south" minutes="39" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="47,36" value="-2.6631556">2°39'47,36''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF46B1CB4FB55FD79" box="[1063,1235,724,751]" degrees="58" direction="west" minutes="28" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="21,01" value="-58.472504">58°28'21,01''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF4A71CB5FA1AFD78" box="[1259,1436,724,751]" pageId="2" pageNumber="441">L. F. B. Pereira</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF15A1C99FEC8FC85" box="[278,334,761,787]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF2591C98FDBEFC84" box="[533,568,760,786]" count="1" pageId="2" pageNumber="441" type="male">1♂</specimenCount>
+<collectionCode id="00ADAE466358054AF20F1C98FD10FC84" box="[579,662,760,786]" country="Brazil" httpUri="http://grbio.org/cool/90vz-swjg" name="Museu Paraense Emilio Goeldi" pageId="2" pageNumber="441">MPEG</collectionCode>
+); “Brasil: AM [Amazonas state], Silves | Faz. [farm] Saracá | 05- 12.v[May]. 
+<date id="120210436358054AF1431D7CFED9FCA0" box="[271,351,796,822]" pageId="2" pageNumber="441" value="2019-01">
+<collectingDate id="0246E9AB6358054AF1431D7CFED9FCA0" box="[271,351,796,822]" pageId="2" pageNumber="441" value="2019-01">2019 I</collectingDate>
+</date>
+[rainy season]04/05[abbreviated logging year]T2A3 [trap code] | 
+<geoCoordinate id="038850446358054AF4041D7CFB5FFCA1" box="[1096,1241,796,823]" degrees="2" direction="south" minutes="50" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="21,72" value="-2.8393667">2°50'21,72''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF4AE1D7CFA08FCA1" box="[1250,1422,796,823]" degrees="58" direction="west" minutes="35" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="37,25" value="-58.593678">58°35'37,25''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF0DB1D21FEC2FCCC" box="[151,324,832,859]" pageId="2" pageNumber="441">L. F. B. Pereira</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF18D1D20FE7FFCCC" box="[449,505,832,858]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF2F91D20FD69FCCC" box="[693,751,832,858]" count="2" pageId="2" pageNumber="441" type="male">2♂♂</specimenCount>
+<collectionCode id="00ADAE466358054AF2BA1D20FCCFFCCC" box="[758,841,832,858]" pageId="2" pageNumber="441">CEMT</collectionCode>
+); “Brasil: AM [Amazonas state], Silves | Faz. [farm] Saracá | 05-12.v[May]. 
+<date id="120210436358054AF1DA1D04FE63FCE8" box="[406,485,868,895]" pageId="2" pageNumber="441" value="2019-01">
+<collectingDate id="0246E9AB6358054AF1DA1D04FE63FCE8" box="[406,485,868,895]" pageId="2" pageNumber="441" value="2019-01">2019 I</collectingDate>
+</date>
+[rainy season]05/06[abbreviated logging year]T5A4 [trap code] | 
+<geoCoordinate id="038850446358054AF4801D04FAD9FCE9" box="[1228,1375,868,895]" degrees="2" direction="south" minutes="45" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="27,17" value="-2.7575471">2°45'27,17''S</geoCoordinate>
+/58° 
+<geoCoordinate id="038850446358054AF5C21D04FE8BFC35" degrees="2" direction="west" minutes="9" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="12,55" value="-2.1534863">2 9'12,55''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF16D1DE8FE4AFC34" box="[289,460,904,930]" pageId="2" pageNumber="441">L. F. B. Pereira</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF2091DE8FDFBFC34" box="[581,637,904,930]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF3761DE8FCDDFC34" box="[826,859,904,930]" count="1" pageId="2" pageNumber="441" type="female">1♀</specimenCount>
+<collectionCode id="00ADAE466358054AF32E1DE8FC33FC34" box="[866,949,904,930]" country="Brazil" httpUri="http://grbio.org/cool/90vz-swjg" name="Museu Paraense Emilio Goeldi" pageId="2" pageNumber="441">MPEG</collectionCode>
+); “Brasil: AM [Amazonas state], Itapiranga | 03-10.v[May]. 
+<date id="120210436358054AF1081DCCFE13FC50" box="[324,405,940,966]" pageId="2" pageNumber="441" value="2019-01">
+<collectingDate id="0246E9AB6358054AF1081DCCFE13FC50" box="[324,405,940,966]" pageId="2" pageNumber="441" value="2019-01">2019 I</collectingDate>
+</date>
+[rainy season](C2)[not logged site]T3A1 [trap code] | 
+<geoCoordinate id="038850446358054AF44B1DCBFB10FC50" box="[1031,1174,939,966]" degrees="2" direction="south" minutes="33" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="54,75" value="-2.5652082">2°33'54,75''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF4D31DCBFACBFC50" box="[1183,1357,939,966]" degrees="58" direction="west" minutes="28" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="22,52" value="-58.472923">58°28'22,52''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF52A1DCCFE8FFC7F" pageId="2" pageNumber="441">L. F. B. Pereira</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF1C41DB0FE46FC7C" box="[392,448,976,1002]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF2CD1DB0FD24FC7C" box="[641,674,976,1002]" count="1" pageId="2" pageNumber="441" type="female">1♀</specimenCount>
+<collectionCode id="00ADAE466358054AF2E61DB0FD6EFC7C" box="[682,744,976,1002]" pageId="2" pageNumber="441">UEA</collectionCode>
+); “Brasil: AM [Amazonas state], Silves | 05-12.v[May].2020 A19 [trap code] | 
+<geoCoordinate id="038850446358054AF1131D93FE68FB98" box="[351,494,1011,1038]" degrees="2" direction="south" minutes="35" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="27,57" value="-2.5909915">2°35'27,57''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF1BB1D93FD23FB98" box="[503,677,1011,1038]" degrees="58" direction="west" minutes="45" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="33,67" value="-58.759354">58°45'33,67''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF2F61D93FC16FB9B" box="[698,912,1011,1037]" pageId="2" pageNumber="441">L.Klemann-Junior</collectorName>
+; 
+<collectorName id="CB4953556358054AF3D81D93FB8CFB9B" box="[916,1034,1011,1037]" pageId="2" pageNumber="441">R.S.Moura</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF4C91D94FB3BFB98" box="[1157,1213,1012,1038]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF5361D94FA1BFB98" box="[1402,1437,1012,1038]" count="1" pageId="2" pageNumber="441" type="male">1♂</specimenCount>
+<collectionCode id="00ADAE466358054AF0DB1A77FF53FBA7" box="[151,213,1047,1073]" pageId="2" pageNumber="441">UEA</collectionCode>
+); “Brasil: AM [Amazonas state], Silves | Faz. [farm] Caribe - I. voo frango [
+<collectingMethod id="BFFD4E946358054AF4501A77FA9CFBA4" box="[1052,1306,1047,1074]" pageId="2" pageNumber="441">flight interception trap</collectingMethod>
+baited with rotten chicken] | 28.iv[April]-01.v[May].2022 T2/A1 [trap code] | 
+<geoCoordinate id="038850446358054AF33A1A5BFB80FBC0" box="[886,1030,1083,1110]" degrees="2" direction="south" minutes="32" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="50,48" value="-2.5473554">2°32'50,48''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF4431A5BFB3BFBC0" box="[1039,1213,1083,1110]" degrees="58" direction="west" minutes="48" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="23,16" value="-58.80643">58°48'23,16''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF4821A5BFA1AFBC3" box="[1230,1436,1083,1109]" pageId="2" pageNumber="441">L.Klemann-Junior</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF1471A3FFEC5FBEF" box="[267,323,1119,1145]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF24F1A3FFDA2FBEF" box="[515,548,1119,1145]" count="1" pageId="2" pageNumber="441" type="female">1♀</specimenCount>
+<collectionCode id="00ADAE466358054AF2671A3FFDEBFBEF" box="[555,621,1119,1145]" country="Brazil" httpUri="http://grbio.org/cool/rm88-499z" name="Instituto Nacional de Pesquisas da Amazonia" pageId="2" pageNumber="441">INPA</collectionCode>
+, 
+<specimenCount id="70BAFD0A6358054AF2351A3FFD1AFBEF" box="[633,668,1119,1145]" count="1" pageId="2" pageNumber="441" type="female">1♀</specimenCount>
+<collectionCode id="00ADAE466358054AF2E81A3FFD71FBEF" box="[676,759,1119,1145]" pageId="2" pageNumber="441">CEMT</collectionCode>
+); “Brasil: AM [Amazonas state], Silves | Faz. [farm] Caribe - I. voo frango [
+<collectingMethod id="BFFD4E946358054AF1081AE3FDC5FB0B" box="[324,579,1155,1181]" pageId="2" pageNumber="441">flight interception trap</collectingMethod>
+baited with rotten chicken] | 28.iv[April]-01.v[May].2022 T3/A3 [trap code] | 
+<geoCoordinate id="038850446358054AF0EB1AC7FEB0FB54" box="[167,310,1191,1218]" degrees="2" direction="south" minutes="32" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="50,48" value="-2.5473554">2°32'50,48''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF1731AC7FE6BFB54" box="[319,493,1191,1218]" degrees="58" direction="west" minutes="48" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="23,16" value="-58.80643">58°48'23,16''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF24B1AC7FD53FB57" box="[519,725,1191,1217]" pageId="2" pageNumber="441">L.Klemann-Junior</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF3161AC7FC14FB57" box="[858,914,1191,1217]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF4181AC7FB0BFB57" box="[1108,1165,1191,1217]" count="2" pageId="2" pageNumber="441" type="male">2♂♂</specimenCount>
+<collectionCode id="00ADAE466358054AF4DB1AC7FB7CFB57" box="[1175,1274,1191,1217]" country="Brazil" httpUri="http://grbio.org/cool/6yx0-3nm7" name="Museu de Zoologia da Universidade de Sao Paulo" pageId="2" pageNumber="441">MZUSP</collectionCode>
+); “Brasil: AM [Amazonas state], Silves | Faz. [farm] Caribe – Prato rosa [
+<collectingMethod id="BFFD4E946358054AF3521AABFC33FB73" box="[798,949,1227,1253]" pageId="2" pageNumber="441">pink pan trap</collectingMethod>
+] | 28.iv[April]-01.v[May].2022 T3/A3 [trap code] | 
+<geoCoordinate id="038850446358054AF0A61A8EFEFCFA9F" box="[234,378,1262,1289]" degrees="2" direction="south" minutes="32" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="50,48" value="-2.5473554">2°32'50,48''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF1CF1A8EFDB6FA9F" box="[387,560,1262,1289]" degrees="58" direction="west" minutes="48" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="23,16" value="-58.80643">58°48'23,16''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF2091A8EFC95FA9E" box="[581,787,1262,1288]" pageId="2" pageNumber="441">L.Klemann-Junior</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF3C11A8FFC43FA9F" box="[909,965,1263,1289]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF4CD1A8FFB22FA9F" box="[1153,1188,1263,1289]" count="1" pageId="2" pageNumber="441" type="male">1♂</specimenCount>
+<collectionCode id="00ADAE466358054AF4E01A8FFB79FA9F" box="[1196,1279,1263,1289]" pageId="2" pageNumber="441">CEMT</collectionCode>
+); “Brasil: AM [Amazonas state], Silves | 29.v[May]-05.vi[June].2022 A5 [trap code] | 
+<geoCoordinate id="038850446358054AF3F71B72FBCCFABB" box="[955,1098,1298,1325]" degrees="2" direction="south" minutes="35" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="27,57" value="-2.5909915">2°35'27,57''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF41F1B72FA87FABB" box="[1107,1281,1298,1325]" degrees="58" direction="west" minutes="45" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="33,67" value="-58.759354">58°45'33,67''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF5581B72FF65FAC6" pageId="2" pageNumber="441">L.Klemann-Junior</collectorName>
+; 
+<collectorName id="CB4953556358054AF0AB1B56FED9FAC6" box="[231,351,1334,1360]" pageId="2" pageNumber="441">R.S.Moura</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF1971B56FD95FAC6" box="[475,531,1334,1360]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF29D1B56FD74FAC6" box="[721,754,1334,1360]" count="1" pageId="2" pageNumber="441" type="female">1♀</specimenCount>
+<collectionCode id="00ADAE466358054AF2B51B56FCCAFAC6" box="[761,844,1334,1360]" pageId="2" pageNumber="441">CEMT</collectionCode>
+); “Brasil: AM [Amazonas state], Silves | Faz. [farm] Caribe - I. voo frango [
+<collectingMethod id="BFFD4E946358054AF1D71B3AFD1AFAE3" box="[411,668,1370,1397]" pageId="2" pageNumber="441">flight interception trap</collectingMethod>
+baited with rotten chicken] | 22-24.vi[June].2023 T2/A4 [trap code] | 
+<geoCoordinate id="038850446358054AF0E81B1EFEB2FA0F" box="[164,308,1406,1433]" degrees="2" direction="south" minutes="32" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="50,48" value="-2.5473554">2°32'50,48''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF1711B1EFE6DFA0F" box="[317,491,1406,1433]" degrees="58" direction="west" minutes="48" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="23,16" value="-58.80643">58°48'23,16''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF1B31B1EFD4BFA0E" box="[511,717,1406,1432]" pageId="2" pageNumber="441">L.Klemann-Junior</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF3041B1EFC06FA0E" box="[840,896,1406,1432]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF4761B1EFBF2FA0E" box="[1082,1140,1406,1432]" count="2" pageId="2" pageNumber="441" type="male">2♂♂</specimenCount>
+<collectionCode id="00ADAE466358054AF4371B1EFB4AFA0E" box="[1147,1228,1406,1432]" country="Brazil" httpUri="http://grbio.org/cool/90vz-swjg" name="Museu Paraense Emilio Goeldi" pageId="2" pageNumber="441">MPEG</collectionCode>
+, 
+<specimenCount id="70BAFD0A6358054AF49B1B1EFA89FA0E" box="[1239,1295,1406,1432]" count="2" pageId="2" pageNumber="441" type="female">2♀♀</specimenCount>
+<collectionCode id="00ADAE466358054AF55B1B1EFADFFA0E" box="[1303,1369,1406,1432]" country="Brazil" httpUri="http://grbio.org/cool/rm88-499z" name="Instituto Nacional de Pesquisas da Amazonia" pageId="2" pageNumber="441">INPA</collectionCode>
+, 
+<specimenCount id="70BAFD0A6358054AF5281B1EFA1AFA0E" box="[1380,1436,1406,1432]" count="2" pageId="2" pageNumber="441" type="female">2♀♀</specimenCount>
+<collectionCode id="00ADAE466358054AF0DB1BC2FF7CFA2A" box="[151,250,1442,1468]" country="Brazil" httpUri="http://grbio.org/cool/6yx0-3nm7" name="Museu de Zoologia da Universidade de Sao Paulo" pageId="2" pageNumber="441">MZUSP</collectionCode>
+); “Brasil: AM [Amazonas state], Silves | Faz. [farm] Caribe - I. voo frango [
+<collectingMethod id="BFFD4E946358054AF41D1BC2FAD7FA2A" box="[1105,1361,1442,1468]" pageId="2" pageNumber="441">flight interception trap</collectingMethod>
+baited with rotten chicken] | 23.vi[June].2023 | 
+<geoCoordinate id="038850446358054AF2381BA5FC82FA76" box="[628,772,1477,1504]" degrees="2" direction="south" minutes="32" orientation="latitude" pageId="2" pageNumber="441" precision="1" seconds="50,48" value="-2.5473554">2°32'50,48''S</geoCoordinate>
+/ 
+<geoCoordinate id="038850446358054AF3411BA5FC3DFA76" box="[781,955,1477,1504]" degrees="58" direction="west" minutes="48" orientation="longitude" pageId="2" pageNumber="441" precision="1" seconds="23,16" value="-58.80643">58°48'23,16''W</geoCoordinate>
+| 
+<collectorName id="CB4953556358054AF3991BA6FB22FA76" box="[981,1188,1478,1504]" pageId="2" pageNumber="441">L.Klemann-Junior</collectorName>
+| CESIT - 
+<collectionCode id="00ADAE466358054AF5671BA6FAE5FA76" box="[1323,1379,1478,1504]" pageId="2" pageNumber="441">UEA</collectionCode>
+[left sideline]” (
+<specimenCount id="70BAFD0A6358054AF15B1B8AFEC8F992" box="[279,334,1514,1540]" count="2" pageId="2" pageNumber="441" type="female">2♀♀</specimenCount>
+<collectionCode id="00ADAE466358054AF11A1B8AFE2FF992" box="[342,425,1514,1540]" country="Brazil" httpUri="http://grbio.org/cool/90vz-swjg" name="Museu Paraense Emilio Goeldi" pageId="2" pageNumber="441">MPEG</collectionCode>
+). All 
+<typeStatus id="B90788216358054AF1A41B8AFDD5F992" box="[488,595,1514,1540]" pageId="2" pageNumber="441" type="paratype">paratypes</typeStatus>
+with label “ 
+<typeStatus id="B90788216358054AF2921B8AFCEAF992" box="[734,876,1514,1540]" pageId="2" pageNumber="441" type="paratype">PARATYPE</typeStatus>
+[yellow label] | 
+<taxonomicName id="A1BC4D006358054AF4651B89FB3EF995" _evidence="catalogs" _step="genera" box="[1065,1208,1513,1539]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="genus">
+<emphasis id="54C8EA916358054AF4651B89FB3EF995" box="[1065,1208,1513,1539]" italics="true" pageId="2" pageNumber="441">Philothalpus</emphasis>
+</taxonomicName>
+| 
+<taxonomicName id="A1BC4D006358054AF4831B8AFAA8F995" _evidence="statusLabel" _step="nonLabeled1" authority="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo, 2024" authorityName="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo" authorityYear="2024" box="[1231,1326,1514,1539]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="precious" status="sp. nov.">
+<emphasis id="54C8EA916358054AF4831B8AFAA8F995" box="[1231,1326,1514,1539]" italics="true" pageId="2" pageNumber="441">precious</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="4FFB57EA6358054AF57B1B8AFA09F992" box="[1335,1423,1514,1540]" pageId="2" pageNumber="441" rank="species">sp. nov.</taxonomicNameLabel>
+| Desig. Klemann-Junior 
+<emphasis id="54C8EA916358054AF1EF186EFE53F9B1" box="[419,469,1549,1575]" italics="true" pageId="2" pageNumber="441">et al</emphasis>
+. 2024”
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2EA665086358054AF08B1851FC1BF86C" _generate="added" pageId="2" pageNumber="441" type="diagnosis">
+<paragraph id="660336836358054AF08B1851FC1BF86C" blockId="2.[151,1437,150,2042]" pageId="2" pageNumber="441">
+<emphasis id="54C8EA916358054AF08B1851FEC4F9DD" bold="true" box="[199,322,1585,1611]" pageId="2" pageNumber="441">Diagnosis.</emphasis>
+Among 
+<taxonomicName id="A1BC4D006358054AF1E41851FD14F9DD" box="[424,658,1585,1611]" pageId="2" pageNumber="441">
+<emphasis id="54C8EA916358054AF1E41851FDB1F9DD" box="[424,567,1585,1611]" italics="true" pageId="2" pageNumber="441">Philothalpus</emphasis>
+species
+</taxonomicName>
+that have the integument of the head and pronotum appearing dull due to dense microsculpture formed by uniformly distributed micropunctures, 
+<taxonomicName id="A1BC4D006358054AF45D1836FB0BF9F9" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo, 2024" authorityName="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo" authorityYear="2024" box="[1041,1165,1622,1647]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="precious" status="sp. nov.">
+<emphasis id="54C8EA916358054AF45D1836FB0BF9F9" box="[1041,1165,1622,1647]" italics="true" pageId="2" pageNumber="441">P. precious</emphasis>
+</taxonomicName>
+<emphasis id="54C8EA916358054AF4DA1835FB76F9F9" bold="true" box="[1174,1264,1621,1647]" pageId="2" pageNumber="441">
+<taxonomicNameLabel id="4FFB57EA6358054AF4DA1835FB76F9F9" box="[1174,1264,1621,1647]" pageId="2" pageNumber="441" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+is similar to 
+<taxonomicName id="A1BC4D006358054AF5C41836FEC6F905" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="mauroprasinus">
+<emphasis id="54C8EA916358054AF5C41836FEC6F905" italics="true" pageId="2" pageNumber="441">P. mauroprasinus</emphasis>
+</taxonomicName>
+in major coloration pattern and is similar to 
+<taxonomicName id="A1BC4D006358054AF378181AFC7EF905" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[820,1016,1658,1683]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="mauroprasinus">
+<emphasis id="54C8EA916358054AF378181AFC7EF905" box="[820,1016,1658,1683]" italics="true" pageId="2" pageNumber="441">P. mauroprasinus</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="A1BC4D006358054AF462181AFB1AF905" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[1070,1180,1657,1683]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="bilobus">
+<emphasis id="54C8EA916358054AF462181AFB1AF905" box="[1070,1180,1657,1683]" italics="true" pageId="2" pageNumber="441">P. bilobus</emphasis>
+</taxonomicName>
+in that the paramere is divided into two elongate lobes. However, 
+<taxonomicName id="A1BC4D006358054AF23718FEFD70F921" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo, 2024" authorityName="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo" authorityYear="2024" box="[635,758,1694,1719]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="precious" status="sp. nov.">
+<emphasis id="54C8EA916358054AF23718FEFD70F921" box="[635,758,1694,1719]" italics="true" pageId="2" pageNumber="441">P. precious</emphasis>
+</taxonomicName>
+<emphasis id="54C8EA916358054AF2B218FDFCDEF921" bold="true" box="[766,856,1693,1719]" pageId="2" pageNumber="441">
+<taxonomicNameLabel id="4FFB57EA6358054AF2B218FDFCDEF921" box="[766,856,1693,1719]" pageId="2" pageNumber="441" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+can be differentiated from 
+<taxonomicName id="A1BC4D006358054AF4C718FEFAD6F921" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[1163,1360,1694,1719]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="mauroprasinus">
+<emphasis id="54C8EA916358054AF4C718FEFAD6F921" box="[1163,1360,1694,1719]" italics="true" pageId="2" pageNumber="441">P. mauroprasinus</emphasis>
+</taxonomicName>
+by the head and pronotum dark reddish brown with greenish golden overtones (head and pronotum black with greenish overtones in 
+<taxonomicName id="A1BC4D006358054AF1651885FE68F968" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[297,494,1765,1790]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="mauroprasinus">
+<emphasis id="54C8EA916358054AF1651885FE68F968" box="[297,494,1765,1790]" italics="true" pageId="2" pageNumber="441">P. mauroprasinus</emphasis>
+</taxonomicName>
+); by the metallic greenish golden overtones of the elytra (black with metallic green overtones in 
+<taxonomicName id="A1BC4D006358054AF16B1969FE6DF8B4" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[295,491,1801,1826]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="mauroprasinus">
+<emphasis id="54C8EA916358054AF16B1969FE6DF8B4" box="[295,491,1801,1826]" italics="true" pageId="2" pageNumber="441">P. mauroprasinus</emphasis>
+</taxonomicName>
+); by the posterior 1/3 of tergites IV–V and posterior 1/4 of tergite VI reddish brown (dark reddish brown in 
+<taxonomicName id="A1BC4D006358054AF1EA194DFDEBF8D0" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[422,621,1837,1862]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="mauroprasinus">
+<emphasis id="54C8EA916358054AF1EA194DFDEBF8D0" box="[422,621,1837,1862]" italics="true" pageId="2" pageNumber="441">P. mauroprasinus</emphasis>
+</taxonomicName>
+); and by the distinctive shape of the parameral lobes. Each lobe of the paramere of 
+<taxonomicName id="A1BC4D006358054AF1691931FE25F8FC" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo" authorityYear="2024" box="[293,419,1873,1899]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="precious">
+<emphasis id="54C8EA916358054AF1691931FEB0F8FC" box="[293,310,1873,1898]" italics="true" pageId="2" pageNumber="441">P</emphasis>
+. 
+<emphasis id="54C8EA916358054AF1081931FE25F8FC" box="[324,419,1873,1898]" italics="true" pageId="2" pageNumber="441">precious</emphasis>
+</taxonomicName>
+differs from those of 
+<taxonomicName id="A1BC4D006358054AF2D41931FCDBF8FC" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[664,861,1873,1898]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="mauroprasinus">
+<emphasis id="54C8EA916358054AF2D41931FCDBF8FC" box="[664,861,1873,1898]" italics="true" pageId="2" pageNumber="441">P. mauroprasinus</emphasis>
+</taxonomicName>
+by the absence of a tooth, by the rounded apex and by the arrangement of the peg setae (
+<figureCitation id="FE872A066358054AF20E1914FD0EF818" box="[578,648,1908,1934]" captionStart="FIGURE 2" captionStartId="4.[151,250,1650,1674]" captionTargetBox="[157,1430,962,1621]" captionTargetId="figure-354@4.[151,1435,957,1626]" captionTargetPageId="4" captionText="FIGURE 2. Aedeagus of Philothalpus precious sp. nov. (Paratype). A. Parameral view. B. Lateral view. C. Antiparameral view. D. Detail of apex, lateral view (paramere removed). E. Detail of apex, antiparameral view. Scale bars = 1 mm (A–C), 0.5 mm (D–E)." figureDoi="http://doi.org/10.5281/zenodo.10791921" httpUri="https://zenodo.org/record/10791921/files/figure.png" pageId="2" pageNumber="441">Fig. 2</figureCitation>
+). Furthermore, the parameral lobes are wider throughout their lengths (narrower in 
+<taxonomicName id="A1BC4D006358054AF16519F9FE11F824" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[297,407,1944,1970]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="bilobus">
+<emphasis id="54C8EA916358054AF16519F9FE11F824" box="[297,407,1944,1970]" italics="true" pageId="2" pageNumber="441">P. bilobus</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="A1BC4D006358054AF18219F9FD15F824" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[462,659,1945,1970]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="mauroprasinus">
+<emphasis id="54C8EA916358054AF18219F9FD15F824" box="[462,659,1945,1970]" italics="true" pageId="2" pageNumber="441">P. mauroprasinus</emphasis>
+</taxonomicName>
+); apices broader and not curved inward (narrower and curved inward in 
+<taxonomicName id="A1BC4D006358054AF0FB19DDFEAFF840" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[183,297,1980,2006]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="bilobus">
+<emphasis id="54C8EA916358054AF0FB19DDFEAFF840" box="[183,297,1980,2006]" italics="true" pageId="2" pageNumber="441">P. bilobus</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="A1BC4D006358054AF12A19DDFDA9F840" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[358,559,1981,2006]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="mauroprasinus">
+<emphasis id="54C8EA916358054AF12A19DDFDA9F840" box="[358,559,1981,2006]" italics="true" pageId="2" pageNumber="441">P. mauroprasinus</emphasis>
+</taxonomicName>
+); median lobe wider throughout their length (narrower in 
+<taxonomicName id="A1BC4D006358054AF49519DDFACCF840" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[1241,1354,1980,2006]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="bilobus">
+<emphasis id="54C8EA916358054AF49519DDFACCF840" box="[1241,1354,1980,2006]" italics="true" pageId="2" pageNumber="441">P. bilobus</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="A1BC4D006358054AF5C419DDFEC6F86C" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="mauroprasinus">
+<emphasis id="54C8EA916358054AF5C419DDFEC6F86C" italics="true" pageId="2" pageNumber="441">P. mauroprasinus</emphasis>
+</taxonomicName>
+); less acute apically in ventral view that in 
+<emphasis id="54C8EA916358054AF36B1981FC1BF86C" box="[807,925,2016,2042]" italics="true" pageId="2" pageNumber="441">
+<taxonomicName id="A1BC4D006358054AF36B1981FC1FF86C" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[807,921,2016,2042]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="441" phylum="Arthropoda" rank="species" species="bilobus">P. bilobus</taxonomicName>
+.
+</emphasis>
+</paragraph>
+</subSubSection>
+<subSubSection id="2EA665086359054DF08B1EF6FBFEFD67" _generate="added" lastPageId="5" lastPageNumber="444" pageId="3" pageNumber="442" type="description">
+<paragraph id="660336836359054BF08B1EF6FD0AFF27" blockId="3.[151,1437,150,429]" box="[199,652,150,177]" pageId="3" pageNumber="442">
+<emphasis id="54C8EA916359054BF08B1EF6FEDFFF26" bold="true" box="[199,345,150,176]" pageId="3" pageNumber="442">Description.</emphasis>
+<typeStatus id="B90788216359054BF12C1EF7FE4EFF27" box="[352,456,151,177]" pageId="3" pageNumber="442" type="holotype">Holotype</typeStatus>
+male, BL: 10.50.
+</paragraph>
+<paragraph id="660336836359054BF08B1EDBFA88FE3B" blockId="3.[151,1437,150,429]" pageId="3" pageNumber="442">
+Coloration. Head (
+<figureCitation id="FE872A066359054BF1DB1EDBFE6AFF43" box="[407,492,187,213]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="3" pageNumber="442">Fig. 1B</figureCitation>
+) dark reddish brown with greenish golden overtones, anterior border of clypeus and around antennal insertions reddish brown. Pronotum (
+<figureCitation id="FE872A066359054BF2BE1EBFFCC0FF6F" box="[754,838,223,249]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="3" pageNumber="442">Fig. 1C</figureCitation>
+) dark reddish brown with greenish golden overtones. Antennal segments 1–2 reddish brown, segment 3 dark reddish brown with the basal 1/3 lighter, segments 4–11 dark reddish brown to black. Legs reddish brown. Scutellum black; elytra (
+<figureCitation id="FE872A066359054BF3EA1F47FC7AFED7" box="[934,1020,295,321]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="3" pageNumber="442">Fig. 1D</figureCitation>
+) black with metallic greenish golden overtones. Abdomen (
+<figureCitation id="FE872A066359054BF1C31F2BFE60FEF3" box="[399,486,331,357]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="3" pageNumber="442">Fig. 1A</figureCitation>
+) dark reddish brown, almost black, except posterior border of segment III, posterior 1/3 of segments IV–V, posterior 1/4 of segment VI, posterior 2/5 of segment VII, anterior border of segment VII, and anterior 2/3 of segment VIII, reddish brown. Prosternum, meso- and metaventrite dark reddish brown.
+</paragraph>
+<caption id="32C3660B6359054BF0DB19FFFF40F84C" ID-DOI="http://doi.org/10.5281/zenodo.10791919" ID-Zenodo-Dep="10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="3" pageNumber="442" startId="3.[151,250,1951,1975]" targetBox="[163,1425,465,1915]" targetPageId="3" targetType="figure">
+<paragraph id="660336836359054BF0DB19FFFF40F84C" blockId="3.[151,1437,1951,2010]" pageId="3" pageNumber="442">
+<emphasis id="54C8EA916359054BF0DB19FFFE92F821" bold="true" box="[151,276,1951,1975]" pageId="3" pageNumber="442">FIGURE 1.</emphasis>
+Holotype of 
+<taxonomicName id="A1BC4D006359054BF1D319FFFDF8F821" _evidence="statusLabel" _step="newLabel1" authority="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo, 2024" authorityName="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo" authorityYear="2024" box="[415,638,1951,1975]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="3" pageNumber="442" phylum="Arthropoda" rank="species" species="precious" status="sp. nov.">
+<emphasis id="54C8EA916359054BF1D319FFFDF8F821" box="[415,638,1951,1975]" italics="true" pageId="3" pageNumber="442">Philothalpus precious</emphasis>
+</taxonomicName>
+<emphasis id="54C8EA916359054BF2CA19FFFD5EF821" bold="true" box="[646,728,1951,1975]" pageId="3" pageNumber="442">
+<taxonomicNameLabel id="4FFB57EA6359054BF2CA19FFFD5EF821" box="[646,728,1951,1975]" pageId="3" pageNumber="442" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+. 
+<emphasis id="54C8EA916359054BF2AA19FFFD7EF821" bold="true" box="[742,760,1951,1975]" pageId="3" pageNumber="442">A</emphasis>
+. Dorsal habitus. 
+<emphasis id="54C8EA916359054BF3E519FFFC3CF821" bold="true" box="[937,954,1951,1975]" pageId="3" pageNumber="442">B</emphasis>
+. Head. 
+<emphasis id="54C8EA916359054BF44719FFFB9BF821" bold="true" box="[1035,1053,1951,1975]" pageId="3" pageNumber="442">C</emphasis>
+. Pronotum. 
+<emphasis id="54C8EA916359054BF4D119FFFB29F821" bold="true" box="[1181,1199,1951,1975]" pageId="3" pageNumber="442">D</emphasis>
+. Elytra. Scale bars = 1 mm.
+</paragraph>
+</caption>
+<paragraph id="66033683635E054CF08B1EF7FB37FD8F" blockId="4.[151,1437,151,933]" pageId="4" pageNumber="443">
+Head (
+<figureCitation id="FE872A06635E054CF15F1EF7FE0CFF27" box="[275,394,151,177]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="4" pageNumber="443">Figs 1A,B</figureCitation>
+) wider (HW: 1.78) than long (HL: 1.29), with rounded hind angles. Head with long black macrosetae along borders. Epicranium with sparse umbilicate punctures each carrying dark brown microsetae, umbilicate punctures absent in middle. Distance between punctures varies, up to 2.7 times diameter of puncture. Integument of epicranium appearing dull due to dense microsculpture formed by uniformly distributed micropunctures; micropunctures are absent on anterior border of clypeus, around antennal insertions, and posterior border of head. Eyes prominent, length (OL: 0.94) about 7/10 the length of head, distance between eyes (IO: 0.95) about 2.3 times the width of eyes (OW: 0.41). Gula very narrow posteriorly (least width: length ratio = 0.03), gular sulci widely separated anteromedially and contiguous posteriorly. Neck glossy; dorsal surface punctate; integument between punctures with sparse micropunctures; punctures and micropunctures absent in lateral surface. Antennal segment 1 gradually club-like thickened, segment 2 shorter than segment 3, segments 4–5 longer than wide, segments 6–7 quadrate, segments 8–10 slightly transverse; segments 4–11 densely covered by microtrichae.
+</paragraph>
+<paragraph id="66033683635E054CF08B1C43FB24FCCB" blockId="4.[151,1437,151,933]" pageId="4" pageNumber="443">
+Pronotum (
+<figureCitation id="FE872A06635E054CF1041C43FE26FDAB" box="[328,416,547,573]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="4" pageNumber="443">Fig. 1C</figureCitation>
+) longer than wide (PL: 1.81; PW: 1.65), wider anteriorly; antero-lateral angles obtusely rounded curved; with dark brown microsetae and few black macrosetae along borders. Medium size umbilicate punctures uniformly distributed, except punctures absent along midline; puncture density in the pronotum about 3 punctures / 0.3 mm and with a distance of about 2–5 punctures from each other. Integument of pronotum appearing dull due to dense microsculpture formed by uniformly distributed micropunctures; micropunctures absent in an anterior-posterior line medially. Scutellum with dense dark brown microsetae and punctures covering surface, except punctures and microsetae absent along lateral margins of scutellum. Elytra (
+<figureCitation id="FE872A06635E054CF40A1C9BFB18FC83" box="[1094,1182,763,789]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="4" pageNumber="443">Fig. 1D</figureCitation>
+) wider than pronotum (EL: 2.16; EW: 2.22); denser punctation than on pronotum (about 4 puncture diameters / 0.3 mm); covered with glossy dark brown microsetae and few long black macrosetae along lateral borders of elytra.
+</paragraph>
+<paragraph id="66033683635E054CF08B1D07FDF9FC33" blockId="4.[151,1437,151,933]" pageId="4" pageNumber="443">Legs almost completely covered with glossy yellow or brown microsetae; segments of protarsus 1–4 strongly bilobate and ventrally with yellowish setae.</paragraph>
+<caption id="32C3660B635E054CF0DB1812FF58F944" ID-DOI="http://doi.org/10.5281/zenodo.10791921" ID-Zenodo-Dep="10791921" httpUri="https://zenodo.org/record/10791921/files/figure.png" pageId="4" pageNumber="443" startId="4.[151,250,1650,1674]" targetBox="[157,1430,962,1621]" targetPageId="4" targetType="figure">
+<paragraph id="66033683635E054CF0DB1812FF58F944" blockId="4.[151,1437,1650,1746]" pageId="4" pageNumber="443">
+<emphasis id="54C8EA91635E054CF0DB1812FE94F91C" bold="true" box="[151,274,1650,1674]" pageId="4" pageNumber="443">FIGURE 2.</emphasis>
+Aedeagus of 
+<taxonomicName id="A1BC4D00635E054CF1D61812FDF1F91C" _evidence="statusLabel" _step="newLabel1" authority="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo, 2024" authorityName="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo" authorityYear="2024" box="[410,631,1650,1674]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="4" pageNumber="443" phylum="Arthropoda" rank="species" species="precious" status="sp. nov.">
+<emphasis id="54C8EA91635E054CF1D61812FDF1F91C" box="[410,631,1650,1674]" italics="true" pageId="4" pageNumber="443">Philothalpus precious</emphasis>
+</taxonomicName>
+<emphasis id="54C8EA91635E054CF2311812FD4AF91C" bold="true" box="[637,716,1650,1674]" pageId="4" pageNumber="443">
+<taxonomicNameLabel id="4FFB57EA635E054CF2311812FD4AF91C" box="[637,716,1650,1674]" pageId="4" pageNumber="443" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+(Paratype). 
+<emphasis id="54C8EA91635E054CF30B1812FCDFF91C" bold="true" box="[839,857,1650,1674]" pageId="4" pageNumber="443">A</emphasis>
+. Parameral view. 
+<emphasis id="54C8EA91635E054CF4411812FB98F91C" bold="true" box="[1037,1054,1650,1674]" pageId="4" pageNumber="443">B</emphasis>
+. Lateral view. 
+<emphasis id="54C8EA91635E054CF4FE1812FB42F91C" bold="true" box="[1202,1220,1650,1674]" pageId="4" pageNumber="443">C</emphasis>
+. Antiparameral view. 
+<emphasis id="54C8EA91635E054CF0DB18F6FF36F938" bold="true" box="[151,176,1686,1710]" pageId="4" pageNumber="443">D.</emphasis>
+Detail of apex, lateral view (paramere removed). 
+<emphasis id="54C8EA91635E054CF2E218F6FD40F938" bold="true" box="[686,710,1686,1710]" pageId="4" pageNumber="443">E.</emphasis>
+Detail of apex, antiparameral view. Scale bars = 1 mm (
+<emphasis id="54C8EA91635E054CF54B18F6FABEF938" bold="true" box="[1287,1336,1686,1710]" pageId="4" pageNumber="443">A–C</emphasis>
+), 0.5 mm (
+<emphasis id="54C8EA91635E054CF0EC18DAFF56F944" bold="true" box="[160,208,1722,1746]" pageId="4" pageNumber="443">D–E</emphasis>
+).
+</paragraph>
+</caption>
+<paragraph id="66033683635E054DF08B1960FAD7FF43" blockId="4.[151,1437,1792,2035]" lastBlockId="5.[151,1436,151,753]" lastPageId="5" lastPageNumber="444" pageId="4" pageNumber="443">Abdomen: Tergites and sternites III–VII with uniform punctation pattern, moderately covered with punctures and glossy golden or brown setae. Golden microsetae predominate on tergite III and sternites III–IV, brown macrosetae on tergites IV–VII and sternites V–VII, black macrosetae arranged in row at the apical borders of all tergites and sternites except tergite VII. Posterior angles of tergites and sternites III–VI with one long black macrosetae. Abdominal tergites III–V with accessory ridges and anterior transverse basal carina. Posterior margin of tergite VIII with a slight emargination. Posterior margin of sternite VII emarginate. Basal transverse carina on sternites III–VI projected posteriorly at middle, projected anteriorly on sternite VII, and emarginate anteriorly on lateral third of sternites III–VII. Male sternite VII with median subbasal depression completely covered with a tuft of long setae (porose structure). Male sternite VIII and tergite X slightly emarginate, sternite IX emarginate.</paragraph>
+<paragraph id="66033683635F054DF08B1EBFFC72FE3B" blockId="5.[151,1436,151,753]" pageId="5" pageNumber="444">
+Aedeagus as in 
+<figureCitation id="FE872A06635F054DF1341EBFFD91FF6F" box="[376,535,223,249]" captionStart="FIGURE 2" captionStartId="4.[151,250,1650,1674]" captionTargetBox="[157,1430,962,1621]" captionTargetId="figure-354@4.[151,1435,957,1626]" captionTargetPageId="4" captionText="FIGURE 2. Aedeagus of Philothalpus precious sp. nov. (Paratype). A. Parameral view. B. Lateral view. C. Antiparameral view. D. Detail of apex, lateral view (paramere removed). E. Detail of apex, antiparameral view. Scale bars = 1 mm (A–C), 0.5 mm (D–E)." figureDoi="http://doi.org/10.5281/zenodo.10791921" httpUri="https://zenodo.org/record/10791921/files/figure.png" pageId="5" pageNumber="444">Figures 2A–E</figureCitation>
+; paramere separated to near base into two lobes, lobes together slight longer and wider than medial lobe, in parameral view each lobe broadened medially in middle third and converging distally to a rounded apex, apices not curved inward (
+<figureCitation id="FE872A06635F054DF2D81F47FCA3FED7" box="[660,805,295,321]" captionStart="FIGURE 2" captionStartId="4.[151,250,1650,1674]" captionTargetBox="[157,1430,962,1621]" captionTargetId="figure-354@4.[151,1435,957,1626]" captionTargetPageId="4" captionText="FIGURE 2. Aedeagus of Philothalpus precious sp. nov. (Paratype). A. Parameral view. B. Lateral view. C. Antiparameral view. D. Detail of apex, lateral view (paramere removed). E. Detail of apex, antiparameral view. Scale bars = 1 mm (A–C), 0.5 mm (D–E)." figureDoi="http://doi.org/10.5281/zenodo.10791921" httpUri="https://zenodo.org/record/10791921/files/figure.png" pageId="5" pageNumber="444">Figs 2A,C,E</figureCitation>
+); paramere slightly curved in lateral view (
+<figureCitation id="FE872A06635F054DF54A1F47FAD8FED7" box="[1286,1374,295,321]" captionStart="FIGURE 2" captionStartId="4.[151,250,1650,1674]" captionTargetBox="[157,1430,962,1621]" captionTargetId="figure-354@4.[151,1435,957,1626]" captionTargetPageId="4" captionText="FIGURE 2. Aedeagus of Philothalpus precious sp. nov. (Paratype). A. Parameral view. B. Lateral view. C. Antiparameral view. D. Detail of apex, lateral view (paramere removed). E. Detail of apex, antiparameral view. Scale bars = 1 mm (A–C), 0.5 mm (D–E)." figureDoi="http://doi.org/10.5281/zenodo.10791921" httpUri="https://zenodo.org/record/10791921/files/figure.png" pageId="5" pageNumber="444">Fig. 2B</figureCitation>
+). Peg setae grouped near the apex of each lobe of paramere (
+<figureCitation id="FE872A06635F054DF3401F2BFC18FEF3" box="[780,926,331,357]" captionStart="FIGURE 2" captionStartId="4.[151,250,1650,1674]" captionTargetBox="[157,1430,962,1621]" captionTargetId="figure-354@4.[151,1435,957,1626]" captionTargetPageId="4" captionText="FIGURE 2. Aedeagus of Philothalpus precious sp. nov. (Paratype). A. Parameral view. B. Lateral view. C. Antiparameral view. D. Detail of apex, lateral view (paramere removed). E. Detail of apex, antiparameral view. Scale bars = 1 mm (A–C), 0.5 mm (D–E)." figureDoi="http://doi.org/10.5281/zenodo.10791921" httpUri="https://zenodo.org/record/10791921/files/figure.png" pageId="5" pageNumber="444">Figs 2A,C,E</figureCitation>
+). Median lobe as in 
+<figureCitation id="FE872A06635F054DF4C51F2BFB6DFEF3" box="[1161,1259,331,357]" captionStart="FIGURE 2" captionStartId="4.[151,250,1650,1674]" captionTargetBox="[157,1430,962,1621]" captionTargetId="figure-354@4.[151,1435,957,1626]" captionTargetPageId="4" captionText="FIGURE 2. Aedeagus of Philothalpus precious sp. nov. (Paratype). A. Parameral view. B. Lateral view. C. Antiparameral view. D. Detail of apex, lateral view (paramere removed). E. Detail of apex, antiparameral view. Scale bars = 1 mm (A–C), 0.5 mm (D–E)." figureDoi="http://doi.org/10.5281/zenodo.10791921" httpUri="https://zenodo.org/record/10791921/files/figure.png" pageId="5" pageNumber="444">Figure 2</figureCitation>
+, in lateral view slightly curved upwards from middle to apex (
+<figureCitation id="FE872A06635F054DF2FB1F0FFCB4FE1F" box="[695,818,367,393]" captionStart="FIGURE 2" captionStartId="4.[151,250,1650,1674]" captionTargetBox="[157,1430,962,1621]" captionTargetId="figure-354@4.[151,1435,957,1626]" captionTargetPageId="4" captionText="FIGURE 2. Aedeagus of Philothalpus precious sp. nov. (Paratype). A. Parameral view. B. Lateral view. C. Antiparameral view. D. Detail of apex, lateral view (paramere removed). E. Detail of apex, antiparameral view. Scale bars = 1 mm (A–C), 0.5 mm (D–E)." figureDoi="http://doi.org/10.5281/zenodo.10791921" httpUri="https://zenodo.org/record/10791921/files/figure.png" pageId="5" pageNumber="444">Figs 2B,D</figureCitation>
+); positioned between of two lobes of paramere (
+<figureCitation id="FE872A06635F054DF5261F0FFF69FE3B" captionStart="FIGURE 2" captionStartId="4.[151,250,1650,1674]" captionTargetBox="[157,1430,962,1621]" captionTargetId="figure-354@4.[151,1435,957,1626]" captionTargetPageId="4" captionText="FIGURE 2. Aedeagus of Philothalpus precious sp. nov. (Paratype). A. Parameral view. B. Lateral view. C. Antiparameral view. D. Detail of apex, lateral view (paramere removed). E. Detail of apex, antiparameral view. Scale bars = 1 mm (A–C), 0.5 mm (D–E)." figureDoi="http://doi.org/10.5281/zenodo.10791921" httpUri="https://zenodo.org/record/10791921/files/figure.png" pageId="5" pageNumber="444">Figs 2A,C,E</figureCitation>
+); in antiparameral view, converging to a pointed apex (
+<figureCitation id="FE872A06635F054DF31B1FF3FC6EFE3B" box="[855,1000,403,429]" captionStart="FIGURE 2" captionStartId="4.[151,250,1650,1674]" captionTargetBox="[157,1430,962,1621]" captionTargetId="figure-354@4.[151,1435,957,1626]" captionTargetPageId="4" captionText="FIGURE 2. Aedeagus of Philothalpus precious sp. nov. (Paratype). A. Parameral view. B. Lateral view. C. Antiparameral view. D. Detail of apex, lateral view (paramere removed). E. Detail of apex, antiparameral view. Scale bars = 1 mm (A–C), 0.5 mm (D–E)." figureDoi="http://doi.org/10.5281/zenodo.10791921" httpUri="https://zenodo.org/record/10791921/files/figure.png" pageId="5" pageNumber="444">Figs 2A,C,E</figureCitation>
+).
+</paragraph>
+<paragraph id="66033683635F054DF08B1FD7FB2CFE63" blockId="5.[151,1436,151,753]" pageId="5" pageNumber="444">Female similar to male, except: the first four protarsomeres less expanded; the posterior margin of tergite VIII with a shallower emargination; and sternite VII without depression bearing tuft of long setae.</paragraph>
+<paragraph id="66033683635F054DF08B1F9FFB7FFD13" blockId="5.[151,1436,151,753]" pageId="5" pageNumber="444">
+Habitat. Captured with flight interception traps installed on the ground and baited with fresh human and pig feces (1:9 ratio) (see 
+<bibRefCitation id="022D4B72635F054DF1C81C43FDCBFDAB" author="Moura, R. S. &amp; Noriega, J. A. &amp; Cerboncini, R. A. S. &amp; Vaz-De-Mello, F. &amp; Klemann-Junior, L." box="[388,589,547,573]" pageId="5" pageNumber="444" pagination="119301" refId="ref5752" refString="Moura, R. S., Noriega, J. A., Cerboncini, R. A. S., Vaz-De-Mello, F. &amp; Klemann-Junior, L. (2021) Dung beetles in a tight-spot, but not so much: Quick recovery of dung beetles assemblages after low-impact selective logging in Central Brazilian Amazon. Forest Ecology and Management, 494, 119301. https: // doi. org / 10.1016 / j. foreco. 2021.119301" type="journal article" year="2021">
+Moura 
+<emphasis id="54C8EA91635F054DF19A1C43FD81FDAB" box="[470,519,547,573]" italics="true" pageId="5" pageNumber="444">et al</emphasis>
+. 2021
+</bibRefCitation>
+for details), rotten chicken, or rotten fish. The collection sites belong to the company Precious Woods – Mil Madeiras Preciosas and are destined for selective logging. The vegetation in the area is Evergreen Tropical Forest “Floresta Ombrófila Densa de Terras Baixas” (
+<bibRefCitation id="022D4B72635F054DF4501C0BFB6AFD13" author="Veloso, H. P. &amp; Range-Filho, A. L. R. &amp; Lima, J. C. A." box="[1052,1260,619,645]" pageId="5" pageNumber="444" refId="ref5884" refString="Veloso, H. P., Range-Filho, A. L. R. &amp; Lima, J. C. A. (1991) Classificacao da vegetacao brasileira, adaptada a um sistema universal. IBGE, Rio de Janeiro, 124 pp." type="book" year="1991">
+Veloso 
+<emphasis id="54C8EA91635F054DF43D1C0BFB24FD13" box="[1137,1186,619,645]" italics="true" pageId="5" pageNumber="444">et al</emphasis>
+. 1991
+</bibRefCitation>
+).
+</paragraph>
+<paragraph id="66033683635F054DF08B1CEFFB53FD3F" blockId="5.[151,1436,151,753]" box="[199,1237,655,681]" pageId="5" pageNumber="444">
+Distribution. Known from municipalities of Silves and Itapiranga in Amazonas State, 
+<collectingCountry id="1EAB7613635F054DF4C51CEFFB57FD3F" box="[1161,1233,655,681]" name="Brazil" pageId="5" pageNumber="444">Brazil</collectingCountry>
+.
+</paragraph>
+<paragraph id="66033683635F054DF08B1CD3FBFEFD67" blockId="5.[151,1436,151,753]" pageId="5" pageNumber="444">Etymology. The specific epithet refers to the name of the company, Precious Woods – Mil Madeiras Preciosas, owner of the lands where all known specimens were collected; it is a noun in apposition.</paragraph>
+</subSubSection>
+</treatment>
+<subSection id="0F332F68635F054DF0DB1D22FE1AFB7F" _generate="added" pageId="5" pageNumber="444" type="discussion">
+<paragraph id="66033683635F054DF0DB1D22FE9DFCCA" blockId="5.[151,283,834,860]" box="[151,283,834,860]" pageId="5" pageNumber="444">
+<heading id="3D4B81EF635F054DF0DB1D22FE9DFCCA" bold="true" box="[151,283,834,860]" fontSize="11" level="1" pageId="5" pageNumber="444" reason="1">
+<emphasis id="54C8EA91635F054DF0DB1D22FE9DFCCA" bold="true" box="[151,283,834,860]" pageId="5" pageNumber="444">Discussion</emphasis>
+</heading>
+</paragraph>
+<paragraph id="66033683635F054DF0DB1DEBFE1AFB7F" blockId="5.[151,1437,907,1257]" pageId="5" pageNumber="444">
+The new species belong to the genus 
+<taxonomicName id="A1BC4D00635F054DF21F1DEBFD64FC33" _evidence="catalogs" _step="genera" box="[595,738,907,933]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="5" pageNumber="444" phylum="Arthropoda" rank="genus">
+<emphasis id="54C8EA91635F054DF21F1DEBFD64FC33" box="[595,738,907,933]" italics="true" pageId="5" pageNumber="444">Philothalpus</emphasis>
+</taxonomicName>
+, based on the presence of the following characters used by 
+<bibRefCitation id="022D4B72635F054DF0DB1DCFFE6FFC5F" author="Chatzimanolis, S. &amp; Ashe, J. S." box="[151,489,942,969]" pageId="5" pageNumber="444" pagination="63 - 119" refId="ref5586" refString="Chatzimanolis, S. &amp; Ashe, J. S. (2005) Revision and phylogeny of the neotropical genus Philothalpus (= Eugastus Sharp and Allostenopsis Bernhauer) (Coleoptera: Staphylinidae: Xanthopygina). Insect Systematics &amp; Evolution, 36, 63 - 119. https: // doi. org / 10.1163 / 187631205788912813" type="journal article" year="2005">Chatzimanolis &amp; Ashe (2005)</bibRefCitation>
+to recognize the genus 
+<taxonomicName id="A1BC4D00635F054DF2BA1DCFFC03FC5F" _evidence="catalogs" _step="genera" box="[758,901,943,969]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="5" pageNumber="444" phylum="Arthropoda" rank="genus">
+<emphasis id="54C8EA91635F054DF2BA1DCFFC03FC5F" box="[758,901,943,969]" italics="true" pageId="5" pageNumber="444">Philothalpus</emphasis>
+</taxonomicName>
+: tergites III–V with pair of accessory ridges on the anterior basal transverse carina (
+<figureCitation id="FE872A06635F054DF27E1DB3FD0AFC7B" box="[562,652,979,1005]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Fig. 1A</figureCitation>
+); large prominent eyes (
+<figureCitation id="FE872A06635F054DF3ED1DB3FC7DFC7B" box="[929,1019,979,1005]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Fig. 1A</figureCitation>
+); antennal segments 1–3 longer than wide (
+<figureCitation id="FE872A06635F054DF0921D97FEB3FB87" box="[222,309,1015,1041]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Fig. 1B</figureCitation>
+), segment 1 longer than 2 and 3 (
+<figureCitation id="FE872A06635F054DF2F81D97FC8AFB87" box="[692,780,1015,1041]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Fig. 1B</figureCitation>
+), segment 3 longer than 2 (
+<figureCitation id="FE872A06635F054DF4081D97FB1DFB87" box="[1092,1179,1015,1041]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Fig. 1B</figureCitation>
+), segments 4–5 longer than wide (
+<figureCitation id="FE872A06635F054DF1581A7BFEECFBA3" box="[276,362,1051,1077]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Fig. 1B</figureCitation>
+), segments 6–7 quadrate (
+<figureCitation id="FE872A06635F054DF2DC1A7BFD6FFBA3" box="[656,745,1051,1077]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Fig. 1A</figureCitation>
+), segments 8–10 slightly transverse (
+<figureCitation id="FE872A06635F054DF4C41A7BFB67FBA3" box="[1160,1249,1051,1077]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Fig. 1A</figureCitation>
+), segments 4–11 covered with microtrichae (
+<figureCitation id="FE872A06635F054DF19E1A5FFDABFBCF" box="[466,557,1087,1113]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Fig. 1A</figureCitation>
+); pronotum slightly elongate (
+<figureCitation id="FE872A06635F054DF3C41A5FFC66FBCF" box="[904,992,1087,1113]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Fig. 1C</figureCitation>
+), broadest in apical third, narrowest in basal third, sides of pronotum strongly concave in dorsal view; tarsal articles 1–4 of anterior legs broadened and flattened, covered with flattened, spatulate setae (
+<figureCitation id="FE872A06635F054DF29F1AE7FCA9FB37" box="[723,815,1159,1185]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Fig. 1A</figureCitation>
+); basal carinae of abdominal sternites III–IV strongly sinuate, medial portion of basal carina expanded posteriorly into a strong lobe; and male with a porose structure on abdominal sternite VII.
+</paragraph>
+</subSection>
+<treatment id="EE158795635F054DF0DB1B5BFDC2F83A" _generate="added" pageId="5" pageNumber="444">
+<subSubSection id="2EA66508635F054DF0DB1B5BFF7FFAEE" _generate="added" pageId="5" pageNumber="444" type="nomenclature">
+<paragraph id="66033683635F054DF0DB1B5BFF7FFAEE" blockId="5.[151,1436,1338,1400]" pageId="5" pageNumber="444">
+<heading id="3D4B81EF635F054DF0DB1B5BFF7FFAEE" bold="true" centered="true" fontSize="11" level="1" pageId="5" pageNumber="444" reason="1">
+<emphasis id="54C8EA91635F054DF0DB1B5BFF7FFAEE" bold="true" pageId="5" pageNumber="444">
+To include 
+<taxonomicName id="A1BC4D00635F054DF1651B5BFE36FAC3" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo, 2024" authorityName="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo" authorityYear="2024" box="[297,432,1339,1365]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="5" pageNumber="444" phylum="Arthropoda" rank="species" species="precious" status="sp. nov.">
+<emphasis id="54C8EA91635F054DF1651B5BFE36FAC3" bold="true" box="[297,432,1339,1365]" italics="true" pageId="5" pageNumber="444">P. precious</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="4FFB57EA635F054DF1F71B5BFD98FAC3" box="[443,542,1339,1365]" pageId="5" pageNumber="444" rank="species">sp. nov.</taxonomicNameLabel>
+, the taxonomic key proposed by 
+<bibRefCitation id="022D4B72635F054DF39C1B5AFB58FAC2" author="Chatzimanolis, S." box="[976,1246,1338,1364]" pageId="5" pageNumber="444" pagination="129 - 138" refId="ref5533" refString="Chatzimanolis, S. (2020) Even more new species, additional records, and a revised key for Philothalpus Kraatz (Coleoptera: Staphylinidae: Staphylininae). Zootaxa, 4742 (1), 129 - 138. https: // doi. org / 10.11646 / zootaxa. 4742.1.8" type="journal article" year="2020">Chatzimanolis (2020)</bibRefCitation>
+is modified as follows:
+</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2EA66508635F054DF0AE1BC4FDC2F83A" _generate="added" pageId="5" pageNumber="444" type="description">
+<paragraph id="66033683635F054DF0AE1BC4FDBEFA2C" blockId="5.[151,1437,1444,1964]" box="[226,568,1444,1466]" pageId="5" pageNumber="444">Couplets 1–6 without modification.</paragraph>
+<paragraph id="66033683635F054DF0DB1BA1FA1BF9B8" blockId="5.[151,1437,1444,1964]" pageId="5" pageNumber="444">
+7. Head and pronotum red-brown to dark brown (
+<bibRefCitation id="022D4B72635F054DF2E21BA1FC41FA41" author="Chatzimanolis, S. &amp; Ashe, J. S." box="[686,967,1473,1495]" pageId="5" pageNumber="444" pagination="63 - 119" refId="ref5586" refString="Chatzimanolis, S. &amp; Ashe, J. S. (2005) Revision and phylogeny of the neotropical genus Philothalpus (= Eugastus Sharp and Allostenopsis Bernhauer) (Coleoptera: Staphylinidae: Xanthopygina). Insect Systematics &amp; Evolution, 36, 63 - 119. https: // doi. org / 10.1163 / 187631205788912813" type="journal article" year="2005">Chatzimanolis &amp; Ashe 2005</bibRefCitation>
+; fig. 5). Elytra metallic green. Abdomen orange except for antero-medial disk of tergites II–V, anterior 2/3–3/4 of segment VI except at base, anterior 1/2– 2/3 of segment VII and posterior 1/2 of segment VIII brown. Legs orange. Aedeagus as in 
+<bibRefCitation id="022D4B72635F054DF3C71B9CFB23F987" author="Chatzimanolis, S. &amp; Ashe, J. S." box="[907,1189,1531,1554]" pageId="5" pageNumber="444" pagination="63 - 119" refId="ref5586" refString="Chatzimanolis, S. &amp; Ashe, J. S. (2005) Revision and phylogeny of the neotropical genus Philothalpus (= Eugastus Sharp and Allostenopsis Bernhauer) (Coleoptera: Staphylinidae: Xanthopygina). Insect Systematics &amp; Evolution, 36, 63 - 119. https: // doi. org / 10.1163 / 187631205788912813" type="journal article" year="2005">Chatzimanolis &amp; Ashe (2005</bibRefCitation>
+; figs. 53–56)..................................................................................................... 
+<taxonomicName id="A1BC4D00635F054DF572187AFA1BF9B8" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[1342,1437,1561,1583]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="5" pageNumber="444" phylum="Arthropoda" rank="species" species="bilobus">
+<emphasis id="54C8EA91635F054DF572187AFA1BF9B8" box="[1342,1437,1561,1583]" italics="true" pageId="5" pageNumber="444">P. bilobus</emphasis>
+</taxonomicName>
+</paragraph>
+<paragraph id="66033683635F054DF0DB1857FA1BF910" blockId="5.[151,1437,1444,1964]" pageId="5" pageNumber="444">
+- Head and pronotum black or dark reddish brown with greenish or greenish golden overtones (
+<bibRefCitation id="022D4B72635F054DF4141856FAEFF9DA" author="Chatzimanolis, S. &amp; Ashe, J. S." box="[1112,1385,1590,1612]" pageId="5" pageNumber="444" pagination="63 - 119" refId="ref5586" refString="Chatzimanolis, S. &amp; Ashe, J. S. (2005) Revision and phylogeny of the neotropical genus Philothalpus (= Eugastus Sharp and Allostenopsis Bernhauer) (Coleoptera: Staphylinidae: Xanthopygina). Insect Systematics &amp; Evolution, 36, 63 - 119. https: // doi. org / 10.1163 / 187631205788912813" type="journal article" year="2005">Chatzimanolis &amp; Ashe 2005</bibRefCitation>
+; figs. 7, 29, 30) and Figs. (1A–C). Elytra black with greenish or greenish golden overtones (
+<figureCitation id="FE872A06635F054DF4401834FBD1F9FF" box="[1036,1111,1620,1642]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Fig. 1D</figureCitation>
+); abdomen overall darker, colored differently; legs darker, at least partly dark brown.......................................................... 7A
+</paragraph>
+<paragraph id="66033683635F054DF0DB18EEFA1AF96A" blockId="5.[151,1437,1444,1964]" pageId="5" pageNumber="444">
+7A Head and pronotum black with greenish overtones (
+<bibRefCitation id="022D4B72635F054DF29718EEFC75F932" author="Chatzimanolis, S. &amp; Ashe, J. S." box="[731,1011,1678,1700]" pageId="5" pageNumber="444" pagination="63 - 119" refId="ref5586" refString="Chatzimanolis, S. &amp; Ashe, J. S. (2005) Revision and phylogeny of the neotropical genus Philothalpus (= Eugastus Sharp and Allostenopsis Bernhauer) (Coleoptera: Staphylinidae: Xanthopygina). Insect Systematics &amp; Evolution, 36, 63 - 119. https: // doi. org / 10.1163 / 187631205788912813" type="journal article" year="2005">Chatzimanolis &amp; Ashe 2005</bibRefCitation>
+; figs. 7, 29, 30). Elytra black with greenish overtones. Abdomen dark reddish brown except segment II and posterior border of sternites III–VI, posterior 1/3 of segment VII and anterior 4/5 of segment VIII dark orange. Legs brown. Aedeagus as in 
+<bibRefCitation id="022D4B72635F054DF39418A9FB61F949" author="Chatzimanolis, S. &amp; Ashe, J. S." box="[984,1255,1737,1759]" pageId="5" pageNumber="444" pagination="63 - 119" refId="ref5586" refString="Chatzimanolis, S. &amp; Ashe, J. S. (2005) Revision and phylogeny of the neotropical genus Philothalpus (= Eugastus Sharp and Allostenopsis Bernhauer) (Coleoptera: Staphylinidae: Xanthopygina). Insect Systematics &amp; Evolution, 36, 63 - 119. https: // doi. org / 10.1163 / 187631205788912813" type="journal article" year="2005">Chatzimanolis &amp; Ashe 2005</bibRefCitation>
+(figs. 82–85)......................................................................................... 
+<taxonomicName id="A1BC4D00635F054DF4B81887FA1AF96A" _evidence="catalog+fontStyle" _step="styledSpecies" authorityName="Chatzimanolis &amp; Ashe" authorityYear="2005" box="[1268,1436,1767,1788]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="5" pageNumber="444" phylum="Arthropoda" rank="species" species="mauroprasinus">
+<emphasis id="54C8EA91635F054DF4B81887FA1AF96A" box="[1268,1436,1767,1788]" italics="true" pageId="5" pageNumber="444">P. mauroprasinus</emphasis>
+</taxonomicName>
+</paragraph>
+<paragraph id="66033683635F054DF0DB1964FDC2F83A" blockId="5.[151,1437,1444,1964]" pageId="5" pageNumber="444">
+- Head and pronotum dark reddish brown with greenish golden overtones (
+<figureCitation id="FE872A06635F054DF3F11964FBA8F88F" box="[957,1070,1796,1818]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Figs 1A–C</figureCitation>
+). Elytra black with metallic greenish golden overtones (
+<figureCitation id="FE872A06635F054DF1D91941FE67F8A0" box="[405,481,1825,1847]" captionStart="FIGURE 1" captionStartId="3.[151,250,1951,1975]" captionTargetBox="[163,1425,465,1915]" captionTargetId="figure-139@3.[151,1436,453,1927]" captionTargetPageId="3" captionText="FIGURE 1. Holotype of Philothalpus precious sp. nov.. A. Dorsal habitus. B. Head. C. Pronotum. D. Elytra. Scale bars = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.10791919" httpUri="https://zenodo.org/record/10791919/files/figure.png" pageId="5" pageNumber="444">Fig. 1D</figureCitation>
+). Abdomen dark reddish brown, almost black, except posterior border of segment III, posterior 1/3 of segments IV–V, posterior 1/4 of segment VI, posterior 2/5 of segment VII, anterior border of segment VII, and anterior 2/3 of segment VIII, reddish brown. Legs brownish orange with dorsal part of hind femora and apical third of all tibiae dark brown. Aedeagus as in Figures (2A–E)........................................................... 
+<taxonomicName id="A1BC4D00635F054DF4AC191AFACCF819" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo, 2024" authorityName="Kleman-Junior &amp; Barroso &amp; Pereira &amp; Asenjo" authorityYear="2024" box="[1248,1354,1914,1935]" class="Insecta" family="Staphylinidae" genus="Philothalpus" kingdom="Animalia" order="Coleoptera" pageId="5" pageNumber="444" phylum="Arthropoda" rank="species" species="precious" status="sp. nov.">
+<emphasis id="54C8EA91635F054DF4AC191AFACCF819" box="[1248,1354,1914,1935]" italics="true" pageId="5" pageNumber="444">P. precious</emphasis>
+</taxonomicName>
+<emphasis id="54C8EA91635F054DF51C1919FA1AF818" bold="true" box="[1360,1436,1913,1934]" pageId="5" pageNumber="444">
+<taxonomicNameLabel id="4FFB57EA635F054DF51C1919FA1AF818" box="[1360,1436,1913,1934]" pageId="5" pageNumber="444" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+Couplets 8–26 without modification.
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection id="0F332F68635C054EF0DB1EF7FB9AFE3B" _generate="added" pageId="6" pageNumber="445" type="acknowledgments">
+<paragraph id="66033683635C054EF0DB1EF7FE0CFF27" blockId="6.[151,394,151,177]" box="[151,394,151,177]" pageId="6" pageNumber="445">
+<heading id="3D4B81EF635C054EF0DB1EF7FE0CFF27" bold="true" box="[151,394,151,177]" fontSize="11" level="1" pageId="6" pageNumber="445" reason="1">
+<emphasis id="54C8EA91635C054EF0DB1EF7FE0CFF27" bold="true" box="[151,394,151,177]" pageId="6" pageNumber="445">Acknowledgements</emphasis>
+</heading>
+</paragraph>
+<paragraph id="66033683635C054EF0DB1E80FB9AFE3B" blockId="6.[151,1437,223,430]" pageId="6" pageNumber="445">
+We would like to thank Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPQ) and Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) for the scholarship granted to LFBP, and by the constant financial support granted to LKJ; Fundação de Amparo à Pesquisa do 
+<collectingRegion id="A478F861635C054EF3881F47FB35FED7" box="[964,1203,295,321]" country="Brazil" name="Amazonas" pageId="6" pageNumber="445">Estado do Amazonas</collectingRegion>
+(FAPEAM), for the scholarship granted to PRRB; José Albertino Rafael and Instituto Nacional de Pesquisas da Amazônia (
+<collectionCode id="00ADAE46635C054EF56F1F2BFAEEFEF3" box="[1315,1384,331,357]" country="Brazil" httpUri="http://grbio.org/cool/rm88-499z" name="Instituto Nacional de Pesquisas da Amazonia" pageId="6" pageNumber="445">INPA</collectionCode>
+), for providing the equipment used to obtain images; and Precious Woods – Mil Madeiras Preciosas, for the logistical support that made it possible to capture specimens of the species described here.
+</paragraph>
+</subSection>
+<subSection id="0F332F68635C054EF0DB1F9FFDE0FA78" _generate="added" pageId="6" pageNumber="445" type="reference_group">
+<paragraph id="66033683635C054EF0DB1F9FFE99FD8F" blockId="6.[151,287,511,537]" box="[151,287,511,537]" pageId="6" pageNumber="445">
+<heading id="3D4B81EF635C054EF0DB1F9FFE99FD8F" bold="true" box="[151,287,511,537]" fontSize="11" level="1" pageId="6" pageNumber="445" reason="1">
+<emphasis id="54C8EA91635C054EF0DB1F9FFE99FD8F" bold="true" box="[151,287,511,537]" pageId="6" pageNumber="445">References</emphasis>
+</heading>
+</paragraph>
+<bibRef id="BF1CA275635C054EF0DB1C5EFDF6FD05" _evidence="authorList|year" pageId="6" pageNumber="445" refId="ref5264" type="journal article">
+<paragraph id="66033683635C054EF0DB1C5EFC8BFDE3" blockId="6.[151,1437,574,1518]" pageId="6" pageNumber="445">
+<author id="BE01DE66635C054EF0DB1C5EFE85FDC0" box="[151,259,574,598]" case="TC" fns="I" in="A." ins="D" ln="Asenjo" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Asenjo, A.</author>
+&amp; 
+<author id="BE01DE66635C054EF16D1C5EFE61FDC0" box="[289,487,574,598]" case="TC" fns="I" in="C.S." ins="D" ln="Ribeiro-Costa" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Ribeiro-Costa, C.S.</author>
+(
+<year id="121477D0635C054EF1BF1C5EFDAEFDC0" box="[499,552,574,598]" pageId="6" pageNumber="445">2009</year>
+) 
+<title id="14B8DDB5635C054EF2791C5FFE7DFDE3" pageId="6" pageNumber="445">
+Two new species of the Neotropical genus 
+<emphasis id="54C8EA91635C054EF3AF1C5EFBE3FDC0" box="[995,1125,574,598]" italics="true" pageId="6" pageNumber="445">Philothalpus</emphasis>
+Kraatz from Peru (Coleoptera, Staphylinidae, Xanthopygina)
+</title>
+. 
+<journalOrPublisher id="BC7D3C4F635C054EF2481C3EFDD1FDE3" box="[516,599,606,629]" pageId="6" pageNumber="445">
+<emphasis id="54C8EA91635C054EF2481C3EFDD1FDE3" box="[516,599,606,629]" italics="true" pageId="6" pageNumber="445">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="12189C1E635C054EF22F1C3DFD10FDE3" box="[611,662,605,629]" pageId="6" pageNumber="445" type="volume">2286</part>
+(
+<part id="12189C1E635C054EF2EA1C3DFD37FDE3" box="[678,689,605,629]" pageId="6" pageNumber="445" type="issue">1</part>
+), 
+<pagination id="5F75C877635C054EF28B1C3DFC8FFDE3" box="[711,777,605,629]" pageId="6" pageNumber="445" type="pagination">49–57</pagination>
+.
+</paragraph>
+<paragraph id="66033683635C054EF08B1C1BFDF6FD05" blockId="6.[151,1437,574,1518]" box="[199,624,635,659]" pageId="6" pageNumber="445">
+<DOI id="122DF6F3635C054EF08B1C1BFDF6FD05" box="[199,624,635,659]" pageId="6" pageNumber="445">https://doi.org/10.11646/zootaxa.2286.1.3</DOI>
+</paragraph>
+</bibRef>
+<paragraph id="66033683635C054EF0DB1CFAFAB3FD47" blockId="6.[151,1437,574,1518]" pageId="6" pageNumber="445">
+<bibRef id="BF1CA275635C054EF0DB1CFAFAB3FD47" _evidence="authorList|year" pageId="6" pageNumber="445" refId="ref5320" type="book chapter">
+<author id="BE01DE66635C054EF0DB1CFAFE81FD24" box="[151,263,666,690]" case="TC" fns="I" in="A." ins="D" ln="Asenjo" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Asenjo, A.</author>
+, 
+<author id="BE01DE66635C054EF15F1CFAFEFCFD24" box="[275,378,666,690]" case="TC" fns="I" in="U." ins="D" ln="Irmler" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Irmler, U.</author>
+, 
+<author id="BE01DE66635C054EF1CA1CFAFDB0FD24" box="[390,566,666,690]" case="TC" fns="I" in="J." ins="D" ln="Klimaszewski" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Klimaszewski, J.</author>
+, 
+<author id="BE01DE66635C054EF20F1CFBFD54FD24" box="[579,722,667,690]" case="TC" fns="I" in="L.H." ins="D" ln="Herman" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Herman, L.H.</author>
+&amp; 
+<author id="BE01DE66635C054EF2B91CFAFC0AFD24" box="[757,908,666,690]" case="TC" fns="I" in="D.S." ins="D" ln="Chandler" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Chandler, D.S.</author>
+(
+<year id="121477D0635C054EF3D71CFAFC56FD24" box="[923,976,666,690]" pageId="6" pageNumber="445">2013</year>
+) 
+<title id="14B8DDB5635C054EF3921CFAFB81FD47" pageId="6" pageNumber="445">A complete checklist with new records and geographical distribution of the rove beetles (Coleoptera, Staphylinidae) of Brazil</title>
+. 
+<journalOrPublisher id="BC7D3C4F635C054EF45D1CDAFB24FD47" box="[1041,1186,697,721]" pageId="6" pageNumber="445">
+<emphasis id="54C8EA91635C054EF45D1CDAFB24FD47" box="[1041,1186,697,721]" italics="true" pageId="6" pageNumber="445">Insecta Mundi</emphasis>
+</journalOrPublisher>
+, 0277, 
+<pagination id="5F75C877635C054EF4A21CD9FAB6FD47" box="[1262,1328,697,721]" pageId="6" pageNumber="445" type="pagination">1–419</pagination>
+.
+</bibRef>
+</paragraph>
+<bibRef id="BF1CA275635C054EF0DB1CB8FDE9FCBB" _evidence="authorList|year" pageId="6" pageNumber="445" refId="ref5381" type="journal article">
+<paragraph id="66033683635C054EF0DB1CB8FAA9FC98" blockId="6.[151,1437,574,1518]" pageId="6" pageNumber="445">
+<author id="BE01DE66635C054EF0DB1CB8FE8FFD66" box="[151,265,728,752]" case="TC" fns="I" in="A." ins="D" ln="Asenjo" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Asenjo, A.</author>
+, 
+<author id="BE01DE66635C054EF15B1CB8FE07FD79" box="[279,385,728,752]" case="TC" fns="I" in="U." ins="D" ln="Irmler" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Irmler, U.</author>
+, 
+<author id="BE01DE66635C054EF1C31CB8FDC6FD79" box="[399,576,728,752]" case="TC" fns="I" in="J." ins="D" ln="Klimaszewski" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Klimaszewski, J.</author>
+, 
+<author id="BE01DE66635C054EF21C1CB8FD6DFD66" box="[592,747,728,752]" case="TC" fns="I" in="D.S." ins="D" ln="Chandler" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Chandler, D.S.</author>
+, 
+<author id="BE01DE66635C054EF2B51CB8FC4EFD79" box="[761,968,728,752]" case="TC" fns="I" in="H.E." ins="D" ln="Fierros-Lopez" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Fierros-Lopéz, H.E.</author>
+&amp; 
+<author id="BE01DE66635C054EF3A31CB8FBE4FD66" box="[1007,1122,728,752]" case="TC" fns="I" in="J.S." ins="D" ln="Vieira" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Vieira, J.S.</author>
+<year id="121477D0635C054EF4201CB8FB24FD66" box="[1132,1186,728,752]" pageId="6" pageNumber="445">2019</year>
+. 
+<title id="14B8DDB5635C054EF4FC1CB8FEB9FC98" jopScore="0.044499665" pageId="6" pageNumber="445" type="_" typeScore="18">Staphylinidae (Insecta: Coleoptera)</title>
+in Latin 
+<journalOrPublisher id="BC7D3C4F635C054EF1D61C96FBF9FC98" box="[410,1151,758,782]" jopScore="2.8902953" pageId="6" pageNumber="445">
+America: synopsis, annotated catalog, diversity and distribution. 
+<emphasis id="54C8EA91635C054EF4601C97FBF9FC98" box="[1068,1151,759,782]" italics="true" pageId="6" pageNumber="445">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="12189C1E635C054EF4C01C96FB39FC98" box="[1164,1215,758,782]" pageId="6" pageNumber="445" type="volume">4621</part>
+(
+<part id="12189C1E635C054EF4811C96FB50FC98" box="[1229,1238,758,782]" pageId="6" pageNumber="445" type="issue">1</part>
+), 
+<pagination id="5F75C877635C054EF4AF1C96FAADFC98" box="[1251,1323,758,782]" pageId="6" pageNumber="445" type="pagination">1–406</pagination>
+.
+</paragraph>
+<paragraph id="66033683635C054EF08B1D75FDE9FCBB" blockId="6.[151,1437,574,1518]" box="[199,623,789,813]" pageId="6" pageNumber="445">
+<DOI id="122DF6F3635C054EF08B1D75FDE9FCBB" box="[199,623,789,813]" pageId="6" pageNumber="445">https://doi.org/10.11646/zootaxa.4621.1.1</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="BF1CA275635C054EF0DB1D54FD90FC3E" _evidence="authorList|year" pageId="6" pageNumber="445" refId="ref5460" type="journal article">
+<paragraph id="66033683635C054EF0DB1D54FE1FFC1F" blockId="6.[151,1437,574,1518]" pageId="6" pageNumber="445">
+<author id="BE01DE66635C054EF0DB1D54FED1FCDD" box="[151,343,820,844]" case="TC" fns="I" in="M.R." ins="D" ln="Chani-Posse" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Chani-Posse, M.R.</author>
+, 
+<author id="BE01DE66635C054EF1121D54FE5BFCDA" box="[350,477,820,844]" case="TC" fns="I" in="A.J." ins="D" ln="Brunke" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Brunke,A.J.</author>
+, 
+<author id="BE01DE66635C054EF1A91D54FD11FCDA" box="[485,663,820,844]" case="TC" fns="I" in="S." ins="D" ln="Chatzimanolis" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Chatzimanolis, S.</author>
+, 
+<author id="BE01DE66635C054EF2EC1D54FCD7FCDD" box="[672,849,820,844]" case="TC" fns="I" in="H." ins="D" ln="Schillhammer" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Schillhammer, H.</author>
+&amp; 
+<author id="BE01DE66635C054EF3201D54FB9CFCDA" box="[876,1050,820,844]" case="TC" fns="I" in="A." ins="D" ln="Solodovnikov" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Solodovnikov,A.</author>
+(
+<year id="121477D0635C054EF4691D54FBDCFCDA" box="[1061,1114,820,844]" pageId="6" pageNumber="445">2018</year>
+) 
+<title id="14B8DDB5635C054EF4291D54FA1FFCFC" pageId="6" pageNumber="445">Phylogeny of the hyper-diverse rove beetle subtribe Philonthina with implications for classification of the tribe Staphylinini (Coleoptera: Staphylinidae)</title>
+. 
+<journalOrPublisher id="BC7D3C4F635C054EF08B1D11FEAAFC1F" box="[199,300,881,905]" pageId="6" pageNumber="445">
+<emphasis id="54C8EA91635C054EF08B1D11FEAAFC1F" box="[199,300,881,905]" italics="true" pageId="6" pageNumber="445">Cladistics</emphasis>
+</journalOrPublisher>
+, 
+<part id="12189C1E635C054EF1751D11FED2FC1F" box="[313,340,881,905]" pageId="6" pageNumber="445" type="volume">38</part>
+, 
+<pagination id="5F75C877635C054EF1131D11FE13FC1F" box="[351,405,881,905]" pageId="6" pageNumber="445" type="pagination">1–40</pagination>
+.
+</paragraph>
+<paragraph id="66033683635C054EF08B1DF0FD90FC3E" blockId="6.[151,1437,574,1518]" box="[199,534,912,936]" pageId="6" pageNumber="445">
+<DOI id="122DF6F3635C054EF08B1DF0FD90FC3E" box="[199,534,912,936]" pageId="6" pageNumber="445">https://doi.org/10.1111/cla.12188</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="BF1CA275635C054EF0DB1DCEFDE9FB95" _evidence="authorList|year" pageId="6" pageNumber="445" refId="ref5533" type="journal article">
+<paragraph id="66033683635C054EF0DB1DCEFC9AFC73" blockId="6.[151,1437,574,1518]" pageId="6" pageNumber="445">
+<author id="BE01DE66635C054EF0DB1DCEFECAFC50" box="[151,332,942,966]" case="TC" fns="I" in="S." ins="D" ln="Chatzimanolis" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Chatzimanolis, S.</author>
+(
+<year id="121477D0635C054EF1171DCEFE16FC50" box="[347,400,942,966]" pageId="6" pageNumber="445">2020</year>
+) 
+<title id="14B8DDB5635C054EF1D31DCFFE71FC73" jopScore="0.2403231" pageId="6" pageNumber="445">
+Even more new species, additional records, and a revised key for 
+<emphasis id="54C8EA91635C054EF4051DCEFB4DFC50" box="[1097,1227,942,966]" italics="true" pageId="6" pageNumber="445">Philothalpus</emphasis>
+Kraatz (Coleoptera: Staphylinidae: Staphylininae)
+</title>
+. 
+<journalOrPublisher id="BC7D3C4F635C054EF24C1DAEFDD5FC73" box="[512,595,974,997]" jopScore="2.8902953" pageId="6" pageNumber="445">
+<emphasis id="54C8EA91635C054EF24C1DAEFDD5FC73" box="[512,595,974,997]" italics="true" pageId="6" pageNumber="445">Zootaxa</emphasis>
+</journalOrPublisher>
+, 
+<part id="12189C1E635C054EF22C1DADFD15FC73" box="[608,659,973,997]" pageId="6" pageNumber="445" type="volume">4742</part>
+(
+<part id="12189C1E635C054EF2ED1DADFD2CFC73" box="[673,682,973,997]" pageId="6" pageNumber="445" type="issue">1</part>
+), 
+<pagination id="5F75C877635C054EF2FA1DADFC9EFC73" box="[694,792,973,997]" pageId="6" pageNumber="445" type="pagination">129–138</pagination>
+.
+</paragraph>
+<paragraph id="66033683635C054EF08B1D8BFDE9FB95" blockId="6.[151,1437,574,1518]" box="[199,623,1003,1027]" pageId="6" pageNumber="445">
+<DOI id="122DF6F3635C054EF08B1D8BFDE9FB95" box="[199,623,1003,1027]" pageId="6" pageNumber="445">https://doi.org/10.11646/zootaxa.4742.1.8</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="BF1CA275635C054EF0DB1A6AFD1FFBC9" _evidence="authorList|year" pageId="6" pageNumber="445" refId="ref5586" type="journal article">
+<paragraph id="66033683635C054EF0DB1A6AFAD6FBD7" blockId="6.[151,1437,574,1518]" pageId="6" pageNumber="445">
+<author id="BE01DE66635C054EF0DB1A6AFECAFBB4" box="[151,332,1034,1058]" case="TC" fns="I" in="S." ins="D" ln="Chatzimanolis" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Chatzimanolis, S.</author>
+&amp; 
+<author id="BE01DE66635C054EF1231A6AFE51FBB4" box="[367,471,1034,1058]" case="TC" fns="I" in="J.S." ins="D" ln="Ashe" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Ashe, J.S.</author>
+(
+<year id="121477D0635C054EF1AA1A6AFD9DFBB4" box="[486,539,1034,1058]" pageId="6" pageNumber="445">2005</year>
+) 
+<title id="14B8DDB5635C054EF2661A6AFC00FBD7" jopScore="0.13702112" pageId="6" pageNumber="445">
+Revision and phylogeny of the neotropical genus 
+<emphasis id="54C8EA91635C054EF4631A6AFB37FBB4" box="[1071,1201,1034,1058]" italics="true" pageId="6" pageNumber="445">Philothalpus</emphasis>
+(= 
+<emphasis id="54C8EA91635C054EF4831A6BFAAAFBB4" box="[1231,1324,1035,1058]" italics="true" pageId="6" pageNumber="445">Eugastus</emphasis>
+Sharp and 
+<emphasis id="54C8EA91635C054EF08B1A49FEC8FBD7" box="[199,334,1065,1089]" italics="true" pageId="6" pageNumber="445">Allostenopsis</emphasis>
+Bernhauer) (Coleoptera: Staphylinidae: Xanthopygina)
+</title>
+. 
+<journalOrPublisher id="BC7D3C4F635C054EF3C31A4AFB4DFBD7" box="[911,1227,1065,1089]" jopScore="0.5629229" pageId="6" pageNumber="445">
+<emphasis id="54C8EA91635C054EF3C31A4AFB4DFBD7" box="[911,1227,1065,1089]" italics="true" pageId="6" pageNumber="445">Insect Systematics &amp; Evolution</emphasis>
+</journalOrPublisher>
+, 
+<part id="12189C1E635C054EF4941A49FB72FBD7" box="[1240,1268,1065,1089]" pageId="6" pageNumber="445" type="volume">36</part>
+, 
+<pagination id="5F75C877635C054EF4B21A49FACAFBD7" box="[1278,1356,1065,1089]" pageId="6" pageNumber="445" type="pagination">63–119</pagination>
+.
+</paragraph>
+<paragraph id="66033683635C054EF08B1A27FD1FFBC9" blockId="6.[151,1437,574,1518]" box="[199,665,1095,1119]" pageId="6" pageNumber="445">
+<DOI id="122DF6F3635C054EF08B1A27FD1FFBC9" box="[199,665,1095,1119]" pageId="6" pageNumber="445">https://doi.org/10.1163/187631205788912813</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="BF1CA275635C054EF0DB1A06FD0CFB2D" _evidence="authorList|year" pageId="6" pageNumber="445" refId="ref5645" type="journal article">
+<paragraph id="66033683635C054EF0DB1A06FCDDFB0B" blockId="6.[151,1437,574,1518]" pageId="6" pageNumber="445">
+<author id="BE01DE66635C054EF0DB1A06FEEBFBE8" box="[151,365,1126,1150]" case="TC" fns="I" in="D." ins="D" ln="Hoyos-Benjumea" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Hoyos-Benjumea, D.</author>
+&amp; 
+<author id="BE01DE66635C054EF1C01A06FDDBFBE8" box="[396,605,1126,1150]" case="TC" fns="I" in="M.M." ins="D" ln="Lopez-Garcia" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">López-García, M.M.</author>
+(
+<year id="121477D0635C054EF2251A06FD18FBE8" box="[617,670,1126,1150]" pageId="6" pageNumber="445">2019</year>
+) 
+<title id="14B8DDB5635C054EF2E61A06FE17FB0B" pageId="6" pageNumber="445">
+A new species of 
+<emphasis id="54C8EA91635C054EF3151A06FC5DFBE8" box="[857,987,1126,1150]" italics="true" pageId="6" pageNumber="445">Philothalpus</emphasis>
+Kraatz (Coleoptera: Staphylinidae) from the Andes of Colombia
+</title>
+. 
+<journalOrPublisher id="BC7D3C4F635C054EF1D61AE5FD22FB0B" box="[410,676,1157,1181]" pageId="6" pageNumber="445">
+<emphasis id="54C8EA91635C054EF1D61AE5FD22FB0B" box="[410,676,1157,1181]" italics="true" pageId="6" pageNumber="445">The Coleopterists Bulletin</emphasis>
+</journalOrPublisher>
+, 
+<part id="12189C1E635C054EF2FD1AE5FD4CFB0B" box="[689,714,1157,1181]" pageId="6" pageNumber="445" type="volume">73</part>
+(
+<part id="12189C1E635C054EF2951AE5FD6EFB0B" box="[729,744,1157,1181]" pageId="6" pageNumber="445" type="issue">2</part>
+), 
+<pagination id="5F75C877635C054EF2B71AE5FCD1FB0B" box="[763,855,1157,1181]" pageId="6" pageNumber="445" type="pagination">428–432</pagination>
+.
+</paragraph>
+<paragraph id="66033683635C054EF08B1AC3FD0CFB2D" blockId="6.[151,1437,574,1518]" box="[199,650,1187,1211]" pageId="6" pageNumber="445">
+<DOI id="122DF6F3635C054EF08B1AC3FD0CFB2D" box="[199,650,1187,1211]" pageId="6" pageNumber="445">https://doi.org/10.1649/0010-065X-73.2.428</DOI>
+</paragraph>
+</bibRef>
+<paragraph id="66033683635C054EF0DB1AA2FAEAFB6F" blockId="6.[151,1437,574,1518]" pageId="6" pageNumber="445">
+<bibRef id="BF1CA275635C054EF0DB1AA2FAEAFB6F" _evidence="authorList|year" pageId="6" pageNumber="445" refId="ref5703" type="journal article">
+<author id="BE01DE66635C054EF0DB1AA2FF7CFB4C" box="[151,250,1218,1242]" case="TC" fns="I" in="U." ins="D" ln="Irmler" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Irmler, U.</author>
+(
+<year id="121477D0635C054EF14A1AA2FEBDFB4C" box="[262,315,1218,1242]" pageId="6" pageNumber="445">2019</year>
+) 
+<title id="14B8DDB5635C054EF10A1AA2FC13FB6F" jopScore="0.16566795" pageId="6" pageNumber="445">
+A new species and new records of the genus 
+<emphasis id="54C8EA91635C054EF34C1AA2FC04FB4C" box="[768,898,1218,1242]" italics="true" pageId="6" pageNumber="445">Philothalpus</emphasis>
+Kraatz, 1857 from the Central Amazon with a revised key to the Brazilian species (Coleoptera: Staphylinidae: Philothalpina)
+</title>
+. 
+<journalOrPublisher id="BC7D3C4F635C054EF3D21A81FB5DFB6F" box="[926,1243,1249,1273]" jopScore="1.8928571" pageId="6" pageNumber="445">
+<emphasis id="54C8EA91635C054EF3D21A81FB5DFB6F" box="[926,1243,1249,1273]" italics="true" pageId="6" pageNumber="445">Koleopterologische Rundschau</emphasis>
+</journalOrPublisher>
+, 
+<part id="12189C1E635C054EF4AB1A81FA84FB6F" box="[1255,1282,1249,1273]" pageId="6" pageNumber="445" type="volume">89</part>
+, 
+<pagination id="5F75C877635C054EF5411A81FAE1FB6F" box="[1293,1383,1249,1273]" pageId="6" pageNumber="445" type="pagination">115–121</pagination>
+.
+</bibRef>
+</paragraph>
+<bibRef id="BF1CA275635C054EF0DB1B60FD09FAE5" _evidence="authorList|year" pageId="6" pageNumber="445" refId="ref5752" type="journal article">
+<paragraph id="66033683635C054EF0DB1B60FD2CFAC3" blockId="6.[151,1437,574,1518]" pageId="6" pageNumber="445">
+<author id="BE01DE66635C054EF0DB1B60FE92FA8E" box="[151,276,1280,1304]" case="TC" fns="I" in="R.S." ins="D" ln="Moura" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Moura, R.S.</author>
+, 
+<author id="BE01DE66635C054EF1521B60FE20FA8E" box="[286,422,1280,1304]" case="TC" fns="I" in="J.A." ins="D" ln="Noriega" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Noriega, J.A.</author>
+, 
+<author id="BE01DE66635C054EF1FC1B60FDF4FA8E" box="[432,626,1280,1304]" case="TC" fns="I" in="R.A.S." ins="D" ln="Cerboncini" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Cerboncini, R.A.S.</author>
+, 
+<author id="BE01DE66635C054EF2371B60FCADFA81" box="[635,811,1280,1304]" case="TC" fns="I" in="F." ins="D" ln="Vaz-De-Mello" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Vaz-De-Mello, F.</author>
+&amp; 
+<author id="BE01DE66635C054EF3051B60FB88FA81" box="[841,1038,1280,1304]" case="TC" fns="I" in="L." ins="D" ln="Klemann-Junior" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Klemann-Junior, L.</author>
+(
+<year id="121477D0635C054EF4561B60FBC9FA8E" box="[1050,1103,1280,1304]" pageId="6" pageNumber="445">2021</year>
+) 
+<title id="14B8DDB5635C054EF4101B60FA1FFAA0" jopScore="0.059329554" pageId="6" pageNumber="445">Dung beetles in a tight-spot, but not so much: Quick recovery of dung beetles assemblages after low-impact selective logging in Central Brazilian Amazon</title>
+. 
+<journalOrPublisher id="BC7D3C4F635C054EF08B1B5EFD9EFAC3" box="[199,536,1341,1365]" jopScore="0.47428867" pageId="6" pageNumber="445">
+<emphasis id="54C8EA91635C054EF08B1B5EFD9EFAC3" box="[199,536,1341,1365]" italics="true" pageId="6" pageNumber="445">Forest Ecology and Management</emphasis>
+</journalOrPublisher>
+, 
+<part id="12189C1E635C054EF2691B5DFDCBFAC3" box="[549,589,1341,1365]" pageId="6" pageNumber="445" type="volume">494</part>
+, 
+<pagination id="5F75C877635C054EF2141B5DFD20FAC3" box="[600,678,1341,1365]" pageId="6" pageNumber="445" type="pagination">119301</pagination>
+.
+</paragraph>
+<paragraph id="66033683635C054EF08B1B3BFD09FAE5" blockId="6.[151,1437,574,1518]" box="[199,655,1371,1395]" pageId="6" pageNumber="445">
+<DOI id="122DF6F3635C054EF08B1B3BFD09FAE5" box="[199,655,1371,1395]" pageId="6" pageNumber="445">https://doi.org/10.1016/j.foreco.2021.119301</DOI>
+</paragraph>
+</bibRef>
+<paragraph id="66033683635C054EF0DB1B1AFB85FA27" blockId="6.[151,1437,574,1518]" pageId="6" pageNumber="445">
+<bibRef id="BF1CA275635C054EF0DB1B1AFB85FA27" _evidence="authorList|year" pageId="6" pageNumber="445" refId="ref5836" type="journal article">
+<author id="BE01DE66635C054EF0DB1B1AFE8DFA04" box="[151,267,1402,1426]" case="TC" fns="I" in="S.I." ins="D" ln="Naomi" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Naomi, S.I.</author>
+(
+<year id="121477D0635C054EF1541B1AFECBFA04" box="[280,333,1402,1426]" pageId="6" pageNumber="445">1989</year>
+) 
+<title id="14B8DDB5635C054EF1161B1AFE74FA27" jopScore="0.25499958" pageId="6" pageNumber="445">Comparative morphology of the Staphylinidae and the allied groups (Coleoptera, Staphylinoidea). X. Eighth to 10th segments of abdomen</title>
+. 
+<journalOrPublisher id="BC7D3C4F635C054EF1B21BFAFCCAFA27" box="[510,844,1433,1457]" jopScore="0.9274082" pageId="6" pageNumber="445">
+<emphasis id="54C8EA91635C054EF1B21BFAFCCAFA27" box="[510,844,1433,1457]" italics="true" pageId="6" pageNumber="445">Japanese Journal of Entomology</emphasis>
+</journalOrPublisher>
+, 
+<part id="12189C1E635C054EF3151BF9FCF4FA27" box="[857,882,1433,1457]" pageId="6" pageNumber="445" type="volume">57</part>
+(
+<part id="12189C1E635C054EF3CD1BF9FC16FA27" box="[897,912,1433,1457]" pageId="6" pageNumber="445" type="issue">4</part>
+), 
+<pagination id="5F75C877635C054EF3EF1BF9FC79FA27" box="[931,1023,1433,1457]" pageId="6" pageNumber="445" type="pagination">720–733</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="66033683635C054EF0DB1BD8FDE0FA78" blockId="6.[151,1437,574,1518]" pageId="6" pageNumber="445">
+<bibRef id="BF1CA275635C054EF0DB1BD8FDE0FA78" _evidence="authorList|year" pageId="6" pageNumber="445" refId="ref5884" type="book">
+<author id="BE01DE66635C054EF0DB1BD8FE9CFA59" box="[151,282,1464,1488]" case="TC" fns="I" in="H.P." ins="D" ln="Veloso" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Veloso, H.P.</author>
+, 
+<author id="BE01DE66635C054EF1651BD8FE7BFA46" box="[297,509,1464,1488]" case="TC" fns="I" in="A.L.R." ins="D" ln="Range-Filho" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Range-Filho, A.L.R.</author>
+&amp; 
+<author id="BE01DE66635C054EF26A1BD8FD2BFA46" box="[550,685,1464,1488]" case="TC" fns="I" in="J.C.A." ins="D" ln="Lima" lnc="TC" npo="LnFn" pageId="6" pageNumber="445">Lima, J.C.A.</author>
+(
+<year id="121477D0635C054EF2F31BD8FD75FA46" box="[703,755,1464,1488]" pageId="6" pageNumber="445">1991</year>
+) 
+<title id="14B8DDB5635C054EF3491BD8FEA3FA78" jopScore="0.12774625" pageId="6" pageNumber="445">
+<emphasis id="54C8EA91635C054EF3491BD8FEA3FA78" italics="true" pageId="6" pageNumber="445">Classificação da vegetação brasileira, adaptada a um sistema universal</emphasis>
+</title>
+. 
+<journalOrPublisher id="BC7D3C4F635C054EF17E1BB6FD89FA78" box="[306,527,1494,1518]" jopScore="0.76050293" pageId="6" pageNumber="445">IBGE, Rio de Janeiro</journalOrPublisher>
+, 
+<bookContentInfo id="514725F3635C054EF2551BB6FDE0FA78" box="[537,614,1494,1518]" pageId="6" pageNumber="445">124 pp.</bookContentInfo>
+</bibRef>
+</paragraph>
+</subSection>
+</document>

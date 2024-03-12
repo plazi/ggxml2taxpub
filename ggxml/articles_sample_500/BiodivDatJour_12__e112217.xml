@@ -1,0 +1,1415 @@
+<document ID-DOI="http://dx.doi.org/10.3897/BDJ.12.e112217" ID-Pensoft-Pub="1314-2828-12-e112217" ID-Pensoft-UUID="E4EF5ED38403576A932290881CBBE035" ModsDocID="1314-2828-12-e112217" checkinTime="1709889763591" checkinUser="pensoft" docAuthor="Souza, Allan T. &amp; Ilarri, Martina I &amp; Dias, Ester &amp; Araújo, Mário J &amp; Roleira, António &amp; Braga, Ana Catarina &amp; Carvalho, Ana Rita &amp; Mota, Micaela &amp; Correia, Maria Helena &amp; Lages, Ana &amp; Moura, Ana &amp; Antunes, Carlos" docDate="2024" docId="E4EF5ED38403576A932290881CBBE035" docName="BiodivDatJour 12: e112217" docOrigin="Biodiversity Data Journal 12" docPubDate="2024-03-08" docSource="https://bdj.pensoft.net/article/112217/download/xml/" docTitle="Long-term monitoring of the fish community in the Minho Estuary (NW Iberian Peninsula)" docVersion="2" id="E4EF5ED38403576A932290881CBBE035" pageNumber="112217" updateTime="1709890064216" updateUser="ExternalLinkService">
+<mods:mods id="AC1537C2BA71B78AAE9F8C19E2BA6ACF" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C4E7CE99F955C265A9A88A27BF56DDA0">
+<mods:title id="AA8030C7E2A493E989F33391D9CD5A6B">Long-term monitoring of the fish community in the Minho Estuary (NW Iberian Peninsula)</mods:title>
+</mods:titleInfo>
+<mods:name id="F4B85CB7CB650BE1B1E671B0F96398EF" type="personal">
+<mods:role id="FB75933B7007F5A40FA51018993192AF">
+<mods:roleTerm id="D942D5D1197A669ECB4059CAB4505A56">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="37F686C3E626C80CD3DC77DD68F39C22">Souza, Allan T.</mods:namePart>
+<mods:nameIdentifier id="3758EF7B86A8668B75E26A25AD3668B2" type="email">allan.souza@helsinki.fi</mods:nameIdentifier>
+<mods:nameIdentifier id="AEC003B50EE6F045C529E9FF41B7F7D7" type="ORCID">https://orcid.org/0000-0002-1851-681X</mods:nameIdentifier>
+<mods:affiliation id="E6CD0BCB3807849FE914083FA5E2D1B4">Institute for Atmospheric and Earth System Research INAR, Forest Sciences, Faculty of Agriculture and Forestry, P.O. Box 27, 00014 University of Helsinki, Helsinki, Finland</mods:affiliation>
+</mods:name>
+<mods:name id="CAFB00FFE770663E536CF3BBE0056299" type="personal">
+<mods:role id="16EB35CC8CF6E1877310D9084D995354">
+<mods:roleTerm id="CFAB5B7730C162EAC3C8776A1A64BD01">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6D5E157CD7BA099934D0DA0F6F42747F">Ilarri, Martina I</mods:namePart>
+<mods:nameIdentifier id="75FC12953B6E3C83BFF0A007E3D83713" type="email">martinailarri@gmail.com</mods:nameIdentifier>
+<mods:nameIdentifier id="EE201270B0B6E8A7B32560A4407176E9" type="ORCID">https://orcid.org/0000-0001-6780-8221</mods:nameIdentifier>
+<mods:affiliation id="F10D56547E9D19249F44052827C2E373">
+Interdisciplinary Centre of Marine and Environmental Research (CIIMAR/CIMAR), University of Porto, Novo 
+<normalizedToken id="D635047BA6761D73B2586AAADAE73A4D" originalValue="Edifício">Edificio</normalizedToken>
+do Terminal de Cruzeiros do Porto de 
+<normalizedToken id="684ED2FEEF4310F80A4D943C3AB77B9A" originalValue="Leixões">Leixoes</normalizedToken>
+, Av. General Norton de Matos, s/n, 4450-208, Matosinhos, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name id="F566BA3DD5518A9A160F63EDD2608EE3" type="personal">
+<mods:role id="C0431B4E0B15B4B062A70470A024BF2C">
+<mods:roleTerm id="CC97BF84C37C85E92F59B6EEE5C10E54">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F91D2A0D2B75B7119C229572074C7B0B">Dias, Ester</mods:namePart>
+<mods:affiliation id="A33E26C082DA2CE5A17C1789A27C6FB9">
+Interdisciplinary Centre of Marine and Environmental Research (CIIMAR/CIMAR), University of Porto, Novo 
+<normalizedToken id="45C02830515F4DF62525F88F8E9E3419" originalValue="Edifício">Edificio</normalizedToken>
+do Terminal de Cruzeiros do Porto de 
+<normalizedToken id="CE292B039C276BDC4BC07A6857C94A71" originalValue="Leixões">Leixoes</normalizedToken>
+, Av. General Norton de Matos, s/n, 4450-208, Matosinhos, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name id="F192DE88C29457CFBB411D0545DF9391" type="personal">
+<mods:role id="F50C75C14C8EE2D0BFBF376DF44E6E44">
+<mods:roleTerm id="73E70CDF38FC4BF1773E05147E4E8475">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A5D5FADB02B031D300A323FA8D499804">
+<normalizedToken id="8A225EB8ED0C497A6A03871DE57EB1DF" originalValue="Araújo">Araujo</normalizedToken>
+, 
+<normalizedToken id="44F7B1B8E0FE8DC7F70D25F0412F5524" originalValue="Mário">Mario</normalizedToken>
+J
+</mods:namePart>
+<mods:affiliation id="E51AC03F0A923B3D4FE91DDB16A524BF">
+Interdisciplinary Centre of Marine and Environmental Research (CIIMAR/CIMAR), University of Porto, Novo 
+<normalizedToken id="D599DFA06641597140FFE724DA20B392" originalValue="Edifício">Edificio</normalizedToken>
+do Terminal de Cruzeiros do Porto de 
+<normalizedToken id="53926A4F8794DB15B233292597CFE590" originalValue="Leixões">Leixoes</normalizedToken>
+, Av. General Norton de Matos, s/n, 4450-208, Matosinhos, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name id="5C9180CBA8617EBF1B90B221CF3F072D" type="personal">
+<mods:role id="06BDC907455D39C35E580D9A21CA786E">
+<mods:roleTerm id="E66704504B8377A82AC4D3271D0D2F68">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3D6A4F168A7102C1EE5853BDC91684BC">
+Roleira, 
+<normalizedToken id="98E25CFCE802192DCDE7CD7CFC65336A" originalValue="António">Antonio</normalizedToken>
+</mods:namePart>
+<mods:nameIdentifier id="AAB84076111D9A516A86F77254C5EC41" type="ORCID">https://orcid.org/0000-0003-0716-6241</mods:nameIdentifier>
+<mods:affiliation id="84A9DD526200F1DC99A8A4779757F3F3">
+Interdisciplinary Centre of Marine and Environmental Research (CIIMAR/CIMAR), University of Porto, Novo 
+<normalizedToken id="5DEEA39B8CD1CE1D92B9426E0AF44660" originalValue="Edifício">Edificio</normalizedToken>
+do Terminal de Cruzeiros do Porto de 
+<normalizedToken id="F10C00280155A3E7A983B978B7464120" originalValue="Leixões">Leixoes</normalizedToken>
+, Av. General Norton de Matos, s/n, 4450-208, Matosinhos, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name id="792C269855576F6D6EA2E43373C73DA3" type="personal">
+<mods:role id="79659B63F38FF7A7DDECA1D2C63795D0">
+<mods:roleTerm id="3ACA9713102257B6E724A117A5B45F6B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="23E0AAA1734C068566723731EF030983">Braga, Ana Catarina</mods:namePart>
+<mods:affiliation id="4F0CEFB0EF8407D04D5862E23F4D290C">
+S2AQUA-Collaborative Laboratory, Association for a Sustainable and Smart Aquaculture, Av. Parque Natural da Ria Formosa s/n, 8700-194, 
+<normalizedToken id="87458E8CD6AD767747657E10BF72BA3B" originalValue="Olhão">Olhao</normalizedToken>
+, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name id="6A2EDB37D58BB4DB82B31C49BFD91E3E" type="personal">
+<mods:role id="9DFA44BCD884100B12109801662DE24A">
+<mods:roleTerm id="54322E7799671195829744899638B757">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A84D59DEBFBD0CF4262A7C0C6670FA07">Carvalho, Ana Rita</mods:namePart>
+<mods:affiliation id="8A20DB69BB84E802F18340001FF74101">
+Interdisciplinary Centre of Marine and Environmental Research (CIIMAR/CIMAR), University of Porto, Novo 
+<normalizedToken id="684A573FFFA8848BF214A34EF190A841" originalValue="Edifício">Edificio</normalizedToken>
+do Terminal de Cruzeiros do Porto de 
+<normalizedToken id="C3D2A7DD8F4DA09E65BDAA760A30CC7C" originalValue="Leixões">Leixoes</normalizedToken>
+, Av. General Norton de Matos, s/n, 4450-208, Matosinhos, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name id="1E91AF980A935DB6F661D745F73A4C28" type="personal">
+<mods:role id="B680CA8421F8F004E925D2A8639C0298">
+<mods:roleTerm id="C84B3A80EA0F7D563359CEFFEF1EE384">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B4BBBDA2125AA792F5084734D11ADB82">Mota, Micaela</mods:namePart>
+<mods:affiliation id="C427992B605A5BBDFEF4EC04297464F7">
+Interdisciplinary Centre of Marine and Environmental Research (CIIMAR/CIMAR), University of Porto, Novo 
+<normalizedToken id="D2C8C842EEDC846AB41057788A7B0E94" originalValue="Edifício">Edificio</normalizedToken>
+do Terminal de Cruzeiros do Porto de 
+<normalizedToken id="030729F6B63662E15446A3E81F158881" originalValue="Leixões">Leixoes</normalizedToken>
+, Av. General Norton de Matos, s/n, 4450-208, Matosinhos, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name id="B527992882ECD28E3FEB42463BF237A0" type="personal">
+<mods:role id="6A25DDD0E1E3539D57EEBBEA9D849076">
+<mods:roleTerm id="BF99836157F4DDF103DA1B23DFB84858">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="58D0409BC3219A21DCB8B259E8A48549">Correia, Maria Helena</mods:namePart>
+<mods:nameIdentifier id="3D7ACF08DE33A349760CFED4CFFDCF2F" type="ORCID">https://orcid.org/0000-0002-3374-4589</mods:nameIdentifier>
+<mods:affiliation id="76714FB4E400457B3E972F4BCC2FB64D">
+Interdisciplinary Centre of Marine and Environmental Research (CIIMAR/CIMAR), University of Porto, Novo 
+<normalizedToken id="508B5EF2EFF3B5B0442CA402732DB796" originalValue="Edifício">Edificio</normalizedToken>
+do Terminal de Cruzeiros do Porto de 
+<normalizedToken id="9B4EFC04B8B50CAA8A903CB495586492" originalValue="Leixões">Leixoes</normalizedToken>
+, Av. General Norton de Matos, s/n, 4450-208, Matosinhos, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name id="7460E60E137F498BA78862BD749B06FB" type="personal">
+<mods:role id="EF4F71FF49EE473BFE09CF3F6064BB4D">
+<mods:roleTerm id="1A2FA98E8E87403C138C8BAAF36478A5">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="79EDD186998EF785496F6A58FD2D6C72">Lages, Ana</mods:namePart>
+<mods:affiliation id="6BB4FBFA16B291ECD4B42E4BA83DC883">
+Interdisciplinary Centre of Marine and Environmental Research (CIIMAR/CIMAR), University of Porto, Novo 
+<normalizedToken id="BD4A0A65D76256B8639FBCD066185A02" originalValue="Edifício">Edificio</normalizedToken>
+do Terminal de Cruzeiros do Porto de 
+<normalizedToken id="6045D3422261B51B1FFBC6D0E236ED55" originalValue="Leixões">Leixoes</normalizedToken>
+, Av. General Norton de Matos, s/n, 4450-208, Matosinhos, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name id="6A4B02A4A10B0E1216F8677D19C2F4C3" type="personal">
+<mods:role id="6ED16A773D2C0B00B9EA6E2C0C91C940">
+<mods:roleTerm id="5D33FCDB6417260BD2D44864A435C8BF">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="49252A71880EF1DCB41AC018AF316160">Moura, Ana</mods:namePart>
+<mods:affiliation id="847E3A5C5A8429B63AA6939191E1ADFE">
+Interdisciplinary Centre of Marine and Environmental Research (CIIMAR/CIMAR), University of Porto, Novo 
+<normalizedToken id="175B9F4644056B3047B27BDA7D47B479" originalValue="Edifício">Edificio</normalizedToken>
+do Terminal de Cruzeiros do Porto de 
+<normalizedToken id="0C8A7B75B6BFE5F9E24983EB2B0B7EDF" originalValue="Leixões">Leixoes</normalizedToken>
+, Av. General Norton de Matos, s/n, 4450-208, Matosinhos, Portugal
+</mods:affiliation>
+</mods:name>
+<mods:name id="D436E05F00B14D5455AA74F81D941050" type="personal">
+<mods:role id="DD6A1350D28942F53F3D814FA9C040FA">
+<mods:roleTerm id="D827E4C03620F6785CADF21EDF7D2013">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D9E7A9C5A7AA2D9C05901097C99DA5D7">Antunes, Carlos</mods:namePart>
+<mods:nameIdentifier id="95ECFC4804B2F2B880EBDC0CE605D078" type="ORCID">https://orcid.org/0000-0003-3736-5743</mods:nameIdentifier>
+<mods:affiliation id="45F6FB56BF3B089A600268ED27325150">
+Interdisciplinary Centre of Marine and Environmental Research (CIIMAR/CIMAR), University of Porto, Novo 
+<normalizedToken id="A69333CF9FBD2812DD9162552882CE35" originalValue="Edifício">Edificio</normalizedToken>
+do Terminal de Cruzeiros do Porto de 
+<normalizedToken id="E8007BA385141FF16CF080F60FD0984C" originalValue="Leixões">Leixoes</normalizedToken>
+, Av. General Norton de Matos, s/n, 4450-208, Matosinhos, Portugal
+</mods:affiliation>
+<mods:affiliation id="8A01B841B3C6D34DFE9FB8AB0F0408EC">Aquamuseu do Rio Minho, Parque do Castelinho, 4920-290, Vila Nova de Cerveira, Portugal</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="71FDED90FB9602F558E3AE354E2916AB">text</mods:typeOfResource>
+<mods:relatedItem id="90AEF4243A9E170A96FBCDF49DE65DE1" type="host">
+<mods:titleInfo id="EB2D69F796E8819CA73AAB72DBFAE7CC">
+<mods:title id="D4BF2562BD6DCB70FF794212CAE076C0">Biodiversity Data Journal</mods:title>
+</mods:titleInfo>
+<mods:part id="4AE2DED316AA9B0C26CFF9863AB7F453">
+<mods:detail id="31D572619373EA1EF8E4C1F2C9862179" type="volume">
+<mods:number id="E609B9A348B905C4AC8286DADBB314D4">12</mods:number>
+</mods:detail>
+<mods:detail id="F324C5B267552F98872D334FE7CCA0A3" type="pubDate">
+<mods:number id="6591B04CFB15D69ACFD8A502B314AF1F">2024-03-08</mods:number>
+</mods:detail>
+<mods:date id="17CA52724284685703013727A663012C">2024</mods:date>
+<mods:extent id="90D6EDF95F42ABD682D70152F54580A1" unit="page">
+<mods:start id="859C3EEA94D5713BFE2581B3EB8084A5">112217</mods:start>
+<mods:end id="D31678AF4A50222891262D67574EFBD1">112217</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="D37B6A59893A684333914CC0B1086D1C">
+<mods:url id="44E86493C285B0715F659CA6530C25BB">http://dx.doi.org/10.3897/BDJ.12.e112217</mods:url>
+</mods:location>
+<mods:identifier id="942F82F83899CAA5FC56698FCF16B78A" type="DOI">http://dx.doi.org/10.3897/BDJ.12.e112217</mods:identifier>
+<mods:identifier id="42BAA9EC8BA8476183DB3BA830552096" type="Pensoft-Pub">1314-2828-12-e112217</mods:identifier>
+<mods:identifier id="4AC5E1308BD47D330244B71CC3F491DC" type="Pensoft-UUID">E4EF5ED38403576A932290881CBBE035</mods:identifier>
+<mods:classification id="D94DB2CCA2F551E5115806A7D3F4D072">journal article</mods:classification>
+</mods:mods>
+<subSection id="7171DD06DDE7FC15295401DE9A6B9985" pageId="0" pageNumber="112217" type="introduction">
+<paragraph id="913AF57DDBB6F370AD6443D1959A46FC" pageId="0" pageNumber="112217">
+<pageBreakToken id="02E1447DBA9457BEEC7EFD1EEB4C0DBC" origin="extrapolated" pageId="0" pageNumber="112217" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph id="3BF192B5AF2F2ED8E8D691FA4F7C2FAC" pageId="0" pageNumber="112217">
+Estuarine ecosystems play an important role in maintaining fish biodiversity. They are highly biologically productive ecosystems that provide important feeding, spawning, refuge and nursery habitats for various fish species at different stages of development (
+<bibRefCitation id="627C30900D78A110CAAF46999D9FE355" author="Cabral, Henrique N." journalOrPublisher="Journal of Sea Research" pageId="0" pageNumber="112217" pagination="209 - 217" refId="B9975459" refString="Cabral, Henrique N., Vasconcelos, Rita, Vinagre, Catarina, Franca, Susana, Fonseca, Vanessa, Maia, Anabela, Reis-Santos, Patrick, Lopes, Marta, Ruano, Miguel, Campos, Joana, Freitas, Vania, Santos, Paulo T., Costa, Maria Jose, 2007. Relative importance of estuarine flatfish nurseries along the Portuguese coast. Journal of Sea Research 57: 209 - 217" title="Relative importance of estuarine flatfish nurseries along the Portuguese coast" volume="57" year="2007">Cabral et al. 2007</bibRefCitation>
+, 
+<bibRefCitation id="FE784B86FADD9DD28D62ECEC58806FEF" author="Guerreiro, Milene Alexandra" journalOrPublisher="Marine Environmental Research" pageId="0" pageNumber="112217" refId="B9975528" refString="Guerreiro, Milene Alexandra, Martinho, Filipe, Baptista, Joana, Costa, Filipe, Pardal, Miguel Angelo, Primo, Ana Ligia, 2021. Function of estuaries and coastal areas as nursery grounds for marine fish early life stages. Marine Environmental Research 170" title="Function of estuaries and coastal areas as nursery grounds for marine fish early life stages" volume="170" year="2021">Guerreiro et al. 2021</bibRefCitation>
+). Despite their high ecological and socio-economic value, estuaries are currently stressed by a variety of anthropogenic activities, including nutrient over-enrichment (
+<bibRefCitation id="D8F61DAF84EC725CA0C6E0F58BB752F5" author="Nixon, Scott W." journalOrPublisher="Hydrobiologia" pageId="0" pageNumber="112217" pagination="5 - 19" refId="B9975557" refString="Nixon, Scott W., 2009. Eutrophication and the macroscope. Hydrobiologia 629 (1): 5 - 19" title="Eutrophication and the macroscope" volume="629" year="2009">Nixon 2009</bibRefCitation>
+), habitat loss (
+<bibRefCitation id="621CFFD3FF8005D81C958FA12AA796B0" author="Stamp, Thomas" journalOrPublisher="ICES Journal of Marine Science" pageId="0" pageNumber="112217" pagination="1981 - 1991" refId="B9975699" refString="Stamp, Thomas, West, Elizabeth, Robbins, Tim, Plenty, Shaun, Sheehan, Emma, 2022. Large-scale historic habitat loss in estuaries and its implications for commercial and recreational fin fisheries. ICES Journal of Marine Science 79 (7): 1981 - 1991" title="Large-scale historic habitat loss in estuaries and its implications for commercial and recreational fin fisheries" volume="79" year="2022">Stamp et al. 2022</bibRefCitation>
+), overexploitation of natural resources (
+<bibRefCitation id="B30AB01EA867C736BA0EE7976784E0B2" author="Vasconcelos, R. P." journalOrPublisher="Science of The Total Environment" pageId="0" pageNumber="112217" pagination="199 - 215" refId="B9975709" refString="Vasconcelos, R. P., Reis-Santos, P., Fonseca, V., Maia, A., Ruano, M., Franca, S., Vinagre, C., Costa, M. J., Cabral, H., 2007. Assessing anthropogenic pressures on estuarine fish nurseries along the Portuguese coast: A multi-metric index and conceptual approach. Science of The Total Environment 374: 199 - 215" title="Assessing anthropogenic pressures on estuarine fish nurseries along the Portuguese coast: A multi-metric index and conceptual approach" volume="374" year="2007">Vasconcelos et al. 2007</bibRefCitation>
+), the introduction of invasive species (
+<bibRefCitation id="CFC8A73F8BBA874AD385A605E4DFE405" author="Levin, L. A." journalOrPublisher="Estuarine, Coastal and Shelf Science" pageId="0" pageNumber="112217" pagination="17 - 51" refId="B9975548" refString="Levin, L. A., Crooks, J. A., 2011. Functional consequences of invasive species in coastal and estuarine systems. In: Treatise on Estuarine and Coastal Science.: 17 - 51" title="Functional consequences of invasive species in coastal and estuarine systems" volumeTitle="Treatise on Estuarine and Coastal Science." year="2011">Levin and Crooks 2011</bibRefCitation>
+), altered freshwater inflows (
+<bibRefCitation id="832433EB010D1F5D30F96E161C0CBEC9" author="Palmer, Terence A." journalOrPublisher="Hydrobiologia" pageId="0" pageNumber="112217" pagination="49 - 67" refId="B9975566" refString="Palmer, Terence A., Montagna, Paul A., Pollack, Jennifer Beseres, Kalke, Richard D., DeYoe, Hudson R., 2011. The role of freshwater inflow in lagoons, rivers, and bays. Hydrobiologia 667 (1): 49 - 67" title="The role of freshwater inflow in lagoons, rivers, and bays" volume="667" year="2011">Palmer et al. 2011</bibRefCitation>
+), pollution (
+<bibRefCitation id="BAAF4C2A201BED6F790005097D18482D" author="Gao, Yangchun" journalOrPublisher="Scientific Reports" pageId="0" pageNumber="112217" refId="B9975518" refString="Gao, Yangchun, Yang, Qing, Li, Hongjun, Wang, Xiaocheng, Zhan, Aibin, 2019. Anthropogenic pollutant-driven geographical distribution of mesozooplankton communities in estuarine areas of the Bohai Sea, China. Scientific Reports 9 (1)" title="Anthropogenic pollutant-driven geographical distribution of mesozooplankton communities in estuarine areas of the Bohai Sea, China" volume="9" year="2019">Gao et al. 2019</bibRefCitation>
+) and climate change (
+<bibRefCitation id="1D59E2DA199340DAF590A006FF15390B" author="Ilarri, Martina" journalOrPublisher="Science of The Total Environment" pageId="0" pageNumber="112217" refId="B9975539" refString="Ilarri, Martina, Souza, Allan T., Dias, Ester, Antunes, Carlos, 2022. Influence of climate change and extreme weather events on an estuarine fish community. Science of The Total Environment 827" title="Influence of climate change and extreme weather events on an estuarine fish community" volume="827" year="2022">Ilarri et al. 2022</bibRefCitation>
+, 
+<bibRefCitation id="B34A17507719CB2AFC93EC1911F966A2" author="Souza, A." journalOrPublisher="ARPHA Preprints" pageId="0" pageNumber="112217" refId="B9986129" refString="Souza, A., Dias, E., Antunes, C., Ilarri, M., 2023. Disruptions caused by invasive species and climate change on the functional diversity of a fish community. ARPHA Preprints e108383" title="Disruptions caused by invasive species and climate change on the functional diversity of a fish community" volume="e 108383" year="2023">Souza et al. 2023</bibRefCitation>
+). It is, therefore, important to establish long-term monitoring programmes that provide an accurate overview of the state of these ecosystems and how different species populations respond to these different pressures (in terms of abundance and population composition) over the years.
+</paragraph>
+<paragraph id="D9FFC400E3B50A3AB4325C102563FC13" pageId="0" pageNumber="112217">
+For over a decade, the ichthyofauna within the Minho Estuary, located in the north-western region of the Iberian Peninsula, has been subject to consistent monitoring (
+<bibRefCitation id="6BD0C89E44346A011B4D530841EBBCBE" author="Souza, Allan T" journalOrPublisher="ARPHA Preprints" pageId="0" pageNumber="112217" refId="B9975725" refString="Souza, Allan T, Ilarri, Martina I, Dias, Ester, Araujo, Mario Jorge, Roleira, Antonio, Braga, Ana Catarina, Carvalho, Ana Rita, Mota, Micaela, Correia, Maria Helena, Lages, Ana, Moura, Ana, Antunes, Carlos, 2023. https://zenodo.org/record/8046541" title="https: // zenodo. org / record / 8046541" year="2023">Souza et al. 2023</bibRefCitation>
+). The Minho River has been recognised as an EU Natura 2000 site and its estuary has obtained Special Protection Area status under the EU Birds Directive (Directive 2009/147/EC). This area is home to significant bird, macroinvertebrate and fish populations, including various migratory fish species (
+<bibRefCitation id="F64EEB1395438D9E369BF5F484DDDE94" author="Mota, Micaela" journalOrPublisher="Annales de Limnologie - International Journal of Limnology" pageId="0" pageNumber="112217" pagination="185 - 198" refId="B10931698" refString="Mota, Micaela, Sousa, Ronaldo, Bio, Ana, Araujo, Jorge, Braga, Catarina, Antunes, Carlos, 2014. Seasonal changes in fish assemblages in the River Minho tidal freshwater wetlands, NW of the Iberian Peninsula. Annales de Limnologie - International Journal of Limnology 50 (3): 185 - 198" title="Seasonal changes in fish assemblages in the River Minho tidal freshwater wetlands, NW of the Iberian Peninsula" volume="50" year="2014">Mota et al. 2014</bibRefCitation>
+). However, the ecological condition of the Minho Estuary has experienced a decline in recent decades, attributed to a combination of factors such as overfishing, pollution, the invasion of alien species and fluctuations in weather conditions (
+<bibRefCitation id="173C523F3B38C878034BC96CA88DF8F3" author="Sousa, Ronaldo" journalOrPublisher="Annales de Limnologie - International Journal of Limnology" pageId="0" pageNumber="112217" pagination="211 - 219" refId="B10931891" refString="Sousa, Ronaldo, Ilarri, Martina, Souza, Allan T., Antunes, Carlos, Guilhermino, Lucia, 2011. Rapid decline of the greater European peaclam at the periphery of its distribution. Annales de Limnologie - International Journal of Limnology 47 (3): 211 - 219" title="Rapid decline of the greater European peaclam at the periphery of its distribution" volume="47" year="2011">Sousa et al. 2011</bibRefCitation>
+, 
+<bibRefCitation id="9C016C6E2DDA51A15837C4832591D9BB" author="Mota, Micaela," journalOrPublisher="Limnetica" pageId="0" pageNumber="112217" pagination="165 - 172" refId="B10931801" refString="Mota, Micaela, , Antunes, Carlos, , 2012. A preliminary characterisation of the habitat use and feeding of Allis shad (Alosa alosa) juveniles in the Minho River tidal freshwater wetlands. Limnetica 31: 165 - 172" title="A preliminary characterisation of the habitat use and feeding of Allis shad (Alosa alosa) juveniles in the Minho River tidal freshwater wetlands" volume="31" year="2012">Mota and Antunes 2012</bibRefCitation>
+, 
+<bibRefCitation id="CBD18ADBB0A324BC2F042C78E395CF95" author="Ilarri, M. I." journalOrPublisher="Estuarine, Coastal and Shelf Science" pageId="0" pageNumber="112217" pagination="12 - 19" refId="B10931725" refString="Ilarri, M. I., Souza, A. T., Antunes, C., Guilhermino, L., Sousa, R., 2014. Influence of the invasive Asian clam Corbicula fluminea (Bivalvia: Corbiculidae) on estuarine epibenthic assemblages. Estuarine, Coastal and Shelf Science 143: 12 - 19" title="Influence of the invasive Asian clam Corbicula fluminea (Bivalvia: Corbiculidae) on estuarine epibenthic assemblages" volume="143" year="2014">Ilarri et al. 2014</bibRefCitation>
+, 
+<bibRefCitation id="58FF9ACB163BD513E6AD608BE2A41DA8" author="Beiras, Ricardo" journalOrPublisher="Frontiers in Marine Science" pageId="0" pageNumber="112217" refId="B10931904" refString="Beiras, Ricardo, 2016. Assessing Ecological Status of Transitional and Coastal Waters; Current Difficulties and Alternative Approaches. Frontiers in Marine Science 3" title="Assessing Ecological Status of Transitional and Coastal Waters; Current Difficulties and Alternative Approaches" volume="3" year="2016">Beiras 2016</bibRefCitation>
+, 
+<bibRefCitation id="D2232C056435D0ACF161B83CC005DA3A" author="Ilarri, Martina" journalOrPublisher="Science of The Total Environment" pageId="0" pageNumber="112217" refId="B9975539" refString="Ilarri, Martina, Souza, Allan T., Dias, Ester, Antunes, Carlos, 2022. Influence of climate change and extreme weather events on an estuarine fish community. Science of The Total Environment 827" title="Influence of climate change and extreme weather events on an estuarine fish community" volume="827" year="2022">Ilarri et al. 2022</bibRefCitation>
+, 
+<bibRefCitation id="100A63AF8A4CB28107B6B9BC7C1A6EF1" author="Souza, A." journalOrPublisher="ARPHA Preprints" pageId="0" pageNumber="112217" refId="B9986129" refString="Souza, A., Dias, E., Antunes, C., Ilarri, M., 2023. Disruptions caused by invasive species and climate change on the functional diversity of a fish community. ARPHA Preprints e108383" title="Disruptions caused by invasive species and climate change on the functional diversity of a fish community" volume="e 108383" year="2023">Souza et al. 2023</bibRefCitation>
+).
+</paragraph>
+<paragraph id="09A691E546A04C2B6B8D396670CF4EAF" pageId="0" pageNumber="112217">The objective of this study was to document the sampling effort and the abundance and composition of the fish community (allowing the calculation of the CPUE - Catch Per Unit Effort) inhabiting the Minho Estuary between 2010 and 2019. The primary goal was to record the temporal changes that have occurred within the fish community through time.</paragraph>
+</subSection>
+<subSection id="AB69DF87BEBA009CFD336678FA903A47" pageId="0" pageNumber="112217" type="project description">
+<paragraph id="CBBFF1114B57E2CCE594646CEFDA9A80" pageId="0" pageNumber="112217">Project description</paragraph>
+<paragraph id="1A9D6A81F33BCC67608FD3A0A5D00B23" pageId="0" pageNumber="112217">Study area description</paragraph>
+<paragraph id="F656F79C978B49D4C2C19736EA6D3011" pageId="0" pageNumber="112217">
+The research was carried out in the LTSER-ESTUARIES - Portugal (https://deims.org/664177a4-a21a-4f59-9601-00909e275868), more especially at the Lenta Marina (
+<geoCoordinate id="38C47075C1831EB85874AE9688A3607C" degrees="41" direction="north" minutes="57" orientation="latitude" precision="1" seconds="15.9" value="41.95442">41°57'15.9&quot;N</geoCoordinate>
+<geoCoordinate id="423BE5DAD49ADD4297D0DA355A9F3D92" degrees="8" direction="west" minutes="44" orientation="longitude" precision="1" seconds="42.5" value="-8.745139">8°44'42.5&quot;W</geoCoordinate>
+), a small (660 
+<normalizedToken id="EC31AA76BAA98F72E35D7FD7446510D3" originalValue="×">x</normalizedToken>
+80 m), semi-enclosed bay situated 14.5 km upstream in the Minho Estuary, which was chosen as a representative area of the estuary (Figs 
+<figureCitation id="06F80E579F47FB868ABE8A2FD9F81253" captionStart="Figure 1" captionStartId="F9976353" captionText="Figure 1. Spatial representation of the study area and sampling locations in the Minho Estuary. A) A map of the Iberian Peninsula, with an indication of the sampling location within the Minho Estuary. B) A zoomed-in view of the study area, highlighting the representative deployment locations of the fyke nets (white circles) inside the Lenta Marina." figureDoi="10.3897/BDJ.12.e112217.figure1" httpUri="https://binary.pensoft.net/fig/870840" pageId="0" pageNumber="112217">1</figureCitation>
+, 
+<figureCitation id="D40AAB3240B29AD23B2B7997F177AAFD" captionStart="Figure 4" captionStartId="F9976355" captionText="Figure 4. A photograph showing the view of the study area (Lenta Marina) in the Minho Estuary. The image shows the semi-enclosed bay, characterised by the presence of near-shore vegetation and the calm water surface where the fish sampling took place (Photo by Ronaldo Sousa)." figureDoi="10.3897/BDJ.12.e112217.figure4" httpUri="https://binary.pensoft.net/fig/870841" pageId="0" pageNumber="112217">4</figureCitation>
+). Lenta Marina occupies a location within an estuarine zone characterised by slight salinity fluctuations, with freshwater prevailing in accordance with the patterns of discharge of the river. In summer, Lenta Marina experiences minor saline intrusions, leading to relatively low salinity levels in the area. Specifically, salinity can range from 0 - 2 psu during late summer and drought conditions (
+<bibRefCitation id="6F6AAF4A01AD4CD2C07EB5D32A48EC02" author="Dias, E" journalOrPublisher="Marine Ecology Progress Series" pageId="0" pageNumber="112217" pagination="21 - 34" refId="B9975500" refString="Dias, E, Morais, P, Cotter, AM, Antunes, C, Hoffman, JC, 2016. Estuarine consumers utilize marine, estuarine and terrestrial organic matter and provide connectivity among these food webs. Marine Ecology Progress Series 554: 21 - 34" title="Estuarine consumers utilize marine, estuarine and terrestrial organic matter and provide connectivity among these food webs" volume="554" year="2016">Dias et al. 2016</bibRefCitation>
+, 
+<bibRefCitation id="90F6294C39C34099EAD94E0BE51A0637" author="Dias, Ester" journalOrPublisher="Regional Studies in Marine Science" pageId="0" pageNumber="112217" refId="B9975477" refString="Dias, Ester, Barros, Ana Gabriela, Hoffman, Joel C., Antunes, Carlos, Morais, Pedro, 2020. Habitat use and food sources of European flounder larvae (Platichthys flesus, L. 1758) across the Minho River estuary salinity gradient (NW Iberian Peninsula). Regional Studies in Marine Science 34" title="Habitat use and food sources of European flounder larvae (Platichthys flesus, L. 1758) across the Minho River estuary salinity gradient (NW Iberian Peninsula)" volume="34" year="2020">Dias et al. 2020</bibRefCitation>
+). The Minho Estuary is classified as a mesotidal estuary, characterised by an average depth of 2.6 m and reaching a maximum depth of 26 m (
+<bibRefCitation id="8CD5865B355C7A487FE671AF8E1CBF81" author="Alves, A" journalOrPublisher="http: // repositorium. sdum. uminho. pt / (February 27, 2023)" pageId="0" pageNumber="112217" refId="B9975576" refString="Alves, A, 1996. Causas e Processos da Dinamica Sedimentar na Evolucao Actual do Litoral do Alto Minho. http://repositorium.sdum.uminho.pt/ (February 27, 2023)" title="Causas e Processos da Dinamica Sedimentar na Evolucao Actual do Litoral do Alto Minho" year="1996">Alves 1996</bibRefCitation>
+, 
+<bibRefCitation id="1FA205E62022A39342D069732D67725F" author="Antunes, Carlos" journalOrPublisher="http: // repositorium. sdum. uminho. pt / (February 27, 2023)" pageId="0" pageNumber="112217" refId="B9975745" refString="Antunes, Carlos, Araujo, Mario Jorge, Braga, C, Roleira, Antonio, Carvalho, R, Mota, Micaela, 2011." year="2011">Antunes et al. 2011</bibRefCitation>
+).
+</paragraph>
+<paragraph id="EA63512E55F7296D1B3A11D4E31C7C44" pageId="0" pageNumber="112217">Funding</paragraph>
+<paragraph id="9ECAD2F4BD4B3F84B0D472511C106305" pageId="0" pageNumber="112217">
+This research was supported by national funds through FCT - Foundation for Science and Technology within the scope of UIDB/04423/2020 and UIDP/04423/2020. This work was partly carried out in the framework of the Migra 
+<normalizedToken id="D3A08BF5C753352FFA30A21D4EF996FB" originalValue="Miño">Mino</normalizedToken>
+Minho project &quot;Protection and conservation of migratory fish in the conservation of migratory fish in the international stretch of the River Minho and its tributaries&quot;, a project co-financed by the European Regional Development Fund (ERDF) through the Interreg V-A Programme, Spain through the Interreg V-A Programme, Spain-Portugal (POCTEP), 2014-2020
+</paragraph>
+</subSection>
+<subSection id="B86EB337A3D31B5A315387BD463906CF" pageId="0" pageNumber="112217" type="sampling methods">
+<paragraph id="C3EC49E7F4DD5A241EECFB5CCE2FAB55" pageId="0" pageNumber="112217">Sampling methods</paragraph>
+<paragraph id="A12A730086C60DB6F5934BAB396B804C" pageId="0" pageNumber="112217">Sampling description</paragraph>
+<paragraph id="E21C6D6EAB5C5E262D9FDEFF4320964E" pageId="0" pageNumber="112217">
+Fish samples were collected from January 2010 to November 2019. Fyke nets with a mesh size of 10 mm, a length of 7 m, a mouth diameter of 0.7 m and a central wing of 3.5 m were used to collect the fish (Fig. 
+<figureCitation id="63D9D5A6251A06FCA29E9374FBD9DAB3" captionStart="Figure 2" captionStartId="F9976357" captionText="Figure 2. A photograph showing the removal of a fyke net from the water in the Minho Estuary (Photo by Carlos Antunes)." figureDoi="10.3897/BDJ.12.e112217.figure2" httpUri="https://binary.pensoft.net/fig/870842" pageId="0" pageNumber="112217">2</figureCitation>
+). These nets were consistently set in the morning and left submerged for 5.5 
+<normalizedToken id="A4D6804DF20DD91AAF87A46D534CA82F" originalValue="±">+/-</normalizedToken>
+2.6 days (average 
+<normalizedToken id="23C691D69D2DB749E6ECE43A63BEE653" originalValue="±">+/-</normalizedToken>
+SD) (Fig. 
+<figureCitation id="83D4DBE9219A3804AD6DA2BA0E33CA18" captionStart="Figure 3" captionStartId="F9976359" captionText="Figure 3. Days when samples were collected in the study area (Lenta Marina) in the Minho Estuary (i. e. days when fyke net (s) were underwater). Grey = fyke net (s) deployed; white = no fyke net deployed." figureDoi="10.3897/BDJ.12.e112217.figure3" httpUri="https://binary.pensoft.net/fig/949337" pageId="0" pageNumber="112217">3</figureCitation>
+). To ensure even spatial coverage, the fyke nets were always set parallel to the shore and distributed close to the bay mouth at fixed locations (Fig. 
+<figureCitation id="DF810D83DFA68B1F50DF1BC875600683" captionStart="Figure 1" captionStartId="F9976353" captionText="Figure 1. Spatial representation of the study area and sampling locations in the Minho Estuary. A) A map of the Iberian Peninsula, with an indication of the sampling location within the Minho Estuary. B) A zoomed-in view of the study area, highlighting the representative deployment locations of the fyke nets (white circles) inside the Lenta Marina." figureDoi="10.3897/BDJ.12.e112217.figure1" httpUri="https://binary.pensoft.net/fig/870840" pageId="0" pageNumber="112217">1</figureCitation>
+). Although the number of fyke nets used per sampling date varied due to technical issues (e.g. lost or damaged fyke nets), up to five fyke nets were employed per sampling date. After retrieving of the fyke nets, all captured individuals were identified (following 
+<bibRefCitation id="60CDE79135BFD1B0B094C786244AE36A" author="Dias, Ester" journalOrPublisher="Regional Studies in Marine Science" pageId="0" pageNumber="112217" refId="B10932282" refString="Froese R. Pauly D. FishBase. World Wide Web electronic publication. www.fishbase.org 2023-12-08T00:00:00+02:00" year="2020">Froese and Pauly (2023)</bibRefCitation>
+and 
+<bibRefCitation id="7622F113440B7579A9C308E756814713" author="Martins, Rogelia" journalOrPublisher="IPMA, Lisboa" pageId="0" pageNumber="112217" refId="B10929832" refString="Martins, Rogelia, Carneiro, Miguel, 2018. Manual de Identificacao de Peixes osseos da Costa Continental Portuguesa. IPMA, Lisboa" title="Manual de Identificacao de Peixes osseos da Costa Continental Portuguesa" year="2018">Martins and Carneiro (2018)</bibRefCitation>
+) and counted (Fig. 
+<figureCitation id="B8DC49563AF80A0CCE112C1F8653F602" captionStart="Figure 5" captionStartId="F9976361" captionText="Figure 5. Treemap showing the total number of individuals of the most representative species during the long-term monitoring. The area of each rectangle is proportional to the total abundance of the species in all samples collected and the yellow numbers in the bottom right corner indicate the total abundance per species. Red background colour refers to the invasive species, with the category others corresponding to the least abundant species in the group, in this case, representative of two species: Gobio lozanoi (n = 255) and Carassius auratus (n = 20). Blue background colour refers to the native species, with the category others corresponding to the least abundant species in the group, in this case, it is representative of eight species: Mugil cephalus (n = 167), Salmo trutta subsp. fario (n = 162), Dicentrarchus labrax (n = 100), Chelon auratus (n = 51), Chelon labrosus (n = 28), Squalius carolitertii (n = 20), Petromyzon marinus (n = 12) and Alosa (n = 1)." figureDoi="10.3897/BDJ.12.e112217.figure5" httpUri="https://binary.pensoft.net/fig/978254" pageId="0" pageNumber="112217">5</figureCitation>
+). During the entire study period, a total of 3,029 samples (i.e. individual fyke nets) were collected.
+</paragraph>
+<paragraph id="F1776F084612751630C4A3CC4DB07A77" pageId="0" pageNumber="112217">Permission to collect fish within the study area was obtained in correspondence with the Portuguese Navy.</paragraph>
+<paragraph id="5CCF836E58C9C53D6EE9E652C9B45F33" pageId="0" pageNumber="112217">Quality control</paragraph>
+<paragraph id="5238749AD132684A1B33F8CC730D61F8" pageId="0" pageNumber="112217">
+It is important to note that fyke netting is a passive gear and, therefore, considered a semi-quantitative method, which can be influenced by gear catchability and saturation, fish activity and behaviour, predation inside fyke nets, as well as environmental conditions (e.g. water temperature and transparecy) (
+<bibRefCitation id="EE52489AA301F2D03EB73830BF899789" author="Hubert, W. A." journalOrPublisher="American Fisheries Society" pageId="0" pageNumber="112217" refId="B10932599" refString="Hubert, W. A., Fabrizio, M. C., 2007. Analysis and interpretation of freshwater fisheries data. American Fisheries Society" title="Analysis and interpretation of freshwater fisheries data" year="2007">Hubert and Fabrizio 2007</bibRefCitation>
+). The use of this dataset needs to account for these known issues.
+</paragraph>
+</subSection>
+<subSection id="32DB3AFD033814A1EFC59CAA4B7B381C" pageId="0" pageNumber="112217" type="geographic coverage">
+<paragraph id="1FD77D1E5B58A6AF187D863DBBD5F07B" pageId="0" pageNumber="112217">Geographic coverage</paragraph>
+<paragraph id="A6E3311AA10FF82766E81D21041B214C" pageId="0" pageNumber="112217">Description</paragraph>
+<paragraph id="FD80A66B0DA8A1F408B473903D8E6B3A" pageId="0" pageNumber="112217">This study was carried out in Lenta Marina in the Minho Estuary in the north-west of the Iberian Peninsula.</paragraph>
+<paragraph id="BFA9F67396B730F544D6E1D9C7314402" pageId="0" pageNumber="112217">Coordinates</paragraph>
+<paragraph id="880FDE8577D5E8843DAC88EEF890158A" pageId="0" pageNumber="112217">41°57'15.9'' and 41°57'15.9'' Latitude; 8°44'42.5'' and 8°44'42.5'' Longitude.</paragraph>
+</subSection>
+<subSection id="1FB31C3B9355B826267382DC4B659594" pageId="0" pageNumber="112217" type="taxonomic coverage">
+<paragraph id="2ADBA0136E4E4087FF210BCA827899B5" pageId="0" pageNumber="112217">Taxonomic coverage</paragraph>
+<paragraph id="4583A1AB12696D0F79EBD976FE70A890" pageId="0" pageNumber="112217">Description</paragraph>
+<paragraph id="D5C700262E3AB8B30621EA4C235AEE94" pageId="0" pageNumber="112217">
+The dataset comprised the records of 70,857 individuals belonging to 20 species, two subspecies and one genus (which has not been identified to the species level) taxa of fish from 12 families. The taxonomic list was defined, based on the presence of a taxonomic group in the entire dataset and the presence or absence of each taxonomic group in a eventID was recorded at occurrenceStatus. The taxon identification numbers (acceptedNameUsageID) were based on GBIF Backbone Taxonomy (
+<bibRefCitation id="76F5607A632EADD61C1450906C2609AA" author="Gao, Yangchun" journalOrPublisher="Scientific Reports" pageId="0" pageNumber="112217" refId="B10377840" refString="Secretariat GBIF GBIF Backbone Taxonomy. Checklist dataset. 10.15468/39omei 2023-08-08T00:00:00+03:00" year="2019">GBIF Secretariat 2022</bibRefCitation>
+), whereas the common names of the species (vernacularName) were based on FishBase (
+<bibRefCitation id="C43B2ABACE449261CE2FE13B8B6254A3" author="Dias, Ester" journalOrPublisher="Regional Studies in Marine Science" pageId="0" pageNumber="112217" refId="B10932282" refString="Froese R. Pauly D. FishBase. World Wide Web electronic publication. www.fishbase.org 2023-12-08T00:00:00+02:00" year="2020">Froese and Pauly 2023</bibRefCitation>
+).
+</paragraph>
+<paragraph id="761CDE9F7F1A7A5453913976C2E9F841" pageId="0" pageNumber="112217">Taxa included</paragraph>
+<paragraph id="3A2836E3BF102C86B8AA40E56E5A0D35" pageId="0" pageNumber="112217">
+<table id="68A23A31C07F5E5522C42A1C967E8775" pageId="0" pageNumber="112217">
+<tr id="9AAF248CCA55A0242978A9CB424374D7" pageId="0" pageNumber="112217">
+<thead id="C007A7B28C4DCC741B7BF5FA460A78B1" pageId="0" pageNumber="112217">
+<th id="A6E62ECE4F7261749406BB56BC8B88EB" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Rank</th>
+<th id="065121A13226706D8F51B14F8BD141A4" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Scientific Name</th>
+<th id="DD6D85BE851DA031375D99C67F71B48C" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Common Name</th>
+</thead>
+</tr>
+<tr id="5EF272EF361112FB78B91AB87CDFD891" pageId="0" pageNumber="112217">
+<td id="EC2EC1FE413D63AD8266A397FC2B626A" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="C58C4F5FA4E0FBD9DF39D2EBCB82B4DB" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="C82BA210F1322577E3DF2A08BE63F0D7" class="Agnatha" family="Petromyzontidae" genus="Petromyzon" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Petromyzon marinus" order="Petromyzontiformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="marinus">
+<emphasis id="35F762CF7BB6C17BF2F9ED2A523ED69C" italics="true" pageId="0" pageNumber="112217">Petromyzon marinus</emphasis>
+</taxonomicName>
+Linnaeus, 1758
+</td>
+<td id="31C3F9C70E61A42500D993896EE012D5" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Sea lamprey</td>
+</tr>
+<tr id="FE12D08745B5A601BAFD3291FD5C27BC" pageId="0" pageNumber="112217">
+<td id="1A963E4869EA0556FDAF462CD6AEF16A" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="FA7CAAC99F3FA932EEADCFC50A9ED622" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="A57996FF0712BF4768D2ED59296B5D0A" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Oligochaeta" family="Naididae" genus="Anguilla" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Anguilla anguilla" order="Tubicida" pageId="0" pageNumber="112217" phylum="Annelida" rank="species" species="anguilla">
+<emphasis id="399999127323CFD2C7A740399D29FB80" italics="true" pageId="0" pageNumber="112217">Anguilla anguilla</emphasis>
+</taxonomicName>
+(Linnaeus, 1758)
+</td>
+<td id="B302AE50B8840AE1A2640C99F7C21A3E" colspan="1" pageId="0" pageNumber="112217" rowspan="1">European eel</td>
+</tr>
+<tr id="81394E42085F2363CB2A718664B2E7CE" pageId="0" pageNumber="112217">
+<td id="E36C221212ED8807054E2FCE8EFD66D0" colspan="1" pageId="0" pageNumber="112217" rowspan="1">genus</td>
+<td id="1B842AA5823A1F74C14AF7EBD5D8DB3F" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="47DFF805B6506ABA71B29FCDFBF2C8D3" authorityName="H.F.Linck" authorityYear="1790" class="Actinopteri" family="Alosidae" genus="Alosa" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Alosa" order="Clupeiformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="genus">
+<emphasis id="C4B8C2A1A153D84917A1F201B1911C5A" italics="true" pageId="0" pageNumber="112217">Alosa</emphasis>
+</taxonomicName>
+Linck, 1790
+</td>
+<td id="708A04AECFD6181FA75C26013FF004E5" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Allis and twaite shads</td>
+</tr>
+<tr id="D119093151655236491576EF8CA37D00" pageId="0" pageNumber="112217">
+<td id="3A6454ADDA39E7D2ADC68AD817B0A21D" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="C3DA59FEF0FE4B4C748BAAC03900639D" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="1199FABA835A59A0942D392E6A05D477" baseAuthorityName="de Buen" baseAuthorityYear="1930" family="Cobitidae" genus="Cobitis" kingdom="Animalia" lsidName="Cobitis paludica" order="Cypriniformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="paludica">
+<emphasis id="792F15F19476554E5BE3023BBEA1E8FA" italics="true" pageId="0" pageNumber="112217">Cobitis paludica</emphasis>
+</taxonomicName>
+(de Buen, 1930)
+</td>
+<td id="39C4FF2D86B4DCE46C9D0E6F5FE4994A" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Iberian loach</td>
+</tr>
+<tr id="D3377E17C75E9AEAE3A0D50172AB4C5B" pageId="0" pageNumber="112217">
+<td id="2A1C9F8C29729A2A0A663934FF4E1B7E" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="14D81D8E2D611CBE8387D2DB6FD13EB7" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="D3E81DC84AEBE77731FDA94F5954B8D7" baseAuthorityName="Steindachner" baseAuthorityYear="1866" class="Actinopteri" family="Leuciscidae" genus="Achondrostoma" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Achondrostoma arcasii" order="Cypriniformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="arcasii">
+<emphasis id="CE22432FBCAE68684AEB5E4E39A73969" italics="true" pageId="0" pageNumber="112217">Achondrostoma arcasii</emphasis>
+</taxonomicName>
+(Steindachner, 1866)
+</td>
+<td id="13D9AA196E88025D2718A5569275D7AE" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Panjorca</td>
+</tr>
+<tr id="4110CA7EA9896448BD42F8C83565D6E1" pageId="0" pageNumber="112217">
+<td id="05B7671A868296B055F0BBF25CF03381" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="997800623E2BCB4BF9787ACB71FD8C28" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="D6F2AAA546960D936B69E81576D22F71" baseAuthorityName="Coelho" baseAuthorityYear="1985" class="Actinopteri" family="Leuciscidae" genus="Pseudochondrostoma" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Pseudochondrostoma duriense" order="Cypriniformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="duriense">
+<emphasis id="556211AC21F358A2DCB681B803114B2D" italics="true" pageId="0" pageNumber="112217">Pseudochondrostoma duriense</emphasis>
+</taxonomicName>
+(Coelho, 1985)
+</td>
+<td id="76522A97BEA843C26FE78442111E96B1" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Douro nase</td>
+</tr>
+<tr id="A11F76EFAFFF0F5CDFFED8FF72FC1FBC" pageId="0" pageNumber="112217">
+<td id="7D97C94BF4639A513CD89453DEA103B5" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="4D1D437CFE7CFA709EF0514E7DC2E460" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="DBEBE3DC8A0B7315C2AFA2980A948670" baseAuthorityName="Doadrio" baseAuthorityYear="1988" class="Actinopteri" family="Leuciscidae" genus="Squalius" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Squalius carolitertii" order="Cypriniformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="carolitertii">
+<emphasis id="208CA2BA0BEE03579BB7754AC2BF50B6" italics="true" pageId="0" pageNumber="112217">Squalius carolitertii</emphasis>
+</taxonomicName>
+(Doadrio, 1988)
+</td>
+<td id="72733C77171DAF5FF1675697AB389062" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Iberian chub</td>
+</tr>
+<tr id="76DF98448416A232B6E12666E87E95EA" pageId="0" pageNumber="112217">
+<td id="C36A730978D8ADE44D6682C7F3593EE4" colspan="1" pageId="0" pageNumber="112217" rowspan="1">subspecies</td>
+<td id="71BF667A06C4357CF01646776D50EB77" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="AE1C52F4031C5E9A08C4A24EF08FDF81" class="Oligochaeta" family="Naididae" genus="Salmo" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Salmo trutta subsp. fario" order="Tubicida" pageId="0" pageNumber="112217" phylum="Annelida" rank="subSpecies" species="trutta" subSpecies="fario">Salmo trutta subsp. fario</taxonomicName>
+Linnaeus, 1758
+</td>
+<td id="8113D0E7C8A2CB18F03F20FFBE1C0B7F" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Brown trout</td>
+</tr>
+<tr id="506A8974ECAB516BE1F0C4265F39D058" pageId="0" pageNumber="112217">
+<td id="DE2BF8DC450242CF0EEC30EB930B9865" colspan="1" pageId="0" pageNumber="112217" rowspan="1">subspecies</td>
+<td id="BFAA737A3113F478954FDFCAF894DF58" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="B36BBF6AC226B548C8DBE3969284E2D6" authorityName="Linnaeus" authorityYear="1758" class="Oligochaeta" family="Naididae" genus="Salmo" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Salmo trutta subsp. trutta" order="Tubicida" pageId="0" pageNumber="112217" phylum="Annelida" rank="subSpecies" species="trutta" subSpecies="trutta">Salmo trutta subsp. trutta</taxonomicName>
+</td>
+<td id="EB9ED3250BEBE74E4B1B8EF60FCCBB16" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Sea trout</td>
+</tr>
+<tr id="8C42AB3FD502B71AF58BB323D5C9BC4C" pageId="0" pageNumber="112217">
+<td id="7028433400BC9E38DDAFBFC09F61B991" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="260D648222022666B80A086E78E85EE0" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="CB0C329F3E097D2BD7D293C410A65056" authorityName="Risso" authorityYear="1810" class="Actinopteri" family="Atherinidae" genus="Atherina" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Atherina boyeri" order="Atheriniformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="boyeri">
+<emphasis id="B5FD3F46CDAC8661B1D24DBAFD949481" italics="true" pageId="0" pageNumber="112217">Atherina boyeri</emphasis>
+</taxonomicName>
+Risso, 1810
+</td>
+<td id="F019216DC62B5FA23A20D0A730493922" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Sand smelt</td>
+</tr>
+<tr id="6737A0A0189EC8A0E86460A90D10C9B1" pageId="0" pageNumber="112217">
+<td id="8A282813FE987F9823571C6CA63EC852" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="5754BDF4B09206470A289039527A9711" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="AC35E754286B60A94AABFE8C8537E117" baseAuthorityName="Risso" baseAuthorityYear="1810" class="Actinopteri" family="Mugilidae" genus="Chelon" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Chelon auratus" order="Mugiliformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="auratus">
+<emphasis id="427C25377D12C3CC2132118D20C80670" italics="true" pageId="0" pageNumber="112217">Chelon auratus</emphasis>
+</taxonomicName>
+(Risso, 1810)
+</td>
+<td id="D33AF993CECA23616B042AD37DD01ABB" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Golden grey mullet</td>
+</tr>
+<tr id="59D5FF9D100062762880235F9D5CDBBE" pageId="0" pageNumber="112217">
+<td id="1E15284DF8FF4212071CE587AF7105CC" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="9BA89377F6DD55B7CABF6BBD92DC7F61" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="10374B320B19DB52AB3A8EF6C0376D17" baseAuthorityName="Risso" baseAuthorityYear="1827" class="Actinopteri" family="Mugilidae" genus="Chelon" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Chelon labrosus" order="Mugiliformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="labrosus">
+<emphasis id="2DA2E38BE880277C53370CDEA623E1A7" italics="true" pageId="0" pageNumber="112217">Chelon labrosus</emphasis>
+</taxonomicName>
+(Risso, 1827)
+</td>
+<td id="EAED7E136D273FB28EDF3081DBAA65A1" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Thicklip grey mullet</td>
+</tr>
+<tr id="9CB9C3B0F1DE77BFE5C2E0B55456FD83" pageId="0" pageNumber="112217">
+<td id="5877A3A1605E901683752D846279FB7F" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="B2D677F0748944605AC292A2C7F1BF7A" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="A7F0769D0527C78C2FA48A35CA83D611" baseAuthorityName="Risso" baseAuthorityYear="1827" class="Actinopteri" family="Mugilidae" genus="Chelon" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Chelon ramada" order="Mugiliformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="ramada">
+<emphasis id="9BF626D2437524E4DF59C660AF9AE65C" italics="true" pageId="0" pageNumber="112217">Chelon ramada</emphasis>
+</taxonomicName>
+(Risso, 1827)
+</td>
+<td id="73E997E68CEBD123761AE362278D344D" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Thinlip grey mullet</td>
+</tr>
+<tr id="4495CE7503BD96F271235EF18520B136" pageId="0" pageNumber="112217">
+<td id="98344C93E779D05026B676D1D04EF175" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="664FAAB408171410B2CAB8B5461C89FD" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="DF7628B6089CDCAEE04840F0188C3085" authorityName="Linnaeus" authorityYear="1758" class="Actinopteri" family="Mugilidae" genus="Mugil" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Mugil cephalus" order="Mugiliformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="cephalus">
+<emphasis id="33F12EB545D36C7FA9802A131BAF5120" italics="true" pageId="0" pageNumber="112217">Mugil cephalus</emphasis>
+</taxonomicName>
+Linnaeus, 1758
+</td>
+<td id="D7F15FB60E44AEEC7AAA71144DD7D538" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Flathead grey mullet</td>
+</tr>
+<tr id="106E38E6B232BD18AEF66A6C6487B76F" pageId="0" pageNumber="112217">
+<td id="C4CC61B163A820E48D55411817A55D8A" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="676838C797293BF3E55943261486B3C0" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="CC50B8A012A8224029FCD48106932AF8" authorityName="Linnaeus" authorityYear="1758" class="Actinopteri" family="Gasterosteidae" genus="Gasterosteus" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Gasterosteus aculeatus" order="Perciformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="aculeatus">
+<emphasis id="8433D7369C2437126C43E681B9AF9A22" italics="true" pageId="0" pageNumber="112217">Gasterosteus aculeatus</emphasis>
+</taxonomicName>
+Linnaeus, 1758
+</td>
+<td id="3417C7285627562E2A59305F9DD22A16" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Three-spined stickleback</td>
+</tr>
+<tr id="77DEE49DE91E6908C9253AD3A5511670" pageId="0" pageNumber="112217">
+<td id="E49D26CEED1E92AF1C2AD67E492A92A3" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="6D995E1CF6BECBDAE11B7DC819570B0C" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="5BBA46BCA3EEA33CB04E3C3794EBB533" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Actinopteri" family="Lumpenidae" genus="Dicentrarchus" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Dicentrarchus labrax" order="Perciformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="labrax">
+<emphasis id="A9CAE1EC97D7D0EA832B0A00BDF0746E" italics="true" pageId="0" pageNumber="112217">Dicentrarchus labrax</emphasis>
+</taxonomicName>
+(Linnaeus, 1758)
+</td>
+<td id="1EF682181E8F153530FFDE755DF0471C" colspan="1" pageId="0" pageNumber="112217" rowspan="1">European seabass</td>
+</tr>
+<tr id="F9554D12ABF1EEAE217418645471615D" pageId="0" pageNumber="112217">
+<td id="F31F9E453F1FA489FAA858E48BC5AFF5" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="94C026D613740F747322105185FBEEE3" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="C0E52DEB78BD614D5FC68A93643CE787" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Actinopteri" family="Pleuronectidae" genus="Platichthys" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Platichthys flesus" order="Pleuronectiformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="flesus">
+<emphasis id="36727F461F83651FF4F0DFF176120D2C" italics="true" pageId="0" pageNumber="112217">Platichthys flesus</emphasis>
+</taxonomicName>
+(Linnaeus, 1758)
+</td>
+<td id="AEF72FD886BD76B382C41C37A00F5239" colspan="1" pageId="0" pageNumber="112217" rowspan="1">European flounder</td>
+</tr>
+<tr id="A85498DDEDEA0A4383BC4132F54F3F80" pageId="0" pageNumber="112217">
+<td id="F72A823A5848FE824D290F2480D9D040" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="FB60508759C771948929B39A8361263A" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="2335B4CB8152880EC0237288F1BD2A08" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Actinopteri" family="Centrarchidae" genus="Lepomis" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Lepomis gibbosus" order="Centrarchiformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="gibbosus">
+<emphasis id="56D017C9DF2308D0BDBA0E013D3F8AE5" italics="true" pageId="0" pageNumber="112217">Lepomis gibbosus</emphasis>
+</taxonomicName>
+(Linnaeus, 1758)
+</td>
+<td id="C08FC4726378ED05C6612B6D55B7A259" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Pumpkinseed</td>
+</tr>
+<tr id="FBB3EAF5AA54B39698320E62DE053388" pageId="0" pageNumber="112217">
+<td id="592D7DD55ACD6D22AF21F255E8827914" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="A0DE6B6F5E519F6CB3D326DF1E38F73C" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="8C85FEFD1A18E04D869C0CBE13799BCF" baseAuthorityName="Lacepede" baseAuthorityYear="1802" class="Oligochaeta" family="Naididae" genus="Micropterus" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Micropterus salmoides" order="Tubicida" pageId="0" pageNumber="112217" phylum="Annelida" rank="species" species="salmoides">
+<emphasis id="38B95555B85A06685963F166B06ECCBB" italics="true" pageId="0" pageNumber="112217">Micropterus salmoides</emphasis>
+</taxonomicName>
+(
+<normalizedToken id="656F341313D78506BF6A82A1192FD55A" originalValue="Lacepède">Lacepede</normalizedToken>
+, 1802)
+</td>
+<td id="7C7F31E7CF4DBD72FF5FEC0DA45B1EA8" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Largemouth bass</td>
+</tr>
+<tr id="DBDDF3F23CCC314495A1596FD39EA2CA" pageId="0" pageNumber="112217">
+<td id="7979A687ACB61CACED697B0A85D74A0C" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="83C43BBFC60AEBD1E8ED650273337E88" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="17603E5D83EA83486821DCCFB48EBA3D" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Actinopteri" family="Tincidae" genus="Tinca" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Tinca tinca" order="Cypriniformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="tinca">
+<emphasis id="B16B6C5C72B268DA8DB43C23229C69AF" italics="true" pageId="0" pageNumber="112217">Tinca tinca</emphasis>
+</taxonomicName>
+(Linnaeus, 1758)
+</td>
+<td id="1E15516FFAD02B6A785719777995DDCC" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Tench</td>
+</tr>
+<tr id="F111C348F9796BFB33AD2164E6591C80" pageId="0" pageNumber="112217">
+<td id="867735495824145D0078AE8F4329EC11" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="00005AD76E89F27885AA19C41B474673" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="5D48244A9C4FCDEF2B9A168BD16A4836" authorityName="Doadrio &amp; Madeira" authorityYear="2004" family="Cyprinidae" genus="Gobio" kingdom="Animalia" lsidName="Gobio lozanoi" order="Cypriniformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="lozanoi">
+<emphasis id="23D2A52CABD7C6E074A5D2485114EFE0" italics="true" pageId="0" pageNumber="112217">Gobio lozanoi</emphasis>
+</taxonomicName>
+Doadrio &amp; Madeira, 2004
+</td>
+<td id="F9690CBB3CDCE3C4ED33C7B75F6E052C" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Iberian gudgeon</td>
+</tr>
+<tr id="31A3D88D055481BDDD1270218DE6E109" pageId="0" pageNumber="112217">
+<td id="92EE7FDAAB8AF1A846A56C2D96424099" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="6D261885D6437B3790E5570DD7E91E48" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="24F492DFD5BF9423FC262331B40F7562" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Oligochaeta" family="Naididae" genus="Carassius" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Carassius auratus" order="Tubicida" pageId="0" pageNumber="112217" phylum="Annelida" rank="species" species="auratus">
+<emphasis id="A6C5252807E14E42C6A2E72C57A863CA" italics="true" pageId="0" pageNumber="112217">Carassius auratus</emphasis>
+</taxonomicName>
+(Linnaeus, 1758)
+</td>
+<td id="C1A3C73062D1A804F56D20C49095E829" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Goldfish</td>
+</tr>
+<tr id="B03A74B56E61991B21E37F9905A7A928" pageId="0" pageNumber="112217">
+<td id="EC40320019F6E37DFE68FA6824A8D0E8" colspan="1" pageId="0" pageNumber="112217" rowspan="1">species</td>
+<td id="FCAD9C47C4CB9D473D658A257F543187" colspan="1" pageId="0" pageNumber="112217" rowspan="1">
+<taxonomicName id="508D8E396FDF93F7FB6066B670504572" authorityName="Linnaeus" authorityYear="1758" class="Oligochaeta" family="Naididae" genus="Cyprinus" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Cyprinus carpio" order="Tubicida" pageId="0" pageNumber="112217" phylum="Annelida" rank="species" species="carpio">
+<emphasis id="6B49F809A1890F0D64C25AB5E4F8FF85" italics="true" pageId="0" pageNumber="112217">Cyprinus carpio</emphasis>
+</taxonomicName>
+Linnaeus, 1758
+</td>
+<td id="0F34072C40D53993AE4F61BF4CA66762" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Common carp</td>
+</tr>
+</table>
+</paragraph>
+</subSection>
+<subSection id="AA142B5383F6F47869CF1F11E8F1AD48" pageId="0" pageNumber="112217" type="temporal coverage">
+<paragraph id="B0AEC6CA5B49E5830099D43FA7DB7D4E" pageId="0" pageNumber="112217">Temporal coverage</paragraph>
+<paragraph id="D82F468B33122281AC15B0FA28C45F24" pageId="0" pageNumber="112217">
+<emphasis id="62CD5922BA7386D923125692AEAB3207" bold="true" pageId="0" pageNumber="112217">Data range:</emphasis>
+2010-1-05 - 2019-11-12.
+</paragraph>
+<paragraph id="0BF26DB3EFC028ED13964502A015375A" pageId="0" pageNumber="112217">Notes</paragraph>
+<paragraph id="B2097ED59C32BCFC10DB958101CB2342" pageId="0" pageNumber="112217">
+Sampling was performed on average every 6 days (5.7 
+<normalizedToken id="F20B173DF44FF57D224D18B67FC0F11A" originalValue="±">+/-</normalizedToken>
+3.6) throught the study period, from January 2010 to November 2019. The interval between events was not constant and gaps of some days occurred, averaging 1.9 
+<normalizedToken id="9C31DB026FC534A7662FA67C1B5A219C" originalValue="±">+/-</normalizedToken>
+3.5 (mean 
+<normalizedToken id="CF9D722F2EBB48440220A0E0811B616C" originalValue="±">+/-</normalizedToken>
+SD) days, with a minumum of 0 and a maximum of 34 days (Fig. 
+<figureCitation id="632A6B70F480F9D67BE5DF7D3819F33D" captionStart="Figure 3" captionStartId="F9976359" captionText="Figure 3. Days when samples were collected in the study area (Lenta Marina) in the Minho Estuary (i. e. days when fyke net (s) were underwater). Grey = fyke net (s) deployed; white = no fyke net deployed." figureDoi="10.3897/BDJ.12.e112217.figure3" httpUri="https://binary.pensoft.net/fig/949337" pageId="0" pageNumber="112217">3</figureCitation>
+).
+</paragraph>
+</subSection>
+<subSection id="261A5F4682158507A53218376C668FF5" pageId="0" pageNumber="112217" type="usage licence">
+<paragraph id="D53FB3DB6EF34548E65958630F4CECB8" pageId="0" pageNumber="112217">Usage licence</paragraph>
+<paragraph id="A59241CDCC7C3B5ABAB1B66C11946C6A" pageId="0" pageNumber="112217">Usage licence</paragraph>
+<paragraph id="7FAC51EE73A82A9FEE49CF5C98B4D0C9" pageId="0" pageNumber="112217">Other</paragraph>
+<paragraph id="256F3C9BAB656C07D2CB2B7E25B3DE63" pageId="0" pageNumber="112217">IP rights notes</paragraph>
+<paragraph id="3AF54D28D8243F3B0A1267315F942C92" pageId="0" pageNumber="112217">CC BY 4.0</paragraph>
+</subSection>
+<subSection id="ADB9AE5D15DBCF0ADE93EB89F4A94E57" pageId="0" pageNumber="112217" type="data resources">
+<paragraph id="A12AFC63C3F7E78651DA0DB950789DFB" pageId="0" pageNumber="112217">Data resources</paragraph>
+<paragraph id="FC21978AB9040D5D01C29F6436057ABA" pageId="0" pageNumber="112217">Data package title</paragraph>
+<paragraph id="EEE2FADD0A093F50C51F553CA8B1B4EC" pageId="0" pageNumber="112217">Long-term monitoring of the fish community in the Minho Estuary (NW Iberian Peninsula)</paragraph>
+<paragraph id="4DA528640FDD2BDD6908ECA4F0083A66" pageId="0" pageNumber="112217">Resource link</paragraph>
+<paragraph id="67C8B47A9AFC0E7D4800A43EED26D217" pageId="0" pageNumber="112217">https://doi.org/10.5281/zenodo.10321946</paragraph>
+<paragraph id="183718B5148EB9028C986E806A8EDB0B" pageId="0" pageNumber="112217">Number of data sets</paragraph>
+<paragraph id="279DBE30A1BA8706D15640CF8998905A" pageId="0" pageNumber="112217">1</paragraph>
+<paragraph id="BD6A9E383C6D1A6A77FE04B9F2DE48BB" pageId="0" pageNumber="112217">Data set 1.</paragraph>
+<paragraph id="88CB6FB31B29C9548283FC41F93D85B0" pageId="0" pageNumber="112217">Data set name</paragraph>
+<paragraph id="7F1E16BBAF9C973DF039DD6A715D6B8A" pageId="0" pageNumber="112217">Long-term monitoring of the fish community in the Minho Estuary (NW Iberian Peninsula)</paragraph>
+<paragraph id="8975734CF9F76BE7A216845B99CB68BC" pageId="0" pageNumber="112217">Data format</paragraph>
+<paragraph id="3F39BAF4ED51FC5F9117DED81225683B" pageId="0" pageNumber="112217">TSV</paragraph>
+<paragraph id="D80B40EB27988357B21F9EF789DCE7E1" pageId="0" pageNumber="112217">Download URL</paragraph>
+<paragraph id="D35AEF074DC3F77D3AD356298182B10B" pageId="0" pageNumber="112217">https://zenodo.org/records/10321946/files/DATASET_long-term-estuarine-fish_20231209_V05.tsv</paragraph>
+<paragraph id="7065B965F362E7A61B5AD51F33BEBEF5" pageId="0" pageNumber="112217">Description</paragraph>
+<paragraph id="F59505C412B185E468FE10177D4C1386" pageId="0" pageNumber="112217">
+The dataset contains data from fyke nets deployed in the Minho Estuary (Portugal) from 2010 to 2019. The sampling frequency varied but, on average, data were collected using up to five different fyke nets. However, due to technical issues, the sampling pattern was not constant, with some fyke nets staying underwater for shorter or longer periods and occasionally having a variable number of fyke nets per event. The dataset includes 34 terms that follow Darwin Core standard (
+<bibRefCitation id="F26256EBC0C9B3E62612529565A4D885" author="Group, Darwin Core Maintenance" journalOrPublisher="Biodiversity Information Standards (TDWG)" pageId="0" pageNumber="112217" refId="B9976263" refString="Group, Darwin Core Maintenance, 2021. List of Darwin Core terms. Biodiversity Information Standards (TDWG)" title="List of Darwin Core terms" year="2021">Darwin Core Maintenance Group 2021</bibRefCitation>
+) whenever possible. These terms provide detailed information about the sampled organisms and their taxonomic classification. The dataset offers valuable insights into the biodiversity dynamics of the Minho Estuary ecosystem during the specific time period.
+</paragraph>
+<caption id="1B05A7B805C93D3539CBFED3183887A8" ID-Table-UUID="1B05A7B805C93D3539CBFED3183887A8" httpUri="http://table.plazi.org/id/1B05A7B805C93D3539CBFED3183887A8" pageId="0" pageNumber="112217" start="Data set 1" startId="DS1">
+<paragraph id="1B368B95F79B14364BA34099BC313079" pageId="0" pageNumber="112217">
+<emphasis id="BA806E2872942BEDBBB7DE756BD40AF0" bold="true" pageId="0" pageNumber="112217">Data set 1.</emphasis>
+</paragraph>
+</caption>
+<paragraph id="092107ECEA68FE0D9CB21481449A2772" pageId="0" pageNumber="112217">
+<table id="C87995C116BECBB563C857D6C6E09B4F" pageId="0" pageNumber="112217">
+<tr id="77B2C547C966C799B5F3C4C783F3937C" pageId="0" pageNumber="112217">
+<thead id="367CCF9E1A6532E32BD0BC556AB6ACEE" pageId="0" pageNumber="112217">
+<th id="4E826A269A0A2522C4FF7077A90AF8B4" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Column label</th>
+<th id="8117D60ABAC8CE02881AFCA91E6FC118" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Column description</th>
+</thead>
+</tr>
+<tr id="7FC6A4325377EE8C6F6133A13A37BAD6" pageId="0" pageNumber="112217">
+<td id="831AF9562EF3565DF131B4B8D166CDC8" colspan="1" pageId="0" pageNumber="112217" rowspan="1">parentEventID</td>
+<td id="28E240E7875FBFB133F304EFA345C5E0" colspan="1" pageId="0" pageNumber="112217" rowspan="1">An identifier for the broader dwc:Event that groups this and potentially other dwc:Events.</td>
+</tr>
+<tr id="8C069B34C2BF1837EA6368D92E7FCE51" pageId="0" pageNumber="112217">
+<td id="68723F303F7F8044F6000F43AA29204D" colspan="1" pageId="0" pageNumber="112217" rowspan="1">eventID</td>
+<td id="2449C94CF2DA47717A4D832F432EB3D1" colspan="1" pageId="0" pageNumber="112217" rowspan="1">An identifier for the set of information associated with an Event (something that occurs at a place and time). May be a global unique identifier or an identifier specific to the dataset.</td>
+</tr>
+<tr id="AC3D3084CB2FD1C3DD0A8802DE721DB6" pageId="0" pageNumber="112217">
+<td id="82B60C650A56562B1C20AD3E91BF7F87" colspan="1" pageId="0" pageNumber="112217" rowspan="1">eventDate</td>
+<td id="E5B3A60B8A20E87A6A6F6A7F67ECC2CE" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The date-time or interval during which an Event occurred. For occurrences, this is the date-time when the event was recorded. Not suitable for a time in a geological context.</td>
+</tr>
+<tr id="BBACC57123A2AA2854B83F9E6ECA16D8" pageId="0" pageNumber="112217">
+<td id="0BCF4B973FEF4E7EC83E28277FD4CD22" colspan="1" pageId="0" pageNumber="112217" rowspan="1">year</td>
+<td id="225B713DEF58580D34F4AC87AEAE3DF3" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The four-digit year in which the dwc:Event occurred, according to the Common Era Calendar.</td>
+</tr>
+<tr id="2604F154C2679678AD45FEA4CAE253DA" pageId="0" pageNumber="112217">
+<td id="CF937D56062774FC55C7DAC7EC74BA02" colspan="1" pageId="0" pageNumber="112217" rowspan="1">startDayOfYear</td>
+<td id="29319923F3629B46AF6E58F4953A6E9F" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The earliest integer day of the year on which the dwc:Event occurred (1 for January 1, 365 for December 31, except in a leap year, in which case it is 366).</td>
+</tr>
+<tr id="B7176323D6F13B79471476368B10A7F1" pageId="0" pageNumber="112217">
+<td id="2F8DDCB3374F29721D5BE06C314A8F86" colspan="1" pageId="0" pageNumber="112217" rowspan="1">endDayOfYear</td>
+<td id="F46FFE3681F980B0AA507A96D21154CC" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The latest integer day of the year on which the dwc:Event occurred (1 for January 1, 365 for December 31, except in a leap year, in which case it is 366).</td>
+</tr>
+<tr id="D4A54146D95B2F77B84622BDFA807D18" pageId="0" pageNumber="112217">
+<td id="384652CF3246370271DE7DECC6A924AD" colspan="1" pageId="0" pageNumber="112217" rowspan="1">country</td>
+<td id="BE544E2E0E40D1E2E725F1DFBCE9196F" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The name of the country or major administrative unit in which the dcterms:Location occurs.</td>
+</tr>
+<tr id="7F45398BC61FFAEDFE3E7F4BA21E5543" pageId="0" pageNumber="112217">
+<td id="9BC57B0086BA00403C14E2FB82B6635E" colspan="1" pageId="0" pageNumber="112217" rowspan="1">countryCode</td>
+<td id="7B74A558D7B3E74A11F03F1406A2A8E5" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The standard code for the country in which the dcterms:Location occurs.</td>
+</tr>
+<tr id="23744A73C29767E464FF914208A35EB8" pageId="0" pageNumber="112217">
+<td id="5920788D76DC2DD9D52565A653884742" colspan="1" pageId="0" pageNumber="112217" rowspan="1">geodeticDatum</td>
+<td id="D93726FF9575E17DE09889BA5A41D0A3" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The ellipsoid, geodetic datum or spatial reference system (SRS) upon which the geographic coordinates given in dwc:decimalLatitude and dwc:decimalLongitude are based.</td>
+</tr>
+<tr id="C8481E3E250F31226234FD8BB9E7609E" pageId="0" pageNumber="112217">
+<td id="A549D6238E21B689108305005725FD04" colspan="1" pageId="0" pageNumber="112217" rowspan="1">decimalLatitude</td>
+<td id="73855CC3E46C1CB193CE060DF29460A7" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The geographic latitude (in decimal degrees, using the spatial reference system given in geodeticDatum) of the geographic centre of a Location. Positive values are north of the Equator, negative values are south of it. Legal values lie between -90 and 90, inclusive.</td>
+</tr>
+<tr id="855C976931955B9081D7D3FF21FCD1F8" pageId="0" pageNumber="112217">
+<td id="4D7F16716AEF389C0DF9234CB68EBDDD" colspan="1" pageId="0" pageNumber="112217" rowspan="1">decimalLongitude</td>
+<td id="E0A7441A3AA37C3A84D62494BA822E6C" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The geographic longitude (in decimal degrees, using the spatial reference system given in geodeticDatum) of the geographic centre of a Location. Positive values are east of the Greenwich Meridian, negative values are west of it. Legal values lie between -180 and 180, inclusive.</td>
+</tr>
+<tr id="5DE2ED8BCACB7566BACFB0BA5ABFB28F" pageId="0" pageNumber="112217">
+<td id="480404A54F39763B6CEE0334435C30C0" colspan="1" pageId="0" pageNumber="112217" rowspan="1">coordinateUncertaintyInMeters</td>
+<td id="F6D6005F20E6ED2D3400BB1830336C67" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The horizontal distance (in meters) from the given dwc:decimalLatitude and dwc:decimalLongitude describing the smallest circle containing the whole of the dcterms:Location. Leave the value empty if the uncertainty is unknown, cannot be estimated or is not applicable (because there are no coordinates).</td>
+</tr>
+<tr id="AB0770BCDC57A00B11FFBE73B4D8BA80" pageId="0" pageNumber="112217">
+<td id="7C0032A31A765734D219A6E0899F7F92" colspan="1" pageId="0" pageNumber="112217" rowspan="1">DEIMS.iD</td>
+<td id="4B202F260999F87C6BE39192FD8F9631" colspan="1" pageId="0" pageNumber="112217" rowspan="1">Unique alpha-numeric identifier of the site. The DEIMS-ID is automatically generated by DEIMS-SDR and adds the deims.org url as a prefix.</td>
+</tr>
+<tr id="2400B8FB62C8AABF5A908824875FAA76" pageId="0" pageNumber="112217">
+<td id="F5BE6A3EF5731C1961393AF3D1EEEC38" colspan="1" pageId="0" pageNumber="112217" rowspan="1">habitat</td>
+<td id="5D79DBB64A286E3D858D70DD0AC836FC" colspan="1" pageId="0" pageNumber="112217" rowspan="1">A category or description of the habitat in which the Event occurred.</td>
+</tr>
+<tr id="4E75AE33AB079D652277638AABA0F3CA" pageId="0" pageNumber="112217">
+<td id="C09825C736EC6FD2D4863ABC71E88673" colspan="1" pageId="0" pageNumber="112217" rowspan="1">basisOfRecord</td>
+<td id="322C05ED82A61CE2AA3EFC3CB9DC0CF7" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The specific nature of the data record.</td>
+</tr>
+<tr id="B62574E2B1A4E425728C915CFCAA9503" pageId="0" pageNumber="112217">
+<td id="7C4C6BB4DDF0BDF63BF6F632C399B0CC" colspan="1" pageId="0" pageNumber="112217" rowspan="1">samplingProtocol</td>
+<td id="3D119FDF1D6E2892176B41F5FC5481B3" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The names of, references to, or descriptions of the methods or protocols used during an Event.</td>
+</tr>
+<tr id="B6F0E27D709ED59FF9A3FB293CA7E47E" pageId="0" pageNumber="112217">
+<td id="778FA8446D70A5A6268715822E766807" colspan="1" pageId="0" pageNumber="112217" rowspan="1">sampleSizeValue</td>
+<td id="7F23CCF986E4EFF9EA0E0AAA0EA61CB7" colspan="1" pageId="0" pageNumber="112217" rowspan="1">A numeric value for a measurement of the size (time duration, length, area or volume) of a sample in a sampling event.</td>
+</tr>
+<tr id="E8ABAC0668718EF28281BA52E437182F" pageId="0" pageNumber="112217">
+<td id="A616574EFA87899F0823213BD6E7BDEA" colspan="1" pageId="0" pageNumber="112217" rowspan="1">sampleSizeUnit</td>
+<td id="8B680C834B9B7D33CE98821AD7017ACA" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The unit of measurement of the size (time duration, length, area or volume) of a sample in a sampling event.</td>
+</tr>
+<tr id="58630888C78D19D9349C4E899A32A6C5" pageId="0" pageNumber="112217">
+<td id="2C627FAADD601FC816D9F96ECB9BAD3E" colspan="1" pageId="0" pageNumber="112217" rowspan="1">samplingEffort</td>
+<td id="D44FD0BC71914AA122F1DF7C2F6871AE" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The amount of effort expended during a dwc:Event.</td>
+</tr>
+<tr id="AEF40059417F8288180C9DBB64A123A6" pageId="0" pageNumber="112217">
+<td id="781028E1AABD7B7E9A818148E2105A5E" colspan="1" pageId="0" pageNumber="112217" rowspan="1">occurrenceStatus</td>
+<td id="26E1D2F11F33A4E1A06436A9C55F5D4F" colspan="1" pageId="0" pageNumber="112217" rowspan="1">A statement about the presence or absence of a dwc:Taxon at a dcterms:Location.</td>
+</tr>
+<tr id="311D1961ED6CEC2EA50F826C0DC9F488" pageId="0" pageNumber="112217">
+<td id="EF82131BEA805F4EC1FA97F7E614F8CD" colspan="1" pageId="0" pageNumber="112217" rowspan="1">occurrenceID</td>
+<td id="95793C4FF9672C27837396AAB3992099" colspan="1" pageId="0" pageNumber="112217" rowspan="1">An identifier for the dwc:Occurrence (as opposed to a particular digital record of the dwc:Occurrence). In the absence of a persistent global unique identifier, construct one from a combination of identifiers in the record that will most closely make the dwc:occurrenceID globally unique.</td>
+</tr>
+<tr id="29757FC461ACD424D004D0CEBA9834A3" pageId="0" pageNumber="112217">
+<td id="3009106665CFABF0819CC2ED4A25EB84" colspan="1" pageId="0" pageNumber="112217" rowspan="1">organismQuantity</td>
+<td id="47D97A488FD1E8AE5FD40D808C61297F" colspan="1" pageId="0" pageNumber="112217" rowspan="1">A number or enumeration value for the quantity of organisms.</td>
+</tr>
+<tr id="C8EC31ABB8A68D4402CE562849CD46B0" pageId="0" pageNumber="112217">
+<td id="95FF6DD8E59E83A2C69DB0C228F44B0A" colspan="1" pageId="0" pageNumber="112217" rowspan="1">organismQuantityType</td>
+<td id="B2D44CCBB4FA0F125F28142735ADC4ED" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The type of quantification system used for the quantity of organisms.</td>
+</tr>
+<tr id="DEAE140D39348DEBCCF76956C5B6FC48" pageId="0" pageNumber="112217">
+<td id="6669E22CD0BC324E6B69F7562279C980" colspan="1" pageId="0" pageNumber="112217" rowspan="1">degreeOfEstablishment</td>
+<td id="9DE34BB7BE2CF2BA912A4929BA1E4497" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The degree to which an Organism survives, reproduces and expands its range at the given place and time.</td>
+</tr>
+<tr id="F4A92DB003337494C4022E78FC4ED64B" pageId="0" pageNumber="112217">
+<td id="661576D446BE1C00D13F22EC7150F233" colspan="1" pageId="0" pageNumber="112217" rowspan="1">vernacularName</td>
+<td id="1953C82E5D17BDA434623B560C55E5FE" colspan="1" pageId="0" pageNumber="112217" rowspan="1">A common or vernacular name.</td>
+</tr>
+<tr id="61FF94CB5F0DA82A15CEB314341CB75E" pageId="0" pageNumber="112217">
+<td id="F64ED79E1B4FDCAAD38F575C7F55FF60" colspan="1" pageId="0" pageNumber="112217" rowspan="1">scientificName</td>
+<td id="1BEF8DCB1397563A76995959AC5A0F0C" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The full scientific name, with authorship and date information, if known. When forming part of an Identification, this should be the name in lowest level taxonomic rank that can be determined. This term should not contain identification qualifications, which should instead be supplied in the IdentificationQualifier term.</td>
+</tr>
+<tr id="C11FE2FB25513263AEFA8338EE276EB1" pageId="0" pageNumber="112217">
+<td id="F398646A73CA6530F1E467A642B4F630" colspan="1" pageId="0" pageNumber="112217" rowspan="1">acceptedNameUsageID</td>
+<td id="EB579ED4282C65101C9CE656290C521B" colspan="1" pageId="0" pageNumber="112217" rowspan="1">An identifier for the name usage (documented meaning of the name according to a source) of the currently valid (zoological) or accepted (botanical) taxon.</td>
+</tr>
+<tr id="EB63427021BDE3CD8F954B7BB7CDC695" pageId="0" pageNumber="112217">
+<td id="8F0C4797BF313B410D5C636BC6E86633" colspan="1" pageId="0" pageNumber="112217" rowspan="1">taxonRank</td>
+<td id="B64F95DB8007ADA0C91516C599CDC04F" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The taxonomic rank of the most specific name in the scientificName.</td>
+</tr>
+<tr id="28575E8E5B3CFA6CF8AB86DA39603F98" pageId="0" pageNumber="112217">
+<td id="2F49B3174EC71271EEF72D2877560EC0" colspan="1" pageId="0" pageNumber="112217" rowspan="1">kingdom</td>
+<td id="E4D0DE8CD9AFE6653A75342466E15EA0" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The full scientific name of the kingdom in which the taxon is classified.</td>
+</tr>
+<tr id="A313B165C8BF64FD85631ABFF0D3562E" pageId="0" pageNumber="112217">
+<td id="12143D53FC00BEA0FC49B7390B83CA18" colspan="1" pageId="0" pageNumber="112217" rowspan="1">phylum</td>
+<td id="95A2767C91A4EE00D048D950093616ED" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The full scientific name of the phylum or division in which the taxon is classified.</td>
+</tr>
+<tr id="744CCEAE30F8564602C81ECB61D31E1A" pageId="0" pageNumber="112217">
+<td id="EC11265706860099084508F357137325" colspan="1" pageId="0" pageNumber="112217" rowspan="1">order</td>
+<td id="8DB85E3A608DA429F85E0489D4883BF9" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The full scientific name of the order in which the taxon is classified.</td>
+</tr>
+<tr id="A4066C42C1602D07F16BE12DF723241F" pageId="0" pageNumber="112217">
+<td id="203F14EAAB69E77E0E39285EBA12083C" colspan="1" pageId="0" pageNumber="112217" rowspan="1">family</td>
+<td id="81A9521060CFCEA9CCB0DF806125AC32" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The full scientific name of the family in which the taxon is classified.</td>
+</tr>
+<tr id="7201FF384F0CBE770C8383905B10E3B4" pageId="0" pageNumber="112217">
+<td id="5D169A89E4E67268DD2F786D802D123A" colspan="1" pageId="0" pageNumber="112217" rowspan="1">genus</td>
+<td id="1DF4C90F1F984BA92AE5B8E4C4ADCC9A" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The full scientific name of the genus in which the taxon is classified.</td>
+</tr>
+<tr id="F85CD40D322CD261FA2D4FECAF49B3AD" pageId="0" pageNumber="112217">
+<td id="79778467483FC7494A4E06AD27E054D3" colspan="1" pageId="0" pageNumber="112217" rowspan="1">scientificNameAuthorship</td>
+<td id="86F2986C8BBE63F1E6DCBE577B9CFA3A" colspan="1" pageId="0" pageNumber="112217" rowspan="1">The authorship information for the scientificName formatted according to the conventions of the applicable nomenclaturalCode.</td>
+</tr>
+</table>
+</paragraph>
+</subSection>
+<subSection id="D7F98F954354193E68F31FD2C68CDA35" pageId="0" pageNumber="112217" type="additional information">
+<paragraph id="4FC2AEEF158FB50D68EBA6CC4CCA0205" pageId="0" pageNumber="112217">Additional information</paragraph>
+<paragraph id="359AF0523B01590569A790C4AF8CADEE" pageId="0" pageNumber="112217">All sampling procedures were conducted in accordance with the European Directive 2010/63/EU on the protection of animals used for scientific purposes and its transposition into Portuguese law, &quot;Decreto Lei&quot; 113/2013.</paragraph>
+</subSection>
+<subSection id="12A70596AFD515F556CCE3FB54D67D6F" pageId="0" pageNumber="112217" type="acknowledgements">
+<paragraph id="11D0B86D43A4506887639572CA9617F8" pageId="0" pageNumber="112217">Acknowledgements</paragraph>
+<paragraph id="1A7AB68ABC8E4C3016D0D072685E637A" pageId="0" pageNumber="112217">
+The authors would like to thank Eduardo Martins, Diogo Novais, 
+<normalizedToken id="FE95B849C738A80434EF6672C50E9E92" originalValue="Patrício">Patricio</normalizedToken>
+<normalizedToken id="011B117A584AA73934FFEDB9C5D17C3C" originalValue="Bouça">Bouca</normalizedToken>
+and Mafalda Fernandes for their collaboration in the fieldwork. ED and MII acknowledge support from FCT through the Strategic Funding to CIIMAR (UIDB/04423/2020 and UIDP/04423/2020) and research contracts to ED (DL57/2016/CP1344/CT0021) and MII (DL57/2016/CP1344/CT0018). This study has received funding from the European Union's Horizon Europe Research and Innovation Programme under grant agreement No 101057437 (BioDT project, https://doi.org/10.3030/101057437). Views and opinions expressed are those of the author(s) only and do not necessarily reflect those of the European Union or the European Commission. Neither the European Union nor the European Commission can be held responsible for them. This project has received funding from the European Union's Horizon 2020 Research and Innovation Programme under grant agreement No 871128 (eLTER PLUS). Open access funded by Helsinki University Library.
+</paragraph>
+</subSection>
+<subSection id="8316493F20C95E100E1E8525F51463A3" pageId="0" pageNumber="112217" type="author contributions">
+<paragraph id="24A18EC5A0394BE847F7AF56A03E35B7" pageId="0" pageNumber="112217">Author contributions</paragraph>
+<paragraph id="CC9C8AC585CE54E131E3395630CE6234" pageId="0" pageNumber="112217">The authors have contributed to this data paper according to the following CRediT statements.</paragraph>
+<paragraph id="871CCAE90EA334958D8DFA94E58FEAD4" pageId="0" pageNumber="112217">Conceptualisation: CA</paragraph>
+<paragraph id="FEF66B79032A352F1D34147A25891093" pageId="0" pageNumber="112217">Data curation: ATS, MII</paragraph>
+<paragraph id="3E20FF5474E10DF8B689DB83C917CAB5" pageId="0" pageNumber="112217">Formal analysis: ATS, MII</paragraph>
+<paragraph id="6CD93DD51155DCCB8FA08DBA767A4D16" pageId="0" pageNumber="112217">Funding acquisition: CA</paragraph>
+<paragraph id="CA2B605C116E0271B9AE52FA4713C923" pageId="0" pageNumber="112217">Investigation: ACB, AL, AM, AR, ARC, CA, MJA, MHC, MM</paragraph>
+<paragraph id="FCD3C897EA570ADAA5B466ABACACCA56" pageId="0" pageNumber="112217">Methodology: CA</paragraph>
+<paragraph id="07A8DFCA8B6A13A63F71D5DF58672C11" pageId="0" pageNumber="112217">Project administration: CA</paragraph>
+<paragraph id="A10C1EA922FB548BA318EFF0B740AC22" pageId="0" pageNumber="112217">Resources: CA</paragraph>
+<paragraph id="6908D48219FA867BB2AA632272368A72" pageId="0" pageNumber="112217">Software: ATS, MII</paragraph>
+<paragraph id="7E0993CB34A5E798D80401D142937B7D" pageId="0" pageNumber="112217">Supervision: CA</paragraph>
+<paragraph id="3C7221608CDA836210F7583454D970AA" pageId="0" pageNumber="112217">Validation: ATS, MII</paragraph>
+<paragraph id="897462EA68C837A2FAEC8DCC674D5EB2" pageId="0" pageNumber="112217">Visualisation: ATS, MII</paragraph>
+<paragraph id="E5E3104FC6FCA802F3FA88EECB3A3786" pageId="0" pageNumber="112217">Writing - original draft: ATS, MII</paragraph>
+<paragraph id="A9E8DB29D70BF35C8F75EE16724AC284" pageId="0" pageNumber="112217">Writing - review &amp; editing: ATS, CA, ED, MII</paragraph>
+</subSection>
+<subSection id="36E1568B7C6487258C485FE83B9BDAD8" pageId="0" pageNumber="112217" type="reference_group">
+<paragraph id="A0BE28A76705DE8933B1580DC673E166" pageId="0" pageNumber="112217">References</paragraph>
+<paragraph id="4CABF71D4415540C87290C4E2AB5DC97" pageId="0" pageNumber="112217">
+<bibRef id="46E40DF006A76DD9EC9616A51972D5D2" author="Alves, A" journalOrPublisher="http: // repositorium. sdum. uminho. pt / (February 27, 2023)" pageId="0" pageNumber="112217" refId="B9975576" title="Causas e Processos da Dinamica Sedimentar na Evolucao Actual do Litoral do Alto Minho" year="1996">
+<author id="9DF1F8884F2A36091810021F124681A0" pageId="0" pageNumber="112217">Alves, A</author>
+, 
+<year id="E5B4232486434188CAC571C58C4F24A9" pageId="0" pageNumber="112217">1996</year>
+. 
+<title id="210722AE5615016F9EE351E92BF9F506" pageId="0" pageNumber="112217">
+Causas e Processos da 
+<normalizedToken id="AD58EC3A0CA37BA6F51B334D3202A054" originalValue="Dinâmica">Dinamica</normalizedToken>
+Sedimentar na 
+<normalizedToken id="ACFAA39CFC4BC652CB3BC932FDA5A56A" originalValue="Evolução">Evolucao</normalizedToken>
+Actual do Litoral do Alto Minho
+</title>
+. 
+<journalOrPublisher id="B4CC6FD7CB3DDBE38087679460EAECB1" pageId="0" pageNumber="112217">http://repositorium.sdum.uminho.pt/ (February 27, 2023)</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="B3AB39E48CFD52E2A4029CED11BB1EF2" pageId="0" pageNumber="112217">
+<bibRef id="C5F1749E4A5B3093C21D9CC64D652822" author="Antunes, Carlos" journalOrPublisher="http: // repositorium. sdum. uminho. pt / (February 27, 2023)" pageId="0" pageNumber="112217" refId="B9975745" year="2011">
+<author id="2D3F6C3DB03F49E9230DAAC654713C1F" pageId="0" pageNumber="112217">Antunes, Carlos</author>
+, 
+<author id="E7F4F955FABCE9C4894828CDAE67AD47" pageId="0" pageNumber="112217">
+<normalizedToken id="9779903123A584624E2BEC01DFCE9EC1" originalValue="Araújo">Araujo</normalizedToken>
+, 
+<normalizedToken id="A5670CE0EC5337738F8AADE35B505971" originalValue="Mário">Mario</normalizedToken>
+Jorge
+</author>
+, 
+<author id="C495E6087A1E5FDF5D75E5796A0B82E1" pageId="0" pageNumber="112217">Braga, C</author>
+, 
+<author id="4995351632718020951B230B1949DB34" pageId="0" pageNumber="112217">
+Roleira, 
+<normalizedToken id="E54AD42A12BCE5EF6F8D1A7BC7302ACE" originalValue="António">Antonio</normalizedToken>
+</author>
+, 
+<author id="B235C28312871839ADD040FA940762CA" pageId="0" pageNumber="112217">Carvalho, R</author>
+, 
+<author id="E57124EA1DBD8298BF0F15F40F211F91" pageId="0" pageNumber="112217">Mota, Micaela</author>
+, 
+<year id="3829CDC24A05871A14EE532C9F502BDB" pageId="0" pageNumber="112217">2011</year>
+.
+</bibRef>
+</paragraph>
+<paragraph id="FFF22621C1F4AB07FE5CBD21D1BCC276" pageId="0" pageNumber="112217">
+<bibRef id="7852CCC5B0D5EB3F79B1A14C9E822A4D" author="Beiras, Ricardo" journalOrPublisher="Frontiers in Marine Science" pageId="0" pageNumber="112217" refId="B10931904" title="Assessing Ecological Status of Transitional and Coastal Waters; Current Difficulties and Alternative Approaches" volume="3" year="2016">
+<author id="4042296DBD069CA73297B3599B6DA55D" pageId="0" pageNumber="112217">Beiras, Ricardo</author>
+, 
+<year id="C23D40CDDB1ED83BD4B367D9FF9783E9" pageId="0" pageNumber="112217">2016</year>
+. 
+<title id="2D4213A832A369570E8EF592BAD0E22B" pageId="0" pageNumber="112217">Assessing Ecological Status of Transitional and Coastal Waters; Current Difficulties and Alternative Approaches</title>
+. 
+<journalOrPublisher id="417CDAD9634BAE0FC09F61E59DED63FF" pageId="0" pageNumber="112217">Frontiers in Marine Science</journalOrPublisher>
+<volume id="17872152980E3ABCBC735FDC53627744" pageId="0" pageNumber="112217">3</volume>
+</bibRef>
+</paragraph>
+<paragraph id="358114607B8E5B0C286054E6B1BF42E3" pageId="0" pageNumber="112217">
+<bibRef id="B95861BD4F8DBC30143F894EC4096DBF" author="Cabral, Henrique N." journalOrPublisher="Journal of Sea Research" pageId="0" pageNumber="112217" pagination="209 - 217" refId="B9975459" title="Relative importance of estuarine flatfish nurseries along the Portuguese coast" volume="57" year="2007">
+<author id="1C05A2361F81A50F0C0765F4BDF55608" pageId="0" pageNumber="112217">Cabral, Henrique N.</author>
+, 
+<author id="15B29EF5447D22857D61A3D8F47A26A3" pageId="0" pageNumber="112217">Vasconcelos, Rita</author>
+, 
+<author id="76E9B6B236F27714957A7D79DD5C75AC" pageId="0" pageNumber="112217">Vinagre, Catarina</author>
+, 
+<author id="5F51475AF912EEA1D4AF45170A81BC40" pageId="0" pageNumber="112217">
+<normalizedToken id="B6B261B489234D4D287BB22EC62029A5" originalValue="França">Franca</normalizedToken>
+, Susana
+</author>
+, 
+<author id="16A047F93ACBF012F5E63E5D10490517" pageId="0" pageNumber="112217">Fonseca, Vanessa</author>
+, 
+<author id="F0B92DE6B6ADC7E9EF9A3D0F4836A497" pageId="0" pageNumber="112217">Maia, Anabela</author>
+, 
+<author id="1220CF892D253036C4FA559F6B96AA6E" pageId="0" pageNumber="112217">Reis-Santos, Patrick</author>
+, 
+<author id="9E483635D1E70B8095A5DFE8140801D9" pageId="0" pageNumber="112217">Lopes, Marta</author>
+, 
+<author id="D55037F1F57B216DDADA27634A04E31E" pageId="0" pageNumber="112217">Ruano, Miguel</author>
+, 
+<author id="EB4741313330ED60092567926BBD4DF6" pageId="0" pageNumber="112217">Campos, Joana</author>
+, 
+<author id="EEFEEDC17200B843DDE61E78E10DC1D2" pageId="0" pageNumber="112217">
+Freitas, 
+<normalizedToken id="7472F31257AB415157DA3E679E4224F0" originalValue="Vânia">Vania</normalizedToken>
+</author>
+, 
+<author id="EB04EF82951A4840783E526343464E47" pageId="0" pageNumber="112217">Santos, Paulo T.</author>
+, 
+<author id="875B48AACF1F6A16FD35234EDA08630A" pageId="0" pageNumber="112217">
+Costa, Maria 
+<normalizedToken id="A33C5A2D5EB8BC97BBACCBDCECF8880A" originalValue="José">Jose</normalizedToken>
+</author>
+, 
+<year id="D6EE0EA6294B7951EF29E3AB90827C46" pageId="0" pageNumber="112217">2007</year>
+. 
+<title id="A7F6C1D8F619D59B90E0FF60D0BFE539" pageId="0" pageNumber="112217">Relative importance of estuarine flatfish nurseries along the Portuguese coast</title>
+. 
+<journalOrPublisher id="A2B2C5C3950DE4D2A4BF2B3604DF505A" pageId="0" pageNumber="112217">Journal of Sea Research</journalOrPublisher>
+<volume id="BE3DAC7623C8DABB990DB216D861F180" pageId="0" pageNumber="112217">57</volume>
+: 
+<pagination id="175DD72A7682006DBA4138C9B5E11BBD" pageId="0" pageNumber="112217">209 - 217</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="01876575F88A9EC254BAFC1867E121F8" pageId="0" pageNumber="112217">
+<bibRef id="3E8B8B8FE380007AC76B608A35915E6C" author="Group, Darwin Core Maintenance" journalOrPublisher="Biodiversity Information Standards (TDWG)" pageId="0" pageNumber="112217" refId="B9976263" title="List of Darwin Core terms" year="2021">
+<author id="A5992F76924B39DE6952A6124EABD294" pageId="0" pageNumber="112217">Group, Darwin Core Maintenance</author>
+, 
+<year id="268B1BF893108503CBC8B568DBC6C637" pageId="0" pageNumber="112217">2021</year>
+. 
+<title id="02B42FF581B20AFD540347F392CA2992" pageId="0" pageNumber="112217">List of Darwin Core terms</title>
+. 
+<journalOrPublisher id="4893AF5BA28EE3AB5E4E1E6A415C43DA" pageId="0" pageNumber="112217">Biodiversity Information Standards (TDWG)</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="1C2B42A4AB7EEEEE1DDB959A596D6486" pageId="0" pageNumber="112217">
+<bibRef id="19EF40F2276FEB5F3434ABFC2E4AE330" author="Dias, E" journalOrPublisher="Marine Ecology Progress Series" pageId="0" pageNumber="112217" pagination="21 - 34" refId="B9975500" title="Estuarine consumers utilize marine, estuarine and terrestrial organic matter and provide connectivity among these food webs" volume="554" year="2016">
+<author id="2E7197F666F5D7EA8BA175FD3ACFB6F1" pageId="0" pageNumber="112217">Dias, E</author>
+, 
+<author id="91400446FEAF3EE15817122D7B9E537D" pageId="0" pageNumber="112217">Morais, P</author>
+, 
+<author id="2DBA53E16A838260427D69B9A2834778" pageId="0" pageNumber="112217">Cotter, AM</author>
+, 
+<author id="A8B01BE88AD9A323AA5E6CDBAA5B4CC0" pageId="0" pageNumber="112217">Antunes, C</author>
+, 
+<author id="5E15A1DA577C441E9A5B06261D2818A0" pageId="0" pageNumber="112217">Hoffman, JC</author>
+, 
+<year id="2634B7E451BEDE7A83E3B2E1303A3F28" pageId="0" pageNumber="112217">2016</year>
+. 
+<title id="6E0CF2FAF60032CC171889D1B47BEA2C" pageId="0" pageNumber="112217">Estuarine consumers utilize marine, estuarine and terrestrial organic matter and provide connectivity among these food webs</title>
+. 
+<journalOrPublisher id="32D4F0E2AAC905A193DD7D26BB57F993" pageId="0" pageNumber="112217">Marine Ecology Progress Series</journalOrPublisher>
+<volume id="BCCF5B5C71FF1EB9C16FCF6EBAD26005" pageId="0" pageNumber="112217">554</volume>
+: 
+<pagination id="89EBF504EEF75391521406B5EDB63421" pageId="0" pageNumber="112217">21 - 34</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="B4D543B32A691F03D8AD2446A6F7FBBC" pageId="0" pageNumber="112217">
+<bibRef id="49785B6BDB7BE9329E528AB451B42BE3" author="Dias, Ester" journalOrPublisher="Regional Studies in Marine Science" pageId="0" pageNumber="112217" refId="B9975477" title="Habitat use and food sources of European flounder larvae (Platichthys flesus, L. 1758) across the Minho River estuary salinity gradient (NW Iberian Peninsula)" volume="34" year="2020">
+<author id="6414E40FE37DAC059626C70CE16DB59C" pageId="0" pageNumber="112217">Dias, Ester</author>
+, 
+<author id="AC6CB37F17FB11D6661F6563885EBC97" pageId="0" pageNumber="112217">Barros, Ana Gabriela</author>
+, 
+<author id="BAAA3CD56D3E852BFB6F142DA4124254" pageId="0" pageNumber="112217">Hoffman, Joel C.</author>
+, 
+<author id="37FDA4DB1175E99569BC9CFCF2A0A576" pageId="0" pageNumber="112217">Antunes, Carlos</author>
+, 
+<author id="191682F00F07DF0CE460A4984D265231" pageId="0" pageNumber="112217">Morais, Pedro</author>
+, 
+<year id="24FE34FD9AD0826D7962B7995668E620" pageId="0" pageNumber="112217">2020</year>
+. 
+<title id="16F33432494D96DDD5D4E3EFC6BE56ED" pageId="0" pageNumber="112217">
+Habitat use and food sources of European flounder larvae (
+<taxonomicName id="AB3248EBBE7B6837422DE338E38F9D17" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Actinopteri" family="Pleuronectidae" genus="Platichthys" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Platichthys flesus" order="Pleuronectiformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="flesus">
+<emphasis id="0E3C079E0401E546C3CA02FE40A16091" italics="true" pageId="0" pageNumber="112217">Platichthys flesus</emphasis>
+</taxonomicName>
+, L. 1758) across the Minho River estuary salinity gradient (NW Iberian Peninsula)
+</title>
+. 
+<journalOrPublisher id="ABB95F83B8B32FD9F42F7E2E7D394DF7" pageId="0" pageNumber="112217">Regional Studies in Marine Science</journalOrPublisher>
+<volume id="7362C067DC4B18E2D4599FC8078BEF67" pageId="0" pageNumber="112217">34</volume>
+</bibRef>
+</paragraph>
+<paragraph id="DADBA07CF7150E627874959A66D2AD9C" pageId="0" pageNumber="112217">
+<bibRef id="2551B360DB6F4FF89018945D4220155D" author="Dias, Ester" journalOrPublisher="Regional Studies in Marine Science" pageId="0" pageNumber="112217" refId="B10932282" year="2020">Froese R. Pauly D. FishBase. World Wide Web electronic publication. www.fishbase.org 2023-12-08T00:00:00+02:00</bibRef>
+</paragraph>
+<paragraph id="4BD2C702F7EAF95299F02A5E838997E4" pageId="0" pageNumber="112217">
+<bibRef id="74B329D3363B1BFBC400D40386267C35" author="Gao, Yangchun" journalOrPublisher="Scientific Reports" pageId="0" pageNumber="112217" refId="B9975518" title="Anthropogenic pollutant-driven geographical distribution of mesozooplankton communities in estuarine areas of the Bohai Sea, China" volume="9" year="2019">
+<author id="202E5800F6A6D6E2ABE2D8431A5A1802" pageId="0" pageNumber="112217">Gao, Yangchun</author>
+, 
+<author id="9BDAE46EDDFBB6A3B9D7A48B346C2EAD" pageId="0" pageNumber="112217">Yang, Qing</author>
+, 
+<author id="12F3A1892A556A8399B8A2A8BBEFEA03" pageId="0" pageNumber="112217">Li, Hongjun</author>
+, 
+<author id="9DB2C529C926839AE5246EB09C81DDCE" pageId="0" pageNumber="112217">Wang, Xiaocheng</author>
+, 
+<author id="060C2223774B84A86A6B6605EAD9EC57" pageId="0" pageNumber="112217">Zhan, Aibin</author>
+, 
+<year id="94A29943CA3A028E9C1AC3ECAB3AAF62" pageId="0" pageNumber="112217">2019</year>
+. 
+<title id="1CC992C31F6FF6629D2AE35788AE3E69" pageId="0" pageNumber="112217">Anthropogenic pollutant-driven geographical distribution of mesozooplankton communities in estuarine areas of the Bohai Sea, China</title>
+. 
+<journalOrPublisher id="AAE1A87E15BEAB9A0E38C8C896ACC7F1" pageId="0" pageNumber="112217">Scientific Reports</journalOrPublisher>
+<volume id="AC62A87B622BE5CF383ECA8A090E7951" pageId="0" pageNumber="112217">9</volume>
+(
+<issue id="2560BE848863F2FF71B70895A8789D5B" pageId="0" pageNumber="112217">1</issue>
+)
+</bibRef>
+</paragraph>
+<paragraph id="8B73E2E33D066064A33568D1AB8AAF92" pageId="0" pageNumber="112217">
+<bibRef id="2A29A38AFE50F135A0B7F7A4878C5F05" author="Gao, Yangchun" journalOrPublisher="Scientific Reports" pageId="0" pageNumber="112217" refId="B10377840" year="2019">Secretariat GBIF GBIF Backbone Taxonomy. Checklist dataset. 10.15468/39omei 2023-08-08T00:00:00+03:00</bibRef>
+</paragraph>
+<paragraph id="898AFC2DBDDC47FEA55ADFF13D6D20EE" pageId="0" pageNumber="112217">
+<bibRef id="2B4B391E4C896C4B9F33A8EDA23A009A" author="Guerreiro, Milene Alexandra" journalOrPublisher="Marine Environmental Research" pageId="0" pageNumber="112217" refId="B9975528" title="Function of estuaries and coastal areas as nursery grounds for marine fish early life stages" volume="170" year="2021">
+<author id="17B1CFF197BCF7D821620B84246ECF56" pageId="0" pageNumber="112217">Guerreiro, Milene Alexandra</author>
+, 
+<author id="1F4AB031AD853F9EC2B57C2599BDB45A" pageId="0" pageNumber="112217">Martinho, Filipe</author>
+, 
+<author id="6AFBCDB3EB6A3E446768792FB34061E3" pageId="0" pageNumber="112217">Baptista, Joana</author>
+, 
+<author id="F00B8D4FB1DB5EE774D4C957D01BE207" pageId="0" pageNumber="112217">Costa, Filipe</author>
+, 
+<author id="A21B4C0F74878842362818CB090B02E9" pageId="0" pageNumber="112217">
+Pardal, Miguel 
+<normalizedToken id="AE0312C14F76981F924D8ADD4486A19D" originalValue="Ângelo">Angelo</normalizedToken>
+</author>
+, 
+<author id="C94E700F0622F197C970CEDE7972E75D" pageId="0" pageNumber="112217">
+Primo, Ana 
+<normalizedToken id="35E8F3C2248538970BC2712E5BB76FB9" originalValue="Lígia">Ligia</normalizedToken>
+</author>
+, 
+<year id="B6FA51AA8C575BEDC4838981FCC9261D" pageId="0" pageNumber="112217">2021</year>
+. 
+<title id="2FA8D2B39EE6438B61B466E1D19F2F24" pageId="0" pageNumber="112217">Function of estuaries and coastal areas as nursery grounds for marine fish early life stages</title>
+. 
+<journalOrPublisher id="4551A8C6B3357EB36C3F28DDD57F63D0" pageId="0" pageNumber="112217">Marine Environmental Research</journalOrPublisher>
+<volume id="08FE37001BCE881154E1493D57586BD5" pageId="0" pageNumber="112217">170</volume>
+</bibRef>
+</paragraph>
+<paragraph id="6F4D529A919E6465CF1348D2D066D639" pageId="0" pageNumber="112217">
+<bibRef id="FF85754972DAAC4617D2DEE62D9702CD" author="Hubert, W. A." journalOrPublisher="American Fisheries Society" pageId="0" pageNumber="112217" refId="B10932599" title="Analysis and interpretation of freshwater fisheries data" year="2007">
+<author id="692CAF51A1EDC4228EF131B4B5EFA5DD" pageId="0" pageNumber="112217">Hubert, W. A.</author>
+, 
+<author id="E84E22AC34D1B5C29C52EBB8047AF51D" pageId="0" pageNumber="112217">Fabrizio, M. C.</author>
+, 
+<year id="74ECEFC2F3B37008F299D524FEB1B1FD" pageId="0" pageNumber="112217">2007</year>
+. 
+<title id="16484383FBC96A9C212693C02A7DD2E9" pageId="0" pageNumber="112217">Analysis and interpretation of freshwater fisheries data</title>
+. 
+<journalOrPublisher id="56F1A5E2B9B3CCC80F6B56F649328228" pageId="0" pageNumber="112217">American Fisheries Society</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="C2D3BF0ED4D73FC16BEC80F5A71F865C" pageId="0" pageNumber="112217">
+<bibRef id="8CB688DE938786035182D0FF21A2EDD3" author="Ilarri, Martina" journalOrPublisher="Science of The Total Environment" pageId="0" pageNumber="112217" refId="B9975539" title="Influence of climate change and extreme weather events on an estuarine fish community" volume="827" year="2022">
+<author id="F4D1494BB5E8CA9D65AF2E6A7FDF032E" pageId="0" pageNumber="112217">Ilarri, Martina</author>
+, 
+<author id="CE81C1F3C3E65C7D7B11F6E45C6C270D" pageId="0" pageNumber="112217">Souza, Allan T.</author>
+, 
+<author id="8F37B80350B2331D534B9DF288AF27C2" pageId="0" pageNumber="112217">Dias, Ester</author>
+, 
+<author id="A51D56F5C48B2B2A73FE7ED484B41543" pageId="0" pageNumber="112217">Antunes, Carlos</author>
+, 
+<year id="702CF80FD3D662FF228BFD3260B85CD4" pageId="0" pageNumber="112217">2022</year>
+. 
+<title id="1C91878CE8C7800982CE743D1FB42D1E" pageId="0" pageNumber="112217">Influence of climate change and extreme weather events on an estuarine fish community</title>
+. 
+<journalOrPublisher id="C9A517CE6B1CEF7A8510FF337C94C0BE" pageId="0" pageNumber="112217">Science of The Total Environment</journalOrPublisher>
+<volume id="DCE13222FFAE65D5C7C9D96DC601326D" pageId="0" pageNumber="112217">827</volume>
+</bibRef>
+</paragraph>
+<paragraph id="1C831BCD8FD9FA3AD201EF5D5ED9EB51" pageId="0" pageNumber="112217">
+<bibRef id="31D3958B26F53B8813683D2F53B39127" author="Ilarri, M. I." journalOrPublisher="Estuarine, Coastal and Shelf Science" pageId="0" pageNumber="112217" pagination="12 - 19" refId="B10931725" title="Influence of the invasive Asian clam Corbicula fluminea (Bivalvia: Corbiculidae) on estuarine epibenthic assemblages" volume="143" year="2014">
+<author id="7F3F92A77A7786ACE772C2EC601C973D" pageId="0" pageNumber="112217">Ilarri, M. I.</author>
+, 
+<author id="CAB8045A3F63B6B871052955B06C3A82" pageId="0" pageNumber="112217">Souza, A. T.</author>
+, 
+<author id="190D1D18462200A2849BADD5A747BE15" pageId="0" pageNumber="112217">Antunes, C.</author>
+, 
+<author id="3B315EF2B3F66DBEFED18F3BF04A331F" pageId="0" pageNumber="112217">Guilhermino, L.</author>
+, 
+<author id="FA905F429794F14CD5CF0025335DF3E0" pageId="0" pageNumber="112217">Sousa, R.</author>
+, 
+<year id="8606693F84A186BDEC0A973FCEBA3F41" pageId="0" pageNumber="112217">2014</year>
+. 
+<title id="BD051028D8101F7F2B3450CE179E0F42" pageId="0" pageNumber="112217">
+Influence of the invasive Asian clam 
+<taxonomicName id="90FD1C5A5571985713433AEC4B126B37" baseAuthorityName="O. F. Muller" baseAuthorityYear="1774" class="Bivalvia" genus="Corbicula" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Corbicula fluminea" pageId="0" pageNumber="112217" phylum="Mollusca" rank="species" species="fluminea">
+<emphasis id="3AF65130C5B36872B6797825C42E5A26" italics="true" pageId="0" pageNumber="112217">Corbicula fluminea</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="230AE76A44FEBDC9969E93D68D93BD82" class="Bivalvia" genus="Corbicula" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" pageId="0" pageNumber="112217" phylum="Mollusca" rank="class">Bivalvia</taxonomicName>
+: 
+<taxonomicName id="C129CB878132970583B82A42136BA045" class="Bivalvia" family="Corbiculidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Heterodonta" pageId="0" pageNumber="112217" phylum="Mollusca" rank="family">Corbiculidae</taxonomicName>
+) on estuarine epibenthic assemblages
+</title>
+. 
+<journalOrPublisher id="F01B2AC5E910C2A142A4074F0BC49293" pageId="0" pageNumber="112217">Estuarine, Coastal and Shelf Science</journalOrPublisher>
+<volume id="52B0A74D6FCEFE2894E59E5A1C60B24B" pageId="0" pageNumber="112217">143</volume>
+: 
+<pagination id="CF688C88461C74D9707AFD545911320B" pageId="0" pageNumber="112217">12 - 19</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="11A8145D6F6D0B25D3C01F5ED618F83D" pageId="0" pageNumber="112217">
+<bibRef id="45D51FB13C1045E7925F388D89CB1FD1" author="Levin, L. A." journalOrPublisher="Estuarine, Coastal and Shelf Science" pageId="0" pageNumber="112217" pagination="17 - 51" refId="B9975548" title="Functional consequences of invasive species in coastal and estuarine systems" volumeTitle="Treatise on Estuarine and Coastal Science." year="2011">
+<author id="6604829A49013D3A9B0E1BA045ADBFE0" pageId="0" pageNumber="112217">Levin, L. A.</author>
+, 
+<author id="2059E20354BE1BA2C9D85A304661F16E" pageId="0" pageNumber="112217">Crooks, J. A.</author>
+, 
+<year id="F8C3E7A12F23C45C11B126C4BE6341B7" pageId="0" pageNumber="112217">2011</year>
+. 
+<title id="0C0FA0330892FCF5906CC375621254C3" pageId="0" pageNumber="112217">Functional consequences of invasive species in coastal and estuarine systems</title>
+. In: 
+<volumeTitle id="E6768F5EEADC1F87B0663303A59A794C" pageId="0" pageNumber="112217">Treatise on Estuarine and Coastal Science.</volumeTitle>
+: 
+<pagination id="342E63B234C1EC24D37FF5950FA3540D" pageId="0" pageNumber="112217">17 - 51</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="AE953C9486FC895B2322D57FBDE49620" pageId="0" pageNumber="112217">
+<bibRef id="8D03232CB01724EB097D2BBCFB05E6FE" author="Martins, Rogelia" journalOrPublisher="IPMA, Lisboa" pageId="0" pageNumber="112217" refId="B10929832" title="Manual de Identificacao de Peixes osseos da Costa Continental Portuguesa" year="2018">
+<author id="EC5EAE8ECA9FEEFB883A8F108F6BC831" pageId="0" pageNumber="112217">
+Martins, 
+<normalizedToken id="3F8D64B3E30DC1948384BC1199E428DC" originalValue="Rogélia">Rogelia</normalizedToken>
+</author>
+, 
+<author id="14F2CAB3EF635B71193E93EC48D03DEE" pageId="0" pageNumber="112217">Carneiro, Miguel</author>
+, 
+<year id="4238410B93CDAE4C06501E860ECD750C" pageId="0" pageNumber="112217">2018</year>
+. 
+<title id="947AF0A9EA94D9092CB2CBD6BCB37419" pageId="0" pageNumber="112217">
+Manual de 
+<normalizedToken id="1413363972C388024A2BDC5EF3FE36DB" originalValue="Identificação">Identificacao</normalizedToken>
+de Peixes 
+<normalizedToken id="80301C6EE9908E779E7AE9EC417E3DEA" originalValue="òsseos">osseos</normalizedToken>
+da Costa Continental Portuguesa
+</title>
+. 
+<journalOrPublisher id="20979B5F63459881F1FD2154E356227F" pageId="0" pageNumber="112217">IPMA, Lisboa</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="A63CCC51B37093CBC7D686AB87B695F9" pageId="0" pageNumber="112217">
+<bibRef id="5166A3C1AA68F601FC4987C3ED96A3D4" author="Mota, Micaela," journalOrPublisher="Limnetica" pageId="0" pageNumber="112217" pagination="165 - 172" refId="B10931801" title="A preliminary characterisation of the habitat use and feeding of Allis shad (Alosa alosa) juveniles in the Minho River tidal freshwater wetlands" volume="31" year="2012">
+<author id="100443266EF19E05BCE480DA7F7028AB" pageId="0" pageNumber="112217">Mota, Micaela,</author>
+, 
+<author id="70F62BD6AC46889C22DBA183EF6956A8" pageId="0" pageNumber="112217">Antunes, Carlos,</author>
+, 
+<year id="B5DD21CFA2498A78D6CE26C5BF189F72" pageId="0" pageNumber="112217">2012</year>
+. 
+<title id="BD6C0B6502D8C9145AFBC7BF765A7C53" pageId="0" pageNumber="112217">
+A preliminary characterisation of the habitat use and feeding of Allis shad (
+<taxonomicName id="E5BA9E4D1955DD013049E9A1696AFCE1" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Actinopteri" family="Alosidae" genus="Alosa" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Alosa alosa" order="Clupeiformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="alosa">
+<emphasis id="B023D5DE048AA26E52FA936FF37A6C45" italics="true" pageId="0" pageNumber="112217">Alosa alosa</emphasis>
+</taxonomicName>
+) juveniles in the Minho River tidal freshwater wetlands
+</title>
+. 
+<journalOrPublisher id="0A8460117DB333FC313C5DB781961267" pageId="0" pageNumber="112217">Limnetica</journalOrPublisher>
+<volume id="18007400A3276B323B9BAF3201B80D55" pageId="0" pageNumber="112217">31</volume>
+: 
+<pagination id="C5CF2B052FDE35279BBCC1B8E5021D68" pageId="0" pageNumber="112217">165 - 172</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="E7AFC123CC2FCE2D9618961E73DA13D2" pageId="0" pageNumber="112217">
+<bibRef id="BD2B7D511B3BE9F127A52E3724B69083" author="Mota, Micaela" journalOrPublisher="Annales de Limnologie - International Journal of Limnology" pageId="0" pageNumber="112217" pagination="185 - 198" refId="B10931698" title="Seasonal changes in fish assemblages in the River Minho tidal freshwater wetlands, NW of the Iberian Peninsula" volume="50" year="2014">
+<author id="C92F589659321C15CE91195E0F311B63" pageId="0" pageNumber="112217">Mota, Micaela</author>
+, 
+<author id="193721324154F5821CFAB794DC16D181" pageId="0" pageNumber="112217">Sousa, Ronaldo</author>
+, 
+<author id="64DC99AD20B12428176AA59D2587B79F" pageId="0" pageNumber="112217">Bio, Ana</author>
+, 
+<author id="12AA82C9D8EA046F0932E7C2BC9AB8EE" pageId="0" pageNumber="112217">
+<normalizedToken id="380750CBBDF3CF2F15A276976A5E173D" originalValue="Araújo">Araujo</normalizedToken>
+, Jorge
+</author>
+, 
+<author id="1B7396AAFC711C93E8EEB41ED40DB5DA" pageId="0" pageNumber="112217">Braga, Catarina</author>
+, 
+<author id="F9883ABB1C13EB979FCD30A8A202CC37" pageId="0" pageNumber="112217">Antunes, Carlos</author>
+, 
+<year id="4DA31518D3C94E9F86671466A4D52F33" pageId="0" pageNumber="112217">2014</year>
+. 
+<title id="A750C188230780D73237DE6259707ADF" pageId="0" pageNumber="112217">Seasonal changes in fish assemblages in the River Minho tidal freshwater wetlands, NW of the Iberian Peninsula</title>
+. 
+<journalOrPublisher id="EB2799572323632D3F044064DBC66C2D" pageId="0" pageNumber="112217">Annales de Limnologie - International Journal of Limnology</journalOrPublisher>
+<volume id="2535E08F3C814A9417E26E839C5B4BBF" pageId="0" pageNumber="112217">50</volume>
+(
+<issue id="3256B26191910C8BE37440070FE326DD" pageId="0" pageNumber="112217">3</issue>
+): 
+<pagination id="8F5BB5CD74D7631A9FAF714300782768" pageId="0" pageNumber="112217">185 - 198</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="C94BFAC065900A98294EE148F1FBF8B2" pageId="0" pageNumber="112217">
+<bibRef id="7E165F4E3CA42CCA639759A8DD772C87" author="Nixon, Scott W." journalOrPublisher="Hydrobiologia" pageId="0" pageNumber="112217" pagination="5 - 19" refId="B9975557" title="Eutrophication and the macroscope" volume="629" year="2009">
+<author id="998183B6E9EEC644F54149AA61C200C9" pageId="0" pageNumber="112217">Nixon, Scott W.</author>
+, 
+<year id="7E2CA34F6022B41E1792E19D69A8BB6F" pageId="0" pageNumber="112217">2009</year>
+. 
+<title id="16F79F9C13CC0158C4FA262F324A0FDA" pageId="0" pageNumber="112217">Eutrophication and the macroscope</title>
+. 
+<journalOrPublisher id="611F2A18C024DC862CCEE6FE8E8FA5AC" pageId="0" pageNumber="112217">Hydrobiologia</journalOrPublisher>
+<volume id="DBE04078FAD0579FB1E0FEBC3EDBE6B9" pageId="0" pageNumber="112217">629</volume>
+(
+<issue id="6E771E877DB3B50FE220E69D364AAEAB" pageId="0" pageNumber="112217">1</issue>
+): 
+<pagination id="C1CA5FBFF4728E59C58171F6B13A546B" pageId="0" pageNumber="112217">5 - 19</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="BF124A52894F91EB9ABE7A3412E7CA7B" pageId="0" pageNumber="112217">
+<bibRef id="E152244F6372EF0698D35E949A4B40C7" author="Palmer, Terence A." journalOrPublisher="Hydrobiologia" pageId="0" pageNumber="112217" pagination="49 - 67" refId="B9975566" title="The role of freshwater inflow in lagoons, rivers, and bays" volume="667" year="2011">
+<author id="4B7602FAC6D9C7BF943A7E51209EC79A" pageId="0" pageNumber="112217">Palmer, Terence A.</author>
+, 
+<author id="215CBBA28C6F2A8877333F1E3E1BF0BA" pageId="0" pageNumber="112217">Montagna, Paul A.</author>
+, 
+<author id="762D7C75371825CF54C4C53063E850E2" pageId="0" pageNumber="112217">Pollack, Jennifer Beseres</author>
+, 
+<author id="3EC71B2B00A281927E223D25B44B1114" pageId="0" pageNumber="112217">Kalke, Richard D.</author>
+, 
+<author id="1B1B5686D7EC8BFB6AAF7B8FA480747D" pageId="0" pageNumber="112217">DeYoe, Hudson R.</author>
+, 
+<year id="75B21EF16FBF2F7072D1C0F2BDE554E8" pageId="0" pageNumber="112217">2011</year>
+. 
+<title id="6CE179D32C1B39905638A47426471CF4" pageId="0" pageNumber="112217">The role of freshwater inflow in lagoons, rivers, and bays</title>
+. 
+<journalOrPublisher id="3537BA55F1FA5423466882A0F18DB48A" pageId="0" pageNumber="112217">Hydrobiologia</journalOrPublisher>
+<volume id="294099A69BCCB1EAB69250E2A1072952" pageId="0" pageNumber="112217">667</volume>
+(
+<issue id="86B230121B2FDACF821761B39F1D9A16" pageId="0" pageNumber="112217">1</issue>
+): 
+<pagination id="ED81EF661E9E53F2133A788DF8251159" pageId="0" pageNumber="112217">49 - 67</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="118E8673682A197F13E788210BA08892" pageId="0" pageNumber="112217">
+<bibRef id="B3DE04C2E0670164DA899873732842CD" author="Sousa, Ronaldo" journalOrPublisher="Annales de Limnologie - International Journal of Limnology" pageId="0" pageNumber="112217" pagination="211 - 219" refId="B10931891" title="Rapid decline of the greater European peaclam at the periphery of its distribution" volume="47" year="2011">
+<author id="E48FACB1D71F273835539DC6E6B60AA3" pageId="0" pageNumber="112217">Sousa, Ronaldo</author>
+, 
+<author id="C2F5A194D19472F66E8B7C7A7832A4D0" pageId="0" pageNumber="112217">Ilarri, Martina</author>
+, 
+<author id="6DA40697BC372567649E115B1A55F5D1" pageId="0" pageNumber="112217">Souza, Allan T.</author>
+, 
+<author id="983A32745434164B591FD8F20956EE55" pageId="0" pageNumber="112217">Antunes, Carlos</author>
+, 
+<author id="493E53482349F9A2A9F5BBD555F54F67" pageId="0" pageNumber="112217">
+Guilhermino, 
+<normalizedToken id="8ABF10A0F144F8DC1AD37CA311775BF7" originalValue="Lúcia">Lucia</normalizedToken>
+</author>
+, 
+<year id="966C3D00769E92B80056991685D0BCA5" pageId="0" pageNumber="112217">2011</year>
+. 
+<title id="D22A24464FBA34B5A153633FF61B5FDF" pageId="0" pageNumber="112217">Rapid decline of the greater European peaclam at the periphery of its distribution</title>
+. 
+<journalOrPublisher id="8117B6D86CBE51E77419077F702796F9" pageId="0" pageNumber="112217">Annales de Limnologie - International Journal of Limnology</journalOrPublisher>
+<volume id="9AEB59A92B7A240D0223E202294DC1EA" pageId="0" pageNumber="112217">47</volume>
+(
+<issue id="0E0D544F390DA9452E0C35853A304C2B" pageId="0" pageNumber="112217">3</issue>
+): 
+<pagination id="39A05884B6284A739DAEF7A873657A03" pageId="0" pageNumber="112217">211 - 219</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="15EE23CFB61F8143DCC4469A57F55770" pageId="0" pageNumber="112217">
+<bibRef id="0F67F08BC55BBD160D48080CF04A639F" author="Souza, A." journalOrPublisher="ARPHA Preprints" pageId="0" pageNumber="112217" refId="B9986129" title="Disruptions caused by invasive species and climate change on the functional diversity of a fish community" volume="e 108383" year="2023">
+<author id="2CAB0AF271E49776932E84981A7D3938" pageId="0" pageNumber="112217">Souza, A.</author>
+, 
+<author id="F44525DDA70F21F489434E03F70D80EC" pageId="0" pageNumber="112217">Dias, E.</author>
+, 
+<author id="AB17FA4E0B84B87FF54B6203137EF10E" pageId="0" pageNumber="112217">Antunes, C.</author>
+, 
+<author id="F09A541177324C8FA1A74679FE6BFA20" pageId="0" pageNumber="112217">Ilarri, M.</author>
+, 
+<year id="7273ECF404DD8ECC3B23CF3E02F3059D" pageId="0" pageNumber="112217">2023</year>
+. 
+<title id="6D095F6D395BB5F5D1AA58FCE3B1D96A" pageId="0" pageNumber="112217">Disruptions caused by invasive species and climate change on the functional diversity of a fish community</title>
+. 
+<journalOrPublisher id="F30408A738B1E330230687B08F8AC7BE" pageId="0" pageNumber="112217">ARPHA Preprints</journalOrPublisher>
+<volume id="81F7E95507A14D2026EF02C3F507D065" pageId="0" pageNumber="112217">e108383</volume>
+</bibRef>
+</paragraph>
+<paragraph id="3EA573C166666C482C093BE94B0ABDA1" pageId="0" pageNumber="112217">
+<bibRef id="4F7FBCEEE7975CAD758C0925601A942C" author="Souza, Allan T" journalOrPublisher="ARPHA Preprints" pageId="0" pageNumber="112217" refId="B9975725" title="https: // zenodo. org / record / 8046541" year="2023">
+<author id="306BB5D1847F89BBB1CCBDACC3896302" pageId="0" pageNumber="112217">Souza, Allan T</author>
+, 
+<author id="86EFE8F2166B82DBD1CB7880E6319CFF" pageId="0" pageNumber="112217">Ilarri, Martina I</author>
+, 
+<author id="F23EB7EECAA68846C28592F9A295AB7C" pageId="0" pageNumber="112217">Dias, Ester</author>
+, 
+<author id="8ECF3BBEDD2EF8EF48BA74A0F69D5676" pageId="0" pageNumber="112217">
+<normalizedToken id="3D01847A697C0C9C5E6E2F5FA8ED3A6F" originalValue="Araújo">Araujo</normalizedToken>
+, 
+<normalizedToken id="55DA1BEC6020FCB0055DA833308DD4F0" originalValue="Mário">Mario</normalizedToken>
+Jorge
+</author>
+, 
+<author id="697FB9B5A4644BA8C84995071B37F3E6" pageId="0" pageNumber="112217">
+Roleira, 
+<normalizedToken id="E5AB909A026F04CD2974C57B38355680" originalValue="António">Antonio</normalizedToken>
+</author>
+, 
+<author id="EA60168E3E35A6D910751F8B90960D53" pageId="0" pageNumber="112217">Braga, Ana Catarina</author>
+, 
+<author id="53B0D008FD7D7B565E9C802A27E14FCE" pageId="0" pageNumber="112217">Carvalho, Ana Rita</author>
+, 
+<author id="CDA9CCEE0CADC040A93B1BCD8D7927DC" pageId="0" pageNumber="112217">Mota, Micaela</author>
+, 
+<author id="1C1DC27698EE8F06ED4999BF593D5FFE" pageId="0" pageNumber="112217">Correia, Maria Helena</author>
+, 
+<author id="070605633F47E7D3A8456F31346475D3" pageId="0" pageNumber="112217">Lages, Ana</author>
+, 
+<author id="B3905C5B638B5816E17AD0F836DC1F1C" pageId="0" pageNumber="112217">Moura, Ana</author>
+, 
+<author id="A737D0458F0915F42560CAF03840A4FD" pageId="0" pageNumber="112217">Antunes, Carlos</author>
+, 
+<year id="F30086B9F34AE4BB9E12FFAA72D4515C" pageId="0" pageNumber="112217">2023</year>
+. 
+<title id="10F469CCB34FBFBA04497E578127273A" pageId="0" pageNumber="112217">https://zenodo.org/record/8046541</title>
+</bibRef>
+</paragraph>
+<paragraph id="524CBFBCA42ADA0E7C4F300B71348448" pageId="0" pageNumber="112217">
+<bibRef id="590CDC52CBDCFB4392D598DB6233173B" author="Stamp, Thomas" journalOrPublisher="ICES Journal of Marine Science" pageId="0" pageNumber="112217" pagination="1981 - 1991" refId="B9975699" title="Large-scale historic habitat loss in estuaries and its implications for commercial and recreational fin fisheries" volume="79" year="2022">
+<author id="FBF3C4F603C4A1E575AF0C60E468CB92" pageId="0" pageNumber="112217">Stamp, Thomas</author>
+, 
+<author id="1FFDF7CBCA239E5734D200A71CADE8C2" pageId="0" pageNumber="112217">West, Elizabeth</author>
+, 
+<author id="86D985537C7809875019DDA47F7AA80C" pageId="0" pageNumber="112217">Robbins, Tim</author>
+, 
+<author id="4E19536EEAA8946816B4829AD1A6F179" pageId="0" pageNumber="112217">Plenty, Shaun</author>
+, 
+<author id="DF03AFBA71492E316546BE23FF38C5A3" pageId="0" pageNumber="112217">Sheehan, Emma</author>
+, 
+<year id="5B2C4E968F85E8DD200620BB42E91760" pageId="0" pageNumber="112217">2022</year>
+. 
+<title id="266773663B53D4695E79E5030B417D75" pageId="0" pageNumber="112217">Large-scale historic habitat loss in estuaries and its implications for commercial and recreational fin fisheries</title>
+. 
+<journalOrPublisher id="0AA145CE0D1A42B89E98241E046231CF" pageId="0" pageNumber="112217">ICES Journal of Marine Science</journalOrPublisher>
+<volume id="96B046F5B9EB87347D6B2FCCAFF64901" pageId="0" pageNumber="112217">79</volume>
+(
+<issue id="C535711F39DFCE8A6377B742FED5EA02" pageId="0" pageNumber="112217">7</issue>
+): 
+<pagination id="AD13CB24665F1C104B884ED47247935B" pageId="0" pageNumber="112217">1981 - 1991</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="F9252086D24FD3BF4AAA0DE265092849" pageId="0" pageNumber="112217">
+<bibRef id="29201E451C5F78CBC86B39B33E6F9588" author="Vasconcelos, R. P." journalOrPublisher="Science of The Total Environment" pageId="0" pageNumber="112217" pagination="199 - 215" refId="B9975709" title="Assessing anthropogenic pressures on estuarine fish nurseries along the Portuguese coast: A multi-metric index and conceptual approach" volume="374" year="2007">
+<author id="29E54BA1020B723D66AE5F317C505AC1" pageId="0" pageNumber="112217">Vasconcelos, R. P.</author>
+, 
+<author id="A79A356A0805B82A70A2D097B28F2ADB" pageId="0" pageNumber="112217">Reis-Santos, P.</author>
+, 
+<author id="9859A996A30F455648B9379AD97422A1" pageId="0" pageNumber="112217">Fonseca, V.</author>
+, 
+<author id="E252103D6A840A6BB5A9CF9B8629CA76" pageId="0" pageNumber="112217">Maia, A.</author>
+, 
+<author id="AC95C6260415E9111EC3E6E6F3073522" pageId="0" pageNumber="112217">Ruano, M.</author>
+, 
+<author id="DE07DC932678EE8FC03F790B0F8912D3" pageId="0" pageNumber="112217">
+<normalizedToken id="531792741D04F622C3E213E522AA3F62" originalValue="França">Franca</normalizedToken>
+, S.
+</author>
+, 
+<author id="8A1AC8F647169EC1A04B0FDC2A187CF4" pageId="0" pageNumber="112217">Vinagre, C.</author>
+, 
+<author id="8F4C5EB044E0A18495E79B9A28059468" pageId="0" pageNumber="112217">Costa, M. J.</author>
+, 
+<author id="779EE413A8F68DF702EB9E56AA50C94C" pageId="0" pageNumber="112217">Cabral, H.</author>
+, 
+<year id="BF6B333FE3B4E01CFAC0D996F02FC85B" pageId="0" pageNumber="112217">2007</year>
+. 
+<title id="03589E9D434F5EC56FA8A8C7C2689782" pageId="0" pageNumber="112217">Assessing anthropogenic pressures on estuarine fish nurseries along the Portuguese coast: A multi-metric index and conceptual approach</title>
+. 
+<journalOrPublisher id="3A53BFFE3F2658D8A899560334E1604F" pageId="0" pageNumber="112217">Science of The Total Environment</journalOrPublisher>
+<volume id="0CC970B3195F2A51B20C02379611C444" pageId="0" pageNumber="112217">374</volume>
+: 
+<pagination id="8E89E81EC6826A8CB4462CB4762D5C3D" pageId="0" pageNumber="112217">199 - 215</pagination>
+</bibRef>
+</paragraph>
+</subSection>
+<subSection id="1D0F658A811EFEC419F881B14A353163" pageId="0" pageNumber="112217" type="multiple">
+<caption id="B6BEB8BF39757389C94E44290CA0AD27" doi="10.3897/BDJ.12.e112217.figure1" httpUri="https://binary.pensoft.net/fig/870840" pageId="0" pageNumber="112217" start="Figure 1" startId="F9976353">
+<paragraph id="E818D9586DB60CD23A3E5A52D13B936D" pageId="0" pageNumber="112217">
+<emphasis id="CF8C86B7AC79FF53AB7DF95B4DFE9D73" bold="true" pageId="0" pageNumber="112217">Figure 1.</emphasis>
+Spatial representation of the study area and sampling locations in the Minho Estuary. A) A map of the Iberian Peninsula, with an indication of the sampling location within the Minho Estuary. B) A zoomed-in view of the study area, highlighting the representative deployment locations of the fyke nets (white circles) inside the Lenta Marina.
+</paragraph>
+</caption>
+<caption id="D5ECA611DC1E9CE553A8F91351D54851" doi="10.3897/BDJ.12.e112217.figure2" httpUri="https://binary.pensoft.net/fig/870842" pageId="0" pageNumber="112217" start="Figure 2" startId="F9976357">
+<paragraph id="8635A3D3BE9C0ADBE64B6DCF9810A846" pageId="0" pageNumber="112217">
+<emphasis id="9B7ED0EAAD965DB06BB02FDF15A48762" bold="true" pageId="0" pageNumber="112217">Figure 2.</emphasis>
+A photograph showing the removal of a fyke net from the water in the Minho Estuary (Photo by Carlos Antunes).
+</paragraph>
+</caption>
+<caption id="16AF27AB47DB4EF38FAE17DE7CB09D26" doi="10.3897/BDJ.12.e112217.figure3" httpUri="https://binary.pensoft.net/fig/949337" pageId="0" pageNumber="112217" start="Figure 3" startId="F9976359">
+<paragraph id="76B84538E501EF78F175B368380F089E" pageId="0" pageNumber="112217">
+<emphasis id="B8F14BE16CA0E1E17A5706CE515110CD" bold="true" pageId="0" pageNumber="112217">Figure 3.</emphasis>
+Days when samples were collected in the study area (Lenta Marina) in the Minho Estuary (i.e. days when fyke net(s) were underwater). Grey = fyke net(s) deployed; white = no fyke net deployed.
+</paragraph>
+</caption>
+<caption id="581C7F39F553AC6E6270D90ACAE2FC81" doi="10.3897/BDJ.12.e112217.figure4" httpUri="https://binary.pensoft.net/fig/870841" pageId="0" pageNumber="112217" start="Figure 4" startId="F9976355">
+<paragraph id="EFCEE9686819C312FA94ED4CD1FA19EE" pageId="0" pageNumber="112217">
+<emphasis id="C33E516B792898E34640A2D0E7507E08" bold="true" pageId="0" pageNumber="112217">Figure 4.</emphasis>
+A photograph showing the view of the study area (Lenta Marina) in the Minho Estuary. The image shows the semi-enclosed bay, characterised by the presence of near-shore vegetation and the calm water surface where the fish sampling took place (Photo by Ronaldo Sousa).
+</paragraph>
+</caption>
+<caption id="CBAA2E7D4011E0D67F571FCB7C925B88" doi="10.3897/BDJ.12.e112217.figure5" httpUri="https://binary.pensoft.net/fig/978254" pageId="0" pageNumber="112217" start="Figure 5" startId="F9976361">
+<paragraph id="7E4FDC35A0AFD95301C427F43ED83CF3" pageId="0" pageNumber="112217">
+<emphasis id="58415D8D857F7DEEEFB50D2BEE30B379" bold="true" pageId="0" pageNumber="112217">Figure 5.</emphasis>
+Treemap showing the total number of individuals of the most representative species during the long-term monitoring. The area of each rectangle is proportional to the total abundance of the species in all samples collected and the yellow numbers in the bottom right corner indicate the total abundance per species. Red background colour refers to the invasive species, with the category others corresponding to the least abundant species in the group, in this case, representative of two species: 
+<taxonomicName id="0C608275CA7485D86DB959C1E5BD270D" authorityName="Doadrio &amp; Madeira" authorityYear="2004" family="Cyprinidae" genus="Gobio" kingdom="Animalia" lsidName="Gobio lozanoi" order="Cypriniformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="lozanoi">
+<emphasis id="72772AA18A4C8F86A13FE772E31174B1" italics="true" pageId="0" pageNumber="112217">Gobio lozanoi</emphasis>
+</taxonomicName>
+(n = 255) and 
+<taxonomicName id="84EB9F512752047E659C382D6E180498" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Oligochaeta" family="Naididae" genus="Carassius" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Carassius auratus" order="Tubicida" pageId="0" pageNumber="112217" phylum="Annelida" rank="species" species="auratus">
+<emphasis id="32B1CA1522D11ED7021ECF1AED5E3A67" italics="true" pageId="0" pageNumber="112217">Carassius auratus</emphasis>
+</taxonomicName>
+(n = 20). Blue background colour refers to the native species, with the category others corresponding to the least abundant species in the group, in this case, it is representative of eight species: 
+<taxonomicName id="884C510863615718B8C980D45671BC3E" authorityName="Linnaeus" authorityYear="1758" class="Actinopteri" family="Mugilidae" genus="Mugil" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Mugil cephalus" order="Mugiliformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="cephalus">
+<emphasis id="50FA84D5373FF909E8954B4F254E50A0" italics="true" pageId="0" pageNumber="112217">Mugil cephalus</emphasis>
+</taxonomicName>
+(n = 167), 
+<taxonomicName id="D1056C40AF65ACA3B7B46A72D4031EC7" class="Oligochaeta" family="Naididae" genus="Salmo" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Salmo trutta subsp. fario" order="Tubicida" pageId="0" pageNumber="112217" phylum="Annelida" rank="subSpecies" species="trutta" subSpecies="fario">Salmo trutta subsp. fario</taxonomicName>
+(n = 162), 
+<taxonomicName id="13544B3CBA3EB462DC95ACCCE9E14FEF" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" class="Actinopteri" family="Lumpenidae" genus="Dicentrarchus" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Dicentrarchus labrax" order="Perciformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="labrax">
+<emphasis id="C436CC924727A8790710ABEF9A1BF13D" italics="true" pageId="0" pageNumber="112217">Dicentrarchus labrax</emphasis>
+</taxonomicName>
+(n = 100), 
+<taxonomicName id="D4AEB009001CC794D957E593BFFC0D34" baseAuthorityName="Risso" baseAuthorityYear="1810" class="Actinopteri" family="Mugilidae" genus="Chelon" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Chelon auratus" order="Mugiliformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="auratus">
+<emphasis id="213D4751CE4425F87D7AA20607457D95" italics="true" pageId="0" pageNumber="112217">Chelon auratus</emphasis>
+</taxonomicName>
+(n = 51), 
+<taxonomicName id="67125FEE232AAB5942910E11C78D4F58" baseAuthorityName="Risso" baseAuthorityYear="1827" class="Actinopteri" family="Mugilidae" genus="Chelon" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Chelon labrosus" order="Mugiliformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="labrosus">
+<emphasis id="DF7CC456D962FC8EC573DA73BA61D0F7" italics="true" pageId="0" pageNumber="112217">Chelon labrosus</emphasis>
+</taxonomicName>
+(n=28), 
+<taxonomicName id="544612FE8BA3113E31EE9ECBE3FE1B6C" baseAuthorityName="Doadrio" baseAuthorityYear="1988" class="Actinopteri" family="Leuciscidae" genus="Squalius" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Squalius carolitertii" order="Cypriniformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="carolitertii">
+<emphasis id="2B3FF9074DD6403B09DEBDBA8D8E8095" italics="true" pageId="0" pageNumber="112217">Squalius carolitertii</emphasis>
+</taxonomicName>
+(n = 20), 
+<taxonomicName id="4E4DAB33E84D6015BC307D277FC37551" class="Agnatha" family="Petromyzontidae" genus="Petromyzon" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Petromyzon marinus" order="Petromyzontiformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="species" species="marinus">
+<emphasis id="57997B1A31BF80E31C7BE87FF8233FA5" italics="true" pageId="0" pageNumber="112217">Petromyzon marinus</emphasis>
+</taxonomicName>
+(n = 12) and 
+<taxonomicName id="CDD516F59F430289C4C63C970739BDEF" authorityName="H.F.Linck" authorityYear="1790" class="Actinopteri" family="Alosidae" genus="Alosa" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Alosa" order="Clupeiformes" pageId="0" pageNumber="112217" phylum="Chordata" rank="genus">
+<emphasis id="289443D80E7F87A6F13A596ED74FD866" italics="true" pageId="0" pageNumber="112217">Alosa</emphasis>
+</taxonomicName>
+(n = 1).
+</paragraph>
+</caption>
+</subSection>
+</document>

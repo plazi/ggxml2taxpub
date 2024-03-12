@@ -1,0 +1,1512 @@
+<document ID-CLB-Dataset="290096" ID-DOI="http://dx.doi.org/10.3897/zookeys.1193.114957" ID-GBIF-Dataset="22f0ba99-b9d4-4488-b520-a2dbbdf55e12" ID-Pensoft-Pub="1313-2970-1193-181" ID-Pensoft-UUID="E1868F688C4451E787BCFCC7E618177E" ID-ZooBank="311FA5D6CBA54C738811861D5A27F8FF" ModsDocID="1313-2970-1193-181" checkinTime="1709803639292" checkinUser="pensoft" docAuthor="Constant, Jérôme &amp; Pham, Thai-Hong &amp; Le, Cuong Viet Canh &amp; Vu, Trung Thanh &amp; Nguyen, Hoai Thu Thi &amp; Tran, Hai Nam" docDate="2024" docId="E1868F688C4451E787BCFCC7E618177E" docName="ZooKeys 1193: 181-194" docOrigin="ZooKeys 1193" docPubDate="2024-03-06" docSource="https://zookeys.pensoft.net/article/114957/download/xml/" docTitle="Pisachini planthoppers of Vietnam: new records of Pisacha and a new Goniopsarites species from Central Vietnam (Hemiptera, Fulgoromorpha, Nogodinidae)" docVersion="4" id="E1868F688C4451E787BCFCC7E618177E" lastPageNumber="194" pageNumber="181" updateTime="1709807850222" updateUser="ExternalLinkService">
+<mods:mods id="9D92268BD817F0581F36CDB307F99666" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="2D28455976484688F740DD9C1F4672CA">
+<mods:title id="7F7F68A4E7B4B9F73B4C784D7968FC51">Pisachini planthoppers of Vietnam: new records of Pisacha and a new Goniopsarites species from Central Vietnam (Hemiptera, Fulgoromorpha, Nogodinidae)</mods:title>
+</mods:titleInfo>
+<mods:name id="071A9F646700AEE86A5FFA2BE1ED0FF7" type="personal">
+<mods:role id="84102EF5E4068F545C65EAAEC059C1D9">
+<mods:roleTerm id="467110D46CF98BE14959359607AE1DF6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="417E213F9AADEEEB8B039C332DEE0A8A">
+Constant, 
+<normalizedToken id="875B3B5CDF1E5D0673AFDF32E15720E3" originalValue="Jérôme">Jerome</normalizedToken>
+</mods:namePart>
+<mods:nameIdentifier id="9728E7FEAEF218A9A7811E2ED04A3CC6" type="email">jconstant@naturalsciences.be</mods:nameIdentifier>
+<mods:nameIdentifier id="1896E7803AFC03DFB98B8972EF6901EC" type="ORCID">https://orcid.org/0000-0003-0254-0863</mods:nameIdentifier>
+<mods:affiliation id="FC7583AA90A513D4AAD0F63F3DC6DAF1">Royal Belgian Institute of Natural Sciences, O.D. Taxonomy &amp; Phylogeny - Entomology, Vautier street 29, B-1000 Brussels, Belgium</mods:affiliation>
+</mods:name>
+<mods:name id="D7B9D42D278A6D642645B5D5F7433034" type="personal">
+<mods:role id="09CCA55A7D54BE5C505BDD70BB58D7E8">
+<mods:roleTerm id="395981D1DE95DF65439B6268ED80074B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3328DE8BF4122E20080AAFB431BB8BC2">Pham, Thai-Hong</mods:namePart>
+<mods:nameIdentifier id="78AE6A07E674D6543C50B82CB55AD674" type="email">phamthai1976@yahoo.com</mods:nameIdentifier>
+<mods:nameIdentifier id="10630EAB689E8238EF97CC3716667A09" type="ORCID">https://orcid.org/0000-0002-4763-3679</mods:nameIdentifier>
+<mods:affiliation id="B5E66FA4FF3213463B82E4D8E6493789">Mientrung Institute for Scientific Research, Vietnam National Museum of Nature, VAST, 321 Huynh Thuc Khang, Hue, Vietnam</mods:affiliation>
+<mods:affiliation id="5C8C86C069FA161F05CDA935F6A59CA5">Graduate School of Science and Technology, Vietnam Academy of Science and Technology, 18 Hoang Quoc Viet, Hanoi, Vietnam</mods:affiliation>
+</mods:name>
+<mods:name id="12E391202A4A9D67F1672F11D96B82CB" type="personal">
+<mods:role id="BA41A7C1BF8E10AFEF0F59D23F9D73D4">
+<mods:roleTerm id="B1753825598645C10DD9C7152C5D1642">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="861410AB6E00EBF3241B6ADD44294838">Le, Cuong Viet Canh</mods:namePart>
+<mods:nameIdentifier id="FC1FDB5FD601EA55A99E58DEDA677DBD" type="ORCID">https://orcid.org/0000-0002-1430-6305</mods:nameIdentifier>
+<mods:affiliation id="3FE5B146D4AAD2CCA41FBB86C1A44BF6">Mientrung Institute for Scientific Research, Vietnam National Museum of Nature, VAST, 321 Huynh Thuc Khang, Hue, Vietnam</mods:affiliation>
+</mods:name>
+<mods:name id="E25BE77AB054F58BD778A4AC4D1FC855" type="personal">
+<mods:role id="5455569854B0F16683013710649587F1">
+<mods:roleTerm id="F163244ECADED6F5D5F5A318055D9892">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4F28861432C5158BECF894720E3DC210">Vu, Trung Thanh</mods:namePart>
+<mods:nameIdentifier id="727F0B4F4F3572679B08F986BDA1BC1D" type="ORCID">https://orcid.org/0009-0002-8987-1672</mods:nameIdentifier>
+<mods:affiliation id="BFBBBC7CA4843BBE786780E7DC09C99B">Vietnam National Museum of Nature, Vietnam Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi, Vietnam</mods:affiliation>
+</mods:name>
+<mods:name id="F7D7C41E9FBBC25FB262C41B26D95809" type="personal">
+<mods:role id="587265753A7FE633DEF2DA7F31EBD6B3">
+<mods:roleTerm id="00CABC5E16552AC6A793FA19A085F6AE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="123520CC17E35A9976E5DF954893E9CE">Nguyen, Hoai Thu Thi</mods:namePart>
+<mods:nameIdentifier id="9EC20FB5214A390074E8F1C08D4A0418" type="ORCID">https://orcid.org/0009-0004-9130-2940</mods:nameIdentifier>
+<mods:affiliation id="5CEA2A75A8C923B205D978470091585C">Vietnam National Museum of Nature, Vietnam Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi, Vietnam</mods:affiliation>
+</mods:name>
+<mods:name id="439934FD8F3CCE59B018C88E24DE860C" type="personal">
+<mods:role id="A5EFFA3CC82573CAC596FED5FB56F36B">
+<mods:roleTerm id="2274A5B61B54F1B76DA8B50AE4621CA1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="BDA87027866244F5B4472C003B19756E">Tran, Hai Nam</mods:namePart>
+<mods:nameIdentifier id="CC2F74A08A87C5B1141E86ECFE169869" type="ORCID">https://orcid.org/0009-0003-1557-1666</mods:nameIdentifier>
+<mods:affiliation id="E4FD228F0195542F88E50C53CAA82413">Graduate School of Science and Technology, Vietnam Academy of Science and Technology, 18 Hoang Quoc Viet, Hanoi, Vietnam</mods:affiliation>
+<mods:affiliation id="F03F088EEB015FEC97F1DACF6979B331">Department of Biology, Hanoi National University of Education, 136 Xuan Thuy, Cau Giay, Hanoi, Vietnam</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="8BEAA2EF005F5442E4F023662E10D329">text</mods:typeOfResource>
+<mods:relatedItem id="6B28706CC6B47ED7D942C64374CAB858" type="host">
+<mods:titleInfo id="0A10CE604070F58C9C6422149D36B5A4">
+<mods:title id="0B66057A5A105AAF1C550163F8EC29B5">ZooKeys</mods:title>
+</mods:titleInfo>
+<mods:part id="DA437ED0A9AA9F932CF7D4A4494AA9A7">
+<mods:detail id="B5E950BA1FDA0EE6D5CED2D590B0AE10" type="volume">
+<mods:number id="222831EAD6ECF968BD9B2DE52E25ECB1">1193</mods:number>
+</mods:detail>
+<mods:detail id="D30D6894432458CE43B843417482D637" type="pubDate">
+<mods:number id="8ECD7AB2A5839DEF3F3E943F308764D3">2024-03-06</mods:number>
+</mods:detail>
+<mods:date id="2D163BA8C873A8A58C475D3FDB7A859E">2024</mods:date>
+<mods:extent id="CF4752D4BC3798E387DBD5BD8A37EBFF" unit="page">
+<mods:start id="A9317DDC7EFFC1EE5B657EB502CF0B98">181</mods:start>
+<mods:end id="365BA0AD3B0589C680BB6801C5114A68">194</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="83FD2C9A0B1B6821380100A73CB33A24">
+<mods:url id="4C2086FC04788991C110D931C5E9CCFB">http://dx.doi.org/10.3897/zookeys.1193.114957</mods:url>
+</mods:location>
+<mods:identifier id="FA93DF419AC4D4AA0A1FBA84A7900749" type="DOI">http://dx.doi.org/10.3897/zookeys.1193.114957</mods:identifier>
+<mods:identifier id="58AE535551A630482DC596DEA860A4E5" type="Pensoft-Pub">1313-2970-1193-181</mods:identifier>
+<mods:identifier id="891058CC1550F3478AB025E06EA7860F" type="ZooBank">311FA5D6CBA54C738811861D5A27F8FF</mods:identifier>
+<mods:identifier id="30CB203D81D3575577956FD46C957D35" type="Pensoft-UUID">E1868F688C4451E787BCFCC7E618177E</mods:identifier>
+<mods:classification id="27AE0FADD73EA1A9962F279DB5164404">journal article</mods:classification>
+</mods:mods>
+<subSection id="CDA3800256B975C1906B75E6B7BCF38B" pageId="0" pageNumber="181" type="﻿introduction">
+<paragraph id="2F52A0D94B366F7E9AFCC3988C415857" pageId="0" pageNumber="181">
+<pageBreakToken id="29242908C8D3368F29C6524220C336C0" origin="extrapolated" pageId="0" pageNumber="181" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph id="7879C53E0E6CB33B710124A92899E0DD" pageId="0" pageNumber="181">
+The family 
+<taxonomicName id="CEAA630DF11E9BBA9C7E3FBA96A0B18A" class="Insecta" family="Nogodinidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Nogodinidae</taxonomicName>
+Melichar, 1898 is distributed worldwide in the tropics and subtropics and contains 378 species in 99 genera, including 11 species in Vietnam (
+<bibRefCitation id="38CA8F44A45C4C42840F7B8437EE6EB3" author="Bourgoin, T" pageId="0" pageNumber="181" publicationUrl="http://hemiptera-databases.org/flow/" refId="B1" refString="Bourgoin, T, 2023. FLOW (Fulgoromorpha Lists on the Web): a world knowledge base dedicated to Fulgoromorpha. V.8, updated [i.2023] http://hemiptera-databases.org/flow/" title="FLOW (Fulgoromorpha Lists on the Web): a world knowledge base dedicated to Fulgoromorpha. V. 8, updated [i. 2023]" url="http://hemiptera-databases.org/flow/" year="2023">Bourgoin 2023</bibRefCitation>
+). Of these 11 species, five were described in the last 10 years (
+<bibRefCitation id="4820F736FF66375269FEAE882473BA39" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 8" refId="B5" refString="Constant, J, Pham, HT, 2014. A new species of Orthophana Melichar, 1923 from Vietnam (Hemiptera: Fulgoromorpha: Nogodinidae). Belgian Journal of Entomology 23: 1 - 8" title="A new species of Orthophana Melichar, 1923 from Vietnam (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="23" year="2014">Constant and Pham 2014</bibRefCitation>
+; 
+<bibRefCitation id="F64BB35E323C3CEAB8A0811073C05158" author="Gnezdilov, VM" journalOrPublisher="Acta Entomologica Musei Nationalis Pragae" pageId="0" pageNumber="181" pagination="47 - 55" refId="B8" refString="Gnezdilov, VM, Constant, J, 2014. Notes on the tribe Tongini, with description of a new species of the genus Orthophana from northern Vietnam (Hemiptera: Fulgoroidea: Nogodinidae). Acta Entomologica Musei Nationalis Pragae 54 (1): 47 - 55" title="Notes on the tribe Tongini, with description of a new species of the genus Orthophana from northern Vietnam (Hemiptera: Fulgoroidea: Nogodinidae)." volume="54" year="2014">Gnezdilov and Constant 2014</bibRefCitation>
+; 
+<bibRefCitation id="A5ACDB59BEE1EF73A04057A1AF94B4F4" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" refString="Meng, R, Wang, M-L, Wang, Y-L, 2014. On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam. Zootaxa 3866 (1): 79 - 104, DOI: https://doi.org/10.11646/zootaxa.3866.1.4" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">Meng et al. 2014</bibRefCitation>
+; 
+<bibRefCitation id="01F56403917662BC362C9483DB7F94D5" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 16" refId="B6" refString="Constant, J, Pham, HT, 2016. Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae). Belgian Journal of Entomology 40: 1 - 16" title="Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="40" year="2016">Constant and Pham 2016</bibRefCitation>
+). Within the subfamily 
+<taxonomicName id="F63544BD40E41F85A718458BA4E6D623" lsidName="" pageId="0" pageNumber="181" rank="subFamily" subFamily="Nogodininae">Nogodininae</taxonomicName>
+Melichar, 1898, the tribe 
+<taxonomicName id="55D255236981ECF6FCFDD520746023C7" lsidName="" pageId="0" pageNumber="181" rank="tribe" tribe="Pisachini">Pisachini</taxonomicName>
+Fennah, 1978 was recently reviewed by 
+<bibRefCitation id="D355A9909B1377745690F5745C1EFD7E" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" refString="Meng, R, Wang, M-L, Wang, Y-L, 2014. On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam. Zootaxa 3866 (1): 79 - 104, DOI: https://doi.org/10.11646/zootaxa.3866.1.4" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">Meng et al. (2014)</bibRefCitation>
+and currently counts 10 species in three genera distributed in Southeast Asia (
+<bibRefCitation id="16492A3E79F2F2C8217E3F932FFDF5D6" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 16" refId="B6" refString="Constant, J, Pham, HT, 2016. Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae). Belgian Journal of Entomology 40: 1 - 16" title="Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="40" year="2016">Constant and Pham 2016</bibRefCitation>
+; 
+<bibRefCitation id="A4223EC43BAD17BF52143D38E41C01D7" author="Bourgoin, T" pageId="0" pageNumber="181" publicationUrl="http://hemiptera-databases.org/flow/" refId="B1" refString="Bourgoin, T, 2023. FLOW (Fulgoromorpha Lists on the Web): a world knowledge base dedicated to Fulgoromorpha. V.8, updated [i.2023] http://hemiptera-databases.org/flow/" title="FLOW (Fulgoromorpha Lists on the Web): a world knowledge base dedicated to Fulgoromorpha. V. 8, updated [i. 2023]" url="http://hemiptera-databases.org/flow/" year="2023">Bourgoin 2023</bibRefCitation>
+).
+</paragraph>
+<paragraph id="F555EBD069C4C27B1A682725C4D2837D" pageId="0" pageNumber="181">
+Study of the recent material of 
+<taxonomicName id="34019B60A0213D5343306D1CF5CD2BB5" class="Insecta" family="Nogodinidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Nogodinidae</taxonomicName>
+in the collections of the Vietnam National Museum of Nature and Royal Belgian Institute of Natural Sciences revealed two species of 
+<taxonomicName id="19FD14C10DAB47E8AFF28422509D54CD" lsidName="" pageId="0" pageNumber="181" rank="tribe" tribe="Pisachini">Pisachini</taxonomicName>
+from Central Vietnam, which are new to the fauna of the country, including a species of 
+<taxonomicName id="A8FD0FBD8B2BD1AED4A62C81846FBEE9" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="Goniopsarites" order="Hemiptera" pageId="0" pageNumber="181" rank="genus">
+<emphasis id="3B464396C347F9BE5818CADC5C518A32" italics="true" pageId="0" pageNumber="181">Goniopsarites</emphasis>
+</taxonomicName>
+Meng, Wang &amp; Wang, 2014 new to science.
+</paragraph>
+<paragraph id="50884E6AA2E6357B742D1F5ECD259722" pageId="0" pageNumber="181">
+The present paper describes this new species and provides the first Vietnamese records of 
+<taxonomicName id="82FDD11ED6E35662E03ED418D7486E60" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Pisacha" kingdom="Animalia" lsidName="Pisacha yinggensis" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="yinggensis">
+<emphasis id="E677662318C94C967596E5F236D3B0D8" italics="true" pageId="0" pageNumber="181">Pisacha yinggensis</emphasis>
+</taxonomicName>
+Meng, Wang &amp; Wang, 2014 as a new contribution to the Vietnamese nogodinid fauna.
+</paragraph>
+</subSection>
+<subSection id="D9DA75483EF5EEDB16F294F2206DAB81" pageId="0" pageNumber="181" type="materials_methods">
+<paragraph id="BE112AA94DBD6A98ED4F4B46116BCC5F" pageId="0" pageNumber="181">Material and methods</paragraph>
+<paragraph id="D1156946B3EA841E94C0153FC8EB56D8" pageId="0" pageNumber="181">
+The terminalia were extracted after soaking the abdomen overnight in a 10% solution of potassium hydroxide (KOH) at room temperature. The pygofer was separated from the abdomen, thoroughly rinsed in 70% ethanol, and the aedeagus dissected with a needle blade for examination. The whole was then placed in glycerin for preservation in a tube attached to the pin of the corresponding specimen. The hind wing was mounted, glued on a white cardboard rectangle with white glue, and the cardboard attached to the pin of the specimen. Photographs of collection specimens were taken with a Leica EZ4W stereomicroscope, stacked with CombineZ software, and optimized with Adobe Photoshop software; photographs from the field were taken with an Olympus Tough 6 camera. The maps were produced with SimpleMappr (
+<bibRefCitation id="868663A9F6C1ABDD0DE20672502138CF" author="Shorthouse, DP" journalOrPublisher="John Wiley &amp; Sons, New York" pageId="0" pageNumber="181" publicationUrl="http://www.simplemappr.net" refId="B12" refString="Shorthouse, DP, 2010. SimpleMappr, an online tool to produce publication-quality point maps. http://www.simplemappr.net" title="SimpleMappr, an online tool to produce publication-quality point maps." url="http://www.simplemappr.net" year="2010">Shorthouse 2010</bibRefCitation>
+) and include records available from 
+<bibRefCitation id="6E5C525DF02AA9864945712B18484470" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" refString="Meng, R, Wang, M-L, Wang, Y-L, 2014. On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam. Zootaxa 3866 (1): 79 - 104, DOI: https://doi.org/10.11646/zootaxa.3866.1.4" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">Meng et al. (2014)</bibRefCitation>
+and 
+<bibRefCitation id="C3C2B1D3ECE9ADFE04253A2793699EEF" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 16" refId="B6" refString="Constant, J, Pham, HT, 2016. Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae). Belgian Journal of Entomology 40: 1 - 16" title="Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="40" year="2016">Constant and Pham (2016)</bibRefCitation>
+. The external morphological terminology follows 
+<bibRefCitation id="0592C137BFAEC381345591FF346B0100" author="O'Brien, LB" editor="Nault, LR" journalOrPublisher="John Wiley &amp; Sons, New York" pageId="0" pageNumber="181" pagination="61 - 102" refId="B11" refString="O'Brien, LB, Wilson, SW, 1985. Planthoppers systematics and external morphology. In: Nault, LR, Rodriguez, JG, Eds., The Leafhoppers and Planthoppers. John Wiley &amp; Sons, New York: 61 - 102" title="Planthoppers systematics and external morphology." volumeTitle="The Leafhoppers and Planthoppers." year="1985">
+<normalizedToken id="A17E9093B58CCF69CF4EEA23D7C06573" originalValue="O’Brien">O'Brien</normalizedToken>
+and Wilson (1985)
+</bibRefCitation>
+, the wing venation terminology follows 
+<bibRefCitation id="CBA2FA8EBC6E164CF7A2C73740124EF7" DOI="https://doi.org/10.1007/s00435-014-0243-6" author="Bourgoin, T" journalOrPublisher="Zoomorphology" pageId="0" pageNumber="181" pagination="63 - 77" refId="B3" refString="Bourgoin, T, Wang, RR, Asche, M, Hoch, H, Soulier-Perkins, A, Stroinski, A, Yap, S, Szwedo, J, 2015. From micropterism to hyperpterism: recognition strategy and standardized homology-driven terminology of the fore wing venation patterns in planthoppers (Hemiptera: Fulgoromorpha). Zoomorphology 134 (1): 63 - 77, DOI: https://doi.org/10.1007/s00435-014-0243-6" title="From micropterism to hyperpterism: recognition strategy and standardized homology-driven terminology of the fore wing venation patterns in planthoppers (Hemiptera: Fulgoromorpha)." url="https://doi.org/10.1007/s00435-014-0243-6" volume="134" year="2015">Bourgoin et al. (2015)</bibRefCitation>
+and, for the male terminalia, 
+<bibRefCitation id="80453B9EBDD5C16173489713AAC013D5" DOI="https://doi.org/10.1080/21686351.1990.12277614" author="Bourgoin, T" journalOrPublisher="Nouvelle Serie" pageId="0" pageNumber="181" pagination="555 - 564" refId="B2" refString="Bourgoin, T, Huang, J, 1990. Morphologie comparee des genitalia males des Trypeti-morphini et remarques phylogenetiques (Hemiptera: Fulgoromorpha: Tropiduchidae). Annales de la Societe entomologique de France. Nouvelle Serie 26 (4): 555 - 564, DOI: https://doi.org/10.1080/21686351.1990.12277614" title="Morphologie comparee des genitalia males des Trypeti-morphini et remarques phylogenetiques (Hemiptera: Fulgoromorpha: Tropiduchidae). Annales de la Societe entomologique de France." url="https://doi.org/10.1080/21686351.1990.12277614" volume="26" year="1990">Bourgoin and Huang (1990)</bibRefCitation>
+. The metatibiotarsal formula gives the number of spines on (side of metatibia) apex of metatibia / apex of first metatarsomere / apex of second metatarsomere.
+</paragraph>
+<paragraph id="61C5FE6F0CCFE45350483EA21936D7AA" pageId="0" pageNumber="181">
+The measurements were taken as by 
+<bibRefCitation id="33B74F65406DC81B89AB90A7FC9B1F1E" author="Constant, J" journalOrPublisher="Bulletin de l'Institut royal des Sciences naturelles de Belgique" pageId="0" pageNumber="181" pagination="11 - 28" refId="B4" refString="Constant, J, 2004. Revision des Eurybrachidae (I). Le genre Amychodes Karsch, 1895 (Homoptera: Fulgoromorpha: Eurybrachidae). Bulletin de l'Institut royal des Sciences naturelles de Belgique 74: 11 - 28" title="Revision des Eurybrachidae (I). Le genre Amychodes Karsch, 1895 (Homoptera: Fulgoromorpha: Eurybrachidae)." volume="74" year="2004">Constant (2004)</bibRefCitation>
+and the following acronyms are used:
+</paragraph>
+<paragraph id="546E2653F29AC26612168047AC751F03" pageId="0" pageNumber="181">
+<emphasis id="7EE566F7747757E46E29E3B05386D43D" bold="true" pageId="0" pageNumber="181">BB</emphasis>
+maximum breadth of the body;
+</paragraph>
+<paragraph id="5DF014B88353D782C190AD107E8D3D70" pageId="0" pageNumber="181">
+<emphasis id="398E34AD5D80499CF4C77B9D1E70E931" bold="true" pageId="0" pageNumber="181">BF</emphasis>
+maximum breadth of the fron;
+</paragraph>
+<paragraph id="739A703B7C8D178689F43186D95DE8AD" pageId="0" pageNumber="181">
+<emphasis id="3D49C9C9A8A5410E6F582F0598C17C14" bold="true" pageId="0" pageNumber="181">BTg</emphasis>
+maximum breadth of the tegmen;
+</paragraph>
+<paragraph id="EB299C5B0F154EBC9E37EDE85C4C7B25" pageId="0" pageNumber="181">
+<emphasis id="9194AE29843871079D3CFC587C4C91AE" bold="true" pageId="0" pageNumber="181">BV</emphasis>
+maximum breadth of the vertex;
+</paragraph>
+<paragraph id="1FBF55601F5065B90DBFC0A9B011E4F0" pageId="0" pageNumber="181">
+<emphasis id="03ED8DB6ED0BCE3D435F03775F319C1B" bold="true" pageId="0" pageNumber="181">LF</emphasis>
+length of the frons at median line;
+</paragraph>
+<paragraph id="7F5B64828BB59A9085EAF868FEDE1367" pageId="0" pageNumber="181">
+<emphasis id="34F05078225D0E0C057D61487E973681" bold="true" pageId="0" pageNumber="181">LT</emphasis>
+total length (apex of head to apex of tegmina);
+</paragraph>
+<paragraph id="29D6E13D4A6BAC56B952726011F49C40" pageId="0" pageNumber="181">
+<emphasis id="6371B26D316C0E0A59AE523BF75182E3" bold="true" pageId="0" pageNumber="181">LTg</emphasis>
+length of the tegmen;
+</paragraph>
+<paragraph id="8A65B4DB6F11360465DB6A3F3596B94C" pageId="0" pageNumber="181">
+<emphasis id="7EA3B00AC9AD8165AF2F40C2AD66D6FE" bold="true" pageId="0" pageNumber="181">LV</emphasis>
+length of the vertex at median line.
+</paragraph>
+<paragraph id="94A1553669A6B59D327C40834465E1C2" pageId="0" pageNumber="181">Acronyms used for the collections:</paragraph>
+<paragraph id="48425C73CAA601232173A4BF6379A545" pageId="0" pageNumber="181">
+<emphasis id="8E0DEBA50F8FFCB5DDD6BC387B188E1C" bold="true" pageId="0" pageNumber="181">RBINS</emphasis>
+Royal Belgian Institute of Natural Sciences, Brussels, Belgium;
+</paragraph>
+<paragraph id="8FB9F6693C67DC2B507AD8E7C31BCEE4" pageId="0" pageNumber="181">
+<emphasis id="8D275D273FCE074A76888D3AF5A2F38B" bold="true" pageId="0" pageNumber="181">VNMN</emphasis>
+Vietnam National Museum of Nature, Hanoi, Vietnam.
+</paragraph>
+<paragraph id="CF5650EAA3B3442637674B1356FDCBE2" pageId="0" pageNumber="181">Other abbreviations:</paragraph>
+<paragraph id="16F4E8B9335475EB964C13E2F6B3C405" pageId="0" pageNumber="181">
+<emphasis id="B47CE484E2C3B4331A5EAC90B8085650" bold="true" pageId="0" pageNumber="181">CCRR</emphasis>
+Centre for Conservation of Vietnam Natural Resources and Rescue of Animals and Plants.
+</paragraph>
+</subSection>
+<subSection id="FFBDBC0FAA3B6958F39BFCDA6A213AA7" _chop="before" pageId="0" pageNumber="181" type="﻿taxonomy">
+<paragraph id="5BD91E5F17AEAE76E4A307556E558594" pageId="0" pageNumber="181">Taxonomy</paragraph>
+<paragraph id="1683C5946891B4B4076F323BD6CB25DC" pageId="0" pageNumber="181">
+Family 
+<taxonomicName id="4AA5C1F9297A2D6A9001DD38471186BB" class="Insecta" family="Nogodinidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Nogodinidae</taxonomicName>
+Melichar, 1898
+</paragraph>
+<paragraph id="6DDE7293F4CE661B6E70B617203A5EF0" pageId="0" pageNumber="181">
+<emphasis id="1DE45A5FA6BD4D02313AFF5C843303D6" bold="true" pageId="0" pageNumber="181">
+Subfamily 
+<taxonomicName id="A88FB95D4946B8286F04C1E86B4D64F4" lsidName="" pageId="0" pageNumber="181" rank="subFamily" subFamily="Nogodininae">Nogodininae</taxonomicName>
+Melichar, 1898
+</emphasis>
+</paragraph>
+<paragraph id="BA151D44286FE89BB71B73CEE7CA5EBB" pageId="0" pageNumber="181">
+<emphasis id="F9EE1000B8DADDBFC48A331F2E96053C" bold="true" pageId="0" pageNumber="181">
+Tribe 
+<taxonomicName id="856B2188F765049428D43B1956A97015" lsidName="" pageId="0" pageNumber="181" rank="tribe" tribe="Pisachini">Pisachini</taxonomicName>
+Fennah, 1978
+</emphasis>
+</paragraph>
+</subSection>
+<treatment id="40CE3D7CAB335BBD8E9551F2C2F79E82" ID-GBIF-Taxon="222727628" pageId="0" pageNumber="181">
+<subSubSection id="301A7F18F0B8AFED3D2C9ACE31D75F2D" pageId="0" pageNumber="181" type="nomenclature">
+<paragraph id="626D33E07F1AAAF46CFC43AA618A3586" pageId="0" pageNumber="181">
+Genus 
+<taxonomicName id="7BB663D3FB08174724166B98A7180249" ID-CoL="4Q6M" LSID="40CE3D7C-AB33-5BBD-8E95-51F2C2F79E82" authority="Meng, Wang &amp; Wang, 2014" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Goniopsarites" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Goniopsarites" order="Hemiptera" pageId="0" pageNumber="181" rank="genus">Goniopsarites Meng, Wang &amp; Wang, 2014</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="7501AFA0C42F090E44783EC0736E69ED" pageId="0" pageNumber="181" type="reference_group">
+<paragraph id="C372DB554C07AA1CF71FBF262AE5D458" pageId="0" pageNumber="181">
+<taxonomicName id="2D6866177B20BE8C21B69F1C82557364" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Goniopsarites" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Goniopsarites" order="Hemiptera" pageId="0" pageNumber="181" rank="genus">Goniopsarites</taxonomicName>
+<bibRefCitation id="91FFEA22AE79D47F3E0382B5648E0730" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" refString="Meng, R, Wang, M-L, Wang, Y-L, 2014. On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam. Zootaxa 3866 (1): 79 - 104, DOI: https://doi.org/10.11646/zootaxa.3866.1.4" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">Meng et al., 2014</bibRefCitation>
+: 80, figs 1-27.
+</paragraph>
+</subSubSection>
+<subSubSection id="C1303889AF8CE1CA41AD4705EAA791B4" pageId="0" pageNumber="181" type="type species">
+<paragraph id="02AA698F3952F72635CA2841023DF93C" pageId="0" pageNumber="181">Type species.</paragraph>
+<paragraph id="D36E5FD5435DD97A40AA32888BD86C00" pageId="0" pageNumber="181">
+<taxonomicName id="A548E3AB41E448061606E7ACDE4AE286" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="Goniopsarites fronticonvexus" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="fronticonvexus">
+<emphasis id="99D8CC2E7E55E2152B6FA0FFD883EF6C" italics="true" pageId="0" pageNumber="181">Goniopsarites fronticonvexus</emphasis>
+</taxonomicName>
+Meng, Wang &amp; Wang, 2014, by original designation.
+</paragraph>
+</subSubSection>
+<subSubSection id="E5CC3C3D8A32A22BEFF3EB1E11E394EB" pageId="0" pageNumber="181" type="distribution">
+<paragraph id="0A0DE3F4161A0E203CA59D775C94CA6D" pageId="0" pageNumber="181">Distribution.</paragraph>
+<paragraph id="552656BA05CCFC49584D34A0CBB53292" pageId="0" pageNumber="181">Southern China (Guangdong, Hainan); North and Central Vietnam.</paragraph>
+</subSubSection>
+<subSubSection id="53AAE720663BA605FA31AC6A062B2526" pageId="0" pageNumber="181" type="species included">
+<paragraph id="361C75C8E50AD200DF7EB4833EE72727" pageId="0" pageNumber="181">Species included.</paragraph>
+<paragraph id="FF82037810D049EEE439C7B734FEED38" pageId="0" pageNumber="181">
+<taxonomicName id="F7ECB9E8C9F12D477053A819D6634F57" genus="G." lsidName="G. fronticonvexus" pageId="0" pageNumber="181" rank="species" species="fronticonvexus">
+<emphasis id="FCACBE72DBECE2E738AEB476811EB77D" italics="true" pageId="0" pageNumber="181">G. fronticonvexus</emphasis>
+</taxonomicName>
+Meng, Wang &amp; Wang, 2014 - China: Hainan and Guangdong.
+</paragraph>
+<paragraph id="CF0F12E94F31C636CB30CE2FFD381339" pageId="0" pageNumber="181">
+<taxonomicName id="03F762EDC8769180F5EAD315E1B33263" genus="G." lsidName="G. mientrunganus" pageId="0" pageNumber="181" rank="species" species="mientrunganus">
+<emphasis id="5FAA05280225FDD3A0BA72699ED297EB" italics="true" pageId="0" pageNumber="181">G. mientrunganus</emphasis>
+</taxonomicName>
+Constant &amp; Pham, sp. nov. - Vietnam: Bach Ma National Park and Phong Dien CCRR.
+</paragraph>
+<paragraph id="DF6E54FD0456E8FA0148E7F116DBACBD" pageId="0" pageNumber="181">
+<taxonomicName id="592C521F6E1640409BA22F0A2CAC0AAF" genus="G." lsidName="G. tonkinensis" pageId="0" pageNumber="181" rank="species" species="tonkinensis">
+<emphasis id="72C23E0BBE613E50402280169DC696F2" italics="true" pageId="0" pageNumber="181">G. tonkinensis</emphasis>
+</taxonomicName>
+Constant &amp; Pham, 2016 - Vietnam: Ba Be and Cuc Phuong national parks, and Me Linh Biodiversity Station.
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection id="8301BE9DF8F9A46280748478C04C1C1F" _chop="before" pageId="0" pageNumber="181" type="﻿taxonomy">
+<paragraph id="2BCE5B4189FA6ADEB1B60AD9C259BC50" pageId="0" pageNumber="181">
+Key to the species of 
+<taxonomicName id="CB0C1C92DB1FDD4B158A10030EB7364A" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="Goniopsarites" order="Hemiptera" pageId="0" pageNumber="181" rank="genus">
+<emphasis id="314A59127F843A8F66FA1C07C71B98EA" italics="true" pageId="0" pageNumber="181">Goniopsarites</emphasis>
+</taxonomicName>
+</paragraph>
+<paragraph id="8A46235889A7F82C3AFA843C204B5570" pageId="0" pageNumber="181">
+<table id="6B5BDF2E2309548898C1B9150A5C93E8" inLine="true" pageId="0" pageNumber="181">
+<tr id="BF089DEEDF226FCAFEBFE9EC149D52D4" pageId="0" pageNumber="181">
+<td id="7A83D0D1DC6B953C5DE70B8D2CE7C94C" colspan="1" pageId="0" pageNumber="181" rowspan="1">1</td>
+<td id="04F890ED72C08DB80BDB8BAD7A9CF760" colspan="1" pageId="0" pageNumber="181" rowspan="1">
+Posterior processes of the periandrium (
+<emphasis id="AE9B0567A275FD9FD083EDE79D3532AD" italics="true" pageId="0" pageNumber="181">ppp</emphasis>
+- Fig. 
+<figureCitation id="A541F8F4D3800CFC9150076242DBC727" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., holotype ♂, terminalia A-C pygofer, gonostyli and anal tube A lateral B caudal C dorsal D-I aedeagus, phallobase and connective D left lateral E dorsal F lateroventral G laterodorsal H caudal I ventral. cv = connective; dlp = dorsal laminate process of periandrium; lpa = lateral process of aedeagus; ppp = posterior process of periandrium; spp = sclerotized process of phallus; td = tectiductus; vlp = ventral lobe of periandrium." figureDoi="10.3897/zookeys.1193.114957.figure2" httpUri="https://binary.pensoft.net/fig/997498" pageId="0" pageNumber="181">2D</figureCitation>
+) large and laminate, curved dorsocephalad in lateral view; posterodorsal process of the gonostyli bulging apically (
+<emphasis id="EF3B42316765E36E846D3B719D8C02E0" italics="true" pageId="0" pageNumber="181">G</emphasis>
+- Fig. 
+<figureCitation id="5E8CC767C7AA686BE2607C6448EBEAD5" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., holotype ♂, terminalia A-C pygofer, gonostyli and anal tube A lateral B caudal C dorsal D-I aedeagus, phallobase and connective D left lateral E dorsal F lateroventral G laterodorsal H caudal I ventral. cv = connective; dlp = dorsal laminate process of periandrium; lpa = lateral process of aedeagus; ppp = posterior process of periandrium; spp = sclerotized process of phallus; td = tectiductus; vlp = ventral lobe of periandrium." figureDoi="10.3897/zookeys.1193.114957.figure2" httpUri="https://binary.pensoft.net/fig/997498" pageId="0" pageNumber="181">2A</figureCitation>
+); basiventral lobe of the proximal half of the anal tube strongly developed in lateral view (
+<emphasis id="1ABD00236198967EE9B551C71B9AF6F5" italics="true" pageId="0" pageNumber="181">An</emphasis>
+- Fig. 
+<figureCitation id="FC2FDE86964B2959287E6068193100E1" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., holotype ♂, terminalia A-C pygofer, gonostyli and anal tube A lateral B caudal C dorsal D-I aedeagus, phallobase and connective D left lateral E dorsal F lateroventral G laterodorsal H caudal I ventral. cv = connective; dlp = dorsal laminate process of periandrium; lpa = lateral process of aedeagus; ppp = posterior process of periandrium; spp = sclerotized process of phallus; td = tectiductus; vlp = ventral lobe of periandrium." figureDoi="10.3897/zookeys.1193.114957.figure2" httpUri="https://binary.pensoft.net/fig/997498" pageId="0" pageNumber="181">2A</figureCitation>
+)
+</td>
+<td id="D7B5B94FC455CFD7E7C253CD7C45C622" colspan="1" pageId="0" pageNumber="181" rowspan="1">
+<emphasis id="05C826E03672543E452C94149A1BFBC8" bold="true" pageId="0" pageNumber="181">
+<taxonomicName id="D15F2EFF0E988CB23AADF0F8A3B658EA" authorityName="Constant &amp; Pham" authorityYear="2024" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="Goniopsarites mientrunganus" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="mientrunganus">
+<emphasis id="E4AFB8D8F10A5E6BFF7DE65433E7F6B0" italics="true" pageId="0" pageNumber="181">Goniopsarites mientrunganus</emphasis>
+</taxonomicName>
+Constant &amp; Pham, sp. nov.
+</emphasis>
+</td>
+</tr>
+<tr id="D15B0A6B415EEE8463E8165CB992EC91" pageId="0" pageNumber="181">
+<td id="B52E6411632AD37588447770C37742E3" colspan="1" pageId="0" pageNumber="181" rowspan="1">-</td>
+<td id="FBFDA755D83B3D43B90D9E4E1E74D74A" colspan="1" pageId="0" pageNumber="181" rowspan="1">
+Posterior processes of the periandrium not large and laminate, but instead indistinct (
+<bibRefCitation id="7BF4FBD88A0F12FBC94AF715F37C0A90" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" refString="Meng, R, Wang, M-L, Wang, Y-L, 2014. On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam. Zootaxa 3866 (1): 79 - 104, DOI: https://doi.org/10.11646/zootaxa.3866.1.4" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">Meng et al. 2014</bibRefCitation>
+: fig. 19) or slender and curved posterodorsad (
+<bibRefCitation id="C61B06294F6ABADE9CF73D99E1BD0E97" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 16" refId="B6" refString="Constant, J, Pham, HT, 2016. Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae). Belgian Journal of Entomology 40: 1 - 16" title="Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="40" year="2016">Constant and Pham 2016</bibRefCitation>
+: fig. 4C); posterodorsal process of the gonostyli not bulging apically (
+<bibRefCitation id="47B8FFD03DAD5DC245B78A3D23D7D3E0" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" refString="Meng, R, Wang, M-L, Wang, Y-L, 2014. On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam. Zootaxa 3866 (1): 79 - 104, DOI: https://doi.org/10.11646/zootaxa.3866.1.4" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">Meng et al. 2014</bibRefCitation>
+: fig. 18; 
+<bibRefCitation id="BAE8420A6A5D1D25B5BB59C1F5302CCC" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 8" refId="B5" refString="Constant, J, Pham, HT, 2014. A new species of Orthophana Melichar, 1923 from Vietnam (Hemiptera: Fulgoromorpha: Nogodinidae). Belgian Journal of Entomology 23: 1 - 8" title="A new species of Orthophana Melichar, 1923 from Vietnam (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="23" year="2014">Constant and Pham 2014</bibRefCitation>
+: fig. 4A); basiventral lobe of the proximal half of the anal tube moderately developed in lateral view (
+<bibRefCitation id="349C7A832351CD2FC84DB1E8E40C337B" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" refString="Meng, R, Wang, M-L, Wang, Y-L, 2014. On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam. Zootaxa 3866 (1): 79 - 104, DOI: https://doi.org/10.11646/zootaxa.3866.1.4" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">Meng et al. 2014</bibRefCitation>
+: fig. 18; 
+<bibRefCitation id="F264A091324AD55B3775181CEF4DE487" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 8" refId="B5" refString="Constant, J, Pham, HT, 2014. A new species of Orthophana Melichar, 1923 from Vietnam (Hemiptera: Fulgoromorpha: Nogodinidae). Belgian Journal of Entomology 23: 1 - 8" title="A new species of Orthophana Melichar, 1923 from Vietnam (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="23" year="2014">Constant and Pham 2014</bibRefCitation>
+: fig. 4A)
+</td>
+<td id="26CD48BBD6FED38CB6A0CA8188F32E1F" colspan="1" pageId="0" pageNumber="181" rowspan="1">
+<emphasis id="673223A7C0D47EAFD24D8F20D8D16829" bold="true" pageId="0" pageNumber="181">2</emphasis>
+</td>
+</tr>
+<tr id="0A3C4C9577CC0F4C651B780BE5024780" pageId="0" pageNumber="181">
+<td id="BA7E8B1A5263258D6AC22EB09815E366" colspan="1" pageId="0" pageNumber="181" rowspan="1">2</td>
+<td id="BCE3D2C94C6BBDAAB9CEB3C0F70451C5" colspan="1" pageId="0" pageNumber="181" rowspan="1">
+Anal tube strongly curved and very wide apically in lateral view (
+<bibRefCitation id="EEDD1ADED11844C6B531044F3B5BB3E4" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 16" refId="B6" refString="Constant, J, Pham, HT, 2016. Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae). Belgian Journal of Entomology 40: 1 - 16" title="Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="40" year="2016">Constant and Pham 2016</bibRefCitation>
+: fig. 4A) and with lateral margins strongly sinuate and narrowing towards base in dorsal view (
+<bibRefCitation id="4C881F30D0CE499856F6C023F0364A8F" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 16" refId="B6" refString="Constant, J, Pham, HT, 2016. Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae). Belgian Journal of Entomology 40: 1 - 16" title="Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="40" year="2016">Constant and Pham 2016</bibRefCitation>
+: fig. 4B); apex of aedeagus more elongate and curved ventrally at apex (
+<bibRefCitation id="E334BB04496695860DABC04EA2F34DF2" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 16" refId="B6" refString="Constant, J, Pham, HT, 2016. Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae). Belgian Journal of Entomology 40: 1 - 16" title="Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="40" year="2016">Constant and Pham 2016</bibRefCitation>
+: fig. 4C); lateral processes of aedeagus strongly sinuate (
+<bibRefCitation id="7107556FBDF4B3FCC657888932BED29A" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 16" refId="B6" refString="Constant, J, Pham, HT, 2016. Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae). Belgian Journal of Entomology 40: 1 - 16" title="Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="40" year="2016">Constant and Pham 2016</bibRefCitation>
+, fig. 4C); posterior processes of the periandrium slender and curved posterodorsad (
+<bibRefCitation id="96A7466CF9500F222508A0F04C50FA54" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 16" refId="B6" refString="Constant, J, Pham, HT, 2016. Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae). Belgian Journal of Entomology 40: 1 - 16" title="Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="40" year="2016">Constant and Pham 2016</bibRefCitation>
+: fig. 4C)
+</td>
+<td id="6C2332E0DCDAD24D5E4E311429920CF2" colspan="1" pageId="0" pageNumber="181" rowspan="1">
+<emphasis id="7E851D1EEB4DB3B95C3CA87E3EF6DA1D" bold="true" pageId="0" pageNumber="181">
+<taxonomicName id="773E4F644DCD06A8E6F8C34E5C52DDA4" authorityName="Constant &amp; Pham" authorityYear="2016" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="Goniopsarites tonkinensis" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="tonkinensis">
+<emphasis id="B7D04EADB58FA07AD9ACDC201AB6F2BC" italics="true" pageId="0" pageNumber="181">Goniopsarites tonkinensis</emphasis>
+</taxonomicName>
+Constant &amp; Pham, 2016
+</emphasis>
+</td>
+</tr>
+<tr id="854EF31657669757D6A9392A59C2A262" pageId="0" pageNumber="181">
+<td id="7B6C9075CF93DEBF2E035245B9C434CA" colspan="1" pageId="0" pageNumber="181" rowspan="1">-</td>
+<td id="742E66D731AAEC1E15992850E4F5A317" colspan="1" pageId="0" pageNumber="181" rowspan="1">
+Anal tube moderately curved, and roundly truncate apically in lateral view (
+<bibRefCitation id="AA2872A2F844688C40954B120950B2FA" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" refString="Meng, R, Wang, M-L, Wang, Y-L, 2014. On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam. Zootaxa 3866 (1): 79 - 104, DOI: https://doi.org/10.11646/zootaxa.3866.1.4" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">Meng et al. 2014</bibRefCitation>
+: fig. 18) and with lateral margins weakly sinuate and wider towards base in dorsal view (
+<bibRefCitation id="A000EADDDB21C413D5A66553F259E48D" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" refString="Meng, R, Wang, M-L, Wang, Y-L, 2014. On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam. Zootaxa 3866 (1): 79 - 104, DOI: https://doi.org/10.11646/zootaxa.3866.1.4" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">Meng et al. 2014</bibRefCitation>
+: fig. 14); apex of aedeagus roundly truncate and not curved ventrally at apex (
+<bibRefCitation id="5F4FAA390BD58BB01B500C2D866C8D7D" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" refString="Meng, R, Wang, M-L, Wang, Y-L, 2014. On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam. Zootaxa 3866 (1): 79 - 104, DOI: https://doi.org/10.11646/zootaxa.3866.1.4" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">Meng et al. 2014</bibRefCitation>
+: fig. 19); lateral processes of aedeagus regularly curved in lateral view (
+<bibRefCitation id="4499700418497AC4B483C8202306754C" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" refString="Meng, R, Wang, M-L, Wang, Y-L, 2014. On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam. Zootaxa 3866 (1): 79 - 104, DOI: https://doi.org/10.11646/zootaxa.3866.1.4" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">Meng et al. 2014</bibRefCitation>
+: fig. 19); posterior processes of the periandrium indistinct (
+<bibRefCitation id="C0C2DD90BDDB6893AB05BB20CCDE42DD" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" refString="Meng, R, Wang, M-L, Wang, Y-L, 2014. On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam. Zootaxa 3866 (1): 79 - 104, DOI: https://doi.org/10.11646/zootaxa.3866.1.4" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">Meng et al. 2014</bibRefCitation>
+: figs 19, 20)
+</td>
+<td id="54C45BDACE1EEB9DE58BC1FB22F918C9" colspan="1" pageId="0" pageNumber="181" rowspan="1">
+<emphasis id="308A047AA4792DFDCF8592C206173337" bold="true" pageId="0" pageNumber="181">
+<taxonomicName id="76EB0C49146A6057AD0FA4E8094028B7" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="Goniopsarites fronticonvexus" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="fronticonvexus">
+<emphasis id="4A2A4024922AF71DE8FB2525F0163734" italics="true" pageId="0" pageNumber="181">Goniopsarites fronticonvexus</emphasis>
+</taxonomicName>
+Meng, Wang &amp; Wang, 2014
+</emphasis>
+</td>
+</tr>
+</table>
+</paragraph>
+</subSection>
+<treatment id="81D7FFA74E0B5432A46C66C3F695FA8F" ID-GBIF-Taxon="222727629" LSID="urn:lsid:zoobank.org:act:689317C8-D1E4-4526-81CC-E89B9C11E42B" pageId="0" pageNumber="181">
+<subSubSection id="A218713E15898EEAA7390A075C69FBA3" pageId="0" pageNumber="181" type="nomenclature">
+<paragraph id="3E830C62F0925D81E1EEABC53BB4A1A7" pageId="0" pageNumber="181">
+<taxonomicName id="4635CE51A683EA1CFAFBF3E511E230B8" LSID="https://zoobank.org/689317C8-D1E4-4526-81CC-E89B9C11E42B" authority="Constant &amp; Pham" authorityName="Constant &amp; Pham" authorityYear="2024" family="Nogodinidae" genus="Goniopsarites" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Goniopsarites mientrunganus" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="mientrunganus" status="sp. nov.">Goniopsarites mientrunganus Constant &amp; Pham</taxonomicName>
+<taxonomicNameLabel id="2368D723D0EBCBE81C073D230ABF21F3" pageId="0" pageNumber="181">sp. nov.</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection id="425EBDDC23CD9E00C3CC28DFEB278D1A" pageId="0" pageNumber="181" type="description">
+<paragraph id="2E9861C9CD3D3A46A3E5715C4532AB62" pageId="0" pageNumber="181">
+<figureCitation id="48E7F2E8A8938BFE64B8F26E44ED3EE7" captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov. A-F holotype ♂ A habitus, dorsal B habitus, ventral C habitus, lateral D habitus, perpendicular view of frons E habitus, anterolateral F right hind wing G paratypes ♀♀, posterior margin of sternite VII." figureDoi="10.3897/zookeys.1193.114957.figure1" httpUri="https://binary.pensoft.net/fig/997497" pageId="0" pageNumber="181">Figs 1</figureCitation>
+<figureCitation id="BDD7751729270BA8FDF7A7C315D1C098" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., holotype ♂, terminalia A-C pygofer, gonostyli and anal tube A lateral B caudal C dorsal D-I aedeagus, phallobase and connective D left lateral E dorsal F lateroventral G laterodorsal H caudal I ventral. cv = connective; dlp = dorsal laminate process of periandrium; lpa = lateral process of aedeagus; ppp = posterior process of periandrium; spp = sclerotized process of phallus; td = tectiductus; vlp = ventral lobe of periandrium." figureDoi="10.3897/zookeys.1193.114957.figure2" httpUri="https://binary.pensoft.net/fig/997498" pageId="0" pageNumber="181">, 2</figureCitation>
+<figureCitation id="4F7156586DEAC28A3E3704C5DD06CD93" captionStart="Figure 3" captionStartId="F3" captionText="Figure 3. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., in nature and habitat A-C Bach Ma National Park, low altitude, 15 May 2023 A adult on stem B habitat C nymph D-F Bach Ma National Park, Pheasant Trail, 20 May 2023 D habitat E adult on tree trunk F idem, general view G, H Phong Dien District, CCRR, 23 May 2023 G adult on stem H habitat." figureDoi="10.3897/zookeys.1193.114957.figure3" httpUri="https://binary.pensoft.net/fig/997499" pageId="0" pageNumber="181">, 3</figureCitation>
+<figureCitation id="DEF826B808ED50F05BE7D2F96C661355" captionStart="Figure 4" captionStartId="F4" captionText="Figure 4. Distribution maps A Goniopsarites species in Vietnam B Pisacha yinggensis Meng, Wang &amp; Wang, 2014." figureDoi="10.3897/zookeys.1193.114957.figure4" httpUri="https://binary.pensoft.net/fig/997500" pageId="0" pageNumber="181">, 4A</figureCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="67203921396FCB708F338FE1879E35AE" pageId="0" pageNumber="181" type="type material">
+<paragraph id="47294E9855AA85DC6095A9825D7ECDD1" pageId="0" pageNumber="181">Type material.</paragraph>
+<paragraph id="40874415271993C1C70463BC89C7AFF0" pageId="0" pageNumber="181">
+<emphasis id="8153162F2BD70BB8A1196451F81FC05A" bold="true" italics="true" pageId="0" pageNumber="181">Holotype</emphasis>
+♂, Vietnam • Thừa 
+<normalizedToken id="4FD4479659448440FE60B39B1DDDDE5E" originalValue="Thiên-Hu">Thien-Hu</normalizedToken>
+ế Province, Bach Ma National Park, near ranger station; 
+<geoCoordinate id="B372FE2B2A0352CF6C8B5E8939E91F1E" degrees="16" direction="north" minutes="08" orientation="latitude" precision="15" seconds="37" value="16.143612">16°08'37&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="0030EA6688A158BDD835E1A520D707C5" degrees="107" direction="east" minutes="49" orientation="longitude" precision="15" seconds="36" value="107.82667">107°49'36&quot;E</geoCoordinate>
+; 18 May 2023; alt. 300-600 m; J. Constant &amp; L. Semeraro leg.; VNMN_E000.017.000.
+</paragraph>
+<paragraph id="A97D2665453B4FCAF7B5A2590C3C317E" pageId="0" pageNumber="181">
+<emphasis id="47F58C6252C3A5081E18D8534755608F" bold="true" italics="true" pageId="0" pageNumber="181">Paratypes</emphasis>
+, Vietnam • 1 ♀; Thừa 
+<normalizedToken id="375A95FA269D9D188A91B7E20E2FBB18" originalValue="Thiên-Hu">Thien-Hu</normalizedToken>
+ế Province, Bach Ma National Park; 
+<geoCoordinate id="ED98A63CDA1FEC9C906A2FEF55F6E4A1" degrees="16" direction="north" minutes="13" orientation="latitude" precision="15" seconds="14" value="16.220556">16°13'14&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="2F4ECCA9D0B47AE573EF885209F18028" degrees="107" direction="east" minutes="53" orientation="longitude" precision="15" seconds="10" value="107.88611">107°53'10&quot;E</geoCoordinate>
+; 9 Mar. 2023; by net; V.T. Trung leg.; VNMN_ E000.017.001 • 1 ♂; Thừa 
+<normalizedToken id="73E051D9554E1BD327243925C7FA5C26" originalValue="Thiên-Hu">Thien-Hu</normalizedToken>
+ế Province, Bach Ma National Park, Pheasant trail; 
+<geoCoordinate id="CA7F60E3A8CB63E846BABAF146AAC594" degrees="16" direction="north" minutes="13" orientation="latitude" precision="15" seconds="38" value="16.227222">16°13'38&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="0DB9875AED8FEA7FB9468F76AF505FAF" degrees="107" direction="east" minutes="51" orientation="longitude" precision="15" seconds="20" value="107.85555">107°51'20&quot;E</geoCoordinate>
+; 10-20 May 2023; alt. 500-600 m; J. Constant &amp; L. Semeraro leg.; I.G.: 34.640; RBINS • 2 ♂♂, 1 ♀; Thừa 
+<normalizedToken id="FA9789696B76C965CED2A5FAFBFC3D72" originalValue="Thiên-Hu">Thien-Hu</normalizedToken>
+ế Province, Bach Ma National Park; low altitude; 
+<geoCoordinate id="1355394EC7F4904B97814C1EE0E4D630" degrees="16" direction="north" minutes="13" orientation="latitude" precision="15" seconds="05" value="16.218056">16°13'05&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="28A5463ECAD2ECCCAAB25B89CBF57298" degrees="107" direction="east" minutes="42" orientation="longitude" precision="15" seconds="27" value="107.7075">107°42'27&quot;E</geoCoordinate>
+; 17 May 2023; alt. 100-200 m; J. Constant &amp; L. Semeraro leg.; I.G.: 34.640; RBINS • 1 ♀; Thừa 
+<normalizedToken id="DA1C6BDBDE2689FED5A8654284E9AFFE" originalValue="Thiên-Hu">Thien-Hu</normalizedToken>
+ế Province; Phong Dien District, CCRR; 
+<geoCoordinate id="C85855B83CCB9DF231EB226512569AD1" degrees="16" direction="north" minutes="30" orientation="latitude" precision="15" seconds="27" value="16.5075">16°30'27&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="72C5A36077006A06F4CB516C2DFC1D00" degrees="107" direction="east" minutes="16" orientation="longitude" precision="15" seconds="05" value="107.26806">107°16'05&quot;E</geoCoordinate>
+; 23 May 2023; alt. 350-400 m; J. Constant &amp; L. Semeraro leg.; I.G.: 34.640; RBINS • 1 ♀; same collection data as for preceding; VNMN_E000.017.002.
+</paragraph>
+</subSubSection>
+<subSubSection id="CCF7DAE12376C4835B34450DD611F180" pageId="0" pageNumber="181" type="diagnosis">
+<paragraph id="E0EBF754213A631296D541B02C0147DB" pageId="0" pageNumber="181">Diagnosis.</paragraph>
+<paragraph id="0FBA0AA6DFF2BB5CC62DF6779E0364AC" pageId="0" pageNumber="181">
+The species is very close externally to 
+<taxonomicName id="22B6379F37BB6046757C024492EE6954" genus="G." lsidName="G. fronticonvexus" pageId="0" pageNumber="181" rank="species" species="fronticonvexus">
+<emphasis id="E7BCD493A171FA4FAB7155247BB9CC21" italics="true" pageId="0" pageNumber="181">G. fronticonvexus</emphasis>
+</taxonomicName>
+Meng, Wang &amp; Wang, 2014 and 
+<taxonomicName id="80A236C2FFE09375B5104253151062CC" genus="G." lsidName="G. tonkinensis" pageId="0" pageNumber="181" rank="species" species="tonkinensis">
+<emphasis id="E0DBDC76FF7D7E0C45708AD89CE6C6F7" italics="true" pageId="0" pageNumber="181">G. tonkinensis</emphasis>
+</taxonomicName>
+Constant &amp; Pham, 2016 but has slightly more elongate tegmina, 2.2 times as long as wide (1.9 times in 
+<taxonomicName id="3C1580EDDB533B4B45A7E920FE728F42" genus="G." lsidName="G. fronticonvexus" pageId="0" pageNumber="181" rank="species" species="fronticonvexus">
+<emphasis id="048D398869E9ADEE210774AA23728DCE" italics="true" pageId="0" pageNumber="181">G. fronticonvexus</emphasis>
+</taxonomicName>
+; 2.0 times in 
+<taxonomicName id="2E202AE6D8514DA6C461D43EFFAB3752" genus="G." lsidName="G. tonkinensis" pageId="0" pageNumber="181" rank="species" species="tonkinensis">
+<emphasis id="865A28AE401C60244B45246C99176FD2" italics="true" pageId="0" pageNumber="181">G. tonkinensis</emphasis>
+</taxonomicName>
+). These species are better separated by the male genitalia characters as follows.
+</paragraph>
+<paragraph id="3A1B02FD73E654D79B931723A9DB2F01" pageId="0" pageNumber="181">
+<taxonomicName id="2A0D87C6F3360BE3743CB9029BBA51B9" authorityName="Constant &amp; Pham" authorityYear="2024" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="Goniopsarites mientrunganus" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="mientrunganus">
+<emphasis id="D47D289BAB2E6C213DD63495C151A591" italics="true" pageId="0" pageNumber="181">Goniopsarites mientrunganus</emphasis>
+</taxonomicName>
+Constant &amp; Pham, sp. nov. can be separated from the other two species by 
+<emphasis id="D3830D316E950C309D2A050B265D764A" bold="true" pageId="0" pageNumber="181">(1)</emphasis>
+its large laminate posterior processes of the periandrium (
+<emphasis id="2666CD879A030D4A4A8E91B8E2C467DD" italics="true" pageId="0" pageNumber="181">ppp</emphasis>
+- Fig. 
+<figureCitation id="029A2FC4A84593BAAF7F7B45554606D9" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., holotype ♂, terminalia A-C pygofer, gonostyli and anal tube A lateral B caudal C dorsal D-I aedeagus, phallobase and connective D left lateral E dorsal F lateroventral G laterodorsal H caudal I ventral. cv = connective; dlp = dorsal laminate process of periandrium; lpa = lateral process of aedeagus; ppp = posterior process of periandrium; spp = sclerotized process of phallus; td = tectiductus; vlp = ventral lobe of periandrium." figureDoi="10.3897/zookeys.1193.114957.figure2" httpUri="https://binary.pensoft.net/fig/997498" pageId="0" pageNumber="181">2D</figureCitation>
+), which are absent in 
+<taxonomicName id="59139807ACC8B4350C1D1E3267884C33" genus="G." lsidName="G. fronticonvexus" pageId="0" pageNumber="181" rank="species" species="fronticonvexus">
+<emphasis id="DBBEBC184CB4767DB9C902F87237AEE3" italics="true" pageId="0" pageNumber="181">G. fronticonvexus</emphasis>
+</taxonomicName>
+and much more slender, curved the other way round, in 
+<taxonomicName id="E0918EC731E7CD9EC42166EB87B36A2F" genus="G." lsidName="G. tonkinensis" pageId="0" pageNumber="181" rank="species" species="tonkinensis">
+<emphasis id="0341F215508D9C691CB74DD86B9A9900" italics="true" pageId="0" pageNumber="181">G. tonkinensis</emphasis>
+</taxonomicName>
+; 
+<emphasis id="105E0435C0AA0D7C3269D70060F40117" bold="true" pageId="0" pageNumber="181">(2)</emphasis>
+the posterodorsal process of the gonostyli bulging apically (
+<emphasis id="D7CF646A272B8C01D069A218A146B1FF" italics="true" pageId="0" pageNumber="181">G</emphasis>
+- Fig. 
+<figureCitation id="BD4C2B925B640D9CFF81A07F3222D40A" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., holotype ♂, terminalia A-C pygofer, gonostyli and anal tube A lateral B caudal C dorsal D-I aedeagus, phallobase and connective D left lateral E dorsal F lateroventral G laterodorsal H caudal I ventral. cv = connective; dlp = dorsal laminate process of periandrium; lpa = lateral process of aedeagus; ppp = posterior process of periandrium; spp = sclerotized process of phallus; td = tectiductus; vlp = ventral lobe of periandrium." figureDoi="10.3897/zookeys.1193.114957.figure2" httpUri="https://binary.pensoft.net/fig/997498" pageId="0" pageNumber="181">2A</figureCitation>
+), not bulging in both other species; and 
+<emphasis id="459D7B4F9DB1EEDF5F30A17EC1D4BEDF" bold="true" pageId="0" pageNumber="181">(3)</emphasis>
+the strongly developed basiventral lobe of the proximal half of the anal tube (
+<emphasis id="2A06B84FFD1946A0E0687AAA7FD6386E" italics="true" pageId="0" pageNumber="181">An</emphasis>
+- Fig. 
+<figureCitation id="A5052D49F72F692E40F9593F8C8F8804" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., holotype ♂, terminalia A-C pygofer, gonostyli and anal tube A lateral B caudal C dorsal D-I aedeagus, phallobase and connective D left lateral E dorsal F lateroventral G laterodorsal H caudal I ventral. cv = connective; dlp = dorsal laminate process of periandrium; lpa = lateral process of aedeagus; ppp = posterior process of periandrium; spp = sclerotized process of phallus; td = tectiductus; vlp = ventral lobe of periandrium." figureDoi="10.3897/zookeys.1193.114957.figure2" httpUri="https://binary.pensoft.net/fig/997498" pageId="0" pageNumber="181">2A</figureCitation>
+), clearly less developed in both other species.
+</paragraph>
+<paragraph id="C74B1908BC6350D75EC4255DD9F3342E" pageId="0" pageNumber="181">
+From 
+<taxonomicName id="D8ACB829EB61F2DAFE8787BBAFE9ECFF" genus="G." lsidName="G. tonkinensis" pageId="0" pageNumber="181" rank="species" species="tonkinensis">
+<emphasis id="3C2103E6603E2A0FCB0F0DF87AB6F571" italics="true" pageId="0" pageNumber="181">G. tonkinensis</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="49F4503CAE831024E3B36134891381EC" genus="G." lsidName="G. mientrunganus" pageId="0" pageNumber="181" rank="species" species="mientrunganus">
+<emphasis id="97E0D89A3C7AFF24909B826467595DE0" italics="true" pageId="0" pageNumber="181">G. mientrunganus</emphasis>
+</taxonomicName>
+Constant &amp; Pham, sp. nov. also differs in 
+<emphasis id="4D9C4525411D2F4FFBE748E35DD11D30" bold="true" pageId="0" pageNumber="181">(1)</emphasis>
+having the maximum width of the anal tube in the basal third (
+<emphasis id="55685B8187FC8946C3C61C9502982CFB" italics="true" pageId="0" pageNumber="181">An</emphasis>
+- Fig. 
+<figureCitation id="B540EBDF3BBA138A617AD5A42E8DAC6A" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., holotype ♂, terminalia A-C pygofer, gonostyli and anal tube A lateral B caudal C dorsal D-I aedeagus, phallobase and connective D left lateral E dorsal F lateroventral G laterodorsal H caudal I ventral. cv = connective; dlp = dorsal laminate process of periandrium; lpa = lateral process of aedeagus; ppp = posterior process of periandrium; spp = sclerotized process of phallus; td = tectiductus; vlp = ventral lobe of periandrium." figureDoi="10.3897/zookeys.1193.114957.figure2" httpUri="https://binary.pensoft.net/fig/997498" pageId="0" pageNumber="181">2C</figureCitation>
+), which is in the distal half of the anal tube in 
+<taxonomicName id="F328431CC40601BD827CE3F22D527B6B" genus="G." lsidName="G. tonkinensis" pageId="0" pageNumber="181" rank="species" species="tonkinensis">
+<emphasis id="2F030938C855E979DE8F1AA5423CE837" italics="true" pageId="0" pageNumber="181">G. tonkinensis</emphasis>
+</taxonomicName>
+(the state of this character is not known for 
+<taxonomicName id="A9DCB880FEF94E2EA2E86B8F0512BDDE" genus="G." lsidName="G. fronticonvexus" pageId="0" pageNumber="181" rank="species" species="fronticonvexus">
+<emphasis id="F2E2FF8678E49AD2EC85C94F06B470C6" italics="true" pageId="0" pageNumber="181">G. fronticonvexus</emphasis>
+</taxonomicName>
+); 
+<emphasis id="E6E34ECEA8F575E484A84EAAF1184C02" bold="true" pageId="0" pageNumber="181">(2)</emphasis>
+in having a strongly developed dorsal laminate process along basal half of periandrium (
+<emphasis id="2A08C3453567DC91F54CC769F42BA650" italics="true" pageId="0" pageNumber="181">dlp</emphasis>
+- Fig. 
+<figureCitation id="F32A5B41E3C9928CCC0E919F0A511B4D" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., holotype ♂, terminalia A-C pygofer, gonostyli and anal tube A lateral B caudal C dorsal D-I aedeagus, phallobase and connective D left lateral E dorsal F lateroventral G laterodorsal H caudal I ventral. cv = connective; dlp = dorsal laminate process of periandrium; lpa = lateral process of aedeagus; ppp = posterior process of periandrium; spp = sclerotized process of phallus; td = tectiductus; vlp = ventral lobe of periandrium." figureDoi="10.3897/zookeys.1193.114957.figure2" httpUri="https://binary.pensoft.net/fig/997498" pageId="0" pageNumber="181">2D, F, G</figureCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="869DE46AB66667A7337701187516E53A" pageId="0" pageNumber="181" type="description">
+<paragraph id="1F9B964F4B9BD60FAF581C328391843F" pageId="0" pageNumber="181">Description.</paragraph>
+<paragraph id="6F6191DAE32B999BECF44607027E173F" pageId="0" pageNumber="181">
+<emphasis id="F4E1F79DC280C7D36C809E6E8AFECD1C" bold="true" italics="true" pageId="0" pageNumber="181">Measurements and ratios</emphasis>
+: LT: ♂ (
+<emphasis id="CD023DB20A4A07B7BA6F21A62D24E8FB" italics="true" pageId="0" pageNumber="181">n</emphasis>
+= 4): 11.3 mm (11. 1-11.7); ♀ (
+<emphasis id="867948B7744E2067CAE610F062945D17" italics="true" pageId="0" pageNumber="181">n</emphasis>
+= 4): 13.5 (13. 0-14.5). LTg/BTg = 2.2; LW/BW = 1.4; LV/BV = 8.5; LF/BF = 1.4.
+</paragraph>
+<paragraph id="2531321EC190D5C3F6B644D69E90DF33" pageId="0" pageNumber="181">
+<emphasis id="D7C754A8F70403B50EDD6EDFEBF72D02" bold="true" italics="true" pageId="0" pageNumber="181">Head</emphasis>
+: (Fig. 
+<figureCitation id="FB2D74E405CB19074175FDD93C7E9C6E" captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov. A-F holotype ♂ A habitus, dorsal B habitus, ventral C habitus, lateral D habitus, perpendicular view of frons E habitus, anterolateral F right hind wing G paratypes ♀♀, posterior margin of sternite VII." figureDoi="10.3897/zookeys.1193.114957.figure1" httpUri="https://binary.pensoft.net/fig/997497" pageId="0" pageNumber="181">1A-E</figureCitation>
+) vertex dark brown, with yellowish median and lateral carinae; concave with lateral margins carinate, and with anterior and posterior margins slightly carinate and rather strongly concave in dorsal view, resulting in a very narrow central portion. Frons varying from variegated brown and yellowish, darker under V-shaped carina, carina yellowish to reddish, to nearly completely black-brown, sometimes with yellowish markings around mid-height of lateral margin; narrow, well-defined, yellowish line above frontoclypeal suture; frons elongate, broader dorsally, concave with median carina on middle of disc and with a strong projection on ventral half marked by strong, V-shaped carina extending ventrad on clypeus; projection rounded in lateral view; lateral margins of frons carinate; frontoclypeal suture grooved and rounded ventrally. Genae largely variegated yellow-brown, dark brown under antennae, with pale yellowish spot along anterior margin. Clypeus yellowish, variegated with black-brown on sides towards apex, and with brown oblique lines on each side; clypeus elongate, narrower and shorter than frons, and showing a strong median carina; roundly convex in lateral view. Labium elongate and narrow, yellow-brown, slightly surpassing posterior coxae. Antennae black with scape ring-shaped; pedicel subglobose.
+</paragraph>
+<paragraph id="F19A6C4D468B6ADF3653201D4E4CFA32" pageId="0" pageNumber="181">
+<emphasis id="E036B872B1A130004A2BC22E4A8EEDFC" bold="true" italics="true" pageId="0" pageNumber="181">Thorax</emphasis>
+: (Fig. 
+<figureCitation id="68198B84AF4BEC2848D23CCD91BDE53D" captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov. A-F holotype ♂ A habitus, dorsal B habitus, ventral C habitus, lateral D habitus, perpendicular view of frons E habitus, anterolateral F right hind wing G paratypes ♀♀, posterior margin of sternite VII." figureDoi="10.3897/zookeys.1193.114957.figure1" httpUri="https://binary.pensoft.net/fig/997497" pageId="0" pageNumber="181">1A, C-E</figureCitation>
+) pronotum variegated yellow-brown, darker in middle portion, rather densely pitted, and with median carina weakly marked; lateral fields of prothorax coloured as pronotum, darker in ventral portion, widening ventrally and with ventral margin rounded. Mesonotum dark brown, with yellowish markings on sides and yellowish spot on scutellum; lateral fields moderately pitted; median carina obsolete; lateral carinae marked with yellowish, fusing anteriorly in a rounded carina parallel to posterior margin of pronotum. Tegulae brown.
+</paragraph>
+<caption id="210B4D33081D223611E547CA4A4F8350" doi="10.3897/zookeys.1193.114957.figure1" httpUri="https://binary.pensoft.net/fig/997497" pageId="0" pageNumber="181" start="Figure 1" startId="F1">
+<paragraph id="AE5FF4B7788C236D40A47EEE08C7F3B1" pageId="0" pageNumber="181">
+<emphasis id="B92C4E4040C4EC175FD203E43F8329EB" bold="true" pageId="0" pageNumber="181">Figure 1.</emphasis>
+<taxonomicName id="A3365AB8693DCB525A73E9CB190213BC" authorityName="Constant &amp; Pham" authorityYear="2024" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="Goniopsarites mientrunganus" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="mientrunganus">
+<emphasis id="A707F65FD5EE4BA3A49E6358BA1C6B1A" italics="true" pageId="0" pageNumber="181">Goniopsarites mientrunganus</emphasis>
+</taxonomicName>
+Constant &amp; Pham, sp. nov. 
+<emphasis id="22672D6C0809101E9A7D54AEF9986272" bold="true" pageId="0" pageNumber="181">A-F</emphasis>
+holotype ♂ 
+<emphasis id="59006F48E6D394EB2EDB266E568F9F50" bold="true" pageId="0" pageNumber="181">A</emphasis>
+habitus, dorsal 
+<emphasis id="FD1D60EA3DEFA2CFD54F68AF282D5484" bold="true" pageId="0" pageNumber="181">B</emphasis>
+habitus, ventral 
+<emphasis id="4BEE5D4AC313153263CD4D4E9BA6D258" bold="true" pageId="0" pageNumber="181">C</emphasis>
+habitus, lateral 
+<emphasis id="C7BA5D5AE1E9EBA159A886D9AF4202C6" bold="true" pageId="0" pageNumber="181">D</emphasis>
+habitus, perpendicular view of frons 
+<emphasis id="A87372BF7716C4E9D716383C8EB427CD" bold="true" pageId="0" pageNumber="181">E</emphasis>
+habitus, anterolateral 
+<emphasis id="663BBC228F501D2A2395AE9754618F31" bold="true" pageId="0" pageNumber="181">F</emphasis>
+right hind wing 
+<emphasis id="05D2C11E80CE5506B84469FA67FF4947" bold="true" pageId="0" pageNumber="181">G</emphasis>
+paratypes ♀♀, posterior margin of sternite VII.
+</paragraph>
+</caption>
+<paragraph id="1B0A1B1C7B957133937E24E09D1D2DDE" pageId="0" pageNumber="181">
+<emphasis id="09D0EFA4FB6053273351DDA7268A1F79" bold="true" italics="true" pageId="0" pageNumber="181">Tegmina</emphasis>
+: (Fig. 
+<figureCitation id="99C240A2308950FCBCD57283DF46919E" captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov. A-F holotype ♂ A habitus, dorsal B habitus, ventral C habitus, lateral D habitus, perpendicular view of frons E habitus, anterolateral F right hind wing G paratypes ♀♀, posterior margin of sternite VII." figureDoi="10.3897/zookeys.1193.114957.figure1" httpUri="https://binary.pensoft.net/fig/997497" pageId="0" pageNumber="181">1A-C</figureCitation>
+) elongate, with costal margin broadly rounded on proximal half and rather strongly sinuate on posterior half; brown with large, irregular, black-brown marking on basal half, not extending on clavus; large, pale yellowish marking along costal margin in distal half; clavus with irregular, slightly darker markings on posterior half; hypocostal plate narrow, visible in proximal third; posterior margin obliquely rounded; clavus closed, extending to posterior angle of tegmen. Veins reddish brown, sometimes black in black areas.
+</paragraph>
+<paragraph id="EB56A473DF8EF175C5178DF4C9013C0C" pageId="0" pageNumber="181">
+<emphasis id="A597C2777D9E0089147F0AA0762232F3" bold="true" italics="true" pageId="0" pageNumber="181">Hind wings</emphasis>
+: (Fig. 
+<figureCitation id="15F0014DBD2F223C16D3018D02058B4A" captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov. A-F holotype ♂ A habitus, dorsal B habitus, ventral C habitus, lateral D habitus, perpendicular view of frons E habitus, anterolateral F right hind wing G paratypes ♀♀, posterior margin of sternite VII." figureDoi="10.3897/zookeys.1193.114957.figure1" httpUri="https://binary.pensoft.net/fig/997497" pageId="0" pageNumber="181">1F</figureCitation>
+) brown, darker towards posterocostal angle and with large basicostal yellow-brown area; well developed, with posterior margin trilobed; costal margin sinuate, with coupling apparatus at 2/3 of length.
+</paragraph>
+<paragraph id="280A2D750A97AC36B1D5B19776816D5D" pageId="0" pageNumber="181">
+<emphasis id="A635CE78A65561D3B729DFF75CA5E7B1" bold="true" italics="true" pageId="0" pageNumber="181">Legs</emphasis>
+: (Fig. 
+<figureCitation id="B3B3F29AD29E7F1CBAF371369F4CE02A" captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov. A-F holotype ♂ A habitus, dorsal B habitus, ventral C habitus, lateral D habitus, perpendicular view of frons E habitus, anterolateral F right hind wing G paratypes ♀♀, posterior margin of sternite VII." figureDoi="10.3897/zookeys.1193.114957.figure1" httpUri="https://binary.pensoft.net/fig/997497" pageId="0" pageNumber="181">1A-C</figureCitation>
+) profemora black-brown, with narrow, pale yellow rings; mesofemora pale yellow, with brown rings; pro- and mesotibiae elongate and slender, with 6 rings alternatively pale yellow and brown, basal one brown, apical one yellow; metafemora yellow, with brown markings; metatibiae rather short, broadening towards apex, pale yellow, infuscate basally, with 2 strong lateral spines near apex. Tarsi brown, darker apically. Metatibiotarsal formula: (2) 10 / 2 (+7 on underside) / 2.
+</paragraph>
+<paragraph id="576DBB1AF46FD7148EF6C8C6B9C97FDB" pageId="0" pageNumber="181">
+<emphasis id="4AB9DF715BA15F840F439FD18D76FF79" bold="true" italics="true" pageId="0" pageNumber="181">Abdomen</emphasis>
+: (Fig. 
+<figureCitation id="FABCB6584131E57AD19ABDFD2E5B3A09" captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov. A-F holotype ♂ A habitus, dorsal B habitus, ventral C habitus, lateral D habitus, perpendicular view of frons E habitus, anterolateral F right hind wing G paratypes ♀♀, posterior margin of sternite VII." figureDoi="10.3897/zookeys.1193.114957.figure1" httpUri="https://binary.pensoft.net/fig/997497" pageId="0" pageNumber="181">1B</figureCitation>
+) pale yellowish brown.
+</paragraph>
+<paragraph id="2E150AC42199F9126028EC262380EAC1" pageId="0" pageNumber="181">
+<emphasis id="3A823884093AAAAD64F91F06165620DB" bold="true" italics="true" pageId="0" pageNumber="181">Terminalia</emphasis>
+♂: (Fig. 
+<figureCitation id="654975EE4A3DFA142C3226B2213BFD98" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., holotype ♂, terminalia A-C pygofer, gonostyli and anal tube A lateral B caudal C dorsal D-I aedeagus, phallobase and connective D left lateral E dorsal F lateroventral G laterodorsal H caudal I ventral. cv = connective; dlp = dorsal laminate process of periandrium; lpa = lateral process of aedeagus; ppp = posterior process of periandrium; spp = sclerotized process of phallus; td = tectiductus; vlp = ventral lobe of periandrium." figureDoi="10.3897/zookeys.1193.114957.figure2" httpUri="https://binary.pensoft.net/fig/997498" pageId="0" pageNumber="181">2</figureCitation>
+) pygofer (
+<emphasis id="C75806CC3E1A1B340518072D05AD3EB7" italics="true" pageId="0" pageNumber="181">Py</emphasis>
+) higher than long in lateral view, with anterior and posterior margins moderately sinuate; posterodorsal angles with dorsally developed, subtriangular laminate process, with posterodorsal angle right and rounded. Anal tube (
+<emphasis id="99F84FF21173A6D1C28633959E8444AA" italics="true" pageId="0" pageNumber="181">An</emphasis>
+) massive, elongate, with lateral margins in dorsal view, widely rounded in proximal half, then sinuately tapering towards posterior, leaving widely rounded ventral margin visible on sides in distal half; 1.78 times as long in midline, as wide with maximum width at proximal 1/3 in dorsal view; basal half in lateral view with large ventral lobe; strongly curved ventrally at midlength with lateral margins strongly produced ventrally into broad lobe in distal half. Gonostyli (
+<emphasis id="EC1CC705EB99FD02755B9B2AC1F88B59" italics="true" pageId="0" pageNumber="181">G</emphasis>
+) (Fig. 
+<figureCitation id="055424A655949CE5CB7C095C30690A6C" captionStart="Figure 4" captionStartId="F4" captionText="Figure 4. Distribution maps A Goniopsarites species in Vietnam B Pisacha yinggensis Meng, Wang &amp; Wang, 2014." figureDoi="10.3897/zookeys.1193.114957.figure4" httpUri="https://binary.pensoft.net/fig/997500" pageId="0" pageNumber="181">4A</figureCitation>
+) elongate in lateral view, rounded apically and with strong process projecting dorsomesad at posterodorsal angle; ventral margin nearly straight and posterior margin weakly sinuate in lateral view; dorsal process slightly twisted internally, bulging in distal portion and with apex with blunt point directed anteromesad. Aedeagus (Fig. 
+<figureCitation id="FEBE480641404E187807A848D1952B0F" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., holotype ♂, terminalia A-C pygofer, gonostyli and anal tube A lateral B caudal C dorsal D-I aedeagus, phallobase and connective D left lateral E dorsal F lateroventral G laterodorsal H caudal I ventral. cv = connective; dlp = dorsal laminate process of periandrium; lpa = lateral process of aedeagus; ppp = posterior process of periandrium; spp = sclerotized process of phallus; td = tectiductus; vlp = ventral lobe of periandrium." figureDoi="10.3897/zookeys.1193.114957.figure2" httpUri="https://binary.pensoft.net/fig/997498" pageId="0" pageNumber="181">2D-I</figureCitation>
+) strongly curved in lateral view, with a pair of lateral, elongate, strongly sinuate processes (
+<emphasis id="603637E3E73E48B9B304A008DEDE6876" italics="true" pageId="0" pageNumber="181">lpa</emphasis>
+) directed anteriorly, attached posteriorly at 2/3 of length; processes well visible and sinuate in ventral view. Periandrium posteriorly with a pair of large laminate processes (
+<emphasis id="2C6B9AB132B113B5F479BF55DFB0B69C" italics="true" pageId="0" pageNumber="181">ppp</emphasis>
+), lobe-shaped and developed dorsally into sinuate, elongate, narrowly pointed processes directed mesodorsad; well-developed laminate process (
+<emphasis id="AAC8AEFD9008327DF6DE7D221F71FFF2" italics="true" pageId="0" pageNumber="181">dlp</emphasis>
+) running dorsally in basal half, abruptly terminated at right angle at midlength. Ventral lobe of periandrium (
+<emphasis id="6A7324549A5D048EBD582E0B0EA2A7FA" italics="true" pageId="0" pageNumber="181">vlp</emphasis>
+) elongate, lanceolate in distal portion in ventral view, with sides rounded. Phallus membranous, large, with pair of curved, sclerotized processes (
+<emphasis id="6DC23436512D6A53D23EFBDED308060A" italics="true" pageId="0" pageNumber="181">spp</emphasis>
+) directed cephalodorsad before apex; strongly, angularly projecting posterodorsad; apex narrowing, directed anteriorly, and curved ventrally. Connective (
+<emphasis id="29E501DB3660DC4432BF088B250938B0" italics="true" pageId="0" pageNumber="181">cv</emphasis>
+) with well-developed, elongate tectiductus (
+<emphasis id="0AB196E3F2EBA25B64BB29387A92876D" italics="true" pageId="0" pageNumber="181">td</emphasis>
+) showing complete, broadly rounded dorsal crista.
+</paragraph>
+<caption id="E43CFD4555761387AD8118FA2389CFE0" doi="10.3897/zookeys.1193.114957.figure2" httpUri="https://binary.pensoft.net/fig/997498" pageId="0" pageNumber="181" start="Figure 2" startId="F2">
+<paragraph id="76BACA28E690C3360428D1576A3FC5C4" pageId="0" pageNumber="181">
+<emphasis id="6B76E4A5BCA387A28B2844B4D3374635" bold="true" pageId="0" pageNumber="181">Figure 2.</emphasis>
+<taxonomicName id="225EE910AF83A51977DB0C8660BFA111" authorityName="Constant &amp; Pham" authorityYear="2024" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="Goniopsarites mientrunganus" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="mientrunganus">
+<emphasis id="67707D1034968A4AF3C2D8C7CD6422EE" italics="true" pageId="0" pageNumber="181">Goniopsarites mientrunganus</emphasis>
+</taxonomicName>
+Constant &amp; Pham, sp. nov., holotype ♂, terminalia 
+<emphasis id="39EA174421E326B5753C4BD9D274014F" bold="true" pageId="0" pageNumber="181">A-C</emphasis>
+pygofer, gonostyli and anal tube 
+<emphasis id="DC246744B32C354042ADDF94FF3EFC11" bold="true" pageId="0" pageNumber="181">A</emphasis>
+lateral 
+<emphasis id="AD2B6932AB1B6A6F00D4CDE8E7EB1B93" bold="true" pageId="0" pageNumber="181">B</emphasis>
+caudal 
+<emphasis id="5E11C4E87991118AEEA60FC8A4D67F68" bold="true" pageId="0" pageNumber="181">C</emphasis>
+dorsal 
+<emphasis id="5BBE1398E0B770070868C5421BE8572F" bold="true" pageId="0" pageNumber="181">D-I</emphasis>
+aedeagus, phallobase and connective 
+<emphasis id="013EA42A34951D50414B71473E80FCC1" bold="true" pageId="0" pageNumber="181">D</emphasis>
+left lateral 
+<emphasis id="2BA89253D120038EA071941AE6848428" bold="true" pageId="0" pageNumber="181">E</emphasis>
+dorsal 
+<emphasis id="DF5BEB13CABD8A48FA3401CE54C935DA" bold="true" pageId="0" pageNumber="181">F</emphasis>
+lateroventral 
+<emphasis id="327268C49B7DED0386C2D586B524BCE6" bold="true" pageId="0" pageNumber="181">G</emphasis>
+laterodorsal 
+<emphasis id="7CBBC7E6D5962927E75D8D5F76D5901D" bold="true" pageId="0" pageNumber="181">H</emphasis>
+caudal 
+<emphasis id="E188D549B1D03FD143D4AE26BA254266" bold="true" pageId="0" pageNumber="181">I</emphasis>
+ventral. 
+<emphasis id="A41D1D53A6FFC16B09FF494F8E5AF3BA" italics="true" pageId="0" pageNumber="181">cv</emphasis>
+= connective; 
+<emphasis id="5BAA936B15AFBA1B815DE2CB3D681186" italics="true" pageId="0" pageNumber="181">dlp</emphasis>
+= dorsal laminate process of periandrium; 
+<emphasis id="07FB9FDD799C1F6FD51E7FBA6CFEF262" italics="true" pageId="0" pageNumber="181">lpa</emphasis>
+= lateral process of aedeagus; 
+<emphasis id="3C5CC1BA80ABD0D86F281A086ECA9E65" italics="true" pageId="0" pageNumber="181">ppp</emphasis>
+= posterior process of periandrium; 
+<emphasis id="125B5976DD6815D37EEE5079B4234288" italics="true" pageId="0" pageNumber="181">spp</emphasis>
+= sclerotized process of phallus; 
+<emphasis id="5A574065A95145CF4F30EDBDFB7562D1" italics="true" pageId="0" pageNumber="181">td</emphasis>
+= tectiductus; 
+<emphasis id="8C218847B16BEF3F9DE9CC80780ADC42" italics="true" pageId="0" pageNumber="181">vlp</emphasis>
+= ventral lobe of periandrium.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection id="4E021D8115DC64598206B196E7202CCE" pageId="0" pageNumber="181" type="notes">
+<paragraph id="04F10DBC3B9D0D738AB7F0B93F6244B8" pageId="0" pageNumber="181">Note.</paragraph>
+<paragraph id="C4EAE4072D7A4204AC6D13796A2C5A32" pageId="0" pageNumber="181">
+The female genital structures were checked and found to be similar to those of 
+<taxonomicName id="EB4AE28179429FFECF49FAEFD5A66E50" genus="G." lsidName="G. fronticonvexus" pageId="0" pageNumber="181" rank="species" species="fronticonvexus">
+<emphasis id="2484E2B32FDEB2B13FD0454E403AD523" italics="true" pageId="0" pageNumber="181">G. fronticonvexus</emphasis>
+</taxonomicName>
+, as well as to these of 
+<taxonomicName id="0BB5E968166D123B05E075E2EED1B41D" genus="G." lsidName="G. tonkinensis" pageId="0" pageNumber="181" rank="species" species="tonkinensis">
+<emphasis id="421F9992C7AA067ECC29FB5E96E42A53" italics="true" pageId="0" pageNumber="181">G. tonkinensis</emphasis>
+</taxonomicName>
+, and, as it is the case in most nogodinids that we have observed so far, female genitalia do not help with species identification. The indentation in middle of the hind margin of sternum VII is always present but was found to vary in depth between the specimens of 
+<taxonomicName id="EA1DC17B199F982E6A9CE659D42AC962" genus="G." lsidName="G. mientrunganus" pageId="0" pageNumber="181" rank="species" species="mientrunganus">
+<emphasis id="700830C472203695C1258EB5E7530B47" italics="true" pageId="0" pageNumber="181">G. mientrunganus</emphasis>
+</taxonomicName>
+sp. nov. that we have in hand (Fig. 
+<figureCitation id="38DFE31EDEEFBFB9945E5A47C0AC4AD4" captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov. A-F holotype ♂ A habitus, dorsal B habitus, ventral C habitus, lateral D habitus, perpendicular view of frons E habitus, anterolateral F right hind wing G paratypes ♀♀, posterior margin of sternite VII." figureDoi="10.3897/zookeys.1193.114957.figure1" httpUri="https://binary.pensoft.net/fig/997497" pageId="0" pageNumber="181">1G</figureCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="666B356275D5B87363091BC23876E1C3" pageId="0" pageNumber="181" type="etymology">
+<paragraph id="4F0ED3692494C5286C3117FAAD1A7E78" pageId="0" pageNumber="181">Etymology.</paragraph>
+<paragraph id="80684E5A6A80E44FB3CD4F603D59B422" pageId="0" pageNumber="181">
+The species epithet 
+<emphasis id="AD3F4CF80CE5A619EE6BFD25F8CC4568" italics="true" pageId="0" pageNumber="181">mientrunganus</emphasis>
+refers to the region where the new species was discovered: Central Vietnam, &quot;Miền Trung&quot; in Vietnamese.
+</paragraph>
+</subSubSection>
+<subSubSection id="284AFCEF13C27302D137B57BBCD14CD2" pageId="0" pageNumber="181" type="biology_ecology">
+<paragraph id="AA8DDED065412B829C8821331AFD32A7" pageId="0" pageNumber="181">Biology.</paragraph>
+<paragraph id="A137DED70A25CAEDA9FA1F5675826208" pageId="0" pageNumber="181">
+The specimens were found sitting on stems of bushes (Fig. 
+<figureCitation id="0B3123B46BB220E91771C0A8E82E6C42" captionStart="Figure 3" captionStartId="F3" captionText="Figure 3. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., in nature and habitat A-C Bach Ma National Park, low altitude, 15 May 2023 A adult on stem B habitat C nymph D-F Bach Ma National Park, Pheasant Trail, 20 May 2023 D habitat E adult on tree trunk F idem, general view G, H Phong Dien District, CCRR, 23 May 2023 G adult on stem H habitat." figureDoi="10.3897/zookeys.1193.114957.figure3" httpUri="https://binary.pensoft.net/fig/997499" pageId="0" pageNumber="181">3A, C, G</figureCitation>
+) or on tree trunks (Fig. 
+<figureCitation id="02D71BEBA9D10608C097643906D76E8C" captionStart="Figure 3" captionStartId="F3" captionText="Figure 3. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., in nature and habitat A-C Bach Ma National Park, low altitude, 15 May 2023 A adult on stem B habitat C nymph D-F Bach Ma National Park, Pheasant Trail, 20 May 2023 D habitat E adult on tree trunk F idem, general view G, H Phong Dien District, CCRR, 23 May 2023 G adult on stem H habitat." figureDoi="10.3897/zookeys.1193.114957.figure3" httpUri="https://binary.pensoft.net/fig/997499" pageId="0" pageNumber="181">3E, F</figureCitation>
+), in subtropical evergreen forest (Fig. 
+<figureCitation id="6C8719987E75A96798943771F4651BAC" captionStart="Figure 3" captionStartId="F3" captionText="Figure 3. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., in nature and habitat A-C Bach Ma National Park, low altitude, 15 May 2023 A adult on stem B habitat C nymph D-F Bach Ma National Park, Pheasant Trail, 20 May 2023 D habitat E adult on tree trunk F idem, general view G, H Phong Dien District, CCRR, 23 May 2023 G adult on stem H habitat." figureDoi="10.3897/zookeys.1193.114957.figure3" httpUri="https://binary.pensoft.net/fig/997499" pageId="0" pageNumber="181">3B, D, H</figureCitation>
+) at the junction of the Northern Vietnam lowland rain forests, Southern Vietnam lowland rain forests, and Southern Annamites montane rain forests ecoregions, at rather low altitude (150-600 m). Some nymphs (Fig. 
+<figureCitation id="E6FC3B910181B66E1E377F4CD7D3C044" captionStart="Figure 3" captionStartId="F3" captionText="Figure 3. Goniopsarites mientrunganus Constant &amp; Pham, sp. nov., in nature and habitat A-C Bach Ma National Park, low altitude, 15 May 2023 A adult on stem B habitat C nymph D-F Bach Ma National Park, Pheasant Trail, 20 May 2023 D habitat E adult on tree trunk F idem, general view G, H Phong Dien District, CCRR, 23 May 2023 G adult on stem H habitat." figureDoi="10.3897/zookeys.1193.114957.figure3" httpUri="https://binary.pensoft.net/fig/997499" pageId="0" pageNumber="181">3C</figureCitation>
+) were observed in May 2023 together with adult specimens.
+</paragraph>
+<caption id="19556DDEBD2E27BFE3C128748FC17CD2" doi="10.3897/zookeys.1193.114957.figure3" httpUri="https://binary.pensoft.net/fig/997499" pageId="0" pageNumber="181" start="Figure 3" startId="F3">
+<paragraph id="06A17A4806AC1AFE14B75B983ECBF5B2" pageId="0" pageNumber="181">
+<emphasis id="2C51CA44AF319D4601933D7647B0E703" bold="true" pageId="0" pageNumber="181">Figure 3.</emphasis>
+<taxonomicName id="32C912CA388D0867F7349256F1F9324D" authorityName="Constant &amp; Pham" authorityYear="2024" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="Goniopsarites mientrunganus" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="mientrunganus">
+<emphasis id="D21E9D6A3D4DFA5492368D1561D04945" italics="true" pageId="0" pageNumber="181">Goniopsarites mientrunganus</emphasis>
+</taxonomicName>
+Constant &amp; Pham, sp. nov., in nature and habitat 
+<emphasis id="8C1313131F5F2C594B6E2643AE302EF7" bold="true" pageId="0" pageNumber="181">A-C</emphasis>
+Bach Ma National Park, low altitude, 15 May 2023 
+<emphasis id="0CAC3CF968369106DB263409C355072A" bold="true" pageId="0" pageNumber="181">A</emphasis>
+adult on stem 
+<emphasis id="3B0DD13E9F2FD68E7DB1E3904F0A23D2" bold="true" pageId="0" pageNumber="181">B</emphasis>
+habitat 
+<emphasis id="57B3943C1BBCB1468A355A44FD34CD20" bold="true" pageId="0" pageNumber="181">C</emphasis>
+nymph 
+<emphasis id="1E95ED57163372C78B728F15427EF4BA" bold="true" pageId="0" pageNumber="181">D-F</emphasis>
+Bach Ma National Park, Pheasant Trail, 20 May 2023 
+<emphasis id="2680C1C74E75902D18A0F4C6E09D0D1B" bold="true" pageId="0" pageNumber="181">D</emphasis>
+habitat 
+<emphasis id="F5C53092C8E8971077EF71E90027B10B" bold="true" pageId="0" pageNumber="181">E</emphasis>
+adult on tree trunk 
+<emphasis id="48D5338EBAD503306065DD024724909A" bold="true" pageId="0" pageNumber="181">F</emphasis>
+idem, general view 
+<emphasis id="2BCF18631D6407D0593FD66155BB8E5C" bold="true" pageId="0" pageNumber="181">G, H</emphasis>
+Phong Dien District, CCRR, 23 May 2023 
+<emphasis id="F4245BE244C1E933251EA4B81C96D4E7" bold="true" pageId="0" pageNumber="181">G</emphasis>
+adult on stem 
+<emphasis id="DBCDB13E4719F3C75F8EAC8592E6F1C0" bold="true" pageId="0" pageNumber="181">H</emphasis>
+habitat.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection id="FBBFE5E5F58A77D7F3C135C16C25B03F" pageId="0" pageNumber="181" type="distribution">
+<paragraph id="A794E20EA73671E95B93767B8FFD8416" pageId="0" pageNumber="181">Distribution.</paragraph>
+<paragraph id="B8913D401D00B115A617445040EDD087" pageId="0" pageNumber="181">
+Vietnam, Thua Tinh-Hue Province, Bach Ma National Park, and Phong Dien district, CCRR (Fig. 
+<figureCitation id="2A8DBD5C52B75DFE1D5761E010993E6C" captionStart="Figure 4" captionStartId="F4" captionText="Figure 4. Distribution maps A Goniopsarites species in Vietnam B Pisacha yinggensis Meng, Wang &amp; Wang, 2014." figureDoi="10.3897/zookeys.1193.114957.figure4" httpUri="https://binary.pensoft.net/fig/997500" pageId="0" pageNumber="181">4A</figureCitation>
+).
+</paragraph>
+<caption id="118EAD2A6F11F1274438B32043179B81" doi="10.3897/zookeys.1193.114957.figure4" httpUri="https://binary.pensoft.net/fig/997500" pageId="0" pageNumber="181" start="Figure 4" startId="F4">
+<paragraph id="89549DFE28B1BE33030518B0FADFA0A3" pageId="0" pageNumber="181">
+<emphasis id="144E21A702472D0A348E7568F9196159" bold="true" pageId="0" pageNumber="181">Figure 4.</emphasis>
+Distribution maps 
+<emphasis id="20BD8E845681B328592FE7B55DFA5B48" bold="true" pageId="0" pageNumber="181">A</emphasis>
+<taxonomicName id="B07111C5B508A1944C5E34649C358595" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="Goniopsarites" order="Hemiptera" pageId="0" pageNumber="181" rank="genus">
+<emphasis id="B3987E8B06104CA10CA09EE1BA9282C3" italics="true" pageId="0" pageNumber="181">Goniopsarites</emphasis>
+</taxonomicName>
+species in Vietnam 
+<emphasis id="6A19F48F0F00A9BFAEE34467195198C8" bold="true" pageId="0" pageNumber="181">B</emphasis>
+<taxonomicName id="4E2CEA79625BD28E41E75E944E82119F" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Pisacha" kingdom="Animalia" lsidName="Pisacha yinggensis" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="yinggensis">
+<emphasis id="55ABF03FF2A1CF048BCB72EF6B7D19B7" italics="true" pageId="0" pageNumber="181">Pisacha yinggensis</emphasis>
+</taxonomicName>
+Meng, Wang &amp; Wang, 2014.
+</paragraph>
+</caption>
+</subSubSection>
+</treatment>
+<treatment id="91C920E8CBC55A938B847AF5A844DA4E" ID-GBIF-Taxon="222727626" pageId="0" pageNumber="181">
+<subSubSection id="F51CCEB696F5131DA5BAE72A36C96540" pageId="0" pageNumber="181" type="nomenclature">
+<paragraph id="BF2C3B6954E58FA4D737AE0B86A59EAF" pageId="0" pageNumber="181">
+Genus 
+<taxonomicName id="0E620D7F416402672A958327F0DAB80A" ID-CoL="6QV5" ID-ENA="130623" LSID="91C920E8-CBC5-5A93-8B84-7AF5A844DA4E" authority="Distant, 1906" authorityName="Distant" authorityYear="1906" family="Nogodinidae" genus="Pisacha" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Pisacha" order="Hemiptera" pageId="0" pageNumber="181" rank="genus">Pisacha Distant, 1906</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="BDEBA6EAC76EBBC911B3E4E6797E1037" pageId="0" pageNumber="181" type="reference_group">
+<paragraph id="4349CB49B910E7EBDD2F0F2461EFA702" pageId="0" pageNumber="181">
+<taxonomicName id="DD1B18123CA13B8DC8FAC981C2D46ECB" authorityName="Distant" authorityYear="1906" family="Nogodinidae" genus="Pisacha" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Pisacha" order="Hemiptera" pageId="0" pageNumber="181" rank="genus">Pisacha</taxonomicName>
+Distant, 1906: 391. Type species: 
+<taxonomicName id="7163EA7188C1D6A7BEED329E873E14ED" authorityName="Distant" authorityYear="1906" family="Nogodinidae" genus="Pisacha" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Pisacha naga" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="naga">Pisacha naga</taxonomicName>
+Distant, 1906, by original designation.
+</paragraph>
+<paragraph id="F05AAF7AEB74530B461C7274EC04B819" pageId="0" pageNumber="181">
+<taxonomicName id="92BF59FD42FDC180F02EA20962A3ED6A" authorityName="Jacobi" authorityYear="1915" family="Nogodinidae" genus="Soaemis" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Soaemis" order="Hemiptera" pageId="0" pageNumber="181" rank="genus">Soaemis</taxonomicName>
+Jacobi, 1915. Nomen nudum.
+</paragraph>
+<paragraph id="01AE216589DE32D1A3020C4E12407213" pageId="0" pageNumber="181">
+<taxonomicName id="422DFCE412B2A9F845DB965D63B81FC5" authorityName="Jacobi" authorityYear="1915" family="Nogodinidae" genus="Soaemis" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Soaemis" order="Hemiptera" pageId="0" pageNumber="181" rank="genus">Soaemis</taxonomicName>
+Jacobi, 1916: 311. Type species: 
+<taxonomicName id="7E6AE2B73433B66D1F93C3DDFCE9D2FA" family="Nogodinidae" genus="Soaemis" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Soaemis encaustica" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="encaustica">Soaemis encaustica</taxonomicName>
+Jacobi, 1916, by original designation. Synonymized by 
+<bibRefCitation id="F38BDD9BD7E66EFEBA2BE659320F2D5D" author="Ishihara, T" journalOrPublisher="Special Bulletin of the Lepidoptera Society of Japan" pageId="0" pageNumber="181" pagination="207 - 208" refId="B9" refString="Ishihara, T, 1965. Some species of Formosan Homoptera. Special Bulletin of the Lepidoptera Society of Japan 1: 207 - 208" title="Some species of Formosan Homoptera." volume="1" year="1965">Ishihara (1965</bibRefCitation>
+: 207).
+</paragraph>
+</subSubSection>
+<subSubSection id="4163AD8D929AB285C03239CC01DBEE9F" pageId="0" pageNumber="181" type="distribution">
+<paragraph id="7C5F6519CCB6D914BDF869D464D806CB" pageId="0" pageNumber="181">Distribution.</paragraph>
+<paragraph id="A5C341FD9A454C90DF4E28E5503C90F3" pageId="0" pageNumber="181">Southern China (Chongqing, Guangdong, Hainan, Sichuan, Zhejiang); India (Assam); Taiwan; North and Central Vietnam.</paragraph>
+</subSubSection>
+<subSubSection id="7969E6C4974E1FC81F738E6DA1F46EEB" pageId="0" pageNumber="181" type="species included">
+<paragraph id="4F37DE9BE56060A3D2991D1D18B791D5" pageId="0" pageNumber="181">Species included.</paragraph>
+<paragraph id="D5F38A07BED621D90C242F2DB536ED21" pageId="0" pageNumber="181">
+<taxonomicName id="09EAA234859B490C4C00C7E807FA13E6" class="Insecta" genus="P." higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="P. baculiformis" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="species" species="baculiformis">
+<emphasis id="D465037D83234B3EABD1FE4119BFBAA8" italics="true" pageId="0" pageNumber="181">P. baculiformis</emphasis>
+</taxonomicName>
+Meng, Wang &amp; Wang, 2014 - China: Zhejiang.
+</paragraph>
+<paragraph id="6806EE8D51F9E2143B2AB70287F1AB78" pageId="0" pageNumber="181">
+<taxonomicName id="34DC23C3F0E41B506BCCA982D6DDC6A7" class="Insecta" genus="P." higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="P. balteiformis" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="species" species="balteiformis">
+<emphasis id="6200854122F65C4AF982B71FBF8F482B" italics="true" pageId="0" pageNumber="181">P. balteiformis</emphasis>
+</taxonomicName>
+Meng, Wang &amp; Wang, 2014 - Vietnam: Ninh Binh Province.
+</paragraph>
+<paragraph id="577D63898FCED076EE0EC5CCA67D17B4" pageId="0" pageNumber="181">
+<taxonomicName id="8AC81BDFC07C05578BD46CBA56A302A8" class="Insecta" genus="P." higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="P. encaustica" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="species" species="encaustica">
+<emphasis id="B68112C1034017393DBD824E9B523594" italics="true" pageId="0" pageNumber="181">P. encaustica</emphasis>
+</taxonomicName>
+(Jacobi, 1916) - Taiwan.
+</paragraph>
+<paragraph id="850A36532C398095C864B5BF874B5AA3" pageId="0" pageNumber="181">
+<taxonomicName id="A41D4911AB3E6AAFD8FE27F30CD60502" class="Insecta" genus="P." higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="P. falcata" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="species" species="falcata">
+<emphasis id="300F1D2019A4CD103549CB264B8C948E" italics="true" pageId="0" pageNumber="181">P. falcata</emphasis>
+</taxonomicName>
+Meng, Wang &amp; Wang, 2014 - China: Chongqing, Sichuan.
+</paragraph>
+<paragraph id="EC0C7A5DD90D4505580A6BFF20FF2EBC" pageId="0" pageNumber="181">
+<taxonomicName id="7F766986A3D144858FA0E12861B1667D" class="Insecta" genus="P." higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="P. kwangsiensis" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="species" species="kwangsiensis">
+<emphasis id="59A5361BC5B9AEA2F6DF9FBD0041AD04" italics="true" pageId="0" pageNumber="181">P. kwangsiensis</emphasis>
+</taxonomicName>
+Chou &amp; Lu, 1977 - China: Guangxi.
+</paragraph>
+<paragraph id="E60244597425A78A71B7DDFD3C9ABDC0" pageId="0" pageNumber="181">
+<taxonomicName id="02DDB7CA878848DE5E59E600CA8F8328" class="Insecta" genus="P." higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="P. naga" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="species" species="naga">
+<emphasis id="0C548B768F2A2A122DF95F7F789A5B7D" italics="true" pageId="0" pageNumber="181">P. naga</emphasis>
+</taxonomicName>
+Distant, 1906 - India: Assam.
+</paragraph>
+<paragraph id="7CB8BBDC44F0962B32A09989AE840D8F" pageId="0" pageNumber="181">
+<taxonomicName id="180A0EF10CAA02BFFA6692CEA568DA6D" class="Insecta" genus="P." higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="P. yinggensis" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="species" species="yinggensis">
+<emphasis id="5658F0B41734E9A4DFDC8803366D07AD" italics="true" pageId="0" pageNumber="181">P. yinggensis</emphasis>
+</taxonomicName>
+Meng, Wang &amp; Wang, 2014 - China: Hainan; Vietnam: Thua Thien-Hue Province.
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection id="DAE47D271994FC75A71D7E406740AC73" _chop="after" pageId="0" pageNumber="181" type="﻿taxonomy">
+<treatment id="1C4B0DF6EBFE54EC8578EDEB9788F019" ID-GBIF-Taxon="222727631" pageId="0" pageNumber="181">
+<subSubSection id="20C4E1272C5002AA361F683BAA099D3B" pageId="0" pageNumber="181" type="nomenclature">
+<paragraph id="EBD09E6D2047B263A43472E49D175DE5" pageId="0" pageNumber="181">
+<taxonomicName id="C1A8B4DFA5E8E5C720E7C0F65531E981" ID-CoL="4J8FC" LSID="1C4B0DF6-EBFE-54EC-8578-EDEB9788F019" authority="Meng, Wang &amp; Wang, 2014" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Pisacha" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Pisacha yinggensis" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="yinggensis">Pisacha yinggensis Meng, Wang &amp; Wang, 2014</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="7CE38519C1E1EDC7030EC7E4F05E9A49" pageId="0" pageNumber="181" type="description">
+<paragraph id="02F3B2C2EA618ACBFE9EBD6980579BF5" pageId="0" pageNumber="181">
+<figureCitation id="13746102005A10DE3F94ECEEF26FCA79" captionStart="Figure 4" captionStartId="F4" captionText="Figure 4. Distribution maps A Goniopsarites species in Vietnam B Pisacha yinggensis Meng, Wang &amp; Wang, 2014." figureDoi="10.3897/zookeys.1193.114957.figure4" httpUri="https://binary.pensoft.net/fig/997500" pageId="0" pageNumber="181">Figs 4B</figureCitation>
+<figureCitation id="20FC095C1C3B93F60AA00FCB354EC134" captionStart="Figure 5" captionStartId="F5" captionText="Figure 5. Pisacha yinggensis Meng, Wang &amp; Wang, 2014, from Bach Ma National Park, Pheasant Trail, 10 - 20 May 2023 A-C male A lateral B head and thorax, dorsal C frons, perpendicular D-F female D lateral E head and thorax, dorsal F frons, perpendicular G adult female in nature H habitat." figureDoi="10.3897/zookeys.1193.114957.figure5" httpUri="https://binary.pensoft.net/fig/997501" pageId="0" pageNumber="181">, 5</figureCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="968B6A8DA5AFC26F3A931D26196FDCD6" pageId="0" pageNumber="181" type="reference_group">
+<paragraph id="A60B0815A66119CFB7C7002275BBF933" pageId="0" pageNumber="181">
+<taxonomicName id="B2906235F194A3204F0E70E29FE2A343" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Pisacha" higherTaxonomySource="treatment-meta" kingdom="Animalia" lsidName="Pisacha yinggensis" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="yinggensis">Pisacha yinggensis</taxonomicName>
+Meng, Wang &amp; Wang, 2014: 93, figs 38-41, 56-69, 115, 120.
+</paragraph>
+</subSubSection>
+<subSubSection id="84EED9BB27EEBB96D66E70B4D4C1B33C" pageId="0" pageNumber="181" type="materials_examined">
+<paragraph id="231BAF6E1C2B13F7E420B464CC4A7455" pageId="0" pageNumber="181">Material examined.</paragraph>
+<paragraph id="A82CEA547395501338C3DD8259A1B005" pageId="0" pageNumber="181">
+<materialsCitation id="CF3C987CB04C815BDD6160327FA9DE68" collectingDate="2023-05-23" collectorName="J. Constant, L. Semeraro" country="Vietnam" county="Phong Dien District" elevation="375" latitude="16.5075" location="Th" longLatPrecision="21" longitude="107.26806" municipality="Province" specimenCount="1" specimenCount-male="1">
+<collectingCountry id="5F67B3F0EFBF6160A873DCA3324D6677" name="Vietnam">Vietnam</collectingCountry>
+• 
+<specimenCount id="61073B2FF62295787EFAC12C33E4E79B" count="1" type="male">1 ♂</specimenCount>
+; 
+<location id="C1B3EB19194DA29A3C73C72C2E0554C4" country="Vietnam" county="Phong Dien District" latitude="16.5075" longLatPrecision="21" longitude="107.26806" municipality="Province" name="Th">Th</location>
+ừa 
+<normalizedToken id="D9C66941C441B3EC4C96C684E7E657BD" originalValue="Thiên-Hu">Thien-Hu</normalizedToken>
+ế 
+<collectingMunicipality id="8E7BC39A71E183EFE293D9BA1A10597B">Province</collectingMunicipality>
+; 
+<collectingCounty id="4FE1B07DBB1EE310229FAD83FF88BCD2">Phong Dien District</collectingCounty>
+, CCRR; 
+<geoCoordinate id="9311DE260DD40BFBDCB0634CE86C1D52" degrees="16" direction="north" minutes="30" orientation="latitude" precision="15" seconds="27" value="16.5075">16°30'27&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="CC65EB071F446C87B0AA817A744BF3AA" degrees="107" direction="east" minutes="16" orientation="longitude" precision="15" seconds="05" value="107.26806">107°16'05&quot;E</geoCoordinate>
+; 
+<collectingDate id="D9B9B24821CEA17F4A93EEF24BB1F3FC" value="2023-05-23">23 May 2023</collectingDate>
+; alt. 
+<quantity id="43D26E1DD9B559D09A9FAFF711501D40" metricMagnitude="2" metricUnit="m" metricValue="3.75" metricValueMax="4.0" metricValueMin="3.5" unit="m" value="375.0" valueMax="400.0" valueMin="350.0">
+<elevation id="69BDA2D0E575858789835D28DFD3C3F1" metricMagnitude="2" metricUnit="m" metricValue="3.75" metricValueMax="4.0" metricValueMin="3.5" unit="m" value="375.0" valueMax="400.0" valueMin="350.0">350-400m</elevation>
+</quantity>
+; 
+<collectorName id="B324E17E17A089D3D8981154AE583A3C">J. Constant</collectorName>
+&amp; 
+<collectorName id="AD8B042C7A80B7F54D0DAB4E1EF87361">L. Semeraro</collectorName>
+leg.; I.G.: 34.640; RBINS
+</materialsCitation>
+• 
+<materialsCitation id="1F3AD6BF5DC40071EACE780E1E13CB4C" collectingDate="2011-07-12" collectingDateMax="2023-05-18" collectingDateMin="2011-07-12" collectorName="J. Constant, L. Semeraro, J. Bresseel" country="Vietnam" county="Bach Ma National Park" elevation="450" latitude="16.2" location="Th" longLatPrecision="1282" longitude="107.86667" municipality="Province" specimenCount="3" specimenCount-female="2" specimenCount-male="1">
+<specimenCount id="2BA7B34F678A176B3C22868492FDC78D" count="1" type="male">1 ♂</specimenCount>
+, 
+<specimenCount id="E1B1C7DD09F406843FA845CC1CC6FB47" count="2" type="female">2 ♀♀</specimenCount>
+; 
+<location id="3F36C9F433A5FCDE82F1B98F65848DFE" country="Vietnam" county="Bach Ma National Park" latitude="16.2" longLatPrecision="1282" longitude="107.86667" municipality="Province" name="Th">Th</location>
+ừa 
+<normalizedToken id="9BE2F79A7AE040A0B98D3C1338D22F20" originalValue="Thiên-Hu">Thien-Hu</normalizedToken>
+ế 
+<location id="4C8B68A9699D25F66DBF3F28EC87CAE7" country="Vietnam" county="Bach Ma National Park" latitude="16.2" longLatPrecision="1282" longitude="107.86667" municipality="Province" name="Province">Province</location>
+, 
+<location id="A174723A84AD1B9E38A63046C75BCE0C" country="Vietnam" county="Bach Ma National Park" latitude="16.2" longLatPrecision="1282" longitude="107.86667" municipality="Province" name="Bach Ma National Park">Bach Ma National Park</location>
+, near ranger station; 
+<geoCoordinate id="7E964AD650953BA408B6BE0C4D064C7E" degrees="16" direction="north" minutes="08" orientation="latitude" precision="15" seconds="37" value="16.143612">16°08'37&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="0E0F89DEBB54F742CD1C6C01DAA44D51" degrees="107" direction="east" minutes="49" orientation="longitude" precision="15" seconds="36" value="107.82667">107°49'36&quot;E</geoCoordinate>
+; 
+<collectingDate id="3CA3D5186B87B8FAFABBA98E49B848B6" value="2023-05-18">18 May 2023</collectingDate>
+; alt. 
+<quantity id="4CD3CF47B7E2424563D69C09FF185CDC" metricMagnitude="2" metricUnit="m" metricValue="4.5" metricValueMax="6.0" metricValueMin="3.0" unit="m" value="450.0" valueMax="600.0" valueMin="300.0">
+<elevation id="B9362B269E09A6085DC45E5E04590F74" metricMagnitude="2" metricUnit="m" metricValue="4.5" metricValueMax="6.0" metricValueMin="3.0" unit="m" value="450.0" valueMax="600.0" valueMin="300.0">300-600 m</elevation>
+</quantity>
+; 
+<collectorName id="5FEF73D55DF6C6F9D337A1EA6882D1C8">J. Constant</collectorName>
+&amp; 
+<collectorName id="1B9BCDC05184D3F91CC042777ED0F2C6">L. Semeraro</collectorName>
+leg.; VNMN_ E000.017.003 • 
+<location id="3EFBC0C3F0B1AE9C9F5428951098C7B3" country="Vietnam" county="Bach Ma National Park" latitude="16.2" longLatPrecision="1282" longitude="107.86667" municipality="Province" name="Th">Th</location>
+ừa 
+<normalizedToken id="EB0A8A3430BAD9BC8AD8EE59E29BAA86" originalValue="Thiên-Hu">Thien-Hu</normalizedToken>
+ế 
+<collectingMunicipality id="54995172A57FBC19FC499BCF7B291E2C">Province</collectingMunicipality>
+, 
+<collectingCounty id="FA7B9D81CE3411DA1B15474C866B8E14">Bach Ma National Park</collectingCounty>
+; 
+<geoCoordinate id="7ECC6F6447F16D559F0562B2BA26528B" degrees="16" direction="north" minutes="12" orientation="latitude" precision="925" value="16.2">16°12'N</geoCoordinate>
+, 
+<geoCoordinate id="3EB29A54BA77B092578C243C7525199C" degrees="107" direction="east" minutes="52" orientation="longitude" precision="925" value="107.86667">107°52'E</geoCoordinate>
+; 
+<collectingDate id="C008E9E2791D3D2876F70F7F50CD86C3" value="2011-07-12" valueMax="2011-07-17" valueMin="2011-07-12">12-17 Jul. 2011</collectingDate>
+; 
+<collectorName id="696ECB5C01E55A773E3C0B92F09A5DBB">J. Constant</collectorName>
+&amp; 
+<collectorName id="BE2EA58CE7DBEDF8E94F188F2250343B">J. Bresseel</collectorName>
+leg.; I.G.: 31.933; RBINS
+</materialsCitation>
+• 
+<materialsCitation id="BF8AAC2E64B44E66F57CB33E84AD5334" collectingDate="2023-05-11" collectingDateMax="2023-05-21" collectingDateMin="2023-05-11" collectorName="J. Constant, L. Semeraro" country="Vietnam" county="Bach Ma National Park" elevation="1350" latitude="16.188332" location="Th" longLatPrecision="21" longitude="107.84889" municipality="Province" specimenCount="1" specimenCount-female="1">
+<specimenCount id="738CE1B327E3DF91D0FB60B9978B7F37" count="1" type="female">1 ♀</specimenCount>
+; 
+<location id="4D76E003A0CF6C75D79507F010E448CF" country="Vietnam" county="Bach Ma National Park" latitude="16.188332" longLatPrecision="21" longitude="107.84889" municipality="Province" name="Th">Th</location>
+ừa 
+<normalizedToken id="003B367DD13FE0466A59170F376BE91A" originalValue="Thiên-Hu">Thien-Hu</normalizedToken>
+ế 
+<collectingMunicipality id="876C1272CD143760DE1370ECDE8F1CCB">Province</collectingMunicipality>
+, 
+<collectingCounty id="930118EC080B17E5C846E2F06A40E825">Bach Ma National Park</collectingCounty>
+; summit; 
+<geoCoordinate id="8FADD7A3041D487262F2322A6579CFB8" degrees="16" direction="north" minutes="11" orientation="latitude" precision="15" seconds="18" value="16.188332">16°11'18&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="DE45C63042B51E5C1DB456B47C208A95" degrees="107" direction="east" minutes="50" orientation="longitude" precision="15" seconds="56" value="107.84889">107°50'56&quot;E</geoCoordinate>
+; 
+<collectingDate id="CB7FFA69C06F76A429C2E218E89F1D89" value="2023-05-11" valueMax="2023-05-21" valueMin="2023-05-11">11-21 May 2023</collectingDate>
+; alt. 
+<quantity id="A8C8E54B5918CCEB75445C4EA962F914" metricMagnitude="3" metricUnit="m" metricValue="1.35" metricValueMax="1.4" metricValueMin="1.3" unit="m" value="1350.0" valueMax="1400.0" valueMin="1300.0">
+<elevation id="8A845724BFF3B81A9BB5CAFEEA7C95C3" metricMagnitude="3" metricUnit="m" metricValue="1.35" metricValueMax="1.4" metricValueMin="1.3" unit="m" value="1350.0" valueMax="1400.0" valueMin="1300.0">1300-1400 m</elevation>
+</quantity>
+; 
+<collectorName id="60B1249EF374D87B91B8E27DEA0CC0A5">J. Constant</collectorName>
+&amp; 
+<collectorName id="95FCF0B2C07DEC023BEB7B8B662AD9C6">L. Semeraro</collectorName>
+leg.; I.G.: 34.640; RBINS
+</materialsCitation>
+• 
+<materialsCitation id="39D6DF2320415519A94E3BB7E8750059" collectingDate="2023-05-10" collectingDateMax="2023-05-20" collectingDateMin="2023-05-10" collectorName="J. Constant, L. Semeraro" country="Vietnam" county="Pheasant" elevation="550" latitude="16.227222" location="Th" longLatPrecision="21" longitude="107.85555" municipality="Bach Ma National Park" specimenCount="2" specimenCount-female="1" specimenCount-male="1">
+<specimenCount id="93551C9D501B1257E3A984B7719DC568" count="1" type="male">1 ♂</specimenCount>
+, 
+<specimenCount id="06381BE2CFA837C1902F64B00EE293D1" count="1" type="female">1 ♀</specimenCount>
+; 
+<location id="C5E5EE74DF8A9562839C6EBD23A933C1" country="Vietnam" county="Pheasant" latitude="16.227222" longLatPrecision="21" longitude="107.85555" municipality="Bach Ma National Park" name="Th">Th</location>
+ừa 
+<normalizedToken id="5820DE7EDF95E074BCEDC0B6204D030C" originalValue="Thiên-Hu">Thien-Hu</normalizedToken>
+ế 
+<location id="E115A0BD2F936265654581430DF5DA0D" country="Vietnam" county="Pheasant" latitude="16.227222" longLatPrecision="21" longitude="107.85555" municipality="Bach Ma National Park" name="Province">Province</location>
+, 
+<collectingMunicipality id="32D29258498AE38D90EA32AF8D0809DB">Bach Ma National Park</collectingMunicipality>
+, 
+<collectingCounty id="BA37C9331B8792355F13151E11E1CB19">Pheasant</collectingCounty>
+trail; 
+<geoCoordinate id="75994B2A35414B0C81994C40A4C125EE" degrees="16" direction="north" minutes="13" orientation="latitude" precision="15" seconds="38" value="16.227222">16°13'38&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="6DFBF153D324708B6117F81F895F5DC3" degrees="107" direction="east" minutes="51" orientation="longitude" precision="15" seconds="20" value="107.85555">107°51'20&quot;E</geoCoordinate>
+; 
+<collectingDate id="310F49514C15AC8BE3442F5FB360E5E2" value="2023-05-10" valueMax="2023-05-20" valueMin="2023-05-10">10-20 May 2023</collectingDate>
+; alt. 
+<quantity id="FA80CD73754114E66F181409F48EE802" metricMagnitude="2" metricUnit="m" metricValue="5.5" metricValueMax="6.0" metricValueMin="5.0" unit="m" value="550.0" valueMax="600.0" valueMin="500.0">
+<elevation id="956AAA7988F01DCB616DAA05E2F5963C" metricMagnitude="2" metricUnit="m" metricValue="5.5" metricValueMax="6.0" metricValueMin="5.0" unit="m" value="550.0" valueMax="600.0" valueMin="500.0">500-600 m</elevation>
+</quantity>
+; 
+<collectorName id="2C9A88BA8814967BC5F9F59B379F7DC8">J. Constant</collectorName>
+&amp; 
+<collectorName id="805A9F3300E50705D16B2E4A90E277B3">L. Semeraro</collectorName>
+leg.; I.G.: 34.640; RBINS
+</materialsCitation>
+• 
+<materialsCitation id="BA561D0402B70934B6D3B793FAE70E8E" collectingDate="2024-01-01" collectingDateMax="2024-12-31" collectingDateMin="2024-01-01" collectorName="J. Constant &amp; L. Semeraro" country="Vietnam" county="Pheasant" elevation="550" latitude="16.227222" location="Th" longLatPrecision="21" longitude="107.85555" municipality="Bach Ma National Park" specimenCount="2" specimenCount-female="2">
+<specimenCount id="3055C953E66E259A646983A1E6E2D133" count="2" type="female">2 ♀♀</specimenCount>
+; same collection data as for preceding; VNMN_ E000.017.004
+</materialsCitation>
+• 
+<materialsCitation id="7AA11049F34CE5FB4AA9930755720ECA" collectingDate="2021-03-29" collectingDateMax="2024-12-31" collectingDateMin="2024-01-01" collectingMethod="Malaise trap" collectorName="V. T. Trung" country="Vietnam" county="Pheasant" elevation="550" latitude="16.227222" location="Th" longLatPrecision="21" longitude="107.85555" municipality="Bach Ma National Park" specimenCount="1" specimenCount-male="1">
+<specimenCount id="3573523AA8C2ED2C16FA0DE6CBFE8975" count="1" type="male">1 ♂</specimenCount>
+; same collection data as for preceding; 
+<collectingDate id="C34B53D5C77FDA349EECC35BE4807A5F" value="2021-03-29">29 Mar. 2021</collectingDate>
+; 
+<collectingMethod id="789F06CB6C3FC259408F8ACE409D6865">Malaise trap</collectingMethod>
+; 
+<collectorName id="E3967AE315379BBB51921C38B770EDF0">V.T. Trung</collectorName>
+leg.; VNMN_ E000.017.005
+</materialsCitation>
+• 
+<materialsCitation id="6341485D5CB49FDEDCBC765ECFA8267C" collectingDate="2023-05-23" collectorName="Trung T. Vu" country="Vietnam" county="Phong Dien District" elevation="375" latitude="16.5075" location="Th" longLatPrecision="21" longitude="107.26806" municipality="Province" specimenCount="1" specimenCount-female="1">
+<specimenCount id="5CE114B18ECC63498137D26466A5D7C3" count="1" type="female">1 ♀</specimenCount>
+; 
+<location id="B15C06938E49243A347BFF091D1BC5A1" country="Vietnam" county="Phong Dien District" latitude="16.5075" longLatPrecision="21" longitude="107.26806" municipality="Province" name="Th">Th</location>
+ừa 
+<normalizedToken id="3E6F4A9DCCDAA2149B9A62CABAACF132" originalValue="Thiên-Hu">Thien-Hu</normalizedToken>
+ế 
+<collectingMunicipality id="B45B865BC3C113AE46A8D828C557B919">Province</collectingMunicipality>
+; 
+<collectingCounty id="F4B7ABB9E9946826B4869C5D42D9F1EC">Phong Dien District</collectingCounty>
+, CCRR; 
+<geoCoordinate id="679D8C9121BBBE63278F60948C334287" degrees="16" direction="north" minutes="30" orientation="latitude" precision="15" seconds="27" value="16.5075">16°30'27&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="9EF362B55A5C16D4953BA1AEE7C4D1CE" degrees="107" direction="east" minutes="16" orientation="longitude" precision="15" seconds="05" value="107.26806">107°16'05&quot;E</geoCoordinate>
+; 
+<collectingDate id="E61D94F60F63CE82F223524201E69940" value="2023-05-23">23 May 2023</collectingDate>
+; 
+<quantity id="8CDD6E5877D0E430B106AA8692001988" metricMagnitude="2" metricUnit="m" metricValue="3.75" metricValueMax="4.0" metricValueMin="3.5" unit="m" value="375.0" valueMax="400.0" valueMin="350.0">
+<elevation id="0E1DCBE13D41AECBF993B90A91138926" metricMagnitude="2" metricUnit="m" metricValue="3.75" metricValueMax="4.0" metricValueMin="3.5" unit="m" value="375.0" valueMax="400.0" valueMin="350.0">350-400m</elevation>
+</quantity>
+; 
+<collectorName id="259180FA9B1FF010766E95ED554FE51C">Trung T. Vu</collectorName>
+leg.; VNMN_ E000.017.006
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2A0A0237BB0437395BFE51D6C473D277" pageId="0" pageNumber="181" type="notes">
+<paragraph id="39E78E51D0FFF7F5AB9643BD59EB6752" pageId="0" pageNumber="181">Notes.</paragraph>
+<paragraph id="A68500533B892C317D83695CDF884700" pageId="0" pageNumber="181">
+The specimens from Central Vietnam show obvious sexual dimorphism, with the tegmina of the females marked with a contrasting, incomplete, dark brown to black band at the distal 2/3 of its length, and a broad, oblique area of the same colour, or slightly paler, along the apical margin (Fig. 
+<figureCitation id="06F20B4E04F6B2CC652A17F66161D341" captionStart="Figure 5" captionStartId="F5" captionText="Figure 5. Pisacha yinggensis Meng, Wang &amp; Wang, 2014, from Bach Ma National Park, Pheasant Trail, 10 - 20 May 2023 A-C male A lateral B head and thorax, dorsal C frons, perpendicular D-F female D lateral E head and thorax, dorsal F frons, perpendicular G adult female in nature H habitat." figureDoi="10.3897/zookeys.1193.114957.figure5" httpUri="https://binary.pensoft.net/fig/997501" pageId="0" pageNumber="181">5D, G</figureCitation>
+). These dark markings on the tegmina are weakly visible or absent in males (Fig. 
+<figureCitation id="8FE6D8BF74FF8CEE7B0CEA06AE16858C" captionStart="Figure 5" captionStartId="F5" captionText="Figure 5. Pisacha yinggensis Meng, Wang &amp; Wang, 2014, from Bach Ma National Park, Pheasant Trail, 10 - 20 May 2023 A-C male A lateral B head and thorax, dorsal C frons, perpendicular D-F female D lateral E head and thorax, dorsal F frons, perpendicular G adult female in nature H habitat." figureDoi="10.3897/zookeys.1193.114957.figure5" httpUri="https://binary.pensoft.net/fig/997501" pageId="0" pageNumber="181">5A</figureCitation>
+). The markings of the head and thorax, however, are similar in both sexes (Fig. 
+<figureCitation id="FAD9E63B73F243CCEF92B7B722286B62" captionStart="Figure 5" captionStartId="F5" captionText="Figure 5. Pisacha yinggensis Meng, Wang &amp; Wang, 2014, from Bach Ma National Park, Pheasant Trail, 10 - 20 May 2023 A-C male A lateral B head and thorax, dorsal C frons, perpendicular D-F female D lateral E head and thorax, dorsal F frons, perpendicular G adult female in nature H habitat." figureDoi="10.3897/zookeys.1193.114957.figure5" httpUri="https://binary.pensoft.net/fig/997501" pageId="0" pageNumber="181">5B, C, E, F</figureCitation>
+).
+</paragraph>
+<caption id="13AA752A89B0D3BB503001DE840DBF1B" doi="10.3897/zookeys.1193.114957.figure5" httpUri="https://binary.pensoft.net/fig/997501" pageId="0" pageNumber="181" start="Figure 5" startId="F5">
+<paragraph id="37E8857DFF5B0393D12DFD84123F4A3C" pageId="0" pageNumber="181">
+<emphasis id="2E86C7D20CCE467C02DA7E1877B472E6" bold="true" pageId="0" pageNumber="181">Figure 5.</emphasis>
+<taxonomicName id="5DB0071ACA10C874D2C54C56F84C0BBD" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Pisacha" kingdom="Animalia" lsidName="Pisacha yinggensis" order="Hemiptera" pageId="0" pageNumber="181" rank="species" species="yinggensis">
+<emphasis id="1F18B5F40D27D225AC7E29EB9DC7AA25" italics="true" pageId="0" pageNumber="181">Pisacha yinggensis</emphasis>
+</taxonomicName>
+Meng, Wang &amp; Wang, 2014, from Bach Ma National Park, Pheasant Trail, 10-20 May 2023 
+<emphasis id="56EB95E41D41EFD55183E62F091A4406" bold="true" pageId="0" pageNumber="181">A-C</emphasis>
+male 
+<emphasis id="8A6DB649ED8D80E2B9E37E3CC0BCD068" bold="true" pageId="0" pageNumber="181">A</emphasis>
+lateral 
+<emphasis id="55DBED1F1C6DB3BB6BCB5F965F6A69E0" bold="true" pageId="0" pageNumber="181">B</emphasis>
+head and thorax, dorsal 
+<emphasis id="A524E6AA7938EA81D32EAA29C8C21DE6" bold="true" pageId="0" pageNumber="181">C</emphasis>
+frons, perpendicular 
+<emphasis id="743A697F930ABDF8957851D04DC5082D" bold="true" pageId="0" pageNumber="181">D-F</emphasis>
+female 
+<emphasis id="07305F844899DEB7D47ACF8BC9AEBDD7" bold="true" pageId="0" pageNumber="181">D</emphasis>
+lateral 
+<emphasis id="601C78A4FC97A984FE532A2EC87CED89" bold="true" pageId="0" pageNumber="181">E</emphasis>
+head and thorax, dorsal 
+<emphasis id="B34FC3B3D180C7843FEEB1CE44173C7F" bold="true" pageId="0" pageNumber="181">F</emphasis>
+frons, perpendicular 
+<emphasis id="767AE15425BAEC010FF244427F227638" bold="true" pageId="0" pageNumber="181">G</emphasis>
+adult female in nature 
+<emphasis id="CBBE63E5E75C62F87029946F86F59954" bold="true" pageId="0" pageNumber="181">H</emphasis>
+habitat.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection id="75E086C33D15ACB673AEB93EF04729BC" pageId="0" pageNumber="181" type="biology_ecology">
+<paragraph id="3701A6616FF8D43050853C7474797539" pageId="0" pageNumber="181">Biology and distribution.</paragraph>
+<paragraph id="77A0CA11F83386DAC35AFCC22FA324FC" pageId="0" pageNumber="181">
+The specimens were found sitting on leaves or stems on the lower vegetation (Fig. 
+<figureCitation id="57C11F750CE6362ED48C79D261BF8BD2" captionStart="Figure 5" captionStartId="F5" captionText="Figure 5. Pisacha yinggensis Meng, Wang &amp; Wang, 2014, from Bach Ma National Park, Pheasant Trail, 10 - 20 May 2023 A-C male A lateral B head and thorax, dorsal C frons, perpendicular D-F female D lateral E head and thorax, dorsal F frons, perpendicular G adult female in nature H habitat." figureDoi="10.3897/zookeys.1193.114957.figure5" httpUri="https://binary.pensoft.net/fig/997501" pageId="0" pageNumber="181">5G</figureCitation>
+), in subtropical evergreen forest (Fig. 
+<figureCitation id="D8887EF11DA9B42F1DC58C1EBF9B9DFC" captionStart="Figure 5" captionStartId="F5" captionText="Figure 5. Pisacha yinggensis Meng, Wang &amp; Wang, 2014, from Bach Ma National Park, Pheasant Trail, 10 - 20 May 2023 A-C male A lateral B head and thorax, dorsal C frons, perpendicular D-F female D lateral E head and thorax, dorsal F frons, perpendicular G adult female in nature H habitat." figureDoi="10.3897/zookeys.1193.114957.figure5" httpUri="https://binary.pensoft.net/fig/997501" pageId="0" pageNumber="181">5H</figureCitation>
+) in at the junction of Northern Vietnam lowland rain forests, Southern Vietnam lowland rain forests, and Southern Annamites montane rain forests ecoregions, at altitude from 300 to 1,400 m. In China, the species is recorded from the Hainan Island monsoon rain forests ecoregion.
+</paragraph>
+<paragraph id="A09AEF9F2A83CD8187BD1DCE926D64E7" pageId="0" pageNumber="181">
+The species was previously only recorded from Hainan Island, China (
+<bibRefCitation id="FA17A89205485CFA17FA35081F320E36" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" refString="Meng, R, Wang, M-L, Wang, Y-L, 2014. On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam. Zootaxa 3866 (1): 79 - 104, DOI: https://doi.org/10.11646/zootaxa.3866.1.4" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">Meng et al. 2014</bibRefCitation>
+). It is here recorded for the first time from the mainland, in Central Vietnam (Fig. 
+<figureCitation id="0CFD3C6F25AC35BFCE90834A11316AE4" captionStart="Figure 4" captionStartId="F4" captionText="Figure 4. Distribution maps A Goniopsarites species in Vietnam B Pisacha yinggensis Meng, Wang &amp; Wang, 2014." figureDoi="10.3897/zookeys.1193.114957.figure4" httpUri="https://binary.pensoft.net/fig/997500" pageId="0" pageNumber="181">4B</figureCitation>
+).
+</paragraph>
+</subSubSection>
+</treatment>
+</subSection>
+<subSection id="054273B2DF860A47C44AB8CDED55D073" pageId="0" pageNumber="181" type="﻿discussion">
+<paragraph id="C80BD911790B27DCB1BB0E0EE623D35E" pageId="0" pageNumber="181">Discussion</paragraph>
+<paragraph id="17AF22E8D4FC7783C813D0EBC2943F4C" pageId="0" pageNumber="181">
+The present work adds two species of 
+<taxonomicName id="8A7D7394230FB6494CC445FFEC0E06BD" class="Insecta" family="Nogodinidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Nogodinidae</taxonomicName>
+to the fauna of Vietnam, including one species described as new. This leads to a total of 13 species for the country. As a comparison, 10 species are known from China (
+<bibRefCitation id="7888DBE2B5851BEF38CC734DC59773EC" author="Bourgoin, T" pageId="0" pageNumber="181" publicationUrl="http://hemiptera-databases.org/flow/" refId="B1" refString="Bourgoin, T, 2023. FLOW (Fulgoromorpha Lists on the Web): a world knowledge base dedicated to Fulgoromorpha. V.8, updated [i.2023] http://hemiptera-databases.org/flow/" title="FLOW (Fulgoromorpha Lists on the Web): a world knowledge base dedicated to Fulgoromorpha. V. 8, updated [i. 2023]" url="http://hemiptera-databases.org/flow/" year="2023">Bourgoin 2023</bibRefCitation>
+). The new records also greatly extend the Vietnamese distribution of the genera 
+<taxonomicName id="88CA396CBFD87AFC8CAAE096B353FD25" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="Goniopsarites" order="Hemiptera" pageId="0" pageNumber="181" rank="genus">
+<emphasis id="118DB665FAC4285A3CECAB0D23CD6F03" italics="true" pageId="0" pageNumber="181">Goniopsarites</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="C1213AA3DCCB2D40DCE8FE879B7DF83C" authorityName="Distant" authorityYear="1906" family="Nogodinidae" genus="Pisacha" kingdom="Animalia" lsidName="Pisacha" order="Hemiptera" pageId="0" pageNumber="181" rank="genus">
+<emphasis id="BD39448B84F228824B3C27F94BB36AD2" italics="true" pageId="0" pageNumber="181">Pisacha</emphasis>
+</taxonomicName>
+to the south but leave a gap of over 500 km without any records of these genera in the northern half of Central Vietnam.
+</paragraph>
+<paragraph id="98030DEA1A42FEB45D6A9E588497D57A" pageId="0" pageNumber="181">
+In Phong Dien District, VNMN is conducting an ambitious project of forest restoration at the Centre for Conservation of Vietnam Natural Resources and Rescue of Animals and Plants, not far from the forest where 
+<taxonomicName id="6A16B193443467EECA93ED8FE348B9A9" genus="G." lsidName="G. mientrunganus" pageId="0" pageNumber="181" rank="species" species="mientrunganus">
+<emphasis id="6EEE739FE96389585225BE39487417BF" italics="true" pageId="0" pageNumber="181">G. mientrunganus</emphasis>
+</taxonomicName>
+Constant &amp; Pham, sp. nov. and 
+<taxonomicName id="6D44E4803657AB2E94B8A52601345A8E" class="Insecta" genus="P." higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="P. yinggensis" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="species" species="yinggensis">
+<emphasis id="82D04B967CF623073944C060EA06A54C" italics="true" pageId="0" pageNumber="181">P. yinggensis</emphasis>
+</taxonomicName>
+were found. As already recently mentioned for a new species of 
+<taxonomicName id="9A104B9355E063CE07C66E4C9EEDDD72" authorityName="Stal" authorityYear="1866" class="Hexapoda" family="Tropiduchidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Tropiduchidae</taxonomicName>
+, 
+<taxonomicName id="BC0B5D97DABB62357C23D777FB7F8183" class="Insecta" genus="Connelicita" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Connelicita phongdienensis" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="species" species="phongdienensis">
+<emphasis id="EF755755FEFE14A034BD2A28AE539A5C" italics="true" pageId="0" pageNumber="181">Connelicita phongdienensis</emphasis>
+</taxonomicName>
+Constant &amp; Pham, 2023, the return of such planthopper species in this area in the future would be a great indicator of a successful project (
+<bibRefCitation id="714F6F999DE9746465916414DF54D64D" DOI="https://doi.org/10.3897/zookeys.1186.113701" author="Constant, J" journalOrPublisher="ZooKeys" pageId="0" pageNumber="181" pagination="105 - 122" refId="B7" refString="Constant, J, Pham, T-H, Le, CVC, Vu, TT, Nguyen, HTT, 2023. The tropiduchid planthopper genus Connelicita Wang &amp; Bourgoin, 2015: Two new species from Central Vietnam and new records (Hemiptera, Fulgoromorpha, Tropiduchidae). ZooKeys 1186: 105 - 122, DOI: https://doi.org/10.3897/zookeys.1186.113701" title="The tropiduchid planthopper genus Connelicita Wang &amp; Bourgoin, 2015: Two new species from Central Vietnam and new records (Hemiptera, Fulgoromorpha, Tropiduchidae)." url="https://doi.org/10.3897/zookeys.1186.113701" volume="1186" year="2023">Constant et al. 2023</bibRefCitation>
+).
+</paragraph>
+</subSection>
+<subSection id="66E14DB03CF2E582A4303BFC64BC7549" pageId="0" pageNumber="181" type="acknowledgements">
+<paragraph id="D8DA2B5093E73C2CCCD9344B1A397031" pageId="0" pageNumber="181">Acknowledgements</paragraph>
+<paragraph id="5C18BE93D871235AD702FC0420D4723C" pageId="0" pageNumber="181">
+We thank Dr Linda Semeraro and Mr Joachim Bresseel (scientific collaborators, RBINS) and our guides in Bach Ma National Park, 
+<normalizedToken id="AA4A8F02F01CD963AA54E959E9127B7E" originalValue="Lâm">Lam</normalizedToken>
+<normalizedToken id="1CDD1AFCC1A0088F1EB2E0E9CEBB2A57" originalValue="Bá">Ba</normalizedToken>
+<normalizedToken id="67B28FD6E925138F8123F2D6BFEEFC09" originalValue="Vũ">Vũ</normalizedToken>
+Nguyễn, and Quang Thanh Nguyễn for all their help and friendship during the collecting trips, the authorities of Bach Ma National Park and Centre for Conservation of Vietnam Natural Resources and Rescue of Animals and plants, Dr Frederik Hendrickx (RBINS), and Dr Thierry Backeljau (RBINS) for their support to our projects.
+</paragraph>
+</subSection>
+<subSection id="873DC7916D3DEF0D8B1CB6471B399990" pageId="0" pageNumber="181" type="﻿additional information">
+<paragraph id="7D664F98B2B0B1E06D7BC8463098A59C" pageId="0" pageNumber="181">Additional information</paragraph>
+<paragraph id="3A427FD6D3D7AE4E2869D6AC107BB9F1" pageId="0" pageNumber="181">Conflict of interest</paragraph>
+<paragraph id="873CA2318B843CA4E63EA7D071A64225" pageId="0" pageNumber="181">The authors have declared that no competing interests exist.</paragraph>
+<paragraph id="05A1AE659BEABF9E9485236FE868D867" pageId="0" pageNumber="181">Ethical statement</paragraph>
+<paragraph id="85FF3CAEF931AB15599253C65B06CDCB" pageId="0" pageNumber="181">No ethical statement was reported.</paragraph>
+<paragraph id="F928D68175C8F1569DFD1F45CD141888" pageId="0" pageNumber="181">Funding</paragraph>
+<paragraph id="A38F652E15746500EBF96D34B4EBF996" pageId="0" pageNumber="181">
+The present study was funded by the Vietnam Academy of Science and Technology (VAST) under the grants number NCXS02.04/22-23, CT0000.04/22-24. The 2011 record of 
+<taxonomicName id="AA54DDC6C5B4FD6A4A82F33EF9D37116" class="Insecta" genus="P." higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="P. yinggensis" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="species" species="yinggensis">
+<emphasis id="DFE9ED5B0A60BE7B8E778B079094A077" italics="true" pageId="0" pageNumber="181">P. yinggensis</emphasis>
+</taxonomicName>
+was obtained from fieldwork of the Global Taxonomy Initiative project &quot;A step further in the Entomodiversity of Vietnam&quot;, supported through a grant issued by the capacity building Programme of the Belgian Global Taxonomy Initiative National Focal Point that runs under the CEBioS programme with financial support from the Belgian Directorate-General for Development Cooperation (DGD).
+</paragraph>
+<paragraph id="0DC04A1C400BB5C36973C643AC6318C9" pageId="0" pageNumber="181">Author contributions</paragraph>
+<paragraph id="50BDACB4293EE342016F08EADA8F1FE0" pageId="0" pageNumber="181">Conceptualization, J.C. and T.-H.P.; Funding acquisition, T.-H.P. and J.C.; Investigation, J.C.; Methodology, J.C. and T.-H.P.; Project administration, T.-H.P., C.V.C.L. and J.C.; Field work, J.C., T.-H.P., C.V.C.L., T.T.V., H.T.T.N.; Field logistics, T.-H.P., C.V.C.L., T.T.V., H.T.T.N.; Supervision, J.C. and T.-H.P.; Validation, J.C. and T.-H.P.; Writing - original draft, J.C.; Writing - review and editing, J.C., T.-H.P., C.V.C.L., T.T.V., H.T.T.N. All authors have read and agreed to the published version of the manuscript.</paragraph>
+<paragraph id="1E0216277779FB798B7DF9D7C0097B9D" pageId="0" pageNumber="181">Author ORCIDs</paragraph>
+<paragraph id="2493C533BB544CF77A803FDBE8702C20" pageId="0" pageNumber="181">
+<normalizedToken id="C4EFED9C4A0B196402BD26744FAB9E36" originalValue="Jérôme">Jerome</normalizedToken>
+Constant https://orcid.org/0000-0003-0254-0863
+</paragraph>
+<paragraph id="F144F5FE49D4EAAB512181F8280A06C0" pageId="0" pageNumber="181">Thai-Hong Pham https://orcid.org/0000-0002-4763-3679</paragraph>
+<paragraph id="56B922D4FD5C3FB44E1CB1AAB96CE1F2" pageId="0" pageNumber="181">Cuong Viet Canh Le https://orcid.org/0000-0002-1430-6305</paragraph>
+<paragraph id="8FF9AEE360F0A29502D0E1358C399360" pageId="0" pageNumber="181">Trung Thanh Vu https://orcid.org/0009-0002-8987-1672</paragraph>
+<paragraph id="091D41D7E5CFD4A788FC4F69230B6096" pageId="0" pageNumber="181">Hoai Thu Thi Nguyen https://orcid.org/0009-0004-9130-2940</paragraph>
+<paragraph id="BE306A5301A85BD714A5558840F25814" pageId="0" pageNumber="181">Hai Nam Tran https://orcid.org/0009-0003-1557-1666</paragraph>
+<paragraph id="6C5B1497D9E48E236F860F2C911E45AD" pageId="0" pageNumber="181">Data availability</paragraph>
+<paragraph id="65DA01DB6ED7F74D8398E76865AA9A76" pageId="0" pageNumber="181">All of the data that support the findings of this study are available in the main text.</paragraph>
+</subSection>
+<subSection id="B568B4250FBF7AC27A7CB178A495ADBF" pageId="0" pageNumber="181" type="reference_group">
+<paragraph id="621631AB3EF634B71FEE96C7FC5A31CB" pageId="0" pageNumber="181">References</paragraph>
+<paragraph id="10BE9A0813BBA6DD2573EF1783C29448" pageId="0" pageNumber="181">
+<bibRef id="F482C6CE95602E449DF70B0AFAD447BD" author="Bourgoin, T" pageId="0" pageNumber="181" publicationUrl="http://hemiptera-databases.org/flow/" refId="B1" title="FLOW (Fulgoromorpha Lists on the Web): a world knowledge base dedicated to Fulgoromorpha. V. 8, updated [i. 2023]" url="http://hemiptera-databases.org/flow/" year="2023">
+<author id="FC0F183B81E51954880F146CFD01A064" pageId="0" pageNumber="181">Bourgoin, T</author>
+, 
+<year id="6D8D1E257035F5DC86086AEE96F90434" pageId="0" pageNumber="181">2023</year>
+. 
+<title id="AF79045B4490D8B0F3014F34DCBCAB0A" pageId="0" pageNumber="181">FLOW (Fulgoromorpha Lists on the Web): a world knowledge base dedicated to Fulgoromorpha. V.8, updated [i.2023]</title>
+<publicationUrl id="D0CF890D7BE471515CB941694ED51136" pageId="0" pageNumber="181">http://hemiptera-databases.org/flow/</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph id="7F41CB05E912B59509C933BD17DC8BDA" pageId="0" pageNumber="181">
+<bibRef id="7E656CB81D5FD2569C70947B6D9E23E2" DOI="https://doi.org/10.1080/21686351.1990.12277614" author="Bourgoin, T" journalOrPublisher="Nouvelle Serie" pageId="0" pageNumber="181" pagination="555 - 564" refId="B2" title="Morphologie comparee des genitalia males des Trypeti-morphini et remarques phylogenetiques (Hemiptera: Fulgoromorpha: Tropiduchidae). Annales de la Societe entomologique de France." url="https://doi.org/10.1080/21686351.1990.12277614" volume="26" year="1990">
+<author id="5F0F6074DBA4D788123C3E96AB98F983" pageId="0" pageNumber="181">Bourgoin, T</author>
+, 
+<author id="2A4E3143A3E44753592292F10E97F781" pageId="0" pageNumber="181">Huang, J</author>
+, 
+<year id="EFB1C3439B66490972D257A753AD8ABA" pageId="0" pageNumber="181">1990</year>
+. 
+<title id="AAD45578D37BC20AA7667E21DED667A4" pageId="0" pageNumber="181">
+Morphologie 
+<normalizedToken id="E12BDD14AAB47BCADE5567E9E796B7CF" originalValue="comparée">comparee</normalizedToken>
+des genitalia 
+<normalizedToken id="B361B21898F7A195BDE59CD3FD073922" originalValue="mâles">males</normalizedToken>
+des Trypeti-morphini et remarques 
+<normalizedToken id="2EC079FFE69DD0AF42C349D48F19A038" originalValue="phylogénétiques">phylogenetiques</normalizedToken>
+(
+<taxonomicName id="C06006723789000498AF9BCA77F224C6" class="Insecta" genus="P." higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="order">Hemiptera</taxonomicName>
+: 
+<taxonomicName id="AC891794A6961F94BE7BF1D0F25A649F" class="Insecta" genus="P." higherTaxonomySource="GBIF" infraOrder="Fulgoromorpha" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="infraOrder">Fulgoromorpha</taxonomicName>
+: 
+<taxonomicName id="7F1DB63AC8E670174CF42FFB8E52CFA4" authorityName="Stal" authorityYear="1866" class="Hexapoda" family="Tropiduchidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Tropiduchidae</taxonomicName>
+). Annales de la 
+<normalizedToken id="6FE4E9841978599D9BD67CA0CBA42EF4" originalValue="Société">Societe</normalizedToken>
+entomologique de France.
+</title>
+<journalOrPublisher id="445E5185272C4A9BCE4DD6F16287D8DE" pageId="0" pageNumber="181">
+Nouvelle 
+<normalizedToken id="5297CCEA47121D86C5409818E744735F" originalValue="Série">Serie</normalizedToken>
+</journalOrPublisher>
+<volume id="939B1A340BDBF414D6AB720B2CA518AB" pageId="0" pageNumber="181">26</volume>
+(
+<issue id="F33AC0FEBE36749CAD48A71E661007E4" pageId="0" pageNumber="181">4</issue>
+): 
+<pagination id="9E6F565D2B5A445A923A9E3CC031BA03" pageId="0" pageNumber="181">555 - 564</pagination>
+, DOI: 
+<DOI id="571F0D9368C6A917391E9587E1F9CE41" pageId="0" pageNumber="181">https://doi.org/10.1080/21686351.1990.12277614</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="A9365698C6EC89972A2552F15BAF9288" pageId="0" pageNumber="181">
+<bibRef id="635DBFCCB88FCBF1A71EE51DA036D880" DOI="https://doi.org/10.1007/s00435-014-0243-6" author="Bourgoin, T" journalOrPublisher="Zoomorphology" pageId="0" pageNumber="181" pagination="63 - 77" refId="B3" title="From micropterism to hyperpterism: recognition strategy and standardized homology-driven terminology of the fore wing venation patterns in planthoppers (Hemiptera: Fulgoromorpha)." url="https://doi.org/10.1007/s00435-014-0243-6" volume="134" year="2015">
+<author id="7C60A6EFC0BFBA92110C698A4F95D812" pageId="0" pageNumber="181">Bourgoin, T</author>
+, 
+<author id="5907683A4F5E04B20B206975F8F7E7C0" pageId="0" pageNumber="181">Wang, RR</author>
+, 
+<author id="6A55098CB28BF064A024620D5C77A89E" pageId="0" pageNumber="181">Asche, M</author>
+, 
+<author id="68555711095E3D947FAD38001F6380DE" pageId="0" pageNumber="181">Hoch, H</author>
+, 
+<author id="01F605D072C70A8D00A5A96BD7D1E527" pageId="0" pageNumber="181">Soulier-Perkins, A</author>
+, 
+<author id="B693B7FF8987C3E4F6F64CB04EB0FE39" pageId="0" pageNumber="181">Stroinski, A</author>
+, 
+<author id="B22FAE1F9C8CCAE092804DCAD9B2AD90" pageId="0" pageNumber="181">Yap, S</author>
+, 
+<author id="F189872BF92D06BA6D87E716B8ACD105" pageId="0" pageNumber="181">Szwedo, J</author>
+, 
+<year id="A77EB1620B11064AA95785B57458EAA3" pageId="0" pageNumber="181">2015</year>
+. 
+<title id="D97014780BB3B10677C5A4EE5699FF30" pageId="0" pageNumber="181">
+From micropterism to hyperpterism: recognition strategy and standardized homology-driven terminology of the fore wing venation patterns in planthoppers (
+<taxonomicName id="6C910D3A79D6C761B8BDAF45369C931E" class="Insecta" genus="P." higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="order">Hemiptera</taxonomicName>
+: 
+<taxonomicName id="16D3F5E9BA6E7FCD48AFAC437A5698DF" class="Insecta" genus="P." higherTaxonomySource="GBIF" infraOrder="Fulgoromorpha" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="infraOrder">Fulgoromorpha</taxonomicName>
+).
+</title>
+<journalOrPublisher id="0810C8EE30EAA58A4B61C0343F99AB18" pageId="0" pageNumber="181">Zoomorphology</journalOrPublisher>
+<volume id="80DD3D27930A3F9A8A853B859E7FA872" pageId="0" pageNumber="181">134</volume>
+(
+<issue id="8E101F5587ED58F2AD3F556095D33AA2" pageId="0" pageNumber="181">1</issue>
+): 
+<pagination id="4C71DC75F9AE6FA072CCC2EE4779D928" pageId="0" pageNumber="181">63 - 77</pagination>
+, DOI: 
+<DOI id="E93C54BDCD60F0A738424DCED3DA6D5C" pageId="0" pageNumber="181">https://doi.org/10.1007/s00435-014-0243-6</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="0CC61A3D9C89EDC0F1A76C61E773E710" pageId="0" pageNumber="181">
+<bibRef id="8344180C68D288492377C52E1FD2ED9F" author="Constant, J" journalOrPublisher="Bulletin de l'Institut royal des Sciences naturelles de Belgique" pageId="0" pageNumber="181" pagination="11 - 28" refId="B4" title="Revision des Eurybrachidae (I). Le genre Amychodes Karsch, 1895 (Homoptera: Fulgoromorpha: Eurybrachidae)." volume="74" year="2004">
+<author id="DC6831D9FF02EF312E761FC50B304EE3" pageId="0" pageNumber="181">Constant, J</author>
+, 
+<year id="5ECDDAE29C6DEF05E7DC68BC07FFC2CE" pageId="0" pageNumber="181">2004</year>
+. 
+<title id="985CBAA0D06E1C78E835B9CBD41CF79E" pageId="0" pageNumber="181">
+<normalizedToken id="978C2FC15A7A45392CFE08902053134B" originalValue="Révision">Revision</normalizedToken>
+des 
+<taxonomicName id="092034B281A092F43373CA142D769FEC" authorityName="Stal" authorityYear="1862" class="Insecta" family="Eurybrachidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Eurybrachidae</taxonomicName>
+(I). Le genre 
+<taxonomicName id="09AEE964AB2DD1958E0763F23E1BF3C5" authorityName="Karsch" authorityYear="1895" class="Insecta" family="Eurybrachidae" genus="Amychodes" kingdom="Animalia" lsidName="Amychodes" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="genus">
+<emphasis id="96DD8E9DB262464E13A151FC41B55553" italics="true" pageId="0" pageNumber="181">Amychodes</emphasis>
+</taxonomicName>
+Karsch, 1895 (
+<taxonomicName id="C6B246C2E0F037B6D67FDA48EB875821" authorityName="Karsch" authorityYear="1895" class="Insecta" family="Eurybrachidae" genus="Amychodes" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="subOrder" subOrder="Homoptera">Homoptera</taxonomicName>
+: 
+<taxonomicName id="ED0D41C505E28D3F12BBA04BA3D3B833" authorityName="Karsch" authorityYear="1895" class="Insecta" family="Eurybrachidae" genus="Amychodes" infraOrder="Fulgoromorpha" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="infraOrder">Fulgoromorpha</taxonomicName>
+: 
+<taxonomicName id="82855DA0EF3256E1CC3FDF663AE6E2C9" authorityName="Stal" authorityYear="1862" class="Insecta" family="Eurybrachidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Eurybrachidae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="E0805AB09C10898C2647B3B6084D43CE" pageId="0" pageNumber="181">
+Bulletin de 
+<normalizedToken id="01F8EA42DA61EF48716724FCE532A91C" originalValue="l’Institut">l'Institut</normalizedToken>
+royal des Sciences naturelles de Belgique
+</journalOrPublisher>
+<volume id="45EE8DF71E552F5D3C6F8BE0BF258C5E" pageId="0" pageNumber="181">74</volume>
+: 
+<pagination id="CA2FBD8EEC5BA8118303AFECA2950749" pageId="0" pageNumber="181">11 - 28</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="EA8BEF2B8345B7FCED785DEF494488DB" pageId="0" pageNumber="181">
+<bibRef id="A0387F539A6ACF191A8769AD6C153BF3" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 8" refId="B5" title="A new species of Orthophana Melichar, 1923 from Vietnam (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="23" year="2014">
+<author id="02A38A5B0FE33E8059C962CDEABB903A" pageId="0" pageNumber="181">Constant, J</author>
+, 
+<author id="1AEE9C17890AEC717C86135F120A025D" pageId="0" pageNumber="181">Pham, HT</author>
+, 
+<year id="2AAE2638471E6EFBA0BE8D41266ECDE2" pageId="0" pageNumber="181">2014</year>
+. 
+<title id="3400749EB68E9EA735D2686C5F2315AD" pageId="0" pageNumber="181">
+A new species of 
+<taxonomicName id="28B63837660F79FE12A170FC02713AEE" authorityName="Melichar" authorityYear="1923" class="Insecta" genus="Orthophana" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Orthophana" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="genus">
+<emphasis id="657EB63BCDB8C3BF524C6734B111F558" italics="true" pageId="0" pageNumber="181">Orthophana</emphasis>
+</taxonomicName>
+Melichar, 1923 from Vietnam (
+<taxonomicName id="BDAECBD74FCBAFB2B68DE21C2BB663F2" authorityName="Melichar" authorityYear="1923" class="Insecta" genus="Orthophana" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="order">Hemiptera</taxonomicName>
+: 
+<taxonomicName id="2D1EE35EE9A9549A83661F611E1792CC" authorityName="Melichar" authorityYear="1923" class="Insecta" genus="Orthophana" higherTaxonomySource="GBIF" infraOrder="Fulgoromorpha" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="infraOrder">Fulgoromorpha</taxonomicName>
+: 
+<taxonomicName id="6897421B18E2C40D07BA22FA1A3BCADB" class="Insecta" family="Nogodinidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Nogodinidae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="9754577ADDCADC2C6E2ED13840C29C68" pageId="0" pageNumber="181">Belgian Journal of Entomology</journalOrPublisher>
+<volume id="DC2C996BFB00DDD4417FF97DE7F97831" pageId="0" pageNumber="181">23</volume>
+: 
+<pagination id="FA01ACEECAC61078A68D7C864E2C17DD" pageId="0" pageNumber="181">1 - 8</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="7AD3E76B184029024295DE026A6109B0" pageId="0" pageNumber="181">
+<bibRef id="9D11DA06575A8FBA41AA9EDE5118358B" author="Constant, J" journalOrPublisher="Belgian Journal of Entomology" pageId="0" pageNumber="181" pagination="1 - 16" refId="B6" title="Two new Nogodinidae from Vietnam in the genera Orthophana Melichar, 1923 and Goniopsarites Meng, Wang &amp; Wang, 2014 (Hemiptera: Fulgoromorpha: Nogodinidae)." volume="40" year="2016">
+<author id="81FA74596B0ECF1B33813FDC90E5E038" pageId="0" pageNumber="181">Constant, J</author>
+, 
+<author id="8292F3C26064FA4238FA0DA8BBF3FF05" pageId="0" pageNumber="181">Pham, HT</author>
+, 
+<year id="D17C69E6570B81945DE85F84E14BE1CF" pageId="0" pageNumber="181">2016</year>
+. 
+<title id="2C88AC106677657D1AF82D1173010713" pageId="0" pageNumber="181">
+Two new 
+<taxonomicName id="44D62C986CD81856E3C042BED8AD22AA" class="Insecta" family="Nogodinidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Nogodinidae</taxonomicName>
+from Vietnam in the genera 
+<taxonomicName id="BF5947420FB7380295B47099130769AF" authorityName="Melichar" authorityYear="1923" class="Insecta" genus="Orthophana" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Orthophana" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="genus">
+<emphasis id="AF2A02F8C18C07B011B97C82CDFCD761" italics="true" pageId="0" pageNumber="181">Orthophana</emphasis>
+</taxonomicName>
+Melichar, 1923 and 
+<taxonomicName id="F589E815946300CA64B7B1916FACBC38" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="Goniopsarites" order="Hemiptera" pageId="0" pageNumber="181" rank="genus">
+<emphasis id="4462412091CCF26E7AB3115F9DAEDF4F" italics="true" pageId="0" pageNumber="181">Goniopsarites</emphasis>
+</taxonomicName>
+Meng, Wang &amp; Wang, 2014 (
+<taxonomicName id="92377E89D4EBB62D921E7134E8386C1B" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Goniopsarites" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" rank="order">Hemiptera</taxonomicName>
+: 
+<taxonomicName id="A941FC66C5829D1C2D160886D5491A44" authorityName="Meng, Wang &amp; Wang" authorityYear="2014" family="Nogodinidae" genus="Goniopsarites" infraOrder="Fulgoromorpha" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" rank="infraOrder">Fulgoromorpha</taxonomicName>
+: 
+<taxonomicName id="007959C1FA9AEBF501599C4888DFCC97" class="Insecta" family="Nogodinidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Nogodinidae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="A3A96597DA35E283EB62EFD5D198B20B" pageId="0" pageNumber="181">Belgian Journal of Entomology</journalOrPublisher>
+<volume id="61774F9797B6C57BB959F46911CC8B0E" pageId="0" pageNumber="181">40</volume>
+: 
+<pagination id="D6A75EEDFCD8B1BCE6AED1AF826E576D" pageId="0" pageNumber="181">1 - 16</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="F4A141E5C711EEAD7ECC58A257E8B2CC" pageId="0" pageNumber="181">
+<bibRef id="05794D9FE61D0C53764D0F05A85CBE23" DOI="https://doi.org/10.3897/zookeys.1186.113701" author="Constant, J" journalOrPublisher="ZooKeys" pageId="0" pageNumber="181" pagination="105 - 122" refId="B7" title="The tropiduchid planthopper genus Connelicita Wang &amp; Bourgoin, 2015: Two new species from Central Vietnam and new records (Hemiptera, Fulgoromorpha, Tropiduchidae)." url="https://doi.org/10.3897/zookeys.1186.113701" volume="1186" year="2023">
+<author id="B59A6CD6FCE56D66DA1DF5FC9AD6C243" pageId="0" pageNumber="181">Constant, J</author>
+, 
+<author id="3B7A6FE545E43D1980A5932EAEE10217" pageId="0" pageNumber="181">Pham, T-H</author>
+, 
+<author id="F57B3756FB8573EDA668C047833AFB96" pageId="0" pageNumber="181">Le, CVC</author>
+, 
+<author id="EA7C518A3336E037F7889813F4717BA9" pageId="0" pageNumber="181">Vu, TT</author>
+, 
+<author id="F5B86B387045601F6826D38DE6A77671" pageId="0" pageNumber="181">Nguyen, HTT</author>
+, 
+<year id="0AF961DB11B99C40E5890C968FC08AB8" pageId="0" pageNumber="181">2023</year>
+. 
+<title id="EC38DE5524A89B445A83A745A1BA7479" pageId="0" pageNumber="181">
+The tropiduchid planthopper genus 
+<taxonomicName id="65DCF1ED1BAF5D3ABF7AC70C7CA6FA5C" authorityName="Wang &amp; Bourgoin" authorityYear="2015" class="Insecta" genus="Connelicita" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Connelicita" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="genus">
+<emphasis id="DE401D4512DA7809B98F95E146F577C1" italics="true" pageId="0" pageNumber="181">Connelicita</emphasis>
+</taxonomicName>
+Wang &amp; Bourgoin, 2015: Two new species from Central Vietnam and new records (
+<taxonomicName id="B09BDD33EC5BCFF5ABB155BE7B1AFA64" authorityName="Wang &amp; Bourgoin" authorityYear="2015" class="Insecta" genus="Connelicita" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="order">Hemiptera</taxonomicName>
+, 
+<taxonomicName id="361BF80CEA3F5052C71CE018388D9DAE" authorityName="Wang &amp; Bourgoin" authorityYear="2015" class="Insecta" genus="Connelicita" higherTaxonomySource="GBIF" infraOrder="Fulgoromorpha" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="infraOrder">Fulgoromorpha</taxonomicName>
+, 
+<taxonomicName id="EFCA7B0AED48C93CBB6743BA31F178E8" authorityName="Stal" authorityYear="1866" class="Hexapoda" family="Tropiduchidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Tropiduchidae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="5D876996C99C6626491BAFAB1DC7B9AE" pageId="0" pageNumber="181">ZooKeys</journalOrPublisher>
+<volume id="A54CDF13CA58EE73B4E79F8230D6C9FB" pageId="0" pageNumber="181">1186</volume>
+: 
+<pagination id="A7C19B4BC8A319DE3C91034CB3989972" pageId="0" pageNumber="181">105 - 122</pagination>
+, DOI: 
+<DOI id="C0D079305E132323177F8889C7A9FE0E" pageId="0" pageNumber="181">https://doi.org/10.3897/zookeys.1186.113701</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="D6231988B436B6ACBBA510BF83D4A2FC" pageId="0" pageNumber="181">
+<bibRef id="AC804D31E98258D5E1F6CCD9EDF52CFD" author="Gnezdilov, VM" journalOrPublisher="Acta Entomologica Musei Nationalis Pragae" pageId="0" pageNumber="181" pagination="47 - 55" refId="B8" title="Notes on the tribe Tongini, with description of a new species of the genus Orthophana from northern Vietnam (Hemiptera: Fulgoroidea: Nogodinidae)." volume="54" year="2014">
+<author id="43C3463E44EB94CBA52687C1C1109782" pageId="0" pageNumber="181">Gnezdilov, VM</author>
+, 
+<author id="4AE86972D3DA91943148C850558E67C5" pageId="0" pageNumber="181">Constant, J</author>
+, 
+<year id="B9D280DF048C0431FB1A8DFD1BAE004B" pageId="0" pageNumber="181">2014</year>
+. 
+<title id="E2C89FB74D1AB6D9BE1CAF003A9F7493" pageId="0" pageNumber="181">
+Notes on the tribe 
+<taxonomicName id="D9D13E96F5AD06B490B449CA10E2B9EB" lsidName="" pageId="0" pageNumber="181" rank="tribe" tribe="Tongini">Tongini</taxonomicName>
+, with description of a new species of the genus 
+<taxonomicName id="F40A17093A29F4DFA5F7444EA4FAE148" authorityName="Melichar" authorityYear="1923" class="Insecta" genus="Orthophana" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="Orthophana" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="genus">
+<emphasis id="C04BCAA391690F73751EE4664E240618" italics="true" pageId="0" pageNumber="181">Orthophana</emphasis>
+</taxonomicName>
+from northern Vietnam (
+<taxonomicName id="8221C6117CFA0861CF31037F31A08DE7" authorityName="Melichar" authorityYear="1923" class="Insecta" genus="Orthophana" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="order">Hemiptera</taxonomicName>
+: 
+<taxonomicName id="7AD9C7EAFB015F627F27608D81244528" authorityName="Melichar" authorityYear="1923" class="Insecta" genus="Orthophana" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="superFamily" superFamily="Fulgoroidea">Fulgoroidea</taxonomicName>
+: 
+<taxonomicName id="D570B94A2019298743E57676C4B70524" class="Insecta" family="Nogodinidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Nogodinidae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="0CA1B8CBD3C08A4C159F14E563DDC6B1" pageId="0" pageNumber="181">Acta Entomologica Musei Nationalis Pragae</journalOrPublisher>
+<volume id="FB722F49C90B4D461EE0AC61964266CD" pageId="0" pageNumber="181">54</volume>
+(
+<issue id="C916F3CDBC79241ECE8B18C499DFA7C3" pageId="0" pageNumber="181">1</issue>
+): 
+<pagination id="01CD7C629D3F459AF25C37AFDD2158A6" pageId="0" pageNumber="181">47 - 55</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="46DC6C0C5FD2ED5489F954C59622A8D6" pageId="0" pageNumber="181">
+<bibRef id="4AC1D211FBD415444BFCD0F759526BE4" author="Ishihara, T" journalOrPublisher="Special Bulletin of the Lepidoptera Society of Japan" pageId="0" pageNumber="181" pagination="207 - 208" refId="B9" title="Some species of Formosan Homoptera." volume="1" year="1965">
+<author id="3ED78AE4900C6BF643BCEEE4A062EA7C" pageId="0" pageNumber="181">Ishihara, T</author>
+, 
+<year id="852564850B6FC75F93BF78D04E9263C5" pageId="0" pageNumber="181">1965</year>
+. 
+<title id="5D445751D86FB55850C757CF01D197F2" pageId="0" pageNumber="181">
+Some species of Formosan 
+<taxonomicName id="6F957B9EAE2E142219E4BF0BCA4651FC" authorityName="Melichar" authorityYear="1923" class="Insecta" genus="Orthophana" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="subOrder" subOrder="Homoptera">Homoptera</taxonomicName>
+.
+</title>
+<journalOrPublisher id="BF50285403CCF09CE050027669D43543" pageId="0" pageNumber="181">Special Bulletin of the Lepidoptera Society of Japan</journalOrPublisher>
+<volume id="A906C7C3C4254AB142E338C0174FFBC5" pageId="0" pageNumber="181">1</volume>
+: 
+<pagination id="C2A3695CFCE6C2C0D3C15F0CA05EAD86" pageId="0" pageNumber="181">207 - 208</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="440BBD8D6ACA43F46309CA122FA1387B" pageId="0" pageNumber="181">
+<bibRef id="A7D0F3F39068F6C9EDC0CF9F1CDA52A9" DOI="https://doi.org/10.11646/zootaxa.3866.1.4" author="Meng, R" journalOrPublisher="Zootaxa" pageId="0" pageNumber="181" pagination="79 - 104" refId="B10" title="On the taxonomy of the tribe Pisachini (Hemiptera: Fulgoromorpha: Nogodinidae) with the description of new taxa from China and Vietnam." url="https://doi.org/10.11646/zootaxa.3866.1.4" volume="3866" year="2014">
+<author id="B8F2B35D8F530C963EC5515A2C24CE71" pageId="0" pageNumber="181">Meng, R</author>
+, 
+<author id="917B15E86421F2F5F85547F031967AD6" pageId="0" pageNumber="181">Wang, M-L</author>
+, 
+<author id="A369EAAB6914349D04A7DEE037575500" pageId="0" pageNumber="181">Wang, Y-L</author>
+, 
+<year id="E19C65D6F970A686EC84CC435E1D7D66" pageId="0" pageNumber="181">2014</year>
+. 
+<title id="62ADF73A8DADC16FDAD3D34FD29F786D" pageId="0" pageNumber="181">
+On the taxonomy of the tribe 
+<taxonomicName id="63F53692AF22312B248BCB605C7FBF5F" lsidName="" pageId="0" pageNumber="181" rank="tribe" tribe="Pisachini">Pisachini</taxonomicName>
+(
+<taxonomicName id="410C02CD296E5FADDAE4400652FE1682" authorityName="Melichar" authorityYear="1923" class="Insecta" genus="Orthophana" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="order">Hemiptera</taxonomicName>
+: 
+<taxonomicName id="E2A645ECF110FAF9AF0C5EE00B234FEE" authorityName="Melichar" authorityYear="1923" class="Insecta" genus="Orthophana" higherTaxonomySource="GBIF" infraOrder="Fulgoromorpha" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="? arthropoda" rank="infraOrder">Fulgoromorpha</taxonomicName>
+: 
+<taxonomicName id="32CD77105A912676290DD5DA4F2CE75C" class="Insecta" family="Nogodinidae" higherTaxonomySource="GBIF" kingdom="Animalia" lsidName="" order="Hemiptera" pageId="0" pageNumber="181" phylum="Arthropoda" rank="family">Nogodinidae</taxonomicName>
+) with the description of new taxa from China and Vietnam.
+</title>
+<journalOrPublisher id="DE521B5506AF4ABA74CFE1FDCEEB3BE5" pageId="0" pageNumber="181">Zootaxa</journalOrPublisher>
+<volume id="AF15AB261E0D1B8E0A3C08473D110D7B" pageId="0" pageNumber="181">3866</volume>
+(
+<issue id="83D624458CE74988CE25C0AE2D00CF65" pageId="0" pageNumber="181">1</issue>
+): 
+<pagination id="FED00A122A7D613993A9A088E318A5AC" pageId="0" pageNumber="181">79 - 104</pagination>
+, DOI: 
+<DOI id="F85B0F7E2129F82B56AB4171157C5D6F" pageId="0" pageNumber="181">https://doi.org/10.11646/zootaxa.3866.1.4</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="5D47BFD26669FA98C7F1F8FC640AD497" pageId="0" pageNumber="181">
+<bibRef id="0A547C8C45A71D1A4E597D137EE5D6D6" author="O'Brien, LB" editor="Nault, LR" journalOrPublisher="John Wiley &amp; Sons, New York" pageId="0" pageNumber="181" pagination="61 - 102" refId="B11" title="Planthoppers systematics and external morphology." volumeTitle="The Leafhoppers and Planthoppers." year="1985">
+<author id="82C9BC477A08A655082CD79BBA0F8BBB" pageId="0" pageNumber="181">
+<normalizedToken id="2138399D0C17848FBEFEACDB0086BC9B" originalValue="O’Brien">O'Brien</normalizedToken>
+, LB
+</author>
+, 
+<author id="6C392DF9D9CF6E01E7EAF752769D8EC4" pageId="0" pageNumber="181">Wilson, SW</author>
+, 
+<year id="0E19C31DA4047FF860193F167C762FA9" pageId="0" pageNumber="181">1985</year>
+. 
+<title id="AFA3AA8B176A4B0A31F4AFEE19B4266E" pageId="0" pageNumber="181">Planthoppers systematics and external morphology.</title>
+In: 
+<editor id="9328F502180DA4C5DB00AD8E9F163BD8" pageId="0" pageNumber="181">Nault, LR</editor>
+, 
+<editor id="79E6F3C04ED83488CDDAE83A9B160458" pageId="0" pageNumber="181">Rodriguez, JG</editor>
+, Eds., 
+<volumeTitle id="0FD660995D09096C1AE0AA330790D098" pageId="0" pageNumber="181">The Leafhoppers and Planthoppers.</volumeTitle>
+<journalOrPublisher id="5B370673737637F46D6EA219781D642A" pageId="0" pageNumber="181">John Wiley &amp; Sons, New York</journalOrPublisher>
+: 
+<pagination id="4FB1F01BDBEB5D8B4AD746E43976D812" pageId="0" pageNumber="181">61 - 102</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="F1501AC0C926D13750611D713C924C1E" pageId="0" pageNumber="181">
+<bibRef id="07C448B2102A1A0DC5D67AB59A57AF5B" author="Shorthouse, DP" journalOrPublisher="John Wiley &amp; Sons, New York" pageId="0" pageNumber="181" publicationUrl="http://www.simplemappr.net" refId="B12" title="SimpleMappr, an online tool to produce publication-quality point maps." url="http://www.simplemappr.net" year="2010">
+<author id="3E99D81043FAFD523A7CD9137702F500" pageId="0" pageNumber="181">Shorthouse, DP</author>
+, 
+<year id="B35A70870AE517510A927A760EAC80A6" pageId="0" pageNumber="181">2010</year>
+. 
+<title id="5ED3F2646B067B4F9B8DDC17BE8571BE" pageId="0" pageNumber="181">SimpleMappr, an online tool to produce publication-quality point maps.</title>
+<publicationUrl id="7AD6507E399D482DD5BF7426F0AFBB76" pageId="0" pageNumber="181">http://www.simplemappr.net</publicationUrl>
+</bibRef>
+</paragraph>
+</subSection>
+</document>

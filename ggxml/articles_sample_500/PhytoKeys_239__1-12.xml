@@ -1,0 +1,1536 @@
+<document ID-CLB-Dataset="289689" ID-DOI="http://dx.doi.org/10.3897/phytokeys.239.113017" ID-GBIF-Dataset="f0a3826b-ec06-49a6-b424-30c803fd6338" ID-Pensoft-Pub="1314-2003-239-1" ID-Pensoft-UUID="F2B1814847775A459505D2FA54C0DAAC" ModsDocID="1314-2003-239-1" checkinTime="1709371394259" checkinUser="pensoft" docAuthor="Van Phung, Khoa &amp; Averyanov, Leonid V. &amp; Maisak, Tatiana V. &amp; Krupkina, Ludmila I. &amp; Cao, Hai Xuan &amp; Nguyen, Cuong Huu" docDate="2024" docId="F2B1814847775A459505D2FA54C0DAAC" docName="PhytoKeys 239: 1-12" docOrigin="PhytoKeys 239" docPubDate="2024-03-01" docSource="https://phytokeys.pensoft.net/article/113017/download/xml/" docTitle="Checklist of the genus Ridsdalea (Rubiaceae, Gardenieae) in Vietnam with description of the new species R. backanensis" docVersion="4" id="F2B1814847775A459505D2FA54C0DAAC" lastPageNumber="12" pageNumber="1" updateTime="1709375616191" updateUser="ExternalLinkService">
+<mods:mods id="4F1D6452C45C4334B7012F249B7CCD7B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5D6074D43E593918F812CA4D0C4F7E53">
+<mods:title id="AC906F22666FAA41B64266E2F9B56E26">Checklist of the genus Ridsdalea (Rubiaceae, Gardenieae) in Vietnam with description of the new species R. backanensis</mods:title>
+</mods:titleInfo>
+<mods:name id="E1DEBF07D95BEFB51E10A0AD1D5E6035" type="personal">
+<mods:role id="A56DB94260A8F8AFEE55DBF87E8E764A">
+<mods:roleTerm id="EE18B74C8DDFBBD0A598FB1BAB409C9D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3C21849F4736AD815646BFB8DC01DBA4">Van Phung, Khoa</mods:namePart>
+<mods:nameIdentifier id="FEC194B8B0BBEFEB3A9FB12780FF0FFB" type="ORCID">https://orcid.org/0000-0002-9133-166X</mods:nameIdentifier>
+<mods:affiliation id="F57BFF72F2082E3F0DA4A8A8C1457561">Vietnam National University of Forestry, Xuan Mai, Chuong My, Ha Noi, Vietnam</mods:affiliation>
+</mods:name>
+<mods:name id="E7BCEBD4836D6AE7954B8AABB84574FB" type="personal">
+<mods:role id="86BE136064D7E2A73EFB2DDA7616A089">
+<mods:roleTerm id="19E27F2BE6EC900DFFBC1BC831058198">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A9E9BF507D292BCAC191AA71895A08DD">Averyanov, Leonid V.</mods:namePart>
+<mods:nameIdentifier id="BBCDA47865F8BFD087E2E8F73A79F739" type="email">av_leonid@mail.ru</mods:nameIdentifier>
+<mods:nameIdentifier id="5021F296D40E044E1CFFFD4316B38F23" type="ORCID">https://orcid.org/0000-0001-8031-2925</mods:nameIdentifier>
+<mods:affiliation id="C8279B0DAA86C6E18B0FDB7BB5803A68">Komarov Botanical Institute Russian Academy of Sciences, Prof. Popov str., 2, St. Petersburg, 197376, Russia</mods:affiliation>
+</mods:name>
+<mods:name id="8621CBD5CB838D97DB04B36CCDED9587" type="personal">
+<mods:role id="9A76886B6F5880A094560B59D1697F18">
+<mods:roleTerm id="93B0908FF87966BB40A842DAFD5B5F05">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="937910173EB529D4C6A423B4C414D680">Maisak, Tatiana V.</mods:namePart>
+<mods:nameIdentifier id="1F14F2725A7EEA47C79639CB200C6EF8" type="ORCID">https://orcid.org/0000-0001-5919-6755</mods:nameIdentifier>
+<mods:affiliation id="BDFBBB938F4120C54BA8E6AB1E85AB8D">Komarov Botanical Institute Russian Academy of Sciences, Prof. Popov str., 2, St. Petersburg, 197376, Russia</mods:affiliation>
+</mods:name>
+<mods:name id="5D937754120AAFDEF0C5883BB0F215AC" type="personal">
+<mods:role id="9D34A79E10000F9A8079959D9ED37AE3">
+<mods:roleTerm id="99EC18DE8673EEAA4960484B43DA9711">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8DAD2B94347CBE1DD8FB42F0A07ED37A">Krupkina, Ludmila I.</mods:namePart>
+<mods:nameIdentifier id="99E370F82C819DA2BAF0AA9B25609879" type="ORCID">https://orcid.org/0000-0003-0391-533X</mods:nameIdentifier>
+<mods:affiliation id="619E7017520707C3B314523E8C26ECC2">Komarov Botanical Institute Russian Academy of Sciences, Prof. Popov str., 2, St. Petersburg, 197376, Russia</mods:affiliation>
+</mods:name>
+<mods:name id="ABBE07DC5EAA6EA07FCEEB9702ADC273" type="personal">
+<mods:role id="21DE29D9DF2EB312929CABFFE7AB5F6B">
+<mods:roleTerm id="64DC98E2F7F1014E54DB76B65A32C3AD">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1C4FEDA7A64427587F1469A5E7ACCDB3">Cao, Hai Xuan</mods:namePart>
+<mods:nameIdentifier id="5A3C6304A264EAECC1729CB4B63221FC" type="ORCID">https://orcid.org/0000-0002-9396-2879</mods:nameIdentifier>
+<mods:affiliation id="A8D0D2A1FC193DB37C1FFF2AA36B884F">Vietnam National University of Forestry, Xuan Mai, Chuong My, Ha Noi, Vietnam</mods:affiliation>
+</mods:name>
+<mods:name id="5C13DA110A456FDC8EAA81B7F23E8662" type="personal">
+<mods:role id="4DB057A94BD1AA7455C227154C197CE9">
+<mods:roleTerm id="FD654D9466D40C14C6D4286E0C8F713F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2CAAC10588DFBBCD396715ED0884FB2F">Nguyen, Cuong Huu</mods:namePart>
+<mods:nameIdentifier id="709F5A7009BD2754D640BF2344438384" type="email">nguyenhuucuong.tvr@gmail.com</mods:nameIdentifier>
+<mods:nameIdentifier id="E161633658276ADDD4A3BA2B56211D74" type="ORCID">https://orcid.org/0000-0003-2281-741X</mods:nameIdentifier>
+<mods:affiliation id="023A3C33E6299239A64593BF8584CA01">Vietnam National University of Forestry, Xuan Mai, Chuong My, Ha Noi, Vietnam</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="3A6590040141FC07F2BF0D941088E1EB">text</mods:typeOfResource>
+<mods:relatedItem id="BA5753164075A924CB9053C3648BB7CC" type="host">
+<mods:titleInfo id="75B41AB778E2ABA2D20ABD0D804E4174">
+<mods:title id="EE6F73BCF78B39EF20B27D38288EBCAF">PhytoKeys</mods:title>
+</mods:titleInfo>
+<mods:part id="E9C5A88F156423FCA9E9ABE51239D0F5">
+<mods:detail id="CBF9D59718E1897E65F4258DA78EA4BA" type="volume">
+<mods:number id="44184266BE7FB9AF1AAD178E97EBBA58">239</mods:number>
+</mods:detail>
+<mods:detail id="251DB50DB01D161ABF747B6FF40A2DD9" type="pubDate">
+<mods:number id="C644DC8EA912AB51803060CD32E31A08">2024-03-01</mods:number>
+</mods:detail>
+<mods:date id="0864FE4B0355F3AD2A7AA8901D94808E">2024</mods:date>
+<mods:extent id="2A90C9DDF024E16B6032BF5D4AE50E17" unit="page">
+<mods:start id="EC7395CCAD02DEC54323F866855278AF">1</mods:start>
+<mods:end id="190A4EF09BFBEBD46D7C650730C703E4">12</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="78C4139744846373F33A68DB8757EB46">
+<mods:url id="5625CAA0E85F3952D8C5D52D4EA71167">http://dx.doi.org/10.3897/phytokeys.239.113017</mods:url>
+</mods:location>
+<mods:identifier id="34690630865DB4FEE36909F479E75678" type="DOI">http://dx.doi.org/10.3897/phytokeys.239.113017</mods:identifier>
+<mods:identifier id="13DB28B0DAF9C696E86075C806786705" type="Pensoft-Pub">1314-2003-239-1</mods:identifier>
+<mods:identifier id="A3CA123A2D021362C7A2D16A43A3A890" type="Pensoft-UUID">F2B1814847775A459505D2FA54C0DAAC</mods:identifier>
+<mods:classification id="0E5393A67AE4C18D0FA89EDEA00326FC">journal article</mods:classification>
+</mods:mods>
+<subSection id="9E7283D1EB54DBB1DFD2C734098C0B0C" pageId="0" pageNumber="1" type="﻿introduction">
+<paragraph id="5D099AE13A50DE01FF32AD68E73E2F63" pageId="0" pageNumber="1">
+<pageBreakToken id="26DDD651BEEF1B5C7D06C693AD74D551" origin="extrapolated" pageId="0" pageNumber="1" start="start">Introduction</pageBreakToken>
+</paragraph>
+<paragraph id="E5D7269539C5A03645D1B00EB5FBDECC" pageId="0" pageNumber="1">
+The genus 
+<taxonomicName id="462D796CE711E57FE1A09AE9596B564F" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="217F41E06358588E66C5DEAB5C11A3BD" italics="true" pageId="0" pageNumber="1">Ridsdalea</emphasis>
+</taxonomicName>
+J.T.Pereira &amp; K.M.Wong (in 
+<bibRefCitation id="CA3592F59DAB612C1CE1F658A6395B03" author="Wong, KM" journalOrPublisher="Sandakania" pageId="0" pageNumber="1" pagination="21 - 64" refId="B24" refString="Wong, KM, Pereira, JT, 2016. A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia. Sandakania 21: 21 - 64" title="A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia." volume="21" year="2016">Wong and Pereira 2016</bibRefCitation>
+: 42) was segregated from 
+<taxonomicName id="CB184BB2CEC3D79AAE9B12EC0837AAAC" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="Rothmannia" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="726B65CABD0904A8C941074FB210D803" italics="true" pageId="0" pageNumber="1">Rothmannia</emphasis>
+</taxonomicName>
+Thunb. (
+<bibRefCitation id="E54382DFB3F8F560183C3783193259DF" author="Thunberg, CP" journalOrPublisher="Svenska Vetenskapsaka-demiens Handlingar" pageId="0" pageNumber="1" pagination="65 - 68" refId="B20" refString="Thunberg, CP, 1776. Rothmannia, et nytt Oerte - genus. Kungl. Svenska Vetenskapsaka-demiens Handlingar 37: 65 - 68" title="Rothmannia, et nytt Oerte - genus. Kungl." volume="37" year="1776">Thunberg 1776</bibRefCitation>
+: 65) mainly because its corolla lobes are contorted to the left, whereas the lobes in 
+<taxonomicName id="1B44930C58A4C19FACE4AC93734E288D" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="Rothmannia" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="26A135EE83BA12AA0F0ECD306E493DCD" italics="true" pageId="0" pageNumber="1">Rothmannia</emphasis>
+</taxonomicName>
+s.str. are contorted to the right. Both genera are closely related and belong to the tribe 
+<taxonomicName id="AFAD4B57DBD986273BF0635D225455A8" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="tribe" tribe="Gardenieae">Gardenieae</taxonomicName>
+, subfamily 
+<taxonomicName id="7F01026B5BF64A6FB7C91E1F34D9DED6" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="subFamily" subFamily="Ixoroideae">Ixoroideae</taxonomicName>
+of the coffee family (
+<taxonomicName id="E299982B3CE73E6571FC3E322E4E593C" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="family">Rubiaceae</taxonomicName>
+) (
+<bibRefCitation id="65977B10BA08B20BC5929D235AF2D05E" author="Wong, KM" journalOrPublisher="Sandakania" pageId="0" pageNumber="1" pagination="21 - 64" refId="B24" refString="Wong, KM, Pereira, JT, 2016. A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia. Sandakania 21: 21 - 64" title="A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia." volume="21" year="2016">Wong and Pereira 2016</bibRefCitation>
+). While species of 
+<taxonomicName id="D4D9063FF4A976EC48A915B746AC580C" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="Rothmannia" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="721FDB9E9748C72610DD89E7AFF450D8" italics="true" pageId="0" pageNumber="1">Rothmannia</emphasis>
+</taxonomicName>
+are distributed in Africa, representatives of the closely related 
+<taxonomicName id="12C979390A2D2DEFC0E0635643FD5BAE" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="72F2CD53F039C86ADE58A1EDD7C23E6C" italics="true" pageId="0" pageNumber="1">Ridsdalea</emphasis>
+</taxonomicName>
+inhabit wide areas in the tropics of Southeast mainland Asia and Malesia (
+<bibRefCitation id="E63D7A26593056AB222D60FA610F3F08" author="Wong, KM" journalOrPublisher="Sandakania" pageId="0" pageNumber="1" pagination="21 - 64" refId="B24" refString="Wong, KM, Pereira, JT, 2016. A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia. Sandakania 21: 21 - 64" title="A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia." volume="21" year="2016">Wong and Pereira 2016</bibRefCitation>
+).
+</paragraph>
+<paragraph id="4E59A670D2F75957E3D5A7F5AAA5B82C" pageId="0" pageNumber="1">
+The twelve genera of the tribe 
+<taxonomicName id="CB2CBEB53AA3B2C6F5F52DAC500BCBAC" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="tribe" tribe="Gardenieae">Gardenieae</taxonomicName>
+occurring in Vietnam, namely 
+<taxonomicName id="B21D2B53F1C18D4BAA356B40424C6F2E" class="Magnoliopsida" family="Rubiaceae" genus="Aidia" kingdom="Plantae" lsidName="Aidia" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="genus">
+<emphasis id="D13BC5A25376A57637973D2CD4EE4E76" italics="true" pageId="0" pageNumber="1">Aidia</emphasis>
+</taxonomicName>
+Lour., 
+<taxonomicName id="E280182FA2DA72E592B1DB5B0A072901" class="Magnoliopsida" family="Rubiaceae" genus="Aidiopsis" kingdom="Plantae" lsidName="Aidiopsis" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="genus">
+<emphasis id="8A26ED1FEBF7BA8E380521A833031E37" italics="true" pageId="0" pageNumber="1">Aidiopsis</emphasis>
+</taxonomicName>
+Tirveng., 
+<taxonomicName id="256AC6CA8D18AB16B2A2C506D511D6CC" class="Magnoliopsida" family="Rubiaceae" genus="Alleizettella" kingdom="Plantae" lsidName="Alleizettella" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="genus">
+<emphasis id="3382B1AA208B578EF11C7693C843B6A8" italics="true" pageId="0" pageNumber="1">Alleizettella</emphasis>
+</taxonomicName>
+Pit., 
+<taxonomicName id="6246F3FB363CDD3DD31352D83FB88D28" class="Magnoliopsida" family="Rubiaceae" genus="Brachytome" kingdom="Plantae" lsidName="Brachytome" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="genus">
+<emphasis id="80617E30BFE8479E527B380C831B64FB" italics="true" pageId="0" pageNumber="1">Brachytome</emphasis>
+</taxonomicName>
+Hook.f., 
+<taxonomicName id="D9FAD37BF7B3BBF6E65CFB28C77FF117" class="Magnoliopsida" family="Rubiaceae" genus="Dioecrescis" kingdom="Plantae" lsidName="Dioecrescis" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="genus">
+<emphasis id="58A011430B9B952D2D59CF7F21234ECF" italics="true" pageId="0" pageNumber="1">Dioecrescis</emphasis>
+</taxonomicName>
+Tirveng., 
+<taxonomicName id="E736A2AB4649819CE490E1FDCFE8A3AC" class="Magnoliopsida" family="Rubiaceae" genus="Duperrea" kingdom="Plantae" lsidName="Duperrea" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="genus">
+<emphasis id="5966E5932A22A6497E77A9E01B714484" italics="true" pageId="0" pageNumber="1">Duperrea</emphasis>
+</taxonomicName>
+Pierre ex Pit., 
+<taxonomicName id="042BC6AB000730C7FD7D7DD1E83A42BB" class="Dicotyledoneae" family="Rubiaceae" genus="Gardenia" higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="Gardenia" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="genus">
+<emphasis id="D34E99BB69BCEF74ADDBFF1CF959EC52" italics="true" pageId="0" pageNumber="1">Gardenia</emphasis>
+</taxonomicName>
+J.Ellis, 
+<taxonomicName id="F9F959426A152CE024E86B750379F672" class="Magnoliopsida" family="Rubiaceae" genus="Kailarsenia" kingdom="Plantae" lsidName="Kailarsenia" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="genus">
+<emphasis id="5BFEB329B111A340CE4973596213F478" italics="true" pageId="0" pageNumber="1">Kailarsenia</emphasis>
+</taxonomicName>
+Tirveng., 
+<taxonomicName id="1A89EF3D7EB818357E28789D6E103138" class="Magnoliopsida" family="Rubiaceae" genus="Oxyceros" kingdom="Plantae" lsidName="Oxyceros" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="genus">
+<emphasis id="BCFA5705E90336629ED72DBF57F33FEF" italics="true" pageId="0" pageNumber="1">Oxyceros</emphasis>
+</taxonomicName>
+Lour., 
+<taxonomicName id="39BA4233B9BCF61F04497FEC7ED52C2E" family="Rubiaceae" genus="Randia" kingdom="Plantae" lsidName="Randia" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="95E8CB373132B90E21096BE7323A7E6E" italics="true" pageId="0" pageNumber="1">Randia</emphasis>
+</taxonomicName>
+L., 
+<taxonomicName id="C6F43EDEB7EC591EFC59BC8C4B6CC831" class="Magnoliopsida" family="Rubiaceae" genus="Rubovietnamia" kingdom="Plantae" lsidName="Rubovietnamia" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="genus">
+<emphasis id="6CA3C1194F27E7BDFE557C372CA355AD" italics="true" pageId="0" pageNumber="1">Rubovietnamia</emphasis>
+</taxonomicName>
+Tirveng., and 
+<taxonomicName id="ECA3C877BC5AE60A478DBE940A2DD045" class="Magnoliopsida" family="Rubiaceae" genus="Vidalasia" kingdom="Plantae" lsidName="Vidalasia" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="genus">
+<emphasis id="21C99268FE146EBCB7F864C4BE312F36" italics="true" pageId="0" pageNumber="1">Vidalasia</emphasis>
+</taxonomicName>
+Tirveng. (
+<bibRefCitation id="D4A0B86793A52D29B4814F6D5AE8E337" author="Pham, HH" journalOrPublisher="Taxon" pageId="0" pageNumber="1" refId="B13" refString="Pham, HH, 2000. Rubiaceae. An Illustrated Flora of Vietnam [Cay Co Viet Nam]. Vol. 3. Young Publishing House, Ho Chi Minh, 105-222. [In Vietnamese]" title="Rubiaceae. An Illustrated Flora of Vietnam [Cay Co Viet Nam]. Vol. 3. Young Publishing House, Ho Chi Minh, 105 - 222. [In Vietnamese]" year="2000">Pham 2000</bibRefCitation>
+; 
+<bibRefCitation id="F72848C384A6AEAF8B5824DB461727AB" author="Tran, NN" editor="Nguyen, BT" journalOrPublisher="Vol. 3. Agriculture Publishing House, Hanoi" pageId="0" pageNumber="1" pagination="192 - 193" refId="B23" refString="Tran, NN, 2005. Rubiaceae. In: Nguyen, BT, Ed., Checklist of plant species of Vietnam [Danh lục cac loai thực vật Việt Nam]. Vol. 3. Agriculture Publishing House, Hanoi: 192 - 193" title="Rubiaceae." volumeTitle="Checklist of plant species of Vietnam [Danh l ục cac loai th ực v ật Vi ệt Nam]." year="2005">Tran 2005</bibRefCitation>
+), are well segregated from each other morphologically and well-supported by molecular data (
+<bibRefCitation id="742B01BB6A24D6E5D3DE062A72CA8866" author="Robbrecht, E" journalOrPublisher="Systematics and Geography of Plants" pageId="0" pageNumber="1" pagination="85 - 146" refId="B16" refString="Robbrecht, E, Manen, JF, 2006. The major evolutionary lineages of the coffee family (Rubiaceae, angiosperms). Combined analysis (nDNA and cpDNA) to infer the position of Coptosapelta and Luculia, and supertree construction based on rbcL, rps16, trnL-trnF and atpB-rbcL data. A new classification in two subfamilies, Cinchonoideae and Rubioideae. Systematics and Geography of Plants 76: 85 - 146" title="The major evolutionary lineages of the coffee family (Rubiaceae, angiosperms). Combined analysis (nDNA and cpDNA) to infer the position of Coptosapelta and Luculia, and supertree construction based on rbcL, rps 16, trnL-trnF and atpB-rbcL data. A new classification in two subfamilies, Cinchonoideae and Rubioideae." volume="76" year="2006">Robbrecht and Manen 2006</bibRefCitation>
+; 
+<bibRefCitation id="2D86DC71D45D4D26AE7B1F67CE78D613" DOI="https://doi.org/10.3417/2006197" author="Bremer, B" journalOrPublisher="Annals of the Missouri Botanical Garden" pageId="0" pageNumber="1" pagination="4 - 26" refId="B2" refString="Bremer, B, 2009. A review of molecular phylogenetic studies of Rubiaceae. Annals of the Missouri Botanical Garden 96: 4 - 26, DOI: https://doi.org/10.3417/2006197" title="A review of molecular phylogenetic studies of Rubiaceae." url="https://doi.org/10.3417/2006197" volume="96" year="2009">Bremer 2009</bibRefCitation>
+; 
+<bibRefCitation id="7935E3B9C383D77F5DA6B3FC9B74332B" DOI="https://doi.org/10.12705/634.4" author="Mouly, A" journalOrPublisher="Taxon" pageId="0" pageNumber="1" pagination="801 - 818" refId="B12" refString="Mouly, A, Kainulainen, K, Persson, C, Davis, AP, Wong, KM, Razafimandimbison, SG, Bremer, B, 2014. Phylogenetic structure and clade circumscriptions in the Gardenieae complex (Rubiaceae). Taxon 63 (4): 801 - 818, DOI: https://doi.org/10.12705/634.4" title="Phylogenetic structure and clade circumscriptions in the Gardenieae complex (Rubiaceae)." url="https://doi.org/10.12705/634.4" volume="63" year="2014">Mouly et al. 2014</bibRefCitation>
+). Besides left-contorted corolla lobes, typical diagnostic characteristics of the genus 
+<taxonomicName id="CA46F057D063C87FD0185759FFF5B3BA" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="BB5606E307F591BF0F87BFA959107FD7" italics="true" pageId="0" pageNumber="1">Ridsdalea</emphasis>
+</taxonomicName>
+are such features as large shrub or tree habit; unarmed shoots with opposite or verticillate leaves (in groups of 3); interpetiolar stipules without distinct venation; terminal or pseudoaxillary, 1-7-flowered, cymose inflorescences; bisexual flowers; 2-celled ovaries with axile placentation; and, large, baccate, many-seeded fruits (
+<bibRefCitation id="05BC48D80636A1817B3BA9A0A8990384" author="Chen, T" editor="Wu, ZY" journalOrPublisher="Vol. 19. Science Press, Beijing &amp; Missouri Botanical Garden Press, St. Louis" pageId="0" pageNumber="1" pagination="304 - 305" refId="B5" refString="Chen, T, Taylor, CM, 2011. Rothmannia Thunberg. In: Wu, ZY, Hong, DY, Raven, PH, Eds., Flora of China. Vol. 19. Science Press, Beijing &amp; Missouri Botanical Garden Press, St. Louis: 304 - 305" title="Rothmannia Thunberg." volumeTitle="Flora of China." year="2011">Chen and Taylor 2011</bibRefCitation>
+; 
+<bibRefCitation id="23FDC43D37D26A03E7C5B2BFA933C0F1" author="Wong, KM" journalOrPublisher="Sandakania" pageId="0" pageNumber="1" pagination="21 - 64" refId="B24" refString="Wong, KM, Pereira, JT, 2016. A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia. Sandakania 21: 21 - 64" title="A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia." volume="21" year="2016">Wong and Pereira 2016</bibRefCitation>
+).
+</paragraph>
+<paragraph id="8B876C91AF46704EBB23AE414D223231" pageId="0" pageNumber="1">
+All species of 
+<taxonomicName id="BA758EEAC3DD8D489A0788495E5EC02A" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="8665527BF4B0EF66E1C4EFC0B6225C06" italics="true" pageId="0" pageNumber="1">Ridsdalea</emphasis>
+</taxonomicName>
+are rather large shrubs or small, medium, or large trees scattered in lowland or submontane woods on soils derived from various parental rocks. Some species prefer exclusively alluvial soils in limestone areas and often inhabit rocky, steep slopes of rocky karstic hills.
+</paragraph>
+<paragraph id="49F6A98F9D900930530D1B6EE825F3BC" pageId="0" pageNumber="1">
+Twenty-eight species of 
+<taxonomicName id="E96EBFD855AF513B6EE33D882CBBF5C5" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="9D1ED4AF1868C7A3451B36482CDAA483" italics="true" pageId="0" pageNumber="1">Ridsdalea</emphasis>
+</taxonomicName>
+distributed in Indochina and Malesia were recognized in a comprehensive monograph of the genus (
+<bibRefCitation id="8E040862DFD8467D731D7D821A91C306" author="Wong, KM" journalOrPublisher="Sandakania" pageId="0" pageNumber="1" pagination="21 - 64" refId="B24" refString="Wong, KM, Pereira, JT, 2016. A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia. Sandakania 21: 21 - 64" title="A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia." volume="21" year="2016">Wong and Pereira 2016</bibRefCitation>
+, 
+<bibRefCitation id="D8187916E3B5E53F7C0F91B237F4CD02" author="Pitard, CJ" journalOrPublisher="Vol. 3. Masson et Cie, Paris" pageId="0" pageNumber="1" publicationUrl="http://www.plantsoftheworldonline.org/" refId="B15" refString="2023. . http://www.plantsoftheworldonline.org/" url="http://www.plantsoftheworldonline.org/" year="2023">POWO 2023</bibRefCitation>
+), and a few species were added by recent studies in Thailand (
+<bibRefCitation id="17F9F1DC31B445AA5D4CC4BAFD753EF3" DOI="https://doi.org/10.11646/phytotaxa.365.1.5" author="Kwanjai, K" journalOrPublisher="Phytotaxa" pageId="0" pageNumber="1" pagination="96 - 100" refId="B11" refString="Kwanjai, K, Voradol, C, Manop, P, Sarunya, V, Sarawood, S, 2018. Ridsdalea alba (Rubiaceae), a new species from southern Thailand. Phytotaxa 365 (1): 96 - 100, DOI: https://doi.org/10.11646/phytotaxa.365.1.5" title="Ridsdalea alba (Rubiaceae), a new species from southern Thailand." url="https://doi.org/10.11646/phytotaxa.365.1.5" volume="365" year="2018">Kwanjai et al. 2018</bibRefCitation>
+) and the Philippines (
+<bibRefCitation id="F7722900D951086337C3C9EEE930DF5F" DOI="https://doi.org/10.3767/blumea.2022.67.01.04" author="Bustamante, RAA" journalOrPublisher="Blumea" pageId="0" pageNumber="1" pagination="15 - 19" refId="B4" refString="Bustamante, RAA, Pelser, PB, 2022. A new Philippine species of Ridsdalea (Rubiaceae, Ixoroideae) from karst vegetation in Palawan. Blumea 67 (1): 15 - 19, DOI: https://doi.org/10.3767/blumea.2022.67.01.04" title="A new Philippine species of Ridsdalea (Rubiaceae, Ixoroideae) from karst vegetation in Palawan." url="https://doi.org/10.3767/blumea.2022.67.01.04" volume="67" year="2022">Bustamante and Pelser 2022</bibRefCitation>
+). In Vietnam, five species were previously reported (
+<bibRefCitation id="3880380E08CCDC2562E757DC0C18F52E" DOI="https://doi.org/10.1360/aps06165" author="Zhang, MD" journalOrPublisher="Acta Phytotaxonomica Sinica" pageId="0" pageNumber="1" pagination="90 - 93" refId="B25" refString="Zhang, MD, Chen, WH, Shui, YM, 2007. Miscellaneous notes on the tribe Gardenieae (Rubiaceae) from China and Vietnam. Acta Phytotaxonomica Sinica 45: 90 - 93, DOI: https://doi.org/10.1360/aps06165" title="Miscellaneous notes on the tribe Gardenieae (Rubiaceae) from China and Vietnam." url="https://doi.org/10.1360/aps06165" volume="45" year="2007">Zhang et al. 2007</bibRefCitation>
+; 
+<bibRefCitation id="02932A26EC95CC789590F46FB8A83BFB" DOI="https://doi.org/10.15625/0866-7160/v37n4.6952" author="Bui, HQ" journalOrPublisher="Journal of Biology" pageId="0" pageNumber="1" pagination="458 - 462" refId="B3" refString="Bui, HQ, Nguyen, TC, 2015. A new record species Rothmannia wittii (Craib) Bremek. (Rubiaceae) for the flora of Vietnam. Journal of Biology 37 (4): 458 - 462, DOI: https://doi.org/10.15625/0866-7160/v37n4.6952" title="A new record species Rothmannia wittii (Craib) Bremek. (Rubiaceae) for the flora of Vietnam." url="https://doi.org/10.15625/0866-7160/v37n4.6952" volume="37" year="2015">Bui and Nguyen 2015</bibRefCitation>
+; 
+<bibRefCitation id="C11C7E091F8E276AAEEFFC2DB3045683" DOI="https://doi.org/10.54607/hcmue.js.16.3.2690(2019" author="Ton, THT" journalOrPublisher="Natural Science and Technology" pageId="0" pageNumber="1" pagination="190 - 199" refId="B22" refString="Ton, THT, Nguyen, TT, Dinh, TKT, Le, VS, Tran, GB, Van, HT, 2019. New distribution records of Rothmannia wittii (Rubiaceae) in Vietnam and identification of DNA barcode sequence for R. wittii. Journal of Science. Natural Science and Technology 16 (3): 190 - 199, DOI: https://doi.org/10.54607/hcmue.js.16.3.2690(2019" title="New distribution records of Rothmannia wittii (Rubiaceae) in Vietnam and identification of DNA barcode sequence for R. wittii. Journal of Science." url="https://doi.org/10.54607/hcmue.js.16.3.2690(2019" volume="16" year="2019">Ton et al. 2019</bibRefCitation>
+), which are listed below together with the newly discovered species.
+</paragraph>
+<paragraph id="4AD623745DE3F5F49BFE1AC4AE649A86" pageId="0" pageNumber="1">
+During botanical fieldwork in November 2022 in limestone areas of Bac Kan Province in northern Vietnam, we collected several specimens sharing the above-mentioned generic characteristics of 
+<taxonomicName id="BE006BA3151334CD019851CD4173C70A" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="C5832296E2711BC9165B4647BDF07E83" italics="true" pageId="0" pageNumber="1">Ridsdalea</emphasis>
+</taxonomicName>
+, but morphologically different from all species hitherto known by a number of unique characteristics. After consulting relevant literature (
+<bibRefCitation id="14BE645502B07493525E8C0A18BFE8BC" author="Thunberg, CP" journalOrPublisher="Svenska Vetenskapsaka-demiens Handlingar" pageId="0" pageNumber="1" pagination="65 - 68" refId="B20" refString="Thunberg, CP, 1776. Rothmannia, et nytt Oerte - genus. Kungl. Svenska Vetenskapsaka-demiens Handlingar 37: 65 - 68" title="Rothmannia, et nytt Oerte - genus. Kungl." volume="37" year="1776">Thunberg 1776</bibRefCitation>
+; 
+<bibRefCitation id="F0662704206B26D4DEDB8D9F5F36EC39" author="Pitard, CJ" editor="Lecomte, MH" journalOrPublisher="Vol. 3. Masson et Cie, Paris" pageId="0" pageNumber="1" pagination="20 - 442" refId="B14" refString="Pitard, CJ, 1923. Rubiacees. In: Lecomte, MH, Humbert, H, Eds., Flore generale de l'Indo-Chine. Vol. 3. Masson et Cie, Paris: 20 - 442" title="Rubiacees." volumeTitle="Flore generale de l'Indo-Chine." year="1923">Pitard 1923</bibRefCitation>
+; 
+<bibRefCitation id="F2360BDF83D2A458927AD9DDD4B669EB" DOI="https://doi.org/10.1111/j.1756-1051.1983.tb01453.x" author="Tirvengadum, DD" journalOrPublisher="Nordic Journal of Botany" pageId="0" pageNumber="1" pagination="455 - 469" refId="B21" refString="Tirvengadum, DD, 1983. New taxa and name changes in tropical Asiatic Rubiaceae. Nordic Journal of Botany 3 (4): 455 - 469, DOI: https://doi.org/10.1111/j.1756-1051.1983.tb01453.x" title="New taxa and name changes in tropical Asiatic Rubiaceae." url="https://doi.org/10.1111/j.1756-1051.1983.tb01453.x" volume="3" year="1983">Tirvengadum 1983</bibRefCitation>
+; 
+<bibRefCitation id="316E799B62D1FF66461BEDD95A4EED57" DOI="https://doi.org/10.2307/3393267" author="Shui, YM" journalOrPublisher="Novon" pageId="0" pageNumber="1" pagination="322 - 324" refId="B18" refString="Shui, YM, Chen, WH, Chen, WC, 2003. A new species of Rothmannia (Rubiaceae) from Yunnan, China. Novon 13 (3): 322 - 324, DOI: https://doi.org/10.2307/3393267" title="A new species of Rothmannia (Rubiaceae) from Yunnan, China." url="https://doi.org/10.2307/3393267" volume="13" year="2003">Shui et al. 2003</bibRefCitation>
+; 
+<bibRefCitation id="3D94DACCB9A3937837367CBCE2E2EDF9" DOI="https://doi.org/10.1360/aps06165" author="Zhang, MD" journalOrPublisher="Acta Phytotaxonomica Sinica" pageId="0" pageNumber="1" pagination="90 - 93" refId="B25" refString="Zhang, MD, Chen, WH, Shui, YM, 2007. Miscellaneous notes on the tribe Gardenieae (Rubiaceae) from China and Vietnam. Acta Phytotaxonomica Sinica 45: 90 - 93, DOI: https://doi.org/10.1360/aps06165" title="Miscellaneous notes on the tribe Gardenieae (Rubiaceae) from China and Vietnam." url="https://doi.org/10.1360/aps06165" volume="45" year="2007">Zhang et al. 2007</bibRefCitation>
+; 
+<bibRefCitation id="38B620745B3835990D48497F7A4BC32A" DOI="https://doi.org/10.15625/0866-7160/v37n4.6952" author="Bui, HQ" journalOrPublisher="Journal of Biology" pageId="0" pageNumber="1" pagination="458 - 462" refId="B3" refString="Bui, HQ, Nguyen, TC, 2015. A new record species Rothmannia wittii (Craib) Bremek. (Rubiaceae) for the flora of Vietnam. Journal of Biology 37 (4): 458 - 462, DOI: https://doi.org/10.15625/0866-7160/v37n4.6952" title="A new record species Rothmannia wittii (Craib) Bremek. (Rubiaceae) for the flora of Vietnam." url="https://doi.org/10.15625/0866-7160/v37n4.6952" volume="37" year="2015">Bui and Nguyen. 2015</bibRefCitation>
+; 
+<bibRefCitation id="3E9F420C0586C0258F3B72609C5C0271" author="Wong, KM" journalOrPublisher="Sandakania" pageId="0" pageNumber="1" pagination="21 - 64" refId="B24" refString="Wong, KM, Pereira, JT, 2016. A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia. Sandakania 21: 21 - 64" title="A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia." volume="21" year="2016">Wong and Pereira 2016</bibRefCitation>
+; 
+<bibRefCitation id="5F318A3D3847E349402B67F1C0662D3B" DOI="https://doi.org/10.11646/phytotaxa.365.1.5" author="Kwanjai, K" journalOrPublisher="Phytotaxa" pageId="0" pageNumber="1" pagination="96 - 100" refId="B11" refString="Kwanjai, K, Voradol, C, Manop, P, Sarunya, V, Sarawood, S, 2018. Ridsdalea alba (Rubiaceae), a new species from southern Thailand. Phytotaxa 365 (1): 96 - 100, DOI: https://doi.org/10.11646/phytotaxa.365.1.5" title="Ridsdalea alba (Rubiaceae), a new species from southern Thailand." url="https://doi.org/10.11646/phytotaxa.365.1.5" volume="365" year="2018">Kwanjai et al. 2018</bibRefCitation>
+; 
+<bibRefCitation id="46505EE21ADE34DAF30F5CDD3028782B" DOI="https://doi.org/10.54607/hcmue.js.16.3.2690(2019" author="Ton, THT" journalOrPublisher="Natural Science and Technology" pageId="0" pageNumber="1" pagination="190 - 199" refId="B22" refString="Ton, THT, Nguyen, TT, Dinh, TKT, Le, VS, Tran, GB, Van, HT, 2019. New distribution records of Rothmannia wittii (Rubiaceae) in Vietnam and identification of DNA barcode sequence for R. wittii. Journal of Science. Natural Science and Technology 16 (3): 190 - 199, DOI: https://doi.org/10.54607/hcmue.js.16.3.2690(2019" title="New distribution records of Rothmannia wittii (Rubiaceae) in Vietnam and identification of DNA barcode sequence for R. wittii. Journal of Science." url="https://doi.org/10.54607/hcmue.js.16.3.2690(2019" volume="16" year="2019">Ton et al. 2019</bibRefCitation>
+; 
+<bibRefCitation id="C820BA1ED47573670517B6E77B3BC38A" DOI="https://doi.org/10.3767/blumea.2022.67.01.04" author="Bustamante, RAA" journalOrPublisher="Blumea" pageId="0" pageNumber="1" pagination="15 - 19" refId="B4" refString="Bustamante, RAA, Pelser, PB, 2022. A new Philippine species of Ridsdalea (Rubiaceae, Ixoroideae) from karst vegetation in Palawan. Blumea 67 (1): 15 - 19, DOI: https://doi.org/10.3767/blumea.2022.67.01.04" title="A new Philippine species of Ridsdalea (Rubiaceae, Ixoroideae) from karst vegetation in Palawan." url="https://doi.org/10.3767/blumea.2022.67.01.04" volume="67" year="2022">Bustamante and Pelser 2022</bibRefCitation>
+), as well as examining available herbarium specimens stored at HN, HNPI, HNU, K, LE, P, VNF, and VNM, we identified our plants as a new species on the basis of the morphological features indicated in the identification key and diagnosis, and protologue. With the new data reported here, the number of species of the genus 
+<taxonomicName id="C0937F90C831E8034CAB475B20D4E433" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="EC6EB97F577ED18F56DCECB41A779184" italics="true" pageId="0" pageNumber="1">Ridsdalea</emphasis>
+</taxonomicName>
+in the flora of Vietnam reaches six. The paper aims at formally recognizing the novelty, with a key to the Vietnamese species and a briefly annotated checklist.
+</paragraph>
+</subSection>
+<subSection id="396890628421EFA740631BE90F1E91A4" pageId="0" pageNumber="1" type="materials_methods">
+<paragraph id="E1D00A01DB21009614B478B652E68117" pageId="0" pageNumber="1">Materials and methods</paragraph>
+<paragraph id="04CF79FAC4894705A8E00DA293C78E6B" pageId="0" pageNumber="1">
+All collected and studied herbarium specimens of the newly discovered species are presently stored in the herbaria of the Vietnam National University of Forestry (VNF) and the Komarov Botanical Institute of the Russian Academy of Sciences (LE). Color photos of plants were taken in natural habitats. Morphological observations and measurements were made on living plants, dried specimens, and alcohol-preserved materials. Morphological characters were described using the terminology proposed by 
+<bibRefCitation id="8755D43DBECEFB1786E49801D4EC9ECF" author="Harris, JG" journalOrPublisher="Spring Lake Publishing, Spring Lake" pageId="0" pageNumber="1" refId="B7" refString="Harris, JG, Harris, MW, 2006. Plant identification terminology: an illustrated glossary. Spring Lake Publishing, Spring Lake" title="Plant identification terminology: an illustrated glossary." year="2006">Harris and Harris (2006)</bibRefCitation>
+, 
+<bibRefCitation id="C0589ECCEEDC23F7C4FFCC54DC774394" author="Hickey, MK" journalOrPublisher="Cambridge University Press, Cambridge" pageId="0" pageNumber="1" refId="B8" refString="Hickey, MK, King, C, 2000. The Cambridge Illustrated Glossary of Botanical Terms. Cambridge University Press, Cambridge" title="The Cambridge Illustrated Glossary of Botanical Terms." year="2000">Hickey and King (2000)</bibRefCitation>
+, and 
+<bibRefCitation id="161C1D133270C33E05BCD4B46DF76F24" author="Beentje, H" journalOrPublisher="Royal Botanic Garden, Kew" pageId="0" pageNumber="1" refId="B1" refString="Beentje, H, 2016. The Kew Plant Glossary, an illustrated dictionary of plant terms. Royal Botanic Garden, Kew" title="The Kew Plant Glossary, an illustrated dictionary of plant terms." year="2016">Beentje (2016)</bibRefCitation>
+. Institutes where studied specimens are kept are indicated by their internationally accepted herbarium acronyms (
+<bibRefCitation id="947DB4F62A69A6DC4AAEBF42B0713E9C" author="Thiers, B" journalOrPublisher="Novon" pageId="0" pageNumber="1" publicationUrl="http://sweetgum.nybg.org/science/ih/" refId="B19" refString="Thiers, B, 2024. Index Herbariorum: A global directory of public herbaria and associated staff. New York Botanical Garden's Virtual Herbarium. Continuously updated. http://sweetgum.nybg.org/science/ih/" title="Index Herbariorum: A global directory of public herbaria and associated staff. New York Botanical Garden's Virtual Herbarium. Continuously updated." url="http://sweetgum.nybg.org/science/ih/" year="2024">Thiers 2024</bibRefCitation>
+).
+</paragraph>
+</subSection>
+<subSection id="7839FCD00DA995EABCFF670CDCDCCBB3" _chop="before" pageId="0" pageNumber="1" type="multiple">
+<paragraph id="32B47B24452E8F3F8A86CB5A149A53FE" pageId="0" pageNumber="1">Taxonomic treatment</paragraph>
+<paragraph id="070A003A458B01E5CEE2BA525406FDA7" pageId="0" pageNumber="1">
+<taxonomicName id="CA257F50A7179C72509CEE9B3455F46B" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="BB08989BB5D2B0D4EF2C43D03AE0B348" italics="true" pageId="0" pageNumber="1">Ridsdalea</emphasis>
+</taxonomicName>
+species in the flora of Vietnam
+</paragraph>
+</subSection>
+<treatment id="4F1000AEF62855CD99402EB2F4173329" ID-GBIF-Taxon="222683445" pageId="0" pageNumber="1">
+<subSubSection id="7120582C5E6E7B8ADA3823246AE690EF" pageId="0" pageNumber="1" type="nomenclature">
+<paragraph id="D125BC3151ABD2425E6EEC97E41D1052" pageId="0" pageNumber="1">
+<taxonomicName id="D94DFF6CC17DFB6E0A6C95BE654E6C78" ID-CoL="8WKHW" LSID="4F1000AE-F628-55CD-9940-2EB2F4173329" authority="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira 2016: 42)." authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" higherTaxonomySource="treatment-meta" kingdom="Plantae" lsidName="Ridsdalea" order="Gentianales" pageId="0" pageNumber="1" rank="genus">Ridsdalea J.T.Pereira &amp; K.M.Wong (in Wong and Pereira 2016: 42).</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="9E86639F58389C9C32E8049D77BA969D" pageId="0" pageNumber="1" type="materials_examined">
+<paragraph id="3D710AD051B764ADF30275E9F6275FF6" pageId="0" pageNumber="1">
+<typeStatus id="97F94628A0BD49D279137FEA9A2776B2">Type</typeStatus>
+.
+</paragraph>
+<paragraph id="C75059C70249344EB4873AB31CF09752" pageId="0" pageNumber="1">
+<taxonomicName id="E2A0F5E5FA92F693CF0CF166974BB44B" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea grandis" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="grandis">
+<emphasis id="F6B9C2203BB722E689A72CD8B614F79B" italics="true" pageId="0" pageNumber="1">Ridsdalea grandis</emphasis>
+</taxonomicName>
+(Korth.) J.T.Pereira (in 
+<bibRefCitation id="05EF13AD6AD0B4D8E1BC44B95F9B59B4" author="Wong, KM" journalOrPublisher="Sandakania" pageId="0" pageNumber="1" pagination="21 - 64" refId="B24" refString="Wong, KM, Pereira, JT, 2016. A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia. Sandakania 21: 21 - 64" title="A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia." volume="21" year="2016">Wong and Pereira 2016</bibRefCitation>
+: 46). ≡ 
+<taxonomicName id="B6EEB900A9F93DFD1A4222D6B252C34E" class="Dicotyledoneae" family="Rubiaceae" genus="Gardenia" higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="Gardenia grandis" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="species" species="grandis">
+<emphasis id="17E9568212D6F90DBAA54E0278B86822" italics="true" pageId="0" pageNumber="1">Gardenia grandis</emphasis>
+</taxonomicName>
+Korth. (
+<bibRefCitation id="6DAAA5EF4C6A1299A813023F44D31E25" author="Korthals, PW" journalOrPublisher="Nederlandsch Kruidkundig Archief" pageId="0" pageNumber="1" pagination="145 - 269" refId="B10" refString="Korthals, PW, 1851. Overzigt der Rubiaceȅn van de Nederlandsch-Oostindische Kolonien. Nederlandsch Kruidkundig Archief 2 (2): 145 - 269" title="Overzigt der Rubiaceȅn van de Nederlandsch-Oostindische Kolonien." volume="2" year="1851">Korthals 1851</bibRefCitation>
+: 191).
+</paragraph>
+</subSubSection>
+<subSubSection id="888C49F5595E87E6120AB878FE8CFC01" pageId="0" pageNumber="1" type="description">
+<paragraph id="F30ACB5653543233266503B64C7FA5DC" pageId="0" pageNumber="1">Description.</paragraph>
+<paragraph id="7FAB39E954FDEA94305A9B7ABCD6709F" pageId="0" pageNumber="1">
+Large shrubs to small, medium or large trees with unarmed trunk and branches. Branches opposite and decussate on the trunk, sympodial in development. Leaves opposite or verticillate in groups of 2-3, each trifoliate group based on a distal node with only one leaf normally developed and the proximal node with a pair of normal leaves; leaves petiolate to subsessile, axils of the midrib, secondary veins, and sometimes other vein junctions frequently with domatia on the abaxial leaf surface; margin entire. Stipules interpetiolar, without distinct venation, free or hardly fused at the base, persistent to caducous, inner surface hairy with colleters restricted to 1-several rows. Inflorescence terminal or pseudoaxillary (terminal in origin, later appearing lateral because of displacement to one side during sympodial branch development), distinctly cymose, several-flowered or sometimes reduced to a 1-flowered structure, distinctly pedunculate to subsessile. Flowers bisexual, pedicellate or sometimes subsessile, small or large with corolla tube less than 15 cm long. Calyx 5-8(-10)-lobed, colleters present in small groups on the inner surface, glabrous or glabrescent to hairy on the outside. Corolla commonly 5-, rarely 6-8-merous; hypocrateriform or campanulate; the tube white or white with reddish purple speckles or blotches inside, the outer and inner surface glabrous or hairy; lobes contorted to the left in the flower bud; stamens attached at the upper part of the corolla tube, anthers sessile or subsessile, linear or narrowly lanceolate; style shorter than, as long as, or slightly exceeding the corolla tube, mostly glabrous; stigma clavate to fusiform, 2-lobed, smooth to somewhat ribbed; ovary 2-celled; ovules many; placentation axile. Mature fruits baccate, indehiscent, globose or broadly ellipsoid, 2-5 cm across, 2-locular, outer surface smooth. Seeds many, immersed in a dark brown pulp-like placental tissue (
+<bibRefCitation id="F3ACC86C03FC344B69242C12B57B9013" author="Chen, T" editor="Wu, ZY" journalOrPublisher="Vol. 19. Science Press, Beijing &amp; Missouri Botanical Garden Press, St. Louis" pageId="0" pageNumber="1" pagination="304 - 305" refId="B5" refString="Chen, T, Taylor, CM, 2011. Rothmannia Thunberg. In: Wu, ZY, Hong, DY, Raven, PH, Eds., Flora of China. Vol. 19. Science Press, Beijing &amp; Missouri Botanical Garden Press, St. Louis: 304 - 305" title="Rothmannia Thunberg." volumeTitle="Flora of China." year="2011">Chen and Taylor 2011</bibRefCitation>
+; 
+<bibRefCitation id="569F28F038B43420B1F5B7F3F3A56BDF" author="Wong, KM" journalOrPublisher="Sandakania" pageId="0" pageNumber="1" pagination="21 - 64" refId="B24" refString="Wong, KM, Pereira, JT, 2016. A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia. Sandakania 21: 21 - 64" title="A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia." volume="21" year="2016">Wong and Pereira 2016</bibRefCitation>
+).
+</paragraph>
+<paragraph id="D414E1EEF0C73D177C86E1743799406D" pageId="0" pageNumber="1">32 species in Myanmar, SW China, Thailand, Laos, Cambodia, Vietnam, Malacca Peninsula. Indonesia, Philippines, New Guinea. In Vietnam 6 species (2 endemic, found in Bac Kan and Lam Dong provinces).</paragraph>
+</subSubSection>
+</treatment>
+<subSection id="E5B849A0020C421641E548DB407F8B61" _chop="before" pageId="0" pageNumber="1" type="multiple">
+<paragraph id="00879A454DE222E0549675E3344BA7AB" pageId="0" pageNumber="1">
+Key for the identification of 
+<taxonomicName id="C0BB22F174F293A4D270F38943312C09" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="86F019C5508A7395B4E106066CBC6ADE" italics="true" pageId="0" pageNumber="1">Ridsdalea</emphasis>
+</taxonomicName>
+species in the flora of Vietnam
+</paragraph>
+<paragraph id="509D251C019F63F465C945424577646E" pageId="0" pageNumber="1">
+<table id="FF5ACE24B55DA1213E644A9F84F53927" inLine="true" pageId="0" pageNumber="1">
+<tr id="E6C93D9307435D5C12A73F2D0936125F" pageId="0" pageNumber="1">
+<td id="C2C6CA5F086504B8C67AC57A7604039B" colspan="1" pageId="0" pageNumber="1" rowspan="1">1</td>
+<td id="1E697FD3FD0F54AE9CA794CBD9F712B5" colspan="1" pageId="0" pageNumber="1" rowspan="1">Flowers solitary in leaf axils, almost sessile; peduncle 0.5-1 mm long</td>
+<td id="37C569F2B44EF0A2420900A5C09F4CE3" colspan="1" pageId="0" pageNumber="1" rowspan="1">
+<taxonomicName id="BEE86A0BBD8EEDE583573D478B2690F2" class="Dicotyledones" family="Rubiaceae" genus="R." higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="R. kampucheana" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="species" species="kampucheana">
+<emphasis id="555E5BE99482286E9CD1225B45E49C6D" bold="true" italics="true" pageId="0" pageNumber="1">R. kampucheana</emphasis>
+</taxonomicName>
+</td>
+</tr>
+<tr id="E68E078747F19238898D45E1BE52477B" pageId="0" pageNumber="1">
+<td id="C59BD0BC051C0A38CCA5350B369E8864" colspan="1" pageId="0" pageNumber="1" rowspan="1">-</td>
+<td id="DC00B0381109B1D348FFD252B471993A" colspan="1" pageId="0" pageNumber="1" rowspan="1">Inflorescences terminal or axillary (pseudoaxillary), 1-7-flowered; on distinct peduncle 7-15 mm long</td>
+<td id="F957D9E05D075A589BE0DDF8809E8B0A" colspan="1" pageId="0" pageNumber="1" rowspan="1">
+<emphasis id="AA085186168108DEE7C7B635AF75BAB7" bold="true" pageId="0" pageNumber="1">2</emphasis>
+</td>
+</tr>
+<tr id="52F81557B04FEFB7D41B5CB36D550726" pageId="0" pageNumber="1">
+<td id="660B53EAE6B3B98A300DFFBC783FBEFB" colspan="1" pageId="0" pageNumber="1" rowspan="1">2</td>
+<td id="5A52E2D64F3D4B4960CD42BBE9DB62AD" colspan="1" pageId="0" pageNumber="1" rowspan="1">Leaf blade tapering gradually to acute or hardly acuminate apex</td>
+<td id="BF2F02372C32EB3FF3568D01BF8274E6" colspan="1" pageId="0" pageNumber="1" rowspan="1">
+<taxonomicName id="1DB99CECA96995D78634CAF8F7ECC9BC" class="Dicotyledones" family="Rubiaceae" genus="R." higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="R. eucodon" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="species" species="eucodon">
+<emphasis id="B5D5F89AE9196CEEA26BD8ECE0391863" bold="true" italics="true" pageId="0" pageNumber="1">R. eucodon</emphasis>
+</taxonomicName>
+</td>
+</tr>
+<tr id="E13536BCC46E9F42807277AE5D4341E1" pageId="0" pageNumber="1">
+<td id="38314C9AEC54A7F166DF00283007636D" colspan="1" pageId="0" pageNumber="1" rowspan="1">-</td>
+<td id="31BBCCF948D20071DB245C833984210B" colspan="1" pageId="0" pageNumber="1" rowspan="1">Leaf blade distinctly acuminate with suddenly narrowing apex</td>
+<td id="1676404046F78536D61A9B7FFBF50828" colspan="1" pageId="0" pageNumber="1" rowspan="1">
+<emphasis id="E50B5070D844F16D8A6727DD2A36B312" bold="true" pageId="0" pageNumber="1">3</emphasis>
+</td>
+</tr>
+<tr id="FFDC66FDFF03CF7D32AC9DB9D9927E99" pageId="0" pageNumber="1">
+<td id="E76EA07B3F9B2C5F3AB0469194BCCF26" colspan="1" pageId="0" pageNumber="1" rowspan="1">3</td>
+<td id="B00AC8B0F7B6AC6CA70D4D345AC4939E" colspan="1" pageId="0" pageNumber="1" rowspan="1">Inflorescence usually 4-7 flowered; corolla tube narrowly conoid, dilating gradually in distal direction, near the apex 1-1.3 cm in diameter; throat 3.5-4 cm in diameter</td>
+<td id="7D4D18D93237198BBF34F5FD4F358175" colspan="1" pageId="0" pageNumber="1" rowspan="1">
+<taxonomicName id="8324F6776A69765D24A4BE02CAEEF564" class="Dicotyledones" family="Rubiaceae" genus="R." higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="R. vietnamensis" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="species" species="vietnamensis">
+<emphasis id="328E2122AD3DE3BAE5E38AFFA2C6BAB4" bold="true" italics="true" pageId="0" pageNumber="1">R. vietnamensis</emphasis>
+</taxonomicName>
+</td>
+</tr>
+<tr id="F6B16AEEE1F64AE70E29ED8F73917BAC" pageId="0" pageNumber="1">
+<td id="61ED689F57D778BDDDADF0138D478D18" colspan="1" pageId="0" pageNumber="1" rowspan="1">-</td>
+<td id="50C9DDE8D310FCA973AD048A95DA5E9D" colspan="1" pageId="0" pageNumber="1" rowspan="1">Inflorescence usually 1-5 flowered; corolla tube broadly campanulate, dilating suddenly near the base, near the apex 2.5-3.5 cm in diameter; throat 4.5-5.5 cm in diameter</td>
+<td id="82E5DF45D92C4902B4A1D3D179EE2765" colspan="1" pageId="0" pageNumber="1" rowspan="1">
+<emphasis id="873ECEA5AF570925187535AE6563B7B0" bold="true" pageId="0" pageNumber="1">4</emphasis>
+</td>
+</tr>
+<tr id="D217593E1D2DA9DB3A09E51D3E687547" pageId="0" pageNumber="1">
+<td id="54A40292E8004ADA0A64BB682ED34460" colspan="1" pageId="0" pageNumber="1" rowspan="1">4</td>
+<td id="68600C9D96BCD15F66A2F8A34E1C3CB3" colspan="1" pageId="0" pageNumber="1" rowspan="1">Inflorescence usually 3-5 flowered; calyx tube 3-5 mm long, calyx lobes broadly triangular, less than 3 mm long</td>
+<td id="6C50C48214F9FD51DFFE8B87A89687A5" colspan="1" pageId="0" pageNumber="1" rowspan="1">
+<taxonomicName id="DBEFC5FECB8C7AC312A21E8966AC2950" class="Dicotyledones" family="Rubiaceae" genus="R." higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="R. wittii" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="species" species="wittii">
+<emphasis id="46971A3859FE73745D82DDCB12D2A9E3" bold="true" italics="true" pageId="0" pageNumber="1">R. wittii</emphasis>
+</taxonomicName>
+</td>
+</tr>
+<tr id="1E6DA10009725A14F8BF257CD5337127" pageId="0" pageNumber="1">
+<td id="A1C0CC73FFBEF65D03BF83F1A46DF95E" colspan="1" pageId="0" pageNumber="1" rowspan="1">-</td>
+<td id="A1C63CCC2F41047CEF72A6A527EB43E4" colspan="1" pageId="0" pageNumber="1" rowspan="1">Inflorescence usually 1-3 flowered; calyx tube 1.2-2.5 mm long, calyx lobes linear oblong or subulate, 6.5-16 mm long</td>
+<td id="CBC873A55767DC5EBC60FEFCE6DF1904" colspan="1" pageId="0" pageNumber="1" rowspan="1">
+<emphasis id="E8C6F62E499E3C374F39982B5B2AE021" bold="true" pageId="0" pageNumber="1">5</emphasis>
+</td>
+</tr>
+<tr id="9FE06DB0B43ECFCE026BEFAC17C9D072" pageId="0" pageNumber="1">
+<td id="708939862234BBFD751FB17A6395B014" colspan="1" pageId="0" pageNumber="1" rowspan="1">5</td>
+<td id="F9DC00156F37A008523CF4568242D2B4" colspan="1" pageId="0" pageNumber="1" rowspan="1">Inflorescence uniflorous; pedicels 2-2.5 cm long; calyx tube funnel-shaped, 2-2.5 mm long, calyx lobes linear oblong, 14-16 mm long; corolla outside glabrous; anthers linear, ca. 1 mm wide</td>
+<td id="20D73388667F5799CA352D627FC53648" colspan="1" pageId="0" pageNumber="1" rowspan="1">
+<taxonomicName id="A16DF96A87F61D9360C870D47FB4071B" class="Dicotyledones" family="Rubiaceae" genus="R." higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="R. daweishanensis" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="species" species="daweishanensis">
+<emphasis id="6B658E5E4043898242BDD5CCF46D3193" bold="true" italics="true" pageId="0" pageNumber="1">R. daweishanensis</emphasis>
+</taxonomicName>
+</td>
+</tr>
+<tr id="C4316A449CFD85728C8B4F23AF5EDC97" pageId="0" pageNumber="1">
+<td id="1C161F79EA5599B4149EBE1D5C3FC950" colspan="1" pageId="0" pageNumber="1" rowspan="1">-</td>
+<td id="21079B841CA33CD104DB04A75287EBB3" colspan="1" pageId="0" pageNumber="1" rowspan="1">Inflorescence 1-3 flowered; pedicels 3.5-7 mm long; calyx tube cup-shaped, 1.2-2.2 mm long, calyx lobes subulate, 6.5-11 mm long; corolla outside shortly sparsely hairy; anthers oblanceolate, 2-3 mm wide</td>
+<td id="80760C347B55167F7FDDCC7BED464E2B" colspan="1" pageId="0" pageNumber="1" rowspan="1">
+<taxonomicName id="686A6931D247447B5DB8042962495E90" class="Dicotyledones" family="Rubiaceae" genus="R." higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="R. backanensis" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="species" species="backanensis">
+<emphasis id="D9D8878CD1E96CB4AA121342F20C1CCA" bold="true" italics="true" pageId="0" pageNumber="1">R. backanensis</emphasis>
+</taxonomicName>
+</td>
+</tr>
+</table>
+</paragraph>
+</subSection>
+<treatment id="C9D131B8271D5B2F95614545DB4EEE1E" ID-GBIF-Taxon="222683454" pageId="0" pageNumber="1">
+<subSubSection id="84F5E6318AE7BA3BA09E9F6D95A77840" pageId="0" pageNumber="1" type="nomenclature">
+<paragraph id="6B369052E113B8FD53FF10005E59C64C" pageId="0" pageNumber="1">
+<taxonomicName id="579C0E6595F96C7DE3AF05D56F52B359" LSID="C9D131B8-271D-5B2F-9561-4545DB4EEE1E" authority="C. H. Nguyen &amp; Aver." authorityName="C. H. Nguyen &amp; Aver." authorityYear="2024" family="Rubiaceae" genus="Ridsdalea" higherTaxonomySource="treatment-meta" kingdom="Plantae" lsidName="Ridsdalea backanensis" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="backanensis" status="sp. nov.">Ridsdalea backanensis C.H.Nguyen &amp; Aver.</taxonomicName>
+<taxonomicNameLabel id="3E68E154B9E53ABF66163FB38B7FEC2E" pageId="0" pageNumber="1">sp. nov.</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection id="FDFA94460AA7F287F9FD456BC2B97FC8" pageId="0" pageNumber="1" type="description">
+<paragraph id="FCF879031515A74BFFB01ECC2A3DB42D" pageId="0" pageNumber="1">
+<figureCitation id="E1AD5DE72A24CAA3398399A9D1C8D8EB" captionStart="Figure 1" captionStartId="F1" captionText="Figure 1. Ridsdalea backanensis A mature tree in natural habitat B part of crown with two main trunks C trunk of mature tree D bark at DBH E flowering and fruiting branches F, G ripe fruits H ripe fruits, sagittal section I ripe fruit, cross section J fruit, sagittal section, seeds removed K ripe seeds. Photos by C. H. Nguyen (A-E) and L. Averyanov (F-K) from plant used for preparation of the paratype voucher specimens (AL 1680), photo-correction, and design by L. Averyanov and T. Maisak." figureDoi="10.3897/phytokeys.239.113017.figure1" httpUri="https://binary.pensoft.net/fig/995514" pageId="0" pageNumber="1">Figs 1</figureCitation>
+<figureCitation id="9B45EEDD4EF4D7DDCEE35F599B824EA9" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Ridsdalea backanensis A part of crown of flowering tree in natural habitat B leaves, adaxial and abaxial surface C flowering branches D flower bud and opening flower, side view E Opening flower, frontal view F, G flowers, frontal view H flowering branch showing leaves from abaxial side I flowering branch showing leaves from adaxial side J corolla, sagittal section outside and inside K peduncle, pedicels and calyxes, side view L peduncle and pedicel, side view M peduncle, pedicel, calyx and base of style, side view, corolla removed N calyx, frontal view, corolla removed O separated, upper part of calyx tube, calyx lobes, and nectary disc, frontal view P indumentum of abaxial surface of calyx on dry specimen Q portion of adaxial surface of corolla, sessile stamen and apical part of stigma R stamen S pedicel, calyx and pistil with magnified stigma, side view T apical part of stigma U middle part of stigma Photos by L. Averyanov (A, C, F-K, P) and C. H. Nguyen (B, D, E, L-O, Q-U) from plant used for preparation of the type voucher specimens (AL 1682), photo-correction and design by L. Averyanov and T. Maisak." figureDoi="10.3897/phytokeys.239.113017.figure2" httpUri="https://binary.pensoft.net/fig/995515" pageId="0" pageNumber="1">, 2</figureCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="7112D81769B4189C2ECFA7190E964397" pageId="0" pageNumber="1" type="diagnosis">
+<paragraph id="281E7B3BBC69BE5981DF886900BC15E7" pageId="0" pageNumber="1">Diagnosis.</paragraph>
+<paragraph id="AA3BD487EE1A5315F550994E416EA662" pageId="0" pageNumber="1">
+<taxonomicName id="499E5B9D5F40132E018FF66178386F60" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea backanensis" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="backanensis">
+<emphasis id="64CD3D0ACDECD9EF0D118A1FC9A82D0B" italics="true" pageId="0" pageNumber="1">Ridsdalea backanensis</emphasis>
+</taxonomicName>
+differs from 
+<taxonomicName id="48E1747F536798A1EEDEAF052A984E91" class="Dicotyledones" family="Rubiaceae" genus="R." higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="R. daweishanensis" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="species" species="daweishanensis">
+<emphasis id="BBDFBF003005207BF16A1DBD215748C2" italics="true" pageId="0" pageNumber="1">R. daweishanensis</emphasis>
+</taxonomicName>
+mainly in the smaller leaves, 7-11 cm long (vs. leaves 10-14 cm long in 
+<taxonomicName id="FB3397BC62EF27B59049680767EE3D79" class="Dicotyledones" family="Rubiaceae" genus="R." higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="R. daweishanensis" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="species" species="daweishanensis">
+<emphasis id="53D93803720AFFE7D245F3F1E3F0DFBE" italics="true" pageId="0" pageNumber="1">R. daweishanensis</emphasis>
+</taxonomicName>
+), the 1-3-flowered inflorescence (vs. inflorescences uniflorous), the much shorter pedicels, 3.5-7 mm long (vs. pedicels 20-25 mm long), the shorter subulate calyx lobes, 6.5-11 mm long (vs. calyx lobes narrowly oblanceolate, 14-16 mm long), the corolla outside sparsely hairy (vs. corolla outside glabrous), and the oblanceolate anthers, 2-3 mm wide (vs. anthers linear, about 1.5 mm wide).
+</paragraph>
+<caption id="03E1F2473448AF5918F30813D25394DE" doi="10.3897/phytokeys.239.113017.figure1" httpUri="https://binary.pensoft.net/fig/995514" pageId="0" pageNumber="1" start="Figure 1" startId="F1">
+<paragraph id="4A1CD42F9D29C1EB67D51FE279697225" pageId="0" pageNumber="1">
+<emphasis id="7D428694BF0CAA8F49542478F9FA327C" bold="true" pageId="0" pageNumber="1">Figure 1.</emphasis>
+<taxonomicName id="BE3BE1C0277288E57577B20F16EF414B" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea backanensis" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="backanensis">
+<emphasis id="6BFEB1B8FD0C64BBBFABCF99F7F8A05F" italics="true" pageId="0" pageNumber="1">Ridsdalea backanensis</emphasis>
+</taxonomicName>
+<emphasis id="0C85B9DB267BA8D8C7D9804DCA6B39E7" bold="true" pageId="0" pageNumber="1">A</emphasis>
+mature tree in natural habitat 
+<emphasis id="6B30F762BD5AE83B8406B9365E84D3AE" bold="true" pageId="0" pageNumber="1">B</emphasis>
+part of crown with two main trunks 
+<emphasis id="440AB9110807258A66EA8E6844754D04" bold="true" pageId="0" pageNumber="1">C</emphasis>
+trunk of mature tree 
+<emphasis id="7124A5AFAC06FAE1A9AC42D476FC5F71" bold="true" pageId="0" pageNumber="1">D</emphasis>
+bark at DBH 
+<emphasis id="DE86C6FB9798E182C575AABCB3075FC5" bold="true" pageId="0" pageNumber="1">E</emphasis>
+flowering and fruiting branches 
+<emphasis id="C18D0776F43FB1AC2D2E003F77A5FDEC" bold="true" pageId="0" pageNumber="1">F, G</emphasis>
+ripe fruits 
+<emphasis id="69F374CED9702546D591F1EE4CCDCCC8" bold="true" pageId="0" pageNumber="1">H</emphasis>
+ripe fruits, sagittal section 
+<emphasis id="0FF30A82FD3BF51774291D8368CCC954" bold="true" pageId="0" pageNumber="1">I</emphasis>
+ripe fruit, cross section 
+<emphasis id="3F3CEF6DD6EDC1571E1D842E2688058B" bold="true" pageId="0" pageNumber="1">J</emphasis>
+fruit, sagittal section, seeds removed 
+<emphasis id="02ADE05C65E777B277BE092420EBF0C4" bold="true" pageId="0" pageNumber="1">K</emphasis>
+ripe seeds. Photos by C.H. Nguyen (
+<emphasis id="C0FAF8EC1533521FF64BB64C322E7481" bold="true" pageId="0" pageNumber="1">A-E</emphasis>
+) and L. Averyanov (
+<emphasis id="CEC42B3E028CDB1DCD62564A07D041F5" bold="true" pageId="0" pageNumber="1">F-K</emphasis>
+) from plant used for preparation of the paratype voucher specimens (
+<emphasis id="16BF7E4445F69D3501F8EE3B766639A9" italics="true" pageId="0" pageNumber="1">AL 1680</emphasis>
+), photo-correction, and design by L. Averyanov and T. Maisak.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection id="DCE699C1B50544D7C4F6C4DF3AACCC07" pageId="0" pageNumber="1" type="materials_examined">
+<paragraph id="8DE93E34036F04F1A7BBF00F5F678EC6" pageId="0" pageNumber="1">
+<typeStatus id="61DB995386792175AACD0608271AB987">Type</typeStatus>
+.
+</paragraph>
+<paragraph id="C04E063F10A3FFD9751ED4AA120A0861" pageId="0" pageNumber="1">
+<materialsCitation id="3CBBD3F0FF801AC12FBA16EEE6D7F4DF" collectingDate="2022-11-18" collectorName="F. C. How, Nguyen Huu Cuong, Cao Xuan Hai, L, Averyanov, T, Maisak, AL" country="Vietnam" county="Ba Be District" elevation="275" location="Chun" municipality="Ba Be National Park" specimenCount="1" stateProvince="Bac Kan Province" typeStatus="Holotype">
+<collectingCountry id="940295B637FB40609317269C5E4C4B4A" name="Vietnam">Vietnam</collectingCountry>
+, 
+<collectingRegion id="9E3D1E4FEDB6340F9E825B40CC651A62" country="Vietnam" name="Bac Kan">Bac Kan Province</collectingRegion>
+: 
+<collectingCounty id="F2DAA6FB100E325D25836073E637ED61">Ba Be District</collectingCounty>
+, 
+<collectingMunicipality id="1BC50A5D78454136EE9026FE6179ECB6">Ba Be National Park</collectingMunicipality>
+, dry evergreen broad-leaved old secondary forest with domination of 
+<taxonomicName id="08BE6EE5FAB70810CEDF88524A9F369C" class="Magnoliopsida" family="Malvaceae" genus="Burretiodendron" kingdom="Plantae" lsidName="Burretiodendron hsienmu" order="Malvales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="species" species="hsienmu">
+<emphasis id="08ED365FA8674F5A79C7A06D4A3CE028" italics="true" pageId="0" pageNumber="1">Burretiodendron hsienmu</emphasis>
+</taxonomicName>
+<location id="766CAE099FE405D499A47EC6DB16D78B" country="Vietnam" county="Ba Be District" municipality="Ba Be National Park" name="Chun" stateProvince="Bac Kan Province">Chun</location>
+&amp; 
+<collectorName id="FED495E9907EEA89796681BD85CA41DB">F.C.How</collectorName>
+, 
+<taxonomicName id="671985E71D0C361A3798BE2D787A7B71" class="Magnoliopsida" family="Moraceae" genus="Streblus" kingdom="Plantae" lsidName="Streblus asper" order="Rosales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="species" species="asper">
+<emphasis id="075FE2707466AF78E5F66EED7223526A" italics="true" pageId="0" pageNumber="1">Streblus asper</emphasis>
+</taxonomicName>
+Lour., and 
+<taxonomicName id="206E240E8E841FD029ABD5E08399AB7A" class="Liliopsida" family="Arecaceae" genus="Arenga" kingdom="Plantae" lsidName="Arenga pinnata" order="Arecales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="species" species="pinnata">
+<emphasis id="C45EB2076BD71FD56EAE2E30921963DA" italics="true" pageId="0" pageNumber="1">Arenga pinnata</emphasis>
+</taxonomicName>
+(Wurmb) Merr., on crystalline highly eroded rocky limestone near the boat station at elev. 
+<elevation id="543F22A04943B25A1BAFBFB8ECCA2A5A" metricMagnitude="2" metricUnit="m" metricValue="2.75" metricValueMax="3.0" metricValueMin="2.5" unit="m" value="275.0" valueMax="300.0" valueMin="250.0">
+<quantity id="E0A160638375AEFB180FCD0EC598619D" metricMagnitude="2" metricUnit="m" metricValue="2.75" metricValueMax="3.0" metricValueMin="2.5" unit="m" value="275.0" valueMax="300.0" valueMin="250.0">250-300 m</quantity>
+a.s.l.
+</elevation>
+, tree 
+<quantity id="F7799F3360330D8075C5C7C1AE8EDE87" metricMagnitude="1" metricUnit="m" metricValue="1.25" metricValueMax="1.5" metricValueMin="1.0" unit="m" value="12.5" valueMax="15.0" valueMin="10.0">
+<elevation id="39932BE8165F598D3FB94EDA8DB5F87C" metricMagnitude="1" metricUnit="m" metricValue="1.25" metricValueMax="1.5" metricValueMin="1.0" unit="m" value="12.5" valueMax="15.0" valueMin="10.0">10-15 m</elevation>
+</quantity>
+on shady rocky steep slope, not common, 
+<collectingDate id="43B368B606BA06A97240BA4512FC6C5E" value="2022-11-18">18 November 2022</collectingDate>
+, 
+<emphasis id="86CEE39CFE95AF60E4E9B39C265E4BAF" italics="true" pageId="0" pageNumber="1">
+<collectorName id="068E585C9BF3B91190E9FDFFEE02E964">Nguyen Huu Cuong</collectorName>
+</emphasis>
+, 
+<collectorName id="ABD41A2EAC27B5D339BE77610D31EA4B">
+<emphasis id="44F6CF13F6937D85895DEF7E319C44AB" italics="true" pageId="0" pageNumber="1">Cao Xuan Hai</emphasis>
+, 
+<emphasis id="4D3743467CCE444A157F5D980CCF1447" italics="true" pageId="0" pageNumber="1">L. 
+<collectorName id="F0A65CDDE1FDB4655485CDC19EC8632D">Averyanov, 
+<emphasis id="DBF50CCA3B7A4E15F91B6F1AA9C31584" italics="true" pageId="0" pageNumber="1">T. 
+<collectorName id="A89B065D71B4EB597BC68118E94C2CC2">Maisak, 
+<emphasis id="DF293B99F5BA50CF9481733460DEF3A1" italics="true" pageId="0" pageNumber="1">AL 1682</emphasis>
+</collectorName>
+</emphasis>
+</collectorName>
+</emphasis>
+</collectorName>
+(
+<typeStatus id="D508F035CD46DF964344581AD8BBF7E5" type="holotype">Holotype</typeStatus>
+: VNF NHC20221118006!; 
+<typeStatus id="F6A3A4796F54584452E1A4B2D8D7D314" type="isotype">Isotypes</typeStatus>
+: LE LE01169974! https://en.herbariumle.ru/?t=occ&amp;id=160358, LE LE01169975! https://en.herbariumle.ru/?t=occ&amp;id=160361, LE LE01169983! https://en.herbariumle.ru/?t=occ&amp;id=163681; photos of living material made before preparation of type herbarium specimens: LE LE01123672! https://en.herbariumle.ru/?t=occ&amp;id=155829, LE LE01123671! https://en.herbariumle.ru/?t=occ&amp;id=155828)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="6DE1DB6D4322AF633704C4ABB60DDDEE" pageId="0" pageNumber="1" type="etymology">
+<paragraph id="106AA85A471E7B789A3F4A79A3B6BE77" pageId="0" pageNumber="1">Etymology.</paragraph>
+<paragraph id="2383DE316105220C19D088BC32922DD8" pageId="0" pageNumber="1">The species is named after the area of origin (Bac Kan Province, northeastern Vietnam).</paragraph>
+</subSubSection>
+<subSubSection id="BD68C865E7DDA6B587453A445F892BA5" pageId="0" pageNumber="1" type="description">
+<paragraph id="DF88E797A31132BEE2524E8492FC5823" pageId="0" pageNumber="1">Description.</paragraph>
+<paragraph id="6C325900D79386616DA832B4371C8951" pageId="0" pageNumber="1">
+Evergreen tree, (4)5-20(22) m tall with obscurely ovoid crown and solitary trunk to 30(35) cm DBH. Bark lenticellate, smooth greenish gray. Young twigs dichotomous, slightly flattened or angular, older ones terete, glabrous. Leaves entirely glabrous, shortly petiolate, opposite, or in whorls of 3; petiole obscurely half circular in cross section, adaxially shallowly grooved, (1.5)2-5(7) mm long, (2.5)3-5(5.5) mm wide; stipules interpetiolar, broadly triangular (1)1.5-2.2(2.5) mm long, (2.5)3-5(5.5) mm wide, broad and slightly fused at the base, shortly acuminate at apex, adaxially densely hairy with short hairs; leaf blade chartaceous to slightly coriaceous, narrowly ovate or narrowly obscurely rhomboid, (7)8-10(11) cm long, (3)3.5-5(5.5) cm wide, tapering from the middle to cuneate base and to shortly acuminate, obtuse apex; both surfaces dark green, glossy, median vein shallowly canaliculate on adaxial side, prominent abaxially, secondary (lateral) veins (4)5-6(7) pairs. Inflorescence cymose, 1-3-flowered, terminal or pseudoaxillary; peduncle (1.5)2-8(9) mm long, glabrous or sparsely hairy with stiff adpressed hairs, with 1-2 very small adpressed triangular alternate bracts, (1)1.2-1.8(2) mm long and wide. Pedicels (3.5)4-6(7) mm long, sparsely hairy with sericeous adpressed hairs, with 1(2) bracteoles; bracteoles alternate, triangular, (1.5)2(2.5) mm long and wide, acute to apiculate, glabrous outside, densely hairy with stiff hairs inside. Calyx green, deciduous; calyx tube and lobes glabrous or sparsely hairy with sericeous adpressed hairs outside, inside densely hairy with stiff, yellowish gray hairs; calyx tube (1.2)1.5-2(2.2) mm long, (4)4.5-6(7) mm in diameter; free calyx lobes recurved, subulate, tapering from base to obtuse apex, (6.5)7-10(11) mm long, (0.7)0.8-1.2(1.4) mm wide, without distinct veins. Corolla campanulate, outside pure white, sparsely hairy with small sericeous adpressed hairs, inside glabrous, finely transversally folded (seen when fresh, Fig. 
+<figureCitation id="4B9DAB3E6F3C8BC690FB806D4D271A74" captionStart="Figure 2" captionStartId="F2" captionText="Figure 2. Ridsdalea backanensis A part of crown of flowering tree in natural habitat B leaves, adaxial and abaxial surface C flowering branches D flower bud and opening flower, side view E Opening flower, frontal view F, G flowers, frontal view H flowering branch showing leaves from abaxial side I flowering branch showing leaves from adaxial side J corolla, sagittal section outside and inside K peduncle, pedicels and calyxes, side view L peduncle and pedicel, side view M peduncle, pedicel, calyx and base of style, side view, corolla removed N calyx, frontal view, corolla removed O separated, upper part of calyx tube, calyx lobes, and nectary disc, frontal view P indumentum of abaxial surface of calyx on dry specimen Q portion of adaxial surface of corolla, sessile stamen and apical part of stigma R stamen S pedicel, calyx and pistil with magnified stigma, side view T apical part of stigma U middle part of stigma Photos by L. Averyanov (A, C, F-K, P) and C. H. Nguyen (B, D, E, L-O, Q-U) from plant used for preparation of the type voucher specimens (AL 1682), photo-correction and design by L. Averyanov and T. Maisak." figureDoi="10.3897/phytokeys.239.113017.figure2" httpUri="https://binary.pensoft.net/fig/995515" pageId="0" pageNumber="1">2Q</figureCitation>
+), white with light yellow tint and many purple speckles and longitudinal streaks, lasting 3-4 days, (5)5.5-6(6.5) cm long, (2.5)2.8-3.2(3.5) cm in diameter at the middle, abruptly contracted at the base into a short, narrow, 2.5(3-3.5(4) mm wide tube over a length of (7)8-10(11) mm; corolla lobes 5, overlapping to left, glabrous or sparsely hairy with small sericeous adpressed hairs outside, glabrous inside, triangular broadly ovate, (1.2)1.4-1.6(1.8) cm long and wide, blunt to obtuse at apex, white outside, purple-mottled inside, recurved. Stamens 5, alternate to corolla lobes, subsessile, inserted on the upper part of the corolla tube; anthers oblanceolate, narrowing and obtuse at the apex, (1.8)1.9-2.1(2.2) cm long, (2)2.2-2.5(3) mm wide, longitudinally dehiscent by linear thecae. Disc prominent, annular, (2.4)2.5-2.8(3) mm in diameter, glossy yellow. Style and stigma erect, (4)4.5(5) cm long; style white, terete, about 2.5-3 cm long, 0.8-1 mm in diameter; stigmatic part pale yellow, narrowly ellipsoid, longitudinally ribbed, 1.5-2 cm long, 2-2.5 mm in diameter; ovary inferior, unilocular, with many ovules in two rows. Fruit berry-like, indehiscent, dark green to dull olive-brownish, glabrous, globular to broadly ellipsoid or ovoid, (4.5)5-7(7.5) cm long, (3.5)4-4.5(5) cm in diameter, with semi-woody wall; seeds (15)20-55(65), white, flattened, obscurely triangular to lenticular, (7)8-12(13) mm long and wide, (2.5)3-4(4.5) mm thick, sunk in a dark brown or black pulpy matrix.
+</paragraph>
+<caption id="AC9AC460E9B9CC75EEADA88A72A91415" doi="10.3897/phytokeys.239.113017.figure2" httpUri="https://binary.pensoft.net/fig/995515" pageId="0" pageNumber="1" start="Figure 2" startId="F2">
+<paragraph id="67FC736AF659E49FB90887083BBE42A4" pageId="0" pageNumber="1">
+<emphasis id="0025219815AF13082E672DEFEAA68312" bold="true" pageId="0" pageNumber="1">Figure 2.</emphasis>
+<taxonomicName id="D3BEDF265389452EBCB5FD5672A8843B" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea backanensis" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="backanensis">
+<emphasis id="46A3A61394D54358A1C80A08FA40F8E8" italics="true" pageId="0" pageNumber="1">Ridsdalea backanensis</emphasis>
+</taxonomicName>
+<emphasis id="03FBB3F077243342D1735A8B541CB907" bold="true" pageId="0" pageNumber="1">A</emphasis>
+part of crown of flowering tree in natural habitat 
+<emphasis id="DCDC122D120D952E5261784C26A11B6E" bold="true" pageId="0" pageNumber="1">B</emphasis>
+leaves, adaxial and abaxial surface 
+<emphasis id="85B79B4EE308AD2D0B89E39094D5BAD9" bold="true" pageId="0" pageNumber="1">C</emphasis>
+flowering branches 
+<emphasis id="2A160E81A23EF93AFD332A2FE584408F" bold="true" pageId="0" pageNumber="1">D</emphasis>
+flower bud and opening flower, side view 
+<emphasis id="C5C2D6004C1B574FA614137F069CCF62" bold="true" pageId="0" pageNumber="1">E</emphasis>
+Opening flower, frontal view 
+<emphasis id="E0D46F3ABD0F53B46E5D38F5B993DA67" bold="true" pageId="0" pageNumber="1">F, G</emphasis>
+flowers, frontal view 
+<emphasis id="09A6533AB05346B85A32F7BF395D12AC" bold="true" pageId="0" pageNumber="1">H</emphasis>
+flowering branch showing leaves from abaxial side 
+<emphasis id="87C8BF889D50A433BFE49636CB8659CE" bold="true" pageId="0" pageNumber="1">I</emphasis>
+flowering branch showing leaves from adaxial side 
+<emphasis id="377CBF1F1D4D106B36772B658061ACC2" bold="true" pageId="0" pageNumber="1">J</emphasis>
+corolla, sagittal section outside and inside 
+<emphasis id="395F7A34397EE7363145B1F6405D672F" bold="true" pageId="0" pageNumber="1">K</emphasis>
+peduncle, pedicels and calyxes, side view 
+<emphasis id="263122E33FA4E368C5DBB34B26F51531" bold="true" pageId="0" pageNumber="1">L</emphasis>
+peduncle and pedicel, side view 
+<emphasis id="C2F2CC0281CE7DFCE95A229515CF466C" bold="true" pageId="0" pageNumber="1">M</emphasis>
+peduncle, pedicel, calyx and base of style, side view, corolla removed 
+<emphasis id="C5CA16A8B3ED6D800AE9531F5CF27AA2" bold="true" pageId="0" pageNumber="1">N</emphasis>
+calyx, frontal view, corolla removed 
+<emphasis id="1865EA3C705667A3511770384F314D65" bold="true" pageId="0" pageNumber="1">O</emphasis>
+separated, upper part of calyx tube, calyx lobes, and nectary disc, frontal view 
+<emphasis id="28B75A01CA52E806E83380609C337B7C" bold="true" pageId="0" pageNumber="1">P</emphasis>
+indumentum of abaxial surface of calyx on dry specimen 
+<emphasis id="455F727EBC61489EBFF8C8A453B13A09" bold="true" pageId="0" pageNumber="1">Q</emphasis>
+portion of adaxial surface of corolla, sessile stamen and apical part of stigma 
+<emphasis id="B719E83DADD6E94DCF0D585887DE9CA9" bold="true" pageId="0" pageNumber="1">R</emphasis>
+stamen 
+<emphasis id="44F188B141DF7D817342A08F9EFC74FD" bold="true" pageId="0" pageNumber="1">S</emphasis>
+pedicel, calyx and pistil with magnified stigma, side view 
+<emphasis id="151FDD542039D7FECD863E0586A42B64" bold="true" pageId="0" pageNumber="1">T</emphasis>
+apical part of stigma 
+<emphasis id="68D4A8356E02B62108FC876025478DD8" bold="true" pageId="0" pageNumber="1">U</emphasis>
+middle part of stigma Photos by L. Averyanov (
+<emphasis id="8554C0933B851D4254AD04F298D97723" bold="true" pageId="0" pageNumber="1">A, C, F-K, P</emphasis>
+) and C.H. Nguyen (
+<emphasis id="391E5D4441F2D605F7B8B2680BBF7DF5" bold="true" pageId="0" pageNumber="1">B, D, E, L-O, Q-U</emphasis>
+) from plant used for preparation of the type voucher specimens (
+<emphasis id="D00509F5EA3C72BC5010CE0E2B719089" italics="true" pageId="0" pageNumber="1">AL 1682</emphasis>
+), photo-correction and design by L. Averyanov and T. Maisak.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection id="F5825B8CBCB7172DBC12049096577ED4" pageId="0" pageNumber="1" type="distribution">
+<paragraph id="F898F7370725E95B678BFB6CE8E5FA7C" pageId="0" pageNumber="1">Distribution.</paragraph>
+<paragraph id="2110A6F6BD36AC2DB50197726BFB8113" pageId="0" pageNumber="1">The new species is only known from Nam Mau Commune, Ba Be District (in the limits of the territory of Ba Be National Park), Bac Kan Province, northeastern Vietnam. It is likely endemic to a very limited area of karstic rocky limestone associated with Ba Be National Park. This location lies near the northeast border of the generic area in Indochina.</paragraph>
+</subSubSection>
+<subSubSection id="49F3059C55C88601844EE001C8FBFA43" pageId="0" pageNumber="1" type="habitat">
+<paragraph id="C17AC3A6AD5B5E9CE7E20AF2923090FB" pageId="0" pageNumber="1">Habitat.</paragraph>
+<paragraph id="82E4A560C48590F7F235104EE06F73BC" pageId="0" pageNumber="1">
+Primary and old secondary dry evergreen broad-leaved forest with domination of 
+<taxonomicName id="2B8BFBECA954F540B6537903B1837EA4" class="Magnoliopsida" family="Malvaceae" genus="Burretiodendron" kingdom="Plantae" lsidName="Burretiodendron hsienmu" order="Malvales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="species" species="hsienmu">
+<emphasis id="3AE0222B8766E6D8254C2044C10AB59D" italics="true" pageId="0" pageNumber="1">Burretiodendron hsienmu</emphasis>
+</taxonomicName>
+Chun &amp; F.C.How, 
+<taxonomicName id="82BEC8BD41E875FA7817B8BF5ECAE26E" class="Magnoliopsida" family="Moraceae" genus="Streblus" kingdom="Plantae" lsidName="Streblus asper" order="Rosales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="species" species="asper">
+<emphasis id="17921BB112924BE68482F60D40887C12" italics="true" pageId="0" pageNumber="1">Streblus asper</emphasis>
+</taxonomicName>
+Lour., and 
+<taxonomicName id="F0FC8F647997811240CA5B54FEB1060D" class="Liliopsida" family="Arecaceae" genus="Arenga" kingdom="Plantae" lsidName="Arenga pinnata" order="Arecales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="species" species="pinnata">
+<emphasis id="3D02D0CA4F61484A5F58B13AB6B24DE7" italics="true" pageId="0" pageNumber="1">Arenga pinnata</emphasis>
+</taxonomicName>
+(Wurmb) Merr. on crystalline highly eroded rocky limestone at elevations of 150-300 m a.s.l., commonly on shady rocky steep slopes or in rocky valleys between limestone hills. Occasional.
+</paragraph>
+</subSubSection>
+<subSubSection id="A8DE9C34D654CD2B135E8D23C1C5123F" pageId="0" pageNumber="1" type="phenology">
+<paragraph id="DA69BF01F709F92D1D25783BF8DD5791" pageId="0" pageNumber="1">Phenology.</paragraph>
+<paragraph id="BDC65E1831565082AC6082266D680347" pageId="0" pageNumber="1">Flowering from November to December, fruiting from December to January next year.</paragraph>
+</subSubSection>
+<subSubSection id="173F3B127EBF506FF59998EC595BDFE8" pageId="0" pageNumber="1" type="preliminary iucn conservation status">
+<paragraph id="B48E7037DA04C1FAC01738B0666857A4" pageId="0" pageNumber="1">Preliminary IUCN conservation status.</paragraph>
+<paragraph id="160A03C3E5F60609F0BEFE33ED5AC9AC" pageId="0" pageNumber="1">
+Only two subpopulations were discovered on rocky karstic limestone in the middle part of Ba Be National Park, with few mature trees. The species meets the following conditions (Red List 
+<bibRefCitation id="0DA8A04E041D5248D2786ACD76E9847C" author="Hickey, MK" journalOrPublisher="Cambridge University Press, Cambridge" pageId="0" pageNumber="1" publicationUrl="https://www.iucnredlist.org/documents/RedListGuidelines.pdf" refId="B9" refString="2023. . https://www.iucnredlist.org/documents/RedListGuidelines.pdf" url="https://www.iucnredlist.org/documents/RedListGuidelines.pdf" year="2023">IUCN 2023</bibRefCitation>
+): extent of occurrence (EOO) &lt;100 km2 (B1) and area of occupancy (AOO) &lt;10 km2 (B2) with one known location (a), and continuing decline of quality of habitat (b). We estimate that in the two subpopulations currently known, fewer than 50 mature individuals occur. These conditions identify the conservation status of the new species as globally Critically Endangered CR B1ab(iii) + B2ab(iii) As a result, 
+<taxonomicName id="DA301DAC626A8B8E290644097D04F2C5" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea backanensis" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="backanensis">
+<emphasis id="0D51D3BD5F104490BABB89FF3BEB4A65" italics="true" pageId="0" pageNumber="1">Ridsdalea backanensis</emphasis>
+</taxonomicName>
+deserves the highest priority for conservation.
+</paragraph>
+</subSubSection>
+<subSubSection id="C2EF7FEAE17AB561E992C492A1E4A23C" pageId="0" pageNumber="1" type="notes">
+<paragraph id="DA83E808511B283A08C0AB3C7830822A" pageId="0" pageNumber="1">Notes.</paragraph>
+<paragraph id="C6A3D19712976D97BD3F472AA63ADE5C" pageId="0" pageNumber="1">
+The new species is most similar in its morphology to 
+<taxonomicName id="AAC5666C31B129DBDF3247029F622DFF" authorityName="J. T. Pereira (in Wong and Pereira" authorityYear="2016" baseAuthorityName="Y. M. Shui &amp; W. H. Chen" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea daweishanensis" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="daweishanensis">
+<emphasis id="BA839956CF85920456C76D4898A7DF97" italics="true" pageId="0" pageNumber="1">Ridsdalea daweishanensis</emphasis>
+</taxonomicName>
+described from SE Yunnan (Maguan &amp; Hekou counties) and also reported for NW Vietnam, Lao Cai Province (
+<bibRefCitation id="BC203FE07CA5D95D5BBBED85853D352D" DOI="https://doi.org/10.1360/aps06165" author="Zhang, MD" journalOrPublisher="Acta Phytotaxonomica Sinica" pageId="0" pageNumber="1" pagination="90 - 93" refId="B25" refString="Zhang, MD, Chen, WH, Shui, YM, 2007. Miscellaneous notes on the tribe Gardenieae (Rubiaceae) from China and Vietnam. Acta Phytotaxonomica Sinica 45: 90 - 93, DOI: https://doi.org/10.1360/aps06165" title="Miscellaneous notes on the tribe Gardenieae (Rubiaceae) from China and Vietnam." url="https://doi.org/10.1360/aps06165" volume="45" year="2007">Zhang et al. 2007</bibRefCitation>
+; 
+<bibRefCitation id="E2EF7A0AC920E729A209A106CD01C8AB" author="Chen, T" editor="Wu, ZY" journalOrPublisher="Vol. 19. Science Press, Beijing &amp; Missouri Botanical Garden Press, St. Louis" pageId="0" pageNumber="1" pagination="304 - 305" refId="B5" refString="Chen, T, Taylor, CM, 2011. Rothmannia Thunberg. In: Wu, ZY, Hong, DY, Raven, PH, Eds., Flora of China. Vol. 19. Science Press, Beijing &amp; Missouri Botanical Garden Press, St. Louis: 304 - 305" title="Rothmannia Thunberg." volumeTitle="Flora of China." year="2011">Chen and Taylor 2011</bibRefCitation>
+; 
+<bibRefCitation id="5A12B194C0628F4BF3BFA3E8FEA24293" DOI="https://doi.org/10.15625/0866-7160/v37n4.6952" author="Bui, HQ" journalOrPublisher="Journal of Biology" pageId="0" pageNumber="1" pagination="458 - 462" refId="B3" refString="Bui, HQ, Nguyen, TC, 2015. A new record species Rothmannia wittii (Craib) Bremek. (Rubiaceae) for the flora of Vietnam. Journal of Biology 37 (4): 458 - 462, DOI: https://doi.org/10.15625/0866-7160/v37n4.6952" title="A new record species Rothmannia wittii (Craib) Bremek. (Rubiaceae) for the flora of Vietnam." url="https://doi.org/10.15625/0866-7160/v37n4.6952" volume="37" year="2015">Bui and Nguyen 2015</bibRefCitation>
+). The new species differs from 
+<taxonomicName id="07203B30E3484199F934BAFD15C34AD5" class="Dicotyledones" family="Rubiaceae" genus="R." higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="R. daweishanensis" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="species" species="daweishanensis">
+<emphasis id="9B3043D27D19F606ED57656224A69A23" italics="true" pageId="0" pageNumber="1">R. daweishanensis</emphasis>
+</taxonomicName>
+in its height to 22 m tall (vs. height of tree to 15 m), the leaf blades 7-11 cm long and 3-5.5 cm wide (vs. 10-14 cm long, 4-5 cm wide), the 1-3-flowered inflorescences (vs. inflorescences uniflorous), the 3.5-7 mm long pedicels (vs. pedicels 2-2.5 cm long), the free subulate calyx lobes, tapering from base to apex and broadest at the base, 6.5-11 mm long, without distinct veins (vs. calyx lobes narrowly oblanceolate, broadest above the middle, 14-16 mm long, 1-nerved), the 5-6.5 cm long corolla, sparsely hairy with small sericeous adpressed hairs outside and glabrous inside, contracted at the base into a narrow tube, 7-11 mm long, 2.5-4 mm in diameter (vs. corolla 5-5.5 cm long, entirely glabrous, contracted at the base into 6-7 mm long tube, 5 mm in diameter), the corolla lobes glabrous or sparsely hairy with small sericeous adpressed hairs outside and glabrous inside, 1.2-1.8 cm wide (vs. corolla lobes entirely glabrous, 2.2-2.3 cm wide), the oblanceolate, 2-3 mm wide anthers (vs. anthers linear, about 1.5 mm wide), and the globular to broadly ellipsoid or ovoid fruits, containing 15-65 seeds (vs. fruits globular, containing fewer than 20 seeds).
+</paragraph>
+<paragraph id="6C0702F18686C1E285764C65418D0793" pageId="0" pageNumber="1">The newly discovered plant species will doubtless be of considerable interest for cultivation as an ornamental, since it is a nice-flowering tree that may be effectively used for gardens and urban green architecture.</paragraph>
+</subSubSection>
+<subSubSection id="19C05C5DC12865C7DB2B9911D2910827" pageId="0" pageNumber="1" type="materials_examined">
+<paragraph id="331EE344E71258153BC4E4D5C547329E" pageId="0" pageNumber="1">Additional material studied</paragraph>
+<paragraph id="3EE4C92F4DC3BEA0C6FA2972F3263AFF" pageId="0" pageNumber="1">
+<emphasis id="0ED85110FCD0CDBAB254FEDCFACDA373" bold="true" pageId="0" pageNumber="1">
+(
+<emphasis id="DC008224602694C938DDD5E890436938" italics="true" pageId="0" pageNumber="1">
+<typeStatus id="11B2B6CE9CE4DFD6346E3C2F0984F3B6" type="paratype">paratypes</typeStatus>
+</emphasis>
+).
+</emphasis>
+<collectingCountry id="83557B90C819395185F80D2BF87482A2" name="Vietnam">Vietnam</collectingCountry>
+, 
+<collectingRegion id="945E35633E45ED6D767A4461197B4BEA" country="Vietnam" name="Bac Kan">Bac Kan Province</collectingRegion>
+: Ba Be District, central part of Ba Be National Park, dry evergreen broad-leaved old secondary forest with domination of 
+<taxonomicName id="965B23FD4C866345041611D33C412DC8" class="Magnoliopsida" family="Malvaceae" genus="Burretiodendron" kingdom="Plantae" lsidName="Burretiodendron hsienmu" order="Malvales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="species" species="hsienmu">
+<emphasis id="EFDEE556BB249EBCEFADE7833CC3203B" italics="true" pageId="0" pageNumber="1">Burretiodendron hsienmu</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="2353DF6CB195E41F260EB38AF237E1D3" class="Magnoliopsida" family="Moraceae" genus="Streblus" kingdom="Plantae" lsidName="Streblus asper" order="Rosales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="species" species="asper">
+<emphasis id="D4CAE605C09590FEBB7AE15AF9512D5E" italics="true" pageId="0" pageNumber="1">Streblus asper</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="8F7AD64FBD1668D4D2F9AC90A5750708" class="Liliopsida" family="Arecaceae" genus="Arenga" kingdom="Plantae" lsidName="Arenga pinnata" order="Arecales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="species" species="pinnata">
+<emphasis id="13AD08B8B89332D427AE250140F8193C" italics="true" pageId="0" pageNumber="1">Arenga pinnata</emphasis>
+</taxonomicName>
+on crystalline highly eroded rocky limestone along Ba Be River at elev. c. 
+<quantity id="12D819B29E354426F028D8515FCA9C6D" metricMagnitude="2" metricUnit="m" metricValue="2.5" unit="m" value="250.0">250 m</quantity>
+a.s.l., tree 
+<quantity id="3763DCB09272E3EAE5A6EA5A14F9175E" metricMagnitude="1" metricUnit="m" metricValue="1.25" metricValueMax="1.5" metricValueMin="1.0" unit="m" value="12.5" valueMax="15.0" valueMin="10.0">10-15 m</quantity>
+tall on rocky slope in humid valley between limestone hills, occasional, 
+<date id="EB2FBEE3F99C741A3BA9D65B758B7B2B" value="2022-11-17">17 November 2022</date>
+, 
+<emphasis id="34EDA68D9F16FC8718135FF61007B34E" italics="true" pageId="0" pageNumber="1">Nguyen Huu Cuong</emphasis>
+, 
+<emphasis id="9EB0CA61EEDE875C2492701437A268FA" italics="true" pageId="0" pageNumber="1">Cao Xuan Hai</emphasis>
+, 
+<emphasis id="B33D48C71B3A3881B0F35D6842D0E61D" italics="true" pageId="0" pageNumber="1">L. Averyanov</emphasis>
+, 
+<emphasis id="74127E8194E6B284DBFF75E54E78B325" italics="true" pageId="0" pageNumber="1">T. Maisak</emphasis>
+, 
+<emphasis id="4244681821DB528CAF8B46F3BE3CB6CE" italics="true" pageId="0" pageNumber="1">AL 1680</emphasis>
+(LE LE01169964 https://en.herbariumle.ru/?t=occ&amp;id=163682, VNF-NHC 20221117004, photos of living material made before preparation of voucher herbarium specimens: LE LE01123669 https://en.herbariumle.ru/?t=occ&amp;id=155826). 
+<materialsCitation id="9A20563BA78CA6FDF8A50A347DBCF62F" collectingDate="2023-10-20" collectorName="Nguyen Huu Cuong, Chu Ngoc Quan, L, Nguyen Van Ly, T, Maisak, AL" country="Vietnam" county="Ba Be District" elevation="150" latitude="22.452501" location="Dau Dang Waterfall of Nang River" longLatPrecision="21" longitude="105.57111" municipality="Ba Be National Park" specimenCount="1" stateProvince="Bac Kan Province">
+<collectingCountry id="CEF8694682933947B799B06B1030B608" name="Vietnam">Vietnam</collectingCountry>
+, 
+<collectingRegion id="6DC914E90177777C356DE80D6697AE7A" country="Vietnam" name="Bac Kan">Bac Kan Province</collectingRegion>
+, 
+<collectingCounty id="C6AD834639C153A8FB9FA6799E01B16B">Ba Be District</collectingCounty>
+, 
+<collectingMunicipality id="15D2DBA0B10EA77E67CA2099A4D922BC">Ba Be National Park</collectingMunicipality>
+, dry evergreen broad-leaved secondary forest on steep rocky slopes composed by white crystalline marble-like highly eroded limestone near 
+<location id="9B5C2A38B6C53989FB7465DA87AA5594" country="Vietnam" county="Ba Be District" latitude="22.452501" longLatPrecision="21" longitude="105.57111" municipality="Ba Be National Park" name="Dau Dang Waterfall of Nang River" stateProvince="Bac Kan Province">Dau Dang Waterfall of Nang River</location>
+around point 
+<geoCoordinate id="F5DA7146BB60BCBB6AAC06F898196C13" degrees="22" direction="north" minutes="27" orientation="latitude" precision="15" seconds="09" value="22.452501">22°27'09&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="844E7120CCBD785A976B3689AFFE685A" degrees="105" direction="east" minutes="34" orientation="longitude" precision="15" seconds="16" value="105.57111">105°34'16&quot;E</geoCoordinate>
+, at elevation of about 
+<elevation id="EE3383851CA6CE8A575AD37D0488D037" metricMagnitude="2" metricUnit="m" metricValue="1.5" unit="m" value="150.0">
+<quantity id="E4D84827DA946CE682038FA9CC30AFFB" metricMagnitude="2" metricUnit="m" metricValue="1.5" unit="m" value="150.0">150 m</quantity>
+a.s.l.
+</elevation>
+, tree about 
+<quantity id="F3EC01165E2F101A92BB4185B3BB7EE2" metricMagnitude="0" metricUnit="m" metricValue="5.0" unit="m" value="5.0">
+<elevation id="467A2D87E9A9BD2E7D1ECFFDE6613FDB" metricMagnitude="0" metricUnit="m" metricValue="5.0" unit="m" value="5.0">5 m</elevation>
+</quantity>
+tall on shady steep rocky slope, young flower buds green, locally common, 
+<collectingDate id="ACB514A34CD3F6108D884A13470AED0E" value="2023-10-20">20 October 2023</collectingDate>
+, 
+<emphasis id="3DFC2D559BB51D147448562842FDFFA5" italics="true" pageId="0" pageNumber="1">
+<collectorName id="C3FB8AF10B2B2E6DA6112B1D62FDAD69">Nguyen Huu Cuong</collectorName>
+</emphasis>
+, 
+<collectorName id="F196833B15EBC8DC23E7FC99F1F78CB5">
+<emphasis id="6FB9AEBC035785182F5D093A479C5814" italics="true" pageId="0" pageNumber="1">Chu Ngoc Quan</emphasis>
+, 
+<emphasis id="CB7DE6528241C911EB33191922807BD8" italics="true" pageId="0" pageNumber="1">L. Averyanov</emphasis>
+</collectorName>
+, 
+<collectorName id="14BC46A1E3F04F3E95D98F7DD71B820E">
+<emphasis id="326C0C36C06AF25B84E6BF5BDCDCEB2F" italics="true" pageId="0" pageNumber="1">Nguyen Van Ly</emphasis>
+, 
+<emphasis id="F37D36DF4B94BCDF9853C868DAC6E523" italics="true" pageId="0" pageNumber="1">T. 
+<collectorName id="F6AA25129186808BA85880B508308CF5">Maisak, 
+<emphasis id="F0339DFAAB65CE19CCB0D808318D07BF" italics="true" pageId="0" pageNumber="1">AL2330</emphasis>
+</collectorName>
+</emphasis>
+</collectorName>
+(LE LE01253796 https://en.herbariumle.ru/?t=occ&amp;id=212995, photos of living material made before preparation of voucher herbarium specimens: LE LE01124442 https://en.herbariumle.ru/?t=occ&amp;id=207144, VNF)
+</materialsCitation>
+. 
+<materialsCitation id="06A933502EEA39E7142735D1BCCF326D" collectingDate="2023-10-20" collectorName="Nguyen Huu Cuong, Chu Ngoc Quan, L, Nguyen Van Ly, T, Maisak, AL" country="Vietnam" county="Ba Be District" elevation="150" latitude="22.452501" location="Dau Dang Waterfall of Nang River" longLatPrecision="21" longitude="105.57111" municipality="Ba Be National Park" specimenCount="1" stateProvince="Bac Kan Province">
+<collectingCountry id="8A1111837A88EAB3E9564828E184CCF8" name="Vietnam">Vietnam</collectingCountry>
+, 
+<collectingRegion id="991DE442B0FCC32571BCD44C3D3BCEB8" country="Vietnam" name="Bac Kan">Bac Kan Province</collectingRegion>
+, 
+<collectingCounty id="6C3C69717D19310AF1323B8B6475D75E">Ba Be District</collectingCounty>
+, 
+<collectingMunicipality id="BB668EDC011763EC23361BE2BAFB6201">Ba Be National Park</collectingMunicipality>
+, dry evergreen broad-leaved secondary forest on steep rocky slopes composed by white crystalline marble-like highly eroded limestone near 
+<location id="8F1812342FC1215EF1B14AA1125DAB6E" country="Vietnam" county="Ba Be District" latitude="22.452501" longLatPrecision="21" longitude="105.57111" municipality="Ba Be National Park" name="Dau Dang Waterfall of Nang River" stateProvince="Bac Kan Province">Dau Dang Waterfall of Nang River</location>
+around point 
+<geoCoordinate id="F842087AD21740580B65043679E37E18" degrees="22" direction="north" minutes="27" orientation="latitude" precision="15" seconds="09" value="22.452501">22°27'09&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="DC4023F488B9DD51CAADC4A734061165" degrees="105" direction="east" minutes="34" orientation="longitude" precision="15" seconds="16" value="105.57111">105°34'16&quot;E</geoCoordinate>
+, at elevation of about 
+<elevation id="C1258D7FC73CA75E533EFBADAA66E37F" metricMagnitude="2" metricUnit="m" metricValue="1.5" unit="m" value="150.0">
+<quantity id="B9F51DAD54677A34606E6B22183773AC" metricMagnitude="2" metricUnit="m" metricValue="1.5" unit="m" value="150.0">150 m</quantity>
+a.s.l.
+</elevation>
+, tree about 
+<quantity id="5A77F4E31720E99A99CD4126568D039A" metricMagnitude="0" metricUnit="m" metricValue="8.0" unit="m" value="8.0">
+<elevation id="4DF3AAFD56058A50DED85F1B32F6C0E9" metricMagnitude="0" metricUnit="m" metricValue="8.0" unit="m" value="8.0">8 m</elevation>
+</quantity>
+tall on shady steep rocky slope, fruits broadly ellipsoid, dirty green to almost black, locally common, 
+<collectingDate id="43889BBBA5BCCAEF5AEFA1E7AE7EF927" value="2023-10-20">20 October 2023</collectingDate>
+, 
+<emphasis id="7695BE4223BEABD9341D793E03E87221" italics="true" pageId="0" pageNumber="1">
+<collectorName id="0CDE39576624C05040FE927E3E851A4C">Nguyen Huu Cuong</collectorName>
+</emphasis>
+, 
+<collectorName id="F458AF3AEAC5D191E5ED594675814701">
+<emphasis id="15D75BD21518D44BA8AD05A4CDDE099A" italics="true" pageId="0" pageNumber="1">Chu Ngoc Quan</emphasis>
+, 
+<emphasis id="2F5AC7BA60E9323B11C40BA52499B06A" italics="true" pageId="0" pageNumber="1">L. Averyanov</emphasis>
+</collectorName>
+, 
+<collectorName id="3AF4351CC2DAA52F2FFEA38C4B77360C">
+<emphasis id="CA09DCEE3650E98E44D49E48106ED1BF" italics="true" pageId="0" pageNumber="1">Nguyen Van Ly</emphasis>
+, 
+<emphasis id="3A32DFC8318F2163C4D4E470D1D1A3F6" italics="true" pageId="0" pageNumber="1">T. 
+<collectorName id="17FE92962A55CE16BCE026420FF971BC">Maisak, 
+<emphasis id="845ACAB0C708026DFBFC50C1940AE761" italics="true" pageId="0" pageNumber="1">AL2331</emphasis>
+</collectorName>
+</emphasis>
+</collectorName>
+(LE LE01253792 https://en.herbariumle.ru/?t=occ&amp;id=212991, LE LE01253793 https://en.herbariumle.ru/?t=occ&amp;id=212992, photos of living material made before preparation of voucher herbarium specimens: LE LE01124443 https://en.herbariumle.ru/?t=occ&amp;id=207145, VNF)
+</materialsCitation>
+. 
+<materialsCitation id="E48FE1FF0B8E6458B049F37CF43094D2" collectingDate="2023-10-29" collectorName="Nguyen Huu Cuong, Chu Ngoc Quan, L, Nguyen Van Ly, T, Maisak, AL" country="Vietnam" elevation="250" latitude="22.416111" location="Ba Be National Park" longLatPrecision="21" longitude="105.613335" municipality="Ba Be District" specimenCount="1" stateProvince="Bac Kan Province">
+<collectingCountry id="30921D09544BD386741FA3C965AC5D4C" name="Vietnam">Vietnam</collectingCountry>
+, 
+<collectingRegion id="EBA9FE29ACC4171168CF3C153ECD3A93" country="Vietnam" name="Bac Kan">Bac Kan Province</collectingRegion>
+, 
+<collectingMunicipality id="758E5D1AE25ACE6D9414F61E984289C7">Ba Be District</collectingMunicipality>
+, 
+<location id="1634775342472429C12322CAE3ACCD05" country="Vietnam" latitude="22.416111" longLatPrecision="21" longitude="105.613335" municipality="Ba Be District" name="Ba Be National Park" stateProvince="Bac Kan Province">Ba Be National Park</location>
+, dry evergreen broad-leaved secondary forest on very steep rocky slopes composed by white crystalline marble-like highly eroded limestone along lake shore on point 
+<geoCoordinate id="198AA304F6968508C125A8F5983506F0" degrees="22" direction="north" minutes="24" orientation="latitude" precision="15" seconds="58" value="22.416111">22°24'58&quot;N</geoCoordinate>
+, 
+<geoCoordinate id="5D4DBC5BA6BCED7E607013F7D258D720" degrees="105" direction="east" minutes="36" orientation="longitude" precision="15" seconds="48" value="105.613335">105°36'48&quot;E</geoCoordinate>
+, at elevation of about 
+<elevation id="7C823ADE57E79DEE8A660C04324C5A6C" metricMagnitude="2" metricUnit="m" metricValue="2.5" unit="m" value="250.0">
+<quantity id="F8C51CBA3EFAFFD19B11179BD826AA29" metricMagnitude="2" metricUnit="m" metricValue="2.5" unit="m" value="250.0">250 m</quantity>
+a.s.l.
+</elevation>
+, tree about 
+<quantity id="5AD5557489853E9A446A4F28F0F69781" metricMagnitude="1" metricUnit="m" metricValue="1.0" unit="m" value="10.0">
+<elevation id="D1F2EBEC1CF4C7FC766FD0A02F787056" metricMagnitude="1" metricUnit="m" metricValue="1.0" unit="m" value="10.0">10 m</elevation>
+</quantity>
+tall on very steep rocky slope, not common, 
+<collectingDate id="5221B97F25AD12840C94643F50B94721" value="2023-10-29">29 October 2023</collectingDate>
+, 
+<emphasis id="FDB499B788D8995FAB9826904AD6B504" italics="true" pageId="0" pageNumber="1">
+<collectorName id="A0AE0C2E80F4639087881069E70D5E54">Nguyen Huu Cuong</collectorName>
+</emphasis>
+, 
+<collectorName id="EBD00888E024247977E8FFBC620F374E">
+<emphasis id="9137D626F433AE8336085383BA4B25FC" italics="true" pageId="0" pageNumber="1">Chu Ngoc Quan</emphasis>
+, 
+<emphasis id="3C7EFA511A1CECDB173F30DF72B039A2" italics="true" pageId="0" pageNumber="1">L. Averyanov</emphasis>
+</collectorName>
+, 
+<collectorName id="8F7BEBA4F2E282FBA722432971C0C788">
+<emphasis id="CBE6453AA52FE464584C728D5C196584" italics="true" pageId="0" pageNumber="1">Nguyen Van Ly</emphasis>
+, 
+<emphasis id="999B3CC674818C530AC8656247FDA7C8" italics="true" pageId="0" pageNumber="1">T. 
+<collectorName id="27DB9CA22D9E23845968D967AA76F3D1">Maisak, 
+<emphasis id="178C6C9741DBEB67E138A13FE113C9A6" italics="true" pageId="0" pageNumber="1">AL2369</emphasis>
+</collectorName>
+</emphasis>
+</collectorName>
+(LE LE01253794 https://en.herbariumle.ru/?t=occ&amp;id=212993, LE LE01253795 https://en.herbariumle.ru/?t=occ&amp;id=212994, photos of living material made before preparation of voucher herbarium specimens: LE LE01124480 https://en.herbariumle.ru/?t=occ&amp;id=207183, VNF)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment id="FAA807C5B8245B66B9A35FC386317F3D" ID-GBIF-Taxon="222683449" pageId="0" pageNumber="1">
+<subSubSection id="6034AB446A52803D084CF5303ED9A520" pageId="0" pageNumber="1" type="nomenclature">
+<paragraph id="60FF60FC5B3DE508AF5FFA890B152896" pageId="0" pageNumber="1">
+<taxonomicName id="BD4A6AE57A38CE7E4F2163075FD4CD19" ID-CoL="8X4P8" LSID="FAA807C5-B824-5B66-B9A3-5FC386317F3D" authority="(Y. M. Shui &amp; W. H. Chen) J. T. Pereira (in Wong and Pereira 2016: 45)." authorityName="J. T. Pereira (in Wong and Pereira" authorityYear="2016" baseAuthorityName="Y. M. Shui &amp; W. H. Chen" family="Rubiaceae" genus="Ridsdalea" higherTaxonomySource="treatment-meta" kingdom="Plantae" lsidName="Ridsdalea daweishanensis" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="daweishanensis">Ridsdalea daweishanensis (Y.M.Shui &amp; W.H.Chen) J.T.Pereira (in Wong and Pereira 2016: 45).</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="602C4BC35B2E94AA8F712AB209616D2C" pageId="0" pageNumber="1" type="reference_group">
+<paragraph id="0C70B9395180D2C62847AD1AE9EACA16" pageId="0" pageNumber="1">
+<taxonomicName id="6026161066CC4E11CFFFFAB86FD84BC4" family="Rubiaceae" genus="Rothmannia" higherTaxonomySource="treatment-meta" kingdom="Plantae" lsidName="Rothmannia daweishanensis" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="daweishanensis">≡ Rothmannia daweishanensis</taxonomicName>
+Y.M.Shui &amp; W.H.Chen (
+<bibRefCitation id="EB7562BAD0DE51F3606F0A3F7D4DD3FD" DOI="https://doi.org/10.2307/3393267" author="Shui, YM" journalOrPublisher="Novon" pageId="0" pageNumber="1" pagination="322 - 324" refId="B18" refString="Shui, YM, Chen, WH, Chen, WC, 2003. A new species of Rothmannia (Rubiaceae) from Yunnan, China. Novon 13 (3): 322 - 324, DOI: https://doi.org/10.2307/3393267" title="A new species of Rothmannia (Rubiaceae) from Yunnan, China." url="https://doi.org/10.2307/3393267" volume="13" year="2003">Shui et al. 2003</bibRefCitation>
+: 322, 
+<bibRefCitation id="115A1698A432CC0E864D8F2E5A1F5BC2" DOI="https://doi.org/10.1360/aps06165" author="Zhang, MD" journalOrPublisher="Acta Phytotaxonomica Sinica" pageId="0" pageNumber="1" pagination="90 - 93" refId="B25" refString="Zhang, MD, Chen, WH, Shui, YM, 2007. Miscellaneous notes on the tribe Gardenieae (Rubiaceae) from China and Vietnam. Acta Phytotaxonomica Sinica 45: 90 - 93, DOI: https://doi.org/10.1360/aps06165" title="Miscellaneous notes on the tribe Gardenieae (Rubiaceae) from China and Vietnam." url="https://doi.org/10.1360/aps06165" volume="45" year="2007">Zhang et al. 2007</bibRefCitation>
+: 92). Type. China. Yunnan: Maguan, Gulinqing, Woody Station nearby Nanxi Community of Hekou, 
+<emphasis id="A72F50446AD6C897C746A829C3AC9543" italics="true" pageId="0" pageNumber="1">Shui et al. 14496</emphasis>
+(Holotype: KUN; Isotypes: KUN, MO).
+</paragraph>
+</subSubSection>
+<subSubSection id="EF37F6471B1E14BA1FC8745DCAEBE66F" pageId="0" pageNumber="1" type="distribution">
+<paragraph id="A945DB4AAE64E83A5EAE39B63722AC05" pageId="0" pageNumber="1">Distribution.</paragraph>
+<paragraph id="7D8D9ACBE44F5F2B3B8AC127170C9C92" pageId="0" pageNumber="1">S China (SE Yunnan), NW Vietnam (Lang Son Province).</paragraph>
+</subSubSection>
+</treatment>
+<treatment id="DD61B065710F52CE8B006D16B0FDF7E0" ID-GBIF-Taxon="222683451" pageId="0" pageNumber="1">
+<subSubSection id="65A99D5442747E0488E8B5404E3C2783" pageId="0" pageNumber="1" type="nomenclature">
+<paragraph id="38B3F98EEC5E7ADB72B67D117D8BB7C9" pageId="0" pageNumber="1">
+<taxonomicName id="7BAA177399C78E1D53BC05D2BBBB4F69" ID-CoL="8X4P9" LSID="DD61B065-710F-52CE-8B00-6D16B0FDF7E0" authority="(K. Schum.) J. T. Pereira (in Wong and Pereira 2016: 45)." authorityName="(K. Schum.) J. T. Pereira (in Wong and Pereira 2016: 45)." authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" higherTaxonomySource="treatment-meta" kingdom="Plantae" lsidName="Ridsdalea eucodon" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="eucodon">Ridsdalea eucodon (K.Schum.) J.T.Pereira (in Wong and Pereira 2016: 45).</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="84EC02F47F876C6F0BC460C8EBE7548A" pageId="0" pageNumber="1" type="reference_group">
+<paragraph id="E25483D050393E7D135A25BA2402B609" pageId="0" pageNumber="1">
+<taxonomicName id="BED040ACD2BBD656ECEF6F5F3973A7FC" family="Rubiaceae" genus="Randia" higherTaxonomySource="treatment-meta" kingdom="Plantae" lsidName="Randia eucodon" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="eucodon">≡ Randia eucodon</taxonomicName>
+K.Schum. (in 
+<bibRefCitation id="F7859C063896D65376F7299CB539FCB5" author="Schmidt, EJ" journalOrPublisher="Botanisk Tidsskrift" pageId="0" pageNumber="1" pagination="329 - 341" refId="B17" refString="Schmidt, EJ, 1902. Flora of Koh Chang. Contributions to the knowledge of the vegetation in the Gulf of Siam, part 6. Botanisk Tidsskrift 24: 329 - 341" title="Flora of Koh Chang. Contributions to the knowledge of the vegetation in the Gulf of Siam, part 6." volume="24" year="1902">Schmidt 1902</bibRefCitation>
+: 333). Type. Thailand. Koh Chang, 
+<emphasis id="078635D6D31A7879F812E87BB636E688" italics="true" pageId="0" pageNumber="1">Schmidt 717</emphasis>
+(Holotype: C; Isotype: K).
+</paragraph>
+<paragraph id="9E1DDD462971CCEDC0AE9AB25BB82DD1" pageId="0" pageNumber="1">
+<taxonomicName id="1CB1D30276C4B837BC151D033486CE93" family="Rubiaceae" genus="Randia" higherTaxonomySource="treatment-meta" kingdom="Plantae" lsidName="Randia exaltata subsp. var. var. griffithiana" order="Gentianales" pageId="0" pageNumber="1" rank="variety" species="exaltata" subSpecies="var." variety="griffithiana">= Randia exaltata Griff. var. griffithiana</taxonomicName>
+Pierre ex Pit. (
+<bibRefCitation id="C90F18CE23850AC57E9F0B6215DEBB7C" author="Pitard, CJ" editor="Lecomte, MH" journalOrPublisher="Vol. 3. Masson et Cie, Paris" pageId="0" pageNumber="1" pagination="20 - 442" refId="B14" refString="Pitard, CJ, 1923. Rubiacees. In: Lecomte, MH, Humbert, H, Eds., Flore generale de l'Indo-Chine. Vol. 3. Masson et Cie, Paris: 20 - 442" title="Rubiacees." volumeTitle="Flore generale de l'Indo-Chine." year="1923">Pitard 1923</bibRefCitation>
+: 246). Lectotype. Vietnam. Bienhoa: Bao Chiang, 
+<emphasis id="DB17B33558F3118A898537C12284D79E" italics="true" pageId="0" pageNumber="1">Pierre 1625</emphasis>
+(Lectotype: P P00199261 designated by 
+<bibRefCitation id="BD967BC78246D92948159B2F8183FB03" author="Wong, KM" journalOrPublisher="Sandakania" pageId="0" pageNumber="1" pagination="21 - 64" refId="B24" refString="Wong, KM, Pereira, JT, 2016. A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia. Sandakania 21: 21 - 64" title="A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia." volume="21" year="2016">Wong and Pereira 2016</bibRefCitation>
+: 45; Isolectotypes: K, NY, P P00199260).
+</paragraph>
+</subSubSection>
+<subSubSection id="1EFAB40EFE36FFD749F8CB2AFEB101E0" pageId="0" pageNumber="1" type="distribution">
+<paragraph id="5416DC4635D42A8B96CEEB356CFFF128" pageId="0" pageNumber="1">Distribution.</paragraph>
+<paragraph id="3022C249068F6CC682D73983EBD0206B" pageId="0" pageNumber="1">S Thailand, S Vietnam (Dong Nai and Khanh Hoa provinces).</paragraph>
+</subSubSection>
+</treatment>
+<treatment id="19A17972CB3A592DAB05F65FBA08CB8B" ID-GBIF-Taxon="222683457" pageId="0" pageNumber="1">
+<subSubSection id="EBA2FDEA7D5287B5E382A9C20D38B926" pageId="0" pageNumber="1" type="nomenclature">
+<paragraph id="22EA0559B42AD707BE29B4CA874AAD63" pageId="0" pageNumber="1">
+<taxonomicName id="5C8A918D9D031644F624A860D36A52C0" ID-CoL="8X4PF" LSID="19A17972-CB3A-592D-AB05-F65FBA08CB8B" authority="(Tirveng.) J. T. Pereira (in Wong and Pereira 2016: 46)." authorityName="(Tirveng.) J. T. Pereira (in Wong and Pereira 2016: 46)." authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" higherTaxonomySource="treatment-meta" kingdom="Plantae" lsidName="Ridsdalea kampucheana" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="kampucheana">Ridsdalea kampucheana (Tirveng.) J.T.Pereira (in Wong and Pereira 2016: 46).</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="934460855C670D1A3F80241EE30D7546" pageId="0" pageNumber="1" type="reference_group">
+<paragraph id="BFE02F2362C5D7E8374B988B914E0D60" pageId="0" pageNumber="1">
+<taxonomicName id="C2C97D2767CC0AFE2EE51D3D28F16767" family="Rubiaceae" genus="Rothmannia" higherTaxonomySource="treatment-meta" kingdom="Plantae" lsidName="Rothmannia kampucheana" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="kampucheana">≡ Rothmannia kampucheana</taxonomicName>
+Tirveng. (
+<bibRefCitation id="0027E922DD4DBC6DD173F9C2DDF93BAD" DOI="https://doi.org/10.1111/j.1756-1051.1983.tb01453.x" author="Tirvengadum, DD" journalOrPublisher="Nordic Journal of Botany" pageId="0" pageNumber="1" pagination="455 - 469" refId="B21" refString="Tirvengadum, DD, 1983. New taxa and name changes in tropical Asiatic Rubiaceae. Nordic Journal of Botany 3 (4): 455 - 469, DOI: https://doi.org/10.1111/j.1756-1051.1983.tb01453.x" title="New taxa and name changes in tropical Asiatic Rubiaceae." url="https://doi.org/10.1111/j.1756-1051.1983.tb01453.x" volume="3" year="1983">Tirvengadum 1983</bibRefCitation>
+: 466). Type. Cambodia. Nord de Kampot, 5 Feb 1928, 
+<emphasis id="A5AB6A7842C8B8CAF0C92ED0AF30295B" italics="true" pageId="0" pageNumber="1">Poilane 14676</emphasis>
+(Holotype: P).
+</paragraph>
+</subSubSection>
+<subSubSection id="04FB305C5FF4D34A00D2F2A0743B4CEF" pageId="0" pageNumber="1" type="distribution">
+<paragraph id="9E6F2A4AA0C6ABCF3313E011BF11EE5B" pageId="0" pageNumber="1">Distribution.</paragraph>
+<paragraph id="050847FFB850DD3F170D1A8475EDEE31" pageId="0" pageNumber="1">SW Cambodia, S Vietnam (An Giang and Kien Giang provinces).</paragraph>
+</subSubSection>
+</treatment>
+<treatment id="CBF67D7FEDFE5619AED1A52C72FDE184" ID-GBIF-Taxon="222683447" pageId="0" pageNumber="1">
+<subSubSection id="A2CC15528FC10598242C6E8A0F81EA98" pageId="0" pageNumber="1" type="nomenclature">
+<paragraph id="4C0CB4B5A56443053B97CFB31DE9E864" pageId="0" pageNumber="1">
+<taxonomicName id="95E2745903B16629E78C1F1AACCA975E" ID-CoL="8X4Q4" LSID="CBF67D7F-EDFE-5619-AED1-A52C72FDE184" authority="(Tirveng.) J. T. Pereira (in Wong and Pereira 2016: 43)." authorityName="(Tirveng.) J. T. Pereira (in Wong and Pereira 2016: 43)." authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" higherTaxonomySource="treatment-meta" kingdom="Plantae" lsidName="Ridsdalea vietnamensis" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="vietnamensis">Ridsdalea vietnamensis (Tirveng.) J.T.Pereira (in Wong and Pereira 2016: 43).</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="D2EB0A4C1D94EC0B0CA375012A0FAAC9" pageId="0" pageNumber="1" type="reference_group">
+<paragraph id="6EB7448054B3F95BEA82F8C07575A2D7" pageId="0" pageNumber="1">
+<taxonomicName id="A351FF471B77C84CBDCC8B3827D12C9D" family="Rubiaceae" genus="Rothmannia" higherTaxonomySource="treatment-meta" kingdom="Plantae" lsidName="Rothmannia vietnamensis" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="vietnamensis">≡ Rothmannia vietnamensis</taxonomicName>
+Tirveng. (
+<bibRefCitation id="08B7D3BB811FBFBE93EEC7FDDB897D72" DOI="https://doi.org/10.1111/j.1756-1051.1983.tb01453.x" author="Tirvengadum, DD" journalOrPublisher="Nordic Journal of Botany" pageId="0" pageNumber="1" pagination="455 - 469" refId="B21" refString="Tirvengadum, DD, 1983. New taxa and name changes in tropical Asiatic Rubiaceae. Nordic Journal of Botany 3 (4): 455 - 469, DOI: https://doi.org/10.1111/j.1756-1051.1983.tb01453.x" title="New taxa and name changes in tropical Asiatic Rubiaceae." url="https://doi.org/10.1111/j.1756-1051.1983.tb01453.x" volume="3" year="1983">Tirvengadum 1983</bibRefCitation>
+: 469). Type. Vietnam. Annam, col de Braian, Haut Douai, 14 Feb (rec. Jul) 1935, 
+<emphasis id="279EFC2951A2823C678984FACC41775F" italics="true" pageId="0" pageNumber="1">Poilane 24313</emphasis>
+(Holotype: P).
+</paragraph>
+</subSubSection>
+<subSubSection id="09EB21FDFDB818FAB7C4746A9AC19DCE" pageId="0" pageNumber="1" type="distribution">
+<paragraph id="C282DDC752F9F68CB932BD361197A15C" pageId="0" pageNumber="1">Distribution.</paragraph>
+<paragraph id="DC697FBE11BC7FF757F3C61128F3B21F" pageId="0" pageNumber="1">S Vietnam (Lam Dong Province).</paragraph>
+</subSubSection>
+</treatment>
+<subSection id="2D9A3F8186DF199F0FD10AE858AD04C3" _chop="after" pageId="0" pageNumber="1" type="multiple">
+<treatment id="4464F403074D5196B797D762FFEF2F87" ID-GBIF-Taxon="222683455" pageId="0" pageNumber="1">
+<subSubSection id="0D8ED0209BBD4FEF6ACFF710042FAB18" pageId="0" pageNumber="1" type="nomenclature">
+<paragraph id="0924A8146E628E3A6355DE397B5A2B78" pageId="0" pageNumber="1">
+<taxonomicName id="B83B8014B9F12A1FA837E724F94BADBD" ID-CoL="8X4Q5" LSID="4464F403-074D-5196-B797-D762FFEF2F87" authority="(Craib) J. T. Pereira (in Wong and Pereira 2016: 53)." authorityName="(Craib) J. T. Pereira (in Wong and Pereira 2016: 53)." authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" higherTaxonomySource="treatment-meta" kingdom="Plantae" lsidName="Ridsdalea wittii" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="wittii">Ridsdalea wittii (Craib) J.T.Pereira (in Wong and Pereira 2016: 53).</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="C6FFB1C60747D68EB9EF3CCC54BB4267" pageId="0" pageNumber="1" type="reference_group">
+<paragraph id="3B2C5039005659B951D8DEDD6E69A661" pageId="0" pageNumber="1">
+<taxonomicName id="2222172276D610DA72AF00F3993C7FB3" family="Rubiaceae" genus="Randia" higherTaxonomySource="treatment-meta" kingdom="Plantae" lsidName="Randia wittii" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="wittii">≡ Randia wittii</taxonomicName>
+Craib (
+<bibRefCitation id="7F42BB453D961B5E61BE35D51EC315F6" DOI="https://doi.org/10.2307/4115077" author="Craib, WG" journalOrPublisher="Bulletin of Miscellaneous Information" pageId="0" pageNumber="1" pagination="385 - 476" refId="B6" refString="Craib, WG, 1911. Contributions to the flora of Siam. II. List of Siamese plants, with descriptions of new species. Bulletin of Miscellaneous Information 1911 (10): 385 - 476, DOI: https://doi.org/10.2307/4115077" title="Contributions to the flora of Siam. II. List of Siamese plants, with descriptions of new species." url="https://doi.org/10.2307/4115077" volume="1911" year="1911">Craib 1911</bibRefCitation>
+: 392). Type. Thailand. Lower Siam: Korat, in dry deciduous jungle, 60 m, 
+<emphasis id="DE1523C1249428CC27115AD12A665585" italics="true" pageId="0" pageNumber="1">Witt s.n.</emphasis>
+(not located).
+</paragraph>
+</subSubSection>
+<subSubSection id="D8F909562EC6F5651393C53BCC163867" pageId="0" pageNumber="1" type="distribution">
+<paragraph id="571D3159AB2971D4B98C39B87993DCA2" pageId="0" pageNumber="1">Distribution.</paragraph>
+<paragraph id="E08F45BB489D48E807AA6B4762CCD198" pageId="0" pageNumber="1">NE Thailand, Laos, S Vietnam (Khanh Hoa Province).</paragraph>
+</subSubSection>
+</treatment>
+</subSection>
+<subSection id="F5384ECA529967725CC8CD59DFE41998" pageId="0" pageNumber="1" type="acknowledgements">
+<paragraph id="CE0A1EA471098DC9FCEECFD16262E80C" pageId="0" pageNumber="1">Acknowledgments</paragraph>
+<paragraph id="3694C5A951D45C4906F486E5F61F0950" pageId="0" pageNumber="1">The authors are indebted to the Management Board of Ba Be National Park, including Mr. Trieu The Khoi, Mr. Pham Van Chi, Mr. Pham Van Nam, Mr. Hoang Van Chat, Mr. Duong Hong Hai, and the field staff for their help during fieldwork.</paragraph>
+</subSection>
+<subSection id="0168066F30CC5D75E23E53FB90DDC66C" pageId="0" pageNumber="1" type="﻿additional information">
+<paragraph id="B6114704490F897EBC7CDFF4A9A56420" pageId="0" pageNumber="1">Additional information</paragraph>
+<paragraph id="7B79AC8BD91FA06517709A8AD34C1203" pageId="0" pageNumber="1">Conflict of interest</paragraph>
+<paragraph id="EE03E57A891E80FC9711FDB15FC63BB4" pageId="0" pageNumber="1">The authors have declared that no competing interests exist.</paragraph>
+<paragraph id="84C0A605B10E546B389D07236426B347" pageId="0" pageNumber="1">Ethical statement</paragraph>
+<paragraph id="6571018232FBFF11DB70B57ACF701982" pageId="0" pageNumber="1">No ethical statement was reported.</paragraph>
+<paragraph id="0B539ACB5B67C8D98CA8D98DA8963D7F" pageId="0" pageNumber="1">Funding</paragraph>
+<paragraph id="F0D81CED806B985C56F437F3F250EADA" pageId="0" pageNumber="1">No funding was reported.</paragraph>
+<paragraph id="80C98CA8E6586D767015C9D825A3C277" pageId="0" pageNumber="1">Author contributions</paragraph>
+<paragraph id="EF7CCA95C6D101107DEAE78DAE474783" pageId="0" pageNumber="1">Conceptualization, Khoa Van Phung, Cuong Huu Nguyen; Formal analysis, Khoa Van Phung, Leonid V. Averyanov, Tatiana V. Maisak, Ludmila I. Krupkina, Cuong Huu Nguyen; Funding acquisition, Khoa Van Phung; Investigation, Leonid V. Averyanov, Tatiana V. Maisak, Hai Xuan Cao, Cuong Huu Nguyen; Methodology, Khoa Van Phung, Leonid V. Averyanov, Tatiana V. Maisak, Hai Xuan Cao, Cuong Huu Nguyen; Supervision, Khoa Van Phung; Writing - original draft, all authors; Writing - review and editing, Khoa Van Phung, Leonid V. Averyanov, Cuong Huu Nguyen; All authors have read and agreed to the published version of the manuscript.</paragraph>
+<paragraph id="411F0CEC35AC915255184A8156403F49" pageId="0" pageNumber="1">Author ORCIDs</paragraph>
+<paragraph id="AE2F2F450514EA8A03A11F831853DFEE" pageId="0" pageNumber="1">Khoa Van Phung https://orcid.org/0000-0002-9133-166X</paragraph>
+<paragraph id="CBAC75D1B8ACAE6031F2D587633E0F3D" pageId="0" pageNumber="1">Leonid V. Averyanov https://orcid.org/0000-0001-8031-2925</paragraph>
+<paragraph id="58A4C8D70DBCB43CE54CF04671CC2003" pageId="0" pageNumber="1">Tatiana V. Maisak https://orcid.org/0000-0001-5919-6755</paragraph>
+<paragraph id="57137C8B9CA61EED768AE974FE2711B9" pageId="0" pageNumber="1">Ludmila I. Krupkina https://orcid.org/0000-0003-0391-533X</paragraph>
+<paragraph id="224770789E256CEE209C166441155374" pageId="0" pageNumber="1">Hai Xuan Cao https://orcid.org/0000-0002-9396-2879</paragraph>
+<paragraph id="893AB113ED1859EAE24F9B59DFF47049" pageId="0" pageNumber="1">Cuong Huu Nguyen https://orcid.org/0000-0003-2281-741X</paragraph>
+<paragraph id="8F93CD38F3DEE14E8F24B0DC26A2D8B6" pageId="0" pageNumber="1">Data availability</paragraph>
+<paragraph id="5C45C0A3527D1309D35DE2C4ACAD31B5" pageId="0" pageNumber="1">All of the data that support the findings of this study are available in the main text.</paragraph>
+</subSection>
+<subSection id="08F3ABB2B125B4D89F7F7BEC4F6E2F7E" pageId="0" pageNumber="1" type="reference_group">
+<paragraph id="79998FE660BEDBABE7E6049F3CF10732" pageId="0" pageNumber="1">References</paragraph>
+<paragraph id="2021F0042191C210E53C954EA5CFEFDE" pageId="0" pageNumber="1">
+<bibRef id="93DC81DAA64B21A70ADDC20E8E5600A4" author="Beentje, H" journalOrPublisher="Royal Botanic Garden, Kew" pageId="0" pageNumber="1" refId="B1" title="The Kew Plant Glossary, an illustrated dictionary of plant terms." year="2016">
+<author id="310D16E32FD53F12B88A0EEF21ACF6ED" pageId="0" pageNumber="1">Beentje, H</author>
+, 
+<year id="88FE806DECD0A8E344E7303ADBBA14F2" pageId="0" pageNumber="1">2016</year>
+. 
+<title id="47467AF29DAC63755EAED511D91E5607" pageId="0" pageNumber="1">The Kew Plant Glossary, an illustrated dictionary of plant terms.</title>
+<journalOrPublisher id="55439BC55C9BDCC0EA915E129E6CAB70" pageId="0" pageNumber="1">Royal Botanic Garden, Kew</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="70E7D3484EEE8C817436ACEBB26FD1A5" pageId="0" pageNumber="1">
+<bibRef id="205755447395965B00C62D047946935D" DOI="https://doi.org/10.3417/2006197" author="Bremer, B" journalOrPublisher="Annals of the Missouri Botanical Garden" pageId="0" pageNumber="1" pagination="4 - 26" refId="B2" title="A review of molecular phylogenetic studies of Rubiaceae." url="https://doi.org/10.3417/2006197" volume="96" year="2009">
+<author id="E80AA029B8C01CB991F550B5D881FCBE" pageId="0" pageNumber="1">Bremer, B</author>
+, 
+<year id="ED5BEB3800EF34A2F08D01A14E9F1678" pageId="0" pageNumber="1">2009</year>
+. 
+<title id="BBBD7AF4C5EC93BC65C5EE2E52943DCA" pageId="0" pageNumber="1">
+A review of molecular phylogenetic studies of 
+<taxonomicName id="B7033A48966A233BE30B313E0229139F" family="Rubiaceae" genus="Randia" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="family">Rubiaceae</taxonomicName>
+.
+</title>
+<journalOrPublisher id="00AD098D20422D465EC65184A7AC4E90" pageId="0" pageNumber="1">Annals of the Missouri Botanical Garden</journalOrPublisher>
+<volume id="D8263B5D17C707A416D81F047C0EE5F9" pageId="0" pageNumber="1">96</volume>
+: 
+<pagination id="2581D66294C538E8FF2CCEF61FAF61B3" pageId="0" pageNumber="1">4 - 26</pagination>
+, DOI: 
+<DOI id="4595F17F015A04B920484870215EF26F" pageId="0" pageNumber="1">https://doi.org/10.3417/2006197</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="EE9A74ECEC8548B15F636F6A62F9FEFA" pageId="0" pageNumber="1">
+<bibRef id="378AFCE164BAF302A3FC15DEBDCF1C83" DOI="https://doi.org/10.15625/0866-7160/v37n4.6952" author="Bui, HQ" journalOrPublisher="Journal of Biology" pageId="0" pageNumber="1" pagination="458 - 462" refId="B3" title="A new record species Rothmannia wittii (Craib) Bremek. (Rubiaceae) for the flora of Vietnam." url="https://doi.org/10.15625/0866-7160/v37n4.6952" volume="37" year="2015">
+<author id="39241A4FD435DFD89157A576FE016CDC" pageId="0" pageNumber="1">Bui, HQ</author>
+, 
+<author id="F146B1818407AB2C15D4343667F2B41A" pageId="0" pageNumber="1">Nguyen, TC</author>
+, 
+<year id="B591A59BC9262645BA10D9CF7D396C5B" pageId="0" pageNumber="1">2015</year>
+. 
+<title id="6E9017554506291E0A40667F40A57BA6" pageId="0" pageNumber="1">
+A new record species 
+<taxonomicName id="054D3CA3257FDA20B55B418B9E947C26" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="Rothmannia wittii" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="wittii">
+<emphasis id="08C23C6D91686972AC480FA6CB47F523" italics="true" pageId="0" pageNumber="1">Rothmannia wittii</emphasis>
+</taxonomicName>
+(Craib) Bremek. (
+<taxonomicName id="8A6961833A298EE638184F7D6FC97DCF" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="family">Rubiaceae</taxonomicName>
+) for the flora of Vietnam.
+</title>
+<journalOrPublisher id="C3BD153AE2B2677DE6C0C885D0B91481" pageId="0" pageNumber="1">Journal of Biology</journalOrPublisher>
+<volume id="A009F9E7D84123CF6153D4A5FA7348AE" pageId="0" pageNumber="1">37</volume>
+(
+<issue id="EA0E728BF0620504C214B66AFF1404DE" pageId="0" pageNumber="1">4</issue>
+): 
+<pagination id="3952ABCFA39F2FCF18ED056311424BBB" pageId="0" pageNumber="1">458 - 462</pagination>
+, DOI: 
+<DOI id="36CADCD28C731CFBA9904F0B1997F060" pageId="0" pageNumber="1">https://doi.org/10.15625/0866-7160/v37n4.6952</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="7E0EADD0429514DF16E3AEB98E51FABB" pageId="0" pageNumber="1">
+<bibRef id="21439F7DB621051C9D8B4ABB6217FF7F" DOI="https://doi.org/10.3767/blumea.2022.67.01.04" author="Bustamante, RAA" journalOrPublisher="Blumea" pageId="0" pageNumber="1" pagination="15 - 19" refId="B4" title="A new Philippine species of Ridsdalea (Rubiaceae, Ixoroideae) from karst vegetation in Palawan." url="https://doi.org/10.3767/blumea.2022.67.01.04" volume="67" year="2022">
+<author id="7C92E6DAD3A5127AE3565D0B20F2D116" pageId="0" pageNumber="1">Bustamante, RAA</author>
+, 
+<author id="29F8209B9845EA0A09AB114F54EB6460" pageId="0" pageNumber="1">Pelser, PB</author>
+, 
+<year id="52BAD655A38C5DD8A13C4D0455D7A127" pageId="0" pageNumber="1">2022</year>
+. 
+<title id="4FE60F18C2994AD2D59F6A09BA471B8E" pageId="0" pageNumber="1">
+A new Philippine species of 
+<taxonomicName id="B8DDE1B4779D963D551D5388F26C97D0" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="87960C1CE6B71EBAA79806E6B9BB60EB" italics="true" pageId="0" pageNumber="1">Ridsdalea</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="55D43BAC802206FB701DE8A2FDC6460C" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="family">Rubiaceae</taxonomicName>
+, 
+<taxonomicName id="8C480C1435771BA19C63773601EA1643" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="subFamily" subFamily="Ixoroideae">Ixoroideae</taxonomicName>
+) from karst vegetation in Palawan.
+</title>
+<journalOrPublisher id="2D997CE7B33C477881472DF24C7B769C" pageId="0" pageNumber="1">Blumea</journalOrPublisher>
+<volume id="B821DEC51E92D925850A47DA73C2909A" pageId="0" pageNumber="1">67</volume>
+(
+<issue id="457006CE61D8B91F5EBD060B14F06D88" pageId="0" pageNumber="1">1</issue>
+): 
+<pagination id="B09B879132C19F71A15E35AC9AF0D80A" pageId="0" pageNumber="1">15 - 19</pagination>
+, DOI: 
+<DOI id="88263E994A93540C90ACCDEE7E3EBFF8" pageId="0" pageNumber="1">https://doi.org/10.3767/blumea.2022.67.01.04</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="C388B78C6D301AB842B396D45B6E40A8" pageId="0" pageNumber="1">
+<bibRef id="6A2C3165E65339D0C77D79DA996950A5" author="Chen, T" editor="Wu, ZY" journalOrPublisher="Vol. 19. Science Press, Beijing &amp; Missouri Botanical Garden Press, St. Louis" pageId="0" pageNumber="1" pagination="304 - 305" refId="B5" title="Rothmannia Thunberg." volumeTitle="Flora of China." year="2011">
+<author id="6D39F4252E96FC3A39278575A709E6B1" pageId="0" pageNumber="1">Chen, T</author>
+, 
+<author id="2980648357FF803BCEF81F7E69F4256F" pageId="0" pageNumber="1">Taylor, CM</author>
+, 
+<year id="8350AA6058097DE50E4C7E1512CF4C0F" pageId="0" pageNumber="1">2011</year>
+. 
+<title id="521CCE0B4385F156FC5D417C2D3CBFCF" pageId="0" pageNumber="1">
+<taxonomicName id="DE1CE7A416B63E14C445F4FE6C367F38" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="Rothmannia" order="Gentianales" pageId="0" pageNumber="1" rank="genus">Rothmannia</taxonomicName>
+Thunberg.
+</title>
+In: 
+<editor id="426B22BF4DBDC8A4D9A94B182AABF098" pageId="0" pageNumber="1">Wu, ZY</editor>
+, 
+<editor id="94E2D8F4B79CED3CFCCD82BB6AF6B56A" pageId="0" pageNumber="1">Hong, DY</editor>
+, 
+<editor id="B4EC8A1A6F33CA5C4B2AE7319E82C399" pageId="0" pageNumber="1">Raven, PH</editor>
+, Eds., 
+<volumeTitle id="2340556FC15CDE4CE27173367FE168A9" pageId="0" pageNumber="1">Flora of China.</volumeTitle>
+<journalOrPublisher id="A0138C25D5452BA28BFE78C0FE4AA83A" pageId="0" pageNumber="1">Vol. 19. Science Press, Beijing &amp; Missouri Botanical Garden Press, St. Louis</journalOrPublisher>
+: 
+<pagination id="79534C9BCDD9DB4B9248193DAF65D7FA" pageId="0" pageNumber="1">304 - 305</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="75788EF6EC7D8F90AE10A916B38A8A39" pageId="0" pageNumber="1">
+<bibRef id="335B37B9EFECB897B8E911A4F15E4738" DOI="https://doi.org/10.2307/4115077" author="Craib, WG" journalOrPublisher="Bulletin of Miscellaneous Information" pageId="0" pageNumber="1" pagination="385 - 476" refId="B6" title="Contributions to the flora of Siam. II. List of Siamese plants, with descriptions of new species." url="https://doi.org/10.2307/4115077" volume="1911" year="1911">
+<author id="B3C50C18C034F45332EEC00587DAA2D5" pageId="0" pageNumber="1">Craib, WG</author>
+, 
+<year id="E5A4530FD70D24E6D1A65270583CB126" pageId="0" pageNumber="1">1911</year>
+. 
+<title id="7A248594BA1D71E53E8500FD9365BA21" pageId="0" pageNumber="1">Contributions to the flora of Siam. II. List of Siamese plants, with descriptions of new species.</title>
+<journalOrPublisher id="FA0EAF634AD4DA03E381B20A489C516C" pageId="0" pageNumber="1">Bulletin of Miscellaneous Information</journalOrPublisher>
+<volume id="122D092CA5FB5413249AC59A0DCFA4EB" pageId="0" pageNumber="1">1911</volume>
+(
+<issue id="50A4E439CB21BF64AD6BE66DFBB8E9AB" pageId="0" pageNumber="1">10</issue>
+): 
+<pagination id="196136C74A7A0CE28A079AA8627E4C3B" pageId="0" pageNumber="1">385 - 476</pagination>
+, DOI: 
+<DOI id="6C33F7B0C5E61B929AC4E142CDC7AE9F" pageId="0" pageNumber="1">https://doi.org/10.2307/4115077</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="331DFF15282ABC3D92BDE49B2947CB5C" pageId="0" pageNumber="1">
+<bibRef id="33E7512A13943168191DADEC193D0A5A" author="Harris, JG" journalOrPublisher="Spring Lake Publishing, Spring Lake" pageId="0" pageNumber="1" refId="B7" title="Plant identification terminology: an illustrated glossary." year="2006">
+<author id="6C1C8F642F9D49FCD58CD077E47D7189" pageId="0" pageNumber="1">Harris, JG</author>
+, 
+<author id="92E6CB91AB2FE621284536969FE7A096" pageId="0" pageNumber="1">Harris, MW</author>
+, 
+<year id="B8791FAA7FB04F430EB19633A56AB41D" pageId="0" pageNumber="1">2006</year>
+. 
+<title id="7EFB3C64BF004D3F3D939526C2FC4211" pageId="0" pageNumber="1">Plant identification terminology: an illustrated glossary.</title>
+<journalOrPublisher id="353097C87CEF4C2BCA1C518CF8255E62" pageId="0" pageNumber="1">Spring Lake Publishing, Spring Lake</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="2F36046AB2F43741D375D52B0B00BC05" pageId="0" pageNumber="1">
+<bibRef id="162D40F4D322E6CC7E8CF64BB7D08BF1" author="Hickey, MK" journalOrPublisher="Cambridge University Press, Cambridge" pageId="0" pageNumber="1" refId="B8" title="The Cambridge Illustrated Glossary of Botanical Terms." year="2000">
+<author id="8B9C7F229D9820353E474BC0C095B0B4" pageId="0" pageNumber="1">Hickey, MK</author>
+, 
+<author id="69D7F86831FD308AD25D24FEAC383AA8" pageId="0" pageNumber="1">King, C</author>
+, 
+<year id="1ED565E044B91B129F6DEA649732E602" pageId="0" pageNumber="1">2000</year>
+. 
+<title id="1B219835D5F62ECB032BE52E11DC812B" pageId="0" pageNumber="1">The Cambridge Illustrated Glossary of Botanical Terms.</title>
+<journalOrPublisher id="12E17BA4C6AE96F30FAC31BBAAB5B728" pageId="0" pageNumber="1">Cambridge University Press, Cambridge</journalOrPublisher>
+</bibRef>
+</paragraph>
+<paragraph id="DB208B562E3B23ECA92989FC6D56B706" pageId="0" pageNumber="1">
+<bibRef id="01CD16A1613F1B1B59CAA95450E2967E" author="Hickey, MK" journalOrPublisher="Cambridge University Press, Cambridge" pageId="0" pageNumber="1" publicationUrl="https://www.iucnredlist.org/documents/RedListGuidelines.pdf" refId="B9" url="https://www.iucnredlist.org/documents/RedListGuidelines.pdf" year="2023">
+<year id="DB25C1F230CE559B4F48463A4B261B5C" pageId="0" pageNumber="1">2023</year>
+.. 
+<publicationUrl id="A3725C79073356D7DE7901567FBDCC4E" pageId="0" pageNumber="1">https://www.iucnredlist.org/documents/RedListGuidelines.pdf</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph id="805C7ACF2DC44D79991D34F9CCE4C728" pageId="0" pageNumber="1">
+<bibRef id="A131462FB58622297A784325C9D4DFC7" author="Korthals, PW" journalOrPublisher="Nederlandsch Kruidkundig Archief" pageId="0" pageNumber="1" pagination="145 - 269" refId="B10" title="Overzigt der Rubiaceȅn van de Nederlandsch-Oostindische Kolonien." volume="2" year="1851">
+<author id="79E8970032AFD117EF8ADB8424D6F818" pageId="0" pageNumber="1">Korthals, PW</author>
+, 
+<year id="18B9C0C8B93A4C508803B5FD316056FB" pageId="0" pageNumber="1">1851</year>
+. 
+<title id="E2926CC14F1E0E46ED2F69D660E900F6" pageId="0" pageNumber="1">
+Overzigt der 
+<normalizedToken id="849D28252DE28DC052C21D96AD7F64FB" originalValue="Rubiaceȅn">Rubiaceȅn</normalizedToken>
+van de Nederlandsch-Oostindische Kolonien.
+</title>
+<journalOrPublisher id="96CE7FA856D4552254845C7F5353BAF9" pageId="0" pageNumber="1">Nederlandsch Kruidkundig Archief</journalOrPublisher>
+<volume id="56E84E8B4B4EB8B703983E83260C6CA9" pageId="0" pageNumber="1">2</volume>
+(
+<issue id="9314559B84796E35A3883032AB460CF2" pageId="0" pageNumber="1">2</issue>
+): 
+<pagination id="28F33B58A1F815F2123A730D3CF320CB" pageId="0" pageNumber="1">145 - 269</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="B5DE2994A7B160E417F47FF8F14F197C" pageId="0" pageNumber="1">
+<bibRef id="1A646D20CE4934A5E82975BD113C8CCD" DOI="https://doi.org/10.11646/phytotaxa.365.1.5" author="Kwanjai, K" journalOrPublisher="Phytotaxa" pageId="0" pageNumber="1" pagination="96 - 100" refId="B11" title="Ridsdalea alba (Rubiaceae), a new species from southern Thailand." url="https://doi.org/10.11646/phytotaxa.365.1.5" volume="365" year="2018">
+<author id="7104DC2787CB36219C861677D2B256E0" pageId="0" pageNumber="1">Kwanjai, K</author>
+, 
+<author id="464ABA863EF3CC3EE997F5DB83F832B4" pageId="0" pageNumber="1">Voradol, C</author>
+, 
+<author id="B4BAB2AAE5EABD1F24920D7886823B80" pageId="0" pageNumber="1">Manop, P</author>
+, 
+<author id="234D00BA7F7081DE5219A76FB297166C" pageId="0" pageNumber="1">Sarunya, V</author>
+, 
+<author id="C9671D186BB24DCD5E0A7337FF1D3954" pageId="0" pageNumber="1">Sarawood, S</author>
+, 
+<year id="C76D0A8F685D8FA3CCAAA3679339E0A6" pageId="0" pageNumber="1">2018</year>
+. 
+<title id="978BEB9EE198642A2DC226A8B990CB74" pageId="0" pageNumber="1">
+<taxonomicName id="E69F48DDDDDBF1680F028FB06BDD42BB" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea alba" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="alba">
+<emphasis id="D63DA9C868010B435A7969388765C256" italics="true" pageId="0" pageNumber="1">Ridsdalea alba</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="4D61F13974F117BEFBA12CBFBE6E79FB" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="family">Rubiaceae</taxonomicName>
+), a new species from southern Thailand.
+</title>
+<journalOrPublisher id="685BE6113DB4D3F9602B30F4D32BA664" pageId="0" pageNumber="1">Phytotaxa</journalOrPublisher>
+<volume id="65F4EF9096238B8B3351C0E8D52EF9FF" pageId="0" pageNumber="1">365</volume>
+(
+<issue id="E9726B895E248D517F4449651159F225" pageId="0" pageNumber="1">1</issue>
+): 
+<pagination id="8502660F017CEAA3E7663369DFCD6C3F" pageId="0" pageNumber="1">96 - 100</pagination>
+, DOI: 
+<DOI id="B413CC80E380BCF7E9C1FF5BC1C2EDB3" pageId="0" pageNumber="1">https://doi.org/10.11646/phytotaxa.365.1.5</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="2D35E3F977AA6A92E8D773BC0ACDBDFC" pageId="0" pageNumber="1">
+<bibRef id="43A228C456BB49385D7F22E6F70C2AB3" DOI="https://doi.org/10.12705/634.4" author="Mouly, A" journalOrPublisher="Taxon" pageId="0" pageNumber="1" pagination="801 - 818" refId="B12" title="Phylogenetic structure and clade circumscriptions in the Gardenieae complex (Rubiaceae)." url="https://doi.org/10.12705/634.4" volume="63" year="2014">
+<author id="FF6917B33DAEF02114FB8F846DA5FE4E" pageId="0" pageNumber="1">Mouly, A</author>
+, 
+<author id="BF55B9C989FDD3620F83C2A47923CF85" pageId="0" pageNumber="1">Kainulainen, K</author>
+, 
+<author id="AC21C9A8F4FDF4800BE1D99951A9D4AA" pageId="0" pageNumber="1">Persson, C</author>
+, 
+<author id="0094F196064B8CFF0CEDED09AF135353" pageId="0" pageNumber="1">Davis, AP</author>
+, 
+<author id="2E83F02AF39799052DFEB5E0FB689A29" pageId="0" pageNumber="1">Wong, KM</author>
+, 
+<author id="34E368DC6A481167EBA08009E83EAFC4" pageId="0" pageNumber="1">Razafimandimbison, SG</author>
+, 
+<author id="0F64C50E0DBC75CA9E1E4E17DBFA86DB" pageId="0" pageNumber="1">Bremer, B</author>
+, 
+<year id="0447D1524B27009E43B98C48A5FD9538" pageId="0" pageNumber="1">2014</year>
+. 
+<title id="B953B1F882518019E0975496EB322032" pageId="0" pageNumber="1">
+Phylogenetic structure and clade circumscriptions in the 
+<taxonomicName id="6536613468B8588EAAC210AEC69B6E9F" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="tribe" tribe="Gardenieae">Gardenieae</taxonomicName>
+complex (
+<taxonomicName id="870B6CFF459EC99029AF137AB2C041DB" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="family">Rubiaceae</taxonomicName>
+).
+</title>
+<journalOrPublisher id="7BF5246174A4834E669C5DC7EE38B9C4" pageId="0" pageNumber="1">Taxon</journalOrPublisher>
+<volume id="1640082F04A190FE7F59EAE0068A781D" pageId="0" pageNumber="1">63</volume>
+(
+<issue id="8B76A75D2C3D36F2FB4E5E7FAD1DE6B0" pageId="0" pageNumber="1">4</issue>
+): 
+<pagination id="DAE45B69A5276941347E1FE49F431EF0" pageId="0" pageNumber="1">801 - 818</pagination>
+, DOI: 
+<DOI id="565FE899F1214BADB17EF9C74E6F829C" pageId="0" pageNumber="1">https://doi.org/10.12705/634.4</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="C9E6FD8A81B3FA189B96672723512048" pageId="0" pageNumber="1">
+<bibRef id="355111F3691382979DDD49E4DD00C5E1" author="Pham, HH" journalOrPublisher="Taxon" pageId="0" pageNumber="1" refId="B13" title="Rubiaceae. An Illustrated Flora of Vietnam [Cay Co Viet Nam]. Vol. 3. Young Publishing House, Ho Chi Minh, 105 - 222. [In Vietnamese]" year="2000">
+<author id="A400A6AB6E894B364669E3E1089442EE" pageId="0" pageNumber="1">Pham, HH</author>
+, 
+<year id="7AC36039A6C886D652E79687F7D51982" pageId="0" pageNumber="1">2000</year>
+. 
+<title id="A86594787F0DADA56A28BFDB0FDF0221" pageId="0" pageNumber="1">Rubiaceae. An Illustrated Flora of Vietnam [Cay Co Viet Nam]. Vol. 3. Young Publishing House, Ho Chi Minh, 105-222. [In Vietnamese]</title>
+</bibRef>
+</paragraph>
+<paragraph id="818DAB1B7FF22727A4760796C2DF3409" pageId="0" pageNumber="1">
+<bibRef id="B4EE201BEB4874D5ECC691D60A4758A0" author="Pitard, CJ" editor="Lecomte, MH" journalOrPublisher="Vol. 3. Masson et Cie, Paris" pageId="0" pageNumber="1" pagination="20 - 442" refId="B14" title="Rubiacees." volumeTitle="Flore generale de l'Indo-Chine." year="1923">
+<author id="B0F20E54BE7335B3B517D86DC11E6DFD" pageId="0" pageNumber="1">Pitard, CJ</author>
+, 
+<year id="084BE7E291074C7DB08C5EDDD052A1C9" pageId="0" pageNumber="1">1923</year>
+. 
+<title id="DF3469043DB04B3846221084B9235AEB" pageId="0" pageNumber="1">
+<normalizedToken id="0A07736625EFEB1F2206FEB447761907" originalValue="Rubiacées">Rubiacees</normalizedToken>
+.
+</title>
+In: 
+<editor id="2F34E18E419F084F36F8DB8EAC153DC9" pageId="0" pageNumber="1">Lecomte, MH</editor>
+, 
+<editor id="BBACA83C4505EA8A839E069C04FEF3FF" pageId="0" pageNumber="1">Humbert, H</editor>
+, Eds., 
+<volumeTitle id="E5A0EA5F4D590A81F3DDD259B727E5E2" pageId="0" pageNumber="1">
+Flore 
+<normalizedToken id="DE8C89845CD36E4BCC9720BF91E5C16A" originalValue="générale">generale</normalizedToken>
+de 
+<normalizedToken id="632AA105528AC73F75D27D7F1A50DEF2" originalValue="l’Indo-Chine">l'Indo-Chine</normalizedToken>
+.
+</volumeTitle>
+<journalOrPublisher id="295D11C4B06AC165C4E0334EEE85E133" pageId="0" pageNumber="1">Vol. 3. Masson et Cie, Paris</journalOrPublisher>
+: 
+<pagination id="F504A9CCFD839E2CE9C7D3B3ED87DDC6" pageId="0" pageNumber="1">20 - 442</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="B318040CB8280393FAF3181CF90AAE17" pageId="0" pageNumber="1">
+<bibRef id="5890DBF7EE1CE27768A69535F65C6F04" author="Pitard, CJ" journalOrPublisher="Vol. 3. Masson et Cie, Paris" pageId="0" pageNumber="1" publicationUrl="http://www.plantsoftheworldonline.org/" refId="B15" url="http://www.plantsoftheworldonline.org/" year="2023">
+<year id="8219E05E68C61D6AC5C13FEC396FF727" pageId="0" pageNumber="1">2023</year>
+.. 
+<publicationUrl id="307458D2782E23A207B7A4BCE39C5B8A" pageId="0" pageNumber="1">http://www.plantsoftheworldonline.org/</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph id="803114331C0D3A9669049E001D9DDCB3" pageId="0" pageNumber="1">
+<bibRef id="4D276CF29DC8BEDE33B854746998343A" author="Robbrecht, E" journalOrPublisher="Systematics and Geography of Plants" pageId="0" pageNumber="1" pagination="85 - 146" refId="B16" title="The major evolutionary lineages of the coffee family (Rubiaceae, angiosperms). Combined analysis (nDNA and cpDNA) to infer the position of Coptosapelta and Luculia, and supertree construction based on rbcL, rps 16, trnL-trnF and atpB-rbcL data. A new classification in two subfamilies, Cinchonoideae and Rubioideae." volume="76" year="2006">
+<author id="8E6B76CD84365E4019F4D05944634866" pageId="0" pageNumber="1">Robbrecht, E</author>
+, 
+<author id="5BB05920289BEDF4EA5804D84F68C095" pageId="0" pageNumber="1">Manen, JF</author>
+, 
+<year id="F93D6FFB1A3609825EC40A9646B7D254" pageId="0" pageNumber="1">2006</year>
+. 
+<title id="FBFA0D9BEC3C17CD7BF531A71943E479" pageId="0" pageNumber="1">
+The major evolutionary lineages of the coffee family (
+<taxonomicName id="93369D0F0037AD3378D8AE3F935952A5" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="family">Rubiaceae</taxonomicName>
+, angiosperms). Combined analysis (nDNA and cpDNA) to infer the position of 
+<taxonomicName id="A3DEEB13ECBE85CECD2A8252F6B38D1F" class="Magnoliopsida" family="Rubiaceae" genus="Coptosapelta" kingdom="Plantae" lsidName="Coptosapelta" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="genus">
+<emphasis id="1F39E915A92E640712C4D58DBDDF6CCC" italics="true" pageId="0" pageNumber="1">Coptosapelta</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="FC51AE26BD54463574C0FD20FD09B375" class="Magnoliopsida" family="Rubiaceae" genus="Luculia" kingdom="Plantae" lsidName="Luculia" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="genus">
+<emphasis id="B2BB9EE4DD8A9576A610E800BFA7A42D" italics="true" pageId="0" pageNumber="1">Luculia</emphasis>
+</taxonomicName>
+, and supertree construction based on rbcL, rps16, trnL-trnF and atpB-rbcL data. A new classification in two subfamilies, 
+<taxonomicName id="8DD78C4662B3FBECA69914755BC96E9C" class="Magnoliopsida" family="Rubiaceae" genus="Luculia" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="subFamily" subFamily="Cinchonoideae">Cinchonoideae</taxonomicName>
+and 
+<taxonomicName id="A34F7A4A8295980D7233644182731A6C" class="Magnoliopsida" family="Rubiaceae" genus="Luculia" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" phylum="Tracheophyta" rank="subFamily" subFamily="Rubioideae">Rubioideae</taxonomicName>
+.
+</title>
+<journalOrPublisher id="7F5C90988FBBFFE01BD047732AF928A0" pageId="0" pageNumber="1">Systematics and Geography of Plants</journalOrPublisher>
+<volume id="036A954A71C249D42786D083DB9C8BDA" pageId="0" pageNumber="1">76</volume>
+: 
+<pagination id="D00B51A49F35E624EBE98DC23D8AEACD" pageId="0" pageNumber="1">85 - 146</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="9B8D6C62807101FD4D49EB555F4C9B03" pageId="0" pageNumber="1">
+<bibRef id="C19CB48C4FF62B7FF3903399E35A5CAA" author="Schmidt, EJ" journalOrPublisher="Botanisk Tidsskrift" pageId="0" pageNumber="1" pagination="329 - 341" refId="B17" title="Flora of Koh Chang. Contributions to the knowledge of the vegetation in the Gulf of Siam, part 6." volume="24" year="1902">
+<author id="B46AC9A3EB05052252117A6E295BD7BE" pageId="0" pageNumber="1">Schmidt, EJ</author>
+, 
+<year id="A8E14AE6FF8C6F37DC8E347F14CA4FEB" pageId="0" pageNumber="1">1902</year>
+. 
+<title id="B44728486020EE29550EF3A7C3E4E57B" pageId="0" pageNumber="1">Flora of Koh Chang. Contributions to the knowledge of the vegetation in the Gulf of Siam, part 6.</title>
+<journalOrPublisher id="2E0FB6C1DCFF8D483E41FCE843F686AF" pageId="0" pageNumber="1">Botanisk Tidsskrift</journalOrPublisher>
+<volume id="0CBED92C1F6ADF486694CF91127BEA57" pageId="0" pageNumber="1">24</volume>
+: 
+<pagination id="2122E5DBAACC06C83046408704A38988" pageId="0" pageNumber="1">329 - 341</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="873FF07B557CE274B3017FDA012A93C9" pageId="0" pageNumber="1">
+<bibRef id="60BAC710410D91A713E43A0AD2994610" DOI="https://doi.org/10.2307/3393267" author="Shui, YM" journalOrPublisher="Novon" pageId="0" pageNumber="1" pagination="322 - 324" refId="B18" title="A new species of Rothmannia (Rubiaceae) from Yunnan, China." url="https://doi.org/10.2307/3393267" volume="13" year="2003">
+<author id="F0924011987D87A378EC09A83A5EE266" pageId="0" pageNumber="1">Shui, YM</author>
+, 
+<author id="7C836EF120BE4CB7CD38994A5758C315" pageId="0" pageNumber="1">Chen, WH</author>
+, 
+<author id="EC5EF397F659DDEA239328E264AFA9B0" pageId="0" pageNumber="1">Chen, WC</author>
+, 
+<year id="FC20E09CA92E5514E52CA4FBD0367759" pageId="0" pageNumber="1">2003</year>
+. 
+<title id="F9B5A34D459E246722912177A98FF10A" pageId="0" pageNumber="1">
+A new species of 
+<taxonomicName id="F1A6F28CAA01D00157D6A38C85DCA2AD" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="Rothmannia" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="7394EFC1C08AB9DA4D2854BE75E10FE5" italics="true" pageId="0" pageNumber="1">Rothmannia</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="88CD0EF97D81C2FE34E767AE255C35BD" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="family">Rubiaceae</taxonomicName>
+) from Yunnan, China.
+</title>
+<journalOrPublisher id="9CEDA56D0F34D36DE05867EACA124071" pageId="0" pageNumber="1">Novon</journalOrPublisher>
+<volume id="56594B9B54C2FAD2F6548BDFED29B0EE" pageId="0" pageNumber="1">13</volume>
+(
+<issue id="57882194E8B3FD5EFC95DADC00801F49" pageId="0" pageNumber="1">3</issue>
+): 
+<pagination id="A0E32F18FE9D48960F68DA396833A479" pageId="0" pageNumber="1">322 - 324</pagination>
+, DOI: 
+<DOI id="6E854D398B2BDDFCE8EB55BBA1CB1E5F" pageId="0" pageNumber="1">https://doi.org/10.2307/3393267</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="2C32EC1582EC8F34DAA8F867AB8F11A4" pageId="0" pageNumber="1">
+<bibRef id="0BCCA44ED518546695D2BA4FE4C0D1C7" author="Thiers, B" journalOrPublisher="Novon" pageId="0" pageNumber="1" publicationUrl="http://sweetgum.nybg.org/science/ih/" refId="B19" title="Index Herbariorum: A global directory of public herbaria and associated staff. New York Botanical Garden's Virtual Herbarium. Continuously updated." url="http://sweetgum.nybg.org/science/ih/" year="2024">
+<author id="A679DD8FD2CEB0203B5977505D6E7E6A" pageId="0" pageNumber="1">Thiers, B</author>
+, 
+<year id="24F5F2A381986572457FD5DBFEC08A04" pageId="0" pageNumber="1">2024</year>
+. 
+<title id="C7B902EFAE21FDFEBCB0A03B6ED20B86" pageId="0" pageNumber="1">
+Index Herbariorum: A global directory of public herbaria and associated staff. New York Botanical 
+<normalizedToken id="B2208EFD6B6B861CA2A96DC79BE015A8" originalValue="Garden’s">Garden's</normalizedToken>
+Virtual Herbarium. Continuously updated.
+</title>
+<publicationUrl id="4BED10527271BF34D1B9D604158F1195" pageId="0" pageNumber="1">http://sweetgum.nybg.org/science/ih/</publicationUrl>
+</bibRef>
+</paragraph>
+<paragraph id="96541FB54932B6F867A8068C32298B6D" pageId="0" pageNumber="1">
+<bibRef id="41A9D1DFB5AB79624FF1F8A483072090" author="Thunberg, CP" journalOrPublisher="Svenska Vetenskapsaka-demiens Handlingar" pageId="0" pageNumber="1" pagination="65 - 68" refId="B20" title="Rothmannia, et nytt Oerte - genus. Kungl." volume="37" year="1776">
+<author id="2A1C514AFE940267FB9B3EF09C5B7DCF" pageId="0" pageNumber="1">Thunberg, CP</author>
+, 
+<year id="D3DB810D77DDEF852C9D1B91ABB03354" pageId="0" pageNumber="1">1776</year>
+. 
+<title id="96E9101A5E16EED3C2A10103112A3CB8" pageId="0" pageNumber="1">
+<taxonomicName id="E7B4D0CB29E12D497AB338685C05E83D" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="Rothmannia" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="CEA473685412D20616DC115FE939B151" italics="true" pageId="0" pageNumber="1">Rothmannia</emphasis>
+</taxonomicName>
+, et nytt 
+<normalizedToken id="FCE6CD44CA259C4FAC47991448173CC9" originalValue="Örte">Oerte</normalizedToken>
+- genus. Kungl.
+</title>
+<journalOrPublisher id="5332BAB912B486FD0C92CA50B638DDC1" pageId="0" pageNumber="1">Svenska Vetenskapsaka-demiens Handlingar</journalOrPublisher>
+<volume id="E52FF1D025FA541C5D6C4EAC258EE52C" pageId="0" pageNumber="1">37</volume>
+: 
+<pagination id="12F828A3444D4A45096F147EFB7EC7CD" pageId="0" pageNumber="1">65 - 68</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="9D20B279FC4599C0C59A66FACA4E0343" pageId="0" pageNumber="1">
+<bibRef id="8620E88012EC2BED285E6AB96DFF937A" DOI="https://doi.org/10.1111/j.1756-1051.1983.tb01453.x" author="Tirvengadum, DD" journalOrPublisher="Nordic Journal of Botany" pageId="0" pageNumber="1" pagination="455 - 469" refId="B21" title="New taxa and name changes in tropical Asiatic Rubiaceae." url="https://doi.org/10.1111/j.1756-1051.1983.tb01453.x" volume="3" year="1983">
+<author id="7592EC836D1389BEEC31CFECC0062B19" pageId="0" pageNumber="1">Tirvengadum, DD</author>
+, 
+<year id="88706F9D5B0659D33C8617B2AAAAD874" pageId="0" pageNumber="1">1983</year>
+. 
+<title id="8F314FF61DE26955EB4726316590E1C0" pageId="0" pageNumber="1">
+New taxa and name changes in tropical Asiatic 
+<taxonomicName id="270B77D8640DBBE45D15A660AEF4808A" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="family">Rubiaceae</taxonomicName>
+.
+</title>
+<journalOrPublisher id="1BA1BB25576AA062380178CF1102BBD9" pageId="0" pageNumber="1">Nordic Journal of Botany</journalOrPublisher>
+<volume id="5BE28B5B16D8257562BA46C9D1F305BD" pageId="0" pageNumber="1">3</volume>
+(
+<issue id="B726C2339C925085C87EF166CB2F8E87" pageId="0" pageNumber="1">4</issue>
+): 
+<pagination id="6D05D8928336FAF83B72BB01BDFAF53E" pageId="0" pageNumber="1">455 - 469</pagination>
+, DOI: 
+<DOI id="2509FB55AB434A6EEA4BB3993BF98510" pageId="0" pageNumber="1">https://doi.org/10.1111/j.1756-1051.1983.tb01453.x</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="8C29C4C150B7E52CC223E304DC4753C4" pageId="0" pageNumber="1">
+<bibRef id="2FF18E9324E51D6D82AEC11B3B555C30" DOI="https://doi.org/10.54607/hcmue.js.16.3.2690(2019" author="Ton, THT" journalOrPublisher="Natural Science and Technology" pageId="0" pageNumber="1" pagination="190 - 199" refId="B22" title="New distribution records of Rothmannia wittii (Rubiaceae) in Vietnam and identification of DNA barcode sequence for R. wittii. Journal of Science." url="https://doi.org/10.54607/hcmue.js.16.3.2690(2019" volume="16" year="2019">
+<author id="7AC9A0352A3E2B3CED5FAE145D7D4C08" pageId="0" pageNumber="1">Ton, THT</author>
+, 
+<author id="F105A3F9460D259E38467875665FA955" pageId="0" pageNumber="1">Nguyen, TT</author>
+, 
+<author id="52C19D453A77ED3B75CF8138F976497B" pageId="0" pageNumber="1">Dinh, TKT</author>
+, 
+<author id="12A911140125A3D3F297BA230278D0AA" pageId="0" pageNumber="1">Le, VS</author>
+, 
+<author id="A62F31494D799D1AA3038D69167315FC" pageId="0" pageNumber="1">Tran, GB</author>
+, 
+<author id="8FCEA2A15338EEDC9A5CB91218BFD5BF" pageId="0" pageNumber="1">Van, HT</author>
+, 
+<year id="A864E44CCCFCE7782D844BB7512810A1" pageId="0" pageNumber="1">2019</year>
+. 
+<title id="18BC7779A3E2BB1AD39E3BA3AAF6D3B5" pageId="0" pageNumber="1">
+New distribution records of 
+<taxonomicName id="866521A54166B56EAA8E521522C32A06" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="Rothmannia wittii" order="Gentianales" pageId="0" pageNumber="1" rank="species" species="wittii">
+<emphasis id="A8D0A4648841A9410F2D845A66B0EA93" italics="true" pageId="0" pageNumber="1">Rothmannia wittii</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="166E78B6F3813BD773F8707C29995B2F" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="family">Rubiaceae</taxonomicName>
+) in Vietnam and identification of DNA barcode sequence for 
+<taxonomicName id="1747AD6A5EE8AF6D752FC71D8A527BEA" class="Dicotyledones" family="Rubiaceae" genus="R." higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="R. wittii" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="species" species="wittii">
+<emphasis id="F1C6EDAAFB89123F4045BD555B372B7B" italics="true" pageId="0" pageNumber="1">R. wittii</emphasis>
+</taxonomicName>
+. Journal of Science.
+</title>
+<journalOrPublisher id="C0A483DBA18467F411FF3A49D84A1FE8" pageId="0" pageNumber="1">Natural Science and Technology</journalOrPublisher>
+<volume id="9D8D5F8D6B68DD9D32D52E5CBC6773B3" pageId="0" pageNumber="1">16</volume>
+(
+<issue id="5D8C027CBDDA82667C54995BF89E598F" pageId="0" pageNumber="1">3</issue>
+): 
+<pagination id="A2A543EF28F2D275EF64A942C736E75C" pageId="0" pageNumber="1">190 - 199</pagination>
+, DOI: 
+<DOI id="942F85D76C2EDBDFA6C02A058992F025" pageId="0" pageNumber="1">https://doi.org/10.54607/hcmue.js.16.3.2690(2019</DOI>
+</bibRef>
+</paragraph>
+<paragraph id="2AB0AED60B59232A3DF479F2EF0812BB" pageId="0" pageNumber="1">
+<bibRef id="6A91B46AE2A0C3B44C0A812D5E89100B" author="Tran, NN" editor="Nguyen, BT" journalOrPublisher="Vol. 3. Agriculture Publishing House, Hanoi" pageId="0" pageNumber="1" pagination="192 - 193" refId="B23" title="Rubiaceae." volumeTitle="Checklist of plant species of Vietnam [Danh l ục cac loai th ực v ật Vi ệt Nam]." year="2005">
+<author id="B347ADF923BEBAED809827B36B4D2B9E" pageId="0" pageNumber="1">Tran, NN</author>
+, 
+<year id="8CF7F8CDA4A18E733A5E08883EEA6E08" pageId="0" pageNumber="1">2005</year>
+. 
+<title id="EABD2C546DEDA6707EB08BFA0D5A1E3B" pageId="0" pageNumber="1">
+<taxonomicName id="ABFF7D160637C6CD114C2632D9FFABF1" class="Dicotyledones" family="Rubiaceae" genus="R." higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="family">Rubiaceae</taxonomicName>
+.
+</title>
+In: 
+<editor id="CFB810F655EFAA50C10FC648A7B4725B" pageId="0" pageNumber="1">Nguyen, BT</editor>
+, Ed., 
+<volumeTitle id="999C3EFADE579096D809E50E041AB665" pageId="0" pageNumber="1">
+Checklist of plant species of Vietnam [Danh lục 
+<normalizedToken id="B7DF3665BAD9DD1CE9E785FBCA01FF03" originalValue="các">cac</normalizedToken>
+<normalizedToken id="ECA9C2599E96A8A547DE7D1D653D8DC3" originalValue="loài">loai</normalizedToken>
+thực vật Việt Nam].
+</volumeTitle>
+<journalOrPublisher id="E8C70F879E6E8EF9A410AB65B737AC72" pageId="0" pageNumber="1">Vol. 3. Agriculture Publishing House, Hanoi</journalOrPublisher>
+: 
+<pagination id="5132C5C976A3799A55EF6A9D1888D54B" pageId="0" pageNumber="1">192 - 193</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="288599D630A50E9C4BBA2B21AC8192D3" pageId="0" pageNumber="1">
+<bibRef id="9A868B24D58AE929046EBA6AED8211A0" author="Wong, KM" journalOrPublisher="Sandakania" pageId="0" pageNumber="1" pagination="21 - 64" refId="B24" title="A taxonomic treatment of the Asiatic allies of Rothmannia (Rubiaceae: Gardenieae), including the new genera Ridsdalea and Singaporandia." volume="21" year="2016">
+<author id="E92BBB1767AF151659853B7B6DC27287" pageId="0" pageNumber="1">Wong, KM</author>
+, 
+<author id="C1064F6D6556110F80562C5CC557C591" pageId="0" pageNumber="1">Pereira, JT</author>
+, 
+<year id="2EFC4B91574A2E61FD4CF63B41AE5D0B" pageId="0" pageNumber="1">2016</year>
+. 
+<title id="B072E724150046B72350691FD6295CBD" pageId="0" pageNumber="1">
+A taxonomic treatment of the Asiatic allies of 
+<taxonomicName id="186BE7439E8B3B5524F51FD3E772B23C" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="Rothmannia" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="0B73A74055FEB16FF1E8F74B5FB22E6E" italics="true" pageId="0" pageNumber="1">Rothmannia</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="D78B5CCA4A76D46777AFC6349AEA4038" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="family">Rubiaceae</taxonomicName>
+: 
+<taxonomicName id="96FEC482C15C6188DA5DE82901D6AE21" family="Rubiaceae" genus="Rothmannia" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" rank="tribe" tribe="Gardenieae">Gardenieae</taxonomicName>
+), including the new genera 
+<taxonomicName id="E013B9A34CFA19482D95C59F9C4948D5" authorityName="J. T. Pereira &amp; K. M. Wong (in Wong and Pereira" authorityYear="2016" family="Rubiaceae" genus="Ridsdalea" kingdom="Plantae" lsidName="Ridsdalea" order="Gentianales" pageId="0" pageNumber="1" rank="genus">
+<emphasis id="BF9FB7F1BCB22C95D7B4CBD75FBC8A6C" italics="true" pageId="0" pageNumber="1">Ridsdalea</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="679222038143886A4D3C23841FA07ED1" class="Dicotyledones" family="Rubiaceae" genus="Singaporandia" higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="Singaporandia" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="genus">
+<emphasis id="41E24F48DC7939786297FC6A2374275C" italics="true" pageId="0" pageNumber="1">Singaporandia</emphasis>
+</taxonomicName>
+.
+</title>
+<journalOrPublisher id="EE4A3CF390671630056B4DAFAB8FE4F7" pageId="0" pageNumber="1">Sandakania</journalOrPublisher>
+<volume id="FCFBD2E761887467B781DF31B5FFA6E8" pageId="0" pageNumber="1">21</volume>
+: 
+<pagination id="59D24A8CBB47C478676B0D2ED57A4A31" pageId="0" pageNumber="1">21 - 64</pagination>
+</bibRef>
+</paragraph>
+<paragraph id="A2B057F259107EDF722FFE8EB57469FB" pageId="0" pageNumber="1">
+<bibRef id="213ADA9C92CA3A308800D1D07F2725D0" DOI="https://doi.org/10.1360/aps06165" author="Zhang, MD" journalOrPublisher="Acta Phytotaxonomica Sinica" pageId="0" pageNumber="1" pagination="90 - 93" refId="B25" title="Miscellaneous notes on the tribe Gardenieae (Rubiaceae) from China and Vietnam." url="https://doi.org/10.1360/aps06165" volume="45" year="2007">
+<author id="81E26C3238A95B82205F6C9031EF88F7" pageId="0" pageNumber="1">Zhang, MD</author>
+, 
+<author id="09C69CBA6326BA54BD43236ABDF61BEA" pageId="0" pageNumber="1">Chen, WH</author>
+, 
+<author id="1DF4E2D1FBEA4A8A44F6DF58EFF60234" pageId="0" pageNumber="1">Shui, YM</author>
+, 
+<year id="0AA9CDABDA9DD8645A632107774E5425" pageId="0" pageNumber="1">2007</year>
+. 
+<title id="5D9535FAEEF2C37C03EE25B591BF190F" pageId="0" pageNumber="1">
+Miscellaneous notes on the tribe 
+<taxonomicName id="D24101F1175B6F2C21307C9A326C641F" class="Dicotyledones" family="Rubiaceae" genus="Singaporandia" higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="tribe" tribe="Gardenieae">Gardenieae</taxonomicName>
+(
+<taxonomicName id="55DB029D2D7B16D7625EF81A4097DA64" class="Dicotyledones" family="Rubiaceae" genus="Singaporandia" higherTaxonomySource="GBIF,IPNI" kingdom="Plantae" lsidName="" order="Gentianales" pageId="0" pageNumber="1" phylum="Angiospermae" rank="family">Rubiaceae</taxonomicName>
+) from China and Vietnam.
+</title>
+<journalOrPublisher id="14F5B14B762F9766059DA9179CBEB6FA" pageId="0" pageNumber="1">Acta Phytotaxonomica Sinica</journalOrPublisher>
+<volume id="A512BDB1857EFB54602600B9B112AC9F" pageId="0" pageNumber="1">45</volume>
+: 
+<pagination id="F90C2851390F1471F26287BD23705E7F" pageId="0" pageNumber="1">90 - 93</pagination>
+, DOI: 
+<DOI id="F22167BADD8258F183B8B56FB4AB7823" pageId="0" pageNumber="1">https://doi.org/10.1360/aps06165</DOI>
+</bibRef>
+</paragraph>
+</subSection>
+</document>

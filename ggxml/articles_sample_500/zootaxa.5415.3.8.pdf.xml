@@ -1,0 +1,1022 @@
+<document id="82A61A8A65E4B44A09668AA0DB62DEA7" ID-CLB-Dataset="289252" ID-DOI="10.11646/zootaxa.5415.3.8" ID-GBIF-Dataset="a30e42b1-9625-43d2-a020-d68688d55001" ID-ISSN="1175-5326" ID-Zenodo-Dep="10693420" ID-ZooBank="02BF777E-CFD5-49C6-A4C7-CE1B88B2CE4D" IM.bibliography_approvedBy="felipe" IM.illustrations_approvedBy="felipe" IM.materialsCitations_approvedBy="tatiana" IM.metadata_approvedBy="felipe" IM.taxonomicNames_approvedBy="tatiana" IM.treatments_approvedBy="tatiana" checkinTime="1708605923388" checkinUser="plazi" docAuthor="Bayarsaikhan, Ulziijargal &amp; Kwon, Hyung Wook &amp; Bae, Yang-Seop" docDate="2024" docId="FFB7F456FFB58244545BFFC6FFD0FF88" docName="zootaxa.5415.3.8.pdf" docOrigin="Zootaxa 5415 (3)" docSource="http://dx.doi.org/10.11646/zootaxa.5415.3.8" docStyle="DocumentStyle:647186512141C8FC8976D5BCC54AEB7D.9:Zootaxa.2013-.journal_article" docStyleId="647186512141C8FC8976D5BCC54AEB7D" docStyleName="Zootaxa.2013-.journal_article" docStyleVersion="9" docTitle="A new species of Siccia (Lepidoptera, Erebidae, Arctiinae) from Vietnam" docVersion="5" lastPageNumber="492" pageNumber="486" updateTime="1708960698223" updateUser="ExternalLinkService" zenodo-license-document="CLOSED">
+<mods:mods id="C520C4D08DDA3A0D455EB627C81938FC" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E02754B411C6DEC873C3842E03B44F5A">
+<mods:title id="833980A6B76F198A93FF72F39CFBFAD5">A new species of Siccia (Lepidoptera, Erebidae, Arctiinae) from Vietnam</mods:title>
+</mods:titleInfo>
+<mods:name id="A10925464B610EFE62CBBF4D583327FD" type="personal">
+<mods:role id="FA473028E860C20C338C0B0A62082062">
+<mods:roleTerm id="F13B3A1F1336BC7FE8130030B0D36B87">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="05F45553B435BD8C3D901B230866E1E6">Bayarsaikhan, Ulziijargal</mods:namePart>
+<mods:affiliation id="E4CAE2B063113C61F289CF008C0338C7">Division of Life Sciences, College of Life Sciences and Bioengineering, Incheon National University, 119 Academy˗ro, Yeonsu˗gu, Incheon, 22012, Republic of Korea &amp; Bio˗Resource and Environmental Center, Incheon National University, 119 Academy˗ro, Yeonsu˗gu, Incheon, 22012, Republic of Korea</mods:affiliation>
+</mods:name>
+<mods:name id="A73E5B9AB9D368302406A489CE769CFD" type="personal">
+<mods:role id="2566FDED6C075249224BC9749C83E9CA">
+<mods:roleTerm id="FC8331B4AF691A49E7CAC30C521BA878">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3D6251251BAB47754F299C6067094C71">Kwon, Hyung Wook</mods:namePart>
+<mods:nameIdentifier id="8BAC34C08725F5B11F7CF57D04080EE4" type="ORCID">0000-0001-9340-7974</mods:nameIdentifier>
+<mods:affiliation id="D54C86AF8E7E1FBF081DCE65DD746435">Division of Life Sciences, College of Life Sciences and Bioengineering, Incheon National University, 119 Academy˗ro, Yeonsu˗gu, Incheon, 22012, Republic of Korea &amp; Bio˗Resource and Environmental Center, Incheon National University, 119 Academy˗ro, Yeonsu˗gu, Incheon, 22012, Republic of Korea &amp; Convergence Research Center for Insect Vectors, Division of Life Sciences, College of Life Sciences and Bioengineering, Incheon National University, Songdo˗dong, Incheon, 22012, South Korea</mods:affiliation>
+<mods:nameIdentifier id="AF7D69BA65A51BACAFBDC5C7450C44CF" type="email">hwkwon@inu.ac.kr</mods:nameIdentifier>
+</mods:name>
+<mods:name id="D536716C48A851950C96C8AB60756A1F" type="personal">
+<mods:role id="390842476339503555D7DD91B6692FBA">
+<mods:roleTerm id="9A96721B4DFAA5DD00B5CAB6D0CFFFFE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="964669D750DC4FC265C2D47F862912C0">Bae, Yang-Seop</mods:namePart>
+<mods:nameIdentifier id="B3D41B80722624D4DD63B6479908CBBF" type="ORCID">0000-0001-7356-5633</mods:nameIdentifier>
+<mods:affiliation id="0ED5580FF9F75C7A5C9644FEC07C35F7">Division of Life Sciences, College of Life Sciences and Bioengineering, Incheon National University, 119 Academy˗ro, Yeonsu˗gu, Incheon, 22012, Republic of Korea &amp; Bio˗Resource and Environmental Center, Incheon National University, 119 Academy˗ro, Yeonsu˗gu, Incheon, 22012, Republic of Korea &amp; Convergence Research Center for Insect Vectors, Division of Life Sciences, College of Life Sciences and Bioengineering, Incheon National University, Songdo˗dong, Incheon, 22012, South Korea</mods:affiliation>
+<mods:nameIdentifier id="D27472647A4D34E5DD56E05DD8ACF00E" type="email">baeys@inu.ac.kr</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="E7D4A59A9BEDC7E32859F4A9EF145D7A">text</mods:typeOfResource>
+<mods:relatedItem id="E4EF6664E8BE5063E7EE543A1A0A1716" type="host">
+<mods:titleInfo id="7FEA603D8C5D7DFF46351D428F8D6535">
+<mods:title id="892060958C09F74FBB01358D3B7F0488">Zootaxa</mods:title>
+</mods:titleInfo>
+<mods:part id="B46CDB494737D6E01811233C29D09654">
+<mods:date id="486705012A50C1FB54822EA3753AE3C7">2024</mods:date>
+<mods:detail id="20ADB95B5D8D33AE128E46DB0F848B78" type="pubDate">
+<mods:number id="4E5F83ECE1D7B9B15D1317B1A48DC754">2024-02-22</mods:number>
+</mods:detail>
+<mods:detail id="08692C78FE282C26A4671CEC0D77B892" type="volume">
+<mods:number id="8B4817FE17DF5C479476443445BE0E62">5415</mods:number>
+</mods:detail>
+<mods:detail id="FE5CA97010E65185F838DC049818EB79" type="issue">
+<mods:number id="73048E300EC2EFA880E82362C55DA5AA">3</mods:number>
+</mods:detail>
+<mods:extent id="97FB8BA61DD3CBF0F1A6CB653BE95A32" unit="page">
+<mods:start id="C9CBF49A7C570A51E25620AF121B5869">486</mods:start>
+<mods:end id="BF4C661A7911574406EC60685AFE13EE">492</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="2F71CD0FB99075C3AA81F167982BA69A">
+<mods:url id="73EAFED76C7C646BD7CDD784807DE9B8">http://dx.doi.org/10.11646/zootaxa.5415.3.8</mods:url>
+</mods:location>
+<mods:classification id="5A5C60896469CFE77AFDBC5C0F21D55C">journal article</mods:classification>
+<mods:identifier id="9A7FCC6FDCBC016F9B9A0B668A74979C" type="CLB-Dataset">289252</mods:identifier>
+<mods:identifier id="0C2831A858156412A2E855E4D31E23D8" type="DOI">10.11646/zootaxa.5415.3.8</mods:identifier>
+<mods:identifier id="A38AA2954BE87345CF99EFA82A0E4663" type="GBIF-Dataset">a30e42b1-9625-43d2-a020-d68688d55001</mods:identifier>
+<mods:identifier id="331910768D10906BEA1EC8A9C3592E96" type="ISSN">1175-5326</mods:identifier>
+<mods:identifier id="0E5B664118A10815AEC69F35E29A175C" type="Zenodo-Dep">10693420</mods:identifier>
+<mods:identifier id="4759372C02307FE3FA6FE0936FB698F1" type="ZooBank">02BF777E-CFD5-49C6-A4C7-CE1B88B2CE4D</mods:identifier>
+</mods:mods>
+<subSection id="E2A824D3FFB5824454CCFEA5FEAEFD67" _generate="added" pageId="0" pageNumber="486" type="multiple">
+<paragraph id="8B983D38FFB5824454CCFEA5FAC7FE0C" blockId="0.[151,1303,355,389]" box="[151,1303,355,389]" pageId="0" pageNumber="486">
+<emphasis id="B953E12AFFB5824454CCFEA5FAC7FE0C" bold="true" box="[151,1303,355,389]" pageId="0" pageNumber="486">
+<docTitle id="CE3DC456FFB5824454CCFEA5FAC7FE0C" box="[151,1303,355,389]" pageId="0" pageNumber="486">
+A new species of 
+<taxonomicName id="4C2746BBFFB5824455F8FEA5FDD0FE0C" _evidence="catalogs" _step="genera" authorityName="Walker" authorityYear="1854" box="[419,512,355,388]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB5824455F8FEA5FDD0FE0C" bold="true" box="[419,512,355,388]" italics="true" pageId="0" pageNumber="486">Siccia</emphasis>
+</taxonomicName>
+(
+<taxonomicName id="4C2746BBFFB582445648FEA5FD0DFE0D" _evidence="catalogs" _step="order" box="[531,733,355,389]" class="Insecta" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="order">Lepidoptera</taxonomicName>
+, 
+<taxonomicName id="4C2746BBFFB5824456B5FEA5FC51FE0C" _evidence="catalogs" _step="family" authorityName="Leach" authorityYear="1815" box="[750,897,355,388]" class="Insecta" family="Erebidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="family">Erebidae</taxonomicName>
+, Arctiinae) from 
+<collectingCountry id="F3307DA8FFB5824450CBFEA5FAC7FE0C" box="[1168,1303,355,388]" name="Vietnam" pageId="0" pageNumber="486">Vietnam</collectingCountry>
+</docTitle>
+</emphasis>
+</paragraph>
+<paragraph id="8B983D38FFB5824454CCFE69FE37FD8D" blockId="0.[151,1437,429,751]" pageId="0" pageNumber="486">
+<docAuthor id="204F3CB5FFB5824454CCFE69FDB5FE44" box="[151,613,431,460]" pageId="0" pageNumber="486">ULZIIJARGAL BAYARSAIKHAN</docAuthor>
+<superScript id="7C529070FFB58244563DFE6BFD49FE36" attach="right" box="[614,665,429,446]" fontSize="7" pageId="0" pageNumber="486">1,2,3,4</superScript>
+, 
+<docAuthor id="204F3CB5FFB5824456F2FE69FC24FE44" box="[681,1012,431,460]" pageId="0" pageNumber="486">HYUNG WOOK KWON</docAuthor>
+<superScript id="7C529070FFB5824457A0FE6BFBEDFE36" attach="right" box="[1019,1085,429,446]" fontSize="7" pageId="0" pageNumber="486">1,2,3,5,*</superScript>
+&amp; 
+<docAuthor id="204F3CB5FFB58244503AFE69FA89FE44" box="[1121,1369,431,460]" pageId="0" pageNumber="486">YANG-SEOP BAE</docAuthor>
+<superScript id="7C529070FFB582445102FE6BFA4BFE36" attach="left" box="[1369,1435,429,446]" fontSize="7" pageId="0" pageNumber="486">1,2,3,6,*</superScript>
+<emphasis id="B953E12AFFB5824454CCFE17FE37FD8D" italics="true" pageId="0" pageNumber="486">
+<superScript id="7C529070FFB5824454CCFE17FF4EFE55" attach="right" box="[151,158,465,477]" fontSize="5" pageId="0" pageNumber="486">1</superScript>
+<docAuthorAffiliation id="9338F25BFFB5824454C5FE14FE37FD8D" pageId="0" pageNumber="486">
+Division of Life Sciences, College of Life Sciences and Bioengineering, 
+<collectingRegion id="49E3F3DAFFB58244573FFE14FC61FE6F" box="[868,945,466,487]" country="South Korea" name="Incheon" pageId="0" pageNumber="486">Incheon</collectingRegion>
+National University, 119 Academy˗ro, Yeonsu˗gu, 
+<collectingRegion id="49E3F3DAFFB5824454CCFE29FF37FD8C" box="[151,231,495,516]" country="South Korea" name="Incheon" pageId="0" pageNumber="486">Incheon</collectingRegion>
+, 22012, 
+<collectingCountry id="F3307DA8FFB582445563FE29FE37FD8D" box="[312,487,495,517]" name="South Korea" pageId="0" pageNumber="486">Republic of Korea</collectingCountry>
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="8B983D38FFB5824454CCFDCAFF02FDB7" blockId="0.[151,1437,429,751]" pageId="0" pageNumber="486">
+<emphasis id="B953E12AFFB5824454CCFDCAFF02FDB7" italics="true" pageId="0" pageNumber="486">
+<superScript id="7C529070FFB5824454CCFDCAFF4EFD90" attach="right" box="[151,158,524,536]" fontSize="5" pageId="0" pageNumber="486">2</superScript>
+<docAuthorAffiliation id="9338F25BFFB5824454C5FDCBFF02FDB7" pageId="0" pageNumber="486">
+Bio˗Resource and Environmental Center, 
+<collectingRegion id="49E3F3DAFFB582445667FDCAFD59FDA9" box="[572,649,524,545]" country="South Korea" name="Incheon" pageId="0" pageNumber="486">Incheon</collectingRegion>
+National University, 119 Academy˗ro, Yeonsu˗gu, 
+<collectingRegion id="49E3F3DAFFB5824450D8FDCAFB03FDA9" box="[1155,1235,524,545]" country="South Korea" name="Incheon" pageId="0" pageNumber="486">Incheon</collectingRegion>
+, 22012, 
+<collectingCountry id="F3307DA8FFB582445170FDCAFF02FDB7" name="South Korea" pageId="0" pageNumber="486">Republic of Korea</collectingCountry>
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="8B983D38FFB5824454CCFD80FCD5FDF2" blockId="0.[151,1437,429,751]" pageId="0" pageNumber="486">
+<emphasis id="B953E12AFFB5824454CCFD80FCD5FDF2" italics="true" pageId="0" pageNumber="486">
+<superScript id="7C529070FFB5824454CCFD80FF4EFDDA" attach="right" box="[151,158,582,594]" fontSize="5" pageId="0" pageNumber="486">3</superScript>
+<docAuthorAffiliation id="9338F25BFFB5824454C5FD81FCD5FDF2" pageId="0" pageNumber="486">
+Convergence Research Center for Insect Vectors, Division of Life Sciences, College of Life Sciences and Bioengineering, 
+<collectingRegion id="49E3F3DAFFB582445114FD81FA4CFDD4" box="[1359,1436,583,604]" country="South Korea" name="Incheon" pageId="0" pageNumber="486">Incheon</collectingRegion>
+National University, Songdo˗dong, 
+<collectingRegion id="49E3F3DAFFB5824455B7FDA2FDECFDF1" box="[492,572,612,633]" country="South Korea" name="Incheon" pageId="0" pageNumber="486">Incheon</collectingRegion>
+, 22012, 
+<collectingCountry id="F3307DA8FFB5824456D6FDA2FCD5FDF2" box="[653,773,612,634]" name="South Korea" pageId="0" pageNumber="486">South Korea</collectingCountry>
+</docAuthorAffiliation>
+</emphasis>
+</paragraph>
+<paragraph id="8B983D38FFB5824454CCFD47FCFCFD1E" blockId="0.[151,1437,429,751]" box="[151,812,641,663]" pageId="0" pageNumber="486">
+<emphasis id="B953E12AFFB5824454CCFD47FF4EFD05" box="[151,158,641,653]" italics="true" pageId="0" pageNumber="486">
+<superScript id="7C529070FFB5824454CCFD47FF4EFD05" attach="left" box="[151,158,641,653]" fontSize="5" pageId="0" pageNumber="486">4</superScript>
+</emphasis>
+Ễ 
+<emphasis id="B953E12AFFB5824454E6FD44FCFCFD1E" box="[189,812,641,663]" italics="true" pageId="0" pageNumber="486">uug0228@gmail.com; https://orcid.org/0000-0002-9274-4060</emphasis>
+</paragraph>
+<paragraph id="8B983D38FFB5824454CCFD58FCC8FD3C" blockId="0.[151,1437,429,751]" box="[151,792,670,692]" pageId="0" pageNumber="486">
+<emphasis id="B953E12AFFB5824454CCFD58FF4EFD22" box="[151,158,670,682]" italics="true" pageId="0" pageNumber="486">
+<superScript id="7C529070FFB5824454CCFD58FF4EFD22" attach="left" box="[151,158,670,682]" fontSize="5" pageId="0" pageNumber="486">5</superScript>
+</emphasis>
+Ễ 
+<emphasis id="B953E12AFFB5824454E6FD59FCC8FD3C" box="[189,792,671,692]" italics="true" pageId="0" pageNumber="486">
+<docAuthorEmail id="D4285C2FFFB5824454E6FD59FEA9FD3C" box="[189,377,671,692]" pageId="0" pageNumber="486">hwkwon@inu.ac.kr</docAuthorEmail>
+; https://orcid.org/ 
+<docAuthorORCID id="D3A82C8EFFB582445618FD59FCC8FD3C" box="[579,792,671,692]" pageId="0" pageNumber="486">0000-0001-9340-7974</docAuthorORCID>
+</emphasis>
+</paragraph>
+<paragraph id="8B983D38FFB5824454CCFD7DFCD0FD59" blockId="0.[151,1437,429,751]" box="[151,768,699,721]" pageId="0" pageNumber="486">
+<emphasis id="B953E12AFFB5824454CCFD7DFF4EFD4F" box="[151,158,699,711]" italics="true" pageId="0" pageNumber="486">
+<superScript id="7C529070FFB5824454CCFD7DFF4EFD4F" attach="left" box="[151,158,699,711]" fontSize="5" pageId="0" pageNumber="486">6</superScript>
+</emphasis>
+Ễ 
+<emphasis id="B953E12AFFB5824454E6FD7AFCD0FD59" box="[189,768,700,721]" italics="true" pageId="0" pageNumber="486">
+<docAuthorEmail id="D4285C2FFFB5824454E6FD7AFEB1FD59" box="[189,353,700,721]" pageId="0" pageNumber="486">baeys@inu.ac.kr</docAuthorEmail>
+; https://orcid.org/ 
+<docAuthorORCID id="D3A82C8EFFB582445671FD7AFCD0FD59" box="[554,768,700,721]" pageId="0" pageNumber="486">0000-0001-7356-5633</docAuthorORCID>
+</emphasis>
+</paragraph>
+<paragraph id="8B983D38FFB5824454CCFD1FFEAEFD67" blockId="0.[151,1437,429,751]" box="[151,382,729,751]" pageId="0" pageNumber="486">
+<emphasis id="B953E12AFFB5824454CCFD1FFEAEFD67" box="[151,382,729,751]" italics="true" pageId="0" pageNumber="486">
+<superScript id="7C529070FFB5824454CCFD1FFF4EFD6D" attach="right" box="[151,158,729,741]" fontSize="5" pageId="0" pageNumber="486">*</superScript>
+Corresponding authors
+</emphasis>
+</paragraph>
+</subSection>
+<subSection id="E2A824D3FFB5824454CCFC86FEA8FC48" _generate="added" pageId="0" pageNumber="486" type="abstract">
+<paragraph id="8B983D38FFB5824454CCFC86FEDEFCD5" blockId="0.[151,270,832,861]" box="[151,270,832,861]" pageId="0" pageNumber="486">
+<emphasis id="B953E12AFFB5824454CCFC86FEDEFCD5" bold="true" box="[151,270,832,861]" pageId="0" pageNumber="486">Abstract</emphasis>
+</paragraph>
+<paragraph id="8B983D38FFB5824454CCFC4EFEA8FC48" blockId="0.[151,1436,904,960]" pageId="0" pageNumber="486">
+A new species 
+<taxonomicName id="4C2746BBFFB582445561FC4EFE38FC28" _evidence="statusLabel" _step="newLabel1" authority="Bayarsaikhan &amp; Kwon &amp; Bae, 2024" authorityName="Bayarsaikhan &amp; Kwon &amp; Bae" authorityYear="2024" box="[314,488,904,928]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="species" species="triellipsis" status="sp. nov.">
+<emphasis id="B953E12AFFB582445561FC4EFE38FC28" box="[314,488,904,928]" italics="true" pageId="0" pageNumber="486">Siccia triellipsis</emphasis>
+</taxonomicName>
+<emphasis id="B953E12AFFB5824455ABFC4EFD97FC28" bold="true" box="[496,583,904,928]" pageId="0" pageNumber="486">
+<taxonomicNameLabel id="A2605C51FFB5824455ABFC4EFD97FC28" box="[496,583,904,928]" pageId="0" pageNumber="486" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+, is described from 
+<collectingCountry id="F3307DA8FFB582445743FC4EFCA6FC28" box="[792,886,904,928]" name="Vietnam" pageId="0" pageNumber="486">Vietnam</collectingCountry>
+. Illustrations of the adults and genitalia of the new species are provided.
+</paragraph>
+</subSection>
+<subSection id="E2A824D3FFB5824454CCFC2EFCE9FB88" _generate="added" box="[151,825,1000,1024]" pageId="0" pageNumber="486" type="key_words">
+<paragraph id="8B983D38FFB5824454CCFC2EFCE9FB88" blockId="0.[151,825,1000,1024]" box="[151,825,1000,1024]" pageId="0" pageNumber="486">
+<emphasis id="B953E12AFFB5824454CCFC2EFECAFB88" bold="true" box="[151,282,1000,1024]" pageId="0" pageNumber="486">Key words:</emphasis>
+<taxonomicName id="4C2746BBFFB58244557AFC2EFE5CFB88" _evidence="document" _plausibility="0.89051074" _step="document" authorityName="Billberg" authorityYear="1820" box="[289,396,1000,1024]" class="Insecta" family="Erebidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="tribe" tribe="Lithosiini">
+<keyWord id="30D1665FFFB58244557AFC2EFE5CFB88" box="[289,396,1000,1024]" pageId="0" pageNumber="486">Lithosiini</keyWord>
+</taxonomicName>
+, 
+<keyWord id="30D1665FFFB5824455CDFC2EFDC4FB88" box="[406,532,1000,1024]" pageId="0" pageNumber="486">distribution</keyWord>
+, 
+<keyWord id="30D1665FFFB582445645FC2EFD13FB88" box="[542,707,1000,1024]" pageId="0" pageNumber="486">Oriental region</keyWord>
+, 
+<keyWord id="30D1665FFFB582445695FC2EFCE9FB88" box="[718,825,1000,1024]" pageId="0" pageNumber="486">taxonomy</keyWord>
+</paragraph>
+</subSection>
+<subSection id="E2A824D3FFB5824454CCFB94FBC1F9EC" _generate="added" pageId="0" pageNumber="486" type="introduction">
+<paragraph id="8B983D38FFB5824454CCFB94FEE6FBE4" blockId="0.[151,310,1106,1132]" box="[151,310,1106,1132]" pageId="0" pageNumber="486">
+<heading id="D0D08A54FFB5824454CCFB94FEE6FBE4" bold="true" box="[151,310,1106,1132]" fontSize="11" level="1" pageId="0" pageNumber="486" reason="1">
+<emphasis id="B953E12AFFB5824454CCFB94FEE6FBE4" bold="true" box="[151,310,1106,1132]" pageId="0" pageNumber="486">Introduction</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B983D38FFB5824454CCFB5CFA80FAE0" blockId="0.[151,1437,1178,1636]" pageId="0" pageNumber="486">
+<taxonomicName id="4C2746BBFFB5824454CCFB5CFE58FB3D" _authorityPlausibility="0.9998945" _evidence="catalogs" _step="genera" authority="Walker (1854)" authorityName="Walker" authorityYear="1854" box="[151,392,1178,1205]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB5824454CCFB5CFF0BFB3C" box="[151,219,1178,1204]" italics="true" pageId="0" pageNumber="486">Siccia</emphasis>
+<bibRefCitation id="EFB640C9FFB5824454BFFB5CFE58FB3D" author="Walker, F." box="[228,392,1178,1205]" pageId="0" pageNumber="486" refId="ref2890" refString="Walker, F. (1854) List of the specimens of lepidopterous insects in the collection of the British Museum. Vol. 2. Printed by order of the Trustees, London, 775 pp." type="book" year="1854">Walker (1854)</bibRefCitation>
+</taxonomicName>
+is one of the large genera within the tribe 
+<taxonomicName id="4C2746BBFFB58244572EFB5CFC32FB3C" _evidence="label" _plausibility="0.89051074" _step="labeledHigher" authorityName="Billberg" authorityYear="1820" box="[885,994,1178,1204]" class="Insecta" family="Erebidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="tribe" tribe="Lithosiini">Lithosiini</taxonomicName>
+(
+<taxonomicName id="4C2746BBFFB5824457A9FB5CFB8AFB3C" _evidence="catalogs" _step="family" authorityName="Leach" authorityYear="1815" box="[1010,1114,1178,1204]" class="Insecta" family="Erebidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="family">Erebidae</taxonomicName>
+, Arctiinae), which is widely distributed in the Old World. It was established for its 
+<typeStatus id="549C839AFFB5824456B7FB78FCCCFB50" box="[748,796,1214,1240]" pageId="0" pageNumber="486">type</typeStatus>
+species, 
+<taxonomicName id="4C2746BBFFB582445724FB78FB76FB51" _authorityPlausibility="0.9998945" _evidence="catalogs" _step="species1" authority="Walker, 1854" authorityName="Walker" authorityYear="1854" box="[895,1190,1214,1241]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="species" species="caffra">
+<emphasis id="B953E12AFFB582445724FB78FBDDFB50" box="[895,1037,1214,1240]" italics="true" pageId="0" pageNumber="486">Siccia caffra</emphasis>
+<bibRefCitation id="EFB640C9FFB582445049FB78FB76FB51" author="Walker, F." box="[1042,1190,1214,1241]" pageId="0" pageNumber="486" refId="ref2890" refString="Walker, F. (1854) List of the specimens of lepidopterous insects in the collection of the British Museum. Vol. 2. Printed by order of the Trustees, London, 775 pp." type="book" year="1854">Walker, 1854</bibRefCitation>
+</taxonomicName>
+found in 
+<collectingCountry id="F3307DA8FFB582445154FB78FA4DFB50" box="[1295,1437,1214,1240]" name="South Africa" pageId="0" pageNumber="486">South Africa</collectingCountry>
+(
+<collectingRegion id="49E3F3DAFFB5824454C4FB24FF0AFB74" box="[159,218,1250,1276]" country="South Africa" name="Western Cape" pageId="0" pageNumber="486">Cape</collectingRegion>
+Colony, Knysna). Recently, 
+<bibRefCitation id="EFB640C9FFB582445673FB24FD3FFB74" author="Volynkin, A. V." box="[552,751,1250,1276]" pageId="0" pageNumber="486" pagination="1 - 184" refId="ref2701" refString="Volynkin, A. V. (2023 a) Contribution to the knowledge of the genus Siccia Walker (= Aemene Walker, syn. n.) in the Afrotropics with descriptions of seventy-three new species, three new subspecies, and a check-list of Asiatic taxa of the genus (Lepidoptera: Erebidae: Arctiinae: Lithosiini). Ecologica Montenegrina, 64, 1 - 184. https: // doi. org / 10.37828 / em. 2023.64.1" type="journal article" year="2023">Volynkin (2023a)</bibRefCitation>
+provided a checklist of Asiatic species of this genus while studying Afrotropical species. Members of this genus are small to middle-sized moths with a pale, grayish ground color on the forewing, featuring a pattern of dark spots and transverse lines, or reduced to a few and often just one spot (typically the discal one). They have very diverse male and female genital structures (
+<bibRefCitation id="EFB640C9FFB5824450D0FA88FA94FAE0" author="Volynkin, A. V." box="[1163,1348,1358,1384]" pageId="0" pageNumber="486" pagination="1 - 184" refId="ref2701" refString="Volynkin, A. V. (2023 a) Contribution to the knowledge of the genus Siccia Walker (= Aemene Walker, syn. n.) in the Afrotropics with descriptions of seventy-three new species, three new subspecies, and a check-list of Asiatic taxa of the genus (Lepidoptera: Erebidae: Arctiinae: Lithosiini). Ecologica Montenegrina, 64, 1 - 184. https: // doi. org / 10.37828 / em. 2023.64.1" type="journal article" year="2023">Volynkin 2023a</bibRefCitation>
+).
+</paragraph>
+<paragraph id="8B983D38FFB58244549CFAB4FAEDFA38" blockId="0.[151,1437,1178,1636]" pageId="0" pageNumber="486">
+Asian 
+<taxonomicName id="4C2746BBFFB58244554BFAB4FE84FA04" _evidence="catalogs" _step="genera" authorityName="Walker" authorityYear="1854" box="[272,340,1394,1420]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB58244554BFAB4FE84FA04" box="[272,340,1394,1420]" italics="true" pageId="0" pageNumber="486">Siccia</emphasis>
+</taxonomicName>
+was studied by several authors such as 
+<bibRefCitation id="EFB640C9FFB58244574DFAB4FC73FA04" author="Fang" box="[790,931,1394,1420]" pageId="0" pageNumber="486" refId="ref2599" refString="Fang, (2000) Lepidoptera. Arctiidae. Fauna Sinica (Insecta). Vol. 19. Science Press, Beijing, 590 pp. [in Chinese, with English summary]" type="book" year="2000">Fang (2000)</bibRefCitation>
+, 
+<bibRefCitation id="EFB640C9FFB5824457F4FAB5FB39FA04" author="Cerny, K. &amp; Pinratana, A." box="[943,1257,1394,1422]" pageId="0" pageNumber="486" refId="ref2565" refString="Cerny, K. &amp; Pinratana, A. (2009) Moths of Thailand. Vol. 6. Arctiidae. Brothers of Saint Gabriel in Thailand, Bangkok, 283 pp." type="book" year="2009">Černý and Pinratana (2009)</bibRefCitation>
+, 
+<bibRefCitation id="EFB640C9FFB5824450AEFAB4FA48FA04" author="Kishida, Y." box="[1269,1432,1394,1420]" pageId="0" pageNumber="486" pagination="57 - 69" refId="ref2634" refString="Kishida, Y. (2010) Descriptions of new species and new subspecies of Japanese Macrolepidoptera (1). Tinea, 21, 57 - 69." type="journal article" year="2010">Kishida (2010</bibRefCitation>
+, 
+<bibRefCitation id="EFB640C9FFB5824454CCFA50FF02FA38" author="Kishida, Y." box="[151,210,1430,1456]" pageId="0" pageNumber="486" refId="ref2663" refString="Kishida, Y. (2011) Arctiidae. In: Kishida, Y. (Ed.), The Standard of Moths in Japan II. Gakken Education Publishing, Tokyo, 148 - 167." type="book" year="2011">2011</bibRefCitation>
+), 
+<bibRefCitation id="EFB640C9FFB5824454BEFA50FE53FA38" author="Bucsek, K." box="[229,387,1430,1456]" pageId="0" pageNumber="486" refId="ref2501" refString="Bucsek, K. (2012) Erebidae, Arctiinae (Lithosiini, Arctiini) of Malay Peninsula - Malaysia. Institute of Zoology SAS, Bratislava, 170 pp." type="book" year="2012">Bucsek (2012</bibRefCitation>
+, 
+<bibRefCitation id="EFB640C9FFB5824455D5FA50FE1AFA38" author="Bucsek, K." box="[398,458,1430,1456]" pageId="0" pageNumber="486" refId="ref2532" refString="Bucsek, K. (2014) Erebidae, Arctiinae (Lithosiini, Arctiini) of Malay Peninsula - Malaysia. Supplementum. Institute of Zoology SAS, Bratislava, 42 pp." type="book" year="2014">2014</bibRefCitation>
+), 
+<bibRefCitation id="EFB640C9FFB582445585FA50FCD9FA38" author="Bayarsaikhan, U. &amp; Ju, Y. D. &amp; Park, B. S. &amp; Na, S. M. &amp; Kim, J. W. &amp; Lee, D. J. &amp; Ko, J. H. &amp; Bae, Y. S." box="[478,777,1430,1456]" pageId="0" pageNumber="486" pagination="137 - 153" refId="ref2397" refString="Bayarsaikhan, U., Ju, Y. D., Park, B. S., Na, S. M., Kim, J. W., Lee, D. J., Ko, J. H. &amp; Bae, Y. S. (2017) Review of the subfamily Arctiinae (Lepidoptera: Erebidae) in South Korea, with a newly recorded genus. Journal of Asia-Pacific Biodiversity, 10 (2017), 137 - 153. https: // doi. org / 10.1016 / j. japb. 2017.01.002" type="journal article" year="2017">
+Bayarsaikhan 
+<emphasis id="B953E12AFFB582445626FA51FD7EFA38" box="[637,686,1430,1456]" italics="true" pageId="0" pageNumber="486">et al</emphasis>
+. (2017)
+</bibRefCitation>
+, 
+<bibRefCitation id="EFB640C9FFB58244574FFA50FC0CFA38" author="Volynkin, A. V." box="[788,988,1430,1456]" pageId="0" pageNumber="486" pagination="36 - 57" refId="ref2784" refString="Volynkin, A. V. (2023 b) Eight new species of the genus Siccia Walker from the Oriental realm (Lepidoptera: Erebidae: Arctiinae). Ecologica Montenegrina, 66, 36 - 57. https: // doi. org / 10.37828 / em. 2023.66.4" type="journal article" year="2023">Volynkin (2023b)</bibRefCitation>
+, 
+<bibRefCitation id="EFB640C9FFB5824457BCFA50FADAFA38" author="Volynkin, A. V. &amp; Cerny, K." box="[999,1290,1430,1458]" pageId="0" pageNumber="486" pagination="10 - 16" refId="ref2835" refString="Volynkin, A. V. &amp; Cerny, K. (2023) Siccia seima, a new species from Cambodia and Thailand (Lepidoptera: Erebidae: Arctiinae: Lithosiini). Ecologica Montenegrina, 69, 10 - 16. https: // doi. org / 10.37828 / em. 2023.69.2" type="journal article" year="2023">Volynkin &amp; Černý (2023)</bibRefCitation>
+, etc.
+</paragraph>
+<paragraph id="8B983D38FFB58244549CFA7CFBC1F9EC" blockId="0.[151,1437,1178,1636]" pageId="0" pageNumber="486">
+In 
+<collectingCountry id="F3307DA8FFB5824454BFFA7CFE96FA5C" box="[228,326,1466,1492]" name="Vietnam" pageId="0" pageNumber="486">Vietnam</collectingCountry>
+, 10 species of 
+<taxonomicName id="4C2746BBFFB5824455BEFA7CFDF9FA5C" _evidence="catalogs" _step="genera" authorityName="Walker" authorityYear="1854" box="[485,553,1466,1492]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB5824455BEFA7CFDF9FA5C" box="[485,553,1466,1492]" italics="true" pageId="0" pageNumber="486">Siccia</emphasis>
+</taxonomicName>
+have been reported by 
+<bibRefCitation id="EFB640C9FFB582445773FA7CFC35FA5C" author="Volynkin, A. V." box="[808,997,1466,1492]" pageId="0" pageNumber="486" pagination="1 - 184" refId="ref2701" refString="Volynkin, A. V. (2023 a) Contribution to the knowledge of the genus Siccia Walker (= Aemene Walker, syn. n.) in the Afrotropics with descriptions of seventy-three new species, three new subspecies, and a check-list of Asiatic taxa of the genus (Lepidoptera: Erebidae: Arctiinae: Lithosiini). Ecologica Montenegrina, 64, 1 - 184. https: // doi. org / 10.37828 / em. 2023.64.1" type="journal article" year="2023">Volynkin (2023a</bibRefCitation>
+, b): 
+<taxonomicName id="4C2746BBFFB582445048FA7CFF0BFA70" _authorityPlausibility="0.9984958" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Dubatolov &amp; Bucsek, 2016)" baseAuthorityName="Dubatolov &amp; Bucsek" baseAuthorityYear="2016" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="species" species="annamica">
+<emphasis id="B953E12AFFB582445048FA7CFB4CFA5C" box="[1043,1180,1466,1492]" italics="true" pageId="0" pageNumber="486">S. annamica</emphasis>
+(Dubatolov &amp; Bucsek, 2016)
+</taxonomicName>
+, 
+<taxonomicName id="4C2746BBFFB5824454BCFA18FD33FA70" _authorityPlausibility="0.9984958" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Dubatolov &amp; Bucsek, 2013)" baseAuthorityName="Dubatolov &amp; Bucsek" baseAuthorityYear="2013" box="[231,739,1502,1528]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="species" species="monastyrskii">
+<emphasis id="B953E12AFFB5824454BCFA18FE42FA70" box="[231,402,1502,1528]" italics="true" pageId="0" pageNumber="486">S. monastyrskii</emphasis>
+(Dubatolov &amp; Bucsek, 2013)
+</taxonomicName>
+, 
+<taxonomicName id="4C2746BBFFB5824456B4FA18FC27FA70" _authorityPlausibility="0.99750245" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Fang, 2000" authorityName="Fang" authorityYear="2000" box="[751,1015,1502,1528]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="species" species="punctata">
+<emphasis id="B953E12AFFB5824456B4FA18FCBEFA70" box="[751,878,1502,1528]" italics="true" pageId="0" pageNumber="486">S. punctata</emphasis>
+<bibRefCitation id="EFB640C9FFB58244572EFA18FC27FA70" author="Fang" box="[885,1015,1502,1528]" pageId="0" pageNumber="486" refId="ref2599" refString="Fang, (2000) Lepidoptera. Arctiidae. Fauna Sinica (Insecta). Vol. 19. Science Press, Beijing, 590 pp. [in Chinese, with English summary]" type="book" year="2000">Fang, 2000</bibRefCitation>
+</taxonomicName>
+, 
+<taxonomicName id="4C2746BBFFB582445059FA18FACBFA70" _authorityPlausibility="0.99988294" _evidence="catalog+fontStyle" _step="styledSpecies" authority="(Butler, 1877)" baseAuthorityName="Butler" baseAuthorityYear="1877" box="[1026,1307,1502,1528]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="species" species="sordida">
+<emphasis id="B953E12AFFB582445059FA18FBA4FA70" box="[1026,1140,1502,1528]" italics="true" pageId="0" pageNumber="486">S. sordida</emphasis>
+(Butler, 1877)
+</taxonomicName>
+, 
+<taxonomicName id="4C2746BBFFB58244517CFA18FE97F994" _authorityPlausibility="0.9985863" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Volynkin, 2023" authorityName="Volynkin" authorityYear="2023" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="species" species="angusta">
+<emphasis id="B953E12AFFB58244517CFA18FA4DFA70" box="[1319,1437,1502,1528]" italics="true" pageId="0" pageNumber="486">S. angusta</emphasis>
+Volynkin, 2023
+</taxonomicName>
+, 
+<taxonomicName id="4C2746BBFFB58244550FF9C4FD76F994" _authorityPlausibility="0.9985863" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Volynkin, 2023" authorityName="Volynkin" authorityYear="2023" box="[340,678,1538,1564]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="species" species="gryllotalpa">
+<emphasis id="B953E12AFFB58244550FF9C4FE3DF994" box="[340,493,1538,1564]" italics="true" pageId="0" pageNumber="486">S. gryllotalpa</emphasis>
+Volynkin, 2023
+</taxonomicName>
+, 
+<taxonomicName id="4C2746BBFFB5824456E9F9C4FC0EF994" _authorityPlausibility="0.9985863" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Volynkin, 2023" authorityName="Volynkin" authorityYear="2023" box="[690,990,1538,1564]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="species" species="dilatata">
+<emphasis id="B953E12AFFB5824456E9F9C4FCF6F994" box="[690,806,1538,1564]" italics="true" pageId="0" pageNumber="486">S. dilatata</emphasis>
+Volynkin, 2023
+</taxonomicName>
+, 
+<taxonomicName id="4C2746BBFFB5824457B0F9C4FADFF994" _authorityPlausibility="0.9985863" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Volynkin, 2023" authorityName="Volynkin" authorityYear="2023" box="[1003,1295,1538,1564]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="species" species="suffusa">
+<emphasis id="B953E12AFFB5824457B0F9C4FB87F994" box="[1003,1111,1538,1564]" italics="true" pageId="0" pageNumber="486">S. suffusa</emphasis>
+Volynkin, 2023
+</taxonomicName>
+, 
+<taxonomicName id="4C2746BBFFB582445147F9C4FE97F9C8" _authorityPlausibility="0.9985863" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Volynkin, 2023" authorityName="Volynkin" authorityYear="2023" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="species" species="spinifera">
+<emphasis id="B953E12AFFB582445147F9C4FA4DF994" box="[1308,1437,1538,1564]" italics="true" pageId="0" pageNumber="486">S. spinifera</emphasis>
+Volynkin, 2023
+</taxonomicName>
+, and 
+<taxonomicName id="4C2746BBFFB5824455D9F9E0FD74F9C8" _authorityPlausibility="0.9985863" _evidence="catalog+fontStyle" _step="styledSpecies" authority="Volynkin, 2023" authorityName="Volynkin" authorityYear="2023" box="[386,676,1574,1600]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="486" phylum="Arthropoda" rank="species" species="megala">
+<emphasis id="B953E12AFFB5824455D9F9E0FE20F9C8" box="[386,496,1574,1600]" italics="true" pageId="0" pageNumber="486">S. megala</emphasis>
+Volynkin, 2023
+</taxonomicName>
+(
+<bibRefCitation id="EFB640C9FFB5824456E9F9E0FCB8F9C8" author="Volynkin, A. V." box="[690,872,1574,1600]" pageId="0" pageNumber="486" pagination="1 - 184" refId="ref2701" refString="Volynkin, A. V. (2023 a) Contribution to the knowledge of the genus Siccia Walker (= Aemene Walker, syn. n.) in the Afrotropics with descriptions of seventy-three new species, three new subspecies, and a check-list of Asiatic taxa of the genus (Lepidoptera: Erebidae: Arctiinae: Lithosiini). Ecologica Montenegrina, 64, 1 - 184. https: // doi. org / 10.37828 / em. 2023.64.1" type="journal article" year="2023">Volynkin 2023a</bibRefCitation>
+, b). The propose of this study is to describe a new 
+<taxonomicName id="4C2746BBFFB5824454CCF98CFEE4F9EC" box="[151,308,1610,1636]" pageId="0" pageNumber="486">
+<emphasis id="B953E12AFFB5824454CCF98CFF0BF9EC" box="[151,219,1610,1636]" italics="true" pageId="0" pageNumber="486">Siccia</emphasis>
+species
+</taxonomicName>
+from BaVi National Park, 
+<collectingRegion id="49E3F3DAFFB58244563AF98CFD37F9EC" box="[609,743,1610,1636]" country="Vietnam" name="Ha Noi" pageId="0" pageNumber="486">Hanoi Prov.</collectingRegion>
+(
+<collectingCountry id="F3307DA8FFB5824456AEF98CFCEDF9EC" box="[757,829,1610,1636]" name="Turkey" pageId="0" pageNumber="486">Hatay</collectingCountry>
+), 
+<collectingCountry id="F3307DA8FFB58244570AF98CFC60F9EC" box="[849,944,1610,1636]" name="Vietnam" pageId="0" pageNumber="486">Vietnam</collectingCountry>
+(
+<figureCitation id="131C21BDFFB5824457E4F98CFBD0F9EC" box="[959,1024,1610,1636]" captionStart="FIGURE 1" captionStartId="1.[151,250,1240,1264]" captionTargetBox="[151,1436,237,1217]" captionTargetId="figure-54@1.[151,1436,237,1217]" captionTargetPageId="1" captionText="FIGURE 1. Collecting site of the new species, Siccia triellipsis sp. nov. in Vietnam. 1a. Map of Vietnam: Ba Vi National Park (black circle) Hanoi Province (Hatay), Northern Vietnam. 1b. Ba Vi N.P. collecting site for the new species. 1c. Type locality of the new species (1100m)." figureDoi="http://doi.org/10.5281/zenodo.10693422" httpUri="https://zenodo.org/record/10693422/files/figure.png" pageId="0" pageNumber="486">Fig. 1</figureCitation>
+).
+</paragraph>
+</subSection>
+<subSection id="E2A824D3FFB5824554CCF970FA8DFF5D" _generate="added" lastPageId="1" lastPageNumber="487" pageId="0" pageNumber="486" type="materials_methods">
+<paragraph id="8B983D38FFB5824454CCF970FE6BF958" blockId="0.[151,443,1718,1744]" box="[151,443,1718,1744]" pageId="0" pageNumber="486">
+<heading id="D0D08A54FFB5824454CCF970FE6BF958" bold="true" box="[151,443,1718,1744]" fontSize="11" level="1" pageId="0" pageNumber="486" reason="1">
+<emphasis id="B953E12AFFB5824454CCF970FE6BF958" bold="true" box="[151,443,1718,1744]" pageId="0" pageNumber="486">Materials and Methods</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B983D38FFB5824554CCF938FA8DFF5D" blockId="0.[151,1437,1790,2033]" lastBlockId="1.[151,1437,151,213]" lastPageId="1" lastPageNumber="487" pageId="0" pageNumber="486">
+Specimens used in this study were collected during expeditions to 
+<collectingCountry id="F3307DA8FFB5824457CBF938FC3FF890" box="[912,1007,1790,1816]" name="Vietnam" pageId="0" pageNumber="486">Vietnam</collectingCountry>
+(2005–2014), mostly in four national parks: Ba Be National Park, Tam Dao National Park, BaVi National Park, and Cuc Phuong National Park. The specimens were collected using light traps with a mercury vapor lamp (220 
+<collectionCode id="ED36A5FDFFB5824457ABF880FBD4F8E8" box="[1008,1028,1862,1888]" country="Canada" lsid="urn:lsid:biocol.org:col:13946" name="Royal British Columbia Museum - Herbarium" pageId="0" pageNumber="486" type="Museum">V</collectionCode>
+/200W, Dongseong Co., 
+<collectingCountry id="F3307DA8FFB582445145F880FAB4F8E8" box="[1310,1380,1862,1888]" name="South Korea" pageId="0" pageNumber="486">Korea</collectingCountry>
+) and four black light lamps (FL20SbL, Kumho Co., 
+<collectingCountry id="F3307DA8FFB5824456ECF8ACFCD1F80C" box="[695,769,1898,1924]" name="South Korea" pageId="0" pageNumber="486">Korea</collectingCountry>
+). Genitalia were dissected and examined under Leica EZ4 stereo-microscope. Images of adults and genitalia were taken using a Cannon EOS 50D digital camera attached to a Cannon EF 
+<quantity id="4CDF90DDFFB582445540F874FEA7F844" box="[283,375,1970,1996]" metricMagnitude="-1" metricUnit="m" metricValue="1.0" pageId="0" pageNumber="486" unit="mm" value="100.0">100 mm</quantity>
+F2.8 Macro USM lens (Cannon, Inc., 
+<collectingRegion id="49E3F3DAFFB582445744F874FCB9F844" box="[799,873,1970,1996]" country="Japan" name="Tokyo" pageId="0" pageNumber="486">Tokyo</collectingRegion>
+, 
+<collectingCountry id="F3307DA8FFB582445728F874FC65F844" box="[883,949,1970,1996]" name="Japan" pageId="0" pageNumber="486">Japan</collectingCountry>
+) and a Leica DM 2500 microscope attached with Leica ICC50 E (Leica, Wetzlar, 
+<collectingCountry id="F3307DA8FFB582445669F810FD70F878" box="[562,672,2006,2032]" name="Germany" pageId="0" pageNumber="486">Germany</collectingCountry>
+).All examined species of 
+<collectingCountry id="F3307DA8FFB58244579AF810FBF0F878" box="[961,1056,2006,2032]" name="Vietnam" pageId="0" pageNumber="486">Vietnam</collectingCountry>
+are deposited in 
+<collectingRegion id="49E3F3DAFFB582445080F810FAE5F878" box="[1243,1333,2006,2032]" country="South Korea" name="Incheon" pageId="0" pageNumber="486">Incheon</collectingRegion>
+National University (INU), 
+<collectingRegion id="49E3F3DAFFB48245553FFF51FE11FF39" box="[356,449,151,177]" country="South Korea" name="Incheon" pageId="1" pageNumber="487">Incheon</collectingRegion>
+, 
+<collectingCountry id="F3307DA8FFB482455591FF51FDC2FF39" box="[458,530,151,177]" name="South Korea" pageId="1" pageNumber="487">Korea</collectingCountry>
+. The 
+<typeStatus id="549C839AFFB482455617FF51FD7EFF39" box="[588,686,151,177]" pageId="1" pageNumber="487" type="holotype">holotype</typeStatus>
+will be donated and stored in the Plant Protection Research Institute (PPRI), 
+<collectingRegion id="49E3F3DAFFB4824554A8FF7DFEEAFF5D" box="[243,314,187,213]" country="Vietnam" name="Ha Noi" pageId="1" pageNumber="487">Hanoi</collectingRegion>
+, 
+<collectingCountry id="F3307DA8FFB48245551EFF7DFE74FF5D" box="[325,420,187,213]" name="Vietnam" pageId="1" pageNumber="487">Vietnam</collectingCountry>
+in the future. Abbreviations for the type depositories are as follows: TS type species.
+</paragraph>
+</subSection>
+<caption id="DF586DB0FFB4824554CCFB1EFE4AFAB1" ID-DOI="http://doi.org/10.5281/zenodo.10693422" ID-Zenodo-Dep="10693422" httpUri="https://zenodo.org/record/10693422/files/figure.png" pageId="1" pageNumber="487" startId="1.[151,250,1240,1264]" targetBox="[151,1436,237,1217]" targetPageId="1" targetType="figure">
+<paragraph id="8B983D38FFB4824554CCFB1EFE4AFAB1" blockId="1.[151,1436,1240,1337]" pageId="1" pageNumber="487">
+<emphasis id="B953E12AFFB4824554CCFB1EFEC3FB78" bold="true" box="[151,275,1240,1264]" pageId="1" pageNumber="487">FIGURE 1.</emphasis>
+Collecting site of the new species, 
+<taxonomicName id="4C2746BBFFB482455621FB1FFCCFFB79" _evidence="statusLabel" _step="newLabel1" authority="Bayarsaikhan &amp; Kwon &amp; Bae, 2024" authorityName="Bayarsaikhan &amp; Kwon &amp; Bae" authorityYear="2024" box="[634,799,1241,1265]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="species" species="triellipsis" status="sp. nov.">
+<emphasis id="B953E12AFFB482455621FB1FFCCFFB79" box="[634,799,1241,1265]" italics="true" pageId="1" pageNumber="487">Siccia triellipsis</emphasis>
+</taxonomicName>
+<emphasis id="B953E12AFFB48245577EFB1FFCA5FB79" bold="true" box="[805,885,1241,1265]" pageId="1" pageNumber="487">
+<taxonomicNameLabel id="A2605C51FFB48245577EFB1FFCA5FB79" box="[805,885,1241,1265]" pageId="1" pageNumber="487" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+in Vietnam. 1a. Map of Vietnam: Ba Vi National Park (black circle) Hanoi Province (Hatay), Northern Vietnam. 1b. Ba Vi N.P. collecting site for the new species. 1c. Type locality of the new species (1100m).
+</paragraph>
+</caption>
+<subSection id="E2A824D3FFB4824554CCFA4DFF22FA2D" _generate="added" box="[151,242,1419,1445]" pageId="1" pageNumber="487" type="results">
+<paragraph id="8B983D38FFB4824554CCFA4DFF22FA2D" blockId="1.[151,242,1419,1445]" box="[151,242,1419,1445]" pageId="1" pageNumber="487">
+<heading id="D0D08A54FFB4824554CCFA4DFF22FA2D" bold="true" box="[151,242,1419,1445]" fontSize="11" level="1" pageId="1" pageNumber="487" reason="1">
+<emphasis id="B953E12AFFB4824554CCFA4DFF22FA2D" bold="true" box="[151,242,1419,1445]" pageId="1" pageNumber="487">Results</emphasis>
+</heading>
+</paragraph>
+</subSection>
+<treatment id="038E8C2EFFB4824554CCFA15FED1F831" ID-DOI="http://doi.org/10.5281/zenodo.10693418" ID-GBIF-Taxon="221744764" ID-Zenodo-Dep="10693418" _generate="added" pageId="1" pageNumber="487">
+<subSubSection id="C33D6EB3FFB4824554CCFA15FE33FA65" _generate="retained" box="[151,483,1491,1517]" pageId="1" pageNumber="487" type="nomenclature">
+<paragraph id="8B983D38FFB4824554CCFA15FE33FA65" blockId="1.[151,483,1491,1517]" box="[151,483,1491,1517]" pageId="1" pageNumber="487">
+<heading id="D0D08A54FFB4824554CCFA15FE33FA65" bold="true" box="[151,483,1491,1517]" fontSize="11" level="1" pageId="1" pageNumber="487" reason="1">
+<emphasis id="B953E12AFFB4824554CCFA15FE33FA65" bold="true" box="[151,483,1491,1517]" pageId="1" pageNumber="487">
+Genus 
+<taxonomicName id="4C2746BBFFB4824554B5FA15FE33FA65" ID-CoL="92MS8" _authorityPlausibility="0.9998945" _evidence="catalogs" _step="genera" authority="Walker, 1854" authorityName="Walker" authorityYear="1854" box="[238,483,1491,1517]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB4824554B5FA15FEE7FA65" bold="true" box="[238,311,1491,1517]" italics="true" pageId="1" pageNumber="487">Siccia</emphasis>
+<bibRefCitation id="EFB640C9FFB482455564FA15FE33FA65" author="Walker, F." box="[319,483,1491,1517]" pageId="1" pageNumber="487" refId="ref2890" refString="Walker, F. (1854) List of the specimens of lepidopterous insects in the collection of the British Museum. Vol. 2. Printed by order of the Trustees, London, 775 pp." type="book" year="1854">Walker, 1854</bibRefCitation>
+</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C33D6EB3FFB4824554CCF9D4FED1F831" _generate="added" pageId="1" pageNumber="487" type="reference_group">
+<paragraph id="8B983D38FFB4824554CCF9D4FE48F9C0" blockId="1.[151,1437,1554,1977]" pageId="1" pageNumber="487">
+<taxonomicName id="4C2746BBFFB4824554CCF9D4FEB5F9A2" ID-CoL="92MS8" _authorityPlausibility="0.9998945" _evidence="catalogs" _step="genera" authority="Walker, 1854" authorityName="Walker" authorityYear="1854" box="[151,357,1554,1578]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB4824554CCF9D4FF05F9A1" box="[151,213,1554,1577]" italics="true" pageId="1" pageNumber="487">Siccia</emphasis>
+<bibRefCitation id="EFB640C9FFB482455480F9D4FEB5F9A2" author="Walker, F." box="[219,357,1554,1578]" pageId="1" pageNumber="487" refId="ref2890" refString="Walker, F. (1854) List of the specimens of lepidopterous insects in the collection of the British Museum. Vol. 2. Printed by order of the Trustees, London, 775 pp." type="book" year="1854">Walker, 1854</bibRefCitation>
+</taxonomicName>
+, 
+<emphasis id="B953E12AFFB482455534F9D5FB31F9A2" box="[367,1249,1554,1578]" italics="true" pageId="1" pageNumber="487">List of the Specimens of Lepidopterous Insects in the Collection of the British Museum,</emphasis>
+2, 539. TS: 
+<taxonomicName id="4C2746BBFFB482455105F9D4FE44F9C0" ID-CoL="4X6WZ" _authorityPlausibility="0.9998945" _evidence="catalogs" _step="species1" authority="Walker, 1854" authorityName="Walker" authorityYear="1854" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="species" species="caffra">
+<emphasis id="B953E12AFFB482455105F9D4FED4F9C1" italics="true" pageId="1" pageNumber="487">Siccia caffra</emphasis>
+<bibRefCitation id="EFB640C9FFB482455551F9F7FE44F9C0" author="Walker, F." box="[266,404,1584,1609]" pageId="1" pageNumber="487" refId="ref2890" refString="Walker, F. (1854) List of the specimens of lepidopterous insects in the collection of the British Museum. Vol. 2. Printed by order of the Trustees, London, 775 pp." type="book" year="1854">Walker, 1854</bibRefCitation>
+</taxonomicName>
+.
+</paragraph>
+<paragraph id="8B983D38FFB4824554CCF996FDCFF90E" blockId="1.[151,1437,1554,1977]" pageId="1" pageNumber="487">
+<taxonomicName id="4C2746BBFFB4824554CCF996FEACF9EF" ID-CoL="93N7T" _authorityPlausibility="0.9998945" _evidence="catalogs" _step="genera" authority="Walker, 1854" authorityName="Walker" authorityYear="1854" box="[151,380,1615,1639]" class="Insecta" family="Erebidae" genus="Aemene" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB4824554CCF996FF37F9EF" box="[151,231,1616,1639]" italics="true" pageId="1" pageNumber="487">Aemene</emphasis>
+<bibRefCitation id="EFB640C9FFB4824554ABF989FEACF9EF" author="Walker, F." box="[240,380,1615,1639]" pageId="1" pageNumber="487" refId="ref2890" refString="Walker, F. (1854) List of the specimens of lepidopterous insects in the collection of the British Museum. Vol. 2. Printed by order of the Trustees, London, 775 pp." type="book" year="1854">Walker, 1854</bibRefCitation>
+</taxonomicName>
+, 
+<emphasis id="B953E12AFFB4824555D2F996FACEF9EF" box="[393,1310,1615,1639]" italics="true" pageId="1" pageNumber="487">List of the Specimens of Lepidopterous Insects in the Collection of the British Museum,</emphasis>
+2, 541. TS: 
+<taxonomicName id="4C2746BBFFB48245549CF9A8FDCBF90E" ID-CoL="BFHW3" _authorityPlausibility="0.9998945" _evidence="catalogs" _step="species1" authority="Walker, 1854" authorityName="Walker" authorityYear="1854" box="[199,539,1646,1670]" class="Insecta" family="Erebidae" genus="Aemene" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="species" species="taprobanis">
+<emphasis id="B953E12AFFB48245549CF9A8FE5BF90E" box="[199,395,1646,1670]" italics="true" pageId="1" pageNumber="487">Aemene taprobanis</emphasis>
+<bibRefCitation id="EFB640C9FFB4824555CAF9A8FDCBF90E" author="Walker, F." box="[401,539,1646,1670]" pageId="1" pageNumber="487" refId="ref2890" refString="Walker, F. (1854) List of the specimens of lepidopterous insects in the collection of the British Museum. Vol. 2. Printed by order of the Trustees, London, 775 pp." type="book" year="1854">Walker, 1854</bibRefCitation>
+</taxonomicName>
+.
+</paragraph>
+<paragraph id="8B983D38FFB4824554CCF94BFAA8F92D" blockId="1.[151,1437,1554,1977]" box="[151,1400,1676,1701]" pageId="1" pageNumber="487">
+<taxonomicName id="4C2746BBFFB4824554CCF94BFE78F92D" _authorityPlausibility="0.98980826" _evidence="catalogs" _step="genera" authority="Wallengren, 1863" authorityName="Wallengren" authorityYear="1863" box="[151,424,1677,1701]" class="Insecta" family="Erebidae" genus="Melania" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB4824554CCF94BFF3BF92D" box="[151,235,1677,1701]" italics="true" pageId="1" pageNumber="487">Melania</emphasis>
+Wallengren, 1863
+</taxonomicName>
+, 
+<emphasis id="B953E12AFFB4824555E9F94BFCFFF92D" box="[434,815,1677,1701]" italics="true" pageId="1" pageNumber="487">Wiener entomologische Monatschrift,</emphasis>
+7 (5), 145. TS. 
+<taxonomicName id="4C2746BBFFB482455794F94BFAA4F92D" ID-CoL="BHZ8P" _authorityPlausibility="0.98980826" _evidence="catalogs" _step="species1" authority="Wallengren, 1860" authorityName="Wallengren" authorityYear="1860" box="[975,1396,1677,1701]" class="Insecta" family="Erebidae" genus="Lithosia" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="species" species="nigropunctata">
+<emphasis id="B953E12AFFB482455794F94BFB67F92C" box="[975,1207,1677,1701]" italics="true" pageId="1" pageNumber="487">Lithosia nigropunctata</emphasis>
+Wallengren, 1860
+</taxonomicName>
+.
+</paragraph>
+<paragraph id="8B983D38FFB4824554CCF96AFDC9F96A" blockId="1.[151,1437,1554,1977]" pageId="1" pageNumber="487">
+<taxonomicName id="4C2746BBFFB4824554CCF96AFE50F94B" _authorityPlausibility="0.9998945" _evidence="catalogs" _step="genera" authority="Walker, 1865" authorityName="Walker" authorityYear="1865" box="[151,384,1707,1731]" class="Insecta" family="Erebidae" genus="Panassa" higherTaxonomySource="CoL,GBIF" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB4824554CCF96AFF3DF94B" box="[151,237,1708,1731]" italics="true" pageId="1" pageNumber="487">Panassa</emphasis>
+Walker, 1865
+</taxonomicName>
+, 
+<emphasis id="B953E12AFFB4824555D7F96AFAC4F94B" box="[396,1300,1707,1731]" italics="true" pageId="1" pageNumber="487">List of the Specimens of Lepidopterous Insects in the Collection of the British Museum,</emphasis>
+32, 607. TS: 
+<taxonomicName id="4C2746BBFFB48245549CF90DFDC5F96A" _authorityPlausibility="0.9998945" _evidence="catalogs" _step="species1" authority="Walker, 1865" authorityName="Walker" authorityYear="1865" box="[199,533,1738,1762]" class="Insecta" family="Erebidae" genus="Panassa" higherTaxonomySource="CoL,GBIF" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="species" species="cingalesa">
+<emphasis id="B953E12AFFB48245549CF90DFE54F96A" box="[199,388,1738,1762]" italics="true" pageId="1" pageNumber="487">Panassa cingalesa</emphasis>
+Walker, 1865
+</taxonomicName>
+.
+</paragraph>
+<paragraph id="8B983D38FFB4824554CCF92FFE35F8B6" blockId="1.[151,1437,1554,1977]" pageId="1" pageNumber="487">
+<taxonomicName id="4C2746BBFFB4824554CCF92FFE96F889" _authorityPlausibility="0.99830973" _evidence="catalogs" _step="genera" authority="Felder" authorityName="Felder" box="[151,326,1769,1793]" class="Insecta" family="Erebidae" genus="Autoceras" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB4824554CCF92FFF2EF888" box="[151,254,1769,1792]" italics="true" pageId="1" pageNumber="487">Autoceras</emphasis>
+Felder
+</taxonomicName>
+, 
+<emphasis id="B953E12AFFB48245550AF92FFEB5F888" box="[337,357,1769,1792]" italics="true" pageId="1" pageNumber="487">in</emphasis>
+Felder &amp; Rogenhofer, 1874, 
+<emphasis id="B953E12AFFB4824556D4F92FFBC2F897" italics="true" pageId="1" pageNumber="487">Reise der österreichischen Fregatte Novara um die Erde in den Jahren 1857, 1858, 1859 unter den Behilfen des Commodore B. von Wüllerstorf-Urbair. Theil,</emphasis>
+2 (2), pl. 106, fig. 24. TS: 
+<taxonomicName id="4C2746BBFFB48245516DF8CEFE31F8B6" _authorityPlausibility="0.99830973" _evidence="catalogs" _step="species1" authority="Felder, 1874" authorityName="Felder" authorityYear="1874" class="Insecta" family="Erebidae" genus="Autoceras" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="species" species="grammophora">
+<emphasis id="B953E12AFFB48245516DF8CEFE88F8B6" italics="true" pageId="1" pageNumber="487">Autoceras grammophora</emphasis>
+Felder, 1874
+</taxonomicName>
+.
+</paragraph>
+<paragraph id="8B983D38FFB4824554CCF883FE81F8F3" blockId="1.[151,1437,1554,1977]" pageId="1" pageNumber="487">
+<taxonomicName id="4C2746BBFFB4824554CCF883FE64F8D5" _authorityPlausibility="0.85738033" _evidence="catalogs" _step="genera" authority="Hampson, 1900" authorityName="Hampson" authorityYear="1900" box="[151,436,1861,1885]" class="Insecta" family="Erebidae" genus="Parasiccia" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB4824554CCF883FED5F8D4" box="[151,261,1861,1884]" italics="true" pageId="1" pageNumber="487">Parasiccia</emphasis>
+Hampson, 1900
+</taxonomicName>
+, 
+<emphasis id="B953E12AFFB48245559AF883FBEAF8D4" box="[449,1082,1861,1885]" italics="true" pageId="1" pageNumber="487">
+Catalogue of 
+<taxonomicName id="4C2746BBFFB48245560BF883FC91F8D5" _authorityPlausibility="0.5408035" _evidence="catalogs" _step="order" authority="Phalaenae" authorityName="Phalaenae" box="[592,833,1861,1885]" class="Insecta" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="order">Lepidoptera Phalaenae</taxonomicName>
+in the British Museum,
+</emphasis>
+2, 407. TS: 
+<taxonomicName id="4C2746BBFFB48245509AF883FE9DF8F3" _authorityPlausibility="0.61171037" _evidence="catalogs" _step="species1" authority="Moore, 1878" authorityName="Moore" authorityYear="1878" class="Insecta" family="Erebidae" genus="Aemene" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="species" species="maculifascia">
+<emphasis id="B953E12AFFB48245509AF883FA4CF8D5" box="[1217,1436,1861,1885]" italics="true" pageId="1" pageNumber="487">Aemene maculifascia</emphasis>
+Moore, 1878
+</taxonomicName>
+.
+</paragraph>
+<paragraph id="8B983D38FFB4824554CCF845FED1F831" blockId="1.[151,1437,1554,1977]" pageId="1" pageNumber="487">
+<taxonomicName id="4C2746BBFFB4824554CCF845FE60F812" _authorityPlausibility="0.85738033" _evidence="catalogs" _step="genera" authority="Hampson, 1900" authorityName="Hampson" authorityYear="1900" box="[151,432,1922,1946]" class="Insecta" family="Erebidae" genus="Hyposiccia" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB4824554CCF845FED9F812" box="[151,265,1923,1946]" italics="true" pageId="1" pageNumber="487">Hyposiccia</emphasis>
+Hampson, 1900
+</taxonomicName>
+, 
+<emphasis id="B953E12AFFB4824555E1F844FBC9F812" box="[442,1049,1922,1946]" italics="true" pageId="1" pageNumber="487">
+Catalogue of 
+<taxonomicName id="4C2746BBFFB482455619F844FCFFF812" _authorityPlausibility="0.5408035" _evidence="catalogs" _step="order" authority="Phalaenae" authorityName="Phalaenae" box="[578,815,1922,1946]" class="Insecta" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="order">Lepidoptera Phalaenae</taxonomicName>
+in the British Museum,
+</emphasis>
+2, 406. TS: 
+<taxonomicName id="4C2746BBFFB4824550C9F844FF2DF831" _authorityPlausibility="0.5508592" _evidence="catalogs" _step="species1" authority="Swinhoe, 1894" authorityName="Swinhoe" authorityYear="1894" class="Insecta" family="Erebidae" genus="Aemene" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="487" phylum="Arthropoda" rank="species" species="amnaea">
+<emphasis id="B953E12AFFB4824550C9F844FAE8F812" box="[1170,1336,1922,1946]" italics="true" pageId="1" pageNumber="487">Aemene amnaea</emphasis>
+Swinhoe, 1894
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+<caption id="DF586DB0FFB7824654CCF8E8FCDCF8E2" ID-DOI="http://doi.org/10.5281/zenodo.10693424" ID-Zenodo-Dep="10693424" httpUri="https://zenodo.org/record/10693424/files/figure.png" pageId="2" pageNumber="488" startId="2.[151,250,1838,1862]" targetBox="[205,1378,222,1780]" targetPageId="2" targetType="figure">
+<paragraph id="8B983D38FFB7824654CCF8E8FCDCF8E2" blockId="2.[151,1436,1838,1898]" pageId="2" pageNumber="488">
+<emphasis id="B953E12AFFB7824654CCF8E8FEC6F8CE" bold="true" box="[151,278,1838,1862]" pageId="2" pageNumber="488">FIGURE 2.</emphasis>
+Adults of 
+<taxonomicName id="4C2746BBFFB7824655D2F8E8FDE0F8CE" _evidence="statusLabel" _step="newLabel1" authority="Bayarsaikhan &amp; Kwon &amp; Bae, 2024" authorityName="Bayarsaikhan &amp; Kwon &amp; Bae" authorityYear="2024" box="[393,560,1838,1862]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="2" pageNumber="488" phylum="Arthropoda" rank="species" species="triellipsis" status="sp. nov.">
+<emphasis id="B953E12AFFB7824655D2F8E8FDE0F8CE" box="[393,560,1838,1862]" italics="true" pageId="2" pageNumber="488">Siccia triellipsis</emphasis>
+</taxonomicName>
+<emphasis id="B953E12AFFB782465662F8E8FD5CF8CE" bold="true" box="[569,652,1838,1862]" pageId="2" pageNumber="488">
+<taxonomicNameLabel id="A2605C51FFB782465662F8E8FD5CF8CE" box="[569,652,1838,1862]" pageId="2" pageNumber="488" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+from Vietnam (Hanoi Prov.). 2a. Male, holotype (INU˗10308V). 2b. male, paratype (INU˗10307V). 2c. female, paratype (INU˗10306V).
+</paragraph>
+</caption>
+<caption id="DF586DB0FFB6824754CCF97AFE02F970" ID-DOI="http://doi.org/10.5281/zenodo.10693426" ID-Zenodo-Dep="10693426" httpUri="https://zenodo.org/record/10693426/files/figure.png" pageId="3" pageNumber="489" startId="3.[151,250,1724,1748]" targetBox="[161,1426,191,1690]" targetPageId="3" targetType="figure">
+<paragraph id="8B983D38FFB6824754CCF97AFE02F970" blockId="3.[151,1437,1724,1785]" pageId="3" pageNumber="489">
+<emphasis id="B953E12AFFB6824754CCF97AFEC5F95C" bold="true" box="[151,277,1724,1748]" pageId="3" pageNumber="489">FIGURE 3.</emphasis>
+Male genitalia of 
+<taxonomicName id="4C2746BBFFB68247558EF97BFDABF95C" _evidence="statusLabel" _step="newLabel1" authority="Bayarsaikhan &amp; Kwon &amp; Bae, 2024" authorityName="Bayarsaikhan &amp; Kwon &amp; Bae" authorityYear="2024" box="[469,635,1724,1748]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="3" pageNumber="489" phylum="Arthropoda" rank="species" species="triellipsis" status="sp. nov.">
+<emphasis id="B953E12AFFB68247558EF97BFDABF95C" box="[469,635,1724,1748]" italics="true" pageId="3" pageNumber="489">Siccia triellipsis</emphasis>
+</taxonomicName>
+<emphasis id="B953E12AFFB6824756D9F97AFD05F95C" bold="true" box="[642,725,1724,1748]" pageId="3" pageNumber="489">
+<taxonomicNameLabel id="A2605C51FFB6824756D9F97AFD05F95C" box="[642,725,1724,1748]" pageId="3" pageNumber="489" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+from Vietnam (Hanoi Prov.). 3a. Male, holotype (INU˗10308V). 3b. male, paratype (INU˗10307V).
+</paragraph>
+</caption>
+<treatment id="038E8C2EFFB6824154CCF88CFF33FBD1" ID-DOI="http://doi.org/10.5281/zenodo.10708391" ID-GBIF-Taxon="221744765" ID-Zenodo-Dep="10708391" _generate="added" lastPageId="5" lastPageNumber="491" pageId="3" pageNumber="489">
+<subSubSection id="C33D6EB3FFB6824754CCF88CFD1FF8ED" _generate="added" box="[151,719,1866,1893]" pageId="3" pageNumber="489" type="nomenclature">
+<paragraph id="8B983D38FFB6824754CCF88CFD1FF8ED" blockId="3.[151,719,1866,1929]" box="[151,719,1866,1893]" pageId="3" pageNumber="489">
+<heading id="D0D08A54FFB6824754CCF88CFD1FF8ED" bold="true" box="[151,719,1866,1893]" fontSize="11" level="1" pageId="3" pageNumber="489" reason="1">
+<emphasis id="B953E12AFFB6824754CCF88CFD1FF8ED" bold="true" box="[151,719,1866,1893]" pageId="3" pageNumber="489">
+<taxonomicName id="4C2746BBFFB6824754CCF88CFDB5F8ED" _authorityPlausibility="0.76906556" _evidence="statusLabel" _step="newLabel1" authority="Bayarsaikhan &amp; Bae" authorityName="Bayarsaikhan &amp; Kwon &amp; Bae" authorityYear="2024" box="[151,613,1866,1893]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="3" pageNumber="489" phylum="Arthropoda" rank="species" species="triellipsis" status="sp. nov.">
+<emphasis id="B953E12AFFB6824754CCF88CFE87F8ED" bold="true" box="[151,343,1866,1893]" italics="true" pageId="3" pageNumber="489">Siccia triellipsis</emphasis>
+Bayarsaikhan &amp; Bae
+</taxonomicName>
+, 
+<taxonomicNameLabel id="A2605C51FFB68247562AF88DFD1FF8ED" box="[625,719,1867,1893]" pageId="3" pageNumber="489" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C33D6EB3FFB6824754CCF8A8FEFEF801" _generate="added" box="[151,302,1902,1929]" pageId="3" pageNumber="489" type="description">
+<paragraph id="8B983D38FFB6824754CCF8A8FEFEF801" blockId="3.[151,719,1866,1929]" box="[151,302,1902,1929]" pageId="3" pageNumber="489">
+(
+<figureCitation id="131C21BDFFB6824754C4F8A8FF3FF801" box="[159,239,1902,1929]" captionStart="FIGURE 2" captionStartId="2.[151,250,1838,1862]" captionTargetBox="[205,1378,222,1780]" captionTargetId="figure-20@2.[151,1436,181,1814]" captionTargetPageId="2" captionText="FIGURE 2. Adults of Siccia triellipsis sp. nov. from Vietnam (Hanoi Prov.). 2a. Male, holotype (INU˗10308V). 2b. male, paratype (INU˗10307V). 2c. female, paratype (INU˗10306V)." figureDoi="http://doi.org/10.5281/zenodo.10693424" httpUri="https://zenodo.org/record/10693424/files/figure.png" pageId="3" pageNumber="489">Figs. 2</figureCitation>
+, 
+<figureCitation id="131C21BDFFB6824754A0F8A9FEDAF801" box="[251,266,1903,1929]" captionStart="FIGURE 3" captionStartId="3.[151,250,1724,1748]" captionTargetBox="[161,1426,191,1690]" captionTargetId="figure-21@3.[151,1436,181,1700]" captionTargetPageId="3" captionText="FIGURE 3. Male genitalia of Siccia triellipsis sp. nov. from Vietnam (Hanoi Prov.). 3a. Male, holotype (INU˗10308V). 3b. male, paratype (INU˗10307V)." figureDoi="http://doi.org/10.5281/zenodo.10693426" httpUri="https://zenodo.org/record/10693426/files/figure.png" pageId="3" pageNumber="489">3</figureCitation>
+, 
+<figureCitation id="131C21BDFFB68247554CF8A9FEF6F801" box="[279,294,1903,1929]" captionStart="FIGURE 4" captionStartId="4.[151,250,1976,2000]" captionTargetBox="[162,1435,789,1953]" captionTargetId="figure-313@4.[151,1435,777,1953]" captionTargetPageId="4" captionText="FIGURE 4. Female genitalia of Siccia triellipsis sp. nov. from Vietnam (Hanoi Prov.). 4a. Genitalia, paratype (INU˗10306V). 4b. Small spines of ductus bursae. 4c. Signum of corpus bursae." figureDoi="http://doi.org/10.5281/zenodo.10693428" httpUri="https://zenodo.org/record/10693428/files/figure.png" pageId="3" pageNumber="489">4</figureCitation>
+)
+</paragraph>
+</subSubSection>
+<subSubSection id="C33D6EB3FFB6824054CCF877FD7CFF71" _generate="added" lastPageId="4" lastPageNumber="490" pageId="3" pageNumber="489" type="materials_examined">
+<paragraph id="8B983D38FFB6824054CCF877FD7CFF71" blockId="3.[151,1436,1969,2034]" lastBlockId="4.[151,1437,151,753]" lastPageId="4" lastPageNumber="490" pageId="3" pageNumber="489">
+<emphasis id="B953E12AFFB6824754CCF877FE82F843" bold="true" box="[151,338,1969,1995]" pageId="3" pageNumber="489">Type materials.</emphasis>
+<materialsCitation id="3B4F3765FFB682475500F877FB75F867" ID-GBIF-Occurrence="4526004301" collectingDate="2010-07-19" collectingDateMax="2010-08-05" collectingDateMin="2010-07-19" collectionCode="V" collectorName="N. P. Bavi &amp; YS Bae &amp; XV Le" country="Vietnam" elevation="1100" location="Hanoi" pageId="3" pageNumber="489" specimenCount="1" stateProvince="Ha Noi" typeStatus="holotype">
+<emphasis id="B953E12AFFB682475500F877FE01F843" bold="true" box="[347,465,1969,1995]" pageId="3" pageNumber="489">
+<typeStatus id="549C839AFFB682475500F877FE1CF843" box="[347,460,1969,1995]" pageId="3" pageNumber="489" type="holotype">Holotype</typeStatus>
+:
+</emphasis>
+♂, 
+<collectingCountry id="F3307DA8FFB6824755A4F877FDB1F843" box="[511,609,1969,1995]" name="Vietnam" pageId="3" pageNumber="489">Vietnam</collectingCountry>
+, Prov. 
+<collectingRegion id="49E3F3DAFFB6824756EAF877FD25F843" box="[689,757,1969,1995]" country="Vietnam" name="Ha Noi" pageId="3" pageNumber="489">Hanoi</collectingRegion>
+(Hatay), 
+<collectorName id="26D258EEFFB68247573FF874FC01F843" box="[868,977,1969,1996]" pageId="3" pageNumber="489">N.P. Bavi</collectorName>
+(end of road at 
+<quantity id="4CDF90DDFFB6824750D6F877FB0EF843" box="[1165,1246,1969,1995]" metricMagnitude="3" metricUnit="m" metricValue="1.1" pageId="3" pageNumber="489" unit="m" value="1100.0">
+<elevation id="000ADA0BFFB6824750D6F877FB0EF843" box="[1165,1246,1969,1995]" metricMagnitude="3" metricUnit="m" metricValue="1.1" pageId="3" pageNumber="489" unit="m" value="1100.0">1100m</elevation>
+</quantity>
+), (N21˚03′39.8″, E105˚21′47.1″) 
+<date id="FF991BF8FFB682475512F813FDF5F878" box="[329,549,2005,2032]" pageId="3" pageNumber="489" value="2010-07-19" valueMax="2010-08-05" valueMin="2010-07-19">
+<collectingDate id="EFDDE210FFB682475512F813FDF5F878" box="[329,549,2005,2032]" pageId="3" pageNumber="489" value="2010-07-19" valueMax="2010-08-05" valueMin="2010-07-19">19.VII–5.VIII.2010</collectingDate>
+</date>
+(
+<collectorName id="26D258EEFFB682475668F813FD5AF878" box="[563,650,2005,2032]" pageId="3" pageNumber="489">YS Bae</collectorName>
+&amp; 
+<collectorName id="26D258EEFFB6824756F0F810FD29F867" box="[683,761,2005,2032]" pageId="3" pageNumber="489">XV Le</collectorName>
+), adult and gen. slide no. INU˗10308 
+<collectionCode id="ED36A5FDFFB6824750CAF813FB75F867" box="[1169,1189,2005,2031]" country="Canada" lsid="urn:lsid:biocol.org:col:13946" name="Royal British Columbia Museum - Herbarium" pageId="3" pageNumber="489" type="Museum">V</collectionCode>
+</materialsCitation>
+. 
+<materialsCitation id="3B4F3765FFB6824050F5F813FD78FF71" ID-GBIF-Occurrence="4526004302" collectingDate="2010-07-19" collectingDateMax="2010-08-05" collectingDateMin="2010-07-19" collectionCode="V" collectorName="YS Bae &amp; XV Le" country="Vietnam" elevation="1100" lastPageId="4" lastPageNumber="490" location="Hanoi" pageId="3" pageNumber="489" specimenCount="2" specimenCount-female="2" stateProvince="Ha Noi">
+<emphasis id="B953E12AFFB6824750F5F813FAF6F867" bold="true" box="[1198,1318,2005,2031]" pageId="3" pageNumber="489">
+<typeStatus id="549C839AFFB6824750F5F813FAF6F867" box="[1198,1318,2005,2031]" pageId="3" pageNumber="489" type="paratype">Paratypes</typeStatus>
+</emphasis>
+(3 ♂, 
+<specimenCount id="9D21F6B1FFB682475131F813FA41F867" box="[1386,1425,2005,2031]" count="2" pageId="3" pageNumber="489" type="female">2 ♀</specimenCount>
+) 
+<collectingCountry id="F3307DA8FFB1824054CCFF51FF2AFF39" box="[151,250,151,177]" name="Vietnam" pageId="4" pageNumber="490">Vietnam</collectingCountry>
+: 3 ♂, 
+<specimenCount id="9D21F6B1FFB182405567FF51FEB6FF39" box="[316,358,151,177]" count="2" pageId="4" pageNumber="490" type="female">2 ♀</specimenCount>
+, Prov. 
+<collectingRegion id="49E3F3DAFFB1824055EFFF51FE28FF39" box="[436,504,151,177]" country="Vietnam" name="Ha Noi" pageId="4" pageNumber="490">Hanoi</collectingRegion>
+(Hatay), 
+<collectorName id="26D258EEFFB182405638FF51FD1DFF39" box="[611,717,151,177]" pageId="4" pageNumber="490">N.P. Bavi</collectorName>
+(end of road at 
+<quantity id="4CDF90DDFFB182405725FF51FC1EFF39" box="[894,974,151,177]" metricMagnitude="3" metricUnit="m" metricValue="1.1" pageId="4" pageNumber="490" unit="m" value="1100.0">
+<elevation id="000ADA0BFFB182405725FF51FC1EFF39" box="[894,974,151,177]" metricMagnitude="3" metricUnit="m" metricValue="1.1" pageId="4" pageNumber="490" unit="m" value="1100.0">1100m</elevation>
+</quantity>
+), (N21˚03′39.8″, E105˚21′47.1″) 
+<date id="FF991BF8FFB18240511FFF51FECCFF5D" pageId="4" pageNumber="490" value="2010-07-19" valueMax="2010-08-05" valueMin="2010-07-19">
+<collectingDate id="EFDDE210FFB18240511FFF51FECCFF5D" pageId="4" pageNumber="490" value="2010-07-19" valueMax="2010-08-05" valueMin="2010-07-19">19.VII– 5.VIII.2010</collectingDate>
+</date>
+(
+<collectorName id="26D258EEFFB182405577FF7DFE56FF5D" box="[300,390,187,213]" pageId="4" pageNumber="490">YS Bae</collectorName>
+&amp; 
+<collectorName id="26D258EEFFB1824055F5FF7DFE2FFF5D" box="[430,511,187,213]" pageId="4" pageNumber="490">XV Le</collectorName>
+), adult and gen. slide no. INU˗10306 
+<collectionCode id="ED36A5FDFFB1824057F1FF7DFC6EFF5D" box="[938,958,187,213]" country="Canada" lsid="urn:lsid:biocol.org:col:13946" name="Royal British Columbia Museum - Herbarium" pageId="4" pageNumber="490" type="Museum">V</collectionCode>
+female, INU˗10307 
+<collectionCode id="ED36A5FDFFB1824050FFFF7DFB68FF5D" box="[1188,1208,187,213]" country="Canada" lsid="urn:lsid:biocol.org:col:13946" name="Royal British Columbia Museum - Herbarium" pageId="4" pageNumber="490" type="Museum">V</collectionCode>
+male, INU˗10430 
+<collectionCode id="ED36A5FDFFB1824051D3FF7DFA4CFF5D" box="[1416,1436,187,213]" country="Canada" lsid="urn:lsid:biocol.org:col:13946" name="Royal British Columbia Museum - Herbarium" pageId="4" pageNumber="490" type="Museum">V</collectionCode>
+male, INU˗10433 
+<collectionCode id="ED36A5FDFFB182405507FF19FEA0FF71" box="[348,368,223,249]" country="Canada" lsid="urn:lsid:biocol.org:col:13946" name="Royal British Columbia Museum - Herbarium" pageId="4" pageNumber="490" type="Museum">V</collectionCode>
+male, INU˗12878 
+<collectionCode id="ED36A5FDFFB182405666FF19FD81FF71" box="[573,593,223,249]" country="Canada" lsid="urn:lsid:biocol.org:col:13946" name="Royal British Columbia Museum - Herbarium" pageId="4" pageNumber="490" type="Museum">V</collectionCode>
+female
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C33D6EB3FFB18240549CFEC4FBA1FD79" _generate="added" pageId="4" pageNumber="490" type="diagnosis">
+<paragraph id="8B983D38FFB18240549CFEC4FAA1FE59" blockId="4.[151,1437,151,753]" pageId="4" pageNumber="490">
+<emphasis id="B953E12AFFB18240549CFEC4FEEFFE94" bold="true" box="[199,319,258,284]" pageId="4" pageNumber="490">Diagnosis.</emphasis>
+The wing pattern of the new species closely resembles that of many others in the genus 
+<emphasis id="B953E12AFFB182405141FEC5FAB3FE95" box="[1306,1379,259,285]" italics="true" pageId="4" pageNumber="490">
+<taxonomicName id="4C2746BBFFB182405141FEC5FAB0FE95" _evidence="catalogs" _step="genera" authorityName="Walker" authorityYear="1854" box="[1306,1376,259,285]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="490" phylum="Arthropoda" rank="genus">Siccia</taxonomicName>
+,
+</emphasis>
+with pale grayish ground color of forewing with transverse lines and distinct antemedial and disco-cellular spots. However, 
+<taxonomicName id="4C2746BBFFB1824054CCFE8DFE9AFEED" _evidence="statusLabel" _step="newLabel1" authority="Bayarsaikhan &amp; Kwon &amp; Bae, 2024" authorityName="Bayarsaikhan &amp; Kwon &amp; Bae" authorityYear="2024" box="[151,330,331,357]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="490" phylum="Arthropoda" rank="species" species="triellipsis" status="sp. nov.">
+<emphasis id="B953E12AFFB1824054CCFE8DFE9AFEED" box="[151,330,331,357]" italics="true" pageId="4" pageNumber="490">Siccia triellipsis</emphasis>
+</taxonomicName>
+<emphasis id="B953E12AFFB182405509FE8DFE7BFEED" bold="true" box="[338,427,331,357]" pageId="4" pageNumber="490">
+<taxonomicNameLabel id="A2605C51FFB182405509FE8DFE7BFEED" box="[338,427,331,357]" pageId="4" pageNumber="490" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+differs from its congeners due to its unique male genital structure. It features a stout valva with a large apical process covered with small spines in upper angle, and a large, elongate cucullus with several spines in the upper and lower angles, covered with long setae; the juxta exhibits a pair of stout spine-shaped processes. In the female genitalia, the ovoid, membranous corpus bursae has a bundle of diverse sizes of spines in the medial area.
+</paragraph>
+<paragraph id="8B983D38FFB18240549CFE1DFD09FD0D" blockId="4.[151,1437,151,753]" pageId="4" pageNumber="490">
+The new species is similar to 
+<taxonomicName id="4C2746BBFFB18240564CFE1DFC0DFE7D" _authorityPlausibility="0.79381466" _evidence="catalog+fontStyle" _step="styledSpecies" authority="van Eecke, 1920" authorityName="van Eecke" authorityYear="1920" box="[535,989,475,501]" class="Insecta" family="Erebidae" genus="Sicciaemorpha" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="490" phylum="Arthropoda" rank="species" species="ivyalba">
+<emphasis id="B953E12AFFB18240564CFE1DFCC9FE7D" box="[535,793,475,501]" italics="true" pageId="4" pageNumber="490">Sicciaemorpha ivyalba</emphasis>
+van Eecke, 1920
+</taxonomicName>
+(Volynkin &amp; Černý 2021: figs 1, 2, 15, 22), but can be distinguished from the latter by the ciliate antennae in males, and absence of spots on the thorax in both sexes. In the male genitalia, valva without distal lobe, and aedeagus stout and vesica with a long, slender, band shaped cornutus and a band of large spines. In the female genitalia, the ovoid, membranous corpus bursae with a bundle of diverse sizes of spines in the medial area.
+</paragraph>
+<paragraph id="8B983D38FFB18240549CFD49FBA1FD79" blockId="4.[151,1437,151,753]" pageId="4" pageNumber="490">
+In 
+<taxonomicName id="4C2746BBFFB1824054BEFD49FE01FD21" _authorityPlausibility="0.79381466" _evidence="catalog+fontStyle" _step="styledSpecies" authority="van Eecke" authorityName="van Eecke" authorityYear="1920" box="[229,465,655,681]" class="Insecta" family="Erebidae" genus="Sicciaemorpha" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="490" phylum="Arthropoda" rank="species" species="ivyalba">
+<emphasis id="B953E12AFFB1824054BEFD49FE83FD21" box="[229,339,655,681]" italics="true" pageId="4" pageNumber="490">S. ivyalba</emphasis>
+van Eecke
+</taxonomicName>
+, males with bipectinate antennae, and thorax with dark spots in both sexes. In the male genitalia, valva with rounded membranous distal lobe, and aedeagus thin and vesica bearing dense cluster of small spinules. In the female genitalia, the ovoid, membranous corpus bursae without signum.
+</paragraph>
+</subSubSection>
+<caption id="DF586DB0FFB1824054CCF87EFCF0F87C" ID-DOI="http://doi.org/10.5281/zenodo.10693428" ID-Zenodo-Dep="10693428" httpUri="https://zenodo.org/record/10693428/files/figure.png" pageId="4" pageNumber="490" startId="4.[151,250,1976,2000]" targetBox="[162,1435,789,1953]" targetPageId="4" targetType="figure">
+<paragraph id="8B983D38FFB1824054CCF87EFCF0F87C" blockId="4.[151,1437,1976,2036]" pageId="4" pageNumber="490">
+<emphasis id="B953E12AFFB1824054CCF87EFEC3F858" bold="true" box="[151,275,1976,2000]" pageId="4" pageNumber="490">FIGURE 4.</emphasis>
+Female genitalia of 
+<taxonomicName id="4C2746BBFFB1824055BFF87FFD59F858" _evidence="statusLabel" _step="newLabel1" authority="Bayarsaikhan &amp; Kwon &amp; Bae, 2024" authorityName="Bayarsaikhan &amp; Kwon &amp; Bae" authorityYear="2024" box="[484,649,1976,2000]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="490" phylum="Arthropoda" rank="species" species="triellipsis" status="sp. nov.">
+<emphasis id="B953E12AFFB1824055BFF87FFD59F858" box="[484,649,1976,2000]" italics="true" pageId="4" pageNumber="490">Siccia triellipsis</emphasis>
+</taxonomicName>
+<emphasis id="B953E12AFFB1824056D4F87EFD30F858" bold="true" box="[655,736,1976,2000]" pageId="4" pageNumber="490">
+<taxonomicNameLabel id="A2605C51FFB1824056D4F87EFD30F858" box="[655,736,1976,2000]" pageId="4" pageNumber="490" rank="species">sp. nov.</taxonomicNameLabel>
+</emphasis>
+from Vietnam (Hanoi Prov.). 4a. Genitalia, paratype (INU˗10306V). 4b. Small spines of ductus bursae. 4c. Signum of corpus bursae.
+</paragraph>
+</caption>
+<subSubSection id="C33D6EB3FFB08241549CFF50FF38FD79" _generate="added" pageId="5" pageNumber="491" type="description">
+<paragraph id="8B983D38FFB08241549CFF50FF38FD79" blockId="5.[151,1437,150,1113]" pageId="5" pageNumber="491">
+<emphasis id="B953E12AFFB08241549CFF50FE81FF38" bold="true" box="[199,337,150,176]" pageId="5" pageNumber="491">Description</emphasis>
+<emphasis id="B953E12AFFB082415500FF51FE48FF39" box="[347,408,151,177]" italics="true" pageId="5" pageNumber="491">Adult</emphasis>
+(
+<figureCitation id="131C21BDFFB0824155F2FF51FDE4FF39" box="[425,564,151,177]" captionStart="FIGURE 2" captionStartId="2.[151,250,1838,1862]" captionTargetBox="[205,1378,222,1780]" captionTargetId="figure-20@2.[151,1436,181,1814]" captionTargetPageId="2" captionText="FIGURE 2. Adults of Siccia triellipsis sp. nov. from Vietnam (Hanoi Prov.). 2a. Male, holotype (INU˗10308V). 2b. male, paratype (INU˗10307V). 2c. female, paratype (INU˗10306V)." figureDoi="http://doi.org/10.5281/zenodo.10693424" httpUri="https://zenodo.org/record/10693424/files/figure.png" pageId="5" pageNumber="491">Figs. 2a, 2b</figureCitation>
+). Length of the forewing 
+<quantity id="4CDF90DDFFB082415707FF51FC4FFF39" box="[860,927,151,177]" metricMagnitude="-3" metricUnit="m" metricValue="7.0" pageId="5" pageNumber="491" unit="mm" value="7.0">7 mm</quantity>
+in males (n=3), 7.5˗ 
+<quantity id="4CDF90DDFFB0824150D5FF50FB1FFF39" box="[1166,1231,150,177]" metricMagnitude="-3" metricUnit="m" metricValue="8.0" pageId="5" pageNumber="491" unit="mm" value="8.0">8 mm</quantity>
+in females (n=2). Head sordid white. Patagium, tegula and thorax sordid white, with pale brown sprinkles. Forewing ground color sordid white-yellowish, with indistinct antemedial, medial, postmedial, and subterminal lines consisting pale brown sprinkles, and distinct costal marginal patches of subbasal, basal, antemedial, medial, postmedial and subterminal dark brown; dark subbasal patch almost half size of the rounded dark antemedial and disco-cellular patches, all of three patches disctinct; terminal series of dark brown patches started from subapical of wing. Hindwing without markings, and basal area paler than distal area; cilia pale brown. Abdomen sordid white-yellowish, with pale yellowish anal tuft in male. 
+<emphasis id="B953E12AFFB0824155B9FE55FD5AFE25" box="[482,650,403,429]" italics="true" pageId="5" pageNumber="491">Male genitalia</emphasis>
+(
+<figureCitation id="131C21BDFFB0824156C6FE55FCCDFE25" box="[669,797,403,429]" captionStart="FIGURE 3" captionStartId="3.[151,250,1724,1748]" captionTargetBox="[161,1426,191,1690]" captionTargetId="figure-21@3.[151,1436,181,1700]" captionTargetPageId="3" captionText="FIGURE 3. Male genitalia of Siccia triellipsis sp. nov. from Vietnam (Hanoi Prov.). 3a. Male, holotype (INU˗10308V). 3b. male, paratype (INU˗10307V)." figureDoi="http://doi.org/10.5281/zenodo.10693426" httpUri="https://zenodo.org/record/10693426/files/figure.png" pageId="5" pageNumber="491">Figs. 3a, b</figureCitation>
+). Weakly tapering uncus with a small apical spine and heavily covered with setae. Tegumen weakly sclerotized, arch-shaped. Valvae symmetric, stout; a large, irregular apical process weakly sclerotized, covered with small spines apically; weakly sclerotized cucullus almost same length with apical process of valva, with several diverse sized spines in broadly waved margin. Juxta with two strongly sclerotized, stout spine-shaped processes, weakly covered with small apical spines. Saccus “U”˗shaped. Aedeagus stout, and vesica with a long, slender, band shaped cornutus and a band of large spines. 
+<emphasis id="B953E12AFFB082415085FD81FA4DFDE9" box="[1246,1437,583,609]" italics="true" pageId="5" pageNumber="491">Female genitalia</emphasis>
+(
+<figureCitation id="131C21BDFFB0824154C4FDADFF34FD0D" box="[159,228,619,645]" captionStart="FIGURE 4" captionStartId="4.[151,250,1976,2000]" captionTargetBox="[162,1435,789,1953]" captionTargetId="figure-313@4.[151,1435,777,1953]" captionTargetPageId="4" captionText="FIGURE 4. Female genitalia of Siccia triellipsis sp. nov. from Vietnam (Hanoi Prov.). 4a. Genitalia, paratype (INU˗10306V). 4b. Small spines of ductus bursae. 4c. Signum of corpus bursae." figureDoi="http://doi.org/10.5281/zenodo.10693428" httpUri="https://zenodo.org/record/10693428/files/figure.png" pageId="5" pageNumber="491">Fig. 4</figureCitation>
+). Papillae anales weakly covered with setae. Elongate antevaginal lamella strongly wrinkled and sclerotized. Apophysis posterioris slender and longer than apophysis anterioris. Ductus bursae broad, waved, membranous, with short spines partly. Corpus bursae ovoid, membranous, with a bundle of diverse sized spines in medial area of bursae.
+</paragraph>
+</subSubSection>
+<subSubSection id="C33D6EB3FFB08241549CFD3CFD38FC9D" _generate="added" box="[199,744,762,789]" pageId="5" pageNumber="491" type="distribution">
+<paragraph id="8B983D38FFB08241549CFD3CFD38FC9D" blockId="5.[151,1437,150,1113]" box="[199,744,762,789]" pageId="5" pageNumber="491">
+<emphasis id="B953E12AFFB08241549CFD3CFEB1FC9C" bold="true" box="[199,353,762,788]" pageId="5" pageNumber="491">Distribution.</emphasis>
+<collectingCountry id="F3307DA8FFB08241553CFD3DFE1AFC9D" box="[359,458,763,789]" name="Vietnam" pageId="5" pageNumber="491">Vietnam</collectingCountry>
+: 
+<collectingRegion id="49E3F3DAFFB08241558EFD3DFD54FC9D" box="[469,644,763,789]" country="Vietnam" name="Ha Noi" pageId="5" pageNumber="491">Hanoi Province</collectingRegion>
+(
+<collectingCountry id="F3307DA8FFB0824156C8FD3DFD0CFC9D" box="[659,732,763,789]" name="Turkey" pageId="5" pageNumber="491">Hatay</collectingCountry>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="C33D6EB3FFB08241549CFCD9FE41FC09" _generate="added" pageId="5" pageNumber="491" type="etymology">
+<paragraph id="8B983D38FFB08241549CFCD9FE41FC09" blockId="5.[151,1437,150,1113]" pageId="5" pageNumber="491">
+<emphasis id="B953E12AFFB08241549CFCD9FE9EFCB1" bold="true" box="[199,334,799,825]" pageId="5" pageNumber="491">Etymology.</emphasis>
+The specific epithet is derived from the Latin “tri,” meaning “three,” and “ellipsis” referring to a set of dots indicating an ellipsis. This nomenclature highlights the distinct subbasal, antemedial and disco-cellular spots on the forewing.
+</paragraph>
+</subSubSection>
+<subSubSection id="C33D6EB3FFB08241549CFC4DFF33FBD1" _generate="added" pageId="5" pageNumber="491" type="discussion">
+<paragraph id="8B983D38FFB08241549CFC4DFF33FBD1" blockId="5.[151,1437,150,1113]" pageId="5" pageNumber="491">
+<emphasis id="B953E12AFFB08241549CFC4DFEEBFC2D" bold="true" box="[199,315,907,933]" pageId="5" pageNumber="491">Remarks.</emphasis>
+Members of the genus 
+<taxonomicName id="4C2746BBFFB082415613FC4DFD4AFC2D" _evidence="catalogs" _step="genera" authorityName="Walker" authorityYear="1854" box="[584,666,907,933]" class="Insecta" family="Erebidae" genus="Halone" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="491" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB082415613FC4DFD4AFC2D" box="[584,666,907,933]" italics="true" pageId="5" pageNumber="491">Halone</emphasis>
+</taxonomicName>
+have dark brown or pale brown markings or a large ochreous patch in forewing, which is common in many Oriental 
+<taxonomicName id="4C2746BBFFB08241568BFC69FC55FC41" box="[720,901,943,969]" class="Insecta" family="Erebidae" genus="Halone" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="491" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="B953E12AFFB08241568BFC69FCF2FC41" box="[720,802,943,969]" italics="true" pageId="5" pageNumber="491">Halone</emphasis>
+species.
+</taxonomicName>
+In the male genitalia, aedeagus is slender and strongly curved in numerous Oriental species, as documented by 
+<bibRefCitation id="EFB640C9FFB082415720FC15FBC9FC65" author="Bucsek, K." box="[891,1049,979,1005]" pageId="5" pageNumber="491" refId="ref2501" refString="Bucsek, K. (2012) Erebidae, Arctiinae (Lithosiini, Arctiini) of Malay Peninsula - Malaysia. Institute of Zoology SAS, Bratislava, 170 pp." type="book" year="2012">Bucsek (2012</bibRefCitation>
+, 
+<bibRefCitation id="EFB640C9FFB08241507DFC15FBB3FC65" author="Bucsek, K." box="[1062,1123,979,1005]" pageId="5" pageNumber="491" refId="ref2532" refString="Bucsek, K. (2014) Erebidae, Arctiinae (Lithosiini, Arctiini) of Malay Peninsula - Malaysia. Supplementum. Institute of Zoology SAS, Bratislava, 42 pp." type="book" year="2014">2014</bibRefCitation>
+). However, the new species characterized by the forewing with three distinct spots, which is common in many Oriental 
+<emphasis id="B953E12AFFB0824150C3FC31FB35FB99" box="[1176,1253,1015,1041]" italics="true" pageId="5" pageNumber="491">
+<taxonomicName id="4C2746BBFFB0824150C3FC31FB08FB99" _evidence="catalogs" _step="genera" authorityName="Walker" authorityYear="1854" box="[1176,1240,1015,1041]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="491" phylum="Arthropoda" rank="genus">Siccia</taxonomicName>
+/
+</emphasis>
+<taxonomicName id="4C2746BBFFB0824150BEFC31FA48FB99" box="[1253,1432,1015,1041]" pageId="5" pageNumber="491">
+<emphasis id="B953E12AFFB0824150BEFC31FAEDFB99" box="[1253,1341,1015,1041]" italics="true" pageId="5" pageNumber="491">Aemene</emphasis>
+species
+</taxonomicName>
+, and in the male genitalia, aedeagus is stout and straight. This distinction led us to identify it within the genus 
+<taxonomicName id="4C2746BBFFB0824154CCFBF9FF0BFBD1" _evidence="catalogs" _step="genera" authorityName="Walker" authorityYear="1854" box="[151,219,1087,1113]" class="Insecta" family="Erebidae" genus="Siccia" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="491" phylum="Arthropoda" rank="genus">
+<emphasis id="B953E12AFFB0824154CCFBF9FF0BFBD1" box="[151,219,1087,1113]" italics="true" pageId="5" pageNumber="491">Siccia</emphasis>
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection id="E2A824D3FFB0824154CCFB6CFF3DFA6D" _generate="added" pageId="5" pageNumber="491" type="acknowledgments">
+<paragraph id="8B983D38FFB0824154CCFB6CFE5AFB4C" blockId="5.[151,394,1194,1220]" box="[151,394,1194,1220]" pageId="5" pageNumber="491">
+<heading id="D0D08A54FFB0824154CCFB6CFE5AFB4C" bold="true" box="[151,394,1194,1220]" fontSize="11" level="1" pageId="5" pageNumber="491" reason="1">
+<emphasis id="B953E12AFFB0824154CCFB6CFE5AFB4C" bold="true" box="[151,394,1194,1220]" pageId="5" pageNumber="491">Acknowledgements</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B983D38FFB0824154CCFB35FF3DFA6D" blockId="5.[151,1436,1267,1509]" pageId="5" pageNumber="491">
+We express our sincere thanks to Dr. K.T. Park, Korean Academy of Science and Technology (KAST), 
+<collectingRegion id="49E3F3DAFFB08241510EFB35FA48FA85" box="[1365,1432,1267,1293]" country="South Korea" name="Seoul" pageId="5" pageNumber="491">Seoul</collectingRegion>
+, 
+<collectingCountry id="F3307DA8FFB0824154CCFAD1FEB8FAB9" box="[151,360,1303,1329]" name="South Korea" pageId="5" pageNumber="491">Republic of Korea</collectingCountry>
+; Dr. J.G. Park, Kyungpook National University, 
+<collectingRegion id="49E3F3DAFFB0824157DFFAD1FC00FAB9" box="[900,976,1303,1329]" country="South Korea" name="Daegu" pageId="5" pageNumber="491">Daegu</collectingRegion>
+, 
+<collectingCountry id="F3307DA8FFB082415781FAD1FB7BFAB9" box="[986,1195,1303,1329]" name="South Korea" pageId="5" pageNumber="491">Republic of Korea</collectingCountry>
+; Dr. Vuong Thi Pham and Dr. Nha Pham, and staff assistants, National Institute for Plant Protection, 
+<collectingRegion id="49E3F3DAFFB082415078FAFDFBBAFADD" box="[1059,1130,1339,1365]" country="Vietnam" name="Ha Noi" pageId="5" pageNumber="491">Hanoi</collectingRegion>
+, 
+<collectingCountry id="F3307DA8FFB08241502CFAFDFB09FADD" box="[1143,1241,1339,1365]" name="Vietnam" pageId="5" pageNumber="491">Vietnam</collectingCountry>
+, for their helpful management in the survey. Also we express our thanks to Dr. John. B. Heppner, McGuire Center for Lepidopteran and Biodiversity, Florida Museum of Natural History, University of Florida, Gainesville, for carefully reading the original manuscript. This research was supported by Incheon National University Research Grant in 2021 to H.W.K.
+</paragraph>
+</subSection>
+<subSection id="E2A824D3FFB0824254CCF9F0FDC1FDD3" _generate="added" lastPageId="6" lastPageNumber="492" pageId="5" pageNumber="491" type="reference_group">
+<paragraph id="8B983D38FFB0824154CCF9F0FECFF9D8" blockId="5.[151,287,1590,1616]" box="[151,287,1590,1616]" pageId="5" pageNumber="491">
+<heading id="D0D08A54FFB0824154CCF9F0FECFF9D8" bold="true" box="[151,287,1590,1616]" fontSize="11" level="1" pageId="5" pageNumber="491" reason="1">
+<emphasis id="B953E12AFFB0824154CCF9F0FECFF9D8" bold="true" box="[151,287,1590,1616]" pageId="5" pageNumber="491">References</emphasis>
+</heading>
+</paragraph>
+<bibRef id="5287A9CEFFB0824154CCF9B0FDA4F962" _evidence="authorList|year" pageId="5" pageNumber="491" refId="ref2397" type="journal article">
+<paragraph id="8B983D38FFB0824154CCF9B0FEA7F943" blockId="5.[151,1437,1654,2016]" pageId="5" pageNumber="491">
+<author id="539AD5DDFFB0824154CCF9B0FE9AF905" box="[151,330,1654,1678]" case="TC" fns="I" in="U." ins="D" ln="Bayarsaikhan" lnc="TC" npo="LnFn" pageId="5" pageNumber="491">Bayarsaikhan, U.</author>
+, 
+<author id="539AD5DDFFB08241550DF9B0FE7AF905" box="[342,426,1654,1677]" case="TC" fns="I" in="Y.D." ins="D" ln="Ju" lnc="TC" npo="LnFn" pageId="5" pageNumber="491">Ju, Y.D.</author>
+, 
+<author id="539AD5DDFFB0824155EEF9B0FDCEF906" box="[437,542,1654,1678]" case="TC" fns="I" in="B.S." ins="D" ln="Park" lnc="TC" npo="LnFn" pageId="5" pageNumber="491">Park, B.S.</author>
+, 
+<author id="539AD5DDFFB082415670F9B0FD5AF906" box="[555,650,1654,1678]" case="TC" fns="I" in="S.M." ins="D" ln="Na" lnc="TC" npo="LnFn" pageId="5" pageNumber="491">Na, S.M.</author>
+, 
+<author id="539AD5DDFFB0824156CDF9B0FD2FF905" box="[662,767,1654,1678]" case="TC" fns="I" in="J.W." ins="D" ln="Kim" lnc="TC" npo="LnFn" pageId="5" pageNumber="491">Kim, J.W.</author>
+, 
+<author id="539AD5DDFFB082415750F9B0FCB9F905" box="[779,873,1654,1677]" case="TC" fns="I" in="D.J." ins="D" ln="Lee" lnc="TC" npo="LnFn" pageId="5" pageNumber="491">Lee, D.J.</author>
+, 
+<author id="539AD5DDFFB08241572EF9B0FC1BF905" box="[885,971,1654,1677]" case="TC" fns="I" in="J.H." ins="D" ln="Ko" lnc="TC" npo="LnFn" pageId="5" pageNumber="491">Ko, J.H.</author>
+&amp; 
+<author id="539AD5DDFFB0824157B5F9B0FB9DF906" box="[1006,1101,1654,1678]" case="TC" fns="I" in="Y.S." ins="D" ln="Bae" lnc="TC" npo="LnFn" pageId="5" pageNumber="491">Bae, Y.S.</author>
+(
+<year id="FF8F7C6BFFB082415000F9B0FB40F906" box="[1115,1168,1654,1678]" pageId="5" pageNumber="491">2017</year>
+) 
+<title id="F923D60EFFB0824150C4F9B0FC2CF925" jopScore="0.14732096" pageId="5" pageNumber="491">Review of the subfamily Arctiinae (Lepidoptera: Erebidae) in South Korea, with a newly recorded genus</title>
+. 
+<emphasis id="B953E12AFFB08241505CF952FAACF924" box="[1031,1404,1684,1709]" italics="true" pageId="5" pageNumber="491">
+<journalOrPublisher id="51E637F4FFB08241505CF952FAA8F924" box="[1031,1400,1684,1709]" jopScore="0.5271218" pageId="5" pageNumber="491">Journal of Asia-Pacific Biodiversity</journalOrPublisher>
+,
+</emphasis>
+<part id="FF8397A5FFB0824151D8F953FA4CF925" box="[1411,1436,1685,1709]" pageId="5" pageNumber="491" type="volume">10</part>
+(
+<part id="FF8397A5FFB082415494F975FED6F943" box="[207,262,1715,1739]" pageId="5" pageNumber="491" type="issue">2017</part>
+), 
+<pagination id="B2EEC3CCFFB08241554CF975FEA3F943" box="[279,371,1715,1739]" pageId="5" pageNumber="491" type="pagination">137–153</pagination>
+.
+</paragraph>
+<paragraph id="8B983D38FFB08241549CF914FDA4F962" blockId="5.[151,1437,1654,2016]" box="[199,628,1746,1770]" pageId="5" pageNumber="491">
+<DOI id="FFB6FD48FFB08241549CF914FDA4F962" box="[199,628,1746,1770]" pageId="5" pageNumber="491">https://doi.org/10.1016/j.japb.2017.01.002</DOI>
+</paragraph>
+</bibRef>
+<paragraph id="8B983D38FFB0824154CCF936FEC4F8AF" blockId="5.[151,1437,1654,2016]" pageId="5" pageNumber="491">
+<bibRef id="5287A9CEFFB0824154CCF936FEC4F8AF" _evidence="authorList|year" pageId="5" pageNumber="491" refId="ref2501" type="book">
+<author id="539AD5DDFFB0824154CCF936FED7F880" box="[151,263,1776,1800]" case="TC" fns="I" in="K." ins="D" ln="Bucsek" lnc="TC" npo="LnFn" pageId="5" pageNumber="491">Bucsek, K.</author>
+(
+<year id="FF8F7C6BFFB082415548F937FE98F881" box="[275,328,1777,1801]" pageId="5" pageNumber="491">2012</year>
+) 
+<emphasis id="B953E12AFFB08241550EF936FBF2F880" box="[341,1058,1776,1801]" italics="true" pageId="5" pageNumber="491">
+<title id="F923D60EFFB08241550EF936FBCDF880" box="[341,1053,1776,1801]" jopScore="0.10871287" pageId="5" pageNumber="491">Erebidae, Arctiinae (Lithosiini, Arctiini) of Malay Peninsula˗Malaysia</title>
+.
+</emphasis>
+<journalOrPublisher id="51E637F4FFB08241507DF936FA48F880" box="[1062,1432,1776,1801]" jopScore="2.1032798" pageId="5" pageNumber="491">Institute of Zoology SAS, Bratislava</journalOrPublisher>
+, 
+<bookContentInfo id="BCDC2E48FFB08241549CF8C9FEC4F8AF" box="[199,276,1807,1831]" pageId="5" pageNumber="491">170 pp.</bookContentInfo>
+</bibRef>
+</paragraph>
+<paragraph id="8B983D38FFB0824154CCF8E8FE66F8EC" blockId="5.[151,1437,1654,2016]" pageId="5" pageNumber="491">
+<bibRef id="5287A9CEFFB0824154CCF8E8FE66F8EC" _evidence="authorList|year" pageId="5" pageNumber="491" refId="ref2532" type="book">
+<author id="539AD5DDFFB0824154CCF8E8FED8F8CD" box="[151,264,1838,1862]" case="TC" fns="I" in="K." ins="D" ln="Bucsek" lnc="TC" npo="LnFn" pageId="5" pageNumber="491">Bucsek, K.</author>
+(
+<year id="FF8F7C6BFFB08241554EF8E8FE9AF8CE" box="[277,330,1838,1862]" pageId="5" pageNumber="491">2014</year>
+) 
+<title id="F923D60EFFB082415503F8E8FF28F8ED" jopScore="0.814966" pageId="5" pageNumber="491">
+<emphasis id="B953E12AFFB082415503F8E8FB1CF8CE" box="[344,1228,1838,1862]" italics="true" pageId="5" pageNumber="491">Erebidae, Arctiinae (Lithosiini, Arctiini) of Malay Peninsula˗Malaysia. Supplementum.</emphasis>
+Institute of Zoology SAS
+</title>
+, 
+<journalOrPublisher id="51E637F4FFB082415559F88AFEBBF8EC" box="[258,363,1868,1892]" jopScore="1.5" pageId="5" pageNumber="491">Bratislava</journalOrPublisher>
+, 
+<bookContentInfo id="BCDC2E48FFB08241552DF88BFE66F8EC" box="[374,438,1869,1893]" pageId="5" pageNumber="491">42 pp.</bookContentInfo>
+</bibRef>
+</paragraph>
+<paragraph id="8B983D38FFB0824154CCF8ABFF38F829" blockId="5.[151,1437,1654,2016]" pageId="5" pageNumber="491">
+<bibRef id="5287A9CEFFB0824154CCF8ABFF38F829" _evidence="authorList|year" pageId="5" pageNumber="491" refId="ref2565" type="book">
+<author id="539AD5DDFFB0824154CCF8ABFF2DF80B" box="[151,253,1900,1926]" case="TC" fns="I" in="K." ins="D" ln="Cerny" lnc="TC" npo="LnFn" pageId="5" pageNumber="491">Černý, K.</author>
+&amp; 
+<author id="539AD5DDFFB08241557BF8ADFE76F80B" box="[288,422,1899,1923]" case="TC" fns="I" in="A." ins="D" ln="Pinratana" lnc="TC" npo="LnFn" pageId="5" pageNumber="491">Pinratana, A.</author>
+(
+<year id="FF8F7C6BFFB0824155EEF8ADFE3AF80B" box="[437,490,1899,1923]" pageId="5" pageNumber="491">2009</year>
+) 
+<emphasis id="B953E12AFFB0824155A2F8ADFCA5F80B" box="[505,885,1899,1923]" italics="true" pageId="5" pageNumber="491">
+<title id="F923D60EFFB0824155A2F8ADFCA1F80B" box="[505,881,1899,1923]" jopScore="0.1058326" pageId="5" pageNumber="491">Moths of Thailand. Vol. 6. Arctiidae</title>
+.
+</emphasis>
+<journalOrPublisher id="51E637F4FFB082415727F8ADFABAF80B" box="[892,1386,1899,1923]" jopScore="0.2140644" pageId="5" pageNumber="491">Brothers of Saint Gabriel in Thailand, Bangkok</journalOrPublisher>
+, 
+<bookContentInfo id="BCDC2E48FFB08241512DF8ADFF38F829" pageId="5" pageNumber="491">283 pp.</bookContentInfo>
+</bibRef>
+</paragraph>
+<paragraph id="8B983D38FFB0824154CCF86FFEFEF868" blockId="5.[151,1437,1654,2016]" pageId="5" pageNumber="491">
+<bibRef id="5287A9CEFFB0824154CCF86FFEFEF868" _evidence="authorList" pageId="5" pageNumber="491" refId="ref2599" type="book">
+<author id="539AD5DDFFB0824154CCF86FFF1CF849" box="[151,204,1961,1985]" fns="*" inm="true" npo="*" pageId="5" pageNumber="491">Fang</author>
+, (
+<year id="FF8F7C6BFFB082415485F86FFEC3F849" box="[222,275,1961,1985]" pageId="5" pageNumber="491">2000</year>
+) 
+<title id="F923D60EFFB08241557BF86EFC9DF849" box="[288,845,1960,1985]" jopScore="0.23644264" pageId="5" pageNumber="491">
+<emphasis id="B953E12AFFB08241557BF86EFC9DF849" box="[288,845,1960,1985]" italics="true" pageId="5" pageNumber="491">Lepidoptera. Arctiidae. Fauna Sinica (Insecta). Vol. 19</emphasis>
+</title>
+. 
+<journalOrPublisher id="51E637F4FFB082415701F86EFBEEF848" box="[858,1086,1960,1984]" jopScore="2.9849737" pageId="5" pageNumber="491">Science Press, Beijing</journalOrPublisher>
+, 
+<bookContentInfo id="BCDC2E48FFB082415013F86EFB45F848" box="[1096,1173,1960,1984]" pageId="5" pageNumber="491">590 pp.</bookContentInfo>
+[in Chinese, with English summary]
+</bibRef>
+</paragraph>
+<paragraph id="8B983D38FFB3824254CCFF51FA89FF26" blockId="6.[151,1437,150,604]" box="[151,1369,150,175]" pageId="6" pageNumber="492">
+<bibRef id="5287A9CEFFB3824254CCFF51FA89FF26" _evidence="authorList|year" box="[151,1369,150,175]" pageId="6" pageNumber="492" refId="ref2634" type="journal article">
+<author id="539AD5DDFFB3824254CCFF51FED8FF26" box="[151,264,151,175]" case="TC" fns="I" in="Y." ins="D" ln="Kishida" lnc="TC" npo="LnFn" pageId="6" pageNumber="492">Kishida, Y.</author>
+(
+<year id="FF8F7C6BFFB38242554FFF51FE99FF27" box="[276,329,151,175]" pageId="6" pageNumber="492">2010</year>
+) 
+<title id="F923D60EFFB38242550CFF51FBA7FF27" box="[343,1143,151,175]" pageId="6" pageNumber="492">Descriptions of new species and new subspecies of Japanese Macrolepidoptera</title>
+(1). 
+<journalOrPublisher id="51E637F4FFB3824250F3FF51FB30FF26" box="[1192,1248,151,174]" pageId="6" pageNumber="492">
+<emphasis id="B953E12AFFB3824250F3FF51FB30FF26" box="[1192,1248,151,174]" italics="true" pageId="6" pageNumber="492">Tinea</emphasis>
+</journalOrPublisher>
+, 
+<part id="FF8397A5FFB3824250B6FF51FAD8FF27" box="[1261,1288,151,175]" pageId="6" pageNumber="492" type="volume">21</part>
+, 
+<pagination id="B2EEC3CCFFB382425148FF50FA85FF26" box="[1299,1365,150,174]" pageId="6" pageNumber="492" type="pagination">57–69</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph id="8B983D38FFB3824254CCFF73FEF7FF64" blockId="6.[151,1437,150,604]" pageId="6" pageNumber="492">
+<bibRef id="5287A9CEFFB3824254CCFF73FEF7FF64" _evidence="authorList|year" pageId="6" pageNumber="492" refId="ref2663" type="book">
+<author id="539AD5DDFFB3824254CCFF73FED9FF45" box="[151,265,181,205]" case="TC" fns="I" in="Y." ins="D" ln="Kishida" lnc="TC" npo="LnFn" pageId="6" pageNumber="492">Kishida, Y.</author>
+(
+<year id="FF8F7C6BFFB38242554CFF73FE9BFF45" box="[279,331,181,205]" pageId="6" pageNumber="492">2011</year>
+) 
+<title id="F923D60EFFB382425502FF73FE6BFF45" box="[345,443,181,205]" jopScore="0.1" pageId="6" pageNumber="492">Arctiidae</title>
+. 
+<emphasis id="B953E12AFFB38242559EFF70FE0AFF45" box="[453,474,182,205]" italics="true" pageId="6" pageNumber="492">In</emphasis>
+: 
+<editor id="4DBBD53BFFB3824255B2FF73FD8BFF45" box="[489,603,181,205]" case="TC" fns="I" in="Y." ins="D" ln="Kishida" lnc="TC" npo="LnFn" pageId="6" pageNumber="492">Kishida, Y.</editor>
+(Ed.), 
+<volumeTitle id="348B5F08FFB3824256F8FF73FA9BFF45" box="[675,1355,181,205]" jopScore="0.5879391" pageId="6" pageNumber="492">
+<emphasis id="B953E12AFFB3824256F8FF73FBC0FF45" box="[675,1040,181,205]" italics="true" pageId="6" pageNumber="492">The Standard of Moths in Japan II.</emphasis>
+Gakken Education Publishing
+</volumeTitle>
+, 
+<journalOrPublisher id="51E637F4FFB38242510DFF73FA49FF45" box="[1366,1433,181,205]" jopScore="1.962963" pageId="6" pageNumber="492">Tokyo</journalOrPublisher>
+, 148–167.
+</bibRef>
+</paragraph>
+<bibRef id="5287A9CEFFB3824254CCFF35FD9EFEEF" _evidence="authorList|year" pageId="6" pageNumber="492" refId="ref2701" type="journal article">
+<paragraph id="8B983D38FFB3824254CCFF35FBC6FEC0" blockId="6.[151,1437,150,604]" pageId="6" pageNumber="492">
+<author id="539AD5DDFFB3824254CCFF35FEFDFE83" box="[151,301,243,267]" case="TC" fns="I" in="A.V." ins="D" ln="Volynkin" lnc="TC" npo="LnFn" pageId="6" pageNumber="492">Volynkin, A.V.</author>
+(
+<year id="FF8F7C6BFFB382425561FF35FEBFFE83" box="[314,367,243,267]" pageId="6" pageNumber="492">2023</year>
+a) 
+<title id="F923D60EFFB3824255D3FF35FD47FEC0" jopScore="0.36256337" pageId="6" pageNumber="492">
+Contribution to the knowledge of the genus 
+<emphasis id="B953E12AFFB38242571EFF35FC53FE82" box="[837,899,243,266]" italics="true" pageId="6" pageNumber="492">Siccia</emphasis>
+Walker (= 
+<emphasis id="B953E12AFFB3824257B5FF35FBEEFE82" box="[1006,1086,243,266]" italics="true" pageId="6" pageNumber="492">Aemene</emphasis>
+Walker, syn. n.) in the Afrotropics with descriptions of seventy-three new species, three new subspecies, and a check-list of Asiatic taxa of the genus (Lepidoptera: Erebidae: Arctiinae: Lithosiini)
+</title>
+. 
+<journalOrPublisher id="51E637F4FFB3824256FAFEF6FC4EFEC0" box="[673,926,304,328]" jopScore="0.5" pageId="6" pageNumber="492">
+<emphasis id="B953E12AFFB3824256FAFEF6FC4EFEC0" box="[673,926,304,328]" italics="true" pageId="6" pageNumber="492">Ecologica Montenegrina</emphasis>
+</journalOrPublisher>
+, 
+<part id="FF8397A5FFB3824257F1FEF6FC16FEC0" box="[938,966,304,328]" pageId="6" pageNumber="492" type="volume">64</part>
+, 
+<pagination id="B2EEC3CCFFB38242578BFEF6FBC2FEC0" box="[976,1042,304,328]" pageId="6" pageNumber="492" type="pagination">1–184</pagination>
+.
+</paragraph>
+<paragraph id="8B983D38FFB38242549CFE89FD9EFEEF" blockId="6.[151,1437,150,604]" box="[199,590,335,359]" pageId="6" pageNumber="492">
+<DOI id="FFB6FD48FFB38242549CFE89FD9EFEEF" box="[199,590,335,359]" pageId="6" pageNumber="492">https://doi.org/10.37828/em.2023.64.1</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="5287A9CEFFB3824254CCFEABFD9DFE4B" _evidence="authorList|year" pageId="6" pageNumber="492" refId="ref2784" type="journal article">
+<paragraph id="8B983D38FFB3824254CCFEABFDEDFE2C" blockId="6.[151,1437,150,604]" pageId="6" pageNumber="492">
+<author id="539AD5DDFFB3824254CCFEABFEFCFE0D" box="[151,300,365,389]" case="TC" fns="I" in="A.V." ins="D" ln="Volynkin" lnc="TC" npo="LnFn" pageId="6" pageNumber="492">Volynkin, A.V.</author>
+(
+<year id="FF8F7C6BFFB38242556CFEABFEBCFE0D" box="[311,364,365,389]" pageId="6" pageNumber="492">2023</year>
+b) 
+<title id="F923D60EFFB3824255DEFEABFA49FE0D" box="[389,1433,365,390]" pageId="6" pageNumber="492">
+Eight new species of the genus 
+<emphasis id="B953E12AFFB3824256E7FEA8FD2AFE0D" box="[700,762,366,389]" italics="true" pageId="6" pageNumber="492">Siccia</emphasis>
+Walker from the Oriental realm (Lepidoptera: Erebidae:Arctiinae)
+</title>
+. 
+<journalOrPublisher id="51E637F4FFB38242549CFE4AFE14FE2C" box="[199,452,396,420]" pageId="6" pageNumber="492">
+<emphasis id="B953E12AFFB38242549CFE4AFE14FE2C" box="[199,452,396,420]" italics="true" pageId="6" pageNumber="492">Ecologica Montenegrina</emphasis>
+</journalOrPublisher>
+, 
+<part id="FF8397A5FFB38242558BFE4AFE3CFE2C" box="[464,492,396,420]" pageId="6" pageNumber="492" type="volume">66</part>
+, 
+<pagination id="B2EEC3CCFFB3824255ADFE4AFDE9FE2C" box="[502,569,396,420]" pageId="6" pageNumber="492" type="pagination">36–57</pagination>
+.
+</paragraph>
+<paragraph id="8B983D38FFB38242549CFE6DFD9DFE4B" blockId="6.[151,1437,150,604]" box="[199,589,427,451]" pageId="6" pageNumber="492">
+<DOI id="FFB6FD48FFB38242549CFE6DFD9DFE4B" box="[199,589,427,451]" pageId="6" pageNumber="492">https://doi.org/10.37828/em.2023.66.4</DOI>
+</paragraph>
+</bibRef>
+<bibRef id="5287A9CEFFB3824254CCFE0FFD9DFD97" _evidence="authorList|year" pageId="6" pageNumber="492" refId="ref2835" type="journal article">
+<paragraph id="8B983D38FFB3824254CCFE0FFD64FD88" blockId="6.[151,1437,150,604]" pageId="6" pageNumber="492">
+<author id="539AD5DDFFB3824254CCFE0FFEFDFE69" box="[151,301,457,481]" case="TC" fns="I" in="A.V." ins="D" ln="Volynkin" lnc="TC" npo="LnFn" pageId="6" pageNumber="492">Volynkin, A.V.</author>
+&amp; 
+<author id="539AD5DDFFB382425510FE0DFE7EFE69" box="[331,430,458,484]" case="TC" fns="I" in="K." ins="D" ln="Cerny" lnc="TC" npo="LnFn" pageId="6" pageNumber="492">Černý, K.</author>
+(
+<year id="FF8F7C6BFFB3824255E1FE0FFE3FFE69" box="[442,495,457,481]" pageId="6" pageNumber="492">2023</year>
+) 
+<title id="F923D60EFFB3824255A7FE0CFEE6FD88" jopScore="0.07445856" pageId="6" pageNumber="492">
+<emphasis id="B953E12AFFB3824255A7FE0CFD51FE69" box="[508,641,458,481]" italics="true" pageId="6" pageNumber="492">Siccia seima,</emphasis>
+a new species from Cambodia and Thailand (Lepidoptera: Erebidae: Arctiinae: Lithosiini)
+</title>
+. 
+<journalOrPublisher id="51E637F4FFB382425564FE2EFDECFD88" box="[319,572,488,512]" jopScore="0.5" pageId="6" pageNumber="492">
+<emphasis id="B953E12AFFB382425564FE2EFDECFD88" box="[319,572,488,512]" italics="true" pageId="6" pageNumber="492">Ecologica Montenegrina</emphasis>
+</journalOrPublisher>
+, 
+<part id="FF8397A5FFB382425613FE2EFDB4FD88" box="[584,612,488,512]" pageId="6" pageNumber="492" type="volume">69</part>
+, 
+<pagination id="B2EEC3CCFFB382425635FE2EFD61FD88" box="[622,689,488,512]" pageId="6" pageNumber="492" type="pagination">10–16</pagination>
+.
+</paragraph>
+<paragraph id="8B983D38FFB38242549CFDC1FD9DFD97" blockId="6.[151,1437,150,604]" box="[199,589,519,543]" pageId="6" pageNumber="492">
+<DOI id="FFB6FD48FFB38242549CFDC1FD9DFD97" box="[199,589,519,543]" pageId="6" pageNumber="492">https://doi.org/10.37828/em.2023.69.2</DOI>
+</paragraph>
+</bibRef>
+<paragraph id="8B983D38FFB3824254CCFDE3FDC1FDD3" blockId="6.[151,1437,150,604]" pageId="6" pageNumber="492">
+<bibRef id="5287A9CEFFB3824254CCFDE3FDC1FDD3" _evidence="authorList|year" pageId="6" pageNumber="492" refId="ref2890" type="book">
+<author id="539AD5DDFFB3824254CCFDE3FF2EFDB5" box="[151,254,549,573]" case="TC" fns="I" in="F." ins="D" ln="Walker" lnc="TC" npo="LnFn" pageId="6" pageNumber="492">Walker, F.</author>
+(
+<year id="FF8F7C6BFFB382425550FDE3FE90FDB5" box="[267,320,549,573]" pageId="6" pageNumber="492">1854</year>
+) 
+<title id="F923D60EFFB382425516FDE0FE8FFDD3" jopScore="0.45392126" pageId="6" pageNumber="492">
+<emphasis id="B953E12AFFB382425516FDE0FB22FDB5" box="[333,1266,549,573]" italics="true" pageId="6" pageNumber="492">List of the specimens of lepidopterous insects in the collection of the British Museum. Vol. 2.</emphasis>
+Printed by order of the Trustees
+</title>
+, 
+<journalOrPublisher id="51E637F4FFB382425532FD82FE6AFDD4" box="[361,442,580,604]" jopScore="1.7578288" pageId="6" pageNumber="492">London</journalOrPublisher>
+, 
+<bookContentInfo id="BCDC2E48FFB38242559EFD82FDC1FDD3" box="[453,529,580,604]" pageId="6" pageNumber="492">775 pp.</bookContentInfo>
+</bibRef>
+</paragraph>
+</subSection>
+</document>
