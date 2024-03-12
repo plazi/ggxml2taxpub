@@ -1,0 +1,1749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:tp="http://www.plazi.org/taxpub">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="other">N/A</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Crustacean Biology</journal-title>
+         </journal-title-group>
+         <issn>N/A</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1093/jcbiol/ruad032</article-id>
+         <title-group>
+            <article-title>Cloning and functional characterization of a TMC-like channel gene and protein in the crayfish Astacus leptodactylus (Eschscholtz, 1823) (Decapoda: Astacidea: Astacidae)</article-title>
+         </title-group>
+         <pub-date date-type="pub">
+            <day>23</day>
+            <month>06</month>
+            <year>2023</year>
+         </pub-date>
+         <kwd-group>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Astacus leptodactylus
+(
+Eschscholtz, 1823
+)
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Decapoda</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Astacidae</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Astacus leptodactylus
+(
+Eschscholtz, 1823
+)
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Decapoda</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Astacidae</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Drosophila
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+elegans
+(
+
+Chatzigeorgiou 
+et al.,
+2013
+
+)
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Astacus leptodactylus
+(
+Eschscholtz, 1823
+)
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Caenorhabditis elegans
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Astacus leptodactylus
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Astacus leptodactylus
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Astacus leptodactylus
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Astacus leptodactylus
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+            </kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="multiple">
+         <title>N/A</title>
+         <p>
+
+Cloning and functional characterization of a TMC-like channel gene and protein in the crayfish 
+<tp:taxon-name>
+Astacus leptodactylus
+(
+Eschscholtz, 1823
+)
+</tp:taxon-name>
+(
+<tp:taxon-name>Decapoda</tp:taxon-name>
+: Astacidea: 
+<tp:taxon-name>Astacidae</tp:taxon-name>
+)
+
+</p>
+         <p>
+Kaan Arslan
+1,
+, 
+Berk Saglam
+1,
+, 
+Nazli Coskun Beyatli
+1
+, 
+Ekim Z. Taskiran
+2
+
+, 
+Turgut Bastug
+1
+and 
+Nuhan Purali
+1,
+</p>
+         <p>
+1
+
+Department of Biophysics, Faculty of Medicine, Hacettepe University, 06100 
+Ankara
+, 
+Turkey
+</p>
+         <p>
+2
+
+Department of Medical Genetics, Faculty of Medicine, Hacettepe University, 06100 
+Ankara
+, 
+Turkey
+</p>
+         <p>Correspondance: N. Purali:e-mail:npurali@hacettepe.edu.tr</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+A B ST R A CT
+</title>
+         <p>
+Ion channels gated selectively by mechanical stimulus are the key elements of mechanosensation. Several genes have been associated with putative mechanosensitive ion channels or mechanosensitive channel complexes. Transmembrane channel (TMC)-like protein is one of those candidate proteins that have been explored in mammals and several invertebrates. The presence and possible function of TMC related genes has not been investigated yet in crustaceans. In the present work an mRNA coding TMC-like protein was firstly cloned in 
+<tp:taxon-name>
+Astacus leptodactylus
+(
+Eschscholtz, 1823
+)
+</tp:taxon-name>
+(
+<tp:taxon-name>Decapoda</tp:taxon-name>
+: Astacidea: 
+<tp:taxon-name>Astacidae</tp:taxon-name>
+) and expressed in HEK293T cells. Three-dimensional structural calculations of the protein predicted a channel. Functional studies, however, indicated that the mechanosensitivity of the transfected HEK293T cells is similar to that in the control cells. It was concluded that a TMC-like protein is present in the crayfish but future studies are necessary to define its function.
+</p>
+      </sec>
+      <sec sec-type="key_words">
+         <title>
+KEY WORDS:
+cloning
+, 
+Crustacea
+, 
+mechanosensation
+, 
+transmembrane channel
+</title>
+      </sec>
+      <sec sec-type="introduction">
+         <title>
+INTRODUCTION
+</title>
+         <p>
+Cells are susceptible to many different kinds of stimuli, one of which is mechanical force. Some cells have evolved to sense mechanical force specifically, and it has been shown that the mechanical stimulus evokes ionic currents in some cells due to an increase in the membrane conductance. The change in the conductance is generated by a unique 
+type
+of ion channel, gated preferably by the mechanical force only, classified as mechanically activated or mechanosensitive ion channels.
+</p>
+         <p>
+Although the mechanosensation might be the earliest among all the senses (
+
+), the molecular properties of some mechanosensitive ion channels and their related structures is yet to be determined. A substantial amount of information has been reported for mechanosensitive channels (
+
+); however, the absence of appropriate preparations to perform experiments at the cell level, difficulty in generation and application of a calibrated mechanical stimulus, polymorphic nature of the mechanosensation, and a limited number of specific pharmacological agents make the functional characterization of novel mechanosensitive ion channels difficult. The presence of a mechanosensitive channel has been reported in various functional studies in crayfishes (
+
+; 
+
+). There is no information, however, on the genetic and molecular properties of such mechanosensitive channels in the crayfish. A set of mechanically activated channels have been reported in prokaryotes (
+
+). Recent improvements in the field have been achieved and for the first time a eukaryotic ion channel has been shown to be mechanosensitive (
+
+). The discovered Piezo channels fulfill all the criteria defined for a mechanosensitive ion channel (
+
+). The mechanical force, developing in the lipid bilayer membrane, specifically drives the channel into an open state (
+
+). Piezo channels are specifically gated by the force from the lipid bilayer and they are the representative example of a distinct group of mechanosensitive channels. It has been reported that some other 
+type
+of mechanosensitive channels require additional functional or structural elements for opening, as in the mechanosensor of 
+<tp:taxon-name>
+Drosophila
+</tp:taxon-name>
+and the vertebrate hair cells (
+
+; 
+
+; 
+
+). Protocadherin and cadherin (
+
+), transmembrane channel (TMC)-like protein (
+
+; 
+
+), LHFPL5 (
+
+), and TMIE (
+
+) constitute a mechano-electrical transducer (MET) complex generating the primary mechanotransduction in the hair cells. An alternative gating mechanism, driven by the force from the filament has been proposed (
+
+). Although there are some opposing reports, TMC has been proposed as a candidate mechanosensitive ion channel based on gene silencing and structural analysis studies (
+
+; 
+
+; 
+
+). It has been proposed that an MET complex is necessary for mechanosensitivity in hair cells; however, TMC has been reported to independently function for salt chemosensation in the nematode C 
+aenorhabditis
+<tp:taxon-name>
+elegans
+(
+
+Chatzigeorgiou 
+et al.,
+2013
+
+)
+</tp:taxon-name>
+. Expression of TMC in heterologous cells may retain such a function. TMC genes have been reported in many species such as 
+<tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+as well as in mammals. In crustaceans, however, out of a few genome drafts not much information is yet available for the genetic and structural properties of the TMC genes and related proteins (
+
+). We present 
+de novo
+cloning and structural study of a TMC-like gene and its related protein in the crayfish 
+<tp:taxon-name>
+Astacus leptodactylus
+(
+Eschscholtz, 1823
+)
+</tp:taxon-name>
+.
+</p>
+      </sec>
+      <sec sec-type="materials_methods">
+         <title>
+MATERIALS AND METHODS
+</title>
+         <p>
+TMC mRNA sequences from neighboring species were aligned to previously assembled transcriptome drafts (
+
+). Primers were designed in reference to the transcript sequence with the highest alignment score (
+
+). PCR experiments were conducted to amplify a gene fragment and the obtained product was sequenced for confirmation. Two pairs of nesting primers were designed for a pair of rapid amplification of cDNA ends polymerase chain reaction (RACE) in both directions. We used a commercially available kit (SMARTer 5 
+ʹ
+/3 
+ʹ
+kit; Clontech, Mountain View, CA, 
+USA
+) for the RACE experiments. PCR products were run on gel electrophoresis for evaluation and selected samples were purified by using a kit (QIAquick; Qiagen, Hilden, 
+Germany
+). Purified products were sequenced either in a Sanger sequencing or NGS platform (Illumina, San Diego, CA, 
+USA
+).
+</p>
+         <p>
+An 
+mScarlet
+backbone was used in plasmid synthesis. The original plasmid, containing an SCN1A fragment, a gift from Dr. Al George (Northwestern University Feinberg School of Medicine, Chicago, IL, 
+USA
+) (see 
+
+), was modified by substituting the SCN1A fragment by the cloned TMC mRNA. ‘F1_tmc_mScarlet’ and ‘R1_tmc_mScarlet’ primers having matching tails for the plasmid were designed for the 
+In-Fusion
+assembly reaction. We used NotI and PvuI enzymes to linearize the plasmid and ‘F1_tmc_mScarlet’ and ‘R1_tmc_mScarlet’ primers to amplify the cDNA product. Using 
+In-Fusion
+HD Cloning Kit (Takara Bio, 
+Shiga
+, 
+Japan
+) the ‘tmc_mScarlet’ plasmid was generated and cloned in 
+E.coli
+bacterial cultures. HEK293T cells were cultured in a 
+35 mm
+Petri dish with high glucose Gibco Dulbecco’s Modified Eagle Medium (Thermo-Fisher Scientific, Waltham, MA, 
+USA
+) with 5% fetal bovine serum and kept in an incubator at 37 °C, 5% CO 2. HEK293T cells were transfected with the plasmid using a kit (Lipofectamine 3000, Thermo-Fisher Scientific). Dishes containing cells with a red fluorescent emission were considered as the transfected group. We discarded the culture medium and cells were washed with phosphate buffer saline solution (PBS). The cell solution was replaced with 1 ml PBS (137 mM NaCl, 2.7 mM KCl, 10 mM Na2HPO4, and 1.8 mM KH2PO4). We loaded 1 ml of the calcium indicator dye solution (Fluo-4 AM 2.5 µM in PBS) into the cells by incubation at room temperature for 20 min for a final dye concentration of 1.25 µM. Dishes were positioned under a confocal laser scanning microscope and calcium specific emission signal was recorded in response to mechanical stimulation. Cells were mechanically stimulated by either gently poking with a blunt electrode, pulses of fluid jets, or an osmotic shock. Osmotic shock was induced by increasing NaCl concentration, up to 167 mM, by adding a known volume of concentrated NaCl solution to develop shrinkage. A calcium-specific emission signal from the entire view field was recorded at a continuous 128 × 128 pixel per frame scanning mode at ~4 Hz. Excitation wavelength was 
+488 nm
+and a longpass filter of 
+505 nm
+was used for collecting the emission. During acquisition, the confocal pinhole was set to a fully open configuration to collect the maximum signal. Designated region of interests (ROIs) encircling either a single transfected or untransfected cell were selected for data extraction from the recorded images. Peak amplitude of the emission signals was measured for calculations and statistical tests. Recordings were baseline corrected and peak amplitudes were compared in MATLAB environment by using a two sample t-test.
+</p>
+         <p>
+We calculated the structure of the cloned channel protein by using different approaches. Firstly, the protein sequence was submitted to I-TASSER platform for calculation of the three-dimensional structure (
+
+); I-TASSER platform used the mouse TMEM16A chloride-channel crystallographic structure as the template (
+
+). An alternative calculation, with some success, was performed in AlphaFold platform (
+
+; 
+
+). The best result was obtained in SWISS-MODEL, which is another platform for the structural calculations (
+
+). The platform used the recently published 
+<tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+tmc-1 single particle cryoelectron microscopy data as the template for calculations (
+
+). Figures of the structural calculations were produced in Visual Molecular Dynamics (VMD) platform (
+
+).
+</p>
+      </sec>
+      <sec sec-type="results">
+         <title>
+RESULTS
+</title>
+         <p>
+Primers were designed in reference to the previously prepared ganglionic transcriptome draft. Different combinations of the primers resulted in various sizes of gene fragments in PCR experiments. ‘F1_tmc1’ and ‘R1_tmc1’ primers gave products with an approximately 350 base-pairs in size (
+Fig. 1A
+). Combination of ‘F2_tmc1’ and ‘R1_tmc1’ primers produced a PCR product in size of ~1,000 base pairs (not shown).
+</p>
+         <p>
+The gene fragments were Sanger sequenced. Analysis of the sequence of the translated gene fragments revealed a sequence similar to that of the conserved domain of ‘transmembrane channel like protein’ (
+
+). The identified sequence was used to design new primers to explore the missing parts of the mRNA. ‘F3_tmc1’ and ‘R1_tmc1’ resulted in ~1.6 kbp-long PCR product. This product was sequenced in an NGS platform (Illumina, San Diego, CA, 
+USA
+). Short reads were 
+de novo
+assembled into a set of contigs in DNASTAR platform (SeqMan NGen®, Version 17.2; DNASTAR, Madison, WI, 
+USA
+). The calculated contigs were assembled to the identified gene fragment. The newly assembled sequence (1.6 kbp in size) was used to design the primers ‘tmc_3F’ and ‘tmc_5R’ for the subsequent rapid amplification of cDNA ends, polymerase chain reactions (RACE-PCR) (
+Table 1
+).
+</p>
+         <p>
+The RACE-PCR experiments resulted in ~700 and ~1,500 base pairs of fragments in size for the 5 
+ʹ
+and 3 
+ʹ
+ends, respectively. Sequencing of these fragments revealed the complete TMC mRNA including the open reading frame (ORF) and the untranslated regions in both ends (GenBank accession number: ON604003) (
+Fig. 1B
+).
+</p>
+         <p>
+The ORF was translated into a protein sequence of 832 amino acids (GenBank accession number WCO13212). The identified amino acid sequence was compared to a collection of 29 sequences available in several other species. MATLAB environment was used to generate a phylogenetic tree with the Jukes-Cantor distance calculation method. A distinction between TMC1, TMC2, and TMC7 channels was apparent in a graph (
+Fig. 2A
+). The calculations show a similarity to TMC7 group of channels for the cloned protein. The protein sequence was aligned against the human TMC proteins and an apparent similarity was observed. especially to human TMC7 protein. (
+Fig. 2B
+).
+</p>
+         <p>In order to compare the expression level of ganglia and muscle tissues we used available hundreds of millions of short reads of cDNA libraries. Equalized number of short reads were Bowtie mapped to TMC mRNA sequence in DNASTAR platform. Short read hits were compered. Calculations indicated a fourfold larger mRNA expression in the ganglia tissues.</p>
+         <p>
+The three-dimensional structure of the cloned channel protein was calculated by using various open access web based facilities. Results obtained in I-TASSER and AlphaFold were rather limited due to the size restrictions of the platforms, but we obtained a successful calculation of the complete structure in the SWISS-MODEL platform. The quaternary structure quality estimation (QSQE), sequence similarity, and coverage scores of the calculation were 0.33, 0.33, and 0.73, respectively (
+Fig. 3
+). The calculated three dimensional structure of the cloned protein is very similar to that of 
+<tp:taxon-name>
+Caenorhabditis elegans
+</tp:taxon-name>
+tmc-1 protein NP_508221.3), but the 
+<tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+tmc-1 protein is much larger in size compared to the other TMC sequences including the cloned protein in 
+<tp:taxon-name>
+Astacus leptodactylus
+</tp:taxon-name>
+. As shown in 
+Fig. 3D
+, the calculated structure of the cloned sequence aligned well to the 
+<tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+tmc-1 protein structure. The SWISS-Model homology calculation had ten transmembrane domains as in the 
+<tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+tmc-1 protein. The calculated pore forming transmembrane segments of the 
+<tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+tmc-1 protein, TM4, and TM8, aligned to the segments between 220–247 and 648–670 residues of the cloned protein, respectively.
+</p>
+         <p>Cultured HEK293T cells were transfected with ‘tmc_mScarlet’ plasmid using Lipofectamine 3000 Transfection Reagent (Thermo-Fisher Scientific) and observed under a confocal microscope after 48 h. The transfected cells emitted a red</p>
+         <p>F1_tmc1 GTCGTCCTCCTCTTCTCCATCTATC</p>
+         <p>F2_tmc1 TCCAAGACATACACTTACCCTGGTTC</p>
+         <p>R1_tmc1 AGTCACTGCTGGAAGTATTGGAGAG</p>
+         <p>F3_tmc1 CAGCAGAAGAGGGTCAGACACATAC</p>
+         <p>tmc_3F ATCAGCCAGTGTTCACCTCCAGAGCCTG</p>
+         <p>tmc_5R TTGACAACTTGAAGGCTGCCAGACCACG</p>
+         <p>F1_tmc_mScarlet ACCGCGGTGGCGGCCAAGACGAGAGGAAGGAAATGG</p>
+         <p>R1_tmc_mScarlet TGACTCCTGCAGGCGAAGTAGAAACAGCATTCACGTCTG</p>
+         <p>
+fluorescence (
+Fig. 4A
+). The HEK293T tmc_mScarlet-transfected cells were loaded with Fluo-4 AM cell permeant calcium indicator for mechanosensitivity experiments (
+Fig. 4B
+).
+</p>
+         <p>
+The Fluo-4 AM-loaded HEK293T cells were poked with a blunt microelectrode to test if the cloned channel is sensitive to mechanical stimulus. A rise in calcium-specific emission signal in response to mechanical stimulation was considered as an indicator of a calcium influx through the mechanosensitive channels. The experiments were conducted on both transfected and control cells and results were compared. As shown in 
+Figure 5A
+, the results were inconclusive as they failed to show any statistically significant difference between the transfected and control cells in these sample sizes. Peak amplitudes of the recorded calcium signals were statistically similar in both groups (control group 31.81 ± 12.86, mean ± SD, 
+N
+= 5, transfected cells 21.36 ± 16.59, mean ± SD, 
+N
+= 5, 
+P
+= 0.29). Transfected cells were mechanically stimulated by application of fluid jets from a micro-pipette that were produced by using a pneumatic injector. The maximum amplitudes of the evoked calcium response to fluid jets were similar when the results from test and control cells were compared (control group 6.57 ± 4.10, mean ± SD, 
+N
+= 6, transfected cells 11.99 ± 12.08, mean ± SD, 
+N
+= 6, 
+P
+= 0.32) (
+Fig. 5B
+). The possible effects of extracellular sodium concentration were investigated in another experimental group. The bath solution was substituted with a solution containing 167 mM sodium while the calcium sensitive emission was acquired continuously. The amplitudes of the change in the signal were similar in both groups (control group 1.07 ± 1.07, mean ± SD, 
+N
+= 4, transfected cells 3.76 ± 2.85, mean ± SD, 
+N
+= 4, 
+P
+= 0.12) (
+Fig. 5C
+).
+</p>
+      </sec>
+      <sec sec-type="discussion">
+         <title>
+DISCUSSION
+</title>
+         <p>
+The TMC family has received substantial interest for its potential role in mechano-electrical transduction, particularly in the hair cells of the inner ear of vertebrates (
+
+). Abolishment of mechanosensitivity in the hair cells of TMCknock-out animals is an important finding in support of TMC as a mechanosensitive channel candidate. (
+
+; 
+
+). Hearing loss observed in human mutants of TMC1 and TMC2 supported the hypothesis (
+
+). Observation of similar changes in TMIE protein knockout animals and human mutants, however, has challenged the hypothesis (
+
+; 
+
+; 
+
+). It has been proposed that the mechanical gating process in the hair cells would require a complex structure opposing to that reported in Piezo channels (
+
+). A substantial amount of data conclusively indicates that the TMC protein is among the essential elements of the mechano-electrical transducer complex in the hair cells. A scientific debate nevertheless continues whether the TMC protein can form an independent mechanosensitive channel in the cell membrane (
+
+). The mRNA identified in our work was considered most similar to that of the TMC7 channel subgroup. We scanned through the transcriptome drafts, which we assembled in our model animal, and were not able to find any other transcript for a different subgroup of TMC-like gene family. The search for probable presence of any auxiliary proteins for a channel complex yielded no results. We were unable to find any transcript similar to human TMIE or protocadherin-15, and we hypothesize that the cloned TMC-like protein may function differently.
+</p>
+         <p>
+The TMC protein is present in many phyla, including some invertebrates (
+Fig. 2A
+). There are a few putative TMC sequences included in shotgun transcriptome assemblies and genome drafts (
+
+). 
+<tp:taxon-name>
+Astacus leptodactylus
+</tp:taxon-name>
+mRNA is the first crustacean species to be cloned.
+</p>
+         <p>
+Considering the strong similarity in sequence and structure, it is conceivable to propose that the cloned mRNA may code a TMC-like channel protein in the crayfish. It has been reported that TMC functions as a part of a mechanosensitive channel complex in the hair cells. The lack of any transcript, orthologues to TMIE and protocadherin, in the transcriptome draft raises the question that if the cloned channel protein may independently be mechanosensitive. Plasmid transfection and subsequent functional studies did not enable a significant mechanosensitive activity in HEK293T cells. This might be the result of unsuccessful expression of the cloned protein as a functional channel in the surface membrane. It may be interpreted, however, that mScarlet expression indicates only the successful function of the plasmid. A channel complex might be mandatory as it is in the inner ear for a mechanosensitive channel to activate. Further, functional studies indicate that the cloned protein may not possess sodium sensitivity as reported in 
+<tp:taxon-name>
+C. elegans
+</tp:taxon-name>
+tmc-1 channel. Cell shrinkage by osmotic changes due to increase in the sodium ion concentration might be the cause of the observed rise in the emission (
+Fig. 5C
+) (see 
+
+). The large variance observed in the recorded emission signals may have limited the discriminative power of the statistical evaluation. The variance might stem from the limited precision of the mechanical stimulation at a single-cell level.
+</p>
+         <p>Although an mRNA was cloned, coding a protein similar in sequence and structure to those of the mechanosensitive TMC family proteins, functional studies nevertheless do not indicate that the transfected HEK293T cells gained any additional statistically significant mechanosensitive component as compared to the control cells. The sample sizes, particularly for fluid jet and osmotic shock applications, might not have been enough for a statistically significant result. Additional research is needed to define the function of the cloned crayfish TMC-like protein.</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+ACK N O W LE D G E M E N TS
+</title>
+         <p>
+The research was supported by grants from Hacettepe University Research Foundation (HU project 19942, 19692), The Scientific and Technological Research Council of 
+Turkey
+(TUBITAK project 218S553). KA received a stipend from the Higher Education Council of 
+Turkey
+and The Scientific and Technological Research Council of 
+Turkey
+(YOK 100/2000, TUBITAK BIDEB 2211). The authors declare no conflict of interest and would like to thank the Associate Editor, Editor-in- Chief, and the anonymous reviewers.
+</p>
+      </sec>
+      <sec sec-type="reference_group">
+         <title>
+REFERENCES
+</title>
+         <ref-list>
+            <ref>
+               <mixed-citation>
+Arnadóttir, J.
+&amp; 
+Chalfie, M.
+2010
+. 
+Eukaryotic mechanosensitive channels
+. 
+
+Annual Review of Biophysics
+
+, 
+
+39
+
+: 
+111–137
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Chatzigeorgiou, M.
+, 
+Bang, S.
+, 
+Hwang, S.W.
+&amp; 
+Schafer, W.R.
+2013
+. 
+tmc-1 encodes a sodium-sensitive channel required for salt chemosensation in C. elegans
+. 
+
+Nature
+
+, 
+
+494
+
+: 
+95–99
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Corey, D.P.
+&amp; 
+Hudspeth, A.J.
+1983
+. 
+Kinetics of the receptor current in bullfrog saccular hair cells
+. 
+
+Journal of Neuroscience
+
+, 
+
+3
+
+: 
+962–976
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Coste, B.
+, 
+Mathur, J.
+, 
+Schmidt, M.
+, 
+Earley, T.J.
+, 
+Ranade, S.
+, 
+Petrus, M.J.
+, 
+Dubin, A.E.
+&amp; 
+Patapoutian, A.
+2010
+. 
+Piezo1 and Piezo2 are essential components of distinct mechanically activated cation channels
+. 
+
+Science
+,
+
+
+330
+
+: 
+55–60
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Cunningham, C.L.
+, 
+Qiu, X.
+, 
+Wu, Z.
+, 
+Zhao, B.
+, 
+Peng, G.
+, 
+Kim, Y.H.
+, 
+Lauer, A.
+&amp; 
+Müller, U.
+2020
+. 
+TMIE defines pore and gating properties of the mechanotransduction channel of mammalian cochlear hair cells
+. 
+
+Neuron
+
+, 
+
+107
+
+: 
+126–143
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+DeKeyser, J.M.
+, 
+Thompson, C.H.
+&amp; 
+George, A.
+L Jr. 
+2021
+Cryptic prokaryotic promoters explain instability of recombinant neuronal sodium channels in bacteria
+. 
+
+Journal of Biological Chemistry
+
+, 
+
+296
+
+: 
+100298
+[
+https://doi.org/10.1016/j.jbc.2021.100298]
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Deol, M.S.
+&amp; 
+Kocher, W.
+1958
+. 
+A new gene for deafness in the mouse
+. 
+
+Heredity
+
+, 
+
+12
+
+: 
+463–466
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Effertz,T.
+, 
+Scharr, A.L.
+&amp; 
+Ricci,A.J.
+2015
+. 
+The how and why of identifying the hair cell mechano-electrical transduction channel
+. 
+
+Pflugers Archiv
+
+, 
+
+467
+
+: 
+73–84
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Ergin, B.
+, 
+Saglam, B.
+, 
+Taskiran, E.Z.
+, 
+Bastug, T.
+&amp; 
+Purali, N.
+2022
+. 
+
+De novo cloning and functional characterization of potassium channel genes and proteins in the crayfish 
+Astacus leptodactylus
+(Eschscholtz, 1823) (Decapoda: Astacidea: Astacidae)
+
+. 
+
+Journal of Crustacean Biology
+
+, 
+42
+: [
+https://doi.org/10.1093/jcbiol/ruac018]
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Eschscholtz, F.F.
+1823
+. 
+Descriptio novae Astacorum speciei Rossicae
+. 
+
+Mémoires de la Société Imperiale des Naturalistes du Moscu
+
+, 
+
+6
+
+: 
+109–110
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Eyzaguirre, C.
+&amp; 
+Kuffler, S.W.
+1955
+. 
+Processes of excitation in the dendrites and in the soma of single isolated sensory nerve cells of the lobster and crayfish
+. 
+
+Journal of General Physiology
+
+, 
+
+39
+
+: 
+87–119
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Fettiplace, R.
+2016
+. 
+Is TMC1 the hair cell mechanotransducer channel?
+
+Biophysical Journal
+
+, 
+
+111
+
+: 
+3–9
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Gleason, M.R.
+, 
+Nagiel, A.
+, 
+Jamet, S.
+, 
+Vologodskaia, M.
+, 
+López-Schier, H.
+&amp; 
+Hudspeth, A.J.
+2009
+. 
+The transmembrane inner ear (Tmie) protein is essential for normal hearing and balance in the zebrafish
+. 
+
+Proceedings of the National Academy of Sciences of the United States of America
+
+, 
+
+106
+
+: 
+21347–21352
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Haselwandter, C.A.
+&amp; 
+MacKinnon, R.
+2018
+. 
+Piezo’s membrane footprint and its contribution to mechanosensitivity
+. 
+
+Elife
+
+, 
+
+7
+
+: e 
+41968
+[
+https:// doi.org/10.7554/elife.41968]
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Humphrey, W.
+, 
+Dalke, A.
+&amp; 
+Schulten, K.
+1996
+. 
+VMD-visual molecular dynamics
+. 
+
+Journal of Molecular Graphics
+
+, 
+
+14
+
+: 
+33–38
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Jeong, H.
+, 
+Clark, S.
+, 
+Goehring, A.
+, 
+Dehghani-Ghahnaviyeh, S.
+, 
+Rasouli, A.
+, 
+Tajkhorshid,E.
+&amp; 
+Gouaux, E.
+2022
+. 
+Structures of the TMC-1 complex illuminate mechanosensory transduction
+. 
+
+Nature
+
+, 
+
+610
+
+: 
+796–803
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Jumper, J.
+, 
+Evans, R.
+, 
+Pritzel, A.
+, 
+Green, T.
+, 
+Figurnov, M.
+, 
+Ronneberger, O.
+, 
+Tunyasuvunakool, K.
+, 
+Bates, R.
+, 
+Žídek, A.
+, 
+Potapenko, A.
+, 
+Bridgland, A.
+, 
+Meyer, C.
+, 
+Kohl, S.A.A.
+, 
+Ballard, A.J.
+, 
+Cowie, A.
+, 
+Romera-Paredes, B.
+, 
+Nikolov, S.
+, 
+Jain, R.
+, 
+Adler, J.
+, 
+Back, T.
+, 
+Petersen, S.
+, 
+Reiman, D.
+, 
+Clancy, E.
+, 
+Zielinski, M.
+, 
+Steinegger, M.
+, 
+Pacholska, M.
+, 
+Berghammer, T.
+, 
+Bodenstein, S.
+, 
+Silver, D.
+, 
+Vinyals, O.
+, 
+Senior, A.W.
+, 
+Kavukcuoglu, K.
+, 
+Kohli, P.
+&amp; 
+Hassabis, D.
+2021
+. 
+Highly accurate protein structure prediction with AlphaFold
+. 
+
+Nature
+
+, 
+
+596
+
+: 
+583–589
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Kawashima, Y.
+, 
+Géléoc, G.S.
+, 
+Kurima, K.
+, 
+Labay, V.
+, 
+Lelli, A.
+, 
+Asai, Y.
+, 
+Makishima, T.
+, 
+Wu, D.K.
+, 
+Della Santina, C.C.
+, 
+Holt, J.R.
+&amp; 
+Griffith, A.J.
+2011
+. 
+Mechanotransduction in mouse inner ear hair cells requires transmembrane channel-like genes
+. 
+
+Journal of Clinical Investigation
+
+, 
+
+121
+
+: 
+4796–4809
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Kawashima, Y.
+, 
+Kurima, K.
+, 
+Pan, B.
+, 
+Griffith, A.J.
+&amp; 
+Holt, J.R.
+2015
+. 
+Transmembrane channel-like (TMC) genes are required for auditory and vestibular mechanosensation
+. 
+
+Pflugers Archiv
+
+, 
+
+467
+
+: 
+85–94
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Kazmierczak, P.
+, 
+Sakaguchi, H.
+, 
+Tokita, J.
+, 
+Wilson-Kubalek, E.M.
+, 
+Milligan, R.A.
+, 
+Müller, U.
+&amp; 
+Kachar, B.
+2007
+. 
+Cadherin 23 and protocadherin 15 interact to form tip-link filaments in sensory hair cells
+. 
+
+Nature
+
+, 
+
+449
+
+: 
+87–91
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Keresztes, G.
+, 
+Mutai, H.
+&amp; 
+Heller, S.
+2003
+. 
+TMC and EVER genes belong to a larger novel family, the TMC gene family encoding transmembrane proteins
+. 
+
+BMC Genomics
+
+, 
+
+4
+
+: 
+24
+[
+
+https://doi. org/10.1186/1471- 
+2164-4-24
+]
+
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Kurima, K.
+, 
+Peters, L.M.
+, 
+Yang, Y.
+, 
+Riazuddin, S.
+, 
+Ahmed, Z.M.
+, 
+Naz, S.
+, 
+Arnaud, D.
+, 
+Drury, S.
+, 
+Mo, J.
+, 
+Makishima, T.
+, 
+Ghosh, M.
+, 
+Menon, P.S.
+, 
+Deshmukh, D.
+, 
+Oddoux, C.
+, 
+Ostrer, H.
+, 
+Khan, S.
+, 
+Riazuddin, S.
+, 
+Deininger, P.L.
+, 
+Hampton, L.L.
+, 
+Sullivan, S.L.
+, 
+Battey, J.F. Jr
+, 
+Keats, B.J.
+, 
+Wilcox, E.R.
+, 
+Friedman, T.B.
+&amp; 
+Griffith, A.J.
+2002
+. 
+Dominant and recessive deafness caused by mutations of a novel gene, TMC1, required for cochlear hair-cell function
+. 
+
+Nature Genetics
+
+, 
+
+30
+
+: 
+277–284
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Lam,A.K.M.
+, 
+Rutz,S.
+&amp; 
+Dutzler,R.
+2022
+. 
+Inhibitionmechanismofthechloride channel TMEM16A by the pore blocker 1PBC
+. 
+
+Nature Communications
+
+, 
+
+13
+
+: 
+2798
+[
+https://doi.org/10.1038/s41467-022-30479-1]
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Longo-Guess, C.M.
+, 
+Gagnon, L.H.
+, 
+Cook, S.A.
+, 
+Wu, J.
+, 
+Zheng, Q.Y.
+&amp; 
+Johnson, K.R.
+2005
+. 
+A missense mutation in the previously undescribed gene Tmhs underlies deafness in hurry-scurry (hscy) mice
+. 
+
+Proceedings of the National Academy of Sciences of the United States of America
+
+, 
+
+102
+
+: 
+7894–7899
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Naz, S.
+, 
+Giguere, C.M.
+, 
+Kohrman,D.C.
+, 
+Mitchem,K.L.
+, 
+Riazuddin,S.
+, 
+Morell, R.J.
+, 
+Ramesh, A.
+, 
+Srisailpathy, S.
+, 
+Deshmukh, D.
+, 
+Riazuddin, S.
+, 
+Griffith, A.J.
+, 
+Friedman,T.B.
+, 
+Smith,R.J.
+&amp; 
+Wilcox,E.R.
+2002
+. 
+Mutations in a novel gene, TMIE, are associated with hearing loss linked to the DFNB6 locus
+. 
+
+American Journal of Human Genetics
+
+, 
+
+71
+
+: 
+632–636
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Naitoh, Y.
+&amp; 
+Eckert, R.
+1969
+. 
+Ionic mechanisms controlling behavioral responses of paramecium to mechanical stimulation
+. 
+
+Science
+
+, 
+
+164
+
+: 
+963–965
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Pan, B.
+, 
+Géléoc, G.S.
+, 
+Asai, Y.
+, 
+Horwitz, G.C.
+, 
+Kurima, K.
+, 
+Ishikawa, K.
+, 
+Kawashima, Y.
+, 
+Griffith, A.J.
+&amp; 
+Holt, J.R.
+2013
+. 
+TMC1 and TMC2 are components of the mechanotransduction channel in hair cells of the mammalian inner ear
+. 
+
+Neuron
+
+, 
+
+79
+
+: 
+504–515
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Rydqvist, B.
+&amp; 
+Purali, N.
+1993
+. 
+
+Transducer properties of the rapidly adapting stretch receptor neuron in the crayfish (
+Pacifastacus leniusculus
+)
+
+. 
+
+Journal of Physiology
+
+, 
+
+469
+
+: 
+193–211
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Smith, T.F.
+&amp; 
+Waterman, M.S.
+1981
+. 
+Identification of common molecular subsequences
+. 
+
+Journal of Molecular Biology
+
+, 
+
+147
+
+: 
+195–197
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Steel, K.P.
+&amp; 
+Bock, G.R.
+1980
+. 
+The nature of inherited deafness in deafness mice
+. 
+
+Nature
+
+, 
+
+288
+
+: 
+159–161
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Sukharev, S.I.
+, 
+Martinac, B.
+, 
+Arshavsky, V.Y.
+&amp; 
+Kung, C.
+1993
+. 
+Two types of mechanosensitive channels in the Escherichia coli cell envelope: solubilization and functional reconstitution
+. 
+
+Biophysical Journal
+
+, 
+
+65
+
+: 
+177–183
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Teng, J.
+, 
+Loukin, S.
+, 
+Anishkin, A.
+&amp; 
+Kung, C.
+2015
+. 
+The force-from-lipid (FFL) principle of mechanosensitivity, at large and in elements
+. 
+
+Pflugers Archiv
+
+, 
+
+467
+
+: 
+27–37
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Varadi, M.
+, 
+Anyango, S.
+, 
+Deshpande, M.
+, 
+Nair, S.
+, 
+Natassia, C.
+, 
+Yordanova, G.
+, 
+Yuan, D.
+, 
+Stroe, O.
+, 
+Wood, G.
+, 
+Laydon, A.
+, 
+Žídek, A.
+, 
+Green, T.
+, 
+Tunyasuvunakool, K.
+, 
+Petersen, S.
+, 
+Jumper, J.
+, 
+Clancy, E.
+, 
+Green, R.
+, 
+Vora, A.
+, 
+Lutfi, M.
+, 
+Figurnov, M.
+, 
+Cowie, A.
+, 
+Hobbs, N.
+, 
+Kohli, P.
+, 
+Kleywegt, G.
+, 
+Birney, E.
+, 
+Hassabis, D.
+&amp; 
+Velankar, S.
+2022
+. 
+AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models
+. 
+
+Nucleic Acids Research
+
+, 
+
+50
+
+: D439–D 
+444
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Walker, R.G.
+, 
+Willingham, A.T.
+&amp; 
+Zuker, C.S.
+2000
+. 
+A Drosophila mechanosensory transduction channel
+. 
+
+Science
+
+, 
+
+287
+
+: 
+2229–2234
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Waterhouse, A.
+, 
+Bertoni, M.
+, 
+Bienert, S.
+, 
+Studer, G.
+, 
+Tauriello, G.
+, 
+Gumienny, R.
+, 
+Heer, F.T.
+, 
+de Beer, T.A.P.
+, 
+Rempfer, C.
+, 
+Bordoli, L.
+, 
+Lepore, R.
+&amp; 
+Schwede, T.
+2018
+. 
+SWISS-MODEL: homology modelling of protein structures and complexes
+. 
+
+Nucleic Acids Research
+
+, 
+
+46
+
+: W296–W 
+303
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Xu, Z.
+, 
+Gao, T.
+, 
+Xu, Y.
+, 
+Li, X.
+, 
+Li, J.
+, 
+Lin, H.
+, 
+Yan, W.
+, 
+Pan, J.
+&amp; 
+Tang, J.
+2021
+. 
+
+A chromosome-level reference genome of red swamp crayfish 
+Procambarus clarkii
+provides insights into the gene families regarding growth or development in crustaceans
+
+. 
+
+Genomics
+
+, 
+
+113
+
+: 
+3274–3284
+.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Yang, J.
+&amp; 
+Zhang, Y.
+2015
+. 
+Protein structure and function prediction using I-TASSER
+. 
+
+Current Protocols in Bioinformatics
+
+, 
+
+52
+
+: 5.8.1–5.8.15.
+</mixed-citation>
+            </ref>
+            <ref>
+               <mixed-citation>
+Zhang, W.
+, 
+Cheng, L.E.
+, 
+Kittelmann, M.
+, 
+Li, J.
+, 
+Petkovic, M.
+, 
+Cheng, T.
+, 
+Jin, P.
+, 
+Guo, Z.
+, 
+Göpfert, M.C.
+, 
+Jan, Y.L.
+&amp; 
+Jan, Y.N.
+2015
+. 
+Ankyrin repeats convey force to gate the NOMPC mechanotransduction channel
+. 
+
+Cell
+
+, 
+
+162
+
+: 
+1391–1403
+.
+</mixed-citation>
+            </ref>
+         </ref-list>
+      </sec>
+   </body>
+</article>

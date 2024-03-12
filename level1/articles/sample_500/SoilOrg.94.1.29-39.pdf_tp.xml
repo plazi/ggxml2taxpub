@@ -1,0 +1,1722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:tp="http://www.plazi.org/taxpub">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="other">N/A</journal-id>
+         <journal-title-group>
+            <journal-title>Soil Organisms</journal-title>
+         </journal-title-group>
+         <issn>N/A</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.25674/so94iss1id181</article-id>
+         <title-group>
+            <article-title>BODENTIERhoch4: A new citizen science tool for the determination and monitoring of soil organisms</article-title>
+         </title-group>
+         <pub-date date-type="pub">
+            <day>01</day>
+            <month>04</month>
+            <year>2022</year>
+         </pub-date>
+         <kwd-group>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Diplopoda</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Diplopoda
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Diplopoda</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Diplopoda</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Diplopoda</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>
+Brachydesmus superus
+</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Polydesmida</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Diplopoda</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Diplopoda</tp:taxon-name>
+            </kwd>
+            <kwd content-type="mentioned-taxon">
+               <tp:taxon-name>Diplopoda</tp:taxon-name>
+            </kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="multiple">
+         <title>N/A</title>
+         <p>
+BODENTIERhoch4: A new citizen science tool for the determination and monitoring of soil organisms
+</p>
+         <p>
+Anika Neu
+1,
+*, 
+Andreas Allspach
+2
+, 
+Kristin Baber
+1
+, 
+Peter Decker
+1
+and 
+Willi E. R. Xylander
+1,3
+</p>
+         <p>
+1
+Senckenberg MUseUm of NatUral History Görlitz, Postfach 300154, 02806 Görlitz, 
+Germany
+</p>
+         <p>
+2
+Lützellindener Strasse 4, 35398 Giessen, 
+Germany
+</p>
+         <p>
+3
+
+Internationales HochschUlinstitUt ZittaU, Markt 23, 02763 ZittaU, 
+Germany
+</p>
+         <p>* Corresponing aUthor, Email: anika.neU@senckenberg.de</p>
+         <p>
+Received 10 März 2022 | Accepted 
+28 March 2022
+</p>
+         <p>
+Published online at www.soil-organisms.de 
+
+
+1 April 
+2022
+
+| Printed version 
+15 April 2022
+</p>
+         <p>
+DOI 
+10.25674/so94iss1id181
+</p>
+      </sec>
+      <sec sec-type="abstract">
+         <title>
+Abstract
+</title>
+         <p>
+Although citizen science (CS) has proven to be a powerful tool to detect man-made biodiversity loss, existing CS monitoring programs are highly biased towards ‘charismatic’ species groups, while others are largely neglected and monitoring data are lacking. This is especially true for the diverse groups of soil dwelling animals. To close this data gap in 
+Germany
+we started the first CS monitoring program for soil animals with special focus on the identification of terrestrial isopods (Oniscidea), centipedes (Chilopoda) and millipedes (
+<tp:taxon-name>Diplopoda</tp:taxon-name>
+): BODENTIERhoch4. The main functionalities of the combined web and mobile application are outlined. Moreover, we carried out training workshops with interested citizens to transfer basic knowledge of how to use the mobile application, to identify soil organisms and to upload acquired data to a repository. In an accompanying study, we investigated the interrelationship of workshop attendance and long-term commitment as citizen scientists in monitoring programs. Users of BODENTIERhoch4 that a) had attended and b) had not attended a workshop were asked to answer questions related to the efficiency and impact of the workshops. We found that workshop attendance significantly increased the participants estimated knowledge gain, interest in soil animals and, corresponding to that, willingness to further engage in the project. Our results may inspire future CS programs to offer training opportunities for prospective citizen scientists and thereby promote data quality as well as long-term engagement.
+</p>
+         <p>
+Keywords
+Biodiversity monitoring
+| 
+<tp:taxon-name>
+Diplopoda
+</tp:taxon-name>
+| 
+Chilopoda
+| 
+project engagement
+| 
+soil animal conservation
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+1. Introduction
+</title>
+         <p>
+In the current era of anthropogenic environmental change, global biodiversity is suffering immense losses (
+
+, 
+
+, 
+
+, 
+
+). While some species are well able to respond to the impacts of environmental change by movement to more suitable areas and making plastic as well as genetic changes in important phenotypic and life history traits, others clearly fail to respond (
+
+, 
+
+). This inability of response may result in the reduction of distribution ranges, population declines and (local) extinction events (
+
+). To specifically predict species responses to environmental change and initiate respective conservation actions, a better understanding of species’ abundances and spatial and temporal distribution patterns is essential. Therefore, monitoring (collecting species’ occurrence data over space and time) is an important first-step approach to detect changes in biodiversity patterns (
+
+), which may be associated with changing abiotic and biotic ecological features of the environment.
+</p>
+         <p>
+In this context, citizen science (non-scientific members of the community that collect scientific data; CS) has been proven to represent a very powerful tool for reaching high quantities of species distribution data regionally, but also globally (
+
+, 
+
+; 
+
+, 
+
+, 
+
+, 
+
+, 
+
+). Although the participation of citizens in ecological research activities is no new phenomenon (
+
+, 
+
+), the development of new technologies and technological advances is supporting the collection, processing, visualization and sharing of data, thus creating new, simplified opportunities for participation in environmental CS (
+
+, 
+
+, https://www.lucidcentral.org/). For instance, data collection via websites or mobile phones became a relatively inexpensive standard approach, enabling both the usage of device features such as cameras, microphones and GPS location trackers as well as quick and easy feedback options for participants (
+
+). Moreover, the rise of freely accessible online portals such as GBIF (Global Biodiversity Information Facility) improves the public availability, storage, management and exchange of occurrence records. However, current CS monitoring programs and related tools are highly biased toward the data collection for ‘charismatic’ species groups such as birds, mammals, flowering plants and butterflies as well as disease vectors, whilst for many other groups no such monitoring programs and tools exist (
+
+, Mahajana et al. 2020, 
+
+, 
+
+, 
+
+). Moreover, while the success of many citizen science projects depends on high numbers of participants and their long-term engagement, relatively few projects have successfully maintained a continued involvement of citizen scientists over a long period of time, and the reasons are not yet well understood (
+
+, 
+
+, 
+
+, 
+
+). Therefore, future CS projects will highly benefit from an increased understanding on the complex underlying drivers and constraints of motivation for long-term participation, which cannot be uncovered by the quantification of data contribution outputs alone (
+
+, 
+
+).
+</p>
+         <p>
+The soil is home to huge quantities of organisms and the world’s largest reservoir of biodiversity (
+
+). Through activities linked to e.g. decomposition and recycling of organic material, humus formation as well as the detoxification and aeration of soil, the soil fauna fulfils several important ecosystem services (
+
+). For instance, latter include the improvement of plant productivity and food production (
+
+and references therein). Yet, our current knowledge about the abundance and spatial as well as temporal distribution of many soil living animals is still very limited (
+
+). To develop future protection measures for the diversity of soil fauna, such information is urgently needed (
+
+) and the integration of citizen scientists seems a promising approach to (i) start filling the existing data gap (
+
+) while (ii) raising awareness for conservation-related issues (Mahajana et al. 2020), such as the protection of soils and its inhabitants. However, the relevant morphological characters for the identification of many soil animals to the species level are often small and hidden. Therefore, the use of image recognition applications based on artificial intelligence is yet not easily applicable. In addition, the complexity of existing identification keys makes low-threshold introduction into the identification of many soil organisms difficult for untrained citizen scientists.
+</p>
+         <p>
+To still be able to exploit the potential of CS for the monitoring of soil fauna, we developed the, to our best knowledge, first digital CS tool for the identification and monitoring of soil animals, with special focus on larger soil organisms such as terrestrial isopods (Oniscidea), centipedes (Chilopoda) and millipedes (
+<tp:taxon-name>Diplopoda</tp:taxon-name>
+) in 
+Germany
+: ‘BODENTIERhoch4’ (https://bodentierhochvier.de/). The combined web and mobile application is free to use and open source (https://github.com/senckenberg). It provides information about e.g. species-specific characteristics and can enable untrained citizens to identify soil animals by means of a new interactive, simplified and richly illustrated identification key. Moreover, the application is linked to an existing scientific data warehouse for soil biodiversity (Edaphobase), allowing participants to report and share their records.
+</p>
+         <p>
+Both the general motivation for (long-term) participation in citizen science projects and an increased data quality may be achieved by the provision of project related learning opportunities such as field courses and other project related education programs (
+
+, 
+
+). Therefore, interested citizens were additionally trained in the use of the application and in basic identification skills for the target groups during several workshops across 
+Germany
+. In this context, we were able to evaluate the usability of the mobile application from the user’s perspective for further improvement and explore the relationship between the attendance of a training workshop (as a source of learning opportunity) and traits linked to sustained motivation and project engagement.
+</p>
+         <p>
+2. Material and methods
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.1. Website
+</title>
+         <p>
+
+The website of BODENTIERhoch4 (https:// bodentierhochvier.de; 
+
+, 
+
+) was launched online in 
+
+August 2020
+
+and consists of four main components. 
+Via
+(i)‘ERLEBEN’ (experiencing), usersgain information about basic morphological characteristics, typical habitats, food preferences and reproduction of terrestrial isopods (Oniscidea), centipedes (Chilopoda) and millipedes (
+<tp:taxon-name>Diplopoda</tp:taxon-name>
+). Additional to species lists and detailed profiles for all species known for 
+Germany
+, basic information on soil animals in general are given. 
+Through
+(ii) ‘ERKENNEN’ (recognizing), users can receive information on methods and tools for the examination and preparation of soil animals for identification. 
+Here
+users find the interactive identification keys for the 26 most common soil animal groups in 
+Germany
+, potentially allowing the identification up to the species’ level for 
+Oniscidea
+, 
+Chilopoda
+and 
+<tp:taxon-name>Diplopoda</tp:taxon-name>
+which comprise a total of 247 species described for 
+Germany
+. 
+The
+special feature about these newly developed identification keys is their interactive, intelligent character and the more than 2300 illustrations and photos, which lead users faster to a reliable identification result than dichotomous or polytomous identification keys. 
+This
+multi-access or interactive key provides a list of distinguishing characters accessible during the process of identification without given order. 
+While
+selecting features from the list that match the specimen’s characteristics, the application compares the chosen features against a data-matrix of features from all organisms in the key and provides a list of all species or groups that match the choices. 
+Selecting
+further features, the user is progressively reducing the number of potential matches. 
+Characters
+that probably separate the group of species into larger equal proportions become most likely to result in a faster identification result during the identification process and will be automatically shifted upwards in position. 
+The
+application thus suggests the optimal order of characters. 
+For
+instance, if for a specimen that is to be identified, only the possible results ‘spider’, ‘beetle’ and ‘snail’ remain, the character ‘number of legs’ will result in a faster identification than ‘body length’ and will therefore move forward in position. 
+Traffic-light-colours close to the features indicate whether and which optical device
+is needed for the identification to the species level [a character can be recognized with the naked eye, magnifying glass or image (green), can be identified with a simple stereomicroscope or good macro image (yellow) or has to be killed, prepared and examined with a microscope under higher magnification (red)]. 
+Not
+all species of isopods, centipedes and millipedes can be identified without a stereomicroscope and preparation. 
+Once
+the user has received one or several possible identification result(s), detailed species and group profiles give additional information about the distribution area, abundance, typical habitat, status of endangerment and phenology. 
+Moreover
+, they provide additional images of (alive) specimens or features for comparison and references. 
+The
+page (iii) ‘ERFASSEN’ (recording) gives useful information on tools and methods for sampling, preservation and storage of soil animals and the page (iv) ‘ERFORSCHEN’ (studying) gives information on how CS participation, e.g. through data collection, can improve soil animal related research. A free registration allows the user to set up an own domain within the webapplication. 
+Here
+, species records (including information on the specimen, photos and information on the locations) can be stored and from here submitted for validation (see section 2.3)
+
+.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.2 Mobile application
+</title>
+         <p>
+The mobile open access application of BODENTIERhoch4 can be downloaded since 
+May 2021
+via the App Store for iOS (https://apps.apple.com/ de/app/bodentier-hoch-4/id1558879327) or Google Play Store for Android (https://play.google.com/store/apps/ details?id=com.kbs.idoapp) and is free of charge. Due to the offline function and the focus on selectable characters which are detectable with the naked eye or a simple magnifying glass (green and yellow traffic light symbol), the mobile application is specifically designed for usage in the field. The main components comprise the identification keys, species profiles (
+Fig. 1
+) and the species recording function, which are all similar to the respective features of the web application. All information related to the collection of a specimen (e.g. date, place, pictures etc.) can be stored in a record list and then be synchronized with the web application to finally submit species monitoring data for validation. The storage space required on the mobile device can be adjusted by the user through two download options: (i) low or (ii) standard resolution images included in the identification keys and species profiles.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.3 Validation process and data processing
+</title>
+         <p>
+To ensure high levels of data quality (
+
+) a team of soil ecologists, taxonomists and citizen scientists with high expertise evaluates each record on the basis of submitted pictures, plausibility and additional information that the user may add in a ‘further comments’ section (e.g. regarding microhabitat, behaviour or more detailed morphological characteristics). After approval each record is submitted to the data warehouse ‘Edaphobase’ (https://www.eudaphobase.eu/edaphobase/; 
+
+). Edaphobase is the largest database on European soil animals with more than 400,000 records. It allows for the easy retrieve and user-defined
+</p>
+         <p>
+Questions Unit
+</p>
+         <p>
+Q1
+Have you attended a training workshop? Single Choice
+</p>
+         <p>
+Q2
+Were you able to improve your species knowledge through BODENTIERhoch4? Likert Scale
+</p>
+         <p>
+Q3
+Has your interest in soil animals been increased by BODENTIERhoch4? Likert Scale
+</p>
+         <p>
+Q4
+Will you continue to use BODENTIERhoch 
+4 in
+the future? Likert Scale
+</p>
+         <p>
+Q5
+Will you report your own soil animal records via BODENTIERhoch 
+4 in
+the future? Likert Scale compilation of data and provides tools for data analysis and presentation. Moreover, Edaphobase is transferring its data to the international network GBIF (Global Biodiversity Information Facility; https://www.gbif.org) to allow global data exchange. Edaphobase is used in BODENTIERhoch4 to transmit and update data on species names synonyms, distribution maps and phenology. Thus, data entered by CS immediately improves species distribution- and phenology data in both Edaphobase and BODENTIERhoch4.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.4 Training workshops
+</title>
+         <p>
+
+From 
+
+May 2021
+
+to 
+
+October 2021
+Senckenberg Görlitz
+offered various training workshops for potential citizen scientists (N = 83) across 
+Germany
+(
+Bremen
+, 
+Berlin
+, 
+Heidelberg
+, 
+Kassel
+, 
+Kiel
+, 
+Leipzig
+, 
+Münster
+and 
+Zittau
+, 
+Fig. 2
+). 
+The
+workshops were designed to train the participants in the use of the mobile application of BODENTIERhoch4 as well as in the monitoring of soil 
+types
+, biology and identification of soil animals. Thereby, we aimed to improve data quality by counteracting recording of falsely identified species (despite of expert validation) and to engage participants in the project. The program consisted of a general introduction which was followed by a collective exploration of the main functions of BODENTIERhoch4 (all participants were asked to download the application to their mobile phones or tablets in advance). Thereupon, the participants were equipped with a stereo microscope (10-40x), basic dissection tools and a set of specimens of Chilopoda and 
+<tp:taxon-name>Diplopoda</tp:taxon-name>
+(identified at species-level and preserved in ethanol). During the identification process, participants could familiarize with the use of the identification keys and train their taxonomic skills. Subsequently the participants collected living soil animals and practised their skills with the mobile application. Whenever, during an excursion, specimen have been identified correctly, participants were encouraged to report their results via the recording functions of the application. All steps of animal identification were accompanied by an expert supervisor
+
+.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.5 Questionnaire survey
+</title>
+         <p>
+A total of 57 users who tested the mobile application of BODENTIERhoch 
+4 in
+different contexts were asked to fill out an evaluation form with a mix of Likert scale-, Single Choice-, Multiple Choice- and Open questions. The users who did not participate in a workshop (the control group) used BODENTIERhoch4 either in the context of internal tests (employees of various departments of Senckenberg Görlitz), during university courses on animal taxonomy, in a private setting or during public events. Most of the questions aimed at identifying potentials for technical and content-related improvement of the mobile application (see Supplementary Material for complete content of questionnaires; www.soil-organisms.org). One set of questions specifically addressed potential correlations between traits linked to project engagement (see 
+Table 1
+for an overview of the specific questions) as well as the influence of workshop attendance on latter. We further scored user age (single choice, starting from ten years on in nine-year steps: 10–19, 20–29 … and 70+), the context in which BODENTIERhoch4 was used (multiple choice; in school, university, private or other context), how many times BODENTIERhoch4 had been used before (single choice; 1, 2–4, 5–9 or more than 10 times) and if the user had previous experience with the identification of animals and plants [Likert scale; ranging from 1 (is completely true) to 6 (is not true)]. We were additionally interested in the species groups for which users of BODENTIERhoch4 had previous experience with identification (multiple choice; amphibians, bats, beetles, birds, butterflies, flowering plants, fish, mushrooms, reptiles, spiders, trees). Moreover, users were asked to give information on their experience with different tools (dichotomous identification keys, interactive identification keys and identification keys based on image recognition) for species identification [Likert scale; ranging from 1 (is completely true) to 6 (is not true)].
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+2.6 Statistical analyses
+</title>
+         <p>
+To test whether the attendance of a training workshop (Q1) had a statistical impact on: gain of species knowledge (Q2), interest in soil animals (Q3), willingness to use BODENTIERhoch 
+4 in
+the future (Q4) and to report own species records in the future (Q5), we used Analyses of Variance (ANOVAs) with Q1 as independent and Q2, Q3, Q4 or Q5 as dependent variable, respectively. Independent of workshop attendance, we tested for possible correlations of Q2 with Q3, Q4 and Q5 as well as Q3 with Q4 and Q5 respectively, using Pearson correlations. All data analyses were performed using R. 3.6.2. (
+
+) with the packages ‘car’ to run ANOVAs and ‘stats’ to run correlation analyses. Results are given as means ± SE throughout.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+3. Results
+</title>
+         <p>While the age of most evaluation participants (93 %) ranged between 20 and 59 years, there was only one participant each in the youngest (10–19 years) and oldest (70+ years) age class and two in the age class of 60–69 years. The majority of participants (44 %) used the BODENTIERhoch4 application in other contexts (mostly training workshops) than in a university (29.8 %) or at school (21.1 %). Only three participants (5.3 %) used the application in a private context. Most participants (80.3 %) had used BODENTIERhoch4 only once before the evaluation, while 12.5 % had used it 3–4 times and only 3.6 % 5–9 times or more than 10 times. With a mean value of 3.78 ± 1.9 (Likert scale), the participants had average experience with the identification of animals and plants. However, more than half of the participants already had experience in identifying flowers (63.2 %). This was followed by experience in the identification of trees (38.6 %), birds (33.33 %), butterflies (15.8 %), fungi (12.3 %) and beetles (8.8 %). Very few participants had experience with the identification of the other species groups of choice. Experience with different tools for species identification was highest in applications based on image recognition (3.44 ± 1.9 SE; Likert scale), followed by classical, dichotomous identification literature (3.67 ± 1.9 SE; Likert scale). The participants had the least experience with the use of interactive identification keys (4.32 ± 1.9 SE; Likert scale).</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+3.1 Impact of workshop attendance on project engagement
+</title>
+         <p>
+The attendance of a training workshop (yes: n = 30, no: n = 27) had a significant impact on all variables tested. Participants who attended a workshop were more likely to think that they gained knowledge regarding species identification compared to those that had not (Q2; 2.06± 0.09vs. 2.74± 0.14;ANOVA:df = 1, 
+F
+= 16.63, 
+p
+= &lt;0.001; 
+Fig. 3A
+). Moreover, participants who attended a workshop rated their increase of interest in soil animals through the use of BODENTIERhoch4 significantly higher than those who did not (Q3; 2.19 ± 0.1 vs. 3.26 ± 0.13; ANOVA: df = 1, 
+F
+= 41.66, 
+p
+= &lt;0.001; 
+Fig. 3B
+). Likewise, workshop participants rated the likelihood that they will use BODENTIERhoch 
+4 in
+the future (Q4; 2.59 ± 0.14 vs. 3.64 ± 0.12; ANOVA: df = 1, 
+F
+= 30.6, 
+p
+= &lt;0.001; 
+Fig. 3C
+) and that they will submit own species records via BODENTIERhoch 
+4 in
+the future (Q5; 3.35 ± 0.15 vs. 4.76 ± 0.12; ANOVA: df = 1, 
+F
+= 52.45, 
+p
+= &lt;0.001; 
+Fig. 3D
+) higher than non-participants.
+</p>
+         <p>
+Pearson correlation analyses revealed a significant, positive (medium to strong) linear correlation between all variables tested. Users that estimated their own species knowledge gain high, also assessed their increase in interest for soil animals (r = 0.72, 
+p
+= &lt;0.001, n = 54 higher).
+</p>
+         <p>
+Moreover, their willingness to use BODENTIERhoch4 (r = 0.54, 
+p
+= &lt;0.001, n = 55) and to report own soil animal records via BODENTIERhoch 
+4 in
+the future (r = 0.38, 
+p
+= &lt;0.001, n=54) correlated with an estimated increase in species knowledge gain. Likewise, an increased interest in soil organisms strongly correlated with the users’ willingness to prospectively use BODENTIERhoch4 (r = 0.71, 
+p
+= &lt;0.001, n = 54) and to report own soil animal records via BODENTIERhoch 
+4 in
+the future (r = 0.54, 
+p
+= &lt;0.001, n = 53).
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4. Discussion
+</title>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4.1 Impact of workshop attendance on project engagement
+</title>
+         <p>
+By testing the impact of workshop attendance on possible traits of project engagement, we aimed at assessing the benefit of such learning opportunities in the context of environmental monitoring. Notably, workshop participants rated their own knowledge acquisition in the field of soil animal taxonomy significantly higher than those who had not attended a workshop. This result is consistent with the findings of 
+
+, who trained citizen scientists to identify invasive plants in a three days workshop. Knowledge on species identification is not only an important cornerstone for CS projects related to biodiversity monitoring of animals, but may per se constitute a prerequisite for short- and long-term motivation to participate (e.g. 
+
+). Indeed, the will to contribute species data for environmental monitoring has been found to be one of the most important motivational factors for CS (
+
+). Accordingly, we found a positive correlation between the estimated knowledge gain through the use of BODENTIERhoch4 and the willingness to engage in the project in the future. Similarly, 
+
+found that long-term motivation to participate in a butterfly-monitoring CS program was associated with personal skill improvement, such as knowledge about taxa and their identification. Conversely, a lack of knowledge may discourage potential citizen scientists. The same applies to frustration arising from tools that are not adopted to amateurs as users. In this context, interactive identification keys such as BODENTIERhoch4 provide knowledge on species identification in a more intuitive and accessible way than classic dichotomous or polytomous identification keys. However, the participants in our study had least experience with such interactive identification tools.
+</p>
+         <p>
+While most BODENTIERhoch4 users that participated in the evaluation had most experience with the identification of ‘charismatic’ species groups such as trees, birds and butterflies, workshop attendance had a significant positive effect on the increase of interest in soil animals, improving the ‘attractiveness’ of less popular animal taxa. Such science-led initiatives may by critical to counteract the lack of occurrence data for certain species groups that arises from a lack of societal interest (
+
+, 
+
+). Typically, personal interest for a topic has been described as a primary, ‘initial’ motivator or prerequisite for CS project engagement (
+
+, 
+
+, 
+
+). However, the strong correlation between interest in soil organisms and the users’ stated willingness to report own records in the future points towards the important role of intrinsic personal interest for long-term motivation (see 
+
+for the relevance of intrinsic motivation for soil biodiversity protection). Likewise, self-determination theory (SDT), the leading theory in human motivation studies which has been applied in the context of CS (
+
+), predicts that personal interest, as a component of intrinsic motivation, is more likely to result in a sustained project engagement than extrinsic motivation (
+
+). The fact that the estimated increases in knowledge and interest were significantly correlated gives an additional hint to the importance of learning opportunities for project engagement. This is also reflected by the significant increase in the users’ willingness to use and to report own soil animal records via BODENTIERhoch 
+4 in
+the future when having attended a workshop. However, the results of our survey do not constitute the long-term engagement but rather the users’ forecast of it. To score an increase in long term project engagement, we have to re-evaluate monitoring results of the upcoming seasons (to date we could score around 150 species records in BODENTIERhoch4 since the set-up of the training workshops). In summary, workshops do not only pose a good opportunity to train prospective citizen scientists in fields related to the targeted CS project, the involved learning opportunities may have the potential to increase (long-term) participation in the project.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4.2 Remarks on the use of
+</title>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+BODENTIERhoch4 data for a
+complex analyses
+</title>
+         <p>
+While the web application of BODENTIERhoch4 allows an identification to the species level even when species’ characters are involved that need a microscope and a complex preparation (e.g. of genitalia), this is not possible in the field via the mobile application of BODENTIERhoch4. Therefore, species for which these procedures are necessary are likely to be underestimated in the total record. Analyses of the monitoring results of Chilopoda, 
+<tp:taxon-name>Diplopoda</tp:taxon-name>
+and terrestrial Isopoda by citizen scientists have to consider the non-recording of these species in the data submitted. On the other hand, the majority of species that can be identified, their habitat preferences and traits allow – just by the record – the use of data for conservational aspects and evaluation of environmental quality. So even with these restrictions, the data gained by the citizen scientists’ are valuable for monitoring, conservation and the Edaphobase data warehouse.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+4.3 Outlook
+</title>
+         <p>
+Senckenberg will continue to train potential citizen scientists, but also multiplicators like teachers and colleagues involved in university courses (in animal taxonomy) to increase the distribution and the use of the application. Furthermore, we plan to record and publish tutorials to train potential citizen scientists remotely via digital formats. Also, further content-related expansions within the mobile application (e.g. a scientific glossary for terminologies) and the overall simplification of the interface (e.g. older people were underrepresented in our survey, maybe because they lack confidence in the usage of digital devices) are planned to ensure an increase in user-friendliness. Moreover, we would like to enable the involvement of citizen scientists in other parts of the project, move beyond the sole focus on data acquisition and encourage a wider range of target groups. By means of the aforementioned ideas, we aim at engaging long-term participants (
+
+), who are urgently needed to exploit the potential of CS for the monitoring and conservation of soil animals.
+</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+5. Acknowledgements
+</title>
+         <p>The web and mobile application BODENTIERhoch4 was developed by the Senckenberg Museum of Natural History Görlitz as part of the ‘museum4punkt0’ (https:// www.museum4punkt0.de) project with the senior author as PIM5. The project museum4punkt0 is funded by the Federal Government Commissioner for Culture and the Media (Die Beauftragte der Bundesregierung für Kultur und Medien) on the basis of a resolution of the German parliament. We thank Dr. Jens Wesenberg who has extensively participated in the technical and content-related development and advancement of both the web and mobile application. BODENTIERhoch4 was programmed by Kunert Business Software GmbH (KBS), Leipzig.</p>
+      </sec>
+      <sec sec-type="multiple">
+         <title>
+6. References
+</title>
+         <p>
+Asingizwe, D.
+, 
+P. Marijn Poortvliet
+, 
+C. J. M. Koenraadt
+, 
+A. J. H. van Vliet
+, 
+C. M. Ingabire
+, 
+L. Mutesa
+&amp; 
+C. Leeuwis
+(
+2020
+): 
+Why (not) participate in citizen science? Motivational factors and barriers to participate in a citizen science program for malaria control in Rwanda
+. – 
+PLoS ONE
+15
+
+[
+http://doi. org/10.1371/journal.pone.0237396]
+.
+
+</p>
+         <p>
+Bruckermann, T.
+, 
+J. Lorke
+, 
+S. Rafolt
+, 
+M. Scheuch
+, 
+M.Aristeidou
+, 
+H. Ballard
+, 
+M. Bardy-Durchhalter
+, 
+E. Carli
+, 
+C. Herodotou
+, 
+J. Kelemen-Finan
+&amp; et al. (
+2018
+): 
+Learning opportunities and outcomes in citizen science: a heuristic model for design and evaluation
+. 
+–
+Electronic Proceedings of the European Science Education Research Association (ESERA)
+2019
+Conference: 
+889–898
+[Retrieved from 
+https://par.nsf.gov/ biblio/10213530]
+.
+
+</p>
+         <p>
+Burkhardt, U.
+, 
+D. J. Russel
+, 
+P. Decker
+, 
+M. Döhler
+, 
+H. Höfer
+, 
+S. Lesch
+, 
+S. Rick
+, 
+J. Römbke
+, 
+C. Trog
+, 
+J. Vorwald
+, 
+E. Wurst
+&amp; 
+W. E. R. Xylander
+(
+2014
+): 
+The Edaphobase project of GBIF- Germany—a new online soil-zoological data warehouse
+. – 
+Applied Soil Ecology
+83
+
+: 
+3–12
+[
+http://doi.org/10.1016/j. apsoil.2014.03.021]
+.
+
+</p>
+         <p>
+Deci, E. L.
+&amp; 
+R. M. Ryan
+(
+2012
+): 
+Self-determination theory
+. – 
+Handbook of theories of social psychology
+: 
+416–436
+[
+http:// doi.org/10.4135/9781446249215.n21]
+.
+
+</p>
+         <p>
+Decker, P.
+, 
+J. Wesenberg
+, &amp; 
+W. E. R. Xylander
+(
+2019
+): 
+Bodentierhoch4 – Mit dem Smartphone in den Boden abtauchen
+. – 
+Natur Forschung Museum
+149
+
+: 
+119–122
+.
+
+</p>
+         <p>
+Decker, P.
+, 
+A. Allspach
+, 
+J. Wesenberg
+&amp; 
+W. E. R. Xylander
+(
+2021
+): 
+BODENTIER hoch 4 – Onlineportal mit App zum Erleben, Erkennen
+, 
+Erfassen und Erforschen
+.
+
+</p>
+         <p>
+FAO
+, 
+ITPS, GSBI
+, CBD &amp; EC (
+2020
+): 
+State of knowledge of soil biodiversity - Status, challenges and potentialities, Report 2020
+. – 
+Rome
+[
+http://doi.org/10.4060/cb1928en]
+.
+
+</p>
+         <p>
+Fenoglio, M. S.
+, 
+A. Calviño
+, 
+E. González
+, 
+A. Salvo
+&amp; 
+M. Videla
+(
+2021
+): 
+Urbanisation drivers and underlying mechanisms of terrestrial insect diversity loss in cities
+. – 
+Ecological Entomology
+46
+
+: 
+757–771
+[
+http://doi.org/10.1111/een.13041]
+.
+
+</p>
+         <p>
+Guerra, C. A.
+, 
+R. D. Bardgett
+, 
+L. Caon
+, 
+T. W. Crowther
+, 
+M. Delgado-Baquerizo
+, 
+L. Montanarella
+, 
+L. M. Navarro
+, 
+B.K.Singh
+, 
+L.Tedersoo
+&amp; et al. (
+2021
+): 
+Tracking,targeting, and conserving soil biodiversity
+. – 
+Science
+371
+
+: 
+239–241
+[
+http://doi.org/10.1126/science.abd7926]
+.
+
+</p>
+         <p>
+IPCC
+(
+2019
+): 
+Summary for Policymakers
+.– In: 
+
+P. R. Shukla
+
+, 
+
+J. Skea
+
+, 
+
+E. Calvo Buendia
+
+, 
+
+V. Masson-Delmotte
+
+, 
+
+H.-O. Pörtner
+
+, 
+
+D. C. Roberts
+
+&amp; 
+et al
+. (eds): 
+Climate change and Land: an IPCC special report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems
+.
+
+</p>
+         <p>
+Jordan, R. C.
+, 
+S. A. Gray
+, 
+D. V. Howe
+, 
+W. R. Brooks
+&amp; 
+J. G. Ehrenfeld
+(
+2011
+): 
+Knowledge gain and behavioral change in citizen-science programs
+. – 
+Conservation Biology
+25
+
+: 
+1148–1154
+[
+http://doi.org/10.1111/j.1523-1739.2011.01745.x]
+.
+
+</p>
+         <p>
+Kosmala, M.
+, 
+A. Wiggins
+, 
+A. Swanson
+&amp; 
+B. Simmons
+(
+2016
+): 
+Assessing data quality in citizen science
+. – 
+Frontiers in Ecology and the Environment
+14
+
+: 
+551–560
+[
+http://doi. org/10.1002/fee.1436]
+.
+
+</p>
+         <p>
+Krauss, J.
+, 
+R. Bommarco
+, 
+M. Guardiola
+, 
+R. K. Heikkinen
+, 
+A. Helm
+, 
+M. Kuussaari
+, 
+R. Lindborg
+, 
+E. Öckinger
+, 
+M. Pärtel
+, 
+J. Pino
+, 
+J. Pöyry
+&amp; et al. (
+2010
+): 
+Habitat fragmentation causes immediate and time-delayed biodiversity loss at different trophic levels
+. – 
+Ecology Letters
+13
+
+: 
+597–605
+[
+http://doi. org/10.1111/j.1461-0248.2010.01457.x]
+.
+
+</p>
+         <p>
+Land-Zandstra, A. M.
+, 
+J. L. A. Devilee
+, 
+F. Snik
+, 
+F. Buurmeijer
+&amp; 
+J. M. Van Den Broek
+(
+2016
+): 
+Citizen science on a smartphone: participants’ motivations and learning
+. – 
+Public Understanding of Science
+25
+
+: 
+45–60
+[
+http://doi. org/10.1177/0963662515602406]
+.
+
+</p>
+         <p>
+Lotfian, M.
+, 
+J. Ingensand
+&amp; 
+M. A. Brovelli
+(
+2021
+): 
+The partnership of citizen science and machine learning: Benefits, risks and future challenges for engagement, data collection and data quality
+. – 
+Sustainability
+13
+
+: 
+8087
+[
+http://doi.org/10.3390/su13148087]
+.
+
+</p>
+         <p>
+Luna, S.
+, 
+M. Gold
+, 
+A. Albert
+, 
+L. Ceccaroni
+, 
+B. Claramunt
+, 
+O. Danylo
+, 
+M. Haklay
+, 
+R. Kottmann
+, 
+C. Kyba
+, 
+J. Piera
+et al. (
+2018
+): 
+Developing mobile applications for environmental and biodiversity citizen science: considerations and recommendations
+. – In: 
+Joly, A.
+, 
+S. Vrochidis
+, 
+K. Karatzas
+, 
+A. Karppinen
+&amp; 
+P. Bonnet
+(eds): 
+Multimedia Tools and Applications for Environmental &amp; Biodiversity Informatics
+. – 
+Springer
+: 
+9–30
+.
+
+</p>
+         <p>
+Mahajan, S.
+, 
+P. Kumar
+, 
+J. A. Pinto
+, 
+A. Riccetti
+, 
+K. Schaaf
+, 
+G. Camprodon
+, 
+V. Smari
+, 
+A. Passani
+&amp; 
+G. Forino
+(
+2020
+): 
+A citizen science approach for enhancing public understanding of air pollution
+. – 
+Sustainable Cities and Society
+52
+
+: 
+101800
+[
+http://doi.org/10.1016/j.scs.2019.101800]
+.
+
+</p>
+         <p>
+Mazumdar, S.
+, 
+L. Ceccaroni
+, 
+J. Piera
+, 
+F. Hölker
+, 
+A. J. Berre
+, 
+R. Arlinghaus
+&amp; 
+A. Bowser
+(
+2018
+): 
+Citizen Science technologies and new opportunities for participation
+. – In: 
+Hecker, S.
+, 
+M. Haklay
+, 
+A. Bowser
+, 
+Z. Makuch
+, 
+J. Vogel
+&amp; 
+A. Bonn
+(eds): 
+Citzen Science
+. – 
+UCL Press
+[
+http://doi.org/10.14324/111.97 81787352339]
+.
+
+</p>
+         <p>
+McKinley, D.
+, 
+A. J. Miller-Rushing
+, 
+H. L. Ballard
+, 
+R. Bonney
+, 
+H. Brown
+, 
+S. Cook-Patton
+, 
+D. M. Evans
+, 
+R. A. French
+, 
+J. K. Parrish
+, 
+T. B. Phillips
+&amp; et al. (
+2017
+): 
+Citizen science can improve conservation science, natural resource management, and environmental protection
+. – 
+Biological Conservation
+208
+
+: 
+15–28
+[
+http://doi.org/10.1016/j.biocon.2016.05.015]
+.
+
+</p>
+         <p>
+Miller-Rushing, A.
+, 
+R. Primack
+&amp; 
+R. Bonney
+(
+2012
+): 
+The history of public participation in ecological research
+. – 
+Frontiers in Ecology and the Environment
+10
+
+: 
+285–290
+[
+http://doi.org/10.1890/110278]
+.
+
+</p>
+         <p>
+Moczek, N.
+, 
+M. Nuss
+&amp; 
+J. K. Köhler
+(
+2021
+): 
+Volunteering in the citizen science project “insects of saxony”—the larger the island of knowledge, the longer the bank of questions
+. – 
+Insects
+12
+
+: 
+262
+[
+http://doi.org/10.3390/insects12030262]
+.
+
+</p>
+         <p>
+Moritz, C.
+&amp; 
+R. Agudo
+(
+2013
+): 
+The future of species under climate change: Resilience or decline?
+– 
+Science
+341
+
+: 
+504– 508
+[
+http://doi.org/10.1126/science.1237190]
+.
+
+</p>
+         <p>
+Moussy, C.
+, 
+I. J. Burfield
+, 
+P. J. Stephenson
+, 
+A. F. E. Newton
+, 
+S. H. M. Butchart
+, 
+W. J. Sutherland
+, 
+R. D. Gregory
+, 
+L. McRae
+, 
+P. Bubb
+, 
+I. Roesler
+&amp; et al. (
+2022
+): 
+A quantitative global review of species population monitoring
+. – 
+Conservation Biology
+36
+
+: 
+1–14
+[
+http://doi.org/10.1111/cobi.13721]
+.
+
+</p>
+         <p>
+Mulder, C.
+, 
+A. Boit
+, 
+M. Bonkowski
+, 
+P. C. De Ruiter
+, 
+G. Mancinelli
+, 
+M. G. A. Van der Heijden
+, 
+H. J. Van Wijnen
+, 
+J. A. Vonk
+&amp; 
+M. Rutgers
+(
+2011
+): 
+A Belowground Perspective on Dutch Agroecosystems: How Soil Organisms Interact to Support Ecosystem Services
+. – 
+Advances in ecological research
+44
+
+: 
+277–358
+[
+http://doi.org/10.1016/B978-0-12- 374794-5.00005-5]
+.
+
+</p>
+         <p>
+Nov, O.
+, 
+O. Arazy
+&amp; 
+D. Anderson
+(
+2014
+): 
+Scientists@Home: what drives the quantity and quality of online citizen science participation?
+– 
+PLoS ONE
+9
+
+: 
+1–12
+[
+http://doi.org/10.1371/ journal.pone.0090375]
+.
+
+</p>
+         <p>
+Nuss, M.
+(
+2021
+): 
+Citizen Science – ein Grundpfeiler für die Erfassung von Biodiversitätsdaten
+. – In: 
+Ludwig, H.
+, 
+R. Grunewald
+, 
+A. Bernd
+&amp; 
+W. Züghart
+(eds): 
+Citizen Science und Insekten – Welchen Beitrag kann bürgerschaftliches Engagement für das Insektenmonitoring leisten? – Dokumentation des gleichnamigen Workshops
+. 
+BfN-Skripten
+578
+
+: 
+27–33
+.
+
+</p>
+         <p>
+Parmesan, C.
+&amp; 
+G. Yohe
+(
+2003
+): 
+A globally coherent fingerprint of climate change impacts across natural systems
+. – 
+Nature
+421
+
+: 
+37–42
+[
+http://doi.org/10.1038/nature01286]
+.
+
+</p>
+         <p>
+Pernat, N.
+, 
+H. Kampen
+, 
+J. M. Jeschke
+&amp; 
+D. Werner
+(
+2021
+): 
+Citizen science versus professional data collection: comparison of approaches to mosquito monitoring in Germany
+. – 
+Journal of Applied Ecology
+58
+
+: 
+214–223
+[
+http://doi.org/10.1111/1365- 2664.13767]
+.
+
+</p>
+         <p>
+Petersen, T. K.
+, 
+J. D. M. Speed
+, 
+V. Grøtan
+&amp; 
+G.Austrheim
+(
+2021
+): 
+Species data for understanding biodiversity dynamics: the what, where and when of species occurrence data collection
+. – 
+Ecological Solutions and Evidence
+2
+
+: 
+1–17
+[
+http://doi. org/10.1002/2688-8319.12048]
+.
+
+</p>
+         <p>
+Phillips, T. B.
+, 
+H. L. Ballard
+, 
+B. V. Lewenstein
+&amp; 
+R. Bonney
+(
+2019
+): 
+Engagement in science through citizen science: moving beyond data collection
+. – 
+Science Education
+103
+
+: 
+665–690
+[
+http://doi.org/10.1002/sce.21501]
+.
+
+</p>
+         <p>
+Pocock, M. J. O.
+, 
+D. S. Chapman
+&amp; 
+H. E. Roy
+(
+2014
+): 
+Choosing and using Citizen Science, a guide to when and how to use citizen science
+. – 
+Centre for Ecology &amp; Hydrology
+.
+
+</p>
+         <p>
+Pocock, M. J. O.
+, 
+M. Chandler
+, 
+R. Bonney
+; 
+I. Thornhill
+, 
+A. Albin
+, 
+T.August
+, 
+S. Bachman
+, 
+P. M. J. Brown
+, 
+D. Gasparini
+, 
+F. Cunha
+, 
+A. Grez
+&amp; et al. (
+2018
+): 
+A vision for global biodiversity monitoring with citizen science
+. – 
+Advances in Ecological Research
+59
+
+: [
+http://doi.org/10.1016/bs.aecr.2018.06.003]
+.
+
+</p>
+         <p>
+R Core Team
+(
+2020
+): 
+R: A language and environment for statistical computing
+. – 
+Vienna, Austria: R Foundation for Statistical Computing [Retrieved from
+https://www.rproject.org/]
+.
+
+</p>
+         <p>
+Richter, A.
+, 
+J. Hauck
+, 
+R. Feldmann
+, 
+E. Kühn
+, 
+A. Harpke
+, 
+N. Hirneisen
+, 
+A. Mahla
+, 
+J. Settele
+&amp; 
+A. Bonn
+(
+2018
+): 
+The social fabric of citizen science—drivers for long-term engagement in the German butterfly monitoring scheme
+. – 
+Journal of Insect Conservation
+, 
+
+22
+
+: 
+731–743
+[
+http://doi.org/10.1007/ s10841-018-0097-1]
+.
+
+</p>
+         <p>
+Román-Palacios, C.
+&amp; 
+J. J. Wiens
+(
+2020
+): 
+Recent responses to climate change reveal the drivers of species extinction and survival
+. – 
+Proceedings of the National Academy of Sciences of the United States of America
+117
+
+: 
+4211–4217
+[
+http://doi. org/10.1073/pnas.1913007117]
+.
+
+</p>
+         <p>
+Rotman, D.
+, 
+J. Hammock
+, 
+J. Preece
+, 
+D. Hansen
+, 
+C. Boston
+, 
+A. Bowser
+&amp; 
+Y. He
+(
+2014
+): 
+Motivations affecting initial and long-term participation in citizen science projects in three countries
+. – 
+iConference 2014 Proceedings
+[
+http://doi. org/10.9776/14054]
+.
+
+</p>
+         <p>
+Silvertown, J.
+(
+2009
+): 
+A new dawn for citizen science
+. – 
+Trends in Ecology and Evolution
+24
+
+: 
+467–471
+[
+http://doi. org/10.1016/j.tree.2009.03.017]
+.
+
+</p>
+         <p>
+Tiago, P.
+, 
+A. Ceia-Hasse
+, 
+T. A. Marques
+, 
+C. Capinha
+&amp; 
+H. M. Pereira
+(
+2017
+): 
+Spatial distribution of citizen science casuistic observations for different taxonomic groups
+. – 
+Scientific Reports
+7
+
+: 
+1–9
+[
+http://doi.org/10.1038/s41598-017-13130-8]
+.
+
+</p>
+         <p>
+Troudet, J.
+, 
+P. Grandcolas
+, 
+A. Blin
+, 
+R. Vignes-Lebbe
+&amp; 
+F. Legendre
+(
+2017
+): 
+Taxonomic bias in biodiversity data and societal preferences
+. – 
+Scientific Reports
+7
+
+: 
+9132
+[
+http://doi. org/110.1038/s41598-017-09084-6]
+.
+
+</p>
+         <p>
+Turbé, A.
+, 
+A. De Toni
+, 
+P. Benito
+, 
+P. Lavelle
+, 
+N. R. Camacho
+&amp; 
+W. H. Van Der Putten
+(
+2010
+): 
+Soil biodiversity: functions, threats and tools for policy makers
+[
+Retrieved from
+https:// hal-bioemco.ccsd.cnrs.fr/bioemco-00560420]
+.
+
+</p>
+         <p>
+Wall, D. H.
+, 
+U. N. Nielsen
+&amp; 
+J. Six
+(
+2015
+): 
+Soil biodiversity and human health
+. – 
+Nature
+528
+
+: 
+69–76
+[
+http://doi.org/10.1038/ nature15744]
+.
+
+</p>
+         <p>
+Wiens,J. J.
+(
+2016
+): 
+Climate-Related Local ExtinctionsAreAlready Widespread among Plant and Animal Species
+. – 
+PLoS Biology
+14
+
+: 
+1–18
+[
+http://doi.org/10.1371/journal.pbio.2001104]
+.
+
+</p>
+         <p>
+Wilson, J. R.
+, 
+Ş. Procheş
+, 
+B. Braschler
+, 
+E. S. Dixon
+&amp; 
+D. M. Richardson
+(
+2007
+): 
+The (bio)diversity of science reflects the interests of society
+. – 
+Frontiers in Ecology and the Environment
+5
+
+: 
+409–414
+[
+http://doi.org/10.1890/060077.01]
+.
+
+</p>
+         <p>
+Xylander, W. E. R.
+(
+2016
+): 
+Citizen Science - Potentiale und Grenzen der Einbeziehung von Bürgern in die Forschung
+. – 
+Berichte der Naturforschenden Gesellschaft Oberlausitz
+24
+
+: 
+103–114
+.
+
+</p>
+         <p>
+Xylander, W.
+(
+2020
+): 
+Society´s awareness for protection of soils, its biodiversity and function in 2030 - We need a more intrinsic approach
+. – 
+Soil Organisms
+92
+
+: 
+203–212
+[
+http://doi. org/10.25674/so92iss3pp203]
+.
+
+</p>
+         <p>
+Zizka, G.
+(
+2017
+): 
+Citizen Science: Revolutionieren Bürger die Wissenschaft?
+Biologie unserer Zeit
+47
+
+: 
+40–45
+.
+
+</p>
+      </sec>
+   </body>
+</article>
