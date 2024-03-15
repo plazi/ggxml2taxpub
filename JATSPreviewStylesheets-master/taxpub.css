@@ -1,0 +1,69 @@
+/* Styles for the front section */
+front {
+    background-color: #ffffff; /* White background for contrast */
+    padding: 10px;
+}
+
+/* Styles for the article-meta section */
+article-meta {
+    background-color: #f0f0f0; /* Light grey background */
+    padding: 10px; /* Padding around the content */
+    margin-bottom: 20px; /* Space after the article-meta section */
+    border-bottom: 2px solid #ccc; /* Grey border at the bottom */
+}
+
+kwd {
+  display:block;  
+}
+
+/* Styles for the body section */
+body {
+    background-color: #ffffff; /* White background for contrast */
+    padding: 10px;
+}
+
+/* Styles for the back section */
+back {
+    background-color: #ffffff; /* White background for contrast */
+    padding: 10px;
+}
+
+/* General styles for sections (sec) */
+sec {
+    background-color: #e9e9ff; /* Very light blue background for sections */
+    padding: 8px; /* Padding around the section content */
+    margin-bottom: 10px; /* Space between sections */
+    border-radius: 5px; /* Rounded corners for the sections */
+    display: block;
+    
+}
+
+ref-list {
+    background-color : rgb(240 , 240 , 240) ;
+    
+}
+
+ref {
+    display: block;
+    
+}
+
+
+/* Styles for paragraphs (p) */
+p {
+    text-indent: 20px; /* Indent the first line of paragraphs */
+    margin-bottom: 10px; /* Space between paragraphs */
+    line-height: 1.6; /* Adjust line height for readability */
+    display: block;
+}
+
+/* Optional: Styles for headings within sections */
+sec > title {
+    font-weight: bold;
+    margin-bottom: 5px; /* Space after the title */
+}
+
+taxon-name {
+    background-color: red;
+    
+}
