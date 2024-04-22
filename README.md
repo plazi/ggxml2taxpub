@@ -10,5 +10,6 @@ see [definition of level 1](https://github.com/plazi/ggxml2taxpub/issues/21) and
 
 ### articles
 see [minimal level of JATS for article](https://github.com/plazi/ggxml2taxpub/issues/60)   
-[Text Mining and JATS: Use cases and combined potential leverage](https://www.ncbi.nlm.nih.gov/books/NBK540957/)
+[Text Mining and JATS: Use cases and combined potential leverage](https://www.ncbi.nlm.nih.gov/books/NBK540957/)   
+[SciELO publishing schema](https://github.com/scieloorg/scielo_publishing_schema)
 
