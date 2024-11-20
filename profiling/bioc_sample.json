@@ -1,0 +1,44 @@
+{
+  "collection": {
+    "source": "Sample Source",
+    "date": "2024-03-14",
+    "key": "SampleKey",
+    "documents": [
+      {
+        "id": "Doc1",
+        "passages": [
+          {"infons": {
+             "UUID": "UUID"
+                },
+            "offset": 0,
+            "text": "This is a sample BioC text. It mentions DNA and RNA.",
+            "annotations": [
+              {
+                "id": "1",
+                "infons": {
+                  "type": "molecule"
+                },
+                "location": {
+                  "offset": 30,
+                  "length": 3
+                },
+                "text": "DNA"
+              },
+              {
+                "id": "2",
+                "infons": {
+                  "type": "molecule"
+                },
+                "location": {
+                  "offset": 38,
+                  "length": 3
+                },
+                "text": "RNA"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

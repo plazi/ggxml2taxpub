@@ -31,11 +31,20 @@
             <title-group>
                 <article-title><xsl:value-of select="mods:titleInfo/mods:title"/></article-title>
             </title-group>
+            <contrib-group>
+                <xsl:apply-templates select="mods:name[mods:role/mods:roleTerm = 'Author']"/>
+            </contrib-group>
             <pub-date>
                 <year><xsl:value-of select="mods:relatedItem[@type = 'host']/mods:part/mods:date"/></year>
             </pub-date>
         </article-meta>
         
+    </xsl:template>
+    
+    <xsl:template match="mods:name[mods:role/mods:roleTerm = 'Author']">
+        <contrib contrib-type="author">
+            <name-alternatives><string-name><xsl:apply-templates select="mods:namePart"/></string-name></name-alternatives>
+        </contrib>
     </xsl:template>
 
     <xsl:template match="subSection">
@@ -206,6 +215,9 @@
             <title-group>
                 <article-title><xsl:value-of select="/document/@docTitle"/></article-title>
             </title-group>
+            <contrib-group>
+                <xsl:apply-templates select="mods:mods/mods:name[mods:role/mods:roleTerm = 'Author']"/>
+            </contrib-group>
             <pub-date date-type="pub">
                 <xsl:choose>
                     <xsl:when test="mods:mods/mods:relatedItem[@type = 'host']/mods:part/mods:detail[@type = 'pubDate']">
