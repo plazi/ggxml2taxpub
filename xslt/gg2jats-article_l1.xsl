@@ -41,7 +41,7 @@
         
     </xsl:template>
     
-    <xsl:template match="mods:name[mods:role/mods:roleTerm = 'Autho']">
+    <xsl:template match="mods:name[mods:role/mods:roleTerm = 'Author']">
         <contrib contrib-type="author">
             <name-alternatives><string-name><xsl:apply-templates select="mods:namePart"/></string-name></name-alternatives>
         </contrib>
@@ -232,6 +232,7 @@
                 </xsl:choose>
                 
             </pub-date>
+            <xsl:apply-templates select="subSection[@type = 'abstract']" mode="meta"/>
             <kwd-group>
                 <xsl:apply-templates select="//taxonomicName" mode="article-kwd"/>
             </kwd-group>
@@ -257,22 +258,6 @@
                 </ref>
         
     </xsl:template>
-
-    <xsl:template match="*">
-        <xsl:message>
-            <xsl:value-of select="local-name()"/>
-            <xsl:text>NO TEMPLATE</xsl:text>
-        </xsl:message>
-        <xsl:apply-templates/>
-    </xsl:template>
-    
-    <xsl:template match="*" mode="main">
-        <xsl:message>
-            <xsl:value-of select="local-name()"/>
-            <xsl:text>NO TEMPLATE (MAIN MODE)</xsl:text>
-        </xsl:message>
-        <xsl:apply-templates mode="main"/>
-    </xsl:template>
     
     <xsl:template match="taxonomicName" mode="article-kwd">
         <xsl:element name="kwd">
@@ -291,5 +276,27 @@
             </tp:taxon-name>
         </xsl:element>
     </xsl:template>
+    
+    <xsl:template match="subSection[@type = 'abstract']" mode="meta">
+        <abstract><xsl:apply-templates/></abstract>
+    </xsl:template>
+
+    <xsl:template match="*">
+        <xsl:message>
+            <xsl:value-of select="local-name()"/>
+            <xsl:text>NO TEMPLATE</xsl:text>
+        </xsl:message>
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="*" mode="main">
+        <xsl:message>
+            <xsl:value-of select="local-name()"/>
+            <xsl:text>NO TEMPLATE (MAIN MODE)</xsl:text>
+        </xsl:message>
+        <xsl:apply-templates mode="main"/>
+    </xsl:template>
+    
+    
 
 </xsl:stylesheet>
