@@ -41,7 +41,7 @@
         
     </xsl:template>
     
-    <xsl:template match="mods:name[mods:role/mods:roleTerm = 'Author']">
+    <xsl:template match="mods:name[mods:role/mods:roleTerm = 'Autho']">
         <contrib contrib-type="author">
             <name-alternatives><string-name><xsl:apply-templates select="mods:namePart"/></string-name></name-alternatives>
         </contrib>
@@ -222,6 +222,9 @@
                 <xsl:choose>
                     <xsl:when test="mods:mods/mods:relatedItem[@type = 'host']/mods:part/mods:detail[@type = 'pubDate']">
                         <xsl:apply-templates select="mods:mods/mods:relatedItem[@type = 'host']/mods:part/mods:detail[@type = 'pubDate'][1]/mods:number"/>
+                    </xsl:when>
+                    <xsl:when test="mods:mods/mods:relatedItem[@type = 'host']/mods:originInfo">
+                        <year><xsl:value-of select="mods:dateIssued"/></year>
                     </xsl:when>
                     <xsl:otherwise>
                         <year><xsl:value-of select="mods:mods/mods:relatedItem[@type = 'host']/mods:part/mods:date"/></year>
