@@ -223,6 +223,9 @@
                     <xsl:when test="mods:mods/mods:relatedItem[@type = 'host']/mods:part/mods:detail[@type = 'pubDate']">
                         <xsl:apply-templates select="mods:mods/mods:relatedItem[@type = 'host']/mods:part/mods:detail[@type = 'pubDate'][1]/mods:number"/>
                     </xsl:when>
+                    <xsl:when test="mods:mods/mods:originInfo/mods:dateOther[@type = 'pubDate']">
+                        <year><xsl:value-of select="mods:mods/mods:originInfo/mods:dateOther[@type = 'pubDate']"/></year>
+                    </xsl:when>
                     <xsl:when test="mods:mods/mods:relatedItem[@type = 'host']/mods:originInfo">
                         <year><xsl:value-of select="mods:dateIssued"/></year>
                     </xsl:when>
@@ -230,7 +233,7 @@
                         <year><xsl:value-of select="mods:mods/mods:relatedItem[@type = 'host']/mods:part/mods:date"/></year>
                     </xsl:otherwise>
                 </xsl:choose>
-                
+
             </pub-date>
             <xsl:apply-templates select="subSection[@type = 'abstract']" mode="meta"/>
             <kwd-group>
